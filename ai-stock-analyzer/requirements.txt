@@ -1,0 +1,25 @@
+# AI-Powered Technical Stock Analyzer
+# Python 3.9+ required
+
+# AI Models
+anthropic>=0.18.0
+openai>=1.12.0
+google-genai>=0.3.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# API & Web
+requests>=2.31.0
+gspread>=5.12.0
+google-auth>=2.27.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+
+# Google Services
+google-api-python-client>=2.0.0
+oauth2client>=4.1.3
+
+# Utilities
+python-dateutil>=2.8.0
