@@ -109,7 +109,7 @@ MIT License
 
 ## 🤝 Contact
 
-Alex Bespalov
+Alex Bespalov  
 📧 alex@egmail.net  
 📍 Austin, TX  
 🐙 [GitHub](https://github.com/alexbesp18)
