@@ -1,6 +1,6 @@
 # AI & Data Portfolio
 
-**Alex Bespalov** | Data Professional | AI Systems
+**Alex Bespalov | Data Professional | AI Systems**
 
 Building AI tools and data solutions with first principles thinking. Bitcoin enthusiast.
 
