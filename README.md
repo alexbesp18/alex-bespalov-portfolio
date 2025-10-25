@@ -2,7 +2,7 @@
 
 **Alex Bespalov** | Data Professional | AI Systems
 
-> Building AI tools and data solutions with first principles thinking. Bitcoin enthusiast.
+Building AI tools and data solutions with first principles thinking. Bitcoin enthusiast.
 
 ## 🚀 Featured Projects
 
