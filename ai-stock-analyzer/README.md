@@ -109,10 +109,10 @@ MIT License
 
 ## 🤝 Contact
 
-**Alex Bespalov**  
-📧 [Your Email]  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🌐 [GitHub](https://github.com/alexbesp18)
+Alex Bespalov
+📧 alex@egmail.net  
+📍 Austin, TX  
+🐙 [GitHub](https://github.com/alexbesp18)
 
 ---
 
