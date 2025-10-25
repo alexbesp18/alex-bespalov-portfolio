@@ -108,8 +108,7 @@ python technical_analyzer.py
 MIT License
 
 ## 🤝 Contact
-
-Alex Bespalov  
+ 
 📧 alex@egmail.net  
 📍 Austin, TX  
 🐙 [GitHub](https://github.com/alexbesp18)
