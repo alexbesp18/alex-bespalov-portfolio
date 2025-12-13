@@ -67,7 +67,9 @@ def parse_products(html_content: str, limit: int = 10) -> List[Product]:
                             break
         
         # Extract upvotes: Look for button with p containing a number
+        # Upvotes are the LARGER number (comments are smaller)
         upvotes = 0
+        all_numbers = []
         # Walk up to find the product card container (usually 5-10 levels up)
         card_container = link
         for _ in range(10):
@@ -81,13 +83,14 @@ def parse_products(html_content: str, limit: int = 10) -> List[Product]:
                 p_tags = btn.find_all('p')
                 for p in p_tags:
                     text = p.get_text(strip=True)
-                    if text.isdigit() and int(text) > 10:  # Upvotes are usually > 10
-                        upvotes = int(text)
-                        break
-                if upvotes > 0:
-                    break
-            if upvotes > 0:
+                    if text.isdigit() and int(text) > 0:
+                        all_numbers.append(int(text))
+            if len(all_numbers) >= 2:  # Found both comments and upvotes
                 break
+        
+        # Upvotes are always the larger number
+        if all_numbers:
+            upvotes = max(all_numbers)
         
         try:
             product = Product(
