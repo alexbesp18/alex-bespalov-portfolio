@@ -4,17 +4,41 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "product-hunt-ranking"
-version = "0.1.0"
-description = "Product Hunt Ranking Scraper"
+version = "1.0.0"
+description = "Automated Product Hunt weekly rankings scraper with Google Sheets integration"
 readme = "README.md"
 requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Alex Bespalov", email = "alex@example.com"}
+]
+keywords = ["product-hunt", "scraper", "google-sheets", "automation", "data-pipeline"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+]
+
+[project.urls]
+Repository = "https://github.com/alexbesp18/alex-bespalov-portfolio"
+
+[project.scripts]
+ph-scrape = "src.main:main"
+ph-backfill = "backfill.main:backfill"
 
 [tool.ruff]
-# Enable Pyflakes (`F`) and a subset of the pycodestyle (`E`)  codes by default.
-select = ["E", "F", "I", "W", "UP"]
+select = ["E", "F", "I", "W", "UP", "B", "SIM"]
 ignore = []
 line-length = 88
 target-version = "py310"
+
+[tool.ruff.isort]
+known-first-party = ["src", "backfill"]
 
 [tool.mypy]
 python_version = "3.10"
@@ -22,7 +46,19 @@ warn_return_any = true
 warn_unused_configs = true
 disallow_untyped_defs = true
 ignore_missing_imports = true
+strict = true
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 python_files = "test_*.py"
+addopts = "-v --tb=short"
+
+[tool.coverage.run]
+source = ["src", "backfill"]
+omit = ["tests/*"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "if __name__ == .__main__.:",
+]
