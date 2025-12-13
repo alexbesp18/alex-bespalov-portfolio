@@ -54,8 +54,13 @@ def fetch_html(url: str) -> str:
         result: str = response.read().decode('utf-8')
         return result
 
-def save_to_gsheet(products: List[Product]) -> None:
-    """Saves the list of products to Google Sheets."""
+def save_to_gsheet(products: List[Product], date_override: Optional[str] = None) -> None:
+    """Saves the list of products to Google Sheets.
+    
+    Args:
+        products: List of Product objects to save.
+        date_override: Optional date string to use instead of today's date.
+    """
     if not settings.gdrive_api_key_json:
         logger.warning("No Google Drive Creds found (GDRIVE_API_KEY). Skipping Sheet update.")
         # Dump model to json string for logging
@@ -100,12 +105,13 @@ def save_to_gsheet(products: List[Product]) -> None:
             sheet = sh.add_worksheet(title=settings.gsheet_tab, rows=100, cols=10)
             sheet.append_row(["Date", "Rank", "Name", "Description", "Upvotes", "URL"])
             
-        today = datetime.datetime.now().strftime("%Y-%m-%d")
+        # Use date_override if provided, otherwise use today
+        row_date = date_override if date_override else datetime.datetime.now().strftime("%Y-%m-%d")
         
         rows_to_add: List[List[Any]] = []
         for p in products:
             rows_to_add.append([
-                today,
+                row_date,
                 p.rank,
                 p.name,
                 p.description,
