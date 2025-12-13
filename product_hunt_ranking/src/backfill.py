@@ -69,7 +69,7 @@ def backfill(weeks_back: int = 10) -> None:
         
         try:
             html = fetch_html(url)
-            products = parse_products(html, limit=10)
+            products = parse_products(html, limit=10, week_date=week_date)
             
             if products:
                 logger.info(f"  Found {len(products)} products")
