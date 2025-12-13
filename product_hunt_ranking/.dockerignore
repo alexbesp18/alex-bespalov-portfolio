@@ -1,0 +1,36 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+.eggs
+dist
+build
+
+# Environment
+.env
+.venv
+venv
+*.env
+
+# Credentials (never include in Docker image)
+service_account.json
+*.json
+
+# IDE
+.vscode
+.idea
+
+# Tests
+tests/
+.pytest_cache
+.coverage
+htmlcov
+
+# Docs
+*.md
+!README.md
