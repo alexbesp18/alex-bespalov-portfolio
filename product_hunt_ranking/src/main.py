@@ -102,8 +102,14 @@ def save_to_gsheet(products: List[Product], date_override: Optional[str] = None)
                 sh = client.open_by_key(settings.gsheet_id)
             else:
                 sh = client.open(settings.gsheet_name)
-            sheet = sh.add_worksheet(title=settings.gsheet_tab, rows=100, cols=10)
-            sheet.append_row(["Date", "Rank", "Name", "Description", "Upvotes", "URL"])
+            sheet = sh.add_worksheet(title=settings.gsheet_tab, rows=500, cols=10)
+        
+        # Ensure headers exist on row 1
+        headers = ["Date", "Rank", "Name", "Description", "Upvotes", "URL"]
+        current_headers = sheet.row_values(1)
+        if current_headers != headers:
+            logger.info("Setting up headers on row 1")
+            sheet.update('A1:F1', [headers])
             
         # Use date_override if provided, otherwise use today
         row_date = date_override if date_override else datetime.datetime.now().strftime("%Y-%m-%d")
@@ -120,6 +126,21 @@ def save_to_gsheet(products: List[Product], date_override: Optional[str] = None)
             ])
             
         sheet.append_rows(rows_to_add)
+        logger.info(f"Appended {len(rows_to_add)} rows.")
+        
+        # Sort data by Date (desc) then Rank (asc) - excluding header row
+        # Column A = Date, Column B = Rank
+        try:
+            # Get all data to find range
+            all_data = sheet.get_all_values()
+            if len(all_data) > 1:  # More than just headers
+                end_row = len(all_data)
+                # Sort range A2:F{end_row} by column A descending, then column B ascending
+                sheet.sort((1, 'des'), (2, 'asc'), range=f'A2:F{end_row}')
+                logger.info("Sorted data by Date (newest first) then Rank.")
+        except Exception as sort_error:
+            logger.warning(f"Could not sort sheet: {sort_error}")
+        
         logger.info("Successfully wrote to Google Sheet.")
         
     except Exception as e:
