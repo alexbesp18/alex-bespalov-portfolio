@@ -98,17 +98,16 @@ def save_to_gsheet(products: List[Product]) -> None:
             else:
                 sh = client.open(settings.gsheet_name)
             sheet = sh.add_worksheet(title=settings.gsheet_tab, rows=100, cols=10)
-            sheet.append_row(["Week Date", "Rank", "Name", "Website URL", "Description", "Upvotes", "PH URL"])
+            sheet.append_row(["Date", "Rank", "Name", "URL"])
+            
+        today = datetime.datetime.now().strftime("%Y-%m-%d")
         
         rows_to_add: List[List[Any]] = []
         for p in products:
             rows_to_add.append([
-                p.week_date,
+                today,
                 p.rank,
                 p.name,
-                p.website_url,
-                p.description,
-                p.upvotes,
                 str(p.url)
             ])
             

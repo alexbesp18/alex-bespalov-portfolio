@@ -16,17 +16,15 @@ HTML_SAMPLE = """
 
 def test_parse_valid_products():
     """Test parsing logic extracts products correctly as Product models."""
-    products = parse_products(HTML_SAMPLE, week_date="2025-12-09")
+    products = parse_products(HTML_SAMPLE)
     
     assert len(products) == 2
     assert isinstance(products[0], Product)
-    assert products[0].week_date == "2025-12-09"
     assert products[0].rank == 1
     assert products[0].name == "Awesome Tool"
     # Pydantic HttpUrl might need string conversion depending on version, 
     # but here we defined it as str in the simplified model or HttpUrl
     assert str(products[0].url) == "https://www.producthunt.com/products/awesome-tool"
-    assert products[0].upvotes >= 0  # Upvotes extracted or default 0
     assert products[1].rank == 2
     assert products[1].name == "Another Tool"
 
