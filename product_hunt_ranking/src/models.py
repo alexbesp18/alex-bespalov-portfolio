@@ -8,5 +8,7 @@ class Product(BaseModel):
     week_date: str = Field(..., description="Date of the week (Monday) for this ranking")
     rank: int = Field(..., ge=1, description="Weekly ranking position")
     name: str = Field(..., min_length=1, description="Name of the product")
-    url: str = Field(..., description="Full URL to the product page")
+    url: str = Field(..., description="Full URL to the product page on Product Hunt")
+    website_url: str = Field(default="", description="Actual product website URL")
+    description: str = Field(default="", description="Short description of the product")
     upvotes: int = Field(default=0, ge=0, description="Number of upvotes")
