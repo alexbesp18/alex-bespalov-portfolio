@@ -10,6 +10,9 @@ on:
 jobs:
   scrape-and-store:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./product_hunt_ranking
     
     steps:
     - name: Checkout code
