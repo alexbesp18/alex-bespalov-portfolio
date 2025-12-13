@@ -8,11 +8,12 @@ import os
 from typing import List, Dict, Optional, Any
 
 import gspread  # type: ignore
-from oauth2client.service_account import ServiceAccountCredentials  # type: ignore
+from google.oauth2.service_account import Credentials  # type: ignore
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 from src.config import settings
 from src.utils.parsing import parse_products
+from src.models import Product
 
 # Setup Logging
 logging.basicConfig(
@@ -53,8 +54,6 @@ def fetch_html(url: str) -> str:
         result: str = response.read().decode('utf-8')
         return result
 
-from src.models import Product
-
 def save_to_gsheet(products: List[Product]) -> None:
     """Saves the list of products to Google Sheets."""
     if not settings.gdrive_api_key_json:
@@ -77,14 +76,27 @@ def save_to_gsheet(products: List[Product]) -> None:
                 logger.error("GDRIVE_API_KEY is not valid JSON string nor a valid file path.")
                 return
 
-        creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
+        # Log the service account email to help user debug
+        if 'client_email' in creds_dict:
+            logger.info(f"Authenticating as: {creds_dict['client_email']}")
+
+        creds = Credentials.from_service_account_info(creds_dict, scopes=scope)
         client = gspread.authorize(creds)
         
         try:
-            sheet = client.open(settings.gsheet_name).worksheet(settings.gsheet_tab)
+            if settings.gsheet_id:
+                logger.info(f"Opening sheet by ID: {settings.gsheet_id}")
+                sh = client.open_by_key(settings.gsheet_id)
+                sheet = sh.worksheet(settings.gsheet_tab)
+            else:
+                logger.info(f"Opening sheet by Name: {settings.gsheet_name}")
+                sheet = client.open(settings.gsheet_name).worksheet(settings.gsheet_tab)
         except gspread.WorksheetNotFound:
             logger.info(f"Worksheet {settings.gsheet_tab} not found, creating it.")
-            sh = client.open(settings.gsheet_name)
+            if settings.gsheet_id:
+                sh = client.open_by_key(settings.gsheet_id)
+            else:
+                sh = client.open(settings.gsheet_name)
             sheet = sh.add_worksheet(title=settings.gsheet_tab, rows=100, cols=10)
             sheet.append_row(["Date", "Rank", "Name", "URL", "Description"])
             
