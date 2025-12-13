@@ -16,7 +16,7 @@ def parse_products(html_content: str, limit: int = 10) -> List[Product]:
         limit: Maximum number of products to return.
         
     Returns:
-        List of Product objects.
+        List of Product objects with rank.
     """
     soup = BeautifulSoup(html_content, 'html.parser')
     products: List[Product] = []
@@ -26,6 +26,7 @@ def parse_products(html_content: str, limit: int = 10) -> List[Product]:
     # We prioritize <a> tags that look like product links (/products/slug-name)
     product_links = soup.find_all('a', href=re.compile(r'^/products/'))
     
+    rank = 0
     for link in product_links:
         href = link.get('href')
         title = link.get_text(strip=True)
@@ -42,17 +43,15 @@ def parse_products(html_content: str, limit: int = 10) -> List[Product]:
             continue
             
         seen_slugs.add(href)
+        rank += 1
         
         full_link = f"https://www.producthunt.com{href}"
         
-        # Description Extraction Placeholder
-        description = "N/A"
-        
         try:
             product = Product(
+                rank=rank,
                 name=title,
-                url=full_link,
-                description=description
+                url=full_link
             )
             products.append(product)
         except Exception as e:

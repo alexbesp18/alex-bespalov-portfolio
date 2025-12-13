@@ -20,10 +20,12 @@ def test_parse_valid_products():
     
     assert len(products) == 2
     assert isinstance(products[0], Product)
+    assert products[0].rank == 1
     assert products[0].name == "Awesome Tool"
     # Pydantic HttpUrl might need string conversion depending on version, 
     # but here we defined it as str in the simplified model or HttpUrl
     assert str(products[0].url) == "https://www.producthunt.com/products/awesome-tool"
+    assert products[1].rank == 2
     assert products[1].name == "Another Tool"
 
 def test_parse_limit():
