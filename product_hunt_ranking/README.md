@@ -3,87 +3,83 @@
 A robust Python tool for tracking and archiving Product Hunt's weekly top products to Google Sheets.
 
 ## Key Features
-- **Automated Data Extraction**: Scrapes Product Hunt's weekly leaderboard for top products.
-- **Robust Parsing**: Strategies for handling dynamic content and finding product details.
-- **Resilient Execution**: Includes retry logic for network requests and error handling.
-- **Google Sheets Integration**: Automatically appends results to a specified sheet.
-- **Configurable**: Fully controlled via environment variables.
+- **Automated Weekly Scraping**: Scrapes Product Hunt's weekly leaderboard for top 10 products
+- **Rich Data Extraction**: Captures product name, description, upvotes, and URL
+- **Google Sheets Integration**: Automatically appends results to a configured sheet
+- **Historical Backfill**: One-time script to fetch past weeks of data
+- **GitHub Actions**: Scheduled Sunday runs + manual triggers
+- **Configurable**: Fully controlled via environment variables
 
-## Architecture
-The project is structured as a modular Python application:
-- **`src.main`**: Entry point orchestrating the flow.
-- **`src.utils.parsing`**: Specialized logic for HTML extraction.
-- **`src.config`**: Centralized configuration management.
+## Output Format
+| Date | Rank | Name | Description | Upvotes | URL |
+|------|------|------|-------------|---------|-----|
+| 2025-12-13 | 1 | Incredible | Deep Work AI Agents - powered by Agent MAX | 626 | https://... |
+| 2025-12-13 | 2 | ClickUp 4.0 | All your work: tasks, docs, chat, and AI with 100% context | 608 | https://... |
+
+## Project Structure
+```
+product_hunt_ranking/
+├── src/
+│   ├── main.py           # Entry point & Google Sheets integration
+│   ├── config.py         # Settings (env vars)
+│   ├── models.py         # Pydantic data models
+│   └── utils/
+│       └── parsing.py    # HTML scraping logic
+├── backfill/
+│   ├── main.py           # Historical data fetcher
+│   └── config/
+│       └── settings.py   # WEEKS_BACK = 10
+├── tests/
+├── .github/workflows/
+│   ├── weekly_ph_rankings.yml  # Scheduled Sunday runs
+│   ├── backfill.yml            # One-time historical fetch
+│   └── ci.yml                  # Linting & tests
+└── requirements.txt
+```
 
 ## Quick Start
 
 ### Prerequisites
 - Python 3.10+
-- Google Service Account JSON key (for Sheets integration)
+- Google Service Account JSON key
 
 ### Installation
 ```bash
-git clone https://github.com/alexbesp18/product_hunt_ranking
-cd product_hunt_ranking
+git clone https://github.com/alexbesp18/alex-bespalov-portfolio.git
+cd alex-bespalov-portfolio/product_hunt_ranking
 pip install -r requirements.txt
 cp .env.example .env
-# Edit .env with your configuration
+# Edit .env with your Google Sheet ID and credentials path
 ```
 
 ### Usage
 ```bash
-# Run the scraper
-make run
-# Or directly:
+# Run weekly scraper
 python -m src.main
+
+# Run historical backfill (fetches last 10 weeks)
+python -m backfill.main
 ```
 
-## Example Output
-**Console:**
-```text
-2023-12-13 12:00:00 - INFO - Starting Product Hunt Extraction Job
-2023-12-13 12:00:01 - INFO - Target URL: https://www.producthunt.com/leaderboard/weekly/2023/50
-2023-12-13 12:00:02 - INFO - Parsed 10 products.
-2023-12-13 12:00:03 - INFO - Successfully wrote to Google Sheet.
-```
-
-**Google Sheet:**
-| Date | Rank | Name | URL | Description |
-|------|------|------|-----|-------------|
-| 2023-12-13 | 1 | Awesome Tool | https://... | AI-powered widget |
-| 2023-12-13 | 2 | Cool App | https://... | Decentralized something |
-
-## Project Structure
-```
-product_hunt_ranking/
-├── Makefile              # Automation commands
-├── README.md             # This file
-├── requirements.txt      # Dependencies
-├── .env.example          # Config template
-├── src/
-│   ├── main.py           # Entry point
-│   ├── config.py         # Settings
-│   └── utils/
-│       └── parsing.py    # Scraping logic
-└── tests/
-    ├── test_config.py
-    └── test_parsing.py
-```
+### GitHub Actions
+- **Weekly Product Hunt Rankings**: Runs every Sunday at 12 PM UTC
+- **One-Time Historical Backfill**: Manual trigger for historical data
 
 ## Configuration
-Configuration is managed via `.env` file or environment variables:
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| `GDRIVE_API_KEY_JSON` | Google Service Account JSON content | (Required) |
-| `GSHEET_NAME` | Name of the Google Sheet | "Product Hunt Rankings" |
+| `GDRIVE_API_KEY_JSON` | Service Account JSON content or file path | (Required) |
+| `GSHEET_ID` | Google Spreadsheet ID (from URL) | (Required) |
+| `GSHEET_NAME` | Spreadsheet name (fallback) | "Product Hunt Rankings" |
 | `GSHEET_TAB` | Tab name to write to | "Weekly Top 10" |
 | `LOG_LEVEL` | Logging verbosity | "INFO" |
 
 ## Technical Notes
-- **Resiliency**: Uses `tenacity` for exponential backoff on network failures.
-- **Type Safety**: Fully typed with Python type hints for better maintainability.
-- **Parsing**: Uses `BeautifulSoup` with a fallback strategy to identify product links even if class names change.
+- **Resiliency**: Uses `tenacity` for exponential backoff on network failures
+- **Type Safety**: Fully typed with Pydantic models
+- **Rate Limiting**: 2-second delay between requests during backfill
+- **Upvote Extraction**: Takes the maximum number found (distinguishes from comment counts)
 
 ## License
 MIT

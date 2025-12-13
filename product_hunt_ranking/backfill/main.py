@@ -54,8 +54,6 @@ def backfill(weeks_back: int = WEEKS_BACK) -> None:
     
     logger.info(f"Starting backfill for {weeks_back} weeks (current: {current_year}/W{current_week})")
     
-    all_products: List[Product] = []
-    
     for i in range(weeks_back, 0, -1):  # Go from oldest to newest
         target_week = current_week - i
         target_year = current_year
@@ -74,14 +72,10 @@ def backfill(weeks_back: int = WEEKS_BACK) -> None:
             html = fetch_html(url)
             products = parse_products(html, limit=10)
             
-            # Update the date on each product to reflect the actual week
-            for p in products:
-                # Since Product model doesn't have week_date, we'll handle this in save_to_gsheet
-                pass
-            
             if products:
-                logger.info(f"  Found {len(products)} products")
-                all_products.extend(products)
+                logger.info(f"  Found {len(products)} products, saving with date {week_date}...")
+                # Save this week's products with the correct week date
+                save_to_gsheet(products, date_override=week_date)
             else:
                 logger.warning(f"  No products found for week {target_week}")
                 
@@ -91,13 +85,7 @@ def backfill(weeks_back: int = WEEKS_BACK) -> None:
         # Rate limiting: be nice to Product Hunt servers
         time.sleep(2)
     
-    if all_products:
-        logger.info(f"Total products fetched: {len(all_products)}")
-        logger.info("Saving to Google Sheet...")
-        save_to_gsheet(all_products)
-        logger.info("Backfill complete!")
-    else:
-        logger.warning("No products were fetched. Nothing to save.")
+    logger.info("Backfill complete!")
 
 
 if __name__ == "__main__":
