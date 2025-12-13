@@ -3,12 +3,19 @@ name: CI
 on:
   push:
     branches: [ main ]
+    paths:
+      - 'product_hunt_ranking/**'
   pull_request:
     branches: [ main ]
+    paths:
+      - 'product_hunt_ranking/**'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./product_hunt_ranking
     strategy:
       matrix:
         python-version: ["3.10", "3.11"]
