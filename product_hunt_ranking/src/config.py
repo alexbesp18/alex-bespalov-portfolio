@@ -7,6 +7,7 @@ class Settings(BaseSettings):
     """
     gdrive_api_key_json: str = "" # Optional if not using gsheet, but required for original logic
     gsheet_name: str = "Product Hunt Rankings"
+    gsheet_id: str = "" # New field for ID-based lookup
     gsheet_tab: str = "Weekly Top 10"
     
     # Logger
