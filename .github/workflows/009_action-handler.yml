@@ -8,6 +8,9 @@ jobs:
   handle:
     if: contains(github.event.issue.labels.*.name, 'actioned')
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
     
     steps:
       - uses: actions/checkout@v4
