@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shared_core"
+version = "0.1.0"
+description = "Shared core utilities for portfolio projects"
+requires-python = ">=3.10"
+dependencies = [
+    "tenacity>=8.0.0",
+    "anthropic>=0.3.0",
+    "openai>=1.0.0",
+    "google-generativeai>=0.3.0",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest>=7.0.0",
+    "pytest-mock>=3.10.0",
+]
