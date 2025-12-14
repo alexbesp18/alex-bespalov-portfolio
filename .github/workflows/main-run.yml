@@ -1,0 +1,45 @@
+name: Main Run - Daily Signals
+
+on:
+  schedule:
+    # 4pm CST = 22:00 UTC (21:00 during DST)
+    # Run both hours to handle DST, Sun-Fri (0=Sun, 1-5=Mon-Fri)
+    - cron: '0 21,22 * * 0-5'
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+        working-directory: 009_alerts/sentinel
+      
+      - name: Run main scan
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          NOTIFICATION_EMAIL: ${{ secrets.NOTIFICATION_EMAIL }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          GITHUB_REPO: ${{ github.repository }}
+        run: |
+          python main.py
+        working-directory: 009_alerts/sentinel
+      
+      - name: Commit state changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state/
+          git diff --cached --quiet || git commit -m "Update state after daily scan"
+          git push
+        working-directory: 009_alerts/sentinel
