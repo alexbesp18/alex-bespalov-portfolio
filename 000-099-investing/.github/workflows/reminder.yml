@@ -1,0 +1,35 @@
+name: Morning Reminder
+
+on:
+  schedule:
+    # 8am CST = 14:00 UTC (13:00 during DST)
+    # Run Mon-Fri (includes Monday for Sunday's signals)
+    - cron: '0 13,14 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+        working-directory: 009_alerts/sentinel
+      
+      - name: Send reminder
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          NOTIFICATION_EMAIL: ${{ secrets.NOTIFICATION_EMAIL }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+        run: |
+          python main.py --reminder
+        working-directory: 009_alerts/sentinel
