@@ -1,0 +1,16 @@
+Extract all investment themes and verticals discussed in this podcast/report. For each, list the theme name, timestamp mentioned if available, and a one sentence rationale for why it is compelling. Format as a numbered list.
+
+Transcript or Report:
+{transcript}
+
+Output your response as JSON with the following structure:
+{{
+  "themes": [
+    {{
+      "name": "Theme name",
+      "timestamp": "00:02:15",
+      "rationale": "One sentence explanation"
+    }}
+  ]
+}}
+

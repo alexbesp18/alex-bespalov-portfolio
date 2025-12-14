@@ -1,0 +1,49 @@
+Analyze {ticker} using the following VERIFIED market data for PURE TECHNICAL ANALYSIS:
+
+CURRENT PRICE DATA:
+- Price: ${price:.2f}
+- Change: {change:+.2f} ({percent_change:+.2f}%)
+- Volume: {volume:,}
+- Previous Close: ${previous_close:.2f}
+
+MOVING AVERAGES:
+- 20-day SMA: ${sma_20:.2f}
+- 50-day SMA: ${sma_50:.2f}
+- 200-day SMA: ${sma_200:.2f}
+
+MOMENTUM INDICATORS:
+- RSI(14): {rsi:.1f}
+- MACD: {macd:.3f}
+- MACD Signal: {macd_signal:.3f}
+- MACD Histogram: {macd_hist:.3f}
+- Stochastic %K: {stoch_k:.1f}
+- Stochastic %D: {stoch_d:.1f}
+
+VOLATILITY:
+- ATR: ${atr:.2f}
+- Bollinger Upper: ${bb_upper:.2f}
+- Bollinger Middle: ${bb_middle:.2f}
+- Bollinger Lower: ${bb_lower:.2f}
+
+SUPPORT & RESISTANCE:
+- Closest Support: ${closest_support:.2f}
+- Key Support: ${key_support:.2f}
+- Closest Resistance: ${closest_resistance:.2f}
+- Strongest Resistance: ${strongest_resistance:.2f}
+
+PROVIDE YOUR ANALYSIS IN THIS EXACT JSON FORMAT (no markdown, no backticks):
+{{
+    "technical_score": <0-10>,
+    "optimal_entry": <price>,
+    "closest_support": <price>,
+    "key_support": <price>,
+    "closest_resistance": <price>,
+    "strongest_resistance": <price>,
+    "reasoning": "<brief 2-3 sentence technical explanation>"
+}}
+
+SCORING GUIDELINES:
+- technical_score: Overall technical strength (0=very bearish, 10=very bullish)
+- Consider: trend (price vs MAs), momentum (RSI, MACD, Stochastic), volume, volatility (ATR, Bollinger)
+- Key factors: Moving average alignment, RSI levels, MACD crossovers, support/resistance proximity
+- Be precise with support/resistance levels based on the data provided
