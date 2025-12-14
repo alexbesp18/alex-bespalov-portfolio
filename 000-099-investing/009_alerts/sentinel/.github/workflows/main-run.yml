@@ -3,8 +3,8 @@ name: Main Run - Daily Signals
 on:
   schedule:
     # 4pm CST = 22:00 UTC (21:00 during DST)
-    # Run both to handle DST transitions
-    - cron: '0 21,22 * * 1-5'
+    # Run both hours to handle DST, Sun-Fri (0=Sun, 1-5=Mon-Fri)
+    - cron: '0 21,22 * * 0-5'
   workflow_dispatch:  # Manual trigger
 
 jobs:

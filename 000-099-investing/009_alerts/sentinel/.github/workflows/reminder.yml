@@ -3,6 +3,7 @@ name: Morning Reminder
 on:
   schedule:
     # 8am CST = 14:00 UTC (13:00 during DST)
+    # Run Mon-Fri (includes Monday for Sunday's signals)
     - cron: '0 13,14 * * 1-5'
   workflow_dispatch:
 
