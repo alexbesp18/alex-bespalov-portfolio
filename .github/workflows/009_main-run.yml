@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-        working-directory: 009_alerts/sentinel
+        working-directory: 000-099-investing/009_alerts/sentinel
       
       - name: Run main scan
         env:
@@ -33,7 +33,7 @@ jobs:
           GITHUB_REPO: ${{ github.repository }}
         run: |
           python main.py
-        working-directory: 009_alerts/sentinel
+        working-directory: 000-099-investing/009_alerts/sentinel
       
       - name: Commit state changes
         run: |
@@ -42,4 +42,4 @@ jobs:
           git add state/
           git diff --cached --quiet || git commit -m "Update state after daily scan"
           git push
-        working-directory: 009_alerts/sentinel
+        working-directory: 000-099-investing/009_alerts/sentinel

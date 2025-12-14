@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-        working-directory: 009_alerts/sentinel
+        working-directory: 000-099-investing/009_alerts/sentinel
       
       - name: Send reminder
         env:
@@ -32,4 +32,4 @@ jobs:
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
         run: |
           python main.py --reminder
-        working-directory: 009_alerts/sentinel
+        working-directory: 000-099-investing/009_alerts/sentinel
