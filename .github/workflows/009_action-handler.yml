@@ -20,12 +20,12 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-        working-directory: 009_alerts/sentinel
+        working-directory: 000-099-investing/009_alerts/sentinel
       
       - name: Process action
         run: |
           python main.py --action "${{ github.event.issue.title }}"
-        working-directory: 009_alerts/sentinel
+        working-directory: 000-099-investing/009_alerts/sentinel
       
       - name: Commit changes
         run: |
@@ -34,7 +34,7 @@ jobs:
           git add config/
           git diff --cached --quiet || git commit -m "Actioned: ${{ github.event.issue.title }}"
           git push
-        working-directory: 009_alerts/sentinel
+        working-directory: 000-099-investing/009_alerts/sentinel
       
       - name: Close issue
         run: gh issue close ${{ github.event.issue.number }}
