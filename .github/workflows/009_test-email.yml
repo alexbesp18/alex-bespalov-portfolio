@@ -1,0 +1,43 @@
+name: Test Email
+
+on:
+  workflow_dispatch:  # Manual trigger only
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install SendGrid
+        run: pip install sendgrid
+      
+      - name: Send test email
+        env:
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          NOTIFICATION_EMAIL: ${{ secrets.NOTIFICATION_EMAIL }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+        run: |
+          python << 'EOF'
+          import os
+          from sendgrid import SendGridAPIClient
+          from sendgrid.helpers.mail import Mail
+
+          message = Mail(
+              from_email=os.environ['SENDER_EMAIL'],
+              to_emails=os.environ['NOTIFICATION_EMAIL'],
+              subject='[TEST] GitHub Actions Email',
+              html_content='<h1>Test Email</h1><p>If you see this, GitHub Actions can send emails successfully!</p>'
+          )
+
+          sg = SendGridAPIClient(os.environ['SENDGRID_API_KEY'])
+          response = sg.send(message)
+          print(f"Status: {response.status_code}")
+          print("Email sent!")
+          EOF
