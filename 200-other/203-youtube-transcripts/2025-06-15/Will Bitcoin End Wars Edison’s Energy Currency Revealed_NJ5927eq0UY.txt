@@ -1,0 +1,1765 @@
+Title: Will Bitcoin End Wars? Edison’s Energy Currency Revealed
+Video ID: NJ5927eq0UY
+URL: https://www.youtube.com/watch?v=NJ5927eq0UY
+Date Saved: 2025-06-15 11:37:08
+--------------------------------------------------
+
+[00:00] If you want to live off- grid, for
+[00:01] example, you need energy. You want
+[00:03] farming systems, fuel systems, water
+[00:05] systems, heating systems. And Bitcoin
+[00:07] integrate, and we're seeing all the
+[00:09] storytelling of this. Bitcoin integrates
+[00:10] with all of those systems, but still
+[00:12] connects us at the digital level that if
+[00:14] merchants understands their costs to
+[00:16] produce things in Bitcoin, then they can
+[00:18] lock those costs in and determine a
+[00:20] price in which they'll sell things in
+[00:22] Bitcoin. So, it goes from producer to
+[00:24] consumer and the unit of account aspect
+[00:26] of things. I believe mining will be that
+[00:28] accelerant that as the latest efficiency
+[00:30] machines are deployed in warehouses at
+[00:32] volume to economically mine that a
+[00:34] larger and everinccreasing amount of
+[00:36] majority of hash rate will be people
+[00:38] that just want to heat their home,
+[00:39] subsidize some of that energy cost and
+[00:41] get paid Bitcoin for doing it. Thomas
+[00:43] Edison and Henry Ford conceptualizing
+[00:45] the idea of an energy based currency to
+[00:48] stop wars and debase gold as a monetary
+[00:50] reserve. There's anyone that's wishing
+[00:51] to take some step in life that knows is
+[00:54] going to give them forward momentum,
+[00:56] just do it. Just take that leap.
+[01:00] [Music]
+[01:02] For the people that don't know you, um,
+[01:04] give us some small short brief overview
+[01:06] of like who you are and and why you are
+[01:08] into Bitcoin.
+[01:11] Uh, where to begin? So, my I'll roll it
+[01:14] all the way back. So, my grandfather and
+[01:17] my dad, they were both uh engineers. So
+[01:20] I've always been around people that you
+[01:22] know uh have a precedence to wanting to
+[01:25] pull things apart, questioning
+[01:26] everything. And obviously I went in to
+[01:29] study aerospace engineering at
+[01:31] university and whilst studying um you
+[01:35] well here in England our salaries for
+[01:38] such for such industry are very low. Um
+[01:41] and yeah just wanted more for myself
+[01:44] shall I say. or just the majority of
+[01:46] people of a younger age, half your life
+[01:48] grown up outside playing, the other half
+[01:51] burying your head in a in a laptop or,
+[01:53] you know, a games console, whatever it
+[01:55] is. And I I had my fair share of those
+[01:57] two parts as well. And yeah, just
+[02:00] throughout the the the journey of my
+[02:02] life, I've I've very much wanted both
+[02:05] more for myself, family, life, love,
+[02:07] living, love to travel as well. Um,
+[02:10] interestingly, I visited El Salvad El
+[02:12] Salvador just before um they went
+[02:15] anything to do with Bitcoin and um so
+[02:18] all of these sorts of things and it's
+[02:20] culminated that I wanted more for myself
+[02:22] in university and yeah sort of truly
+[02:25] dived into Bitcoin in 2017 as the
+[02:28] starting point but obviously 2017
+[02:32] captured anyone and everyone in the in
+[02:34] the ICO world of things. So, uh, I got
+[02:36] burnt as they say and and that really
+[02:39] hardens and learn allows you to learn
+[02:41] those lessons all the way up to building
+[02:45] algorithmic trading systems and bots and
+[02:48] those, you know, staying up all night
+[02:50] checking the screen at 4 in the morning.
+[02:52] And so those lessons of learning what
+[02:54] you do want and don't want within
+[02:55] Bitcoin um gravitated me further and
+[02:58] closer towards mining and um and just
+[03:02] that aspect of people wanting to create
+[03:04] a cash flow of Bitcoin with um the the
+[03:08] technical electrical there's also the
+[03:11] financial frictions of mining as well.
+[03:12] all those all those sorts of things. I
+[03:15] gravitated just just wholeheartedly
+[03:17] towards mining because it it combined
+[03:19] what I wanted to be involved with
+[03:21] Bitcoin um my background and um for the
+[03:26] past few years from 2021 onwards I've
+[03:29] just been on this absolute path of just
+[03:33] just going down the compute direction of
+[03:36] Bitcoin where the majority of the world
+[03:39] have gone in the financial direction
+[03:40] with understanding Bitcoin. the miners
+[03:43] very much go down, you know, gravitating
+[03:45] towards the energy direction. And the
+[03:47] very reason I created a an educational
+[03:50] channel called Hash Power Academy is
+[03:51] it's the compute branch in the middle.
+[03:54] Uh where you've got the energy world
+[03:55] obsessed with energy in the financial
+[03:57] world obsessed with finance, but compute
+[03:59] is the bit that bridges the the two. Um,
+[04:02] so that's where I'm at today where I'm
+[04:04] engaged in mining education that allows
+[04:07] people that may be more on the financial
+[04:08] side to just open up their interest into
+[04:11] the mining side. Not so much having to
+[04:13] participate in mining because it's it's
+[04:15] got highly competitive aspect to it, but
+[04:18] just learning about it because it
+[04:19] teaches you so much more about all the
+[04:21] other layers of Bitcoin. Interesting.
+[04:24] Um, and I I want to talk about what what
+[04:26] uh Bitcoin Money taught you, but first,
+[04:29] how do you see, and I think I actually
+[04:31] saw a video of yours also titled buying
+[04:33] Bitcoin versus mining Bitcoin. I think
+[04:34] MSDR was also like one part of that. But
+[04:37] how do you look at buying Bitcoin versus
+[04:40] mining Bitcoin? I boil it down to well,
+[04:43] buying Bitcoin is going to always be the
+[04:44] metric for everyone. You buy one
+[04:46] Bitcoin, you've got a Bitcoin. But
+[04:47] mining a bitcoin is well your objective
+[04:50] goal with mining is to accumulate a
+[04:52] greater quantity of bitcoin over time.
+[04:56] So you're not even setting up an
+[04:58] operation to immediately buy bitcoin.
+[05:01] You believe so much in bitcoin that
+[05:02] you're not even buying bitcoin. You're
+[05:04] buying into machines that produce it
+[05:05] into the future. So uh the belief system
+[05:08] that you have to have in mining uh in
+[05:11] Bitcoin in general shall I say is that
+[05:13] you are going to capture um a greater
+[05:16] quantity and that that is only going to
+[05:20] be accessible right now for a select few
+[05:23] people that that have the technical
+[05:25] skills to to run it, the electrical
+[05:28] skills to keep it going and not burn
+[05:30] down or all those things or the
+[05:31] financial ability to buy the machines in
+[05:33] bulk. If you don't have those pieces of
+[05:35] criteria, you're going to have to try
+[05:37] hosting, which is you need to invest a
+[05:40] lot of money to get a cheaper price of
+[05:42] machines because those are the pieces
+[05:44] that are always missing from the
+[05:46] education. Um especially when people
+[05:48] fall into the trap of going into crypto
+[05:50] mining, which is by the time they buy
+[05:52] the machine that says they're going to
+[05:54] make their money back in 4 months, uh so
+[05:57] many of those machines get produced that
+[05:59] dilutes the very small amount of money
+[06:01] distributed in that particular
+[06:03] blockchain. And and so there's this
+[06:05] knowledge gap. There's there's this key
+[06:07] knowledge gap um when it comes to the
+[06:09] the mining versus buying phenomena,
+[06:12] especially on the mining side. Um, and
+[06:15] yeah, I think that answers your
+[06:17] question. That's that's super
+[06:19] interesting. Um, I mean, it's also how
+[06:23] do you look at uh when when someone else
+[06:25] hosts uh those things for you? I mean,
+[06:27] there's so many providers where you can
+[06:29] just like buy uh things and they do all
+[06:32] the things for you and and you get a cut
+[06:34] from that. Did you look into this? Yeah.
+[06:37] So the I boil it down to there's
+[06:41] two this is this is where the education
+[06:43] comes in. You've got to know the current
+[06:47] profitability of mining the economics of
+[06:49] the machines. The fragmented hardware
+[06:52] market where the closer to the producer
+[06:54] the cheaper the machine you price per
+[06:56] terash the closer to consumption which
+[06:58] is there is a key difference between
+[07:00] that computer in the USA actively racked
+[07:04] hashing power contract deployed. So
+[07:06] there's a premium aspect versus that
+[07:08] machine sitting in a box in a warehouse
+[07:11] um in on in Asia. And so there's there's
+[07:15] just several lessons. And I've got the
+[07:17] the layers of Bitcoin behind me, but
+[07:20] basically you have to learn um it's
+[07:23] cliche, but it boils down to energy,
+[07:25] space, and time. You've got to know what
+[07:27] your power rate is, how much hash rate
+[07:29] you're buying, say per per uh dollar
+[07:31] amount, and and over time what that
+[07:34] profitability is. uh into the into the
+[07:37] future and to get into hosted mining.
+[07:41] Yes, you can buy in with one machine
+[07:43] with quite a few hosts, but there's
+[07:45] premiums. Um you've also got the fact
+[07:48] that some hosts put their, you know,
+[07:50] they are doing all of the operation for
+[07:52] you. So, they take a cut. And I would
+[07:54] say just about any business within
+[07:56] Bitcoin, understand the put yourself in
+[08:00] the business's shoes. understand how
+[08:01] they make their money cuz that will
+[08:03] allow you clear information how you're
+[08:05] going to earn yours. So, a lot of hosts
+[08:07] put their costs of operation all into
+[08:10] the price of power. Uh maybe they maybe
+[08:12] they get the power at 5 cent and charge
+[08:14] you 8 cents and their margin is the 3
+[08:17] cent. And some other hosts, they offer a
+[08:19] low power rate, but they'll take a
+[08:21] percentage of your revenue, five, a 10,
+[08:24] a 20% even. And you've got to use those
+[08:28] metrics to truly forward project and uh
+[08:32] essentially cut the projection in half
+[08:34] to have some form of realistic uh sense.
+[08:37] So, and don't ever
+[08:39] overestimate. Um yeah, it makes me think
+[08:42] I'm going to do a video on hosted mining
+[08:44] economics actually and those
+[08:45] comparisons. But yeah, the last last
+[08:48] question on that topic, uh how much does
+[08:50] the price uh play play a role? I heard
+[08:53] that if if the price goes up rapidly,
+[08:56] mining is actually uh better and if it
+[08:58] it's kind of uh slowly getting up, uh
+[09:01] buying would be better. Yeah. If if you
+[09:03] use the Moonboy numbers, if Bitcoin
+[09:06] price were to go to a million, miners
+[09:09] right now would be earning $1 per
+[09:11] kilowatt hour, which if you're buying
+[09:14] electricity at 5 6 7 8 cents, you reach
+[09:17] a point doesn't really matter at that
+[09:18] point. But here's the thing. price can
+[09:21] double, but the network hash rate and
+[09:24] all the infrastructure, shipping,
+[09:26] logistics, electrical switch gear
+[09:28] transform, all of those the physical
+[09:31] constraints of hash rate doubling means
+[09:34] that if price were to take off because
+[09:36] Bitcoin to dollar is that 21 million
+[09:38] units versus the debt money system, if
+[09:41] the debt money system has to expand, as
+[09:43] it very much needs to um just to justify
+[09:47] its own existence, um it means that the
+[09:50] units are going to shoot up in price to
+[09:53] the dollar and minor production floor
+[09:55] cannot increase as quickly and every uh
+[10:00] bull cycle for miners is when price in
+[10:03] say percentage terms is outperforming
+[10:06] difficulty and yeah if we see Bitcoin
+[10:09] quote unquote take off the network hash
+[10:12] rate just cannot keep up and that's when
+[10:14] miners will be absolutely raking it in
+[10:16] but the key thing for every one of a
+[10:19] retail level is when mining
+[10:21] profitability is at stupidly high
+[10:23] metrics and values of break even 4
+[10:25] months that's when you sell when mining
+[10:29] profitability is
+[10:30] extremely you know impossible like
+[10:33] you'll never make your money back is the
+[10:35] I paid you know $20 per terahash but I'm
+[10:38] barely making uh under a dollar per
+[10:41] terash that's 20 months or or 30 40 50
+[10:44] months when the mining profitability is
+[10:46] absolutely dead that's paradoxically the
+[10:49] best time to buy machines. Um, but but
+[10:51] it's the same with the trading
+[10:53] psychology. When everyone's going one
+[10:54] way, you got to go the other.
+[10:57] Super interesting.
+[10:58] So, I I get from all that, and this was
+[11:02] also my notion beforehand, most people
+[11:05] will be just better off buying straight
+[11:08] up Bitcoin and putting it in self
+[11:09] custody. Yes and no. Um, what I think
+[11:12] people keep resonating with, especially
+[11:14] in some of the content I've talked
+[11:16] about, is uh the long-term dream for me
+[11:19] is to is to use Bitcoin mining as an
+[11:23] accelerant to build out, should we say,
+[11:25] Bitcoin infrastructure. And what I mean
+[11:27] by that is every part of Bitcoin has
+[11:30] willing participants. the majority of
+[11:32] people in Bitcoin right now there's that
+[11:36] active push for self-
+[11:37] custody but then you've got the passage
+[11:40] of time um which is that inevitably the
+[11:44] majority of the wealth of the world that
+[11:46] people have you know the sort of sailor
+[11:47] metrics of x amount of treasuries bonds
+[11:50] equities and all these sorts of pieces
+[11:52] that any any aspect of them flooding
+[11:55] into bitcoin are those uh holders of
+[11:58] wealth going to just trust it in someone
+[12:01] else's hands like they've done the rest
+[12:03] of their lives or or even people with a
+[12:05] substantial amount of Bitcoin hearing
+[12:07] the concerns of people uh you know the
+[12:10] wrench attack and so so I think people
+[12:13] having a mix of self custody for the
+[12:16] majority but active amounts that's
+[12:19] accessible or the multi-IG setup or the
+[12:21] time locks what all those sorts of
+[12:23] pieces are important um but but to your
+[12:26] question about you know mining versus
+[12:28] buying is I see mining infrastructure
+[12:31] you know, to to deploy a megawatt of
+[12:33] compute, the the 200, the 300 mining
+[12:35] machines for one megawatt. Well, you
+[12:38] need, you know, the electrical
+[12:39] infrastructure or the power source to to
+[12:42] provide that. That doesn't have to be
+[12:44] specifically just a data center in the
+[12:47] middle of West Texas. It could also be
+[12:51] um a you know the the storytelling of
+[12:53] gridless in Africa that are you know the
+[12:57] the the large buyer of energy the miners
+[13:00] justifies the continual buildout for the
+[13:02] large producer of energy. So you got
+[13:04] this energy circular economy at the base
+[13:06] layer and then the things I talk about
+[13:08] which is that block rewards set a price
+[13:11] for electricity and what that does is
+[13:15] it's it's inevitable that yes you can
+[13:17] see the dollar to bitcoin exchange rate
+[13:18] but it also has a bitcoin to kilowatt
+[13:20] hour exchange rate and that sets a price
+[13:23] for energy that that large buyer of
+[13:25] energy will also sell it. they will
+[13:27] relinquish their use of that power. And
+[13:29] it doesn't have to be grid scale. It
+[13:31] this system can be as small as a couple
+[13:34] of homes, a uh small block of compute
+[13:39] that consumes the energy of all the
+[13:41] different properties. And it delves down
+[13:43] the uh the Bitcoin Citadel sort of
+[13:45] dream, which is people that want to have
+[13:48] their ability to live off-rid, but
+[13:50] cannot figure out the economics of how
+[13:52] that truly work, say, as a a pension
+[13:55] plan. But if if you want to live off-rid
+[13:58] for example, you need energy. You want
+[14:01] farming systems, fuel systems, water
+[14:03] systems, heating systems. And Bitcoin
+[14:06] integrate and we're seeing all the
+[14:07] storytelling of this. Bitcoin integrates
+[14:09] with all of those systems, but still
+[14:11] connects us at the digital level. Um,
+[14:14] and what I love to talk about is because
+[14:17] Bitcoin sets a price for energy. I
+[14:20] believe that say a bitcoin unit of
+[14:22] account doesn't come from you know
+[14:24] what's my coffee merchant going to
+[14:27] charge me in a quantity of bitcoin it's
+[14:29] what's the coffee merchants's energy
+[14:30] costs oh well that's priced in bitcoin
+[14:32] because kilowatt hours are priced in
+[14:34] bitcoin as of now but that system hasn't
+[14:36] fully built out yet um that if merchants
+[14:39] understands their costs to produce
+[14:41] things in bitcoin then they can lock
+[14:44] those costs in and determine a price in
+[14:46] which they'll sell things in bitcoin so
+[14:48] it it goes from producer the two
+[14:50] consumer and the unit of account aspect
+[14:52] of things. When you take that to the um
+[14:56] people that want to live off- grid,
+[14:57] they're still connected to that same
+[14:59] pricing system because Bitcoin sets a
+[15:01] global price for energy. And so um
+[15:05] that's a very long form version of your
+[15:08] question of uh self-custody versus
+[15:11] mining is I I believe mining will be
+[15:13] that accelerant that as the latest
+[15:16] efficiency machines are deployed in
+[15:18] warehouses at volume to economically
+[15:20] mine that a larger an everinccreasing
+[15:22] amount of majority of hash rate will be
+[15:25] people that just want to heat their home
+[15:28] subsidize some of that energy cost and
+[15:29] get paid Bitcoin for doing it. have the
+[15:32] heating system connected to a water
+[15:33] tank, which means they've always always
+[15:35] got hot water and run the hot pipes into
+[15:37] green houses to grow crops at optimized
+[15:40] levels. Those are all different like
+[15:42] technical things, but as that becomes
+[15:44] more plugandplay, press a button and
+[15:47] mini miners are really starting that
+[15:48] accelerant. Interesting. You also said
+[15:50] in the beginning that Bitcoin mining
+[15:54] taught you so much more than just the
+[15:56] mining aspect. What did it teach you?
+[15:59] Satoshi Nakamoto himself never went on a
+[16:02] platform, never went on an exchange. He
+[16:05] produced his Bitcoin um with
+[16:09] electricity. And um interestingly
+[16:12] enough, I as a kid, I tried to mine
+[16:14] Bitcoin in 2014, I think. Opened up a
+[16:18] laptop, tried to connect to a mining
+[16:19] pool with my lap laptop, so it wouldn't
+[16:21] have made that much if it did, but I
+[16:24] hadn't put the letter P for the password
+[16:26] in. And uh yeah, so I slammed the lid in
+[16:29] 2014 and obviously wished that I had uh
+[16:32] just I would have had the curiosity to
+[16:34] to learn about what it is and how it
+[16:36] works. Um and yeah, that that that boils
+[16:40] me back to my first ever interaction,
+[16:42] shall I say, with with with mining and
+[16:45] the the the technical electrical side of
+[16:47] of Bitcoin. But the struggle the
+[16:50] struggle is that the the on-ramp for
+[16:53] Bitcoin is always the financial lens for
+[16:56] the large majority of people. I'm sure
+[16:58] there's some, you know, what if you take
+[17:00] a 100 Bitcoiners, how many of them came
+[17:03] from a financial lens of understanding
+[17:06] Bitcoin and that that dollar comparison
+[17:08] versus they were, I don't know, saw
+[17:11] someone mining and learned about it from
+[17:14] them and just started mining and maybe
+[17:15] came from the energy aspect that if the
+[17:18] majority come from finance,
+[17:21] um, you start hitting the topics of
+[17:23] blockchain and network hash rate and
+[17:25] difficulty and you go deeper and deeper
+[17:27] and even deeper, it just gets more
+[17:28] technical. So that the group of people
+[17:30] that that learn about those things um
+[17:33] declines. But the key the key thing I
+[17:36] think for anyone that say is a trader
+[17:40] is when it drops, they want to know how
+[17:42] much it drops. When it goes up, they
+[17:44] want to know how much it it increases.
+[17:46] And I believe that the Bitcoin per kilow
+[17:50] kilowatt hour production floor
+[17:52] determines a very interesting
+[17:55] electricity to Bitcoin exchange rate
+[17:57] that miners will buy power, produce and
+[18:00] sell Bitcoin or switch off and sell the
+[18:04] power and in a sense buy a greater
+[18:07] quantity because if they're arbiting um
+[18:10] both ways it means that when price drops
+[18:13] below production and we see hash rate
+[18:15] come offline fine if that hash rate is
+[18:18] deployed on grids where they have access
+[18:19] to selling the power and doing the
+[18:21] arbitrage it's essentially a natural
+[18:24] buyer steps in and so I think Satoshi
+[18:27] himself referred to Bitcoin's value
+[18:29] being its electricity cost to produce um
+[18:32] but it's not like gold mining gold
+[18:34] mining is x amount of cost of processing
+[18:38] rock $2,000 worth of rock processing to
+[18:41] produce the $3,000 whatever the value is
+[18:44] right now 3,000 ounce of gold, but you
+[18:46] can't sell that rock for $3,000 at the
+[18:49] equivalent value of the Bitcoin. But
+[18:51] with Bitcoin, it's intrinsically
+[18:53] connected to electricity because energy
+[18:56] produces compute which produces Bitcoin.
+[18:58] And electricity in of itself is the most
+[19:01] important commodity of the 21st century.
+[19:04] Um and obviously compute and microchips
+[19:08] just about are the the the other side of
+[19:11] the coin so to speak that um I just took
+[19:14] a trip up to Scotland actually and in
+[19:17] the highlands middle of nowhere but the
+[19:20] the two slash three things that you can
+[19:22] see driving down this road and you got
+[19:25] the uh the uh electrical grid running
+[19:28] past me on one side and uh telephone
+[19:31] poles running the other. So, it's like
+[19:33] it it's just a no-brainer that the two
+[19:35] most important networks of living in the
+[19:39] 21st century is the electricity grid and
+[19:41] the internet. And Bitcoin just creates a
+[19:43] circular economy between those two with
+[19:45] a fixed supply unit of money uh on top
+[19:48] of that on top of that system. Wow. It
+[19:50] it it sounds like it it sounds like
+[19:54] Bitcoin is almost more connected to
+[19:56] nature than gold is. Even though gold is
+[19:59] like coming directly from nature, but uh
+[20:02] Bitcoin is connected to energy and
+[20:04] energy is is therefore uh really nicely
+[20:06] connected to nature.
+[20:09] Yeah. Yeah. I uh I see I well I refer to
+[20:14] it as digital mother nature and with
+[20:15] mining it takes no prisoners. The
+[20:17] network doesn't care. you're either
+[20:19] efficient and mining mining is a
+[20:23] redistribution system of of the units to
+[20:25] those most efficient. I mentioned before
+[20:27] you know price drops hash rate switches
+[20:29] off but it's the inefficient hash rate
+[20:31] that switches off. So there are concerns
+[20:34] right now say for mining which is if
+[20:36] more mining comes offline and the
+[20:38] security budget drops it's yeah but the
+[20:40] most efficient miners stay online and
+[20:42] then get paid more. So yeah, on the
+[20:45] mother mother nature side of things,
+[20:46] she's brutal and she doesn't care. Um
+[20:49] just just redistributes the money units
+[20:52] to those most efficient and those adding
+[20:54] the most value to society because
+[20:55] they're producing the most compute, thus
+[20:57] deploying the most electrical um
+[21:00] infrastructure and monetizing it. On the
+[21:03] mother nature side of things, there's a
+[21:05] I I like to refer to Bitcoin in terms
+[21:07] of, you know, the the the the tree. The
+[21:10] tree is the best analogy I find for for
+[21:12] Bitcoin, which is mining is that roots.
+[21:14] You know, a tree sort of is connected to
+[21:17] two worlds, which is the the ether, the
+[21:20] the digital side of the branches and the
+[21:23] sweet fruit of Bitcoin. um fragmenting
+[21:26] and the the transactional noise of the
+[21:28] network and the the the Twitter the
+[21:31] tweets in the tree so to speak and then
+[21:33] the blockchain is like the rings of the
+[21:35] tree as it grows older and builds more
+[21:38] layers and that doesn't change it just
+[21:39] stores the truth of what happened to the
+[21:41] tree so to speak and then you got the
+[21:44] root system which is all the mining and
+[21:46] that energy source and and uh yeah the
+[21:49] the the breath of the network shall we
+[21:51] say but that that goes on a bit of a
+[21:53] tangent but it's it's an interesting
+[21:55] analogy to to see Bitcoin and the well
+[21:58] even the sort of relationship trees have
+[22:00] to each other which is the sort of
+[22:02] mycelium network of uh the the
+[22:04] connections um and as we connect more in
+[22:08] Bitcoin just so much more is going to
+[22:11] come from it and that's a it's a very
+[22:13] open statement but but truly I think the
+[22:15] more the more people that join we're
+[22:17] just going to see so many more things
+[22:20] that that connectivity such as the the
+[22:22] citadels all developing everywhere where
+[22:25] they'll start connecting with each other
+[22:27] um through trade and pricing of goods
+[22:29] and services in Bitcoin. So, uh the
+[22:32] analogy goes very far, shall I
+[22:35] say? It's it's uh as I said with the
+[22:38] inefficient ones, it's it's like Darin,
+[22:40] the ones that don't survive. Do you
+[22:42] think is there's a um a danger of
+[22:46] centralization through miners because
+[22:48] the the best ones and the most efficient
+[22:50] ones are winning or is it more like the
+[22:53] smaller ones the mining the mini miners
+[22:55] at home the the heaters are are kind of
+[22:58] winning out in in the quantity?
+[23:01] Um, I think mini mining is a good
+[23:03] educational tool. Um, because when you
+[23:06] compare the amount of bit axes compared
+[23:09] to industrial scale mining, it's a
+[23:11] rounding error. As to centralization,
+[23:15] you can observe
+[23:17] uh the way that I have the network built
+[23:20] in six parts, which is produce energy,
+[23:23] produce electricity, the hardware, the
+[23:25] hash rate, the blockchain, and Bitcoin
+[23:27] in of itself.
+[23:29] You've got the decentralization of where
+[23:31] the mining's deployed. So by countries,
+[23:34] power sources, off-rid, on grid. You got
+[23:37] the decentralization of the electrical
+[23:39] grid in a sense. So you can look at how
+[23:41] much hash rate is by nation. And
+[23:44] obviously the majority is now US and but
+[23:47] there's sort of this there is this not
+[23:50] power balance but it's the hash rate
+[23:53] deployed of the network is US side but
+[23:56] the source of production of the
+[23:57] hardware. So it's almost like the the
+[23:59] opex of mining is in the US but the
+[24:02] capex of mining is is is produced in say
+[24:05] China and all the the chip fab nations
+[24:10] and there's there's always dangers of u
+[24:13] back back doors in the in the hardware
+[24:17] um the mining pools and and mining
+[24:19] mining pools are bitcoin miners
+[24:22] converting into hashes. They don't
+[24:25] they're not producing their own block
+[24:26] templates which is holding the destiny
+[24:29] of uh you know I fought to find the next
+[24:32] block in the chain. I'm going to decide
+[24:34] what goes in my block which obviously
+[24:36] delves into the discussion of the debate
+[24:38] of uh at the moment in Bitcoin as to
+[24:41] what should or shouldn't be in the
+[24:42] blockchain. Um but I I boil it back down
+[24:45] to miners are paid not to attack the
+[24:47] network.
+[24:50] How do you how do you like the debate
+[24:52] currently going on with the uh OP return
+[24:55] limit?
+[24:57] Um the OP return limit aspect of things
+[24:59] is um h
+[25:02] so on one side you've got the miners who
+[25:05] are the the one side you've got the
+[25:08] miners who are being paid to add more
+[25:12] blocks and then you got buyers that are
+[25:15] paying to go into those blocks. So what
+[25:17] you have is this pricing system of the
+[25:20] holders of Bitcoin, I want to, you know,
+[25:22] pay the least to store my transactions
+[25:25] forever online and the miners adding
+[25:27] those blocks and the people in the
+[25:29] middle are the nodes. So you got this
+[25:31] circular economy of uh data settlement
+[25:35] with the data money and obviously block
+[25:37] production to earn the data money, but
+[25:40] the nodes sit in the middle as the
+[25:41] volunteers. And I did just put a video
+[25:43] out actually referring to the sort of
+[25:45] timeline of how we got to where we are
+[25:47] today. So sort of looking at this debate
+[25:50] where we are today, where we came from
+[25:52] from the beginning and where we're
+[25:54] going. So from the from the node aspect
+[25:58] of things running a node from the
+[26:00] Satoshi era was you produced your own
+[26:03] blocks. So you're a minor. You stored
+[26:06] the data of those blocks that you
+[26:08] produced or others produced and they
+[26:10] sent to you through the network. the
+[26:12] information and you owned the data in
+[26:15] those blocks the bitcoin. So ownership
+[26:18] through your private key as a holder
+[26:20] storing the information as the sort of
+[26:22] node function in of itself and updating
+[26:25] the node updating the blockchain should
+[26:27] we say. Um so all three components have
+[26:31] now fragmented into different things. So
+[26:35] holding Bitcoin got obfiscated and
+[26:38] responsibility sort of handed off to
+[26:40] platforms, exchanges, hardware wallets.
+[26:44] Um what percentage are still holding
+[26:46] their private keys? Uh and then on the
+[26:50] the mining side of things, we went from
+[26:52] CPUs to GPUs to A6 and it got inevitably
+[26:55] harder. So the group of people actively
+[26:57] in mining as a percentage of the network
+[26:59] at any point in time has just gotten
+[27:01] smaller. And so yeah, everything to do
+[27:05] with your private key is fragmented off
+[27:07] into this financial world of ETFs and
+[27:09] all these sorts of things. Then
+[27:11] everything on the energy side, mining,
+[27:12] its own multi-billion dollar industry
+[27:14] fragmenting into its own sector and the
+[27:17] the financialization of running a node
+[27:20] which is a mining pool. And you got the
+[27:23] nodes in the middle that all this money
+[27:25] and energy is circulating around them.
+[27:27] that their function has not changed that
+[27:30] we want them to store the information.
+[27:32] The volunteers of the network juice
+[27:35] Bitcoin miners producing um blocks.
+[27:39] They're not producing Bitcoin. They're
+[27:40] getting subsidy, but they're producing
+[27:42] block space holders getting having to
+[27:45] pay to put in those blocks. But again,
+[27:47] you've got those nodes in the middle
+[27:49] that that are sort of in the battle
+[27:52] between those wanting to be paid to put
+[27:54] as much in the blockchain and those
+[27:56] wanting to pay. And so when it comes to
+[28:00] today where we are is this fragmentation
+[28:02] of all these different aspects and node
+[28:05] running sort of been lost very much in
+[28:08] in the in
+[28:09] the node running has been lost in terms
+[28:12] of its importance to those that are you
+[28:15] know I'm going to hold Bitcoin my ETFs
+[28:17] and give it to Sailor and all these
+[28:20] sorts of things and then mining is
+[28:21] they're not a lot of them aren't even
+[28:23] running nodes they are hashing hashing
+[28:25] they're selling their hash rate to a
+[28:27] pool and they don't have to worry about
+[28:29] the the the node running aspect. They
+[28:30] are just producing hash rate and getting
+[28:33] paid Bitcoin for doing so. So node
+[28:36] running still remains that fundamental
+[28:40] um bridge between the two energy and
+[28:43] financial worlds of Bitcoin. And the OP
+[28:45] return discussion is do we impose more
+[28:48] cost on the volunteers of the network
+[28:51] where mining is incentivized to to to
+[28:54] get more efficient ships but nodes are
+[28:57] not incentivized in any way to in
+[29:00] financial terms to add more storage
+[29:03] space because the blockchain uh file
+[29:06] size so to speak is getting bigger and
+[29:08] bigger at an everinccreasing rate. if
+[29:10] the idea of it being a monetary network
+[29:12] transitions to it being in cloud
+[29:15] storage. And there's no there's no exact
+[29:20] right or wrong answer here because we're
+[29:22] all trying to figure out what tomorrow
+[29:24] looks like which is subsidy disappear
+[29:27] tomorrow but you know in a 100 years
+[29:29] time subsidy is gone. We're just
+[29:31] depending on how much is put in blocks.
+[29:34] So for miners from the earlier
+[29:36] discussions we've had it's uh their
+[29:39] energy is being priced against block
+[29:41] rewards. So if block rewards are purely
+[29:44] fees, um the value of their energy is
+[29:48] block the the fee market essentially.
+[29:50] The fee market is the data settlement
+[29:53] against their their their energy
+[29:55] consumption which also sets the value of
+[29:57] Bitcoin in electricity terms that if
+[30:01] fees are really low, Bitcoin buys more
+[30:04] energy from the miners paradoxically. So
+[30:06] the you with with the fee rate low, the
+[30:09] purchasing power, the amount of
+[30:11] electricity you can buy with your
+[30:13] Bitcoin really increases. But if the fee
+[30:17] rate is really high, um miners are
+[30:20] earning more Bitcoin for their energy
+[30:22] use. So buying the it's paradoxical, but
+[30:26] buying the energy is more expensive. So,
+[30:28] Bitcoin transitions us away from a
+[30:31] debt-based monetary system that has
+[30:33] interest rates to determine the the
+[30:35] value of money and the cost of capital
+[30:37] to borrow debt and transitions us to an
+[30:40] energy- based monetary system where the
+[30:42] value of energy is deter the the price
+[30:44] of energy rises and falls uh in
+[30:47] correlation to the fee market which is
+[30:49] an interesting way to see it where at
+[30:51] the peak of the bull market where fees
+[30:53] will be out of control um energy more
+[30:56] energy inputs would be more expensive.
+[30:58] expensive because miners are earning
+[30:59] more so they'll rather monetize through
+[31:02] the network versus selling it locally at
+[31:04] a higher price in terms of Bitcoin. So
+[31:06] that's where I see us in the future.
+[31:09] Now as to today if blocks are empty and
+[31:14] there's
+[31:15] uh a capacity aspect that if if there's
+[31:19] already the 1 to 4 megabyte aspect of of
+[31:22] storage if that's empty
+[31:24] um that that velocity of fees and energy
+[31:28] circulating in the network is is less
+[31:32] and the more the more the more
+[31:34] circulation between these two worlds uh
+[31:36] the more hash rates deployed which more
+[31:38] energy infrastructure is deployed um
+[31:41] which is that physical side but again
+[31:44] the nodes in the middle are fronting all
+[31:46] of this cost in terms of the data side
+[31:48] uh I I see that sort of resurgence of
+[31:51] all three functions of mining running a
+[31:53] node and holding your own private keys
+[31:55] your your bitcoin if if we reconnect
+[31:59] those three like it used to be so to
+[32:01] speak back in the day um I think I think
+[32:04] if both three sectors sort of had more
+[32:08] into connection. Um I think yeah I I I
+[32:13] honestly think that the there'll be more
+[32:15] nodes if people are actively
+[32:18] participated in all three cuz it's
+[32:20] there's a lot of people I'm sure they
+[32:22] bought a mini miner and they go well now
+[32:24] I want to run my own node connected to
+[32:26] my mini minor into my own wallet and
+[32:28] they are they you know they're connected
+[32:29] to all three functions again. So that's
+[32:32] education truly is is the solution. I
+[32:35] didn't answer your question as to what I
+[32:37] think of the OP return thing. Uh I
+[32:40] wouldn't say my my knowledge in the the
+[32:42] deep deep blockchain technicals are
+[32:45] fully there. I'm just sort of using my
+[32:48] knowledge of the understanding of how
+[32:50] the different layers of energy
+[32:53] comput and what that looks like in the
+[32:55] future. Uh one one argument could be
+[32:59] that if blocks are empty, could you the
+[33:02] way the difficulty adjustment reg is a
+[33:04] regulator for you know if there's more
+[33:07] blocks raise a difficulty could the
+[33:09] difficulty adjustment be a regulator for
+[33:12] the amount of arbitrary data that goes
+[33:15] in the blockchain by the the the nodes
+[33:17] observing how empty or full blocks are
+[33:21] and raising or you know increasing and
+[33:24] decreasing the the the the the arbitrary
+[33:28] data limit so that if blocks are empty,
+[33:32] but yeah, it it still delves into that
+[33:34] sort of discussion of is it strictly
+[33:36] monetary or is it is it to be you know
+[33:40] what's what price would you pay, what
+[33:42] price should you pay to store
+[33:43] information online forever, which is
+[33:46] that's what the nodes offer, but they're
+[33:48] not paid to do it. But if if a lot of
+[33:51] nodes were mining, running a node and
+[33:54] holding Bitcoin, they have a
+[33:56] justification to continually buy more
+[33:58] storage space because they're mining and
+[34:01] and they're holding their Bitcoin as
+[34:03] well. U doesn't quite give you an
+[34:06] answer, I don't think, but it's just I'm
+[34:08] trying to look in the future, try to
+[34:10] look in the past and find some sense of
+[34:12] where we are today. Let's take a break
+[34:14] for a moment and appreciate the beauty
+[34:17] that Coin Vigilante has made with the
+[34:20] Bitcoin watches. Those watches are the
+[34:23] most amazing, the most elegant way of
+[34:26] showing that you are a true Bitcoiner.
+[34:29] And Coin Vigilante just dropped a
+[34:31] completely new and amazing Genesis
+[34:34] edition of their watch collections. You
+[34:37] have the date of the first ever mined
+[34:40] Bitcoin block in there and of course
+[34:42] also the block height and which epoch we
+[34:45] are currently in. I love the level of
+[34:48] detail they put in in this masterpiece.
+[34:51] Make sure to check out those amazing
+[34:53] coin vigilante time pieces down in the
+[34:56] descriptions. I love those watches so so
+[34:59] much. And now if you have Bitcoin, I
+[35:02] really do hope that you don't have it on
+[35:04] exchange. But if you do have it on
+[35:06] exchange, I have two ways for you to
+[35:08] deal with that. The first way is you put
+[35:10] it on a hardware wallet. That's the
+[35:12] entry for you to get into the
+[35:15] self-custody game. I recommend Bitbox
+[35:18] Bitcoin only edition for that. It's a
+[35:21] super simple and secure way. And if you
+[35:24] check out the link in the description,
+[35:26] you even get 5% off if you use the code
+[35:29] Robin. And the second way is the Bitcoin
+[35:32] way. The Bitcoin way is your all-in
+[35:35] partner in terms of how to get the most
+[35:38] out of your sovereignty. They will
+[35:40] personalize for you a self-custody setup
+[35:43] that is perfect for your individual
+[35:46] situation. They will show you how you
+[35:48] can secure your own devices. Securing
+[35:51] your Bitcoin is not enough. You also
+[35:53] have to keep all your devices secure.
+[35:56] One topic that is overlooked often is
+[35:58] the inheritance plan. What happens with
+[36:01] your Bitcoin once you are no longer
+[36:04] here? Do you have a plan for that in
+[36:06] place already? And last but not least,
+[36:08] if you're in a jurisdictions where you
+[36:10] don't feel safe, it's better to get a
+[36:13] plan B. For all that, head over to the
+[36:18] bitcoinway.com/roin to get a 30inut free
+[36:21] call. And just a quick side note, I will
+[36:23] be for the first time ever speaking at
+[36:26] the Bitcoin Prague event in June. It
+[36:29] will be absolutely legendary and I'm
+[36:31] really looking forward to seeing all of
+[36:33] you there. You can get your ticket in
+[36:36] the link down in the description of
+[36:38] Bitcoin Prague. And very important, use
+[36:40] code Robin to get 10% off your ticket.
+[36:44] I'm really looking forward seeing you
+[36:46] there. Yeah, it's a it's it's a hard
+[36:48] one. Uh I also haven't fully
+[36:51] grasp where where I and we we should
+[36:55] stand these days. For me, with every
+[36:59] change in the Bitcoin network, it should
+[37:01] always
+[37:03] be the arguments on why we should change
+[37:06] something should be extraordinary good.
+[37:10] So, uh the status quo should be defended
+[37:14] as good as possible and any change
+[37:19] should have a really good argument why
+[37:22] we should change that. that that's
+[37:24] because I think Bitcoin doesn't live
+[37:26] from constant change in the network in
+[37:29] the base layer. It it lives
+[37:32] from because we can rely on it because
+[37:34] it's a reliable system and we can trust
+[37:37] it for the next hundred thousands maybe
+[37:39] even more than uh thousands of years. So
+[37:43] every change for me is like we we need
+[37:46] to find a really good reason why we do
+[37:48] this because as most software developers
+[37:51] know you change a little bit here and
+[37:53] all of a sudden there's somewhere else a
+[37:55] problem popping up. So uh for me it's
+[37:58] just like is there a good enough reason
+[38:00] to actually change that? I haven't heard
+[38:02] one but I'm also not as good in deep in
+[38:06] there and I also haven't researched
+[38:07] really uh deeply yet. Uh but every
+[38:10] change that gets um kind of post I'm
+[38:14] like okay what is the real good reason
+[38:17] to actually go ahead and do that because
+[38:20] this not changing already worked 16
+[38:22] years and yes we have to change things.
+[38:25] I think if we now stick with the Bitcoin
+[38:28] code that it is there and we never
+[38:30] change anything I think Bitcoin will
+[38:32] fail. There are just uh future
+[38:34] developments coming that we need to
+[38:36] change some things. Um, but it has to be
+[38:39] a really freaking good reason to change
+[38:42] something, not just like, oh, like the
+[38:43] code gets a little bit more efficient.
+[38:45] Yeah.
+[38:46] Um, when it Well, what I mentioned about
+[38:50] you got miners wanting to add as many
+[38:52] blocks cuz they're paid the subsidy and
+[38:54] there's block space for them to to sell
+[38:56] to holders.
+[38:57] Um, you've also got the aspect of
+[39:00] holders wanting that fee rate to be as
+[39:01] low as possible because it means more
+[39:03] sovereignty and more access to block
+[39:06] space because um, you can compare every
+[39:09] UTXO, every quantity of Bitcoin in a
+[39:12] wallet versus the fee rate and if the
+[39:14] fee rate is higher than the quantity
+[39:16] that Bitcoin becomes not null and void,
+[39:19] but
+[39:20] um, spending it is
+[39:23] nonsensical. So, and then you've also
+[39:26] got the the uh the quantum concern,
+[39:29] which is if we had to shift all the the
+[39:33] UTXOs into some form of quantum
+[39:36] resistant um uh UTXO wallet account,
+[39:40] whatever it is, um you've got to move
+[39:43] the entirety of all uh all the
+[39:48] information through a throughput that's
+[39:50] very very small. it would take uh tens
+[39:53] of years just to move all the bitcoin
+[39:55] into more quantum resistant wallets. At
+[39:58] that point, the inevitable task there
+[40:01] would that that all wallets, you know,
+[40:04] the majority of large holders will be
+[40:06] able to shift through, but smaller
+[40:08] holders maybe not. Uh but obviously
+[40:10] there's a lot bigger problems in society
+[40:13] of other sorts of systems such as
+[40:15] nuclear launch codes and all those sorts
+[40:16] of things that would probably be tried
+[40:18] you know people trying to act not access
+[40:20] but it's yeah there's there's all
+[40:22] different it's all looking into the
+[40:24] future looking in the past where we are
+[40:26] today and but again I think what s what
+[40:31] sustains that decentralization is the
+[40:33] cost to run a node be uh the cost
+[40:38] imperative is keep it down because uh we
+[40:41] want we want that duplication of the
+[40:43] number of nodes because one person
+[40:46] stores the truth that's centralized. If
+[40:50] thousand 10,000 100 thousand all have
+[40:53] that same copy of that same file. Um we
+[40:56] we're not all operating with
+[40:58] abstractions. We've all got a shared
+[40:59] reality to to coordinate society on. Um
+[41:03] we've seen the degradation when when the
+[41:05] quality of money declines. We're we're
+[41:07] in the we're at the end of the debt
+[41:09] money system in my view and
+[41:11] transitioning us onto this new energy
+[41:13] money system. Um the the settlement
+[41:17] layer
+[41:19] is the settlement layer is core. Um and
+[41:24] how the layer twos and social layer 3es
+[41:27] get built on that and how the mining
+[41:28] interacts underneath that. Um it's it's
+[41:31] like a it's like a game of chess. You
+[41:33] don't really want to change the rules.
+[41:35] you just want to make sure that the game
+[41:36] is played fairly.
+[41:38] Um, yeah,
+[41:41] that is that is very true. Do you feel
+[41:44] like there's um an sufficient amount of
+[41:47] active full node runners that look over
+[41:50] the network? Um, I haven't looked so
+[41:53] deeply right now into the sort of I know
+[41:55] there's people, places, and things that
+[41:58] that measure the sorts of um the size,
+[42:01] you know, if it's the prune node,
+[42:02] partial node, all sorts of things. So
+[42:04] I'm not too familiar in that department.
+[42:07] But but again I think if people
+[42:10] are if if learners of Bitcoin are
+[42:14] engaging with these smaller components
+[42:16] of the network which is a mini miner
+[42:18] hardware wallet you know read write and
+[42:20] own if you're writing in the blockchain
+[42:22] with with hash rate going into ocean so
+[42:25] having your own block templates in a
+[42:27] sense it's very niche and small amounts
+[42:29] but it's it's the effort the storing of
+[42:33] your own data running your own node even
+[42:36] adding lightning to that if you if you
+[42:38] want to go that direction and then
+[42:40] holding your own private keys. That that
+[42:43] engagement of people to sort of step
+[42:45] back from the the digital noise of
+[42:48] everything in this world right now,
+[42:49] hyperconumption society and and want to
+[42:52] be more physically engaged and and also
+[42:54] teaching kids if if we're always go to
+[42:57] the youth teach them how to oh look this
+[43:00] is a m this is a mini minor plug it into
+[43:02] the power connected to the Wi-Fi. Oh,
+[43:04] look. We're connected to this pool and
+[43:05] look, I've put it I've connected it
+[43:07] through, you know, a lightning layer 2,
+[43:09] a lightning wallet. Oh, look. So, we're
+[43:12] consuming energy. Oh, it's making this
+[43:14] thing called hash rate and then flowing
+[43:16] Bitcoin into a wallet. These sorts of
+[43:18] pieces connect it all together.
+[43:20] Otherwise, we're just lost in this soup
+[43:22] of all these different technical topics
+[43:25] in all different areas. But if we
+[43:27] connect all the layers, engage people
+[43:28] with mini miners that then want to run
+[43:31] their own node and store their own
+[43:32] bitcoin in their own wallet, it
+[43:34] reconnects those three components of
+[43:36] read, write, and own of the blockchain
+[43:38] um to a to a point that we'll have more
+[43:41] active participants that run a node
+[43:44] because they're getting paid to add
+[43:46] blocks to the chain in a sense and
+[43:48] they're holding the money from being
+[43:50] paid to add blocks. So, it just sort of
+[43:52] rebalances the the economics of running
+[43:55] a node. If you're being
+[43:57] paid, yeah, you have to nine to
+[43:59] participate in increasing the storage
+[44:01] size of of your of your your node, so to
+[44:04] speak. That's that that's the only way
+[44:07] to introduce an economic incentive
+[44:09] without miners in of themselves being
+[44:10] paid to do so, which is not what we want
+[44:12] because it would someone would spin up
+[44:15] loads and loads and loads of versions of
+[44:16] nodes um if there was some form of
+[44:19] economic incentive to do so. It's that's
+[44:21] where the compute aspect comes in. um
+[44:23] the proof of work is is why the
+[44:25] economics are distributed to anyone with
+[44:27] an energy cost. So if there's someone
+[44:30] involved in making having an energy cost
+[44:32] with compute running their own uh node
+[44:34] storing the data and earning the bitcoin
+[44:37] and if that circular system of three
+[44:40] people is down to each individual will
+[44:43] have a lot more nodes because they've
+[44:45] got the money to to continually scale
+[44:48] out how much storage space they need.
+[44:50] But you you can compare it to say Salana
+[44:52] that's like 300 terabytes
+[44:55] uh to run a node to to run a full
+[44:57] archival node for Salana the the
+[44:59] centralized blockchain that pauses which
+[45:02] is it's absurd that only a handful of
+[45:08] large um databases that data centers
+[45:12] will be running that database. And it
+[45:16] just means that everyday people that
+[45:18] just go crypto crypto crypto and trade
+[45:20] nonsensical coins uh and tokens that
+[45:23] they're they're not engaged in those
+[45:25] fundamentals. So it they're just
+[45:27] gravitating towards a digital version of
+[45:30] the very system we already have um today
+[45:33] with with the debt debt money system.
+[45:35] Bitcoin requires people to gravitate
+[45:37] towards um sovereignty and and
+[45:40] self-sufficiency and that that goes
+[45:42] through all the layers. I love your
+[45:44] framing or like your description of
+[45:47] there is the depth money system and then
+[45:49] there's the energy money system. I I I
+[45:51] love that because we always say like oh
+[45:53] sound money and uh fiat money but then
+[45:56] you have to like explain that and and
+[45:58] depth money system and energy money
+[46:00] system. Uh at least for me it feels more
+[46:02] tangible uh the the description of that.
+[46:05] So it's it it makes for me uh at least
+[46:07] for me a little little bit more sense.
+[46:09] You also you are also really big on uh
+[46:11] unit of account as a as a system. I I
+[46:14] saw I think on your Twitter it's written
+[46:17] um unit of building a unit of account of
+[46:19] of Bitcoin. What what is that a focus
+[46:21] like? Why why unit of account? Uh aren't
+[46:24] we extremely far away from from that
+[46:28] miners are the f the f well the first
+[46:30] unit of account in my view is uh block
+[46:34] space. Block space is you know uh blocks
+[46:38] produce there's a certain amount of data
+[46:40] space for transactions to be stored in
+[46:42] that and it's a live market that your
+[46:45] transaction will be pushed out of the
+[46:46] next block if someone else pays a higher
+[46:49] fee because those miners are trying to
+[46:50] capture as much fees versus their
+[46:52] energy. So what I try and observe
+[46:55] Bitcoin as a unit of account which is
+[46:57] measuring the quantity sorry measuring
+[47:00] other things in a quantity of Bitcoin
+[47:04] not a dollarized value of Bitcoin using
+[47:06] Bitcoin as settlement but measuring
+[47:07] other things and a quantity of Bitcoin.
+[47:09] So the first thing is obviously block
+[47:11] space that that's the first and foremost
+[47:13] one. The second commodity on a Bitcoin
+[47:16] unit account is electricity because
+[47:18] miners can define their block space that
+[47:21] they've produced versus that electricity
+[47:23] that they've consumed and they are
+[47:26] active. They're constantly measuring
+[47:28] this quantity of electricity which is
+[47:31] priced in. You got this quantity of
+[47:32] electricity through a computer to
+[47:35] produce a quantity of Bitcoin. And
+[47:36] they're obviously trying to make uh the
+[47:38] dollarized value of those quantities
+[47:40] make sense which is you know spend
+[47:42] $50,000 on electricity which is say is
+[47:46] that a million kilowatt hours? I think
+[47:48] it is um to produce the $100,000
+[47:50] Bitcoin. And so their economic value of
+[47:54] those kilowatt hours is the the amount
+[47:56] of Bitcoin they can produce. So that you
+[47:59] strip the dollar bits away and you've
+[48:01] just got quantity of kilowatt hours
+[48:02] versus a quantity of Bitcoin. And so
+[48:04] they will want to sell the electricity
+[48:08] uh in Bitcoin per kilowatt hour at
+[48:10] greater value than what they could mine.
+[48:12] And so that creates a world where miners
+[48:15] are buying energy below the Bitcoin per
+[48:19] kilowatt hour rate and they are selling
+[48:22] it above the Bitcoin per kilowatt hour
+[48:24] rate. So they're naturally creating this
+[48:26] market force of selling the price of
+[48:28] energy to Bitcoin per kilowatt hour and
+[48:30] buying the energy up to Bitcoin per
+[48:32] kilowatt hour. And thus I believe that
+[48:34] that the next commodity beyond block
+[48:37] space to be on a Bitcoin unit account is
+[48:40] electricity. And then you go, okay, what
+[48:44] what does electricity plug
+[48:46] into? Everything. We've got the whole
+[48:49] transportation system that's just
+[48:51] pushing, you know, the landside um
+[48:54] pushing into electrical vehicles. So I
+[48:58] do believe there'll be a point you, you
+[49:00] know, pull up to the in American gas
+[49:02] station. um not anymore and you'll see
+[49:06] Bitcoin per kilowatt hour as that rate
+[49:08] because now think of the businesses that
+[49:10] operate in such a space that you've got
+[49:14] uh people running an electric car
+[49:17] charging uh electric station and they
+[49:20] are their business is to sell
+[49:23] electricity that that they buy it from
+[49:26] the grid at volume wholesale and sell it
+[49:28] to cars coming in retail and obviously
+[49:31] the subsidies from from the governments
+[49:33] are messing up that that economics that
+[49:35] these are industries that we do want
+[49:38] because there's going to be people that
+[49:39] want electric cars and the volume of
+[49:41] cars and if their business is selling
+[49:45] electricity, what's to stop them running
+[49:48] Bitcoin miners with the electric car
+[49:50] charging? Use the heat from the machines
+[49:53] to sustain the temperatures of the
+[49:55] tarmac underneath the cars in the cold
+[49:57] environments. run it into a sauna, into
+[49:59] a lingerie. The the fragmentation of the
+[50:02] different connections that Bitcoin
+[50:03] mining has into other industries now
+[50:05] that you've got electricity priced in
+[50:08] Bitcoin, it it goes into all different
+[50:10] ways. But if they now are observing,
+[50:12] okay, we can sell electricity to cars
+[50:15] coming into charge and also this these
+[50:17] computers that that turn it into money,
+[50:20] um they will want to sell the power at
+[50:23] the same rate or slightly higher than
+[50:25] what they can turn into Bitcoin. So that
+[50:27] energy rate naturally descends on on the
+[50:30] bitcoin per kilowatt hour rate which is
+[50:32] priced in uh block rewards which is
+[50:34] going to inevitably just be solely the
+[50:36] fee market. And so with electricity
+[50:40] priced in a bitcoin unit of account
+[50:42] which feeds into all of the inputs of so
+[50:44] of society you know we've come off a
+[50:46] debt oil petrod dollarbased money system
+[50:49] into an energy based electricitybased
+[50:51] currency system which does have some
+[50:53] very interesting historical context of
+[50:56] Thomas Edison and Henry Ford
+[50:58] conceptualizing the idea of an
+[51:00] energybased currency to stop wars and
+[51:02] debase gold as a monetary reserve which
+[51:04] was I think was it 1921 I believe The
+[51:08] article is uh place called Muscle
+[51:10] Scholes where they wanted to essentially
+[51:12] use the power of a hydropower dam to
+[51:14] create some energy unit um and use that
+[51:17] as a as a currency system. And so the
+[51:20] history is there for energy based money
+[51:22] all the way back. But uh electric Yeah.
+[51:26] The the infrastructure of today is the
+[51:28] electrical grid and the internet. And
+[51:32] everything on the finance side sits on
+[51:34] the internet of everything on the energy
+[51:35] side is the electrical grid. And Bitcoin
+[51:38] mining can turn energy into money off
+[51:41] the grid when things can't connect to
+[51:43] the grid, which is build a new uh wind
+[51:46] farm and you need to join the queue to
+[51:49] to wait x amount of years to get
+[51:51] connected to sell your power. So, you're
+[51:53] a you're a business that sells power.
+[51:56] Um, if you can't get connected to the
+[51:58] the power market, you need someone else
+[52:00] to step in and and monetize your power.
+[52:03] So, you can be anywhere on the
+[52:05] planet, anywhere in anywhere. Yeah.
+[52:07] Anywhere in space, anywhere in time
+[52:09] because there's always a block to be
+[52:11] mined. Um, and then you've got this this
+[52:13] energy money that that connects it all
+[52:16] together. And that pricing system is
+[52:18] across everyone. So, I do believe people
+[52:21] will be in the middle of the middle of
+[52:22] the jungle that they truly their their
+[52:25] goal in life is to completely disconnect
+[52:27] from society, but they'll still be
+[52:29] connected because they'll still be able
+[52:31] to mine their own Bitcoin. Um, and just
+[52:34] like the way that California developed
+[52:37] into a massive nation in of itself, it's
+[52:39] like a large economy.
+[52:42] um from gold, natural wealth being found
+[52:44] in that local level and gold went out,
+[52:47] goods, services, resources, businesses,
+[52:50] industries came in. And so if we've now
+[52:53] got this new monetary system that is is
+[52:56] uh California on steroids, which is
+[52:59] wherever there's energy abundance in the
+[53:01] world, um mining will gravitate there,
+[53:05] build out infrastructure, build out
+[53:07] their own energy systems and build out
+[53:10] their own my hope is they build out
+[53:11] their own communities of people that
+[53:12] want to live anywhere and anywhere
+[53:14] that's that can capture power like some
+[53:17] hydropower dam in the middle of nowhere
+[53:18] that the industry's left and how you
+[53:21] know a community could be there. And
+[53:23] then you've got this energy pricing
+[53:24] system where if you live in the middle
+[53:26] of nowhere, you're still going to want
+[53:27] to be connected to the internet to to
+[53:29] play whatever video game you play. Um
+[53:32] you still want to participate with
+[53:34] society, which is money needs to go in
+[53:36] one direction from your local place that
+[53:39] you've produced it with your mining and
+[53:41] goods and services come to you. So we've
+[53:42] got established logistics and supply
+[53:45] chains for everything. Um, and now we
+[53:48] have a form of digital hard global money
+[53:50] that enemies can trade and yeah, it it
+[53:54] just solves it all. It's a it's a
+[53:56] pricing system and it
+[53:59] democratizes it democratizes that
+[54:01] pricing system as well because more hash
+[54:03] rate joins the more electricity your
+[54:06] Bitcoin buys. So there's there's a few
+[54:08] pieces to it but I'll try and keep it
+[54:10] simple.
+[54:13] It was very good explained and the the
+[54:16] question I always ask and and I'm 100%
+[54:19] with you that we will get to that point
+[54:21] where Bitcoin is a unit of account of of
+[54:24] basically everything and you do a really
+[54:26] good um job in explaining why and how
+[54:29] this this whole thing works. What do you
+[54:31] think is the implication of that when we
+[54:33] have now a base money that is
+[54:37] deflationary or disinflationary in in
+[54:40] nature and not inflationary? People seem
+[54:43] to be so focused already on oh I get a
+[54:46] salary increase every year. Oh, I the
+[54:49] the food gets more costly every year.
+[54:52] What if this whole thing flips where uh
+[54:55] you you might get salary decreases every
+[54:57] year but still have more purchasing
+[54:59] power because your salary decreases
+[55:01] slower than your banana costs. Huh.
+[55:06] Um, I think people, well, I have an
+[55:10] interesting theory that the difficulty
+[55:11] adjustment will probably be something to
+[55:14] use as an aggregate to repric people's
+[55:17] employment contracts because the
+[55:19] difficulty adjustment is a
+[55:20] representation of how much energy is in
+[55:22] the system because you've got more
+[55:24] mining producing sorry more energy to
+[55:27] produce more compute which produces more
+[55:30] blocks in a relative time period. So,
+[55:32] difficulty increases. So the difficulty
+[55:34] adjustment is the software of the
+[55:37] network understanding how much compute
+[55:39] is trying to brute force add more blocks
+[55:41] to the chain which is how much hash rate
+[55:44] is being produced which the average
+[55:46] efficiency of the network gives us an
+[55:48] understanding how much energy is in the
+[55:50] system and the um what was your question
+[55:54] again? I wonder um what the implications
+[55:58] of that is. What is the implications of
+[56:00] of of uh having Bitcoin as a unit of
+[56:02] account? So in a in the the deflationary
+[56:06] aspect, you've got the fixed supply 21
+[56:08] million units with energy expanding,
+[56:11] compute expanding, dollar expanding,
+[56:14] nodes expanding. We hope all those
+[56:16] things expanding under these units. So
+[56:17] obviously everything is getting repriced
+[56:21] against the quantity of sats trending to
+[56:23] zero never reaching there. Um and in
+[56:26] deflationary terms like well
+[56:29] inflationary terms if you sign an
+[56:31] employment contract you're saying that
+[56:33] my 40 hours this week my time and energy
+[56:36] is worth this quantity of units and then
+[56:38] you go and use those units to buy a
+[56:40] quantity of goods and services. And the
+[56:43] the the key thing that everyone needs to
+[56:45] understand that's not really in Bitcoin
+[56:48] is that money you have to look through
+[56:49] the money that you're working in
+[56:53] exchange of other people's time and
+[56:54] energy as well that you're accessing
+[56:56] other people's goods and services on the
+[56:57] other side of that money because what do
+[56:59] you do? You earn it and then you spend
+[57:00] it on energy bills and and living and
+[57:04] rent and and all these sorts of things.
+[57:06] And the the slippage in that system for
+[57:10] inflationary money is you earn it in
+[57:12] quantity with your time and energy. And
+[57:15] then that quantity of money buys you
+[57:17] less over time. So somewhere between the
+[57:19] hard work that you provided the world
+[57:22] and the time that you spend it, it it
+[57:25] erodess. The the hamburgers get smaller
+[57:27] and more expensive. And those are the
+[57:30] those are the the concerns of an
+[57:32] inflationary money system.
+[57:35] um which redistri you know if more units
+[57:38] in the middle are printed on your side
+[57:40] of time and energy versus buying someone
+[57:41] else's time and energy. If the units get
+[57:44] inflated it's um in like a business
+[57:48] person's perspective it's they get if
+[57:50] we're all getting share we're getting
+[57:51] diluted shares of the collective
+[57:54] purchasing power of of the dollar or the
+[57:56] pound or the euro and where do those new
+[57:59] units those new shares go? they go to
+[58:02] inefficient causes um and and and gross
+[58:06] inefficiency.
+[58:07] Bitcoin the the amount of the full cap
+[58:11] is 21 million where the 20 I can't
+[58:13] remember the exact supply at the moment
+[58:15] circulating but these units are being
+[58:17] distributed to the most efficient in
+[58:19] society versus government which can be
+[58:22] argued as one of the most inefficient in
+[58:24] society and so to start with is okay the
+[58:27] monetary units are being distributed to
+[58:29] those most efficient with their energy
+[58:31] and compute that's the start the base
+[58:33] layer and then people are buying it at a
+[58:36] dollar to bitcoin exchange change rates.
+[58:37] That's a clear the Bitcoin price is
+[58:40] essentially a clear comparison between
+[58:41] the two systems. And Bitcoin to
+[58:45] production is representative of how
+[58:47] efficient you are, how cheaply you can
+[58:50] acquire your Bitcoin. And when it comes
+[58:53] to the deflationary use of that money
+[58:55] the so I've covered the part where we're
+[58:58] earning it which is the miners in
+[59:00] whichever quantity based in your energy
+[59:02] costs and then to go to spend it is or
+[59:06] even the salary aspect is yeah is if
+[59:08] difficulty has increased 10% where it's
+[59:11] because the network hash rate increased
+[59:13] by 10%. Which means roughly 10% more
+[59:16] energy has entered the network. And if
+[59:19] all those things have have happened, it
+[59:21] means that the value of
+[59:23] Bitcoin in electricity terms has
+[59:26] increased to 10%. And we'll buy 10% more
+[59:29] electricity. So if the units that you've
+[59:32] signed a contract to earn in time and
+[59:34] energy has increased in value by 10%,
+[59:37] maybe you should make take a pay cut by
+[59:39] 10%. And so that's the theory behind
+[59:41] maybe the difficulty adjustment where in
+[59:44] the future someone will have an
+[59:45] employment contract to say that their
+[59:47] time and energy is worth this quantity
+[59:49] of energy money units. But if the energy
+[59:52] value of the the units change, the
+[59:54] difficulty adjustment is our key key
+[59:57] metric of that planetary scale
+[59:59] understanding of what the true value of
+[60:01] Bitcoin is underneath the dollar debt
+[60:03] based money system that we are moving
+[60:05] away from. So everything to do with unit
+[60:07] of account has to address the
+[60:10] fundamentals of Bitcoin and obviously
+[60:12] the difficulty adjustment is the key
+[60:13] regulator there.
+[60:16] It makes a lot of sense and I love your
+[60:18] explanations
+[60:20] man. It's very unique how how how you go
+[60:23] about and and and tell me things. I
+[60:25] could be right, I could be wrong but I
+[60:27] just look beyond the anything with a
+[60:30] dollar in it that's not fundamental. you
+[60:33] have to go um deeper and and I'm trying
+[60:37] to ensure that the education addresses
+[60:39] that where we do understand you know
+[60:41] even with the initial discussions of of
+[60:43] return is what will happen in the past
+[60:46] where we where we are at today and where
+[60:48] are we going in the future and we can
+[60:50] understand subsidy disappears so it's
+[60:53] the fee rate of blocks uh blocks smaller
+[60:56] bigger well that imposes costs on the
+[60:58] nodes uh but miners have more block
+[61:00] space to sell but we don't want too much
+[61:03] power to the miners because you
+[61:04] mentioned the centralization aspects.
+[61:06] There's we have this delicate dance of
+[61:09] these three core groups that are mostly
+[61:13] the same person but there is there is
+[61:16] this sort of fragmentation where there's
+[61:17] a large group of people just sitting on
+[61:19] piles of Bitcoin but they're not
+[61:21] actively participated in the network. On
+[61:23] the flip side, the more Bitcoin that's
+[61:26] being held and not circulated and
+[61:29] settled in blocks, so if 99% of Bitcoin
+[61:32] sat in wallets and never moved, there's
+[61:34] only 1% in relative terms being priced
+[61:37] against all the energy of the network,
+[61:39] which reprices the 99% against all of
+[61:42] that energy in much greater quantity.
+[61:45] But if it doesn't s the circulation has
+[61:48] to has to sustain but too much
+[61:51] circulation and everything gets
+[61:52] expensive and not enough circulation
+[61:55] and the it's just this this interplay of
+[61:58] energy and finance that's truly sort of
+[62:01] made me obsessed with with hash power um
+[62:04] and all I can do is push out education
+[62:07] with what I know is fundamental
+[62:09] um and also understand um where I could
+[62:13] be right where I could be wrong I don't
+[62:14] know. Um, but at least push out good
+[62:18] knowledge cuz that's I've sat on these
+[62:20] ideas for uh a good year. And it's not
+[62:25] to say I was going to talk about them
+[62:27] and and then have
+[62:29] um I don't know everything you want is
+[62:32] on the other side of fear is is a is a
+[62:34] valuable quote that I think people
+[62:36] should live by that if if you want to
+[62:38] speak on things, speak about it. If you
+[62:40] waiting on someone to call you, just
+[62:42] call them. If they don't, fool you once,
+[62:44] fool you twice. But um yeah, there's
+[62:46] there's all with Bitcoin, there's just
+[62:48] so much looking at every aspect of
+[62:51] questioning everything. Um but it truly
+[62:54] has to come back down to the individual.
+[62:56] I love the message of uh the things you
+[62:58] want is beyond the wall of fear
+[63:00] basically. Yeah. Uh just to give maybe
+[63:03] you context, I talked about it already
+[63:06] sometimes on the podcast. Um, I was in
+[63:09] school uh so bad that I almost failed in
+[63:12] German and I failed in English through
+[63:15] German school. So I had to repeat a
+[63:18] class there. Uh and not when I was like
+[63:21] 12 but when I was like uh 17 years old.
+[63:24] Uh so it was not uh that uh that that
+[63:27] early and then um uh I had an extreme
+[63:31] amount of fear for any presentation like
+[63:33] I I got ran up the the the gin and uh
+[63:38] ever since then I think like 18 or 19 I
+[63:41] I realized that it would be really bad
+[63:44] for me in my life if I keep having that
+[63:46] fear and I learned that just going a
+[63:49] little bit in in that fear helps to
+[63:52] decrease that fear from that and the
+[63:54] podcast is just a product of me trying
+[63:57] the best to deal with that fear. And
+[63:59] funny enough, now I earn my money just
+[64:02] by speaking about Bitcoin. So the very
+[64:06] much the the thing that I was most
+[64:07] afraid of at like 18 17 years old uh is
+[64:11] now the thing that earns me money. So I
+[64:13] don't know maybe this is a small context
+[64:14] to what you said. That's amazing. And um
+[64:18] it's it's I think one of the key
+[64:20] takeaways in terms of even Bitcoin in of
+[64:22] itself is just the paradox that um I
+[64:27] I've definitely had a few presentations
+[64:29] where the stomach goes into a knot. But
+[64:32] um I I've I've always I think I've been
+[64:36] sort of quite paradoxical um in the
+[64:38] sense of that when your stomach's in
+[64:42] turmoil about something that you're
+[64:44] about to do that you know is right to do
+[64:47] such as a presentation you want to do
+[64:48] well. You want to get a good grade
+[64:50] whatever it is.
+[64:52] Um when you when you get that worrisome
+[64:55] feeling in your stomach about doing
+[64:56] something right you just have to you
+[64:59] just have to do it. and and yeah,
+[65:03] everything he wants on the other side of
+[65:04] fear. It's it's um it's truly it comes
+[65:06] down to that cuz we live in a society
+[65:09] where um certain events of health and
+[65:13] those sorts of things that happened say
+[65:15] 5 years ago they've created this society
+[65:19] that has ever buried their head in the
+[65:22] internet in a large scale. There's, you
+[65:23] know, there's always people that go out
+[65:25] and live their lives, say on the digital
+[65:27] on the physical side of things, but
+[65:29] there's a lot of people that are just um
+[65:31] blackboxed and and and live their life
+[65:33] in a very digital um so connected but
+[65:37] disconnected way. And um yeah, so all I
+[65:42] can say is anyone that's wishing to take
+[65:44] some step in life that that that knows
+[65:47] is going to give them forward momentum,
+[65:49] just do it. just uh just take that leap
+[65:54] 100% I agree with you. Um, we have a we
+[65:58] have one question that I ask each and
+[65:59] every one of my guests. Uh, and the
+[66:01] question is, what can we learn from you
+[66:03] besides
+[66:06] Bitcoin?
+[66:09] Uh, personal development, but I also
+[66:13] attest that I'm on my own personal
+[66:14] development journey just like everyone
+[66:16] is throughout life. um that we are all
+[66:18] just sort of shards of the same
+[66:20] consciousness sort of learning itself
+[66:24] and bit Bitcoin comes into that
+[66:26] obviously but um we're we're all just
+[66:30] observers of of Bitcoin when it comes to
+[66:33] the sort of personal development side
+[66:34] I've I've um I've been surrounded by
+[66:37] people that that value health fitness
+[66:39] well-being
+[66:41] u yoga anything that is trying to create
+[66:44] alignment for people in life which is We
+[66:47] the fiat money system has created this
+[66:50] gross distortion of people's actions and
+[66:52] consequences. This world of buy now, pay
+[66:54] later. It's uh get what you want now,
+[66:57] but everything you have to pay in the
+[66:59] consequences of it is later with
+[67:01] interest. And that has truly hurt a lot
+[67:04] of people. And so even even the you know
+[67:08] the only way to change the world is to
+[67:09] change the nations, change the towns,
+[67:11] change the village, change the family,
+[67:14] change yourself. And it doesn't work
+[67:16] from big to small. It starts from small
+[67:18] to big. You have to change yourself.
+[67:20] Help your family, help the village, help
+[67:23] the town, help the city, help the
+[67:24] country, help the world. And and um to
+[67:27] every individual in Bitcoin, we all are
+[67:30] coordinated with this, you know, chain
+[67:32] of truth, the blockchain. And uh on the
+[67:35] personal development side, that's you
+[67:37] know, that's the first step is uh look
+[67:40] within, focus on yourself, and then it
+[67:43] expands expands out to that. So yeah,
+[67:45] that's the key takeaway for me. What
+[67:49] really really nice um we have end in the
+[67:51] podcast where the previous guest is
+[67:53] asking a question for the next guest
+[67:54] without knowing who the next guest
+[67:56] actually is? And the question is so cool
+[67:59] and it was never asked actually in
+[68:00] almost 500 episodes. Wow. Uh the
+[68:03] question for you is was the fall of Rome
+[68:06] as cringe as the fall of the west
+[68:09] currently? If you say that the fall of
+[68:11] Rome is as
+[68:13] cringe as the fall of the western
+[68:17] civilization currently.
+[68:22] Um I think
+[68:24] the what's the uh the old saying it's if
+[68:28] you don't learn history you're doomed to
+[68:29] repeat it.
+[68:32] that there is this belief that Bitcoin
+[68:35] can be the finality of um a monetary
+[68:38] system that that as much as people try
+[68:41] and manipulate the you know brute force
+[68:44] digital mother nature um keeps
+[68:46] everything in check and the the nodes
+[68:49] being the the guardians of such
+[68:51] responsibility. Um, and when it comes to
+[68:55] the whole Rome aspect of things, there's
+[68:57] still that sort of um, expansionism of
+[69:01] of Rome and and how far it got as to the
+[69:05] sort of politicking of of those in the
+[69:08] power structure in Rome itself.
+[69:13] And
+[69:15] cringe, I don't know. Um, I'm not fully
+[69:19] sure. I'm not I think I need a lot more
+[69:22] knowledge on both. Um but the key thing
+[69:24] is that I think I think those that have
+[69:28] studied
+[69:29] um the fall of Rome and even to the
+[69:32] societal degradation that we see today
+[69:35] um you know obsessions with gender,
+[69:38] obsessions with uh you know throwing
+[69:41] money and and the culture, the music,
+[69:43] the everything. I think um societal rot
+[69:47] just gets shown in everything and that's
+[69:50] why you go to the fundamentals and look
+[69:51] for the root causes of things and I very
+[69:54] much concluded as an engineer who uh as
+[69:57] a job role I went into risk management
+[70:00] so it's just understanding how systems
+[70:02] break and we just see a society right
+[70:05] now that's just continually breaking
+[70:07] eroding giving you less but requiring
+[70:10] more and all that misalignment starts
+[70:12] with one thing and one thing only and
+[70:13] It's our unit of measure for everything
+[70:16] in in life life and love and living is
+[70:20] broken. Debt based money is broken and
+[70:23] we need to fix it. So yeah, we we here
+[70:27] to fix the broken monetary system and uh
+[70:30] hopefully we can educate a few a few
+[70:34] people on this. You're doing a really
+[70:35] great job on explaining complex topics
+[70:38] and on um breaking it down so we can
+[70:42] understand it. Thank you so much for
+[70:44] that.
+[70:45] Yeah, appreciate it. Before I let you
+[70:48] go, um, where can people find you, ask
+[70:50] you questions, and reach out to you? I
+[70:51] think you also have a YouTube channel.
+[70:53] Yes. So, it's hash power academy, which
+[70:56] is both the YouTube channel and the the
+[70:59] the website
+[71:01] hashpower.academy. There is a free
+[71:03] course where anything and everything to
+[71:05] do with Bitcoin is all this jumbled mess
+[71:07] of topics. And I spent an entire summer
+[71:10] trying to just put them in order from
+[71:13] from the watts that we produce from all
+[71:15] different power sources to electrical
+[71:17] grid to the hardware to the hash rate to
+[71:19] the blockchain to the bitcoin taught as
+[71:21] money last free course. Um and then I
+[71:24] also have a business arm which is
+[71:27] terraash.inance which uh I'll talk about
+[71:29] at another time. Yes. Um yeah that's it.
+[71:34] Terraashf has this something to do with
+[71:36] the terraash uh in in Germany the
+[71:38] company interestingly no um an
+[71:42] interesting parallel but u no I see the
+[71:45] sort of financialization of compute
+[71:47] power being this is right at the end now
+[71:50] uh I don't think Bitcoin bonds as they
+[71:53] are today are anything other than a
+[71:55] marketing gimmick because the Bitcoin
+[71:57] bonds that the guys in Wall Street are
+[71:59] talking about are US-based dollarized is
+[72:03] debt to buy Bitcoin. That is not a
+[72:05] Bitcoin bond. A Bitcoin bond is the
+[72:08] forward delivery of Bitcoin in the
+[72:10] future. What provides that? It's it's
+[72:13] hash rate. And so the financialization
+[72:15] of hash rate goes into all different
+[72:17] sorts of assets and and commodification
+[72:19] of it uh financialization of it which is
+[72:22] I I feel like that Bitcoin's banking
+[72:26] system is is obviously the miners but
+[72:28] there's there's other interesting things
+[72:30] contracts
+[72:31] um even a carbon credit so sort of yeah
+[72:35] just the way that I teach Bitcoin
+[72:38] um isn't just education but it's also
+[72:40] where I've built a knowledge of all the
+[72:43] mathematical and physical, the maths and
+[72:45] physics of Bitcoin, interconnecting
+[72:47] multiple different commodities
+[72:49] altogether and then building a financial
+[72:51] architecture on top of that and
+[72:53] producing actual Bitcoin bonds, not um
+[72:57] not the garbage that Wall Street's
+[72:58] trying to promote right now. Yeah, topic
+[73:01] for another day. You wouldn't believe
+[73:03] how many different topics I had in my
+[73:05] mind today of talking and we I didn't
+[73:08] even touch a little bit. So, I think we
+[73:10] have uh room for a second, third, and
+[73:12] fourth round on the podcast with you. Uh
+[73:15] thank you so much for for being on. And
+[73:17] also, thank you so much for everyone
+[73:18] that is watching and listening, for
+[73:20] joining us today. As always, I'll be
+[73:23] back tomorrow with another episode.
+[73:24] Bye-bye.
+[73:27] [Music]

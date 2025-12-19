@@ -1,0 +1,951 @@
+Title: Bitcoin is our only Bank! | Steph
+Video ID: luC5JTuIsRc
+URL: https://www.youtube.com/watch?v=luC5JTuIsRc
+Date Saved: 2025-06-15 12:00:34
+--------------------------------------------------
+
+[00:00] we do not have a bank account at all so
+[00:01] our Reserve is in Bitcoin there will
+[00:03] never be a better form of money than
+[00:05] Bitcoin it was really important for me
+[00:07] to to run a business that is K free if
+[00:10] you're not doing anything else at least
+[00:11] do self custody with your Bitcoin in
+[00:13] Western countries are more and more
+[00:16] surveillance obviously there's going to
+[00:17] be a long dark night for Western people
+[00:21] there was a big exode from Western
+[00:23] countries to more three countries this
+[00:25] trend will just continue to
+[00:27] accelerate you're the founder of Beach
+[00:30] Bitcoin As I understood it and it's like
+[00:32] a peer-to-peer way to buy and sell
+[00:36] Bitcoin
+[00:37] right is it is it also no kyc or light
+[00:41] kyc or how is this working yeah correct
+[00:45] that's uh KC Free up to a certain limit
+[00:48] though um so up to 1,000 per day and
+[00:55] 100,000 Sr per year so it's slow limits
+[00:59] unfortunately it's like limit for for
+[01:02] ends a little bit but it's better than
+[01:04] nothing and I was like it was really
+[01:05] important for me to to to run a business
+[01:09] that that that is kway free and I felt
+[01:12] like this limit of 1,000 per day is good
+[01:14] enough for the average person I would
+[01:17] say um so I was like okay um I hate
+[01:20] those limit they still completely um
+[01:24] yeah insane limits but if this is
+[01:27] fitting for the average uh player the
+[01:30] average person to stack ads then okay
+[01:32] that that that works this is a limit
+[01:35] that comes from the Swiss government
+[01:37] right yes yes correct and the limit is
+[01:42] the same because you are available also
+[01:44] outside of Swiss
+[01:46] right yes uh we made the app available
+[01:49] uh almost globally uh we excluded the IP
+[01:54] from the US because the US is you know a
+[01:57] little bit uh too tricky too stct and I
+[02:00] didn't want to get into trouble with
+[02:02] with the US I don't want to end up in J
+[02:05] for Bitcoin you know you don't want to
+[02:07] be on the wrong side of uh wrong side of
+[02:10] the America on the on the wrong list
+[02:13] exactly exactly so maybe I mean one day
+[02:18] imagine peit goes to the moon blah blah
+[02:20] blah we could even think about opening a
+[02:23] an entity in the US but that's not
+[02:25] planned for now so yes all of this to
+[02:27] say pit is available globally except a
+[02:30] countries like highrisk countries and
+[02:31] now the rule is it's true that the legal
+[02:33] rule is a little is a little bit tricky
+[02:35] because the services available globally
+[02:37] as an internet service but in some
+[02:40] countries we are not I guess allowed or
+[02:44] supposed to do active marketing so I
+[02:47] think that's the you know that's the
+[02:50] trick a little bit so yeah and uh so we
+[02:53] have a grally and but we didn't
+[02:55] integrate with all the currencies yet
+[02:57] that's something we we we have to do uh
+[03:00] okay so you only have certain uh
+[03:03] currencies uh and how like I wonder
+[03:08] right now and maybe also people that
+[03:10] never bought uh Bitcoin kc3 or with FL
+[03:14] KC or like how does no KC work if you
+[03:18] have an internet service that then
+[03:20] because you have to connect a bank right
+[03:22] you like Peach has to have like some
+[03:25] connection to a bank account the money
+[03:27] has to come somewhere or like how does
+[03:29] it work
+[03:30] no actually no uh pitch is just the the
+[03:34] Matchmaker and Pitch doesn't touch the
+[03:36] fat at all so basically you you download
+[03:40] the the pit Bitcoin app and uh you are
+[03:44] not asked to provide anything to just
+[03:47] download the app you just download and
+[03:49] you straight have an account um which is
+[03:52] your pitch ID so your pitch PB key um
+[03:56] you have a wallet as well self custodial
+[03:58] wallet so you can uh you can you should
+[04:01] save actually your your your s phrase or
+[04:03] your gon file that contains the entire
+[04:06] pitch account and you create an offer a
+[04:09] Buy offer or sell offer according to
+[04:11] your preferences so let's say I accept
+[04:13] Euro Swiss FR and GBP with PayPal wise
+[04:17] revolute bank transfer so I plug all of
+[04:20] that into my offer and then I wait for
+[04:23] match and uh and pit tells me oh you
+[04:26] have a match like a seller is interested
+[04:27] into your Buy offer or the other way
+[04:30] and uh so we connect together so we if
+[04:32] if we kind of agree like we Double match
+[04:34] we get into a trade and when I get into
+[04:37] a trade with a seller I see his payment
+[04:39] details uh pit doesn't see the payment
+[04:42] details because they are encrypted and
+[04:44] only the trading partner can decrypt the
+[04:48] payment details so I will see for
+[04:50] example his eban or his revolute ID and
+[04:53] then I will have to go outside the pitch
+[04:56] app go to my bank account or go to my
+[04:58] revolute app make the payment come back
+[05:01] to pit click on I made the payment the
+[05:04] seller check that he receives the
+[05:06] payment he clicks on I receive the
+[05:08] payment and when he clicks on I receive
+[05:09] the payment the sets that are in the in
+[05:12] an escrow are released to the buyer
+[05:15] either to his speit wallet or to his
+[05:17] external wallet as he
+[05:19] prefers how high is the risk when you
+[05:22] buy it and you re you uh give the money
+[05:26] okay there's there's one person I just
+[05:28] want to standard right now on the spot
+[05:31] like there's one person that buys
+[05:32] Bitcoin so he
+[05:34] transfers uh the money to the seller and
+[05:37] then the seller has to click oh I
+[05:39] received it and then his satosi or his
+[05:41] Bitcoin are going from one wallet to
+[05:44] another wallet already happened that
+[05:46] like he had got the fat payment and did
+[05:50] not release the the Bitcoin or how does
+[05:52] this is yeah yeah yeah yeah dispute can
+[05:55] happen um so right now uh our dispute
+[05:59] rate is is quite low um it's like around
+[06:01] 3% and 50% of those 3% are self-resolved
+[06:06] disputes so just users maybe not
+[06:09] understanding how the app works or some
+[06:11] stuff like that so how does that happen
+[06:14] when there is a dispute um so the seller
+[06:18] first of all the seller puts the SATs
+[06:20] the Bitcoin into an escrow it's a two
+[06:24] out of two multi signature escrow
+[06:26] between the seller and pit this is time
+[06:28] lock ESC
+[06:29] meaning that after
+[06:32] 4,230 blocks which is around 30 month um
+[06:35] 1 month 30 days sorry um the escrow
+[06:39] becomes a single signature for pitch why
+[06:42] in case the seller is malicious and
+[06:45] doesn't release the set if the seller
+[06:47] received the Fiat payment but doesn't
+[06:48] click on I receive the payment then the
+[06:51] buyer will open a dispute the the P
+[06:55] mediator will be able to join the chat
+[06:57] message in the app um then when a pitch
+[07:00] mediator join the chat messages
+[07:02] everything becomes um is decrypted for
+[07:05] pitch so pitch can read the chat
+[07:06] messages and the payment data only when
+[07:09] there is a dispute and then we can
+[07:11] settle the dispute if the the seller is
+[07:14] malicious then we settle for we we
+[07:17] settle the dispute for the buyer and if
+[07:19] the seller doesn't want to cooperate in
+[07:21] sending the the transaction after 30
+[07:23] days after the escrow is funded we can
+[07:26] push the sets to the buyer this case uh
+[07:30] I malicious sellers didn't happen a lot
+[07:33] actually didn't happen a lot because the
+[07:35] few I mean yeah the sellers we have on
+[07:38] on peit obviously there are fewer
+[07:39] sellers than buyers they're actually
+[07:41] here to sell they're actually here to
+[07:43] make money and the reputation system on
+[07:46] Pitch Works quite well so usually if you
+[07:50] choose a good seller uh this is not in
+[07:53] their interest you know it's not in
+[07:55] their incentive let's say to to cheat
+[07:57] because the reputation would be highly
+[07:58] impacted and then their volume will be
+[08:01] highly impacted so they will make less
+[08:02] money so yeah so the reputation system
+[08:04] is conly constantly constantly evolving
+[08:07] sorry and it works quite well as well as
+[08:10] um the dis so the escrow the dispute
+[08:13] management with the customer support
+[08:14] plus the reputation those three are um
+[08:17] are let's say the the pillars to make it
+[08:20] secure and sound peer-to-peer tra yeah
+[08:23] and I think especially the reputation
+[08:25] system is really important I was also
+[08:28] investigating a lot with Uber and Uber
+[08:31] had a similar problem actually because
+[08:34] the taxi system was kind of oh there a
+[08:36] centralized service it's overlooked by
+[08:38] like at least in Austria I don't know
+[08:40] how it works all over the world but it's
+[08:42] overlooked and the highly regulated taxi
+[08:44] networks and you call them and like you
+[08:46] have to have a driver license you have
+[08:48] to have like different additional
+[08:50] license to operate a
+[08:52] taxi and uh when Uber came along a lot
+[08:56] of people were like oh but I then I'm
+[08:58] sitting with a stranger in a car but
+[09:00] this stranger wants to make money and
+[09:02] over time Uber collected so much data
+[09:05] from the driver that they know uh when
+[09:08] they did not do something good they got
+[09:11] uh rated from uh try from passengers and
+[09:16] you could know like you could like oh
+[09:19] they has like a 4.9 ratings and like
+[09:22] thousands of them already drove with him
+[09:25] uh of course he will be good like why
+[09:28] should he be not good and and you even
+[09:30] know it beforehand and this is like this
+[09:34] from centralized to decentralized and I
+[09:36] think it's similar with like a
+[09:38] centralized exchange like relay 21
+[09:41] Bitcoin uh to now like be P2P P2P
+[09:45] platform I guess yeah absolutely and and
+[09:48] and we went a little bit further in term
+[09:51] of the reputation system compared to our
+[09:53] current competitors because currently
+[09:55] the competitors for the reputation
+[09:57] system they only take into account count
+[09:59] the peer rating so at the end of the
+[10:01] trade you rate your peer basically uh it
+[10:05] can be either an amount of stars from
+[10:08] one to five stars or sum up sum down we
+[10:11] chose for the sum up sum down after some
+[10:14] um analysis like anyways um whatever so
+[10:18] there is this this is one part of the
+[10:19] reputation system but the other part of
+[10:21] our reputation system is that we are
+[10:23] also tracking the action of the user
+[10:26] inside the app so let's say that if you
+[10:28] have fun spamming a seller matching and
+[10:31] matching matching and matching or
+[10:32] canceling a trade something like that
+[10:34] you will be impacted if you yeah if you
+[10:36] cancel a trade you'll be impacted if you
+[10:38] are not fast enough you will be impacted
+[10:40] so on top of the score um it's like on
+[10:44] five pitches score we have some badges
+[10:46] so are you a fast Trader are you a super
+[10:48] Trader this type of thing that with a
+[10:50] little bit of gamification is but
+[10:53] actually taking into account I mean it
+[10:55] reflects the user action in the app
+[10:59] and not only the not only the peer the
+[11:02] peer the perer rating and it works quite
+[11:05] well so I'm actually quite happy about
+[11:07] this this ID that we had yeah and it's
+[11:10] super important I remember I think
+[11:12] Airbnb has it also with like batches
+[11:15] like super host or something like that
+[11:17] because if you're a host that uh proves
+[11:20] themselves really good and gets a lot of
+[11:22] great ratings has a lot of good things
+[11:24] or even with chat things I see it
+[11:27] sometimes on chat platforms you want to
+[11:29] have a response they write the average
+[11:32] response time like oh this host writes
+[11:35] back in average in 23 minutes or
+[11:37] something like that this gives uh the
+[11:39] the one who buys from them or like uses
+[11:42] the service whatever the the thing is
+[11:45] really good feeling I think um yeah
+[11:48] absolutely and I was surprised to be
+[11:49] honest by the by the user's reaction
+[11:51] because user care about their pitch
+[11:53] reputations goore they do care you know
+[11:55] we like hey how come I lost my I lost my
+[11:57] fast Trader badge that's can you check
+[11:59] what happen you know it's like okay yeah
+[12:02] let's see if you get it back yeah
+[12:04] exactly
+[12:06] exactly behave well and you will be
+[12:09] rewarded
+[12:13] yes is nice maybe to to to to to to to
+[12:16] note on this is that um so the pitch
+[12:19] accounts when you have a pitch account
+[12:21] it's actually um a PB key your pitch ID
+[12:24] is is your account PB key so meaning
+[12:27] that in the near future we can actually
+[12:29] make it exportable a little bit like
+[12:32] Noster works you know it's a little bit
+[12:35] I mean the same principle kind of so you
+[12:38] can so you can make it exportable so
+[12:40] basically if you have a very good
+[12:41] reputation on Pitch over the past I
+[12:43] don't know three years and you want to
+[12:45] use it maybe in another Bitcoin platform
+[12:47] where you could import your reputation
+[12:49] and not starting from scratch then that
+[12:52] could be possible in a that that's
+[12:54] always amazing interop I cannot
+[12:57] pronounce that name
+[12:59] yes I'm a German so I can I have
+[13:02] problems with that that word but it's so
+[13:05] important that we have the working
+[13:07] together of different platforms and and
+[13:10] the Integrations of different platforms
+[13:11] and uh taking something with with us
+[13:14] it's like with social media as you said
+[13:17] with nostrom you have basically a Bas
+[13:19] layer protocol you can use and you can
+[13:22] take your followers your uh contacts and
+[13:25] your content with you to different
+[13:27] clients and that it's amazing I mean
+[13:29] still the the network effect of YouTube
+[13:32] and Twitter and Spotify and all those
+[13:34] platforms are really big and hard to
+[13:36] break uh but will be interesting to see
+[13:39] how this uh world will be decentralized
+[13:43] in the future or will that's actually an
+[13:46] interesting question for you um do you
+[13:49] think that uh the way we are going uh
+[13:53] that we can achieve a mainstream
+[13:57] decentralized world where
+[13:59] uh we all use a social media Nostra we
+[14:02] all use as uh buying platforms something
+[14:06] like beach Bitcoin we all use only
+[14:08] decentralized things or will there
+[14:10] always be for example for YouTube and
+[14:12] Twitter centralized centralized
+[14:15] platforms how do you see that so it's a
+[14:18] it's very hard question because it's
+[14:19] hard to predict I I I don't see it
+[14:22] either or um I kind of see it both ways
+[14:26] maybe I see a multipolar
+[14:29] World um I guess I think that I
+[14:32] mean because centralization has some
+[14:35] Advantage as well it can have some
+[14:37] Advantage as well I guess we are very at
+[14:39] the premise of decentralization we are
+[14:41] very so early at the premise of
+[14:43] decentralization of noing things that
+[14:45] it's it's it's really it's really hard
+[14:47] to to to imagine how it can be in 10
+[14:50] years 20 years 30 years from now I'm not
+[14:53] even really counting like five years I
+[14:54] think it's too really need need to have
+[14:57] this this yeah low time reference
+[14:59] long-term view I think with this with
+[15:02] this change of Paradigm and yes it can
+[15:04] be for sure like the more people build
+[15:06] on it then the more the ux will be will
+[15:08] be friendly because ux is is very very
+[15:11] important for for the user so again I
+[15:14] think it will take time um that's how I
+[15:16] see it it will take time and then I
+[15:18] don't necessarily see a black or white
+[15:21] world I see a world I guess where I
+[15:24] don't know maybe people will maybe who
+[15:26] will be lucky enough to choose to move
+[15:28] to
+[15:29] some places where they have some more
+[15:31] white choices we'll be able to use those
+[15:34] white choices and uh yeah that that's
+[15:36] that's how I see it and just a note
+[15:38] pitch is not fully decentralized given
+[15:40] that pitch is a company so that's an
+[15:44] important note I I want to make because
+[15:46] um yeah it's a company like uh it's a
+[15:49] company basically but then the order
+[15:50] book is decentralized it's a
+[15:52] peer-to-peer order book so um it's not
+[15:55] basically the order book is pitch id1
+[15:57] 123 but
+[15:59] 1 million sets to pit ID
+[16:02] 456 on February the 12th that's the
+[16:06] order book so this order book isal it's
+[16:08] not like um
+[16:10] Step about 1 million set
+[16:13] to De centralized exchange you know so
+[16:16] that's really the the difference so
+[16:20] basically when the government shuts down
+[16:22] Beach it does not affect the users it
+[16:26] just affects the company and the you the
+[16:28] service is not no longer available right
+[16:30] so the service exactly the service will
+[16:32] no longer be available for the simple
+[16:34] reason because of the eso because we
+[16:36] have a key on the esro for dispute
+[16:39] management the day we actually change
+[16:42] the model and find a way to decentralize
+[16:45] the
+[16:46] escrow uh the escrow solution the the
+[16:50] the dispute management Etc uh maybe that
+[16:54] day Yes actually you know we can move to
+[16:56] to another business model again I think
+[16:59] the advantage the issue that I have with
+[17:01] that is that I think that a centralized
+[17:04] um customer support or dispute
+[17:06] management is more efficient the reason
+[17:08] why the only reason why we want we would
+[17:10] like to build a decentralized the
+[17:11] dispute management is because of control
+[17:15] surveillance uh violence from the states
+[17:18] that's the only reason why so it's
+[17:19] actually a defense action because if we
+[17:22] were in a free world where they were
+[17:24] like well do a business you're not
+[17:26] you're not harming anyone right so do
+[17:28] you're not hurting anyone so I mean you
+[17:31] can do whatever business you want we
+[17:33] maybe I would not even think about oh
+[17:35] but maybe one day we need to to create a
+[17:37] decentralized uh escrow and dispute
+[17:40] management because I wouldn't need to
+[17:42] because mine is efficient and I wouldn't
+[17:44] be afraid of being closed down
+[17:46] surveilled controlled etc etc so yeah
+[17:50] it's a defense mechanism a lot I think
+[17:52] yeah but but it seems that uh the
+[17:55] jurisdictions you are sitting in Swiss
+[17:59] is quite friendly to bitcoin from the
+[18:02] regulation I'm rarely in in Switzerland
+[18:04] but I interviewed a lot of of Swiss
+[18:06] people uh already uh and it seems like
+[18:10] Swiss regulations are quite friendly
+[18:14] compared to other uh countries like just
+[18:17] Austria take it as example yeah no no
+[18:20] there's some interesting stuff like I
+[18:22] don't know if you knew but um Pitch is
+[18:24] 100% on a Bitcoin standard we do not
+[18:27] have a bank account at all oh wow yeah
+[18:31] that's quite fun uh zero bank accounts
+[18:34] no bank accounts so our Reserve is in
+[18:36] Bitcoin we do everything in Bitcoin
+[18:38] basically we have a wallet a Bitcoin
+[18:40] wallet which is our pitch reserve and we
+[18:43] operate from from this and so we created
+[18:45] the company in Bitcoin so with the
+[18:47] notary as well we B the first capital
+[18:50] you know to create the company you need
+[18:51] to bring a a first capital in cash that
+[18:54] was in Bitcoin as well so everything was
+[18:57] uh was in Bitcoin I is in Bitcoin wow
+[19:01] that's uh I did not know that so like
+[19:04] this is like a company where it's proved
+[19:07] from the starting it was only Bitcoin
+[19:10] and when did you start
+[19:12] 2021 2022 early February yeah February
+[19:17] 2022 oh that's uh that's really really
+[19:20] cool I thought 2021 because I think the
+[19:23] the Twitter account of peach was uh
+[19:26] there before but yeah that can be like
+[19:28] uh before ideation pH starts before the
+[19:32] company
+[19:35] yes uh but that's really cool a company
+[19:38] that's completely on a Bitcoin standard
+[19:41] and uh uh how many like how many
+[19:44] employes do you have or like how how big
+[19:46] is uh if you can talk about that uh like
+[19:50] I don't want to force you into
+[19:53] answer how big
+[19:55] is so it's it's it keeps changing it
+[20:01] keeps changing we started at four then
+[20:04] we were three then we were four five up
+[20:06] until 9 now we're back at three 4 with
+[20:09] an intern it's yeah it's it's a roller
+[20:13] coaster basically it keeps changing and
+[20:16] with every company there's a lot of I
+[20:19] think uncertainty in there and you have
+[20:22] to change quickly to to the market see
+[20:24] and learning as well learning like uh
+[20:27] running a startup is a is a complete new
+[20:31] adventure basically so so yeah I'm super
+[20:36] excited to announce that this podcast
+[20:39] got the first ever sponsor 21 Bitcoin is
+[20:43] Bitcoin only from day one and they teach
+[20:46] and preach self custody this is my go-to
+[20:50] exchange when someone asks me oh where
+[20:52] can I buy my Bitcoin from this is the
+[20:54] easiest entry for bitcoiners and if if
+[20:58] you want lower fees Plus at the same
+[21:00] time support this podcast use code Robin
+[21:03] and click the link in the description
+[21:05] what did you do before like did you work
+[21:07] in a fat job uh straight out from okay
+[21:10] fat jop what what did you do there yes I
+[21:13] had uh I started my uh well yeah when I
+[21:16] started working in Switzerland I started
+[21:18] in in F job like um um product manager
+[21:22] product marketing manager this type of
+[21:24] things for for multinationals company in
+[21:28] um in the retail business well retail
+[21:31] it's not retail it's fast moving
+[21:32] consumer goods company I work for
+[21:34] different type of of of Industries and a
+[21:37] few years before starting Peach I
+[21:40] started to discover crypto in 2017 um
+[21:44] and I was hired as a freelancer as well
+[21:47] uh to work with some like I worked with
+[21:50] an I mean OG investor he had some
+[21:53] startups and I was managing his startups
+[21:55] somehow well this type of stuff um um
+[21:58] that led me to to enter the world of
+[22:01] crypto in 2017 and very quickly I was
+[22:05] not satisfied with um with what crypto
+[22:09] is for and so very very quickly I fell
+[22:12] down the Bitcoin rabbit hole and and
+[22:14] then I I started pit Bitcoin what was it
+[22:18] that was not satisfying you about crypto
+[22:22] and made you go on bitcoin only what is
+[22:24] it for I didn't understand that no like
+[22:28] what what made you go from uh like you
+[22:32] said that uh crypto did not was not good
+[22:35] for you uh then you go went down the
+[22:38] Bitcoin rabbit hole and you went Bitcoin
+[22:41] only I guess uh as I also did like in
+[22:44] the first year where I discovered crypto
+[22:46] and then after one year I went Bitcoin
+[22:48] only and then completely I converted
+[22:51] everything I had in Bitcoin only I had
+[22:53] like stocks I had a lot of different
+[22:54] things and converted everything to
+[22:56] bitcoin um so and for me it was a big
+[23:00] thing when I discovered oh Bitcoin is
+[23:02] sound money and Bitcoin is a
+[23:04] decentralized store of value that nobody
+[23:07] can take from me nobody can stop me from
+[23:10] transacting with someone and when I got
+[23:14] that in in like it was a year of
+[23:17] learning but when I got it in inside of
+[23:21] like one month I made the decision sold
+[23:23] all my stocks sold everything I had uh
+[23:26] even like when through through the house
+[23:29] and the apartment like can I sell
+[23:30] anything I actually went through the
+[23:32] whole thing and in 2021 I went all in uh
+[23:36] and it's a crazy Journey till since then
+[23:38] but there's different things about
+[23:40] Bitcoin that make people go Bitcoin only
+[23:44] and away from all the altcoins all the
+[23:47] shitcoins my uh my issue I mean the
+[23:50] reason why I didn't click with with
+[23:51] crypto is that I didn't understand what
+[23:54] it what what it was for what what was
+[23:57] the purpose of it what it was for what
+[23:58] is it solving you know what is the yeah
+[24:02] basically this and when very often the
+[24:05] answer I received I remember was um yeah
+[24:08] we're going to secure some data blah
+[24:11] blah blah and I was like okay how and
+[24:13] very often when I even asked the how
+[24:15] even though I'm not um I'm not into the
+[24:17] I'm not deep into Tech but the answer
+[24:20] were so light and so just oh don't
+[24:23] bother it's just going to secure the
+[24:25] data basically I was like okay well and
+[24:29] when and when I understood a little bit
+[24:32] when I started to understand that that
+[24:34] oh Bitcoin is actually here to be the
+[24:39] global Reserve um money the yeah
+[24:44] monetary global system because it's here
+[24:46] to be um to be a new form of money I was
+[24:50] like o okay like there is definitely
+[24:53] some I mean this is this is something
+[24:56] like like it's so a problem it solve
+[24:58] something and we understand why it
+[25:01] exists basically why the why it exist
+[25:03] the why is very important to me and so
+[25:06] yeah that that was that why I am I
+[25:08] continue on on the Bitcoin Journey just
+[25:11] like you yeah it's it's it's it's crazy
+[25:13] to see um and once you understand that
+[25:18] in like if you if you take blockchain
+[25:21] technology as as a thing for me the only
+[25:24] purpose for
+[25:25] blockchain uh is
+[25:28] if you have a public transparent Ledger
+[25:31] like with Bitcoin and then on top of
+[25:33] things top of that you can even make
+[25:36] applications and stuff like that uh I
+[25:38] don't care for those but you can do it
+[25:41] if you want um outside of that a
+[25:44] blockchain is a really inefficient way
+[25:47] to store
+[25:48] data and this is something like I'm a
+[25:52] software developer in my like now right
+[25:54] now I'm not a software developer but I
+[25:55] learned it and I worked in that
+[25:58] department for like years so I know that
+[26:03] storing data on a blockchain is really
+[26:06] inefficient compared to other ways to
+[26:08] storing data but in terms of Bitcoin it
+[26:12] makes sense because you have to have
+[26:14] this uh indestructible Ledger that
+[26:17] everybody can rely on so when we have
+[26:19] that one use case money uh that's
+[26:22] already filled with Bitcoin there will
+[26:24] never or not in the next 200 years I
+[26:28] guess I don't want to say never uh be a
+[26:31] better form of money than Bitcoin maybe
+[26:33] even in the next 10,000 years I don't
+[26:35] know if there's ever like something that
+[26:37] replaces Bitcoin might be but I cannot
+[26:40] imagine it like in the next hundreds of
+[26:42] years um but there's no we don't need to
+[26:47] take all the video games on a blockchain
+[26:49] it's it's really inefficient way to do
+[26:52] that and this made a really soon click
+[26:54] from me you said that why is an
+[26:56] important
+[26:58] uh topic for you and I I will ask the
+[27:00] question now even though like I kind of
+[27:02] know the answer but for new people that
+[27:05] maybe are coming now into Bitcoin they
+[27:08] asking themselves um oh when I buy peer
+[27:12] top Bitcoin no free kyc I go through the
+[27:16] some hurdles uh that are maybe more
+[27:18] hurdles than uh when I buy just on a
+[27:21] centralized exchange uh sometimes why
+[27:25] does it matter we by peer-to-peer no KC
+[27:30] Bitcoin on on a platform like beach
+[27:34] Bitcoin okay I guess so there there are
+[27:37] multiple things that can be said and
+[27:39] also very much different perspective
+[27:42] okay one of my perspective is that
+[27:45] Bitcoin is okay so Bitcoin is a new form
+[27:48] of money Bitcoin is a money that is
+[27:50] created because the current system the
+[27:51] current money doesn't work so Bitcoin
+[27:54] allows us to opt out from A system that
+[27:57] is d
+[27:58] the system who is that is currently
+[28:00] dying doesn't necessarily like to have
+[28:03] you opting out from the system that we
+[28:05] are feeding on a day-to-day basis you
+[28:07] know they want us to keep feeding them
+[28:10] so this is why also the the they they
+[28:14] came up with all those know your
+[28:15] customer Ro basically we want to know
+[28:17] everything that you're doing to be able
+[28:19] to track you and to be able to control
+[28:21] you and make sure that you stay in our
+[28:23] Matrix so you can still feed us you know
+[28:27] like work for us slaves basically so
+[28:31] opting out in a private way seems a kind
+[28:35] of good idea basically opting out from
+[28:38] the fat system without the F fat system
+[28:42] to necessarily know how you're opting
+[28:44] out how much you're opting out what's
+[28:47] the value in your pocket because that's
+[28:49] your own business they don't have to
+[28:51] know it because if they know it they
+[28:53] will want to steal it from you basically
+[28:56] so this whole p privacy um thing opting
+[28:59] out in a private way chaa you know
+[29:03] trano basically is I think a very good
+[29:06] um a very good reason why to buy KC Free
+[29:09] K free Bitcoin so yeah so that's that's
+[29:12] one reason the second reason is that I
+[29:14] as pitch um then I do not see uh the I I
+[29:20] do not have a database as you were
+[29:21] talking about I know I do not have a
+[29:23] centralized database with your name uh
+[29:27] and the amount of sets that you bought
+[29:29] or that you sold so I cannot I cannot
+[29:33] use that against you basically so that's
+[29:36] also an additional safety for you as a
+[29:39] user for your privacy once again for
+[29:41] your protection to BU peer-to-peer um
+[29:45] that's the second thing um and the third
+[29:48] thing that I would that I would add as
+[29:50] well is um is maybe more um practicality
+[29:53] even though it can also be a very um
+[29:55] it's Al it can also be linked to privacy
+[29:57] is the choice of payment methods because
+[30:00] usually when you buy um uh an
+[30:03] centralized exchange so not only the
+[30:05] exchange know how much you B but also
+[30:07] the bank usually they use bank transfer
+[30:09] the bank knows as well because the bank
+[30:11] sees that oh you sent 100 euro to
+[30:15] binance or whatever exchange uh so they
+[30:19] know they know it's binance they know
+[30:21] it's even R they know it and sometimes
+[30:23] it has been it has been um you know it
+[30:25] has been censored as well transaction
+[30:27] are sensor whereas if you send a bank
+[30:31] transfer uh from step to Robin I send
+[30:34] you 100 euros it can be for dinner that
+[30:37] we had yesterday you know and in fact
+[30:39] under the hood I bought Bitcoin from you
+[30:42] but they do not know so this this this
+[30:45] third reason is actually is actually an
+[30:47] important reason I think very important
+[30:50] one so censorship it's a bit more
+[30:51] censorship resistance to buy peerto peer
+[30:54] and then the choice of payment method
+[30:56] also make you more
+[30:58] make you more resilient as well because
+[31:00] you can use okay my bank just censored
+[31:02] me well maybe I can use Amazon gift
+[31:05] cards maybe I can use wise maybe I can
+[31:07] create an account in other online
+[31:10] wallets like uh I don't know bom in
+[31:13] Spain or Portugal whatever so yeah the
+[31:16] variety of choice the protection the
+[31:18] Privacy U makes it all very I think
+[31:21] appealing and what I wanted to achieve
+[31:24] with with with Peach is to make it
+[31:26] appealing but make it accessible because
+[31:29] the reason why we go to centralized
+[31:30] exchange is because it's like oh it's
+[31:32] going to be easy yeah it's going to be
+[31:33] easy for me I don't want to to think
+[31:35] about it too much that's the reason why
+[31:37] and that bothered me I was like no we
+[31:39] need to make peer-to-peer
+[31:41] extremely Bitcoin peer top extremely
+[31:44] accessible as well um so that's um look
+[31:49] just earlier on you talked about taxi
+[31:50] versus Uber like you know it's a bit the
+[31:54] same thing you know like 10 years ago
+[31:56] maybe would didn't think that oh you're
+[31:58] going to kind of peer-to peer your right
+[32:00] through a centralized
+[32:03] Matchmaker well now you do it every
+[32:04] single day so why not with Bitcoin as
+[32:08] well you know that's there are amazing
+[32:11] reasons and I just want to add an
+[32:13] additional reason for uh privacy that's
+[32:16] how how important that is um when you
+[32:20] have uh when some centralized exchange
+[32:24] stores your data how much Bitcoin did
+[32:26] you buy when did you buy it and stuff
+[32:28] like that um even if they are completely
+[32:32] acting in their best interest they can
+[32:34] be hacked and we saw that so many times
+[32:37] in the past where centralized exchange
+[32:39] get hacked uh and basically yeah then
+[32:43] they are in trouble and I had I think a
+[32:45] few days on from cedor Chris from cedor
+[32:50] from the hardware wallet on and he said
+[32:53] he um uh and and maybe that's uh that's
+[32:57] that's different how you view it than
+[32:59] than he views it and he said he
+[33:02] recommends everyone that having two
+[33:05] stacks actually a complete no KC P2P
+[33:08] privacy stack and a KC stack he's like
+[33:13] for for for him that's like the the best
+[33:16] setup to have like two different Stacks
+[33:19] the one that nobody knows about and the
+[33:21] the one that's uh just uh low fees is
+[33:24] easy and you can do it uh and and I
+[33:27] actually have to try Beach Bitcoin after
+[33:29] that interview I did not do it till now
+[33:31] so I have to see how easy it is and how
+[33:34] good it how good it is because I have
+[33:37] always in my comment I'm writing about
+[33:38] different stuffs and and and and and a
+[33:41] lot of people are like oh you should try
+[33:43] Beach Bitcoin like I got I get this
+[33:45] message uh like at least once a week or
+[33:48] maybe once a month or something like
+[33:50] that like I get uh Beach Bitcoin more
+[33:52] and more and uh I made a public tweet I
+[33:56] think
+[33:57] a year ago or something like that where
+[34:00] I said I want to go away from Bon Bon is
+[34:03] this horrible Bitcoin exchange that went
+[34:06] into this complete shitcoin casino with
+[34:09] all the shitcoins this was the first
+[34:11] thing that bothered me a lot that they
+[34:12] introduced so many shitcoins to bitcoin
+[34:15] one day I was like hey bye Shino and
+[34:17] this popped up on my phone and I was
+[34:19] like no thank you who who's telling me
+[34:22] that oh my Bitcoin exchange is telling
+[34:24] me that uh and then few few months later
+[34:27] they ask me where my money is coming
+[34:30] from like I have some res respect for
+[34:34] when they ask me oh can you identify
+[34:36] yourself I can understand if they want
+[34:38] to uh have like the regulations and they
+[34:41] want to know okay is that person really
+[34:44] a person and stuff like that it's like
+[34:46] it it makes a little bit sense in my
+[34:49] mind to to make that but what makes no
+[34:52] sense for me that they know where my
+[34:54] money is coming from honestly no one's
+[34:56] business uh and it's not like that I
+[34:59] transferred Millions it's like it was a
+[35:01] low number of of things that I bought uh
+[35:04] so I was like I'm away from that and
+[35:07] then I made the the the Tweet I'm
+[35:09] switching away from Bon and I had a
+[35:11] small account back then uh and then I
+[35:14] was like where should I switch to and it
+[35:16] got completely viral and then was like
+[35:19] relay 21 Bitcoin Beach Bitcoin there
+[35:21] like so many different because my only
+[35:24] thing back then was it has to be bit
+[35:27] only and it's also right now for me when
+[35:30] uh people ask me where to buy Bitcoin
+[35:33] Bitcoin only is the the biggest thing
+[35:35] for me privacy is something I want to
+[35:39] get people in that are already in
+[35:41] Bitcoin like when because sometimes it
+[35:44] can be like I want to eliminate in the
+[35:46] beginning when I orange pill someone the
+[35:49] hurdles for everybody as much as
+[35:52] possible so I want to send them to a
+[35:54] platform that's Bitcoin only and
+[35:58] EAS then they have no choice they're
+[36:01] buying some like I sent them hey buy
+[36:03] Bitcoin and then they're coming tomorrow
+[36:05] hey I buy Solano I'm like no what did
+[36:07] you do I agree that's important the
+[36:10] focus the focus on the signal is is
+[36:13] important yes and it has to be really
+[36:15] easy because every like and then when
+[36:18] once they IND there then they can uh put
+[36:21] more more stuff stuff in that direction
+[36:24] yeah okay uh um maybe question that just
+[36:29] came up in in my mind how do you see or
+[36:32] like what do you see as like the biggest
+[36:33] risks for Bitcoin uh in the next like
+[36:38] five 10 years and uh maybe also like in
+[36:42] terms of cbdcs do you see there an an
+[36:45] risk and why what do you see there the
+[36:50] the the the risk at least in um in
+[36:53] Western countries are more and more
+[36:56] surveill
+[36:57] that's that that is the risk more and
+[36:59] more civilians and well again I
+[37:04] guess if you want to make if if you want
+[37:06] to I mean if I were them if I want to
+[37:09] impact uh bitcoiners and prevent them to
+[37:11] actually buy Bitcoin what do I do I just
+[37:14] shut down all the diamond exchanges
+[37:16] that's what I would do so or or i k see
+[37:18] the hell out of all of them or something
+[37:20] like that so yeah more and more control
+[37:23] over exchanges for sure on ramp of ramp
+[37:26] uh um that's that's uh that's that's the
+[37:29] risk that's the the biggest risk in in
+[37:31] in my opinion well this is already
+[37:33] happening so yeah and then in term of
+[37:36] cbdc I well I know it's coming I don't
+[37:40] exactly well I don't know how it's going
+[37:43] exactly going to be executed
+[37:46] so yeah it's very hard to say Obviously
+[37:49] that's going to be that's going to be a
+[37:51] um a long um dark night I think for for
+[37:55] Western people people the ones who would
+[37:58] be lucky enough to be able to move then
+[38:01] I think we move I think this is what is
+[38:03] Happ this is what's going to happen and
+[38:04] this is what is already happening right
+[38:06] now um you're basically people are
+[38:09] basically moving to to countries
+[38:11] jurisdiction
+[38:13] territories where they feel more atas
+[38:16] where they feel more free um so that's
+[38:18] what happened while we saw it during
+[38:20] during covid and there was a big exod
+[38:23] from Western countries to more free
+[38:25] countries uh I think this this this
+[38:28] trend will just continue to to to
+[38:31] accelerate so yeah it will continue to
+[38:34] accelerate but it will not be I I don't
+[38:36] see the entire world being black dark
+[38:40] you know world I really see that there
+[38:43] will be some places of light in the
+[38:47] world yeah let's hope for
+[38:50] that and this is a common thing in in
+[38:53] Bitcoin that it gives people hope again
+[38:57] that's really cool uh we having an end
+[39:00] routine in the podcast where the
+[39:02] previous guest asks a question for the
+[39:04] next guest uh and the question goes a
+[39:08] little bit into what we just talked
+[39:10] about do you think the Bitcoin EF will
+[39:13] be or can be confiscated I mean can be
+[39:17] of course but will it be confiscated so
+[39:19] I'm absolutely not an expert into all
+[39:21] those trading things my initial thought
+[39:24] would be why what are the Inc of
+[39:26] confiscating it I mean if I mean the
+[39:31] the
+[39:33] the the question was around the thing as
+[39:36] well you know I think the question from
+[39:39] the guest was around uh there was in the
+[39:42] history a lot of times where uh the
+[39:45] governments all around the world
+[39:48] confiscated
+[39:50] gold and gold is a little bit easier to
+[39:53] confiscate because it's physical and
+[39:56] Bitcoin is hard to confiscate but
+[40:00] when but in a way if you don't own your
+[40:03] Bitcoin it's in a way already confiscate
+[40:08] confiscated confiscated if you don't own
+[40:10] your keys then in a way um you put
+[40:13] yourself at risk of being confiscated at
+[40:15] any time so yeah it can be confiscated
+[40:19] yeah for sure like your account on
+[40:21] whatever exchanges or yeah yeah
+[40:24] absolutely it can yes
+[40:26] yeah like Bitcoin ETF can be an an
+[40:30] extreme big honey pot for America and I
+[40:34] talked with the last guest about this uh
+[40:36] it's like when they all of the sudden
+[40:39] came to know I like oh gold is not the
+[40:42] world Reserve asset anymore it's Bitcoin
+[40:46] now H we have a lot of Bitcoin sitting
+[40:48] there at the ETF we have a little a lot
+[40:50] of Bitcoin sitting there and there's
+[40:52] like a crisis going on and then oh we
+[40:55] have to take this Bitcoin coin in the
+[40:56] best interest for all the American
+[40:59] citizens like it's I don't know if it
+[41:02] happens I put it at a low probability
+[41:04] that it will happen but there's a chance
+[41:07] and I'm always saying self custody like
+[41:11] that's the that's the most important
+[41:13] thing uh if you're not doing anything
+[41:15] else at least do self- custody with your
+[41:17] Bitcoin if you if you buy it full uh
+[41:21] full KC and you you do a lot of things
+[41:24] with your Bitcoin at least put it in
+[41:26] self custody then the next step for me
+[41:30] is like privacy and there a lot lot of
+[41:32] things Co join whatever what what on top
+[41:35] what you can do and then you can even do
+[41:38] more cyber security in general for
+[41:39] yourself I worked also in cyber security
+[41:42] in in the past so I know a lot of things
+[41:44] you can do there uh but at least do the
+[41:47] self custody at least don't give anybody
+[41:50] else y Keys yeah yeah yeah 100% I really
+[41:54] think that's the number one thing to to
+[41:57] to preach yeah yeah um yeah thank you
+[42:00] Steph for for being on the the podcast
+[42:03] it was really short lift really really
+[42:05] cool and uh I hope uh we can we can talk
+[42:09] in the future more with pleasure thank
+[42:11] you very much
+[42:16] again

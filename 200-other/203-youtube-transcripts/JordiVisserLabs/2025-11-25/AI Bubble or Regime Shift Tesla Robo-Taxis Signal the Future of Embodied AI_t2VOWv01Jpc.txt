@@ -1,0 +1,978 @@
+Title: AI Bubble or Regime Shift? Tesla Robo-Taxis Signal the Future of Embodied AI
+Video ID: t2VOWv01Jpc
+URL: https://www.youtube.com/watch?v=t2VOWv01Jpc
+Date Saved: 2025-11-25 15:53:01
+Channel: JordiVisserLabs
+--------------------------------------------------
+
+[00:00] Right, let's get right to it. Um,
+[00:03] again, you guys can read through it, but
+[00:04] it was a big week for stuff, at least in
+[00:06] things of uh I'm looking at uh I think
+[00:10] you'll uh you get a lot from this one.
+[00:13] First of all, starts the week off.
+[00:15] The next bubble in AI. So, we've got Sam
+[00:18] Alman believes we're in an AI bubble.
+[00:20] We've got Meta AI reality check.
+[00:25] Howard Marx bubble.
+[00:28] MIT failed to boost revenues.
+[00:32] Palanteer tumbles after short selling
+[00:37] and the AI winters upon us. All right,
+[00:40] so I'll just keep saying this. This
+[00:41] stuff is all stupid. Um, there's a truth
+[00:45] involved in it in terms of the fact that
+[00:47] there is speculation going on. There is
+[00:50] a valuation issue, but I just want you
+[00:54] guys to remember there's a difference
+[00:55] between certain stocks being overvalued
+[00:58] or building in way too much of the
+[00:59] future, which I do believe is happening
+[01:01] to some degree, um, and saying that AI
+[01:05] is a bubble. This is the very early
+[01:07] innings and as you get through this
+[01:08] we're not even into the second stage
+[01:11] which I think is the longest stage which
+[01:12] I've highlighted before which is when
+[01:15] the digital employees and the robotic
+[01:17] employees start to come in and both of
+[01:20] those will happen next year and so as
+[01:22] you go through this that's the important
+[01:24] point is
+[01:26] use these AI bubble talks as
+[01:28] opportunities for you guys to find
+[01:30] things. I do believe this is a regime
+[01:33] shift. You're going to hear this point
+[01:34] again and again. and I've talked about
+[01:35] it. I do believe we are at a very
+[01:37] important macro regime shift. So for all
+[01:39] the macro people out there, uh this
+[01:41] thing is really more about the regime
+[01:44] shift than it is about AI in general.
+[01:47] All right, so let's continue.
+[01:49] Uh here's the positive side. So Goldman
+[01:52] comes back from a trip. I think the
+[01:54] important thing to look at is that the
+[01:57] acceleration in Gen AI adoption is
+[01:59] starting in 2026. We haven't even seen
+[02:02] the adoption yet. That's the main point.
+[02:04] Um, all we've had is the infrastructure
+[02:05] buildout. That is stage one. Stage two
+[02:07] is the adoption side. This is when we
+[02:09] start getting people actually using it.
+[02:11] So those stories you saw, there's a
+[02:13] truth in it. It has not been adopted
+[02:14] yet. And the reason it hasn't been
+[02:15] adopted yet is because people are lazy.
+[02:17] Because people have trouble with the
+[02:19] culture of the firms to get their people
+[02:20] to use it. The easiest way to get people
+[02:22] to use AI is to have AI use it as
+[02:26] opposed to humans use it. The pressure
+[02:29] on the Fed continued this week. Um, I
+[02:32] won't go through all these stories.
+[02:33] Let's just say whether it's uh mortgage
+[02:36] fraud, whether it's he's late, whether I
+[02:39] don't even care. Um it's non-stop. The
+[02:42] pressure just continues. Zervos was on
+[02:44] there saying the Fed's not independent
+[02:46] and saying PAL is left-leaning. Uh and
+[02:50] we get Pal flinching. So speaks of
+[02:54] Jackson Hole. um you know you can go
+[02:56] through and read whatever you want but
+[02:58] the main thing is there's definitely a
+[03:00] recognition that the labor market is
+[03:02] weak and somewhere behind there whatever
+[03:05] it is uh if the risks to employment are
+[03:08] rising while inflation is believed to be
+[03:12] temporary there's your justification for
+[03:15] the rate cut in September which is only
+[03:16] at 80 you know 80ish% coming out so it's
+[03:20] not like it was a complete pivot um but
+[03:23] basically this is paladopting the Chris
+[03:25] Waller thesis, the leading candidate for
+[03:27] the Fed chair. Uh
+[03:31] I wrote a paper on this this week. Um
+[03:33] regardless of what happens in September
+[03:35] because we still have some more data for
+[03:37] all the bears out there that want to
+[03:40] believe that inflation is going higher
+[03:42] and this and that, you are fading AI.
+[03:45] And again, this whole paper, the
+[03:46] academic Fed versus the inflation target
+[03:48] of the future, a secular regime shift,
+[03:50] however, is far more powerful. It
+[03:52] usually reflects dramatic changes in
+[03:54] monetary policy. That's what we're
+[03:55] seeing, which is the the uh desire of
+[03:58] this administration to run it hot. The
+[04:01] reason they want to run it hot is partly
+[04:04] because of the fiscal policy spend which
+[04:07] is going towards AI. They've got all
+[04:09] these artificial intelligence people
+[04:10] behind there. So for everyone in X
+[04:12] posting that they should be focusing on
+[04:15] inflation, you are being academic.
+[04:17] you're focusing on the today, the CPI
+[04:20] today, the PPI today. The fact of the
+[04:22] matter is we had five CPIs that came in
+[04:25] uh below expectations. Then we had one
+[04:27] that came in line and then we had a PPI
+[04:29] that came above and everyone's freaking
+[04:31] out because the tariff stuff is finally
+[04:34] showing up. When you have a monetary
+[04:35] policy shift, which we're seeing, which
+[04:38] is they want to run it hot, you have a
+[04:39] fiscal policy. They are not only
+[04:41] spending money on the AI, they are
+[04:43] focusing on so many different things on
+[04:45] the fiscal side
+[04:47] and not caring about the debt and
+[04:49] deficit the way that people had thought
+[04:51] uh not that long ago and you have a
+[04:53] massive innovation shift. That's when
+[04:55] you get regime shifts. I go through it
+[04:56] in this I compare it to 2007 when we had
+[05:00] the same type of situation. At that
+[05:01] point it was the software boom. Besson
+[05:04] argued that the US may be entering an
+[05:05] environment reminiscent of under
+[05:07] greenspan when rapid technological
+[05:08] innovation allowed the Fed to run the
+[05:10] economy very hot without sparking
+[05:11] inflation as digital employees begin to
+[05:14] replace human workers across industries
+[05:16] that is beginning next year.
+[05:18] Deflationary pressures from automation
+[05:20] will be powerful and persistent. You
+[05:22] have to be doing the Wayne Gretzky going
+[05:25] to where the puck is to be an academic
+[05:26] Fed and just be doing what you think
+[05:28] based on today's data data dependent
+[05:30] makes no sense in terms of a world where
+[05:32] there's exponential change. The labor
+[05:34] market is weak. I've highlighted it.
+[05:36] There's no way you can look at this
+[05:38] which is basically the service side, the
+[05:39] office job then no job creation over the
+[05:42] course of the last two and a half years.
+[05:44] I've highlighted all these different
+[05:45] stats. We have negative X healthcare.
+[05:48] You have the diffusion index below 50,
+[05:51] which historically is a recession. And
+[05:53] you have if the labor participation rate
+[05:55] had not fallen the last three months,
+[05:57] the unemployment rate would be 4.9. We
+[05:59] wouldn't even be having this discussion.
+[06:01] We'd be going 50 if the labor
+[06:03] participation rate hadn't gone down. And
+[06:05] again, here's the last three months. And
+[06:08] here is just the health care side. So
+[06:12] negative ex healthcare extremely easy to
+[06:15] see there. They should be cutting rates
+[06:18] uh for people who don't believe it. Have
+[06:20] fun. Uh the revisions massively lower
+[06:23] and again the BLS is set to revise down
+[06:26] US job numbers by 550 to 950,000. This
+[06:28] is what started the SOM rule uh added to
+[06:31] the SOM rule panic last year. This is
+[06:32] coming according to Goldman on September
+[06:34] 9th. If we're going to get another
+[06:36] revision, that'd be the biggest 12-month
+[06:39] downward revision in 15 years. Again,
+[06:41] they have the reason to cut. And oh by
+[06:45] the way, whether it was in the teback
+[06:47] from the most recent quarter, if rates
+[06:50] don't come down, you have a problem
+[06:52] globally. Central banks are undergoing
+[06:54] pressure to keep interest rates
+[06:55] artificially to offset the cost of
+[06:57] record borrowing. You're missing the
+[06:59] debasement side. They have no choice in
+[07:01] this element. They are not fighting
+[07:02] inflation as much as they are fighting
+[07:04] so many other problems that are acrewing
+[07:06] every day. S&P gets back to new all-time
+[07:08] highs after that little AI bubble fall.
+[07:12] banks I mentioned globally they're going
+[07:14] BKX right at the highs closed just a
+[07:17] point below it uh a reflationary boom uh
+[07:22] story uh sectors what you'll notice here
+[07:26] energy best performing sector tech worst
+[07:29] performing sector this is the rotation
+[07:31] in the regime shift that I expect to
+[07:33] happen as the time by the time you get
+[07:35] through this entire presentation there
+[07:37] are many many reasons for everyone
+[07:39] saying that if they cut rates the big
+[07:40] thing would be to short bonds.
+[07:44] Yep. Continually the worst trade people
+[07:48] can possibly do in an AI boom. So if
+[07:51] your if your thought is they cut rates,
+[07:52] they move 25, bonds are going to fall.
+[07:54] They should have fallen on Friday. They
+[07:56] didn't. Um I highlighted this last week.
+[08:01] This is the or two weeks ago. This is
+[08:03] the momentum in industrials. This just
+[08:06] highlights this is the best performers
+[08:07] in industrials. And then you can see the
+[08:09] other half is horrible. These are
+[08:12] related to the consumption economy, the
+[08:14] auto economy, the real estate, whether
+[08:16] it's residential or uh commercial. And
+[08:20] then everything here is AI. If we are in
+[08:22] a regime shift and rates are going to
+[08:24] start to move lower,
+[08:26] you should start to see these do better.
+[08:30] And that's what we saw this week. This
+[08:32] is the um industrial momentum. It's
+[08:35] inverted. So we saw a sharp move the
+[08:38] other direction after peaking. Uh this
+[08:41] is overlaid with
+[08:44] the PMI, the manufacturing PMI, which I
+[08:47] will get into. Uh so again, another
+[08:50] phrase that if you're going to have this
+[08:51] move higher, that would mean that the
+[08:53] things that are doing poorly start to do
+[08:55] well as well the things that have been
+[08:57] doing well. This is a tide that lifts
+[08:59] all boats. The PMI is a diffusion index.
+[09:01] You should start to see that go higher.
+[09:04] We'll see what happens. momentum on the
+[09:06] broader level. It was a a down week for
+[09:09] momentum as well. Uh I just want to
+[09:11] highlight these again. I've shown this
+[09:12] chart multiple times. Regime shifts are
+[09:15] critical. They happen for monetary
+[09:17] policy for fiscal policy. This is the
+[09:19] regime shift I I highlighted with
+[09:20] software QE and austerity. Uh this was
+[09:25] coming out of the great financial
+[09:26] crisis. Then you had this one in in here
+[09:29] related to uh the shift from oil when
+[09:31] oil hits uh hit $25 and then we got the
+[09:35] shift. Uh this one was going into COVID.
+[09:38] This one was coming out. This was the
+[09:40] shift in terms of the Fed pivot back in
+[09:42] 22. This looked and to me was the
+[09:45] beginning of the next shift. But then we
+[09:47] had the tariffs which set us back
+[09:48] higher. I still believe this is going to
+[09:50] come. Momentum will shift. And if it
+[09:53] does shift, you're talking about a
+[09:55] regime shift that will have
+[09:56] implications. It is always driven by the
+[09:58] things that I mentioned. Uh in terms of
+[10:00] the factors, size, I highlighted this
+[10:02] last week. A 100% composite score,
+[10:04] factor strength of 3.53. Here's momentum
+[10:07] here. The two best factors. Uh I expect
+[10:10] that size and momentum will be the ones
+[10:12] that shift in a regime shift. And this
+[10:14] week, the size factor, the pure size
+[10:17] factor was down all five days this week.
+[10:19] So regardless of whether it was the a
+[10:21] the AI bubble or uh the fears over the
+[10:26] Fed not cutting, then we got it built
+[10:28] back in. So when you can have five days
+[10:30] in a row of size under pressure, that
+[10:31] says there's something going on. And
+[10:33] this was the biggest weekly fall in size
+[10:36] since right around the SAM rule back
+[10:38] then when the rate cut started to be
+[10:40] built in. So I do believe that size is
+[10:43] going to be under pressure. small cap
+[10:44] index. The S&P small cap index had its
+[10:47] biggest day since the bottom in the
+[10:49] stock market bacon based uh back in
+[10:51] April and also the election back here
+[10:53] which led to a rally. So when small caps
+[10:56] have a big move like this, it's usually
+[10:57] a turning point of some side and it
+[10:59] comes at a time when they're finally
+[11:01] having earnings. So small caps are
+[11:04] beating by the widest margin since Q122.
+[11:07] Uh we got all the press on how good the
+[11:09] earnings season was, but the earnings
+[11:10] season beats for a lot of these were not
+[11:13] out of the ordinary. But for small caps,
+[11:15] which should have been hurt the most by
+[11:17] the tariffs, they still beat by I mean
+[11:20] it's a huge be.
+[11:22] Uh the positioning in Russell futures
+[11:26] net short by the biggest amount, even
+[11:29] lower than the amount in 2022 when rate
+[11:32] hikes were going on. positions there.
+[11:34] And John Rog, if you guys uh you can see
+[11:37] John Rog's email here, I highly
+[11:38] recommend reaching out to him. John and
+[11:40] I have known each other a long time.
+[11:42] I've shown him uh his work on here a
+[11:44] couple times, but right now because of
+[11:46] the regime shift side, he happens to be
+[11:48] on the same side out of a lot of things.
+[11:50] And John and I do not do anything
+[11:52] together. I don't I use charts on my
+[11:54] own. I'm an Elliot wave person. But what
+[11:56] John is great at is these big bases,
+[11:58] which usually when there's a turn happen
+[12:01] at regime shifts. So, in terms of where
+[12:04] the Russell 2000 is, he's bullish on it
+[12:07] and he sees a potential big base. So, a
+[12:09] breakout above here would have to happen
+[12:11] in my opinion for a secular side. He's
+[12:13] positive on it. I like it at that point.
+[12:15] And it matches up because that big base
+[12:18] coincides with the PMI sitting below 50.
+[12:21] And again, for those of you who don't
+[12:24] understand the PMI below 50, think of it
+[12:27] as uh it's a survey. It has five
+[12:30] components that make up the the actual
+[12:32] number. And if we're below 50, think of
+[12:36] it as there's not more than 50% of the
+[12:39] economy doing well. That typically
+[12:41] happens during recession. It's a
+[12:43] diffusion index. It's very similar to
+[12:45] the industries on the job side that I
+[12:48] showed. We've been in this for a long
+[12:50] time. And I actually believe that the
+[12:52] entire time in here, there was no
+[12:54] cyclical upswing uh that was durable.
+[12:58] These were all the reversals of negative
+[13:00] situations. This one's going to be
+[13:02] different to me. I think it's going to
+[13:03] last and it's going to look more like
+[13:05] this period in here when we stayed above
+[13:07] 50 for a long time. In this case, we
+[13:09] stayed below here for a long time.
+[13:11] Somewhat similar to what went on in
+[13:13] here. So, just keep that in mind as we
+[13:15] go through because as I've talked about,
+[13:18] um,
+[13:20] PMIs, the S&P Global released their
+[13:23] flash numbers, best in more than three
+[13:25] years in the US. Uh companies across
+[13:28] manufacturing services are reporting
+[13:30] stronger demand conditions but are
+[13:32] struggling to meet sales growth causing
+[13:34] backlogs of work to rise at a pace not
+[13:36] seen since the p pandemic related
+[13:38] capacity constraints recorded in 22. So
+[13:41] last time we saw a supply demand
+[13:43] situation like this was during during
+[13:46] the the point where people weren't
+[13:49] working around the globe. Uh, a lot of
+[13:52] this is going to have to do with
+[13:53] tariffs, but the bulk of this is going
+[13:55] to have to happen because of AI.
+[13:59] Combined with the upturn in business
+[14:01] activity and hiring, the rise in prices
+[14:03] signaled by the survey puts the PMI data
+[14:05] more into rate hiking rather than
+[14:08] cutting territory according to the
+[14:09] historical relationship. I bring that up
+[14:11] because again, they want to run it hot.
+[14:14] You're going to have a time where PMIs
+[14:16] are rising above 50 and the Fed is
+[14:18] cutting rates.
+[14:20] not going to happen too often and I
+[14:22] think people need to pay attention and
+[14:23] start to change their positioning based
+[14:25] on that. Focus on small caps, focus on
+[14:27] some of the lagards and some of the
+[14:29] things that are rate sensitive because I
+[14:30] think the Fed has or the administration
+[14:32] has more surprises to help in the
+[14:35] housing market and that would just be
+[14:37] the final tailwind. So for people that
+[14:39] have been bearish on PMIs have pushed
+[14:41] back on me continuously on this, it's
+[14:43] not just in the US. The Euro zone
+[14:45] composite PMI rose 51, strongest private
+[14:48] expansion since May of 24, highest in 38
+[14:51] months for the manufacturing component.
+[14:54] Japan quickest pace in six months. India
+[14:58] fastest activity in at least two
+[15:00] decades. Prices rise. Australia good
+[15:04] proxy for China solid 54.9.
+[15:09] Morgan Stanley revised up their global
+[15:11] capbook significantly. You're talking
+[15:13] now well over a trillion dollars over
+[15:15] the course of the next two years. Uh the
+[15:17] data center power demand double now.
+[15:20] They've moved everything up. This number
+[15:22] here used to be about 95 or 92 according
+[15:26] to Eric Schmidt. We're now up 15 20%. Uh
+[15:30] meeting 100 gawatts which is less than
+[15:32] that number would require a thousand
+[15:34] natural gas turbines.
+[15:36] Not going to go through this. You guys
+[15:37] understand um everyone who's been
+[15:39] bearish on China and I mean God when
+[15:42] they came out with this stimulus here
+[15:44] everyone was bearish on it consolidated
+[15:46] in a beautiful chart formation. This is
+[15:48] called a third wave folks. This is a
+[15:50] parabolic move breaking out of a 10-year
+[15:53] base. I'm not going to show the John Rog
+[15:55] side but he's got a 10-year base on this
+[15:57] too. This is not something to fade. And
+[16:00] yet most people are still negative on
+[16:02] China. China stock index rises to decade
+[16:04] high as they're dumping bonds. Turnover
+[16:07] on the mainland exchanges reached second
+[16:08] highest level ever. So what's happening
+[16:10] on big volume? 30-year bond. When the
+[16:13] stock market was rising, I kept hearing
+[16:15] that bond yields are not rising. This is
+[16:17] something the fade activity is not
+[16:18] happening. Wrong, wrong, wrong. China's
+[16:21] stock rally has the makings of a durable
+[16:24] bull run.
+[16:26] Uh FOMO is setting in now. Finally,
+[16:31] the scariest aspect of the ongoing share
+[16:33] rally is that it has unfolded
+[16:35] organically despite widespread
+[16:37] skepticism in the wellrecoognized lack
+[16:39] of meaningful policy support. So,
+[16:41] everyone thought they needed more
+[16:42] policy. And I've highlighted before that
+[16:44] IP is well above the old traditional
+[16:46] signals. This is a new world of AI. This
+[16:50] is a new world of drones, of humanoids.
+[16:53] It has nothing to do with what you've
+[16:54] learned in the past. There will never be
+[16:56] another property boom in China. Go read
+[16:59] a new book. That being said, all the
+[17:02] stuff out there in stimulus that's come
+[17:04] out, this is all this week, loans,
+[17:07] focus on property market, focus on
+[17:09] property market, focus on property
+[17:11] market, they are trying to get the
+[17:13] stabilize the prop property market. It's
+[17:16] never going to rise. And if you keep
+[17:17] looking at it in a big way like what's
+[17:18] coming, by the time that comes, they'll
+[17:20] have runaway inflation. They'll have all
+[17:22] kinds of problems. They don't want that.
+[17:24] This is a new era. All right? And the
+[17:26] new era we're talking about the regime
+[17:28] shift. I wrote this in April from cloud
+[17:30] so software to embodied AI. This is what
+[17:33] we are now entering. This is the part
+[17:35] that you guys this is a long uh paper I
+[17:38] wrote back in there uh for 22V. We stand
+[17:42] at the brink of a new era. One that may
+[17:43] prove even more transformative. The rise
+[17:45] in AI marks a turning point not only for
+[17:47] how software is built and deployed but
+[17:49] how it how in machines interact with the
+[17:52] physical world. As Alain must put it, AI
+[17:54] is the most profound technology humanity
+[17:55] will ever develop. Bubble more profound
+[17:58] than electricity or fire. If software
+[18:00] ate the world, AI is poised to rebuild
+[18:02] it. Rebuild the entire world because of
+[18:05] sticking intelligence into machines.
+[18:08] This has to be understood as I go
+[18:10] through the rest of this because we are
+[18:11] at that critical point. The convergence
+[18:13] of AI and hardware advancements is
+[18:15] unfolding against the backdrop of a
+[18:17] profound macro regime shift driven by
+[18:19] simultaneous changes in fiscal,
+[18:21] monetary, and innovative forces. Again,
+[18:23] I wrote this in April. We are now in the
+[18:26] stage where every single one of them is
+[18:28] in play. And here's what you need to
+[18:30] start to focus on. Uh I've owned a Tesla
+[18:32] or multiple Teslas since 2012. So I love
+[18:35] the car. Could care less about the stock
+[18:38] historically. This is the first time
+[18:39] I've ever talked about it in any
+[18:41] meaningful way. the robo taxis you have
+[18:43] to understand I I'm this paper is not
+[18:46] out uh I'm just showing you that I'm
+[18:49] doing a long form paper specifically on
+[18:51] robo taxis to highlight the importance
+[18:53] the opening act of embodied AI if you
+[18:55] guys haven't reached out to 22V yet and
+[18:57] you're interested in Tesla reach out now
+[19:01] this mustwatch this is from Adam Jonas
+[19:04] who is probably my favorite stock
+[19:06] analyst ever in the history of my
+[19:09] involvement in the markets uh and auto
+[19:11] analyst who took the same path I did
+[19:14] about the same time to really understand
+[19:16] how much technology was changing the old
+[19:19] industrial world and how the economy was
+[19:21] no longer representative of what it used
+[19:23] to be and it was around the same time.
+[19:25] So Adam put out this video. It's about
+[19:28] 22 minutes. I highly recommend it. The
+[19:30] robots are coming. You'll learn a lot.
+[19:31] AI is about to get physical is where
+[19:33] you'll find it in YouTube. The
+[19:35] highlights are unbelievable. Embodied AI
+[19:37] is a decat trillion TAM. So when people
+[19:39] are fading AI and they're saying they're
+[19:41] never going to get the revenues, they
+[19:43] may not get on the software side, but
+[19:45] his focus is how we're going to get it
+[19:47] on the physical side. This is important
+[19:48] for PMIs. This is important for macro
+[19:51] people. This is important for everyone
+[19:52] who needs to understand how the economy
+[19:54] is going to change. You will have
+[19:56] humanoids walking around you on the
+[19:58] street in four years. You'll have flying
+[20:00] cars. How can you not be paying
+[20:02] attention to this? Go watch this for 22
+[20:04] minutes and at least get an
+[20:05] understanding. There's a generational
+[20:07] TAM expansion beyond software into
+[20:09] robotics, logistics, mobility, and
+[20:10] defense.
+[20:12] The race for photons. This is critical
+[20:14] in understanding the robo taxis. That's
+[20:16] why I have this little blue line here.
+[20:17] Companies with the best vision actuation
+[20:20] data sets will dominate embodied AI. We
+[20:22] are leaving software and we get it.
+[20:24] We're getting into the point. This is
+[20:26] about vision. It's about photons. This
+[20:28] is what Adam does a great job of
+[20:30] highlighting which I haven't seen in
+[20:31] anything else. This is the next
+[20:33] hyperscaler, capex, track robotics,
+[20:35] supply chains, sensors, actuators,
+[20:37] batteries, semis. This is all
+[20:38] manufacturing. Tesla's advantage and
+[20:41] their moat is manufacturing is the key.
+[20:44] You have to think about that when you
+[20:45] realize all the AI action plan and
+[20:47] everything we're doing.
+[20:49] Um, it's not an auto company. It's the
+[20:51] first vertically integrated embodied AI
+[20:53] company positioned for humanoids and
+[20:54] autonomy. Multi- trillion upside. This
+[20:57] is why you have to go pay attention to
+[20:59] it. Robo taxi equals one of the biggest
+[21:02] monetization opportunities in history.
+[21:03] Think ad models, entertainment,
+[21:05] productivity unlocks. This is what Adam
+[21:07] Jonas highlights. These are all the
+[21:09] things from the video. This is why
+[21:10] watching it is important. China makes
+[21:12] more drones in one day than the US does
+[21:14] in one year. Hence the need for us to
+[21:15] build up our manufacturing because it's
+[21:17] a national security in for defense
+[21:20] budgets. No way it's going to stop.
+[21:22] Humanoids are for and $40 trillion labor
+[21:25] market. This is the impact. This is why
+[21:26] profit margins will sore as we get
+[21:28] through digital employees and robotics.
+[21:31] Um, manufacturing decline reversal.
+[21:34] Manufacturing dropped from 30% to 10%
+[21:37] over 80 years. Macro regime shift. He's
+[21:40] calling for the exact same thing.
+[21:41] Embodied AI position to reverse this
+[21:43] trend. This is industrial policy plus
+[21:46] productivity super cycle opportunities
+[21:48] and semis. Robotics component supply all
+[21:50] of this stuff. You can go read it all.
+[21:52] This is not something that won't happen.
+[21:54] It is here. and robo taxis are the first
+[21:57] place where it's going to show up.
+[21:59] Jensen Yuan talked about it and he said
+[22:01] there was a chat GPT moment for robotics
+[22:03] coming soon. That would be this moment
+[22:06] in my opinion with um robotics. If you
+[22:08] want to go listen to a podcast, this is
+[22:11] uh from Gavin Baker. This is on invest
+[22:13] like the best. This is a year ago where
+[22:15] he was talking about the early stages of
+[22:18] LLMs, Nvidia, reasons that they would
+[22:21] have a little bit of trouble. Gavin
+[22:22] Bacon is one of the the be Gavin Baker
+[22:24] is one of the best out there in my
+[22:26] opinion on what has been happening. He's
+[22:28] been studying this for a while. It's
+[22:29] very hard to find people who understand
+[22:30] Tesla from both a technology perspective
+[22:34] but also from the uh the embodied AI
+[22:37] perspective. An auto analyst is not
+[22:39] going to get that for you unless it's
+[22:41] Adam Jonas. Here's one of the quotes
+[22:43] from there and the thing you have to
+[22:44] understand. So so you have to remember
+[22:46] for Tesla Tesla is going to the same
+[22:47] miles between disengagements. It's like
+[22:49] if you ever built a new cities on Mars
+[22:51] and it was populated by entirely
+[22:53] different looking cars and streets and
+[22:55] everything, you could drop a Tesla robo
+[22:57] taxi in that city and it would have the
+[22:59] same miles between disengagements in any
+[23:01] other city. Where something like Whimo,
+[23:03] which you may have been in, Whimo has
+[23:05] more cars than Tesla, but their
+[23:07] technology and approach is completely
+[23:10] different. It's geoenced, which means
+[23:12] it's using maps and sensors as opposed
+[23:15] to what Tesla robo taxi is, which is
+[23:17] sticking a brain in the car to learn as
+[23:20] it goes. Tesla has launched its robo
+[23:23] taxi. Now, what that was an arc research
+[23:26] thing. You can go read it from this
+[23:27] week.
+[23:29] Tesla secures Texas permit for driver.
+[23:32] Now, what I'm getting into is what it's
+[23:34] important for investors and how quickly
+[23:36] this can scale. He is seating cities
+[23:39] cities across the country with little
+[23:42] amounts of cars 10 to 20. That's why
+[23:44] people will fade it once it starts to
+[23:46] work. You will be able to extrapolate
+[23:49] very quickly. So we are at a point now
+[23:51] where all the signs are showing up that
+[23:53] he's ready for this now. So he gets the
+[23:56] permit in Texas.
+[23:58] The Tesla robo taxi service area is
+[24:00] already larger than any competitors in
+[24:02] Austin and Bay Area. Again, different
+[24:04] technology, different approach. an
+[24:06] analyst went in it this week and there's
+[24:08] been plenty of them that have gone
+[24:09] through it because remember this was
+[24:10] only released in June. So this is now
+[24:13] you're looking for signs as to when this
+[24:15] will start to take off. Uh we
+[24:17] experienced a glimpse of the future and
+[24:18] exciting the comparisons are meeting in
+[24:20] Stark. I won't read the whole thing. You
+[24:22] guys can go read it. It was on TV.
+[24:24] William Blair analyst is impressed by
+[24:26] the rides felt a lot more like person
+[24:28] was driving it while rides still feel
+[24:31] somewhat robotic. different
+[24:32] technologies. Version 14 of Tesla
+[24:36] self-driving feels sentient. Version 14
+[24:39] is not out yet. He's saying it's coming
+[24:42] out soon. So that's another level. He's
+[24:45] been testing this. Italy, Netherlands,
+[24:48] Japan, Spain, UK, Germany. You can
+[24:51] extrapolate again and get how big this
+[24:53] can be. If you heard about this signing,
+[24:56] a 16.5 billion dollar deal with Samsung
+[24:59] this month, he posted, "The strategic
+[25:02] importance of this is hard to overstate.
+[25:06] This is the company's bet on an all-in
+[25:08] one chip design that can scale from
+[25:10] powering its driver assistance system
+[25:11] known as FSD to Tesla's Optimus hum."
+[25:15] This deal is because he expects this to
+[25:18] accelerate, which should not be a
+[25:20] surprise, but here's going uh he's been
+[25:22] posting all week. This was from this
+[25:24] week. This is him saying that last year.
+[25:28] This will change the look of the roads.
+[25:31] Robo trucking is also part of this. You
+[25:33] should go watch this video from person
+[25:35] who does next big future to go see that
+[25:38] trucks, semi-truckss will be on here.
+[25:39] Just think about what this does in terms
+[25:41] of cost deflation coming both from not
+[25:44] needing people and being able to drive
+[25:46] down prices, but from competition.
+[25:49] And Musk put out his warning. If they
+[25:51] don't exit their short position before
+[25:52] Tesla reaches autonomy at scale, they
+[25:54] will be obliterated. There's no doubt
+[25:56] about that. Uh John Rog, here's his
+[25:59] second one. Again, big base. What's
+[26:02] happened on the Tesla big base? This is
+[26:04] what really started the timing of this.
+[26:06] I use a fundamental side, which I
+[26:08] already had all of the things. I had
+[26:09] already heard the Gavin Bacon interview,
+[26:12] all of this stuff. And then John says
+[26:14] out of nowhere, I really think Tesla's
+[26:16] going to start to break out. Okay. I
+[26:18] believe charts give you an insight into
+[26:21] matching up. And then when you go do the
+[26:22] work, you put it in the bigger picture.
+[26:24] When you put in rate cuts, when you put
+[26:26] in a a a regime shift and you put all
+[26:29] these things and you start searching and
+[26:31] Tesla has underperformed, it's down 20%.
+[26:33] Elon Musk is hated by Republicans. He's
+[26:35] hated by Democrats at this point. He's
+[26:37] hated around the globe. And yet somehow
+[26:39] the chart looks good.
+[26:42] another technician who I I have on my ex
+[26:45] post who does different work than John,
+[26:48] more short-term oriented, more trading
+[26:50] oriented.
+[26:51] This is the start of a coming technical
+[26:54] breakout in my view. Today's move to six
+[26:56] day highs exceeded the minor downtrend,
+[26:57] blah blah blah. You get the point. I've
+[26:59] got technicians all bringing up the same
+[27:01] thing. At the same time, if you guys
+[27:03] aren't familiar that humanoids are
+[27:05] sitting here, then you should go watch
+[27:06] the world humanoid robot highlights.
+[27:09] Yes, the Olympia the Olympiad of robots
+[27:12] was in Beijing. They wanted to show off
+[27:16] how this is going. And of course, you
+[27:18] know, the Chinese won the top medal in
+[27:20] most of the world's humanoid robot
+[27:21] games. But you can go see that this
+[27:23] happened and we're at this point now.
+[27:26] Okay. So, I'm positive on AI. That being
+[27:29] said, uh this is something I think
+[27:32] people should read and this gets into
+[27:34] some of the issues and the major issues
+[27:35] I have with the Mag 7. So again, I'm
+[27:38] talking about a major regime shift away
+[27:40] from the software dominated world that
+[27:42] has been in place for 18 years and into
+[27:44] a new world completely dominated by the
+[27:46] hardware side. If you are long software
+[27:49] companies, as I highlighted last week,
+[27:51] you are exposed to coding being free and
+[27:55] being able to replicate everything on
+[27:57] your hand. So this is from uh Harris
+[28:02] Cuppupperman. He goes by Cuppy on X. Uh
+[28:05] I saw this uh and I read it and I
+[28:07] actually liked it and I think you guys
+[28:09] should read it too. Um sometimes a
+[28:12] hyperrowth company amazed me when it
+[28:13] actually grows into its valuation.
+[28:15] That's though that's rarer than you
+[28:17] think. Usually cash flow is king. ROIC
+[28:20] is the queen and everything else is
+[28:21] simply stock promotion. Hence hence the
+[28:23] skeptism I heard towards anything new.
+[28:25] Okay, I want to bring this up because
+[28:28] normally I would say okay this is just a
+[28:29] perma bear. He uses AI a lot and gets
+[28:32] huge value from it. I'm not here to
+[28:34] belittle AI. It's the future and I
+[28:36] recognize we're just scratching the
+[28:37] surface in terms of what it can do.
+[28:39] Okay, this brings back credibility
+[28:41] immediately and I want to read the rest
+[28:43] of the report. I recognize all this. I
+[28:45] also recognize massive capital
+[28:47] misallocation when I see it. I recognize
+[28:49] an insanity bubble and I recognize
+[28:51] hubris. This is the bubble that I agree
+[28:54] with. Massive capital misallocation.
+[28:57] It's not that they're misallocating.
+[28:58] They're chasing something which I don't
+[29:00] think they're going to get the benefits
+[29:01] from. I recognize an insanity bubble.
+[29:03] Okay. Whether it's the spending or
+[29:05] whether it's people that are are buying
+[29:07] these types of names at regardless of
+[29:10] the valuation. And I get hubris. I think
+[29:13] we're I think those are all fair
+[29:15] comments. Now,
+[29:17] this is one of the things that got
+[29:18] people all freaked out. A hiring freeze
+[29:20] at Meta AI operations in effect after
+[29:22] investors voiced concerns about the
+[29:24] scale of Meta stockbased compensation
+[29:26] costs. So, it sounds like investors,
+[29:29] board members, whatever. basically
+[29:33] forced Meta to come out with a statement
+[29:35] saying they're not going to be hiring
+[29:36] people for $100 million anymore. So,
+[29:38] they made their big bet. Okay, it's not
+[29:40] a bearish thing for Meta overall, but it
+[29:43] does show that the capex side, the
+[29:45] spending side is becoming an issue and
+[29:47] if they don't start seeing the returns,
+[29:49] you're going to have problems with these
+[29:50] stocks. So, the rest of what I want to
+[29:52] show here, so Jim Chainos came out with
+[29:54] this. I kind of highlighted it. this is
+[29:56] getting into on its capital base.
+[30:00] The depreciation of this um the
+[30:03] accounting that's going on on this is
+[30:05] just going to put more pressure. This is
+[30:06] the critical detail that nobody can
+[30:08] unravel in the AI trade. Free cash flow
+[30:11] has turned negative for Amazon and
+[30:12] Oracle and declined for Alphabet Meta
+[30:14] amid heavy AI spending. Again, they're
+[30:17] spending money to get something in
+[30:18] return. This worked with the cloud. The
+[30:20] question is, is it going to work now? I
+[30:22] think this is a much bigger problem for
+[30:25] them. Uh a because of how much money
+[30:27] they're spending and secondly because of
+[30:30] this thing that software is going to
+[30:31] already be eating away at some of their
+[30:32] businesses and I don't know how they're
+[30:34] going to get this. So it seems like it's
+[30:35] all related to AGI which is some
+[30:37] mythical thing that we're not sure how
+[30:39] you can monetize. The Mag 7 tech giants
+[30:41] outspend rest of corporate America 2 to1
+[30:44] on capex. Again this is a massive bet
+[30:47] that becomes very important for the
+[30:49] market. uh mag seven value to free cash
+[30:53] flow. Now again, it worked in here. The
+[30:56] question is, will it work expanding
+[30:58] this? Now, I'm gonna say no. And here's
+[31:01] the problem. There's no more room for
+[31:03] for error. The Magnificent 7s EUR has
+[31:06] outpested the rest of the S&P by more
+[31:08] than 20 points for five consecutive
+[31:10] quarters.
+[31:12] So, here's the problem. It's
+[31:13] outperformed in terms of earnings
+[31:16] significantly,
+[31:17] but it's underperformed the market. So,
+[31:20] you have a divergence. I'd be worried if
+[31:22] I were people overweight these things.
+[31:25] John Rogue back again
+[31:28] highlighting this little point here.
+[31:30] Here's here's the Mag 7. Uh
+[31:34] again, on a relative basis, it's down
+[31:36] for the year. So, it hasn't worked. I
+[31:39] believe this is a problem you need to
+[31:41] start paying attention to. And the
+[31:42] reason is here's another Alan Mus pose
+[31:45] from this week. It's an easy prediction
+[31:48] of where things are headed. No more
+[31:50] traditional operating system or apps,
+[31:53] but just AI rendering everything
+[31:54] directly. This is another critical thing
+[31:57] for people to spend time on on learning.
+[31:59] You can go into chat GPT take that that
+[32:03] exact quote and then bring it in. But
+[32:04] here's the details. They envision a
+[32:06] future where smartphones function as
+[32:08] AIdriven engine instead of routing every
+[32:10] task through a cloud service. The phone
+[32:13] itself would act as an intelligent
+[32:15] rendering engine. So I just want you to
+[32:17] think about this. If you've been
+[32:18] wondering why we haven't had AI on a
+[32:20] phone yet, but we have it on our
+[32:22] computer. This is really getting into
+[32:24] it. So I'm using AI on my phone. I'm
+[32:26] using chat GPT and I'm talking to it.
+[32:30] But that's not actually using it to to
+[32:32] do what I want it to do. Hey, go order
+[32:33] me an Uber. Hey, go do this. Hey, go do
+[32:36] that. It doesn't work well. And the
+[32:39] reason is the bandwidth constraints make
+[32:41] pure cloud AI impractical. So what he's
+[32:44] talking about if realized the architect
+[32:47] the architecture of having a phone that
+[32:49] has AI on it. If you want an app, you
+[32:52] just build it yourself. That's what Alon
+[32:54] Mus is talking about. And without going
+[32:56] through all the details, Mus AI is
+[32:58] betting that the future of software
+[33:00] isn't apps at all. It's AI native
+[33:02] devices powered by a blend of massive
+[33:04] centralized training and decentralized
+[33:06] edge inference. This is very similar to
+[33:08] what he is doing in terms of the car
+[33:11] versus Whimo. AI AI just becomes part of
+[33:14] the machine rather than having to use
+[33:16] the apps on the machine. When you use an
+[33:19] AI system like chat GBT or GR today,
+[33:21] most of the heavy lifting happens in
+[33:22] giant data centers and your device just
+[33:25] streams the results back. So you're
+[33:26] doing the work off the machine. That's
+[33:29] fine for text, but when AI start
+[33:30] generating full experiences in real
+[33:32] time, the amount of data that's needed
+[33:34] to flow between your phone and the cloud
+[33:36] becomes enormous. Now, before I read
+[33:38] this, just remember massive regime shift
+[33:41] from software to hardware emphasized
+[33:43] again here. The economics and physics of
+[33:45] networks can't keep up with billions of
+[33:48] people trying to stream full AI
+[33:50] generated environments simultaneously.
+[33:52] Again, you're going to need batteries.
+[33:54] You're going to need semiconductors.
+[33:56] Instead of doing it on the cloud and in
+[33:58] the data centers, it's going to have to
+[33:59] happen in each device, whether it's a
+[34:01] humanoid, whether it's a car, whether
+[34:02] it's a computer, whether it's a phone.
+[34:05] The buildout of the hardware is massive.
+[34:07] Do not fade it.
+[34:10] The next phase of AI. So, I went through
+[34:11] so this is about hardware moving
+[34:13] forward. Next phase of AI isn't just
+[34:15] about clever. It's about hardware and
+[34:16] infrastructure.
+[34:18] The training was in the cloud. That's
+[34:21] phase one. But inference running the AI
+[34:23] to generate answers, visuals or actions
+[34:25] needs to happen locally on the devices,
+[34:26] phones, cars, robots because of the
+[34:28] bandwidth in them. If AI agents replace
+[34:31] apps, then the real mode isn't the app
+[34:32] store anymore. It's who controls the
+[34:34] hardware layer and who can manufacture
+[34:35] them at scale. Moving forward, the
+[34:37] bottleneck and battleground is hardware,
+[34:39] compute capacity, chip design, and
+[34:41] adapt people. And again, this means I'm
+[34:45] negative on the Mag 7. Not for them to
+[34:47] go down, but for them to have trouble
+[34:49] going up and to underperform. They will
+[34:52] still be having earnings, but they are
+[34:55] valued at a level that has built it that
+[34:57] has not built in the risk of them not
+[34:59] getting enough return rather than the
+[35:00] capex. Think of them as bleeding rather
+[35:03] than gushing. Now, this leads us finally
+[35:07] to Bitcoin, which is still the chart is
+[35:09] fantastic. Again, it's consolidating up
+[35:11] here. came to the bottom end of the
+[35:12] range and then when Palism Smoke it got
+[35:14] back up to 116 which is where it is this
+[35:16] morning on Saturday. Um Ethereum made
+[35:18] new all-time highs. Another big base.
+[35:21] John Rog likes these as well. I'm just
+[35:23] not including the chart. My favorite
+[35:25] chart. If the Mag 7 are going to
+[35:26] underperform, guess what? Bitcoin is the
+[35:30] large cap that will start to win. I
+[35:32] believe this happens into the end of the
+[35:33] year and you start to see Bitcoin as I
+[35:37] said it would be the second largest uh
+[35:39] asset in the world. It's going to be
+[35:40] hard to do. I'll stick with it because I
+[35:42] did think we were going to get there.
+[35:44] But regardless, this is it relative to
+[35:45] the Mag 7. This is the trade that I
+[35:47] think is the most important. And just
+[35:49] two pieces of news. The Fed talked a lot
+[35:51] about payments. Uh cryp changes coming
+[35:54] to how the Fed views AI and crypto. Very
+[35:57] important especially since again we have
+[35:58] a regime shift. So the Fed's going to be
+[36:00] more involved in this. And finally, uh
+[36:03] Brian Armstrong said we'll see a million
+[36:04] Bitcoin by 2030. Uh one more week of me
+[36:08] in Maine. Hope you guys have had a great
+[36:10] summer as we head into the final week.
+[36:13] Uh, lot of stuff on here that I think is
+[36:15] important. Reach out if you have
+[36:16] anything and remember 22V research. I'll
+[36:18] be doing the Tesla report there. Have a
+[36:21] great final week of the

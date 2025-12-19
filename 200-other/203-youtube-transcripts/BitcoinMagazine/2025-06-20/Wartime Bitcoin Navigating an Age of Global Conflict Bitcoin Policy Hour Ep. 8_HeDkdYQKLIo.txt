@@ -1,0 +1,1706 @@
+Title: Wartime Bitcoin: Navigating an Age of Global Conflict | Bitcoin Policy Hour Ep. 8
+Video ID: HeDkdYQKLIo
+URL: https://www.youtube.com/watch?v=HeDkdYQKLIo
+Date Saved: 2025-06-20 22:32:23
+Channel: BitcoinMagazine
+--------------------------------------------------
+
+[00:00] This is kind of a sort of low-grade part
+[00:03] of a World War III that's unfolding. One
+[00:05] of the sort of most consistent themes of
+[00:07] this podcast is moving from the old
+[00:10] world, the post World War II era to the
+[00:12] new world. And this is clearly part of
+[00:13] that story. And just like Bitcoin is a
+[00:15] big part of that story, just like AI is
+[00:17] a big part of that story, systems of AI
+[00:19] systems are orchestrating battlefield
+[00:21] activities. um from this tactical to the
+[00:24] operational to the strategic. Large
+[00:25] portions of the kill chain, the fine fix
+[00:28] finish, you know, sequence is automated.
+[00:30] Palanteer has their own system they've
+[00:32] been fielding for Ukraine. It's called
+[00:33] the meta constellation and it's a sensor
+[00:35] fusion platform for battlefield
+[00:37] awareness as well as um sort of AI
+[00:39] supported strikes. All right. Uh welcome
+[00:42] back to the Bitcoin Policy Hour, a
+[00:44] weekly podcast hosted by the Bitcoin
+[00:46] Policy Institute. I'm your host, Zach
+[00:48] Cohen, an associate with BPI, and I'm
+[00:49] joined each week by my colleagues,
+[00:51] Matthew Pines, BPI's executive director,
+[00:54] uh, and Zach Shapiro, BPI's head of
+[00:56] policy. Uh, we're now just a little over
+[00:59] a week out from the Bitcoin Policy
+[01:02] Summit. Uh, tickets are quite limited at
+[01:04] this point. Uh, and we are getting very
+[01:06] close to selling out. Uh, so if you do
+[01:08] still want to come, you can grab your
+[01:09] ticket by visiting btcpolicysummit.org.
+[01:13] Uh, and we do still have a code for
+[01:14] listeners of this podcast, which is BTC
+[01:17] policy hour 21.
+[01:19] All right. Uh, it's it's been a little
+[01:22] bit since we since we came out,
+[01:23] everybody here and and a lot has has
+[01:25] transpired since then. Um, I think the
+[01:28] biggest being uh the the conflict that's
+[01:30] broken out in the Middle East between
+[01:32] Israel and Iran. Um, you know, I think
+[01:35] there's a lot to dig into here both on
+[01:36] the broader politics side and, you know,
+[01:39] Bitcoin in in wartime. uh as we're kind
+[01:42] of coining here. Um so gonna go to pines
+[01:46] here first. What what's going on in the
+[01:48] Middle East? Maybe just give us a kind
+[01:50] of a short breakdown of of what we're
+[01:52] seeing or as short as as possible. Um
+[01:55] you know to get the full lays of land
+[01:56] here and then then we can kind of dig
+[01:58] into the details.
+[02:00] Yes. Obviously we could spend this
+[02:01] entire hour just giving the exesus on
+[02:03] the history of Middle Eastern conflicts.
+[02:05] I'm not sure that's going to be the most
+[02:07] edifying for the audience though. Um,
+[02:09] I'll say that my perspective in in
+[02:12] evaluating events like we see when, you
+[02:15] know, conflicts all of a sudden, you
+[02:16] know, lurch into our feeds and we see
+[02:18] missiles flying and it becomes this uh
+[02:21] subject of obsession, right? Which is
+[02:23] always, is it World War II? Is it going
+[02:26] to, you know, lead to some, you know,
+[02:28] catastrophic tail event? And it usually
+[02:31] never does, right? But that doesn't mean
+[02:34] that it's not serious and that it's not
+[02:36] a major data point on on a structural
+[02:37] trend line. And I think from the
+[02:40] perspective of somebody interested in,
+[02:42] you know, policy over the long term and
+[02:45] emergence of a novel monetary asset like
+[02:47] Bitcoin that's, you know, entering into
+[02:49] its geopolitical era, it is uh important
+[02:52] to pay attention to the geopolitical
+[02:54] shifts and uh you know changing risks
+[02:58] associated with that. So that's kind of
+[02:59] like the preface here, right? Um the
+[03:02] second kind of zooming in a little bit
+[03:04] further is uh like where this particular
+[03:06] conflict sits in the global frame uh
+[03:10] which is essentially to my mind defined
+[03:12] by a
+[03:14] uh conflict between rising Eurasian
+[03:17] powers that want to sort of uh rewrite
+[03:19] the rules of the global order that have
+[03:21] been set by what I would call like
+[03:23] liberal ocean uh that has dominated kind
+[03:26] of the post you know World War II system
+[03:28] and so China is the main pole in at
+[03:31] Eurasian kind of uh ravanchious block
+[03:34] but it kind of spans the Eurasian
+[03:36] periphery and that's you see these
+[03:37] conflicts across the Eurasian periphery.
+[03:40] Um, some are more overt, right, like
+[03:41] Russia, Ukraine, now Israel, Iran. Some
+[03:45] are uh kind of in stasis like North
+[03:47] Korea. Uh, some are latent or speculated
+[03:50] about like Taiwan. Some are a little bit
+[03:53] more marginal like like like India,
+[03:55] Pakistan. Some are very like uh under
+[03:57] the table or literally under the sea,
+[03:59] right? Cable cuts, uh cyber attacks,
+[04:02] assassination, sabotage campaigns as
+[04:04] well as uh you know conflicts in space.
+[04:06] So there's a global conflict playing out
+[04:09] um between systems of power to set the
+[04:12] rules for the 21st century and Iran uh
+[04:15] Israel is I think just a regional
+[04:16] version of this local conflict that has
+[04:18] its own of this global conflict that has
+[04:19] its own local character. And so then
+[04:22] zooming in further right where we are
+[04:23] now although this changes by the hour um
+[04:27] is I think where along this ratchet of
+[04:29] escalation we see the United States
+[04:32] calibrating its approach. Right? Israel
+[04:34] started this uh you know most recent set
+[04:37] of of of strikes that have you know at
+[04:40] least to I think most objective
+[04:42] observers gone uh extremely successfully
+[04:45] from Israel's perspective. They've wiped
+[04:46] out I think all the nuclear scientists
+[04:48] they've targeted. They've wiped out like
+[04:49] a large percentage maybe 30 to 40% of uh
+[04:53] Iran's uh you know ballistic missile
+[04:55] launchers. They've effectively
+[04:57] established air supremacy. They've
+[04:59] targeted wide swaths of the military and
+[05:00] command leadership. They've credibly
+[05:02] threatened potentially now to target the
+[05:04] political leadership and essentially
+[05:06] they're flexing a lot of strategic
+[05:07] dominance from the strategic surprise of
+[05:09] their lightning bolt strikes uh the last
+[05:11] few days. And now the most you know
+[05:14] important dynamic is what does the
+[05:15] United States do? Uh United States has
+[05:17] surged uh assets into the region,
+[05:19] tankers uh uh moving carriers and
+[05:23] bombers into the region and President
+[05:26] Trump is you know articulating his his
+[05:29] uh his feelings almost in real time. uh
+[05:31] on the subject. Um and he's made it very
+[05:34] clear that he wants unconditional
+[05:35] surrender, that he can if he wanted to
+[05:37] strike and kill the the national leader
+[05:40] of Iran, Kmeni, at at any point. Uh and
+[05:43] that uh he's made it very clear from his
+[05:45] perspective that um a critical uh
+[05:48] requirement of any, you know, ceasefire
+[05:50] is the end of Iran's nuclear program.
+[05:53] That the approximate trigger for this
+[05:55] recent um set of strikes, at least
+[05:57] apparently. Again, this is all just
+[05:59] going through the the news. Hard to know
+[06:00] what's true is that Iran was close to
+[06:02] breakout. They had, you know, developed
+[06:04] a nuclear trigger and that given their
+[06:06] existing stocks of enriched uranium
+[06:08] would put them within, you know, days or
+[06:10] weeks of developing a functional nuclear
+[06:12] device, which from is Israel's
+[06:15] perspective is a you know, red line and
+[06:18] it may now now be the US's red line. And
+[06:21] uh so the last point on that is uh
+[06:22] Israel can do only so much in terms of
+[06:25] uh fully destroying uh Iran's nuclear
+[06:28] program. You know, in particular for
+[06:29] Fordo, a deeply buried site about 90
+[06:31] meters under Iraq. Maybe if they had
+[06:33] the, you know, air supremacy and
+[06:35] multiple waves of strikes that were
+[06:37] extremely precise and maybe some deep
+[06:39] penetrators that we don't know about,
+[06:41] maybe they could damage or destroy
+[06:42] Fordo. But um at least in the open
+[06:44] source that uh will require um you know
+[06:47] mother of all bombs uh 30,000 lb deeply
+[06:50] you know like deep penetrators from the
+[06:52] from the US inventory. So the sort of
+[06:55] first phase of this uh conflict seems to
+[06:57] have been engineered by um Israel to set
+[07:01] set it up so that um the argument will
+[07:04] be convincing to Trump that Israel that
+[07:06] that Iran is on their back foot. They
+[07:08] have been uh they're close to being
+[07:10] defanged. Israel has essentially opened
+[07:12] the door and all the United States has
+[07:13] to do is kind of like walk through it
+[07:16] and can uh you know fundamentally reset
+[07:18] the bargaining table uh in in the Middle
+[07:20] East. Um and so that's why it could be
+[07:22] at a you know an important geopolitical
+[07:24] hinge moment here. Uh Iran has suffered
+[07:27] a lot of strategic defeats um with the
+[07:29] destruction of of of Hezbollah, the loss
+[07:32] of their Syrian proxy and now
+[07:34] effectively the defanging of a lot of
+[07:35] the military nuclear and intelligence
+[07:37] apparatus. And so, you know, Trump might
+[07:41] be convinced that actually the the the
+[07:43] the co the costs versus the benefit and
+[07:47] the risk versus the reward now in favor
+[07:49] of intervention and direct US strikes.
+[07:52] That hasn't happened yet. He's
+[07:54] threatening it. He's putting the
+[07:54] capabilities in place to do it. By the
+[07:56] time this airs, it might have already
+[07:57] happened and this conversation will be
+[07:59] moot. Um, but so this is happening in
+[08:02] that in that context. Uh, obviously wars
+[08:04] are nonlinear processes. It's hard to
+[08:06] predict, you know, what happens or what
+[08:08] the counter will be. Iran has lots of
+[08:10] asymmetric options on the table to
+[08:11] respond with terrorist attacks or uh
+[08:14] moves that could be economically
+[08:15] disruptive, right? Obviously, there's
+[08:17] lots of conversation about straight from
+[08:19] that particular scenario, right? China
+[08:21] might be hurt more. They have 2 million
+[08:22] barrels of oil a day that they export
+[08:24] from Iran mostly and so any closure
+[08:27] there might be, you know, more more
+[08:30] painful for them. Although there's 20
+[08:31] million barrels that go through that
+[08:32] every day. Um, so that would hurt the
+[08:35] global economy. Uh, and western bond
+[08:39] markets are pretty fragile at the
+[08:40] moment. So any, you know, things that
+[08:42] could create an uplift in inflation
+[08:43] expectations could be, uh, an additional
+[08:46] problem for Scott Bessant. Um, but those
+[08:48] are structural issues. I don't think
+[08:50] those would be unmanageable. I don't
+[08:51] think those would be the primary
+[08:52] decision factors for Trump in the
+[08:54] National, you know, in in the National
+[08:56] Security Council meetings that he's
+[08:58] having right now. Um so this is a zoom
+[09:00] between strategic and tactical between
+[09:02] um uh also political damage between
+[09:05] camps in the Trump White House that are
+[09:08] you know absolutely opposed to getting
+[09:10] involved in another Middle Eastern war
+[09:12] and that for both ideological reasons
+[09:14] also for more pragmatic reasons. So
+[09:15] folks that argue that actually this is a
+[09:17] zero sum competition with force uh
+[09:19] posture in Asia to challenge and counter
+[09:22] China. Uh, and then there's other folks
+[09:24] on the other side of the aisle that see
+[09:25] this as a, you know, once in a
+[09:27] generation opportunity to really reset
+[09:28] the the the uh the geopolitical terms in
+[09:31] the Middle East and take a longunning
+[09:33] adversary off the board. Here we are.
+[09:36] Um, so that's my that's my setup. Zach,
+[09:38] I want to go to you. Obviously, I'm sure
+[09:40] you have thoughts about this, but I
+[09:41] think the other thing that that came up
+[09:42] in our brief chat before this was um,
+[09:45] you know, sort of the way that that
+[09:47] Trump has been posturing through this uh
+[09:49] whole conflict. Um, you know, I think
+[09:52] one of the one of the major claims
+[09:54] that's that I've seen a lot on Twitter
+[09:56] is that, you know, Trump sort of
+[09:57] campaigned on a, you know, anti-war,
+[10:00] anti- um, you know, getting involved in
+[10:03] an overseas conflict sort of foreign
+[10:05] policy. Um, and I think a lot of people
+[10:07] seem seem outraged at the fact that, you
+[10:10] know, he's gotten involved in this and
+[10:11] and been sort of um, very active, you
+[10:15] might say. Um, so just curious on your
+[10:17] thoughts on that. obviously, you know,
+[10:18] other thoughts I'm sure you have as
+[10:20] well, but um yeah. Yeah, for sure. I I
+[10:23] think maybe the best way to uh approach
+[10:26] the situation uh which is very familiar
+[10:28] to Bitcoiners is is to look at
+[10:30] everyone's individual incentives sort of
+[10:32] as a map uh for what's going on or what
+[10:34] might happen going forward. So, starting
+[10:38] with the Israelis, um, Israel has felt
+[10:41] that Iran has been a uh, existential
+[10:44] threat to them for a long time and
+[10:45] specifically the prospect of Iran
+[10:46] getting a nuclear weapon. Um, the
+[10:48] Israelis have dealt with this in other
+[10:50] countries. I think they did a commando
+[10:51] raid to uh, blow up a uh, uranium
+[10:54] enrichment facility in Syria uh, back
+[10:56] under the Assad regime. They did air
+[10:58] strikes, I think it was in the late 80s
+[11:00] or early 90s against a nuclear reactor
+[11:02] in Iraq. and uh they view the talk from
+[11:06] the sort of political leadership of Iran
+[11:08] about wiping Israel off the map as uh
+[11:11] meaning that is unacceptable um that
+[11:13] Iran get nuclear weapons. Um the
+[11:16] Israelis were really unhappy
+[11:17] specifically with the Obama
+[11:19] administration uh that entered into the
+[11:21] Iran deal or the JCPOA um uh in the
+[11:24] 2010s uh to the point where uh Netanyahu
+[11:28] who's currently the still the the
+[11:29] president of Israel came to the United
+[11:30] States at the invitation of Republicans
+[11:32] to talk uh to Congress over President
+[11:35] Obama's head uh because he really did
+[11:37] not want us to enter into that deal. and
+[11:39] they, you know, viewed that as kicking
+[11:41] the can down the road. Uh that, you
+[11:43] know, they thought the Iranians were
+[11:44] lying about their intentions. They said
+[11:46] we were enriching uranium for power
+[11:47] purposes, but really they were trying to
+[11:49] make a bomb. Um recently, despite sort
+[11:53] of trashing the JCPOA, uh Trump has said
+[11:57] that he wanted to uh modernize
+[12:00] essentially that same agreement and
+[12:01] reach a a new nuclear deal with Iran. Um
+[12:03] the Israelis again pretty unhappy about
+[12:05] that. They don't trust Iran. They don't
+[12:07] think, you know, they think it really is
+[12:08] a uh sort of Holocaust level threat to
+[12:11] them if if Iran gets a nuclear weapon
+[12:13] and wants to wipe them off the the map.
+[12:16] So, there were 60 days of discussion
+[12:18] over a potential new Iran deal between
+[12:21] uh the United States uh and Iran. This
+[12:24] initial strike happened on the 61st day.
+[12:26] Uh there's going to be a lot of stuff
+[12:28] that will come out in the future about
+[12:29] what to what extent uh the United States
+[12:31] and the US intelligence knew about this
+[12:33] attack. Um obviously they they knew that
+[12:36] it was going to happen. Uh the the fact
+[12:38] that it happened on the 61st day of this
+[12:40] negotiation when Trump gave them 60 days
+[12:42] to reach a deal is definitely not an
+[12:43] accident. Um the United States clearly
+[12:45] gave them some sort of green light. Um
+[12:47] but initially said listen we're not
+[12:49] we're not part of this. We didn't
+[12:50] condone this. Um but you know this is
+[12:53] this is what happened. And uh you know
+[12:56] one thing that the Israelis clearly want
+[12:58] is to actually now wipe out Iran's
+[13:00] ability to make a bomb. And there there
+[13:01] are two ways that can happen. One is
+[13:04] comprehensive kinetic strikes against
+[13:06] all of the different uh factories
+[13:09] essentially that Iran uses for their
+[13:10] nuclear process. Uh the biggest two
+[13:12] being uh Natans, which is this partially
+[13:15] above ground, partially below ground
+[13:16] facility in the desert uh which was the
+[13:19] subject of of maybe the most famous
+[13:20] cyber attack of all time in 2014 that
+[13:23] led to the stuckset virus that actually
+[13:25] has an interesting Bitcoin connection.
+[13:27] Some of that same uh code was used in
+[13:29] the early sort of cryptojacking attacks
+[13:32] and and Bitcoin ransomware attacks. Um
+[13:34] that was a joint attack by the United
+[13:35] States and Israel. Um and then this uh
+[13:38] word that everyone's going to hear a
+[13:39] lot, Fordo, this other enrichment and
+[13:42] storage facility that's half a mile uh
+[13:44] below ground in the mountains that Matt
+[13:47] was referencing. uh Israel probably does
+[13:49] not have the munitions to take out uh
+[13:51] from the air and would be reliant on the
+[13:54] United States if it's going to be an air
+[13:56] attack. Otherwise, you know, Israel
+[13:58] would have to probably go in with a with
+[14:00] a ground attack, a commando attack
+[14:01] similar to what they did in Syria. But
+[14:04] to understand sort of Israel's
+[14:06] motivations here, they are not going to
+[14:08] stop this attack until um they feel like
+[14:11] Iran's capabilities are wiped out. Uh
+[14:13] which will either happen through their
+[14:14] kinetic force or would happen with a
+[14:16] deal brokered by the United States where
+[14:19] uh the Iranians give up for and give up
+[14:22] Natans and really sort of to some high
+[14:26] degree of satisfaction actually destroy
+[14:27] these capabilities. Um, and it's hard to
+[14:31] see sort of a deal that happens short of
+[14:33] that. Uh, and Israel would not have
+[14:36] launched this attack. You know, they've
+[14:38] been really flexing sort of their
+[14:40] muscles here both in terms of
+[14:41] intelligence. They apparently built a
+[14:44] covert drone base right outside of Tran,
+[14:47] right? The MSAD actually set up a
+[14:49] factory to create drones that would go
+[14:50] after anti-aircraft munitions and
+[14:52] ballistic missiles. Um, they clearly
+[14:54] just knew in granular detail where all
+[14:56] of the Iranian military leadership, by
+[14:59] the way, who I'm sure have pretty decent
+[15:00] operational security because they know
+[15:01] that they're targets. They knew where
+[15:03] those people were hiding to the level of
+[15:04] their bedroom and were able to, you
+[15:06] know, be taken out by these really
+[15:08] incredibly precise attacks that you can
+[15:10] see pictures of uh on Twitter. And it's
+[15:14] hard to believe that they entered this
+[15:16] um knowing that, you know, they didn't
+[15:18] have the capability to take out Foro.
+[15:20] they, you know, knew they'd be reliant
+[15:22] to the United States and they were
+[15:23] gambling on whether the United States uh
+[15:25] would get involved or not. So, I I
+[15:27] really think the like three potential
+[15:29] outcomes here are um the United States
+[15:32] joins I don't think the United States is
+[15:34] going to put boots on the ground. We'll
+[15:34] talk about the United States in some in
+[15:36] a second, but I don't think the United
+[15:37] States is going to join with boots on
+[15:38] the ground. It's either the United
+[15:39] States joins an attack and takes out
+[15:41] Forau, which I think is probably the
+[15:43] most likely outcome, and then uh Trump
+[15:46] tweets, listen, you know, we did this.
+[15:48] we couldn't allow the Iranians to have
+[15:50] nukes. This is I think what Trump has
+[15:52] been tweeting about recently sort of
+[15:53] leading setting the groundwork for this
+[15:55] and the United States is not getting
+[15:56] further involved and you know we sort of
+[15:59] consider it mission accomplished in
+[16:00] terms of degrading Iran's nuclear
+[16:02] capabilities. Number two is the United
+[16:04] States doesn't get involved and the
+[16:05] Israelis find some other way to take out
+[16:07] Fordo either with sort of lots of
+[16:09] precision strikes with smaller bunker
+[16:11] buster bombs that wouldn't take it out
+[16:12] in one shot and maybe commandos
+[16:15] uh or the third is some sort of broker
+[16:17] deal where Iran gives up these
+[16:19] facilities. I think that those are the
+[16:21] three options basically at this point
+[16:23] for how it ends given how far this
+[16:25] action is and how uh Iran's defensive
+[16:27] capabilities have already been so
+[16:29] degraded. Um, part of the timing for why
+[16:32] this happened now is there was a sort of
+[16:34] a back and forth attack between Israel
+[16:36] and Iran over sort of the October 7th
+[16:39] stuff. Uh, I think it was last October
+[16:41] and Israel's strike then from his air
+[16:43] force was to take out Iran's uh
+[16:46] defensive anti-air capabilities and
+[16:49] Israel I think felt like they you know
+[16:51] there there's all sorts of disputes
+[16:53] about the timing of when Iran could
+[16:54] create a bomb. But I think the real
+[16:55] concern about Israel is at some point
+[16:57] Iran was going to get those
+[16:58] anti-aircraft capabilities back and this
+[17:00] is the time where they could go in
+[17:02] basically unimpeded and you know it's
+[17:04] been such an asymmetric result so far in
+[17:06] terms of the war. So you know to the
+[17:08] extent that Israel is driving this
+[17:10] they're going to have to take out uh you
+[17:12] know Iran's nukes either either by air
+[17:15] uh by land or or by deal. Um they may or
+[17:19] may not want regime change. So now we
+[17:21] get to sort of the United States and
+[17:22] what's our interest in this? And I think
+[17:24] there are two things pulling in opposite
+[17:26] directions. One is what you were asking
+[17:29] me about, which is, you know, the sort
+[17:31] of isolationist tendencies of the, you
+[17:33] know, at least certain factions of the
+[17:35] the Trump campaign and and a lot of what
+[17:36] Trump said. You know, I'm not going to
+[17:38] drag the United States into new wars. I
+[17:39] think he really does mean that. I think
+[17:41] lots of stuff we've heard Trump say over
+[17:43] the years suggests that he is just
+[17:45] reflexively anti-war. He doesn't want to
+[17:47] be seen as a as a wararmonger. Uh and
+[17:49] and he really just hates civilian
+[17:51] casualties and and war. Uh on the other
+[17:54] hand um there is a sort of deep
+[17:57] geopolitical strategic opportunity here
+[17:59] to shape the Middle East and the
+[18:01] dynamics of the Middle East in a way
+[18:03] that Trump has also shown himself to be
+[18:05] really interested in. Right? So think
+[18:07] about the Abraham Accords. Think about
+[18:09] what happened recently with all this,
+[18:11] you know, AI deal making in the Middle
+[18:13] East and the increasing uh alignment,
+[18:16] strategic alignment between the United
+[18:18] States and the Gulf States who all kind
+[18:20] of hate Iran also. I mean there's a
+[18:22] little bit of a complicated relationship
+[18:24] between sort of the Saudis and the
+[18:25] Amiradis on one side and Iran on the
+[18:27] other. It's a historically very
+[18:28] difficult relationship. It weirdly seems
+[18:30] to have gotten a little bit better
+[18:32] during the sort of Biden interregnum
+[18:34] between the uh Trump two Trump
+[18:37] administrations. uh but by and large
+[18:39] these are opposing interests in the
+[18:41] Middle East and um you know there is a
+[18:45] sort of a sense that even within Iran
+[18:48] there is Iran was a quite liberal
+[18:50] country until the revolution in 79 and I
+[18:54] think there's a sense that there's a lot
+[18:55] of the population that essentially
+[18:56] identifies as Persian more than they
+[18:58] identify with the sort of more strongly
+[19:01] authoritarian Islamist regime that's a
+[19:03] combination of the sort of religious
+[19:06] leaders the mullas but
+[19:07] what seems to I think a lot of
+[19:09] commentators under that like a military
+[19:11] dictatorship by the IRGC that was that
+[19:13] really holds more of the power whereas
+[19:15] the Mullos are often more seen as
+[19:17] symbolic leaders and so there's an
+[19:20] opportunity to for regime change that I
+[19:22] think other parts of the Trump
+[19:24] administration might be really
+[19:25] interested in not just for the sake of
+[19:26] protecting Israel which I think they do
+[19:28] care about but really more for just
+[19:31] diminishing Iran's power in the Middle
+[19:33] East uh being able to set up sort of a
+[19:36] more peaceful more businessfriendly
+[19:38] Middle East, more aligned with the
+[19:39] United States, right? Israel is an ally
+[19:41] of the United States and the Gulf States
+[19:42] uh are an ally of the United States and
+[19:44] this is seen as an important counter to
+[19:46] China's power and China's sort of soft
+[19:49] influence. Uh and maybe if you have you
+[19:52] know if you degrade Iran's nuclear
+[19:54] capabilities and their and you know
+[19:56] danger from terrorism funded by Iran
+[19:58] Middle East that's one step in the right
+[20:00] direction towards that geopolitical
+[20:01] alignment. if you have fullout regime
+[20:03] change, right? If if the Ayatollah Kmeni
+[20:05] is is killed uh and you have a different
+[20:09] government uh in place, maybe a more
+[20:12] liberal government, then that that could
+[20:13] totally flip the board on its head and
+[20:15] present lots of opportunities. Now, the
+[20:17] downside in regime change for the United
+[20:19] States uh is the 20 last 25 years of our
+[20:22] history, right? We have a very bad
+[20:25] recent track record of regime change.
+[20:27] And you know, in places like Syria, and
+[20:29] places like Iraq, we've seen when
+[20:31] there's a power vacuum, uh it's not
+[20:33] liberal democracy, uh that loves freedom
+[20:35] that fills that. It's things like ISIS.
+[20:38] It's things like anarchy, chaos, what we
+[20:40] see in in Yemen. And so, uh to the
+[20:42] extent that there's regime change, you
+[20:44] need to be really careful about what
+[20:45] comes next. I think those are two sort
+[20:47] of tendencies pulling in the opposite
+[20:49] direction in the United States. We
+[20:51] really don't want to be in the project
+[20:53] of nation building again. That went
+[20:54] really bad for us in the past. people
+[20:56] have a lot of recent scar tissue and
+[20:58] that is why you know Trump is and people
+[21:00] in Trump world are running on an
+[21:02] anti-war platform. But on the other
+[21:04] hand, uh I I sort of like the framing
+[21:08] that Matt was suggesting before that
+[21:09] like it's not that this is going to lead
+[21:10] to World War II, but this is kind of a
+[21:13] sort of low-grade part of a World War II
+[21:16] that's unfolding. One of the sort of
+[21:18] most consistent themes of this podcast
+[21:20] is moving from the old world, the postw
+[21:23] World War II era to the new world. And
+[21:24] this is clearly part of that story and
+[21:26] we don't know where it's going but it
+[21:28] seems like political alignment in the
+[21:29] Middle East is a big part of that story
+[21:31] just like Bitcoin is a big part of that
+[21:33] story just like AI is a big part of that
+[21:34] story just like China and Taiwan is a
+[21:36] big part of that story and the
+[21:39] possibility of dramatically changing the
+[21:42] sort of the the shape of the board uh by
+[21:45] regime change I think is an interesting
+[21:47] opportunity for the United States
+[21:49] geopolitically and we're going to have
+[21:51] to see how far that goes. All right.
+[21:53] Right. It's a sort of a very high risk,
+[21:54] very high reward potentially uh
+[21:57] proposition and uh you know I think that
+[22:00] explains a lot of the sort of politics
+[22:01] on both sides in the decision-m from a
+[22:03] US perspective. And then very briefly
+[22:05] from like an Iran perspective
+[22:07] um the Mull want to stay in power. Uh I
+[22:10] think they feel very strongly that their
+[22:13] ability to stay in power has to do a lot
+[22:15] with their nuclear program and and the
+[22:17] deterrent that that sets uh and their
+[22:19] ability to project strength that way. I
+[22:21] think they look at what happened to Omar
+[22:23] Gaddafi in Libya where he gave up his
+[22:26] nuclear program and then uh you know
+[22:28] ended up dead later uh basically as a
+[22:32] result of US foreign policy and
+[22:34] intelligence efforts uh and they they
+[22:36] don't want that outcome and and on the
+[22:37] other hand you look at North Korea which
+[22:39] is like clearly a sort of outofc control
+[22:42] rogue state and yet there's very little
+[22:44] western intervention uh precisely
+[22:46] because they have nuclear weapons and so
+[22:49] that is I think why you would the the
+[22:51] Iranian political leadership very
+[22:52] resistant to give up nuclear weapons.
+[22:54] And so that's sort of the the tricky
+[22:57] thing here and and why you see Trump
+[22:58] tweeting like we know exactly where
+[23:00] Kmeni is and we could take him out and
+[23:03] like it's really like okay uh you know
+[23:06] you might your administration might not
+[23:08] survive if you give up nuclear weapons
+[23:09] but you definitely won't survive if you
+[23:10] do. And I think that's at least at the
+[23:12] time we're recording this podcast the
+[23:14] way the Trump administration is is
+[23:16] posturing. Um it's also interesting it
+[23:19] seems recently both Russia and China
+[23:21] which have been supporters of Iran have
+[23:22] been somewhat backing away. Uh I think
+[23:25] they don't want to get into a direct
+[23:27] conflict uh if the United States is
+[23:29] involved where it's you know a Vietnam
+[23:31] or Korea like sort of proxy war between
+[23:33] great powers. Uh I I think everyone, you
+[23:35] know, the United States, Russia, and
+[23:37] China have maybe not in living memory,
+[23:39] but in, you know, family history memory,
+[23:42] uh reminders of what that looked like in
+[23:44] the aftermath of World War II and and
+[23:45] with those sort of cold war era proxy
+[23:48] wars. Um so anyway, that's how I think
+[23:50] all the sort of uh incentives stack up
+[23:53] right now. Um and you know, we'll see
+[23:55] what resolution that comes to. But if I
+[23:58] had to guess, uh I I don't see a way
+[24:00] that the Iranian nuclear program
+[24:02] survives this. Um and I think the most
+[24:05] likely outcome is a limited strike using
+[24:09] uh US munitions against uh the
+[24:11] facilities and then not broader US
+[24:13] involvement in a in a war. And whether
+[24:16] or not that results in regime change uh
+[24:19] yet to be seen, but I don't think that
+[24:21] we're going to take out Ki.
+[24:24] Satoshi released Bitcoin. The world was
+[24:27] forever changed. No one realized it.
+[24:30] This is the once- ina century
+[24:32] opportunity. And this is just the
+[24:34] beginning. Bitcoin is like digital gold.
+[24:37] So I view Bitcoin in line with the next
+[24:39] evolution of humans engineering a better
+[24:41] world. I think the story of the past few
+[24:44] years is Bitcoin going from a niche
+[24:47] interest into a respectable global macro
+[24:50] asset. Bitcoin Policy Institute has
+[24:53] become a thought leader.
+[24:59] All right. I think the thread I want to
+[25:01] pull on here, thank you for that very
+[25:04] thorough breakdown there, um, is the the
+[25:07] sort of technological component, right?
+[25:09] We're seeing sort of more advanced uh,
+[25:12] forms of intelligence and and military
+[25:14] prowess uh, showing up. So, Pines, what
+[25:18] do you think is maybe different about
+[25:20] this conflict? Right. I think we we've
+[25:22] seen maybe speed uh of of you know, this
+[25:26] attack, whatever you want to call it, uh
+[25:29] being maybe faster than than what we've
+[25:30] seen in the past. Um do you make
+[25:33] anything of that? Um you know, and and
+[25:37] does this indicate sort of broader um
+[25:40] you know, maybe warfare tactics that
+[25:42] that maybe we'll see going forward?
+[25:45] Yeah, I'll butcher the the Mandarin, but
+[25:47] uh the Chinese PLA have a have a term uh
+[25:52] Jang, I believe it means like
+[25:54] intelligentized warfare. And this is a
+[25:59] part of the doctrine they've been
+[26:00] started to put together many years ago
+[26:02] envisioning a future where you have uh
+[26:05] essentially algorithmic strikes,
+[26:07] algorithmic um orders of battle where uh
+[26:10] you know systems of AI systems are
+[26:13] orchestrating uh battlefield activities
+[26:16] um from this tactical to the operational
+[26:18] to the strategic and this is the way of
+[26:20] war that's been been developing from you
+[26:24] know the lab and from the doctrine and I
+[26:26] think we've and seeing it develop uh in
+[26:29] real conflicts, you know, in Ukraine and
+[26:31] now in Israel. And I think a few of the
+[26:33] lessons learned um you know, both on the
+[26:36] technological side as well like the
+[26:37] human right side also on the human right
+[26:38] side first, right? So we've seen in
+[26:41] Israel, I think they had two public
+[26:43] programs, Lavender, there's another one
+[26:45] I'm forgetting the name of. um
+[26:47] essentially using AI to do target
+[26:51] identification, target nomination,
+[26:53] target you know characterization and
+[26:56] then humans select you know approve and
+[27:00] then target prosecution which is either
+[27:02] done by drones or by you know manned
+[27:05] manned platforms where there's still a
+[27:06] human in the loop but where large
+[27:09] portions of the kill chain the fine fix
+[27:11] finish you know sequence is is is
+[27:14] automated. Um, Palanteer has their own
+[27:16] system they've been fielding for
+[27:18] Ukraine. I think it's called the meta
+[27:19] constellation and it's a sensor fusion
+[27:21] platform for battlefield awareness as
+[27:23] well as um sort of AI supported strikes
+[27:26] uh where you can basically in a certain
+[27:28] use case you know Russian artillery can
+[27:30] be located from satellites or from
+[27:32] overhead imagery from drones can be
+[27:34] geoloccated that uh can be characterized
+[27:37] in terms of you know sort of validated
+[27:40] as a red force and then send you know
+[27:43] validated targeting coordinates and and
+[27:46] fire solutions to Ukrainian batteries.
+[27:48] is to do counter strikes within like 3
+[27:49] minutes or so and getting the kill rate
+[27:52] to like 75%. So that's pretty uh
+[27:54] revolutionary from a kind of a just like
+[27:57] field uh kind of AI um in military
+[28:01] affairs. It's like another revolutionary
+[28:03] in military affairs. Uh and then you
+[28:05] have the drone story itself, right? So,
+[28:07] if I'm China, I'm taking a lot of very
+[28:09] intense notes on both the Ukraine and
+[28:11] and Israeli um conflicts here uh for
+[28:15] Taiwan because it seems to be seems to
+[28:17] demonstrate how the combination of sort
+[28:20] of clandestine pre-operational
+[28:21] deployment of of some agents, you know,
+[28:23] like on the ground to construct uh
+[28:27] covert, you know, drone imp placements
+[28:29] essentially and targeting, you know,
+[28:31] beacons uh at high value uh like, you
+[28:34] know, locations. um can facilitate
+[28:37] strategic surprise. Bull from the blue
+[28:39] strikes that can you know paralyze
+[28:42] command leadership, political leadership
+[28:43] instill um a sense of panic in the uh
+[28:49] society and the national um decision
+[28:52] makers and you know in a Taiwan scenario
+[28:54] kind of force uh like a fat compli
+[28:58] um nations are able to you know
+[29:00] effectively intervene
+[29:02] and these are exactly the capabilities
+[29:04] that China's been doubling down in um
+[29:06] and they're they're a hallmark of the
+[29:08] future of war which isn't you know
+[29:10] aircraft carriers as much like aircraft
+[29:12] carriers matter for striking things like
+[29:15] Fordo right so like the second or third
+[29:18] wave of a conflict right that isn't
+[29:20] fully resolved like we're seeing like
+[29:22] phases of conflict are always the
+[29:24] initial opening salvos right whatever
+[29:25] the whoever decides to start it wants to
+[29:28] get as much leverage up front and wants
+[29:29] to get as much of the adversar's
+[29:32] capabilities wiped out uh we're not at
+[29:34] the point that we've seen where Israel
+[29:37] was able to truly
+[29:38] reach a strategic victory from just the
+[29:40] bull in the blue, right? But they got a
+[29:42] lot further than I think everyone than
+[29:44] anyone expected in terms of significant
+[29:47] degradation of the command capacity in
+[29:49] Iran and the and the suppression of air
+[29:50] defenses etc. Just like I think everyone
+[29:52] was very surprised that uh Ukraine
+[29:54] through a special operation was able to
+[29:55] get like a third of Russia's strategic
+[29:58] bomber uh forces uh destroyed just using
+[30:01] you know pretty lowcost drones um you
+[30:03] know crashing into these extremely
+[30:05] expensive Russian platforms uh
+[30:07] throughout the country. Um so very
+[30:10] lowcost asymmetric operations with
+[30:12] strategic effects but where the
+[30:14] strategic effects of that initial you
+[30:16] know algorithmic you know sort of drone
+[30:19] uh you know kind of special forces and
+[30:22] intelligence operation isn't yet
+[30:23] sufficient to like be the strategic game
+[30:25] changer right you still need the
+[30:27] conventional platforms to roll in right
+[30:29] the F-16s and the aircraft carriers to
+[30:32] like to to bring the geopolitical heavy
+[30:35] constraint onto the national leaders to
+[30:37] say we now have theap capacity to, you
+[30:39] know, force your force your
+[30:40] capitulation. Um, you know, if I'm
+[30:43] China, I'm I'm I'm realizing maybe this
+[30:45] is a proof of concept that I could do a
+[30:48] bolt in the blue that's achieve
+[30:49] strategic victory all at once, right?
+[30:53] Where like the amphibious invasion isn't
+[30:55] necessary, at least as a kinetic thing.
+[30:57] It just becomes a mop-up operation
+[30:59] because the political leadership is
+[31:00] fully capitulated because they're all
+[31:02] dead. um you know not to be too too too
+[31:06] you know morbid about it but like this
+[31:08] is the state of the rapid progression
+[31:09] we're seeing in technology and it was it
+[31:12] was hypo it was hypothetical it was
+[31:14] notional it was fictional until you see
+[31:15] it play out in real conflicts and the
+[31:16] national leadership you know re-update
+[31:19] their priors of what's possible and this
+[31:21] curve is going to only accelerate um and
+[31:24] it does I think bring up huge questions
+[31:27] that have been talked about a lot in
+[31:28] sort of the laws of armed conflict uh
+[31:30] where you have lethal autonomous weapon
+[31:32] systems
+[31:33] And we talk a good game about, you know,
+[31:35] wanting to have a human to the loop. But
+[31:37] The Crucible of War, you know, you know,
+[31:40] human rights and moral considerations
+[31:42] usually get get tossed out the door
+[31:44] first. Uh, and you just need to
+[31:46] accomplish your objective as quickly as
+[31:47] possible. So, uh, it's not great, uh, to
+[31:50] see, you know, the the ratchet here, um,
+[31:53] continue to accelerate, uh, because, you
+[31:55] know, as we've seen in the lesson of
+[31:57] history is that, you know, the
+[31:58] breakthroughs that happen on the
+[31:59] battlefield overseas are often the
+[32:00] template that gets, um, adapted for
+[32:03] domestic policing, right? And so,
+[32:05] predictive, you know, uh, algorithmic
+[32:07] strikes, uh, are, you know, one step
+[32:09] away from predictive policing, right?
+[32:11] And, you know, sort of AI policing. uh
+[32:14] and and I think we we you know we as the
+[32:17] national um you know beacon on the hill
+[32:20] right for signing shitty of democracy uh
+[32:22] that's also runs a global empire we've
+[32:24] had this fraught historical relationship
+[32:26] between how we you know um uh govern the
+[32:29] garrison overseas versus how we you know
+[32:32] facilitate participatory liberal
+[32:34] democracy at home and I think we've had
+[32:36] this trajectory since 911 of the
+[32:39] garrison state coming you know the
+[32:40] garrison uh governance overseas coming
+[32:44] Um I think the ethos of Bitcoin, right,
+[32:46] is kind of this how to how to preserve
+[32:48] again a space of freedom uh for the new
+[32:50] technology uh that's that's going to
+[32:52] define you know the relationship between
+[32:54] the state and u and society. Um so
+[32:58] that's I guess a rambling riff on AI war
+[33:00] and bitcoin. Um I I don't have like a a
+[33:03] hard you know optimistic take on on
+[33:06] these particular conflicts. Um the last
+[33:09] thing I'll say maybe just shifting back
+[33:11] to the geopolitical like we we live in
+[33:14] an era of again it's not global war war
+[33:16] but it's global conflict in the sense
+[33:18] that everyone is sort of in conflict
+[33:19] with each other right the great powers
+[33:22] and you could have that escalate to a
+[33:24] really bad scenario which would be like
+[33:25] World War II right we've had examples of
+[33:28] that in the past where local conflicts
+[33:30] quickly become global conflicts like you
+[33:32] know a poor duke archduke gets shot in
+[33:34] the head by a Serbian and then we're off
+[33:36] to the races. um we don't have as much
+[33:38] of those like you know alliance systems
+[33:41] balances of power to like pull everyone
+[33:43] in but we have enough of them to have
+[33:44] some bad scenarios
+[33:46] but on the flip side what it means when
+[33:48] you have global conflicts it means
+[33:50] there's also global bargainings and
+[33:52] global negotiations happening and so the
+[33:55] USRussia negotiation over Ukraine is
+[33:58] very much kind of affected by what
+[34:00] happens with Israel Iran and the trade
+[34:03] war with China is also very much
+[34:05] affected by what happens in Ukraine in
+[34:07] Iran. So, everyone in is at the high
+[34:10] table of global politics is looking at
+[34:11] their, you know, risk board and
+[34:13] realizing where they have a weak hand,
+[34:15] where they have a strong hand and are
+[34:16] trying to find ways of making their weak
+[34:18] hand stronger and their strong hand
+[34:20] stronger, right? And so, from Trump's
+[34:22] perspective, he's like a he's a smart
+[34:23] guy, but he thinks in terms of like
+[34:25] almost visceral what can I trade, you
+[34:27] know, who how can I leverage the
+[34:29] situation in the moment?
+[34:31] You know, if I'm modeling him in maybe a
+[34:33] more charitable fashion here, it's Putin
+[34:36] didn't take my deal in Ukraine and I I
+[34:38] want to end this conflict, but it's not
+[34:40] he's not coming to the table. Uh it
+[34:43] looks like Israel told me they could do
+[34:45] a bull from the blue, but I needed to
+[34:47] like see it. And looks like it's
+[34:49] successful. So, if I can get, you know,
+[34:51] a lot of leverage over the Iranian
+[34:53] regime, I get maybe two birds of one
+[34:55] stone. I get to wipe out the nuclear
+[34:56] program and I get to have a bargaining
+[34:59] chip, a lot of leverage now against my
+[35:01] two main rivals, Russia and China. And
+[35:03] maybe I can force them to come to a deal
+[35:06] over over o over Ukraine. Then China's
+[35:08] the big one, right? Where the trade war
+[35:10] kind of reached a bit of a stasis point
+[35:12] after we realize we're heading towards
+[35:13] more mutual economic destruction. But
+[35:16] it's not clear where who has the upper
+[35:18] hand here. I think Trump and his team is
+[35:20] realizing kind of in real time how much
+[35:22] leverage China does have over us whether
+[35:24] it's rare earths um the bond market uh
+[35:27] the fact that they dominate global
+[35:28] manufacturing and are climbing value
+[35:30] chains and are pure competitors in a lot
+[35:32] of strategic domains you know we don't
+[35:34] have like a strong hand against China so
+[35:37] you know if you're Putin if you're I
+[35:38] mean if you're Trump you're like I wanna
+[35:40] I want to win so I want to go after the
+[35:41] weakest guy in the block here like
+[35:43] Russia has like nuclear weapons and like
+[35:46] has a lot of power China is like my peer
+[35:48] North Korea already has nuclear weapons
+[35:50] and we we saw what happened when he went
+[35:52] through the fire and fury episode in
+[35:53] 2017. We got pretty close like he likes
+[35:55] to go to the brink, but that was the
+[35:57] adversary that already had nukes that
+[35:58] could reach DC. Iran is like among the
+[36:01] four in this sort of Eurasian
+[36:03] uh sort of authoritarian sort of rival
+[36:06] um alignment uh is like the weakest of
+[36:09] the bunch. And so if Trump's trying to
+[36:11] figure out, okay, who can I pick off
+[36:12] from this loose, you know, it's not
+[36:14] really an axis, but this loose
+[36:15] arrangement, Iran would be the one you'd
+[36:17] want to go after, right? And then use
+[36:19] that to get leverage over probably
+[36:21] Russia first because Russia's the next
+[36:22] weakest and maybe the one that maybe you
+[36:25] could deal would deal with. Um, and use
+[36:27] that to maybe in their strategic logic
+[36:30] get to the table with China and have a
+[36:31] better hand by the end of the year.
+[36:32] Again, try not to ascribe too much
+[36:34] master planning, master strategy to
+[36:36] Trump, who's very much like a reactive
+[36:37] decision maker in in here. Um but
+[36:40] there's there's folks around him that I
+[36:41] think think in strategic terms. Um thus
+[36:44] far I haven't seen much like operational
+[36:47] um effectiveness from executing from
+[36:50] from a grand plan. Um, but you know, I
+[36:53] think it's important always to to you
+[36:56] know, you can look at the chaos and just
+[36:57] see chaos and sometimes that's what it
+[36:59] is. But it's also important to try to
+[37:01] define like what's the you know, there
+[37:03] are systems of government here that are
+[37:05] that are competing with each other and
+[37:06] there's bureaucracies that are writing
+[37:08] memos and those memos are like not
+[37:11] completely just right? Like
+[37:13] they actually are informed by some sense
+[37:14] of what their national interests are and
+[37:16] where they have advantage, disadvantage.
+[37:17] And so national leaders are the ones
+[37:18] with the bully pulpit. That's what
+[37:20] people interpret in terms of, you know,
+[37:22] salience of what's driving the conflict.
+[37:24] But, you know, Trump tweeting and then
+[37:26] what's actually driving, you know,
+[37:28] Sentcom to do something could be
+[37:29] different things. Yeah. Yeah. I think
+[37:32] the thing that that that commentary uh
+[37:35] really brings up for me is is a
+[37:36] conversation we had a couple weeks ago,
+[37:37] which is also on the AI front. Um and so
+[37:40] gonna go to Zach Shapiro here, but I
+[37:41] want to dig into um you know sort of the
+[37:45] means by which this AI race maybe speeds
+[37:48] up um and and whether you know what
+[37:50] we're seeing in the Middle East right
+[37:52] now uh might might indicate that the AI
+[37:54] 2027 sort of thesis is is in full tilt.
+[37:58] Um you know I think that's one way to
+[38:00] read it. uh but curious if if you think
+[38:02] otherwise.
+[38:04] So I I don't know how directly this
+[38:07] conflict ties up to the AI 2027 thesis
+[38:10] which I think is much more about like
+[38:12] specifically what's happening in labs in
+[38:14] Silicon Valley. Um I think I mean one
+[38:17] thing we're definitely learning is what
+[38:18] the future of war looks like. I'm
+[38:20] reminded of there's a a famous poem from
+[38:22] 1898 uh about I you know wars that the
+[38:26] British Empire at the time was involved
+[38:28] in in Africa about uh machine guns and
+[38:31] they had the Maxim gun from you know had
+[38:33] had just been invented and and the poem
+[38:34] ends famously uh no matter what uh we
+[38:37] have got the Maxim gun and they have not
+[38:39] um and then of course you know less than
+[38:42] a quarter century later in in World War
+[38:44] I uh you have British soldiers being
+[38:46] mowed down in the trenches by by Germans
+[38:48] with similar weapons.
+[38:50] Um and what we are seeing, you know, in
+[38:53] Russia, Ukraine, in the Middle East
+[38:56] right now, um I think really does inform
+[38:59] what might happen in the sort of
+[39:02] apotheiois of all of this, which is
+[39:04] which is Taiwan, right? That is the sort
+[39:06] of heart of geopolitical conflict
+[39:08] probably of this century. And Taiwan is
+[39:11] very consequential to AI, right? Because
+[39:13] it's where chip manufacturers are. It
+[39:15] really is about Chinese power. China's,
+[39:17] you know, going to be a geopolitical foe
+[39:19] to the United States in the AI arms
+[39:21] race. And so, one connection between
+[39:24] what's happening now in Iran and the AI
+[39:26] race is um the fact honestly of of Isra
+[39:32] being so successful with this bolt-on
+[39:33] blue style attack where you're
+[39:35] normalizing sort of assassination of
+[39:37] political leaders of key figures to sort
+[39:40] of shape what your adversar's response
+[39:42] is going to be. Uh you use all sorts of
+[39:44] incredible targeting technology. You
+[39:46] have drone swarms that are sort of
+[39:47] asymmetric attacks that are cheap to
+[39:49] deploy and difficult and expensive to
+[39:51] defend defend against and that sort of
+[39:54] previous advanced weaponry, right? Like
+[39:57] large battleships, uh sort of large
+[39:59] munitions are not meant to face. Um, if
+[40:02] that makes a sort of Chinese takeover of
+[40:04] Taiwan more likely in the nearer future
+[40:07] or makes China feel like a bigger threat
+[40:09] to the United States, probably that tips
+[40:11] us in the direction of when we're making
+[40:13] an AI safety versus AI acceleration
+[40:15] decision. That might tip us in the
+[40:17] direction of AI acceleration. The other
+[40:20] part of this is is sort of what I was
+[40:22] alluding to before with the Gulf States.
+[40:24] Um, that it seems uh we were very very
+[40:27] interested in business deals uh in the
+[40:29] Middle East. in the Middle East being a
+[40:31] home for a lot of the energy and compute
+[40:33] that's going to train cutting edge AI
+[40:35] models. Uh, I think if Iran ends up
+[40:38] being a less significant player, either
+[40:40] because it just has diminished power or
+[40:42] because of regime change, I think that
+[40:44] strengthens that thesis. And to the
+[40:47] extent that the United States is
+[40:48] involved in that, I think the Middle
+[40:50] East is is sort of a neutral
+[40:53] or could be a neutralish player between
+[40:55] the United States and Chinese spheres of
+[40:57] influence and AI. And if we sort of take
+[41:01] out the Iranians, and that's something
+[41:02] that the Gulf States are happy about,
+[41:05] that could strengthen ties between the
+[41:06] United States and those countries,
+[41:07] especially if it's followed up by
+[41:08] something like the Abraham Accords,
+[41:10] where you have a consolidation of sort
+[41:12] of US aligned powers dominant in the
+[41:15] Middle East, whereas Iran was closer to
+[41:17] a a Chinese proxy than an American proxy
+[41:20] in that region. Um, you know, I think
+[41:23] that sort of impacts AI and and I guess
+[41:26] also just um shifting the taboo against
+[41:28] war. Um, right, that war is a legitimate
+[41:31] means of of achieving some geopolitical
+[41:33] objective even if if you know Israel's
+[41:36] saying it's it's the objective is
+[41:37] self-defense. Um, that probably ups the
+[41:40] ante for for competition uh versus not.
+[41:43] One one of the interesting thoughts I
+[41:44] have is um given the way the role
+[41:47] technology is playing in this war uh and
+[41:50] I'd be curious on either of your
+[41:52] thoughts on this. Does this undermine
+[41:53] the like sovereign individual thesis
+[41:55] that as technology goes more digital as
+[41:59] you know assets become digital as
+[42:01] geopolitical power becomes sort of more
+[42:03] amorphous and and diffused in cyerspace
+[42:06] that the returns on kinetic violence go
+[42:08] down right at least major kinetic
+[42:11] violence go down whereas maybe the
+[42:13] sovereign says okay local violence might
+[42:15] uptick but nation states will be less
+[42:17] incentivized to go to war with each
+[42:18] other. Um it seems like maybe the
+[42:20] opposite is true that uh you know we
+[42:23] learn from World War II and then the
+[42:25] forever wars, proxy wars that followed
+[42:27] it that you know polit like real nation
+[42:30] state violence is is absolutely sort of
+[42:32] value destructive as negative expected
+[42:34] value uh and and not worth it. But if
+[42:37] you can do it in a much much more
+[42:38] targeted way like we just saw Israel do
+[42:40] especially on the first night of the
+[42:41] attacks does that sort of invalidate
+[42:43] that thesis uh contrary to like sort of
+[42:46] the sovereign individual narrative that
+[42:47] Bitcoin owners believe in. I actually
+[42:49] wrote an essay called the actual impact
+[42:51] of Bitcoin on war maybe before I was
+[42:54] maybe even a fellow at BPI was like 2022
+[42:56] for Bitcoin magazine. So you can go look
+[42:58] at it and it was it was uh me being
+[43:00] irritated a bunch of Twitter spaces and
+[43:02] Jason Lowry stuff about Bitcoin fixes
+[43:05] war. Um because I was just like this
+[43:07] isn't realistic. This isn't looking at
+[43:09] like the actual systems of power and the
+[43:12] technological growth curve that we're
+[43:14] on. I was just basically applying Jeff
+[43:15] Booth's thesis to technological
+[43:17] deflation to the capabilities that US uh
+[43:21] and other you know great powers are
+[43:22] going to deploy. Right? It's going to be
+[43:24] much cheaper to deploy much more
+[43:26] effective uh you know weapons in the
+[43:28] future. That's just the the the
+[43:30] deflationary uh argument applied to um
+[43:33] defense production.
+[43:35] uh and that uh that that that is another
+[43:37] curve that's that we're on in addition
+[43:39] to say Bitcoin adoption curve um and uh
+[43:42] it's it's uh it's going to lead to a
+[43:45] have and have nots world right that
+[43:47] we're seeing play out now where I think
+[43:49] maybe one of the reasons why Iran was
+[43:51] caught by surprise is because Iran
+[43:52] doesn't have the same space-based AI uh
+[43:55] compute infrastructure that Israel have
+[43:57] uh they don't have the the automated um
+[44:01] you know sort of kill chain that they've
+[44:03] been able to operationalize
+[44:05] They have some drones, but they're
+[44:07] they're like they're the drones that
+[44:09] were effective like 5 years ago, right?
+[44:11] They're like the cheap relative to like
+[44:13] give to the Houthies to harass Red Sea
+[44:15] shipping. They're not the like really
+[44:17] lowcost asymmetric um you know, things
+[44:20] that pop out of a container, right, that
+[44:22] the uh that that the Ukrainians just
+[44:24] like shipped into Russia. And so now
+[44:27] we're in this world where those
+[44:29] capabilities though are going to
+[44:30] diffuse, right? But to be able to
+[44:32] effectively deploy them, you're gonna
+[44:33] need to have this full stack, right?
+[44:35] You're going to be able to um and that's
+[44:36] why I think like to to adapt David Sax's
+[44:39] metaphor of like um the reason why they
+[44:40] undid the diffusion rule on the AI is
+[44:42] because they wanted to have this sort of
+[44:43] market share competition with China.
+[44:45] They really they pointed to like I think
+[44:47] it was Malaysia taking like 3,000 ascend
+[44:49] chips for like some token, you know,
+[44:51] government project as like a proof that
+[44:53] um this was the race that that was on to
+[44:55] like, you know, get the rest of the
+[44:56] world kind of onto our stack, right? our
+[44:59] compute AI stack which is also an energy
+[45:01] stack right and so to the sovereign
+[45:02] individual thesis is like I'm not sure
+[45:05] if we've talked about this in this
+[45:05] podcast but like my view is the the the
+[45:08] countries that have the capabilities are
+[45:09] pursuing their own full digital
+[45:11] sovereign stack right they want to have
+[45:13] their own sovereign energy capabilities
+[45:15] on which they can lay the compute that's
+[45:18] going to um uh drive the uh intelligence
+[45:22] that's going to power the digital
+[45:24] economy and the digital money right that
+[45:26] our our future civilization is now
+[45:29] moving into right both stable coins and
+[45:31] digital digital assets like Bitcoin,
+[45:33] right? Like this is the stack from the
+[45:35] view of great powers that they want to
+[45:36] have full, you know, sovereignty over
+[45:39] and so big like aspiring countries like
+[45:41] the Saudis and the Emiratis have the
+[45:43] capital now to try to try to buy their
+[45:46] own version of that stack, right? They
+[45:48] have their own domestic energy
+[45:49] production. Then they're doing these
+[45:50] geopolitical deals to get the chips and
+[45:52] then the the the license agreements to
+[45:54] be able to take the frontier models and
+[45:56] use those locally with their national
+[45:57] data. And then they're also at you know
+[45:59] exploring digital assets right at the
+[46:01] same and at the same time these are like
+[46:02] converging trends at at that level of of
+[46:05] national sovereigns. there's an open
+[46:07] question for like individuals like how
+[46:09] much can individuals if it's good for
+[46:10] the Amiratis it's good for me right so
+[46:13] I'm really interested in products and
+[46:15] policies that allow any anyone not just
+[46:18] in the US to create like a miniature
+[46:21] version of that type of sovereign future
+[46:22] stack for themselves right like the the
+[46:25] sci-fi future version of is like you
+[46:26] have a fusion reactor in your basement
+[46:29] powering you know a chip fab right that
+[46:32] that is you know like sort of 3D prints
+[46:34] the next generation that does local
+[46:36] training on your own, you know,
+[46:38] compartmentalized data, right?
+[46:40] Generating new models that are, you
+[46:42] know, agents that you can control to
+[46:44] deploy into an economy of other
+[46:46] interacting kind of, you know, self-s
+[46:48] sovereign entities to, you know, acquire
+[46:50] more Bitcoin, right? That would be like
+[46:51] the sci-fi version of the full full full
+[46:54] stack individual in like, you know, 50
+[46:56] years, right? And and that's, I think, a
+[46:59] vision of the future that's like we can
+[47:00] kind of anchor on or a vision of the
+[47:01] future where it's all like where it's
+[47:03] like the Borg, right? These are globe
+[47:05] spanning platforms, right? Corporate
+[47:08] structures where they're arbitrageing
+[47:10] political boundaries in order to take
+[47:12] advantage of, you know, collective
+[47:14] action problems and then are able to
+[47:16] basically plug everyone in the planet
+[47:17] into a hive mind AI that looks form
+[47:20] fitted to everyone individually
+[47:22] uh and feels like the greatest, you
+[47:25] know, cognitive and productivity
+[47:26] amplifier that we've ever had, but
+[47:28] fundamentally is a happy face on the
+[47:30] showgoth that is an that that is Sam
+[47:32] Alman's board machine. Um, and we're all
+[47:34] using Worldcoin instead of Bitcoin. So,
+[47:36] you know, which way? Western man, right?
+[47:38] Sort of a techno dystopia,
+[47:40] authoritarianism,
+[47:42] uh, CBDC's and Worldcoin or self-s
+[47:44] sovereign Bitcoin compute, uh,
+[47:47] decentralized AI, uh, where we have a
+[47:49] participatory, you know, commons and we
+[47:52] have uh, a sphere of freedom in a
+[47:54] digital world, uh, that we can that we
+[47:57] can anchor to.
+[47:58] Yeah, I think an interesting thought
+[48:00] that that occurred to me listening to
+[48:01] what both of you thought um tying this
+[48:04] back into the Bitcoin conversation is um
+[48:07] you know during the Ukraine Russia sort
+[48:10] of early days, right? Uh Matthew Franti,
+[48:12] a BPI fellow did an analysis that
+[48:15] basically tracked like when news started
+[48:17] to circulate about uh the invasion and
+[48:20] the sort of impact that that had on the
+[48:22] price of Bitcoin. And and one thing, you
+[48:24] know, I haven't really looked too
+[48:25] closely. It doesn't seem like there's
+[48:26] been any significant movement in the
+[48:28] price of Bitcoin since since this moved.
+[48:31] Um but like to what extent do um you
+[48:35] know national or or international
+[48:37] conflicts um begin to like enrich people
+[48:40] who are holding Bitcoin, right? Like is
+[48:43] there a world where um you know as
+[48:45] opposed to maybe previous times in
+[48:47] history where where war was enriching
+[48:50] maybe for those closer to the money
+[48:51] printer where war sort like sort of
+[48:54] suddenly becomes a means to um you know
+[48:57] increase the wealth of Bitcoiners and
+[49:00] that holding Bitcoin is maybe like a
+[49:02] sort of hedge uh both for nation states
+[49:06] right we've seen that sort of narrative
+[49:09] uh come through but also for individuals
+[49:11] Um curious if if you all have thoughts
+[49:13] on that. I think it's uh two ways that
+[49:16] that could happen. One is where there is
+[49:20] sort of risk of confiscation of non-
+[49:22] Bitcoin assets. Um so I think we did see
+[49:25] a different narrative about Bitcoin
+[49:27] emerge from the 2022 uh US freezing of T
+[49:31] bills in Russia. Um so if we were to see
+[49:34] stuff like that come out of war that
+[49:36] could strengthen the case for Bitcoin.
+[49:38] also anything that undermined sort of
+[49:40] faith in the fiat standard that we live
+[49:44] in, right? Or the the US world reserve
+[49:46] currency. Uh which I don't think is
+[49:48] happening right now in Iran. I don't
+[49:49] think that poses a meaningful risk. Um
+[49:51] which is probably why we're not seeing
+[49:52] the Bitcoin price moving. I do think
+[49:54] there are other sort of Bitcoin tropes
+[49:57] that might be undermined here that that
+[49:59] are worth reconsidering. one is sort of
+[50:03] this uh you know idea that we have to
+[50:05] deal with all the time at BBI which is
+[50:08] it's not worth interfacing with the
+[50:09] government. Bitcoin is inevitable. I
+[50:11] hold my Bitcoin in cold storage. Nothing
+[50:12] can happen to me. Uh you know if you
+[50:15] want to see what state power looks like
+[50:16] I mean Israel is a much smaller state
+[50:18] than the United States. But look what
+[50:19] they were able to do to individuals,
+[50:21] right? Like you you are not physically
+[50:23] safe if the state turns against you. And
+[50:25] so I I I hope some of that can help us
+[50:28] dispense with the notion that like
+[50:30] interfacing with the state and and
+[50:32] worrying about you know what policy is
+[50:34] and how it impacts us uh you know and
+[50:36] worrying about the actual monopoly on
+[50:38] violence that the state holds um is an
+[50:41] important task because the state can
+[50:43] reach out and touch you sort of no
+[50:44] matter where you are um and in a very
+[50:47] sort of personal targeted way. The other
+[50:50] thing has been really interesting to me
+[50:52] is that just the amount of clear sort of
+[50:56] outright not just regular propaganda but
+[50:58] like disinformation propaganda I've seen
+[51:00] on Twitter about the conflict. One of
+[51:02] the sort of very famous things that's
+[51:04] going around is the supposed image that
+[51:07] uh Iranian backed accounts are putting
+[51:09] around of a F-35 fighter they say they
+[51:11] down. And if you look at the size of it,
+[51:13] it's you know people are compared to the
+[51:15] size of a Imperial uh star cruiser from
+[51:17] Star Wars, right? It's just like way out
+[51:19] of whack. It's AI generated. There are
+[51:21] tweets from Israeli aligned accounts
+[51:23] that are saying the United States is
+[51:25] already in the war, which is not true.
+[51:27] There are accounts that come dead, which
+[51:29] is not true. There are accounts of
+[51:31] television and fire, which is not true.
+[51:33] But there's just like social media is a
+[51:35] battleground uh for this stuff. And you
+[51:38] know, one thing about Bitcoiners is
+[51:39] people really and people in general, I
+[51:40] don't mean to just single out
+[51:41] Bitcoiners, but people are very eager to
+[51:43] believe something they see on social
+[51:45] media that aligns with their priors. And
+[51:48] you should just know there's a lot of
+[51:49] stuff out there that no matter which
+[51:50] side of this you're on ideologically
+[51:52] will align with your priors and will be
+[51:54] just complete complete right?
+[51:56] Not not even close to the truth. And
+[51:58] it's important to be, you know, a little
+[52:00] bit careful and and sort of media
+[52:02] literate and trust not verify with
+[52:04] information that's out there because
+[52:06] this is clearly part of the battlefield
+[52:08] now is people's emotions and uh sort of
+[52:11] narratives on on social media. Um and
+[52:14] then cyber attacks uh uh I I think are
+[52:16] you know this has probably already
+[52:19] played a bigger role in this conflicting
+[52:21] than than we know. We know that like
+[52:23] Iran has launched cyber attacks against
+[52:25] the United States. Israel famously also
+[52:27] is sort of one of the leading powers
+[52:29] when it comes to cyber and um this could
+[52:32] be another interesting use case for
+[52:34] Bitcoin as something that like is less
+[52:36] prone to cyber attacks than other
+[52:38] monetary infrastructure.
+[52:40] Yeah, I was going to say there's
+[52:42] Bitcoin's value which you know in a
+[52:45] environment is like 20% like gold 80%
+[52:48] like you know a risk on
+[52:51] sort of techreated equity I think is how
+[52:53] it trades right if you just look at the
+[52:55] kind of the the correlations and so when
+[52:58] you have geopolitical risk event you
+[52:59] know algorithmic trading drives it you
+[53:01] know people apply more of a discount
+[53:04] factor to risk on assets so again it's
+[53:06] like is bitcoin gold is it's like it's
+[53:08] it's a distribution is it 1% % trading
+[53:10] like gold or 80% trading like gold. I
+[53:12] think we're seeing it now. It's probably
+[53:14] 2080. So that's its value. That's like
+[53:16] less of an interesting thing because I'm
+[53:18] not if you're event trading Bitcoin from
+[53:20] Iran headlines like you're cooked. Like
+[53:23] I don't know like you're just fully
+[53:25] degenerate. Like it's fine, but like
+[53:26] don't pretend that you have like a macro
+[53:28] take. Um, and then there's Bitcoin's
+[53:31] value proposition, which, you know, just
+[53:33] speaking amorally, is just as useful to
+[53:36] the mullers trying to flee to Russia
+[53:38] with some assets as it is for the
+[53:39] millions of people that Trump told last
+[53:41] night to like evacuate Tyrron, right?
+[53:44] And I think Tran's a modern, you know,
+[53:46] big city with millions of people, lots
+[53:48] of professionals in there. and they woke
+[53:49] up, you know, with a tweet from the
+[53:52] president of United States who can
+[53:53] control, you know, lots of bombs who
+[53:56] basically said, "Get out of your city."
+[53:57] Right? Now, was that a real threat,
+[54:00] right? Was it just like a psychological
+[54:01] operation? Right? I think maybe both.
+[54:04] But like this is now this is the world
+[54:06] we're living in. So lots more like, you
+[54:08] know, the human rights foundation has a
+[54:10] lot of work to talk about financial
+[54:11] inclusion and folks that are in uh
+[54:14] countries with dalian currencies or
+[54:16] kleptocratic regimes. I think as we get
+[54:18] to a more unstable world where you know
+[54:20] anyone can be subject to these sorts of
+[54:22] drone strikes right and maybe your city
+[54:24] I'm not saying you know not talking to
+[54:25] most Americans but like a lot of people
+[54:27] around the world live in kind of
+[54:28] semi-fragile states where these
+[54:30] capabilities are going to be are going
+[54:32] to empower you know potential um you
+[54:34] know breakaway republics or you know
+[54:36] coup factions and all of a sudden you
+[54:38] can wake up one day and like your
+[54:39] banking system is frozen right because
+[54:41] there's a bit of coup. So like the the
+[54:43] proliferation of these sort of
+[54:44] asymmetric capabilities likely going to
+[54:46] lead to more destabilized countries that
+[54:48] aren't in the western world or aren't
+[54:50] great powers. And so th those people
+[54:52] like having an asset that you can just
+[54:54] get out right easily without having
+[54:56] bricks of gold in your backpack, right?
+[54:58] That's easily it's like this will become
+[54:59] more of a necessity, right? And not like
+[55:02] a privilege of of you know speculative
+[55:04] uh you know degenerates on on on on
+[55:06] Bitcoin Twitter, right? And so I think
+[55:09] that will become a thing that that won't
+[55:10] move the price much because people don't
+[55:12] have a lot a lot of capital but I think
+[55:13] it will move the the the sp space of
+[55:16] optionality for more humans. Uh that
+[55:18] number is going to go up which I think
+[55:19] is just as much as an important number
+[55:21] to go up but it's hard to measure. Um
+[55:23] and I bitcoin is very valuable right and
+[55:25] its value proposition is is only getting
+[55:27] more and more significant as as a result
+[55:30] of these technological trends and the
+[55:32] geopolitical instabilities um that are
+[55:34] coming down the line.
+[55:37] All right, we're we're nearing the hour
+[55:38] here. Uh, but I would be remiss not to
+[55:41] ask you, Pines, uh, in in eight days
+[55:43] now, you're going to be on this stage,
+[55:45] uh, with the deputy director of the CIA,
+[55:47] Michael Ellis. Um, you know, does the
+[55:51] conversation look any different now, I
+[55:53] guess, is the question here. Uh, yeah, I
+[55:56] mean, well, just stepping back, right?
+[55:57] It's a remarkable turn of events for me,
+[56:00] myself professionally, to be on a stage
+[56:01] with the deput talking about Bitcoin,
+[56:03] right? like and the fact that that's
+[56:05] possible just you know exemplifies like
+[56:08] the degree of change we're seeing in the
+[56:10] world and how quickly Bitcoin has been
+[56:12] normalized as a strategic thing and a
+[56:14] topic of conversation inside DC I think
+[56:16] it's been you know BPI's like whole
+[56:18] raise on debt essentially from from the
+[56:20] beginning is to get to kind of this
+[56:21] point but now that we're at this point
+[56:23] we also have have a commitment to the
+[56:24] other thing we were talking about which
+[56:25] is like Bitcoin's ethos and so I think
+[56:28] we're going to have uh an excellent
+[56:30] conversation with the deputy director of
+[56:31] the CIA about how He thinks about these
+[56:35] convergence of different disruptions,
+[56:38] right? The emergence of digital assets
+[56:40] as a strategic thing in the world
+[56:41] system, the AI acceleration, technology
+[56:45] competition with China, and overall
+[56:46] geopolitical instability. And I really
+[56:48] want to hear what he has to say. We
+[56:49] haven't, you haven't talked before, so I
+[56:51] will be learning in real time from
+[56:52] everybody else. And then immediately
+[56:54] after that, we're going to have Matt
+[56:55] Carallo talk about the uh critical
+[56:58] importance of the blockchain regulatory
+[57:00] certainty act, right, and financial
+[57:01] privacy uh and the insurance, you know,
+[57:04] of of the use of non-custodial, you
+[57:06] know, tools. Uh and then the afternoon
+[57:08] we're going to have another session
+[57:09] where we do backtoback uh first with
+[57:11] Patrick Whit who's the director of the
+[57:13] office of strategic capital uh at the
+[57:15] Pentagon and he's uh Bo Hines is deputy
+[57:18] on the president's working group on
+[57:19] digital assets. So he's he's wearing two
+[57:21] hats, one a very national security
+[57:22] focused hat in capital markets, helping
+[57:24] to advance US strategic interests and
+[57:26] ensuring the US gets digital asset
+[57:29] policy right right from a strategic
+[57:30] perspective. And so he'll have a
+[57:31] conversation with Ken Egan, our director
+[57:33] of government affairs about that. And
+[57:34] then immediately after that
+[57:35] conversation, we're going to have the
+[57:36] resistance money trio make the case uh
+[57:39] for coin joints, right? And so I think
+[57:42] like I don't know, I just think this is
+[57:43] like what BPI is for. to like do the
+[57:46] full barbell, the hard nose, you know,
+[57:48] talk to the national security folks, the
+[57:49] folks quote in the deep state who I
+[57:52] think are more pro Bitcoin than you
+[57:53] might suspect, right? And then not make
+[57:56] any any uh compromises on our commitment
+[57:58] to, you know, using the software the way
+[58:01] it's meant to be used for the reasons it
+[58:02] was created, right? And there is there
+[58:05] is no either or. There's no trade-off.
+[58:07] There's just push everything in those in
+[58:08] those directions. Bitcoin just wins
+[58:10] along every vector basically, right? Um
+[58:13] that's the objective. And uh so I think
+[58:15] it's g it's gonna be an awesome day. Um
+[58:17] again like I think we're going to be
+[58:18] close to capacity at this point which is
+[58:20] just like mind-blowing since we we
+[58:22] picked a massive venue this time. Um and
+[58:24] Zach's going to give our our our like a
+[58:26] really critical keynote kind of lay out
+[58:28] this philosophical and sort of policy
+[58:30] vision for BPI. It's going to touch
+[58:32] touch on everything. Um I mean it's just
+[58:35] every muscle is going to be tight. It's
+[58:37] just going to be bam bam bam bam bam. I
+[58:39] think people are going to be a bit
+[58:40] overwhelmed. I think you're going to
+[58:41] have to like, you know, consume this in
+[58:43] like digestible chunks, but we're just
+[58:44] going to give you like nine hours of
+[58:46] just like extremely high signal content
+[58:48] and just, you know, push push the ball
+[58:50] down the field on Bitcoin policy in DC.
+[58:53] Amazing. All right. I think uh for the
+[58:55] folks listening at home, we we probably
+[58:57] will uh be skipping next week's Bitcoin
+[58:59] Policy Hour, but we will be live
+[59:01] streaming uh the Bitcoin Policy Summit
+[59:03] on the BPI uh handle on Twitter or X as
+[59:08] well as YouTube and Rumble and I think
+[59:09] Bitcoin Magazine will also be streaming
+[59:11] it. So, uh be sure to tune in there uh
+[59:14] to get your fill of of Bitcoin policy
+[59:16] for the week. Um but and and I'll, you
+[59:18] know, let Zach Zach So, how many times
+[59:20] are you speaking and who are you
+[59:21] speaking with? I think I'm speaking
+[59:23] three times. Uh I'm doing the sort of
+[59:25] index pages at the beginning, the table
+[59:27] of contents, uh where I'm sort of laying
+[59:29] out our uh broad policy view and what
+[59:32] you you'll hear the rest of the day, uh
+[59:34] and how to think about that. Um, I'm
+[59:36] doing a fireside with Commissioner
+[59:38] Pierce at the SEC to ask Bitcoin
+[59:40] specific questions, which I'm really
+[59:42] excited about because you almost never
+[59:43] hear about that with Hester Pierce,
+[59:45] who's known as as crypto mom, but every
+[59:47] time she does interviews, people want to
+[59:48] ask her about market structure and
+[59:50] tokens and uh, stable coins and stuff
+[59:53] like that. And and you know, hearing the
+[59:55] SEC speak about Bitcoin is I think will
+[59:57] be a rare treat. Uh and then uh I'm
+[60:00] doing a policy panel with I think two of
+[60:03] the sort of absolute best thinkers on
+[60:05] protection of peer-to-p peer tools.
+[60:07] Peter Van Vulcanberg from Coin Center,
+[60:09] Mike Moser from Turos, but he's the
+[60:11] former uh acting director of Fininsen.
+[60:13] Um about okay, clearly we don't like
+[60:16] what's happening with Tornado Cash and
+[60:17] Samurai, but what does appropriate
+[60:20] illicit finance law that understands
+[60:21] peer-to-peer technology look like? Uh
+[60:23] and I think that is a conversation that
+[60:25] also all too rarely happens. So, I'm I'm
+[60:27] really uh excited about the day. We're
+[60:31] just like absolute like uh Bitcoin nerd
+[60:34] policy wonk like Super Bowl. Yeah. It's
+[60:37] almost inaccurate to say that we're not
+[60:38] going to like this this is going to be a
+[60:40] eight hour episode of the the policy
+[60:42] hour pretty much. Like honestly, we
+[60:44] would put this event on if nobody if
+[60:46] nobody watched. Like we would just do it
+[60:48] for ourselves.
+[60:49] Yeah. Don't tell Grant. Don't tell
+[60:52] Grant. All right. Uh that's a wrap and
+[60:55] uh tune in next week for the uh for the
+[60:57] Bitcoin policy summit and uh once that's
+[60:59] over we can stop shilling it. So that
+[61:02] will be a that will be a fun episode.
+[61:04] Cool. Thanks guys and uh see everyone
+[61:06] next week. Better.

@@ -1,0 +1,1955 @@
+Title: On-Chain Analyst: Get 2X More Bitcoin with this NEW DCA Method!
+Video ID: QkAmeyYbjOA
+URL: https://www.youtube.com/watch?v=QkAmeyYbjOA
+Date Saved: 2025-06-15 11:44:20
+--------------------------------------------------
+
+[00:00] there's only one thing I like more than
+[00:01] Bitcoin and it's more Bitcoins I do
+[00:03] think we can outperform Bitcoin that's a
+[00:05] pretty hard Baseline to be you know
+[00:06] we're talking hundreds of percent per
+[00:08] year potentially if we can basically
+[00:09] double or triple that with just a couple
+[00:11] trades every few years then that's
+[00:13] pretty preferable there is allocations
+[00:14] that I am using to actively try and
+[00:17] accumulate more BTC we've now built a
+[00:19] solid foundational base and we've
+[00:21] already proven that 100K can be broken
+[00:23] quite easily once the macroeconomic
+[00:25] conditions become more favorable the sky
+[00:26] is really the limit for BTC we've seen
+[00:28] what $37 billion of net inflows that's
+[00:31] over 10 times the inflows gold saw in
+[00:33] its first year of its us ETF launch and
+[00:35] everyone looks at the gold price action
+[00:37] in the Years following that launch and
+[00:38] that fractal where gold ran up
+[00:40] exponentially for multiple years Bitcoin
+[00:42] could be on the cusp of that 25 does
+[00:44] have the potential to be something
+[00:46] spectacular like we've never seen before
+[00:48] especially looking at the onchain data
+[00:50] this isn't an opportunity that comes
+[00:51] around very often an asset that we've
+[00:53] all had access to there's not many
+[00:55] assets where retail can get in before
+[00:57] these big institutional players
+[01:00] [Music]
+[01:03] on chain data you're you're the second
+[01:05] person I ever talked on the podcast
+[01:07] which is uh I feel I feel like this
+[01:10] topic should be more popular on the
+[01:12] podcast I talked with checkmaid you
+[01:14] probably know him uh and you another
+[01:18] second episode now I can make a playlist
+[01:20] with unchain data on my channel uh with
+[01:23] with unchain data so thank you so much
+[01:24] for taking time and coming on today no
+[01:27] of course thanks for having me and and
+[01:28] checkmates obviously one of the best
+[01:30] Minds in the space so the bar set pretty
+[01:31] high for me today to try and give some
+[01:33] unique onchain insights and try and
+[01:35] educate the audience on maybe what we do
+[01:38] and how we can help your own investing
+[01:39] and Analysis but yeah just as a little
+[01:41] bit of background as who I am I'm Matt
+[01:43] from Bitcoin magazine Pro where the data
+[01:46] and analytics branch of Bitcoin magazine
+[01:48] who are the oldest and most established
+[01:50] Bitcoin publication on the web and we
+[01:52] host the Bitcoin conferences and stuff
+[01:54] like that and yeah we we only really
+[01:57] partnered with Bitcoin magazine our
+[01:59] onchain day platform which used to be
+[02:01] called look to bitcoin earlier in 2024 I
+[02:03] think it was June or July time and since
+[02:06] then yeah we've been able to kind of
+[02:07] expand our reach and provide more and
+[02:09] more data and analytics as well as macro
+[02:11] data and portfolio tools Etc just to
+[02:14] really try and simplify you're investing
+[02:16] not only from a performance standpoint
+[02:19] but also just from a time and
+[02:21] understanding standpoint I feel like a
+[02:23] lot of onchain data gets a reputation of
+[02:25] being incredibly complicated and
+[02:28] unnecessarily so there's there's so many
+[02:30] charts you can look at which really
+[02:31] paint a picture in black and white of
+[02:33] what is happening in the market are we
+[02:34] in a bull cycle bare cycle we close to a
+[02:36] peak or bottom and from there it just
+[02:39] yeah as I said Can massively save you
+[02:41] time and improve your own investing by
+[02:43] removing that emotional bias by just
+[02:45] purely looking at date driven approach
+[02:47] to yeah try and outperform a vast
+[02:49] majority of people H in the end it's
+[02:51] it's all about getting more Bitcoin I
+[02:54] guess right exactly I I like to say
+[02:56] there's only one thing I like more than
+[02:58] Bitcoin and it's more Bitcoin so I know
+[03:00] it's a slightly controversial take with
+[03:02] people in the space but I'm openly going
+[03:04] to say this cycle I will be selling
+[03:07] Bitcoin in hopes that next cycle I can
+[03:09] buy even more Bitcoin I don't know about
+[03:11] you guys but I I I work in Bitcoin space
+[03:14] full-time so obviously I earn a lot of
+[03:17] uh my salary in Bitcoin and stuff like
+[03:19] that but the best way to actually
+[03:21] increase my stack will be to try and
+[03:23] time scaling out of the market towards a
+[03:24] cycle Peak and then towards the cycle
+[03:26] bottom after a 60 70 plus perc draw down
+[03:29] potenti
+[03:30] that scaling back in is going to
+[03:31] massively outpace salary and any other
+[03:34] small trades I make because that macro
+[03:36] part of my investing portfolio yeah if
+[03:39] we can basically double or triple that
+[03:41] with just a couple trades every few
+[03:42] years then that's you know pretty
+[03:44] preferable interesting what what do you
+[03:46] think is the probably impossible to
+[03:50] guess exactly but what do you think is
+[03:52] the percentage change of how many more
+[03:54] Bitcoin you can probably get if you are
+[03:58] are good in this and if you actually uh
+[04:01] try to to to learn from the onchain data
+[04:04] did you uh had some or did you run with
+[04:07] your own uh DCA strategy analysis of
+[04:11] like what would you get if you just
+[04:13] stack every month versus what you have
+[04:15] now so it's it's a very good question I
+[04:17] think a lot of this also comes down to
+[04:19] personal preference I for example like
+[04:22] to spend as little time as possible in
+[04:24] front of the charts so I can be someone
+[04:26] that can scale in and then every few
+[04:27] months maybe take a swing trade or so
+[04:29] but then scale out quite heavily
+[04:31] potentially two or three years after
+[04:32] I've really heavily accumulated whereas
+[04:34] we get a lot of people who use onchain
+[04:36] data because again it's not just
+[04:37] something that we can look at on a macro
+[04:39] basis to say right I buy in 2021 and
+[04:42] then I wait you know years or so to to
+[04:45] sell you get people that are using this
+[04:46] onchain data on an intraday time frame
+[04:49] who are looking at buys and sells from
+[04:52] Big accounts as they're happening in
+[04:54] real time all that really drives the
+[04:55] market is supply and demand economics
+[04:57] and using this onchain data we can see
+[04:59] people selling and buying Bitcoin as it
+[05:01] happens so they may be making 5 to 10
+[05:04] trades a day in which case our returns
+[05:06] might be slightly different at least
+[05:07] that Equity curve might be slightly
+[05:09] different but I do like to think as a
+[05:11] baseline using this onchain data I do
+[05:14] think we can outperform Bitcoin which is
+[05:16] a pretty strong Baseline considering
+[05:18] Bitcoin is one of the best performing
+[05:20] assets globally in the last decade going
+[05:22] from you know a few hundred a decade ago
+[05:25] to over $100,000 pretty much to where we
+[05:28] are today that's pretty hard Baseline to
+[05:30] be you know we're talking hundreds of
+[05:31] percent per year potentially and if we
+[05:34] can outperform that with just a few
+[05:35] trades because obviously then you have
+[05:37] to consider taxes funding fees slippage
+[05:40] Etc that's all going to be a detriment
+[05:42] on performance but as a baseline I think
+[05:44] using this onchain data and taking an
+[05:46] unbiased risk managed approach I think
+[05:49] you can outperform just buy and hold
+[05:51] which yeah as I said is a pretty hard
+[05:52] Baseline to beat but we do have quite
+[05:55] extensive research showing that this is
+[05:57] possible and the reason I got into
+[05:59] unchain data and analytics to begin with
+[06:01] is because that's what I heavily relied
+[06:03] on over the previous cycle to again make
+[06:05] up for the mistakes I made when I first
+[06:08] got into Bitcoin I'm not sure about
+[06:09] yourself but when I first got into
+[06:11] Bitcoin and I was learning about trading
+[06:13] and investing and I was in trading view
+[06:15] every day with a thousand different
+[06:16] lines on my charts and 50 different
+[06:18] indicators trying to find the Holy Grail
+[06:20] massively over complicating things I
+[06:22] ended up buying the top selling the
+[06:23] bottom like most people do it was only
+[06:25] after that where I really deep dived
+[06:27] into Bitcoin its technology the
+[06:29] blockchain everything beyond that and
+[06:31] realize we can actually see all of this
+[06:33] transaction going on we can see all of
+[06:34] the movement on chain we can see these
+[06:36] experienced large players begin to
+[06:38] accumulate and distribute their coins as
+[06:40] it's happening we can just follow them
+[06:42] we don't have to have an edge that's you
+[06:45] know so unique and complicated we can
+[06:47] just wait until the best most profitable
+[06:49] Traders are selling and sell alongside
+[06:51] them or see when they're accumulating
+[06:52] and accumulate alongside them as well
+[06:54] and so I'm a big proprietor of using
+[06:56] this data because I have the evidence
+[06:58] from myself that it worked in the prev
+[06:59] previous cycle and then since then since
+[07:01] I kind of made this my job to to try and
+[07:04] educate people on on chain data and the
+[07:06] the topic of Bitcoin we were
+[07:08] accumulating heavily around the $ 15 to
+[07:10] $19,000 region the previous cycle lows
+[07:13] we've had now when we reached $74,000 we
+[07:16] were already identifying that we may be
+[07:18] a little bit overheated and having a bit
+[07:19] of a cool off and now above 100K we're
+[07:21] getting a few signs that maybe on the
+[07:23] short term that prices maybe
+[07:24] overextended a little bit but we have
+[07:26] had a few weeks to cool off so it's
+[07:28] really interesting to see how this all
+[07:29] kind of Confluence merges together to
+[07:31] give us not just a big picture on a
+[07:33] multicycle multi-year basis but also in
+[07:36] these swing micro swing micro sorry
+[07:39] Incycle moves are you doing this with
+[07:43] only with a significant amount of your
+[07:46] stack uh or with only a a small amount
+[07:49] of your stack to keep the risk lower so
+[07:52] personally I have a few different
+[07:54] allocations of my portfolio so I even
+[07:57] have my own pension pot in bit bit coin
+[08:00] which is uh pretty out there I managed
+[08:01] to get that in in 2018 so that's an
+[08:03] amount of Bitcoin that I won't be able
+[08:04] to touch for decades so this isn't like
+[08:07] I'm selling and accumulating with 100%
+[08:09] of my Bitcoin there's a certain amount
+[08:11] that I'm never going to touch there's a
+[08:12] certain amount which I'm dcing with
+[08:14] which is like I said through salaries
+[08:15] and whatnot there's a certain amount
+[08:17] which I won't touch for decades but then
+[08:19] there is allocations that I am using to
+[08:21] actively try and accumulate more BTC
+[08:24] which it's hard to give exact
+[08:26] percentages but if you imagine almost a
+[08:28] 33% one third one third one third split
+[08:31] a third you're never really touching a
+[08:32] third you're adding to and then a third
+[08:34] you're maybe actively trying to increase
+[08:37] your stack by going into the market at
+[08:39] the most opportune moments and trying to
+[08:41] sell at the most opportune moments
+[08:44] interesting um a question that I
+[08:46] probably should have asked uh in in the
+[08:48] beginning of the show um for the few
+[08:52] people that maybe don't know uh what
+[08:54] exactly is Onin data and what insights
+[08:57] can we really get from there if if maybe
+[08:59] someone is wondering now yeah we maybe
+[09:02] should have started with this so really
+[09:05] quickly on chain data Bitcoin is built
+[09:07] on top of a blockchain which means every
+[09:09] transaction is publicly available we can
+[09:11] see every transaction we can see every
+[09:13] wallet and we can see in real time what
+[09:15] they're doing what trades they're making
+[09:16] the SES the transfers Etc and what we
+[09:19] can do with that data is essentially
+[09:21] form a picture of what the supply and
+[09:23] demand economics of the Bitcoin Market
+[09:25] are in real time we can see if lots of
+[09:28] like I said previously
+[09:29] large long-term experienced Traders are
+[09:32] beginning to transfer some BTC at the
+[09:34] tail end of bull cycles and historically
+[09:36] we can monitor these wallets to say wow
+[09:38] they are pretty good at timing the
+[09:39] market we can take some inspiration from
+[09:41] those but essentially all it is is just
+[09:43] collating every single one of these
+[09:45] transactions and then we can manipulate
+[09:46] that data in certain ways to help our
+[09:49] own trading and investing depending on
+[09:51] like I said if you're a long-term
+[09:52] investor a DC someone who's just
+[09:54] interested someone who's actively day
+[09:56] trading but yeah I mean if you at the US
+[10:00] economy for example when they're looking
+[10:02] at all of the transactions based on well
+[10:05] cash is harder to track but in the
+[10:06] digital money movements that gives them
+[10:09] a huge amount of insight into what they
+[10:10] can do with inflationary rates Etc but
+[10:13] we don't have that data publicly
+[10:14] available this is where Bitcoin is quite
+[10:16] unique in that everyone has access to
+[10:18] this data freely all you need is a
+[10:19] Bitcoin nerd to spin it all up or if you
+[10:21] use a platform like ours where you can
+[10:23] see all of this data nicely visualized
+[10:26] so then you can help make your own
+[10:27] decisions based on that interesting
+[10:28] really cool um what are maybe we can
+[10:31] start off with uh some of your charts or
+[10:34] metrics uh right now what are the most
+[10:37] important ones that that you look at and
+[10:39] and uh why are they important what what
+[10:42] insights are you basically gaining from
+[10:44] them yeah great so I'll just share this
+[10:47] one which is probably our most popular
+[10:49] chart we have on the site which is the
+[10:52] mvrv Z SC so you only need to really
+[10:54] know one component of this and then the
+[10:56] rest of it kind of makes a little bit of
+[10:57] sense so first and foremost if I just
+[10:59] remove this orange line and the Bitcoin
+[11:02] price action is what we see this black
+[11:03] line here this is the market cap so the
+[11:05] circulating supply of Bitcoin just
+[11:07] multiplied by the price and this blue
+[11:09] line here is the realized cap now the
+[11:12] realized price is the average
+[11:14] accumulation price or the cost basis of
+[11:16] all BTC on the network so what we can do
+[11:19] is basically aggregate every single
+[11:21] Bitcoin transaction that's ever happened
+[11:23] look at the USD value of BTC at that
+[11:26] point in time assume that that transfer
+[11:28] was either accumula or sale of BTC and
+[11:31] then once we get all of that again we
+[11:32] can multiply that by the circulating
+[11:34] Supply to give us the realized cap which
+[11:36] is if you want to look at the average
+[11:38] purchase point of every BTC hodler but
+[11:41] this is just in market cap terms so once
+[11:43] we have that we can just simply divide
+[11:45] the market cap by this realized cap to
+[11:47] give us the mvrv and then we standardize
+[11:50] that data over uh depending on its
+[11:52] volatility throughout bitcoin's history
+[11:54] to give us the mvrv Z score so that
+[11:57] sounds pretty complicated but for those
+[11:59] that can see the chat currently what
+[12:01] we're seeing is this Orange Line
+[12:02] representing the mvrb Z score shows us
+[12:05] when Bitcoin is incredibly increased in
+[12:07] terms of its percentage Above This
+[12:09] average accumulation price so people are
+[12:11] in two three four five times profit
+[12:13] based on the average cost basis of all
+[12:16] BTC holders and once we get further down
+[12:18] here beneath a value of zero which would
+[12:21] indicate a majority of Bitcoin is
+[12:23] currently being held at a loss now what
+[12:25] we can see with a lot of onchain data is
+[12:28] this is essentially just Mass psychology
+[12:30] Quantified that's all it is all we're
+[12:31] seeing is in real time if people are
+[12:34] bullish incredibly greedy Etc or fearful
+[12:38] wanting to sell what we can see is when
+[12:40] most people are at to sell this is
+[12:42] counterintuitive to human emotion to
+[12:44] want to accumulate into an asset which
+[12:46] you may be holding at a loss but what we
+[12:48] can see from this is when a majority of
+[12:50] people are at a loss once we're in this
+[12:52] green zone on this chart that signifies
+[12:54] the most opportune risk reward moment to
+[12:57] begin heavily accumulating BC what we
+[13:00] can see in the previous cycle the
+[13:02] previous bare Market in towards the tail
+[13:03] end of 2022 this basically crossed
+[13:06] beneath this average accumulation price
+[13:08] it we're looking at the market cap here
+[13:10] rather than the price but it was around
+[13:12] $20,000 all the way down to about
+[13:14] $155,000 and on that runup we had in
+[13:16] January 2023 a couple years ago now at
+[13:19] that point we crossed back above and
+[13:21] that almost signified the start of this
+[13:22] bull cycle and what we can see is in
+[13:24] previous Cycles once we get to these
+[13:26] incredibly High values once a vast
+[13:28] majority of people are making excessive
+[13:30] gains unrealized gains when people are
+[13:33] taking screenshots of their p&l and
+[13:34] sending it to friends and people are
+[13:36] thoing in this is when you really want
+[13:38] to be looking to take some risk off the
+[13:40] table when you maybe want to be locking
+[13:42] in some profit which again is hard to do
+[13:44] in that moment when you see your
+[13:46] portfolio has made a 5x or even a 10x or
+[13:49] something this isn't a moment in time
+[13:51] where you need to think to yourself oh
+[13:53] yeah maybe now's the time to stop that
+[13:55] that's so counterintuitive to feel you
+[13:57] want to put more money on the table into
+[13:59] an asset that's making you this much
+[14:01] profit but this is where these data
+[14:02] charts can can really help to see you
+[14:05] know this these patterns are somewhat
+[14:07] predictable we can see throughout
+[14:08] history once x amount of profit has been
+[14:10] reached by a majority of investors this
+[14:12] is usually when the Market's getting a
+[14:14] little overheated and the same for the
+[14:15] downside like I said once a majority of
+[14:18] people are at a loss on their positions
+[14:19] it's usually a good idea to do the
+[14:21] opposite and start accumulating when
+[14:22] other people are
+[14:24] Distributing I like the idea of um a
+[14:29] weighted DCA of like more targed dcing
+[14:33] where you see when you see the data and
+[14:35] you're like okay here uh we are most
+[14:38] likely at some sort of bottom so I'm
+[14:41] trying to buy in with more uh and trying
+[14:45] to buy a little bit heavier here and if
+[14:47] we are more up I'm I'm trying to not buy
+[14:51] in as much as I
+[14:52] can with selling I feel like there's a a
+[14:56] risk of like what if we hit a weird like
+[15:01] do bubble point where all of the sudden
+[15:03] all the prices completely shoot up yes
+[15:06] there's a uh argument it probably will
+[15:08] come down but what if it doesn't come
+[15:10] down um I I guess that's that that's the
+[15:14] that's the there are some risks uh to
+[15:16] that even though the chart already 15
+[15:19] years is kind of predictable what are
+[15:22] you saying to like um what if we shoot
+[15:25] up to too much in like maybe a strategic
+[15:28] Reserve National Bank uh for more
+[15:32] situation of course and and that's a
+[15:34] definitely a Hot Topic at the minute I
+[15:37] remember in the previous cycle we also
+[15:38] had discussions of what if we see a
+[15:40] Bitcoin super cycle or something like
+[15:42] that but I still stand by the number one
+[15:44] thing that's actually moving markets
+[15:46] moving the Bitcoin price is supply and
+[15:48] demand economics obviously we see a US
+[15:51] strategic Reserve launched and that's a
+[15:53] million Bitcoin that needs to be
+[15:54] accumulated that's a huge increase in
+[15:56] demand and Supply is staying pretty
+[15:58] stagnant we're not seeing a huge amount
+[16:00] of new Bitcoin floting into the markets
+[16:02] every day so that 1 million Bitcoin is
+[16:03] going to have to be bought at
+[16:05] considerably higher prices than the
+[16:06] current market whatever people are
+[16:08] willing to sell at but ultimately the
+[16:10] thing that is going to determine when
+[16:11] the top is in is when people are selling
+[16:13] and demand isn't increasing to match
+[16:15] that so if I can share another metric
+[16:18] here that may be uh good to show let's
+[16:21] do it great two SE uh there we go so
+[16:25] this is a great metric that's going to
+[16:28] help me try and time the top and again
+[16:30] it's it's always going to be impossible
+[16:32] to sell 100% of your position at the
+[16:34] exact Market Peak but what we can do is
+[16:36] see periods where there is some sign
+[16:39] signals that we're getting a little
+[16:40] overheated so this is the value days
+[16:42] destroyed multiple and as we can see it
+[16:45] just shows very cool periods here and
+[16:47] very hot periods when this metric gets
+[16:49] red which has historically signaled
+[16:51] pretty major peaks in the Bitcoin price
+[16:52] Action Now what this is doing is
+[16:55] actually waiting the transfer of Bitcoin
+[16:59] uh also known as the coin days destroyed
+[17:01] by the amount of BTC being transferred
+[17:03] and the amount of time being held so
+[17:04] that might sound a little complicated
+[17:06] but essentially if I held one BTC for a
+[17:08] 100 days and then transferred it to cell
+[17:11] I would add 100 coin days destroyed if I
+[17:13] held not 0.1 BTC for a thousand days it
+[17:16] would equal the same thing so what this
+[17:18] is doing is when we see traders who have
+[17:19] been holding BTC for a very extended
+[17:22] period of time who have maybe held
+[17:23] Bitcoin since it was just a few hundred
+[17:25] doar or even less for many many many
+[17:27] years once we see these begin to start
+[17:30] selling that's a huge amount of Supply
+[17:32] flooding the market and you have to
+[17:34] consider once bitcoin's price is at
+[17:36] 100,000 plus maybe we Peak at $150
+[17:38] $200,000 who knows the amount of capital
+[17:41] inflows required to actually scoop up
+[17:43] that amount of BTC entering the market
+[17:46] is substantial compared to the amount of
+[17:48] BTS uh USD sorry required to purchase
+[17:51] that Bitcoin years and years ago it's an
+[17:53] incredible amount of capital inflow
+[17:55] required so of course if we see a
+[17:57] strategic reserve the market market
+[17:59] dynamics change a little bit but it's
+[18:00] hard to base our strategy on if buts and
+[18:04] maybe so far what we can see from the
+[18:06] data is such as when we peaked in March
+[18:09] February 2024 this was incredibly High
+[18:12] when we reached the first alltime high
+[18:14] around 73 74,000 we saw a huge amount of
+[18:17] profit taking by long-term holders and
+[18:19] then following that we saw seven months
+[18:21] of pretty stagnant choppy consolidation
+[18:23] price action and the same is true for
+[18:25] pretty much all of the Bitcoin Peaks
+[18:27] what we can see is when lots of people
+[18:29] are selling that usually indicates a
+[18:31] market top especially those who have a
+[18:33] lot of BTC accumulated at lower prices
+[18:35] so of course selling at the top is going
+[18:37] to be incredibly difficult but this is
+[18:39] why such as scaling in at the bottom
+[18:41] people like to dollar cost average in
+[18:42] like you said if we can strategically
+[18:44] dollar cost average in metrics like this
+[18:46] can help us strategically dollar cost
+[18:48] average out but the thing with Bitcoin
+[18:50] is there's typically a long periods of
+[18:52] time where there's not a whole lot
+[18:54] happening during a most most of
+[18:57] bitcoin's price action you probably want
+[18:59] to be quite stagnant so I've just zoomed
+[19:01] on the price section here if you were
+[19:03] able to accumulate quite heavily between
+[19:05] 20,000 to $15,000 at the tail end of the
+[19:08] last bear cycle yeah maybe you're taking
+[19:10] some profit 74,000 and slightly Bel
+[19:13] $100,000 but once we look at other
+[19:15] metrics for Confluence alongside
+[19:17] something like the value days destroyed
+[19:18] the mvrv Z scar Etc we kind of get a
+[19:21] better idea of when start scaling out
+[19:23] and that might be a couple years after
+[19:25] but then hopefully you've scaled out
+[19:27] sufficiently enough obviously you're
+[19:28] never going to sell 100% at the exact
+[19:30] Peak but just enough so that in a couple
+[19:32] years time again once where the tail end
+[19:33] of the next B cycle you have enough
+[19:35] Capital to reaccumulate considerably
+[19:37] more than what you started with it's
+[19:40] almost like onent data kind of mirrors
+[19:43] the human psychology between buying and
+[19:46] selling and the and the free market
+[19:49] dynamics yeah of course of course and I
+[19:51] think like I said there there's quite a
+[19:52] lot of indications that this data is
+[19:55] really pointing towards the
+[19:57] counterintuitive nature of Bitcoin and
+[20:00] investing in general and just the human
+[20:02] psychology with this looking at
+[20:04] something like the fear and greed index
+[20:05] which is one of the most popular kind of
+[20:08] technical charts people look at to kind
+[20:09] of gauge sentiment in the market once we
+[20:11] see an incredibly overly greedy
+[20:13] sentiment this is when a lot of retail
+[20:15] coming in who maybe aren't experienced
+[20:17] are wanting to FM a win they're not
+[20:20] selling BTC they're feeling greedy at
+[20:21] that period of time this is where we can
+[20:23] see the Divergence between these large
+[20:25] and more experienced traders who are
+[20:27] taking profit and scaling out that
+[20:28] period of time compared to these new
+[20:30] capital rushing in and same is true for
+[20:32] the downside once we see people flooding
+[20:34] out saying that you know we're going to
+[20:35] crash to 10K 1K even after 10 15
+[20:39] retracement 15% retracement sorry now
+[20:42] we're already seeing people saying you
+[20:43] know 50k 60k could be possible in the
+[20:46] next few weeks realistically this is
+[20:48] just human immersion getting the better
+[20:50] of people when actually if we're looking
+[20:52] at data we're actually seeing a decrease
+[20:54] in the amount of profit taken currently
+[20:56] and especially with the ETF inflows that
+[20:58] we're seeing we're seeing demand start
+[20:59] to scoop up that excess Supply hopefully
+[21:01] building a solid foundation for the next
+[21:03] leg higher interesting um how big of an
+[21:07] effect does the overall monetary
+[21:10] expansion and the M2 money supply and
+[21:12] all those things uh come come into play
+[21:15] uh with onchain data are there any
+[21:17] correlations uh between the onchain data
+[21:19] and M2 money supply yes so I have just
+[21:24] the chat for you once again if I can
+[21:26] just uh screen share here just give me
+[21:28] two seconds what we have here is the
+[21:30] global M2 versus BTC year onye chat now
+[21:34] of all of the macroeconomic data points
+[21:37] this is one that has almost exactly a
+[21:39] onetoone correlation when we see massive
+[21:41] expansion in global central banks
+[21:44] balance sheets and just general money
+[21:46] printers going we typically see Bitcoin
+[21:49] massively appreciating in value also and
+[21:51] the same is true for the downside once
+[21:53] we see a contraction once we see the
+[21:54] money printers going down and we see
+[21:56] governments maybe tightening it up a
+[21:58] little bit due to fears of a recession
+[22:00] or something like that is usually when
+[22:01] we see bitcoin's worse periods of
+[22:03] performance and this chart really
+[22:05] outlines that if you were to just look
+[22:07] at one e macroeconomic data point for
+[22:10] your Bitcoin investing it would probably
+[22:11] be this one what we can see is as soon
+[22:13] as we see expansion such as in 2017
+[22:17] following the inauguration of trump in
+[22:18] his first presidential term we saw
+[22:21] Bitcoin rally exponentially starting it
+[22:23] just a 176% year-on-year gains before a
+[22:27] few months later to being two and a half
+[22:29] thousand nearly percent year on-year
+[22:30] gains and this liquidity cycle is pretty
+[22:34] interesting because either
+[22:35] coincidentally or due to some genius
+[22:38] policies from Satoshi this has coincided
+[22:41] very nicely with the fouryear cycle we
+[22:43] typically see in Bitcoin partly due to
+[22:45] the Haring events where we see the
+[22:46] Bitcoin inflationary rate drop by 50%
+[22:50] historically that is also aligned pretty
+[22:52] nicely with this Global liquidity cycle
+[22:54] so we get these big massively increased
+[22:56] bull markets just due to the fact that
+[22:58] there's more Fiat currencies flooding
+[23:00] into the system more and more dry powder
+[23:02] again we see the supply of dollars
+[23:04] increasing with the demand of dollars
+[23:06] decreasing they're looking for hard
+[23:07] assets like BTC try and scoop up a
+[23:10] little bit of
+[23:11] performance I I was re I was kind of
+[23:14] disappointed with the price movements
+[23:16] around the 100K dollar Mark I I expected
+[23:19] more I expected not only more from the
+[23:21] price I thought like okay if we reach
+[23:23] the 100K we we might overshoot uh but I
+[23:27] definitely expected more from
+[23:29] um what what Norm is uh outside of of
+[23:32] the Bitcoin Community really F of
+[23:35] Bitcoin and maybe kind of uh more
+[23:37] Euphoria but I feel like it was mostly
+[23:40] in the in the Bitcoin crowd um what did
+[23:42] you see during that time Bitcoin bred at
+[23:46] 100K and since now like dancing around
+[23:49] like sometimes you were like at 102k
+[23:51] then 93k again and we're dancing around
+[23:54] that that 100K number yeah I I to be
+[23:58] honest I was pretty much the same I
+[23:59] imagined 100K would this be would be
+[24:02] this big psychological barrier where
+[24:03] maybe it' take longer to break through I
+[24:05] was already surprised that how easily
+[24:06] that 100K resistance fell it only took a
+[24:09] matter of weeks from being only you know
+[24:11] 60 70k in new alltime highs to breaking
+[24:14] into six figure territory to me that was
+[24:16] mind-blowing but again I also agree I I
+[24:18] shared the same sentiment that I thought
+[24:19] it would be major headline news Bitcoin
+[24:21] break ,000 but the reason I think it
+[24:24] maybe didn't is because we're maybe
+[24:25] again seeing macroeconomic conditions
+[24:27] that aren't 100% favorable so what we
+[24:30] can see is we have seen the global M2
+[24:32] money supply since around September
+[24:34] actually Contracting which one outlines
+[24:37] bitcoin's strength to be able to Rally
+[24:38] quite exponentially during period of
+[24:40] less than favorable macroeconomic
+[24:42] conditions but also makes me pretty
+[24:44] bullish on what Bitcoin can do once we
+[24:46] see this trend reverse again just
+[24:48] because we're seeing a slight
+[24:49] contraction in the M2 money supply now
+[24:51] doesn't mean that the liquidity cycle is
+[24:53] over what we can see is in pretty much
+[24:55] every liquidity cycle we have periods
+[24:57] where it's you know cusing buffering
+[24:59] Contracting slightly but there also ties
+[25:01] in with a chart like this which is
+[25:04] Bitcoin versus the US dollar generally
+[25:08] investor sentiment in traditional
+[25:09] markets I know the S&P is doing pretty
+[25:11] well but there's still a little bit
+[25:13] hesitation I feel and that's due one in
+[25:16] partly due to the contraction in the
+[25:17] money supply but also the rally in
+[25:19] strength in assets like the US dollar
+[25:22] what we can see is the dxy here the US
+[25:24] dollar strength index has again been
+[25:26] massively rallying since around SE
+[25:28] September time as Bitcoin ran from what
+[25:30] we can see on the chart around
+[25:32] $65,000 to above $100,000 again
+[25:35] outlining the strength of BTC to be able
+[25:37] to Rally that high after a period of
+[25:39] choppy consolidation in spite of less
+[25:42] than favorable macroeconomic conditions
+[25:44] and again this is one of those charts
+[25:46] which this isn't going to keep Rising
+[25:47] forever of course this may be causing
+[25:50] some limited upside potential for BTC
+[25:52] and causing a little bit of this
+[25:53] stagnation beneath the $100,000 but once
+[25:56] this does turn we've now built a solid
+[25:58] foundational base and we've already
+[26:00] proven that 100K can be broken quite
+[26:02] easily so once the Macar come sorry got
+[26:05] lost in my what is there once the
+[26:07] macroeconomic conditions become more
+[26:09] favorable the sky is really the limit
+[26:11] for
+[26:11] BTC interesting it's it's
+[26:15] also this next coming year is um for me
+[26:20] kind of a a joker year where we might
+[26:23] have something really incredible in
+[26:25] terms of adoption and especially also
+[26:27] price development it's a kind of
+[26:29] scoreboard of the adoption and how bad
+[26:31] fear is doing what do you expect of this
+[26:34] next coming years I'm maybe just to
+[26:38] summarize we have a potential s
+[26:40] strategic Bitcoin Reserve In America
+[26:42] which will probably trigger some other
+[26:44] countries to at least announce things or
+[26:47] do something in the background bricks
+[26:49] are talking about that Russia was
+[26:51] talking about that uh lower interest
+[26:53] rates money printing with with Trump in
+[26:55] office and want to push the market uh to
+[26:59] to hire ETFs now one year in full swing
+[27:02] all those the ETFs a lot of people were
+[27:05] in the beginning a little bit
+[27:06] disappointed I think uh it was an
+[27:08] amazing start but the all those
+[27:11] marketing and and sales machines from
+[27:13] the ETF providers they really come in
+[27:15] full swing I think in the f after 12
+[27:17] months where they have already one year
+[27:19] of data and the the year was really uh
+[27:22] really good and companies buying what do
+[27:24] you expect from 2095 what you see on
+[27:27] chain but also what's just going on in
+[27:29] the
+[27:30] macroand it's hard not to get carried
+[27:33] away with how bullish things could get
+[27:35] in 2025 I feel like you've said with the
+[27:38] ETFs a potential us strategic Reserve
+[27:40] we're seeing a massive shift in Bitcoin
+[27:43] whereas in you know the 2016 2017 cycle
+[27:46] my first cycle in the space it was
+[27:48] almost entirely retail driven and then
+[27:51] following that in 2020 we had these
+[27:53] exchanges and institutions like FTX and
+[27:56] 3ac leveraging up and trying to pump
+[27:58] Bitcoin but this cycle we're actually
+[28:00] getting this institutional demand and
+[28:02] inflows the first year since the Bitcoin
+[28:05] ETFs launched it was pretty much a year
+[28:06] ago to the day as we filmed this we've
+[28:08] seen what 37 billion dollars of net
+[28:10] inflows that's over 10 times the inflows
+[28:12] gold saw in its first year of its us ETF
+[28:15] launch and everyone looks at the gold
+[28:17] price action the years following that
+[28:18] launch and that fractal where gold ran
+[28:21] up exponentially for multiple years
+[28:23] Bitcoin could be on the cusp of that
+[28:25] especially with corporations like micro
+[28:27] strategy accumul in and other companies
+[28:29] will inevitably try and follow and
+[28:31] repeat that success we are seeing lots
+[28:33] of players coming into the space who
+[28:35] truly understand the potential of a
+[28:37] scarce asset like Bitcoin not just as a
+[28:40] store of value but potentially something
+[28:42] as a international settlement product
+[28:45] where we could see Nations obviously El
+[28:47] salbador have already begun accumulating
+[28:49] but like you said if we've seen nation
+[28:51] states already begin accumulating BTC in
+[28:53] the background potentially even
+[28:55] exchanging International settlements
+[28:57] using BTC then yeah 2025 does have the
+[29:01] potential to be something spectacular
+[29:03] like we've never seen before especially
+[29:06] looking at the onchain data as well we
+[29:08] are beginning to see people maybe
+[29:09] realizing that the amount of selling
+[29:11] we've seen onchain has reduced
+[29:12] dramatically over the past few weeks of
+[29:14] people maybe realize this isn't an
+[29:17] opportunity that comes around very often
+[29:19] an asset that you know we've all had
+[29:21] access to there's not many assets where
+[29:23] retail can get in before these big
+[29:25] institutional players and this is that
+[29:27] opportunity and the opportunity cost of
+[29:29] taking profit now when the upside
+[29:31] potential is seemingly infinite just
+[29:33] seems crazy so yes I'm incredibly
+[29:35] bullish for 2025 but as alongside that I
+[29:39] do try to not get incredibly carried
+[29:41] away I do try and have a 95% data
+[29:45] focused approach because as much as I
+[29:47] look at these charts every day
+[29:49] practically and have been in the space
+[29:50] for multiple years like I said it's
+[29:53] impossible not to get carried away with
+[29:54] this type of thing so as bullish as I am
+[29:57] as hopeful as I I can be on BTC once the
+[30:00] warning sign signs start flashing once
+[30:02] we do see ETF inflows begin drying up
+[30:05] once we do see large whales begin
+[30:08] selling in bulk at that point it does
+[30:11] make sense to start scaling out even in
+[30:13] spite of potentially incredibly bullish
+[30:15] narratives I partnered up with coin
+[30:18] vigilante this is the most beautiful
+[30:21] Bitcoin time piece that I ever saw
+[30:24] created by anyone look at that beauty I
+[30:27] love it so much coin vigilante made and
+[30:29] perfect Bitcoin watch that's the perfect
+[30:32] subtle elegent way to go out there and
+[30:35] show that you are a bitcoiner and that
+[30:38] watch brand is Bitcoin only and coin
+[30:41] vigilante just dropped a completely new
+[30:44] and amazing Genesis edition of their
+[30:47] watch collections you have the date of
+[30:50] the first ever mined Bitcoin Block in
+[30:53] there and of course also the block
+[30:55] height and which EPO we are currently in
+[30:59] I love the level of detail they put in
+[31:02] in this masterpiece and make sure to
+[31:04] check out those amazing coin viland time
+[31:07] pieces down in the descriptions I love
+[31:10] those watches so so much if you watch or
+[31:13] listen to my podcast on a regular basis
+[31:16] I'll guess you already bought some
+[31:18] Bitcoin and now the most important step
+[31:20] is to keep their Bitcoin keep them
+[31:23] secure in a hardware wallet my personal
+[31:26] recommendation for Hardware wallet is is
+[31:28] the bit box it's super secure it's
+[31:30] simple to set up it's also perfect gift
+[31:32] for a friend who has still the Bitcoin
+[31:35] on an exchange and you can get a 5%
+[31:38] discount with the code Robin at the
+[31:40] checkout visit bitbox do Swiss SL
+[31:44] robobin to get your bitbox and the next
+[31:47] step is to really level up your
+[31:49] sovereignty as an individual you have to
+[31:52] have the most secure self custody setup
+[31:54] you have to secure your own devices you
+[31:58] have to protect your privacy you have to
+[32:00] set up an inheritance plan and depending
+[32:03] on where you live you even want to have
+[32:05] a plan B a citizenship where you can
+[32:08] move in case something goes really
+[32:10] really wrong and through all those steps
+[32:12] the Bitcoin way is guiding you through
+[32:15] step by step and if you visit the
+[32:17] Bitcoin way.com
+[32:19] Partners robobin you even get a 30
+[32:22] minute free call to find out how you can
+[32:25] level up your sovereignty wait so you've
+[32:28] seen uh selling actually decreasing uh
+[32:32] over the last couple of weeks which is
+[32:35] super interesting that we I think a lot
+[32:37] of people see 100K as a natural top if
+[32:39] they don't understand Bitcoin but
+[32:41] probably a lot of people that are in
+[32:42] Bitcoin understand it uh so the struggle
+[32:45] that we have right now between like 105k
+[32:49] and 93k whatever we are uh is more
+[32:53] around the M2 money supply
+[32:56] being not shot up up and being a little
+[32:58] bit uh um smaller down and not the
+[33:04] people selling is is that correct yeah
+[33:07] so I mean I can share a chart here which
+[33:09] can maybe back that up a little bit once
+[33:13] again just two SE and I'm sharing a
+[33:14] chart here which is the long-term holder
+[33:17] supply of BTC now I've zoomed in just on
+[33:19] our current cycle and what this is
+[33:21] showing is the amount of BTC that has
+[33:22] been held by these longer more
+[33:25] experienced potentially BTC hold ERS now
+[33:29] what this usually has is an inverse
+[33:30] correlation with price once we see this
+[33:32] massively reducing we usually see
+[33:34] bitcoin price action massively
+[33:36] increasing because this is when new
+[33:37] money is flowing into the space new
+[33:39] buyers are coming in and these long-term
+[33:41] holders are selling their BTC to
+[33:43] shortterm Holders what we could see is
+[33:46] earlier in 2024 when we saw this begin
+[33:49] decreasing quite noticeably it was as
+[33:51] bitcoin's ETF pretty much got launched
+[33:53] and Bitcoin right up to a new all-time
+[33:54] high and then following that long-term
+[33:56] holders again realize that this probably
+[33:59] isn't the time to be selling BTC we have
+[34:01] this ETF that's just open the doors for
+[34:03] potentially tens if not hundreds of
+[34:05] billions of dollars to begin pouring in
+[34:07] so we saw the long-term holder Supply R
+[34:08] pretty stagnant before this started
+[34:10] massively increasing one from
+[34:12] potentially long-term holders
+[34:13] accumulating more as Bitcoin consolidate
+[34:16] around this area but again short-term
+[34:19] holders who had entered the market who
+[34:20] are saw this as an opportunity to buy
+[34:23] betc to hold for the long term so then
+[34:25] we saw this rapidly increase and again
+[34:27] that pretty much marked the bottom
+[34:28] before Bitcoin ran up to above $100,000
+[34:31] and as this has begun decreasing it's
+[34:33] really fueled this move we've seen but
+[34:35] over the past few weeks really we've
+[34:37] seen the rate of decline begin to
+[34:38] decrease and now we've actually seen
+[34:40] this flat line as Bitcoin has reached
+[34:43] the mid to low $90,000 levels again
+[34:45] we're not really seeing a huge amount of
+[34:47] profit taking taking place and if I just
+[34:49] zoom out we can really see the impact of
+[34:51] this over bitcoin's entire history
+[34:53] clearest indication being in 2016 2017
+[34:56] where as the long-term holders Supply
+[34:58] absolutely bottomed it almost marked the
+[35:00] exact top of the Bitcoin price section
+[35:02] at which point all of this began
+[35:04] increasing again as new money stopped
+[35:06] pouring in bitcoin's price topped out
+[35:08] long-term holders had banked all the
+[35:10] profit they wanted to and then the cycle
+[35:12] begins again so I do think we're in a
+[35:14] pretty good place onchain in terms of
+[35:16] onchain data as well we are seeing as
+[35:18] well as this a few other indications
+[35:20] that selling has at least decreased and
+[35:23] like we discussed previously with
+[35:25] Trump's inauguration just a couple weeks
+[35:27] way and all the promising things that
+[35:29] could come of that again 2025 looks like
+[35:31] it could be incredibly bullish at least
+[35:33] the first few months of 2025 until we
+[35:36] potentially start getting overheated
+[35:37] again everything looks very set up for a
+[35:40] great few months for BTC so now
+[35:43] accumulate as much Bitcoin as you as you
+[35:45] can this is the time to to to to stack
+[35:48] SS if I can summarize that like that
+[35:51] well so this almost plays into what we
+[35:53] said previously with having different
+[35:55] allocations of your Capital so
+[35:58] dollar cost averaging in I think now is
+[36:00] a good area to begin dollar cost
+[36:02] averaging in continue to dollar cost
+[36:03] average in I don't think it makes the
+[36:05] most sense to dollar cost average when
+[36:07] we're seeing lots of onchain points you
+[36:09] know really signifying that the Market's
+[36:11] getting very overheated but yeah I think
+[36:14] now if you are dollar cost averaging in
+[36:18] continue to do so every indication
+[36:20] points to the fact that the top isn't in
+[36:23] and even if we are seeing diminishing
+[36:24] returns that could still mean a $200,000
+[36:27] Bitcoin in you know under a year's time
+[36:29] and how many assets can double in just a
+[36:32] few months outside of Bitcoin or more
+[36:34] speculative stocks and stuff like that
+[36:36] do you think diminishing returns uh are
+[36:39] are there for for Bitcoin in in the
+[36:41] future or could there be like a major
+[36:44] adoption wave uh in this S curve
+[36:46] adoption happening I still think
+[36:49] diminishing returns are going to
+[36:50] continue as as bullish as I am there's
+[36:52] lots of people more bullish than I am
+[36:54] who could see a a million dollar Bitcoin
+[36:56] or something this cycle
+[36:58] you have to take into account even
+[36:59] though I think diminishing returns are
+[37:01] going to happen we could see diminishing
+[37:03] returns in terms of percentage gains
+[37:05] this cycle compared to last cycle and
+[37:07] still see a $300,000 Bitcoin that's how
+[37:10] much room we have to go to the upside
+[37:12] last cycle we went from 3 and a half
+[37:14] th000 to 69,000 if this cycle would go
+[37:17] from 15,000 to 300,000 that still fits
+[37:19] into diminishing returns but provides
+[37:22] $200,000 returns potentially per BTC so
+[37:25] I do think diminishing returns are going
+[37:27] to happen purely because as the market
+[37:29] cap of an asset grows from a few billion
+[37:31] dollars to a few trillion dollars the
+[37:33] inflows required increase exponentially
+[37:36] and I know we do have institutions
+[37:37] coming in now potentially corporations
+[37:40] potentially a strategic Reserve but that
+[37:42] is still an incredible amount of BTC
+[37:44] that needs to be purchased for the
+[37:46] diminishing returns Theory to break and
+[37:48] us to go to four
+[37:50] $500,000 Plus in the next 12 to 18
+[37:53] months did I ask you how does the power
+[37:55] law relate to on data so me and Giovani
+[37:59] have had some discussions I'm pretty
+[38:01] vocal in my dislike for the power law I
+[38:04] know that's going toset a few
+[38:06] people I've honestly I can show you
+[38:09] afterwards I've I've had hours and hours
+[38:11] of conversations with Giovani and as
+[38:13] much as I think the power law does work
+[38:16] in certain aspects everyone will point
+[38:18] to the evidence of it works in this
+[38:20] Nature Point of data and it works in
+[38:22] this it works in that if we're mopping
+[38:24] out bitcoin's adoption I can see power
+[38:27] law being a somewhat useful model to do
+[38:29] so mapping out bitcoin's price I don't
+[38:33] think works too well power Law changes
+[38:36] every single day practically because it
+[38:38] is best fitting for the data there so
+[38:40] why we see oh yeah we've only had a 5%
+[38:42] deviation throughout 95% of bitcoin's
+[38:45] History if you draw the power law from
+[38:47] four years ago it looks entirely
+[38:49] different to what it does today so of
+[38:51] course at some point we might get closer
+[38:52] and closer to that mean as we get more
+[38:53] and more data but overall I'm not the
+[38:56] biggest fan of the power law and I know
+[38:59] that will upset people but I have to be
+[39:00] completely
+[39:01] honest same kind of thing with stock to
+[39:04] flow stock to flow was only a cycle or
+[39:08] two ago everyone's favorite thing of oh
+[39:10] look at Bitcoin it's destined to go to
+[39:12] hundreds of thousands of dollars based
+[39:14] on its you know relation in terms of its
+[39:16] inflationary rate and circulating Supply
+[39:18] when compared to assets like silver and
+[39:20] gold But ultimately stock to flow would
+[39:22] inevitably fail because it would require
+[39:24] Bitcoin to go to hundreds of trillions
+[39:26] of dollars in just an couple decades as
+[39:29] much as that is a useful model to map in
+[39:30] out and as much as power lot might be
+[39:32] useful for certain things I wouldn't be
+[39:35] the first to suggest using it for your
+[39:37] own investing and Analysis of course if
+[39:39] it works for you go for it I'm not going
+[39:41] to judge anyone if you use the moon
+[39:42] cycles or if you use magic tarot cards
+[39:45] or whatever go for it if it works for
+[39:47] you that's fine but a data point that
+[39:50] can change on a daily basis isn't to me
+[39:53] something that should be relied upon too
+[39:56] extensively uh
+[39:57] it has more descriptive power and lesser
+[40:01] predictive power I feel like um but yeah
+[40:04] I might have a power law discussion
+[40:07] coming up very soon because I had jaavan
+[40:09] on I had like Fred Kruger already on I
+[40:12] had Steven uh paranoid already on and
+[40:16] Steph was actually the second most
+[40:18] popular episode I had ever on it was
+[40:20] like 40K fuse or something like that it
+[40:21] was uh going crazy um uh only sailor
+[40:26] beat uh be team um but yeah I had some
+[40:30] some uh opposing views also on that
+[40:32] where we focus on that and there might
+[40:35] be a debate coming up let's see if I can
+[40:38] set it up I think it would be fun uh to
+[40:40] talk to uh to do that um really cool
+[40:44] when when we come back to to the
+[40:46] institutional side uh it's really
+[40:49] interesting as you said we had 2017 and
+[40:52] before I think you said 2017 was the
+[40:55] example where you said it was retail
+[40:56] that
+[40:57] and now it seems to be more more
+[40:59] institutional let the the the global
+[41:02] price uh the Bitcoin price movement uh
+[41:06] maybe even like country Le let's see if
+[41:08] if if something like that happens how
+[41:10] does this change uh the reality of of of
+[41:14] Bitcoin or or maybe what impact does it
+[41:16] has on on onchain data if the uh
+[41:19] psychology behind the institution might
+[41:22] be different than OB pychology behind
+[41:24] retail people of course that's a that's
+[41:27] a very very valid point and definitely
+[41:29] something that is being discussed a lot
+[41:31] within onchain data communities over the
+[41:35] past few months is if we're seeing a
+[41:37] million BTC accumulated by these ETFs
+[41:40] potentially not to be seen again on the
+[41:42] open market potentially that's just
+[41:44] going to be held forever even if they
+[41:46] are sold they might be sold into dark
+[41:48] pools and still stay on coinbase
+[41:49] custodian or something like that
+[41:51] ultimately while that may impact the
+[41:54] numbers in terms of the amount of BTC
+[41:56] being moved it's not going to change
+[41:58] human psychology you have to take into
+[42:00] account that if we look at Bitcoin in
+[42:03] 2016 2017 it's not like every BTC was
+[42:06] traded from person to person a vast
+[42:08] majority of trading was going on
+[42:10] exchanges like binance we would see
+[42:12] Bitcoin being transferred to exchanges
+[42:15] traded there which we can't really see
+[42:17] that data before it would be removed
+[42:19] however what we can see is there still
+[42:21] gives a good reflection of when people
+[42:23] are bullish or bearish because they are
+[42:24] still sending their BTC to exchanges are
+[42:27] off from exchanges so even if the ETFs
+[42:29] are accumulating hundreds of thousands
+[42:31] of Bitcoin it's a spot ETF they're going
+[42:34] to have to buy that Bitcoin and once we
+[42:36] see that dry up that's obviously going
+[42:37] to give us some insights but as much as
+[42:39] I am a proprietor of onchain data it is
+[42:42] only one element of what your analysis
+[42:45] should be like we looked at Global M2 as
+[42:47] a macroeconomic point of view I do think
+[42:49] onchain data is something that should be
+[42:51] considered but now maybe we do have to
+[42:53] consider institutional corporate and
+[42:55] potentially sovereign state flows as as
+[42:57] well if we're seeing countries secretly
+[42:59] accumulating BTC at some point that's
+[43:01] going to come to light and we're going
+[43:02] to know wow this is now an international
+[43:05] settlement currency and countries are
+[43:07] now storing it and holding it and buying
+[43:09] it accumulating it like they did gold a
+[43:11] few decades ago so it's something that
+[43:13] we need to look for Confluence if we're
+[43:15] seeing like we said ETFs flows drying up
+[43:17] or potentially out flows alongside that
+[43:19] the just human psychology of people who
+[43:21] have been in BTC for a long period of
+[43:23] Time begin selling that gives us even
+[43:26] more confidence that potentially a
+[43:28] market cycle top is in and another thing
+[43:30] to consider is even though Bitcoin has
+[43:32] been accumulated in the hundreds of
+[43:34] thousands by companies like micro
+[43:36] strategy with over 400,000 BTC if you
+[43:39] aggregate all of the BTC held by the
+[43:41] ETFs and corporations like micro
+[43:43] strategy it comes out at about 1.5
+[43:46] million Bitcoin which is only about 7
+[43:48] and a half% of circulating Supply so I
+[43:51] know of course lots of Bitcoin has been
+[43:52] lost and satoshi's coins Etc which may
+[43:54] never move again either way there's
+[43:56] still 92 plus per of BTC held by retail
+[44:01] Traders people who' have been in Bitcoin
+[44:02] for a long period of time people like me
+[44:03] and you who aren't institutions who
+[44:06] still have an overwhelming majority of
+[44:08] the impact on the Bitcoin price action
+[44:11] interesting um that that that's an
+[44:13] interesting Insight because a lot of
+[44:15] people always bring up that argument of
+[44:17] oh now the market is controlled by
+[44:19] Michael sailor and Larry
+[44:21] think that's that that's what I
+[44:23] sometimes also get as a as as as
+[44:25] comments which then you can point to the
+[44:28] data and say like oh like no 92% of the
+[44:31] uh whole thing is is not those two and
+[44:34] then in those two it's like a lot more
+[44:36] people involved it's not like sa and
+[44:39] thinker doing it themselves and like
+[44:42] let's buy let sell let's try to
+[44:43] manipulate the price how hard it is how
+[44:46] hard is it actually now to uh move the
+[44:49] price I remember when IL musk came in
+[44:52] the scene and he announced oh buying and
+[44:56] you can buy Tesla for Bitcoin and stuff
+[44:58] like that and the the market just went
+[45:00] up like crazy but then like a few weeks
+[45:03] later he said like oh I have some
+[45:04] concerns about the environment and then
+[45:06] it went down again I think to a very
+[45:09] similar price point before it went up uh
+[45:11] I remember that being the case how how
+[45:14] hard is this how hard is it now for for
+[45:18] an institution a company huge
+[45:20] corporation to move the price like that
+[45:25] I think it's getting harder and harder
+[45:27] however in saying that markets in
+[45:29] general this isn't just specific to
+[45:31] Bitcoin markets in general are
+[45:33] incredibly irrational they always will
+[45:35] be because they are driven by human
+[45:36] immersion and this isn't just specific
+[45:39] to investing markets the entire global
+[45:41] economy goes in booms and Buzz Cycles
+[45:43] where everyone's incredibly bullish
+[45:45] before everyone becomes incredibly
+[45:46] bearish I think it's just a force of
+[45:48] nature to have these cyclical movements
+[45:50] not just in price but in human immersion
+[45:53] and just general sentiment in all
+[45:55] markets I do think now it's getting
+[45:57] harder and harder to manipulate
+[45:58] especially Bitcoin has now been
+[46:00] solidified as this genuine asset you
+[46:03] know previously it was this speculative
+[46:05] thing that was used for thieves online
+[46:07] and dodgy people to do you know criminal
+[46:10] activities Etc The Narrative has
+[46:12] completely changed now we're looking at
+[46:14] Pension funds allocating multiple
+[46:16] percentage to BTC to keep their clients
+[46:19] happy that's a massive narrative shift
+[46:21] in just a few years and the fact that
+[46:23] now Bitcoin is so regulated and it is so
+[46:27] in terms of its size it's much much
+[46:29] harder to manipulate but still if we are
+[46:32] seeing like you said Elon Musk or
+[46:35] whoever else coming out and giving these
+[46:37] storylines that isn't necessarily
+[46:39] manipulation as much as it's a rational
+[46:41] human reaction if we see food coming out
+[46:44] like we always do at the tail end of
+[46:46] bare markets people read that people
+[46:47] react to it if we're seeing on Twitter
+[46:50] people buying new lambers and going
+[46:52] crazy buying new watches Etc it's hard
+[46:54] not to get carried away with that and
+[46:55] think it's going to continue going up
+[46:57] but again this has always happened this
+[47:00] is always going to happen it's an
+[47:02] inevitability but I do think as Bitcoin
+[47:04] becomes a larger and ler asset its
+[47:05] volatility decreases and it stabilizes
+[47:08] somewhat it's going to be harder for
+[47:09] individuals to have as big an influence
+[47:11] as they have done
+[47:12] historically yeah it's interesting I I
+[47:16] remember when I was a huge sailor Fanboy
+[47:20] my first year of Orange Building uh uh
+[47:23] of getting orange building this was
+[47:24] around 2020 when he also came and he was
+[47:27] a lot asked of like oh what do you think
+[47:29] of the stock flow model of other price
+[47:31] models and and all all the data there
+[47:34] and I remember him saying some of like
+[47:37] okay what what do you do in in a in in a
+[47:39] game where a huge new player comes in
+[47:43] but I feel like we're already there like
+[47:45] the hugest player on earth already are
+[47:48] in the game somehow blackr is in here uh
+[47:52] we we we have uh potentially America
+[47:55] coming in of course uh what happens if
+[47:58] Apple tomorrow decides to convert 20% of
+[48:02] the balance sheet to bitcoin and
+[48:03] announces that publicly that would
+[48:05] probably send some Shock waves across
+[48:07] the market uh but there not that many
+[48:11] big players left of course the big
+[48:13] corporations there are a lot of wealth
+[48:16] individuals uh but is that even uh is
+[48:19] that argument of like huge players
+[48:22] coming in the market and disrupting all
+[48:24] those uh uh onent data points all the
+[48:28] all the models that are around that is
+[48:31] that even possible and or are we slowly
+[48:35] slowly above that point yeah so at some
+[48:38] point onchain data is going to evolve
+[48:41] but it has always evolved some at some
+[48:43] point we may need to account for the
+[48:44] fact that majority of Bitcoin is liquid
+[48:46] and held as treasury assets by big
+[48:49] corporations I do think what we can see
+[48:52] already with this institutional
+[48:54] influence and like you said there's not
+[48:55] too many big players coming in I think a
+[48:57] lot of the big players coming in like
+[48:58] micro strategy are never going to sell
+[49:00] he can't sell sailor can't sell because
+[49:02] he would crash the share price because
+[49:04] he's always had this Narrative of never
+[49:06] being able to sell but a lot of
+[49:08] Corporations even if it is only a few
+[49:09] percent will probably add Bitcoin to
+[49:11] their balance sheets and that's going to
+[49:13] reduce the liquid supply of BTC there's
+[49:16] already is a 94% of BTC that will ever
+[49:19] exist are already in existence so at
+[49:21] some point we are going to get to a
+[49:22] point where there's just not that much
+[49:24] BTC left for corporations to accumulate
+[49:27] and this plays into something called the
+[49:28] money multiplier effect I'm not sure if
+[49:30] you're aware of that but essentially $1
+[49:33] flow into the market doesn't increase
+[49:34] the market cap by $1 it increases that
+[49:37] by a multiple of that so it's hard to
+[49:39] gauge exactly what that is I would say
+[49:41] it's somewhere between four and 7x
+[49:44] you've heard people say it's as high as
+[49:46] 20 50 100 times that I don't think
+[49:48] that's the case but if Bitcoin continues
+[49:50] to get less and less liquid then that
+[49:52] money multiplier is going to increase
+[49:54] therefore it doesn't necessarily require
+[49:56] every corporation to jump in with 100%
+[49:57] of their balance sheet because the
+[49:59] amount of available BTC is just
+[50:01] continuing to decrease I'm sure we've
+[50:03] all seen the stats and tweets of there's
+[50:04] not enough Bitcoin for every Millionaire
+[50:06] on Earth to buy one at some point the
+[50:08] supply and supply and demand economics
+[50:11] sorry are going to work in our favor I
+[50:13] mean they already are working in our
+[50:14] favor with Bitcoin around $100,000 but
+[50:17] at some point when 10% of BTC that's
+[50:20] available is only liquid for trading
+[50:22] every purchase is going to massively
+[50:23] increase the market cap but this is
+[50:25] where there's also the narrative shift
+[50:27] where these big institutions and
+[50:29] corporations are they really looking at
+[50:32] the day-to-day price of BTC are they
+[50:34] really thinking I need to add at least
+[50:36] 100 BTC to my wallet probably not the
+[50:39] narrative has probably shifted to say I
+[50:41] need to hold X percentage of my
+[50:43] portfolio in traditional investing you
+[50:45] never hear funds say we want to earn x
+[50:47] amount of shares of this company or we
+[50:49] need to earn this amount of the S&P 500
+[50:52] for example they'll allocate 40% of
+[50:55] their capital or 5% of their capital
+[50:56] Capital so even if it's not x amount of
+[50:58] BTC being purchased if we see these
+[51:01] corporations adopting that type of
+[51:02] mindset to say we need to have at least
+[51:04] 5% of our balance sheet held in BTC then
+[51:08] the price is really irrelevant to them
+[51:10] but the price action that we'll see will
+[51:11] be incredibly positive because of that
+[51:13] supply and demand economics and the
+[51:14] money multiplier effect we'll see from
+[51:16] that that's a super interesting Insight
+[51:19] basically you you dve to the price more
+[51:21] up with with your $1 than than just that
+[51:25] $1 because uh of of the of the supply
+[51:28] dyamics really cool um for people that
+[51:31] now are curious okay where can I start
+[51:35] what should I watch if if I want to get
+[51:37] more Bitcoin and if I want to see more
+[51:41] of the analytics um uh where can this
+[51:43] start and especially what metrics are
+[51:46] the I don't know past three four metrics
+[51:49] to to to look out for well so I might be
+[51:52] a little bit biased but I think the best
+[51:54] place to start is Bitcoin magazine
+[51:56] product
+[51:57] and the second best YouTube channel
+[51:58] after yours would of course be Bitcoin
+[52:00] magazine Pro run by myself where we try
+[52:02] and educate people but really it doesn't
+[52:05] have to be complicated like I said I
+[52:06] think the obviously number one thing
+[52:08] would be helping you accumulate more BTC
+[52:10] but of course second is helping you save
+[52:12] some time the number one thing like I
+[52:14] said earlier when I first got into the
+[52:16] space I was consuming hundreds if not
+[52:18] thousands of hours of BTC content
+[52:21] learning how to trade and invest and do
+[52:22] all of these wacky things and it all
+[52:24] turned out to not even be that impactful
+[52:27] these onchain data points by focusing on
+[52:29] three or four of them can really
+[52:31] massively increase your profitability in
+[52:33] a fraction of the time so if it came
+[52:35] down to like a top three Allstar list
+[52:38] we'll say the mvrv Z score I absolutely
+[52:41] love like we discussed earlier which is
+[52:42] looking at the relationship between the
+[52:45] average accumulation price of all BTC
+[52:47] holders and the current market cap it's
+[52:50] just really nice way to see the mass
+[52:52] psychology of wow we're at a 5x on our
+[52:54] position historically that is a pretty
+[52:56] good indication that the Market's
+[52:57] getting a little overheated or majority
+[52:59] are at a loss in their position again
+[53:01] pretty good indication that the market
+[53:03] is potentially a little bit undervalued
+[53:04] and you can get in at maybe a bit of a
+[53:06] discount second one I really like the
+[53:08] spent output profit ratio again these
+[53:10] are all just looking at the supply and
+[53:12] demand and profit taking of BTC so I can
+[53:14] just share this really
+[53:16] quickly two secs here we go so the spent
+[53:19] output profit ratio what we can see is
+[53:22] every single Bitcoin transaction we can
+[53:24] actually see how much US dollar profit
+[53:26] they made on that position or how much
+[53:28] US dollar loss they made on that
+[53:29] position so what we can see is periods
+[53:32] where people are selling at an extreme
+[53:34] loss like at the tail end of bare
+[53:35] markets like in the covid 2020 dip like
+[53:38] in the tail end of the 2018 bare Market
+[53:40] when people are selling at a loss this
+[53:42] is when you need to buy when there's
+[53:43] blood in the streets like I said almost
+[53:45] all of these prove that counter trading
+[53:48] and moving in an opposing nature to the
+[53:50] general consensus has almost always out
+[53:52] formed a vast majority of people it is
+[53:55] really reiterated in on chain data like
+[53:57] this and same is true for the upside
+[53:58] once everyone's euphoric taking profit
+[54:01] seeing transfers to exchanges usually a
+[54:04] good indication that the Market's
+[54:05] getting a little H heated and like I
+[54:07] said this has actually started declining
+[54:08] slightly after we surpassed $100,000 and
+[54:11] had a little bit of retracement so that'
+[54:13] be my second one and then the third one
+[54:15] would be something like this which is
+[54:18] the realized cap hot waves so this is a
+[54:20] really interesting one so the mvrv Z
+[54:22] score we mentioned previously is looking
+[54:24] at the average accumulation price of all
+[54:26] BTC on the network what we can actually
+[54:28] do is see the influence of that realized
+[54:31] price by different age bands so just
+[54:34] really quickly what I can do is remove
+[54:36] all of these age bands apart from say
+[54:40] the 24hour ones and you're just going to
+[54:43] see a little line on the chart so what
+[54:45] this is showing is say on December the
+[54:47] 8th 2017 over 133% nearly 133% of the
+[54:53] influence on the realized price or the
+[54:54] price paid for BTC was made for people
+[54:57] who entered the market that day which is
+[54:59] a huge amount considering Bitcoin at
+[55:01] this point in time had been around for
+[55:02] over 10 years well nearly 10 years sorry
+[55:05] 133% of the influence on the average
+[55:07] accumulation price of all BTC was made
+[55:09] by people made in the last day is crazy
+[55:12] and if we just add on up to say six
+[55:14] months and then add the Bitcoin price
+[55:16] action back what we can see is when new
+[55:18] capital is flowing into the market and
+[55:20] paying excessively higher prices than
+[55:22] experienced traders that usually really
+[55:24] indicates that the market is becoming
+[55:25] incredible overheated so again what we
+[55:28] can see in pretty much every single
+[55:29] Market Peak is people come in and pay 60
+[55:32] 70 80% of the average accumulation price
+[55:35] just within the past few weeks and
+[55:37] months to accumulate BTC this is formo
+[55:40] happening in real time that we can
+[55:41] monitor and just as something to note
+[55:44] currently we're at a pretty healthy
+[55:45] level we're seeing Capital coming in
+[55:47] obviously driving prices higher a lot of
+[55:49] institutional inflows but still at
+[55:51] pretty tame levels pretty comparable to
+[55:54] what we saw in 2024 as we reach that
+[55:56] first alltime high around 73 $74,000 so
+[55:59] there is still significant room to go to
+[56:01] the upside but again once we start
+[56:03] seeing the warning signals flash even if
+[56:05] everything's looking positive we're
+[56:06] seeing great news events everything
+[56:08] looks in our favor there's a strategic
+[56:10] reserve examp for example when we see a
+[56:13] huge amount of btc's average cost basis
+[56:17] being made by New Market participants
+[56:19] that has always indicated that the
+[56:20] market is overheated and it likely
+[56:22] always will so this will probably be my
+[56:24] third choice for a top three of on chain
+[56:26] metrics just to get started all of these
+[56:28] are free on the site you can use them if
+[56:30] you get a site subscription you can get
+[56:31] alerts and access to other data but it's
+[56:33] just a way to dip your toes into this
+[56:35] data to see if it works for you in your
+[56:37] strategy those would be three good
+[56:39] examples for you really cool can you
+[56:41] then also um if you see all the data of
+[56:45] of selling and buying can you kind of
+[56:47] label the smart money and the dumb money
+[56:50] on on on chain and and and try to follow
+[56:52] the smart money yeah exactly so just as
+[56:55] a another quick one I had loaded up here
+[56:58] which is the one-year huddle wave which
+[56:59] is the amount of BTC that had been held
+[57:01] for at least one year and typically what
+[57:03] we see is the Smart money which are
+[57:05] swing traders who hold Bitcoin for about
+[57:08] 2-year time frame based on the
+[57:10] traditional four-year cycle what we can
+[57:12] see is they begin massively offloading
+[57:14] BTC as we get to these cycle Peaks and
+[57:16] begin accumulating BTC as we get into
+[57:19] these cycle lows and this is just a
+[57:21] really simple way to just see the
+[57:23] cyclical nature of smart money
+[57:25] accumulating and Distributing BTC and
+[57:28] that's just one example but we have lots
+[57:29] of different ways you can track this
+[57:30] smart money we can isolate the realized
+[57:33] price by just shortterm holders or
+[57:34] long-term holders by just balances
+[57:37] holding x amount of BTC with certain
+[57:40] charts but just as a really simple way
+[57:41] to visualize this and how long-term
+[57:45] investors actually act in extreme market
+[57:47] conditions we see them massively
+[57:49] offloading BTC as the market gets
+[57:51] overheated and now again we're seeing
+[57:54] some profit taking like we have done at
+[57:57] this stage in all previous Cycles but
+[57:59] this isn't anything to worry about this
+[58:00] is completely healthy this is what is
+[58:01] driving price higher this new capital
+[58:03] coming into the markets but at some
+[58:05] point we are going to see this bottom
+[58:07] out and we are going to see the market
+[58:08] Peak and hopefully you've scaled out
+[58:10] enough to sufficiently buy incredibly
+[58:12] more BTC when we get to the tail end of
+[58:15] the next be cycle absolutely really
+[58:17] interesting stuff I I was always
+[58:19] fascinating for me that you can see so
+[58:22] much from the on onchain bitcoin data
+[58:24] and you can actually kind of kind of see
+[58:27] where Bitcoin is at and and even drive
+[58:29] decision from that data driven decisions
+[58:32] is is is always in my eyes at least a
+[58:36] great idea a good good thing to do
+[58:39] um what what uh one thing that because
+[58:42] we already at like one hour and there's
+[58:44] so many question in my head but maybe we
+[58:46] can do a part two one thing I'm curious
+[58:48] about you also how has since you got
+[58:51] into Bitcoin and I think you said 2017
+[58:54] how has Bitcoin shaped your standing of
+[58:57] money and investing and maybe also then
+[59:00] the the onchain data analyst so when I
+[59:03] first got into Bitcoin I'll be
+[59:04] completely honest it was to try and make
+[59:06] just more money I was working in a a
+[59:08] pretty boring corporate job and I'd
+[59:10] heard of Bitcoin years ago I have a
+[59:11] background in it networking and security
+[59:14] so I'd heard of Bitcoin but I always
+[59:16] thought it was just this fad thing and
+[59:18] here in the UK investing isn't really
+[59:21] that common or popular or or talked
+[59:23] about it's not something that's really
+[59:24] taught in schools in America it seems to
+[59:27] be much more prevalent you know the idea
+[59:29] of investing and opening you know 401ks
+[59:32] Etc in the UK you have a pension which
+[59:35] is managed by your employer and that's
+[59:36] really it it's not very popular thing so
+[59:38] when I first heard about it and heard I
+[59:40] could make some money there was a a
+[59:41] little Gambler inside of me that wanted
+[59:43] to you know just try and make a quick
+[59:44] book and it was only afterwards that I
+[59:46] researched BTC realized what was
+[59:48] actually happening happening in the
+[59:51] fiscal systems you know the impact of
+[59:54] inflation and how we're basically slaves
+[59:56] to continuously produce and continuously
+[59:58] spend just to stimulate the economy and
+[60:01] it's only after you kind of delve into
+[60:02] that hole I'm sure everyone watching
+[60:04] this has been orange pill to some extent
+[60:06] where you really realize wow what
+[60:08] happened why why did we go off the gold
+[60:10] standard in the US why is the current
+[60:12] world economic system built on this just
+[60:15] constantly churning money printing it
+[60:17] doesn't really make any sense so after
+[60:21] making a little bit of money and then
+[60:22] losing all of my money and then trying
+[60:23] to lend as much as I could about Bitcoin
+[60:25] I really Iz that this is something I
+[60:26] wanted to be involved in full-time so
+[60:28] after that I learned everything I could
+[60:30] I read every single book on the topic I
+[60:32] did every single online course on the
+[60:34] topic and then after that I was
+[60:36] convinced that I was going to rectify
+[60:38] the my Stakes some previously and it was
+[60:40] as I learned about Bitcoin as a
+[60:41] technology that I really understood wow
+[60:44] we can see the supply and demand
+[60:45] economics we can see all of this
+[60:47] activity in real time like nothing else
+[60:49] it kind of nullified a lot of the
+[60:52] information I'd learned previously a lot
+[60:54] of the trading strategies and stuff
+[60:56] because it's not like traditional assets
+[60:57] people who would maybe be selling
+[60:59] courses on how to trade gold and other
+[61:01] Commodities don't have access to even a
+[61:03] fraction of the data that every single
+[61:05] one of us has access to when it comes to
+[61:07] bitcoin and it's very unique in that
+[61:09] aspect that we can see all of these
+[61:10] transactions and we can see the monetary
+[61:13] elements of BTC in an open source nature
+[61:16] which is absolutely amazing and it's
+[61:17] something that again I hope I can be
+[61:20] involved in for as long as possible and
+[61:21] hopefully continue to educate and help
+[61:23] people to understand the current finan
+[61:25] iial systems that many are being you
+[61:27] know exposed to in the traditional world
+[61:29] of Finance hopefully help them to
+[61:32] understand BTC and its scar limited
+[61:33] properties and hopefully as well as that
+[61:36] understand the data so they can
+[61:37] hopefully even if it's just accumulating
+[61:39] at the most opportune moments I know
+[61:40] most people don't even want to buy and
+[61:42] sell too frequently but if we can
+[61:44] outline periods where we say right here
+[61:46] it makes more sense to aggressively
+[61:48] rotate into BTC here maybe it makes
+[61:51] sense to spend some of that BTC put a
+[61:54] deposit down on your house whatever you
+[61:55] want to do then that's great that's
+[61:57] that's my ultimate goal to just try and
+[61:58] help educate people on BTC its
+[62:01] properties and the data we can use to
+[62:04] best perform when it comes to our
+[62:05] investments really cool uh how do you
+[62:08] think long-term Bitcoin will be as an
+[62:12] indicator for markets I think if if
+[62:14] Bitcoin becomes a huge thing in our
+[62:17] overall Financial um system I guess
+[62:21] Bitcoin itself the Bitcoin price the
+[62:24] Bitcoin onchange data and stuff like
+[62:26] that could be not only important for
+[62:30] getting more Bitcoin but also being
+[62:32] maybe important Market insights in the
+[62:35] overall psychology of the of the people
+[62:38] if they more saving if they more
+[62:39] investing if they more whatever do do
+[62:41] you think that Bitcoin can involve in
+[62:43] that um kind of insight in the overall
+[62:46] psychology of of the world's Finance
+[62:49] yeah 100% And I mean at the minute we
+[62:51] see Bitcoin being incredibly correlated
+[62:53] to assets like the S&P 500 the NASDAQ
+[62:56] and traditional us equities just purely
+[62:59] because of its more speculative nature I
+[63:02] guess but because Bitcoin is a 247 asset
+[63:05] it gives us this unique insight into
+[63:07] seeing human psychology at all hours of
+[63:09] the day whereas the S&P 500 for example
+[63:13] I think today is a trading holiday we
+[63:15] have no idea what investor thoughts are
+[63:17] but we can see from the Bitcoin Market
+[63:18] where we're down a few per a day maybe
+[63:20] people are a little bit bearish and it
+[63:21] gives us that kind of pre-market open
+[63:24] insight into human psychology and unless
+[63:27] we see a BTC decoupling which I could
+[63:29] talk about for another hour or so well
+[63:32] unless we see Bitcoin have this extended
+[63:34] period of time where it has a at least
+[63:36] reduced correlation to us equities And
+[63:38] Trades as its own asset for the time
+[63:41] being we don't have that we we are still
+[63:43] incredibly correlated to the S&P 500 if
+[63:45] we do see a huge recession I think
+[63:47] Bitcoin is going to struggle if we see a
+[63:48] huge exponential bull rally continuing
+[63:51] in equities then again I can see Bitcoin
+[63:53] continuing do incredibly well but is
+[63:55] unique to see that human psychology
+[63:57] onchain because of course if bitcoin's
+[63:59] doing well and equities are doing well
+[64:01] and we start seeing onchain data within
+[64:04] the Bitcoin Network to say people are
+[64:05] beginning to sell that could be this
+[64:07] early indication for not just Bitcoin
+[64:10] but for all equities for all Investments
+[64:12] that maybe we are a little overextended
+[64:14] over joyous to the upside so it's very
+[64:16] unique in that element interesting what
+[64:19] needs to happen uh that we decouple from
+[64:23] that I think since I'm in Bitcoin
+[64:25] everyone is talking about that that it
+[64:27] we will probably soon be decoupled from
+[64:30] that uh but I think it takes a little
+[64:32] bit longer time what needs to happen
+[64:34] that Bitcoin is decoupling from risk
+[64:36] risk assets uh which just I feel like it
+[64:39] just means
+[64:41] volatility I think we have now seen the
+[64:45] Catalyst for that to become a thing the
+[64:48] ETFs the institutional offerings I think
+[64:51] was step one in this BTC decoupling
+[64:54] previously when it was ril driven or
+[64:56] even in the previous cycle when it was
+[64:58] leverage driven by these companies like
+[65:00] FDX Etc like we discussed that's still a
+[65:03] very speculative asset where people were
+[65:05] mainly using it as a means to make more
+[65:08] money let's be honest whereas now like
+[65:10] we said previously where if the
+[65:12] narrative has shifted as something where
+[65:14] it needs to be added to everyone's
+[65:15] balance sheet or portfolios previously
+[65:18] it was a 60% equities 40% bonds or
+[65:21] something maybe now we've changed to add
+[65:23] 5% of Bitcoin to that and I think that
+[65:26] narrative shift is going to be one of
+[65:28] the things that could lead to this
+[65:29] decoupling where we finally fulfill The
+[65:31] Narrative of a digital gold if you like
+[65:34] where people don't necessarily tie
+[65:36] Bitcoin to speculative assets or
+[65:38] equities like the S&P 500 and it has it
+[65:40] is seen as a hedge against inflation and
+[65:44] traditional monetary policies with its
+[65:46] unique monetary properties and its
+[65:49] having event and and all of this stuff I
+[65:52] think the the flu Gates have opened but
+[65:54] I still think we might be a couple
+[65:55] Cycles away like I said the ETFs and
+[65:58] corporations currently having about 7
+[66:00] and a half% of the circulating Supply
+[66:02] once that gets to 20 30% which it will
+[66:05] in not that long considering we've got
+[66:07] to seven and a half percent in you know
+[66:09] not very long at all at that point maybe
+[66:11] we start having a conversation of is
+[66:14] btcc sorry still correlated incredibly
+[66:17] strongly with these things or is it it's
+[66:19] un unique asset and I think the big test
+[66:21] of that is when we have the next big
+[66:23] Global recession which has been just
+[66:25] around the corner for years now but at
+[66:26] some point we will get one at that point
+[66:29] if we see Bitcoin begin to start
+[66:31] outperforming massively a lot of things
+[66:33] even during Market wide downtrend then
+[66:36] that'll potentially even catapult and
+[66:38] snowball even more as more people say
+[66:40] wow this is the asset that it promised
+[66:42] to be that it set out to be this hedge
+[66:43] against Bad monetary policies and
+[66:45] Central Bank printing that even more
+[66:47] Capital flows into this unique asset
+[66:49] this unique scarce asset like Bitcoin
+[66:51] like gold but you know Bitcoin being the
+[66:53] digital girl that actually has some util
+[66:55] in terms of international settlement if
+[66:57] you try and send $100 million a gold
+[66:59] good luck with that then maybe that can
+[67:01] be the real starting point of a a true
+[67:04] decoupling Ah that's that's amazing I I
+[67:07] think uh it would definitely help as you
+[67:10] said really cool um we have one question
+[67:13] that I asked each and every one of uh my
+[67:15] guests and the question is what can we
+[67:17] learn from you besides
+[67:19] Bitcoin wow great question I was expect
+[67:22] I was when you said one question I was
+[67:24] almost certain you gonna say what's the
+[67:26] price going to be at the Bitcoin cycle
+[67:29] Peak I I usually try to avoid asking
+[67:32] that uh but you can answer that also I I
+[67:36] prefer to not answer that hopefully if
+[67:38] you've learned one thing it's to try and
+[67:40] be a little bit more reactive with your
+[67:42] investing in analysis then predictive so
+[67:44] I'm going to actually not answer that
+[67:45] one but what I I'm hoping I can
+[67:48] hopefully in part is a little bit of
+[67:50] wisdom outside of just onchain data and
+[67:52] analytics is to not spend too much time
+[67:56] when it comes to finance and investing
+[67:59] and looking through all this data the
+[68:01] reason I got into this unchain stuff is
+[68:03] because I didn't like spending all of my
+[68:05] time in front of charts there's no point
+[68:08] in accumulating more wealth by just
+[68:10] spending 20 hours a day locked up in a
+[68:12] room looking at Price action if you can
+[68:15] spend a few hours a month to have the
+[68:18] same returns and spend the rest of your
+[68:19] time doing things that are beneficial to
+[68:21] you your friends and family physically
+[68:24] mentally spirit whatever you want to do
+[68:27] then that is a two two times win like I
+[68:29] said our biggest out performance isn't
+[68:31] just monitoring gains in terms of
+[68:34] percentages but in terms of the amount
+[68:36] of hours that you need to do this
+[68:37] analysis massively being reduced allows
+[68:39] you to spend time doing things that you
+[68:41] actually want to do and allow you to
+[68:44] hopefully spend this wealth that you've
+[68:45] accumulated through this
+[68:48] outperformance yeah very true really
+[68:50] cool um we have also another end routine
+[68:53] also not about the price okay okay uh
+[68:56] where the previous guest is asking a
+[68:57] question for the next guest without
+[68:59] knowing who the next guest actually is
+[69:01] and the previous guest asks you the
+[69:02] question if you can give up your phone
+[69:05] or your computer for a day which one
+[69:08] would you give up and why that's a good
+[69:10] question I I think I would choose my
+[69:13] phone because it would be harder to give
+[69:15] up there's quite a few days where I
+[69:16] don't go on my computer I try and limit
+[69:18] myself to you know have weekends off and
+[69:19] stuff where it's really hard to get away
+[69:21] from your phone I'll be the first to
+[69:22] admit that so if I could force myself to
+[69:25] be away from my phone and actually talk
+[69:27] to people if that's still a thing and go
+[69:29] outside if that's still a thing and
+[69:30] enjoy nature then that would be great so
+[69:33] I would choose that purely because it
+[69:34] would be difficult and it would almost
+[69:36] Make Me Maybe appreciate the little
+[69:38] things more and maybe appreciate the
+[69:40] next time I get my phone back
+[69:42] interesting so the computer for you is
+[69:44] easier to give up actually yeah I think
+[69:46] so I I I can get all my trading viewer
+[69:49] alerts and all my Bitcoin magazine Pro
+[69:51] alerts on my phone so I don't actually
+[69:53] need the computer to begin specul
+[69:56] speculating and gambling yeah it's
+[69:57] interesting because I could do
+[70:00] everything that I do also on my phone
+[70:02] but I actually prefer the comp uh
+[70:04] computer so I would uh it would be so
+[70:06] much easier for me to give up the phone
+[70:09] uh because all the addictive stuff is
+[70:11] also on my computer like the the Twitter
+[70:13] feed is also on my computer uh and uh
+[70:18] when I'm at home I usually like I don't
+[70:20] even know where my phone currently is
+[70:22] probably some somewhere around the house
+[70:24] uh and uh
+[70:26] I'm I think I'm more addicted to the
+[70:28] computer I don't know if that's good
+[70:30] probably not probably neither's good
+[70:32] let's be honest absolutely you should be
+[70:34] addicted to get outside and have have
+[70:37] fun with your partner and with friends
+[70:40] exactly which I will actually do right
+[70:42] now it's uh today is the day I mean not
+[70:44] when it this will come out but today is
+[70:46] first the 9th of January uh we have um
+[70:49] and meet up always in Vienna with the
+[70:53] with with yeah bitcoiners in Vienna and
+[70:55] this actually starts in like an hour so
+[70:58] I will go there today and yeah do
+[70:59] exactly what what I'm supposed to do
+[71:01] meet out bit Corners in real life nice I
+[71:04] have a few uh shandies or non-alcoholic
+[71:06] beers I'm sure and a schnitzel or two
+[71:09] yes I I'm actually hungry so yeah I will
+[71:12] definitely do this thank you so much
+[71:14] Matt for for for already being on and uh
+[71:17] before I let you go where can people
+[71:18] find you ask you questions reach out to
+[71:20] you yeah so uh Bitcoin magazine pro.com
+[71:23] is the site where we've covered of the
+[71:25] data today as well as 150 other live
+[71:27] chats trading view indicators that type
+[71:29] of thing on Twitter where Bitcoin mag
+[71:32] Pro or have you just searched Bitcoin
+[71:33] magazine Pro you'll find us and apart
+[71:35] from that that's that's about it really
+[71:37] we have a YouTube channel as well
+[71:38] Bitcoin magazine Pro if you search that
+[71:40] if you search Bitcoin magazine Pro
+[71:41] anyway you'll hopefully find all of our
+[71:43] stuff uh and yeah that's it I'd just
+[71:45] like to say once again thank you very
+[71:46] much for having me it was on pretty
+[71:47] short notice as well not like the
+[71:49] audience needed to know that but it was
+[71:51] great for you were inviting me on and
+[71:53] having this chat it's been great and uh
+[71:54] yeah hopefully we can do it again
+[71:56] sometime absolutely let's let's do it in
+[71:58] half a year year let's see where the
+[71:59] market is going and let's analyze it I
+[72:02] think it's really interesting for me at
+[72:03] least to see I hope also the audience
+[72:05] gets the one or the other one or two
+[72:07] nuggets out of that thank you so much
+[72:09] for doing it also thank you so much for
+[72:11] everyone that is watching and listening
+[72:13] as always uh I will back tomorrow with
+[72:16] another episode bye-bye
+[72:18] [Music]

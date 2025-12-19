@@ -1,0 +1,1394 @@
+Title: Bitcoin Can INCREASE 2X The Revenue: How Will That Impact Global Energy Consumption?
+Video ID: grb52J1UEEY
+URL: https://www.youtube.com/watch?v=grb52J1UEEY
+Date Saved: 2025-06-15 11:37:49
+--------------------------------------------------
+
+[00:00] buying any asset regardless of whether
+[00:02] it's Bitcoin or you know a stock and
+[00:05] being able to remove the emotions from
+[00:07] that decision-making process is really
+[00:09] beneficial I think toward towards the
+[00:10] long term quality of life is directly
+[00:13] correlated with annual kilowatt hour
+[00:15] consumption per capita right so the
+[00:18] wealthiest most prosperous best places
+[00:20] to live in the world all have the
+[00:22] highest annual kilowatt hour consumption
+[00:24] per capita certainly if if the price of
+[00:26] of Bitcoin were to double tomorrow the
+[00:29] revenue revenue that you're going to be
+[00:30] producing is going to be, you know,
+[00:32] twice as much essentially while still
+[00:34] maintaining that fixed cost of
+[00:35] electricity. I think it'll be a good
+[00:37] opportunity for the long-term um private
+[00:39] miners and, you know, companies who can
+[00:41] operate efficiently, which I think
+[00:42] energy consumption can kind of have a
+[00:44] negative connotation. However, we need
+[00:46] more energy consumption. We need more
+[00:48] energy production.
+[00:51] [Music]
+[00:54] Hi, Adam. How you doing? Everything fine
+[00:55] on your end? Good. Yeah. Yeah. Yeah.
+[00:57] Nice day here in Iowa. So, you know,
+[00:59] can't complain too much for for
+[01:00] springtime in Iowa. Um, how's it going
+[01:03] today? Thanks for having me on. So, so
+[01:05] great to have you on. Um, for the people
+[01:07] that don't know, maybe let's let's get
+[01:09] started with who are you and and and why
+[01:11] are you into Bitcoin? Yeah, I'm I'm Adam
+[01:14] Haynes, the founder and CEO of Simple
+[01:16] Mining. Um, why am I into Bitcoin? Is is
+[01:19] maybe a little bit of a long story, but
+[01:21] um, you know, um, started the company
+[01:24] four years ago. was really born out of
+[01:26] my my first business which was a retail
+[01:28] cell phone repair business. Uh started
+[01:31] that um basically a year out of college
+[01:34] I dropped out and then um opened my
+[01:37] phone repair business and was expanding
+[01:39] the cell phone repair business and then
+[01:41] during COVID we um we kind of put our
+[01:44] expansion plans on pause and one of our
+[01:46] employees was mining Bitcoin and we
+[01:48] started dabbling doing some of the micro
+[01:50] repairs on some of the machines. I had
+[01:52] heard of Bitcoin at that point in time
+[01:54] um but never done you know the taken the
+[01:56] time to do the research to really fully
+[01:58] understand it. Um so kind of went down
+[02:01] the rabbit hole you know Bitcoin
+[02:02] standard and and all of that good stuff
+[02:04] and um
+[02:06] was very quickly orange pill right and
+[02:09] thought what is a good way um that you
+[02:12] know I could accumulate more Bitcoin and
+[02:15] started exploring the mining. Um we were
+[02:18] doing that in the back of one of our
+[02:19] cell phone repair stores. um here in
+[02:22] Iowa, it's a it's a really good place to
+[02:24] do this business. Iowa um actually leads
+[02:27] the country in wind power production
+[02:30] from a percentage standpoint. So about
+[02:31] twothirds of the energy here in Iowa is
+[02:34] um renewable wind energy. So not a lot
+[02:37] going on in Iowa besides uh corn fields
+[02:39] and windmills, but uh you know it's it's
+[02:41] a good place to mine Bitcoin. So started
+[02:43] doing it a little bit in the back of our
+[02:44] phone repair stores and you know kind of
+[02:46] explored some uh ways to do this at more
+[02:50] of an industrial scale. Um had some
+[02:52] conversations with our local utility
+[02:54] company. One thing led to another and
+[02:57] you know we started with 50 machines um
+[02:59] running down at our our first facility
+[03:01] in 2021 and we've continued to kind of
+[03:05] scale and grow um uh since that point in
+[03:08] time. Now we have over 20,000 machines
+[03:10] operating, you know, uh, over 60
+[03:12] megawatts across seven different
+[03:14] facilities in Iowa. Um, and really our
+[03:17] focus point is on, um, offering a great
+[03:20] hosted solution for machines. Um, and
+[03:23] doing the repair services as well. That
+[03:26] went quick from like I I run one or two
+[03:29] machines in the back of the store to
+[03:30] like I have 20,000 machines up and
+[03:33] running. Yeah. Yeah. It's been it's been
+[03:35] a lot of fun. you know, we um we saw an
+[03:38] opportunity when we first started, you
+[03:40] know, first started the company um to
+[03:43] come in and take all the principles that
+[03:45] made us successful in the cell phone
+[03:47] repair business and um apply those to,
+[03:50] you know, this industry, right? So, um
+[03:53] it's very critical in this industry to
+[03:55] make sure your machines have a high
+[03:56] uptime, right? If your machine's not
+[03:58] online, it's not producing any Bitcoin.
+[04:00] So, um been very fortunate. We have a
+[04:03] great really great team. You know, a lot
+[04:05] of a lot of this is, you know, um all
+[04:08] the success I can, you know, uh point to
+[04:10] a lot of members on our team that have
+[04:12] been really great at growing the
+[04:13] business and building out the different
+[04:15] things that we have to operate and
+[04:17] execute an extremely high level. Um
+[04:19] first started the company, uh our uh
+[04:22] CTO, uh Lucas actually came over from
+[04:24] the cell phone repair stores. He's an
+[04:26] absolute wizard. And um from the very
+[04:28] beginning we we noticed how critical
+[04:30] that was in order to keep machines
+[04:32] online, right? And um we he's been you
+[04:36] know paramount in building out our um
+[04:38] you know backend systems and processes
+[04:40] and automations to ensure that we have a
+[04:42] really really high um uptime with all of
+[04:45] the equipment. So it's
+[04:46] about it's about the the what did excite
+[04:50] you about Bitcoin mining? Was it the
+[04:52] electrical aspect that you could mine
+[04:54] magic internet money o over electricity
+[04:56] and and or is it the thing that you can
+[04:59] get additional return of investment on
+[05:01] top of of your Bitcoin or build a
+[05:03] business around that? Yeah. Yeah. I
+[05:05] think I think um you know especially
+[05:06] when we first got started the the um the
+[05:09] prospect of being able to sort of
+[05:11] accumulate Bitcoin um at a discount to
+[05:14] the spot price was very very intriguing.
+[05:18] So, um, and then just naturally being
+[05:21] here in Iowa where there's a, you know,
+[05:23] a really good opportunity to do this
+[05:24] business, you know, things kind of just
+[05:26] came together, um, you know, naturally,
+[05:28] I would say. So, um, very, you know, uh,
+[05:31] very optimistic and bullish long-term
+[05:33] about Bitcoin, you know, full-on Bitcoin
+[05:35] maxi and, you know, we just saw a really
+[05:38] good opportunity to, um, set up this
+[05:40] facility and, um, you know, be able to
+[05:42] generate, um, Bitcoin at a discount to
+[05:45] spot.
+[05:46] really interesting. Um, a lot of people
+[05:49] say when when it comes to mining
+[05:52] Bitcoin, they're like, "Oh, that just
+[05:54] just buy Bitcoin directly." If if you
+[05:56] want to do something like do do a Bitex
+[05:58] or something like that, some some small
+[05:59] solo mining, but that's not that's not
+[06:01] real mining. It is mining but uh on a
+[06:05] such a small scale um to compared to
+[06:08] that is it a good idea to instead of
+[06:11] mining bitcoin instead of buying bitcoin
+[06:14] to to mine bitcoin long term uh and is
+[06:17] there like a framework to think about
+[06:19] when does it make sense and and when
+[06:21] does it not make sense? Yeah, it's a
+[06:23] great question. We it's a very common
+[06:25] question that we get asked. Um so the um
+[06:29] answer that I have to that is I don't
+[06:31] think it's one or the other. All right.
+[06:32] So, I think if there's a really good
+[06:34] opportunity, um, you know, a buy the dip
+[06:36] moment, if you will, absolutely, you
+[06:38] know, buy that dip and, you know, uh,
+[06:41] stack stack sets. Um, however, I think
+[06:43] that mining is a really interesting, um,
+[06:46] opportunity to sort of, you know, it's a
+[06:48] forced to dollar cost average, right?
+[06:50] you know, we've done some um analysis of
+[06:53] some of our clients and um it's pretty
+[06:56] interesting results that have shown that
+[06:58] um you know, buying any asset regardless
+[07:02] of whether it's Bitcoin or you know, a
+[07:04] stock is very emotional, right? And
+[07:07] being able to remove the emotions from
+[07:09] that decision-making process um is
+[07:12] really beneficial, I think, to towards
+[07:14] the long term. So you can think of the
+[07:15] miners as like a forced DCA while also
+[07:18] having you know some significant tax
+[07:20] advantages um being able to operate you
+[07:23] know your mining uh company as a
+[07:25] business and you know the different
+[07:26] benefits that that um provides. So um I
+[07:29] think it's a little bit of both. Um I I
+[07:31] think that you know on the emotional
+[07:32] side there there's two sides of it. one,
+[07:35] maybe you don't, you know, maybe you
+[07:36] don't buy enough when prices are low,
+[07:38] right? Or vice versa, you know, um, when
+[07:41] prices are higher, maybe, uh, you know,
+[07:44] maybe we're not accumulating as much
+[07:45] because, oh, the price seems really high
+[07:47] now when, you know, you and I both know
+[07:49] over the long term, it's we should be
+[07:51] accumulating, you know, this this asset
+[07:54] every single day. So, um, I think it's a
+[07:56] combination of both. Um but you know the
+[07:59] the mining provides some interesting um
+[08:02] force to DCA and different benefits.
+[08:06] Yeah. And and I guess I guess you have
+[08:09] uh different ways to to do that. I mean
+[08:11] with simple mining you can set something
+[08:13] up and and and basically um let you do
+[08:17] the the the uh the the setup work. And
+[08:21] uh if you want to do it yourself uh it
+[08:24] it's it's probably a lot of work because
+[08:26] I those things can uh have some some
+[08:29] technical problems and and and do some
+[08:31] electricity things which uh yeah might
+[08:34] might not be the the best if you cannot
+[08:36] handle that. Um, how do you think about
+[08:39] uh someone having running their own uh
+[08:43] miners and and do doing that work
+[08:46] versus doing that with a with a service
+[08:48] like like you were doing? Yeah. No, it's
+[08:51] um we've worked with a lot of different
+[08:53] clients who have done you know their own
+[08:54] miners at home for example and um you
+[08:57] know I think that's part of the benefits
+[08:58] that we provide is we provide a really
+[09:00] you know hands-off premium white glove
+[09:02] service. So, we're going to make it easy
+[09:04] for anybody to mine Bitcoin. Um, you
+[09:07] know, these particular machines are, you
+[09:09] know, quite loud. Uh, they produce a lot
+[09:11] of heat. Um, the the cost of electricity
+[09:14] in the United States, um, average
+[09:17] residential cost of electricity is about
+[09:19] 16 cents per kilowatt hour. So, you
+[09:21] know, we're able to come in and provide
+[09:22] all of these services um, as it relates
+[09:25] to running the machines, maintaining
+[09:27] them, doing the advanced micro soldering
+[09:29] repairs um, and operating this at a high
+[09:32] level. We have the contracts with the
+[09:34] utility companies to be able to go get
+[09:36] that low cost of power. Um to be able to
+[09:38] kind of offer an all-in-one solution. Um
+[09:40] we have a a dashboard where you can view
+[09:42] all of your machines, so on and so forth
+[09:44] to just, you know, make it easy for
+[09:46] anyone in the world to mine Bitcoin with
+[09:48] us. Yeah. Super interesting. You said
+[09:51] Bitcoin Max here. I'm just curious. Did
+[09:53] you ever looked into mining anything
+[09:55] else? Like did you ever look into
+[09:57] shitcoin mining? Yeah, when we first got
+[10:00] started, um, you know, as we were just
+[10:03] just getting into it, we were mining
+[10:04] Ethereum, um, back in the day. Uh, that
+[10:07] was a pretty short-lived situation. Um,
+[10:10] so yeah, since then, our focus, our only
+[10:12] focus has been on Bitcoin. So,
+[10:15] interesting. What What did you bring
+[10:17] back to to Bitcoin? Uh, when you did
+[10:20] Ethereum, uh, what did you bring uh,
+[10:23] what got you back to Bitcoin only? I I
+[10:26] think that just um in the beginning when
+[10:28] we first got started the Ethereum mining
+[10:30] at the time was um you know it was it
+[10:32] was proof of work on Ethereum and you
+[10:34] could mine with GPUs. So it was a it was
+[10:36] a much quicker setup than than setting
+[10:39] up um you know these particular ASIC
+[10:41] machines. Um so it was a more of just an
+[10:45] ease to get into it and that was in the
+[10:46] very early stages. So, it was a very
+[10:48] short-lived period of time while we were
+[10:50] mining with um you know the GPUs in the
+[10:53] back of our cell phone repair store.
+[10:55] That's that's super interesting. I'm
+[10:57] always I'm always curious because it's
+[10:58] it's with mining we have with with
+[11:01] buying Bitcoin. Most Bitcoiners have
+[11:03] that phase where they buy Bitcoin, then
+[11:05] they discover altcoins, then they go
+[11:07] back bit to the Bitcoin only. So, it was
+[11:09] I was curious to see that with mining
+[11:11] Bitcoin. It's it's it's similar. What
+[11:13] What do you think? Um uh and I had that
+[11:16] in the my mind when you talked about
+[11:18] Bitcoin mining. What do you think
+[11:20] Bitcoin mining will bring to the world
+[11:22] outside of just securing securing money?
+[11:25] Sure. Yeah. Well, I think there's a
+[11:27] really unique opportunity in the energy
+[11:30] space, right?
+[11:31] So if you look at just a really basic
+[11:34] metric of you know human prosperity
+[11:37] across the world um you know quality of
+[11:40] life is directly correlated with annual
+[11:43] kilowatt hour consumption per capita
+[11:45] right so the uh wealthiest most
+[11:48] prosperous um you know best places to
+[11:52] live in the world all have the highest
+[11:54] annual um kilowatt hour consumption per
+[11:57] capita. So, I think if you just look
+[11:59] naturally right now, the the Bitcoin
+[12:01] network is about 15 gawatts of energy
+[12:04] globally. Um, and it's going to continue
+[12:07] to grow over time. It's only going to
+[12:08] consume more and more and more energy,
+[12:11] which I think energy consumption can
+[12:12] kind of have a negative connotation.
+[12:15] However, um, we need more energy
+[12:17] consumption. We need more energy
+[12:18] production. Um, that's only going to
+[12:20] help improve quality of life across the
+[12:23] world. So, I think there's a really good
+[12:25] opportunity for Bitcoin to help continue
+[12:28] to build out more energy production um
+[12:31] that will enable um just better quality
+[12:34] of life. Uh you know, a unique way to
+[12:37] think about this is especially here in
+[12:39] Iowa, um we have a lot of renewable
+[12:41] energy. Renewables are great. However,
+[12:44] there's some downside to them too as
+[12:46] well. The downside is if the sun isn't
+[12:49] shining and the wind isn't blowing, the
+[12:51] energy production still has to come from
+[12:53] somewhere. Um we have a unique ability
+[12:55] where we can um you know shut down our
+[12:57] facilities curtail or load shed uh to
+[13:00] help balance out that supply and demand
+[13:02] in times when the you know grid is
+[13:04] getting out of balance.
+[13:06] Um what Bitcoiners do is they're a buyer
+[13:09] of 20 uh electricity 24/7 um while
+[13:13] prices are are low obviously. And what
+[13:16] that helps do is if there's more buyers
+[13:18] of energy, it helps bring on more
+[13:20] production of energy. So the more energy
+[13:23] production that we can have, it just
+[13:24] facilitates, you know, more growth in
+[13:26] other industries and being able to help
+[13:28] keep that grid reliable for everybody.
+[13:32] That's super
+[13:33] interesting. Yeah, this uh notion of
+[13:36] energy consumption is is bad is is so
+[13:39] annoying because uh if if we really go
+[13:43] down that uh lane of every energy
+[13:47] consumption is bad and we have to make
+[13:49] it as efficient as possible, we
+[13:51] basically come to the conclusion we have
+[13:53] to kill ourselves.
+[13:57] Why do you think the why do you think
+[13:58] there's this notion that energy energy
+[14:01] consumption equals bad? Yeah. Well, I
+[14:05] think that that agenda has been pushed
+[14:07] um you know especially as it relates to
+[14:10] you know renewable energy and you know
+[14:12] consumption and those things um it's it
+[14:15] definitely has a negative connotation
+[14:16] associated with it. Um however if you
+[14:19] just purely look at the data we can see
+[14:21] that the more energy that we consume um
+[14:24] the the better off society is right and
+[14:28] you know I want to continue trying to
+[14:30] you know spread that word um because
+[14:32] more energy consumption more energy
+[14:34] production is what everybody needs um
+[14:36] you know everybody there's there's a lot
+[14:38] of people out there that like to you
+[14:40] know talk about you know what energy
+[14:42] should be used for what application and
+[14:43] this is a waste of energy why can't you
+[14:45] know Bitcoin just switch to proof of
+[14:47] stake so on and so forth forth, but at
+[14:48] the same time, if there's no energy
+[14:50] available to heat their home in the
+[14:53] middle of winter or to air condition
+[14:55] their, you know, home in the middle of
+[14:57] summer when on a hot day, they're not
+[14:59] going to care where the energy comes
+[15:01] from, what the source of production is.
+[15:03] They're just going to want access to
+[15:04] that energy. And, you know, Bitcoin will
+[15:07] help enable a more robust um uh system
+[15:10] to be able to deliver that energy um you
+[15:14] know, over time.
+[15:16] Yeah, it's it's what I'm curious. What
+[15:19] do you actually say? You probably get
+[15:21] that a lot. What do you say to people
+[15:22] that tell you, oh, like Bitcoin mining
+[15:25] is so bad for for the environment, or is
+[15:27] it slowly coming down that people don't
+[15:29] say it anymore? Yeah, the the
+[15:31] conversations are are certainly getting
+[15:33] a lot better um you know, over the last
+[15:35] couple of years. Um I I I think again
+[15:38] just it's a lot about education. Um what
+[15:40] we really try and do at Simple Mining is
+[15:42] educate on all aspects of of Bitcoin and
+[15:45] mining um you know everything from
+[15:47] really really basic information all the
+[15:49] way to you know the the technical
+[15:51] nitty-gritty. So that conversation is um
+[15:56] I think just a misinterpretation of the
+[15:59] reality of how you know energy is being
+[16:01] produced and used. Um, Bitcoin miners
+[16:03] are, if you look at the natural supply
+[16:05] and demand, we're we're very
+[16:07] incentivized to use very low cost of
+[16:09] energy, which is going to be a situation
+[16:12] where there's sufficient supply, right?
+[16:15] Um, if if there's not sufficient supply
+[16:17] or there's extremely high demand,
+[16:19] Bitcoin miners are going to be the first
+[16:21] to, you know, shut down and um, give
+[16:25] that energy back, basically. So, it's
+[16:28] just a it's a I think it's a miscon
+[16:30] misconception that Bitcoin miners are
+[16:32] taking energy away from um potential
+[16:35] uses when really um Bitcoin miners are
+[16:38] using excess energy, you know, energy
+[16:41] that would not have been consumed
+[16:42] otherwise in most instances.
+[16:45] So, in a way, Bitcoin mining is
+[16:47] expanding the energy grid.
+[16:51] Yeah, absolutely. um the the more um you
+[16:54] know consumption that Bitcoin miners can
+[16:57] use um over time that's just going to
+[17:00] lead to a more robust system where you
+[17:02] could have more energy production and
+[17:04] more um especially as it relates to you
+[17:07] know a system that is reliant upon
+[17:10] renewables and the intermittency of
+[17:12] available supply. um the more production
+[17:15] you can bring on, especially as it
+[17:17] relates to base load or even more
+[17:18] renewables, it it just helps be able to
+[17:21] deliver power at all times. Um even um
+[17:25] you know, if you have twice as many
+[17:27] windmills and even if the wind is low,
+[17:30] you're still going to have more
+[17:32] production overall even if um even if uh
+[17:35] you know, the wind speed is low at that
+[17:37] point in time. So now there's some uh
+[17:39] there's some nuances, some details
+[17:41] there, but Bitcoin miners being able to
+[17:43] buy all of that excess energy 24/7. And
+[17:46] if you talk about um you know a a system
+[17:49] globally that is 15 gawatts currently
+[17:51] and as that continues to scale to 20 25
+[17:55] 40 50 gawatt that's a lot of energy um
+[17:59] where Bitcoin miners are going to go out
+[18:00] and try and find that low cost of
+[18:02] energy. And it's it's a it's a great
+[18:04] pair. It's interesting. Um, one thing
+[18:07] with with Bitcom, do you also did you
+[18:10] ever thought about also doing AI data
+[18:12] centers because it's it's it's so so so
+[18:16] popular right now with with AI. Is it
+[18:18] something that you have looked into?
+[18:20] Yeah. Yeah. So, I have a few thoughts on
+[18:22] AI. um you know AI has certainly been
+[18:25] the hype for the last um last couple of
+[18:28] months and I think it's no doubt that AI
+[18:30] is going to be very um very impactful
+[18:32] very um you know deflationary as it
+[18:35] relates to providing you know different
+[18:37] services to uh to society. Um however I
+[18:40] think that the you know the industry as
+[18:43] a whole and maybe the business case
+[18:45] behind building and operating AI data
+[18:48] centers is still really really early and
+[18:51] you have a lot of very very large
+[18:53] companies that have um significant you
+[18:56] know the mag seven companies for example
+[18:58] that have very large balance sheets and
+[19:00] they're willing to throw billions of
+[19:02] dollars at the wall um it's just to see
+[19:04] what sticks and I think if you look
+[19:07] currently at the investment that's being
+[19:09] made versus the future um expected
+[19:12] revenues on that investment. Um there's
+[19:14] not a great business case at this at
+[19:16] this point in time. I think over you
+[19:18] know over the course of the next you
+[19:20] know three, five and certainly 10 years
+[19:23] you'll see that evolve in in in really
+[19:26] um a good business case will probably
+[19:27] present itself. Um but currently we are
+[19:30] not looking into any of the AI data
+[19:32] centers. Um, you know, I think there's
+[19:34] there's some really large companies that
+[19:36] are uh working there, but I just my
+[19:38] concern would be in the in the short to
+[19:40] medium-term viability of those
+[19:42] businesses based upon the investment and
+[19:44] then the expected, you know, revenue to
+[19:47] support those investments.
+[19:49] Interesting. Why do you
+[19:51] think what does AI like? Why is that
+[19:54] like that with with AI not being as
+[19:56] profitable?
+[19:58] Yeah, I I think that you know um
+[20:00] certainly it's a long game, right? Um
+[20:02] you could have you know could look at a
+[20:04] company like Amazon that was you know
+[20:06] losing money for for for many many many
+[20:08] years and um obviously it's worked out
+[20:11] great for them but in the case of AI
+[20:13] right now it's uh certainly the
+[20:14] long-term play that they will be able to
+[20:16] figure out this business u model over
+[20:19] time right um for example open AAI has a
+[20:22] really unique product chat you can see I
+[20:24] use it you know on almost a daily basis
+[20:27] currently and um they lost you know I
+[20:30] think somewhere in the range of 5
+[20:31] billion dollars last year. Um, and I
+[20:33] think that they have a total investment
+[20:35] in that company of about $20 billion
+[20:37] with, you know, um, very little, you
+[20:40] know, reoccurring revenue to show for
+[20:43] that investment. So certainly it's on
+[20:45] the long-term um, play, but as you have
+[20:48] more and more of these competitors, um,
+[20:50] you know, enter the space with something
+[20:52] related to a, you know, AI, it's I'm of
+[20:54] the opinion that it's kind of a race to
+[20:56] zero as to, you know, who can offer um,
+[20:59] what services and whatnot. They'll have
+[21:00] some specialties and in this and that,
+[21:02] but if you look for example um at like a
+[21:05] a Google search for example, a Google
+[21:07] search has practically a real world cost
+[21:10] of zero in order to do that, you know,
+[21:14] um to do that search. Um, while it's
+[21:17] significantly more currently for AI and
+[21:19] it will inevitably be a little bit more
+[21:21] over time for AI just with the compute
+[21:23] involved, um, I think it's safe to say
+[21:25] that it's it's it's hard to forecast
+[21:27] where, you know, some of these companies
+[21:29] could potentially um, have some
+[21:32] significant revenues to support their
+[21:34] current investment. Bitcoin mining
+[21:36] basically has to always stay on a
+[21:39] profitable size otherwise Bitcoin miners
+[21:41] will shut down and this and then the
+[21:43] difficulty will will come down.
+[21:44] Basically, it's it's a it's it's a it's
+[21:47] a forced profit uh that's baked into
+[21:50] their code, right? Exactly. Bitcoin
+[21:53] miners, you know, the machines are
+[21:54] constantly getting um you know, more
+[21:56] efficient over time, although we're
+[21:58] starting to see some maybe some
+[21:59] diminishing returns on um how much
+[22:02] better the new equipment is actually
+[22:03] getting. Um but yeah, you're certainly
+[22:06] right that um machines are it's it's a
+[22:09] very simple function. You have your
+[22:10] input cost of electricity and you have
+[22:12] the network difficulty and the price of
+[22:15] Bitcoin and then the the only other
+[22:17] variable would be the block reward which
+[22:18] changes you know approximately every
+[22:20] four years and those are very easy
+[22:22] inputs to be able to calculate and um
+[22:26] you know there's your your business
+[22:27] model there. Super interesting. Ju just
+[22:31] on a quick note um uh only because I put
+[22:34] that tweet out I think yesterday and and
+[22:37] it got like for some reason over 50,000
+[22:40] views and people were discussing really
+[22:41] really heavily on that. I just put out
+[22:43] the thesis that I think um uh hash rate
+[22:47] leads price and I I wasn't aware how
+[22:50] many how many different opinion opinions
+[22:53] and and how controversial that that take
+[22:56] is because it was not a big take of
+[22:58] mine. How do you look at the correlation
+[23:00] between the Bitcoin price and and hash
+[23:03] rate uh and and and that Yeah, I would
+[23:07] agree with that, you know, 100%. Um I I
+[23:10] I think if you look at the hash rate,
+[23:12] the hash rate is the signal through the
+[23:15] noise, if you will, in in in the world
+[23:17] because you can see all of the
+[23:18] investment that is being made. And um
+[23:21] you know, especially at this point in
+[23:23] time, it's a significant investment. um
+[23:25] you know we're approaching you know 800
+[23:27] 900 xahash um uh globally and the
+[23:31] additional um you know investment to be
+[23:34] able to bring on um you know 1% or 2% of
+[23:37] the total overall hash rate is a
+[23:39] significant you know amount of capital.
+[23:42] So, I think it's a really good way to um
+[23:45] see, like I said, the signal through
+[23:47] through the noise, if you will. And I
+[23:50] would agree that, you know, hash uh hash
+[23:51] rate would, you know, kind of lead price
+[23:53] um because you're you're seeing um you
+[23:56] know, the businesses prepare for the
+[23:58] future and investing in, you know, these
+[24:00] sites and the equipment, preparing for,
+[24:03] you know, that future price appreciation
+[24:04] of Bitcoin. How is it actually impacting
+[24:08] the the business when the Bitcoin price
+[24:11] moves up or down? Like how how how much
+[24:15] more
+[24:16] profitable do does a minor get if the
+[24:19] Bitcoin price now goes up? I think today
+[24:21] I mean this will come out almost a month
+[24:23] later but today is I think six or 7%
+[24:26] uptick day. Uh and and some days maybe
+[24:29] like a down day. Do you see uh the the
+[24:32] same cycles with the price that impacts
+[24:35] the the the business or is is that not
+[24:38] that important? Yeah. Well, uh uh you
+[24:40] know as it relates to the profitability
+[24:42] of mining um you know certainly when
+[24:44] you're when you're mining with us um you
+[24:46] have a fixed input on a daily basis
+[24:48] which is your cost of electricity right
+[24:50] so you have a a fixed cost right now
+[24:53] most of the machines are call it about
+[24:55] $6 a day in fixed cost for each machine
+[24:57] to operate. Um certainly if if the price
+[25:00] of of Bitcoin were to double tomorrow,
+[25:03] the revenue that you're going to be
+[25:04] producing is going to be, you know,
+[25:06] twice as uh twice as much essentially
+[25:09] while still maintaining that fixed cost
+[25:11] of electricity. So the interesting side
+[25:13] of mining is where you can actually see
+[25:16] um you know, if you were to compare, you
+[25:18] know, buying versus mining, um today
+[25:22] you're able to produce Bitcoin at a
+[25:24] discount to spot. And if you were to
+[25:26] look at buying Bitcoin today, say you
+[25:28] were to buy $10 worth of Bitcoin today
+[25:31] um on an exchange, um that's going to
+[25:33] get you $10 today in Bitcoin. And then
+[25:35] if the price doubles, you know, that
+[25:37] same $10 is now only going to buy you $5
+[25:40] equivalent of the same amount of Bitcoin
+[25:42] versus if you're mining, you have your
+[25:44] fixed cost to operate the machine on a
+[25:46] daily basis. And let's say that you're
+[25:48] generating, you know, $12 a day in
+[25:50] revenue for that particular machine. All
+[25:52] of a sudden, if price doubles, your
+[25:53] fixed cost is still $6, but now you're
+[25:56] getting $24 of revenue versus 12. So, um
+[26:01] certainly nobody can predict price and
+[26:03] nobody can predict hash rate. Uh you
+[26:05] know, I'm of the opinion I'm very
+[26:07] long-term optimistic on Bitcoin. Um and
+[26:11] that that's just kind of the differences
+[26:13] there between mining and buying spot.
+[26:16] So, it's almost better for mining
+[26:19] Bitcoin if the if the price runs up and
+[26:23] uh if the price goes down, it's it's
+[26:26] better for those who who buy Bitcoin. Is
+[26:29] is that a fair assumption? Yeah, I think
+[26:31] I think if you look just, you know,
+[26:32] generally speaking, timing of course
+[26:35] plays an important role if you're
+[26:36] buying, you know, any asset, right? um
+[26:38] whether that be spot bitcoin, whether
+[26:40] that be you know bitcoin mining
+[26:42] machines, whether that be you know uh
+[26:44] gold or Apple stock, whatever it might
+[26:46] be. So um I think you know kind of
+[26:49] related back to uh our earlier point is
+[26:52] that forced dollar cost average um that
+[26:55] those machines are going to be producing
+[26:57] bitcoin for you every single day no
+[26:59] matter what the price is um is something
+[27:01] that we've seen to be really beneficial.
+[27:03] Let's take a break for a moment and
+[27:05] appreciate the beauty that Coin
+[27:07] Vigilante has made with the Bitcoin
+[27:10] watches. Those watches are the most
+[27:12] amazing, the most elegant way of showing
+[27:15] that you are a true Bitcoiner. And Coin
+[27:19] Vigilante just dropped a completely new
+[27:21] and amazing Genesis edition of their
+[27:24] watch collections. You have the date of
+[27:27] the first ever mined Bitcoin block in
+[27:30] there and of course also the block
+[27:32] height and which epoch we are currently
+[27:35] in. I love the level of detail they put
+[27:38] in in this masterpiece. Make sure to
+[27:41] check out those amazing coin vigilante
+[27:44] time pieces down in the descriptions. I
+[27:46] love those watches so so much. And now
+[27:49] if you have Bitcoin, I really do hope
+[27:52] that you don't have it on exchange. But
+[27:54] if you do have it on exchange, I have
+[27:56] two ways for you to deal with that. The
+[27:58] first way is you put it on a hardware
+[28:00] wallet. That's the entry for you to get
+[28:03] into the self-custody game. I recommend
+[28:06] Bitbox Bitcoin only edition for that.
+[28:09] It's a super simple and secure way. And
+[28:12] if you check out the link in the
+[28:14] description, you even get 5% off if you
+[28:17] use the code Robin. And the second way
+[28:19] is the Bitcoin way. The Bitcoin way is
+[28:23] your all-in partner in terms of how to
+[28:26] get the most out of your sovereignty.
+[28:29] They will personalize for you a
+[28:31] self-custody setup that is perfect for
+[28:34] your individual situation. They will
+[28:37] show you how you can secure your own
+[28:39] devices. Securing your Bitcoin is not
+[28:41] enough. You also have to keep all your
+[28:43] devices secure. One topic that is
+[28:46] overlooked often is the inheritance
+[28:48] plan. What happens with your Bitcoin
+[28:51] once you are no longer here? Do you have
+[28:54] a plan for that in place already? And
+[28:56] last but not least, if you're in a
+[28:58] jurisdictions where you don't feel safe,
+[29:01] it's better to get a plan B. For all
+[29:03] that, head over to the
+[29:07] bitcoinway.com/roin to get a 30inut free
+[29:10] call. And just a quick side note, I will
+[29:13] be for the first time ever speaking at
+[29:15] the Bitcoin Prague event in June. It
+[29:18] will be absolutely legendary and I'm
+[29:20] really looking forward to seeing all of
+[29:22] you there. You can get your ticket in
+[29:25] the link down in the description of
+[29:27] Bitcoin Prague. And very important, use
+[29:29] code Robin to get 10% off your ticket.
+[29:33] I'm really looking forward seeing you
+[29:35] there. Yeah, it's uh something that I've
+[29:37] seen um with with my business. It's I'm
+[29:41] not doing Bitcoin mining. I'm just doing
+[29:43] the podcast. So there's uh income coming
+[29:45] in in fiat and income coming in at in
+[29:47] Bitcoin and there's uh expenses coming
+[29:50] out in Bitcoin and expenses coming out
+[29:52] in fiat. And right now since the last
+[29:54] couple of months I have this really nice
+[29:57] split for some reason where I don't have
+[29:59] to exchange one for the other. I can pay
+[30:03] my fiat bills with with fiat and pay my
+[30:05] Bitcoin bills with with Bitcoin, which
+[30:06] is awesome that currently it's working
+[30:08] out like that, which really detached me
+[30:12] from the Bitcoin price at a certain
+[30:14] because I'm I'm no longer looking for
+[30:16] buying Bitcoin. Uh I'm no longer looking
+[30:18] for selling Bitcoin. I'm just getting
+[30:21] paid. And this is just like it's like
+[30:23] there pre-agreed. I cannot change that.
+[30:26] And I I pay it. It's also pre-agreed and
+[30:29] I I cannot really change it. Yeah. maybe
+[30:31] like 5 days more or less, but doesn't
+[30:33] really change a lot. So, this getting
+[30:36] away from the Bitcoin price and
+[30:38] detaching yourself emotionally, no
+[30:40] matter if you do it with mining or
+[30:42] disabling or like whatever your strategy
+[30:44] is, there's a real value in there. Also,
+[30:47] the peace of mind of that all of a
+[30:49] sudden not being emotionally detach
+[30:51] emotionally attached on the Bitcoin
+[30:53] price if it it's like 95K tomorrow or
+[30:57] 85k like who who cares?
+[31:00] Right. Exactly. And that's um you know
+[31:02] just goes to show if you can remove the
+[31:04] emotions and just you know let let
+[31:08] Bitcoin do its thing um it's it's it's
+[31:10] pretty amazing to see you know uh to see
+[31:13] how that those returns work. So
+[31:16] absolutely. Um how do you see the the
+[31:19] future of mining? Maybe let's uh let's
+[31:22] put it that way. Um we have seen an
+[31:24] evolution of mining really rapidly where
+[31:27] in the beginning you can just mine with
+[31:28] a computer like 50 bitcoins a day. Uh
+[31:31] now you need a whole operation to to get
+[31:34] to 50 bitcoin uh per per day. It's no
+[31:37] longer possible with with a MacBook or
+[31:39] something like that. So with with that
+[31:41] and we have now like big companies
+[31:43] publicly traded companies like we have
+[31:45] really a whole big industry on its own
+[31:48] that is mining Bitcoin. How do you see
+[31:51] that evolving over the next 5 10 years?
+[31:55] Maybe also with the aspect of of solo
+[31:57] mining that we talked in the in the
+[31:58] beginning a little bit with with Bitex.
+[32:01] Yeah. So um you know I think especially
+[32:04] as it relates to like the public
+[32:05] companies um you were seeing um a lot of
+[32:08] these public companies shift and kind of
+[32:10] you know start to slow down maybe their
+[32:12] expansion as it relates to um Bitcoin
+[32:14] mining. Um, Riot, for example, has a one
+[32:18] gigawatt facility that they um completed
+[32:21] about 40% of that was supposed to be all
+[32:23] one gigawatt was supposed to be for
+[32:24] Bitcoin mining and now they're looking
+[32:26] for a hyperscaler um you know AI uh to
+[32:29] come in and take the remaining 600
+[32:30] megawatts. So I think that you know
+[32:33] currently with the the demand for AI
+[32:35] especially as it relates to the public
+[32:37] companies you know core scientific
+[32:40] obviously is completely transitioning to
+[32:42] AI you know they have some large
+[32:43] contracts with coreweave that naturally
+[32:46] um is going to reduce buyers in the
+[32:48] market um at a very large scale and I
+[32:51] think potentially um be a benefit to
+[32:53] some of the the smaller operators and
+[32:55] you know the private companies that are
+[32:57] operating in this space. Um, so I see
+[33:00] obviously the Bitcoin network is going
+[33:01] to still continue to grow. Um, but as
+[33:03] you're seeing, um, some of these larger
+[33:06] companies step away and, you know, pivot
+[33:07] to AI. I think it's going to, um, you
+[33:10] know, there's a lot of conversation out
+[33:11] there about, you know, hash rate growth
+[33:13] will kind of continue to same maybe as
+[33:16] like the expected um, you know, uh,
+[33:19] average compounded growth of Bitcoin is
+[33:20] expected to kind of slowly diminish over
+[33:22] time. You would kind of expect the same
+[33:24] as it relates to hash rate growth and
+[33:26] that's what we've seen. So, um I think
+[33:28] it'll be a good opportunity for the long
+[33:30] term, um for, you know, some private
+[33:32] miners and, you know, companies who can
+[33:34] operate efficiently. Um and I I think
+[33:38] there's a there's a very long-term
+[33:40] business here. I think, you know,
+[33:40] Bitcoin is going to continue to grow in
+[33:43] market cap as it relates to, you know,
+[33:46] all the other assets in the world out
+[33:47] there and this will be, you know, great,
+[33:49] you know, commodity to um to produce um
+[33:52] over the long term. Absolutely. And I
+[33:54] want to get later a little bit on on
+[33:56] your uh case for Bitcoin, how why are
+[33:59] you bullish on stuff like that, but it's
+[34:00] really interesting to talk about uh EI
+[34:03] and Bitcoin mining. I never thought
+[34:05] because you say like that AI is kind of
+[34:08] buying up some demand with that. The
+[34:10] bigger ones are sometimes doing EI and
+[34:13] Bitcoin mining. This allows the smaller
+[34:15] ones to come up. In a way, I mean, maybe
+[34:18] that's a unfair assumption, but I will
+[34:20] just put it out there. In a way, AI is
+[34:23] decentralizing the Bitcoin n mining
+[34:25] network more. That's a great way to look
+[34:28] at it.
+[34:29] Interesting. Yeah, I love that. Yeah.
+[34:32] Um, so now to to the question of um
+[34:36] what's your thesis behind Bitcoin? Why
+[34:38] are you bullish on Bitcoin? Like why are
+[34:41] you uh uh big on Bitcoin? Obviously,
+[34:44] when when you're mining Bitcoin? Yeah.
+[34:46] Yeah. Well, I think you know um uh I
+[34:50] like to take the really really base
+[34:51] assumption that markets move to what
+[34:53] works most efficient, right? Um and if
+[34:56] you look at the, you know, society as a
+[34:59] whole globally and we zoom out, you
+[35:01] know, um on a very very large time
+[35:03] frame, gold has been society's, you
+[35:06] know, store of value asset for thousands
+[35:08] of years. And it has it's been that way
+[35:11] because of the properties that it has,
+[35:13] right? it's durable, it's portable, it's
+[35:15] divisible, so on and so forth. All the
+[35:17] same properties that Bitcoin has.
+[35:19] However, if you um look, Bitcoin is a
+[35:22] digital form of gold um along with some
+[35:25] other additional properties, you know,
+[35:26] such as the the network and and whatnot
+[35:29] that make it a a much better alternative
+[35:31] than gold. And if we look, you know,
+[35:34] over a really really large time scale,
+[35:36] um we're still in the, you know, we're
+[35:39] still in the very first inning. uh the
+[35:41] first pitch hasn't even been thrown yet
+[35:43] as it relates to the digital world,
+[35:44] right? And I think over time it's just a
+[35:49] it's a very good, you know, at least my
+[35:52] opinion is um it's very clear that
+[35:55] things are moving to a more digital
+[35:57] world. And this particular um you know
+[36:00] asset that has um a lot of unique
+[36:03] properties that the world has never seen
+[36:05] um for um is is only going to grow in
+[36:09] market share. And it only makes sense to
+[36:11] be traded as you know a global currency
+[36:14] um that people can you know save their
+[36:17] their um you know the fruits of their
+[36:19] labor in this asset that will actually
+[36:21] maintain its purchasing power. Um and
+[36:23] and really you look at a world that's
+[36:25] you know uh you know everything divided
+[36:27] by 21 million you know essentially yeah
+[36:30] it's the Bitcoin will become the the
+[36:33] base layer of everything and and will
+[36:35] then be be the one asset everything is
+[36:39] compared towards that that that future
+[36:41] is so exciting there's so many ch
+[36:44] there's so many changes coming w with
+[36:46] that and maybe
+[36:49] uh how old are you you seem pretty young
+[36:52] still even So you you have uh done a lot
+[36:54] of companies. Yeah, I'm 28. So I'll be
+[36:58] I'll be 29 in August. Really? How has uh
+[37:01] Bitcoin kind of impacted your life and
+[37:04] and and how you run your business? Yeah.
+[37:07] Well, I think you know, especially when
+[37:09] I started in business, um you know, when
+[37:13] I first started in business in the cell
+[37:14] phone repair stores, my what was drilled
+[37:16] into my brain ever since I was very
+[37:18] young was you need to save money, right?
+[37:20] You need to save money. um to be able to
+[37:23] you know buy a house and and do all
+[37:26] these other sorts of things that you
+[37:26] want to do in life you have to you have
+[37:28] to save your money and um I think you
+[37:31] know at the at the base it's a very you
+[37:33] know uh very good approach however when
+[37:36] you know when you start to get into the
+[37:38] weeds of things and you realize well
+[37:40] saving money you're actually you know
+[37:42] having this hidden tax every single day
+[37:45] of of inflation right and and the the
+[37:47] base fiat currency is you know your
+[37:50] purchasing power is being inflated Hey,
+[37:52] that's something that it it it takes
+[37:53] some time to understand and really
+[37:56] experience that. Um, so you know, as we
+[37:58] were growing our cell phone repair
+[38:00] business, we were we were saving and
+[38:01] then we would save that cash and we
+[38:03] would reinvest it. Um, but really we
+[38:05] should have been saving in a a hard
+[38:07] asset, right? We should have been saving
+[38:09] in Bitcoin and you know that would have
+[38:12] um the fruits of our labor would have
+[38:14] been our our purchasing power and our
+[38:16] labor would have been protected over
+[38:18] time. And so I think that's first and
+[38:20] foremost that's that's the first thing
+[38:22] that Bitcoin did was really help to
+[38:23] understand you know how how the system
+[38:27] works and how broken the fiat system
+[38:30] is and um really just puts you in a
+[38:34] position to um you know think more long
+[38:37] term and and and have a really good um
+[38:40] you know really good financial
+[38:42] responsibility I'd say.
+[38:44] Did you save before with your cell phone
+[38:48] repair shop? Did you save in US dollar
+[38:50] or stocks or something else before
+[38:52] Bitcoin? Yep. Just US dollars in the
+[38:54] bank account and you know looking back
+[38:56] that's uh not the not the proper way to
+[38:59] do it. But um uh and and there's always
+[39:03] obviously risk in these things and
+[39:06] volatility so on and so forth. But you
+[39:07] know generally speaking um if you're
+[39:09] just putting your money in your bank
+[39:11] account it's getting inflated away. uh
+[39:13] every single day you're losing
+[39:14] purchasing power. Um so there's a reason
+[39:16] that um you know hardly anybody keeps
+[39:18] their cash in the bank. They they take
+[39:20] the cash and they get it out as quickly
+[39:21] as they possibly can. Um that's why you
+[39:23] you know you see the stocks with crazy
+[39:25] valuations and so on and so forth is
+[39:27] everybody's looking for what's the best
+[39:28] alternative to holding this asset that's
+[39:31] losing purchasing power every single
+[39:32] day. And now obviously you you you save
+[39:36] with simple mining in in in Bitcoin I
+[39:38] guess. Yeah, we operate on a Bitcoin
+[39:39] standard. What what does it you still
+[39:41] have a bank account I guess to pay
+[39:42] electricity or you you you are fortunate
+[39:45] to pay in Bitcoin. So hopefully someday
+[39:48] you know we'll be able to exchange and
+[39:50] and pay our you know utility companies
+[39:52] in directly in Bitcoin. But no we we
+[39:54] still have to you know transact um a
+[39:58] decent portion in fiat. However we do we
+[40:00] do accept um uh payments in Bitcoin. So
+[40:04] um you know we try to everything that we
+[40:05] look at is through the lens of Bitcoin
+[40:07] right? um even though we might be paying
+[40:09] out fiat for some expenses, it all you
+[40:11] know inevitably gets denominated on our
+[40:13] side in Bitcoin where you know we fully
+[40:15] operate on a Bitcoin standard and and
+[40:17] that's our that's our ultimate goal. So
+[40:20] interesting. I'm so interested in in in
+[40:22] businesses and the intersection with
+[40:24] business and and and Bitcoin because if
+[40:26] you're a business and you're totally
+[40:28] just on US dollar, you are really
+[40:31] incentivized to find some some new kind
+[40:34] of thing that you put your money into,
+[40:36] which can be good and bad depending on
+[40:39] on if you are able to find really great
+[40:41] opportunities. With Bitcoin mining, you
+[40:43] found something good. And if you have
+[40:46] Bitcoin as your default savings vehicle,
+[40:52] this is pretty rapidly adopting and this
+[40:54] is then also pretty rapidly
+[40:58] growing. Then you really have to think,
+[41:00] oh, do I do I keep the savings now in
+[41:03] Bitcoin or do I build a new site or do I
+[41:07] do how do you how do you think about
+[41:09] that? Yeah, I think I think it forces
+[41:11] you to really look at things through the
+[41:14] lens of um from a from a financially
+[41:16] responsible, you know, position and um
+[41:19] you know, do we do we make this
+[41:20] investment or do we, you know, just
+[41:22] continue to hold Bitcoin, right? So, and
+[41:24] I think it's a combination combination
+[41:26] of both. You know, we want to, you know,
+[41:28] certainly continue to build out um you
+[41:31] know, our Bitcoin treasury, if you will,
+[41:33] um while also expanding and growing our
+[41:35] business, too. So, um, and that's kind
+[41:37] of, you know, as it relates to, um,
+[41:39] Bitcoin mining, you can you can look at,
+[41:41] um, the advantages of of Bitcoin mining.
+[41:44] So, um, if you have a business and and
+[41:46] you have, you know, uh, taxes do, you
+[41:48] could look at this as a potential way to
+[41:50] reduce your tax liability, right? And
+[41:52] then you can also operate this as a
+[41:53] business, produce Bitcoin as an asset,
+[41:56] you know, um, uh, you can deduct the
+[41:59] expenses and then continue to grow your
+[42:01] Bitcoin stack, for example. So yeah, the
+[42:04] the the tax strategies around Bitcoin
+[42:06] mining that might be also an interesting
+[42:08] thing because I think uh that's doesn't
+[42:11] get talked enough about especially with
+[42:14] with young entrepreneurs maybe they have
+[42:16] some I mean I guess even in even for my
+[42:19] podcasting business if if there's profit
+[42:21] coming up uh it would be only logical uh
+[42:24] to find something for that to to
+[42:26] reinvest it and and Bitcoin mining might
+[42:28] be something interesting to to look at.
+[42:31] Uh how many of your your clients is is
+[42:34] is tax as a a reason for for for for
+[42:37] doing Bitcoin mining? Oh yeah, certainly
+[42:40] not all of them, but you know, it's a
+[42:42] it's a big um we have a lot of business
+[42:44] owners that are clients. Um we work with
+[42:46] a lot of, you know, large private and
+[42:47] public companies um that are doing this,
+[42:49] you know, as a business. So um yeah, the
+[42:52] tax advantages can be can be good. I'm
+[42:54] not a I'm not a CPA, you know, certainly
+[42:56] recommend everybody talk to their own
+[42:58] tax professional and whatnot, but um
+[43:00] yeah, there's certainly some tax
+[43:02] advantages um in this business. Super
+[43:05] super interesting. I I just love that
+[43:07] topic too much. It's really cool. Um how
+[43:10] do you think Bitcoin will impact uh our
+[43:14] world outside of of of energy and
+[43:17] Bitcoin mining that we talked about? How
+[43:19] how do you think Bitcoin will impact uh
+[43:21] how we live together?
+[43:23] Yeah. Well, you know, um, we we kind of
+[43:26] live in our own little echo chamber
+[43:28] where, you know, we see a lot of these
+[43:29] things and we see the we see the game
+[43:31] theory play out over time. You know,
+[43:33] certainly the last few years where um,
+[43:36] you know, when we started the company,
+[43:37] our bank account got shut down when we
+[43:39] first started and now you're starting to
+[43:41] see, you know, Bitcoin held by state
+[43:43] pension funds and and you know,
+[43:45] governments acquiring Bitcoin,
+[43:47] governments mining Bitcoin, so on and so
+[43:48] forth. I I think you just naturally
+[43:51] speaking um there's a lot of additional
+[43:53] benefits that will it's kind of you know
+[43:55] fix the money fix the world right is is
+[43:57] is a common phrase. So if you don't have
+[44:01] broken money and you don't have all of
+[44:03] those other sorts of things the world
+[44:05] while not perfect it starts to look like
+[44:07] a lot better place for sure
+[44:10] it it kind of fixes the incentives and
+[44:12] and makes
+[44:13] it better to to make take better
+[44:17] decisions. It's also from a business
+[44:19] perspective, but also from a a personal
+[44:21] perspective. All of a sudden, it gives
+[44:23] you back the capabilities to to think
+[44:26] clearly because you're not rushed into
+[44:28] anything. If we look back and and just
+[44:30] having the savings as US dollar, you
+[44:33] almost kind of rushed into let's let's
+[44:36] get something new. If you have Bitcoin,
+[44:38] you're like, okay, let's step back.
+[44:40] Bitcoin is already really good. Before
+[44:42] we jump on and make a new venture, let's
+[44:45] think really clearly about is that new
+[44:47] venture really worth it or not? Yeah, I
+[44:51] think you could even relate this, you
+[44:52] know, from a really simple perspective.
+[44:54] If you related it to like the treasury,
+[44:56] for example, Treasury, it's really easy
+[44:58] for them to issue, you know, issue new
+[45:00] debt. Uh they can print the currency
+[45:02] itself to repay that back, you know,
+[45:04] debt back over time. if they were to
+[45:06] issue debt in Bitcoin, denominated
+[45:08] Bitcoin, that immediately changes, you
+[45:11] know, um the decision-making process
+[45:14] because if um if the US government were
+[45:16] to issue debt for a 100,000 Bitcoin and
+[45:18] they had to pay that 100,000 Bitcoin
+[45:20] back in Bitcoin over time, um I think
+[45:24] they would very quickly change their
+[45:25] decision-making on what they're spending
+[45:27] spending money on. And um that that I
+[45:30] think that forced financial
+[45:32] responsibility that Bitcoin naturally um
+[45:36] causes you to do is a really good
+[45:38] benefit you know whether it's on an
+[45:40] individual basis whether it's on a um
+[45:43] you know business level or even the
+[45:46] government interesting how do you think
+[45:48] uh it will impact governments thesis and
+[45:50] I I don't know if you even have that
+[45:52] thesis because there are different uh
+[45:54] there are two types of bitcoiners those
+[45:56] who think that uh central banks will
+[45:58] will always be like there will always be
+[46:00] some government token or some some fiat
+[46:02] currencies those who
+[46:04] don't let's go first in that otherwise
+[46:07] to the second question doesn't make
+[46:08] sense do you think uh there will always
+[46:11] be feared or is there a chance even like
+[46:13] 100 years down the road that that we all
+[46:15] that we get rid of that fear currency
+[46:18] yeah I think I think you know it's going
+[46:20] to take um I think it's going to take
+[46:22] some time but I do eventually think that
+[46:23] bitcoin will be the you know global
+[46:25] reserve currency
+[46:27] um it's not going to be with it's not
+[46:30] going to be a a straight you know nice
+[46:32] easy road it's going to be a bumpy road
+[46:34] lots of curves so on and so forth um but
+[46:37] I think just naturally that is the
+[46:38] progression of where this is all going
+[46:40] right and um that will be a really good
+[46:43] situation
+[46:45] in will there still be some governments
+[46:47] that will try and you know this and that
+[46:49] it might not be 100% of the world that
+[46:51] will be perfect but um it's it's it's
+[46:55] kind of the game theory of anybody who
+[46:57] is trying to do that is going to get
+[46:58] left behind, right? Um and certainly I
+[47:02] think that there's a a natural
+[47:03] progression that this should take a
+[47:05] little bit of time to play out because
+[47:06] if it happens tomorrow if if the grow if
+[47:09] the world is on a you know um Bitcoin
+[47:12] global reserve currency status um as of
+[47:15] you know
+[47:17] 2026 situation is probably not looking
+[47:20] very good in the world. I think that
+[47:21] there this is going to take a long time
+[47:23] to play out and and and if it happens
+[47:25] rapidly that probably means bad things
+[47:27] are happening in the world, right?
+[47:29] Absolutely. I always bring the Titanic
+[47:31] example up. You don't want the Titanic
+[47:34] to sink like extremely fast. You want
+[47:37] the uh savings boats and the lifeboats
+[47:40] coming and bring the people into safety.
+[47:43] So fiat being the Titanic and the uh
+[47:47] safety and the land next to it being
+[47:49] Bitcoin. So I think the we always say
+[47:54] like oh like the omega candle and and
+[47:56] and all all of those things but we also
+[47:59] have to think about the implications
+[48:01] what it means if Bitcoin actually shoots
+[48:03] up let's say we have now uh uh let's say
+[48:07] Bitcoin shoots up in May or June this
+[48:10] year to $1 million. What are the
+[48:13] implications of that? Because the
+[48:15] network didn't grow that quickly
+[48:17] probably not. So probably means the US
+[48:20] dollar or the fiat currencies really got
+[48:22] devalued and then your family and your
+[48:26] loved ones also are hurting because they
+[48:29] they might not have all uh all the
+[48:31] Bitcoin standard like you do, right?
+[48:34] It's it's it's a it's a little bit of a
+[48:37] scary thought to think about. If Bitcoin
+[48:39] is a million dollars, you know, a few
+[48:40] months from now, it probably means a lot
+[48:42] is wrong with the world. The, you know,
+[48:43] fiat, the underlying fiat currency has
+[48:45] completely collapsed. You know, the uh
+[48:47] trillion dollar
+[48:48] Zimbabwe, you know, uh paper bill, um
+[48:53] and it's a bad situation. So, I think I
+[48:54] think a s I think this is going to play
+[48:56] out over a very long period of time.
+[48:58] Now, whether that's um you know, 50 or
+[49:01] 100 years, it's it's anybody's best
+[49:03] guess at that point in time. But I I do
+[49:05] think that this is going to be a very
+[49:06] slow gradual transition, which is
+[49:09] um probably the best way to for it to
+[49:12] happen. Um you know, certainly you'd
+[49:14] like to see it a little bit sooner
+[49:16] rather than later. Just United States,
+[49:18] for example, 30 $37 trillion in debt. Uh
+[49:22] that that's that that debt is going to
+[49:23] be continued to be inflated away
+[49:24] forever. And you
+[49:26] know, it's it's just a better situation
+[49:29] if you're operating, you know, in a
+[49:30] fiscally responsible situation. um you
+[49:33] know managing your balance sheet and you
+[49:35] know how much debt you're taking on and
+[49:36] so on and so forth. Absolutely 100%. And
+[49:40] now if we are in this uh future where
+[49:42] there aren't any uh central banks being
+[49:47] far far away from each other from from
+[49:49] us but like we are in that future. How
+[49:51] do you think governments organize
+[49:53] themselves or we organize ourselves
+[49:56] without the ability to to print money?
+[50:01] Yeah. Yeah. Well, I think I think the
+[50:02] government kind of operates um like a
+[50:04] business at that point in time. It it
+[50:05] really evaluates all of the options. Um
+[50:08] you know, what does it have coming in
+[50:11] for revenue? Um you know, who who likes
+[50:13] paying taxes obviously, but you know, I
+[50:16] personally at least like the fire
+[50:17] department and the police department and
+[50:18] you know, good roads to drive on, so on
+[50:20] and so forth. Um, so you're going to
+[50:22] have some revenue coming in and you're
+[50:24] going to have um some some expenses and
+[50:26] then you're going to have opportunities
+[50:27] to invest and I think that forces um
+[50:31] intelligent investment um in the
+[50:33] country, right? It's it's my opinion is
+[50:35] it's just like a business at that point.
+[50:37] That's a good it's like it it brings
+[50:39] back government as as a service
+[50:42] basically. It's a weird term, but it
+[50:44] it's like that's what it's supposed to
+[50:47] be. Yeah, it is going to be again and
+[50:51] not that big overhead that controls all
+[50:54] the aspects of your life. No, it's like
+[50:56] actually there to to serve there to uh
+[51:00] protect the borders, there to uh make a
+[51:03] safety net for those uh who who who
+[51:05] really can't and and then have like fire
+[51:07] department and and all those things.
+[51:09] Yeah, I'm I'm a big fan of that and I
+[51:11] don't think we need to have so much
+[51:14] taxes and so many uh money printing for
+[51:17] that. we can probably do it way more
+[51:19] efficient, right? No, exactly. And
+[51:21] that's kind of the you know, I'm a big
+[51:23] believer in the free market will will do
+[51:25] its thing and um you know when when the
+[51:29] government is intervening with the free
+[51:31] market and and you know uh printing the
+[51:34] currency and making you know
+[51:35] malinvestments, it's um it's not a it's
+[51:38] not a long-term good situation, right?
+[51:40] It's it's a bad investment. Absolutely.
+[51:43] Um I ask each and every one of my guests
+[51:46] the same question and the question is
+[51:48] what can we learn from you besides
+[51:51] Bitcoin? Can we learn from me besides
+[51:53] Bitcoin? Um
+[51:55] h it's a good question. I would say that
+[51:59] um you know as it relates to to simple
+[52:03] mining you know we're just trying to um
+[52:06] we're trying to offer a really great
+[52:07] customer experience. We're trying to be
+[52:08] the best provider in the world for for
+[52:10] this type of business. and we have a lot
+[52:11] of educational content on our business
+[52:13] that isn't necessarily specifically
+[52:14] related to Bitcoin. Um, you know, some
+[52:17] of it has to do with energy and in the
+[52:18] grid and and how, you know, renewable
+[52:20] energy and these sorts of things work.
+[52:22] So, I'd say that'd be one, you know,
+[52:23] one, um, you know, resource that we
+[52:25] could be if you're interested in
+[52:27] learning more about energy, the grid,
+[52:29] and, you know, what is this AI thing and
+[52:31] how does it even work and how are the,
+[52:33] you know, data centers different and so
+[52:35] on and so forth, that would, you know,
+[52:36] we could be a good resource there.
+[52:38] Really, really cool. Um, we have an end
+[52:40] routine in the podcast where the the
+[52:42] previous guest is asking a question for
+[52:44] the next guest without knowing who the
+[52:46] next guest actually is. And this is an
+[52:48] interesting one. Uh, because the
+[52:50] previous guest asked you the question,
+[52:52] is Bitcoin a form of consciousness?
+[52:55] Is Bitcoin a form of consciousness? Hm,
+[52:58] it's a good question. Well, I would say
+[53:01] almost yes. It's kind of like um gold at
+[53:04] that point in time. like why is why is
+[53:07] society chose this shiny yellow rock to
+[53:10] be our currency? There's, you know,
+[53:13] there would be plenty of alternatives.
+[53:14] It's kind of that was the selection
+[53:17] based upon the um uh based upon the
+[53:20] properties that it had and it just kind
+[53:21] of naturally happened over time. So,
+[53:24] it's a good question. I've never been
+[53:25] asked that one, but I would have to I'd
+[53:27] have to say in in a roundabout way. Yes.
+[53:30] Yeah. That's why I love those uh the
+[53:33] Android team because there are questions
+[53:35] coming in that I might not even have
+[53:38] thought of. I have never asked that
+[53:40] question before any any guest
+[53:42] and it's it's definitely something uh
+[53:45] might not be suitable or might be
+[53:47] suitable for the next guest. Really
+[53:49] cool. Um yeah, thank you so much, Adam.
+[53:51] Um before I let you go, where can people
+[53:52] find you, ask you questions and and
+[53:54] reach out to you? Yeah, you can find us
+[53:56] on uh LinkedIn. Um I'm on LinkedIn, Adam
+[53:59] Haynes. Um our our uh company Simple
+[54:01] Mining is on LinkedIn. You can find us
+[54:03] on YouTube, Twitter, uh so on so forth.
+[54:05] We're always posting educational content
+[54:08] um and and and trying to you know inform
+[54:10] about Bitcoin, Bitcoin mining and energy
+[54:12] and all those sorts of things. Really
+[54:14] cool. Thank you so much, Adam, for for
+[54:16] being on. Also, thank you so much for
+[54:18] everyone that is watching and listening
+[54:19] for joining us today. As always, I'll be
+[54:21] back tomorrow with another episode.
+[54:23] Bye-bye.
+[54:25] [Music]

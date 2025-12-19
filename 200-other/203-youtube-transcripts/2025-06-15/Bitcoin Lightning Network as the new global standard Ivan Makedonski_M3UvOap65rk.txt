@@ -1,0 +1,1146 @@
+Title: Bitcoin Lightning Network as the new global standard? | Ivan Makedonski
+Video ID: M3UvOap65rk
+URL: https://www.youtube.com/watch?v=M3UvOap65rk
+Date Saved: 2025-06-15 12:01:31
+--------------------------------------------------
+
+[00:00] we cannot trust humans with the global
+[00:02] monetary layer so that's why Bitcoin the
+[00:05] first layer is the only thing that can
+[00:09] actually fix that issue how does the
+[00:11] lightning network uh work in very simple
+[00:14] terms uh that's what I really like about
+[00:17] the lightning Network that the person
+[00:19] that you're trying to cheat has an
+[00:21] incentive for you to cheat him because
+[00:24] the payment goes directly to
+[00:26] him why will Bitcoin be the the glob
+[00:30] settlement layer for everything because
+[00:34] it is the only thing that it can be uh
+[00:37] in my opinion the global settlement
+[00:40] layer was tried uh to be the US dollar
+[00:46] but uh because of the technology was not
+[00:51] there yet and later on all the back
+[00:55] doors uh printing money and all sorts of
+[00:58] things that are friction in the whole
+[01:01] system yeah and just playing corruption
+[01:05] uh is just
+[01:07] uh uh try to be uh but uh because of
+[01:12] human behavior it cannot be and
+[01:15] technologically actually it's could but
+[01:17] once we invented the telegraph and the
+[01:20] internet and all sorts of things
+[01:22] actually it put a light that the
+[01:25] corruption and all the in
+[01:26] insufficiencies on The Human Side got
+[01:30] corrupted faster and on a bigger SC
+[01:32] scale so we cannot trust humans with the
+[01:36] global monetary layer uh settlement
+[01:38] layer so that's why uh Bitcoin the first
+[01:42] layer is the only thing that can
+[01:46] actually fix that uh issue and it's the
+[01:51] only thing that can actually achieve
+[01:53] this goal in my opinion yeah and it's uh
+[01:57] I think it's also raises naturally like
+[01:59] it's not something you have to force on
+[02:01] people like nobody ever forced anybody
+[02:05] on bitcoin because it's like nobody
+[02:08] gains anything from forcing anything on
+[02:10] bitcoin like if I orange bill my
+[02:13] neighbor and my neighbor is getting with
+[02:16] thousand Euros in Bitcoin Bitcoin is not
+[02:19] like 20 20% more tomorrow like you don't
+[02:23] have any incentive to really orange pill
+[02:26] someone but still so many people do it
+[02:28] and it's it's it's fascinating to see
+[02:31] the the whole network grow and if we now
+[02:34] go and step further maybe we will go
+[02:37] deeper into the topic of lightning
+[02:39] Network and how Bitcoin is a global
+[02:41] settlement layer for your free articles
+[02:44] with the publishing uh Solutions and the
+[02:47] other three topic two topics but how is
+[02:50] lightning now scaling Bitcoin uh in a
+[02:54] general term for the like 8 billion
+[02:57] people we are like how is lightning now
+[03:00] um on top of Bitcoin important well in
+[03:03] order to be this settlement layer we
+[03:07] couldn't make any sacrifice on the
+[03:10] security or the um or the
+[03:15] decentralization and on the first layer
+[03:18] we sacrifice scalability in order for
+[03:22] this to be first in history
+[03:25] decentralized and secure at the same
+[03:27] time uh has to creates uh uh opportunity
+[03:34] for people to scale and for the whole uh
+[03:37] Bitcoin ecosystem to scale because we
+[03:40] are 8 billion people and not only 8
+[03:41] billion but uh there are so many
+[03:45] inefficiencies with the Fiat systems
+[03:47] that we badge so many transactions into
+[03:50] one uh and the technology is now there
+[03:54] that you are not going to receive a
+[03:57] salary once a month or once a week
+[04:00] you're going to receive streamed payment
+[04:02] for every single task that you do you're
+[04:05] going to uh pay between computers
+[04:09] between entities let's say a robot taxi
+[04:12] or something that a robot does and all
+[04:15] sorts of things that are going to be
+[04:17] unlocked so it has to uh we have to
+[04:20] solve that scalability issue and the
+[04:24] lightning network is the only thing that
+[04:28] preserves uh
+[04:30] very well the
+[04:32] security uh of the Bitcoin layer and
+[04:36] doesn't introduce thrust uh and I'm
+[04:39] obviously talking about noncustodial uh
+[04:42] lightning but so we can preserve that
+[04:45] peer-to-peer nature because if we insert
+[04:48] a custodian that means that between you
+[04:51] and me to transact there's somebody else
+[04:53] and we're getting into that um territory
+[04:57] of the Fiat system and sooner or later
+[05:00] the human behavior will will see uh we
+[05:04] are so small that right now only the
+[05:07] good actors uh I wouldn't say only but
+[05:11] people that have the ideology sacrifice
+[05:13] this technological thing and create some
+[05:16] custodial solution but if they become
+[05:19] big either they're going to be attacked
+[05:22] from the state from hackers or from
+[05:24] anywhere else or they're going to be
+[05:26] corrupted themselves so
+[05:30] small or big and the custodians are at
+[05:33] that risk but in the non-custodial way
+[05:35] the lightning network is the only viable
+[05:38] solution live right now and uh in order
+[05:44] to be useful uh you need just like the
+[05:49] internet uh needed a lot of
+[05:52] infrastructure to be made and right now
+[05:54] to have this call I have no idea what
+[05:58] has to happen in order for me directly
+[06:01] to uh buy my own Hardware to connect to
+[06:04] the internet to be my own internet
+[06:07] service provider but I pay a small
+[06:11] monthly fee to an internet service
+[06:13] provider on my side and you on your s
+[06:16] and now we are connected on this podcast
+[06:18] but uh this same approach is what Breeze
+[06:23] actually coin the term lightning service
+[06:26] provider where uh there's specialized
+[06:30] entity a company where it figures out
+[06:33] all that complexity for us and it just
+[06:36] gives me a simple app where I'm using
+[06:39] the lightning network but I don't have
+[06:41] to deal with all that complexity I just
+[06:44] have the noncustodial uh nature but the
+[06:48] being online dealing with the hardware
+[06:50] dealing with the protocol and all sorts
+[06:52] of things that I have no idea what's
+[06:55] behind somebody else specializes and
+[06:59] every time time that I make a payment
+[07:01] they take the routing fees they don't
+[07:03] come to me because I'm not I don't have
+[07:07] the uh
+[07:08] node uh I'm not the node operator but
+[07:13] the node operator is the lightning
+[07:15] service provider so when I I make a
+[07:17] payment uh that small fee goes to them
+[07:20] and that is kind of the approach and
+[07:22] I'll stop here because I can talk a lot
+[07:24] it's good I think and um maybe for
+[07:27] people that are new to the space or even
+[07:30] to for people that are along in the
+[07:31] space and maybe want an really simple uh
+[07:35] way to explain for other people the
+[07:38] lightning Network maybe you can give us
+[07:39] like a really short introduction how
+[07:42] does the lightning network uh work in
+[07:44] very simple terms for the new people
+[07:47] that are I think there's always in every
+[07:50] Bitcoin podcast in every Bitcoin article
+[07:54] there's someone uh that just discovered
+[07:57] Bitcoin in there and I always try to
+[08:00] keep my podcast really simple terms and
+[08:03] uh for them to not go get overwhelmed
+[08:06] like maybe can you give like a short a
+[08:08] simple introduction to the lightning
+[08:10] Network in
+[08:11] general yes uh I would assume that the
+[08:16] person understands the onchain
+[08:18] transaction but from that premise and
+[08:21] the lightning Network it's uh it is
+[08:25] between peers again let's say I have uh
+[08:28] on chain wallet and you have onchain
+[08:31] wallet and we uh both of us together say
+[08:35] we're going to transact often between us
+[08:38] so let us both create a multi- separate
+[08:42] wallet where I say I'm going to connect
+[08:45] to you
+[08:46] directly uh and I'm going to put let's
+[08:50] say 1 million Sates on my end of the
+[08:54] channel uh so because I'm going to pay
+[08:57] you let's say ,000 Satoshi every other
+[09:01] day or something I'm going to make a lot
+[09:03] of transactions when we set up that
+[09:06] channel um between us we uh can actually
+[09:11] um we don't pay any fees uh on the on
+[09:14] chain uh wallets you have to pay the
+[09:18] mining fees and you have to have that uh
+[09:21] waiting period for the next block to be
+[09:23] found but when we set up that channel
+[09:26] between us now we uh we don't pay any
+[09:30] fees between us to go back and
+[09:33] forward uh and it settles
+[09:37] instantly so why is it thrust list
+[09:41] because if I try to let's say I open a
+[09:44] Channel with one million sets I send you
+[09:47] half a million sets and I say I'm going
+[09:49] to close the channel That is full on my
+[09:52] side because it is an address that both
+[09:55] of us control you can see that I cheated
+[09:59] so if you catch me that I
+[10:01] cheated I am not only going to you're
+[10:04] not only going to get the fire uh half a
+[10:07] million says that you're technically old
+[10:10] but you can take all the funds that were
+[10:13] in that channel so if I cheat I'm not
+[10:17] only punished but uh that's what I
+[10:20] really like about the lightning Network
+[10:22] that the person that you're trying to
+[10:25] cheat has uh an incentive for you to
+[10:28] cheat him because the payment goes
+[10:30] directly to him and this is completely
+[10:33] inversed in the Fiat system thinking
+[10:36] because if you cheat there and even if
+[10:39] you're caught a lot of the times big
+[10:41] deal uh maybe you pay some fine but you
+[10:45] printed so much money to yourself or
+[10:48] whatever so whatever uh but now that if
+[10:53] you cheat you're not only going to pay
+[10:56] what the other person is owed but the f
+[10:59] M goes directly to them uh that's why it
+[11:02] is trustless network and that is the
+[11:05] simple thing between a channel between
+[11:08] us now to abstract it away what I talked
+[11:12] about lightning service provider we are
+[11:15] no technical people so imagine that
+[11:18] right now we don't have a channel
+[11:20] between us but I'm connected to some
+[11:23] company that let's say I open a channel
+[11:26] to them and more accurately they open a
+[11:29] channel for me and also they open a
+[11:32] channel to you so when I want to send a
+[11:35] payment to you that means that that
+[11:38] payment is going to go through both of
+[11:40] those channels and because it's going
+[11:43] through that uh lightning service
+[11:45] provider they take let's say one satosi
+[11:48] fee or 10 satosi fee whatever but that
+[11:52] is kind of the dynamic uh it scales I
+[11:56] would say slowly because it's uh
+[11:59] very technical thing you have to be
+[12:01] really an expert lightning is not for
+[12:04] amateurs but the lightning experts with
+[12:07] these lightning service providers are
+[12:10] introducing new Solutions so we can use
+[12:12] it in this non-custodial matter manner
+[12:16] uh and it's I think the the next two
+[12:19] years will be a lot about
+[12:22] lightning I also think so and uh are you
+[12:26] suggesting that we like as a bitco and
+[12:29] now and you understand Bitcoin you have
+[12:31] Sal custody you run your own node you do
+[12:33] everything uh as bitcoiner should do is
+[12:37] the next step now running a lightning
+[12:39] node uh playing around with lightning on
+[12:42] a non uh non-custodial way like what's
+[12:45] what's the next step for Bitcoin is it
+[12:47] running a lightning node should that
+[12:49] every should everyone run a lightning
+[12:51] node yeah absolutely not uh if uh you
+[12:57] decide to run a lightning node
+[12:59] even when I started working at Bree I
+[13:02] thought that I need to run a lightning
+[13:04] node to understand and to do my job
+[13:06] better but the devs told me like
+[13:10] lightning is not for amateurs you have
+[13:12] to have the technical capability you
+[13:15] have to be interested and there are a
+[13:17] lot of things think about this you have
+[13:20] to become a lightning operator it's not
+[13:22] that uh you have some type of address
+[13:26] and the computer takes care of it uh
+[13:28] itself
+[13:29] there are so many things that come into
+[13:32] becoming this lightning operator and it
+[13:34] never
+[13:35] sleeps uh all the time 247
+[13:39] 365 uh so yes you have the incentive to
+[13:43] do that because just like I explained if
+[13:47] uh you start to be a very good operator
+[13:51] you're going to earn by people going
+[13:54] through your noes but if you're just
+[13:58] trying to to double uh here and there uh
+[14:02] I it's not going to be worth that amount
+[14:06] of effort and that amount of energy to
+[14:09] go into this and uh let's say um you go
+[14:13] do your regular job and you pay the
+[14:17] 0.1% fee for every payment even less uh
+[14:22] to somebody that is going to take care
+[14:24] of all the security being online uh all
+[14:27] the time upgrading when it's needed with
+[14:30] all the features all that complexity is
+[14:33] going to be um U dealt by the experts by
+[14:37] the lighting service providers and you
+[14:39] and me we're are going to work what we
+[14:41] are experts at and we are going to
+[14:44] transact between us and pay those small
+[14:46] fees if if you decide to go to this this
+[14:51] is the opportunity cost uh is it worth
+[14:54] really digging into becoming an
+[14:57] lightning expert and earning this way or
+[15:01] is it worth you being an expert in
+[15:03] something else and you uh pay for those
+[15:06] fees in the lightning Network yeah it's
+[15:10] basically that's the the whole premise
+[15:12] um like Bitcoin is a savings account
+[15:16] everybody should use but if you really
+[15:19] want to like there's all this notion
+[15:21] yeah you can trade it you can do stuff
+[15:23] with it you can run a lightning node and
+[15:25] it's completely two different things uh
+[15:28] but uh if if you really want to do
+[15:29] something with your Bitcoin as like
+[15:31] lightning node running it's more like a
+[15:34] business also Bitcoin mining like it's
+[15:36] there's a lot to Bitcoin mining that you
+[15:39] have to consider uh before you start it
+[15:42] like it's it's not as buying Bitcoin
+[15:44] it's it's it gets from the savings side
+[15:46] to an investment uh or even like an
+[15:49] entrepreneural uh side and I imagined as
+[15:53] I'm not an lightning expert but I
+[15:55] imagine it's the same with lightning
+[15:57] operators with lightning uh node Runners
+[15:59] when I hear you enter a you enter a very
+[16:04] uh big competition uh just like the
+[16:06] maining operators now it's not only that
+[16:10] you have to be very efficient but you
+[16:13] have you are competing against everybody
+[16:16] else globally and that is the same in
+[16:19] the lighning network yes you can set up
+[16:22] and that's why it's not for amateurs
+[16:24] because if you just want to understand
+[16:26] how it works and let's
+[16:29] say spend uh few hundred dollar just for
+[16:33] understanding okay but that is getting
+[16:36] the knowledge but to actually operate it
+[16:39] uh that is the consideration it's not
+[16:42] worth it because if you're average
+[16:44] you're going to be priced out just like
+[16:47] the mining companies are doing what's
+[16:49] the um like as for Bitcoin mining you
+[16:54] have an advantage if you have a big
+[16:55] facility you have an advantage if you
+[16:58] have cheap electricity uh if you can
+[17:00] have like a solar roof where it's always
+[17:03] sunny if you have wine turbin where it's
+[17:06] always when when like this if you have a
+[17:08] cheap electricity and a big facility you
+[17:11] have an advantage over other people
+[17:14] what's the advantage of having like is
+[17:16] it just knowledge that you need for
+[17:19] lightning operators like or is there any
+[17:21] other advantage to I I would say the uh
+[17:25] it's not only knowledge and it's moving
+[17:28] Target
+[17:28] uh the first thing is that you because
+[17:33] the lightning protocol even though it is
+[17:35] uh 5 years it it is still being
+[17:38] developed uh and you have to be uh
+[17:43] connected really good to the network
+[17:45] because nobody wants to make a payment
+[17:48] through you and it fails 50% of the time
+[17:52] so uh on the technological side you have
+[17:55] to listen to where the payment is
+[17:58] actually going to get through uh you
+[18:01] have to understand about servers you
+[18:03] have to understand about protocol and
+[18:06] it's a lot of things and it is a moving
+[18:09] Target so if but the very very good
+[18:14] thing is because it's an open-source
+[18:17] thing that if somebody makes a
+[18:19] breakthrough in the lightning
+[18:21] network uh everybody benefits uh for
+[18:25] example we just published in Twitter
+[18:29] that uh we made a non-custodial offline
+[18:34] payment uh and right now because breed
+[18:37] solved it everybody else can see our
+[18:40] code and can implement it in their
+[18:43] application so even though we are
+[18:45] competing against each other all of us
+[18:49] benefit when any of us uh make a
+[18:53] breakthrough in the whole ecosystem
+[18:55] because we want that second layer to be
+[18:58] very very reliable we don't want to have
+[19:01] even 5% failed payments we want to just
+[19:06] work yeah that's that's a Target and and
+[19:09] if we want Bitcoin to succeed as a
+[19:11] global settle settlement layer as the
+[19:14] global unit of account Global medium of
+[19:16] exchange we need uh layer Solutions and
+[19:20] uh there are two more questions to the
+[19:22] lightning Network the first question for
+[19:24] me is like can there be another layer to
+[19:28] ution that is maybe out growing in the
+[19:31] future lightning and then other question
+[19:34] is like how many layers or are there
+[19:37] layers that will be developed on top of
+[19:39] lightning and if so how many layers can
+[19:42] there be on on light on the layer two
+[19:45] can there be maybe like 10 layers uh of
+[19:49] of of Bitcoin before like there's like
+[19:51] the the guy who orders like a Starbucks
+[19:54] coffee he orders it on layer five with
+[19:57] his like 70 uh
+[20:00] Sates uh and the banks or like big
+[20:03] institutional investors they operate on
+[20:06] layer one or two like how will it work
+[20:09] in the future the layers and will there
+[20:11] be competition to the lightning Network
+[20:13] I I would say just like in the mining uh
+[20:16] in the lightning Network the competition
+[20:18] is going to be even uh bigger uh because
+[20:23] even now we are probably 1% Global
+[20:27] adoption even Less in uh the Bitcoin
+[20:31] ecosystem and out of that
+[20:33] 1% uh people that really understand
+[20:37] lightning Network let's say is one1 of
+[20:39] that uh those are rough estimations on
+[20:43] my side but uh I don't think uh it will
+[20:49] be a lot of layers above this it's the
+[20:53] third layer can be the application uh
+[20:57] because let's say say that we are users
+[20:59] in one application that can be solved
+[21:02] for example just in the user experience
+[21:05] uh what needs to be settled between us
+[21:08] and for example uh you can use the
+[21:12] second layer to send one satosi away but
+[21:15] if the application layer uh just figures
+[21:19] out okay uh Ivan needs to send uh Robin
+[21:24] of once DOI every second it just going
+[21:28] to start counting and at the end of the
+[21:31] that streaming satosi is going to create
+[21:33] just one invoice and it's going to make
+[21:35] one payment uh that's just one solution
+[21:39] there are other ways but I don't think a
+[21:42] lot of other layers need to be uh above
+[21:46] the lightning or anything else and my
+[21:49] personal opinion is that I don't think
+[21:53] uh something else will out compete the
+[21:56] lighning network but but definitely
+[21:59] there will be other Solutions mitigating
+[22:02] some stuff but right now how the
+[22:05] development is going uh lightning is the
+[22:09] fastest horse and uh it's on a very good
+[22:13] trajectory yeah I also think so like you
+[22:16] hear a lot about lightning Network and I
+[22:19] think one year ago there was some uh bus
+[22:22] around another Network I actually forgot
+[22:24] the name about it uh but uh I don't hear
+[22:29] anything about another really good
+[22:31] working life solution other than
+[22:34] lightning and it will become with each
+[22:38] year that Lightning goes on and Bitcoin
+[22:40] goes on it will be harder to compete
+[22:42] with lightning like the same thing we
+[22:44] had basically with Bitcoin and like
+[22:46] right right now we're in the point I
+[22:48] think where Bitcoin is not uh
+[22:50] destroyable where Bitcoin is not uh it
+[22:53] cannot be overtaken by another
+[22:55] decentralized Network that's the Sim
+[22:57] like it's almost impossible I would put
+[23:00] it as like a
+[23:02] 99.999% security there and the same is
+[23:06] happening with lightning it's younger
+[23:08] than Bitcoin it's on top of Bitcoin uh
+[23:11] it's uh subject to more competition I
+[23:14] think in the future uh but with every
+[23:17] day it lives on and with every uh user
+[23:20] that develops on the the every user that
+[23:23] spend with lightning it will get harder
+[23:25] and harder to to to beat the network
+[23:28] effects of of lightning absolutely and I
+[23:32] even think that uh maybe not this cycle
+[23:35] but the next cyle for certain we are
+[23:38] going to have people come into Bitcoin
+[23:41] and not even touch the first layer uh so
+[23:44] the network effect in the lightning
+[23:46] network is going to grow a lot more
+[23:49] stronger because even the businesses uh
+[23:53] for example let's say the ATMs that are
+[23:56] on chain only
+[23:59] they're going to be priced out in a few
+[24:01] Cycles what you can buy from an ATM so
+[24:04] if they don't implement the lightning
+[24:07] Network or something that is much faster
+[24:10] they're going to be out competed in the
+[24:12] first layer as a business so even the
+[24:15] businesses right now are incentivized to
+[24:18] um to give something that is cheap and
+[24:21] fast because of the mining fees and the
+[24:24] only really working solution right now
+[24:27] is the lightning Network so obviously
+[24:30] they're going to go there and when the
+[24:32] businesses Implement those solutions
+[24:34] they will invite a lot of new users and
+[24:37] as I said there are going to be people
+[24:39] more and more that have no idea about
+[24:42] the first layer Dynamics I'm super
+[24:45] excited to announce that this podcast
+[24:48] just got the first ever sponsor I just
+[24:52] started the podcast out like three
+[24:53] months ago and now we have 21 Bitcoin as
+[24:57] a partner for this podcast 21 Bitcoin is
+[25:02] Bitcoin only from day one and they teach
+[25:05] and preach self custody this is my goto
+[25:09] exchange when someone asks me oh where
+[25:12] can I buy my Bitcoin from this is the
+[25:15] easiest entry for bitcoiners and if you
+[25:19] want lower fees Plus at the same time
+[25:21] support this podcast use code Robin and
+[25:25] click the link in the description yeah
+[25:27] Especial
+[25:28] um like when you look at really poor
+[25:32] countries that uh stack really a small
+[25:35] amount of satosi every week and for them
+[25:40] just to go onto the main layer with the
+[25:43] transaction transactions and they need
+[25:46] maybe to spend their Bitcoin because
+[25:47] they don't have any other options like
+[25:49] we always say like oh don't sell your
+[25:51] Bitcoin but there is someone that has no
+[25:53] other options to to sell than your
+[25:56] Bitcoin and then transactions fee on uh
+[25:59] the main layer basically force you to be
+[26:02] on the the second layer uh which is I
+[26:06] think a good thing because it drives
+[26:08] Innovation uh and also big fees on the
+[26:11] main layer means that we have a a bigger
+[26:15] security budget for the Bitcoin miners
+[26:17] which secures the whole network more
+[26:19] like at least I think like that um and I
+[26:24] mean as as as we get into the whole
+[26:27] instant Global uh settlement layer um
+[26:31] maybe before we get all in the Articles
+[26:33] also how did you find your way in
+[26:37] Bitcoin and what's motivating you so
+[26:41] much to make your your life also about
+[26:44] Bitcoin because you're working in
+[26:46] Bitcoin in the as a a Bitcoin company
+[26:49] and the Brie uh what what's what's
+[26:52] motivating you to do all that I would
+[26:54] say that my personal story is I I
+[26:59] realized on a very deep emotional level
+[27:03] the problems in the Fiat system and I
+[27:05] was
+[27:06] predisposed uh to look for Solutions
+[27:10] there and the only solution was uh
+[27:12] Bitcoin and we're not going to get into
+[27:17] that uh whole thing but I would say this
+[27:20] my mother was killed because of money
+[27:23] and the only solution that uh
+[27:28] could have helped that uh situation is
+[27:32] that if her assets were in Bitcoin and
+[27:36] when I saw that and when you know that
+[27:40] there was a solution for that
+[27:43] situation uh it is extremely emotional
+[27:48] for me uh and I was put in that position
+[27:51] to understand it this deeply but uh
+[27:55] other people will have will not do the
+[27:58] work to understand it why Bitcoin is the
+[28:01] only solution and uh so many people um I
+[28:07] would
+[28:09] say ne they're never going to want to
+[28:14] understand something like this they have
+[28:16] the problems that they have they they're
+[28:18] searching solutions for their own
+[28:20] personal problems but because of this
+[28:23] emotional thing that happened in my life
+[28:25] and every that uh occurred after that
+[28:31] how to get the money that me and my
+[28:34] sister are all to inherit with the
+[28:37] inheritance problems with the law with
+[28:40] people uh stealing from us even after
+[28:44] this tragedy when you're very low at
+[28:47] your low point of your life all those
+[28:50] problems I was trying to deal with them
+[28:53] uh I failed at some stuff I succeeded
+[28:57] everywhere and uh my lady uh invested
+[29:02] some money in ethereum and she was
+[29:04] chasing me for more than a year uh let's
+[29:08] make money about this and because I knew
+[29:11] that it was associated with scaming and
+[29:14] it wanted to stay away but at some point
+[29:17] in the boom Market uh I just capitulated
+[29:20] and said I'm going to prove that this is
+[29:23] a total scam and in span of three uh
+[29:28] days I found out yes I'm absolutely
+[29:31] right about crypto but this goddamn
+[29:34] Bitcoin thing I can't find the hole how
+[29:37] it's coming some group of people and uh
+[29:41] in three days I found out that Bitcoin
+[29:44] is different but in 10 days let's say I
+[29:48] started to grasp this uh whole network
+[29:52] the whole incentives how it is set up
+[29:56] and uh became more and more a Believer
+[29:59] and at the point where I heard uh Jason
+[30:02] Larry's thesis about power projection
+[30:05] and I connected that with my own case I
+[30:09] said this is it I don't care uh what
+[30:13] other people think uh this is the only
+[30:16] solution for the people that it really
+[30:19] really matters and then I D really deep
+[30:23] into it and I said I must contribute
+[30:27] it's not that I want to because I
+[30:29] understand it on that deep level and a
+[30:33] little bit of look uh landed me the
+[30:36] position in Breeze but I started doing
+[30:39] stuff for Bitcoin anything that I could
+[30:42] contribute and I became this evangelist
+[30:46] for other people to understand it in a
+[30:49] deep level and at some point uh when you
+[30:53] get on the mission and not the
+[30:55] money you get lucky because you're not
+[30:59] going to get out of track uh going to be
+[31:03] distracted by money because ethically I
+[31:06] know exactly what I'm fighting for uh I
+[31:10] just found the company that is a really
+[31:12] good fit with uh that mission and then I
+[31:16] wanted to contribute to as much as I can
+[31:20] and even now even though I'm working
+[31:22] with Breeze I am not stopping uh because
+[31:27] I have 9 to5 job or something I started
+[31:31] a Bitcoin Meetup in my city because
+[31:34] nobody was doing it uh I inspir other
+[31:37] people to make seminars I contribute to
+[31:39] other seminars I orange Bui all my
+[31:42] relatives uh so yeah when you're on the
+[31:45] mission you're going to contribute and
+[31:47] the community and the whole ecosystem is
+[31:49] going to get back at you but if you're
+[31:52] in it for the money uh there will be
+[31:56] times where you're basically
+[31:59] because uh money fluctuates the mission
+[32:04] doesn't yeah it's that that is so true
+[32:07] because uh I mean I started my talking
+[32:12] about money Journey four years ago uh in
+[32:16] around
+[32:17] 2020 uh around that time actually and I
+[32:21] started talking about Bitcoin
+[32:24] in yeah also 20 20 but more like 2021
+[32:29] because I needed a year to go from my
+[32:31] stocks to actually Bitcoin only um and I
+[32:37] just went on Twitter and rambled about
+[32:41] what I do I do did do do now the podcast
+[32:44] also and uh till January this year I did
+[32:48] not made a single Euro uh from anything
+[32:52] and I did it for like over a year I did
+[32:54] more than 50 tweets a day uh because
+[32:57] because I was just uh discussing with
+[32:59] everybody that wrote me back as no
+[33:02] matter if it was a good comment or bad
+[33:04] comment because I had the mission and
+[33:06] not uh the money like I spent so such a
+[33:10] immense amount of time on it and I work
+[33:14] next to it in sales and it's an
+[33:16] interesting contrast because in sales
+[33:17] you have the agenda to make money like
+[33:20] that's that's basically your job if you
+[33:22] don't make money you're just not doing
+[33:24] your job uh and uh made a quite good uh
+[33:28] income with that and with Bitcoin I made
+[33:30] no income at all like with Bitcoin with
+[33:33] with uh talking about Bitcoin and it
+[33:36] just fueled me with so much energy uh
+[33:39] doing that and it's it's a great journey
+[33:42] to be on so I I can fully understand
+[33:44] where where you're coming from and the
+[33:45] journey and I I congratulation for for
+[33:48] stepping into the Bitcoin only world and
+[33:50] also
+[33:51] being in in the chob world in Bitcoin
+[33:54] that's a it's amazing step to be in um
+[33:57] and you also wrote three articles about
+[33:59] that instant settlement in with with the
+[34:02] lightning Network and what we touched on
+[34:05] before uh and I think it was published
+[34:08] in the Bitcoin magazine uh and maybe
+[34:11] somewhere else
+[34:13] if also um and those three articles are
+[34:18] basically how instant settlements in the
+[34:21] lightning Network and the construction
+[34:24] industry in the logistic industry and
+[34:26] the in the publish
+[34:27] industry uh will disrupt
+[34:30] things um maybe before we go into each
+[34:34] industry what's the overall uh premise
+[34:37] the overall conclusion about about that
+[34:40] how will it disrupt the world
+[34:43] basically yeah uh because I was a
+[34:48] manager in a lot of Industries in my
+[34:51] feia
+[34:52] jobs and I was responsible for a lot of
+[34:55] people uh in some of them but I
+[34:59] recognized a very big problem and uh I
+[35:03] didn't know the root cuse I just
+[35:05] recognized the problem that uh the
+[35:10] employees uh actually figure out in the
+[35:12] first month maybe two what is the
+[35:15] minimum amount of work that they need to
+[35:18] do so that they don't get fired so
+[35:20] basically they figured
+[35:23] out to do as little as possible for long
+[35:27] as possible uh but on the other side the
+[35:30] employers and the managers people that
+[35:33] are rewarded for
+[35:35] performance uh actually want to squeeze
+[35:39] the most out of those same workers and
+[35:41] that's a direct conflict one wants to do
+[35:44] as little as possible for the most
+[35:46] amount of money and the other wants to
+[35:49] pay the least amount of money for the
+[35:51] most amount of work and I recognize that
+[35:53] problem 15 maybe 20 years ago
+[35:57] something like that and I realized that
+[36:01] in order to motivate the people uh I
+[36:05] don't I don't uh I have to figure out
+[36:09] other ways than money because if I give
+[36:11] them purpose if I give them bonding with
+[36:13] the team experiences that motivates them
+[36:16] but I still didn't realize what was the
+[36:19] root cause and once I started working at
+[36:22] Breeze and figuring out this fast inance
+[36:27] instant settlement glob even though the
+[36:29] lightning network is not going to serve
+[36:32] 8 billion people uh but it will be on
+[36:35] the trajectory for this instant
+[36:38] settlement something that we never had
+[36:40] before I recognize that this is actually
+[36:43] the problem because people are not paid
+[36:48] those same workers people are not paid
+[36:50] for work they are paid for the time that
+[36:54] they're in the store that they in the
+[36:56] the company and if you're paid for your
+[37:00] time your personal incentive is exactly
+[37:05] what happens to most of them how do I do
+[37:08] nothing and receive money so in order to
+[37:11] have 100% profit you need to be paid for
+[37:15] time and do nothing your payment is
+[37:19] actually the work done the energy that
+[37:21] you spend so if you don't spend any
+[37:23] energy the money that you receive is
+[37:25] 100%
+[37:27] and now understand all those problems
+[37:30] that I faced in the FIA job and it just
+[37:34] uh the labor force are not stupid
+[37:37] they're just pulled through that
+[37:40] incentive uh and I recognize if we have
+[37:43] instant settlement payments that are
+[37:46] paying for not time but for tasks and
+[37:50] for things that have to be achieved now
+[37:53] the company the managers and the labor
+[37:57] force are going to be completely aligned
+[38:00] uh because we are paid for kind of the
+[38:03] same thing but different people are
+[38:05] doing different parts of it uh and this
+[38:09] was the very big uh breakthrough uh
+[38:13] realizing that that was the root cause
+[38:15] and obviously in the articles I dig into
+[38:19] the uh the other very big uh paradigm
+[38:23] shift is that now we have split payments
+[38:26] uh because the labor force are doing the
+[38:29] work but the company is taking most of
+[38:32] the profits a lot of the times now uh
+[38:36] that we are not only allign to do the
+[38:40] same thing but everybody can be split
+[38:42] paid for anything so let's say I'm a
+[38:45] Salesman in a store and I'm not paid for
+[38:49] time but I'm paid for what I sell if I
+[38:53] sell let's say something for 100 pounds
+[38:57] uh and I know that I make uh 5%
+[39:00] commission 10% 20 it doesn't matter the
+[39:02] percentage but I negotiate with the
+[39:04] company what is my percentage the person
+[39:07] that is paying for let's say uh a pair
+[39:10] of shoes I'm going to receive five% of
+[39:13] that then the next one is uh suit I'm
+[39:16] going to receive instantly me on the one
+[39:19] side the company on the other the uh
+[39:22] manager this site or how many ever uh
+[39:25] splits you want to take so that is the
+[39:29] nature of that whole series and the
+[39:31] first three articles are out but three
+[39:33] more are going to come out in the next
+[39:35] weeks oh that's that's interesting
+[39:37] because I I thought like as I went
+[39:40] through the
+[39:41] Articles this looking at an industry is
+[39:45] basically uh you can put it any industry
+[39:48] right it's like just you can look in a
+[39:51] specific industry but basically you can
+[39:53] have the whole concept in all the
+[39:55] industry
+[39:57] and maybe for like maybe let's dive into
+[40:00] the publishing industry first because
+[40:02] it's like the the closest uh to most
+[40:05] people because they're consuming right
+[40:07] now something that is published uh like
+[40:10] a podcast how can this disrupt podcasts
+[40:14] offers of books uh social media in
+[40:16] general uh like mainstream TV maybe even
+[40:20] I don't like how how disruptive will
+[40:22] will that be and how will how fast maybe
+[40:25] also can that
+[40:27] uh change happen yeah I would say that
+[40:29] if we're looking at the podcast industry
+[40:32] the solutions are already out completely
+[40:36] out uh because as a podcaster you can
+[40:41] publish that podcast in podcasting 2.0
+[40:44] you connect you can connect your
+[40:47] lightning wallet to that and everybody
+[40:49] that wants can send uh satosi to the
+[40:52] podcast via streaming or via boost if
+[40:55] you're
+[40:57] uh let's say three people involved in
+[41:00] the production of the podcast you can
+[41:02] split those payments that you know let's
+[41:04] say 50% goes to the business itself 25%
+[41:08] to the host 25% to the editor or
+[41:12] whatever You' like to split that
+[41:14] technology is already available you just
+[41:17] need to figure it out and use it and I
+[41:21] apply that uh same thinking as the
+[41:23] podcast to the publishing industry now
+[41:26] imagine that somebody uh publishes a
+[41:30] book they have to negotiate with a
+[41:32] publishing uh house uh what they uh what
+[41:38] they need as a signing bonus or anything
+[41:41] else what the publishing house is going
+[41:43] to do what they are going to do when
+[41:44] they're going to deliver all sorts of
+[41:46] complicated things for something that
+[41:49] will happen in the future and I'm saying
+[41:51] okay now let's uh completely ignore the
+[41:56] feat type of thinking and let's use this
+[41:59] instant settlement technology uh most
+[42:03] efficiently now I am an author I'm
+[42:05] writing a book and the moment that I
+[42:08] have the manuscript ready I can
+[42:11] self-publish it and I receive 100% of
+[42:14] the sales directly to my lightning
+[42:16] wallet or because I don't want to be a
+[42:19] marketer I go to a publishing house and
+[42:22] we negotiate the split between us so
+[42:25] every single copy of the book that is
+[42:27] sold the author receives their split
+[42:30] payment and the Publishing House receive
+[42:32] the other payment now that the book is
+[42:35] out somebody else needs to translate it
+[42:37] into another language uh so uh the
+[42:41] original book is split in two ways uh
+[42:44] but the the second language is going to
+[42:47] be uh split in three ways it's going to
+[42:50] be between the translator the author and
+[42:54] the Publishing House uh then I take it a
+[42:57] step further if you make an audio book
+[43:00] the same manuscript uh the audio book
+[43:04] needs a narrator a producer a sound
+[43:07] engineer so it's a complete project on
+[43:09] its own but again you can split the
+[43:11] payment however you like for each
+[43:13] individual copy of the book or each
+[43:16] individual copy of the audio book and
+[43:18] that thing is a that technology is
+[43:21] available now what I'm trying to focus
+[43:24] in the articles is that some somebody
+[43:26] needs to create that app because the
+[43:29] technology is out now you don't need to
+[43:32] be a lightning expert uh how to split
+[43:34] payments all sorts of things yeah you
+[43:37] need to understand some uh programming
+[43:40] because you need to create the
+[43:41] application itself but uh you're a
+[43:44] developer you just develop an app and
+[43:47] you contact somebody like breeze or
+[43:50] another company that is building
+[43:52] infrastructure and you say Okay I want
+[43:54] to receive payments and setting up
+[43:56] wallets or even use already uh solutions
+[44:00] that are already out and the last thing
+[44:04] is uh in the publishing article
+[44:07] publishing books is
+[44:09] that now you don't even have to go to a
+[44:13] publishing house because uh you can
+[44:17] actually
+[44:18] self-publish but you go to influencers
+[44:21] and you don't tell them promote this
+[44:24] book and I'm going to give you a
+[44:27] discount what they do with every
+[44:29] influencer right now oh buy this product
+[44:33] or this service and you're going to
+[44:35] receive whatever discount uh and the
+[44:38] user experience is kind of okay but uh
+[44:42] with the lightning Network it's going to
+[44:43] be the influencer is going to say buy
+[44:47] this book uh May yeah there is no
+[44:51] discount but every single sale of that
+[44:54] book uh the influencer is going to
+[44:57] receive their share of the split payment
+[45:01] and now you're not every author is not
+[45:05] going to be blocked by publishing houses
+[45:07] what has to be out and uh they're not
+[45:10] blocked by their marketing skills they
+[45:13] just create something of value of some
+[45:16] type of information they publish it and
+[45:19] they approach um people that can promote
+[45:22] it and say if you sell it through your
+[45:25] website your platform or whatever you're
+[45:28] going to receive this share for every
+[45:30] single individual copy it's not going to
+[45:33] be uh I'm going to sell it just like the
+[45:36] publishing houses now uh they receive
+[45:39] the payment and at some point they they
+[45:41] pay some royalties now go check if the
+[45:44] sales are correct go check if they're
+[45:47] not officiating some numbers uh the
+[45:51] verification is very hard but with
+[45:54] instance settlement you don't need to
+[45:56] verify anything every single payment is
+[46:00] a purchase uh for and it's a income for
+[46:04] everybody that contributed to that
+[46:05] project being built in the publishing
+[46:08] industry I would say here I would stop
+[46:12] yeah I think uh and now it makes a lot
+[46:16] more sense uh how lightning actually can
+[46:19] be used and disrupt the world because a
+[46:22] lot of people say oh Bitcoin is just
+[46:24] money and I basically agree with that
+[46:26] but uh Bitcoin is digital and sound
+[46:30] money like we have digital money already
+[46:33] and we have sound money already but this
+[46:35] brings Bitcoin brings those worlds
+[46:37] together and this uh enables so many
+[46:41] amazing use cases uh and we can
+[46:44] basically go through every industry
+[46:47] right now and give examples how this uh
+[46:49] will go uh but I think it will it will
+[46:53] make like a 10hour podcast out of it uh
+[46:57] and so but I think now the the point is
+[47:01] made how Bitcoin and the lightning net
+[47:03] better um maybe for the everyday blab
+[47:07] out there how what should we like
+[47:10] obviously you work at PRI uh but what
+[47:13] should we um uh consider when we
+[47:18] choosing uh liening tools no matter if
+[47:21] it's like for yourself to pay stuff or
+[47:24] to set up stuff uh for payments uh maybe
+[47:28] even like how should I start like if I
+[47:30] have an app idea for like something like
+[47:33] a split payment in my industry uh where
+[47:36] should I go who should I contact like
+[47:38] how how can I get involved in in the
+[47:40] whole thing I would say uh first uh
+[47:43] thing uh that you have to realize uh
+[47:46] that is completely opposite than the
+[47:49] Fiat system is that the person that is
+[47:52] paying is paying for the fees because
+[47:55] because in the Fiat system if you go to
+[47:57] a store uh you pay what they ask and the
+[48:02] fee we are still paying it as users but
+[48:05] it's hidden it's actually the fee to the
+[48:08] banks to the payment processors are
+[48:10] actually extracted away from the company
+[48:13] that is getting that payment so when you
+[48:17] send a payment or when you open a
+[48:19] channel and you send that fee that also
+[48:22] applies to the uh first layer of Bitcoin
+[48:25] the person that is sending the payment
+[48:28] is actually paying for that fee and when
+[48:30] people say oh I pay that fee so I lost
+[48:34] let's say 2,000 satoshis they think that
+[48:37] they lost it no you're paying for a
+[48:39] service to send that money somewhere uh
+[48:43] so that is a big paradigm shift and from
+[48:46] this I would say invest some amount of
+[48:51] money intentionally to uh to make
+[48:56] every single type of payment as the user
+[48:59] to understand what's the difference
+[49:01] between custodial lightning and
+[49:03] noncustodial lightning was the
+[49:05] difference between opening channels uh
+[49:08] there are different Technologies of
+[49:11] sending the actual payments and just say
+[49:14] I'm going to uh not be frustrated
+[49:16] because I want to say let's say buy a
+[49:19] book or pay for this podcast and I'm
+[49:22] charged some amount of Satoshi and I'm
+[49:24] losing uh on this transaction but say
+[49:27] I'm going to intentionally payments that
+[49:30] are kind of fake just so I understand
+[49:33] the Dynamics and when you understand the
+[49:35] Dynamics for what you're paying when the
+[49:38] fees are High when they are low how can
+[49:41] you navigate that system in different uh
+[49:45] times uh now you're ready to actually go
+[49:49] and use the proper tool uh for the
+[49:52] proper time for the proper situation uh
+[49:56] but if you don't go through that
+[49:58] learning uh maybe you're going to open a
+[50:01] channel exactly when the um when the
+[50:05] mining fees on the first layer are uh
+[50:08] very high but if you understand the
+[50:10] Dynamics and now that the fees are lower
+[50:13] you can say okay I'm going to open
+[50:15] channels as a user now and then I'm
+[50:18] going to use it and I would say this if
+[50:22] you want to uh understand lighning
+[50:26] lightning is for payment uh for
+[50:29] especially for the First World countries
+[50:31] for the third world where they can save
+[50:35] minuscule amount of satosi maybe a
+[50:38] custodial solution is better suited for
+[50:40] them until they're ready uh to uh go
+[50:45] into noncustodial and then to go on the
+[50:47] first layer but that Dynamic just
+[50:51] understand the Dynamics first so you
+[50:53] know what to do when just like you don't
+[50:56] uh start driving a car before you
+[50:58] understand first shift second shift
+[51:01] mirrors everything else and you need to
+[51:04] invest that energy the energy in the
+[51:06] payment system uh is just the money uh
+[51:10] it I would say it's not a lot but if you
+[51:14] feel that you robbed 10% because of fee
+[51:18] the feeling is uh what drives the how
+[51:23] you're going to feel about the
+[51:24] application but if you say oh I'm going
+[51:27] to invest $10 $20 for fees for me to
+[51:32] understand now you will understand
+[51:34] everything else much better and your
+[51:36] experience will benefit a lot more yeah
+[51:40] I think that's uh that's greater twice
+[51:42] for for uh in general life if you if you
+[51:45] want to learn something you have to
+[51:47] experience it go deep on it like I also
+[51:50] learned Bitcoin like that I just bought
+[51:53] some Bitcoin I transferred it to a
+[51:54] hardware wallet I did that in the first
+[51:56] week where I knew about Bitcoin because
+[51:59] I just wanted to experience the whole
+[52:00] Bitcoin ecosystem as as as much as I can
+[52:04] and I also like transferred it back from
+[52:06] my Hardware wallet to my exchange to
+[52:09] from my exchange to my bank account
+[52:11] again like I did the whole thing just to
+[52:13] make sure I understand it and I can deal
+[52:16] with it and if once you understand it
+[52:18] and you put your money in and and and
+[52:21] put some investments in then you have a
+[52:24] an easier time to understand the whole
+[52:26] thing and and how it's working and we
+[52:28] having an end routine at the podcast
+[52:31] where like the previous guest asked a
+[52:32] question for the for the next guest and
+[52:35] it's an interesting question for you
+[52:36] because especially we're going into this
+[52:40] whole Bitcoin standard world uh when we
+[52:43] talking everybody is uh on on a Bitcoin
+[52:47] standard and paying with lightning and
+[52:50] everything is is like that on that
+[52:53] premise how will Bitcoin influence
+[52:55] culture what will change on a on a
+[52:57] Bitcoin Bitcoin standard to society I
+[53:00] would say this is exactly the question
+[53:02] that I'm addressing in the Articles even
+[53:05] though it's instant settlement but why I
+[53:08] was fascinated uh um just like I said I
+[53:12] recognize the problem because of Mi not
+[53:15] I wouldn't even say it misaligned
+[53:17] incentives but completely opposite
+[53:20] incentives between the labor force and
+[53:22] the company owners and I would say that
+[53:26] when we go into hyperbitcoinization
+[53:28] because we're going to align incentives
+[53:32] now we're pointed in the right direction
+[53:35] and now we're Going Back To Nature
+[53:38] because when um when we were very small
+[53:42] tribes we didn't have uh money even
+[53:46] invented but we exchanged energy uh we
+[53:50] exchanged things that we specialized in
+[53:54] we did and let's say we are going to
+[53:56] hunt a elephant or a mammoth or whatever
+[54:00] we uh had to
+[54:02] coordinate who does what exactly so we
+[54:05] can achieve that project and the there
+[54:08] was nobody that was paid to say stay
+[54:12] here and we are going to pay you uh some
+[54:15] amount of meat because you did nothing
+[54:18] you either did something or you were out
+[54:20] of the village and because we're going
+[54:23] to that fundament nature what made us
+[54:26] humans to organize really really well
+[54:30] the tool is the instant settlement thing
+[54:33] that I'm saying the lightning network is
+[54:36] the uh solution right now but even the
+[54:39] third layers and the fourth layers are
+[54:41] going to chase that instance settlement
+[54:44] and it will Spring not only that we are
+[54:47] pointed in One Direction but all that
+[54:50] coordination between all of us it's
+[54:53] going to give us such a huge deflation
+[54:57] because just like I said if you're paid
+[55:00] to do as little
+[55:04] uh as little as possible now imagine
+[55:08] that all those people are incentivized
+[55:11] to do as much as possible what is going
+[55:14] to happen to the price uh of everything
+[55:17] now the neighbor is going to help you
+[55:20] out is going to clean let's say the
+[55:22] allei in front of the building or
+[55:25] something because he's incentivized all
+[55:28] of that but this will happen on a global
+[55:31] scale which I'm very very excited and I
+[55:34] would say uh I can't wait honestly
+[55:39] because I saw that the instant
+[55:41] settlement is the root cause of the
+[55:43] problem the instant settlement I'm sorry
+[55:45] is the solution for that root cause of
+[55:48] misaligned incentive and the
+[55:50] coordination between people will be
+[55:52] awesome totally um
+[55:55] I think your insights and and your uh
+[55:59] way of thinking of Bitcoin is really
+[56:01] cool and also really unique uh there are
+[56:04] some some bites in there that I marked
+[56:08] uh uh that I never heard before I'm
+[56:10] really looking forward to publishing
+[56:11] this one and also like having all the
+[56:14] clips uh from from that podcast I'm
+[56:16] really looking forward to that and for
+[56:18] people uh wanting to find you want
+[56:21] wanting to get in touch with you where
+[56:23] can people find you the best I'm almost
+[56:25] everywhere I'm one of the two most
+[56:28] visible people in breeze so in Twitter
+[56:31] I'm naku 2000 and a c KO o o 2000 and
+[56:36] I'm also in noer I'm in LinkedIn
+[56:40] whatever suits your both I'm very easy
+[56:43] to reach out if you're a bitcoiner that
+[56:45] means that you're a orange brother or a
+[56:48] sister so you're always
+[56:51] [Music]
+[56:53] welcome

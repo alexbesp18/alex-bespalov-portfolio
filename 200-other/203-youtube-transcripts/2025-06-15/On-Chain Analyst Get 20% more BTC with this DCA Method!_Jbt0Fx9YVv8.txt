@@ -1,0 +1,2143 @@
+Title: On-Chain Analyst: Get 20% more BTC with this DCA Method!
+Video ID: Jbt0Fx9YVv8
+URL: https://www.youtube.com/watch?v=Jbt0Fx9YVv8
+Date Saved: 2025-06-15 11:50:39
+--------------------------------------------------
+
+[00:00] I want to see when the smart money's
+[00:01] taking profit I don't want to buy I want
+[00:02] to wait when the dumb money is's taking
+[00:04] a loss now I want to buy I want to step
+[00:06] in and buy that pain it helps you
+[00:07] actually make your monthly DCA which by
+[00:09] the way I've done for many years just
+[00:11] literally paycheck in pay bills empty
+[00:13] bank account all Bitcoin gone you know
+[00:14] nowadays I'm a lot more strategic with
+[00:17] it because I can basically see what all
+[00:18] the Market's doing my paycheck comes in
+[00:20] I check my metrics oh hang on bunch of
+[00:22] guys are taking profit I'll wait if you
+[00:24] were to buy every time it wasn't frothy
+[00:26] versus every time it was frothy you're
+[00:28] probably saving 20% so imagine if every
+[00:30] single buy you've ever done you're
+[00:32] getting 15 to 20% more bitco I can't
+[00:34] tell you the amount of times I've been
+[00:35] on Twitter being like yeah guys
+[00:36] long-term holders are selling like no
+[00:38] one sells they were all hodlers I'm like
+[00:40] bro I can see it there's like massive
+[00:42] amounts of realized profit instead of
+[00:43] being a prediction it's more here's a
+[00:45] zone of interest if we get up there we
+[00:47] have to start looking for profit taking
+[00:49] cuz at some point that will oversaturate
+[00:51] demand and you start looking for a
+[00:52] correction so the retailing Bitcoin are
+[00:54] serious dudes they know exactly what
+[00:56] they're doing they know exactly why
+[00:58] they're buying super high conviction I
+[01:00] want to be in the trenches with those
+[01:01] guys gold stored my value Bitcoin grew
+[01:04] my value it's actually better than a
+[01:06] store of value because it's kicking ass
+[01:07] it's four times better than the next
+[01:09] best thing bitcoin's in this really
+[01:11] interesting world where it's both small
+[01:13] and large it's like a a small fish
+[01:15] that's just been put into a bigger Pond
+[01:16] the ETFs are between 10 and 20% of the
+[01:19] total Market there's been this like
+[01:21] weird assumption that now that the
+[01:22] Bitcoin ETFs are here the entire Market
+[01:25] infrastructure that's been around for 15
+[01:27] years just gone disappeared no it's it's
+[01:30] still the 90% of the market the ETFs are
+[01:32] big but they're not
+[01:37] dominant today's topic is a topic that I
+[01:40] did not spend too much time in my in my
+[01:43] learning Bitcoin Journey uh when I was
+[01:46] was orange peing myself the today's
+[01:49] topic is onchain analysis and I know
+[01:51] like it's so great that we have this
+[01:53] onchain data um but I don't really
+[01:56] understand like what can we learn from
+[01:58] that uh regards bit coin and then also
+[02:01] other topics yeah I mean onchain data is
+[02:04] is fascinating and it's one of those
+[02:05] things that for one of a better term
+[02:06] they don't teach you in school uh and
+[02:08] this when I talk about this like you
+[02:09] know we all go through our own orange
+[02:11] peeling Journey but what is so
+[02:13] fascinating about it is it is Bitcoin it
+[02:16] is literally just the database that is
+[02:18] Bitcoin right it's trans transaction
+[02:20] Ledger of who owned what and when and
+[02:23] you'll be very very hard pressed finding
+[02:25] many of the Talking Heads like I've
+[02:27] never heard Michael saor talk about
+[02:29] onchain analysis once I've never heard
+[02:31] most of these big Talking Heads talking
+[02:32] about it even though it is Bitcoin but
+[02:35] more importantly if we take it like
+[02:36] another level what is why is this like
+[02:38] onchain data important it's us it's all
+[02:41] of the buying the selling the holding
+[02:43] the Distributing all those behaviors and
+[02:45] those actions we print those those
+[02:48] metrics and you know ultimately it's
+[02:50] about looking at how long people have
+[02:51] held it how much of the supply is held
+[02:53] by these long-term holders when do they
+[02:55] start selling who are they selling to
+[02:57] how do those people who they bought it
+[02:58] how do they behave and ultimately it's
+[03:01] just behavioral economics and Bitcoin
+[03:03] because of its very organic nature it
+[03:06] just moves coins from A to B A lot of
+[03:08] those coins are going in and out of
+[03:10] exchanges and it tells us about how much
+[03:12] profit people are in when they're taking
+[03:13] it when they're like they bought high
+[03:15] and they sold low when they bought low
+[03:17] and they sold high and we can just
+[03:18] extract these really interesting and
+[03:21] quite frankly very reliable patterns of
+[03:23] human beings buying tops selling bottoms
+[03:26] smart money buying bottoms and selling
+[03:28] tops right you can see all of these
+[03:30] patterns and ultimately that's what it's
+[03:32] all about what can we learn from Human
+[03:34] psychology like we we always he that
+[03:36] like all like most people buy the top
+[03:39] and then sell in the panic and I see it
+[03:41] also with with some of my friends
+[03:43] unfortunately sometimes like the FR
+[03:45] group outside that the outside of the
+[03:47] Bitcoin group what do you see see there
+[03:49] and and what is Smart money doing yeah
+[03:53] it's more or less the the one big
+[03:55] takeaway that I've learned from onchain
+[03:57] data and to be honest and from markets
+[03:58] in general
+[04:00] the interest rates can change J Pal's
+[04:02] mood can change right the stock market
+[04:04] levels can change the one thing that
+[04:05] will never change is human beings making
+[04:08] decisions at the wrong time at the exact
+[04:11] wrong point because of their emotional
+[04:13] state it's why price chart in the 1920s
+[04:16] look exactly the same as they do at any
+[04:18] other point in time because we have this
+[04:20] like innate desire to feel like we're
+[04:23] we're part of a herb and we always want
+[04:25] to feel good right when you buy an asset
+[04:28] you don't want to be the first man to to
+[04:29] do it you want to be like you know kind
+[04:31] of in the crowd you want to let someone
+[04:33] else jump off the cliff first and make
+[04:34] sure it's safe and we're like
+[04:36] conditioned from a very early age to
+[04:37] avoid risk and markets are
+[04:40] counterintuitively full of risk like
+[04:42] they're all risk and you have to accept
+[04:44] it but human beings don't usually go
+[04:46] through that process right it takes time
+[04:48] to really become interested in markets
+[04:51] you mention you've got friends who
+[04:52] aren't that interested in Bitcoin I'm
+[04:53] the much the same I would say probably a
+[04:56] very similar cohort probably a little
+[04:58] bit bigger but your circle of friends
+[05:00] most of them probably aren't interested
+[05:01] in markets either right they've got
+[05:03] other that they're doing in their
+[05:04] life and that subset of people who are
+[05:06] interested in markets an even smaller
+[05:09] subset of them understand Bitcoin and an
+[05:11] even smaller subset of that understands
+[05:14] themselves in a market and that's I
+[05:17] think the most important thing what does
+[05:19] onchain data tell you tells you what
+[05:21] everyone else is doing and when you can
+[05:23] see what everyone else is doing and you
+[05:25] can kind of do the opposite strangely
+[05:27] enough that's usually a very good tactic
+[05:29] so I look at myself back in 2018 when I
+[05:31] got into this Market I bought High it
+[05:34] sold off I was like what do I do I
+[05:36] know I'll sell now and I'll buy back
+[05:38] lower and now that I go back and look at
+[05:40] all my decisions back in 2018 I can see
+[05:43] that I sold the bottom right before it
+[05:44] ripped and then I got excited I bought
+[05:46] the high right before it dipped and you
+[05:48] can see your old Behavior patterns in
+[05:51] the onchain data you're like wow I was
+[05:53] the idiot and you can like see it now so
+[05:55] what do I want to do I want to do the
+[05:56] opposite of idiot me and use those
+[05:58] metrics to do the ex exact opposite and
+[06:00] try and make better decisions along the
+[06:02] way
+[06:03] have a work colleague an old work
+[06:06] colleague of mine that perfectly timed
+[06:08] to top like he literally like bought the
+[06:11] day where the top was in the Euro so I
+[06:14] and since then he's really disappointed
+[06:15] with Bitcoin but I I I said to him like
+[06:18] tell me when you buy again then I will
+[06:20] sell some yeah um strangely enough I did
+[06:22] the exact same so I bought the exact top
+[06:24] in 2017 and it was actually so bad you
+[06:27] could not have bought higher than me
+[06:29] because at the top tick of the candle
+[06:31] when I was doing my taxes back in 2018
+[06:33] or 19 whatever it was and I looked at my
+[06:36] taxes and basically my purchase price
+[06:39] because coinbase had an extra fee for
+[06:41] Australian dollars back then you
+[06:43] actually add the premium on top and I'm
+[06:44] like above the top tick of the candle
+[06:46] I'm like I mean you couldn't have done
+[06:48] it better than me and that was the first
+[06:49] thing I ever bought I'd never bought a
+[06:51] stock I'd never owned anything before in
+[06:53] my life buying Bitcoin at the absolute
+[06:55] top in 2017 was the the first thing I
+[06:57] ever purchased and you know I learned
+[07:00] that lesson you pay your tuition in that
+[07:01] bare Market I turned 10 grand into 10
+[07:04] cents but that Journey taught me so much
+[07:07] about like okay something about this
+[07:09] Market thing is fascinating and I need
+[07:11] to learn more about it then I found
+[07:13] onchain data and like markets are a
+[07:15] process and like you're constantly
+[07:17] learning you never know the answer but
+[07:19] ultimately you're trading against
+[07:20] yourself you need to make decisions you
+[07:22] can't change the tide markets just are
+[07:25] all you can do is make your decisions
+[07:27] based on the stimulus and information
+[07:29] the market gives you I love that a lot I
+[07:32] mean I learned it a little bit before
+[07:33] like I learned it before Bitcoin because
+[07:35] I was in Tesla and there was some
+[07:36] lessons in there for me uh but I I
+[07:39] really I really like bought into like
+[07:41] the the selling off like I was that was
+[07:43] one year 50% decrease in the Tesla stock
+[07:47] and I just saw that the business was
+[07:48] growing actually and I was like the
+[07:51] stock getting cheaper and the business
+[07:53] growing like ah I need to buy more that
+[07:56] was a hard lesson for me but it uh was
+[07:58] really getting is really was good for me
+[08:01] in Bitcoin um the one question for me is
+[08:03] like on onchain data can you label smart
+[08:08] versus smart money versus dumb money
+[08:11] where you're like okay that that's kind
+[08:12] of the the smart money addresses and
+[08:15] those like kind of the D Money addresses
+[08:17] and then following that if you can label
+[08:20] that can you even predict some trades
+[08:22] there and can you make like a weighted
+[08:24] DCA or something like that I mean I am
+[08:26] not Trad like I'm just buying anytime I
+[08:29] have money like anytime money comes in I
+[08:31] buy because I know otherwise emotionally
+[08:34] I'm not prepared for anything like that
+[08:36] so I'm just saving myself the trouble
+[08:38] and like when money comes in I buy
+[08:40] Bitcoin with whatever amount I have but
+[08:44] if uh that's possible um do you think
+[08:47] that that would be actually possible
+[08:49] labeling smart money and then using that
+[08:51] information to make future trades yeah
+[08:53] it's a great question so when a lot of
+[08:54] people think about onchain data they
+[08:56] think uh complexity like data sleuths in
+[08:58] there you know going to follow this
+[09:00] guy's wallet and oh wait this whale is
+[09:01] doing something I actually recommend do
+[09:04] the exact opposite of that and all that
+[09:06] is whenever you see somebody
+[09:07] who's like oh look watch out for Mr 100
+[09:09] or watch out for this whale ignore it
+[09:12] it's complete noise it's going to give
+[09:13] you no Alpha whatsoever um when I think
+[09:16] about onchain data i' I I've got like
+[09:18] this framework idea you'll find on my
+[09:19] website it's like a like a grid so if
+[09:21] you imagine the whole Bitcoin Supply
+[09:23] it's just like a big block and we're
+[09:25] going to divide up that supply all 21
+[09:27] million coins divide it up into who owns
+[09:29] it how long they've held it is it in
+[09:31] profit is it in loss is it being spent
+[09:33] is it being held so there's three axes
+[09:36] and they're all perpendicular to each
+[09:37] other right XY Z on the xaxis you've got
+[09:41] the coins are they moving or are they
+[09:43] not moving and on any one day about one%
+[09:45] of the supply gets transacted so you got
+[09:47] you know 19.7 million coins and then a
+[09:50] small fraction of those that are
+[09:51] actually on the Move each day so in
+[09:53] motion or stationary the second axis in
+[09:56] profit in loss and you can probably
+[09:59] already see just from those two axes
+[10:00] you've got the amount of Supply that's
+[10:02] held in profit the amount of Supply
+[10:03] that's held in loss the amount of Supply
+[10:05] that's moving or the volume in profit
+[10:08] volume in loss and then the last axis
+[10:10] gets onto your your question about you
+[10:12] know how do you track these people
+[10:14] that's what I call the coort axis and
+[10:16] this is where stuff really gets quite
+[10:18] Magic on that Zed axis the question is
+[10:21] okay how do we group those coins that
+[10:23] are in profit that are volume in loss
+[10:25] how do we group that XY plane by indiv
+[10:29] individual right not not not like
+[10:31] tracking the individual guy I want to
+[10:33] see bundles of people who exhibit the
+[10:35] same behavior so one example of a cohort
+[10:39] show me all the shrimp show me all the
+[10:41] shrimp who were in profit that's an
+[10:43] interesting metric show me all of the
+[10:45] whales and exchanges who are in loss
+[10:48] right you can do all sorts of things but
+[10:49] the cohort that really matters and what
+[10:51] you'll see a lot of people talking about
+[10:53] and honestly you don't need to learn any
+[10:55] of the other ones it's long-term holder
+[10:57] short-term holder and ultimately we
+[10:59] about a five Monon window when you've
+[11:01] held your coins or a coin's been dormant
+[11:02] for five months it usually stays dormant
+[11:05] right now that's in one exception during
+[11:08] bull markets those old coins six months
+[11:11] one year two year they all come back
+[11:14] into circulation and get spent as the
+[11:16] market rips higher so most of the time
+[11:20] most coins do not move when they get to
+[11:22] long-term hold of status the best way to
+[11:24] think about that they're the smart money
+[11:26] that people who buy in a bear they wait
+[11:28] and they wait and they wait and then
+[11:31] they finally take profits when the
+[11:33] market really rips higher so if you're
+[11:36] an investor I want to do two things I
+[11:38] want to buy my Bitcoin when they're not
+[11:40] selling right if long-term holders are
+[11:42] selling I don't want to buy because the
+[11:44] smart money is exiting why would don't
+[11:45] want to buy at that point and likewise I
+[11:48] want to wait when the dumb money sells
+[11:50] at a loss the people who buy High you
+[11:53] kind of want to step in and buy when
+[11:55] they sell at a loss so you can use this
+[11:57] like are the coins moving are they not
+[11:59] are they in profit are they not who
+[12:01] right by long or short term now I've got
+[12:04] a really good framework to actually take
+[12:06] an x-ray of the market and I can see I
+[12:09] want to see when the smart money's
+[12:10] taking profit I don't want to buy I want
+[12:12] to wait when the dumb money's taking a
+[12:14] loss now I want to buy I want to step in
+[12:16] and buy that pain so it helps you
+[12:18] actually make your monthly DCA which by
+[12:20] the way I've done for many years just
+[12:21] literally paycheck in pay bills empty
+[12:24] bank account all Bitcoin gone and you
+[12:26] know nowadays I'm a lot more iic with it
+[12:29] because I can basically see what all the
+[12:31] Market's doing my paycheck comes in I
+[12:33] check my metrics oh hang on bunch of
+[12:35] guys are taking profit all wait and of
+[12:38] course the market will always sell off
+[12:40] at some point there we go that's my
+[12:43] signal now I'll buy and I get more SATs
+[12:45] for my dollar and that's really how I
+[12:46] think about a lot of this
+[12:48] stuff so basically a a weighted DCA
+[12:52] where you like go into sometimes a
+[12:54] little heavier in or sometimes you uh
+[12:57] don't go heavier in but you don't use it
+[12:58] as like selling Bitcoin correct correct
+[13:02] I basically if I'm going to buy my
+[13:04] Bitcoin and I get paid on the 15th for
+[13:06] example of every month I I'm just going
+[13:08] to make sure that on that particular
+[13:10] 15th I'm not going to getting sold on
+[13:11] because I there's nothing worse we've
+[13:13] all done it hundreds of times you buy
+[13:15] and like the moment you've hit the green
+[13:17] button the price just sells off 10%
+[13:19] you're like really really right now
+[13:21] I couldn't have waited like 10 minutes
+[13:23] but of course if you look at the the
+[13:24] onchain down you go well there's a bunch
+[13:26] of guys selling the probability that
+[13:27] that red candle is coming
+[13:29] I'll wait because when that red candle
+[13:31] comes at least now I was kind of
+[13:32] semi-prepared for it and then I buy at
+[13:34] the bottom not the top of that that
+[13:35] candle it's not about picking like you
+[13:37] know Ultra in the weeds I'm just saying
+[13:40] if I've got a monthly DCA I want to buy
+[13:42] the best time I can possibly find over
+[13:44] the course of that month how much better
+[13:47] do you think uh that strategy could
+[13:50] perform if you really look at the onent
+[13:51] data and you know what you're looking at
+[13:53] uh and you anyways just buy Bitcoin you
+[13:57] never sell like you you have most of
+[13:58] your wealth in there but you are careful
+[14:00] with the timing of buying within a
+[14:03] specific month how much better of a
+[14:06] performance do you think you can end up
+[14:08] in like a five year or 10 year uh window
+[14:11] that's a great question so I actually
+[14:12] haven't done any of those specific
+[14:14] studies but what I can say is that we
+[14:16] started up the the check on chain
+[14:17] newslet that we're doing at the moment
+[14:19] um we started that up in April so the
+[14:21] the all-time high the 73k is already
+[14:23] been set and we've kind of had the first
+[14:25] sell off now over the course of writing
+[14:28] the newsletter for the last five months
+[14:29] there's been three events where I've
+[14:31] released a a news that it's it's been
+[14:33] some iteration of this is what I think
+[14:36] about the dip and it's usually one of
+[14:38] the advantages of being an Australian by
+[14:40] the way is that when the Americans when
+[14:41] the Market's selling off and all the
+[14:43] Americans go to bed I've got a whole day
+[14:45] to create content and produce a
+[14:46] newsletter so when they wake up bright
+[14:47] and early in the morning it's there for
+[14:49] them um so there's been three instances
+[14:52] where we've had these really big like
+[14:54] waterfall nasty sell-offs that only
+[14:56] Australians are awake for and we I I
+[14:59] think get to analyze it make a video and
+[15:01] actually understand what's going on
+[15:02] there and the way I kind of frame it for
+[15:04] my Subs is I think the first one was at
+[15:07] 56k the second one was at 53 and then it
+[15:10] was during that August 5th selloff where
+[15:12] you know granted it was only down to the
+[15:13] 40 49 or whatever it was for um you know
+[15:16] two hours or three hours or something
+[15:17] but in that kind of $50,000 window so 56
+[15:20] 53 and 50 the amount of messages that
+[15:23] I've had from people going like man I I
+[15:26] wish that I had have like looked at
+[15:28] those metrics and gone damn I would love
+[15:29] to buy at 56 53 and 50 even if the
+[15:33] market just imagine even if the market
+[15:34] goes to 30 maybe like the the the world
+[15:37] just wants the price to go to 30k for
+[15:39] whatever reason I would rather have
+[15:41] bought my coin at 56 53 and 50 and then
+[15:45] it goes to 30 then all the other guys
+[15:47] who are like man I got coins at 60 and
+[15:49] 73 and 70 like I thought I was really
+[15:52] excited so if you just look at the Delta
+[15:55] between the level where people were
+[15:57] taking profit versus when people were
+[15:59] capitulating sure you may still see some
+[16:02] of your coins go underwater that's kind
+[16:04] of expected in markets but I'm not down
+[16:07] 30% I'm down five or 10 right so
+[16:11] suddenly you're like I can actually in
+[16:13] Bitcoin who cares about a 10% down we do
+[16:15] with this all the time but when
+[16:16] you're down 30% that's when like your
+[16:19] emotional State's like oh that feels
+[16:21] really bad and that's what makes it hard
+[16:23] to huddle when you buy at the wrong time
+[16:26] and you've got to carry this really
+[16:28] heavy bag that's what actually like
+[16:30] wears down your stress levels and all
+[16:33] these things so ultimately if you're
+[16:35] just trying to lower that cost basis
+[16:38] you're gonna do much better it's gonna
+[16:40] be so much easier to actually navigate
+[16:42] these markets that's interesting do we
+[16:45] have um for someone that is not an
+[16:48] expert like me for someone who just
+[16:50] holds and wants to still get a little
+[16:53] bit in in onchain data do you have
+[16:54] resources where like okay there I can
+[16:56] look I heard something class notes like
+[16:59] those kind of websites I I looked on
+[17:01] there sometimes um where we can actually
+[17:03] look at those metrics and maybe even um
+[17:06] how we make an informed decision of like
+[17:08] okay now it's a little bit of a worse
+[17:11] time to to buy maybe I should wait like
+[17:13] half a month a month to to buy in and
+[17:15] maybe then it's better yeah absolutely I
+[17:18] mean we've got two right the the
+[17:19] newsletter we do is literally two pieces
+[17:21] of content a week to help people do this
+[17:22] and one of those which interestingly
+[17:24] enough we just did a survey of all of
+[17:25] our subscribers and um I always knew
+[17:28] that the master class like actually
+[17:29] telling people this is how to interpret
+[17:31] these metrics and how like really really
+[17:33] giving people a proper course on how to
+[17:35] understand this stuff I knew there was
+[17:37] demand for it I didn't realize there was
+[17:39] this much demand for it people love it
+[17:40] and that's fantastic because like a lot
+[17:42] of people really want to learn these
+[17:43] tools and honestly for the vast majority
+[17:46] of hodlers you only have to learn two
+[17:48] metrics once you go down that rabbit
+[17:50] hole you'll find there's a whole bunch
+[17:51] of other things just like Bitcoin you'll
+[17:53] be like oh cool I want to pick this up
+[17:54] and play with this um but really if you
+[17:56] can learn mvrv and the variant of it
+[17:59] short-term holder mvrv primarily and
+[18:01] there's another one called soapr it's
+[18:04] literally the system metric mvrv shows
+[18:06] you how in profit the market is so if
+[18:09] it's at two it means the Market's up 2x
+[18:11] on average if it's at 0.8 the Market's
+[18:13] down
+[18:14] 20% um so mvrv is the held coins what's
+[18:18] their profit and loss soapa is the spent
+[18:21] coins are people locking in a 5% a 10% a
+[18:24] 20% 30% profit what's the average profit
+[18:26] being locked in or loss those two
+[18:29] metrics is all you need if you learn
+[18:32] short-term mvrv and short-term soapa you
+[18:35] don't need anything else they are the
+[18:36] hodler's best friend um they tell you
+[18:38] just about everything you can tell when
+[18:39] it's a bare Market you can tell when
+[18:41] it's a bull you can tell when it's a
+[18:42] capitulation you can tell when it's a
+[18:45] Euphoria Wick that you shouldn't be
+[18:46] getting anywhere near you you can tell
+[18:49] all of this purely from those two
+[18:51] metrics so we try to do a master class
+[18:52] but then um you can head over to charts.
+[18:55] checkon chain.com and we've got a whole
+[18:57] Suite every every met you could ever
+[18:59] want is is completely free over there
+[19:01] we've got all these tools um so that's
+[19:03] really the for me onchain data is
+[19:05] Bitcoin bitcoin's open source I love
+[19:08] making this stuff open source and that's
+[19:10] ultimately what this is all about for me
+[19:11] so making the data nice and free and uh
+[19:13] available for
+[19:14] everyone it's really like those two
+[19:17] metrics if I understand it correctly the
+[19:19] one is like unrealized gains what the
+[19:21] market has and realized gains what the
+[19:23] market has correct it's exactly what
+[19:25] they are yep okay that's that's an
+[19:27] really interesting uh thing to look at
+[19:29] like because of of course if the
+[19:30] unrealized gains are minus this means
+[19:33] like we're in a bare market and it's
+[19:35] probably a good time to buy and if we uh
+[19:38] in in a poll Market where the unrealized
+[19:41] gains are high then it's probably like a
+[19:43] time where you can maybe make a little
+[19:46] bit of of a a feat cushion and maybe buy
+[19:48] later a little bit that's an interesting
+[19:50] absolutely no that that and that is that
+[19:52] is literally as easy as it gets so every
+[19:54] time you go for your DCA check
+[19:56] short-term mvrv if it's really high and
+[19:59] shortterm so is really high just wait if
+[20:02] it comes back down and you'll see that
+[20:04] both of these metrics tend to like
+[20:05] bounce along one one is the break even
+[20:08] level and they'll bounce along there and
+[20:10] like buying as close to one as you can
+[20:11] in a bull is thumbs up if you get those
+[20:14] levels below one in a that's when you're
+[20:16] getting like you know it could be a bear
+[20:19] but also the bottom of a dip looks
+[20:21] exactly the same as the start of a bear
+[20:22] so you kind of can you know Frame It Up
+[20:24] be like you just want both of those
+[20:26] metrics as low as possible because it
+[20:28] showing you the market is not frothy and
+[20:31] ultimately for a hodler if you're here
+[20:33] for the long term if you were to buy
+[20:35] every time it wasn't frothy versus every
+[20:37] time it was frothy you're probably
+[20:39] saving 20% because what's a bitcoin
+[20:41] correction 20 odd percent thereabouts so
+[20:43] imagine if every single buy you've ever
+[20:45] done you're getting 15 to 20% more
+[20:48] Bitcoin every single time right that's
+[20:50] the compound of Return of just looking
+[20:53] at two metrics just before you do your
+[20:55] DCA that's amazing really cool side um
+[20:59] can you make also or do you also make
+[21:02] long-term price predictions based on
+[21:04] that when you see the past like five 10
+[21:07] years of of Bitcoin history on onchain
+[21:09] and with the Bitcoin price and then
+[21:11] extrapolate that out like 5 10 20 years
+[21:14] yeah so I you actually will probably
+[21:16] never get a price prediction out of me
+[21:18] because I don't think they're useful
+[21:19] because at the end of the day who knows
+[21:21] the Market's going to do whatever it
+[21:22] does um one of my favorite kind of
+[21:25] personal Journeys or lessons I guess you
+[21:27] call it is came AC there was one time
+[21:29] when I just realized I don't know and no
+[21:32] one knows right the market over the next
+[21:34] 10 minutes it's literally a coin flip
+[21:36] flip a coin who knows where it's going
+[21:37] to go um over the and and actually I did
+[21:40] a study I think it was yesterday or two
+[21:42] days ago and I literally looked at the
+[21:44] distribution of price returns right on a
+[21:46] one day what's the are we up five are we
+[21:48] down three what's the percent
+[21:50] distributions I think it was 48% of the
+[21:53] time we're down and 52 no it was 52% of
+[21:56] the time we're down 48% of the time
+[21:57] we're up so on any particular day
+[21:59] there's literally a coin flip whether
+[22:00] we're going to be higher or lower like
+[22:02] it's quite literally just how it trades
+[22:05] now obviously there's more down dayss in
+[22:06] a bear and more up dayss in a bull um I
+[22:09] don't do price predictions because I
+[22:10] don't think they're useful a lot of
+[22:11] people love them right power laws and
+[22:14] stock to flows I I just think that
+[22:16] that's misleading because there's no
+[22:18] reason for those to work there's no
+[22:20] gravity there it's just like purely a
+[22:21] meme and people who kind of don't know
+[22:24] better get hooked on this stuff what I
+[22:27] do do however
+[22:29] is we know that people like people do
+[22:31] sell that's just reality of it right um
+[22:33] we can see it and I can't to the amount
+[22:35] of times I've been on Twitter being like
+[22:36] yeah guys like long-term holders are
+[22:38] selling like no one sells they were all
+[22:40] hodlers and I'm like bro I can see it
+[22:42] there's like massive amounts of realized
+[22:44] profit and of course this is going to be
+[22:46] at the top right there's gonna be a
+[22:47] whole bunch of selling going on at the
+[22:49] top and everyone just can't believe it
+[22:50] people do sell so um what we look for
+[22:54] show me when mvrv right unrealized
+[22:57] profit show me when the paper gains are
+[22:59] going to be
+[23:00] 300% because historically speaking when
+[23:03] it gets to 300% people start to sell
+[23:06] right I can look at the onchain data of
+[23:07] the past I can look at the onchain data
+[23:09] today and say well are we seeing a price
+[23:12] level what price do we have to get to
+[23:14] for mvrv to go to three because once it
+[23:17] gets there my expectation is based on
+[23:19] every single previous time it's done
+[23:20] that guys start to sell so rather than a
+[23:23] price prediction I can look at what
+[23:25] price will investor Behavior change
+[23:28] that's the way I like to think about it
+[23:29] so instead of being a prediction it's
+[23:32] more here's a zone of interest if we get
+[23:34] up there we have to start looking for
+[23:37] profit taking because at some point that
+[23:39] will oversaturate demand and you start
+[23:40] looking for a correction right so you
+[23:42] start making making adjustments to your
+[23:43] portfolio
+[23:45] accordingly interesting um how do you
+[23:48] actually track the the data of someone's
+[23:51] selling because it's like um onchain I
+[23:54] mean obviously we know the ones of
+[23:56] exchanges so those are kind of um more
+[23:59] seeable I guess when someone moves from
+[24:01] C Storage to The Exchange but if someone
+[24:03] for example actually spends the Bitcoin
+[24:06] and for example they have one Bitcoin
+[24:08] and all of the sudden uh 10 million
+[24:10] Sates of that are moving to another
+[24:12] address that could be because he wants
+[24:14] to start diversifying his one Bitcoin on
+[24:17] different Cold Storage Solutions or it
+[24:19] could be because he sent some satosi to
+[24:21] someone else because he bought a service
+[24:23] or something like that do you have a way
+[24:25] to differentiate that uh or because
+[24:28] maybe those Bitcoin are still in his uh
+[24:30] control and he's he's hodling but in in
+[24:33] a different solution no that's that's a
+[24:36] fantastic question and the truth to this
+[24:37] is no I don't filter for it and uh I've
+[24:40] gone through I mean I I've spent a lot
+[24:42] of time with this data I spent a lot of
+[24:44] time with very proprietary tools that do
+[24:47] filter for it and as with everything in
+[24:49] life there's trade-offs so the process
+[24:51] of filtering out things like exchanges
+[24:53] and self spends and all of that um what
+[24:56] it does require is the data is always
+[24:59] changing because a wallet that doesn't
+[25:02] look like binance today could be binance
+[25:04] tomorrow and you're like oh actually I
+[25:06] got to not only that you need a whole
+[25:08] team of people working 24 hours to try
+[25:11] and track all these what they're
+[25:12] constantly changing every single day
+[25:15] these heuristics and patterns and all
+[25:16] this stuff changes now I ran as a result
+[25:19] of this I ran a bunch of studies where
+[25:20] I'm like okay let's look at the filter
+[25:22] data which is very expensive to create
+[25:25] let's look at the non-filter data and
+[25:27] for my my style of analysis I don't care
+[25:30] about intraday stuff I'm not doing
+[25:31] algorithmic trading I'm really just
+[25:33] looking at like using my experience
+[25:36] understanding how this Market Works to
+[25:38] make you know on on a daily time frame
+[25:40] you don't need higher resolution than
+[25:41] that so I'm looking at this data within
+[25:43] my context and how I analyze markets and
+[25:46] I found that there's about 85 to 90% of
+[25:49] the signal in the unfiltered data and I
+[25:51] spent a lot of time thinking about this
+[25:53] and like ultimately if you're doing a
+[25:55] wallet
+[25:56] consolidation for the vast major of
+[25:58] people listening to this and if this
+[26:00] doesn't apply to you congratulations the
+[26:02] amount of Bitcoin you have and moving
+[26:04] around is just not big enough to matter
+[26:06] right congratulations if that doesn't
+[26:08] apply to you um but the vast majority of
+[26:10] us we you know we're just a fraction of
+[26:11] a fraction of a fraction of a fraction
+[26:13] of nothing and at the end of the day the
+[26:15] error bars around me moving from one
+[26:17] cold to another yeah it's an error bar
+[26:20] but it just gets absorbed in the total
+[26:22] noise and what we find is that we don't
+[26:25] have like one day where every single
+[26:27] person does utxo management one guy does
+[26:30] it on Tuesday one guy does it next
+[26:31] Thursday like we're all kind of so it's
+[26:33] like this like Bas load of error that's
+[26:35] just always there what we do see is that
+[26:38] when the market is ripping to the upside
+[26:41] every man in his dog is cracking out the
+[26:43] cold card and saying I got to take 10%
+[26:45] off the top I have to sell some and
+[26:47] likewise when we get down to Bare Market
+[26:48] flaw one of my favorite things whenever
+[26:51] I make content that's like near the
+[26:53] capitulation bottom when it's like
+[26:54] finally at the end I'll look at realize
+[26:57] loss and you'll see this m massive Spike
+[26:59] where people bought high and they sold
+[27:00] low and a lot of these guys in a bare
+[27:02] Market they buy the absolute top and
+[27:05] they huddle and they huddle and they
+[27:07] grit their teeth and then we get to the
+[27:09] absolute bottom FTX blows up and they
+[27:11] sell everything and that's of course the
+[27:13] perfect capitulation signal and without
+[27:15] fail my comments will be full of guys
+[27:18] being like no bro it's just tax lost
+[27:19] harvesting and I just like I'm like you
+[27:22] don't tax lost harvest in a bull do you
+[27:24] it's like the same behavior thing that
+[27:26] we all do at the bottom of a bear so
+[27:30] even if it is tax loss harvesting it's a
+[27:32] very consistent behavior and we don't
+[27:34] worry about the Baseline we worry about
+[27:36] the deviations from the Baseline show me
+[27:38] when realized profit is screaming higher
+[27:40] or realized loss is screaming higher
+[27:42] that's information so that's how I would
+[27:45] kind of address that is that the
+[27:46] filtering you can do it for the vast
+[27:49] majority of people you're probably not
+[27:51] going to get much signal from it and
+[27:52] I've spent so much time with this data
+[27:54] that you can deal with these error bars
+[27:57] just by knowing what you at right so
+[27:58] when Mount gox does something and I see
+[28:00] a big spike everyone's like holy
+[28:02] look at all these coin days destroyed
+[28:04] I'm like it's Mount just ignore it so
+[28:06] you can like overlay your experience to
+[28:09] deal with a lot of these these error
+[28:10] bars as
+[28:11] well um maybe I'm I'm not native to
+[28:14] English so uh maybe that's just a stupid
+[28:17] question but what is tax loss harvesting
+[28:20] ah good question so the idea is and it
+[28:22] depends where you live in the world but
+[28:24] let's say you bought an asset at $100
+[28:25] and it's trading at 50 you you can sell
+[28:28] it at 50 and then buy it back at 50
+[28:31] right and the idea is that you've locked
+[28:33] in a $50 loss which you can remove from
+[28:36] your like it depends where you live but
+[28:39] um quite often tax jurisdictions they'll
+[28:41] allow you to write that off as a loss so
+[28:43] it kind of cuts out your let's say you
+[28:45] made $200 on another stock that $50 gets
+[28:49] taken off your profit so you've kind of
+[28:51] made 150 rather than 200 so a lot of
+[28:53] people do this a lot of Institutions
+[28:55] will do this they take their losses and
+[28:58] they lock them in but sometimes they re
+[29:00] the asset but they've kind of locked in
+[29:02] that loss which reduces their taxable
+[29:05] income so it's called harvesting a tax
+[29:09] loss yeah that's an interesting tactic I
+[29:12] never thought about that I mean it it
+[29:14] doesn't apply for me because I'm in the
+[29:16] in in a lucky situation where I bought
+[29:19] Bitcoin before
+[29:21] 2021 and in bit in Austria the law I
+[29:24] mean probably doesn't apply to everyone
+[29:26] but in Austria the law is like if buy
+[29:28] Bitcoin for before 2021 in February or
+[29:31] something like that you don't have to
+[29:32] pay uh C gains like
+[29:35] zero after after that you have to pay
+[29:38] and then also is also the law uh from
+[29:40] your stack the first one you bought is
+[29:42] also the first one you selling
+[29:45] again so it's forced to be first in last
+[29:48] first in first out yeah exactly and
+[29:50] that's that's great so like I I if I
+[29:54] ever sell as a so I did not sell until
+[29:57] now if
+[29:58] actually have don't have uh C gains but
+[30:01] that's an interesting thing tax loss
+[30:03] harvesting I never heard of yeah it's
+[30:04] very common um it's very certainly I
+[30:06] know in Australia you can do it um us
+[30:09] definitely so yeah it's again it it's
+[30:11] one of those Niche things that all the
+[30:13] reply guys like no bro it's tax lost
+[30:15] harvesting I'm like some people in the
+[30:16] world don't even know what that is come
+[30:17] on if you watch my podcast already for
+[30:20] more than two times you know how
+[30:22] extremely passionate I am about self-
+[30:25] custody and the first very very very
+[30:28] important step to self cust is always
+[30:31] getting yourself a hardware wallet and I
+[30:34] have one for you here this is the
+[30:36] Bitcoin only Edition from the bitbox my
+[30:40] favorite single signature Hardware
+[30:42] wallet on the market another really
+[30:44] important piece of self- custody if you
+[30:47] have a hardware wallet is the backup of
+[30:50] the seat phrase and bitbox made the
+[30:52] perfect solution to back up your seat
+[30:55] phrase they made a reusable Steel wallet
+[30:58] check out that beauty it's durable and
+[31:01] extremely heavy if I put it on the desk
+[31:04] I seriously feel for my own table it's
+[31:07] so so heavy and durable I love it this
+[31:10] is where my seed phrase is secure go to
+[31:14] bitbox
+[31:15] Doss robobin to get your bitbox and if
+[31:19] you use code Robin you even get 5% off
+[31:24] of your complete order and the next step
+[31:26] is to really level up your sovereignty
+[31:29] as an individual you have to have the
+[31:31] most secure self- custody setup you have
+[31:34] to secure your own devices you have to
+[31:37] protect your privacy you have to set up
+[31:40] an inheritance plan and depending on
+[31:42] where you live you even want to have a
+[31:45] plan B a citizenship where you can move
+[31:48] in case something goes really really
+[31:49] wrong and through all those steps the
+[31:51] Bitcoin way is guiding you through step
+[31:54] by step and if you visit the Bitcoin
+[31:57] way.com /p Partners robobin you even get
+[32:01] a 30 minute free call to find out how
+[32:04] you can level up your sovereignty and
+[32:07] last but not least I have something
+[32:09] completely new for you guys I partnered
+[32:12] up with coin vigilante this is the most
+[32:15] beautiful Bitcoin time piece that I ever
+[32:18] saw created by anyone look at that
+[32:21] beauty I love it so much coin vigilante
+[32:24] made a perfect Bitcoin watch that's the
+[32:27] perfect subtle elegent way to go out
+[32:30] there and show that you are a bitcoiner
+[32:32] and that watch brand is Bitcoin only and
+[32:36] coin vigilante just dropped a completely
+[32:39] new and amazing Genesis edition of their
+[32:43] watch collections you have the date of
+[32:45] the first ever mined Bitcoin Block in
+[32:48] there and of course also the block
+[32:50] height and which EPO we are currently in
+[32:54] I love the level of detail they put in
+[32:57] in this map Masterpiece and make sure to
+[32:59] check out those amazing coin vigilante
+[33:02] time pieces down in the descriptions I
+[33:05] love those watches so so much yeah it's
+[33:08] it's it's also possible in Austria I
+[33:10] know about it because I did a lot of
+[33:12] stocks before uh but I never knew that
+[33:14] the technique because of course if you
+[33:17] get in a loss and then just buy it again
+[33:20] uh that's a interesting strategy yeah I
+[33:23] mean some countries have different rules
+[33:24] where it has to be like a month between
+[33:26] the there's a whole lot of stuff there
+[33:28] that's just Nuance absolutely yeah
+[33:30] perfect then but you brought up one
+[33:32] interesting question because I think
+[33:34] most people
+[33:36] overestimate what the average Bitcoin
+[33:39] holdes on
+[33:40] bitcoin I the average Bitcoin holds like
+[33:45] very little amount of of Bitcoin um
+[33:48] maybe those who are really engaged in
+[33:50] Bitcoin community and like uh like
+[33:53] speaking about it and doing a lot of
+[33:55] stuff in Bitcoin maybe that average is
+[33:57] higher but the overall average of people
+[34:00] holding Bitcoin that's not high do you
+[34:03] have a number with like that's the
+[34:05] average bitcoiner having as as how many
+[34:09] Sates is that and also do you have make
+[34:12] a difference between uh engaged people
+[34:15] and long-term people and people that are
+[34:18] shortterm in the market and and
+[34:20] long-term in the market uh different
+[34:22] statistics for that yeah so I don't I
+[34:24] don't have very um spe uh specific stats
+[34:27] on it what I can say is that uh when you
+[34:29] look at retail um now retail
+[34:32] historically has been you know in any
+[34:34] kind of asset if you're an institution
+[34:36] you're there to take money off retail
+[34:38] because they generally represent the
+[34:40] dumb money and they often consider them
+[34:41] one and the same bitcoin's a little bit
+[34:44] different um in altcoins absolutely the
+[34:46] retail is absolutely the dumb money when
+[34:48] you look at Bitcoin it has a very unique
+[34:51] property where I know I just like lump
+[34:54] everyone together everyone's got under
+[34:55] 10 BTC and the reason for this
+[34:58] when you take everyone who's got under
+[34:59] 10 Bitcoin that is still retail because
+[35:02] you know if you go back five years 10
+[35:05] Bitcoin was acquirable for many people
+[35:06] right you know if it's trading at $2,000
+[35:08] 3,000 people could actually legitimately
+[35:10] buy that without too much of hassle bit
+[35:13] harder today so there's kind of that
+[35:15] side of the equation but there's also um
+[35:18] if you've been a hodler for a long time
+[35:20] you may have 10 Bitcoin because you've
+[35:22] accumulated 0.1.1 .1 and you've just
+[35:25] done this for years and years and years
+[35:26] just kept chipping away out
+[35:28] right over time you you accumulate less
+[35:30] but it's one of these things that that's
+[35:31] probably about the boundary where retail
+[35:33] sits and what we see consistently now
+[35:36] it's not perfect but we see I look at
+[35:38] like a 30-day change of this like retail
+[35:41] size wallets and if you look at a 30-day
+[35:44] change they tend to sell tops and they
+[35:47] tend to buy heavily at bottoms and one
+[35:50] of my favorite insights I've got a
+[35:52] version of this chart on my website
+[35:54] there was the the biggest by far like
+[35:57] not even close
+[35:58] in history was the 2017 top and that was
+[36:01] me right that was literally me being an
+[36:02] idiot buying the absolute top it was
+[36:04] just a huge wave of buying and then it
+[36:07] created these people got wiped out and I
+[36:10] know because I lived through it you get
+[36:11] this bare market and then we never got
+[36:13] even remotely close to that top for
+[36:16] years when we re we actually blew that
+[36:19] level out when three arrows blew up and
+[36:22] then when FTX blew up so just think
+[36:24] about the psychology of that I
+[36:27] understand why bought in 2017 because
+[36:28] that was me I was very excited and
+[36:30] bitcoin's going to change the world I'm
+[36:31] going to be rich right that was the
+[36:33] wrong decision but then they waited for
+[36:36] five years and then they bought to the
+[36:39] same scale in a raging bare Market the
+[36:42] most horrific bar market we've seen a
+[36:43] very long time exchanges are blowing up
+[36:46] companies are going bankrupt wild stuff
+[36:50] and that's when they bought and you
+[36:51] think about it's like well what was my
+[36:53] journey I listen to countless hours of
+[36:56] podcasts I read countless books over
+[36:58] that period my conviction from 2017 to
+[37:01] 2022 I also bought like crazy and I was
+[37:04] like my God these guys are geniuses they
+[37:07] are the hardest people in this market so
+[37:10] the retailing Bitcoin are serious dudes
+[37:12] they know exactly what they're doing
+[37:14] they know exactly why they're buying
+[37:17] super high conviction I want to be in
+[37:18] the trenches with those guys so Bitcoin
+[37:20] is a very interesting asset where retail
+[37:22] isn't the dumb money there's going to be
+[37:24] dumb retail but don't fade ret retail in
+[37:28] in Bitcoin because they are actually the
+[37:29] people who've done the most work people
+[37:32] in that shrimp cohort have done more
+[37:34] study on bitcoin than Michael sailor has
+[37:36] and that I think is a really really
+[37:38] interesting and probably un
+[37:40] underappreciated factor of Bitcoin is
+[37:42] how successful the education machine has
+[37:45] been and it's all open source right
+[37:46] you've got a podcast I've got a newslet
+[37:48] I've got a podcast people just make
+[37:50] information free and this is what makes
+[37:53] this asset so fascinating and like
+[37:54] people are just intellectually
+[37:56] stimulated by it and it's it's it's
+[37:57] truly it's tremendous so there's no like
+[37:59] specific number that you're like okay
+[38:01] like 0.1 Bitcoin or something like that
+[38:03] uh there's there's no no I realiz it
+[38:05] didn't even answer your question at all
+[38:06] no I've never actually run the
+[38:07] statistics I mean in order to do that I
+[38:09] mean you could do it but um the you
+[38:11] would require I mean what I don't do is
+[38:13] like get right in and pull out every
+[38:15] utxo and it's just big data type stuff I
+[38:18] don't get involved in that because it
+[38:19] would be an interesting stat but there's
+[38:21] so much noise in it too it's like is
+[38:23] that an exchange wallet is it not it
+[38:25] it's just a very very complex task and
+[38:27] um yeah I guess the the question is does
+[38:29] it does it give us a great deal of
+[38:31] information I'm not sure yes that's
+[38:33] that's true yeah it's it's it's I mean I
+[38:36] think there's a psychology thing going
+[38:38] on like if if people want to buy if if
+[38:41] Bitcoin is the future and people want to
+[38:43] now buying Bitcoin they they might maybe
+[38:46] thinking like oh like I want to have at
+[38:48] least so many Bitcoin that I'm
+[38:50] considered rich in when Bitcoin is
+[38:52] successful in 50 years like there's
+[38:54] something along those lines and I also
+[38:56] noticed like because I had some some
+[38:58] videos with the title like oh get to
+[39:00] blah blah blah Bitcoin and those are
+[39:02] doing amazingly good I was I was to be
+[39:05] all coiners exactly a whole coiners or
+[39:08] like just like they want like x amount
+[39:10] of Bitcoin okay that's where I should
+[39:12] shoot for like that theology like of
+[39:14] holding and getting to a Target um so
+[39:17] and just on a on a very interesting kind
+[39:18] of psychological element there have you
+[39:20] heard of these guys who do this utxo I
+[39:22] think it's called utxo dolive basically
+[39:25] what they've done is they've recognized
+[39:26] that psychology
+[39:28] human beings love to send $100 $200
+[39:31] $1,000 like exact round numbers of
+[39:33] Bitcoin so you can actually see if you
+[39:36] plot on any particular day you can see
+[39:38] these clusters of like everyone spent
+[39:41] this much Bitcoin everyone spent this
+[39:43] much Bitcoin and it usually aligns with
+[39:45] 100 a th000 10,000 you can see these
+[39:48] like gradations so from that you can
+[39:50] actually back calculate the Bitcoin
+[39:53] price so you can use the utxo set I
+[39:56] think they're within like Plus minus 2
+[39:58] to 5% they can actually extract the
+[40:01] Bitcoin price from just the utxos purely
+[40:04] by the way that people spend their money
+[40:06] which is a fascinating Insight but like
+[40:08] you know it's it's we're creatures that
+[40:10] love to follow these patterns that's an
+[40:13] amazing inside what so like the because
+[40:16] people are like sending yeah it's true
+[40:18] like I also send usually the same amount
+[40:20] actually uh there it's it's it's also
+[40:24] why it's hard to estimate your original
+[40:25] question of like how much Bitcoin do
+[40:27] people have
+[40:27] because you may have you may have 10
+[40:29] Bitcoin but what do I see as a as a utxo
+[40:33] analyst I see months and months and
+[40:35] months of 0.1s it could belong to anyone
+[40:38] I don't know who owns those things right
+[40:39] so it's that like those utxos until you
+[40:42] spend them all in one transaction or you
+[40:44] do something that really proves they're
+[40:46] all you and even then imagine how many
+[40:48] people you got to track to work that out
+[40:50] you see all the dcas but you don't see
+[40:53] the total amount that individual holds
+[40:55] so that's kind of a cool element to it
+[40:57] too
+[40:58] yeah that's also interesting and also um
+[41:00] I think the the differentiation between
+[41:03] retail versus institutional money is
+[41:06] also interesting because Michael saor
+[41:08] himself let's say he has like I don't
+[41:10] know 15 or 20,000 Bitcoin something
+[41:12] along those lines I don't remember the
+[41:14] exact number the micro Strat has 210,000
+[41:16] I think he's got over 1% so he's got
+[41:18] over 210,000 now yeah 210,000 with micro
+[41:22] strategy but him personally has like 10
+[41:24] or
+[41:25] 20,000 I think he he said in one
+[41:28] interview that he has like 17,000 and
+[41:31] that he has substantially more than that
+[41:32] like more than that now but something
+[41:34] like that and the difference that I
+[41:36] wanted to make is like uh you want to
+[41:39] count Michael sailor with his 17,000
+[41:42] into retail kind of even though it's
+[41:44] like of the retail that it gets but
+[41:47] Micro strategy you don't want to get
+[41:49] into retail so like this differentiation
+[41:51] is probably also really really hard to
+[41:53] to make on chain to to find out like who
+[41:55] who's the the rich bitcoiners and I
+[41:58] don't want to have uh like micro
+[42:00] strategy in there and other big
+[42:02] companies in there especially now where
+[42:05] it gets more and more popular for
+[42:06] companies to buy Bitcoin and put it on
+[42:08] the balance sheet because of that it's
+[42:10] companies have more purchasing power
+[42:12] than a single person exactly and what I
+[42:14] would say is just for your listeners um
+[42:16] you will you will see on Twitter and all
+[42:18] these social programs lots and lots of
+[42:20] people love to talk about Wales so my
+[42:24] advice after spending a lot of time with
+[42:25] this data there is almost zero Edge and
+[42:29] Alpha in studying Wales almost none it's
+[42:32] all every single time you see someone be
+[42:34] like oh it's Mr 100 it's not it's an
+[42:36] exchange so for every Oh Mr whale is
+[42:39] buying it's actually people depositing
+[42:41] people selling it's not people buying so
+[42:43] your your interpretation is exactly
+[42:46] wrong and a lot of people then defend
+[42:48] that and say but oh but who's the client
+[42:50] it goes doesn't matter the fact that you
+[42:51] don't know what this wallet actually is
+[42:54] means that you can't make any
+[42:56] interpretation on it cu you could be
+[42:57] perfectly backwards so strangely enough
+[43:01] whale data is very memeable lots of
+[43:03] people like it it's complete dog
+[43:06] there's no value in it whatsoever on the
+[43:08] other side of the equation all the macro
+[43:10] stuff right long-term holder Supply
+[43:13] short-term Supply mvrv huge amounts of
+[43:16] alpha no one cares about it so you know
+[43:19] in terms of like trying to make the most
+[43:21] out of your time go to where no one else
+[43:23] is
+[43:24] studying how do you see social media and
+[43:27] uh news articles and and all the the
+[43:30] sometimes like this Panic or this this
+[43:32] formal in social media Rising
+[43:34] influencing the onchain data there's
+[43:37] probably like some that I'm remember
+[43:40] it's like this fear and Creed index that
+[43:42] I always see on Twitter how do you see
+[43:44] social media influencing actually
+[43:45] onchain data so one of my favorite lines
+[43:48] is I love watching the narratives on
+[43:50] Twitter not happening in onchain data
+[43:52] because it is so obvious you will see it
+[43:55] all the time and this is why I try to
+[43:56] like get Subs prepared for you mentioned
+[43:59] predictions before um one of my other
+[44:01] lines is that I don't predict but I try
+[44:03] to prepare so I don't know what the
+[44:04] future hold it could be anything what I
+[44:06] want to do is have people who are my
+[44:08] followers prepared for what could happen
+[44:11] so we don't know the future but if if we
+[44:15] were to trade down to 47,000 there's a
+[44:17] key onchain price Model down there it's
+[44:20] going to be scary as hell the narratives
+[44:22] on Twitter are going to be it's over and
+[44:24] the Bears will be out in force if we do
+[44:26] get into the 40,000
+[44:27] you can imagine it right people be
+[44:29] terrified check on chain subscribers
+[44:31] will know that that is probably that is
+[44:34] probably where the Bulls are going to
+[44:35] mount their biggest defense now will
+[44:36] they win I don't know maybe but I can
+[44:39] expect they're going to put up a hell of
+[44:41] a fight and will I be there in the
+[44:42] trenches with them absolutely that's a
+[44:44] level where I'm like I'm very
+[44:45] comfortable to buy Bitcoin here because
+[44:47] even if it goes to 30k I'm quite happy
+[44:50] buying at 47 right I was happy buying at
+[44:52] 50 and 53 these are all prices that I
+[44:54] think are very valuable so in that
+[44:56] instance
+[44:57] the narratives are almost always
+[44:59] particular the extremes absolute noise
+[45:03] so I think that the onchain data when
+[45:05] you see the narratives on Twitter and
+[45:07] then you go and look at soapa every man
+[45:09] in his dog will be saying 100K and the
+[45:12] onchain data will be saying long-term
+[45:14] holders are selling like crazy so maybe
+[45:17] 100K but probably not just yet and this
+[45:19] is like I use it to just ground myself
+[45:21] and remove all that noise from Twitter
+[45:24] um more often than not the noise you get
+[45:25] on Twitter is noise it's not signal so
+[45:28] interesting in that debate a lot of
+[45:30] people uh get it sometimes in the
+[45:32] comment like oh like uh bitcoin price is
+[45:34] anyways controlled by the the Wales and
+[45:36] the Wales are trying to manipulate the
+[45:38] markets it's it's I think it's
+[45:41] ridiculous uh but is there any onchain
+[45:44] data is there anything to that argument
+[45:47] um I have asked whenever I see that I
+[45:50] get it often uh my question is based on
+[45:52] what and I just wait until they give me
+[45:55] some piece of evidence cuz I I would
+[45:57] love to see it there is no question that
+[46:00] in markets just generally there are big
+[46:02] entities who have more purchasing power
+[46:04] and more control in fact we actually
+[46:07] should expect people to manipulate
+[46:10] markets now what do I mean by that well
+[46:12] let's say you're a big institution and
+[46:13] you want to buy a billion dollars worth
+[46:15] of
+[46:16] bitcoin you need a billion dollars worth
+[46:18] of people to be wrong and sell it to you
+[46:21] so how do you do that I don't know maybe
+[46:23] you start selling first to generate some
+[46:26] fear right get all those people to sell
+[46:28] a billion dollars worth of bitcoin to
+[46:30] you so and this is not like this is not
+[46:32] manipulation this is how markets work
+[46:34] this is just the nature of them they're
+[46:36] always like this so it's one of those
+[46:38] things where a lot of people spend a lot
+[46:40] of time complaining about manipulation
+[46:43] without kind of just accepting that it's
+[46:44] like what are you gonna do about it and
+[46:46] it's it's always going to be this way
+[46:48] it's never going to change some guy is
+[46:50] gonna have more money than you he's
+[46:52] going to want to achieve an outcome and
+[46:54] this is why like getting chopped up in
+[46:56] the all time noise is where so many
+[46:58] people go wrong they they zoom in on the
+[47:00] 1 hour chart and they panic and they're
+[47:02] like holy it's all falling apart
+[47:04] and then I zoom out and I look at the
+[47:05] monthly chart I'm like it looks like a
+[47:06] bull flag guys I don't know about you
+[47:08] like it looks really really healthy um
+[47:10] these big dogs work on the monthly and
+[47:12] the weekly time frames I don't care
+[47:14] about the hourly they may go down to the
+[47:16] hourly to do some hand-to-hand combat
+[47:17] and like take people's money but at the
+[47:19] end of the day they care about the big
+[47:21] Trend and people so often I know it's a
+[47:24] cliche but these guys actually do zoom
+[47:26] out they don't zoom in they only look at
+[47:28] the big picture Trend and then they get
+[47:30] their their analyst to go and sort
+[47:31] things out in the smaller time frame so
+[47:33] you know um whale manipulation it's
+[47:36] always there what are you going to do
+[47:37] about it people complain they do a lot
+[47:39] more complaining than actually
+[47:40] delivering any kind of evidence to be
+[47:42] like here it is here's the the
+[47:44] footprints and the Fingerprints of it
+[47:45] going on yeah it's also the the thing
+[47:48] why I think it's ridiculous because
+[47:49] manipulating means buying and selling
+[47:51] and buying sing the free
+[47:53] market exactly that's exactly right and
+[47:57] it's so interesting for I kind of have
+[47:59] that feeling when they write in the
+[48:01] comments and I feel like they they think
+[48:03] there's like a secret telegram group
+[48:05] where all the whales are coming together
+[48:06] and like hey today we are selling and
+[48:08] let's push the market down so we can buy
+[48:09] tomorrow like like I don't know if this
+[48:12] exists but I'm fairly certain that it
+[48:14] probably
+[48:15] doesn't so I would say there are those
+[48:18] telegram groups but the I guess the
+[48:20] question is for for the reply guys in
+[48:22] the audience who who you know think that
+[48:24] there's manipulation do you think
+[48:26] there's manipulation because you bought
+[48:28] and then the price went down or like if
+[48:32] you just buy when so and MVR via low
+[48:35] there will be less manipulation is
+[48:37] probably the way I would frame it
+[48:38] because your buyers will all be better
+[48:40] and then you won't worry about the
+[48:41] manipulation because your buying when
+[48:43] the whales have manipulated the price
+[48:45] down just buy then right just change
+[48:47] your system that's a that's a that's a
+[48:48] great way to think about it um to the to
+[48:51] the point do you think the the
+[48:53] volatility of of Bitcoin is a is a good
+[48:55] thing absolutely so if you look at the
+[48:59] volatility chart for like realized
+[49:01] volatility it goes up in a bull so it
+[49:05] goes down in a bear so whenever people
+[49:07] like Bitcoin is too volatile it's like
+[49:08] that's great I love it because when
+[49:10] bitcoin's volatile means it's going up
+[49:12] um it trades a lot more like a commodity
+[49:15] um this is commodity like Behavior
+[49:16] volatility goes up in a bull um in in
+[49:19] stocks it's the opposite equities tend
+[49:20] to have lower volatility like this slow
+[49:22] manipulated talking about manipulated
+[49:24] look at the stock markets like a
+[49:25] straight line that just goes up that's
+[49:27] manipulated guys that's ridiculous
+[49:29] because the world around us look around
+[49:31] there's nothing low volatility about it
+[49:33] it's crazy so this like straight line up
+[49:36] that's the so um the volatility
+[49:38] of Bitcoin is scary for people however
+[49:41] it's it's the asset and I think Michael
+[49:43] saor does do a good job of talking about
+[49:45] this it's like at the end of the day you
+[49:46] do not go from zero to Global Reserve
+[49:49] asset without a bit of volatility you
+[49:51] need volatility for the most part it is
+[49:54] to the upside so you know it's all about
+[49:57] tradeoffs and you know for some people
+[49:59] volatility can't deal with it but you
+[50:00] know you've probably been around this
+[50:01] Market long enough you get used to it
+[50:03] and uh I think long term I I look at my
+[50:07] own self right I've seen my net worth
+[50:08] drop by 75 80% multiple times there
+[50:12] ain't nothing like that to harden you up
+[50:15] imagine when all these people end up who
+[50:16] whove like weathered some of this
+[50:18] and they've gone into decision- making
+[50:20] or politics or company CEOs or whatever
+[50:23] they're going to be able to make really
+[50:25] hard decisions because they've been
+[50:26] through some really hard stuff and I
+[50:28] think that that's actually it's it's
+[50:30] massively underappreciated I find when
+[50:31] people like oh I don't want it to go
+[50:33] down 20% I'm like then don't invest
+[50:35] because like what are you what are you
+[50:36] here for you going to get your 5%
+[50:38] returns and have nothing at the end
+[50:40] anyway you have to accept that risk is a
+[50:43] part of it a lot of people also equate
+[50:45] volatility to risk but like if it's
+[50:48] volatile to the upside that's great and
+[50:51] even when you look at it from the
+[50:52] volatility standpoint sharp ratio
+[50:55] saltino ratio however you want to
+[50:56] measure it
+[50:57] you are more than compensated for the
+[51:00] returns so even though it goes down it
+[51:02] goes up so much more and it not only
+[51:05] does it go up so much more it blows
+[51:07] every other asset in the world out of
+[51:08] the park multiple times year after year
+[51:11] after year so it's kind of like an
+[51:13] undeniable fact and when you see people
+[51:15] who particularly tradire guys like oh
+[51:16] it's too
+[51:17] volatile um I think it was um was halfer
+[51:20] from from Swan he did this great
+[51:22] exercise he could not convince his Trad
+[51:25] mate to buy Bitcoin they was working
+[51:26] investment firm and he made Bitcoin like
+[51:29] a like a hedge fund tear sheet just like
+[51:31] you know hedge fund X and he showed
+[51:33] their return profile and their Shar
+[51:34] oration he gave it to the same guy and
+[51:36] goes mate what do you think about this
+[51:37] guy's returns and he goes oh man we have
+[51:40] to invest in this it's like it's Bitcoin
+[51:42] dude like it's it's not a hedge fund
+[51:44] it's just Bitcoin because like if you
+[51:46] just take away the rapper it it makes a
+[51:49] whole lot of
+[51:50] sense that's that's an amazing Insight
+[51:53] um there's also that there's this
+[51:55] narrative around Bitcoin being an
+[51:57] inflation hatch and and being a hedge
+[51:59] against the basement and I think a lot
+[52:01] of outside people from that that they
+[52:04] are not in Bitcoin the trade fire guys
+[52:07] they think of like oh Bitcoin is that or
+[52:09] wants to be that um and then they see
+[52:11] the volatility and then they're like oh
+[52:13] like inflation went up this month 10%
+[52:16] but Bitcoin went down 5% like oh
+[52:19] obviously it's not an inflation look at
+[52:20] the latest hourly candle and make a
+[52:23] holistic assessment of the whole asset
+[52:25] yeah and that's that's so funny for me
+[52:27] because like yeah yeah like it it's a
+[52:29] growing asset like it it gets like H
+[52:31] it's not on this final Edge like it
+[52:34] Bitcoin is still in an adopting curve
+[52:36] and I think that's like what what people
+[52:39] think of like but is there do you see
+[52:42] that um as the main uh narrative around
+[52:45] Bitcoin for being an inflation and
+[52:47] debasement hge or what's your like why
+[52:51] why Bitcoin like what's the the main
+[52:52] story or narrative for you yep no I
+[52:56] think I think primarily Bitcoin is the
+[52:58] store of value Asset I think that's its
+[53:00] primary narrative and and role and the
+[53:03] story that I'll kind of give here to
+[53:05] illustrate it inflation is a relative
+[53:08] thing so there's obviously the
+[53:09] debasement which is that we our fa
+[53:11] currency losers purchasing power now I
+[53:14] don't particularly worry about the price
+[53:15] of bread in Bitcoin because I use my
+[53:18] fair currency for that yeah it's painful
+[53:19] that it's going up but how do I solve
+[53:21] that problem you just going to have to
+[53:22] go and earn more money that's that's
+[53:24] just the nature of the Beast so in terms
+[53:25] of my living expenses my medium exchange
+[53:28] life that's an Australian dollar problem
+[53:30] and that's that's its own basket when we
+[53:33] move to okay I don't particularly care
+[53:35] about the next month two months three
+[53:36] months five months what is my inflation
+[53:39] rate right my inflation rate is houses
+[53:43] because I don't own a home and at some
+[53:44] point I'd like to buy one so for me here
+[53:47] in Australia my inflation rate is
+[53:49] something in the order between 12 and
+[53:51] 20% a year pretty hefty right our
+[53:54] property Market's gone through the roof
+[53:55] whether it can keep doing that who knows
+[53:57] but my inflation raised 20% a year so
+[54:00] let's look at how is my Bitcoin my
+[54:03] savings how is my savings doing at
+[54:06] storing value to buy the thing that I
+[54:09] want which is the house since 2020 first
+[54:12] of January Australian house prices and
+[54:14] this actually is dated only up to March
+[54:17] um this year because it's
+[54:19] quarterly the Australian house price is
+[54:22] up uh 45% versus the Australian dollar
+[54:25] so over the course of that 4 years it's
+[54:27] up 45% I think it's down
+[54:31] 75% in BTC terms so what does that mean
+[54:34] even though the Australian dollar has
+[54:36] lost 40 45% purchasing power versus The
+[54:38] Thing I want to buy my savings can buy
+[54:42] me four times more house that is a store
+[54:45] of value over that meaningful time frame
+[54:47] over the thing that I want to buy over
+[54:49] my inflation time frame which is a
+[54:52] couple of years in order to save for a
+[54:53] deposit for a house Bitcoin has done
+[54:55] exactly what it needed to do and it's
+[54:57] not only storing my value right gold is
+[54:59] done about the same as housing it gold
+[55:02] stored my value Bitcoin grew my value
+[55:05] it's actually better than a store of
+[55:07] value because it's kicking ass it's four
+[55:09] times better than the next best thing so
+[55:11] at the end of the day it's doing exactly
+[55:13] what it needs to do as a store of value
+[55:15] and people who don't agree either bought
+[55:17] too high right they continue to buy too
+[55:20] high CU not using so and mvrv or they
+[55:23] have this bias they just hate Bitcoin
+[55:24] it's not because you think it's not a
+[55:25] story of value because you're you're
+[55:27] ignorant you just don't like the asset
+[55:28] it's okay some people don't like the
+[55:30] asset but like you know you got to be
+[55:32] intellectually honest about these
+[55:33] arguments and these tradire guys they
+[55:34] just
+[55:35] not I think it uh like that that's
+[55:38] always my way to think of like you have
+[55:40] Bitcoin as a store of value uh Bitcoin
+[55:42] has like an inflation hch but on top of
+[55:45] that you have adoption and that's the
+[55:48] volatile part because like people coming
+[55:50] in it's like a lot of uh formo a lot of
+[55:53] hectic a lot of fear and DBS that coming
+[55:56] into the market with a news cycle and
+[55:58] social media and everything going on in
+[56:00] the world uh but I think like the store
+[56:02] of value part is all already quite um um
+[56:06] stable and the the volatility just comes
+[56:09] from like oh we we a tiny asset still
+[56:12] and we are becoming like a really big
+[56:14] asset and the and the vision is really
+[56:16] big and there are those people that have
+[56:18] like 1% of their net worth in in Bitcoin
+[56:21] then there are those those crazy people
+[56:22] like me that have 100% in the the net
+[56:24] worth and like there's a lot of
+[56:26] interesting things going on and so that
+[56:28] that's always like how I try to explain
+[56:30] it to people completely outside of
+[56:32] Bitcoin that you have like those two
+[56:33] sets and in in one price and if you only
+[56:37] look at the store value side of course
+[56:39] you cannot factor out volatility uh but
+[56:42] yeah it's like I that's why I also like
+[56:44] Michel saor talking about volatility I
+[56:46] think he said that so great in in in the
+[56:48] beginning of the days when when he went
+[56:50] on the podcast he said like volatility
+[56:52] is the price you pay for that massive
+[56:54] uptick that you get in purchasing power
+[56:57] if if your volatility is 5% you're not
+[56:59] going to make 30% a year which means
+[57:01] you're not going to beat the inflation
+[57:02] rate no matter what you do sure there
+[57:05] are going to be assets out there which
+[57:07] are 30% to the downside every year
+[57:09] that's bad volatility but you're not
+[57:12] going to beat inflation at 25% or 20%
+[57:15] whatever it is with a 5% Vol asset it's
+[57:18] just not going to happen you need the
+[57:20] volatility to beat it so in in many ways
+[57:22] if we expect inflation is going to be a
+[57:24] feature of our life moving M forward
+[57:26] into basement which I do it's one of the
+[57:28] best assets in the world because it's
+[57:29] going to it's one of the few things
+[57:30] that's going to be able to outpace that
+[57:32] so here's an interesting thing I wrote a
+[57:33] report on Monday or Tuesday um which
+[57:38] even I learned something like I always
+[57:39] learned a little bit but this was a
+[57:40] great I really enjoyed this piece um I
+[57:43] basically looked at they've got the US
+[57:44] CPI number which we all know as
+[57:46] so I just tested what is the Bitcoin
+[57:49] price there's two things is what do we
+[57:50] see we see $58,000 Bitcoin what do we
+[57:54] feel what do we feel and that's our
+[57:56] purchasing power if we look at CPI we're
+[58:00] actually at 45k if we look at CPI * 3
+[58:03] we're down at 35k so and that's in $220
+[58:06] so in terms of our 2020 purchasing power
+[58:09] how we feel we never said a new alltime
+[58:12] high right we at the 2021 the first Peak
+[58:15] by the way which I've been an advocate
+[58:16] for that first peak in April that was
+[58:18] the real all-time high the November one
+[58:20] was um so much there's an
+[58:23] infinite amount of metrics that that
+[58:24] tell you that that second High wasn't
+[58:26] real when you inflation adjust it that
+[58:29] first high in April that is the all-time
+[58:32] high and strangely enough if you price
+[58:35] that all-time high in today's dollars in
+[58:37] 2024 it's 100,000 so if you look at this
+[58:41] thing we are 40% below that 2021 alltime
+[58:45] high on an inflation adjusted basis and
+[58:47] that assumes that CPI is three times
+[58:49] under reported which is probably on the
+[58:51] low side could be more than that but the
+[58:53] real takeaway here inflation is a really
+[58:56] Insidious tax we may be down 25 from the
+[59:00] March alltime high but we're actually
+[59:02] missing an additional
+[59:04] 145% that we've lost in purchasing power
+[59:07] over the last four years right that's
+[59:09] how much that draw down is actually way
+[59:11] worse so that's why a lot of people feel
+[59:14] like this Market is different um we are
+[59:17] simultaneously very small right 1.2
+[59:20] trillion is a very small asset in the
+[59:22] grand scheme of things but we're also
+[59:24] very big because 1 2 trillion is not
+[59:26] small it's the 10th biggest asset in the
+[59:28] world so bitcoin's in this really
+[59:30] interesting world where it's both small
+[59:33] and large it's like a a small fish
+[59:35] that's just been put into a bigger pond
+[59:37] that's really where Bitcoin is in its
+[59:39] life right now so that volatility it's
+[59:40] going to be a part of this thing the the
+[59:43] inflation side of the story The
+[59:44] debasement all of these things this is
+[59:46] what Bitcoin is wrapped around this is
+[59:49] what it does it is there to help people
+[59:51] survive all of these things and the
+[59:53] volatility is a tool to help it do that
+[59:56] on that note uh how by the way really
+[59:59] really create that Insight but how does
+[60:01] uh ETFs and institutional money that
+[60:03] came into like the the last four years
+[60:05] basically with I think 2020 with micr
+[60:08] strategy that kind of was like the
+[60:10] starting point for for institutional
+[60:12] publicly traded companies coming into
+[60:14] the SC now the ETF also with
+[60:16] 2024 had that any influence on onchain
+[60:20] data that's a great question and I get
+[60:23] this one quite a lot actually um the
+[60:25] short answer is no surprisingly and I
+[60:27] literally wake up every single day and
+[60:29] I'm like the first thing I'm like all
+[60:30] right which metric's broken something's
+[60:31] got to break here it's all going to die
+[60:33] and finish and um a lot of people like
+[60:35] oh the TR so here's an example we have
+[60:39] gone through these ETFs and I've had the
+[60:41] same arguments I think about four times
+[60:44] now what is an ETF an ETF is a offchain
+[60:48] basket of pool of coins where coins go
+[60:50] in and then they do something on the
+[60:51] inside trade around whatever else when
+[60:54] have we seen this happen
+[60:56] 2017 Finance all these centralized
+[60:59] exchanges coins go in they trade
+[61:00] shitcoins on the inside but there's a
+[61:02] big sink of coins that go in we saw it
+[61:05] in 2019 there was the plus token Ponzi
+[61:07] coins went in there was like a 2% spot
+[61:10] bid absorbed 2% of all the coins they
+[61:12] all went in and then they eventually got
+[61:13] Market sold by the uh by the Chinese
+[61:15] government we saw it with gbtc
+[61:18] 665,000 Bitcoin in four months
+[61:22] extraordinary amounts of volumes going
+[61:24] all the way into this and then the
+[61:26] Arbitrage stopped in February 2021 a lot
+[61:28] of people like oh we should have gone to
+[61:30] 100,000 or oh we was you know a cut
+[61:32] short cycle no we had
+[61:35] 665,000 Bitcoin of demand in four months
+[61:39] from December through to April and then
+[61:42] it stopped almost in the blink of an eye
+[61:45] that's what killed the bull market so
+[61:47] that is another one coins go in trade
+[61:50] around the inside and here we are with
+[61:51] the ETFs and I've been looking for so
+[61:54] long waiting for my metrics to to break
+[61:57] but what's really interesting about it
+[61:59] and Jim biano has been banging on about
+[62:01] why these ETFs are you know they just an
+[62:03] orange poker chip and all that stuff the
+[62:05] ETFs are between 10 and 20% of the total
+[62:08] Market there's been this like weird
+[62:10] assumption that now that the Bitcoin
+[62:12] ETFs are here the entire Market
+[62:15] infrastructure that's been around for 15
+[62:17] years just gone disappeared no it's
+[62:21] still the 90% of the market right the
+[62:23] ETFs are big but they're not dominant
+[62:26] so we are not at the phase where the
+[62:28] ETFs are driving things they may get
+[62:30] there they'll get they'll grow in size
+[62:33] they are simultaneously like Bitcoin
+[62:35] simultaneously the most successful ETFs
+[62:38] that have ever launched and less than
+[62:41] 10% of the market so they're both big
+[62:43] and small at the same time so you know
+[62:45] it's just one of those classic
+[62:46] narratives where we wait for these
+[62:48] metrics to break but it's all those
+[62:50] coins you and I transacting coins in and
+[62:53] out every day billions of dollars goes
+[62:55] in and billions of dollars comes out of
+[62:57] exchanges every single one of those
+[62:58] coins has a signature of who bought it
+[63:01] at what price and what's their profit
+[63:02] and loss every single one is that also
+[63:05] why this fouryear cycle doesn't break
+[63:09] that's a good question actually um I'm
+[63:11] I'm undecided on what happens with the
+[63:12] four-year cycle I am going into this
+[63:15] cycle assuming that it won't break
+[63:16] because so far it hasn't and
+[63:18] simultaneously assuming it's already
+[63:19] broken because so I'm not anchoring to
+[63:21] either direction because it really could
+[63:24] be if there's one time where it's likely
+[63:26] to be broken it's
+[63:28] now a theory I've been playing around
+[63:31] with which is not fully formed but this
+[63:33] concept of like maybe people forget what
+[63:35] the cycle looks like so for example this
+[63:37] this last like six months is just
+[63:39] sideways boring choppy price action and
+[63:41] I actually did an exercise today where I
+[63:43] took the whole trading view price chart
+[63:45] and I took one year and I literally just
+[63:47] scrolled slowly from left to right since
+[63:50] the beginning of the price all the way
+[63:51] through and I was looking for anything
+[63:53] that looks like our current price
+[63:55] structure there's nothing the only close
+[63:58] equivalent is 2019 that's by far the
+[64:00] closest and I've had this like weird
+[64:02] idea again it's just an idea there's no
+[64:03] real basis to it aside from gutfield
+[64:05] what if people lose track of where we
+[64:08] are in the cycle we have this like rally
+[64:10] and then like just
+[64:12] sideways do we just have a bear do we
+[64:14] have a bull are we still in like the
+[64:16] bull like where where the hell are we
+[64:17] and people just like lose track of but
+[64:20] hang on a second it's December shouldn't
+[64:21] we be at the top and it's down like just
+[64:24] just things that just grow people off
+[64:26] and everyone's going to go looking for
+[64:28] here's the parabola oh no here's the
+[64:30] bear and it's just not going to look the
+[64:32] same that's an instinct that I have that
+[64:34] we just kind of lose track of things
+[64:35] because everyone's looking for the
+[64:37] obvious answer and I think there's
+[64:39] enough people looking for that obvious
+[64:41] answer and my experience markets tend to
+[64:43] do something else when everyone's
+[64:44] looking for the obvious answer it tends
+[64:46] to go somewhere else that that's
+[64:49] interesting do you also see how many
+[64:51] people hold their Bitcoin on exchangers
+[64:54] like in self custody like a metrix like
+[64:57] that because I feel like most bitcoiners
+[64:59] hold in an exchange but most Bitcoin are
+[65:00] hold in self custody yes yeah um so I
+[65:04] haven't checked the numbers in a little
+[65:05] while because I don't spend too much
+[65:06] time looking at exchange balances last I
+[65:08] checked it was something like 2 and a
+[65:10] half million um Bitcoin and exchanges
+[65:12] and honestly that's been pretty flat for
+[65:14] years right so here's another Pro tip
+[65:18] everyone loves to share exchange
+[65:20] balances mute complete noise there's no
+[65:24] Alpha in it whatsoever when you see oh
+[65:26]  exchange balances are almost
+[65:27] completely drained mute that person
+[65:29] because they have no idea what they're
+[65:30] talking about exchange balances are
+[65:32] never completely drain someone will
+[65:34] always deposit them and it's more likely
+[65:36] you're looking at a data error so
+[65:39] exchange balances are just not useful
+[65:41] information what a lot of people Miss is
+[65:43] that those coins go in and out of
+[65:45] coinbase and coinbase custody and they
+[65:47] they're moving around between all these
+[65:49] big institutions notc desks it is not
+[65:52] worth worrying about unless you're a
+[65:53] fully equipped and qualified data
+[65:56] scientist don't worry about exchange
+[65:57] balances um that said in terms of like
+[66:00] their General size there's something in
+[66:02] the order like two and a half million
+[66:03] coinbase custody's got like another
+[66:05] million coins but that's got ETFs and
+[66:07] micro strategy and all that kind gbtc so
+[66:10] there's a whole lot of Dynamics there
+[66:11] but um yeah a lot of people love
+[66:13] exchange balance metrics because they
+[66:14] like think that it's like oh look Supply
+[66:16] squeeze no there won't be a supply
+[66:18] squeeze because people continue to sell
+[66:20] and this is the great irony was like you
+[66:22] know everyone's like oh no the price is
+[66:24] you know it's going to squeeze at any
+[66:25] it's like no it's not because guys are
+[66:27] still selling when that stops maybe but
+[66:30] until that point no yeah that's I mean
+[66:32] uh
+[66:32] if if people have that argument that
+[66:35] exchanges will run out of uh out of
+[66:37] Bitcoin it's like no it it will not
+[66:40] because even if the price runs high at
+[66:43] some point someone is selling and the
+[66:45] price might run up really heavily
+[66:47] depends on what happens maybe have H
+[66:49] inflation whatever uh but at some point
+[66:52] there is like a stop to it uh and I
+[66:55] don't know maybe we come to the point of
+[66:57] like people don't want to trade Bitcoin
+[67:00] for any feed currency but that's like
+[67:03] hyperbitcoinization but even then we
+[67:05] have a Bitcoin market so um that's thing
+[67:09] if I wake up one day and there's a tweet
+[67:11] that's believable it's like there's only
+[67:12] one Bitcoin left the price will be like
+[67:14] a billion dollars and I will sell one
+[67:17] Bitcoin to just add to that it's just
+[67:20] you know like if you wake up tomorrow
+[67:21] and the price is a million dollars every
+[67:23] single person sitting listening to this
+[67:25] will probably
+[67:26] you may not actually sell but you better
+[67:28] believe that your brain's going to be
+[67:29] like maybe that's for sure that's for
+[67:32] sure um do you think that fiat currency
+[67:34] will will always be around I do actually
+[67:37] yeah I'm I'm I'm in the camp where as
+[67:39] much as Fiat is a blight on society
+[67:41] governments will never give up the
+[67:43] control and in many ways as a bitcoiner
+[67:47] I would much rather have an asset that I
+[67:49] can use to transact in my economy that I
+[67:52] can borrow and not be even remotely
+[67:55] concerned that it's going to blow me up
+[67:57] if I borrow
+[67:58] Bitcoin that's hard because if I you
+[68:01] know I'm now short Bitcoin if I sell it
+[68:03] to buy anything I'm now short Bitcoin
+[68:04] that's that's a tough sell if I borrow
+[68:07] Australian dollars it's going to be
+[68:09] toilet paper the longer I hold it so
+[68:11] essentially I can you know go and use
+[68:12] spend that into the economy I can borrow
+[68:14] against my hard scarce Bitcoin and use
+[68:17] that in the economy and honestly I think
+[68:19] this is a this is the third in the whole
+[68:22] world of crypto I believe there are
+[68:25] three primary product Market fits there
+[68:29] is stable coins which undeniably are a
+[68:31] product Market fit there's Bitcoin as
+[68:33] the ultimate store of value Asset and
+[68:35] there's the ability to borrow against my
+[68:37] my Bitcoin those are the three killer
+[68:39] apps I don't think there are any other
+[68:40] killer apps in in the crypto world and
+[68:43] you know the I think Fair currency will
+[68:45] always be around I think the US dollar
+[68:46] will be the reserve currency for as long
+[68:48] as I'm alive I just don't see these
+[68:51] power balances changing there there
+[68:52] there's no other real alternative the
+[68:54] world's not ready to to go to a Bitcoin
+[68:56] standard it's probably not even ready to
+[68:57] go to a gold standard what it is
+[68:59] prepared for is for the people who
+[69:02] understand those two assets Bitcoin and
+[69:03] gold to probably do pretty well over the
+[69:06] next decade and a half because they
+[69:08] understand the problem that we're facing
+[69:10] Fair currency will get to based but as
+[69:12] you would no doubt know and pretty much
+[69:14] everyone listening to this would know
+[69:15] you got a lot of friends out there that
+[69:17] you still can't convince no matter all
+[69:19] this inflation all this you still can't
+[69:22] convince them to get Bitcoin so we are
+[69:25] so far away from people losing faith and
+[69:27] if if you can't convince 100% of your
+[69:29] friends that they should buy a little
+[69:31] bit of Bitcoin there ain't no chance Fe
+[69:34] currencies going anywhere until you
+[69:35] solve that
+[69:36] problem this argument makes sense
+[69:38] because like I I made I think a week ago
+[69:41] or something like that podcast with
+[69:42] Ariel agila from from Argentina I think
+[69:46] he wrote Bitcoin prophecy or something
+[69:48] like that the book it's called and we
+[69:50] basically went through Argentina's
+[69:53] history and there were like a lot of
+[69:54] points where like they created a new
+[69:57] local currency of of Argentina however
+[70:00] it was called it lasted two years then
+[70:02] they made a new one it lasted four years
+[70:05] and they still keep going like the
+[70:07] inflation is massive when you look at
+[70:09] Argentina they they
+[70:11] earned, five years ago now they're
+[70:13] earning $300 like that that that's
+[70:16] massive but they still are not on a har
+[70:18] bit condensation the same with turkey so
+[70:21] I'm really positive and really
+[70:22] optimistic on bitcoin maybe being one
+[70:24] day the only currency and asset that we
+[70:26] have but then I also look at reality on
+[70:28] Argentina and turkey and all those
+[70:30] places and I'm like they don't get
+[70:32] Bitcoin like I get why someone uh with a
+[70:36] 10 20 30% inflation rate doesn't get
+[70:38] Bitcoin when but when it gets to the
+[70:40] hundreds and even thousands and
+[70:42] hyperinflation where we like just
+[70:44] completely debish a fe currency and make
+[70:47] a new one up then the next day
+[70:50] like we need like people not waking up
+[70:53] to that like I I'm
+[70:56] the thing I find quite interesting about
+[70:58] those scenarios is they're adopting
+[70:59] tether and if you think about the scale
+[71:02] between the Euro and Bitcoin the
+[71:05] Australian dollar and Bitcoin that
+[71:07] magnitude of scarcity Delta is probably
+[71:10] about the same as the Argentine peso to
+[71:13] the US dollar it's about the same
+[71:14] magnitude right in log scale that's a
+[71:17] one to a 10 and then 10 to 100 so in a
+[71:20] way when we see this dollarization
+[71:22] they're not ready for the full Quantum
+[71:24] Leap from one to 100 but they are ready
+[71:26] for the 1 to 10 and in the Western World
+[71:30] you know the 1 to 10 is probably the
+[71:31] gold and Bitcoin that's the next kind of
+[71:33] step for them so we're going to see
+[71:35] these little microcosms of what happens
+[71:37] when you go from an unsound money to a
+[71:39] Sounder money the US dollar may not be
+[71:42] sound but it's sure as hell sound versus
+[71:43] the Turkish l so we're going to see
+[71:45] these like adoption curves of what
+[71:47] happens to a society when you start to
+[71:49] improve by a naturally market-based
+[71:52] alternative which is the US dollar so I
+[71:54] think it's a really interesting and
+[71:56] underappreciated microcosm of what
+[71:58] hyperbitcoinization could look like if
+[72:00] it happened in the western world really
+[72:02] really cool thank you so much um we're
+[72:04] already in the the end routine of our
+[72:07] podcast where we ask the same question
+[72:09] to every guest and then uh another
+[72:11] question the first question that every
+[72:13] guest gets what can we learn from you
+[72:15] besides all the things that we already
+[72:17] talked about oh interesting um I think
+[72:20] always like you have to invest in
+[72:22] yourself right I mean for me my my like
+[72:25] main hobby my addiction is kite surfing
+[72:27] and there's something about being like
+[72:29] half like 75% in control and 25% just
+[72:32] let nature take the wheel for me that
+[72:35] like that risk component actually
+[72:37] relaxes my mind um another saying is
+[72:40] that when I I was living in London and
+[72:42] my friend came to live with us for a bit
+[72:44] and um he'd been living I think he was
+[72:46] in Poland and Netherlands so he was like
+[72:48] really like just out living by himself
+[72:50] um and he said you have to find your
+[72:52] yogurt and what did he mean by that he
+[72:54] like every morning he just has his
+[72:56] granola and his yogurt and that was the
+[72:58] thing that like oriented him for the day
+[73:00] so I I think like people find find your
+[73:03] yogurt find the thing that like orients
+[73:05] you and just like grounds you for the
+[73:07] day find the thing that helps you
+[73:09] de-stress and relax and like find
+[73:12] yourself because at the end of the day
+[73:14] whether you're an investor whatever
+[73:16] you're doing the your biggest enemy in
+[73:18] everything is always yourself you spend
+[73:20] so much more time thinking through your
+[73:22] own thoughts and going through your own
+[73:24] you spend more time time with yourself
+[73:25] than with anyone else in your life so
+[73:27] learning to understand who you are and
+[73:29] what drives you is really really
+[73:31] powerful because it sets you up for
+[73:32] everything else right and you can attack
+[73:34] all these problems differently um go for
+[73:36] a walk I find going for a walk is just
+[73:38] tremendous like reset my brain um I also
+[73:42] like for me I've realized that sometimes
+[73:43] when I write an article the next day I
+[73:46] actually need the whole day to just like
+[73:47] allow my juices to recharge um so you
+[73:50] know find your yogurt it's probably how
+[73:52] I'd I'd answer that question are you
+[73:54] walking with with uh music or podcast or
+[73:57] like just like uh
+[73:59] playing yeah no I'm I'm I I don't know
+[74:02] how many hours of podcast I consume a
+[74:03] week but it's a lot oh yeah it's it's
+[74:06] it's great like podcasts like I'm always
+[74:09] switching between podcast and music it's
+[74:11] like kind of like switching around it's
+[74:13] but it's really interesting when you
+[74:15] walk with nothing like that that feels
+[74:17] no it is weird that thing go deep as far
+[74:21] as I'm aware your brain is much better
+[74:23] at processing information when you're
+[74:24] walking it like activates more parts of
+[74:26] your brain so walking Einstein used to
+[74:28] walk like 5 hours a day because it just
+[74:30] like helped him digest information I
+[74:32] think that's probably about right
+[74:34] absolutely really cool perfect and our
+[74:36] other Andro is where the previous guest
+[74:38] is question is asking a question for the
+[74:40] next guest without knowing who the next
+[74:41] guest actually is um and the question is
+[74:44] as soon Bitcoin becomes gold 2.0 what
+[74:48] does that look like interesting so I
+[74:50] think it's it's kind of a dynamic where
+[74:51] Bitcoin is I mean the fact that we had
+[74:55] two presidential candidates in the US
+[74:58] even just it's not going to happen not
+[75:01] anytime soon but talking about Bitcoin
+[75:03] as a reserve asset that is very
+[75:05] interesting you know like that that we
+[75:07] are not talking there's no silver
+[75:08] conferences doing this um another one
+[75:12] there's the the in go we trust report
+[75:14] which is like a fantastic macro research
+[75:16] piece comes out once a year probably one
+[75:18] of the most viewed macro articles in the
+[75:21] in the
+[75:22] industry they had a whole segment on go
+[75:25] on bitcoin they had it at like 3%
+[75:28] recommended portfolio allocation between
+[75:30] 3 and 5 and it was in the pages before
+[75:33] silver this is a gold report and they
+[75:36] have Bitcoin before silver we're there
+[75:39] guys we're like getting very very close
+[75:41] to this point where it's on the same
+[75:42] playing field now what does gold 2.0
+[75:44] look like there's always the risk that
+[75:47] like with gold you know in terms of that
+[75:49] manipulation conversation we had before
+[75:51] there's been claims about the gold
+[75:52] market being manipulated forever and I I
+[75:54] believe those actually
+[75:55] and the reason why that happens is
+[75:57] you've got 100 to one paper claims
+[75:59] versus physical I don't know about you
+[76:02] if you've ever gone to buy physical gold
+[76:03] if you haven't it is a process it is not
+[76:06] an easy thing most people do not want to
+[76:09] have bars of expensive metal in their
+[76:11] house so it's one of those things that
+[76:14] the custody the custody is the reason
+[76:16] that that happens with gold you cannot
+[76:19] there is no company in the world who can
+[76:22] reh hypothecate my Bitcoin because they
+[76:24] don't have it I've got it it's not
+[76:25] theirs so self- custody of Bitcoin is so
+[76:29] critically important because it is the
+[76:31] defense mechanism against gold 2.0 um I
+[76:35] think that when you go through the
+[76:37] process of looking at like silver coins
+[76:39] they're heavy they're bulky they're big
+[76:41] if they get scratched they lose value
+[76:43] sometimes they just tarnish on their own
+[76:45] like there's all sorts of problems there
+[76:47] gold is exponentially smaller per unit
+[76:50] of value one gold coin is 85 silver
+[76:53] coins Bitcoin is no space at all
+[76:57] exponentially better so it is or it's
+[76:59] it's it's better than gold right so it's
+[77:01] going to get there um I think gold will
+[77:04] always be a an asset for the central
+[77:06] banks and governments I think Bitcoin
+[77:08] will be that same thing for the
+[77:09] individual and maybe the corporation and
+[77:12] that's great I think that is bitcoin's
+[77:13] sole purpose is to help people like you
+[77:15] and I avoid the whole inflation side of
+[77:18] this
+[77:19] equation perfect thank you so much uh
+[77:22] James for being on uh Before I Let You
+[77:24] Go where can people find you and and
+[77:26] read your articles and use nler yes
+[77:29] you'll find me at _ Che over at Twitter
+[77:33] and um our newsletter is at check
+[77:35] onchain so it's one word check on chain
+[77:37] um we've got a whole charting website so
+[77:39] literally every onchain chart you've
+[77:41] ever wanted we've got all of it um and
+[77:43] the thing I try to do with it is um we
+[77:45] don't just give you the metric we try to
+[77:47] have the chart tell the chart tells the
+[77:49] whole story when something that's
+[77:51] important is happening the chart is
+[77:52] going to be red right not just kind of
+[77:54] give you a price be like good luck
+[77:55] here's your Lego we try to help people
+[77:57] actually navigate using these tools and
+[77:59] and kind of survive so if you head over
+[78:01] to checkon chain.com um you'll find both
+[78:03] our newsletter and our um and our
+[78:05] charting website and uh yeah I me we
+[78:07] love getting feedback so if you got any
+[78:09] comments or questions uh feel free to
+[78:10] hit me up ah really cool thank you so
+[78:13] much perfect then uh thank you for being
+[78:16] on thank you also for everyone that is
+[78:17] watching and listening for joining us
+[78:19] today as always I'll be back tomorrow
+[78:20] with another episode bye-bye
+[78:23] [Music]

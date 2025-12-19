@@ -1,0 +1,1461 @@
+Title: Jeff Booth REVEALS How 0.1% Fees Change the Bitcoin Endgame
+Video ID: zUuznk0h-uk
+URL: https://www.youtube.com/watch?v=zUuznk0h-uk
+Date Saved: 2025-06-15 11:39:41
+--------------------------------------------------
+
+[00:00] Now take money. It's been the ultimate
+[00:02] hot honeypot all of history because if
+[00:04] you control money, you control everybody
+[00:06] else. The we've never lived in a global
+[00:08] free market where you could trade with
+[00:10] people all over without an
+[00:11] intermediator, right? And the output of
+[00:13] that trade was deflation. And if all of
+[00:15] your trade is in that system and you
+[00:17] were not self-custodying, not not
+[00:20] running an economic node and all of
+[00:22] these trade, then that system will stop
+[00:24] Bitcoin in time because not enough
+[00:25] trade. So the little tiny fees from
+[00:28] lightning and such that then move down
+[00:30] to the miners. So you are an active
+[00:32] participant. We trade with each other to
+[00:34] achieve more value. That's what the
+[00:35] global free market looks like. So if
+[00:37] you're going to distort that and stop
+[00:38] that from happening through your
+[00:40] financial instrument, there's going to
+[00:42] be consequences. All of those people
+[00:44] become the network. And when I say we
+[00:45] are Bitcoin, we really we are that
+[00:48] social layer of Bitcoin is the thing
+[00:50] that keeps it decentralized and secure.
+[00:53] [Music]
+[00:56] Hi Jeff, welcome back on the show. Hey
+[00:58] Robin, great to see you. Thank you so
+[01:00] much for coming back on. It was it was
+[01:02] so great. You you were my first big
+[01:04] guest and it's almost it's almost always
+[01:06] an emotional moment for me because it's
+[01:08] like I have 400 episodes between the the
+[01:11] first one and now and now you. So thank
+[01:13] you so much for for doing that. It's
+[01:14] really cool. Well, huge congrats on what
+[01:16] you're doing. Thank you so much. Um I
+[01:19] know often um when you talk I hear and I
+[01:24] often notice that you say we are Bitcoin
+[01:27] very often uh and I think it's a really
+[01:29] interesting topic the social revolution
+[01:31] behind uh Bitcoin. What do you mean by
+[01:34] we are Bitcoin? That's pretty deep talk
+[01:37] topic and and for Bitcoiners who have
+[01:39] spent a lot of time here they'll they'll
+[01:41] know what I mean. But when you actively
+[01:45] participate run a node um uh spend in
+[01:50] Bitcoin, you are the social layer that
+[01:52] actually keeps that decentralized and
+[01:54] secure. So when you you w I watch the
+[01:59] world centralizing makes and measuring
+[02:02] Bitcoin and fiat and and all of these
+[02:05] things and all of these risks that they
+[02:07] think um about Bitcoin when the risk is
+[02:11] really about them, what are they going
+[02:14] to do? Um because nobody can nobody can
+[02:18] force you because Bitcoin is
+[02:19] decentralized and secure in the way that
+[02:21] nodes are set up. You can actively
+[02:24] participate in the honest system and
+[02:27] expand the honest system with what you
+[02:29] do with what you choose to do. So I like
+[02:32] to say that Bitcoin um understanding
+[02:35] Bitcoin or once you understand Bitcoin,
+[02:37] if you choose the other system, it
+[02:39] doesn't say anything about
+[02:41] Bitcoin. Says something about you. Um
+[02:44] and and once you make that choice and
+[02:46] once you commit to that that choice um
+[02:50] like you were doing like
+[02:52] like you you know all of the people I
+[02:55] could name them for it would take me all
+[02:58] this podcast to name all the people that
+[03:01] are whether Michael Sailor calls them
+[03:03] cyber horsets all of the
+[03:07] uh fights and um or a bunch of the
+[03:10] fights about Bitcoin are in in order to
+[03:14] keep its essence that we are it. This is
+[03:17] the first time in human history that
+[03:19] we've got a chance
+[03:21] um to have something decentralized and
+[03:23] secure and in other words not live in an
+[03:25] exploitive system, live in a a
+[03:28] competitive one but cooperative for all
+[03:31] of humanity. Um, and it's such a big
+[03:33] deal, and I understand when I'm saying
+[03:36] this, the vast majority of the world
+[03:38] doesn't understand what I'm saying and
+[03:40] and will push back because there of of
+[03:43] fear and and their existing cognitive
+[03:46] dissonance of what this is, what this
+[03:48] state change looks like. But once you do
+[03:50] understand it, you you can be an active
+[03:52] participant. that active participant in
+[03:55] the network is the same thing that
+[03:59] through the nodes, through the economic
+[04:00] nodes, through the through the looking
+[04:03] for attack vectors and and being in
+[04:07] front of those attack vectors way before
+[04:09] they even happen. Um, and building
+[04:11] building kind of freedom tech. All of
+[04:14] those people what you're doing, teaching
+[04:16] other people, starting their journey
+[04:19] down, all of those people become the
+[04:21] network. And when I say we are Bitcoin,
+[04:23] we is really we are that social layer of
+[04:26] Bitcoin is the thing that keeps it
+[04:27] decentralized and
+[04:29] secure. So super interesting. Is is that
+[04:32] social layer the the biggest and the
+[04:35] most important part of of Bitcoin which
+[04:38] keeps it different from any other crypto
+[04:40] asset, any other stock, any other real
+[04:43] estate, like any other asset basically.
+[04:46] Um, you could say lots
+[04:49] of I'd get caught in a trap because
+[04:51] other people would say, well, the social
+[04:52] layer of Twitter or the social layer of
+[04:55] this. What what what is different here
+[04:57] is is because because of the you you
+[05:02] know this, many of you use many of your
+[05:04] viewers do, some of your viewers might
+[05:06] not because of the way the mining is set
+[05:09] up for rewards. Um, and then how they
+[05:12] how you can run a node and audit that
+[05:15] system and and hold them accountable for
+[05:18] the open- source software that you
+[05:20] download and you can check everything
+[05:22] and you can hold them accountable and
+[05:23] audit that time chain every 10 minutes.
+[05:26] Um, and then you can spend in it and you
+[05:28] can increase the kind of economic nodes
+[05:31] that are um uh driving it uh in this.
+[05:36] All of those things make you an active
+[05:38] participant or not. Um, if you if you
+[05:43] buy Bitcoin on an exchange, and I'm not
+[05:45] I'm not
+[05:47] throwing sand at or darkness or shade at
+[05:51] somebody else that is doing that because
+[05:53] that might be the first step into the
+[05:55] journey. But if you're buying it on an
+[05:57] exchange and you're measuring it in US
+[05:59] dollars, you're measuring Bitcoin from
+[06:01] the system that's centralizing. So
+[06:03] you're you're you're giving your power
+[06:05] to the centralization because and you
+[06:08] you know I've talked about this lots
+[06:09] before but if the natural state of the
+[06:11] free market is deflation then all prices
+[06:13] should fall forever forever. Anything
+[06:16] that's stuck anything that creates extra
+[06:19] margin anything that feels like isn't
+[06:21] abundant will create a swarm of
+[06:24] entrepreneurs attacking it with
+[06:26] different ideas because of the margin
+[06:29] opportunity. So there can't be any
+[06:31] monopoly in a free market.
+[06:33] can't look like all of the all all of
+[06:36] the view of people's world today is a
+[06:40] reflection of the system we live
+[06:42] in. And what a lot of people are scared
+[06:45] of in Bitcoin is it just repeats that
+[06:47] system. But it can't as long as it stays
+[06:50] decentralized and secure. When I say we
+[06:53] are Bitcoin, once you understand that,
+[06:56] um, you're never going once you really
+[06:58] understand that. I I don't know very
+[07:00] many people who have really understood
+[07:02] this and then made a choice to go back
+[07:04] to the dishonest
+[07:06] system and and and because that's what
+[07:09] it would have to do. That's what I would
+[07:10] have to do. I am not going back no
+[07:12] matter what. This is and I know many
+[07:16] many people that aren't that aren't. And
+[07:19] so on one side people would say well
+[07:22] what if Bitcoin goes to zero? Okay, then
+[07:24] it goes it goes to zero. But the only
+[07:26] way it could go to zero is if everyone
+[07:28] chose to go back because so let's talk
+[07:31] about some real potential risks to
+[07:34] Bitcoin. And I would say that there's
+[07:36] two uh two major uh risks to Bitcoin
+[07:40] that both of what I what I'm saying here
+[07:43] solve. One would be quantum. At some
+[07:46] point you could say quantum is never
+[07:49] going to happen and that might be true
+[07:51] but I would say that that's more of an
+[07:52] edge case now that at some point whether
+[07:57] through what Microsoft's doing with
+[07:59] hardware to be able to make uh
+[08:02] uh and and then uh software we will we
+[08:06] will likely get to quantum might be 10
+[08:08] years might be 5 years might be 20 years
+[08:11] um might be never but but I think In
+[08:15] something that's this
+[08:17] profound, we should take the case that
+[08:19] we should take the case that we will get
+[08:22] there
+[08:22] someday. And we should do the work to be
+[08:25] able to um to make the protocol quantum
+[08:28] resistant. How do you make the protocol
+[08:30] quantum resistance resistant? A whole
+[08:33] bunch of people do the work to make sure
+[08:34] the best solution is done and it and
+[08:37] that solution is f with all of these
+[08:39] people going through this consensus
+[08:42] mechanism and then you roll out change
+[08:45] and who rolls out the change the people
+[08:47] that vote for the change that's in best
+[08:49] interest of Bitcoin the social layer. So
+[08:52] the so uh and and we're doing at ego
+[08:56] death we're doing a lot of work on this
+[08:57] right now looking at all of the various
+[09:01] uh different proposals. So you see okay
+[09:04] there's a risk way out here right what
+[09:08] should we actively participate in making
+[09:10] sure that risk uh uh doesn't
+[09:14] materialize. You can imagine there's a
+[09:16] whole bunch of other people, not just
+[09:17] ego death. A whole bunch of individuals
+[09:20] same same as us because of the social
+[09:22] layer that are doing the very same
+[09:24] thing. What's another risk? Another risk
+[09:26] is us. The risk is most people are
+[09:30] measuring Bitcoin in the fiat
+[09:33] instrument. And if they're measuring
+[09:35] Bitcoin in the fiat instrument, they're
+[09:37] actually contributing to the
+[09:39] centralization. and they don't realize
+[09:41] it because and they will get rich
+[09:43] because Bitcoin will go up a lot in the
+[09:46] fiat
+[09:47] instrument and they will probably sell
+[09:49] trade their Bitcoin for the fiat
+[09:52] instrument and they will they will
+[09:55] likely not run nodes. They will likely
+[09:57] not part be part of this and at some
+[09:59] point that fiat system which is an
+[10:01] inflationary system has to attack the
+[10:04] honest
+[10:05] one has to. So you could just go through
+[10:09] a thought experiment. What would you do
+[10:12] to to enable that attack? What you would
+[10:15] do if you were a government? What you
+[10:16] would do is if you were you
+[10:19] would be on side with Bitcoin. That's
+[10:22] super interesting. And there's this this
+[10:24] this
+[10:26] increasingly bigger crowd that comes in
+[10:28] and only cares about number technology.
+[10:31] Uh and then there's the hardcore as we
+[10:33] call it the freedom technology. Uh, and
+[10:36] I mean I would argue probably 99% of of
+[10:39] Bitcoiners or maybe like all of them
+[10:42] come in first like because they see
+[10:44] number go up and then they learn about
+[10:46] Bitcoin. Hopefully most of them actually
+[10:48] see the revolution and and what's so
+[10:51] fundamental about Bitcoin then later on
+[10:54] and then all of a sudden start taking
+[10:56] self-custody running their own nodes and
+[10:58] and doing actually the hard work of like
+[11:00] what it takes to be sovereign on on
+[11:02] Bitcoin. That's at least my my hope.
+[11:05] And and and that's what people like you
+[11:07] are doing with your podcast. That's
+[11:10] what we're doing through Ego death and
+[11:13] investing in all of the things that
+[11:14] protect this and make it make and build
+[11:18] functionality on on top of this. we
+[11:20] think about this as a as a real
+[11:23] revolution where we're building on an
+[11:25] honest world and um and and so so it
+[11:30] doesn't actually take if you just think
+[11:32] about why it feels like that um why it
+[11:35] feels like most people aren't like us
+[11:38] most people are a number go up and many
+[11:40] will be a number go up and and you also
+[11:43] some people will make decisions and sell
+[11:45] all the Bitcoin and do really well for
+[11:46] their families and that's
+[11:48] that's okay they don't want the uh that
+[11:51] spend the time and go to the next step.
+[11:54] Um this is going to be a massively
+[11:57] chaotic
+[11:58] transition because it has to be a
+[12:00] massively chaotic transition to move
+[12:02] from a system that we've lived in for 3
+[12:04] to 5,000 years that's always been
+[12:07] exploitative to a cooperative one. Our
+[12:10] most of our minds can't grapple what
+[12:12] that means. But now now think about
+[12:15] what's happening. what why it feels like
+[12:17] what you would say is especially if
+[12:19] you're on Twitter, right? It doesn't
+[12:21] feel like that as much on Noster, but it
+[12:24] feels like that on Twitter because
+[12:27] because the majority of people aren't
+[12:30] Bitcoiners yet. The majority of the 8
+[12:32] billion people on this planet have no
+[12:35] idea the first stage the number go
+[12:38] up. So they enter they they enter
+[12:43] through government saying it's okay now.
+[12:45] they enter it, removed a bottleneck. Now
+[12:47] they're not fearful of it. And so they
+[12:50] start in that giant funnel um way up the
+[12:54] top and many of them will move down to
+[12:56] where you are where I am today and
+[12:58] contribute. It doesn't take 8 billion
+[13:01] people contributing to this network to
+[13:03] keep it decentralized and secure. It
+[13:05] only takes it only takes a small
+[13:09] percentage of those people um ensuring
+[13:13] that this doesn't this doesn't break and
+[13:16] the rest will have to follow. This is
+[13:18] actually a question that I have have a
+[13:19] lot because we know um most people use
+[13:23] things and don't understand how they
+[13:25] work like you you drive a car uh you
+[13:28] know how to drive a car but most of them
+[13:30] don't know how this actually works or
+[13:32] the TCP IP protocol I think that's also
+[13:34] something we discussed in the first
+[13:36] episode uh with you um how many if you
+[13:40] had to guess uh if we have like 100% of
+[13:42] people in in or on Bitcoin how many how
+[13:46] many do we
+[13:47] need that truly understand uh Bitcoin
+[13:51] and the implications of that. So I did a
+[13:54] I put an article on Noster um about a
+[13:58] month ago or maybe a little longer than
+[14:00] that ago and somebody reach shared it on
+[14:02] on Twitter as well and I talked about
+[14:04] this from a game theory
+[14:06] perspective. Um and and I used the uh
+[14:10] and I used the example tied to money. I
+[14:12] I'll just share the example here.
+[14:16] So, so about 10% of people can't be
+[14:20] bought. Um, they I've seen the number as
+[14:22] low as 2 and a half% and as high as 20
+[14:25] 20%. I actually always I've seen the
+[14:28] number more often at 2 and 1/2%. So,
+[14:31] let's just use 2 1/2%. And when I say
+[14:34] can't be bought, what I mean by that is
+[14:36] if you design a playoff matrix payoff
+[14:40] matrixes within game theory and and the
+[14:43] person cannot get caught, they won't get
+[14:45] caught and the reward you just keep on
+[14:48] increasing the
+[14:49] reward 1 million, 2 million, 10 million,
+[14:52] 20 million and you keep on increasing
+[14:54] the re reward.
+[14:56] Most people 97.5% or 90% will say I have
+[15:01] to do it for my family or I have to do
+[15:03] it for this. Their their internal
+[15:04] dialogue will make a reason to be able
+[15:06] to cheat. 2 and a half to 10% of people
+[15:09] will will not cheat. What their internal
+[15:12] uh dialogue say says uh their um their
+[15:17] accountability in themselves won't let
+[15:20] them. Right? They're uh and I and I want
+[15:23] to be careful here. I don't want to say
+[15:25] better, worse, or any anything else.
+[15:27] It's just those are the numbers and
+[15:29] they've always been the numbers in
+[15:31] humans. And so those ask pretty deep
+[15:34] fundamental questions. Who are you? Not
+[15:37] who is everybody else? What would you do
+[15:39] in that exact example? Now take money.
+[15:42] It's been the ultimate honeypot for all
+[15:45] of history because if you could control
+[15:48] money, you control everybody else
+[15:51] through cheating, cheating money. And
+[15:53] and because people don't notice it, you
+[15:56] don't get
+[15:58] caught. So So what would the world look
+[16:01] like if 97.5% of people wouldn't get
+[16:05] caught and they can cheat money and they
+[16:06] can create all of our history books
+[16:09] about what the world looks like. Look
+[16:12] exactly like it has through this control
+[16:14] system. And what it would also look like
+[16:17] is the 2 and 12% of people would been
+[16:20] would have been killed by the cheaters,
+[16:23] right? And who do you now when you think
+[16:26] about who the 2 and 12% of people that
+[16:28] are killed by the cheaters? Who are
+[16:30] they? They're actually probably of most
+[16:32] of our religious figures. They're
+[16:35] probably Gandhi. They're probably Martin
+[16:37] Luther King. They're a bunch of bunch of
+[16:39] people who stand out as different from
+[16:41] everybody else. Really scarce, right?
+[16:44] Um, and we celebrate them even today
+[16:48] because we want to be like them. It's
+[16:52] talking about a higher it's talking
+[16:53] about what what humans are reaching for
+[16:56] a higher um
+[16:59] frequency that they can't that they can
+[17:02] they can evolve to but they don't get
+[17:03] there. So we celebrate those same people
+[17:06] today but we go back to the system that
+[17:08] always cheats.
+[17:11] Um now two and a half percent of people
+[17:15] in Bitcoin running nodes running
+[17:17] economic nodes creating creating value
+[17:20] is way more than enough people to keep
+[17:23] this decentralized and secure way more
+[17:25] than enough people. And so what will the
+[17:28] most of the people do that have
+[17:30] always just gone with whatever they're
+[17:33] going to cheat because if they don't
+[17:35] somebody else will before them. What
+[17:36] will they do in the honest
+[17:38] system? They uh they'll be more
+[17:42] inclined to be one of the 2 and 12%.
+[17:46] be more inclined to and you can see this
+[17:48] through Bitcoin's early like this is
+[17:51] only 16 years but you can see you can
+[17:54] see it through its early evolution to uh
+[17:56] today every single person who's cheated
+[17:58] the network and by cheated the network
+[18:01] tried to accumulate more through a
+[18:03] different coin or done this or done this
+[18:06] would have been better off if they were
+[18:08] just an honest participant the the the
+[18:11] truth that that Bitcoin rewards and the
+[18:13] the holding and the perseverance of of
+[18:15] of just not being fancy with your with
+[18:18] your stack and just uh doing the boring
+[18:22] accumulating of of of Bitcoin which is
+[18:25] really hard for humans to do apparently
+[18:27] of just sticking on a stack. So look at
+[18:30] look at Roger Ver like charged like he
+[18:33] would have been one of the he'd been
+[18:35] wealthier than Michael Sailor. They
+[18:37] called him Bitcoin Jesus. He he was on
+[18:40] the other side of of of the of the 2017
+[18:45] trying to centralize uh Bitcoin and he
+[18:48] talks about it today and he had to write
+[18:50] a book because he's broke and um he's
+[18:53] trying to uh to matter again and he
+[18:57] talks about it today um and he's
+[18:59] rewriting history
+[19:02] um because uh
+[19:05] imagine having all that and and and and
+[19:09] and all of that ability and just side
+[19:11] with the honest network instead of
+[19:14] trying to consolidate more. Imagine what
+[19:17] it would look like him, what what would
+[19:19] be going on in his brain when his life
+[19:22] looks like it does now compared to what
+[19:25] compared to what just being on the
+[19:26] honest network would look like. And it
+[19:28] would it would create this uh
+[19:31] derangement
+[19:32] syndrome because and and you'd hate the
+[19:35] honest chain just like what's happening.
+[19:38] You'd have to tell yourself something
+[19:40] that that I was I was the hero trying to
+[19:43] say save this. You'd have to create a
+[19:45] different narrative um to be able to
+[19:48] kind of live with that massive change in
+[19:51] what you did. Um and and over and over
+[19:55] over and over again you see this you see
+[19:58] the FTX you see and we'll see just
+[20:01] because 90% of that 97% 97.5% of people
+[20:06] will
+[20:07] cheat what why this will be chaotic cuz
+[20:10] you have to expect it something
+[20:12] interesting do you think there will come
+[20:15] again a point in Bitcoin's history
+[20:18] something like a block size war 2.0 No.
+[20:22] Uh not not just uh
+[20:26] possibility guaranteed guaranteed.
+[20:29] There'll be there'll be all sorts of
+[20:31] chaos there. There has to be and there
+[20:34] has to be because the systems are
+[20:36] incompatible and and most people by most
+[20:41] 99.9% are
+[20:44] measuring. You've never seen the world
+[20:46] that I describe, right? When when I when
+[20:48] I keep saying Bitcoin isn't going up,
+[20:51] prices are falling against
+[20:54] it. That is the free market. And Bitcoin
+[20:57] is measuring the first global free
+[20:58] market that's ever
+[20:59] existed. So, so all of the other why
+[21:04] you'd see Trump today and and many
+[21:06] people are giving that strength more
+[21:08] strength, right? Elon Trump better than
+[21:11] Biden uh uh Biden and the
+[21:15] globalists in the well that might be
+[21:17] true kind of on the surface of it. Um
+[21:21] and um because you want to rip out all
+[21:23] of the the deep state and everything
+[21:26] else. That whole infrastructure
+[21:29] apparatus came as a result of a control
+[21:33] system printing money. How could it
+[21:35] change from that system? he just has to
+[21:38] cons consolidate power to somebody
+[21:41] else because when when when Elon um rips
+[21:46] out a whole bunch of the money the GDP
+[21:50] that is all waste
+[21:52] today you'll tip the world into an
+[21:55] economic spiral a deflationary spiral
+[21:58] because all of those people have jobs
+[21:59] and all of those people pay for other
+[22:01] businesses all their private businesses
+[22:03] that also carry jobs and as you do
+[22:07] that you'll you'll see the natural state
+[22:10] that was there all along and that and
+[22:12] and and you'll tip to a deflationary
+[22:15] spiral and the US will have to print so
+[22:18] much money. Why and and what you're what
+[22:20] you're seeing right now is you're seeing
+[22:22] why they want Bitcoin is cuz they want
+[22:25] to print into Bitcoin and Bitcoin will
+[22:28] go up a lot in that. But that system is
+[22:30] an inflationary system and that system
+[22:32] why they also need their security
+[22:35] borders and they need to potentially let
+[22:37] go of Europe or or Japan or and they
+[22:40] have to they have to control other
+[22:42] countries in Canada, me, right, US or
+[22:45] Greenland or Panama. They have to have
+[22:48] their they have to it has to be a
+[22:50] control system. That control system has
+[22:53] to centralize more and more. It has to
+[22:56] instead of to in in the world we've
+[22:59] lived in in the last 20 years where
+[23:02] you've had a control system but it's
+[23:03] felt like
+[23:05] um it's felt like a nice control system
+[23:08] because of where you live, right? The uh
+[23:11] now now you're just seeing it for what
+[23:13] it is. We are going to impose our
+[23:15] military might or you're going to do
+[23:17] this or you're not going to trade with
+[23:18] us. that all that that trade because all
+[23:22] humans do
+[23:24] um we trade with each other to achieve
+[23:25] more value. That's what the global free
+[23:28] market looks like. So if you're going to
+[23:30] distort that and stop that from
+[23:32] happening through your financial
+[23:34] instrument, there's going to be
+[23:36] consequences. Those consequences are
+[23:38] going to to continually to continually
+[23:42] accrete and there is no solve from that
+[23:45] system. a system that system that
+[23:47] inflationary system must be a control
+[23:49] system. So that inflationary system has
+[23:52] to sometime attack
+[23:53] Bitcoin. Um how I would do it. So I
+[23:57] would do exactly what's happening right
+[23:58] now. I'd convince a whole bunch of
+[24:01] people that I'm on side. I love this
+[24:02] technology. It's the the best thing
+[24:04] ever. You can trust Uncle Sam with it.
+[24:07] You can trust us. We're going to do the
+[24:09] right thing. Um you can trust co
+[24:12] Coinbase with your with your coins. You
+[24:14] could do all of this. And then as more
+[24:16] and more people did this and more and
+[24:18] more of the economic nodes the
+[24:20] transmission of this was on top of this
+[24:22] I sure wouldn't make the attack anytime
+[24:25] soon. But as that happened and more and
+[24:27] more people were transacting on my
+[24:30] system and and many of the hardcore
+[24:33] Bitcoiners of today if if they then sold
+[24:39] into that okay I'm out I'm
+[24:42] free that I would I would launch the
+[24:44] attack later that would that would look
+[24:46] like a that would look like a chain
+[24:47] split. It's there there's there's so
+[24:50] many questions coming up. Uh but but the
+[24:53] the biggest one that I always have is
+[24:56] what implications and I'm not sure if we
+[24:58] actually touched it on the in the first
+[25:00] episode uh but what implications Bitcoin
+[25:03] in general has on governments because in
+[25:06] my head it has to shrink them
+[25:09] dramatically.
+[25:10] You just na you just nailed it and
+[25:12] that's what's that it's what has to
+[25:14] happen because so so governments our our
+[25:18] whole idea of a government
+[25:20] today the we are the map and the to
+[25:23] territory I find this fascinating
+[25:28] because I think why people have such a
+[25:31] hard time one of the reasons why they
+[25:33] can't they they visualize the present
+[25:37] forward rather than the future
+[25:40] And why they do that is they take one
+[25:42] aspect AI or something or and they keep
+[25:46] every other variable the
+[25:48] same and and what they can't see is
+[25:50] their own changes from the change and
+[25:53] how everything changes from from those
+[25:56] from uh from those.
+[25:58] So, so if you said that that change from
+[26:01] this the the world we live in today is
+[26:04] an exploitative control system and it
+[26:06] it's a mirror reflection of the world we
+[26:10] give our energy
+[26:11] to which has theft at the base layer. So
+[26:14] of course it would look like that. Of
+[26:16] course, the people of of course the
+[26:19] people at the top, the greater and
+[26:20] greater control structure wouldn't have
+[26:22] to provide value to you because they
+[26:24] would be sucking the value from you
+[26:27] because all humans providing value is
+[26:29] faster
+[26:30] deflation, faster abundance. So, so you
+[26:34] could say one system has to be like
+[26:36] this. It has to get worse and worse and
+[26:38] and we're measuring that system thinking
+[26:40] that that's how government should look.
+[26:42] It didn't look like that in the in uh in
+[26:44] in the early US. Um a government was way
+[26:48] smaller, more free markets, more
+[26:51] powerful markets. What what created the
+[26:53] the US was the move from from control
+[26:57] structures of Europe to open and free
+[27:00] markets where there were more ideas shot
+[27:02] more more pucks shot on net, more ideas
+[27:04] from entrepreneurs that that people took
+[27:07] advantage of because they could build
+[27:08] their freedom and life in the US. That
+[27:11] is what created the US empire that then
+[27:13] got captured and that's what creates all
+[27:15] more freedom to
+[27:17] humans, faster output because of more
+[27:20] ideas, faster abundance and then those
+[27:23] systems always get
+[27:25] controlled. So we're measuring today
+[27:27] exactly what you said like this is
+[27:29] normal. It's it's completely not normal
+[27:32] in a free market. Normal in a free
+[27:35] market is a government gets way smaller.
+[27:38] It's it has to it's because the free
+[27:41] market imposes a discipline and the
+[27:43] government has to be in service of you
+[27:46] rather than prey on you. And so so that
+[27:48] that state change is so
+[27:50] massive and we're measuring and and and
+[27:53] so in it's interesting and if you pick
+[27:56] up on what you're saying and what this
+[27:58] is because this is a a whole bunch of
+[28:00] people in Bitcoin where you opened the
+[28:04] conversation are scared of going to
+[28:06] Bitcoin because of the same big
+[28:08] government that they're feeding with all
+[28:10] of their
+[28:11] energy. It's crazy. It's crazy. They're
+[28:15] they're they're essentially scream
+[28:17] screaming
+[28:19] um from a jail cell, right? You better
+[28:23] not save
+[28:24] yourself because because the big the big
+[28:27] guy that we make stronger is going to
+[28:30] stop you. It's a super interesting way.
+[28:33] How do you h how does then the strategic
+[28:36] bitcoin reserve uh and uh countries
+[28:40] buying bitcoin is is is that uh
+[28:43] basically an attempt to make their life
+[28:46] longer.
+[28:49] So let's argue just from from both
+[28:52] sides. If you were a government, if you
+[28:54] were a municipality, if you were a a
+[28:57] city and you had an opportunity to not
+[29:02] debase your citizens and said you could
+[29:05] put some money here and you could buy
+[29:07] more services for your citizens forever,
+[29:10] wouldn't you want to do if you were a
+[29:11] hardcore Bitcoiner? You would probably
+[29:13] want to do that because because if you
+[29:16] were elected by your citizens and you
+[29:17] really cared about your citizens instead
+[29:19] of your own
+[29:20] power, you would probably want to help
+[29:23] the uh help help the citizens because
+[29:26] that's what you were elected to do. I'm
+[29:28] not saying everybody looks like that,
+[29:30] but that would be uh that would be
+[29:32] normal. And so that wouldn't be a bad
+[29:35] thing at at all because you could you
+[29:39] could create that um that
+[29:42] value. There are also some people we
+[29:45] have to assume there are some people
+[29:47] that know exactly what I know exactly
+[29:48] what you know and these two systems are
+[29:50] incompatible and there's some people
+[29:52] inside that apparatus that would try to
+[29:54] control it. Why? Because 97.5% of people
+[29:59] will. Right? So, so when we're going
+[30:03] through this, we can't we we have to
+[30:06] look around at our friends. We have to
+[30:07] look around at people. And we have to
+[30:09] realize everybody is going to make their
+[30:11] choices here. That's why it's going to
+[30:13] get chaotic and and it's going to be so
+[30:16] confusing because we're living at the
+[30:18] end of a system that is is grappling for
+[30:21] power and it's trying to take more and
+[30:22] more control under the optics that it's
+[30:25] helping you. and that there's a evil
+[30:28] villain on the other side that's trying
+[30:31] to trying to hurt you and the optics of
+[30:34] that are creating the fear and and that
+[30:38] keeping people locked in their jails
+[30:40] hell when they could realize wait the
+[30:43] doors unlocked I could just walk over
+[30:46] here right I could move to the new
+[30:48] system and take all my power back and
+[30:50] nothing can stop me so so that is bound
+[30:54] to be and then inside that there's going
+[30:56] to be a whole bunch of other people that
+[30:58] say, "Oh, on the new system, I can I can
+[31:01] have control." It can be if I was a US
+[31:04] and that then um then I could create
+[31:07] imperialism 1.0 on gold, 2.0 on on the
+[31:11] petro dollar system and 3.0 on Bitcoin.
+[31:16] And I could extend the life of an
+[31:18] extractive
+[31:19] system by by going to Bitcoin. And it
+[31:22] would work for a while. It it would
+[31:24] work. It would be the right thing to do.
+[31:26] But if they if if the U and some of
+[31:29] those people will try to control it some
+[31:31] of those people because because humans
+[31:34] cheat. So the question isn't what they
+[31:36] will do. Question is what you will do.
+[31:39] Let's take a break for a moment and
+[31:41] appreciate the beauty that coin
+[31:43] vigilante has made with the Bitcoin
+[31:46] watches. Those watches are the most
+[31:49] amazing, the most eleigent way of
+[31:51] showing that you are a true Bitcoiner.
+[31:54] And Coin Vigilante just dropped a
+[31:56] completely new and amazing Genesis
+[31:59] edition of their watch collections. You
+[32:02] have the date of the first ever minded
+[32:05] Bitcoin block in there. And of course,
+[32:08] also the block height and which epoch we
+[32:11] are currently in. I love the level of
+[32:14] detail they put in in this masterpiece.
+[32:17] Make sure to check out those amazing
+[32:19] coin vigilante time pieces down in the
+[32:22] descriptions. I love those watches so so
+[32:25] much. And now if you have Bitcoin, I
+[32:27] really do hope that you don't have it on
+[32:30] exchange. But if you do have it on
+[32:31] exchange, I have two ways for you to
+[32:33] deal with that. The first way is you put
+[32:36] it on a hardware wallet. That's the
+[32:38] entry for you to get into the
+[32:40] self-custody game. I recommend BitBox
+[32:44] Bitcoin only edition for that. It's a
+[32:46] super simple and secure way. And if you
+[32:49] check out the link in the description,
+[32:51] you even get 5% off if you use the code
+[32:54] Robin. And the second way is the Bitcoin
+[32:57] way. The Bitcoin way is your all-in
+[33:00] partner in terms of how to get the most
+[33:03] out of your sovereignty. They will
+[33:06] personalize for you a self-custody setup
+[33:09] that is perfect for your individual
+[33:12] situation. They will show you how you
+[33:14] can secure your own devices. Securing
+[33:17] your Bitcoin is not enough. You also
+[33:19] have to keep all your devices secure.
+[33:21] One topic that is overlooked often is
+[33:23] the inheritance plan. What happens with
+[33:26] your Bitcoin once you are no longer
+[33:29] here? Do you have a plan for that in
+[33:31] place already? And last but not least,
+[33:33] if you're in a jurisdictions where you
+[33:36] don't feel safe, it's better to get a
+[33:38] plan B. For all that, head over to the
+[33:43] bitcoinway.com/roin to get a 30 minute
+[33:46] free call. And just a quick side note, I
+[33:49] will be for the first time ever speaking
+[33:51] at the Bitcoin Prague event in June. It
+[33:54] will be absolutely legendary and I'm
+[33:57] really looking forward to seeing all of
+[33:59] you there. You can get your ticket in
+[34:01] the link down in the description of
+[34:03] Bitcoin Prague and very important use
+[34:06] code Robin to get 10% off your ticket.
+[34:09] I'm really looking forward seeing you
+[34:11] there. Your own personal choice in in in
+[34:13] what system and it is actually uh super
+[34:16] interesting and I think uh uh I want to
+[34:19] touch on that uh because
+[34:22] just let's make it on my example like 5
+[34:25] years ago I didn't had any Bitcoin. I
+[34:27] had no no clue about Bitcoin. Then I
+[34:29] started talking about Bitcoin uh and I
+[34:32] started to understand the the freedom
+[34:34] revolution side of things with with
+[34:36] Twitter and podcast and all those all of
+[34:38] that. Then I started a business in
+[34:40] Bitcoin. Then I said decided to like go
+[34:42] all in on on on that uh small podcasting
+[34:45] business. Then I got Bitcoin uh
+[34:48] companies as sponsors. So I now get paid
+[34:51] in Bitcoin. Uh so I have part Fiat and
+[34:53] part Bitcoin salary. Uh the next step is
+[34:56] like okay I I have now uh two
+[34:58] freelancers working for me. Uh one is
+[35:01] choosing to get paid in bitcoin and I
+[35:03] want to offer that. So so that circular
+[35:05] economy is already uh coming that and
+[35:08] and I'm I'm seeing how actually my bank
+[35:12] account is is getting less and less
+[35:14] important in in my life. And I'm like
+[35:17] okay I have my Bitcoin wallets. have my
+[35:18] setup and I'm just wondering like that
+[35:22] transition was really quick and probably
+[35:23] I'm I'm I'm I'm not normal because I'm
+[35:26] doing like all my life in Bitcoin. Uh
+[35:29] but there are so many more people that
+[35:31] that do that and and that transition is
+[35:33] just fascinating of like uh taking
+[35:36] Bitcoin to medium of exchange and uh
+[35:38] almost like unit of account uh uh level
+[35:42] uh and I'm I'm I'm just fascinated by by
+[35:44] how how quick this this goes sometimes.
+[35:47] So, Robin, you should tell that story
+[35:48] more often because because replicating
+[35:51] that story, I I find that probably the
+[35:54] number one thing I'm asked is, okay, um,
+[35:58] how do I start? What do I do? I all of
+[36:00] my energy is in this other
+[36:02] system and and I'm and I'm stuck. I need
+[36:06] the money and and there's no way I can
+[36:08] commit the time. And I think what what
+[36:12] your story just uh described Peter
+[36:16] McCorbick's story is the same. Natalie
+[36:18] Bernau's story the same. Preston Pitch
+[36:20] story the same. Lyn Alden's story the
+[36:21] same over and over and and and these are
+[36:24] just some of the educators and other
+[36:26] podcasters other people who have built
+[36:29] compelling products on Noster or
+[36:31] compelling um on on the entrepreneurial
+[36:34] creating more value on top of Bitcoin.
+[36:36] This is happening at a at a rate that's
+[36:39] hard to describe. And and when you when
+[36:43] we're feeding back and we're seeing the
+[36:45] results of just moving our time, it's
+[36:48] cuz it's happened for me, too. Moving my
+[36:50] time from the system that is is
+[36:53] exploitative and and and was controlling
+[36:56] me. And moving to this, I don't pay any
+[36:59] attention to the nonsense in in the
+[37:01] other system. I'm I'm aware it's there.
+[37:03] I have empathy for the people who are
+[37:06] still stuck in jail, but I'm not. And
+[37:09] and and and life gets better and better
+[37:12] and better because you're in the honest
+[37:15] system working with those people in the
+[37:17] h on a system and it's a mere reflection
+[37:19] of where you're spending your time. So
+[37:21] now, how do you start? Because you what
+[37:24] you just described is is a perfect
+[37:27] example of a process in a free market. A
+[37:30] perfect example. One thing's creating
+[37:32] scarcity and a whole bunch of pain and
+[37:35] you decided to move out of that system
+[37:38] to solve that pain for other people to
+[37:40] help them because there'd
+[37:42] be 7.9 something billion people still
+[37:46] stuck in the other system. So that would
+[37:48] make podcasting and teaching those
+[37:50] people and walking them through kind of
+[37:52] because it's complicated. It's it's a
+[37:54] state change from system to system and
+[37:56] it takes a while to understand. So
+[37:58] people like you, people like that that
+[38:00] are that are helping people understand
+[38:03] uh understand that are helping people.
+[38:06] And why are you getting uh why you're
+[38:09] getting paid and why you be able to move
+[38:10] this is because you're providing value
+[38:12] in the free
+[38:14] market. Um and we're so early in that
+[38:17] value creation. There's tons of
+[38:19] opportunities. There's so many
+[38:21] staggering opportunities
+[38:23] inside the the free and open market
+[38:26] that's decentralized and secure and
+[38:29] and now I've always been an
+[38:32] entrepreneur. So my my bias has has
+[38:35] always been to question structures and
+[38:38] how could I provide more value. So, so
+[38:41] it seems easy for me, but um and and and
+[38:46] I I want and maybe it's not easy for
+[38:49] everyone, but if you understood kind of
+[38:52] the structure of the worlds that you're
+[38:54] living in, and one is going to get
+[38:56] worse, a lot worse, and and you know,
+[38:59] look back 20 years, look back 30 years,
+[39:02] and what's happening is are is life
+[39:04] getting better and better, or is it
+[39:05] getting worse? And you could decide
+[39:08] which which and and and on the structure
+[39:11] it's going to get way bit worse in the
+[39:14] in the existing because it's built on
+[39:16] theft because it's built on control
+[39:18] because it's built on on that um you
+[39:21] won't be able to find place safe enough
+[39:24] in that system.
+[39:27] um unless you're at the top of that
+[39:28] system and I don't think even at the top
+[39:30] of that system you're uh you're going to
+[39:32] find yourself safe enough from what's
+[39:34] what's going to happen which creates all
+[39:36] of the value in the other system. So go
+[39:39] help like when I watch when I see what
+[39:42] you've done in a very short period of
+[39:43] time. Um, I think about so Natalie
+[39:47] Brunell, I met her at a conference where
+[39:50] she had to sneak in on a press pass at a
+[39:53] Bitcoin conference, one of the early
+[39:54] ones, and she um she couldn't get into
+[39:59] one of the parties. Um, and I'm I'm
+[40:02] thinking, how am I allowed in the party
+[40:05] and she isn't? Um, because because they
+[40:08] didn't know her. She was she was early
+[40:09] in her journey. And she used that and
+[40:12] she said, I'm going to create a podcast.
+[40:14] I'm going to teach people what this is.
+[40:16] She moved from old
+[40:18] media to creating her own uh her own
+[40:21] just like you've done. And and look at
+[40:23] the value she's both created and and
+[40:27] delivered to audiences around around the
+[40:30] world. Look how many people she's
+[40:32] helped. And so her business is is just a
+[40:35] testament to her making a choice. And
+[40:38] that's I I see over and over and my
+[40:41] entire network is filled with those
+[40:43] people. So when people ask me, "How do
+[40:45] you do this?" And I'm I'm watching all
+[40:48] of these people do it. There's there's
+[40:51] there's abundant opportunity. Start a um
+[40:56] start a Meetup group. Start meeting
+[40:58] people locally who also have shared
+[41:00] similar interests. Find what else needs
+[41:02] to be built. Find out where people are
+[41:04] having pain understanding on this.
+[41:06] either teach or build something, use AI
+[41:09] to build something on top that provides
+[41:11] value to people, you'll find tons of
+[41:13] opportunity. That's uh I I can do 100%
+[41:16] agree to that. Um is there something um
+[41:20] still feared in your life that you would
+[41:22] like to get rid of?
+[41:24] I think so where I am in in BC um I
+[41:29] can't be 100% uh and I don't think I'm
+[41:33] not saying and that's catching myself um
+[41:39] it's hard to be 100% Bitcoin in in
+[41:43] everything. So buy houses, buy
+[41:44] groceries, my grocery store doesn't uh
+[41:47] doesn't accept Bitcoin yet. And so how
+[41:49] can I accelerate that? I can give a nod
+[41:52] to businesses that do accept Bitcoin and
+[41:55] I can and I can spend my money there. So
+[41:57] I do that. I spend in Bitcoin every day
+[41:59] but I can't spend all in Bitcoin every
+[42:02] day. I um in Ego death it's because of
+[42:07] the fund dynamics and probably this is
+[42:08] probably through regulation. I can't
+[42:12] accept salary yet in in in Bitcoin. It's
+[42:14] a fiat fiat and then a lot of those
+[42:17] companies then convert the fiat we give
+[42:20] to bitcoin and then then as they get pro
+[42:23] more
+[42:23] profitable they accrete bitcoin on the
+[42:26] balance sheet um so this transition uh I
+[42:30] think also takes time when I said we're
+[42:32] the map and
+[42:33] territory we influence the things that
+[42:36] we want to win and that's what I'm doing
+[42:38] I'm influencing the things that I want
+[42:40] to win I'm giving it giving a nod to
+[42:42] businesses that take Bitcoin and I would
+[42:44] prefer to spend Bitcoin every day. And
+[42:47] then and then I'm also helping in places
+[42:49] like if you said Pierre Poliov in in
+[42:52] Canada who have helped
+[42:54] understand the this this process a lot.
+[42:58] So he um uh a lot um Ken Sim is a friend
+[43:03] in Vancouver who's just tried to or is
+[43:06] trying attempting to make Bitcoin
+[43:08] Vancouver the um on the map as a as both
+[43:12] on their balance sheet and kind of a
+[43:14] real Bitcoin city which helps
+[43:18] me spend more in Bitcoin. How do you
+[43:20] look at um credit? Because when
+[43:25] you I'm now at a point where I'm like uh
+[43:29] spending bitcoin and as I said I'm I'm
+[43:31] I'm I'm uh also paying uh a freelance in
+[43:35] bitcoin. Um and I don't like to use
+[43:38] borrowing against bitcoin or credit or
+[43:40] anything like that. I I actually like to
+[43:42] use bitcoin as it is. But sometimes uh
+[43:46] it almost feels foolish not to use
+[43:48] credit and and that feared games uh on a
+[43:52] high degree to maximize in the end of
+[43:56] your Bitcoin stack. And I mean there are
+[43:58] multiple that that do that uh companies
+[44:01] I mean strategy is is one famous example
+[44:04] uh but also individuals that do that. Uh
+[44:07] but it but credit is also a fiat thing
+[44:10] or is that something that also could be
+[44:12] on Bitcoin? So it's more of a fiat the
+[44:17] system is a credit based system. So the
+[44:19] a credit based system can't allow
+[44:21] deflation because the deflation would
+[44:24] that deflation spiral would collapse the
+[44:27] credit based system. So when people
+[44:29] think about credit today um they they I
+[44:32] think they conflate
+[44:35] uh those two things. Um so if the system
+[44:38] is a credit based system then everything
+[44:40] has to be credit it has to be more and
+[44:42] more credit or the and you have to
+[44:44] increase the amount of credit or debt um
+[44:47] or the whole thing collapses and that's
+[44:50] where we are in the system problem
+[44:51] today. Um so then individually and how
+[44:55] would that system operate? So how would
+[44:58] the existing system operate? It would
+[45:00] mean that
+[45:01] um in inflation is wage deflation. So
+[45:05] your wages are going down. But the other
+[45:08] side of that is if you had debt, it's
+[45:10] also going
+[45:11] down because the inflation makes the
+[45:14] debt cheaper over
+[45:16] time. And that has to so taking massive
+[45:19] bets loans against that. That's why
+[45:21] houses have created so much value
+[45:23] because they've become value. Instead of
+[45:27] being a utility value, they're a hold um
+[45:30] they've become a money and you have to
+[45:32] hold your wealth and money because you
+[45:34] can't hold your money and money your
+[45:36] wealth and and and money. So you take on
+[45:40] more debt and if you have massive
+[45:42] amounts of debt, if you have if you're
+[45:45] the backbone of the system and the
+[45:47] government will always press a button to
+[45:49] be able to make you resolve your problem
+[45:51] like in JP Morgan or any any bank any
+[45:54] financial institution that's a then then
+[45:57] if you if you create this massive you uh
+[46:01] back on the system and you own all of
+[46:02] these
+[46:03] assets and they'll always press a button
+[46:06] to inject more liquidity.
+[46:08] you extract everything from everybody
+[46:10] else. So that's what that system looks
+[46:13] like. And then then what you're talking
+[46:17] about here is in the other system
+[46:21] uh deflation is natural because the
+[46:24] natural state of the free market is
+[46:26] deflation. And as more people enter that
+[46:29] as as as we do more with AI, as we do
+[46:32] with more with robotics, you'll have
+[46:34] faster and faster deflation. That means
+[46:36] any debt if you're using the mental
+[46:39] model you used to
+[46:41] use to that debt that debt it'll get
+[46:43] cheaper over time because of inflation.
+[46:46] In the new model that debt will get more
+[46:48] expensive over
+[46:49] time and and somebody is going to
+[46:53] pay, right? If you actually if you lent
+[46:57] it out your Bitcoin and and they
+[46:59] couldn't pay, right? you're going to
+[47:02] have to either take their business, take
+[47:04] their assets, take their um and so many
+[47:08] people are going to get confused by this
+[47:09] because it's a really complicated topic
+[47:12] measuring that system change from the
+[47:14] system you're measuring from because
+[47:16] it's exactly
+[47:17] opposite. Um, credit cannot look like it
+[47:21] does in the new system
+[47:24] um the way it does. It it look it
+[47:27] eviscerates most of the credit. I'm not
+[47:29] saying credit isn't here. It's just way
+[47:32] smaller because as a as a user of
+[47:34] credit, you have to decide. Um, can I
+[47:38] pay this back in a in in something where
+[47:42] prices are falling faster and faster and
+[47:44] faster, making that debt more expensive?
+[47:47] Now, if
+[47:49] you're there's all sorts of tricks and
+[47:52] Micro Strategy is one of them, and I
+[47:53] think they're going to do a good job of
+[47:56] using the existing system as an attack
+[47:59] against the
+[48:00] new. But be very careful. Um, if you're
+[48:04] if you're levering your Bitcoin, be very
+[48:06] very or if you're trusting somebody else
+[48:08] to leave your your bitco bitcoin, be
+[48:11] very very careful because this is going
+[48:13] to this is going to wreck a lot of
+[48:14] people.
+[48:16] Yeah, I I I try to stay in in in in
+[48:19] Bitcoin and just as a savings tech
+[48:21] technology and don't don't do with
+[48:24] credits. Thinks it's a a safe and great
+[48:26] strategy.
+[48:28] Um think think about what you just said
+[48:30] is so you have a you have a 45% IRR for
+[48:34] the last 15 years. So So and
+[48:38] non-counterparty risk. So, holding in
+[48:40] self- custody, um, if you if you just
+[48:43] hold for any length of time, you have a
+[48:45] 45% IRRa. If you're if you're buying a
+[48:49] house, you have maybe an 6 or 8%. Um, if
+[48:54] you're uh if you're any other, so you
+[48:57] cannot get a compound. The only thing in
+[48:59] the world that is that rate of return is
+[49:02] Bitcoin. Um, and it's not counterparty
+[49:05] risk. It has zero counterparty risk to
+[49:06] the existing system. So what are people
+[49:09] doing? It's which seems crazy. I'm
+[49:11] trying to increase my IRRa from
+[49:14] 45%. To take risk inside the other
+[49:18] system that has all of the it has all of
+[49:20] the
+[49:21] risk. So So how you're thinking about it
+[49:24] as savings technology is I think the the
+[49:26] the best thing you could teach. Um, it's
+[49:30] the um it's this it's the the risk-free
+[49:35] rate of the world today is
+[49:38] 45%. If I don't think I can beat that,
+[49:41] right? Um I wouldn't invest and in fact
+[49:44] we use this calculation at ego deathath
+[49:47] um in in the only because the only way I
+[49:50] think I can beat that is either what
+[49:52] micro strategy is doing lever this and
+[49:55] and play that game through through uh
+[49:58] shorts longs um and and hedge out my
+[50:01] risk
+[50:02] um or uh or build companies that provide
+[50:06] value in the free market and accumulate
+[50:08] Bitcoin on their balance sheet um uh by
+[50:11] by doing so and then you're having
+[50:13] essentially venture returns on top of a
+[50:15] venture asset.
+[50:18] H that's that's super interesting uh
+[50:21] because because I look at that and like
+[50:24] why why would I take any any any
+[50:26] additional risk as long as my Satoshi
+[50:29] number goes up uh every month or every
+[50:32] quarter or every year that that that's
+[50:35] the best I can do.
+[50:37] Totally. Um uh I want to go uh back one
+[50:42] more time to to the medium of exchange
+[50:44] uh side of things. Um do do you think
+[50:47] med exchange and and unit of account uh
+[50:51] is required for the the Bitcoin story
+[50:56] and and for the store of value story?
+[50:57] because I I asked that intentionally
+[50:59] because I make community polls polls a
+[51:02] lot uh um on on my YouTube channel and I
+[51:07] see a lot of people still struggling
+[51:11] with using Bitcoin outside of uh just
+[51:16] just as a savings technology. So if
+[51:18] Bitcoin isn't a medium of exchange, it
+[51:21] will fail as a store of value. So if you
+[51:23] are not using as a medium of exchange
+[51:27] then you're relying on somebody else or
+[51:28] a lot of other people to use it as a
+[51:30] store of value
+[51:32] um to be able to protect your wealth and
+[51:35] it so if so again it come back it comes
+[51:38] back to you what are you making the
+[51:40] decision may maybe you get away with it
+[51:43] because a whole bunch of people already
+[51:45] made the same call that you are Robin
+[51:47] that I am and using it as medium of
+[51:49] exchange maybe you get away with it and
+[51:50] that's just Okay. Um, but you have to
+[51:55] because the systems are
+[51:57] different, right? The we've never lived
+[51:59] in a global free market where you could
+[52:01] trade with people all over without an
+[52:03] intermediate area. Um, and the output of
+[52:07] that trade was deflation. And think
+[52:10] about why that output of that trade has
+[52:12] to be deflation. You are part of the
+[52:14] network. You only, and I'm not saying
+[52:16] Bitcoin here. I'm saying you're part of
+[52:18] any trade. You're part of the fabric.
+[52:20] And you only choose things that give you
+[52:22] more
+[52:23] value. And all
+[52:25] entrepreneurs have to compete with and
+[52:27] provide more value. So, and they have to
+[52:30] compete with what was there before
+[52:32] otherwise you won't use them. So, that
+[52:35] global trade has to be
+[52:37] deflation. So, you're a node in that.
+[52:40] Now, if you take your power and you give
+[52:42] your power away to somebody else and
+[52:44] say, "I'm not going to I'm just this
+[52:46] network and this other one is
+[52:48] inflationary and it stops that from
+[52:51] happening, then that system has to stop
+[52:54] Bitcoin at at some point." And if all of
+[52:57] your trade is in that
+[52:59] system and you are not self-custodying,
+[53:02] not not running an economic node and all
+[53:05] of these trade, then that system will
+[53:07] stop Bitcoin in time because not enough
+[53:09] trade, not enough. So the little tiny
+[53:12] fees from from lightning and such that
+[53:15] then move down to the miners. What if
+[53:18] all of those fees are in the centralized
+[53:20] system? What will the miners choose? So
+[53:23] you are an active participant in this.
+[53:25] So when people like the simplest thing
+[53:28] you could just repeat repeat if Bitcoin
+[53:30] fails as a medium of exchange it fails
+[53:32] as a store of value
+[53:34] period it will be captured say it over
+[53:37] and over and over again for anybody
+[53:39] who's not listen and eventually
+[53:40] hopefully enough people will get it and
+[53:43] why just like in Bitcoin running a
+[53:46] node they should contribute or they they
+[53:49] they ought to contribute to the network
+[53:52] that's also providing them their store
+[53:55] of value. It makes uh it makes a lot of
+[53:58] sense. Uh and and once you are in in
+[54:01] that deep, you're like, "Oh, like it's
+[54:03] it's
+[54:05] almost a no no."
+[54:07] This is this is why specifically if you
+[54:11] think about what what Roy is doing at at
+[54:13] Breeze um what what Obie is doing at
+[54:17] Fetty what uh Cashew as well but if you
+[54:20] um if you look at all of these
+[54:22] technologies that allow more payments in
+[54:25] this in a way that doesn't centralize
+[54:29] um you know you pro people really need
+[54:31] to understand the tech to understand how
+[54:33] it doesn't centralize but if they use
+[54:35] breeze open source and how the routing
+[54:37] nodes are done and how it uses lightning
+[54:39] or liquid or or eventually arc. It
+[54:42] becomes a layer that that you can just
+[54:45] plug in and optimize your business for
+[54:49] payments. Um and and and by doing by by
+[54:54] doing that you contribute to the nodes
+[54:57] that are you contribute to the network
+[54:59] that's that's decentralizing. And
+[55:02] there's a bunch of other
+[55:04] companies that will centralize like if
+[55:07] you said
+[55:09] like I'm not going to name them here but
+[55:11] they uh but some of the big big tech
+[55:13] companies will have to will try to
+[55:15] centralize some of the big Bitcoin
+[55:17] companies will try to will try to
+[55:19] centralize and you could um so for
+[55:22] people who understand this deeper and
+[55:24] and people who are making decisions on
+[55:26] which tech stack to
+[55:28] use it would be I think it's an
+[55:31] important
+[55:32] uh part of the the criteria in in them
+[55:36] thinking through the decisions of the
+[55:37] the tech stack they're using to accept
+[55:39] payments and then and people using
+[55:42] payments similar I I have one more topic
+[55:45] uh before we come to the end team today
+[55:47] um uh and it's an interesting uh
+[55:51] hopefully an interesting one uh you give
+[55:54] a lot of calmness and confidence to a
+[55:57] lot of people uh and we were both
+[55:59] together also on the on the uh PDC
+[56:02] sessions live stream with with Ben and
+[56:04] uh and and Ken uh as you mentioned the
+[56:06] the mayor uh was also there and Ben said
+[56:10] something interesting always when he has
+[56:12] doubts he he he calls you and and and
+[56:15] and gets a lot of calmness also from
+[56:18] you. Um uh do you have sometimes doubts
+[56:23] uh around your theory? And uh second one
+[56:26] is like what how did you get so so
+[56:30] confident or what makes you so so so
+[56:33] convinced of it? A lot of work. Um a a
+[56:37] lot of work. And then um to to be able
+[56:41] to essentially try to kill this. So some
+[56:44] of the examples I'm using are are are
+[56:48] work that I've done for a lot how I look
+[56:51] at this is the system has to be chaotic
+[56:54] to transition. It must be cuz we've
+[56:56] never lived in this system. Nobody has a
+[56:58] mental framework for what I'm talking
+[57:00] about. And so what I'm but but what I'm
+[57:02] talking about is true, right? Is we know
+[57:06] that the natural state of the free
+[57:08] market is deflation. We know that
+[57:10] productivity um should accelerate. We
+[57:13] know that that that means we should be
+[57:15] living in an abundance. All of those
+[57:17] things are true. They're just not from
+[57:18] the existing system. Then I go to then I
+[57:21] go to okay if we've never lived in this
+[57:25] system but many bright lights throughout
+[57:27] time Nola Tesla Henry Ford um
+[57:32] Buckminister Fuller many others talked
+[57:36] about how this would work but couldn't
+[57:39] get there from from the technology that
+[57:41] we we we used to have and we always fell
+[57:44] back into our worst
+[57:47] selves. we um then what would make me
+[57:50] believe that this time what could be
+[57:52] different. So my bar on this time is
+[57:55] different is probably way higher than
+[57:57] most people's bar and it forces a con
+[58:00] and it forces me to attack every one of
+[58:02] these problems because the problem isn't
+[58:04] everyone else the problem is
+[58:06] us problem isn't everybody says those
+[58:09] people those people and they're giving
+[58:10] their strength away and it's there is no
+[58:13] they it's just
+[58:14] we so we we make choices and I've
+[58:18] already made I guess what makes me
+[58:20] confident in this I've made my choice
+[58:24] I know what system I'm going to and and
+[58:27] I don't I don't begrudge other people
+[58:29] for their choices. I don't need to get
+[58:31] mad at it. Just is. It's going to be
+[58:33] chaotic and confusing. It just is.
+[58:35] Right. But I've made my choice and
+[58:39] nobody can take my choice from me. Um,
+[58:42] that's what that's what gives me conf
+[58:44] and and every day my choice feeds back
+[58:47] to me in feeling like it's the right
+[58:50] choice and and hopefully a whole bunch
+[58:52] of other people you um all of the other
+[58:55] people you know who have made the sim
+[58:57] similar choice are making the similar
+[58:59] similar choice be um because they know
+[59:03] what the choice means. And so now once
+[59:06] you understand
+[59:07] that you you don't have to be mad at
+[59:09] other people like I I think I really
+[59:11] honestly the humility and and I think
+[59:14] about myself 10 years ago
+[59:16] or 9 years ago before I knew that all of
+[59:19] this and I think about the choices I
+[59:21] made then and if somebody told me what
+[59:22] they're what I'm saying now I probably
+[59:25] have a hard time seeing it from that per
+[59:27] who that person was at that time too.
+[59:30] So my mind has changed through through
+[59:32] this and my mind is deep and and and
+[59:35] then my life has gotten it's not my life
+[59:38] was great before before but what I see
+[59:41] and and and how much uh that's
+[59:44] reflecting back and how much fun I'm
+[59:46] having and what it looks like in my life
+[59:49] as it imp it hopefully impacts other
+[59:52] people positively too and then their
+[59:53] lives possibly too and their family's
+[59:55] lives. It makes me feel like I'm on the
+[59:58] right path.
+[59:59] So, so, so, so why um why is
+[60:06] it I don't think there's anything that
+[60:09] can shake that. Like, I just don't think
+[60:11] like because I'm ready for all the
+[60:14] chaos. I'm ready for everything that
+[60:15] else that that that happens. I know it's
+[60:18] part of it. Um but but that chaos can't
+[60:22] drag me back into it. It can it can
+[60:25] attack me but only I can I control my
+[60:29] own mind. I control what I give energy
+[60:31] to. I love that. And I usually ask uh
+[60:34] two Andrew question. The the uh the one
+[60:37] comes from the previous guest. One comes
+[60:39] from what we can learn from you besides
+[60:41] Bitcoin. Uh and I think this was already
+[60:44] a good answer to to the last one. What
+[60:46] what we can learn from you besides
+[60:47] Bitcoin. Do you want to add anything
+[60:49] here? No. No. I I feel like for for some
+[60:53] people, and I'm sorry, it it feels like
+[60:55] I it for me it it feels like I say the
+[60:58] same thing over and over again. Um but
+[61:00] uh but I guess you almost have to in a
+[61:05] in in a world that's 8 billion people
+[61:07] that don't misunderstand what's what's
+[61:09] happening.
+[61:11] Absolutely. Um we have the the question
+[61:14] the last question of today um from the
+[61:16] previous guest. So the the previous
+[61:17] guest asked a question for the next
+[61:18] guest without knowing who the next guest
+[61:20] is and your question is what do you
+[61:22] think is your most valuable contribution
+[61:24] to Bitcoin?
+[61:26] Uh I would say the uh the work I do now
+[61:30] with uh with helping entreprene
+[61:33] entrepreneurs achieve their dreams in in
+[61:36] in creating value on top of it on top of
+[61:39] this uh uh protocol or I'd hope that's
+[61:43] uh that's so a lot of the things that we
+[61:46] will see develop and use every
+[61:49] day came out of ideas that were in ideas
+[61:55] and brains. s that then had lots of risk
+[61:57] and and and
+[61:59] uh and and challenges that then were
+[62:02] funded and created not just funded but
+[62:05] kind of working shoulderto-shoulder with
+[62:07] entrepreneurs who are are trying to
+[62:09] bring their their value to society.
+[62:12] Interesting. Yeah, I I think that's
+[62:14] really really really great. Um one uh um
+[62:18] asked all my guests like where they can
+[62:20] find you. It's it's usually uh Twitter,
+[62:23] but I think with you it's it's now
+[62:25] primarily already NOS, right? Yeah. I'm
+[62:28] only uh I haven't been on Twitter
+[62:31] in almost a year, actually over a year.
+[62:34] Uh so so I I still I have my account. I
+[62:38] don't check it very often. I I check I
+[62:40] account for for spaces uh and and such.
+[62:43] Uh but but most of my time is on Noster.
+[62:47] Really cool. Thank you so much, Jeff,
+[62:48] for for being on the show. Also, thank
+[62:50] you so much for everyone that is
+[62:51] watching and listening for joining us
+[62:53] today. As always, I'll be back tomorrow
+[62:55] with another episode. Bye-bye.
+[62:57] [Music]

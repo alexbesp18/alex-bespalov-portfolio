@@ -1,0 +1,38 @@
+Multi-Channel Download Summary
+Date: 2025-06-20 22:33:09
+============================================================
+
+Total new transcripts: 9
+Total failed: 1
+Total skipped: 40
+
+
+RobinSeyr:
+  New downloads: 2
+  Failed: 1
+  Skipped (already had): 7
+  Total in database: 10
+
+BitcoinMagazine:
+  New downloads: 4
+  Failed: 0
+  Skipped (already had): 6
+  Total in database: 10
+
+WalkerAmerica:
+  New downloads: 2
+  Failed: 0
+  Skipped (already had): 8
+  Total in database: 10
+
+AnthonyPompliano:
+  New downloads: 1
+  Failed: 0
+  Skipped (already had): 9
+  Total in database: 10
+
+Saifedean:
+  New downloads: 0
+  Failed: 0
+  Skipped (already had): 10
+  Total in database: 0

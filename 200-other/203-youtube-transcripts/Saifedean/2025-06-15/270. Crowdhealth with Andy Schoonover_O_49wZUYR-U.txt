@@ -1,0 +1,2095 @@
+Title: 270. Crowdhealth with Andy Schoonover
+Video ID: O_49wZUYR-U
+URL: https://www.youtube.com/watch?v=O_49wZUYR-U
+Date Saved: 2025-06-15 12:38:17
+Channel: Saifedean
+--------------------------------------------------
+
+[00:05] Hello, welcome to the Bitcoin standard
+[00:06] podcast. Our guest today is Andy
+[00:08] Skunover. Andy is the is the CEO and
+[00:12] founder of Crowd Health, an alternative
+[00:14] to health insurance, which is a great
+[00:18] idea that I have enjoyed and we've
+[00:21] hosted Andy before. discussed it and I
+[00:23] think it's a great great way to get
+[00:26] around some of the many many failures of
+[00:28] the modern health care system. He joins
+[00:30] us today to discuss how this company's
+[00:32] been doing. Today is their fourth
+[00:34] birthday. They've been around for four
+[00:36] years. They've been doing really well.
+[00:38] They use Bitcoin and they are very much
+[00:40] Bitcoiners in their approach to this and
+[00:43] it's been working out very well. So
+[00:44] Andy, thank you so much for joining us.
+[00:46] Always an honor, safe, appreciate it.
+[00:49] Thanks man. So, happy fourth birthday.
+[00:53] Yeah, thanks. It's been uh been a a wild
+[00:56] ride. You know, we started back in April
+[00:58] of uh of 21. And you know, anytime you
+[01:01] start a new business, you've got this
+[01:03] kind of forecast of what you what you
+[01:05] expect. Um and you know, thank God it's
+[01:09] gone actually much much better than I
+[01:10] had expected. So, um it's been a a lot
+[01:13] of fun. I've gotten to engage with lots
+[01:15] of Bitcoiners to help you know, develop
+[01:17] our strategy. And so um you know here's
+[01:20] to another you know four years and 40
+[01:24] four is too little we got to think a
+[01:25] long time 400 even. There you go. All
+[01:30] right. So for people who are not
+[01:31] familiar can you just give us a brief
+[01:33] overview of what it is that you guys do
+[01:34] and what the model is. Yeah I'll start
+[01:38] quick with a quick background. Um this
+[01:41] is my my second healthcare company and
+[01:43] after the first one um given that most
+[01:45] of us in the United States get our
+[01:47] health insurance uh through our employer
+[01:49] I I sold that one so I didn't have
+[01:51] health insurance and so um ignorantly I
+[01:54] thought my only option was to go to one
+[01:56] of these affordable care Care Act plans
+[01:58] you know the Obamacare plans and uh you
+[02:01] know so I I went and did that and it was
+[02:03] I think 11 or 1200 bucks for me my wife
+[02:05] and my two girls and I kind of joke it
+[02:07] worked until I had to use it. Um, my
+[02:09] little one, who was one at the time, was
+[02:12] having recurring ear infections. And so
+[02:14] we went to the pediatrician who said she
+[02:15] she's got a hole in her eard drum. So
+[02:17] the the the fluid in her ears were
+[02:20] getting so bad that actually popped her
+[02:21] eard drum. And so we needed to get
+[02:24] little tubes, little plastic tubes in
+[02:25] her ear so that that fluid could drain
+[02:27] out so she wouldn't have a problem. So
+[02:29] went to the ear, nose, throat doctor,
+[02:31] uh, got that done in network, did
+[02:33] everything right, got the bill, and it
+[02:35] was $8,000. I was like, "Holy crap,
+[02:38] $8,000 for 15 minutes." Um, but I, you
+[02:41] know, assumed that's what health
+[02:42] insurance is for. Like, that's the whole
+[02:44] point of having health insurance. And
+[02:46] little did I know, I was going to get a
+[02:47] note a few weeks later from my health
+[02:49] insurance company who said it was
+[02:50] medically unnecessary. And so, uh, they
+[02:52] declined to pay for the bill. Um, and
+[02:55] after two rounds of appeals, I think my
+[02:57] ear, nose, and throat doctor was
+[02:58] fighting with like an opthalmologist or
+[03:00] something at the health plan who knows
+[03:02] nothing about ears, and they were like,
+[03:04] "Yeah, we're not paying for So, I had a
+[03:06] stroke $8,000 check to get this
+[03:07] procedure paid for. And it was at that
+[03:09] point where I knew that health insurance
+[03:11] was broken. So, I called my health
+[03:13] insurance plan. I was like, I'm done.
+[03:15] I'm if you're not going to pay my bills,
+[03:16] I'm not going to pay your bills. And I
+[03:18] became uninsured. And, you know, my wife
+[03:20] looked at me was like, so we're
+[03:22] uninsured. What do we do now? You know,
+[03:24] a little bit nervous, obviously. And
+[03:26] then over the next 12 to 18 months, I
+[03:28] figured out how we could operate outside
+[03:31] of the legacy health insurance space. um
+[03:35] to pay for bills ourselves, to take true
+[03:37] sovereignty over our own health care.
+[03:40] And I realized that we could negotiate
+[03:42] bills much much lower if we were to pay
+[03:44] them directly without all the you know
+[03:47] rent seeking middlemen that are are in
+[03:50] healthcare currently. Um and I finally
+[03:54] kind of decided like I bet you other
+[03:55] people would be interested in something
+[03:56] like this too. And so I started Crowd
+[03:58] Health. Um, we've been at this for 4
+[04:00] years and in essence, what we're trying
+[04:02] to do is decentralize the decision-m
+[04:05] processes of of healthcare. So, we've
+[04:08] got currently 10,000 people um you
+[04:11] included um who are members of our of
+[04:13] our community um and you know about 20%
+[04:16] of those are Bitcoiners. So, we got a
+[04:18] couple thousand Bitcoiners who are part
+[04:19] of that. And in essence, what we do is
+[04:21] we help each other with our health care
+[04:23] bills. So, you know, if my daughter
+[04:25] breaks her arm and it's $5,000, we'll
+[04:28] send um a request to a 100 people or few
+[04:31] people in the community for a h 100red
+[04:33] bucks, they if they say yes, then
+[04:35] they'll transfer 100 bucks from my
+[04:37] account or their account to my account.
+[04:39] At the end of the day, I have $5,000
+[04:41] which I can then go and pay the doctor
+[04:44] directly. Um, and the benefits of this
+[04:47] is now there's no insurance company or
+[04:50] employer or government in between me and
+[04:52] my doctor because I'm paying him or her
+[04:54] directly. Um, as a result of that, they
+[04:58] don't have all that bureaucracy in that
+[04:59] administration. So, they can give me a
+[05:01] much much better price. So, the average
+[05:05] is about 30 to 40% of your revenue as a
+[05:08] doctor is used to actually get paid.
+[05:12] um they spend two days a week fighting
+[05:14] with health insurance plans to get paid.
+[05:16] And so um if I can give that time back
+[05:19] to them, they can give me a much reduced
+[05:22] price. And so that's in essence what
+[05:24] we're doing is is getting rid of all the
+[05:26] rent seeeking middlemen and and going
+[05:28] directly to the doctor, which
+[05:30] reestablishes that doctor patient
+[05:31] relationship. And now the decisions on
+[05:34] what care I get is between me and my
+[05:36] doctor without anybody else having any
+[05:38] input into into that decision-making
+[05:40] process. So, it's a it's a it's a
+[05:42] beautiful thing and um you know, we're
+[05:44] we're slowly but surely introducing
+[05:46] Bitcoin into that equation and in hopes
+[05:48] of ultimately getting to Bitcoin
+[05:50] circularity within healthcare. So,
+[05:52] that's our ultimate goal, our ultimate
+[05:53] vision for the company. Yeah. And I
+[05:56] think it's such a wonderful idea because
+[05:58] even before I had heard about this, I'd
+[05:59] always um heard of just how ridiculous
+[06:02] the insurance industry is in the US.
+[06:04] It's um I mean it's it's got its
+[06:08] problems abroad, but I think in the US
+[06:10] it's a whole other level of dysfunction.
+[06:14] And I've heard this story from so many
+[06:15] people that um you can actually end up
+[06:19] getting a lower price if you just pay
+[06:22] cash than what you would pay as a uh as
+[06:26] a deductible when you're covered from
+[06:28] insurance. And it sounds crazy because
+[06:31] you pay an exorbitant sum of money every
+[06:33] month to be insured and then all that
+[06:36] does for you is that it 5xes or 10xes
+[06:39] your bill when you go to the hospital
+[06:41] because now you're insured. And so now
+[06:42] the hospital is having to deal with the
+[06:44] insurance company and now all the
+[06:45] incentives are for them to jack up the
+[06:47] price. Whereas if you just go to them
+[06:49] directly and tell them, "Hey, I'd like
+[06:50] to just pay in cash." they'll be so
+[06:53] happy to take it that they they'll offer
+[06:56] you a better price than what the
+[06:57] insurance company's going to force you
+[06:58] to pay. Yeah. You know, it's it's
+[07:01] interesting to me that um me as an
+[07:04] individual, I can actually negotiate a
+[07:06] better price with my doctor or the
+[07:08] hospital or whoever it may be than
+[07:11] United Healthcare, which is the seventh
+[07:13] largest company on the planet in terms
+[07:14] of revenue. Um, you know, I think they
+[07:17] have $425 billion of revenue every year,
+[07:20] uh, which is about half of what the
+[07:23] military-industrial complex, uh, you
+[07:25] know, costs the United States. So, one
+[07:27] company is about half of what our
+[07:29] military budget is. Um, that says a lot
+[07:32] about the company and our military
+[07:33] budget, I think. But, yeah, I mean, you
+[07:36] have more um power to negotiate than
+[07:39] than United Healthcare, which is a
+[07:41] pretty amazing thing from my
+[07:43] perspective. It kind of defies economics
+[07:45] a little bit. You think more purchasing
+[07:47] power, a lot more strength in
+[07:50] negotiation, but what we have is a
+[07:52] principal agent problem where our agent
+[07:56] is actually, you know, who's supposed to
+[07:57] go out there and try to find us the best
+[07:59] deals um actually is incentivized to see
+[08:02] prices go up over time. And so, you
+[08:06] know, if if which totally destroys
+[08:08] against that that principal agent
+[08:10] relationship and people don't understand
+[08:12] that, but in the United States, health
+[08:14] insurance plans are capped out at the
+[08:17] amount of profit that they can have. So,
+[08:19] if I've got $1,000 of premiums, they're
+[08:22] capped out at 150 bucks. So, everybody
+[08:25] thinks that's like from the outside
+[08:26] looking in, that's great. Health
+[08:28] insurance companies shouldn't fleece us.
+[08:30] But the problem with that is that now
+[08:33] health insurance companies, how do they
+[08:34] grow their revenue or their profit 10%
+[08:37] from $150 to
+[08:39] $165? Well, your premium, what you pay
+[08:41] them every month, has to go up from
+[08:44] $1,000 to $1,100. So, the buyers of
+[08:49] healthare, these big health insurance
+[08:51] plans, and the sellers, they they want
+[08:53] the price to go up. The sellers of
+[08:55] healthcare, these big hospital systems,
+[08:57] they want the price to go up. And so,
+[08:59] you know, you don't need to be, you
+[09:00] know, safety to understand if the buyer
+[09:02] and the seller of something wants the
+[09:04] price to go up, guess what? The price is
+[09:06] going up. And so, that's why we have,
+[09:09] you know, egregious prices within the
+[09:10] United States is because you got the
+[09:12] buyer and the seller of the the the
+[09:14] service both wanting the price to go up.
+[09:18] Yeah. And I think a lot more doctors are
+[09:20] beginning to discover this and realizing
+[09:22] that they can just opt out of the entire
+[09:24] system and deal with the patients
+[09:25] directly and it works out better for the
+[09:27] doctors and the patients. So we've had
+[09:30] Dr. Mary Bowen on and uh she's pretty
+[09:33] amazing. I she's done incredible work on
+[09:35] COVID and curing people and getting
+[09:38] people access to ivormectin and she runs
+[09:41] her clinic now just on this model where
+[09:43] she doesn't deal with any of that stuff
+[09:45] as far as I could tell and it's worked
+[09:48] out much better for her and I've also
+[09:49] heard about the Oklahoma Surgery Center
+[09:51] who have been doing this for years and
+[09:53] it was truly mind-blowing when I first
+[09:55] heard about them because you go onto
+[09:57] their website and you find the procedure
+[10:00] that you want. Let's say you want a hip
+[10:01] replacement or you want a um
+[10:04] appendecttomy or whatever and they'll
+[10:06] have it listed and they'll have the
+[10:08] exact price for you of how much you're
+[10:10] going to be paying. It's amazing. It's
+[10:11] like you're actually just buying a
+[10:13] service and then you pay for it. And you
+[10:16] know, it sounds weird for most people to
+[10:18] think of it this way because we don't
+[10:20] think of healthcare as if it is a an
+[10:24] economic good. It has this special
+[10:27] romantic feeling where no no no no it
+[10:28] can't just have a price on it. You can't
+[10:31] just, you know, say $12,000 for a hip
+[10:34] replacement. It's it's supposed to be
+[10:36] about health. It's supposed to not have
+[10:38] a bill. And so trying to not let it have
+[10:41] a bill ends up giving us all kinds of
+[10:44] exorbitant bills where yeah, you're not
+[10:47] getting the bill up front telling you
+[10:49] you're paying $12,000. You're being
+[10:50] told, "Oh, don't worry. You've got
+[10:52] insurance. You've got coverage." But
+[10:54] then after you go and get the procedure
+[10:56] done, then the bills keep coming in and
+[10:59] then you have to play the uh the the
+[11:03] roulette game of will they pay or won't
+[11:05] they pay and how are we going to
+[11:08] convince them to pay and what excuses
+[11:09] are they going to use to not pay.
+[11:13] Yeah, exactly. And everything else in
+[11:14] life, we know exactly what the price is
+[11:16] except healthcare. And so there is and
+[11:19] in in in many ways we are as individuals
+[11:23] through health insurance not
+[11:25] incentivized at all to look for the
+[11:27] price. You know, if my deductible is
+[11:30] $2,000 and I need a replace knee
+[11:32] replacement that's
+[11:34] $20,000, I could care less what the
+[11:37] price is cuz all the excess price is
+[11:40] being paid by somebody else as opposed
+[11:43] to us, right? And so, um, you know,
+[11:46] there's there's just no market forces
+[11:48] within healthcare that that that have a
+[11:51] a that drive prices down. Um, in
+[11:54] essence, all the market forces are
+[11:55] pushing prices up. And so, that's the
+[11:58] challenge that we have in in healthcare
+[11:59] is nobody's incentivized to to really
+[12:02] care. even if we had the prices. I'm
+[12:04] going to I'm doing a an op-ed in a a
+[12:08] fairly well-known um you know
+[12:10] publication about how price
+[12:13] transparency sounds great, but if people
+[12:16] don't care what the prices are, then
+[12:18] price transparency is pretty useless. Um
+[12:22] you know, so you know it we have a
+[12:24] totally screwed up system here and and
+[12:26] it's a lot of these these these, you
+[12:28] know, issues that we're talking about is
+[12:30] what we're trying to solve here at Crowd
+[12:31] Health. And like I said, our members are
+[12:33] getting half the price of what United
+[12:35] Healthcare pays. So if you actually go
+[12:37] out and and shop for services, and that
+[12:40] sounds so foreign to people, but if you
+[12:42] shop for services, you can find services
+[12:44] that are significantly better than what
+[12:47] your health insurance plan pays. And my
+[12:48] one example that I just gave you, $8,000
+[12:51] for these ear tubes, I had people reach
+[12:54] out to me on X and say, "Oh yeah, we do
+[12:56] these in our office for like $1,500 to
+[12:58] $2,000 all day long if people pay us
+[13:00] cash." So, I could have saved 75%. If I
+[13:03] had just known that, you know, the these
+[13:06] the other there are other options out
+[13:08] there, but I'm so limited by the network
+[13:10] in which the health insurance plan
+[13:12] requires me to go to that I don't even
+[13:15] have the option to go to anybody else
+[13:17] because I I don't get credit for that
+[13:19] and the insurance plan won't pay for
+[13:20] that. So these um these rules that have
+[13:25] been put in place around these networks
+[13:27] are actually inflating prices when they
+[13:28] were you know supposed to reduce prices
+[13:30] by using the power of the negotiation to
+[13:33] get these doctors to reduce their
+[13:34] prices. It just doesn't happen that way.
+[13:36] In theory it sounds great and and
+[13:39] practically it doesn't work at all. The
+[13:41] Bitcoin Standard Podcast is brought to
+[13:42] you by the safehouse.com. My independent
+[13:44] publisher and bookshop selling the best
+[13:46] Bitcoin books and highquality cloth hard
+[13:48] covers built to last for generations.
+[13:50] Most books these days are pretty fiat.
+[13:52] They're flimsy and they fall apart
+[13:53] quickly. And I did not want that for my
+[13:55] books. So, I set up the safe house
+[13:57] especially to provide you with
+[13:58] beautiful, long-lasting classic cloth
+[14:00] hard covers you can proudly pass down
+[14:02] for generations. You can get copies of
+[14:04] my three books, The Bitcoin Standard,
+[14:05] The Fiat Standard, and Principles of
+[14:07] Economics. And you can also get copies
+[14:08] of Lyn Alden's Broken Money, Parker
+[14:10] Lewis's Gradly Then Suddenly, and
+[14:12] Matthew Lishiaak's Fiat Food, to which I
+[14:14] contributed a few chapters. We now offer
+[14:17] bulk discounts so you can buy books for
+[14:18] yourself and for the friends and family
+[14:20] you'd like to learn about Bitcoin. Buy
+[14:22] any two books for $50, any five books or
+[14:24] more for $20 per book. And for more than
+[14:26] 50 books, it's only $15 per book. Go to
+[14:29] the safehouse.com thesif house.com where
+[14:33] you can get all of these books in
+[14:35] highquality cloth hard covers delivered
+[14:37] worldwide and get 10% off for paying
+[14:40] with
+[14:41] Bitcoin. The Bitcoin standard podcast is
+[14:44] brought to you by the Daylight Computer.
+[14:45] I love to work early in the morning and
+[14:47] late at night or in the sun outdoors,
+[14:49] but regular computer screens are
+[14:51] terrible at these times, and they strain
+[14:53] your eyes. For years, I've wanted a
+[14:55] paper-like electronic screen on a simple
+[14:57] computer I could use to write. I tried
+[14:59] several models, but none were very good.
+[15:02] Now, finally, Daylight have delivered a
+[15:05] fantastic full function tablet with a
+[15:07] paper-like screen that's easy on your
+[15:09] eyes and great for outdoor use. I've
+[15:12] been using the daylight computer to
+[15:13] write my next book and it is absolutely
+[15:16] fantastic and it has led me to invest in
+[15:18] this company myself. Check out my
+[15:20] interview with Andran Kata in episode
+[15:23] 249. Now tell us about why you guys are
+[15:26] using Bitcoin and how you're using
+[15:27] Bitcoin and how that's been going.
+[15:31] Yeah. You know, I I had a really
+[15:32] interesting meeting soon after I started
+[15:34] Crowdalth with Jimmy Song. I know you
+[15:36] know Jimmy well. Most of the people here
+[15:38] listening are are talking about Jimmy. I
+[15:40] was telling him what I was doing and
+[15:41] he's like, "Man, you know, the problem
+[15:42] with health insurance is that they have
+[15:44] this huge pool of fiat sitting in the
+[15:47] background um that they have to have to
+[15:50] pay for these big bills. But
+[15:52] unfortunately, this big pool of fiat, as
+[15:54] we all know, is melting um with
+[15:56] inflation and therefore it needs to be
+[15:59] replaced every year and therefore it
+[16:00] drives costs up." said, "You know what?
+[16:03] If you could just allow people to to
+[16:05] hold their their their dollars in
+[16:08] Bitcoin as opposed to having this big
+[16:10] pool of fiat on the on the back end."
+[16:12] And it got me thinking about how do we
+[16:15] incorporate Bitcoin more into into what
+[16:17] we do. You know, in essence, my my end
+[16:20] goal here, and there's a couple stages
+[16:22] to get there, but my end goal is for,
+[16:26] you know, total Bitcoin circularity
+[16:28] within within healthcare. So, you know,
+[16:30] instead of me sending um the community,
+[16:33] you know, 500 or $5,000 in the previous
+[16:35] example um and then then send me
+[16:38] dollars, why not them send me Bitcoin,
+[16:41] which I can then go and pay the hospital
+[16:43] system in Bitcoin or the doctor in
+[16:45] Bitcoin, so that there's like a a true
+[16:47] Bitcoin circularity within healthcare.
+[16:50] And and my theory here is, you know,
+[16:53] healthcare within the United States is a
+[16:55] $5 trillion industry. You know, if it
+[16:57] was a if it was a country, that would be
+[16:59] the fourth largest country after the
+[17:01] United States, China, and Japan. And so,
+[17:04] if we can get Bitcoin circularity
+[17:05] working within um healthcare in the
+[17:07] United States, I think that will go a
+[17:09] long way of getting, you know, Bitcoin
+[17:10] circularity in other kind of facets of
+[17:13] life. And uh healthcare expenses are
+[17:16] typically Americans, you know, number
+[17:19] one or number two, you know, line item
+[17:21] in their budget of, you know, just
+[17:23] getting their their health care paid
+[17:24] for. So that's that's our ultimate
+[17:26] vision. Um you know we've we've got to
+[17:29] get scale to get there. So if people are
+[17:31] listening to this and and um you know
+[17:33] are interested in in an alternative to
+[17:35] healthcare, we'd love to have you
+[17:36] because we need you know five or 10
+[17:38] thousand people that want to use Bitcoin
+[17:41] to actually have the scale to go and do
+[17:43] this. Um we are building a group of
+[17:47] doctors who are accepting Bitcoin. We
+[17:50] are orange pilling doctors so that they
+[17:52] will accept Bitcoin. I just talked to
+[17:54] one of the largest hospital systems in
+[17:56] the country who is now evaluating taking
+[18:00] Bitcoin as a payment method as opposed
+[18:03] to um dollars. And that's a pretty big
+[18:06] thing because hospitals are very slow
+[18:07] movers in terms of of innovation. And so
+[18:10] if we can create that Bitcoin
+[18:12] circularity within healthcare, I think
+[18:13] that just goes a long long way. But like
+[18:16] I said, we there's a couple steps to get
+[18:17] there. Um, you know, right now what we
+[18:20] enable people to do is one component of
+[18:23] our system is that we ask you to help
+[18:25] fund another person in the community
+[18:28] directly every month and we ask for an
+[18:30] individual up to $140 to fund that
+[18:33] individual. Right now we're only so for
+[18:36] example in in April we only asked for 80
+[18:39] of that $140. So if you are a bitcoiner,
+[18:42] we can actually take that
+[18:44] excess60 that will go directly to fold
+[18:47] at your fold app, convert it to bitcoin.
+[18:50] So in essence, what you have is almost
+[18:52] like a little bitcoin HSA. Um so instead
+[18:55] of it's sitting in a big pool of fiat
+[18:57] like health insurance, you hold it in
+[18:59] your own account. Um it's it's
+[19:02] increasing with value as opposed to
+[19:04] melting away. And so that's step one of
+[19:06] enabling our our members to utilize
+[19:08] Bitcoin for their their healthcare in a
+[19:10] more effective manner. You know, step
+[19:12] two hopefully will be this Bitcoin
+[19:13] circularity that I've been talking
+[19:14] about. But we need some scale to be able
+[19:16] to do that. Yeah. But I on the step one,
+[19:20] I think things have been working out
+[19:21] really well. So you you said you took
+[19:23] you started off in April. So, you know,
+[19:25] by the time most people started uh
+[19:27] contributing, putting money in that was
+[19:30] going into Bitcoin, that was probably by
+[19:31] late uh by early 2022 when there was a
+[19:35] pretty significant bare market. So, I
+[19:37] presume most of your clients got in a
+[19:39] lot of their Bitcoin in the doldrums of
+[19:43] 2022 bare market. And so, the timing was
+[19:47] good. Yeah, the timing was good because
+[19:49] now it's up four 5x. So if you had kept
+[19:52] that in dollars or if you had put it in
+[19:53] an investment portfolio, it would have
+[19:56] made a lot less uh in terms of
+[19:59] appreciation. So now everybody's a lot
+[20:01] better off, right? Because they've used
+[20:02] Bitcoin, the magic superpower of number
+[20:04] go up technology.
+[20:06] Exactly. And I and I still think the
+[20:08] timing is good. So you know, for for
+[20:10] those who are like, I'm too late, I I
+[20:12] think the timing is still really really
+[20:13] good. And in fact, you know, 80% of my
+[20:16] liquid assets are in in in Bitcoin. And
+[20:19] um so I think I think the timing is
+[20:20] still good. So every dollar you're
+[20:22] putting into the into Bitcoin, I think
+[20:23] it's going to be worth many many
+[20:25] multiples of that over the coming years.
+[20:27] So I think it's a smart way to stack
+[20:29] sats. Um it's kind of an automated way
+[20:31] to stack sats every single month and you
+[20:34] know get your health care paid for at
+[20:35] the same time. So it's you know two
+[20:37] birds with one stone. And so that's our
+[20:39] our kind of entry point into you know
+[20:42] getting Bitcoin involved. Um, you know,
+[20:44] and I think the other part part of this
+[20:46] too that people don't really think
+[20:47] about, um, although I know you talked
+[20:49] about in your books is that, you know,
+[20:51] we've got a group of people in crowd
+[20:54] health who are all really focused on
+[20:55] taking care of themselves. You know,
+[20:57] like I said, many of them are
+[20:58] Bitcoiners. Um, none of them are obese,
+[21:01] none of them smoke. And so, we've got a
+[21:03] group of people who take care of
+[21:04] themselves. So instead of you having to
+[21:06] pay out, you know, thousands of dollars
+[21:08] a month oftent times to pay for people
+[21:11] who aren't taking care of themselves,
+[21:13] you're paying directly to other people
+[21:15] who are taking care of themselves. And
+[21:17] in fact, we actually give a discount to
+[21:19] Crowd Health for people who have, you
+[21:21] know, low fasting insulin levels, who
+[21:23] have low visceral fat levels. And so
+[21:25] we're actually incentivizing our members
+[21:28] to get healthy. and we're incentivizing
+[21:30] people who are healthy to join Crowd
+[21:32] Health so we can build this community of
+[21:34] people who don't have to subsidize kind
+[21:37] of the the fiat, you know, health
+[21:39] lifestyle. Um, and as a result of that,
+[21:42] we've got much much lower bills than you
+[21:44] would with your traditional health care
+[21:46] plans. I mean, it's probably 50 or 60%
+[21:48] less, in some cases 75 or 80% less than
+[21:51] what you're currently paying with your
+[21:53] your healthare. Plus, you're not paying
+[21:55] for any of this other garbage that
+[21:57] people are paying for. Like, most people
+[22:00] don't really understand, but most health
+[22:01] insurance plans in the United States pay
+[22:04] for, you know, gender reassignment and
+[22:06] some of this other stuff that you're
+[22:08] just kind of like, I don't want to be
+[22:09] paying for that stuff. Um, so you won't
+[22:11] be paying for that stuff when you're
+[22:13] you're a member of of Crowd Health.
+[22:16] Yeah. And it's a huge thing. And I think
+[22:17] it's it's illegal for insurance
+[22:19] companies to uh um test people's health
+[22:23] and give them different rates based on
+[22:24] their health. Right. Yeah. Which is
+[22:26] ridiculous. And that's Mario Rothbart
+[22:29] said this a long time ago and you know
+[22:30] he's been dead for 30 years now, 31
+[22:32] years I think. And he said this is non
+[22:34] insurance. This is uh this is a form of
+[22:37] subsidy from the healthy to the
+[22:39] unhealthy. If insurance companies are
+[22:41] not allowed to effectively discriminate
+[22:44] based on your health status, then that's
+[22:45] not insurance.
+[22:47] It's, you know, the point of insurance
+[22:49] is the idea that you're trying to uh
+[22:53] protect people from risks, but there
+[22:56] there are different layers of risk.
+[22:58] There are different levels of risk. And
+[22:59] so, if your house is in a hurricane, you
+[23:01] should be paying a higher insurance
+[23:02] premium than somebody uh or if if your
+[23:05] house is in a hurricane zone, then
+[23:07] you're likely going to be paying a
+[23:08] higher insurance rate. But you can't do
+[23:12] that with health. And so you take away
+[23:14] from insurance companies the incentive
+[23:15] to make their customers healthy. You
+[23:18] take away from the customers the
+[23:19] incentive to be healthy. And I think the
+[23:21] really dangerous thing about it is that
+[23:23] you see this quite often. A lot of
+[23:26] people are just so
+[23:28] uh amazed by the miracles of modern
+[23:31] medicine. They keep hearing about all
+[23:32] these incredible press releases. Harvard
+[23:35] University announced that they are going
+[23:37] to do this or that one day or the other
+[23:39] or breakthrough that's going to fix
+[23:41] cancer. And so for most people, because
+[23:43] of all of the hype and uh propaganda
+[23:46] surrounding modern medicine, for most
+[23:48] people, they think by the time I'm going
+[23:50] to need modern medicine, particularly
+[23:51] young people, by the time I'm going to
+[23:53] get really sick, modern medicine is
+[23:54] going to have figured it out. And I
+[23:56] remember hearing several people, you say
+[23:58] this as a joke, that, you know, by the
+[24:00] time that I get sick, if modern medicine
+[24:03] hasn't figured out a cure for cancer,
+[24:04] then maybe I don't want to live anyway.
+[24:08] Uh but it's a horrible horrible
+[24:09] mentality obviously because the I think
+[24:13] the dangerous thing about it is just
+[24:14] that this idea that medicine is just a
+[24:16] magical cure for anything that you can
+[24:19] always just find a pill that will fix
+[24:21] things and it's very dangerous because
+[24:24] people shouldn't be thinking of health
+[24:25] in that way. I think the correct way of
+[24:27] thinking of health is that it is
+[24:29] something that is precious and you must
+[24:32] preserve and if you lose it you may
+[24:34] never get it back. you shouldn't think
+[24:36] of it as being something that can be
+[24:37] fixed with a pill. You should think of
+[24:39] it as being something that can not be
+[24:41] returned. And for me, this idea that,
+[24:44] you know, well, maybe science is going
+[24:46] to find a cure for this or that disease.
+[24:49] It's like saying that, well, I hope one
+[24:52] day Apple is going to invent a laptop
+[24:54] that you can throw from the 20th story
+[24:56] window and that it'll continue to work.
+[24:59] And you know, they could they could
+[25:00] invent a laptop that would survive a 20s
+[25:02] story fall, but it's much better that
+[25:05] they just invent a laptop that can
+[25:07] survive that fall and you just don't
+[25:09] throw your laptop from 20 floors because
+[25:12] that's going to mean a lot better
+[25:14] laptops. It makes a lot more sense. And
+[25:17] similarly, you know, the way to fix your
+[25:19] health is not to wait for modern
+[25:22] medicine to find the pill for whatever
+[25:24] ails you. It's to sort out the cause of
+[25:27] whatever it is that ails you and then
+[25:29] stop that. But unfortunately, insurance
+[25:31] is massively counterproductive to this.
+[25:33] It just gives people the impression that
+[25:35] you can get away with with whatever you
+[25:36] want.
+[25:38] Yeah. I mean, and I've kind of said it
+[25:40] before, but it's healthcare is more
+[25:42] welfare than it is healthcare. Um, you
+[25:45] know, we're subsidizing all the people
+[25:47] who are taking that risk that some magic
+[25:50] pill is going to happen. And I like like
+[25:53] you said would prefer to to be in
+[25:55] community with people who are taking
+[25:57] this seriously now and not waiting for
+[25:59] the magic pill you know in 10 or 20
+[26:01] years. And so you know we're already
+[26:03] seeing that right now with with GLP1s.
+[26:06] Um you know now I can um you know eat
+[26:10] whatever I want and if I get overweight
+[26:12] then I have a pill to fix it. And so
+[26:14] again Crowd Health is not paying for
+[26:16] GLP1s. We are not a a high time
+[26:20] preference type of organization. We're a
+[26:22] low time preference organization and we
+[26:24] want we want groups of people who are
+[26:26] low time preference and so you know if
+[26:28] you want GLP1s or the magic pill or
+[26:30] whatever it may be um then we're not the
+[26:33] right right community for you. Um so you
+[26:36] know and like you said every other type
+[26:38] of insurance you actually get risk
+[26:40] adjusted based upon behavior or location
+[26:43] or whatever. And in the United States, I
+[26:46] don't know if it's the same way where
+[26:47] you are, but we can actually plug
+[26:49] something into our car and it can tell
+[26:51] you like how good of a driver you are
+[26:53] and you actually get a rate based upon
+[26:56] if you're a good driver versus a bad
+[26:58] driver. And so, you know, you can't do
+[27:00] that with health care in kind of your
+[27:02] traditional health insurance system. And
+[27:04] that's a tragedy from my my perspective
+[27:07] because it gives people very little
+[27:08] incentive to actually improve their
+[27:11] their health. Um, and so, you know,
+[27:14] we're trying to change that with Crowd
+[27:16] Health. Given we're not insurance, we
+[27:18] can do that. Um, and and we think it's
+[27:20] been, you know, pretty effective. And in
+[27:22] fact, we've had people who were
+[27:24] overweight and tried to be members of
+[27:26] Crowd Health and we said, "Hey, you're
+[27:28] you're, you know, overweight." And they
+[27:30] came back to us like six months later
+[27:32] and they had dropped the weight. They
+[27:35] had they he sent me a picture of him and
+[27:37] his wife who were running a triathlon.
+[27:39] Um, and he's like, "It was my motivation
+[27:42] to get healthy due to crowd being
+[27:44] wanting to be a member of Crowd Health,
+[27:46] um, that changed my life." And I'm like,
+[27:49] "Thank God." Like, that's that's what we
+[27:51] want. We want people to be incentivized
+[27:52] to change their health. And, um, so far
+[27:55] we're being pretty effective in doing
+[27:56] that.
+[27:58] Yeah. Exactly. I think this is the thing
+[28:00] that people just miss is
+[28:02] there's you have so much control over
+[28:04] your health and people just um aren't
+[28:07] aware of that. Part of it is because of
+[28:09] the idea that insurance is there. Part
+[28:11] of it is just the status mentality that
+[28:13] the government is mommy, government is
+[28:15] daddy, government can take care of me
+[28:16] and you know I pay my taxes so it's
+[28:19] their job to make sure that I get
+[28:21] healthcare. It's their job to make sure
+[28:22] that I don't get sick. And then I think
+[28:24] the big part is just that people don't
+[28:27] understand the connection between food
+[28:28] and health. I think the vast majority of
+[28:30] people think food is just uh
+[28:34] entertainment and it's something that
+[28:36] you have to do because everybody does it
+[28:38] and all right, you need it because you
+[28:40] need energy. Obviously, they get cranky
+[28:42] uh when they're not getting their carbs.
+[28:44] So, they realize they need it, but they
+[28:46] don't really understand that there is a
+[28:48] connection, a very direct connection
+[28:49] between it and uh your health. And for
+[28:51] many of those people, it's not easy for
+[28:54] them to ever even make an attempt to try
+[28:56] and uh get on uh a diet that drastically
+[29:01] changes their health. And they'll just
+[29:04] always continue to try and have the same
+[29:07] food all the time. And so they don't see
+[29:09] the connection between their food and
+[29:10] their health because it's just the same
+[29:12] food. You'd need to really make a
+[29:15] significant change in your diet in order
+[29:17] to be able to notice significant changes
+[29:20] in your health. But once you do, you'll
+[29:22] be shocked. And I know this because I
+[29:23] was one of those people. And I was
+[29:25] shocked as soon as I started reducing
+[29:27] the amount of processed carbs that I had
+[29:29] initially. As soon as I stopped drinking
+[29:31] soda and just eating the most egregious
+[29:34] junk, just you know, the lowhanging
+[29:37] fruits of it, immediately I felt like a
+[29:39] new human being. And it was incredible.
+[29:40] I could run much faster. I lost a lot of
+[29:43] excess fat. I felt a lot better.
+[29:46] Everything just gets a lot better when
+[29:48] you do that. And most people just are
+[29:50] not aware of it. And with insurance, it
+[29:53] doesn't give them the incentive to even
+[29:54] think about it.
+[29:56] Yeah. I mean, we we we think food is a
+[29:58] big component of this because I think
+[29:59] there's kind of two things that need to
+[30:01] change to to get our healthcare prices
+[30:04] down. One is the price, you know, just
+[30:06] the price per procedure, but the other
+[30:09] is consumption. Um, and because we are
+[30:12] an obese country, we have very high
+[30:14] consumption of of healthcare in general.
+[30:17] And in fact, we're more obese in the
+[30:19] United States that we're 50% more obese
+[30:21] than the o other OECD countries. And so
+[30:24] if you think about that that you know
+[30:26] folks who are obese are five to 10 times
+[30:29] consume five to 10 times the amount of
+[30:31] healthcare as someone is as normal
+[30:33] weight. And so there's just, you know,
+[30:36] we we actually sent out hundreds of
+[30:38] copies of uh of Fiat food to our members
+[30:41] in hopes that they would pay attention
+[30:43] and change their their lifestyle habits
+[30:45] for those who aren't eating eating, you
+[30:48] know, meattheavy meat dense types of of
+[30:51] diets and are gorging on carbohydrates.
+[30:54] So we think and we've actually heard
+[30:56] feedback that, you know, your and Matt's
+[30:58] book on fiat food has actually changed
+[31:00] people's lifestyle habits. And so we do
+[31:03] things like that within Crowd Health
+[31:04] too. We we give people free books to be
+[31:06] like, "Hey, go change your lifestyle
+[31:08] because that's going to be a key
+[31:09] component of reducing, you know,
+[31:11] healthcare costs." You know, the other
+[31:13] thing we do too is we have like
+[31:14] quarterly specials. So um the first
+[31:17] quarter we had a DEXA scan. So you can
+[31:20] go get a DEXA scan. It's fully fundable
+[31:22] by the community so that you can
+[31:24] understand what your muscle mass is. You
+[31:25] can understand what your visceral fat
+[31:27] is. So people can start understanding
+[31:29] how your body operates to um improve
+[31:32] their healthcare. We're doing gut health
+[31:35] this this month or this quarter. Um
+[31:38] we're doing a V2 max in the third
+[31:40] quarter and we're doing fasting insulin
+[31:43] uh in in Q4. So we're trying to get
+[31:46] people to understand what are the main
+[31:49] drivers of good health. How do you
+[31:51] measure those things? um because it's
+[31:54] you know what whatever you measure is
+[31:55] going to be the things that improve that
+[31:57] you're really paying attention to. So
+[31:59] those are big um kind of focus for us uh
+[32:02] over the next year at at crowd. Yeah.
+[32:05] And I think fasting insulin is a huge
+[32:07] one. It's so important and it's
+[32:10] remarkable how little attention is being
+[32:11] paid to it. I mean people spend so much
+[32:13] time stressing over their cholesterol
+[32:15] level which arguably is largely noise.
+[32:19] And we've done an episode on this
+[32:21] podcast with Dr. Dr. Malcolm Kendrick. I
+[32:25] urge you to look into it. If you have
+[32:26] ever been concerned about your
+[32:28] cholesterol, if you've had a doctor tell
+[32:30] you about your cholesterol, listen to
+[32:32] that episode with Dr. Malcolm Kendrick
+[32:34] and I think uh you'll see that uh there
+[32:37] are a lot more important things to worry
+[32:38] about and the entire way in which the
+[32:40] modern medical establishment thinks of
+[32:42] cholesterol is completely ridiculous and
+[32:45] counterproductive. But fasting insulin
+[32:47] is a big one. Why do you think fasting
+[32:48] insulin is important? Can you um
+[32:50] explain?
+[32:52] Yeah, I mean I I I think it's the best
+[32:54] metric um or the best proxy for
+[32:57] metabolic health. Um you know, in
+[33:00] essence, if we can get our metabolic
+[33:01] health in order, then all the chronic
+[33:03] conditions, you know, fall away. And so
+[33:06] you know fasting insulin is basically
+[33:08] you know how much insulin is in your
+[33:10] blood without you on a fasting you know
+[33:13] after a period of time of fasting that
+[33:15] just you know in essence tells you is
+[33:17] your met metabolic health operating
+[33:19] correctly or incorrectly as insulin goes
+[33:22] up inflammation goes up as inflammation
+[33:24] goes up cardiovascular health declines
+[33:27] precipitously and from my perspective um
+[33:30] and I'm not a doctor but from what the
+[33:31] research that I've done it's the insulin
+[33:33] levels in your blood that are much more
+[33:36] a driver of cardiovascular disease than
+[33:38] it is LDL. Um, I saw somebody the other
+[33:41] day explain it pretty well and he said,
+[33:43] "Look, you know, L LDL is the the
+[33:46] firefighters and the inflammation are
+[33:48] the fires and just because you take away
+[33:51] some of the firefighters doesn't mean
+[33:53] you're going to have less fires, you
+[33:55] know, and so taking away the
+[33:58] firefighters doesn't really help. LDL
+[33:59] has tried to come in there to to solve
+[34:02] the inflammation issue. So, we need
+[34:04] let's solve the inflammation issue as
+[34:05] opposed to trying to solve the the
+[34:07] firefighter issue. Um, and so I've got a
+[34:10] 250 LDL. I'm pretty darn high. Um, I
+[34:12] haven't worried about it. I get a
+[34:14] coronary artery calcium score every year
+[34:16] just to make sure there's no plaque
+[34:17] buildup. I've been doing the a a
+[34:19] carnivore or a carnivore semi carnivore
+[34:22] diet for the
+[34:24] last seven or eight years. I've got zero
+[34:27] plaque in my in my arteries. I'm good to
+[34:30] go and I'm not really worried about it.
+[34:31] Um, so and and I I have filled one
+[34:35] prescription my entire life and it was
+[34:38] because my first cardiologist said I
+[34:39] needed to get on a statin because my LDL
+[34:41] was so high. I can tell you that entire
+[34:44] prescription was not used. It's still
+[34:46] sitting in my desk. I don't even know
+[34:48] why I still have it at my desk. But not
+[34:50] one pill has been taken out of that
+[34:51] because I've listened to folks like like
+[34:53] you and others who are just like don't
+[34:55] do this. This has actually it it it
+[34:57] penetrates penetrates the the blood
+[34:59] brain barrier for one and and your brain
+[35:03] needs cholesterol to function properly.
+[35:05] So you start taking cholesterol out of
+[35:07] your brain cells and your brain cells
+[35:09] start don't start operating correctly.
+[35:11] That's why people who take statins a lot
+[35:13] of them say I have I feel brain fog. I
+[35:16] was like yeah you feel brain fog because
+[35:18] the cells in your brain are comprised of
+[35:21] cholesterol and you need that to
+[35:23] function properly. So, I've not taken
+[35:25] one of those pills. I maybe I just I
+[35:27] keep it there to remind myself of, you
+[35:29] know, the the medical industrial complex
+[35:31] and the ways they're trying to
+[35:33] manipulate us to maximize profits by
+[35:36] feeding us, you know, pills that our
+[35:38] bodies don't actually need that can be
+[35:40] solved with a, you know, a high red
+[35:43] meat, from my perspective, a high red
+[35:45] meat diet. I know I'm preaching to the
+[35:46] choir, but I get so like fired up about
+[35:48] this and I'm like, "People, listen, stop
+[35:51] stop eating the carbohydrates and start
+[35:53] eating more red meat and you're going to
+[35:55] be you're going to be fine." Um, so
+[35:57] anyways, I'll get off my my high horse
+[35:59] here, but it's it's something I'm like
+[36:00] so fired up about that I'm like I wish
+[36:03] people would listen to this. It's so
+[36:05] contrary to what you earn on your high
+[36:07] horse. You don't have to get off.
+[36:11] No, I agree. I think the the the the
+[36:13] cholesterol thing is just it's just
+[36:15] absolutely amazing because I I think
+[36:16] that's a great metaphor. It's it's
+[36:18] really like the firefighters and if
+[36:20] you're fighting the firefighters mean
+[36:22] there is there is a way of looking at
+[36:24] it. Yeah. Whenever there are
+[36:25] firefighters there is fire and so the
+[36:28] more fire you have the more firefighters
+[36:30] you get. That doesn't mean that you can
+[36:32] get rid of the fire by getting rid of
+[36:33] the firefighters. And it's an essential
+[36:35] compound that your body needs. And then
+[36:37] the more you read about it, the more you
+[36:39] see just how corrupt the science is, how
+[36:41] wrong it is, how ridiculous it is. And
+[36:45] it's not just an academic discussion.
+[36:46] It's not just, oh, you're wrong about
+[36:48] this. No, you're wrong about that. No,
+[36:50] it's got really important real world
+[36:53] implications, which is that if you
+[36:55] continue to eat this way, if you
+[36:57] continue to eat and take the drugs that
+[36:58] they tell you, it's just going to be a
+[37:01] continuous deterioration. I think the
+[37:03] statins might be one of the I think they
+[37:06] were the most profitable drug in
+[37:08] history. They made so much money from
+[37:11] this. They've allocated it to everybody
+[37:12] cuz everybody's always eating carbs. So,
+[37:14] everybody's always inflamed. Everybody's
+[37:16] always got high cholesterol. Well, not
+[37:17] everybody, but you know, when people get
+[37:19] into their 50s, even their
+[37:22] 40s, it's highly likely that if you do
+[37:25] go and get your cholesterol tested,
+[37:27] you're going to show up high. And then
+[37:29] once you've uh taken that statin and
+[37:33] then it's just you've entered the vortex
+[37:36] of medical complications, more drugs,
+[37:40] more procedures, more tests, and now you
+[37:43] are a good customer. Now your doctor's
+[37:45] happy with you because he's making a lot
+[37:46] of money from you. Your insurance
+[37:48] company's happy because they're making a
+[37:50] lot of money from you, and you you're
+[37:52] sacrificing your health for the
+[37:54] financial gain of others. Whereas on the
+[37:56] other hand, if you just quit causing the
+[37:58] fire in the first place, you put the
+[38:00] firefighters out of business. You put
+[38:02] the entire industry out of business. But
+[38:06] although I I should I should clarify, I
+[38:08] think cholesterol uh the statins were
+[38:09] the most profitable drug in history
+[38:11] before COVID and the magic fiser juice
+[38:14] came and broke all the records, I think.
+[38:17] But I think you're right. I think until
+[38:19] the last two years, uh something has
+[38:21] overtaken statins, but it's still, you
+[38:23] know, in the top two or three. Yeah. And
+[38:26] now the crazy thing is that now it's no
+[38:28] longer patented. The drugs for statins
+[38:30] are now generic. So nobody's really
+[38:33] making much money from it. But there's
+[38:35] this is the ridiculous thing that
+[38:37] there's just so much institutional
+[38:38] inertia behind it. and so many people
+[38:40] who have been prescribing it for so long
+[38:42] that even though pharma doesn't really
+[38:44] care anymore, the academic establishment
+[38:46] and the medical uh doctors don't want to
+[38:49] stop prescribing it and don't want to
+[38:52] admit to being wrong because it's pretty
+[38:54] devastating to their credibility to say,
+[38:56] "Yeah, sorry. We put you on this
+[38:57] terrible drug for the past 40 years and
+[38:59] it's made you u become scenile and it's
+[39:02] destroyed your health and it's made us a
+[39:04] lot of money, but anyways, let's move
+[39:07] on."
+[39:08] One one real quick thing on that safe
+[39:10] because I think it is it is recent. Um I
+[39:14] believe Dave Feldman and Nick Norwitz
+[39:16] and some others have recently come out
+[39:18] with a study showing lean mass
+[39:21] hyperresponders and basically these are
+[39:22] people who are metabolically healthy. Um
+[39:26] there were a hund of them. They were on
+[39:28] a a ketoc carnivore diet. Um and then
+[39:31] they tracked. So these are L lean mass
+[39:34] hyper responders are basically people
+[39:35] who are metabolically healthy but have
+[39:37] really really high LDL. Um I think the
+[39:39] LDL on average was like 260. So it was
+[39:42] really really high. And the reason that
+[39:44] they are studying these people is
+[39:45] because in all other ways they are
+[39:47] healthy. They wanted just to focus on
+[39:50] that LDL and what LDL does to your body
+[39:53] when you have a a a high u uh protein
+[39:58] high fat diet. And so they tracked a 100
+[40:00] people, I think it was over 10 years,
+[40:02] and they did coronary artery calcium
+[40:04] score tests every year. So this is a
+[40:06] test that shows the plaque that's built
+[40:08] up in your coronary artery. And they saw
+[40:11] zero impact to the plaque buildup in
+[40:13] your heart over 10 years for these
+[40:15] people with wickedly high LDL levels.
+[40:18] And so it it basically proved um or it's
+[40:21] a a big step in proving that
+[40:24] LDL if you are metabolically healthy LDL
+[40:27] has zero impact on the plaque buildup in
+[40:30] your in your heart. And so I think it
+[40:32] was and this came out last week. I think
+[40:35] it's really important because you know
+[40:36] there's actually studies that are
+[40:38] showing this now um that are are very
+[40:41] detailed and um and and very very clear
+[40:44] in their conclusions.
+[40:47] Yeah, absolutely. And I think uh that
+[40:50] they've also shown all kinds of uh
+[40:52] ridiculous results uh when um I think it
+[40:55] was Nick Noritz who did an experiment
+[40:56] where he was eating a lot of Oreos and
+[40:58] then eating eggs and then showing the
+[41:00] impact and the eggs turned out to look
+[41:03] uh to be worse for his cholesterol than
+[41:06] uh the Oreos. I think that was the study
+[41:07] that he did. Uh was that it? Do you
+[41:10] remember? No, he he actually I think his
+[41:12] his study I think he ate Oreos I think
+[41:17] for like a week or two weeks straight
+[41:18] like that's all he ate which are you
+[41:20] know super high in in uh in and you know
+[41:25] Oreos Yeah, Oreos actually were worse
+[41:27] for your LDL. Low cholesterol Oreos were
+[41:30] worse for your LDL than his two weeks
+[41:33] where he just ate eggs. That actually
+[41:35] reduced his LDL cholesterol as opposed
+[41:37] to increased your LDL cholesterol. So in
+[41:40] essence what he was saying is like look
+[41:42] your body is very good at you know
+[41:44] manipulating your LDL so it's the right
+[41:46] amount for your body your lifestyle
+[41:48] what's going on with you and so it was
+[41:51] just kind of a funny study that actually
+[41:52] showed that it was the opposite of what
+[41:54] you thought the low LDL which to you
+[41:56] know the that the Oreos which totally
+[41:59] screw up your metabolism um you know
+[42:02] actually raised your LDL whereas the
+[42:04] high cholesterol eggs which are great
+[42:05] for your metabolism actually lowered his
+[42:07] LDL and so was you It was a super
+[42:10] unscientific study. He just kind of did
+[42:12] it as a kind of a Um but it was
+[42:15] really interesting the impact that it
+[42:16] had on his his LDL specifically. Yeah. I
+[42:20] think you know the more that I read
+[42:21] about this the more that I um arrive at
+[42:24] a pretty
+[42:25] uh pretty
+[42:28] uh ignorant perhaps conclusion or just a
+[42:33] conclusion wherein you realize you know
+[42:35] what reading all of these papers is
+[42:37] maybe a waste of time. You're better off
+[42:39] just eating meat and not reading any
+[42:41] scientific literature than spending all
+[42:43] of your time trying to figure out the
+[42:45] ideal diet by reading PubMed papers. And
+[42:47] it's I mean it sounds ridiculous and I
+[42:50] know a lot of people won't like this but
+[42:52] you know if you're eating if you're
+[42:55] reading PubMed and you're eating any
+[42:57] kind of carbohydrates, you're eating any
+[42:59] kind of
+[43:01] sugar, you're really scamming yourself.
+[43:03] I think uh I wonder just how much of all
+[43:06] of this nutrition and medical science is
+[43:09] positive for humanity because if you
+[43:12] just if you just told somebody to just
+[43:13] eat meat, I think they would they would
+[43:16] be eating a lot healthier than people
+[43:19] who are spending all of their time going
+[43:21] over all kinds of
+[43:23] uh very very very sophisticated ways of
+[43:27] approaching science and diet and you
+[43:29] should eat this and eat that and try
+[43:31] this particular seed.
+[43:33] uh or that particular herb that is
+[43:36] harvested in the Himalayas and this and
+[43:38] this. You don't need any of this
+[43:39] sophisticated garbage to help eat a cow.
+[43:41] You'll be fine. Exactly. They're
+[43:43] probably raised in your backyard. Go
+[43:45] talk to a rancher, get it directly from
+[43:47] them and eat a cow and you'll be fine.
+[43:49] You know, the big thing in the United
+[43:50] States right now with Trump um is that
+[43:53] uh he is pulling funding from these
+[43:56] private universities like, you know,
+[43:58] Harvard and and and those. and he's
+[44:01] doing it because of some of the DEI
+[44:03] policies that they have and they said
+[44:05] look you got to get rid of DEI but
+[44:07] Harvard got almost a billion dollars of
+[44:09] taxpayer money last year and the vast
+[44:11] majority of that was going to medical
+[44:13] research and if you look at Harvard and
+[44:17] all the um donations I went in the chat
+[44:20] GPT and I just said tell me all the
+[44:22] donations from pharma that Harvard has
+[44:24] gotten over the last you know five years
+[44:26] and it was pages and pages of all these
+[44:29] contributions
+[44:30] by pharmaceutical companies to Harvard
+[44:33] Medical School to do these uh to do
+[44:36] these you know trials and things like
+[44:38] that. I was like okay so United States
+[44:40] government is giving money to a
+[44:41] university that is also being funded by
+[44:43] pharma to create nutritional studies
+[44:46] that are clearly biased. Um, and so from
+[44:49] my perspective, it's like, hell yeah,
+[44:51] you know, take take money away from, you
+[44:53] know, Harvard Medical School. Um,
+[44:54] because most of their their studies are
+[44:56] absolute garbage that are biased based
+[44:58] upon their ties to to big pharma. So,
+[45:02] um, you know, that's a big big to-do
+[45:04] right now in the United States around
+[45:06] uh, you know, the funding of the these
+[45:08] big private universities. By the way,
+[45:10] Harvard's got a $50 billion endowment.
+[45:12] So, why am I as a taxpayer paying
+[45:14] Harvard a billion dollars a year to go
+[45:17] and do something where they got $50
+[45:18] billion that's, you know, racking in,
+[45:21] you know, big-time profits? Um, use that
+[45:24] instead of my money. Yeah. And also, I
+[45:26] mean, the track record of Harvard in
+[45:28] particular has got to be perhaps the
+[45:30] worst of all the universities. It is.
+[45:32] Yeah. I mean uh in in fiat medicine in
+[45:34] fiat food the book that uh Matthew wrote
+[45:37] and I published at the safe house in
+[45:39] that book there's an extensive chapter
+[45:41] on how Harvard and also Nina Tai Schultz
+[45:45] in her book the big fat surprise she
+[45:47] also discusses that in the 19 I think it
+[45:49] was 60s or 70s the sugar industry paid
+[45:53] enormous amounts of money to Harvard and
+[45:55] the Harvard nutrition department
+[45:58] was basically a sugar advertisement. It
+[46:01] was all about how sugar is good for you.
+[46:03] Sugar is a nice snack. Sugar is a good
+[46:05] way to uh um control your hunger. Sugar
+[46:09] is not too bad. And Coca-Cola is fine.
+[46:14] And um I think his name is Frederick
+[46:16] Stair was the uh chairman of the
+[46:18] nutrition department. He made tons of
+[46:20] money. He made tons of money. Died
+[46:22] filthy rich
+[46:23] from getting money from the food
+[46:25] industry. So, if you really look at
+[46:28] their track record, I mean, they've been
+[46:30] promoting all of these horrific diets
+[46:32] because a they're good for the uh
+[46:35] industrial food producers and b and
+[46:37] perhaps more importantly, they're good
+[46:39] for the medical industry because the
+[46:40] medical industry makes a lot of money
+[46:41] from you getting sick. So it's it's it's
+[46:45] really the the the
+[46:46] the pernicious thing about government
+[46:49] funding to universities is not so much
+[46:50] the money itself perhaps in as much as
+[46:53] it is the legitimacy that they get from
+[46:56] that government funding that then allows
+[46:58] them to turn around and opine with a lot
+[47:01] of authority about what it is that you
+[47:02] should be eating when in reality you
+[47:04] really shouldn't be eating what they're
+[47:06] saying. They're just doing what their
+[47:08] sponsors want.
+[47:10] Yeah. A amen. Amen. So I I I love that
+[47:14] book, too. So we we we definitely
+[47:16] recommen recommend our members going out
+[47:18] and and getting it because uh it it gets
+[47:20] to the heart of of some of these
+[47:22] perverse incentives that we have within
+[47:25] healthcare. I mean, as you said, you
+[47:27] know, do do does the the medical
+[47:29] industrial complex make more money or
+[47:30] less money if you're sick? Clearly, it
+[47:33] makes it makes more money. And so, you
+[47:36] know, maybe the most perverse incentive
+[47:38] of all is that the people you go to for
+[47:41] care actually make more money when
+[47:43] you're sick. Um, I mean, that's that's a
+[47:46] tragedy from from my perspective. And as
+[47:48] I just mentioned, health insurance over
+[47:51] the intermediate term actually makes
+[47:53] more money if you are sick. Um, you
+[47:56] know, United Healthcare, I think it was
+[47:59] last year or the year before, I think
+[48:01] had three times more diabetics in their
+[48:05] population than in the general
+[48:07] population. And so, what is going on
+[48:09] there? Well, they go in and they, you
+[48:10] know, find people that kind of have
+[48:13] diabetes and they upcode them to having
+[48:16] full-blown diabetes u because they make
+[48:18] more money if you have they get paid
+[48:21] more by the government if you have
+[48:22] diabetes. Um, it is a a completely
+[48:26] perverse system that, you know, we're
+[48:28] trying to upend. The Bitcoin Standard
+[48:29] podcast is brought to you by Coin Kite.
+[48:32] Coin Kite are my favorite makers of
+[48:33] Bitcoin hardware. They produce the
+[48:35] legendary Open Dime, the first Bitcoin
+[48:37] bearer asset, as well as the reliable
+[48:39] cold card hardware wallet, the excellent
+[48:41] stainless steel seed plates for storing
+[48:43] your seed phrases, and the block clock.
+[48:46] Now, Coin Kite have produced the SATS
+[48:48] card, a card the size of a credit card
+[48:51] which can store Bitcoin and works great
+[48:53] as a gift. Coin Kite have just produced
+[48:55] a limited edition gorgeous Bitcoin
+[48:57] standard SATS card which carries the
+[48:59] Bitcoin Standard logo and you can get it
+[49:01] from Coin
+[49:04] Kite.shop/bitcoinstandard. Use the code
+[49:05] Bitcoin Standard to get 5% off your
+[49:08] purchase. This podcast is also brought
+[49:10] to you by the Bitcoin Way, your
+[49:11] professional Bitcoin IT team offering
+[49:14] you personalized, secure and
+[49:16] comprehensive solutions for every step
+[49:18] along your Bitcoin journey. The Bitcoin
+[49:20] way offer live concierge service to
+[49:22] guide you with your Bitcoin cold
+[49:24] storage, running your node, privacy best
+[49:26] practices, inheritance planning,
+[49:28] corporate strategy, and multisig
+[49:31] solutions. They don't touch your coins.
+[49:33] They guide you through the process of
+[49:34] acquiring your coins and securing them.
+[49:37] If you'd like to make your setup safer
+[49:39] and more reliable, book a consult with
+[49:41] them and see what they have to suggest.
+[49:43] If you want to give someone the gift of
+[49:45] Bitcoin, get them this professional
+[49:47] service that will ensure they start off
+[49:49] knowing exactly how to manage their
+[49:51] coins and not lose them. Go to the
+[49:54] bitcoinway.com and start bitcoining more
+[49:56] confidently. And speaking of uh
+[49:59] Matthew's book, Fiat Medicine, Fiat
+[50:01] food, uh this may be the first time that
+[50:03] we publicly talk about this, but we're
+[50:05] going to be publishing at the safe
+[50:06] house. We're going to be publishing
+[50:07] another book by Matthew and by you,
+[50:09] Andy, and also with a chapter by my
+[50:12] brother Ahmed Amulus, who's also been on
+[50:14] the podcast. And that book is going to
+[50:16] be called Fiat Medicine. And it's going
+[50:18] to be applying the same framework of
+[50:20] fiat food and the fiat standard to try
+[50:22] and understand how medicine has been
+[50:25] dysfunctional. Dr. Mary Bowen is going
+[50:27] to be writing the forward for that book.
+[50:29] I'm really looking forward to it. I
+[50:31] haven't, uh, read the manuscript yet,
+[50:33] but Matthew's been updating me about it.
+[50:35] So, uh, can you tell us a little bit of
+[50:37] a sneak preview into, uh, what this book
+[50:39] is about?
+[50:41] Yeah, I mean like like Matthew did with
+[50:42] Fiat food, he takes us from the
+[50:44] beginning and and walks us through how
+[50:47] did we get to this place of our medical
+[50:49] industrial complex profiteering off of
+[50:52] our our sickness, you know, how how it's
+[50:54] the sick care industry as opposed to the
+[50:57] healthcare industry. So he walks us
+[50:59] through till present day. Um I get a
+[51:01] little bit of time to talk about where
+[51:03] we're at in present day and what it
+[51:05] could look like going forward. What if
+[51:08] we decentralized all of medicine as
+[51:10] opposed to having these centralized
+[51:12] profitering middlemen in the middle of
+[51:14] it? So what does that look look like?
+[51:16] And then your brother takes, you know,
+[51:18] some time to talk about it from a a
+[51:20] doctor's perspective since he is a a
+[51:22] doctor and what he is seeing in, you
+[51:24] know, the medical industrial complex and
+[51:26] and what the medical industrial complex
+[51:27] actually does to our our health and to
+[51:30] the patients in this country. And so I
+[51:33] think it'll be a really interesting kind
+[51:35] of comprehensive look at, you know,
+[51:37] where where we were, where we're at, and
+[51:38] where we should be headed. And so, you
+[51:40] know, this is not just complaining about
+[51:42] the medical industrial complex. We
+[51:44] actually throw out real solutions, we
+[51:48] think, to the problem that are scalable
+[51:50] that can be used by everybody in the
+[51:52] United States. And so, I think it's
+[51:54] going to be I don't think there's
+[51:55] anything else out there like it. There's
+[51:56] a lot of books, you know, complaining
+[51:58] about all the issues. there's very few
+[51:59] books out there that actually talk about
+[52:00] the solutions and so we're excited to to
+[52:03] get that published, you know, here in in
+[52:06] the next few months. So, we're excited
+[52:07] about that. Yeah, I think this is a very
+[52:10] powerful point and it's true with the
+[52:12] Bitcoin standard, the fiat standard, and
+[52:14] with fiat food. And I think it'll be the
+[52:16] same with fiat medicine as books, which
+[52:18] is that there are a lot of books out
+[52:19] there talking about the problems in
+[52:21] economics or in medicine or in food. and
+[52:24] that a lot of people who do a really
+[52:27] good job of identifying the symptoms of
+[52:29] the problem. But I really think you
+[52:31] can't really grasp the cause of the
+[52:33] problem if you don't understand the
+[52:35] problem of money. I think money is just
+[52:38] such a pervasive thing. It's one half of
+[52:40] every transaction. It pervades every
+[52:42] aspect of our lives. It pervades your
+[52:45] decisions about your future. It pervades
+[52:48] how you purchase things. It's
+[52:51] everywhere. And the fact the government
+[52:53] has a magic printer that allows it to
+[52:54] print more of that money. Yeah. Amen. Is
+[52:58] an enormous enormous factor. And once
+[53:00] you start the thing is I I mean it's uh
+[53:03] my sort of secret sauce to my success as
+[53:06] a writer is precisely that I've just
+[53:09] identified this massive massive massive
+[53:12] uh open field of inquiry where academics
+[53:16] don't go because academics are not
+[53:19] encouraged or I should say they are
+[53:22] actively discouraged from being uh too
+[53:26] critical of inflation on being too
+[53:28] critical of money printing. Ultimately
+[53:30] academics at universities get paid from
+[53:32] the money printer as we were saying you
+[53:34] know the universities get a lot of
+[53:36] funding from the government. Your
+[53:38] ability to make it as an academic is
+[53:41] entire well not entirely but to a very
+[53:44] long very large extent dependent on your
+[53:47] ability to tow the line of the people
+[53:49] who control the money printer. And so
+[53:50] the best way to get on their bad side is
+[53:54] to find ways for not printing money. And
+[53:56] so people who are writing about health,
+[54:00] medicine, economics, whatever it is, as
+[54:02] long as they stay away from mentioning
+[54:04] the money printing, they can get their
+[54:07] career ahead. So you can go along and
+[54:10] talk about the evils of the um insurance
+[54:13] companies, the evils of uh the big food
+[54:15] industry, the evils of this and that,
+[54:17] it's all fine. But once you start
+[54:19] talking about the evils of the money
+[54:21] printing, then it's it's it's not easy
+[54:24] to make your career. whether it's in
+[54:26] economics or in anything else. And so
+[54:29] once you have Bitcoin like I do and you
+[54:32] decide to leave the academic field, well
+[54:35] then there's just an enormous enormous
+[54:37] open field of uh questions to be asked
+[54:40] and all you got to do is just think, all
+[54:42] right, well somebody's got a money
+[54:43] printer and everybody else is having
+[54:46] their money devalued. How do those
+[54:48] things affect whatever question I'm
+[54:50] looking at? And it could be anything.
+[54:53] anything is going to be affected by this
+[54:54] enormous dynamic that people are
+[54:56] constantly losing purchasing power and
+[54:58] that purchasing power is going to a
+[55:00] government that can hand out that money
+[55:03] without facing a market test. So then
+[55:05] apply that to anything, apply that to
+[55:06] the food industry, apply that to health
+[55:09] and you start seeing incredible
+[55:11] explanatory power that allows you to
+[55:13] really make sense of how the world works
+[55:15] a lot better. And I think this is really
+[55:17] uh this is the secret sauce to what I'm
+[55:20] doing with the safe house is just trying
+[55:22] to publish more and more books that
+[55:23] start from this premise. And I think
+[55:26] it's it's it's it's a very powerful
+[55:28] thing. So I'm really looking forward to
+[55:29] reading this book. Yeah. I mean what you
+[55:32] guys are doing at Safe House is a is is
+[55:34] for sure a societal good because so many
+[55:36] people are just oblivious to the impact
+[55:39] that the money printer has on everything
+[55:41] they do. Not just the value of your your
+[55:44] dollar. Um, it's the value of your
+[55:46] healthcare, too. And so, it's pervasive
+[55:49] in in almost everything that we do in
+[55:51] our life is is is dictated by the money
+[55:55] printer in in Washington DC, which is
+[55:57] just, you know, the epitome of
+[55:59] centralization. I mean, they have power
+[56:01] over so many things that we do in our
+[56:03] life. And if we can alleviate ourselves
+[56:05] from that, if we can get off the fiat
+[56:07] standard um and into Bitcoin, um I think
+[56:10] that would just be a tremendous value to
+[56:12] humanity. And so, you know, while I want
+[56:14] to fix healthcare, I also think that
+[56:16] that's a really interesting way of of
+[56:18] helping to fix our monetary system, too,
+[56:20] by taking healthcare off the fiat
+[56:22] standard and putting it on the Bitcoin
+[56:24] standard. And so, that's ultimately my
+[56:26] my vision. And maybe I'm taking on too
+[56:28] much, you know, at once, but I feel
+[56:30] like, man, if you can get the monetary
+[56:31] system figured out and the health care
+[56:33] system figured out, like, that's a a
+[56:34] pretty big, you know, big hairy
+[56:37] audacious goal. Um, and and that's what
+[56:39] we're we're we're firing on. Yeah. And I
+[56:42] mean, let's face it, if you're eating
+[56:44] meat and stacking SATs, you have figured
+[56:46] it out. It's uh it's it's it's not a
+[56:49] university or school exam where you need
+[56:51] to write the perfect essay and you don't
+[56:53] need to
+[56:54] uh life's real test is in the actual way
+[57:00] in which you live your life. So, the
+[57:01] correct answer is to stack sats and eat
+[57:04] meat. If you figure that out, you pass.
+[57:07] Yeah. I mean our it's interesting
+[57:09] because our largest contingent of people
+[57:10] within crowd health are our Bitcoiners.
+[57:12] The second largest are carnivores and
+[57:15] you know there's overlap there clearly u
+[57:17] but we have a huge group of carnivores
+[57:18] in the community. And then we have a
+[57:21] huge group of people who just don't want
+[57:23] to to participate in western medicine.
+[57:26] So they're they're looking for holistic
+[57:28] and naturopathic and integrative docs.
+[57:30] You know we have a bunch of people who
+[57:32] are who are going to you know Chinese
+[57:34] medicine docs. um you know all kinds of
+[57:36] docs that are kind of outside of the
+[57:38] medical industrial complex because they
+[57:40] don't what the way our system is
+[57:42] currently set up again I think this is
+[57:43] driven by the the money printer is that
+[57:46] doctors only have something like 8
+[57:48] minutes to talk to you when you go into
+[57:50] the primary care doc because their
+[57:52] reimbursement rates have gone down
+[57:53] significantly the value of that not only
+[57:56] is their rate their literal rate uh gone
+[57:58] down but it's gotten in you know deflate
+[58:01] or inflated right the dollar has gotten
+[58:03] inflated and so the money they're being
+[58:05] paid is actually less than the actual
+[58:07] discount that they got from last year.
+[58:08] My rates's gone down 5%. But in reality,
+[58:10] my rate has really gone down probably 10
+[58:12] to 15%. And so they just don't have
+[58:14] enough time to spend with you to talk
+[58:16] about core issues. And so what
+[58:19] happens? They they have to give you a
+[58:21] drug. Like they have to alleviate your
+[58:23] symptoms as opposed to getting to the
+[58:24] root cause of what's going on in your
+[58:26] life. And so again, the money printer is
+[58:30] is dictating so much of our life, even
+[58:32] down to our primary care doc visit where
+[58:35] they only have eight minutes now because
+[58:36] they can't afford to spend more time
+[58:38] with you than that. And that impacts our
+[58:40] healthcare because I can't tell him
+[58:42] about what I'm eating, how much I'm
+[58:44] working out, how I'm sleeping, you know,
+[58:46] those types of things. They just don't
+[58:47] have time. they have to give you a drug
+[58:50] to alleviate the symptom and it makes
+[58:52] you happy but it's a short-term again
+[58:55] high time preference fix as opposing to
+[58:57] go root cause low time preference so
+[59:00] that you don't have these recurring
+[59:01] health issues over the next decade. Um
+[59:04] you know that's the tragedy of our our
+[59:06] system that is rooted in in money
+[59:08] printing. Yeah. And of course another
+[59:10] part of this is that they're
+[59:12] constantly they have to give you the
+[59:14] standard of care. They have to tell you
+[59:16] what they are told by their medical uh
+[59:19] licensing bodies, by their medical
+[59:21] school. There's a standard of care and
+[59:23] if you don't stick to that and anything
+[59:25] bad happens to the patient, even though
+[59:27] it might not be because of what you did,
+[59:30] you are liable to being sued and that
+[59:31] could destroy your life. So the whole
+[59:34] centralization of it leads to every
+[59:37] doctor essentially being a prescription
+[59:40] bot. I think that's really I read this
+[59:42] somewhere on Twitter and I think it's a
+[59:43] it's it's the best way of describing
+[59:45] doctors and I think and and this was a
+[59:48] this was a term that was more apt before
+[59:51] chat GPT and the AI revolution because
+[59:54] now bots are a lot more advanced but
+[59:57] this was I think you know modern
+[60:00] medicine produces doctors that are bots
+[60:03] by 2010 technology standard wherein they
+[60:07] you give them three four symptoms and
+[60:09] they run them through their training and
+[60:13] you know this symptom means then we
+[60:15] narrow it down to one of those four
+[60:17] things. You add another symptom, then we
+[60:18] narrow it down to two. Then you add
+[60:20] another symptom, then we narrow it down
+[60:22] to this and therefore we give you that
+[60:25] drug. And it's it's such a shame because
+[60:28] these are some of the smartest, hardest
+[60:29] working, most um focused and dedicated
+[60:32] people. you know, you don't make it out
+[60:34] of medical school unless you're
+[60:36] seriously intelligent and um seriously
+[60:39] capable of spending a lot of time
+[60:41] working on something. Takes a lot of
+[60:43] discipline and focus to be able to get
+[60:45] to medical school and yet everything
+[60:46] that they do is just follow very simple
+[60:50] decision tree. You know, if all right,
+[60:51] his back hurts, so therefore it's got to
+[60:53] be one of those things. So you ask this
+[60:55] question and then based on the answer
+[60:57] you go do this and and it's just a very
+[60:59] simple decision tree that any
+[61:00] 15-year-old could do if you just give
+[61:01] them the decision tree but they have to
+[61:04] go through eight years of medicine
+[61:05] school medical school well undergraduate
+[61:07] and then medical school and then
+[61:09] training get into mountains of debt and
+[61:11] then become completely beholden to the
+[61:12] system because they're so invested in
+[61:15] it. they've they've gotten into so much
+[61:18] debt and they need the system in order
+[61:20] to pay them off and that's why they end
+[61:23] up with this situation where you don't
+[61:25] have this personal relationship between
+[61:26] a doctor and a patient and the doctor is
+[61:28] not allowed almost to think. The doctor
+[61:30] is not able to look at their patients
+[61:32] and think about what they're doing. I've
+[61:33] heard this from so many people. They're
+[61:36] they'll go to their doctor and they'll
+[61:39] they'll get a checkup and the doctor
+[61:40] will look at results and says, "Wow,
+[61:42] that's great. um you know, your
+[61:43] cholesterol is looking a lot better,
+[61:45] your this and that. It's all looking so
+[61:48] much better. So, clearly you've been
+[61:49] doing well. Um what have you been uh
+[61:51] doing different? And the patient will
+[61:53] say, "Well, actually, I've started
+[61:54] eating low carb or I've started eating
+[61:56] carnivore. I've started eating keto."
+[61:58] And the doctor says, "Wow, that's weird.
+[61:59] You got to be careful. It's bad for your
+[62:01] kidneys or it's bad for your lymph nodes
+[62:03] or it's bad for this or this or that or
+[62:04] it causes colon cancer." And then zero
+[62:07] curiosity. zero curiosity to think why
+[62:10] is it that this guy doing the exact
+[62:11] opposite of what I told him to do is
+[62:14] achieving the results that what I told
+[62:16] him to do would never have achieved and
+[62:18] so doctors will be like no this is
+[62:20] insane you can't you know you use you're
+[62:22] a 55year-old and you used to be
+[62:24] overweight and you had all these things
+[62:26] and now you've got the blood work of a
+[62:28] 40year-old that makes no sense you'd
+[62:30] think they'd be curious to try and look
+[62:32] into this more but they can't afford to
+[62:34] be they can't just go and tell the next
+[62:36] patient to do what the first patient did
+[62:38] they don't have this ability of learning
+[62:39] and that's the only way thing that makes
+[62:41] a doctor. I don't care how much time you
+[62:43] spend in medical school. I don't care
+[62:45] how much uh you read. I don't care how
+[62:47] many textbooks you swallow. It doesn't
+[62:50] matter. You need to be interacting with
+[62:51] human beings and you need to be building
+[62:53] your understanding from your real
+[62:55] interaction based on your experience.
+[62:57] You told this guy to do this and he got
+[62:58] better. You told this guy to do that, he
+[63:00] got worse. So from now on I'm going to
+[63:02] be recommending this thing. If you don't
+[63:04] have that mental process, then you're
+[63:06] essentially useless. You're just a
+[63:08] you're just a very simple decision tree.
+[63:11] Yeah. You're you're you start to be a
+[63:12] doer instead of a thinker. And we have
+[63:14] some of the greatest thinkers in the
+[63:15] world. You know, your brother included
+[63:17] who are doctors who like we need to give
+[63:20] them the the autonomy to actually think
+[63:22] and use their brains as opposed to this
+[63:24] decision tree. And unfortunately the
+[63:26] decision tree is created by
+[63:28] organizations these accreditation
+[63:30] organizations who are typically bought
+[63:33] out by pharmaceutical and big food to
+[63:36] make the decision tree you know more
+[63:39] profitable for for them. you know, um,
+[63:41] you know, I saw something the other day
+[63:43] where the American Diabetes Association
+[63:44] was putting recipes on their website and
+[63:47] these recipes for people with diabetes
+[63:49] had something like 60 or 70 gram of
+[63:53] carbohydrates in them. And I'm sitting
+[63:55] here being like, what the hell are we
+[63:57] doing feeding these people with
+[63:59] diabetes, you know, 60 or 70 grams of
+[64:01] carbohydrates with each meal? I mean,
+[64:03] it's it's it's ridiculous. And the only
+[64:05] thing it's going to do is ensure that
+[64:08] they stay on insulin, ensure that the
+[64:11] big insulin producers continue to make
+[64:13] money. Um, and you know, shockingly, you
+[64:16] know, a lot of these pharmaceutical
+[64:18] companies are funding these
+[64:19] organizations. So, they are the ones in
+[64:21] essence creating the standard of care to
+[64:23] ensure that their product continues to
+[64:25] be used. So, you know, and they got a
+[64:27] lot more money than anybody else does.
+[64:29] You know, unfortunately, the American
+[64:30] Cattleman's Association doesn't have a
+[64:32] whole lot of money to to lobby, you
+[64:34] know, these big big organizations or
+[64:36] even Congress to change change what's
+[64:38] going on here. And so, the one with the
+[64:40] money wins. Again, total direct, you
+[64:43] know, impact from the money printer. And
+[64:45] so, we are just um it's it's perverse
+[64:48] throughout our throughout our system.
+[64:50] So, you know, we try to get people to
+[64:52] independent docs. independent docs are
+[64:54] willing to go against the standard of
+[64:56] care more than the big health system
+[64:58] docs. Unfortunately, the insurance
+[65:01] companies are buying the doctors. So,
+[65:03] the largest owner of doctors right now
+[65:04] in the United States is United
+[65:06] Healthcare. There are a million doctors
+[65:07] in the United States, United Healthcare
+[65:09] owns 100,000 of them. So, 10% of them
+[65:12] are owned by one company. Um and so with
+[65:14] consider continued consolidation you
+[65:17] know lots of liquidity you know
+[65:19] historically very low interest rates
+[65:21] these have all got
+[65:22] consolidated and so you know the
+[65:24] centralization continues so my other
+[65:27] people who are listening you know at
+[65:28] least in the United States I don't know
+[65:29] how this applies overseas but like go
+[65:31] find independent doctors as opposed to
+[65:34] doctors associated with big hospital
+[65:36] systems they much more likely to have
+[65:40] your worldview than um the worldview of
+[65:43] kind of the cultural norm. So, um,
+[65:45] highly recommend finding an independent
+[65:47] doctor in your loca in your area,
+[65:49] especially cardiology, especially some
+[65:51] of these specialists. They are a little
+[65:53] bit more freethinking than your big
+[65:54] hospital system um doctors,
+[65:57] unfortunately.
+[65:59] Yeah, absolutely. I think this is uh
+[66:02] being able to just develop a personal
+[66:03] relationship with a doctor and being
+[66:05] able to see that they are an intelligent
+[66:07] person who thinks is, I think, really
+[66:10] important. And you might think that
+[66:12] they're not out there, but they are.
+[66:14] There are many of those people. And the
+[66:16] beautiful thing is that you can find
+[66:17] these people online now. You don't have
+[66:19] to see them. You know, with a video
+[66:20] camera, they can uh the with a video
+[66:24] call. They can get quite a bit of um
+[66:28] what a doctor could get if they were
+[66:30] seeing you in person. They can
+[66:32] commission the studies uh the tests that
+[66:34] you need and get the results. So you can
+[66:36] get quite a bit from uh tele medicine
+[66:39] just talking to intelligent doctors. I
+[66:42] think I highly recommend that. And I'm
+[66:43] going to go ahead and shill my brother
+[66:45] as well, Ahmed Almus. He's uh doing
+[66:47] this. And so yeah, if you're looking for
+[66:49] a doctor who's not into the fiat world,
+[66:52] check out my brother Ahmed Amus. uh he
+[66:55] he does te consulting which I think is
+[66:58] really good because I mean he can help a
+[67:01] lot of people who are just lost who have
+[67:02] no idea about any of the things that we
+[67:04] take for granted and can't really take
+[67:06] them seriously unless they come uh from
+[67:08] a doctor who knows what he's talking
+[67:10] about who can go through all of the
+[67:12] things that your fiat doctor says and
+[67:14] explain to you why your fiat doctor is
+[67:16] wrong explain to you the incentives for
+[67:19] him to be wrong explain to you why the
+[67:22] way in which he's wrong is hurting you.
+[67:24] So, I I very much recommend that. And
+[67:26] yeah, so when you combine that, take
+[67:30] care of your own health, find a doctor
+[67:31] that you can actually talk to that
+[67:32] understands how things are going, and
+[67:35] then get out of the insurance scam. I
+[67:37] mean, that's just such an enormous
+[67:39] improvement in your health and uh in
+[67:42] your finances as well. It it's it's
+[67:44] going to really make a difference, I
+[67:46] think.
+[67:48] Hey, man. You know, like I said, we're
+[67:49] we're like 50% less. If you if you exit
+[67:52] the system, we're about 50% less. We had
+[67:54] a guy the other day, he was paying
+[67:56] $3,000 a month for him and his wife and
+[67:58] his two kids. And with Crowd Health, it
+[68:00] was something like 640 a month. So they
+[68:02] they saved what is that 80% or something
+[68:05] like that um by by switching over. And
+[68:07] so, you know, it reestablishes the
+[68:09] doctor patient relationship. You're not
+[68:11] subject to any of these perverse
+[68:13] incentives. It's just a much better way
+[68:15] of of doing things. So, um, you know,
+[68:17] we'd love for any Bitcoiners out there
+[68:19] especially to come and and join us.
+[68:21] You'd be an awesome awesome ad to the to
+[68:24] the crowd. Yeah. And one interesting uh
+[68:27] point data point I saw you mention is
+[68:30] that something like 550,000 Americans
+[68:33] declare medical bankruptcy each year,
+[68:35] which is just astounding. Half a million
+[68:37] people and 80% of them have health
+[68:40] insurance.
+[68:43] That's right. I mean, we we we've got
+[68:45] hundreds of thousands of families going
+[68:46] bankrupt every year due to a medical
+[68:49] event even though they have health
+[68:51] insurance. So, the whole point of health
+[68:52] insurance or insurance in general is to
+[68:55] not put you in financial distress in the
+[68:57] case of something big happening. And so,
+[68:58] we have hundreds of thousands of
+[69:00] families going bankrupt when something
+[69:01] big happens even though they have health
+[69:03] insurance. And so, the question is is
+[69:04] why why does that happen? One is they
+[69:07] have huge deductibles. So you go on
+[69:09] these, you know, Affordable Care Act,
+[69:11] Obamacare plans, and these do
+[69:13] deductibles are something like, you
+[69:14] know, 10, 12,
+[69:16] $14,000. You know, I looked just because
+[69:18] I was curious for my family what my rate
+[69:20] would be, and I think it was 13 or
+[69:22] $1,400 a year and or a month and then it
+[69:25] was 14 or $16,000 u depending upon what
+[69:28] plan I chose um for a deductible, which
+[69:32] means that, you know, I got to pay the
+[69:34] first $14,000 before the health
+[69:36] insurance plan pays a dime. And so if
+[69:39] you include the premiums every month,
+[69:40] I'm paying the first
+[69:42] $30,000 before our health insurance, you
+[69:44] know, pays the dime. That just doesn't
+[69:46] make sense for me and my family. And for
+[69:48] most of the people watching this, it
+[69:49] doesn't make sense for you either. And
+[69:51] so if you don't have $14,000 on hand,
+[69:55] um, and you have a big health event,
+[69:57] then you're toast. Um, and you have to
+[70:00] go into bankruptcy. I mean, that's your
+[70:02] only other option, unfortunately. So
+[70:04] that's the first reason. The second
+[70:05] reason is, and I didn't really
+[70:06] understand this before I had my little
+[70:08] debacle with my health insurance plan,
+[70:10] is 20% of bills are denied. One in five.
+[70:14] So, you got a one in five chance of you
+[70:16] have something big happening and the
+[70:18] health insurance plan denies it. So,
+[70:21] they think it's a guarantee that you're
+[70:22] going to get paid when you have a claim,
+[70:24] but that's just not the case. as we have
+[70:25] seen um you know we've we've seen you
+[70:29] know unfortunately this Luigi Manion
+[70:31] thing you know killing the the CEO of
+[70:33] United Healthcare back in December was a
+[70:36] reflection of this where he had you know
+[70:38] huge bills and United was either denying
+[70:40] them or they were delaying them which
+[70:42] means when you submit a bill they'll say
+[70:45] I need more information before I'll
+[70:46] approve it I need more information I
+[70:48] need more information and they can
+[70:49] string this thing out over a long period
+[70:51] of time and you have no recourse like
+[70:54] your health is is in the hands of these
+[70:55] health insurance companies and if they
+[70:57] don't take care of you then bankruptcy
+[70:59] is is unfortunately the only answer for
+[71:01] a lot of these families. So, you know,
+[71:04] we have 10,000 members. We've served
+[71:06] almost 15,000 members over the last four
+[71:08] years. And we've had zero bankruptcies
+[71:10] within our our community over over a
+[71:12] healthcare expense. And so, we're pretty
+[71:15] pretty happy with that with that
+[71:16] outcome. And we've built our system so
+[71:18] that anybody can can afford this. Um, if
+[71:21] you have a big health event, we ask you
+[71:24] to pay the first 500 bucks. Um, so if
+[71:26] it's a cancer case and you have 50
+[71:29] doctor visits and 20 imaging and a
+[71:31] prescription and surgeries and all these
+[71:33] things, that's one health event. So you
+[71:36] got to pay the first 500 bucks of that.
+[71:38] The rest of it is submitted to
+[71:39] community. From our perspective, anybody
+[71:41] can come up with 500 bucks. Like anybody
+[71:43] in this, you know, country can come up
+[71:45] with 500 bucks to figure out how to pay
+[71:47] for that. and that keeps people from
+[71:48] going into financial distress if if
+[71:50] something really really big happens to
+[71:52] them. So, you know, it's it's a tragedy
+[71:54] that people are are going bankrupt due
+[71:56] to to a medical expense. And we we're
+[71:58] solving that. Yeah. And apparently
+[72:00] there's there's been a huge lawsuit
+[72:03] against United Healthcare because they
+[72:05] used AI to deny 90% of people the claims
+[72:09] which 90% of them would have should have
+[72:14] been um paid as part of the um as part
+[72:18] of the policies of their company, but
+[72:20] they used some chat GPT thing and then
+[72:24] whoops, they took away your money and
+[72:26] now you're bankrupt. Yeah. And it's
+[72:28] actually even worse. Um, you know, what
+[72:30] some of these health insurance plans do
+[72:32] is, as I mentioned earlier, if you have
+[72:34] $1,000 of premiums and you're at, so
+[72:36] that that allocates kind of $850 to your
+[72:38] medical care and $150 for their profit
+[72:41] and administrative costs. If that $850
+[72:44] starts creeping up into $860 or $870 or
+[72:46] $880, which means the medical expenses
+[72:48] are higher than what they think, what
+[72:50] they'll do is they'll dial up the
+[72:52] difficulty of getting these these bills
+[72:55] authorized. So there there's literally a
+[72:58] dial or they're like make it harder or
+[72:59] make it easier depending upon how's it
+[73:01] how it's going. And so if you think
+[73:03] about it, a lot of times the insurance
+[73:04] company has to pre-authorize your
+[73:06] procedure. So if you want to go get a
+[73:08] knee replacement, it's a big procedure.
+[73:10] The doctor has to fill out all this
+[73:11] paperwork, has to submit it to the
+[73:12] health plan, the health plan has to
+[73:14] approve it before you can actually go
+[73:15] and get your your knee replaced or
+[73:17] whatever the big surgery is. And if they
+[73:19] dial up the difficulty to do that, that
+[73:21] means they're going to have less knee
+[73:22] surgeries, which means that more money
+[73:24] is flowing to the bottom line. And you
+[73:27] know, again, it's just this ridiculous
+[73:29] amount of perverse incentives within the
+[73:31] system where they're actively working
+[73:32] against you. And it's like you you get
+[73:35] double screwed. You know, in year,
+[73:37] they'll actually work against you to get
+[73:39] your claims uh approved because they
+[73:41] they want to maximize their their 15%
+[73:44] that they have to allocate towards
+[73:45] profit. Over the long term, they
+[73:47] actually want to see your expenses go up
+[73:49] because they can actually charge you
+[73:51] more for that and they can make that 15%
+[73:53] as a dollar amount bigger. And so you're
+[73:55] screwed in the short term and you're
+[73:56] screwed in the long term. And so all the
+[73:58] incentives are are stacked up against
+[74:00] you. You know, I think it's interesting
+[74:02] when people have a big health care
+[74:03] expense, what do they do? They say,
+[74:04] "Well, now I have to go fight with my
+[74:06] health insurance company to get these
+[74:08] bills paid." What we want to do is like,
+[74:11] "Hey, we want we I'm going to fight I'm
+[74:13] going to fight with, you know, as a as a
+[74:15] partner against the medical industrial
+[74:17] complex with Crowd Health and the and
+[74:19] the member to get their bills paid."
+[74:21] like we're an ally with you as opposed
+[74:23] to your enemy and the way the current
+[74:25] system is is set up. And so I think
+[74:27] that's a huge differentiator between,
+[74:29] you know, how we operate and how health
+[74:30] insurance. We have zero incentive to get
+[74:33] a bill denied. Um we have all the
+[74:36] incentive in the world. I mean, think
+[74:37] about it. If one of our Bitcoin members
+[74:39] got their bill denied, what would they
+[74:40] do? They would go on Twitter or X and
+[74:43] they would say, "Crowd Health denied my
+[74:45] bill." You know, that would be a
+[74:46] marketing disaster, right? There's no
+[74:48] incentive for us to do that. we're gonna
+[74:50] fight with you to get the bills paid as
+[74:52] opposed to against you. So once you get
+[74:54] to you you you preach this all day long,
+[74:56] incentives are everything. So we have
+[74:58] every incentive in the world to get you
+[75:00] to help you get your bills paid. And
+[75:02] that's why I think you know on Trust
+[75:04] Pilot we're 4.8 and I think the other
+[75:06] health insurance plans are somewhere
+[75:07] between one and 1.3 out of five. So
+[75:10] that's I think a big differentiator for
+[75:12] us. Wow. Yeah. Well, that's fantastic,
+[75:16] man. Wonderful to hear. All right.
+[75:18] Anything else you want to tell us about
+[75:19] what's coming up for Crowd Health?
+[75:23] Man, we we've got uh a catastrophic plan
+[75:26] that we're going to be launching here in
+[75:27] the next couple of weeks. So, instead of
+[75:29] that $500 initial commitment, we ask you
+[75:32] to pay the first $15,000. And this is
+[75:35] basically for people who are like,
+[75:36] "Look, I just want help with the big
+[75:38] stuff. I can take care of all the little
+[75:40] stuff. Don't worry about the little
+[75:41] stuff. I want to just need some help
+[75:43] with the big stuff." And so, um, we're
+[75:45] calling that crowd health black swan for
+[75:47] those black swan events, um, that happen
+[75:49] in in life. And so, for people who have,
+[75:52] you know, some some, uh, Bitcoin stacked
+[75:55] or some money in the bank and and want a
+[75:57] significantly lower price for Crowd
+[75:59] Health, then we're going to be offering
+[76:01] that in the next couple of weeks, which
+[76:02] we're excited about. Um, and then keep a
+[76:05] lookout for, you know, some really cool
+[76:06] stuff over the next quarter, which we'll
+[76:08] we'll talk about more. Follow us on on X
+[76:10] at joincrowalth.com. you'll always have
+[76:12] the latest and greatest with what's
+[76:13] going on with us. Fantastic. Andy, thank
+[76:17] you so much for joining us and uh really
+[76:18] best of luck. Keep um keep growing and
+[76:21] keep kicking the insurance company's
+[76:22] asses. Thanks, man. Hey, anybody who
+[76:25] wants to sign up, join crowdhealth.com,
+[76:27] use code safe um and you get 99 bucks
+[76:30] for the first three months. You know,
+[76:31] it's 99 bucks. If you want to try it out
+[76:33] to see how it works, you know, we think
+[76:34] you'll like it. That's great. If you
+[76:36] don't, you can go elsewhere. So, we
+[76:38] don't have any open enrollments or any,
+[76:39] you know, shenanigans like that. You can
+[76:41] start whenever you want, you can end
+[76:42] whenever you want. So, make sure you use
+[76:44] the code safe um for that that discount
+[76:47] for the first three months. Fantastic.
+[76:49] Thanks so much, Andy. Thanks, brother.
+[76:52] Cheers.
+[76:54] [Music]
+[77:10] [Music]

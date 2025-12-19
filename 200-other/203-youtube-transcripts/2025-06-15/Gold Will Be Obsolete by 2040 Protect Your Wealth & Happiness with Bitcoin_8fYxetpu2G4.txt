@@ -1,0 +1,1543 @@
+Title: Gold Will Be Obsolete by 2040: Protect Your Wealth & Happiness with Bitcoin
+Video ID: 8fYxetpu2G4
+URL: https://www.youtube.com/watch?v=8fYxetpu2G4
+Date Saved: 2025-06-15 11:36:55
+--------------------------------------------------
+
+[00:00] Bitcoin is much more optimistic and
+[00:02] hopeful because, you know, in the
+[00:03] future, I I think we all still benefit
+[00:05] from having this technology. You know,
+[00:06] if we change how we use it, can be used
+[00:09] for to be much more productive and make
+[00:11] us happier and more efficient. And
+[00:13] Bitcoin has a role in that version of
+[00:16] the future. And so, gold doesn't.
+[00:18] There's a bit of ego involved with
+[00:21] shaking out someone's pre-existing
+[00:23] beliefs. get them to admit that the
+[00:25] thing that they've been doing their
+[00:26] whole lives or that they're so
+[00:27] accustomed to is wrong is very very
+[00:30] difficult. We have the opportunity to
+[00:31] dive further and further in and help
+[00:33] them gain knowledge in in the nuanced
+[00:35] areas again of sending and receiving
+[00:37] Bitcoin, right? But then how do I manage
+[00:39] my UTXOs if I'm going to worry about
+[00:42] privacy or worry about fees in the
+[00:43] future? I am never going to just send
+[00:46] someone gold or never going to spend my
+[00:49] gold or if it ever gets to the point
+[00:51] that I need to spend my gold, things
+[00:52] will be so bad that I'll be better off
+[00:54] with lead than with gold, right? I'll be
+[00:56] better off with a gun and some bullets
+[00:57] than with a pile of of yellow shiny
+[00:59] [Music]
+[01:03] rocks. Before we get started with the
+[01:05] topics, uh give us some some small
+[01:07] background of of who you are and then
+[01:09] why you're excited about Bitcoin. Yeah,
+[01:11] sure thing. So my background was in
+[01:15] banking and wealth management and
+[01:17] management consulting. I worked on Bay
+[01:20] Street which is Canada's Wall Street for
+[01:23] uh a little over 10 years before finding
+[01:26] Bitcoin we could call it for the second
+[01:28] time. Uh because I encountered it a
+[01:31] little earlier in my career in 2010, but
+[01:33] I didn't end up really buying any or
+[01:35] doing anything with it. But I I sort of
+[01:38] started to understand some of the
+[01:39] principles and was interested in it. Um
+[01:42] but towards the end of my of that part
+[01:45] of my career my of my corporate career
+[01:48] uh I discovered Bitcoin and started
+[01:50] putting together the pieces of you know
+[01:53] philosophy and technology and economics
+[01:55] and it was all making sense for me and
+[01:56] basically in 20 at the end of 2017 or
+[01:59] early 2018 dove in you know
+[02:03] uh just full full steam ahead into
+[02:05] Bitcoin uh I wound up writing a book
+[02:07] about Bitcoin in 2020 Magic Internet
+[02:10] Money a book about Bitcoin
+[02:12] and I've been advocating for it ever
+[02:14] since. Really, really interesting. What
+[02:17] is the the book about? Is it kind of
+[02:19] like an introduction to Bitcoin? Yeah,
+[02:22] it's meant to take you into the shallow
+[02:24] end of the Bitcoin pool, get you used to
+[02:27] the temperature of the water. I'm trying
+[02:29] to introduce you to a variety of
+[02:30] different topics around Bitcoin. So, you
+[02:33] know, the origin story of Bitcoin,
+[02:35] learning about money. I mean, the back
+[02:37] of the book says, "What is money?" just
+[02:39] in big letters. That's the only thing I
+[02:41] have on the back of the book. Um, so
+[02:43] learning about money, economics, but
+[02:45] also governance, freedom, why Bitcoin is
+[02:48] resilient, why its scarcity is different
+[02:51] from other sort of forms of scarcity if
+[02:54] you want to think about it that way or
+[02:55] why its scarcity is truly absolute. Um,
+[02:58] I take a look at some of the drawbacks
+[03:00] or potential drawbacks of Bitcoin. Uh,
+[03:02] and then I basically the idea is every
+[03:04] page is its own sort of short essay. So
+[03:08] you just read it in little chunks and
+[03:10] you're just building your knowledge
+[03:12] block by block as it were until you can
+[03:14] stand back and perhaps have a a clearer
+[03:17] picture of what Bitcoin is and then from
+[03:19] that you can go explore whichever area
+[03:21] of interest is uh you know most
+[03:22] appealing to you. Why did you choose u
+[03:25] magic internet money as as the kind of
+[03:27] catchphrase? Um well magic internet
+[03:30] money originated in Reddit. that was the
+[03:33] there there's a picture of like an 8-bit
+[03:35] wizard as as the original Bitcoin Reddit
+[03:39] um profile picture and so I sort of used
+[03:41] that as my inspiration. I also like the
+[03:43] idea of a book that had some uh some
+[03:45] whimsy to it. It was a little playful.
+[03:47] So the text of my book, it's very
+[03:50] friendly. It's very relatable. I use a
+[03:51] lot of analogies. I'm not trying to
+[03:53] inundate people with jargon. There's a
+[03:54] lot of pictures. Uh, so again, it's
+[03:57] trying to take a very complex topic,
+[03:59] make it simple, make it digestible
+[04:01] because it's in those little sort of
+[04:02] bite-size essays. If I I'll flip to a
+[04:05] page for anyone who can see visually.
+[04:07] And every page is individually
+[04:10] titled with a quote, and the quote may
+[04:13] be historical, some kind of philosopher,
+[04:16] economist, politician, but it might also
+[04:18] be from a comic book. I quote Batman,
+[04:20] Superman, Spider-Man, um, Charlie in the
+[04:23] Chocolate Factory. It really runs the
+[04:25] gamut. Um, and yeah, that's uh, you
+[04:29] know, the the idea is just get you used
+[04:31] to the concepts of Bitcoin and then you
+[04:33] sort of go explore on your own. And and
+[04:35] we talked about it before, you now
+[04:36] focusing more on the the how of of
+[04:38] Bitcoin with Bitcoin Mentors. Uh do do
+[04:42] you think we we kind of don't have to
+[04:44] explain that much more of of like why
+[04:47] Bitcoin because we have really good
+[04:48] books like we have a lot of different uh
+[04:50] podcasts, a lot of different videos, a
+[04:52] lot of different books around there. You
+[04:54] know, I I'd love to say that we don't
+[04:56] have to explain the wise of Bitcoin, but
+[04:58] that's just it's it's not true. Um every
+[05:01] Bitcoiner is still learning. Uh myself
+[05:04] included obviously.
+[05:06] uh we are still onboarding people as
+[05:10] Bitcoiners in the sense that we're
+[05:11] always talking about it, reaching out to
+[05:13] people, hey, have you heard of this or
+[05:14] or getting asked questions. So, we
+[05:16] always need to explain the why of
+[05:18] Bitcoin. But in my role at Bitcoin
+[05:20] Mentor now, I don't have to focus as
+[05:23] much on, you know, that part of the
+[05:25] funnel in the sense that I I'm not
+[05:27] dealing with people who are asking,
+[05:28] well, why should I buy Bitcoin? It's I'm
+[05:31] dealing with customers who or clients
+[05:32] who already have a little bit of
+[05:34] Bitcoin. Maybe it's on exchange, maybe
+[05:36] it's in some kind of wallet. Um, they
+[05:38] already have some, they understand a
+[05:40] little bit of the value proposition, but
+[05:41] they are also learning more and then
+[05:42] trying to improve how they are holding
+[05:46] their Bitcoin um to become more
+[05:48] sovereign in how they hold it and
+[05:50] perhaps spend it. Yeah, it's super
+[05:53] interesting the the the conversion and
+[05:55] the connection also between the why and
+[05:57] the how because Oh, yeah. Uh there are
+[05:59] and like there are really great people
+[06:01] that explain the the why like I mean
+[06:04] Michael Sailor but I never heard him say
+[06:06] like on anything on the house side
+[06:07] really. I mean there are some things
+[06:09] that he explains on the houseides and
+[06:11] then as you know from Bitcom Commanders
+[06:13] also um Ben from PD sessions uh he is
+[06:17] like really focused on the how. I I
+[06:20] don't hear him a lot uh telling the why.
+[06:22] Yeah, Ben's done an incredible job
+[06:24] building his uh his YouTube channel and
+[06:26] his following on just really sound
+[06:29] technical advice uh educational
+[06:32] material. Um and you know, frankly, I
+[06:36] learned a ton from Ben when I was
+[06:37] getting started, uh as have many many
+[06:40] Bitcoiners. And it's nice to again, you
+[06:42] know, you get to deal with people that
+[06:44] are already interested in Bitcoin. And
+[06:45] so they're sort there's a natural
+[06:47] inclination that they're open-minded.
+[06:49] they're looking to get away from
+[06:51] existing systems. Um there's obviously
+[06:53] all kinds of tangents of different
+[06:55] themes are in and around Bitcoin uh that
+[06:58] you can explore and dive off of, but
+[06:59] it's it's you know
+[07:01] his material and his content is just
+[07:05] very very sound and just takes you
+[07:07] through nice and slow, explains all the
+[07:09] all the things he's doing as he's doing
+[07:10] it. makes it really easy for someone
+[07:13] who's already curious and maybe has a
+[07:15] little bit of knowhow to start getting
+[07:17] their hands dirty um without having to
+[07:19] commit to something like, you know, we
+[07:21] we we are a paid service, so you don't
+[07:22] have to necessarily commit. You can just
+[07:24] follow it for free and then if you have
+[07:25] problems, okay, maybe you're going to
+[07:26] come and check out something like
+[07:27] Bitcoin Mentor. Yeah, it's it's it's a
+[07:30] it's a good thing. I always say to
+[07:32] people like if if you really want to
+[07:34] learn it yourself and you don't want to
+[07:36] pay for a service or like some kind of
+[07:38] collaborative thing thing or anything
+[07:40] like
+[07:41] that everything is out there like
+[07:43] there's sessions there are great people
+[07:45] here just like go there learn and
+[07:47] educate yourself and you will be good to
+[07:49] go yeah like everyone at Bitcoin mentor
+[07:51] will happily direct you to free
+[07:53] resources obvious obviously again I say
+[07:55] you know we're paid at what we do
+[07:57] because some people want their handheld
+[07:59] and needs a little coaching and they
+[08:01] want to be able to troubleshoot and ask
+[08:02] questions and you can't do that to a
+[08:04] tutorial, to a video. Um, but we have no
+[08:07] problem sending people free resources.
+[08:09] That's the, you know, information is
+[08:10] meant to be free. Um, we want Bitcoin to
+[08:14] proliferate and that's one of the ways
+[08:15] it proliferates. So, yeah, you know, the
+[08:18] more ways to spread Bitcoin education,
+[08:20] the better. Absolutely. Um, how do you
+[08:22] look actually of what what do you think
+[08:25] uh is is the biggest drive for for for
+[08:27] Bitcoin? because I feel like we have a
+[08:29] lot of education out there, but the end
+[08:30] of the day prices is going up and then
+[08:32] people coming in and then they discover
+[08:35] all the books. It it seems like that
+[08:37] that's the main main reason uh es
+[08:40] especially as someone that that wrote a
+[08:41] book. Yeah. You know, I wish I could sit
+[08:44] here and tell you that, you know, the uh
+[08:46] the freedom sovereign aspect of Bitcoin,
+[08:48] that's the thing that really resonates
+[08:49] with people, but at the end of the day,
+[08:52] price going up is the big, you know,
+[08:54] loud flashing light that just people
+[08:56] cannot ignore. And that's the thing that
+[08:58] brings the most people in. Um, and so
+[09:02] yeah, I mean it's it's it's that old
+[09:04] saying that old saying it's it's that
+[09:06] expression in Bitcoin, you know, you
+[09:07] come for the money, you stay for the
+[09:08] tech or you stay for the revolution. Um,
+[09:11] so people, I think, initially get drawn
+[09:13] to Bitcoin by the prospect of uh fiat
+[09:16] profits. But if they stay long enough
+[09:18] and they learn enough, inevitably they
+[09:21] understand that fiat profits are not in
+[09:24] fact the end goal of this. The end goal
+[09:26] of this is we completely upend how money
+[09:31] works in the in the real world.
+[09:33] Interesting. How far actually are you uh
+[09:36] already on a on a on a Bitcoin standard,
+[09:38] would you say? Um I'm not all the way on
+[09:43] a, you know, living on a Bitcoin
+[09:44] standard, per se. I live in a big city.
+[09:46] I have fiat bills. Um I would say from,
+[09:50] you know, day-to-day transactions, I
+[09:52] still do a lot of fiat transactions. But
+[09:54] in terms of um my savings and my income,
+[09:59] I am very significantly you know in in
+[10:02] Bitcoin. My basically all my wealth is
+[10:05] stored in Bitcoin. I have no other fiat
+[10:07] stocks or you know bonds or anything
+[10:09] like that or even gold. I used to be a
+[10:11] gold bug. I I I mentioned I was a former
+[10:14] banker and investment adviser and
+[10:16] basically I got uh you could call it
+[10:18] redpilled on Austrian economics and
+[10:21] sound money and libertarian philosophy
+[10:23] during the great financial crisis which
+[10:25] was right at the beginning of my career.
+[10:28] And as a result of that I became a gold
+[10:29] bug because I thought oh they're just
+[10:31] printing money out of nothing. Money is
+[10:33] worthless. We should have money that
+[10:35] cannot be printed and and cannot be
+[10:37] centrally controlled. and gold is a far,
+[10:39] you know, superior asset to dollars. So,
+[10:42] I initially started pouring my whatever
+[10:44] wealth I had into into Bitcoin, uh,
+[10:46] pardon me, into gold. Um, and then I I
+[10:50] held gold, physical gold, not not paper
+[10:52] gold. I held physical gold for I think
+[10:54] it was 11 or 12 years before I finally
+[10:57] dumped the last of it. I think it was in
+[10:59] 2021. I finally realized that, you know,
+[11:01] I'm starting to transact more in Bitcoin
+[11:03] at that point. So, this is in, you know,
+[11:05] 2021. I started to do a little bit more.
+[11:07] I started experimenting with lightning
+[11:09] using my first lightning wallet um and
+[11:11] realizing that I am never going to just
+[11:14] send someone gold or never going to, you
+[11:17] know, spend my gold or if it ever gets
+[11:20] to the point that I need to spend my
+[11:21] gold, things will be so bad that I'll be
+[11:24] better off with lead than with gold,
+[11:25] right? I'll be better off with a gun and
+[11:26] some bullets than with a pile of of
+[11:28] yellow shiny rocks. Um so I just dumped
+[11:31] it and uh have been it's it's like a
+[11:34] monkey off my back. It's a weight lifted
+[11:35] and uh you know Bitcoin is the only
+[11:39] money that matters for the future and
+[11:41] for frankly for an optimistic future. It
+[11:44] it's so interesting like holding
+[11:47] physical gold at home. I mean I don't
+[11:49] know like how much but like it's it it
+[11:51] seems like how do you keep that like how
+[11:53] do you keep it safe? Like I have a lot
+[11:55] of question on that. I had a a safe
+[11:58] deposit box at my local bank and I you
+[12:01] know it's not like I had those giant
+[12:03] bricks, right? Those are, you know, I
+[12:04] had a few little ingots and coins and
+[12:06] things and it was just my savings in
+[12:09] effect. Um, but I didn't have a safe or
+[12:11] anything in my house. I lived in a condo
+[12:13] at the time and so okay, I guess I'll
+[12:15] store it at the bank, which of course in
+[12:17] hindsight it's like why am I storing the
+[12:19] money that's supposed to make me
+[12:20] sovereign with the entity that is acting
+[12:23] as a gatekeeper to my sovereignty? Like
+[12:25] that, you know, there's a dis there's a
+[12:27] strong disconnect there. So, Bitcoin
+[12:29] allows me to to to very easily separate
+[12:32] that and I can be much more sovereign
+[12:33] with. Okay, I hold and am responsible
+[12:36] for my money and there's no one else who
+[12:38] I rely on. Yeah, this is the question
+[12:41] that none of the gold bucks really can
+[12:43] answer. How does gold make you more so?
+[12:46] Do you keep all your wealth in gold at
+[12:49] home? What if someone comes to your
+[12:50] home? Yeah, I've uh I've tried to have
+[12:54] some conversations with um some people
+[12:57] who are perhaps newer to gold and you
+[12:59] know, especially in the last few years,
+[13:00] inflation has become more of a topic um
+[13:04] in circles outside of Bitcoin um where
+[13:07] people are starting to see gold as more
+[13:09] attractive and understandably it still
+[13:10] has valuable qualities. It's just not
+[13:14] the apex, you know, predator of money
+[13:16] per se. Um, and so I had a conversation
+[13:20] with someone. I'll I'll I'll get into
+[13:22] the nuance of this conversation with you
+[13:23] to to give you a good example of why
+[13:25] it's just not going to be money. So I
+[13:27] live in Canada. We famously had the
+[13:30] Freedom Convoy in 2022 in early 2022.
+[13:33] Uh, Canadians donated, at first it was
+[13:36] like 18 or 19 million to the truckers
+[13:38] and then uh, GoFundMe froze that money
+[13:41] at the government's request. And then
+[13:43] there was another fiat uh donation drive
+[13:46] through gives and go which where I think
+[13:48] they raised another 10 or 11 million and
+[13:50] again that got frozen. So Bitcoiners
+[13:54] online randomly sort of gathered up and
+[13:57] said you know what we should do
+[13:58] something about this and they ended up
+[14:00] sending I think it was $1.2 million
+[14:02] worth of Bitcoin at the time to the
+[14:04] truckers.
+[14:05] And I was talking to a Canadian
+[14:08] podcaster who was, let's say, someone
+[14:11] involved with the trucker convoy, but
+[14:12] just a freedomoriented individual. And I
+[14:15] said to her, "So you you think gold is
+[14:18] valuable now and there's merit to it?"
+[14:20] And she thought Bitcoin had merit, too.
+[14:21] And I said, "So why didn't the gold bugs
+[14:24] donate to the truckers? Where where were
+[14:26] the gold donations to the truckers? Why
+[14:27] didn't they, you know, gold bugs say
+[14:29] gold is money? Have you ever seen a gold
+[14:31] bug spend gold as money or use it as
+[14:34] money or do they just hoard it for like
+[14:37] the worst case scenario? And that's
+[14:39] that's the thing that also really gets
+[14:41] me is gold is that doomsday money. It's
+[14:44] in a world where everything is shut
+[14:47] down. There's, you know, no internet and
+[14:50] no telecommunications and all our
+[14:52] services are are are really ramped down
+[14:54] and everything has to become
+[14:57] um apocalyptic in a sense. Like that's
+[15:00] where gold starts to be used as money
+[15:02] because again if our digital products
+[15:05] and you know if our phones and and um
+[15:08] computers are unavailable and the
+[15:09] internet's unavailable okay I guess we
+[15:11] use it then but that's kind of a a
+[15:13] dismal view of the future and I'm not I
+[15:16] don't want that. I don't want to push my
+[15:18] energy towards that. Bitcoin is much
+[15:21] more optimistic and hopeful because you
+[15:22] know in the future I I think we all
+[15:24] still benefit from having this
+[15:26] technology. Now, are we using it
+[15:28] correctly with social media and stuff
+[15:29] and the way they they manipulate our
+[15:31] attention? That is wrong. But the tools
+[15:34] itself, you know, if we change how we
+[15:37] use it, can be used for to be much more
+[15:40] productive and make us happier um and
+[15:42] more efficient. And Bitcoin has a role
+[15:45] in that version of the future. And so,
+[15:48] gold doesn't. and like so I just focus
+[15:52] this is where I want to push my energy
+[15:53] towards and where I want to push my
+[15:54] value towards because this is where I I
+[15:56] think the world needs to go.
+[15:59] That's super interesting. Um you you are
+[16:02] definitely aware of Jeff Jeff Booof and
+[16:05] he said in my last podcast with him so I
+[16:08] did two rounds with him in the second
+[16:10] round he said something I struggle uh
+[16:12] but that that might actually be an good
+[16:15] thing. He said if Bitcoin fails as a
+[16:16] medium of exchange, it will ultimately
+[16:18] also fail as a store of value. And this
+[16:21] is just a question in my head like what
+[16:23] what he really meant by it. And I really
+[16:25] want to get deep within maybe in the
+[16:27] third round. Um but as you just said,
+[16:30] gold is really bad as med
+[16:33] exchange. So you ultimately also get got
+[16:37] to that decision. I don't want to hold
+[16:40] it. I don't want to use it as also as a
+[16:42] store of value. So this is kind of I
+[16:46] just made the connection of like oh like
+[16:47] yeah that that makes total sense. Gold
+[16:49] as a store of value hasn't failed in in
+[16:52] particular but it could probably be like
+[16:55] 10x 100x bigger if it also would be an
+[16:58] amazing medium of exchange. Yeah. If you
+[17:01] know again in theory if you could have a
+[17:04] digitized version of gold that was
+[17:06] actually onetoone to the gold and you
+[17:09] could verify it then sure gold would
+[17:11] have some merit. It has that 1 to 2%
+[17:13] inflation rate. But again, the problem
+[17:15] comes in where there's no real way to
+[17:17] verify it, right? You know, apparently
+[17:19] the US dollars were all backed by gold
+[17:21] one day and then the next day they
+[17:22] weren't, right? Because they made too
+[17:24] many promises for the amount of gold
+[17:26] they had and so they had to cut the gold
+[17:27] tie. And so we already know what happens
+[17:31] if we try to use gold as a medium of
+[17:33] exchange because there's no way to make
+[17:36] it work seamlessly online that we can
+[17:38] send it around the world basically
+[17:40] instantly because it's its physical
+[17:42] presence becomes uh a a negative becomes
+[17:46] a drawback to gold as as money as a
+[17:48] medium of exchange. Again, in times
+[17:51] where we didn't have this digital
+[17:53] infrastructure, sure it made a lot more
+[17:56] sense, but that's not the world we live
+[17:57] in now. Now, we live in a world where we
+[17:59] have computers, we have the internet, we
+[18:00] have cell phones and mobile phones and
+[18:01] smartphones. Um, and so we need a money
+[18:04] that, you know, is interoperable with
+[18:07] these technologies. Um, and Bitcoin just
+[18:09] fits so much more seamlessly than gold
+[18:11] ever could. Yeah. And I see Bitcoin as
+[18:15] the digital version of gold, like the
+[18:16] the one one pack to gold, what you
+[18:19] described. Um I I see that in Bitcoin
+[18:22] obviously there's never a onetoone pack
+[18:25] with something physical because there's
+[18:27] always someone someone trusted in in in
+[18:29] the in in between. So you cannot do
+[18:32] that. So we the best version of that is
+[18:34] Bitcoin. That's right. The because again
+[18:36] the the ledger Bitcoin's ledger the
+[18:39] entirety of the ledger all of the 21
+[18:41] million units can all be
+[18:43] verified online without anyone in
+[18:46] between doing it. With gold, the thing
+[18:48] exists, right? If I'm holding a gold
+[18:50] nugget in my hand and it has a, you
+[18:52] know, a barcode or a serial number of,
+[18:54] you know, ABC123, well, how do I
+[18:57] document that token ABC123 is
+[19:00] inextricably linked to this coin and
+[19:03] that whoever holds the token will have
+[19:06] absolute property rights and claims to
+[19:09] this to this coin or token, I mean to
+[19:11] this coin in my hand. And there's just
+[19:13] no way to do that because if I'm holding
+[19:15] it, like I could just hand it to the
+[19:17] person next to me and now they have it,
+[19:18] but the token is owned by someone
+[19:20] somewhere else. And so again, how do you
+[19:23] enforce that claim? Because that's
+[19:25] basically not possible. It just it
+[19:27] doesn't make sense. Like it'll never
+[19:28] work. It'll never work. Full stop.
+[19:32] There's nothing I can really add to
+[19:33] that. It'll just never it'll never fully
+[19:35] work. Whereas Bitcoin again I can my key
+[19:38] if I have my private key I can prove
+[19:41] 100% no one you know it's very binary
+[19:43] yes or no yes I control my Bitcoin no I
+[19:46] don't if I control the key I control the
+[19:48] coins very simple I can't do that with
+[19:51] gold if I control the gold private key
+[19:53] token but the coin the physical coin
+[19:55] exists somewhere else in the real world
+[19:57] while someone else might have it so yeah
+[20:00] yeah it's
+[20:01] it's this is I mean I did not think we
+[20:05] make gold Bitcoin, but it's it's just
+[20:07] something that annoys me a lot with with
+[20:10] gold bucks when they always talk about
+[20:13] the sovereignty and the importance of of
+[20:15] gold and then they're like, "Oh, but you
+[20:17] could have a digital version of gold and
+[20:19] just like have that and verified and
+[20:21] like how do you ver like that's not
+[20:23] possible." As soon as you start to go
+[20:25] down that train of thought, you know,
+[20:27] the the ultimate logical conclusion of
+[20:30] that train of thought is Bitcoin like
+[20:32] bit and it's better because there's the
+[20:34] absolute scarcity versus the well, we
+[20:36] don't actually know how much gold exists
+[20:38] in the earth trust and you know as time
+[20:41] goes on and the price let's say of gold
+[20:43] goes up as as Sailor has mentioned is
+[20:46] when price goes up you know gold miners
+[20:48] will go further into the wilderness and
+[20:49] dig deeper into the earth to try to find
+[20:52] more gold because there's more incentive
+[20:54] to do so. Whereas with Bitcoin, if price
+[20:56] goes up, yeah, we can work harder in
+[20:59] terms of mining to get to get more
+[21:00] Bitcoin, but it's not going to change
+[21:02] how much Bitcoin is coming online. It's
+[21:04] just going to drive up the competition
+[21:05] to earn that exact same scarce amount of
+[21:08] Bitcoin.
+[21:10] And this is something I think uh and I
+[21:13] always say that nobody is is bullish
+[21:15] enough on on on on Bitcoin. I think CK
+[21:18] is probably most known for for that
+[21:20] phrase. Uh, and I will soon have Samson
+[21:23] M on the podcast. Let's see if he's
+[21:25] bullish enough on Bitcoin. I guess I
+[21:26] think he's pretty bullish on Bitcoin.
+[21:28] He's he's definitely very bullish on it.
+[21:31] But I think uh most like 95% of of even
+[21:36] Bitcoin as I feel like are not bullish
+[21:37] enough on on Bitcoin just because we
+[21:40] don't know what this digital scarcity
+[21:43] actually means. If like 8 billion people
+[21:45] can have it and you cannot make more of
+[21:48] it and we never really had that. Yeah.
+[21:50] the combination of absolute scarcity as
+[21:53] well as just the sheer value of the fiat
+[21:57] monetary premium that exists whether
+[21:59] it's in art and real estate and gold and
+[22:01] all these and stocks and all these other
+[22:03] assets and debt I suppose um you know to
+[22:07] compute and really think about a you
+[22:09] know how much value could flow in at the
+[22:11] end of the day and how much value is
+[22:12] still yet to be artificially created in
+[22:14] the fiat world that will also flow in
+[22:17] because as Lyn Alden would say right
+[22:19] there's no stopping the train in terms
+[22:20] of the money printing and the dead binge
+[22:21] spending. Um, so there's still so much
+[22:25] room to go, so much more demand to come
+[22:27] in. And you know, if you're having
+[22:28] conversations in the real world, it it's
+[22:30] so funny how even for me, I've been in
+[22:35] Bitcoin call eight years or so, eight
+[22:37] and a half years, and it's still a
+[22:40] broken record of conversations. people
+[22:41] who I've had the same conversations with
+[22:43] every year, every 6 months, every 18
+[22:46] months, whatever it may be. The
+[22:48] conversation started when Bitcoin was
+[22:50] maybe 5,000 and then it, you know, we
+[22:52] have the conversation at 25,000. Then we
+[22:54] have the conversation it's 90,000. And
+[22:57] my message is still the exact same. Just
+[23:00] you should stack some Bitcoin. Like have
+[23:02] some Bitcoin, accumulate. You don't have
+[23:03] to buy a whole coin if you can't afford
+[23:04] it, but just h having zero is the wrong
+[23:07] amount of Bitcoin. Have some. You can
+[23:09] have your other assets if you're not
+[23:10] really ready to dive all the way into
+[23:12] Bitcoin at the start. Not everyone is.
+[23:14] You have to learn more about it and get
+[23:16] comfortable with it before you're going
+[23:17] to, you know, take the leap or go all
+[23:19] in. And obviously, as time goes on,
+[23:21] whatever little bit you may have started
+[23:23] with starts to become a bigger and
+[23:25] bigger part of your portfolio. And so
+[23:26] naturally, you're also going to pay more
+[23:27] attention to it and become more
+[23:28] interested in it. Um, yeah.
+[23:33] Why do you think it's so hard to
+[23:34] understand or like different ask what do
+[23:37] you think we can do better as Bitcoin
+[23:39] educators? I wish I had a great answer
+[23:40] for that. Um you know be consistent
+[23:42] which we are. Um I think maybe you know
+[23:45] what I I will give you one thing we can
+[23:47] do is ask questions rather than tell
+[23:51] people what you think. Um, it's easy for
+[23:54] a Bitcoiner to go, "Hey, you should look
+[23:55] at Bitcoin because this, that, and the
+[23:56] other." Rather than pushing your message
+[24:00] onto people, which as we know from just
+[24:03] normal conversations, people like to be
+[24:06] heard, right? Just want to get their
+[24:07] point of view across. Um, but truly
+[24:10] engaging with someone and activating
+[24:12] them and using the Socratic method of
+[24:15] asking a question and getting them to
+[24:17] see if they really know the answer. And
+[24:19] if they don't again pushing further by
+[24:21] asking more questions of well you should
+[24:22] look into this and what do you think and
+[24:24] you know do you know how fractional
+[24:26] reserve banking works? Do you know that
+[24:27] that's how our monetary system is run?
+[24:29] You know do you understand the print you
+[24:31] know how fiat is a debt back currency
+[24:34] and is destined to just take on more and
+[24:36] more debt because any reduction in debt
+[24:40] is basically a form of deflation which
+[24:43] they do not permit. um and effectively
+[24:47] leads to the bankruptcy of the the
+[24:49] system. So they ne necessarily need to
+[24:51] keep printing. You know, pushing the
+[24:53] questions and asking about fiat so they
+[24:57] can try to understand the problem. Maybe
+[25:00] that will help guide people more towards
+[25:02] okay, maybe I can start to see Bitcoin
+[25:03] as a solution rather than just some
+[25:05] random thing that's been invented that
+[25:08] is obscure and complex and people seem
+[25:10] to be in love with and they're in a cult
+[25:12] and all that stuff.
+[25:14] um get them thinking is would be my
+[25:17] message to to ask questions. I love that
+[25:21] so much that you brought that up. I
+[25:23] often ask people completely new to
+[25:25] Bitcoin, if you are God, how would you
+[25:29] define or build the perfect money? Okay,
+[25:33] that is amazing because I've done the
+[25:35] same thing and uh there was one at one
+[25:38] point in time I wanted to write a blog
+[25:40] post post or something about like how
+[25:42] would you build the perfect money you
+[25:44] know like start asking people if you
+[25:46] could make the perfect money what do you
+[25:47] think it should be what do you think it
+[25:49] should look like so yeah we're very much
+[25:50] aligned in uh in that I I even did that
+[25:53] in an Austrian university at like uh it
+[25:56] was not a university course it was from
+[25:58] an individual organization but it was in
+[26:00] the university and I think there were
+[26:02] like 30 people there and it was supposed
+[26:04] to be like one and a half hour long a
+[26:06] course on Bitcoin but I was like I will
+[26:08] not stand there one hour and and explain
+[26:10] what Bitcoin is. I want to give them
+[26:12] some something to think about because I
+[26:14] know I cannot orange anyone in one and a
+[26:16] half hours. Yeah. And I literally uh
+[26:20] made the first half an hour like hey
+[26:23] what do you think uh if the perfect what
+[26:25] is the perfect money for you? like what
+[26:27] what attributes what properties what
+[26:28] what things uh have to happen and people
+[26:31] say like oh yeah I I want that the
+[26:33] perfect money should be everywhere
+[26:35] accepted I should not be exchanging it
+[26:37] uh like when I cross borders and there
+[26:40] were like 50 things coming along along
+[26:43] the way then you just group them and
+[26:45] categorize them and you're like oh
+[26:47] like that's the that's the properties of
+[26:49] sound money and then we just went
+[26:51] through all the assets like oh like
+[26:53] would Bitcoin fulfill that would euros
+[26:55] fulfill that And just to make a long
+[26:57] story short, this uh course was so cool.
+[27:02] It was supposed to be one and a half
+[27:03] hour long. We were there for 4 hours
+[27:06] without break and everyone loved it
+[27:08] because everyone was involved and we
+[27:10] were discussing about different
+[27:11] properties. Oh, I don't like that if
+[27:13] perfect money. Oh, I would like all of
+[27:15] the sudden there were 20 people that
+[27:16] never thought about money discussing
+[27:19] what perfect money would be and they
+[27:20] came to the conclusion yeah like Bitcoin
+[27:22] is actually a really good idea. So what
+[27:24] you did again sort of following that
+[27:26] Socratic method of asking questions is
+[27:29] and like you said rather than you
+[27:31] pushing the message on them and talking
+[27:33] about Bitcoin and highlighting all the
+[27:36] amazing attributes of Bitcoin by asking
+[27:38] the questions and and stirring the pot
+[27:40] of discussion, you're getting them to
+[27:42] orange pill themselves rather than you
+[27:44] orange peeling them. their active
+[27:47] engagement and conversation and back and
+[27:49] forth ends up orange pilling themselves
+[27:51] because now they've come to the
+[27:52] conclusion in a sense that oh yeah
+[27:54] there's there's merit to this thing
+[27:56] Bitcoin actually accomplishes a lot of
+[27:57] the stuff we think makes sense and we
+[27:59] need oh maybe I should look more into
+[28:01] this so that's brilliant that's
+[28:03] brilliant that's well done let's take a
+[28:06] break for a moment and appreciate the
+[28:08] beauty that coin vigilante has made with
+[28:11] the Bitcoin watches those watches are
+[28:14] the most amazing the most elegant way of
+[28:17] showing that you are a true Bitcoiner
+[28:20] and Coin Vigilante just dropped a
+[28:22] completely new and amazing Genesis
+[28:25] edition of their watch collections. You
+[28:28] have the date of the first ever mind
+[28:31] Bitcoin block in there and of course
+[28:34] also the block height and which epoch we
+[28:37] are currently in. I love the level of
+[28:40] detail they put in in this masterpiece.
+[28:42] Make sure to check out those amazing
+[28:45] coin vigilante time pieces down in the
+[28:48] descriptions. I love those watches so so
+[28:51] much. And now, if you have Bitcoin, I
+[28:53] really do hope that you don't have it on
+[28:56] exchange. But if you do have it on
+[28:57] exchange, I have two ways for you to
+[28:59] deal with that. The first way is you put
+[29:02] it on a hardware wallet. That's the
+[29:04] entry for you to get into the
+[29:06] self-custody game. I recommend Bitbox
+[29:10] Bitcoin only edition for that. It's a
+[29:12] super simple and secure way. And if you
+[29:15] check out the link in the description,
+[29:17] you even get 5% off if you use the code
+[29:20] Robin. And the second way is the Bitcoin
+[29:23] way. The Bitcoin way is your all-in
+[29:26] partner in terms of how to get the most
+[29:29] out of your sovereignty. They will
+[29:32] personalize for you a self-custody setup
+[29:35] that is perfect for your individual
+[29:38] situation. They will show you how you
+[29:40] can secure your own devices. Securing
+[29:43] your Bitcoin is not enough. You also
+[29:44] have to keep all your devices secure.
+[29:47] One topic that is overlooked often is
+[29:49] the inheritance plan. What happens with
+[29:52] your Bitcoin once you are no longer
+[29:55] here? Do you have a plan for that in
+[29:57] place already? And last but not least,
+[29:59] if you're in a jurisdictions where you
+[30:01] don't feel safe, it's better to get a
+[30:04] plan B. For all that, head over to the
+[30:09] bitcoinway.com/roin to get a 30 minute
+[30:12] free call. And just a quick side note, I
+[30:15] will be for the first time ever speaking
+[30:17] at the Bitcoin Prague event in June. It
+[30:20] will be absolutely legendary and I'm
+[30:23] really looking forward to seeing all of
+[30:25] you there. You can get your ticket in
+[30:27] the link down in the description of
+[30:29] Bitcoin Prague. And very important, use
+[30:32] code Robin to get 10% off your ticket.
+[30:35] I'm really looking forward seeing you
+[30:37] there. Yeah, we we categorized the
+[30:39] different columns and named it. Uh and
+[30:42] then we listed the assets and we was
+[30:44] like, does this asset accomplish that?
+[30:47] And I started with the euro, like it was
+[30:49] in Austria, like euro is our fiat
+[30:50] currency. And everyone is like, oh,
+[30:54] weird. Uh our currency that we use every
+[30:57] day is really far away from perfect
+[30:59] money.
+[31:02] But but people are just so set in their
+[31:05] ways and it's they're there's a bit of
+[31:08] ego involved with shaking out someone's
+[31:11] pre-existing beliefs, right? To get them
+[31:13] to admit that the thing that they've
+[31:15] been doing their whole lives or that
+[31:16] they're so accustomed to is wrong is
+[31:19] very very difficult. People get set in
+[31:21] their ways. It's understandable. We all
+[31:22] have a little bit of that. Um, and it's
+[31:25] very difficult to truly be open-minded
+[31:27] to, hey, you know, can I consider the
+[31:29] possibility that I am wrong? That's
+[31:31] something I believe or I think is wrong.
+[31:34] It's tricky. It's hard. It requires,
+[31:36] again, coming back to Jeff Booth a
+[31:37] little bit, you know, you have to s be
+[31:39] willing to sacrifice your ego to an
+[31:40] extent. Um, and so it's rare to find to
+[31:46] find that in someone. And it's even
+[31:48] harder to create that environment for
+[31:50] someone. It's super super super rare. I
+[31:53] mean we we we all
+[31:56] are every day um a victim of that
+[32:00] ourselves and uh there even even as
+[32:03] Bitcoiners we we have probably things in
+[32:05] our lives where we could be more open.
+[32:07] Uh but uh money is such such a weird
+[32:11] thing because we interact with it every
+[32:14] day and like oh you you never asked the
+[32:16] question what is money and I asked
+[32:19] myself the I mean even uh I mean Michael
+[32:21] Sailor I think was uh saying that in his
+[32:23] early podcast that before Bitcoin he
+[32:26] really never asked the question what is
+[32:28] money and and he dealt with a lot of
+[32:30] money of course. Yeah. Again, it's like
+[32:33] why would you? You're raised as a kid.
+[32:35] The dollars are your system. You're used
+[32:37] to the bank accounts. It starts with
+[32:39] checks and and dollar bills and it
+[32:41] graduates to credit cards and debit
+[32:43] cards and and now you know gift
+[32:45] certificates and whatnot or um you know
+[32:48] electronic transfers and Venmo and all
+[32:51] that kind of stuff. And it's just this
+[32:53] gradual shift. It's part of the same
+[32:56] story and it's been around for as long
+[32:58] as you are aware. So, who are you to
+[33:02] rock the boat and suggest that it could
+[33:04] be different or better somehow? We're
+[33:06] just humble plebs, right? What do we
+[33:08] know that the lords of finance that the
+[33:11] uh the central bankers and the the Jamie
+[33:13] Diamonds and the Mark Carney of the
+[33:15] world that that they don't know that
+[33:16] these guys who've been at the tippy top
+[33:18] of the pyramid and and get to look down
+[33:20] and see all the things like, you know,
+[33:21] they they should know best and you know,
+[33:24] we should probably have a degree of
+[33:26] faith in them because things have been
+[33:27] working well enough. And so yeah, it's
+[33:30] very very hard to challenge that and
+[33:32] question that. Um and because that sort
+[33:35] of institutional structure and the
+[33:37] messaging apparatus, right, it's all
+[33:39] very strong and or seemingly strong I
+[33:42] should say. Um so it's very very tricky
+[33:44] to push back against that especially
+[33:46] against again people who are just very
+[33:48] set in their ways because okay the
+[33:49] system yeah it's not perfect but it's
+[33:52] good enough right people are willing to
+[33:54] settle well it's good enough well I
+[33:56] don't want to have to change because
+[33:57] this is working and I'm familiar with it
+[34:00] how do you think then we are coming to
+[34:02] this this Bitcoin world will it be that
+[34:04] most people will be forced into it
+[34:06] because it will be so obvious and
+[34:09] they're like kind of peer pressured into
+[34:10] it or will people wake up and and
+[34:13] realize what Bitcoin is. Um it seems to
+[34:17] me, you know, we've we've talked about
+[34:19] or I shouldn't say we as in you and me,
+[34:22] but um you know, we know the gradually
+[34:24] then suddenly ethos, Parker Lewis's
+[34:26] essays. Um I believe was it Cory Clipon
+[34:30] wrote about the intrigent minority. Um
+[34:34] Alexky, I forget what he wrote. I forget
+[34:37] the exact title of of his article, but
+[34:39] basically there seems to be a prevailing
+[34:41] school of thought and it makes sense to
+[34:43] me that you're going to get the five 10%
+[34:47] of people who just eventually clue in
+[34:49] and get it and are strong enough in
+[34:51] their convictions and it could be 3% I
+[34:54] shouldn't say 5 to 10% 2 3 5% whatever
+[34:56] the number is a very small minority that
+[34:58] just get it and when enough wealth and
+[35:02] influence sort of accumulates there it
+[35:04] inevitably just pulls the masses along
+[35:07] and they're not necessarily going to
+[35:08] have a say in it. It's just things will
+[35:11] drift that way and they will all benefit
+[35:14] from it. You know, whether they're early
+[35:16] adopters or not, everyone benefits in my
+[35:18] view from the world, you know, shifting
+[35:20] to a larger Bitcoin standard. It's
+[35:22] obviously a long-term trend and
+[35:25] it's starting perhaps to crescendo to
+[35:28] some degree or at the beginning of its,
+[35:31] you know, the the current run. But every
+[35:34] time I think, oh yeah, Bitcoin's going
+[35:35] to go up and and then everyone's going
+[35:37] to pay attention. It's never quite the
+[35:39] case. There's still a lot of power and
+[35:41] influence and wealth on the other side
+[35:43] of things that needs to be won over.
+[35:45] It's going to take a lot of time. Um,
+[35:47] but it seems to me
+[35:49] that there's just sort of this mushy
+[35:52] middle ground of people, whether it's
+[35:54] 50%, 60%, 80% of people, that they'll
+[35:58] just follow the strongest leader when
+[36:00] the strongest leader emerges. And
+[36:01] Bitcoin is strong. Is it the strongest
+[36:04] leader? Not yet. But it is very very
+[36:06] strong and seeming, you know, gaining in
+[36:10] strength and momentum. And the more that
+[36:12] happens, the more likely it is that
+[36:14] okay, the mushy middle will inevitably
+[36:15] just follow along. Yeah. There's this
+[36:18] theory on if if 4% of the world are
+[36:21] completely intolerant about uh Bitcoin
+[36:26] speak, they only want to earn in
+[36:27] Bitcoin, they only want to spend in
+[36:28] Bitcoin, they only want to save in
+[36:30] Bitcoin. Yeah, this is kind of forcing
+[36:32] everyone else also to accept Bitcoin
+[36:35] because 4% are like really hardcore on
+[36:38] it which means probably like 10 20 30%
+[36:42] really also like it and then and then
+[36:44] there's like uh really fast majority
+[36:47] building if like a hardcore group of 4%
+[36:50] is is is really hard on it. Yeah. So
+[36:53] that school of thought or line of
+[36:55] thinking that that makes sense to me.
+[36:57] You know, I I'm not smart enough to game
+[37:00] plan exactly how it's all how all the
+[37:02] dominoes are going to fall. All I can
+[37:04] say is that, you know, I see the
+[37:05] incentives lining up and I see the
+[37:07] trends and I think it's coming. It's
+[37:09] just a matter of time and how the
+[37:13] dominoes fall over, let's say. You said
+[37:16] something interesting before. You said
+[37:18] uh a positive future with with Bitcoin.
+[37:20] What do you think is is different in a
+[37:22] Bitcoin world than than the world we
+[37:23] have now? I mean now we already have
+[37:26] Bitcoin but like a pre Bitcoin world uh
+[37:29] everything
+[37:31] um
+[37:33] Bitcoin you become more discerning when
+[37:36] you have Bitcoin and you decide that
+[37:38] okay I at some point everyone's going to
+[37:40] spend some of their Bitcoin right I I
+[37:42] don't think we should aim for the world
+[37:45] where we own our Bitcoin and then we
+[37:48] borrow against it in fiat I mean I get
+[37:51] the appeal and the benefit of that don't
+[37:53] get me wrong but like that's not the end
+[37:55] state of things. The end state is fiat
+[37:58] is worthless at some point and so all
+[38:01] that borrowing concept fades away and
+[38:04] rather than living in a debtbased system
+[38:06] which is the fiat system and and using
+[38:09] it to our advantage which some people
+[38:10] are able to do, right? Sailor is able to
+[38:13] use the fiat system to his advantage to
+[38:14] accumulate much more bitcoin than he
+[38:16] could otherwise. Um we would ultimately
+[38:19] be living in a capital-based system
+[38:21] where again you either have capital or
+[38:23] you don't. You either have Bitcoin or
+[38:24] you don't. Bitcoin being the capital.
+[38:26] Um, and because capital is scarce, you
+[38:30] become more discerning with how, why,
+[38:33] and when you spend it. Fiat, it's like
+[38:36] easy come, easy go, right? We can just
+[38:38] accumulate, accumulate Bitcoin. We'll
+[38:39] take out more and more debt. Sorry.
+[38:40] Accumulate more and more fiat. Take out
+[38:42] more and more debt. So you can spend and
+[38:45] be a bit of a consumer and buy things
+[38:48] you don't need and get that um that sort
+[38:52] of instant gratification of of you know
+[38:54] retail therapy of buying things that
+[38:57] don't are fleeting and don't really
+[38:58] matter. But with Bitcoin, you're going
+[38:59] to be more careful because you only have
+[39:01] so much. And sure, it's still the the
+[39:04] purchasing power appreciates over time,
+[39:05] but you don't want to spend it
+[39:08] um unwisely because it's difficult to to
+[39:11] come by and to accumulate. Um, and so if
+[39:15] we're changing our thought process in
+[39:17] terms of both earning and spending, then
+[39:19] of course that's going to manifest in
+[39:21] economic
+[39:22] activity. So things that are wasteful
+[39:26] and unnecessary and harmful will start
+[39:29] to fall by the wayside because people
+[39:31] are going to spend their money on things
+[39:32] that they think they're going to get
+[39:34] much better long-term value for. Um, and
+[39:37] so everything changes. That's I love
+[39:41] that. I it's like I I describe Bitcoin
+[39:44] kind of as a fork in the road of
+[39:46] humanity. There are certain forks in in
+[39:48] in the in the road uh of of human
+[39:51] civilization. Uh I mean there's like
+[39:53] printing press, electricity, uh the
+[39:55] steam engine, like there's many
+[39:57] different examples and I think Bitcoin
+[40:00] might even be the biggest one just
+[40:03] because it touches on money that well
+[40:06] that's the thing I I in the intro to my
+[40:08] book I wrote about or I describe you
+[40:11] know if you have bad money you have bad
+[40:14] social outcomes. It's there's a direct
+[40:17] correlation, but if you have good,
+[40:19] honest, sound money, you're going to
+[40:21] have good, honest, sound outcomes. It's
+[40:24] not to say that the outcomes are going
+[40:26] to be perfect, but it's going to be
+[40:27] significantly improved compared to the
+[40:29] direction we're going in now. There's
+[40:30] less, you know, inclination for
+[40:33] destruction and waste, which obviously
+[40:35] there's this incentive to destroy and
+[40:37] create waste. Now, that fades away on a
+[40:40] more Bitcoin focused standard. Um so
+[40:42] good bad sorry bad money bad outcomes
+[40:45] good money good outcomes that's total
+[40:48] fork just like you said it brings the
+[40:51] truth in the in the in the system also I
+[40:53] really like the the personal
+[40:56] accountability that bitcoin brings in it
+[41:00] when you all of a sudden are your own
+[41:02] bank and you cannot you cannot blame the
+[41:05] banks the governments whatever for
+[41:07] anything else you're like hey that's my
+[41:08] bitcoin I'm sovereign of it I am in
+[41:11] control to make more of it and and stuff
+[41:13] like that. So like I I think personal
+[41:16] accountability and the truth and the
+[41:19] truth back in the system really changes
+[41:22] a lot in our society. Yeah. Personal
+[41:24] responsibility is just like time
+[41:26] preference. Personal responsibility is a
+[41:28] huge huge element in this. Again with
+[41:30] fiat you don't have to take personal
+[41:32] responsibility. The bank looks looks
+[41:34] after it for me. If I send a a wire or I
+[41:37] do a purchase on my credit card. Oh, I
+[41:39] can call them up. Oh, I made a mistake.
+[41:40] reverse it. Um, oh, someone hacked me.
+[41:43] Can you go in and restore the balance or
+[41:45] whatever it's going to be? That doesn't
+[41:47] exist in Bitcoin. Like, you have to do
+[41:49] it for yourself. And the very act of
+[41:53] taking that
+[41:55] responsibility, you know, it it is
+[41:57] personally empowering and again, that's
+[41:59] part of the thing that sort of manifests
+[42:01] in your decisions out in the real world.
+[42:03] Yeah, it kind of reflects uh on it. I
+[42:06] also want to touch with you on on on the
+[42:08] Bitcoin community uh because it could be
+[42:10] interesting. How do you look at uh what
+[42:12] what the current Bitcoin community is is
+[42:15] like? I see a lot of those mirroring
+[42:17] effects of people put their own values
+[42:20] onto Bitcoin and then expect like the
+[42:22] community to also behave like that. I
+[42:24] mean with my favorite example is always
+[42:26] diet. They are like uh carnivore steak
+[42:31] eaters. They're like vegans in in
+[42:33] Bitcoin and they're all like, "Oh, like
+[42:35] that's how I eat. I have Bitcoin. That's
+[42:38] how all Bitcoiners should eat should
+[42:39] eat." How do you how do you look at the
+[42:41] the community currently in in in
+[42:43] Bitcoin? The way I see it is they are
+[42:47] trying to get to the truth, right? And
+[42:49] they're adamant and they're passionate.
+[42:51] Um, and so, you know, sure, eating meat
+[42:54] seemingly seems to be better for you.
+[42:56] I've certainly become, you know, I eat
+[42:58] meat much more frequently than I did
+[43:00] five or six years ago and I'm don't have
+[43:02] to feel bad about it or anything like
+[43:04] that. I I think it's good for me. Um,
+[43:07] but I'm still open-minded to, you know,
+[43:09] is this the only way? It's not that I'm
+[43:11] a full carnivore or anything like that.
+[43:13] Um, but I can take the information that
+[43:16] Bitcoiners are willing to put out there
+[43:18] and incorporate it into my life. And if
+[43:20] you're meeting people in the real world,
+[43:21] you can start to learn from them and
+[43:23] their experiences because again, they're
+[43:24] more open-minded, right? If they came to
+[43:26] Bitcoin, they have to be open-minded to
+[43:28] some degree. And so they they've already
+[43:30] killed their ego to a degree. They're
+[43:32] willing to be wrong about things. So you
+[43:35] can talk through things. It's it's I
+[43:38] find it easier. They're more comfortable
+[43:40] with talking through difficult subject
+[43:42] matter. Um they're willing to be wrong.
+[43:45] You know, we think we're right about a
+[43:47] few things. You know, Bitcoin is one.
+[43:49] Sure, carnivore could be another that or
+[43:51] just you know that we think yeah there's
+[43:53] there's probably more benefits than not.
+[43:55] Um but I think at large the point is
+[44:00] they're more open-minded and as a result
+[44:02] of that you get to discover more about
+[44:05] what's out there and what you can do.
+[44:08] You don't have to follow a
+[44:11] pre-prescribed path that may have
+[44:13] existed. there are infinite
+[44:16] possibilities and you know you can just
+[44:20] do things right go out there and just
+[44:22] figure out what's happening and why
+[44:23] something's happening um and just try
+[44:26] things and see what happens maybe maybe
+[44:28] carnivore is good for you maybe it's not
+[44:30] some people it you know meat doesn't I
+[44:32] have a friend who you know he likes his
+[44:34] red meat but it just it upsets his
+[44:35] stomach it's just who he is he would
+[44:37] love to probably eat more of it but he
+[44:40] just he just can't so that's okay like
+[44:42] that's who he is he has to work with
+[44:44] what's best for am um but at least he's
+[44:47] you know can look around and understand
+[44:49] oh yeah you know there there there may
+[44:50] be something here but it doesn't always
+[44:53] have to be for
+[44:54] me very very true you you have to and
+[44:58] that's a big thing actually uh this
+[45:00] talking through things and being open to
+[45:02] things I've noticed a lot in the Bitcoin
+[45:04] community even if you throw something at
+[45:08] someone that they really disagree
+[45:11] with outside of Twitter uh
+[45:15] they they are willing to talk through
+[45:17] that and they are really open open to
+[45:19] that. I I think Twitter is always a
+[45:21] special place for for fights uh and it
+[45:24] encourages fights and all those things.
+[45:26] So uh if someone just lives in the
+[45:29] Bitcoin community just on Twitter, I
+[45:32] just can say go out go to a meetup go to
+[45:36] a conference. People are actually really
+[45:38] chilled
+[45:39] minded. Yeah. Twitter Twitter is not
+[45:41] real life. like it it it can be fun at
+[45:43] times. It can also be depressing at
+[45:45] times. So, you know, you got to balance
+[45:46] it out. Um, but it's designed to suck
+[45:49] away your attention. I think we know
+[45:51] that or should know that. But yeah, like
+[45:53] you said, you go to a meetup and you
+[45:55] talk to people who might seem very toxic
+[45:57] online and for the most part they're
+[45:59] pretty chill and happy to have a
+[46:00] conversation and you know there's a
+[46:03] topic they may be adamant about online
+[46:04] but in person they see you know the
+[46:08] human being on the other side of it just
+[46:10] as you're seeing them as the human being
+[46:11] on the other side of things and then
+[46:12] suddenly everyone can become more
+[46:13] relatable um and there's room for
+[46:16] discussion as opposed to just I mean
+[46:18] it's not 180 limit character limit
+[46:20] anymore but just okay I got to get my
+[46:22] point across in this short little time
+[46:24] span and I have to be right because you
+[46:26] know mom someone's wrong on the internet
+[46:28] I got to stay up late and you know prove
+[46:29] them wrong or whatever like that doesn't
+[46:30] happen in the real world. Yeah very
+[46:33] true. Uh one more topic that I really
+[46:34] want to discuss with you around the
+[46:38] Bitcoin mentors uh is what kind of
+[46:40] question you usually getting and and
+[46:42] like uh what are you trying uh to do
+[46:45] there? So it's like um what are the the
+[46:48] common question that that you usually
+[46:49] get? Um
+[46:52] common question.
+[46:54] So, you know, we're tending to focus on
+[46:58] wallets are are one of the key
+[47:00] components of what we do. We do we help
+[47:02] with nodes. Uh we can help with mining.
+[47:05] We can help with some other stuff, the
+[47:06] third party servers or open source
+[47:08] servers, you know, things like start 9
+[47:10] and umbrell and all that.
+[47:12] Um but really the questions
+[47:16] are how do I describe this? um they can
+[47:20] be technical but also kind of
+[47:21] straightforward if you're a seasoned
+[47:23] Bitcoiner. So things just like how
+[47:26] private keys work and how backups work
+[47:28] or
+[47:30] UTXOs, you know, when you if you get
+[47:32] your first wallet, you just sort of send
+[47:35] and receive and you think it's as simple
+[47:36] as that. And and to a degree it is, but
+[47:39] there's also so much nuance. And so as
+[47:42] we get to know people, you know, we can
+[47:45] we have the opportunity to dive further
+[47:46] and further in and help them gain
+[47:48] knowledge and in the nuanced areas again
+[47:51] of sending and receiving Bitcoin. Great.
+[47:54] But then how do I manage my UTXOs if I'm
+[47:56] going to worry about privacy or worry
+[47:58] about fees in the future? Um, so I I
+[48:02] hesitate to say that I receive common
+[48:05] questions because everyone's a little
+[48:06] bit different. Um, but I do find
+[48:12] myself trying to find relatable
+[48:15] analogies for how things work so that
+[48:18] they can
+[48:20] uh really envision and and have a clear
+[48:23] picture of the tools in their hands and
+[48:24] how and why it works. And I'll give you
+[48:26] a couple quick examples. Um, number one,
+[48:29] when we talk about private keys, one of
+[48:30] the analogies I like to use is, you
+[48:33] know, think of the wallet. If you're
+[48:34] using something like Sparrow Wallet and
+[48:36] it doesn't matter if you Nunchuck, Blue
+[48:37] Wallet, whatever wallet it may be. It's
+[48:40] sort of like a browser. You're doesn't
+[48:42] matter if you're using Chrome or Firefox
+[48:45] or, you know, or or Safari or whatever
+[48:47] it may be. It's a browser. And if you go
+[48:50] to, you know, your email account and you
+[48:52] type in your email and your password,
+[48:55] only you see those emails and only you
+[48:57] can write from that email account. Your
+[49:00] private key is like your password to
+[49:02] your email. Doesn't matter what browser
+[49:05] you're on. So I can use my mobile phone,
+[49:07] my my computer, I can open a browser on
+[49:10] any browser and read my emails.
+[49:12] Similarly, I can use my private key on
+[49:14] any device and I can see my coins and I
+[49:17] can manage my coins. So that's sort of
+[49:19] one analogy I like to use that really
+[49:20] helps illustrate how, you know, the
+[49:24] device itself is not the most important
+[49:26] element of your Bitcoin setup. it's your
+[49:30] your the backup of your seed phrase of
+[49:32] your private key is actually the most
+[49:33] important and then how you obviously
+[49:35] secure it and if you're going to do
+[49:36] multi- signal all that stuff that's a
+[49:37] whole other story. Um and then another
+[49:40] analogy that's come out of uh that was
+[49:42] wasn't mine but uh one of my colleagues
+[49:45] I used to describe UTXOs as sort of like
+[49:48] dollar bills, right? If I have a $50
+[49:50] bill and a $20 bill and a $10 bill in my
+[49:52] wallet, I have three UTXOs. Um, and
+[49:56] maybe I send one and I'm going to get
+[49:58] change back when I if I buy something.
+[50:00] If I buy a sandwich for $20 or $25, I
+[50:04] only have a 50, I give a 50 and I would
+[50:06] get a $25 bill in return. Except the
+[50:10] difference is in fiat, the denominations
+[50:11] are preset. Whereas in Bitcoin, it's
+[50:14] whatever denomination is sent or
+[50:15] received. But we sort of discovered that
+[50:18] that's maybe not actually the best
+[50:20] analogy. A better analogy is melting
+[50:22] gold. So, I have 1 oz of gold and I'm
+[50:26] going to pay something for something
+[50:28] that's2 ounces. Well, I'm going to melt
+[50:30] down my gold, give off 2 to the person
+[50:34] I'm buying from, and I keep the 08 um
+[50:38] instead because every time you send and
+[50:40] receive, you're sort of melting and
+[50:42] recasting your gold, except this is
+[50:45] digital as opposed to, you know, really
+[50:47] melting. and it happens like that as
+[50:49] opposed to, you know, sitting by a hot
+[50:51] fire and uh and and melting it down and
+[50:54] waiting for it to cool and dry after the
+[50:55] fact. It's it's a lot uh it's a lot
+[50:58] easier to melt Bitcoin together than me
+[51:01] together. Yeah, there's a lot less work,
+[51:03] at least on on our end. And I I I rarely
+[51:07] do how-to videos. And for how-to videos,
+[51:10] I always say like go to PDC sessions.
+[51:12] But I actually did one on UTXO
+[51:14] management with one guy that I expect
+[51:17] respect a lot um in that field. It's
+[51:19] wicked. You probably know him. Uh and I
+[51:22] did with him only it's it's really rare
+[51:25] that I do those kind of videos. I did
+[51:27] only on UTXO management and on how to do
+[51:31] it and and why you should do it and why
+[51:34] you should be caring about UTXO
+[51:37] management not just because of dust and
+[51:39] unspendable Bitcoin but also as a
+[51:41] privacy standpoint uh and and manage all
+[51:44] those things. So uh if if if you want to
+[51:48] if if someone says like oh what the what
+[51:49] the heck are they talking about UTXO
+[51:51] management that's a a great start. Yeah.
+[51:54] But yeah, PDC sessions has has all the
+[51:57] other how-to videos and and how to is
+[52:00] way better. It was one of my uh attempts
+[52:04] to also do some how-to videos. Um but I
+[52:08] just enjoy way more just talking with
+[52:10] people about the Bitcoin opinions. Yeah.
+[52:12] Yeah, exactly. This this is more fun.
+[52:14] Ben Ben puts in some hard work, I can
+[52:16] tell you. Just, you know, getting to
+[52:17] know him a little bit in the background,
+[52:18] you know, he he works hard at his craft.
+[52:21] Um, obviously he's very very good at
+[52:23] what he does. And there's other great
+[52:24] educators out there. You know, Ben's not
+[52:25] the only one, but um, I certainly
+[52:28] believe he's one of the best um, that's
+[52:30] out there. And yeah, it's it's great to
+[52:32] see, you know, more people doing this
+[52:34] because we do need, you know, there
+[52:35] can't just be one educator or one book
+[52:38] or one podcast, right? It's the more the
+[52:40] marrier. There's no single source of
+[52:42] truth in Bitcoin. I I tell people all
+[52:44] the time, you know, if you want to learn
+[52:46] about Coca-Cola, you go to
+[52:47] Coca-Cola.com. You read their quarterly
+[52:49] statements, right? It's all in the one
+[52:51] website. But if you want to learn about
+[52:52] Bitcoin, there's no central repository
+[52:54] to go to. You have to sort of cobble
+[52:57] together information from different
+[52:58] sources and then you have to filter it
+[53:00] yourself because, you know, no one's
+[53:03] prefiltering it for you. There is not
+[53:06] really
+[53:07] see I mean there's a I there is for me
+[53:11] not a second
+[53:14] uh Ben. So like there is there's a lot
+[53:16] of people that only focus on the why.
+[53:18] Yeah. And they sometimes also do a
+[53:20] little bit of the how. But Ben is really
+[53:22] unique because he I think covered almost
+[53:26] everything. I I think he asked me
+[53:28] actually when he was on the podcast, oh,
+[53:30] is there anything we didn't cover
+[53:32] because I I should should cover that and
+[53:34] I was like, I I looked at the channel
+[53:36] and like I I I wouldn't know any topic.
+[53:39] Uh, and I I couldn't say any other uh
+[53:44] bigger YouTube channel in video format
+[53:48] that does only how-to videos on Bitcoin
+[53:52] on on only Bitcoin also there. No crypto
+[53:55] or anything like that. Yeah, I I you
+[53:57] know, I I'll say I think I'm aware of
+[53:59] one or two other channels like Southern
+[54:00] Bitcoin or you mentioned Wicked. Um, but
+[54:03] obviously I think, you know, Ben is, I
+[54:05] think, the biggest and and perhaps, you
+[54:07] know, for a lot of people the best and,
+[54:08] you know, I would agree he's the best.
+[54:10] Um, again, I learned a lot from him
+[54:12] getting started. I consider him a
+[54:14] friend. We work together. Um, he's an
+[54:16] awesome Bitcoiner and just an awesome
+[54:18] guy all around, frankly. Uh, as you
+[54:20] know, you were on his on, as we were
+[54:22] discussing on the show recently on Why
+[54:24] are we bullish? Um, so yeah. Yeah.
+[54:27] Wicket also has a YouTube channel. Oh
+[54:29] gosh, I wasn't I wasn't even aware. I
+[54:31] always saw his I told we there's no
+[54:34] central repository. There may be the
+[54:35] bigger and the best like Ben, but
+[54:37] there's there can't be one single source
+[54:39] of truth in Bitcoin.
+[54:41] Not Not even Ben. Not even Ben. We love
+[54:44] Ben, but there's not even Ben can be the
+[54:46] single source of truth. He he he will be
+[54:48] happy. We we talked too much about him
+[54:50] today,
+[54:53] but I love him. Uh he's a he's a great
+[54:54] guy. Um I ask each and every single each
+[54:57] and every single one of my guests the
+[54:59] simple question. What can we learn from
+[55:01] you besides Bitcoin?
+[55:03] Oh, what can you learn from me beside
+[55:05] Bitcoin? I can probably teach you about
+[55:06] a few mistakes I've made. Um, just to be
+[55:10] open-minded and be willing to be wrong.
+[55:14] Like, you know, don't and doesn't matter
+[55:16] what topic. Literally, no topic should
+[55:19] be out of bounds. Um, be willing to be
+[55:23] wrong about things. consider someone
+[55:26] else's perspective and other people's
+[55:28] point of views that you know maybe they
+[55:30] have some insights you don't none of us
+[55:32] are omnipotent we don't know everything
+[55:33] we have tons of information at our
+[55:36] fingertips but do we have all the
+[55:38] information and do we have all the
+[55:39] necessary wisdom to correctly assemble
+[55:42] that information probably not so it's
+[55:45] good to learn and figure things out but
+[55:49] no matter how well you think you figure
+[55:52] things out um What's that phrase? It's
+[55:55] uh you know, strong opinions, weakly
+[55:58] held.
+[55:59] So, learn, be
+[56:02] open-minded, grow smarter, work harder,
+[56:05] but don't be afraid to change your mind
+[56:08] when new information presents itself. I
+[56:10] know I have over time. Yeah. A big thing
+[56:13] is also for me, as you said, like the ex
+[56:16] excluding things. I think all Bitcoiners
+[56:18] can really uh talk about that because
+[56:21] they haven't excluded Bitcoin. And I
+[56:23] think a lot of people right now exclude
+[56:25] Bitcoin. They dismiss it and don't even
+[56:27] give it a fair chance because they heard
+[56:29] some some weird line from newspaper or a
+[56:32] friend or a cous like whatever and now
+[56:34] they dismiss it because of that reason
+[56:36] and it's it's a yeah reason why most
+[56:38] people I said uh I said all through uh
+[56:41] through co that propaganda is a hell of
+[56:43] a drug and
+[56:45] uh you know it's it's true for that
+[56:48] particular period of time. It's true for
+[56:50] Bitcoin. It's true in many other fields.
+[56:52] And once you start to see through that
+[56:54] and understand that it's out there,
+[56:56] whether you think you live in the free
+[56:58] world with free press information that
+[57:00] there's lots of information that is
+[57:03] purposely trying to confuse you or
+[57:06] divide you. You and you can start to
+[57:08] pierce the veil. Then yeah, you can
+[57:10] start to approach topics with a new set
+[57:12] of eyes and really start to assemble on
+[57:15] your own merit and through your own
+[57:16] critical thinking what makes sense, what
+[57:19] doesn't, do things work, do they not
+[57:20] work? Um, and become a better person as
+[57:23] a result. 100%. We have an end in the
+[57:26] podcast where the previous guest is
+[57:28] asking a question for the next guest
+[57:29] without knowing who the next guest
+[57:31] actually is.
+[57:33] And it's it's a very cliche uh question
+[57:39] and I'm surprised that in almost I'm I'm
+[57:43] free episodes to 500 uh guests. Almost
+[57:46] 500 episode nobody ever asked that
+[57:48] question and you get the cliche
+[57:50] question. Um what's the meaning of life?
+[57:53] Uh is 42 I believe is the correct
+[57:55] answer. Right. It's 42. The number 42.
+[57:58] Yeah. We're all finding out, you know.
+[58:01] I'm uh I'm eager to discover the uh the
+[58:03] meaning of life. I'm I'm actively
+[58:05] working on it. I don't expect I'll ever
+[58:07] figure it out, but uh I'm working hard
+[58:09] to get there. I I love that. It's uh
+[58:14] actually when when he the previous guest
+[58:16] asked me that, oh, like what do you
+[58:18] think is the meaning of life? And I'm
+[58:19] like, I'm 26. Like I I
+[58:24] I don't think I have an answer with 50,
+[58:27] but I'm sure I don't have an answer now.
+[58:30] Yeah, I I I I got a few years on you and
+[58:32] uh I'm probably no further ahead than
+[58:35] than you are.
+[58:38] Oh gosh. Thank you so much, Jesse. It
+[58:40] was was a lot of fun with you talking
+[58:41] and I hope you enjoyed the podcast. Uh
+[58:44] before I let you go, where can can
+[58:46] people find you, ask you questions, and
+[58:47] reach out to you? Absolutely. Uh I'm on
+[58:50] Twitter, JJ, J A Y B A Y. Um my book,
+[58:55] Magic Internet Money, a book about
+[58:57] Bitcoin. Here it is. um is available on
+[59:00] Amazon and basically anywhere else uh
+[59:03] that you can buy ebooks or audiobook. Um
+[59:06] and if you want to learn more about me,
+[59:09] my bio, and um or or just learn about
+[59:11] Bitcoin Mentor and the service we offer,
+[59:13] uh you can go to
+[59:15] bitcoinmentor.io. Really cool. Thank you
+[59:17] so much for taking the time, Jesse. And
+[59:19] also, thank you so much for everyone
+[59:20] that is watching and listening for
+[59:22] joining us today. As always, I'll be
+[59:24] back tomorrow with another episode.
+[59:26] Bye-bye.
+[59:28] [Music]

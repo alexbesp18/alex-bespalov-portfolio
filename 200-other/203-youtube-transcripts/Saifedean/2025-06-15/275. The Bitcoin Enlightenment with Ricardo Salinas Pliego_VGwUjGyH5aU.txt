@@ -1,0 +1,1393 @@
+Title: 275. The Bitcoin Enlightenment with Ricardo Salinas Pliego
+Video ID: VGwUjGyH5aU
+URL: https://www.youtube.com/watch?v=VGwUjGyH5aU
+Date Saved: 2025-06-15 12:38:01
+Channel: Saifedean
+--------------------------------------------------
+
+[00:02] Hello and welcome to the Bitcoin
+[00:03] Standard podcast. Our guests today are
+[00:06] the co-authors of a new book published
+[00:08] by my publishing house, The Safe House.
+[00:11] And the book's called The Bitcoin
+[00:12] Enlightenment. And the authors are
+[00:15] Ricardo Selenas, whom you have may have
+[00:17] heard of, one of the richest men in
+[00:20] Mexico and one of the uh most diehard
+[00:25] Bitcoiners in Mexico and the world,
+[00:27] constantly telling the world about
+[00:29] Bitcoin and about free markets. And as
+[00:31] we learn in this book, it's something
+[00:33] he's learned and uh acquired and
+[00:37] inherited from generations of his family
+[00:39] who have had uh their interest in uh
+[00:42] hard money as we're going to be
+[00:44] discussing. And we also have Daniel
+[00:46] Jungan and Pascal Hooli, a Swiss
+[00:49] economist and journal Swiss journalist
+[00:53] who collaborated with uh Mr. telling us
+[00:56] on this amazing book and I am very proud
+[00:58] to be publishing it because I believe it
+[01:00] combines
+[01:02] uh a wonderful combination of the
+[01:06] ancient wisdom of many generations of a
+[01:10] successful family thinking about money
+[01:13] and struggling with inflation and
+[01:15] hyperinflation generation after
+[01:17] generation. as well as the successful
+[01:21] insight of a modern entrepreneur whose
+[01:24] success has been absolutely outstanding.
+[01:27] So you will learn a lot from this book
+[01:30] and I'm very happy to be publishing it
+[01:32] and very happy to be hosting you to
+[01:34] discuss this book. So thank you for
+[01:35] joining us gentlemen. Good to be here
+[01:37] and it's a pleasure and an honor to be
+[01:38] here with you today. Thank you. Thank
+[01:40] you. Thank you. The pleasure is mine.
+[01:42] Um, so Ricardo, let's begin by uh
+[01:45] discussing uh your family's history with
+[01:49] sound money. How did you get to learn
+[01:52] about someone? Before you begin,
+[01:53] actually before you begin, and I
+[01:55] interrupt you, allow me to say that I
+[01:57] had heard about your father before I had
+[01:59] heard about you many, many years ago. I
+[02:01] had read articles written by your father
+[02:04] about sound money and hard money and the
+[02:07] history of money in Mexico. I remember
+[02:09] him. And when I first heard about you, I
+[02:12] I noticed the similarity in the name and
+[02:15] I looked it up and I realized, yep,
+[02:16] that's his son. So, yeah, you come from
+[02:19] a long pedigree of uh hard money uh in
+[02:24] the family. So, tell us about it. Yeah,
+[02:26] actually you must have heard from my dad
+[02:28] because he was uh promoting for a long
+[02:31] time his idea of a of a silver coin for
+[02:34] for the people for Mexico. He he thought
+[02:37] that um having a a silver coin with with
+[02:42] no face value that would be revalued to
+[02:45] market price as needed was the way to
+[02:48] have a simple and effective savings
+[02:52] account for uh unsophisticated people of
+[02:56] which there are many in the world. So he
+[02:58] spent a long time uh working on that
+[03:00] track. Unfortunately, well, you know,
+[03:04] coinage and currency is issued by the
+[03:08] government. So, in my language, I call
+[03:11] them goier nicolas, which means
+[03:13] something like a caveman with a stick
+[03:15] that beats you up if you don't do what
+[03:18] he says. That's a goier Nicola. And of
+[03:22] course, the government man and the
+[03:25] government ideology will have none to do
+[03:29] with a strong currency.
+[03:31] because exactly what they need. The
+[03:34] politics of of the business uh that they
+[03:38] are in the politics of the fiat fraud is
+[03:41] precisely that they steal people's money
+[03:44] from their wallets without them even
+[03:47] noticing or crying. So why would they
+[03:50] promote hard money, you know? So anyway,
+[03:52] and that's why you must have heard about
+[03:54] my dad. But but the origin of the whole
+[03:56] thing and is way back in the 70s. I I
+[03:59] remember I remember actually well that
+[04:02] day in in August of 71 when Nixon
+[04:08] uh went off the gold standard for the
+[04:11] dollar and that day uh my dad was very
+[04:16] alarmed and um he talked to me about
+[04:19] that. I was just 16 but man I could have
+[04:22] understand it. And now, of course, in
+[04:24] retrospect, when I see Nixon on TV and
+[04:27] the things that he said that day, I
+[04:29] mean, it's the epidome of
+[04:33] cynicism, of lying and of just
+[04:38] uh
+[04:39] tricking
+[04:41] everybody and all over the world about
+[04:45] what that that really really meant. you
+[04:47] know, the dollar was no longer uh the
+[04:51] token that was redeemable for 32 ounces
+[04:55] of gold. It ceased to happen. And now it
+[04:58] was this paper token was redeemable for
+[05:01] nothing. So that was really amazing. I
+[05:04] mean, if it happened today, uh we'll
+[05:08] probably laugh them out of the room, but
+[05:10] this was 1971. This is a long time ago.
+[05:13] Okay. So at at that time it was very
+[05:17] confusing and and you know Nixon was
+[05:19] there on TV saying that the US is the
+[05:21] strongest economy in the world and the
+[05:23] currency is a is a strongest the
+[05:26] strongest currency in the world and and
+[05:28] everything is okay. Yeah. Well, okay.
+[05:31] What happened was the dollar was
+[05:33] devalued in terms of gold and then that
+[05:38] caused this whole new epo of
+[05:41] inflation that was a worldwide
+[05:44] phenomenon to different degrees, right?
+[05:46] Because different economies uh
+[05:49] were mishandled
+[05:52] uh to a larger degree depending on the
+[05:55] political circumstances. So what
+[05:57] happened was that during the late '7s
+[06:00] the economy in Mexico was badly
+[06:02] mismanaged and it culminated in our
+[06:05] devaluation of the peso against the
+[06:07] dollar in 1982 and basically we were all
+[06:11] broke. The whole country was broke. So
+[06:14] the value of the dollar uh in peso terms
+[06:18] went from 20 and ended up in 3,000. So
+[06:22] that's a devaluation. When you live
+[06:24] through that and you understand what it
+[06:27] means for for people and for yourself
+[06:29] and for businesses, you have a very
+[06:32] different perspective of uh of what
+[06:36] really of the importance of sound
+[06:39] currency and sound money. So that's how
+[06:42] I got started into the whole thing. And
+[06:44] of course at that time there was no
+[06:46] Bitcoin. There was only gold and silver.
+[06:50] So uh we all became gold bugs.
+[06:54] since the 70s and we did really well,
+[06:56] you know, all the way up to the 80s and
+[06:58] then really bad for 20 years and then
+[07:01] really well for another 20 years. And as
+[07:05] of 2013, I am officially a 80% Bitcoin,
+[07:10] 20% gold guy.
+[07:13] Um, I mean, people maybe more toxic than
+[07:16] me would tell you to have fun staying
+[07:18] 20% poor, but I'm not going to say that.
+[07:24] Well, uh, okay. So, then tell us now
+[07:27] about what was the the inspiration
+[07:29] behind this book? How did this idea come
+[07:31] about? We were I was doing an interview
+[07:33] with um with Pascal and Dan and um we
+[07:36] had a a very long conversation and so we
+[07:39] got to talking about it. So they
+[07:40] convinced me to spend some time on this
+[07:43] and and you know frankly I do a lot of
+[07:45] things but I don't do a lot of writing
+[07:48] because you know I'm busy with stuff but
+[07:51] I do have a lot of ideas and the my
+[07:54] ideas have been published and then put
+[07:57] on video and distributed in different
+[07:59] ways. So that was kind of the groundwork
+[08:01] for the book and then they did the hard
+[08:05] job of putting it on paper. But yeah,
+[08:08] this is a a nice book. Here it is. Huh?
+[08:10] Look at that. And I love the
+[08:14] cover. And I think they did a good job.
+[08:17] Yes. It's available from the
+[08:19] safehouse.com. I should have mentioned
+[08:21] that earlier, but uh tell your all your
+[08:23] friends and get copies. safehouse.com.
+[08:26] Exactly. Good. Do you have a Kindle
+[08:30] version? Yes. Good. I love the Kindle.
+[08:34] Yes, there's an ebook and an audio book
+[08:37] and a hard cover. So, uh Daniel, uh how
+[08:42] how did you come across the idea for uh
+[08:44] this book? What inspired it and what did
+[08:46] you aim to do from writing it? Well,
+[08:50] maybe I need to go back a little bit. Um
+[08:53] because in 2019, 2020, Pascal and I, we
+[08:57] were uh working as cryptojournalists,
+[09:00] content creators. uh we were writing
+[09:03] about Bitcoin and what was going on in
+[09:05] the crypto space back then for different
+[09:07] companies and uh during that time
+[09:11] uh we uh came across a book that's
+[09:13] called the sovereign individual. Most
+[09:16] listeners have probably heard about that
+[09:19] and the book predicts um a shift of
+[09:24] power from the governments, nation
+[09:27] states to the individuals because um
+[09:30] technology is
+[09:32] progressing and uh it basically I would
+[09:35] say describes what we nowadays maybe
+[09:38] call digital nomads. Um people that can
+[09:41] work from anywhere, they can live
+[09:43] anywhere. Um, and because of that, if
+[09:47] they don't like what the government is
+[09:48] doing, they can actually opt out and
+[09:50] move to a different country. And so that
+[09:52] gives them a lot more freedom. And
+[09:55] Pascal and I were reading that book and
+[09:57] we really liked it. And shortly after
+[10:00] that, the second COVID wave hit Europe
+[10:04] and with it all the restrictions came
+[10:06] back, the lockdowns came back and of
+[10:08] course we didn't like it. So, uh, we
+[10:11] were looking for places to go to, um,
+[10:14] countries that were not that, uh,
+[10:17] restrictive and we found
+[10:19] Mexico and Mexico would still allow you
+[10:22] to travel and, uh, so we discussed the
+[10:25] idea of going to Mexico for two reasons.
+[10:28] First of all, to get a uh, feeling of
+[10:31] how it is to be a digital nomad, to work
+[10:34] from there. um what it means to be a
+[10:37] sovereign individual, go to another
+[10:39] country because you don't like what your
+[10:41] government at home is doing. And the
+[10:44] second reason was
+[10:46] um we wanted to see how uh Bitcoin and
+[10:50] stable coins were influencing Latin
+[10:52] America. We're very interested in that
+[10:55] because we had heard a lot of stories
+[10:57] how um Bitcoin would help to bank the
+[11:01] unbanked or how it would help to
+[11:04] escape escape people from their local
+[11:07] currency from inflation. Um so we wanted
+[11:10] to see if that's actually true. And so
+[11:12] when coming to Mexico uh we started
+[11:15] reaching out to people asking for
+[11:16] interviews because we wanted to know
+[11:18] what's going on on on the ground in
+[11:20] these countries. And uh one of the one
+[11:23] of the places we asked for an interview
+[11:25] was with the group Alenas
+[11:28] um because we have heard that Ricardo is
+[11:30] very outspoken about Bitcoin. So we
+[11:32] wanted to hear his take on Bitcoin and
+[11:35] what's going on in Mexico and if Bitcoin
+[11:37] is making a difference in
+[11:39] Mexico. And maybe maybe Posal you can
+[11:42] take over from here because it was
+[11:43] actually your idea to contact Ricardo.
+[11:47] The Bitcoin Standard Podcast is brought
+[11:48] to you by The Safehouse.com, my
+[11:50] independent publisher and bookshop,
+[11:52] selling the best Bitcoin books in
+[11:53] high-quality cloth hard covers built to
+[11:55] last for generations. Most books these
+[11:57] days are pretty fiat. They're flimsy and
+[11:59] they fall apart quickly. And I did not
+[12:01] want that for my books. So, I set up the
+[12:02] Safe House especially to provide you
+[12:04] with beautiful, long-lasting classic
+[12:06] cloth hard covers you can proudly pass
+[12:08] down for generations. You can get copies
+[12:10] of my three books, The Bitcoin Standard,
+[12:11] The Fiat Standard, and Principles of
+[12:13] Economics. And you can also get copies
+[12:14] of Lyn Alden's Broken Money, Parker
+[12:17] Lewis's Gradually Then Suddenly, and
+[12:18] Matthew Lisiaak's Fiat Food, to which I
+[12:21] contributed a few chapters, and Mexican
+[12:23] billionaires Ricardo Selena's PGO's new
+[12:25] book, The Bitcoin Enlightenment. We now
+[12:28] offer bulk discounts, so you can buy
+[12:30] books for yourself and for the friends
+[12:31] and family you'd like to learn about
+[12:33] Bitcoin. Buy any two books for $50, any
+[12:35] five books or more for $20 per book. And
+[12:38] for more than 50 books, it's only $15
+[12:40] per book. Go to the safehouse.com the
+[12:44] sifhouse.com where you can get all of
+[12:46] these books in highquality cloth hard
+[12:48] covers delivered worldwide and get 10%
+[12:51] off for paying with
+[12:53] Bitcoin. The Bitcoin Standard podcast is
+[12:55] brought to you by the Daylight Computer.
+[12:57] I love to work early in the morning and
+[12:59] late at night or in the sun outdoors,
+[13:01] but regular computer screens are
+[13:02] terrible at these times and they strain
+[13:04] your eyes. For years, I've wanted a
+[13:06] paper-like electronic screen on a simple
+[13:09] computer I could use to write. I tried
+[13:11] several models, but none were very good.
+[13:14] Now, finally, Daylight have delivered a
+[13:17] fantastic full function tablet with a
+[13:19] paper-like screen that's easy on your
+[13:21] eyes and great for outdoor use. I've
+[13:24] been using the Daylight computer to
+[13:25] write my next book, and it is absolutely
+[13:27] fantastic, and it has led me to invest
+[13:30] in this company myself. Check out my
+[13:32] interview with Anjan Kata in episode
+[13:34] 249.
+[13:36] No, it's really funny because when we
+[13:38] were looking when we got to Mexico, we
+[13:40] were looking we're googling like what
+[13:41] are the most interesting people in
+[13:43] Bitcoin in Mexico and obviously Ricardo
+[13:45] came up and and then we were really
+[13:47] intrigued by by the story that we read
+[13:49] online and the interviews that we
+[13:51] watched and that's why we we reached out
+[13:53] to group of Selenas and asked for the
+[13:55] interview and all of a sudden we found
+[13:57] ourselves at the headquarters of group
+[13:58] of salenos at theatka and we were doing
+[14:01] this interview and again while we did
+[14:03] this interview it was so fascinating and
+[14:06] intriguing to to hear Ricardo's story
+[14:08] and also the way he he was his sharpness
+[14:12] and and sort of the the the
+[14:14] philosophical underpinnings of his
+[14:15] understanding of the world and Bitcoin
+[14:17] and so we were like wow this usually
+[14:20] doesn't happen with with successful be
+[14:22] business people like like him you know
+[14:24] they they are sort of in the daily works
+[14:27] and have to care about all the companies
+[14:29] that they have so they have no time to
+[14:31] spend on these sorts of topics but with
+[14:33] Ricardo was different and that's why we
+[14:35] were
+[14:36] um um coming up with this idea of the
+[14:38] book and we reached out as Ricardo said
+[14:40] himself already and this is how the book
+[14:42] came about and we really wanted to get
+[14:44] his ideas across. Uh we were fascinated
+[14:46] by this uh slogan Deroto Falso that we
+[14:50] heard in that interview many times over
+[14:52] and so maybe uh Ricardo you can talk to
+[14:54] this as well what you actually meant and
+[14:56] said during the interview with Dero
+[14:58] Falso because what it means really is
+[15:02] fiat fraud. No, these tokens are
+[15:04] nothing. I'm I'm saying tokens because
+[15:06] in the Bitcoin world, we understand that
+[15:08] there's different crypto tokens and they
+[15:11] have different characteristics and
+[15:13] they're on a on a blockchain and then
+[15:15] you can do things with them. But at the
+[15:17] end of the day, it's just a a
+[15:19] representation of something that you can
+[15:21] trade for for something else. So, as I
+[15:23] said before, the
+[15:25] original emergence of paper money was a
+[15:28] great innovation. It was needed for
+[15:30] trade. It was very important. But it it
+[15:33] meant that you were carrying these piece
+[15:35] of paper that could be this token that
+[15:37] could be exchanged for currency, for
+[15:41] coins, for silver, for gold. And it was
+[15:44] very practical to be able to travel from
+[15:47] one place to another with a piece of
+[15:48] paper as opposed to with a bag of gold,
+[15:50] right? But what kind of utility would it
+[15:54] have if this paper was traded for for
+[15:56] nothing, you know? I mean it's really
+[15:59] astounding that people across the world
+[16:03] in all the
+[16:05] countries have fallen under this spell
+[16:08] you know of central banks
+[16:11] and tokens without any backing at
+[16:16] all. So of course because they cannot be
+[16:20] traded for anything then there's no
+[16:21] limit to the supply that it can be
+[16:23] produced. So you have to bust your ass
+[16:26] to work and get some money. But these
+[16:28] people, they just push a button and they
+[16:30] create the money out of nothing. I mean,
+[16:32] this is really amazing. How can people
+[16:35] stand up for that, you know? And I'm a
+[16:37] banker. I know a thing or two about
+[16:38] that.
+[16:42] Yeah. Well, in your book, uh, you get
+[16:46] into the history of fiat money and one
+[16:49] found one part that I found very
+[16:50] interesting is the emergence of the bond
+[16:52] market and the role that the Bank of
+[16:55] England played and how this was the road
+[16:59] to inflation. And this is something that
+[17:02] I think most people don't really
+[17:03] understand um because they don't really
+[17:07] uh the bond market just looks
+[17:10] complicated and it disguises what's
+[17:12] going on. So tell us to Ricardo, what
+[17:17] was the story of the bond market?
+[17:20] The bond market. Well, you know,
+[17:23] governments have this
+[17:26] perpetual deficit. They are a perpetual
+[17:29] spending machine and this all the
+[17:32] governments in the world run across the
+[17:35] same path which is spend spend spend.
+[17:39] Some of them spend it in wars and some
+[17:41] of them spend it in the in welfare and
+[17:45] some of them spend it in personal
+[17:47] benefit for the members of the
+[17:49] government. But
+[17:51] spend till you're dead. But before
+[17:54] you're dead, you have to be creative,
+[17:58] you know, so not to lose the this
+[18:01] ridiculous privilege and you can spend
+[18:04] money if you tax it, but then people
+[18:06] complain. People don't like to be taxed
+[18:09] and there's a lot of complaining to be
+[18:11] done. So the better idea is to
+[18:16] borrow. So bonds are just a form of
+[18:19] borrowing. You issue a bond means you
+[18:22] borrowed money from people and but even
+[18:25] the terminology is very tricky you know
+[18:26] just people say I buy bonds you're not
+[18:28] buying nothing you're lending money to
+[18:31] whoever issued the bond
+[18:34] to and when central banks found out or
+[18:39] maybe governments found out that the
+[18:41] treasury could borrow in the public
+[18:44] market through issuing bonds then ah
+[18:48] this is cool but then again you hit a
+[18:50] limit and the interest rates start to go
+[18:53] up. Ah, enter the central banks. Great.
+[18:57] So, the central bank buys bond at an
+[19:01] artificially low interest rate. And who
+[19:03] benefit from the low interest rate? Of
+[19:06] course, the issuer of the bond, which is
+[19:08] the government that's running the
+[19:09] country. So the government gets to
+[19:12] borrow some money from the central bank
+[19:15] at an artificial low interest rate and
+[19:19] no
+[19:21] problem until we find out that the
+[19:23] central bank has no capital, no money to
+[19:26] lend. They just fabricated out of thin
+[19:29] air. So that's that's a cool trick about
+[19:32] bonds and um what had h what has
+[19:37] happened in the western world and you
+[19:40] know with the Fed in the States with the
+[19:42] European Central Bank with the Japanese
+[19:44] central bank with the United Kingdom
+[19:47] central bank and Canadian all the
+[19:50] central banks in the past five years
+[19:52] have issued an enormous amount of
+[19:56] debt which had no backing. It has been
+[20:00] fabricated out of thin
+[20:02] air and the result is galloping
+[20:07] inflation translated into asset prices
+[20:10] and then they the governments are very
+[20:13] smart. I mean the people in the
+[20:15] government are not stupid, you know. So
+[20:16] they have this thing called the CPI in
+[20:18] the consumer price indic. Oh no,
+[20:20] inflation is tame. Tame. Sure. They
+[20:24] wouldn't be publishing that thing. But
+[20:27] then how come asset prices have gone
+[20:29] through the roof? Why are houses uh now
+[20:32] you know the average house is I don't
+[20:34] know what 200,000 $400,000 in the US. It
+[20:37] used to be 15,000 you know a couple
+[20:39] years ago. and cars are 100 plus
+[20:42] thousand. They used to be 20,000. Oh,
+[20:45] but the CPI doesn't say that. So, it's
+[20:48] it's just a a tremendous construct by
+[20:52] these people in power to
+[20:55] separate people from their money to
+[20:58] separate the hardearned money of the
+[21:00] people and to put it into their coffers
+[21:03] so that they can continue on this
+[21:05] unabated spending spree. So that is why
+[21:09] I have a very dim view of bonds and in
+[21:12] my opinion anybody who buys a bond needs
+[21:15] to have his brain
+[21:17] examined. Yeah. Because it's absolutely
+[21:21] the worst proposition
+[21:23] ever. But you know amazingly uh again
+[21:27] governments are very smart. So there's
+[21:28] other institutions like pension funds
+[21:30] which are mandated by government to
+[21:32] exist and
+[21:34] then the m the pension funds are
+[21:37] mandated by government to buy the bonds.
+[21:39] So then they
+[21:41] can
+[21:44] say they can extract the money from the
+[21:47] pensioners. And of course the guys who
+[21:50] are worst off in in an inflationary
+[21:53] environment are people on a fixed income
+[21:56] mainly
+[21:58] pensioners. But we see a lot of old poor
+[22:02] people because their pension funds have
+[22:04] been buying bonds you know. So I think I
+[22:06] would call it the the biggest ripoff of
+[22:09] all times, the bond market.
+[22:13] Yes. Yeah, that's that's true. And I
+[22:14] mean maybe I can add some thoughts here
+[22:16] as well to what Ricardo said. I mean um
+[22:19] everything that he was saying we we we
+[22:21] described in more detail in the book and
+[22:23] maybe going back to this establishment
+[22:25] of the Bank of England which is really
+[22:26] like the father of all central banks you
+[22:29] know and if you really leap read between
+[22:31] the lines that's so interesting because
+[22:33] nowadays when we talk about central
+[22:36] banks and all the economists at the
+[22:38] governmentr run universities they're
+[22:40] sort of saying yeah the central banks
+[22:41] are here to help the economy to
+[22:44] administer to manage the economy but if
+[22:46] you read back Then it was really just to
+[22:49] finance wars, you know, was back then
+[22:51] when the English king wanted to raise
+[22:53] money against in his war against the
+[22:55] French people and and that's why he he
+[22:57] had to turn to something like the
+[23:00] central bank like the Bank of England
+[23:02] that was founded by a Scottish
+[23:04] businessman also William Patterson who
+[23:06] had this idea and it was really that uh
+[23:09] they collaborated also sort of with the
+[23:11] private sides that they just allowed
+[23:13] them to engage in this privilege as well
+[23:16] of of printing money. So they would uh
+[23:19] go out um um print uh money and have
+[23:23] this uh distribute to people who would
+[23:25] then deposit their precious gold at this
+[23:28] bank which was also called the
+[23:29] revolutionary bank in the beginning. And
+[23:32] that's really how they raised all the
+[23:34] money, the real money, the gold from all
+[23:35] these people that they that then was
+[23:38] lent on or given on to the the
+[23:40] government that was then able to finance
+[23:42] its wars. And that's really how it
+[23:44] started. And um yeah, the Bank of
+[23:46] England became like the poster child and
+[23:49] really the example for all the other
+[23:50] central banks. And out of then then also
+[23:53] the go government bond market um
+[23:55] developed because as as we were saying
+[23:58] as well before it was really before this
+[24:01] was established, the kings had to go out
+[24:03] to rich families and other people,
+[24:05] private people to raise money for wars,
+[24:08] you know, uh through through taxes or
+[24:09] then also borrow by by them loaning to
+[24:12] them. And this way it came more
+[24:14] anonymized, you know, because then you
+[24:16] could just turn these loans into public
+[24:18] debt sort of and you wrote and you you
+[24:20] you you got the money, you borrowed it
+[24:22] from the entire uh sort of um populace
+[24:26] that you had in your country. And this
+[24:28] was just perfected. It was established
+[24:30] in the 17th century and then over the
+[24:33] 18th and 19th century it was just
+[24:35] perfected uh by really
+[24:37] institutionalizing this coupling it to
+[24:40] sort of a public currency as well and
+[24:43] there uh from there yeah the the whole
+[24:45] disaster sort of unfolded and that's
+[24:47] what we discuss in in the book in in
+[24:50] great detail as well. If I might add
+[24:53] something
+[24:54] there, which I find that very few people
+[24:57] talk about is you mentioned um Pascal
+[25:00] that the the king or the government was
+[25:04] now able to borrow from the population
+[25:06] to finance his wars from the population
+[25:09] in his country. Well, yes, but you know,
+[25:12] it's not exactly correct. He's borrowing
+[25:15] not only from the population in his
+[25:17] country, but from all the ones that have
+[25:19] not been born.
+[25:21] So for all those of you who have this
+[25:23] democratic
+[25:25] instinct and at the end of the day you
+[25:27] can say well the people voted for this
+[25:30] is this what they got? No sir. When
+[25:32] we're talking about public
+[25:33] debt there's plenty of damaged people
+[25:36] who did not vote meaning all the
+[25:39] underage people who didn't vote and all
+[25:42] the unborn people who are not around
+[25:44] with us and who are going to have to
+[25:46] stay around to pay for the goddamn debt
+[25:48] forever and ever and ever and ever. So
+[25:50] it is really a a very pernitious policy
+[25:56] this government debt issuance and um it
+[26:00] it it does what I call it it breaks the
+[26:03] intergenerational pact. The
+[26:05] intergenerational pact is I will try to
+[26:09] leave a better world for my children
+[26:12] than I got from my
+[26:14] parents and that is how human progress
+[26:16] is done you know but no now we brought
+[26:19] the intergenerational
+[26:21] part and like uh the famous we the 14th
+[26:25] saying after
+[26:27] me the lu
+[26:30] the hell with it so it's a very
+[26:32] irresponsible policy that we're seeing
+[26:34] across the world, not only in the United
+[26:36] States, all over the world is the same
+[26:38] problem. what Ricardo just reiterated,
+[26:40] we also had this really summed up in
+[26:42] this one sentence that we had in the
+[26:43] book that we said with the establishment
+[26:46] of the Bank of England, the first
+[26:47] central bank, it was really this
+[26:49] monetary sin that humans created so to
+[26:52] say and and this suddenly suddenly
+[26:55] eroded the foundations of the democra
+[26:57] democratic state along with its legal,
+[26:59] institutional and political structures,
+[27:01] you know, and and as he just described,
+[27:03] many people nowadays don't see this, but
+[27:05] it's so interwoven and it's actually all
+[27:07] going back to this creation of this of
+[27:09] this uh fiat institution called the
+[27:12] central bank. There's there's a certain
+[27:14] innovation you know because remember
+[27:17] first we had to carry coins in the bag
+[27:18] and it was very difficult for commerce.
+[27:21] Then we invented the the bills of
+[27:23] exchange and then it it got perfected
+[27:26] but into paper bills, you know, that
+[27:31] were standardized issued and people
+[27:34] would accept them because the token was
+[27:37] backed by some redeemable amount of of
+[27:40] gold or silver and and I think those are
+[27:43] are great innovations. You know, you
+[27:45] need that kind of thing to have a a
+[27:47] prosperous modern economy.
+[27:51] Then well the first problem was this
+[27:54] delinking of the of the paper bill from
+[27:58] the redeemable
+[28:00] uh it lost its its uh redeemable factor
+[28:05] right it was gone. So now it's
+[28:07] nothing and then you know with
+[28:10] technology and computers we became used
+[28:12] to digits. So now we don't even need
+[28:14] paper money. We we laugh at that and and
+[28:17] we see our whole wealth in the palm of
+[28:19] our hand in our in our phone. It says
+[28:21] you got so much Apple stock and it's
+[28:23] worth so much and you got so much you
+[28:25] know Facebook and it worth so much and
+[28:28] and and we're very happy with these
+[28:30] digits that appear on our screen. But
+[28:33] bottom line
+[28:35] is these
+[28:37] tokens in order to be useful they need
+[28:41] to be exchanged for something
+[28:43] real
+[28:46] and the the abuse in the issuance of
+[28:51] tokens leads to very bad things. For
+[28:54] example, you know, we have this this
+[28:55] discussion going on in the world now
+[28:57] about Tether. you know this USDT which
+[29:00] is a token which is redeemable for
+[29:02] dollars and the people of Tether have
+[29:05] done a great job. They're very smart
+[29:06] people and they take dollars and they
+[29:09] have it in very liquid form and they
+[29:12] issue tokens that are put on a
+[29:14] blockchain and those tokens of USDT will
+[29:17] be redeemed one for one for dollars.
+[29:20] Well, but my friends at Tether will
+[29:23] never go on TV and say, "Oh, we're
+[29:25] leaving the convertibility and now you
+[29:27] can just trade the
+[29:29] Tethers." We have to kill them all and
+[29:32] put them in jail. Huh? So, they would
+[29:33] never do that because this is a
+[29:35] onetoone guaranteed token, right? Uh
+[29:38] well, but the government is not
+[29:40] constrained by that. They can issue all
+[29:42] the money and all the tokens they want
+[29:44] with no compunction and no shame. You
+[29:48] know, this is plain robbery in plain
+[29:52] sight.
+[29:53] The Bitcoin Standard podcast is brought
+[29:55] to you by Coin Kite. Coin Kite are my
+[29:58] favorite makers of Bitcoin hardware.
+[29:59] They produce the legendary open dime,
+[30:01] the first Bitcoin bearer asset, as well
+[30:03] as the reliable cold card hardware
+[30:05] wallet, the excellent stainless steel
+[30:07] seed plates for storing your seed
+[30:09] phrases, and the block clock. Now, Coin
+[30:12] Kite have produced the SATS card, a card
+[30:14] the size of a credit card which can
+[30:16] store Bitcoin and works great as a gift.
+[30:19] Coin Kite have just produced a limited
+[30:21] edition gorgeous Bitcoin standard SATS
+[30:23] card which carries the Bitcoin Standard
+[30:25] logo and you can get it from Coin
+[30:29] Kite.shop/bitcoinstandard. Use the code
+[30:30] Bitcoin Standard to get 5% off your
+[30:32] purchase. This podcast is also brought
+[30:35] to you by the Bitcoin Way, your
+[30:36] professional Bitcoin IT team offering
+[30:39] you personalized, secure and
+[30:41] comprehensive solutions for every step
+[30:43] along your Bitcoin journey. The Bitcoin
+[30:45] way offer live concierge service to
+[30:47] guide you with your Bitcoin cold
+[30:49] storage, running your node, privacy best
+[30:51] practices, inheritance planning,
+[30:54] corporate strategy, and multi-IG
+[30:56] solutions. They don't touch your coins.
+[30:58] They guide you through the process of
+[30:59] acquiring your coins and securing them.
+[31:02] If you'd like to make your setup safer
+[31:04] and more reliable, book a consult with
+[31:06] them and see what they have to suggest.
+[31:08] If you want to give someone the gift of
+[31:10] Bitcoin, get them this professional
+[31:12] service that will ensure they start off
+[31:14] knowing exactly how to manage their
+[31:16] coins and not lose them. Go to the
+[31:19] bitcoinway.com and start bitcoining more
+[31:21] confidently.
+[31:23] Yeah, I think an an enormous part of
+[31:26] this rests on the idea that um you need
+[31:30] to have this game of uh governments and
+[31:34] banks buying bonds as you describe it.
+[31:38] You have a nice graphic that explains it
+[31:39] where the government gives the banks the
+[31:43] license to
+[31:45] basically make money out of thin air and
+[31:49] in exchange the governments the banks
+[31:52] use their depositor's savings in order
+[31:56] to buy the government's bonds
+[31:59] effectively lending the entire nation's
+[32:02] wealth to the government. And so it's a
+[32:06] wonderful deal for both of them at the
+[32:09] expense of everybody else. So if you
+[32:11] don't happen to be one of uh them, then
+[32:14] this is a terrible deal for you. But if
+[32:16] you are one of them, you know,
+[32:17] congratulations. You made it. And let me
+[32:20] add to that. There's two things there.
+[32:22] Well, the central bank has the capacity
+[32:24] to lend money that doesn't exist. They
+[32:28] just fabricate it out of thin air. Okay?
+[32:32] commercial banks, they have the capacity
+[32:34] to use other people's money, their
+[32:37] depositor's money to make loans, which
+[32:40] is different. You cannot just fabricate
+[32:42] it. You have to have some deposits in
+[32:45] there. And then because of fractional
+[32:47] reserves and so forth, there's a
+[32:49] multiplying effect in the system. But
+[32:51] but the point
+[32:52] is there's another original sin which I
+[32:55] I don't think we've covered yet.
+[32:57] But yeah, it's called uh borrowing uh
+[33:01] short and lending long. And this is
+[33:03] something that was that was also very uh
+[33:06] uh problematic in 18th century and 19th
+[33:10] century England. There's a fantastic
+[33:12] book called Lombard Street and how the
+[33:17] the financial system of those years was
+[33:21] constantly overextending in longerterm
+[33:23] loans. assets were at long term and then
+[33:28] the liabilities were at short term. So
+[33:30] if any scare or any problem happened,
+[33:34] the depositors will go to the banking
+[33:36] system say give me my money. And the
+[33:38] banking system say I'm sorry I lent it
+[33:40] to such and such venture or we made a
+[33:43] house or or or we finance some trade and
+[33:47] you know then the whole discussion about
+[33:48] oh it's not that we're broke. It's not
+[33:51] that we're broke because we have assets.
+[33:54] No, it's just that we don't have the
+[33:55] money to pay you out, which is they call
+[33:58] it
+[34:00] illi liquidity instead of insolvent.
+[34:02] It's the same you know? They can't
+[34:04] pay, can't pay, can't pay. So, that's
+[34:08] another function of the central bank.
+[34:10] They step in as a lender of last resort.
+[34:13] They fabricate money to bail out the
+[34:16] bankers from their previous mistakes. So
+[34:20] all of this of course has cost and it
+[34:23] all is
+[34:24] trans transported or or transl
+[34:27] translated into into less purchasing
+[34:30] power for the currency which for which
+[34:33] all the people in the country pay for.
+[34:35] Yeah I think safe um the this the
+[34:38] elusive schematic that you were
+[34:40] referring to I think is really the one
+[34:41] that maybe we can show it also in the in
+[34:44] in in the show notes or something. It's
+[34:46] really that treasury issues and sells
+[34:48] government bonds. This is what it does.
+[34:50] You know, the treasury of any
+[34:51] government. And then you have banks who
+[34:53] buy these government bonds as you
+[34:55] already said with the money of their
+[34:56] depositors. And then these same banks
+[34:59] can also use these government bonds
+[35:00] again to get to central bank to go to
+[35:03] central banks and get more reserves in
+[35:05] exchange. And with these reserves, these
+[35:08] reserves allow to allow the banks to buy
+[35:10] the government bonds again. And so we
+[35:12] have this sort of vicious cycle. Maybe
+[35:14] it's a little bit uh shortsighted here,
+[35:16] but still it gets the the main idea
+[35:18] across that it's really this J kiting
+[35:21] scheme that's going on. And we really
+[35:23] refer here to a term which was also used
+[35:26] by this monetary economist Antalite
+[35:29] which I think again was a great friend
+[35:30] of of Ricardo's father and probably of
+[35:32] Ricardo as well. And so uh he described
+[35:35] this for the first time where I actually
+[35:37] read this and I was really convinced
+[35:38] that this is just as I said a a check
+[35:41] guiding scheme that's going on and is
+[35:43] sort of just as I said an elusive
+[35:46] schematic that doesn't add up in the
+[35:48] end. Well Ricardo I'm wondering what is
+[35:52] your explanation for why fiat money has
+[35:56] survived for as long as it has? I think
+[35:59] uh people like your father and your
+[36:01] grandfather would have expected that
+[36:02] this would have uh ended in disaster. I
+[36:06] guess one way to answer that would be
+[36:08] that it it has ended many many times and
+[36:11] you know you particularly in a place
+[36:12] like Mexico you've had many currencies
+[36:15] die. So you've been vindicated many
+[36:18] times but they keep rising from the dead
+[36:22] and some of them don't even die when
+[36:24] they die you know they bleed slowly. So
+[36:27] how do we fix that and what explains
+[36:29] that? On the one hand, the driving force
+[36:34] is the in inextricable link between big
+[36:38] government, big spending and fiat money.
+[36:41] I mean it has to be like that. You
+[36:44] cannot have it another way. So that's
+[36:47] one factor. Okay. But the other thing
+[36:50] the other thing that we usually don't
+[36:52] talk about is that it's also very
+[36:54] convenient to have you know these digits
+[36:58] on computers that can fly across the
+[37:00] world and transfer value from here to
+[37:02] there and uh it's very convenient to be
+[37:04] able to
+[37:05] issue to borrow on the on the
+[37:08] international markets for corporate
+[37:10] developments and also the government. So
+[37:13] it's convenient to have debt. Now, I'm a
+[37:17] big user of debt and I've had my share
+[37:19] of uh scrapes with that because when you
+[37:22] when you take uh on debt, you're also
+[37:25] increasing the risk of the whole
+[37:27] venture. And when the whole system as as
+[37:30] a whole is heavily indebted, the risk of
+[37:34] the system blowing up goes up. So again,
+[37:37] you know, this is a thing of human
+[37:38] nature. I mean, humans, we live, we were
+[37:41] born, we're we're children, we get
+[37:43] educated, we get middle of life, and
+[37:46] then we die, and everything that we
+[37:48] learn, we forget because we're dead. But
+[37:50] there's new generations showing up, and
+[37:53] they are not necessarily on the same
+[37:55] place in the learning curve as the rest
+[37:58] of us. So, a younger world will be a
+[38:02] more ignorant world, you know. So, there
+[38:04] you have it. So there several things but
+[38:07] it's at bottom line is that we're in a
+[38:10] world of big government big spending and
+[38:14] it needs to have this fiat fraud in
+[38:17] order to sustain itself. Let me just add
+[38:20] to this again. I mean there's one idea
+[38:22] that we describe in the book is also
+[38:24] that they always have another trick up
+[38:26] their sleeves. you know, as you said,
+[38:28] safe. I mean, the system would have
+[38:29] collapsed maybe many times, but then uh
+[38:32] and some people have done this before.
+[38:33] They describe the Federal Reserve really
+[38:36] as the department of acronyms, you know.
+[38:38] So, whenever there is a crisis, they're
+[38:40] never short of an acronym that can come
+[38:41] up come up with another sort of acronym.
+[38:44] Nobody understands what it is, but it's
+[38:46] just a way to bail out the system. And
+[38:48] and I think that's probably yeah, why
+[38:50] they have so many more tricks up their
+[38:52] sleeves. Uh and as Ricardo said, it's
+[38:54] also the this conglomerate of of private
+[38:57] interest of of of big interest of
+[38:59] corporation, corporatism of what it's
+[39:01] called. And so that's why it has never
+[39:03] ended. And and and that's really the
+[39:05] question is it ever going to end or
+[39:07] don't we have to opt out uh by by going
+[39:10] into Bitcoin? And that's something that
+[39:11] we describe in the book as well. I think
+[39:14] that this opens up a whole new ball game
+[39:16] and that's why we're so optimistic and
+[39:18] and Bitcoin is now in the stage of being
+[39:21] revalued to its actual usefulness for
+[39:25] the world. It started at nothing and
+[39:28] it's been moving up and up and up and
+[39:30] people con constantly say, well, how how
+[39:32] high is he going to be up? How high is
+[39:34] it going to go? And
+[39:36] well, depends. The more people find it
+[39:38] useful, the more valuable it's going to
+[39:41] be. So, but but at the end of the day,
+[39:44] we should all get used to thinking that
+[39:46] it's it's in Bitcoin terms that we need
+[39:49] to think and not in dollar terms or peso
+[39:52] terms or eo terms and that's that. And
+[39:56] the the faster we get to that
+[39:57] realization, the better we will be off,
+[40:00] you know. Yeah. I I really like what you
+[40:02] said before that um the next generation
+[40:04] has to relearn certain things. So when
+[40:07] we interviewed you first
+[40:10] um you used very strong language um when
+[40:14] describing the uh fiat system like like
+[40:17] we discussed before you call it the
+[40:19] fraud the narrow fall. So and um after
+[40:23] studying that interview again I realized
+[40:27] that the your voice is a v a wakeup call
+[40:30] for the next generation to not make the
+[40:32] same mistake again. Um, and I or Pascal
+[40:36] and I, we really like that that you are
+[40:39] a voice not only for the Bitcoin
+[40:42] community, but al but also for like all
+[40:44] the people that follow you, also the
+[40:46] people that follow you because of your
+[40:48] business ventures and entrepreneurial
+[40:50] spirit.
+[40:52] Um, you you wake the people up to what's
+[40:55] going on and I think that's super
+[40:57] important. And we also try to capture
+[40:59] this wakeup call in I think in one of
+[41:02] the first chapters, chapter two, where
+[41:04] we try to uh list all these lies that we
+[41:08] believe about fiat money and um yeah, I
+[41:12] think it's super important to wake up
+[41:13] the next generation to what's going on.
+[41:15] So what you're doing with being
+[41:17] outspoken about that is super important.
+[41:20] Thank you. Yeah, it's really very
+[41:22] valuable that um we we've gotten
+[41:26] billionaires on team Bitcoin because uh
+[41:29] it makes it very hard to offer the usual
+[41:32] kind of criticism which is haha this is
+[41:34] just a bunch of loser nerd libertarians
+[41:37] who are trying to scam the world because
+[41:41] when you know people like Michael Sailor
+[41:44] and Ricardo Selena show up it makes it
+[41:46] very hard to uh make that argument.
+[41:51] And it's uh you know no joking it's it's
+[41:54] enormously influential because young
+[41:56] people look up to figures like you and
+[41:59] uh in many cases unfortunately people in
+[42:02] those figures get uh tempted to uh use
+[42:06] their
+[42:08] uh their platforms to appeal to what
+[42:12] people want to hear. And it's uh it's
+[42:15] it's sad because it's destructive. It's
+[42:18] damaging and uh it's
+[42:22] uh it's it's terrible for the people
+[42:24] that uh listen to it. You know, uh you
+[42:27] see all of this concern about things
+[42:29] like climate change and inequality and
+[42:32] uh
+[42:34] uh having government provide for people.
+[42:37] You see a lot of rich people go down the
+[42:39] path of doing this because it is the
+[42:41] easier way. It's more popular. it's
+[42:42] going to get you more uh credit from
+[42:46] people and also it's uh better uh for
+[42:53] manipulating people. You know, generally
+[42:56] uh you can use this kind of uh uh
+[42:58] rhetoric in order to get more government
+[43:02] intervention which you could then use to
+[43:03] your benefit. And that's what usually
+[43:05] motivates this. There's always the uh
+[43:08] fancy rhetoric of we're doing this to
+[43:10] save the world, but in reality, people
+[43:13] benefit from it. And yet, you're out
+[43:15] there telling people to basically just
+[43:19] uh go out there, depend on themselves,
+[43:21] be productive, don't count on
+[43:22] government. It's very valuable. Thank
+[43:24] you for that. Healthcare is one of the
+[43:26] biggest problems in fiat world and
+[43:28] health insurance in particular. In my
+[43:30] work and on this podcast, we've
+[43:32] discussed at length the many ways in
+[43:34] which modern medicine and insurance
+[43:35] fail. And I'm very proud to be
+[43:37] presenting my listeners with an
+[43:39] excellent Bitcoin-based alternative.
+[43:42] Crowd Health is a crowdfunding model for
+[43:44] health problems and one that can save
+[43:46] you enormously compared to the broken
+[43:48] insurance model. I've hosted the founder
+[43:50] Andy Skoon over twice to discuss crowd
+[43:52] health and everyone I've recommended to
+[43:54] join them has been very satisfied. For
+[43:57] $175 for an individual or
+[44:00] $575 for a family of four or more,
+[44:03] you'll get access to a community of
+[44:05] people who are willing to help out in
+[44:06] the event of an emergency. Let Crowd
+[44:09] Health help you with your health care
+[44:10] needs. Get started today for just $99
+[44:13] per month for your first 3 months by
+[44:16] using code safe sif at
+[44:20] joincrowalth.com. Crowdalth is not
+[44:22] insurance. Learn more at
+[44:24] joincrowalth.com.
+[44:27] and use the code safe. S A I F. Yeah.
+[44:31] Well, I I think you know that's why for
+[44:33] me the the the the combination of a a
+[44:38] social and political uh view of things
+[44:41] and Bitcoin is totally complimentary.
+[44:45] Now, I'm a libertarian. I'm a Randian.
+[44:48] You know, I've been around for a long
+[44:50] time. I'm starch anti-communist,
+[44:53] antis-ocialist,
+[44:55] anti-colctivist, you know, and all those
+[44:59] uh
+[45:01] philosophies lead to destruction. You
+[45:03] know, I'm a firm believer that the
+[45:04] philosophy of freedom and and individual
+[45:08] choice is the way to go. And and
+[45:11] because, you know, my usual speech,
+[45:13] because you're free, then you can act
+[45:16] and you can act with innovation. And
+[45:19] innovation creates either something for
+[45:22] the better or for the worse. If it's for
+[45:24] the worse, it dies. If it's for the
+[45:25] better, it stays. And we're all better
+[45:28] off because of the innovation. And then
+[45:30] because of the innovation, it attracts
+[45:31] competition. And competition makes more
+[45:34] of that and even better. And that is how
+[45:36] you raise human progress. It re it ends
+[45:39] up with prosperity for everybody. And
+[45:41] that's what's happened in the world for
+[45:43] the past two or 30 hund years since the
+[45:45] industrial revolution and the liberal u
+[45:49] uh philosophical dominance that we used
+[45:52] to have.
+[45:55] Unfortunately, there's a counterurrent
+[45:57] to all of that comes from the left wing
+[46:01] which is anti-freedom. It means slavery.
+[46:04] People are now supposed to follow orders
+[46:07] and not ask questions. and everybody has
+[46:10] a spot in the world and that's where
+[46:12] you're going to be. Don't discuss you're
+[46:14] a slave. And then slavery, how can
+[46:16] slavery result in innovation? It's
+[46:18] impossible. And people will do exactly
+[46:20] the same what they're told and maybe not
+[46:23] even that because it's boring. And that
+[46:25] will not have competition. You will have
+[46:27] monopolies of government monopolies
+[46:29] which as we know are terribly
+[46:31] inefficient and corrupt. And what does
+[46:33] that lead to? Misery. So what we need is
+[46:36] you know a very simple philosophy. I
+[46:39] tried to tell that to young people. What
+[46:41] side are you going to be on? The side of
+[46:44] the right, which is freedom, or the side
+[46:46] of the left, which is slavery? And by
+[46:49] the way, if you're on the right, you
+[46:50] should be on Bitcoin. Excellent. Okay.
+[46:53] And um what what are your uh thoughts on
+[46:57] economics in general?
+[46:59] Um what where do you see things going
+[47:01] and what kind of uh advice given the way
+[47:04] that the world economy is going now?
+[47:06] What kind of advice would you offer to
+[47:08] younger people? young entrepreneurs,
+[47:09] people in their 20s who want to be where
+[47:11] you are um in the next 20 years or 30
+[47:14] years. Given where the world is going,
+[47:17] what do you suggest? Is it just sell
+[47:20] everything and buy Bitcoin at this point
+[47:21] or uh I I think that's a very important
+[47:23] question. I'm glad you asked it. So,
+[47:26] we've been we speak of Bitcoin a lot in
+[47:28] in terms of investment. So when you have
+[47:31] produced enough surplus through the
+[47:34] activities in your life and then you
+[47:37] have to think about investments that's
+[47:39] when the option of bitcoin is so clear
+[47:43] instead of buying stocks and bonds and
+[47:46] real estate and I don't know art jewels
+[47:50] gold you can buy bitcoin this is a
+[47:53] completely new alternative asset class
+[47:56] for the investment world but you know in
+[47:58] order to be in the investment world, you
+[48:00] have to have some money to invest. And
+[48:02] to get that money, first you have to
+[48:04] work your butt off, you know. So you
+[48:06] young people should
+[48:09] think in in terms of where can they be
+[48:12] more successful because obviously if you
+[48:15] live in a in a backward country in
+[48:19] Africa, you don't have the same
+[48:21] opportunities, right? If you live in
+[48:23] Mexico City or you live in in
+[48:26] Switzerland or wherever, there's
+[48:28] different opportunities in different
+[48:30] places. And that is why it's so
+[48:32] disappointing to see what's happening in
+[48:34] Europe because there's lots of young
+[48:36] people that are well educated and they
+[48:38] can't do nothing. They can't do nothing
+[48:40] because everything is forbidden and
+[48:43] everything is regulated. So my
+[48:46] suggestion for young people is to move
+[48:48] their butt off to some place where they
+[48:51] can actually do
+[48:52] something without being put in jail for
+[48:55] violating some regulation or another.
+[48:58] And it's not an easy thing, you know,
+[49:01] and that's why the idea of the digital
+[49:03] nomad is not bad. You can go around and
+[49:05] figure it out. Um most places they have
+[49:09] lots of regulations, but then they're
+[49:10] ineffective and they're not enforced. So
+[49:13] you can actually do things and so people
+[49:17] should who want to get rich you know you
+[49:20] can only get rich if you do something
+[49:22] for other people so that they give them
+[49:25] they the other people
+[49:27] give you money that's the way to get
+[49:31] rich if I'm rich it's because I've done
+[49:33] a lot of things for millions of people
+[49:35] like what like selling them motorcycles
+[49:37] like selling them televisions and then
+[49:39] making them loans and then giving them
+[49:41] internet service They give me money for
+[49:43] all of those things and that's why I'm
+[49:46] rich and successful. So what can you do
+[49:49] for millions of
+[49:51] people? That's how to get rich. And once
+[49:54] you get rich and you have some excess
+[49:56] funds, buy Bitcoin. I I I mean we also
+[49:59] we also talked about this in the book,
+[50:01] you know, this very question between
+[50:03] sort of um should we invest in Bitcoin
+[50:06] or should we do something else? And I
+[50:08] think uh we tackled this question the
+[50:10] way with the we borrowed the words uh of
+[50:12] the wise Muhammad Gandhi when he wrote
+[50:15] those who hold Bitcoin are the change
+[50:17] they want to see in this world you know
+[50:19] and I think that's really what we're
+[50:20] seeing right now that Bitcoin the world
+[50:22] in and of itself offers so many
+[50:24] opportunities also when it comes to
+[50:26] being an entrepreneur because there's a
+[50:28] new system being built there. It also a
+[50:32] way that it instills a new sense of
+[50:34] excitement in all these people and yeah
+[50:36] it's not only about gaining wealth that
+[50:39] makes you influential but you you're
+[50:41] gaining recognition by by being in the
+[50:43] Bitcoin ecosystem and all of a sudden
+[50:45] you find yourself among the movers and
+[50:47] shakers of this world just because
+[50:49] Bitcoin itself is growing in relevance
+[50:52] and so this is really something that
+[50:54] what that we're seeing uh right now in
+[50:56] the world you know because like the
+[50:57] social impact that Bitcoin can have for
+[51:00] countries for politicians like Trump who
+[51:02] are now also warming up to Bitcoin for
+[51:04] for what whatever reason. Uh and so this
+[51:07] is all also described in the book that
+[51:09] Bitcoin has this this sort of mind virus
+[51:12] uh that really can uh get you excited
+[51:14] and and get you off your butt and and
+[51:16] work work hard to become successful as
+[51:18] well.
+[51:20] Fantastic. Okay. And in concrete terms,
+[51:24] um where do you see the world economy
+[51:27] going? you know, um I'm going to take
+[51:29] advantage of this and try and milk this
+[51:31] for as much alpha for my listeners as I
+[51:34] possibly can get out of you. Um what
+[51:37] what are your uh general views on the
+[51:40] way things are going? Are you one of the
+[51:41] people freaking out about a recession
+[51:44] because of all of those tariffs or do
+[51:46] you think uh it's not going to be so
+[51:49] terrible they're going to back down and
+[51:51] sort it out or what do you think? I I
+[51:53] would point out two things. Uh number
+[51:55] one is another another very
+[51:58] pernitious issue that comes up with fiat
+[52:01] fraud and central bank intervention and
+[52:04] creation of fake money is
+[52:08] that we should have had in the past 50
+[52:13] years an enormous deflation of prices
+[52:18] because everything is better, cheaper,
+[52:22] more functional. And there's been
+[52:24] enormous value created through the
+[52:26] introduction of things like the the the
+[52:29] the mobile computers that we call
+[52:32] telephones by the invention of the
+[52:34] internet by the uh Moore's law. So we
+[52:40] should have had a huge
+[52:43] deflationary beneficial effect for
+[52:47] people and that has not happened because
+[52:51] not only didn't we not have deflation,
+[52:53] we had inflation. So the central banks
+[52:56] and the governments have stolen from the
+[53:00] people not only the purchasing power
+[53:02] that existed but also the benefits of
+[53:05] the deflationary technology.
+[53:08] So why I'm saying that is because we
+[53:11] still are living in a deflationary world
+[53:15] in terms of technology because of many
+[53:18] factors and artificial intelligence
+[53:20] being one of them. So things should be
+[53:23] less expensive. It's normal
+[53:26] natural
+[53:27] and we have been sold this bad idea you
+[53:32] know that deflation is terrible. Nobody
+[53:34] wants deflation. No, of course not.
+[53:36] Especially if you owe money, you don't
+[53:38] want to be in a deflationary environment
+[53:39] because you got to pay more, you know,
+[53:41] and who's the biggest debtor of the
+[53:43] government? So, they don't want
+[53:44] deflation. They want inflation to
+[53:46] liquefy all the debt. So, I don't see
+[53:49] that changing. On the contrary, it's
+[53:54] very clear
+[53:56] that the enormous amount of
+[53:59] debt is causing an enormous amount of
+[54:02] interest
+[54:04] payments and they don't have money to
+[54:06] pay it. So, guess what they're going to
+[54:10] do? Print more money. Digital money.
+[54:15] That's obvious. So, what's that going to
+[54:17] do for the economy? Going to overheat
+[54:20] it. So most probably is stocks continue
+[54:25] to go up and consumption continues to go
+[54:28] up until that
+[54:31] day when the party the music stops and
+[54:34] the party's over and somebody's left
+[54:35] holding the bag which was what happened
+[54:37] to Mexico in the 80 in 828 you know
+[54:40] there was no more money couldn't you
+[54:42] couldn't refinance and that's what we
+[54:45] call a collapse and and the way out of
+[54:48] it is to make people poor
+[54:51] and to write off debts and that is
+[54:53] called devaluation. And it was very
+[54:55] interesting. I just last night I was
+[54:57] watching a video by Ray Deio which I
+[54:59] think is a very interesting guy and
+[55:02] powerful thinker and he was explaining
+[55:05] to people what a devaluation is. Imagine
+[55:09] Americans do not know what a devaluation
+[55:12] is. I think Europeans don't know what a
+[55:15] devaluation is. I know what it is. It
+[55:17] feels terrible. So I would expect more
+[55:21] of that right now. I also expect that
+[55:24] technology will continue.
+[55:27] Absolutely. In terms of tariffs, that is
+[55:29] a terrible thing. You know, why would a
+[55:32] tax be a good thing? And why would this
+[55:34] person in in the US dictate what some
+[55:39] people can buy and what other people
+[55:41] cannot buy? What right do they have to
+[55:44] decide where people should buy their
+[55:46] stuff? You know, it's it's ridiculous
+[55:50] and and all all this
+[55:52] anti-globalism
+[55:53] talk is is very contaminated
+[55:57] by by all these factors that we're
+[56:00] saying less purchasing power, less
+[56:02] mobility, more regulation. People feel
+[56:05] frustrated and they say, "Well, who
+[56:07] whose fault is it?" Well, it's somewhere
+[56:08] in somebody else's fault, not our fault,
+[56:10] somebody else's fault. So, let's close
+[56:12] the border. I mean politically I know I
+[56:15] understand where it comes from but
+[56:17] practically it is a very bad idea
+[56:20] because it's again instead of making
+[56:23] things more accessible and less
+[56:25] expensive things are going to become
+[56:27] more expensive and less accessible. How
+[56:29] can that be good and the coffers of the
+[56:33] government will bulge through the tax
+[56:35] collection at the borders? Very bad
+[56:38] idea. So, I'm not very positive about
+[56:41] the economy in general. Uh, I think that
+[56:44] anybody who has an investment portfolio
+[56:47] should be extremely careful because of
+[56:50] the the way that stocks are valued today
+[56:53] is ridiculous. I don't own a single
+[56:57] stock other than gold miners, Bitcoin
+[57:00] miners, and in a very small proportion.
+[57:02] And that's why my portfolio is 80%
+[57:05] Bitcoin and Bitcoin exposure through
+[57:06] miners and 20% gold and gold exposure
+[57:09] through miners and that's it. That's my
+[57:11] investment portfolio. No, I don't know.
+[57:13] Why do I still have gold?
+[57:17] Well, I could probably move to 100%
+[57:19] Bitcoin, but uh maybe I need a little
+[57:22] bit more time, you know, being an old
+[57:24] guy and all that.
+[57:27] Well, Ricardo, your team is informing me
+[57:29] that we must uh end this interview. your
+[57:31] time is uh coming up. Um uh your your
+[57:35] time is running out. I want to thank you
+[57:36] so much for this and if you have any
+[57:38] more uh final thoughts to share with us
+[57:41] uh please do. Listen, I just want to say
+[57:43] that your book about uh the Bitcoin
+[57:46] standard was amazing. It really an eye
+[57:48] openening book. I highly recommend it to
+[57:50] anybody as the first step in getting
+[57:53] educated. And I really like the idea of
+[57:56] this evolution of money. And and when
+[57:59] you understand money as a technology and
+[58:03] as a technology that evolves to be more
+[58:06] useful and better, then you get an
+[58:09] immediate sense of why Bitcoin is so
+[58:11] important. I think people would do
+[58:13] really well if they studied that. So I
+[58:16] know all my kids are now Bitcoin nuts.
+[58:18] and uh it all started out explaining to
+[58:21] them about these shells and the and the
+[58:24] inflation that you can do and so forth.
+[58:28] So, congratulations on that. And for me,
+[58:30] it's it's been a pleasure to talk to you
+[58:32] and I wish you luck. I know you're going
+[58:34] off to the Bitcoin conference in Vegas
+[58:37] pretty soon. So, have a big uh audience
+[58:40] there and make sure to keep on spreading
+[58:43] the word. It's important to educate the
+[58:44] new generations.
+[58:46] Thank you. Thank you so much, Ricardo.
+[58:48] And yes, the Bitcoin standard. I agree
+[58:50] with you. I have to agree. It's it's
+[58:52] it's a good book, if I may say so
+[58:53] myself. And you can get both the Bitcoin
+[58:56] standard and the Bitcoin enlightenment
+[58:57] from the
+[58:58] safehouse.com. They're now both
+[59:00] available. So go and order them
+[59:02] audiobook, ebook, or hardcover book. You
+[59:05] can get it from the safehouse.com and
+[59:08] many other great books as well. Thank
+[59:10] you so much and uh have a good day.
+[59:15] [Music]
+[59:20] [Music]
+[59:26] Heat. Hey, Heat.
+[59:30] [Music]

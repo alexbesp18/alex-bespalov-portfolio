@@ -1,0 +1,1437 @@
+Title: Bitcoin's ATH in 2025: Hashrate & TX Fees PROJECTING a HUGE Price SURGE!
+Video ID: yTqG-o7m-54
+URL: https://www.youtube.com/watch?v=yTqG-o7m-54
+Date Saved: 2025-06-15 11:44:57
+--------------------------------------------------
+
+[00:00] Bitcoin will overshoot at a certain
+[00:02] point next year hash rate kind of broke
+[00:04] out of of that fouryear cycle that now
+[00:07] it has a very high likelihood that the
+[00:09] price also is breaking out of the cycle
+[00:12] the hash rate has been continuously
+[00:13] growing and at a faster Pace than uh the
+[00:16] Bitcoin price it's only recently that
+[00:19] we've seen that price is outpacing Hash
+[00:21] rate again after having a couple of
+[00:23] times the transaction fees were actually
+[00:26] bigger than the block subsidy you see
+[00:27] these big spikes in transaction fees
+[00:29] around the bull market top and
+[00:35] bottom said in the beginning that you
+[00:38] work on an annual review of of the year
+[00:41] which is super interesting for me um and
+[00:44] this episode will probably come out
+[00:46] either right before the year end or a
+[00:49] little bit like in the first few days of
+[00:51] of the next year uh which is perfect for
+[00:53] an annual review what have you seen this
+[00:56] year what are some of your highlights
+[00:58] and and what was this year about for for
+[01:00] you yeah so the annual review is is
+[01:03] focused on mining right because uh my
+[01:05] business digital mining Solutions is uh
+[01:08] is working in the in the mining space uh
+[01:11] and we offer various solutions to uh or
+[01:13] services to miners so we help them out
+[01:15] with their marketing efforts we we do
+[01:18] side brokerage and sell Rec Space as we
+[01:21] call it on behalf of miners uh and
+[01:23] provide consultancy services advice uh
+[01:27] but a big part of uh of of our job is
+[01:31] education so uh we publish a Weekly
+[01:34] Newsletter uh provide master classes
+[01:37] presentations workshops uh and then uh
+[01:40] each quarter we do a quarterly review
+[01:43] which is usually uh a review in in in 21
+[01:46] charts so quite compact going over all
+[01:49] these type of charts and then explain
+[01:51] where we are in the in the mining cycle
+[01:54] let's say uh and then once a year we do
+[01:55] this annual review uh and uh yeah 2024
+[02:00] being a Haring year is obviously uh uh
+[02:03] an event you cannot go around so uh we
+[02:07] uh we look at the at the Haring quite a
+[02:09] bit uh but also at the hash rate growth
+[02:12] so the how much the the network has
+[02:15] grown what what are 21 charts
+[02:20] like so I I do a lot of mining economics
+[02:24] analysis so it's I I used to do a lot of
+[02:27] trading so when I got into Bitcoin in 20
+[02:29] 20 or
+[02:31] 2017 uh I did a lot of altcoin training
+[02:35] trading to get more BTC right so alts
+[02:38] versus Bitcoin uh charts uh so I spend a
+[02:42] lot of time looking at charts doing
+[02:44] analysis and that I've brought to the to
+[02:46] the mining uh industry because there was
+[02:49] not a lot of uh uh analysis being done
+[02:52] while there's a lot of data out there so
+[02:55] uh um these 21 charts usually starts off
+[02:58] with price so what did the price do uh
+[03:02] we look at uh at the fear and greed
+[03:04] index we look at the uh two um uh
+[03:08] two-year U moving average multiplier so
+[03:11] we look at whether Bitcoin is
+[03:14] undervalued or
+[03:16] overvalued uh and price obviously is an
+[03:18] important influence on uh on
+[03:21] profitability for miners but it also is
+[03:23] important to understand where Bitcoin is
+[03:25] in the cycle in order to know how to
+[03:28] manage your treasury right
+[03:30] whether you're going to sell all your
+[03:32] Bitcoin to cover your operational cost
+[03:34] or whether maybe uh revenue from other
+[03:37] uh in or other streams you use for uh
+[03:40] for covering those operational costs
+[03:42] whether you should perhaps scale out a
+[03:44] bit of uh your Bitcoin position to to
+[03:47] gather uh a pile of cash in order to be
+[03:50] able to scale up your business your
+[03:52] mining business at the later stage so
+[03:54] price is uh is important in different
+[03:58] aspects uh and next to prise we look at
+[04:01] hash rate so the amount of computing
+[04:03] power that's online and the impact it
+[04:05] has on the difficulty adjustments uh we
+[04:08] look at transaction fees uh which has
+[04:11] been uh quite volatile over the last two
+[04:15] years let's say there's been high spikes
+[04:18] because of ordinals because of runes uh
+[04:21] and other
+[04:22] protocols um and and there's been
+[04:24] periods of uh of very low uh uh
+[04:27] transaction fees so we look at
+[04:29] transaction fees um and then uh we look
+[04:33] into a indicator which is called hash
+[04:35] price so that's a revenue per computing
+[04:38] power unit uh per day um on a on a fleet
+[04:44] level mining Fleet level we look at beta
+[04:46] H hashes which is a th Tera hases and
+[04:49] the machines are usually measured in in
+[04:51] Tera hases so we look at uh at that hash
+[04:55] price action so how how much revenue can
+[04:58] miners get for the computing power they
+[05:00] have and where are we in in the cycle
+[05:02] also because uh yeah this Revenue uh
+[05:05] spikes up and down depending on where we
+[05:07] are in the in the cycle um and then we
+[05:10] look at the uh the Asic market so
+[05:13] machine prices uh mostly compare
+[05:16] different generations of Hardware uh so
+[05:20] I think those are the the biggest uh no
+[05:24] the most important charts let's say
+[05:25] we've been looking at ETF flows so
+[05:28] trying to put it in such an order that
+[05:31] we can explain uh where we are uh in the
+[05:34] cycle so what what factors are of
+[05:37] influence for for the revenue and profit
+[05:40] of of a minor that's super super
+[05:42] interesting uh and I never looked at a
+[05:45] chart outside of price and hash rate I
+[05:48] think like price and hash rate obviously
+[05:50] as as a Bitcoin you probably have seen
+[05:52] somewhere like price 100% I think
+[05:55] there's no no Bitcoin that never has
+[05:57] seen bitcoin price chart but I I think
+[06:00] most bitcoiners also have seen somewhere
+[06:02] on Twitter or somewhere anywhere a hash
+[06:05] rate chart I don't know maybe there
+[06:07] someone out there say it's like oh
+[06:08] what's hash rate uh but uh transaction
+[06:11] fee I never looked at charts uh I look
+[06:14] at the transaction fee but I never look
+[06:16] at like the history of the transaction
+[06:18] fee hash price ma machine price is
+[06:21] something completely new for me ETF flow
+[06:23] I
+[06:24] remember uh back in the days in the
+[06:27] early 2024
+[06:30] I definitely looked at those and those
+[06:31] were really interesting uh but now I I
+[06:34] really don't care how much uh the the
+[06:36] the influence of the ETFs but it could
+[06:38] be an interesting indicator so my my
+[06:41] first kind of question for for those
+[06:43] metrics is I think the the biggest one
+[06:46] that most people are interested in um is
+[06:51] what is the correlation and the
+[06:52] connection between price and hash rate
+[06:55] uh in specific does hash rate lead price
+[07:00] and uh I think Kent from SAS mining told
+[07:04] me a few weeks ago in the podcast
+[07:06] episode where he was here he he has the
+[07:09] theory that because hash Rd kind of
+[07:11] broke out of of that fouryear cycle uh
+[07:15] that he now thinks it has a very high
+[07:18] likelihood that the price also is kind
+[07:21] of breaking out of the cycle uh is is
+[07:24] that something that you're even looking
+[07:25] at is it something that uh you can read
+[07:27] out of price and hash yeah definitely
+[07:30] and I know Kent very well I collaborate
+[07:32] very closely with Kent on a on a project
+[07:35] in Paraguay uh so uh it's nice that he
+[07:39] was on as well uh like a previous uh
+[07:43] hash rates would follow price uh quite a
+[07:47] bit uh because if price goes up
+[07:49] profitability for minus goes up uh so
+[07:52] it's uh yeah more interesting
+[07:55] financially to start mining so then you
+[07:57] see miners being deployed uh which
+[08:00] always takes a bit more time than uh
+[08:02] than price or it goes slower than uh
+[08:05] price can move so has rate was leading
+[08:09] or following um uh price in 2021 there
+[08:13] was this so-called uh China mining ban I
+[08:17] don't know if you heard of it uh but
+[08:19] China decided to to ban mining while the
+[08:22] biggest uh yeah uh biggest part of
+[08:25] mining was being done uh in China at the
+[08:28] moment then has R dropped uh quite
+[08:31] aggressively this was mid
+[08:33] 2021 uh and and there you saw that uh
+[08:36] price actually followed that drop in in
+[08:39] hash rate so it was like a a Black Swan
+[08:41] event uh coming from the mining industry
+[08:44] that had an impact on on price um after
+[08:48] that uh price uh recovered and also uh
+[08:52] has rate
+[08:54] recovered uh towards the end of 2021 and
+[08:57] uh and then we saw something interesting
+[08:59] and that's that in 2021 in that bull
+[09:02] market there was a lot of funding for
+[09:05] for miners so a lot of uh Finance of of
+[09:09] uh or money was put into uh to the
+[09:11] buildout of uh operation operations so
+[09:14] facilities build out uh and a lot of uh
+[09:18] orders were placed for mining machines
+[09:21] uh so many orders that there was a
+[09:23] shortage of supply and miners had to do
+[09:26] future orders so they would uh uh they
+[09:29] would uh pay already for an order that
+[09:32] would come in three or six months later
+[09:36] so towards the end of uh 2021 there was
+[09:39] a lot of investment and then in 2022
+[09:42] price started tanking right we uh turn
+[09:45] it to the bare Market uh but instead of
+[09:48] hash price following or hash rate
+[09:50] following uh the Bitcoin price we saw
+[09:53] that these new facilities came online
+[09:55] these new miners uh came in and were
+[09:58] deployed so HH rate just continued
+[10:01] growing so there we saw uh that that
+[10:03] correlation broke uh and actually 2022
+[10:06] was a very rough year for miners because
+[10:09] the more hash rate comes online the more
+[10:12] people are competing for that same
+[10:13] Bitcoin uh and at the same time that
+[10:15] bitcoin price was going down um and what
+[10:19] we've seen is that uh as of 2023 uh
+[10:23] bitcoin price has started recovering
+[10:26] however the the deployment has continued
+[10:28] so uh the hash rate has been continuous
+[10:31] uh continuously growing uh and at a
+[10:33] faster Pace than uh than bitcoin price
+[10:37] it's only uh recently that we've seen
+[10:40] that uh price is outpacing Hash rate
+[10:43] again and that's uh periods where you
+[10:45] see Revenue improve for for miners so
+[10:49] the clean cor correlation that there was
+[10:52] before you don't see as much uh
+[10:55] anymore it's interesting because we
+[10:58] normally have like bitcoin price
+[11:01] religiously follows that three years up
+[11:03] one year down Rhythm uh since it
+[11:06] basically started and we are now in 2025
+[11:10] so like next year in 2025 or maybe this
+[11:13] comes actually on first of January out
+[11:15] maybe we're already at 2025 where we
+[11:18] have a massive up year uh the same as we
+[11:22] had 2017 2021 uh 2013 this this massive
+[11:27] up year uh and till now we kind of
+[11:30] Follow that structure and maybe we have
+[11:32] next year this massive up year but what
+[11:35] we then also have is a down year in 2026
+[11:38] that that's kind of if if Bryce just
+[11:40] follows the past movement that's just
+[11:42] what happens um now the the theory of
+[11:46] kend and and maybe you can speak about
+[11:48] that is do you expect or expect this is
+[11:51] always a hard word but uh miners have to
+[11:54] a certain ex have to to a certain ex
+[11:57] extent look into the future and see like
+[11:59] okay does it make sense now to to sell
+[12:01] Bitcoin does it make sense now to to
+[12:03] keep the Bitcoin that you mine uh as you
+[12:06] talked before with with those things do
+[12:08] you look at 2096 um maybe being an
+[12:12] extension of the bull run and maybe
+[12:14] being the the breaking of of that
+[12:16] fouryear cycle yeah I uh this is going
+[12:20] to be my or this is my third bull cycle
+[12:23] i' I've seen some cycles and uh yeah I
+[12:27] think it's quite likely that will a
+[12:29] similar behavior that Bitcoin will
+[12:32] overshoot at a certain point next year
+[12:35] and that it will correct and and then
+[12:38] shoot overshoot downwards let's say uh
+[12:41] uh so that I find quite possible um I
+[12:45] think for minus we uh we don't only look
+[12:49] at price but we also look at the the the
+[12:51] growth of hash rate and um and obviously
+[12:54] the block subsidy uh we just had a
+[12:57] halfing this year but uh uh if you
+[12:59] starting to mine you usually look at the
+[13:01] Cycles more in in halfing year or
+[13:03] halfing Cycles let's say um I I always
+[13:07] uh when I consult or advise miners um I
+[13:12] was take that hash price to project uh
+[13:15] Revenue uh and then uh uh I I work with
+[13:19] three scenarios so bullish scenario and
+[13:21] a neutral scenario and then a a more
+[13:25] pessimistic scenario let's say whereby
+[13:27] the bullish scenarios is even
+[13:29] conservative so I think for miners you
+[13:32] should always uh assume that uh that
+[13:36] Revenue goes down because that's what
+[13:38] we've seen uh over the past uh past
+[13:41] decade let's say if you zoom out you see
+[13:43] that Revenue sometimes spikes but in
+[13:45] general it goes down so you need to you
+[13:47] need to plan for that uh and miners they
+[13:51] uh uh they don't have much influence
+[13:53] over Revenue right so uh miners don't
+[13:56] have influence on bitcoin price not over
+[13:59] has rate uh not over difficulty
+[14:02] adjustment or transaction fees uh so you
+[14:05] need to to plan your business focusing
+[14:07] on on the costs uh try to uh to get
+[14:11] power at a at a low rate uh a lower rate
+[14:15] than your competitors um uh and another
+[14:18] way to influence your revenue is by uh
+[14:21] by working on your efficiency so that
+[14:23] that can be the efficiency of the miners
+[14:25] uh so these miners consume a certain
+[14:28] amount of electricity uh to to produce a
+[14:31] certain amount of uh um computing power
+[14:34] so the the newer machines are more
+[14:37] efficient uh and they will be more
+[14:39] resilient to uh to potential downside uh
+[14:42] in the future but I think for minor It's
+[14:45] always important to uh uh to keep the
+[14:49] the worst case scenario in mind and uh
+[14:52] and not necessarily believe in a in a
+[14:54] super cycle or whatever it's an
+[14:56] interesting uh uh perspective that I
+[14:59] never looked at like when Amazon wants
+[15:02] more Revenue in a certain quarter they
+[15:05] can make like a special Amazon week
+[15:08] where they get like on everything
+[15:09] there's 15% off or something like that
+[15:11] and make a mass advertisement for that
+[15:14] and their revenue probably spikes in
+[15:16] that week uh because they can influence
+[15:19] with marketing with sales uh that whole
+[15:21] thing but miners miners can get more
+[15:24] miners online but this is also capital
+[15:27] expenditure uh uh which then can
+[15:31] neutralize the revenue but if like if if
+[15:34] the price goes down
+[15:36] 50% uh and the hash rate still uh goes
+[15:39] up and the difficulty adjustment still
+[15:41] goes up you have to bring up a lot of
+[15:45] more miners to make up for that loss of
+[15:47] Revenue uh which also then brings up
+[15:50] your cost and stuff like that it's an
+[15:51] interesting aspect that I never looked
+[15:53] at uh but yeah makes makes total sense
+[15:55] for miners yeah the cost aspect is super
+[15:58] important uh and then obviously a big
+[16:00] part of your cost is going to be the the
+[16:03] hardware right so the machines you want
+[16:05] to have mining uh so uh playing that uh
+[16:11] a hardware cycle well is also going to
+[16:14] determine whether you're a successful
+[16:16] minor or not um in 2021 we saw machines
+[16:21] uh uh with efficiency of 30 Jews per ter
+[16:26] has uh going uh for at the peak around
+[16:31] $120 per teres and these were 100 teres
+[16:34] machines so let's say 12 uh uh 12,000 uh
+[16:39] per machine and today you can get those
+[16:42] for uh for under 500 so um it it really
+[16:47] is important to time your entry uh and
+[16:50] also think of an of an exit uh if if the
+[16:53] market goes up and your machines have
+[16:55] doubled in price or tripled in price
+[16:58] maybe it's smart to uh to sell a part of
+[17:00] your your minor Fleet to have a quick
+[17:01] Roi on your machines and then have the
+[17:03] rest running interesting so it's like
+[17:06] even like a trading game on the machine
+[17:09] prices how long are those machines
+[17:11] usually holding up is like five years 10
+[17:14] years yeah so they say a life expectancy
+[17:18] or lifespan of uh five years uh but what
+[17:22] we've seen over the last few years that
+[17:24] the efficiency of these machines have
+[17:26] improved tremendously so the older
+[17:28] generation that might still be uh uh
+[17:32] working well uh might not uh be
+[17:35] competitive anymore if you if you don't
+[17:37] have the right electricity price uh so
+[17:40] um yeah it it's not only the the the
+[17:44] hardware it's also the the economics
+[17:47] let's say that determine whether you
+[17:48] need to retire a machine or not
+[17:51] interesting and uh you have seen uh is
+[17:56] it a more smaller minor Farms or is it
+[17:58] the bigger small uh minor Farms that
+[18:00] also do that game where they sell miners
+[18:04] uh if if the price is high and then Rey
+[18:07] them it's it's it's also seems to be
+[18:09] like you you have to organize it you
+[18:11] have to look at it it could be um maybe
+[18:14] even like inefficient to to look for
+[18:16] those stuffs or or is the volume so big
+[18:18] that it actually makes sense even like
+[18:21] unplugging them selling them going
+[18:23] through the hustle for selling reing
+[18:25] them at a later days that it depends on
+[18:27] your cash flow right like how strong of
+[18:30] a cash flow you have and how many much
+[18:32] cash you have on balance uh I think uh
+[18:35] over this past year it was a good period
+[18:38] to uh to upgrade your Fleet or minor
+[18:42] Fleet or get new or more ficient
+[18:44] machines in order to stay competitive
+[18:47] because the margins were very low uh
+[18:50] some need to sell then uh the older
+[18:52] equipment at at bottom prices because
+[18:54] they need the money to uh to purchase
+[18:56] new machines but if you don't uh have
+[18:59] that issue if you can purchase machines
+[19:01] and hold on to the older equipment um
+[19:04] yeah I I I think that can be uh uh a
+[19:07] play like now we've seen uh the demand
+[19:10] for all the equipment picking up uh and
+[19:12] in the previous cycle uh we've seen so
+[19:15] in 2021 we've seen a research of older
+[19:18] generation machines as well so uh before
+[19:22] 2021 when uh or 2020 I believe when
+[19:26] these anend minor s9s came out there was
+[19:29] the S minor S9 uh which was a very
+[19:32] popular machine there were a lot of them
+[19:34] uh going around and then when uh uh when
+[19:38] things got tough these s9s were uh uh
+[19:42] necessary in order to stay competitive
+[19:44] and there were a lot of s9s that were
+[19:46] even given away uh and when the bull
+[19:49] market started uh and there was a
+[19:51] shortage of machines that's where the
+[19:53] price of these S9 started surging uh as
+[19:56] they became profitable again uh so if
+[19:59] you would have hold on to those machines
+[20:01] you could have sold sold them at a a
+[20:03] good price later on so um it obviously
+[20:07] depends on how much cash you have on
+[20:09] balance and how how much cash flow you
+[20:11] have but uh if you can uh when you
+[20:14] refresh try to uh hold on to the
+[20:16] machines to sell them uh yeah when uh
+[20:20] when that bull market for the machine
+[20:21] starts pick up because we're still quite
+[20:24] uh near bottom prices let's say is is
+[20:28] the
+[20:29] is there any correlation between the
+[20:31] machine price and and and the and the
+[20:33] Bitcoin price or like how how how do the
+[20:35] machine prices uh vary over time yeah so
+[20:40] uh also there like there used to be a
+[20:42] very strong correlation and in 2023 that
+[20:44] kind of broke uh that had to do uh like
+[20:49] uh one of the drivers of price for
+[20:51] Bitcoin miners is uh for Hardware is uh
+[20:55] is bitcoin price but then uh uh yeah
+[20:59] also the difficulty adjustment has its
+[21:01] impact so uh um yeah prices of mining
+[21:04] equipment have been quite
+[21:06] suppressed um there's a lot of uh of um
+[21:11] yeah mid generation machines that are
+[21:13] floating around so there's a lot of
+[21:15] Supply to be absorbed still before we
+[21:19] could see a a significant price surge uh
+[21:22] but um yeah throughout this year we've
+[21:24] seen prices trending uh down and
+[21:27] sideways uh but now this yeah since the
+[21:30] last uh last few uh few weeks when uh
+[21:34] Bitcoin broke uh that 100K level we've
+[21:37] seen prices picking up of these older
+[21:40] machines let's say so it's more like a a
+[21:42] leading indicator uh like a a lagging
+[21:46] indicator of of of the price paired with
+[21:50] the hash rate depending on where the
+[21:52] market is going it seems like so in a bu
+[21:55] Market it usually is lagging a bit
+[21:57] because uh
+[21:59] uh yeah you have this uh this big supply
+[22:02] of machines out there right now because
+[22:05] uh of the of the um companies that
+[22:08] defaulted in 2022 and the companies that
+[22:11] refreshed or upgraded their Fleet
+[22:13] there's a lot of machines going around
+[22:15] now so it takes time to uh to find Rec
+[22:18] Space for these machines building out
+[22:21] facilities is a slow uh it's a slow game
+[22:24] so it takes three uh months for uh for
+[22:28] smaller site up to 180 months or
+[22:31] sometimes two years for a big site to to
+[22:33] develop because you need oil permits and
+[22:36] get a good uh Power contract and and get
+[22:39] all the input so uh um yeah the buildout
+[22:42] is a slow process while price can uh can
+[22:45] go quite
+[22:47] fast interesting and then uh there's
+[22:50] also I remember hash price uh you
+[22:53] mentioned that is then the price what
+[22:55] what it takes to to mine a hash
+[22:59] no so hash price is the revenue per uh
+[23:02] beta hash which is a a way of of uh
+[23:06] calculating the computing power per day
+[23:08] so the revenue in dollars per Peta has
+[23:11] per day and it's influenced by uh by
+[23:14] couple of factors first is uh uh bitcoin
+[23:17] price the second is difficulty and the
+[23:19] other is uh uh the block rewards so the
+[23:22] subsidy which is currently
+[23:24] 3.125 uh per block plus the transaction
+[23:27] fees well well is is there anything that
+[23:29] you you could learn from from that
+[23:31] metric yeah I think that's uh for many
+[23:33] miners leading metric because it
+[23:35] includes the different factors that uh
+[23:37] influence uh Revenue so uh if you are if
+[23:41] you talk to miners they they all know
+[23:43] what hash price is and they could they
+[23:45] probably look at the hash price chart
+[23:47] more than the than the price chart of of
+[23:49] Bitcoin you say a leading uh you mean in
+[23:53] a in a ranking way or it's it's leading
+[23:56] to the W's decisions
+[23:59] uh both I think yeah it's it's uh I
+[24:04] think uh one of the best indicators out
+[24:06] there to calculate your revenue or to to
+[24:09] see uh see what your Revenue could be or
+[24:13] project your Revenue yeah oh yeah you
+[24:16] can calculate okay how many machines can
+[24:19] I get online you don't need to you don't
+[24:20] need to create an Excel where you uh
+[24:23] project uh bitcoin price where you
+[24:26] project uh difficulty adjustments where
+[24:29] you uh project transaction fees you can
+[24:32] take this indicator and then use that as
+[24:35] as one uh yeah one point to to project
+[24:39] out your Revenue as a minor really
+[24:41] interesting uh sorry that I asked too
+[24:44] much but it's really interesting for me
+[24:46] all those small metrics that I never
+[24:48] heard before and uh what what we can
+[24:50] learn from then uh the the the last one
+[24:53] that I remember I mean ETF flows is also
+[24:56] interesting but it's it's kind of
+[24:57] separate from from the the Bitcoin
+[25:00] direct ecosystem um the are the
+[25:03] transaction fees uh how how do you look
+[25:06] at them and and what are you learning
+[25:08] from the transaction fees yeah so um
+[25:11] transaction fees uh each having become a
+[25:14] more important part or bigger chunk of
+[25:16] the revenue for miners right so uh um
+[25:20] we've seen uh uh at the Haring and also
+[25:23] after the Haring a couple of times that
+[25:25] the transaction fees were actually uh
+[25:28] bigger than the than the block subsidy
+[25:31] so it will be bigger than the 3.125 at
+[25:34] the having there was even uh a huge
+[25:37] battle for Block space um and and there
+[25:40] were almost 40 Bitcoin in transaction
+[25:43] fees so that's that's massive so uh yeah
+[25:47] these transaction fees are important for
+[25:49] uh for miners but uh up till now they've
+[25:52] been quite uh uh unpredictable they so
+[25:55] they've been spiking around uh order
+[25:59] runes projects and and there's been this
+[26:02] babyon protocol where people could lock
+[26:04] up and stake uh Bitcoin so it depends a
+[26:07] bit on uh on these uh on these protocols
+[26:11] and projects that are developed uh other
+[26:15] than that you see transaction fees Spike
+[26:18] uh at the bull market top and at the at
+[26:20] the bare Market bottom so if you're not
+[26:23] into mining but you're into investing uh
+[26:25] in uh in Bitcoin uh trans fees are
+[26:29] interesting to look at because you see
+[26:31] these big spikes inter fees around the
+[26:34] the the bull market top and bottom uh
+[26:36] reason being that there's a lot of um uh
+[26:40] buying and selling happening happening
+[26:42] at these tops uh and also uh uh at uh at
+[26:47] the top and bottom there's a lot of
+[26:48] trading so people want to settle quickly
+[26:51] and they're willing to pay more for that
+[26:54] quick settlement than uh maybe they
+[26:55] would be uh during uh
+[26:58] yeah accumulation phases or or or other
+[27:02] other moments in the in the cycle so
+[27:04] these these bull market tops and and
+[27:06] bottoms are are profitable for miners
+[27:10] wait so you're saying um to a certain
+[27:12] extent You can predict the top and
+[27:15] bottom uh for for Bull and bar markets
+[27:18] uh because there has the the transaction
+[27:21] fees spiking because there are a lot of
+[27:24] uh buying and selling and moving uh
+[27:26] Bitcoin around going on yeah so predict
+[27:29] uh I wouldn't say like you canot really
+[27:31] predict but I think it if you try to uh
+[27:35] play the Cycles uh like longer term
+[27:37] Cycles that's what I do as a Bitcoin
+[27:40] investor I try to time the bottom as
+[27:42] best as possible and then sell uh at the
+[27:45] at the top not because I want to get rid
+[27:47] of my Bitcoin but it will allow me to
+[27:49] get more Bitcoin back later on uh if you
+[27:53] uh want to time those Cycles then uh
+[27:55] transaction fees can be one of the
+[27:57] indicators
+[27:58] I would say that can help you in in time
+[28:01] that uh that entry or or or exit so uh
+[28:06] yeah I always think uh you should look
+[28:08] at uh uh various uh indicators in order
+[28:11] to see whether the the box is being
+[28:14] ticked and and the market is overheated
+[28:16] or uh or maybe Bitcoin is
+[28:19] undervalued interesting I mean I'm
+[28:21] always completely staying away from
+[28:23] Trading as uh as I'm just too frightened
+[28:27] to lose all my Bitcoin
+[28:28] uh and probably you should also not sell
+[28:30] all the Bitcoin at the top even if you
+[28:32] have a top uh but but you're you're
+[28:34] still doing that or you you're now
+[28:37] moving away from that no I yeah I still
+[28:40] do that uh but it's uh where before I
+[28:44] would do like uh uh daily or weekly
+[28:47] trades now uh uh yeah I've seen that the
+[28:50] more you trade the more you lose it's
+[28:52] kind of going to a casino right the
+[28:54] longer you stay there the more you lose
+[28:56] so I've uh what I've been focusing on is
+[28:59] is more these longer term cycle so I I
+[29:02] kind of uh learned when would when is a
+[29:05] good time to buy and then usually I
+[29:08] scale in uh and then uh yeah when we're
+[29:12] in that uh mid-range let's say I I don't
+[29:15] do anything and uh uh yeah try to time
+[29:18] the the Top If I don't need to sell I
+[29:21] don't sell too much but uh uh yeah
+[29:24] that's kind of how I look at it at these
+[29:25] longer term Cycles uh and for me
+[29:28] personally less trading is better uh
+[29:31] because it's it's always been uh like a
+[29:34] something on the side I think if you
+[29:35] want to be a good Trader you need to be
+[29:38] dedicated to it and uh be focusing on
+[29:40] the charts and be disciplined in uh in
+[29:42] your trading strategies interesting
+[29:46] um that that's like I I should maybe
+[29:50] because I'm just going all in all the
+[29:52] time as as much as I have bare Market bu
+[29:55] Market it it does hurt a lot a lot in
+[29:57] the in the bull market and in the bare
+[29:59] Market because never have more to to
+[30:02] shoot in more uh but it's just like uh
+[30:06] my my calmness of my mind is is really a
+[30:09] lot of value for like that that's the
+[30:12] main own goals right like on style so
+[30:17] yeah I I think that's most important
+[30:20] think of why are you accumulating
+[30:22] Bitcoin I mean if you if you want to
+[30:24] accumulate Bitcoin to hold on for the
+[30:26] next 10 uh 10 years why why even bother
+[30:30] trying to uh to play the Cycles uh
+[30:33] because uh yeah you'll never sell the
+[30:36] top and you'll never time the bottom if
+[30:39] you do you're you're lucky like it's
+[30:41] always in hindsight that you can see
+[30:43] where you timed it well but uh yeah so
+[30:46] each each its own uh but yeah I agree
+[30:50] the less you do the more the more calm
+[30:53] you are and less focused you are on on
+[30:55] the price chart as well I partnered with
+[30:58] coin vigilante this is the most
+[31:01] beautiful Bitcoin time piece that I ever
+[31:04] saw created by anyone look at that
+[31:07] beauty I love it so much coin vigilante
+[31:09] made and perfect Bitcoin watch that's
+[31:12] the perfect subtle elegent way to go out
+[31:16] there and show that you are a bitcoiner
+[31:18] and that watch brand is Bitcoin only and
+[31:22] coin vigilante just dropped a completely
+[31:24] new and amazing Genesis edition of their
+[31:28] watch collections you have the date of
+[31:31] the first ever mined Bitcoin Block in
+[31:34] there and of course also the block
+[31:36] height and which Epoch we are currently
+[31:39] in I love the level of detail they put
+[31:42] in in this masterpiece and make sure to
+[31:45] check out those amazing coin vigilante
+[31:47] time pieces down in the descriptions I
+[31:50] love those watches so so much if you
+[31:53] watch or listen to my podcast on a
+[31:56] regular basis I'll guess you all already
+[31:58] bought some Bitcoin and now the most
+[32:00] important step is to keep the Bitcoin
+[32:04] keep them secure in a hardware wallet my
+[32:06] personal recommendation for harder
+[32:08] wallet is the bitbox it's super secure
+[32:10] it's simple to set up it's also perfect
+[32:13] gift for a friend who has still the
+[32:15] Bitcoin on an exchange and you can get a
+[32:18] 5% discount with the code Robin at the
+[32:21] checkout visit bitbox do Swiss robobin
+[32:25] to get your bitbox and then next step is
+[32:28] to really level up your sovereignty as
+[32:31] an individual you have to have the most
+[32:33] secure self- custody setup you have to
+[32:36] secure your own devices you have to
+[32:39] protect your privacy you have to set up
+[32:42] an inheritance plan and depending on
+[32:44] where you live you even want to have a
+[32:46] plan B a citizenship where you can move
+[32:49] in case something goes really really
+[32:51] wrong and through all those steps the
+[32:53] Bitcoin way is guiding you through step
+[32:56] by step and if you visit the Bitcoin
+[32:58] way.com
+[33:00] Partners robobin you even get a 30
+[33:03] minute free call to find out how you can
+[33:06] level up your sovereignty absolutely and
+[33:09] I like to focus on just providing value
+[33:11] and just providing this and uh being
+[33:14] there for a family and uh Less on charts
+[33:17] as I also have no clue about
+[33:20] charts but that's just me yeah um yeah
+[33:23] uh you also are I think if if people
+[33:27] know how Dutch sounds people will
+[33:29] recognize that you're
+[33:31] Dutch hard to get rid of acent yeah yeah
+[33:35] I I will also never get like people will
+[33:38] will know that I'm from Austria probably
+[33:40] I think if you're at the young age you
+[33:42] live in a English speaking country then
+[33:44] it's possible
+[33:45] but yeah yeah I mean uh one of the
+[33:50] famous examples that uh some some also
+[33:54] compare me to is is
+[33:56] schwarzeneger and he has been so long
+[33:59] already in America and you can still
+[34:01] hear it so clearly like he he he and he
+[34:04] took lessons uh and his story is really
+[34:07] interesting because he took lessons to
+[34:09] get rid of his accent uh because at
+[34:12] first it was a a challenge for him to
+[34:14] get movies and to get into things
+[34:17] because of his accent yeah and and and
+[34:20] people said like oh like that sounds so
+[34:22] weird you you can never get an American
+[34:24] movie now it's his signature and now
+[34:26] it's like he's famous for that um but he
+[34:29] really wanted to get it's beautiful to
+[34:31] have different accents as well right
+[34:33] like uh it's uh yeah it's a part of
+[34:37] being a global citizen I guess
+[34:40] absolutely it's really good to have the
+[34:41] Accents in there and actually I never
+[34:44] had anyone complaining like I I never
+[34:46] had a single comment saying anything bad
+[34:50] about oh your accent sounds weird there
+[34:53] are some comments that say like oh like
+[34:56] if you say that word try to pronounce it
+[34:58] like that like people trying to help me
+[35:01] uh especially with elent I I I speak it
+[35:04] really badly uh but then there's even a
+[35:07] debate going on and someone's like oh
+[35:09] try to say that word like that and then
+[35:11] it's like oh no like leave him alone
+[35:13] like he he he will never say other
+[35:16] direction it's it's great how he says it
+[35:18] so it's fun for me yeah so I I live in
+[35:22] Argentina and here like I speak Spanish
+[35:24] as well and sometimes there's English
+[35:26] words that they use uh and I need to
+[35:28] pronounce it in a Spanish way because
+[35:31] otherwise they don't uh understand it so
+[35:33] there's this little uh English words
+[35:36] that they use but then pronunciate with
+[35:39] a heavy Spanish accent it's super
+[35:42] interesting where I have an an Indian
+[35:44] girlfriend and she speaks Hindi uh and
+[35:48] sometimes she learns really good German
+[35:51] but sometimes she like we are speaking
+[35:53] only English usually and sometimes she
+[35:55] speaks like one two German words and I
+[35:56] don't understand it because I'm used to
+[36:00] listen to her in English and then when
+[36:02] she says a normal German word I'm
+[36:04] like what did you
+[36:06] say but yeah so my my wife is Argentine
+[36:09] and she uh she lived in the nland for 15
+[36:12] years or 16 years she learned Dutch
+[36:15] which is very hard uh and uh she had to
+[36:20] unlearn how to speak because Spanish is
+[36:22] very quick and uh she uses a lot of
+[36:24] gestures and she would speak very well
+[36:27] Dutch but the Dutch wouldn't understand
+[36:29] it because of her speed of speaking and
+[36:32] then also her her body language right so
+[36:34] she had to uh become this other person
+[36:37] in order for the Dutch to understand her
+[36:39] was she the reason you moved to
+[36:40] Argentina or was it chavier m no uh it
+[36:44] was my wife yeah she lived in the nland
+[36:47] for 16 years and um wanted to go back
+[36:51] already for a while so we we planned for
+[36:53] it uh and uh yeah we we uh moved counter
+[36:58] cyclical let's say so we moved here when
+[37:00] uh artina was really at rock bottom and
+[37:03] now things are are starting to to become
+[37:05] better I think it was a when did you
+[37:08] move it feels like you timed it nicely
+[37:11] yeah three and a half in September it
+[37:13] was three years ago that that's a great
+[37:15] move how how did you how do you see
+[37:17] Argentina right now and then what's
+[37:19] going on with with Javier
+[37:21] M yeah so uh uh it's been a very rough
+[37:26] year uh I I mean he uh he campaigned
+[37:29] with his chainsaw right so uh he really
+[37:32] put in the chainsaw into everything so
+[37:36] um yeah in order for things to become
+[37:39] better they yeah there there had to be
+[37:41] some painful decisions to be made and uh
+[37:44] he really ripped off the Band-Aids uh
+[37:46] instead of uh yeah doing it bit bit by
+[37:50] bit uh he he did almost everything at
+[37:52] once so uh uh we've seen inflation Spike
+[37:56] uh in the in the first part of the Year
+[37:59] there was actually coming out of the
+[38:01] previous administration but then he man
+[38:03] managed to turn the turn the government
+[38:07] the the budget deficit into a surplus so
+[38:10] that had a big effect on uh on the
+[38:12] inflation and it uh it's been now single
+[38:15] digits month over month inflation single
+[38:17] digits
+[38:19] for almost a half year I would say um so
+[38:23] there was a period where we had 300%
+[38:25] inflation uh per year so it's really
+[38:28] crazy um and then also uh um you see
+[38:32] that the the dollar uh and Euro value um
+[38:37] has been stabilizing uh um if you want
+[38:40] to buy pesos so the peso has become uh
+[38:43] it's first it weakened and then now it's
+[38:46] becoming stronger again so that's also
+[38:48] interesting to see does he actually go
+[38:51] ahead and as is that destroy the central
+[38:54] bank and dollarize the
+[38:56] country um yeah so uh he's opening up U
+[39:01] all types of payments so he he has
+[39:04] currencies complete in order to see what
+[39:06] what uh comes um yeah which currency
+[39:09] comes out as the strongest there is
+[39:11] already a strong influence of the dollar
+[39:14] here in in Argentina uh so the PESA uh
+[39:18] has lost a lot of value so uh when I
+[39:21] came here for the first time in
+[39:23] 201 11 something like that uh I would at
+[39:27] uh uh 12 uh pesos for a dollar uh right
+[39:32] now this week I exchange for for
+[39:36] 1150 pesos per dollars just to to get a
+[39:40] grasp of how much value the PES lost in
+[39:43] Compares it to the dollar um but many
+[39:46] people uh see the dollar here as a hard
+[39:49] currency which is funny for us
+[39:50] bitcoiners to see the dollar as a hard
+[39:52] currency uh people exchange the the PES
+[39:55] they have into uh to to Dollars uh they
+[39:59] take it out of the bank because they uh
+[40:01] they don't trust the banks here many
+[40:03] lost their money in 2001 when there was
+[40:06] a big Bank Run um so people uh have
+[40:10] dollars as their U yeah hard currency
+[40:14] and store of value and then uh hidden in
+[40:17] the house or on a foreign foreign bank
+[40:20] account
+[40:22] um right now uh what one of the things
+[40:25] melee did was saying okay that you can
+[40:29] um there's a lot of informal informal uh
+[40:33] big informal economy here so a lot of
+[40:35] tax evasion let's say people don't pay
+[40:38] their tax uh people have money abroad
+[40:41] that's not being declared so uh uh in
+[40:44] November or the bit before November he
+[40:46] said okay everybody can bring in all the
+[40:49] cash they want from abroad uh and they
+[40:53] call it a Blan chos so they they could
+[40:56] uh turn that black money into white uh
+[40:59] they could launder it let's say
+[41:02] officially uh and they wouldn't get any
+[41:04] fines so I think there was a very strong
+[41:06] move by him because many argentines took
+[41:08] their dollars from foreign accounts
+[41:11] pulled it into the country and uh now
+[41:13] also they they have these dollars and
+[41:15] they're looking to to invest and make a
+[41:17] return on those dollars as well so I
+[41:20] think that's been a very strong move of
+[41:22] of his as well and then there's a lot of
+[41:24] privatization going on so uh Oil Field
+[41:28] concessions were privatized they're
+[41:29] working on privatizing banks uh the
+[41:33] airlines is one of the H topics uh they
+[41:36] want to privatize the
+[41:38] airlines um yeah eliminate the Central
+[41:41] Bank uh I don't know exactly what the
+[41:43] status is of it but uh it might happen I
+[41:46] mean if M says
+[41:47] something it's very likely that he will
+[41:50] do it so it's interesting uh the move of
+[41:54] getting uh money this that sits abroad
+[41:58] back in the country is super clever
+[42:00] that's just great um a socialist would
+[42:03] never do that socially say like oh those
+[42:06] those bad people getting money outside
+[42:09] of the country like that that's that's a
+[42:11] really great move of him that benefits
+[42:15] uh the people that benefits the country
+[42:17] that benefits basically everyone uh in
+[42:20] in Argentina and actually uh pulls money
+[42:23] and power away from the other countries
+[42:25] back into Argentina it's a it's an
+[42:27] amazing move yeah I think also like a
+[42:30] lot of argentines had and have money
+[42:32] abroad because it was not safe here in
+[42:35] Argentina you couldn't have it in the
+[42:36] bank so uh if you have hundreds of
+[42:39] thousands of dollars you don't want to
+[42:40] have that in your house or uh maybe you
+[42:43] can rent
+[42:45] a how do you call it like a save in a
+[42:47] bank or something but uh yeah there's a
+[42:50] reason why argentines were having that
+[42:53] money abroad and there's a reason why
+[42:55] there's such a big informal uh
+[42:57] economy and that that has to do with all
+[43:00] the taxations that that there a big part
+[43:04] of it still there but they're they're
+[43:06] improving it but uh yeah if you want to
+[43:09] survive uh or at least in the previous
+[43:12] decade if you wanted to survive in
+[43:14] Argentina uh yeah being uh part of the
+[43:17] of the formal economy is is quite
+[43:20] tough
+[43:21] absolutely I do I do believe that uh
+[43:24] it's it's super interesting what's going
+[43:26] on is also then no C gains taxs on on on
+[43:29] any assets like Bitcoin that uh uh no
+[43:33] that you would have to talk to an
+[43:35] accountant about that I know there's
+[43:37] certain rules uh with regard to bitcoin
+[43:40] I actually don't know let's look it up C
+[43:43] gain tax
+[43:45] argena so with houses with real estate
+[43:48] it it it uh it depends so what when did
+[43:51] you buy a real estate before you sell
+[43:54] sell it where you pay taxes on that it
+[43:57] seems like there's like an income tax on
+[44:00] on on that with 15% we yeah I I also
+[44:03] cannot find it out quickly
+[44:06] so maybe someone in the comments can can
+[44:10] still I know that that that there's
+[44:12] people working on it but it's still a
+[44:14] gray area also like depends where your
+[44:16] accountant has a real estate background
+[44:18] or whatever kind of background is how
+[44:20] they look at the at the asset and how
+[44:22] it's being taxed uh but I don't think a
+[44:26] lot of people declare their
+[44:29] Bitcoin here in
+[44:31] Argentina I I talked to someone from
+[44:34] Argentina uh recently on the podcast and
+[44:36] he basically said um there are really
+[44:40] strict rules at some points but nobody
+[44:43] follows St it's like encourag that you
+[44:45] don't declare stuff and and everyone is
+[44:48] kind of okay and normalized with um just
+[44:52] being outside of the the the legal
+[44:56] system at some points
+[44:57] yeah so uh I think uh because of the
+[45:00] socialist government that's been here
+[45:02] for many years like there's been a
+[45:05] overregulation like there's so many
+[45:09] uh uh laws and rules like uh that it's
+[45:13] makes your life more difficult so people
+[45:15] start to uh go around these uh these
+[45:18] rules right so and it's very uh very
+[45:22] normal also um
+[45:25] yeah interesting a cultural thing like I
+[45:28] don't know how quickly it changes but uh
+[45:31] not paying taxes for for somebody from
+[45:34] the Netherlands might uh yeah it's not
+[45:37] that common while here it's it's very
+[45:39] common and I even seen uh people
+[45:42] starting their career that wanted to
+[45:44] work in a formal way but they were
+[45:47] offered their contracts uh half formal
+[45:50] half informal or completely informal and
+[45:53] then it it it's uh working against them
+[45:56] in the in building that career also did
+[45:58] your I think your internet cut for for a
+[46:03] moment yeah but no worries uh really
+[46:06] cool is is Argentina a good place to to
+[46:09] mine Bitcoin are you mining uh Bitcoin
+[46:11] in in in
+[46:12] Argentina uh so it used to be because
+[46:15] there was a big subsidy on uh on power
+[46:19] right so uh before everything was
+[46:21] subsidized uh because the the previous
+[46:24] government liked to to give away
+[46:26] presents and
+[46:27] the subsidy on the power was taken away
+[46:30] by uh by the government of mle um so uh
+[46:35] electricity became more expensive and
+[46:37] then that happened around the halfing so
+[46:40] uh yeah it was kind of a double blow for
+[46:42] many miners here so when I came here uh
+[46:46] in in 2021 there was a lot of Home
+[46:49] mining going on uh with A6 but also
+[46:52] ethereum mining at that time still uh
+[46:56] that whole mining I've seen
+[46:58] disappear almost entirely um so mining
+[47:03] on grid using the power from the grid
+[47:06] has become uh uh yeah financially not uh
+[47:10] not feasible
+[47:11] anymore as there might be some miners
+[47:14] using grid power but then they're
+[47:16] stealing it uh the the cases for mining
+[47:20] here in in Argentina is mostly on the on
+[47:23] natural gas side um so there's a big oil
+[47:27] on gas Fields here where there's uh um
+[47:30] uh gas exploration going on that's being
+[47:33] stranded so it's not being connected to
+[47:36] pipelines um so they uh they start
+[47:39] mining there or it's what they called
+[47:42] Associated gas so gas that comes out
+[47:45] while uh extracting oil um and uh
+[47:49] instead of flaring or venting this gas
+[47:52] it's being used to uh to mine Bitcoin uh
+[47:55] and actually there's quite some strict
+[47:57] regulations here about flaring uh so
+[48:01] many uh oil producers cannot even
+[48:04] extract um uh this oil if they don't off
+[48:09] take or do something with that uh
+[48:11] Associated gas so uh those are the the
+[48:14] bigger use cases you see here um that
+[48:18] industry is picking up so you see more
+[48:20] and more minus building out but it's uh
+[48:24] there's not huge um mining going on
+[48:27] let's say like like we've seen in in
+[48:30] Paraguay so uh most of these natural gas
+[48:34] field sites or flare gas sites they're
+[48:38] uh two to maybe 15 megawatts for a big S
+[48:43] while in in Paraguay we've seen sites
+[48:45] that are 50 to to even 100 megawatts so
+[48:49] it's a different uh different type of uh
+[48:52] mining environment here but I think it's
+[48:55] a uh it's going to grow in the coming
+[48:58] year right now the biggest challenge is
+[49:00] uh still the importation tax so in the
+[49:04] end you pay around 31% tax on your
+[49:07] machines and that has a huge impact on
+[49:09] the on the return of investment of your
+[49:12] uh of your mining Hardware so um yeah as
+[49:16] long as these importation taxes stay
+[49:18] high there's no way around it uh then uh
+[49:22] yeah mining will mostly be uh for for
+[49:25] Argentina invest
+[49:27] and less for foreign investors
+[49:29] interesting um do how how do you uh find
+[49:35] what are you looking at when you figure
+[49:37] out where to to to M Bitcoin there's so
+[49:40] many factors in that like the the price
+[49:44] of the electricity probably one one of
+[49:46] the big ones but also like
+[49:47] infrastructure how can it keep up what
+[49:49] are you looking at uh in in order to
+[49:51] figure out where to mine Bitcoin or what
+[49:53] did you see that other Miners did in the
+[49:55] past yeah well I think uh a big starting
+[49:58] point is uh is uh political stability
+[50:01] and Regulatory uh regulatory stability
+[50:04] so if you're not mining at all I I like
+[50:08] in this start I was advised to to look
+[50:11] into mining in in the US in the states
+[50:15] um because it yeah regulation is quite
+[50:17] clear and it's going to especially now
+[50:19] with Trump Administration it it looks
+[50:21] quite positive for miners if you're
+[50:23] looking to uh to get access to lower or
+[50:27] cheaper power for example in South
+[50:29] America or Africa like Ethiopia has been
+[50:32] booming uh you can do that but I always
+[50:36] recommend to do that as a second step
+[50:38] let's say to have a footprint in another
+[50:41] in in another region uh and not
+[50:43] necessarily to to start mining mining
+[50:46] there um you see also in Ethiopia for
+[50:49] example it's a lot of uh um Chinese and
+[50:53] Russian investors that uh that deploy
+[50:55] there and they they have uh yeah they
+[50:58] have an interest in in in deploying
+[51:00] their Capital abroad and are uh having
+[51:04] different risk profile let's say than uh
+[51:06] than most European or or American
+[51:10] investors so um yeah it it it depends a
+[51:14] lot where you want to start and how you
+[51:15] want to start but I think that political
+[51:18] stability reg regulatory stability is is
+[51:21] a first step uh and then uh the type of
+[51:25] power like many miners uh are looking
+[51:29] for green energy right so if you're uh
+[51:33] if you have this uh ESD or
+[51:36] sustainability uh goal let's say then uh
+[51:39] Hydro power uh is uh is very popular uh
+[51:43] and in in Paraguay you see a lot of
+[51:45] hydro production because of the big dams
+[51:48] they have over there um if you then want
+[51:50] to mine in in Argentina then it's it's
+[51:53] probably more interesting to look at the
+[51:55] flared gas
+[51:57] uh mining because you uh you reduce
+[52:00] emissions uh instead of going for the uh
+[52:03] natural gas uh uh uh path let's say why
+[52:08] are Bitcoin investors or Bitcoin mining
+[52:10] investors looking for East G is is that
+[52:13] like an actual is it an economical
+[52:16] decision or like an branding decision
+[52:19] it's a uh it's usually has to do with
+[52:22] the type of investors they try to pull
+[52:24] into their business so it's see it's
+[52:27] it's mostly for financial reasons so uh
+[52:30] uh yeah and then there's miners that
+[52:33] want to uh yeah have have this image or
+[52:36] promote that they're uh that they're
+[52:39] doing good to the world and uh uh yeah
+[52:42] mining has uh yeah has had a lot of
+[52:46] critique on its environmental impact so
+[52:49] by uh by tackling that issue right away
+[52:53] like uh at the power source then uh it
+[52:56] it help helps I think in in in getting
+[52:58] uh clients or funding uh um yeah for
+[53:02] your company makes total sense really
+[53:04] cool uh one more question around the
+[53:06] topic I have it's it seems like uh
+[53:10] Bitcoin mining has a lot of the of
+[53:13] similar attributes to normal data
+[53:17] Computing Netflix servers AI data
+[53:20] centers and stuff like that um are they
+[53:23] kind of competing for the for the same
+[53:26] and for the same places is that like
+[53:29] because AI is a will probably grow a lot
+[53:32] in in the coming future but Bitcoin also
+[53:33] probably grows a lot the coming Futures
+[53:37] uh or are you maybe already seeing maybe
+[53:39] like big centers that have like half AI
+[53:42] data Miners and half Bitcoin uh miners
+[53:45] in them uh what are you seeing on that
+[53:47] front yeah I think over this last year
+[53:49] it already started in 2023 but uh many
+[53:52] mostly bigger Bitcoin miners so publicly
+[53:55] traded Bitcoin miners are uh exploring
+[53:58] or uh already working in the AI high
+[54:01] performance computer space uh it's very
+[54:03] similar in the sense that it's both
+[54:05] computing power uh that requires uh uh
+[54:10] uh
+[54:11] electricity um however the type of data
+[54:13] centers are quite uh quite different so
+[54:17] uh um whereby Bitcoin mining uh is a
+[54:22] what we call flexible load uh this is a
+[54:26] uh power the B miners use power in a
+[54:29] flexible way so they can be switched off
+[54:31] and on or powered up and down uh
+[54:35] according to power available or or
+[54:38] pricing on the uh on the network um uh
+[54:43] AI hyper compute uh needs a high up time
+[54:46] so they need to be running 99 point and
+[54:50] you have even five NES behind the comma
+[54:52] so
+[54:53] 99.99999 and that uh that higher time
+[54:56] which is not required by uh by Bitcoin
+[54:59] miners has a has a big impact on the
+[55:02] cost of the buildout so if you uh if you
+[55:06] want to run AI high performance compute
+[55:09] uh you need to have a a big redundancy
+[55:11] in your build out so if the main power
+[55:14] source uh drops then you need to have
+[55:17] generators that uh that can turn on to
+[55:20] keep your uh uh your uh uh gpus running
+[55:25] um also um these build outs of AI
+[55:29] hyperon compute if you look at the power
+[55:32] consumption is less dense so you need
+[55:34] more square
+[55:35] meters um and uh also the the
+[55:39] infrastructure is more expensive and the
+[55:41] hardware so the gpus are currently a hot
+[55:44] commodity while the ASC miners are still
+[55:47] quite
+[55:47] suppressed um the reason why miners are
+[55:52] looking into providing services around
+[55:54] AI high performance compute is that uh
+[55:56] the premium for power is uh is is yeah
+[55:59] way higher that these data centers can
+[56:02] uh can make let's say if you compare to
+[56:05] uh to bitcoin where price needs to be uh
+[56:07] very low so uh um I think it's uh
+[56:11] there's a lot of
+[56:13] overlap uh both Industries can learn
+[56:15] from each other you can integrate both
+[56:18] uh types of computes but it's not for
+[56:21] everybody because it's it's really
+[56:22] Capital intensive uh so you need to yeah
+[56:25] you need have a serious uh um a serious
+[56:30] company let's say to to engage and it
+[56:32] also doesn't make sense to just deploy
+[56:35] half a megawatt of AI hyperon Compu it
+[56:37] needs it needs to be a bigger data
+[56:39] center in order for it to be uh yeah
+[56:42] financially feasible let's say super
+[56:45] interesting uh the the intersection
+[56:48] there um how do you look at um let's say
+[56:52] normal people coming into Bitcoin mining
+[56:56] with not like hundreds of thousands of
+[56:58] dollars to deploy but like maybe a few
+[57:00] hundreds maybe a few thousand dollars to
+[57:02] deploy um what would you say is there
+[57:05] good is it even is it a good idea to
+[57:09] have I don't know two S9 running at home
+[57:12] or is it then better to uh host it
+[57:15] somewhere or how do you look at that
+[57:17] topic whether one is better than the
+[57:19] other it's uh I don't think it's very
+[57:23] comparable let's say because s9s they're
+[57:25] very cheap if you home mine you're
+[57:27] probably not making a lot of uh profits
+[57:29] especially with these S9 so I think most
+[57:33] H home home miners do it uh as a hobby
+[57:37] so they want to learn how these machines
+[57:39] work they want to reuse the heat uh they
+[57:43] enjoy that process uh you see also a lot
+[57:46] of bitex miners right these mini miners
+[57:49] uh popping up I think it's the both bitx
+[57:52] and and reuse of heat in your house is
+[57:55] is more of a a hobby and educational uh
+[57:58] tool than anything uh it won't make you
+[58:01] rich let's say um if you are looking to
+[58:05] deploy uh uh more Capital uh then
+[58:09] there's different options for retail
+[58:11] investors you can uh you can use what
+[58:14] what we call a buy and host uh
+[58:16] opportunity so you you uh purchase
+[58:19] machines at the hosting service and they
+[58:22] deploy those machines in the rxs and
+[58:24] they run them for you um
+[58:26] um this is also a good way to to to
+[58:30] start mining this that's this is how I
+[58:32] started as well um the only thing is
+[58:35] that uh when you buy these machines you
+[58:37] need to understand that sometimes the
+[58:39] power goes down or your machine breaks
+[58:41] down so um it it requires some uh
+[58:46] involvement as well so it's it's less
+[58:48] passive let's say than just buying a
+[58:49] buying Bitcoin but less active than
+[58:53] running these machines at home um but
+[58:55] there's other tools out there you have
+[58:58] uh uh for example hes power or hes rate
+[59:02] marketplaces like nice has where you can
+[59:05] buy H rate as you wish uh you have these
+[59:08] Cloud mining Services uh where you can
+[59:11] buy shorter term contracts uh there's
+[59:14] different ways to get exposure let's say
+[59:16] uh to uh to H rate without uh without
+[59:19] directly owning the hardware because uh
+[59:22] yeah owning the hardware comes with
+[59:24] maintenance with repairs uh uh and and
+[59:27] yeah more active involvement let's say
+[59:29] interesting it's a it's it's a good
+[59:32] model to to let it run by by someone
+[59:35] else
+[59:37] uh because you unless you want to start
+[59:41] an an mining operational mining Farm
+[59:43] then you should do it yourself obviously
+[59:46] but outside that make a lot of noise and
+[59:48] if you don't want the noise you need to
+[59:49] have them imerge in oil or have a
+[59:52] hydrocool setup which is more technical
+[59:55] uh uh so yeah like I uh I'm not very
+[60:00] techsavvy I have a economics background
+[60:03] and business background that's my folks
+[60:05] also in the industry but so I wouldn't
+[60:07] be able to to uh run these machines at
+[60:10] home or maybe I will be able but uh uh
+[60:13] it uh it will get me frustrated because
+[60:16] I find installing a modem already
+[60:18] frustrating so uh I think uh if you do
+[60:21] it at home like it's uh it's really
+[60:23] because you like it and you want to
+[60:25] learn about it uh and um I think the the
+[60:28] bitex movement is is really great uh
+[60:31] because it's a a counter movement to
+[60:33] this big Mega mines and uh uh people
+[60:36] that have this uh EOS of
+[60:39] decentralization very uh high up there
+[60:42] uh but it's also a great tool because it
+[60:45] educates people about Mining and what we
+[60:47] need in mining is uh in the industry is
+[60:50] is people you know like uh uh the the
+[60:54] industry is growing very fast so we need
+[60:56] people from other
+[60:57] Industries different backgrounds that
+[60:59] that that join uh the industry in order
+[61:01] to yeah professionalize and mature
+[61:04] further let's say do you think that
+[61:05] Bitcoin mining will be integrated in in
+[61:09] like heating products that there's 21
+[61:11] energy already like already companies
+[61:13] doing that but is is that a future to
+[61:15] where you see um even small Bitcoin
+[61:18] miners just deployed in small um devices
+[61:23] around the house that you just plug and
+[61:26] you use it as as it it is used to used
+[61:28] usually without Bitcoin minus but in the
+[61:30] background there is like you just
+[61:32] connect the wallet and you get some
+[61:33] satous for it yeah that could very well
+[61:36] be uh I uh I did a keynote presentation
+[61:39] at Bitcoin Amsterdam and there I finish
+[61:42] the presentation with the minor of the
+[61:44] future and I think the minor of the
+[61:46] future because of these revenues that
+[61:48] are going down forever like uh uh the
+[61:51] minor of the future are um not
+[61:54] necessarily um miners at their core
+[61:57] right so it can be a a utility that uses
+[62:00] uh Bitcoin miners to balance the grid it
+[62:02] can be uh a greenhouse that reuses the
+[62:05] heat to uh heat the heat the greenhouse
+[62:09] or uh we've seen that with District
+[62:11] heating as well it can be a a factory
+[62:14] that has a big Power contract uh but
+[62:17] they don't use all that power 247 at the
+[62:20] same uh same pace so when uh the power
+[62:24] usage of their production line goes down
+[62:26] they can switch the minus on in order to
+[62:29] uh to lower these the the the cost of uh
+[62:32] of their power there's different uh ways
+[62:35] you can think of um landfills that
+[62:38] produce methane uh that cannot be really
+[62:41] commercialized uh to to use that methane
+[62:44] to uh to uh generate energy and and
+[62:47] start mining uh I think the the minor of
+[62:50] the future will be integrated with uh
+[62:53] with other types of businesses and uh
+[62:56] um yeah might not even be U minor at the
+[63:00] core but it might be an A Tool uh in the
+[63:03] energy management uh tool belt of uh of
+[63:06] certain companies very true really cool
+[63:09] thank you so much um we have one
+[63:11] question that I asked each and every one
+[63:13] of my guest and is and it is the
+[63:15] question of what can we learn from you
+[63:17] besides Bitcoin oh besides Bitcoin it's
+[63:20] been quite a focus on bitcoin especially
+[63:23] mining um
+[63:25] can you learn from me
+[63:27] yeah uh I don't know I uh I think uh
+[63:32] I that's a tough question I think uh
+[63:35] what I've learned living here in
+[63:37] Argentina far away you know from my
+[63:39] family friends like uh uh appreciating
+[63:43] uh your friendships and your family the
+[63:46] time you spent with your family so
+[63:48] underestimated it so I think that's uh
+[63:51] maybe uh a lesson I uh uh I knew already
+[63:57] but I've I've I it's a a daily reality
+[64:00] for me right being far away from my
+[64:02] family and friends so having the time to
+[64:06] spend with them uh is very important I
+[64:08] think that might be a very Christmas me
+[64:11] Christmasy message uh and then uh yeah
+[64:16] like I I uh I find um Sports very
+[64:20] important like I do a lot of
+[64:22] sports uh and I think that's that's
+[64:25] helps me at least to mentally uh get
+[64:29] clearance on a lot of stuff so taking a
+[64:32] break from uh from Bitcoin taking a
+[64:35] break from work taking a break from
+[64:36] everything by by doing sports is so so
+[64:39] important not only physically but uh
+[64:42] mentally uh makes you much stronger I
+[64:44] think very true yeah you you um you need
+[64:48] Sports for the mental capacity
+[64:50] physically of course Al but I I honestly
+[64:52] do it for my main motivation for doing
+[64:55] sports is uh for the mental Clarity and
+[64:57] for the balance for for my mind uh break
+[65:01] mentally right yeah do do doing it for
+[65:04] the physical part yes it's great also
+[65:06] but the mental part is my my main
+[65:08] motivation perfect very cool Nico we
+[65:10] have end rtin the podcast where the
+[65:12] previous guest is asking a question for
+[65:13] the next guest without knowing who the
+[65:15] next guest actually is and the question
+[65:17] for you is do you think the goal of
+[65:20] Bitcoin is to create the perfect money
+[65:23] or just the best money uh I think the
+[65:26] goal was to create the perfect money
+[65:29] right yeah I would say the perfect uh uh
+[65:33] yeah absolutely I think uh Bitcoin is
+[65:35] already the perfect money but we still
+[65:37] have a lot to uh a lot to figure out
+[65:40] along the way but yeah uh really cool
+[65:42] thank you so much Nico for for being on
+[65:43] the show before I let you go back can
+[65:45] people find you ask your
+[65:47] questions uh yeah so I'm quite active on
+[65:49] social media Twitter and LinkedIn
+[65:52] because I am quite focused on business
+[65:54] to business uh and I run a popular
+[65:57] newsletter called the Bitcoin mining
+[65:58] blog post so if you look me up on
+[66:00] Twitter or LinkedIn you'll find your way
+[66:02] to the newsletter uh we send out weekly
+[66:05] uh newsletters on on mining economics
+[66:08] but also provide insights into industry
+[66:10] Trends and Innovation so uh I think
+[66:13] that's uh that's most interesting for
+[66:16] for listeners out there really cool
+[66:18] thank you so much for for being on also
+[66:20] thank you so much for everyone that's
+[66:22] watching and listening for joining us
+[66:23] today as always I'll be back tomorrow of
+[66:26] another episode bye-bye
+[66:28] [Music]

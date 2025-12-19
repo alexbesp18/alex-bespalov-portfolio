@@ -1,0 +1,1119 @@
+Title: The Silver Bullet for the BEST BTC Self Custody | Lixin Liu
+Video ID: QUece0KRJbQ
+URL: https://www.youtube.com/watch?v=QUece0KRJbQ
+Date Saved: 2025-06-15 11:55:49
+--------------------------------------------------
+
+[00:00] if you really wanted to self custody
+[00:02] properly and in a secure way buying a
+[00:05] hardware will will help you to do that
+[00:07] but your knowledge is your knowledge
+[00:10] about Bitcoin your knowledge about self
+[00:12] custody this is the silver bullet for
+[00:15] you to security store your Bitcoin you
+[00:17] can just remember words in your head and
+[00:19] that's s custody you can never Outlaw
+[00:22] that Bitcoin is like the Plan B against
+[00:25] those centralized entities when we now
+[00:28] see field money as the Titanic of the
+[00:32] financial system and like it's the
+[00:33] Titanic and it will sink we don't want
+[00:35] the Titanic to sink too
+[00:37] [Music]
+[00:40] quick what did motivate you to to start
+[00:44] Keystone what did motivate you to start
+[00:46] this this company and and start a okay
+[00:49] something more in
+[00:50] Bitcoin okay cool cool thank you so much
+[00:52] for the for the question I think maybe I
+[00:54] can give a quick recap about how I get
+[00:57] into Bitcoin how I because that's
+[01:00] related how I get into Bitcoin is
+[01:02] related to how I started building this
+[01:04] company so back in 2009 when I was in
+[01:08] college uh around the the Christmas of
+[01:11] 2009 it was our job hunting season I was
+[01:14] at the last year of my college so I was
+[01:17] doing job hunting at that time and I
+[01:19] spent a lot of time on the internet and
+[01:22] I was a heavy user of Google Reader
+[01:24] which is a RSS uh Sub sub subscription
+[01:27] Tool uh for users and around Christmas
+[01:31] of 2009 my Google Reader was flooded by
+[01:34] a lot of Bitcoin stuff and that's the
+[01:37] first time I knew Bitcoin 2009 so at
+[01:39] that time I didn't but I the the the the
+[01:42] biggest regret is that I didn't do
+[01:43] anything I didn't do mining I didn't do
+[01:45] anything for Bitcoin because I was
+[01:46] thinking that this is very cool this is
+[01:49] very revolutionary but I was not sure
+[01:52] that the consensus could be reached at
+[01:54] that time so I was kind of like qu
+[01:56] questioning about Bitcoin at that time
+[01:59] uh uh so I didn't do anything and then
+[02:01] four years later it came to
+[02:04] 2013 uh I was running a startup with my
+[02:08] two of my best friends uh and they were
+[02:11] both graduated from uh the computer
+[02:13] science uh uh they they got their
+[02:16] computer science master degree in
+[02:18] Stanford so they were keeping a close
+[02:20] eye on what's happening in the tech
+[02:23] world and one day one of them told me
+[02:26] that LE you should you should check out
+[02:27] this you should check out you should
+[02:28] check out Bitcoin that
+[02:30] 2013 yeah uh because I think the price
+[02:33] goes up from like $10 to $100 at a time
+[02:36] so they asked me to check it out and
+[02:38] then I checked out Bitcoin I was super
+[02:41] surprised that it seems like the the
+[02:43] consensus has been reached about Bitcoin
+[02:45] everyone's talking about Bitcoin and
+[02:47] people are buying Bitcoin so that's the
+[02:49] first time I bought my first Bitcoin on
+[02:50]  which is another like sad story
+[02:55] and then another four years later so my
+[02:58] career and my tri
+[03:00] with Bitcoin is is also like four years
+[03:03] then we have a big change so 2009 I knew
+[03:05] Bitcoin 2013 I bought Bitcoin in
+[03:09] 2017 at that time I knew I was
+[03:12] introduced to one of the biggest so
+[03:15] before 2017 I was working on other
+[03:17] Hardware products I was working on Dr
+[03:20] before uh just the photography and video
+[03:24] graphy draw at that time and selling
+[03:26] that product worldwide I was working a
+[03:28] very popular company at that time uh and
+[03:31] I quit that company because my wife was
+[03:33] pregnant so at that time I was also
+[03:35] looking for my next journey of Hardware
+[03:39] so at the end of 2017 I was introduced
+[03:41] to one of the biggest miners here in
+[03:46] China and he incubated me to make
+[03:49] Hardware wet because at that time I have
+[03:52] the experience of making Hardware I have
+[03:54] the experience of setting a hardware
+[03:56] worldwide because you know building
+[03:59] Hardware is only part of the journey you
+[04:01] you need also to do like uh world
+[04:03] distribution logistic fulfillment also
+[04:07] uh like Licensing in different countries
+[04:10] this kind of thing certification in
+[04:12] different countries a lot of stuff so
+[04:14] making Hardware is not easy but I have
+[04:15] all this experience because I was
+[04:17] working in a drwing company for over
+[04:19] four years and also I knew a lot about
+[04:21] about Bitcoin so I bought Bitcoin really
+[04:23] early so uh we knew each other and he
+[04:26] thought so that was like the end of the
+[04:29] the The Bu Market at the end of 2017 so
+[04:32] we started a company we start building
+[04:34] Hardware wet so that's like how I get
+[04:37] into Bitcoin and how I get into the
+[04:39] business of making Hardware wet uh I
+[04:42] love it and you mentioned uh when you
+[04:44] looked into Bitcoin you saw if there is
+[04:47] a consensus or not what do you mean with
+[04:50] with Bitcoin reaching a consensus do you
+[04:53] mean like market adoption or I mean
+[04:56] consensus means like um everyone like
+[04:59] recognize the value of Bitcoin because
+[05:03] at that time Bitcoin was so
+[05:06] revolutionary uh every like the
+[05:08] traditional money all those money they
+[05:10] are backed by a government right either
+[05:14] it's China government or US Government
+[05:16] but so I was thinking that okay this
+[05:20] money is not backed by any government is
+[05:24] this possible will anyone like well a
+[05:27] lot of people like Rec the value of this
+[05:30] or just some like cyer punk people are
+[05:34] like recognizing this the value of
+[05:36] Bitcoin so that's what I mean by
+[05:38] consensus but not the not the consensus
+[05:40] of like mining mechanics this kind of
+[05:43] thing do you think that uh we reach that
+[05:47] point where we see enough consensus
+[05:51] enough adoption of Bitcoin that it's
+[05:54] almost just a matter of time till it's
+[05:56] fully adopted or are there still some
+[05:58] questions in your mind
+[06:00] yeah I think in 2009 I was questioning
+[06:02] about the how the consensus could be
+[06:05] reached and when the consensus could be
+[06:06] reached but in 2013 I was kind of sure
+[06:10] because you know everyone everyone knew
+[06:14] Bitcoin I think the first stage you knew
+[06:15] Bitcoin you won't get Bitcoin the
+[06:17] meaning of Bitcoin in the first place
+[06:19] right uh Satoshi Nakamoto said in the
+[06:22] Forum that if you don't understand I
+[06:24] want to explain this to you so it takes
+[06:26] everyone some time to understand bcoin
+[06:29] and to get into Bitcoin and to build
+[06:32] Bitcoin so this is my journey and I
+[06:35] think everyone takes almost the same
+[06:37] Journey it's an interesting approach
+[06:39] from Satoshi that he says like uh I
+[06:42] don't have the time to to explain it to
+[06:44] you do do sometimes I feel like it's
+[06:47] it's it's a bad approach because uh we
+[06:50] we we should explain we should explain
+[06:52] Bitcoin we should explain other people
+[06:54] why Bitcoin is so great but then
+[06:56] sometimes I have conversations with no
+[06:57] coiners and I'm like I can understand
+[07:00] why satosi said that like it someone has
+[07:03] to do some research on on themselves to
+[07:06] actually understand the technology
+[07:07] understand everything and we can not
+[07:10] force anyone uh to to come to to the
+[07:13] conclusion and they will come there
+[07:14] anyway so how do you look at it
+[07:17] yeah yeah definitely I think you are
+[07:19] perfect you're perfectly right everyone
+[07:21] will get on this boat sooner or later
+[07:25] yeah for me it takes about four years
+[07:27] but maybe maybe I think nowadays it be
+[07:30] quicker because at that time after 2009
+[07:33] I didn't hear anything about Bitcoin
+[07:36] it's like totally erased from my from my
+[07:40] computer from the thing I'm I'm checking
+[07:43] but then suddenly it came back so four
+[07:45] years later I think nowadays maybe you
+[07:47] see Bitcoin today and next week you will
+[07:50] see Bitcoin again and next week in
+[07:52] another PB people will talk about
+[07:54] Bitcoin again so it will be quicker and
+[07:58] quicker for us someone to understand
+[08:00] Bitcoin and also we have this kind of
+[08:03] interview and podcast for people to
+[08:06] understand more about Bitcoin so I
+[08:07] really value the opportunity of talking
+[08:10] with you to share my journey to share my
+[08:13] thinking about Bitcoin about self CTIC
+[08:16] yeah thank you again thank you so much
+[08:18] yeah I appreciate that my my my mission
+[08:21] here on the podcast is like give every
+[08:23] bitco stage so we can uh work together
+[08:26] and and make this thing happen and the
+[08:29] thing is
+[08:30] uh I'm already looking forward in 10
+[08:32] years when I can in 10 years look back
+[08:35] at this those episodes from here and see
+[08:38] like what what do what did the people
+[08:40] say what did they expect for the future
+[08:42] of Bitcoin and how did it actually BL
+[08:45] out so this will this will be really
+[08:47] really uh great and there let's let's
+[08:49] let's come directly to it um what are
+[08:52] you doing with with with Keystone it's
+[08:54] like a hardware wallet uh and maybe for
+[08:56] people that then don't know Keystone uh
+[08:58] what is key Keystone doing okay thank
+[09:01] you so much uh so in one sentence
+[09:04] Keystone is a hardware wallet and we
+[09:08] offer a Bitcoin only firmware for our
+[09:11] user which means that you buy the
+[09:13] product and you can upgrade to bitcoin
+[09:15] only firmware and then Bitcoin is the
+[09:19] only um like blockchain supported in
+[09:22] this device and you can use this device
+[09:26] so the biggest difference of this device
+[09:29] comparing to other like popular Hardware
+[09:33] where in the community is that this is
+[09:36] the device and it comes with a 4 inch
+[09:39] touch screen so uh we have this 4inch
+[09:42] touchcreen designed because we wanted to
+[09:46] give the best user experience to the
+[09:48] user because we think for the past
+[09:51] several years every Hardware wallet is
+[09:54] trying to improve the security from a
+[09:57] technical perspective but user
+[10:00] experience is also part of the security
+[10:02] because if you make a product which is
+[10:05] hard to use and people may abandon that
+[10:08] or if it make you make a hardware wet
+[10:10] which is hard hard to use and the user
+[10:13] may make human mistakes then they will
+[10:15] lose their Bitcoin so that's why we we
+[10:19] come up with the 4 inch touchcreen and
+[10:22] this is the biggest difference from the
+[10:24] phone Factor wise and also at the back
+[10:27] of the device you can see there's a
+[10:30] camera so another big difference of this
+[10:33] device is that we use this camera to
+[10:36] scan QR code on the software wallet
+[10:40] either it's blue wallet or Sparrow or
+[10:43] any other like Bitcoin wallet to scan
+[10:45] the QR code to get the information into
+[10:49] the device sign the transaction and then
+[10:51] show another QR code again and then you
+[10:54] can use your your mobile phone your blue
+[10:58] wallet on your mobile phone to scan the
+[10:59] QR code and broadcast the transaction so
+[11:03] in this way we were telling people that
+[11:06] we want to
+[11:07] create create a totally air gapped way
+[11:11] of communication between your Hardware
+[11:14] wallet and your software wallet we know
+[11:16] that um we are the first one now doing
+[11:19] this and later code card and passport
+[11:22] they are doing the same thing um but I
+[11:25] think code card has the first idea that
+[11:27] they use micro SD card to transfer the
+[11:30] data which uh allow you to never connect
+[11:33] your device to a laptop through USB or
+[11:36] through Bluetooth they are the first one
+[11:39] to do air gap but we are the first one
+[11:41] to do air gap with QR code which makes
+[11:44] it much much more easy much much easier
+[11:48] for a user to uh scan the QR code rather
+[11:52] than use the micd card so this is the
+[11:55] main difference of our device and at the
+[11:58] back of the device you can can see
+[11:59] there's also a fingerprint sensor so
+[12:02] with this fingerprint
+[12:04] sensor uh you can authenticate your
+[12:08] transaction with just a tap of your
+[12:10] finger rather than typing your password
+[12:14] every time so every time you turn on a
+[12:16] device just like iPhone every time you
+[12:18] turn on your iPhone your iPhone or you
+[12:21] didn't you don't use it
+[12:23] for uh a period of time then you need to
+[12:26] type your password but after you type
+[12:28] your password you can use your face to
+[12:31] like unlock your iPhone or authenticate
+[12:34] any sensitive like operation on your
+[12:37] iPhone so this is the same every time
+[12:39] you turn on the device you type in your
+[12:41] password and then use your fingerprint
+[12:43] to authenticate the transaction if you
+[12:45] don't turn it off in this way um because
+[12:49] nowadays people are the first of this
+[12:52] the first benefit of this fingerprinting
+[12:54] sensor is that it makes it easier for
+[12:56] people to uh to authenticate transaction
+[13:00] the second benefit of this fingerprint
+[13:02] sensor is that uh nowadays people are
+[13:05] not only using their Hardware wet at
+[13:07] home but maybe in some public places
+[13:10] like in a cafe or in an airport and in
+[13:14] those kind of places there's a lot of
+[13:16] like surveillance cameras so then with
+[13:19] your fingerprint you won't be caught by
+[13:22] those surveillance cameras that your
+[13:24] password or any this kind of sensitive
+[13:27] information so this is why we have this
+[13:29] design so
+[13:31] overall we take like security from
+[13:34] another perspective rather than just
+[13:37] technical security but think about
+[13:39] because security is very complicated
+[13:41] it's like building a bracket and every
+[13:45] piece of the bracket should be not very
+[13:47] short so that you can hold more water in
+[13:49] the bracket so this is our like design
+[13:52] philosophy of the product and uh also
+[13:56] another uh interesting part another two
+[13:59] interesting part for the security the
+[14:01] first is that this device has three
+[14:04] secure elements we know that the datest
+[14:06] model of code card they have two secure
+[14:08] elements we have three different types
+[14:10] of secure elements and also we have a
+[14:13] self destruction mechanism which means
+[14:15] that if a hacker uh stole your device
+[14:18] and the falsely open a device to do some
+[14:21] hack to the circuit board and this
+[14:24] device will be self-destructed which
+[14:27] means that it will erase all the
+[14:29] recovery phrase or or private key so
+[14:32] this is like maybe too many setting
+[14:35] points but this is what we have done for
+[14:38] the Bitcoin community and we have been
+[14:41] in the space for over six years so this
+[14:43] is our third generation of device not
+[14:45] the first or second the third generation
+[14:48] oh really really cool uh I love that
+[14:51] you're taking the approach to make it
+[14:54] simple and make it user friendly because
+[14:57] everyone is used to having like a phone
+[15:00] uh and and those other ones are not
+[15:03] having those those those displays but
+[15:06] the the reality right now for me at
+[15:08] least is um most people still don't have
+[15:11] self custody like most people hold their
+[15:14] like most people don't have Bitcoin but
+[15:16] those who have Bitcoin even those have
+[15:18] it usually on Exchange they maybe even
+[15:21] have it on on an ETF or something like
+[15:23] that um why why do you think that most
+[15:26] people still don't have a selfcast
+[15:30] solution or why they are not using why
+[15:33] they are why are they so uh um uh lazy
+[15:37] and just keep the Bitcoin on Exchange uh
+[15:41] and and what can we do like to to get
+[15:43] people do self
+[15:45] custody okay I think um for those people
+[15:49] I think it's very obvious that they're
+[15:52] why they are putting their Bitcoin in
+[15:54] those uh centralized exchanges I think
+[15:57] just because those exchanges they have
+[15:59] better user experience comparing to self
+[16:03] custody because if you do self custody
+[16:05] at least you need to create create your
+[16:08] own recovery phrase and write them down
+[16:11] and put them some somewhere safe that's
+[16:14] kind of like intuitive for people to do
+[16:17] this because imagine you having a bank
+[16:21] account you never like write down 24
+[16:23] words for your bank account right so
+[16:26] this is kind of
+[16:27] counterintuitive but but I'm very
+[16:30] positive about in the future just like
+[16:33] you said maybe in 10 years later let's
+[16:35] imagine 10 years later so I was always
+[16:39] challenging by my friends who are just
+[16:42] putting their Bitcoin in those exchanges
+[16:44] they telling me Oh own a hardware wallet
+[16:48] doing everything understanding
+[16:50] everything it's really hard but I'm
+[16:52] really positive I'm really positive to
+[16:54] this because just imagine that 10 years
+[16:59] later so in the United States or in
+[17:03] China almost everyone they can drive a
+[17:05] car right driving a car is something not
+[17:09] very easy and you need to take some
+[17:11] lessons lessons and you need have a
+[17:13] license to drive your car maybe in 10
+[17:16] years later everyone will be taught that
+[17:21] how to use Bitcoin how to manage Bitcoin
+[17:23] how to store Bitcoin properly in 10
+[17:26] years later I can imagine that so also I
+[17:30] was invited to some high schools to do a
+[17:33] remote lecture for them about self cust
+[17:36] about how to use Keystone these kind of
+[17:39] like lessons those are economics lessons
+[17:42] in high school in the United States so
+[17:45] I'm very very positive about that
+[17:47] because this is all about education so
+[17:49] people should know that Bitcoin is
+[17:51] decentralized and if you own this
+[17:54] decentralized assets it doesn't make any
+[17:57] sense if you own a decentralized asset
+[18:00] in a centralized way it doesn't make any
+[18:02] sense right
+[18:05] so some people they they put most of
+[18:08] their Assets in Bitcoin for those people
+[18:11] of course they understand Bitcoin and
+[18:12] they'll do self cust it but some people
+[18:15] they just take Bitcoin as some kind of
+[18:17] investment but even for this kind of
+[18:19] investment if you are taking Bitcoin as
+[18:21] investment you must be you must be you
+[18:24] must see Bitcoin as a diversify your
+[18:27] portfolio right if you wanted to
+[18:29] diversify portfolio from that
+[18:32] perspective it means that you want to
+[18:34] diversify your portfolio from those a
+[18:36] bunch of
+[18:38] centralized like assets diversify using
+[18:42] using Bitcoin to diversify those
+[18:44] centralized assets then you're are
+[18:47] seeing the value of Bitcoin which is a
+[18:49] decentralized asset and then if you put
+[18:52] that decentralized asset in centralized
+[18:54] way it doesn't make any sense so if
+[18:57] every people if people are educated in
+[18:59] this way and people understand Bitcoin
+[19:02] in this way rather than just seeing
+[19:04] Bitcoin as maybe the stock of Apple this
+[19:07] kind of thing and then you will use the
+[19:10] right way to do self custody you will
+[19:12] take the hustle of U managing recovery
+[19:15] phrase setting up Hardware wallet you
+[19:17] need will understand the knowledge about
+[19:19] this so I'm very positive about that
+[19:21] because just like when I see Bitcoin in
+[19:24] 2009 I I didn't think the consensus
+[19:26] could be reached so nowadays Maybe some
+[19:28] people think okay the consensus of
+[19:30] Hardware won't be reached but I'm really
+[19:33] positive about that because I've been
+[19:34] through the Journey of seeing Bitcoin
+[19:38] but don't understand that and then kind
+[19:41] of see the consensus and buy Bitcoin and
+[19:45] then get my career get my time get my
+[19:48] like my all my energy into Bitcoin so I
+[19:51] got into this process I'm pretty sure
+[19:53] that everyone will has will have his own
+[19:57] like Bitcoin journey and and at the end
+[19:59] of the day most of people will
+[20:01] understand the value of Bitcoin and the
+[20:02] value of self
+[20:04] custody yeah it's it's it's something uh
+[20:08] very true when we have more and more
+[20:10] education and more and more adoption of
+[20:12] the technology uh S cost will be more
+[20:15] more normal is there something that you
+[20:18] see where Hardware wallets have to
+[20:21] improve like do you see any uh
+[20:23] technology uh improvements or anything
+[20:26] except of Education that we have to do
+[20:29] in in self custody to actually onboard
+[20:32] like four billion people five billion
+[20:34] people because now it's like a small
+[20:36] number like how many people have
+[20:38] actually Bitcoin 100 million 200 million
+[20:41] 300 million whatever the exact number is
+[20:43] but if you want to have like two billion
+[20:45] five billion uh where do you see the
+[20:48] like the the future of of self custody
+[20:51] devices uh in in like five 10 maybe 20
+[20:55] years okay uh that's a great question so
+[20:59] uh I think right now for
+[21:01] Keystone uh it's very if if we only talk
+[21:05] about the like maybe five years later
+[21:07] about Bitcoin I think about Keystone I
+[21:10] think one of the most important thing is
+[21:13] that we should decentralize keyone
+[21:18] decentralize a hardware wallet what does
+[21:21] this mean this means that right now we
+[21:25] are like we are the owner of the
+[21:28] Keystone brand and we are also
+[21:30] manufacturing the Keystone device and we
+[21:33] are selling and distributing this device
+[21:35] to our end user but in this way we are
+[21:39] still like like a centralized entity of
+[21:43] making this device right so what I'm
+[21:45] thinking about is that maybe five years
+[21:48] later or 10 years later we will
+[21:52] decentralize this wallet which means for
+[21:54] example if you are in the United States
+[21:57] you can download
+[21:59] all the code and you can download the
+[22:01] hardware design you can download
+[22:03] everything on GitHub and then you can
+[22:07] find some manufacturer to help you
+[22:09] easily manufacture this Hardware wet and
+[22:12] distribute to your customer in your
+[22:15] country because we see that in the
+[22:17] future obviously right now people are
+[22:19] building walls between China and the US
+[22:23] in between like Russia and other
+[22:25] countries it's like people don't
+[22:27] understand each other so the consensus
+[22:29] is like become weaker and weaker in
+[22:32] different countries in different races
+[22:34] so that's why I'm thinking but but in
+[22:37] the Bitcoin world we have a term that
+[22:39] code is law right so maybe one day we no
+[22:43] longer manufacture this product we are
+[22:45] just trying to deliver the code to the
+[22:48] community and you can use the code you
+[22:50] can use the mechanics design you can use
+[22:53] the circular design to produce your own
+[22:55] Keystone in your country and resell that
+[22:59] to your customer in your country so this
+[23:01] is what I'm thinking about decentralize
+[23:04] a hardware W and I'm really positive
+[23:07] about the future of this and if we come
+[23:10] to this future and even Hardware world
+[23:13] could be decentralized and then the
+[23:15] Bitcoin Community is more decentralized
+[23:18] so the more decentralized the better
+[23:21] this is what I'm thinking about and I'll
+[23:23] be really proud if we achieve that if
+[23:25] you are listening to this podcast you
+[23:27] might be wondering what is actually the
+[23:29] setup look like of Robin or how can I
+[23:31] improve my Bitcoin setup and there's two
+[23:34] things you have to buy Bitcoin from the
+[23:36] right source and you have to store
+[23:38] Bitcoin the right way let's focus on the
+[23:40] first thing how to buy Bitcoin it's
+[23:42] simple have a Bitcoin only exchange
+[23:45] don't deal with the shitcoin exchanges
+[23:47] don't deal with an exchange that has an
+[23:48] own token or something like that be on a
+[23:51] Bitcoin only exchange I use 21 Bitcoin
+[23:54] 21 Bitcoin is for me the best partner
+[23:57] for that and now now where do you store
+[23:59] Bitcoin Bitcoin should be stored on a
+[24:01] hardware wallet on a self custody
+[24:04] solution where you yourself hold your
+[24:07] keys and it should be a cold wallet so
+[24:10] that's my Simple Solutions that's a
+[24:13] bitbox you just put your Bitcoin on
+[24:15] there back up your seat fras and you are
+[24:18] better than 95% of all Bitcoin hodlers
+[24:22] if you have more than ,000 in Bitcoin
+[24:24] it's an absolutely must have one last
+[24:27] thing before we get back back to the
+[24:28] video I'm really passionate about
+[24:30] meeting other bitcoiners and there's an
+[24:32] amazing opportunity in middle of Europe
+[24:35] in June the Bitcoin BR conference it's
+[24:39] the best and biggest Bitcoin only
+[24:41] conference in whole of Europe for all
+[24:44] Americans please visit Europe and visit
+[24:46] this place in June for all europees it's
+[24:49] a must go anyways you're so close to the
+[24:52] Bitcoin Pride conference you basically
+[24:53] have to come I will do interviews there
+[24:56] and I would love to meet you all there
+[24:59] use code Robin for all my sponsors to
+[25:02] get discounts and use the links down in
+[25:04] the description yeah and it's also gets
+[25:06] in the focus of open sourcing everything
+[25:10] I think the Bitcoin communi is really
+[25:12] really like to see open source stuff
+[25:14] when they see actually oh I can verify
+[25:17] the code I can verify then put it myself
+[25:20] together uh really interesting uh a
+[25:23] concept uh do you think it it in
+[25:26] generally makes sense to to de
+[25:29] centralize almost everything and and and
+[25:31] companies in general or are there some
+[25:35] some things that still make sense also
+[25:37] in the future where we have to have a
+[25:40] centralized organization around it in
+[25:43] generally I think in the future um from
+[25:47] my perspective something you will never
+[25:50] change in the nature of some centralize
+[25:52] the thing because you you still have the
+[25:55] government um for me I don't think
+[25:59] our bitcoiners we can like fight with
+[26:01] those governments right so the
+[26:04] government is centralized and then a lot
+[26:06] of stuff built upon the government are
+[26:09] centralized they have centralized the
+[26:11] banks they have centralized like
+[26:14] education centralized hospitals still
+[26:17] there are something that are centralized
+[26:19] but I see like Bitcoin as we always see
+[26:23] like Bitcoin is your like Plan B right
+[26:26] so Bitcoin is like the Plan B against
+[26:28] those centralized entities or
+[26:31] centralized people so but I think around
+[26:35] Bitcoin everything Bitcoin related I
+[26:38] hope everything Bitcoin related should
+[26:40] be as decentralized as possible so this
+[26:43] is what I'm vising what I'm trying to V
+[26:46] in the future and it's a it's a great
+[26:48] vision because uh it's it's it's it's
+[26:51] the fundamental of everything in Bitcoin
+[26:53] not having any centralized organization
+[26:57] manipulating uh anything how do you look
+[26:59] at at at stuff like the Bitcoin ETF uh I
+[27:02] think it was the Bitcoin ETF in America
+[27:05] came out now in Hong Kong also uh before
+[27:08] there were already Bitcoin ETFs in
+[27:11] Canada uh and but now a lot of people
+[27:13] like uh scream up in the Bitcoin
+[27:17] Community uh because those Bitcoin ETFs
+[27:20] have a lot of Bitcoins like the the
+[27:22] think the total value of the American
+[27:25] Bitcoin ETFs have now reached a million
+[27:28] Bitcoin if if I'm I'm if I'm not
+[27:30] mistaken but they reach like a really
+[27:32] big number of Bitcoins maybe I'm wrong
+[27:34] about the exact number but are you
+[27:37] concerned about those centralized
+[27:41] holders oh that's a great great great
+[27:44] question so uh from my
+[27:48] perspective uh what I'm seeing Bitcoin I
+[27:51] see Bitcoin is a very longterm thing it
+[27:55] will last for like a 100 years 200 years
+[27:59] or a thousand years if we put Bitcoin or
+[28:02] if we put those like ETF in such a
+[28:05] longer like time frame this means
+[28:08] nothing from this such a long we we can
+[28:11] see we can we can say that those
+[28:14] centralized controllers of Bitcoin is
+[28:16] not good but I think the only Badness of
+[28:20] those centralized controller is that
+[28:22] they maybe someday they controlled by
+[28:24] the government and then they they dump
+[28:26] the Bitcoin this kind of thing but if we
+[28:28] dump the Bitcoin and but you you see
+[28:30] Bitcoin as a 10,000 year thing or even
+[28:34] 100,000 year thing you don't care about
+[28:36] that it's totally okay because at the
+[28:39] end of the day people will do self
+[28:41] custody and all those Bitcoins will be
+[28:44] owned DEC in a decentralized way which
+[28:46] means like individuals everyone own
+[28:48] their own Bitcoin and then Bitcoin will
+[28:50] become stronger so I don't worry about
+[28:54] the Badness of ETF but I'm also like
+[28:57] very
+[28:58] I see the bright side of the ETF which
+[29:01] means that those ETFs areow for example
+[29:04] before the
+[29:05] ETF my father he doesn't think that
+[29:09] Bitcoin is a thing but then ETF comes
+[29:11] here he thinks that oh Bitcoin is
+[29:14] recognized by the government and oh this
+[29:17] is a proper asset maybe he buy some ETF
+[29:21] and then he look into Bitcoin he look
+[29:23] into those podcast and then he
+[29:26] understand that the value of Bitcoin Co
+[29:28] and why uh this decentralized thing is
+[29:31] so cool and then he maybe get on board
+[29:34] into uh self custody of Bitcoin so I see
+[29:38] the bright side of the the ETF and uh I
+[29:41] don't think the Badness of those ETF
+[29:43] will affect Bitcoin if we see Bitcoin in
+[29:46] may like almost a something last very
+[29:50] very long in the
+[29:52] future is uh when you talk about uh
+[29:56] Bitcoin lasting extremely long uh do you
+[29:59] think Bitcoin could be the final
+[30:02] revolution of of money um to be honest
+[30:06] to be very honest I don't think so
+[30:09] because uh even though you have like
+[30:13] lightning network but the price of
+[30:16] Bitcoin is going up and down from time
+[30:18] to time so it's not very easy to do like
+[30:23] uh to so I I don't think Bitcoin is for
+[30:27] daily pay
+[30:28] and more line words for Bitcoin is some
+[30:32] kind of like value St value so this is
+[30:37] what I'm thinking of Bitcoin I think in
+[30:39] the future maybe uh a normal people he
+[30:43] will have like 50% of Assets in Bitcoin
+[30:46] and then he will have some US dollars to
+[30:49] do daily payment or even US dollar
+[30:52] stable coin to do daily payment so this
+[30:55] is what I'm thinking about the future um
+[30:58] I I don't think Bitcoin and also I value
+[31:00] Bitcoin so much I don't I see using
+[31:03] Bitcoin as setting my Bitcoin so I
+[31:06] really want don't do that I really don't
+[31:08] want to do that yeah it's fascinating
+[31:11] for me because honestly we have those
+[31:14] main layer restrictions like there will
+[31:17] be maximum maybe five or 10 million
+[31:21] institutions or persons that will ever
+[31:22] be able to like uh on a monthly basis
+[31:27] actually transact
+[31:28] on the base layer because the other
+[31:30] people will just be priced out at some
+[31:32] point I don't know what the exact number
+[31:33] is it's hard to figure out but I spoke
+[31:35] with some people also like Wicket was on
+[31:37] the podcast who was directly really deep
+[31:39] in the utxo management side of things
+[31:42] and he's saying five to 10 million um
+[31:45] institutions or people uh could uh
+[31:49] transact on the base layer of Bitcoin
+[31:52] and everything else has to move up on an
+[31:54] ETF on a layer two on lightning fent on
+[31:57] all those things so the base layer will
+[32:00] definitely never be used as as a daily
+[32:02] payment uh uh thing it will have more
+[32:06] used as like a big settlement thing
+[32:09] between maybe Banks between other
+[32:12] institutions uh and then is the question
+[32:15] like can can Bitcoin ever be money on a
+[32:19] second or third layer where there is
+[32:21] Bitcoin underneath it somewhere but it's
+[32:24] more like a gold Noe from earlier where
+[32:27] we have to use dollar but there's gold
+[32:29] connected to it like it was from 100
+[32:30] years ago I don't know I have no clue
+[32:33] maybe governments come in and back their
+[32:36] currency again with Bitcoin like 20%
+[32:38] Bitcoin is underneath the currency uh I
+[32:43] 100% or I'm I'm fairly certain that as
+[32:47] long as I live there will always be
+[32:50] government issued
+[32:51] money uh but it would be great to have a
+[32:55] future where it is not like that and and
+[32:59] it would be amazing to see there are
+[33:01] some bitcoiners that think like oh in
+[33:02] the next 10 years government issue money
+[33:04] will be gone I'm not one of them uh but
+[33:07] I would celebrate
+[33:09] it yeah but it would be would be
+[33:12] interesting and there's one more aspect
+[33:14] to it that is really interesting when we
+[33:17] now see fat money as the Titanic of uh
+[33:23] of the financial system and like it's a
+[33:25] Titanic and it will think we don't want
+[33:28] the Titanic to sync too quick because if
+[33:31] it sinks too quick people don't have an
+[33:34] option or I don't have the time to get
+[33:36] out of the live raft so I think it's not
+[33:38] a good thing if feat currencies go away
+[33:41] too quickly like in the next five 10
+[33:43] years because too many uh this would be
+[33:47] just a way too big of a crisis and it
+[33:50] would be really hard to to deal with
+[33:52] with that on on a broad scale as as I
+[33:56] think but the question is really
+[33:58] interesting if Bitcoin ever can ever be
+[34:01] daily transaction money on a global
+[34:04] scale because right now we are not there
+[34:07] yet technology LI or that like we are we
+[34:10] could not do it on bitcoin uh but but
+[34:13] maybe in 200 years I don't know uh I use
+[34:16] bit for savings
+[34:17] yeah
+[34:19] yeah definitely yeah on on that uh note
+[34:23] maybe uh with with with main layer being
+[34:26] restricted do do do do you think uh or
+[34:29] are you um looking forward to any Layer
+[34:32] Two Solutions or are you uh uh making
+[34:37] also for for Keystone any advancements
+[34:40] for like maybe lightning uh in
+[34:43] integration or do you any any other
+[34:45] Layer Two Integrations for Bitcoin where
+[34:48] we have like self- custody layer tws uh
+[34:52] or any anything like that because of
+[34:54] this restrictions that we probably run
+[34:57] ran into at some point with with the
+[34:59] Bitcoin main
+[35:00] layer oh um I think for From kyone
+[35:04] perspective because Keystone we're just
+[35:06] building a hardware wallet and we're
+[35:09] integrating Keystone with other software
+[35:11] wet just like I mentioned for blue
+[35:13] wallet
+[35:14] Sparrow uh and other software wet so
+[35:19] from K Kone perspective uh let's let's
+[35:22] take lightning Network as a example uh
+[35:25] for lightning Network
+[35:28] uh it if you wanted to do like Landing
+[35:31] Network payment and send some Bitcoin or
+[35:34] sets to other people through Landing
+[35:36] Network kstone won't be involved in
+[35:39] those kind of scenario because you just
+[35:41] use software to do that but there are
+[35:43] only one scenario that if you want to
+[35:45] use lightning Network and you need that
+[35:48] with Bitcoin which is setting up a new
+[35:51] lightning channel that needs Keystone to
+[35:53] sign the transaction and after that you
+[35:57] can only only you you only need your
+[35:59] software Willet to do this kind of quick
+[36:00] payment and also in those scenario like
+[36:03] quick payment it doesn't make sense that
+[36:05] you use a hardware water to scan twice
+[36:07] to sign a transaction and broadcast that
+[36:10] it doesn't make sense so and also
+[36:13] Landing work network doesn't require
+[36:14] Keystone to sign every transaction but
+[36:16] just the first transaction to set up the
+[36:18] lighting Channel and we support
+[36:21] that yeah I love that a lot it's it's
+[36:24] really fascinating to see where where
+[36:25] the technology uh will go um a little
+[36:29] bit on the regulatory front and it's
+[36:33] it's different for like each country
+[36:34] it's different for each jurisdiction but
+[36:37] uh are you at all afraid that
+[36:41] governments might ban self- custody or
+[36:44] might ban holding Bitcoin in their in in
+[36:47] their own uh thing and they like oh no
+[36:50] it's way too unsecure you should have it
+[36:52] on Exchange yeah I think that's against
+[36:55] the human rights right I don't think
+[36:57] government will or if the government w't
+[37:00] do that we can elect them down or elect
+[37:03] him down I don't think that's possible
+[37:05] it's human rights it's just like you are
+[37:07] only like a pen you're only you're only
+[37:10] a notebook or something yeah so I don't
+[37:13] think that's that would be possible yeah
+[37:17] yeah I hope you're right and and I think
+[37:19] also that that it is like that there was
+[37:22] some uh the EU was giving some law um
+[37:27] suggestion
+[37:28] and they they backed up till now like
+[37:30] they they rrit it and they backed up a
+[37:33] little bit but they were talking about
+[37:35] un hosted wallets as self- custody
+[37:38] Solutions uh and I'm like no it's like
+[37:41] an un hosted wallet is just self Cy like
+[37:44] you don't have to do that and so I I'm
+[37:47] not concerned uh at all uh but there I I
+[37:52] was like maybe they try something in the
+[37:54] medium term like long term it's it does
+[37:56] not matter at all will always have self
+[37:58] custody because what is self custody you
+[38:00] can have self custody with your head
+[38:03] like you can just remember words in your
+[38:05] head and that's self custody H you can
+[38:07] never Outlaw that so that's uh really
+[38:11] really cool um perfect then uh one other
+[38:15] question that that I have do you have
+[38:17] any advice for for bitcoiners like if
+[38:20] you if because you most people that
+[38:22] listen to my podcast they they they are
+[38:24] bitcoiners some of them work in Bitcoins
+[38:27] some of them don't work in Bitcoin some
+[38:29] of them have a small uh uh investment do
+[38:33] you have any general advice uh you would
+[38:36] like to give to the
+[38:38] bitcoiners okay uh thank you so much
+[38:40] that's a great question so from my
+[38:43] perspective as I'm making Hardware wet
+[38:46] so if I give advice usually I I'm giving
+[38:49] advice about security about how to store
+[38:53] your Bitcoin more securely uh so my
+[38:57] advice actually I've been sharing this
+[39:00] advice almost in every podcast which is
+[39:04] if you really wanted to do self cust
+[39:07] properly and in a secure way buying a
+[39:11] hardware Willet will help you to do that
+[39:14] but buying a hardware wallet and using a
+[39:16] hardware wallet is not your s bullet for
+[39:20] that but your knowledge is your
+[39:23] knowledge about Bitcoin your knowledge
+[39:25] about self custody this is the like
+[39:29] silver bullet for you to securely store
+[39:32] your Bitcoin so this is like my timate
+[39:36] suggestion or advice for bitcoiners to
+[39:38] securely store your Bitcoin you need to
+[39:41] learn basically you need to learn about
+[39:44] recovery phrase you need to learn about
+[39:45] pass phrase you need to learn about
+[39:48] Shamir backup you need to learn about
+[39:52] the schemes of private key public key
+[39:55] and Bitcoin address and you need to
+[39:57] learn about uh using like a new address
+[40:01] for every time you receive some new
+[40:03] Bitcoin this kind of also privacy
+[40:06] related knowledge which is also highly
+[40:08] related to security this is and how to
+[40:13] buy Bitcoin in a like on a P2P Market to
+[40:16] protect your privacy these are the most
+[40:19] important thing from my
+[40:21] perspective uh I love that and uh
+[40:24] bitcoiners uh that are coming in uh they
+[40:27] have a long way to go to go to this uh
+[40:31] where to buy Bitcoin uh how to actually
+[40:34] secure them uh properly so like there's
+[40:37] a lot of things to to to take in
+[40:39] consideration and education is key and
+[40:42] then and I hope I do yeah okay job on my
+[40:45] podcast bringing all those intelligent
+[40:47] people on and getting them educated on
+[40:49] that uh and another thing that I'm also
+[40:52] really passionate always about about
+[40:54] that one question because bitcoiners are
+[40:56] extreme
+[40:57] interesting people they are doing a lot
+[40:59] of things and they are curious because
+[41:02] we are so early so we are the early
+[41:03] adopters of a technology uh so we tend
+[41:07] to be uh really curious about stuff so
+[41:10] my question uh before we end the in the
+[41:13] podcast is what are you currently
+[41:16] passionate about uh or learning deeply
+[41:18] about besides
+[41:20] Bitcoin oh besides Bitcoin that's a
+[41:24] great question so I think nowadays I
+[41:28] read some books but all those books
+[41:30] they're just about management because
+[41:33] our company are growing is growing
+[41:35] really fast we almost double the size of
+[41:39] company of the in this year and there
+[41:42] are different new members get into the
+[41:44] company I need to actually like two
+[41:47] years ago I was quite active on Twitter
+[41:49] but nowadays I'm like less and less
+[41:51] active on Twitter because I spend most
+[41:53] of time for managing the company for
+[41:56] about onard boting new employees into
+[41:58] the company uh and also for how to build
+[42:02] our product better so nowadays I think
+[42:04] aside for Bitcoin um I'm also I meet my
+[42:08] Bitcoin friends uh like on a weekly
+[42:10] basis I also meet with other
+[42:12] entrepreneurs or other people who are
+[42:14] running startups on a weekly basis just
+[42:17] talk about how to better manage your
+[42:19] startup and the for a company making
+[42:22] Hardware it's also more diff different
+[42:25] because you have a lot of employees
+[42:27] they're working remotely so these are
+[42:30] also very challenging for me that's
+[42:33] where I spend most of my time on maybe
+[42:35] it's a boring answer but this is like my
+[42:38] life what's my life like in in
+[42:41] allay it's absolutely not boring because
+[42:44] it's it's it's reality and and if you
+[42:46] have a great company which is also
+[42:48] growing fast and maybe do you do you
+[42:50] have a twice for people starting their
+[42:53] own company right now in in Bitcoin
+[42:56] they're doing maybe they have some
+[42:58] technology maybe they are staring some
+[43:00] content things like whatever they doing
+[43:02] but do you have any advice for like
+[43:04] young entrepreneurs uh or coming up
+[43:06] people that are also starting a company
+[43:08] now oh that's a great question um so
+[43:13] from my perspective um I think uh one of
+[43:17] the most uh
+[43:20] like good advice or like the best thing
+[43:25] our company has done or or uh the best
+[43:29] decision we have done I think what
+[43:31] really important is
+[43:33] focus this is really important you can
+[43:36] see that from Kon perspective uh we've
+[43:39] been in the space for over six years and
+[43:42] in the first three and a half years we
+[43:44] will dedicate to
+[43:45] Bitcoin in the first three and a half
+[43:47] years and we will also dedicated to
+[43:50] Hardware what itself rather than making
+[43:52] our own software wallet like Ledger
+[43:55] they're making their Hardware and also
+[43:57] the their software wet but I think the
+[44:01] the right decision the best and the the
+[44:04] definitely the right decision we made
+[44:06] was that we really wanted to focus on
+[44:08] something focus on Bitcoin in the first
+[44:10] place and focus on Hardware in the first
+[44:13] place and even even like in the very of
+[44:17] the very first generation of Keystone
+[44:19] Hardware where we were focusing on the
+[44:21] miners actually they're also a small
+[44:24] group of bitcoiners they're miners we
+[44:27] focus on them because they usually have
+[44:30] tons of Bitcoins and they are extremely
+[44:33] paranoid about their bit Bitcoin so
+[44:36] because you focus on them and they will
+[44:38] tell you what kind of feature they want
+[44:41] they will tell you that why they are not
+[44:43] satisfied with Ledger they have lot of
+[44:45] insights and then you can build your
+[44:47] product upon those insights but if we
+[44:51] don't focus and then we won't GA those
+[44:53] insights and when we we won't build uh
+[44:56] like for example uh we made the decision
+[45:00] to use QR code because I interviewed a
+[45:03] lot of miners at that time and they told
+[45:05] me that the most anxious time when
+[45:09] they're using nature was first they're
+[45:13] typing their cover phas or writing down
+[45:15] their cover phas that's the first
+[45:17] anxious most anxious time the second Mo
+[45:19] most anxious time is when they're
+[45:21] plugging their leder into their laptop
+[45:24] because they don't know what is
+[45:27] transferring in the USB cable right they
+[45:30] don't know what information is getting
+[45:32] into their laptop what information is
+[45:33] getting into their Hardware will it
+[45:36] they're totally blind it's not
+[45:38] transparent and then it comes up I came
+[45:41] up with the idea that I told my team
+[45:44] that transparency brings trust if you're
+[45:48] not open source if you're are not
+[45:50] transparent and then you need to spend
+[45:53] tons of money to do those kind of
+[45:55] propaganda marketing stuff to make
+[45:58] people trust you but if you're open
+[46:00] source you are transparent with QR code
+[46:02] then it's much easier for you as a
+[46:05] newcomer to build trust with the
+[46:07] customers so I I GA all those insights
+[46:10] because I I strictly focus on bitcoin I
+[46:13] strictly focus on the miners at that
+[46:15] time that's why it's much easier for you
+[46:17] to build a right product rather than
+[46:20] building something that has a lot of
+[46:23] features but not all the features are
+[46:25] needed by the people so so this is my
+[46:28] advice uh for example if you want to do
+[46:31] a content creator uh for example I have
+[46:33] a friend who did who started from
+[46:36] Bitcoin multi so he was a content
+[46:40] creator he strictly focused on bitcoin
+[46:43] multi he want to tell the community that
+[46:45] why you should use it Bitcoin multi and
+[46:47] what are the like pros and cons of
+[46:50] Bitcoin mulic and what are the tips for
+[46:53] setting up your own Bitcoin mic and what
+[46:56] kind of H is the best for Bitcoin
+[46:58] Mountain what Hardware will it is the
+[47:00] worst for Bitcoin Mountain so he talk
+[47:02] about Bitcoin Mountain all the time and
+[47:06] then it's very easy for him to uh to be
+[47:10] known by the community because there's a
+[47:12] clear image of him which is a b m
+[47:17] advocate so this is my suggestion no
+[47:19] matter what you do just focus on the
+[47:21] thing you are best at and focus on thing
+[47:24] and try to GA insights from everywhere
+[47:26] and polish your product either it's a
+[47:28] how or it's a YouTube channel
+[47:32] anything I love it thank you for for
+[47:34] that that was really really good um we
+[47:36] have a endro in the podcast where the
+[47:38] previous guest is asking a question for
+[47:40] the next guest without knowing who
+[47:42] actually the next guest is uh which is
+[47:44] always interesting to see uh and the the
+[47:48] question is really an an interesting one
+[47:50] I had to think about that a little bit
+[47:52] um the question for you is if everything
+[47:55] unfolds As You Are hoping what is the
+[47:58] one thing that will be different in five
+[48:00] years sorry what's the question would
+[48:03] you repeat it again uh if everything is
+[48:06] running as you are hoping so if
+[48:08] everything is uh unfolding as you hoping
+[48:10] in the next five years what is the one
+[48:13] thing that will be different in that
+[48:15] world oh that's
+[48:18] interesting the first idea came into my
+[48:21] mind is that maybe five years later
+[48:25] every Bitcoin every Bitcoin will only a
+[48:27] hardware wet that's what I'm thinking
+[48:29] about and that's good for Bitcoin that's
+[48:31] good for Bitcoin and good for
+[48:33] Keystone that that would be great uh if
+[48:36] everyone has a self- custody hardw
+[48:38] wallet and every Bitcoin is like you
+[48:40] have to have a hard wallet you have to
+[48:42] have self custody uh that that that's a
+[48:45] future I would like to live in yeah way
+[48:48] I guess okay perfect and thank you for
+[48:51] for being on um for people that want to
+[48:55] ask your questions for people that want
+[48:56] to get touch with you where can they
+[48:58] reach you or where can they uh um ask
+[49:01] you
+[49:01] questions by the way do I need to leave
+[49:04] a question for the next interview of
+[49:06] your podcast uh yes but I mean you can
+[49:09] do it now if you want okay I usually do
+[49:13] it afterwards uh but if you have already
+[49:16] no worries no worries okay um so are you
+[49:20] asking me uh how to reach out to me
+[49:22] right so my Twitter is Bitcoin Le leing
+[49:26] Bitcoin leing you can find me on Twitter
+[49:29] uh yeah you can DM me or you can comment
+[49:31] under even though I I'm not posting on a
+[49:34] daily basis on Twitter but I also I'm
+[49:37] I'm checking those DMS and you can
+[49:39] comment under my my tweet I will answer
+[49:42] that so that's the best way to chat to
+[49:44] me yeah thank you amazing then uh thank
+[49:47] you uh lixen for for being on and for
+[49:50] everyone watching I'll be back tomorrow
+[49:52] with another episode bye-bye byebye
+[49:55] thank you so much
+[49:57] [Music]

@@ -1,0 +1,1744 @@
+Title: Do this before with your Bitcoin | Rick Messit
+Video ID: ZEYuy5rurmU
+URL: https://www.youtube.com/watch?v=ZEYuy5rurmU
+Date Saved: 2025-06-15 12:02:32
+--------------------------------------------------
+
+[00:00] it's hard to convey to people like how
+[00:02] difficult that situation has been and
+[00:04] one of the more painful things about it
+[00:06] is when you consider that that's 10
+[00:08] years of all my productivity you know
+[00:11] every money that I've earned every
+[00:12] business project that I've worked on
+[00:15] every bit of capital have accumulated
+[00:17] got wiped out my dad just said one word
+[00:19] he's sitting at his laptop and he just
+[00:21] says yeah I've I've been hacked and
+[00:23] that's when it hits you like a ton of
+[00:26] bricks so when I heard about your story
+[00:28] my main concern holy man I better
+[00:30] call this guy before he does something
+[00:31] he's going to regret don't do what I did
+[00:34] make this investment before you get
+[00:36] hilariously
+[00:38] Rich before we get into how he lost this
+[00:42] 25 Bitcoin um Rick before we get into
+[00:46] that I want to know like why did you
+[00:49] came into Bitcoin in the first place uh
+[00:51] when did you came into the space uh what
+[00:53] was a journey as a bitcoiner before this
+[00:56] all happened sure uh so yeah I mean we
+[01:00] we were fortunate we got into Bitcoin
+[01:01] like really really early you know we
+[01:04] were sort of looking at it around late
+[01:06] 2012 and we first started buying it in
+[01:09] 2013 um what what's interesting about
+[01:13] that I think is is just how early we
+[01:15] were in terms of like we didn't dismiss
+[01:17] it straight away like a lot of people um
+[01:20] and we actually as soon as we found it
+[01:22] we just Dove right into it you know with
+[01:24] both feet um the main reason that we
+[01:27] discovered it at all and and and got so
+[01:29] interested in it is because um well my
+[01:32] my dad is like I guess you would say
+[01:34] he's a seriously based person um what do
+[01:37] I mean by that is like long before
+[01:39] Bitcoin even existed even when I was a
+[01:42] young boy he would sort of sit me down
+[01:45] and explain to me uh the problems
+[01:47] associated with Central Banking he would
+[01:50] explain the fractional Reserve banking
+[01:52] scam uh and how they create money out of
+[01:55] thin air so before he saw the solution
+[01:59] which is Bitcoin he was already hyper
+[02:01] aware of the problem so you know I
+[02:04] wouldn't say he was a gold bug but he
+[02:05] would be attracted to hard assets and
+[02:08] and things like that and he understood
+[02:09] the game as as the bankers were playing
+[02:11] it um so you know I guess I guess you
+[02:15] could say we we're pretty distrustful of
+[02:17] authority already and and we're that way
+[02:20] inclined and yeah I mean I have a lot to
+[02:23] to thank my dad for right like he really
+[02:25] drilled it into me that you you you
+[02:27] should think critically for yourself and
+[02:30] you shouldn't just follow the herd
+[02:31] because you know that that often doesn't
+[02:33] lead you to to the right destination and
+[02:35] that sort of thing so I guess we were in
+[02:38] the right place at the right time and um
+[02:42] you know combine that with the fact that
+[02:43] my dad's a been a developer for 50 odd
+[02:46] years you know he started off uh working
+[02:49] on like IBM 360 assembler you know went
+[02:52] through most popular programming
+[02:54] languages like C++ and he now plays with
+[02:58] like nodejs and docker and stuff even
+[03:00] today so you know he he he's very
+[03:03] softwar minded right uh and and very
+[03:06] talented technically so and at the same
+[03:09] time I was going through University and
+[03:12] uh you know uh had quite a lot of
+[03:14] modules about economics uh and this sort
+[03:17] of thing so I had a I had an interest in
+[03:19] economics anyway um so I guess if you
+[03:22] kind of draw this V diagram of of
+[03:24] Technology meeting economics when we
+[03:27] found it we just got really obsessed and
+[03:30] and really excited by it and I think
+[03:33] another thing that really benefited us
+[03:35] as well is back then uh there was only
+[03:38] Bitcoin right like we were we were
+[03:40] fascinated with Bitcoin before ethereum
+[03:42] even launched and we really benefited
+[03:45] from that because compared to someone
+[03:47] entering the the the sort of space now
+[03:50] there wasn't all these distractions
+[03:52] there weren't all these thousands of of
+[03:54] shitcoins there weren't nfts there
+[03:57] weren't these like yield farming things
+[03:59] where you know you try and earn yield on
+[04:01] your Bitcoin so what that meant was it
+[04:04] was really quiet and you could just
+[04:06] focus on bitcoin itself and really go
+[04:09] deep and understand how it works and
+[04:11] what it means um so yeah after
+[04:14] discovering it you know for the next few
+[04:16] months every time I'd get back from work
+[04:18] and stuff like that me and my dad would
+[04:19] spend literally hours on the phone every
+[04:22] night talking about like what does this
+[04:24] mean what what is the future what is
+[04:25] this what is that you know falling all
+[04:27] over
+[04:28] ourselves um and like I say discovering
+[04:31] it so early was was beneficial for the
+[04:33] rest of our experience in Bitcoin
+[04:36] because we had enough time to learn what
+[04:39] Bitcoin was all about before say
+[04:41] ethereum launched so then when ethereum
+[04:43] launched and you know it didn't have
+[04:46] this Immaculate Conception that Bitcoin
+[04:48] had you know it had quite clearly a
+[04:51] Founder who then went and raised a load
+[04:53] of VC monies through through an Ico and
+[04:57] so instantly we looked at ethereum and
+[04:59] thought well this is kind of this is
+[05:00] kind of the antithesis of Bitcoin um so
+[05:04] we were lucky we never got dragged into
+[05:06] those problems which is is one of the
+[05:07] reasons I think we managed to hold the
+[05:09] Bitcoin for so long for 10 years because
+[05:12] we could recognize through our
+[05:15] understanding of Bitcoin that the other
+[05:17] things being brought to Market were
+[05:18] quite clearly scams you know uh poorly
+[05:22] designed at best and and outright scams
+[05:24] at worst you know um so yeah that that's
+[05:28] kind of how we got into it yeah
+[05:31] and uh when you now take us to the
+[05:33] moment where you first uh realize that
+[05:37] you might have lost uh all this Bitcoin
+[05:41] you saved up for so long how was that
+[05:44] like how did where did you where uh what
+[05:47] happened what's the story
+[05:49] about yeah it's a it's a pretty
+[05:51] harrowing story you know so
+[05:54] um it's hard to convey to people like
+[05:56] how how how difficult that situation has
+[06:00] been because what I want to get across
+[06:02] to people is you know I'm a I'm a fully
+[06:03] paid up bitcoiner so Bitcoin is where I
+[06:06] was storing my wealth right I would
+[06:08] never sit on big piles of Fiat money
+[06:10] because why would I want to hold a a
+[06:13] currency that's just you know
+[06:14] evaporating essentially so you know it's
+[06:17] it's a it's a real heavy loss that we
+[06:19] took and and one of the more painful
+[06:21] things about it is when you consider
+[06:23] that that's 10 years of all my
+[06:26] productivity you know every money that
+[06:28] I've earned every business project that
+[06:31] I've I've worked on every bit of capital
+[06:33] I've accumulated got wiped out so yeah
+[06:36] it sucked a big one um but let me
+[06:40] explain sort of how it happened right so
+[06:42] the the short version of that story is
+[06:45] that well even more crushing is after 10
+[06:47] years me and my dad decide right we want
+[06:50] to go and check out El Salvador and see
+[06:51] what's going on over there because you
+[06:54] know after 10 years of pontificating
+[06:56] about what a Bitcoin standard might mean
+[06:59] for Society in the world we're super
+[07:02] excited to go and see what's happening
+[07:04] on the ground in El Salvador um and I
+[07:07] mean you couldn't write it man we we'd
+[07:09] been to adopting BTC conference for
+[07:12] three days and on the last day we come
+[07:15] back to our uh apartment in San Salvador
+[07:18] right and uh we've been listening to all
+[07:21] these amazing talks and we're all pumped
+[07:23] up and excited and for the last few
+[07:25] months my dad and I have actually been
+[07:27] working on developing a a Bitcoin
+[07:30] related app that runs using the
+[07:32] lightning Network for payments uh and
+[07:35] because we were so excited and fired up
+[07:37] we thought uh oh you know let's go and
+[07:38] play with it we're all
+[07:41] enthusiastic now to go and play with it
+[07:43] and test it one of the things we had to
+[07:45] do was fund a lightning channel so my
+[07:48] dad goes to his laptop in the flat uh
+[07:51] that we rented and he says right I'm
+[07:53] going to transfer some funds
+[07:55] across and this is the really visceral
+[07:57] bit that I'll never forget is uh I mean
+[08:00] Robin I don't know if I can swear on
+[08:02] your podcast um but the the next go
+[08:05] ahead well my dad just said one word
+[08:08] he's sitting at his laptop and he just
+[08:10] says and nothing else and you know
+[08:14] I'm I think this is quite innocuous at
+[08:16] first I say oh you know what's up uh
+[08:18] maybe his laptop's died or he stubbed
+[08:20] his toe or I I don't know and then he
+[08:22] says uh yeah I've I've been hacked and
+[08:27] man I it's so hard to describe that
+[08:29] feeling because you know first of all
+[08:31] you have this huge rush of sort of
+[08:33] cortisol
+[08:35] adrenaline um you know your fight or
+[08:38] flight response sort of kicks in my
+[08:40] whole body is shaking you know I'm
+[08:42] pacing up and down just a million
+[08:45] thoughts all at once uh is is the best
+[08:47] way to describe it you know I I've
+[08:50] planned like I had a lot of plans for
+[08:52] what I was going to do with that capital
+[08:53] and how it was going to change my life
+[08:55] my family's life you know I take care of
+[08:58] my parents you know lots of things and
+[09:01] you start realizing very quickly oh like
+[09:04] all of those plans are kind of ripped up
+[09:07] to shreds now and that that that's
+[09:09] that's that's pretty tough so the next
+[09:13] part of the story is uh that you know
+[09:16] you start then bargaining so my dad had
+[09:19] actually bought a new laptop like a
+[09:21] couple of months prior and during that
+[09:24] like he runs a few businesses currently
+[09:27] um and I he remembers that moved some
+[09:29] files around and did some reorganization
+[09:32] so for a brief moment he says uh H do
+[09:36] you know what maybe I maybe I
+[09:37] transferred to a different address or
+[09:39] you know maybe I'm looking at the wrong
+[09:41] wallet you know maybe this is just maybe
+[09:43] this isn't real and so off he goes
+[09:45] trying to explore that and uh at this
+[09:48] point my brain had slowed down just
+[09:50] enough for me to say hey Dad uh send me
+[09:53] the transaction IDs of the funds leaving
+[09:55] the wallet so I can go and have a look
+[09:58] and I go to me pool dospace I Chuck in a
+[10:01] couple of the transaction IDs and that's
+[10:03] when it hits you like a ton of bricks
+[10:06] because now I can see you know payments
+[10:08] of three Bitcoin going off here four
+[10:10] Bitcoin going off there and then it
+[10:13] going on and on and on through multiple
+[10:15] addresses to the point where we you know
+[10:18] it wasn't us like we we definitely
+[10:20] didn't send these transactions and yeah
+[10:22] it is real and yeah that Bitcoin is now
+[10:25] an address that we don't control so that
+[10:29] that was the experience of finding out
+[10:31] and man it's it's bizarre like 10 years
+[10:34] you go on this pilgrimage to El Salvador
+[10:36] you're you're on this trip of a lifetime
+[10:38] with your dad you know getting to spend
+[10:40] time with your dad on on something pass
+[10:42] a passion that you both
+[10:44] love it was wild um you know there's
+[10:47] there's no other way to describe it but
+[10:49] uh yeah that's that's the process of us
+[10:51] finding
+[10:52] out what what was the reaction of the
+[10:55] community did you were at the Bitcoin
+[10:58] conference all Al afterwards did you
+[11:00] speak with people in person how was the
+[11:03] reaction when you posted everything on
+[11:05] on X or
+[11:06] Twitter I I mean yeah you know it's
+[11:09] funny to me like bitcoiners often get
+[11:11] this sort of oh they're toxic they're
+[11:13] this they're that the other but for
+[11:15] anyone who's been around long enough
+[11:16] they know that you scratch the surface
+[11:18] of of Bitcoin culture and what you find
+[11:21] in the middle is just an army of really
+[11:25] wonderful friendly supportive uh and
+[11:28] also extremely talented people um so I
+[11:32] couldn't tell you what made me decide to
+[11:34] post it to to to Twitter right because
+[11:37] I'm not I'm not I don't post a lot or I
+[11:40] didn't used to post a lot on on social
+[11:42] media um because I'm quite a private guy
+[11:45] you know I was busy living my life I I
+[11:47] you know social media can be a bit of an
+[11:49] angry place right so so I try and stay
+[11:51] stay offline if I can um but I I felt
+[11:55] like I posted it because it was just me
+[11:57] and my dad trapped in this bubble in a
+[11:58] foreign country miles away from home and
+[12:01] no one else is going to understand this
+[12:03] situation like the Bitcoin community so
+[12:06] I took a random decision like I'll I'll
+[12:08] post about it and and I mean it went
+[12:11] crazy man like I you know I've never
+[12:13] gone viral before but you know three
+[12:15] million four million views later uh my
+[12:18] phone like just exploding um and I and I
+[12:21] have a huge thanks actually I need to
+[12:23] give out to the whole Community uh I'm
+[12:26] so incredibly grateful uh I'm not going
+[12:29] to shout everyone out because a lot of
+[12:30] people wanted to stay Anonymous who
+[12:32] reached out and DM and gave us
+[12:34] information but you know there's a few
+[12:36] standouts so like the guys at Samurai
+[12:38] wallet they have the the research arm uh
+[12:41] so Ergo BTC on Twitter um you know these
+[12:45] Galaxy brain guys you know through just
+[12:48] took their own time their own effort
+[12:50] they they're helping us track the
+[12:52] transactions through the blockchain
+[12:54] they're sending me graphs that show like
+[12:56] where it's gone where it's been mixed
+[12:59] where some of it might have interacted
+[13:00] with kyc
+[13:02] exchanges um you know and in my DMs man
+[13:05] you know I had some of the most
+[13:07] influential sort of people in in in the
+[13:09] Bitcoin space which oh man you know I'd
+[13:12] love to go into a conversation with some
+[13:13] of these guys under better circumstances
+[13:16] right um but you know the fact that they
+[13:18] reached out and they're just so
+[13:20] lovely I don't know how I would have
+[13:22] felt if I hadn't have done that but I
+[13:25] really do believe that the Bitcoin
+[13:26] Community kind of lifted me out of of of
+[13:30] potentially very dark hole and
+[13:34] uh you know what it was as upsetting as
+[13:38] it is to lose the money the thing that
+[13:40] choked me up the most when I was out
+[13:42] there was this flood of support I've
+[13:44] never really been on the receiving end
+[13:46] of something so just a tidal wave of of
+[13:49] positivity like that and it really hits
+[13:51] you in the fields man like it's it's
+[13:53] kind of wild so yeah you know I I
+[13:56] wouldn't have half an idea really of
+[13:59] what happened where we went wrong or or
+[14:02] anything and I wouldn't have been able
+[14:03] to put a case together for the
+[14:05] authorities and and to effectively speak
+[14:07] to exchanges and the things I needed to
+[14:09] do next if the Bitcoin Community hadn't
+[14:12] rallied around me and and and it's truly
+[14:14] something I'll never forget um and one
+[14:17] guy in the DMS who who a man he's he
+[14:20] stayed up like all night to talk to me
+[14:22] and and we talked about life philosophy
+[14:24] politics and and all this stuff and he
+[14:26] just said look just make sure that you
+[14:28] pay this for
+[14:29] right like this story should be shared
+[14:31] and other people should be aware of what
+[14:33] happened to you because it will save
+[14:36] some other people so I feel like I owe
+[14:38] the community at least that much so hey
+[14:41] man I'm not going to lie it's pretty
+[14:42] embarrassing to come out and talk about
+[14:44] our seed phrases being stored in the
+[14:46] cloud and all this stuff but hey look if
+[14:48] it saves someone else it's the right
+[14:50] thing to
+[14:51] do and this was the moment when also the
+[14:55] bitco way uh reached out to you we can
+[14:57] help I mean the S completely scrambled
+[15:01] eggs for brains um and Tony's just
+[15:04] running us through you know he's just
+[15:06] asking us the basic questions like you
+[15:07] know can people get access to your
+[15:09] machine let's try and figure out if it
+[15:11] could be someone you know or you know uh
+[15:15] have you run any scans for malware do
+[15:17] you think there could have been key
+[15:18] loggers involved where were the seeds
+[15:20] stored so that at least we could to
+[15:22] narrow down what we think might have
+[15:25] happened and how we might progress uh we
+[15:28] did not hear you for a little while Rick
+[15:31] for like like a second but uh sorry can
+[15:33] you hear me now yeah I can hear you now
+[15:36] I like that Tony and the Bitcoin way
+[15:39] reached out and so many other people in
+[15:41] the Bitcoin Community reached out and
+[15:43] and I saw also one tweet of yours where
+[15:47] you told the story when you come back
+[15:50] from uh to to Scotland and your your
+[15:54] girlfriend picked you up and you said
+[15:56] something like that you feel like the
+[15:58] luest man alive did anything uh like did
+[16:01] this hack besides your knowledge and
+[16:03] besides maybe your mission did anything
+[16:06] uh did you learn anything more from from
+[16:11] that oh yeah I mean you know it's crazy
+[16:15] it's crazy the amount of thoughts I've
+[16:17] had about life and Bitcoin and just
+[16:19] everything since you know I think what's
+[16:22] important to point out is I'm not really
+[16:24] a very Money Motivated person uh but the
+[16:27] thing that motivat me most in life is
+[16:30] freedom uh and Bitcoin was my route to
+[16:33] achieve that that freedom uh and that
+[16:35] sort of self sovereignty right so you
+[16:38] know on the one hand I'm thankful that
+[16:41] you know I've been around long enough to
+[16:42] know that it's still pretty
+[16:44] spectacularly early um you know one
+[16:48] thing I can relay to people is like
+[16:50] every cycle I've thought this is the
+[16:52] time when everyone's going to figure it
+[16:53] out it's going to go completely
+[16:55] mainstream all the shitcoins will die
+[16:58] all the blockchain bozos will die um and
+[17:01] every single time I've been wrong about
+[17:03] that and I think we're probably further
+[17:05] away from hyperbitcoinization than than
+[17:08] people probably realize I think this is
+[17:10] a this is a long fight right like the US
+[17:13] dollar is not going anywhere in the next
+[17:15] five years in my opinion I think we'll
+[17:17] continue to win the fight but ultimately
+[17:20] I still think you know I'm going to be
+[17:22] ahead of 90% of the population in this
+[17:24] so if my goal is freedom rather than
+[17:26] money I still feel like that's
+[17:29] achievable for me and something that I
+[17:31] can pursue so it's worth getting back up
+[17:33] and getting back on the horse and and
+[17:35] continuing and uh yeah big shout out to
+[17:38] my fiance right like um well first of
+[17:41] all the wedding next year is still going
+[17:43] ahead uh which is great uh which uh yeah
+[17:46] she she is here for the revolution not
+[17:48] the money so she's a really good egg you
+[17:51] know I'm really lucky there and uh I
+[17:53] have a roof over my head I have food in
+[17:55] my belly um you know we're driving
+[17:57] around El Salvador and you know there's
+[17:59] there's people who are far far far worse
+[18:02] off on this planet than I am and it
+[18:05] wouldn't be acceptable for me to just
+[18:09] play the victim forever and feel really
+[18:11] bad for myself because I have it very
+[18:13] very good um you know in in Grand in the
+[18:17] grand scheme of things and and I wasn't
+[18:19] raised like that right so so I'm not
+[18:22] going to tell you it doesn't sting I'm
+[18:23] not going to tell you that some days I'm
+[18:25] not pretty pissed off at the world and
+[18:27] and pretty pretty pretty upset but uh
+[18:30] but by and large you know already on the
+[18:32] path to to to to getting to a better
+[18:35] place and and trying to use it to get
+[18:36] stronger you know what else can you
+[18:39] do that's beautiful um maybe also
+[18:43] together maybe with Tony um what exactly
+[18:46] happened uh what what was the mistake
+[18:49] for people that maybe didn't don't know
+[18:51] the story um and how can everybody that
+[18:55] is listening avoiding this and what are
+[18:57] the lessons on a on a self custodial
+[19:01] side of things uh for for someone that
+[19:05] is now a little bit afraid okay I might
+[19:09] um lose my Bitcoin how can I make sure
+[19:11] that I don't lose my Bitcoin how can I
+[19:13] make sure that I don't I'm not
+[19:17] hacked well I think what I can probably
+[19:19] do is is take us like step by step of
+[19:21] what happened and then between each step
+[19:24] Tony can say and this is what we should
+[19:25] have done right that might be an
+[19:27] interesting way to do
+[19:29] um the first thing I really want to
+[19:31] point out before we even get into our
+[19:33] setup is understand I want people to
+[19:36] understand that we held this Bitcoin for
+[19:37] 10 years now over that 10 year span we
+[19:41] could have lost that Bitcoin a 100 times
+[19:43] over the main reason that we didn't lose
+[19:47] that Bitcoin is because we self- custodi
+[19:50] it you know there's a lot of famous
+[19:52] exchanges that have blown up so many in
+[19:54] that 10 years that I couldn't list them
+[19:56] all you know so leave if if we'd have
+[19:58] ever left our Bitcoin with a custodian
+[20:02] there is like a 100% chance that we
+[20:04] would have lost it so the first thing I
+[20:05] want people to get is do do the self-
+[20:07] custody just do it better than we did so
+[20:10] then you know let let's move on I think
+[20:13] the the place to start is
+[20:15] kyc right I'll get to the mistakes we
+[20:18] made later because we we definitely made
+[20:20] some clangers of mistakes but where we
+[20:22] think the story starts is with kyc so uh
+[20:26] we found out later when we work with the
+[20:28] authorities that my dad's name and
+[20:31] details were stolen during the mount gox
+[20:35] hack because we were using that as our
+[20:37] very first exchange so when that
+[20:40] exchange was hacked the hackers must
+[20:42] have also been able to access all of the
+[20:44] customer information which would have
+[20:46] included things like the name uh the
+[20:49] amount of Bitcoin purchased the
+[20:51] addresses and transactions of that
+[20:53] Bitcoin leaving the exchange and what
+[20:55] addresses they went to and all of this
+[20:57] right
+[20:59] so I don't think that we were hacked
+[21:02] randomly and that some random hacker
+[21:05] just hit the jackpot by finding us I
+[21:08] think it's actually far more likely that
+[21:10] they were aware that we held a lot of
+[21:12] Bitcoin and that they came after us
+[21:14] specifically so um yeah you know I I
+[21:18] think totally differently about kyc now
+[21:21] because whilst it was a digital attack
+[21:23] this time it could have very easily been
+[21:26] a physical group of people people
+[21:28] showing up at my dad's house when I live
+[21:30] miles away and doing something much
+[21:33] scarier than just stealing our money so
+[21:36] kyc
+[21:37] now I knew it was a problem right I knew
+[21:40] it was a problem but I didn't sit and
+[21:42] think this through enough um so you know
+[21:45] maybe maybe Tony there can sort of
+[21:47] elaborate on on you know the problems
+[21:49] with K kyc and what approach people can
+[21:52] take to to sort of protect themselves
+[21:54] from
+[21:56] that yeah I mean KY see you know most
+[21:59] people have bought their Bitcoin via kyc
+[22:01] the traditional you know know your
+[22:03] customer procedure that you know you've
+[22:05] known your whole life would come with
+[22:07] anything relating to money and Banks you
+[22:09] know you have to Pro provide all sorts
+[22:11] of identification and answer all sorts
+[22:13] of you know silly questions pertaining
+[22:15] to your source of funds and what have
+[22:17] you now all this is being marketed
+[22:19] obviously as for your own protection and
+[22:21] protection of your funds and to protect
+[22:23] against you know terrorism and money
+[22:25] laundering and all that rubbish but
+[22:27] essentially has nothing to do with any
+[22:29] of this all of this are just elaborate
+[22:32] surveillance and control Tools in order
+[22:34] to keep an eye out on every transaction
+[22:37] from every individual no matter where
+[22:38] you are around you know around the
+[22:40] planet that's what it's for now it may
+[22:43] have been fine in the traditional
+[22:45] Financial system because you know it was
+[22:47] designed by the same people who designed
+[22:49] this rigged Ponzi to begin with but when
+[22:52] you have a new asset like Bitcoin
+[22:54] something that we've never seen the
+[22:55] world has never seen you know an
+[22:58] appreciating asset an asset that has a
+[23:00] finite Supply an asset that will always
+[23:02] go up in value no matter no matter what
+[23:06] and that more importantly nobody can
+[23:07] manipulate you know and and mess around
+[23:10] with well then you know when people when
+[23:13] more people start to understand how
+[23:15] precious and valuable that is well you
+[23:17] know they start this you know the
+[23:19] attention the eyes open up wider you
+[23:22] know upon this and what's the easiest
+[23:24] way to get a hold of it if you don't
+[23:25] have it well it's to steal it right and
+[23:28] so you know some people are you know
+[23:30] they they fear Monger about physical
+[23:32] attacks and while yes technically that
+[23:34] is possible I don't believe physical
+[23:36] attacks are going to be your biggest uh
+[23:39] concern the big the most efficient way
+[23:42] to steal something that that's online to
+[23:44] begin with is online via you know cyber
+[23:46] attacks fishing scams things of that
+[23:49] nature and this is where I genuinely
+[23:51] believe you know we'll start seeing more
+[23:53] prevalent cases pop up of you know
+[23:55] scenarios of somebody losing their coins
+[23:58] because of X Y or Z and it's most likely
+[24:00] going to be due to an online problem
+[24:03] that took place so protecting yourself
+[24:07] you know from kyc is essentially
+[24:09] eliminating that Target that's painted
+[24:11] on your back because you know if if a
+[24:13] hacker wants to find out who owns
+[24:15] Bitcoin well you know there's so many
+[24:17] honeypots now all these exchanges s
+[24:19] databases of everyone that's purchased
+[24:22] the coins from there they just have to
+[24:24] Target them it's it's not that hard and
+[24:26] as we've seen in the past three years
+[24:28] there's been many stories of data leak
+[24:30] here data leak there you know like and
+[24:32] most of these leaks can be easily
+[24:34] avoided but you're assuming that the
+[24:36] people in charge of these companies of
+[24:38] these institutions are actually doing
+[24:41] their job you know are actually taking
+[24:43] the the security of that data you know
+[24:46] properly but but most of them aren't
+[24:49] which is why these these leaks seem so
+[24:51] casually done you know this this is
+[24:54] what's scary and if your name is on a
+[24:56] list you know whoever hacked that
+[24:59] database that's not an idiot this is
+[25:01] someone or or a group of people that
+[25:04] know exactly what they're after and
+[25:07] so if your name is on a list you
+[25:09] potentially have a problem because if
+[25:11] somebody decides to Target you for
+[25:12] whatever
+[25:14] reason you better have a plan to deal
+[25:16] with it whe whether it's physically you
+[25:18] know if it shows up at your front door
+[25:21] or otherwise now physically you know
+[25:23] that's that's that's one conversation
+[25:26] but the more efficient way is to protect
+[25:29] yourself online to begin with and that
+[25:32] and that begins by education you know
+[25:34] there's a lot of information that a lot
+[25:37] of people don't know yet you know and it
+[25:39] requires a certain amount of discipline
+[25:42] to sit down learn pay attention but more
+[25:44] importantly follow through you know
+[25:47] certain guidelines repeatedly so that
+[25:50] you don't make a mistake it's almost
+[25:51] like a workout you know like a mental
+[25:53] workout because now you're assuming
+[25:55] responsibility of your money something
+[25:57] you've never never ever had to do before
+[25:59] and you're going to want to do it
+[26:01] because this is your generational wealth
+[26:03] this is not a debasing currency that is
+[26:06] manipulated by a group of Thieves you
+[26:08] know this is an actual asset that for
+[26:10] the first time in history anyone can Own
+[26:13] 100% And so you're going to want to
+[26:15] guard it with your life because it's
+[26:16] going to become the most important thing
+[26:18] you own so there's no joking around here
+[26:21] there's no being complacent there's no
+[26:22] being lazy taking shortcuts you know if
+[26:25] you're serious about protecting your
+[26:27] savings you know your heritage your
+[26:28] legacy especially if you have kids down
+[26:30] the line you know you need to do what
+[26:33] you have to do and that's being
+[26:35] responsible but again you know it's it's
+[26:37] a learning curve it's not something you
+[26:39] know that people are going to you know
+[26:41] go from zero to 100 with overnight it's
+[26:43] a progress you don't need to go to from
+[26:46] zero to 100 instantly but you need to
+[26:48] accept that this is something that you
+[26:50] need it's it's the key to your freedom
+[26:52] it's the key to living with any form of
+[26:55] dignity for you your family going
+[26:57] forward forward so that you're not um
+[26:59] subservient to a bunch of people that
+[27:01] hate you you know that put you through
+[27:03] living conditions that you know you
+[27:05] wouldn't t on your on your worst enemy
+[27:08] so that's the danger of kyc and
+[27:10] thankfully there are ways to to deal
+[27:13] with it one of the most commonly known
+[27:15] ones are the are coin joints where
+[27:17] basically it gives you forward privacy
+[27:19] from the moment you engage in that coin
+[27:21] joint it's like uh think of it as like
+[27:23] you take out money from an ATM you know
+[27:25] the bank knows you took out you know
+[27:27] whatever you took out but has no idea
+[27:28] what you spent it on so the coin join
+[27:31] essentially does the same thing for your
+[27:32] Bitcoin the you know the exchange knows
+[27:34] you bought x amount but then what
+[27:37] happened to it God knows so if you say
+[27:39] you lost it somewhere well then you know
+[27:42] it's going to be very hard to prove that
+[27:43] you didn't lose it because the
+[27:45] connection between you and these coins
+[27:47] is is severed at that point so that's
+[27:51] just one way but other there's many
+[27:52] other ways to deal with this but you
+[27:54] know that's that's a very long
+[27:55] conversation but for now you know like
+[27:57] will'll stick to the most commonly known
+[28:00] ones yeah and and you know what that's
+[28:02] something that that me and my dad just
+[28:04] privacy we'd not taken seriously enough
+[28:07] like when when Mount gox was hacked we
+[28:09] never sat and thought Oh I wonder if
+[28:12] they got any of our personal information
+[28:13] it didn't even cross our minds we were
+[28:15] just happy that we were smart enough to
+[28:16] self custody to not lose the corn right
+[28:20] um so the the kind of things I'm
+[28:22] thinking of now is like actually you
+[28:24] know my data it could get leaked you
+[28:27] know let's say I buy a hardware wallet
+[28:28] from a manufacturer okay they're a
+[28:30] Honeypot their details might get leaked
+[28:33] but let's say someone some attacker has
+[28:35] my details from Mount goau right knows I
+[28:39] own some Bitcoin and wants some more
+[28:40] details about me like my address or
+[28:42] something well you know anywhere that
+[28:45] I've put my data on the internet whether
+[28:47] I'm ordering a pair of socks from a
+[28:49] supermarket or whatever I'm giving out
+[28:52] this information everywhere so one of
+[28:53] the the simple things that I'm doing
+[28:55] which is easy and and not technical is
+[28:58] now I've set up a PO Box so all of my
+[29:00] post no no no post comes to my house I
+[29:03] never give out my address anymore um and
+[29:06] the second thing is stop using the same
+[29:08] email address with my name on it for
+[29:10] everything right start setting up like
+[29:12] remailers and and different emails and
+[29:14] give different emails or even temporary
+[29:16] emails to all of these places that you
+[29:18] shop and just think you know I think
+[29:21] it's imposs you're never going to be
+[29:22] Satoshi right and completely vanish from
+[29:24] the internet but you can definitely make
+[29:26] yourself harder to follow and harder to
+[29:29] find and I wish I'd have taken that a
+[29:32] lot more seriously up front and going
+[29:35] forward I'm going to be looking a lot
+[29:37] more seriously at non kyc options to buy
+[29:40] the Bitcoin in the first place so
+[29:44] they're not perfect right and they're a
+[29:45] little inconvenient compared to using a
+[29:48] kyc exchange but you know there's Robo
+[29:50] sets there's bis Network there are
+[29:53] options there's peer-to-peer there's
+[29:55] earning it there's mining it um all
+[29:58] right you might not be a competitive
+[29:59] minor but would you pay a premium for
+[30:01] pristine virgin Bitcoin that that that's
+[30:04] never been touched by anyone else and
+[30:06] has no no chain behind it maybe it's
+[30:08] worth the premium so yeah just
+[30:11] rethinking that that whole
+[30:14] situation yeah I mean this whole thing
+[30:17] is going to force force the world to
+[30:19] become a bit more knowledgeable and
+[30:22] responsible with regards to it you know
+[30:24] like this this is technology this is
+[30:26] Bitcoin isch technology and a lot of
+[30:28] folks are still not comfortable you know
+[30:30] on a computer let alone picking out good
+[30:32] habits with regards to being safe online
+[30:36] um a lot of the things a lot of the
+[30:38] simple things you know that I still see
+[30:40] all over the place are people just
+[30:42] randomly and blindly connecting to Wi-Fi
+[30:44] spots whenever they see them for the
+[30:46] sake of being online this must be the
+[30:49] most suicidal move anyone can make
+[30:52] because if you knew how easy it was to
+[30:55] set up Rogue access points that are
+[30:59] named identical to commonly known Wi-Fi
+[31:03] spots you'd freak out you you'd never
+[31:05] connect to anything outside your
+[31:08] home so that's how easy it is or when
+[31:11] you know you have folks plugging in
+[31:13] devices to charge them in public places
+[31:15] like whether it's in airports whether
+[31:17] it's on a plane whether it's it's in
+[31:19] taxi cabs you know I see this all the
+[31:21] time and it blows my mind I'm like what
+[31:22] are you doing they're like I'm charging
+[31:24] my phone like but how do you know this
+[31:26] is a safe
+[31:28] you know and then they go
+[31:30] blank you see like things may seem
+[31:33] normal and this is where the most
+[31:35] elaborate attacks take place is by
+[31:38] giving you the impression that
+[31:40] everything there's nothing special going
+[31:43] on and that's where you get screwed you
+[31:46] know because if somebody's focusing on
+[31:48] you specifically knowing you own
+[31:50] hypothetically I don't know 25
+[31:53] Bitcoin then they would if if you're
+[31:55] likely going to be a target of this
+[31:56] person this is is somebody's going to
+[31:57] study you from morning to night they're
+[31:59] going to know your patterns your habits
+[32:01] where you go how often you go there and
+[32:03] what's your routine so putting things in
+[32:08] your path you know after having studied
+[32:11] your morning itinerary at some point
+[32:13] that you may not even think twice about
+[32:16] but that somehow knock information off
+[32:19] of you that's usually how these attacks
+[32:22] happen because you're you come home
+[32:24] wondering I didn't speak to anyone I
+[32:27] been do and you think what the hell
+[32:28] happened how could it possibly have
+[32:29] taken place but then if you think back
+[32:32] well you know I sat out of Starbucks and
+[32:34] maybe I connected to a hotel Wi-Fi or
+[32:36] maybe I did this or maybe I did that
+[32:38] something like a very innocent move but
+[32:41] because you were targeted the elements
+[32:44] were put for you ready for you to land
+[32:48] and use you know like I I remember we
+[32:51] used to do this in University as a as an
+[32:53] experiment we set up Rogue USB reports
+[32:57] all over
+[33:01] campus and all day long they were full
+[33:04] full like we had databases of like if
+[33:07] you knew what information we collected
+[33:09] back in back in school you'd freak out
+[33:13] and when we made it
+[33:15] known people like panicked for about 5
+[33:18] 10 minutes and then half an hour later
+[33:20] they went back to plugging back into the
+[33:22] same
+[33:23] ports do you understand like
+[33:27] you you have to get to a point where you
+[33:30] snap out of your stupidity and you start
+[33:32] taking certain things seriously because
+[33:36] at some point your turn will come and
+[33:38] you are going to get somehow so
+[33:41] the idea is to prevent this not to take
+[33:44] action after you've gotten the
+[33:47] idea is never to put yourself in that
+[33:49] predicament to begin with but yes it
+[33:51] involves learning new things it involves
+[33:54] developing better habits you know it's
+[33:56] it's it's effort proof of work you have
+[33:58] to do the work you can't expect to
+[34:00] miraculously be a cyber security expert
+[34:03] knowing all the good habits that are out
+[34:05] there if you don't listen to anyone or
+[34:08] don't spend five minutes learning
+[34:10] something new that that that you know
+[34:12] benefits
+[34:13] you Bitcoin is going to change that in
+[34:15] my opinion because now you have two
+[34:18] choices you either use government
+[34:21] money that enslaves you or you have
+[34:23] freedom money which is Bitcoin but if
+[34:26] you're going to use the Bitcoin the
+[34:27] freedom money you better know how to
+[34:29] take care of it otherwise you are
+[34:31] absolutely going to lose it so pick
+[34:35] which which which direction do you want
+[34:36] to go and this is where look this camera
+[34:39] is doing all these funny effects sorry
+[34:41] about
+[34:43] that I don't know I'm not I'm not sure
+[34:45] how to turn this thing off I thought I
+[34:47] did but it keeps coming back on um so it
+[34:50] forces you to be more responsible you
+[34:53] know with with with regards to your
+[34:54] money initially but at the same time
+[34:57] all the same habits that you're picking
+[34:59] up to protect your money apply to
+[35:01] anything about you
+[35:02] online so your your suggestions about
+[35:05] using aliases for email setting up
+[35:07] private emails don't use your bloody
+[35:09] name everywhere you you sign up you know
+[35:11] you use something else you know like
+[35:15] simple things it doesn't even have to be
+[35:17] complicated and you don't have to do
+[35:19] everything at once security is a is a
+[35:22] journey it's a progress you take it step
+[35:24] by step so that you know it cement
+[35:27] itself in your head and eventually it'll
+[35:30] become something common that you do you
+[35:34] know and I genuinely believe that this
+[35:37] is this is what's going Bitcoin is going
+[35:39] to force people to adopt these habits
+[35:41] unfortunately though I have a feeling
+[35:44] it's going to come after most people get
+[35:46] taught a very nasty lesson because pain
+[35:49] is often the best teacher if you're not
+[35:52] affected by it you're not going to take
+[35:53] it seriously whatever it's nothing it
+[35:55] won't happen to me until you wake up one
+[35:57] day and it did does happen to you and
+[35:59] then then you're then you're crying and
+[36:02] sometimes you come out of it but a lot
+[36:04] of times you don't depending on how hard
+[36:06] that hit was the reason I reached out to
+[36:09] youi just that I don't think I've ever
+[36:11] told you this before but the main reason
+[36:13] I reached out to you is because I was
+[36:15] worried about
+[36:16] you I saw the destruction of of life
+[36:21] savings being wiped out in in front of
+[36:24] my eyes to an entire country MH okay
+[36:28] people don't usually come out of
+[36:29] something like this the rate of suicide
+[36:32] and dark thoughts that I have witnessed
+[36:35] sometimes I wish I can unsee all of them
+[36:37] but I can't and it haunts me so when I
+[36:40] heard about your story 25 Bitcoin and
+[36:42] how you were going on about it my main
+[36:44] concern holy man I better call this
+[36:47] guy before he does something he's going
+[36:49] to regret that's why I reached out to
+[36:51] you
+[36:52] primarily then finding out maybe
+[36:55] something we can help about bit that was
+[36:57] secondary I needed to make sure you were
+[36:59] in a proper mindset head space not to do
+[37:02] something
+[37:03] stupid sure I mean you know the good
+[37:06] news and and and look everyone everyone
+[37:08] uh reacts differently to to hardship in
+[37:11] life right I think I think weirdly
+[37:14] holding Bitcoin for 10 years made me
+[37:16] more resilient and maybe resilient
+[37:18] enough to deal with this because you
+[37:20] know every single bare Market that
+[37:23] everyone else you know has their
+[37:24] pants on don't forget I've been through
+[37:26] sort of three of those and and seen you
+[37:29] know okay my paper net worth fluctuate a
+[37:31] lot I think that was almost like a bit
+[37:33] of preparation for for for this
+[37:36] situation and and the thing that keeps
+[37:37] me strong is that like I actually I owe
+[37:40] it to a lot of people around me so you
+[37:43] know my fiance my parents everything
+[37:46] they've ever done for me throughout my
+[37:48] life you know it's not acceptable for me
+[37:51] to to take that easy way out and it's
+[37:53] also not acceptable for me to become
+[37:56] like a black hole of misery and doom
+[37:59] because I'm only going to drag everyone
+[38:00] else around me down with me so what I'd
+[38:03] rather do is uh I don't know I'd like to
+[38:07] make people proud of me because they
+[38:09] think holy they just lost a million
+[38:11] bucks and he still gets up every morning
+[38:13] and and goes to bat you know I'd rather
+[38:15] be that person than the former so that's
+[38:17] what we're going to do it's it's it's
+[38:19] difficult and it's tough and you know I
+[38:21] would also Echo Tony's uh what Tony's
+[38:24] saying right like if anyone out there is
+[38:26] listen listening you know they might
+[38:27] have experienced a hack and and and just
+[38:30] kept it quiet out of embarrassment or or
+[38:32] anything like that like if you find
+[38:34] yourself in those shoes if you DM me and
+[38:36] you want to jump on a call and have a
+[38:38] chat for an hour or two I I I'm I'm here
+[38:41] to do that and help you with that um
+[38:44] even to the point like I don't I don't
+[38:45] care like maybe you got hacked and lost
+[38:47] all your ethereum right I mean I'm a
+[38:49] Bitcoin Maxi but at this point if you're
+[38:51] really facing hardship and you're you're
+[38:53] really low let's just talk about it
+[38:56] right like I'm not going to be an
+[38:57]  because that's not my kind of
+[38:59] coin but um yeah you know Tony's right
+[39:03] like while I might seem okay at the
+[39:05] moment and and and I'm confident I will
+[39:07] be there are people out there that when
+[39:09] this happens to them it's going to be
+[39:11] too much of a heavy blow and that's why
+[39:14] you know this this is so important that
+[39:16] we get this right um so yeah yeah that's
+[39:20] uh that's the the sort of experience of
+[39:22] finding out and and I think the most
+[39:24] important point is that's how KY
+[39:27] contributed to our
+[39:29] situation and uh man for for how how
+[39:32] many decades have we been Outsourcing
+[39:35] our information for the benefit of
+[39:38] convenience it's become so ingrained in
+[39:40] our culture and our way of life that
+[39:42] it's going to be hard for a lot of
+[39:44] people to turn 360 on that um you know
+[39:47] I've learned the hard way and now my
+[39:49] eyes are open I'm like okay I never have
+[39:51] an Alexa in the house even my fridge
+[39:54] might be listening to me um you know if
+[39:57] I have a ring doorbell with a camera on
+[39:59] it if someone gets hold of that they can
+[40:01] see when I come in and when I leave my
+[40:03] home all these sorts of things and you
+[40:05] know what if I'm just using Alexa to
+[40:07] turn the lights off I'm now with a
+[40:09] mindset of I'd rather get off my lazy
+[40:11] ass and just go to the light switch
+[40:13] because I don't want all these attack
+[40:15] surfaces uh around me now there might be
+[40:17] people out there super talented with
+[40:19] their privacy and and their security
+[40:21] that they can have those things because
+[40:22] they can mitigate the concerns but if
+[40:24] you're not you know a a guy with 30
+[40:27] years cyber security experience take
+[40:30] some basic steps to to to you know like
+[40:33] Tony says don't give out your email
+[40:34] address everywhere don't give out your
+[40:35] address everywhere use a PO Box there
+[40:37] are things you can do that are
+[40:39] non-technical just to get started that
+[40:41] would would seriously increase your
+[40:43] protection you
+[40:45] know yeah it's it's a great point and
+[40:49] now we covered so sort of the the kvc
+[40:52] part and uh what happened next like you
+[40:57] said there were a lot of points where
+[40:58] you could have lost it and how did you
+[41:02] actually what happened in the in the
+[41:05] event so what what happened in the event
+[41:08] is basically I I'll take you through the
+[41:09] setup right because that'll help people
+[41:11] understand a lot better
+[41:13] so it's funny right because on Twitter I
+[41:16] had loads of
+[41:17] um I don't want to piss anyone off right
+[41:20] but there's a lot of what I would call
+[41:21] like sort of Wann toe Bitcoin advisers
+[41:23] out there right who will give the advice
+[41:25] that you have a hardware wallet and a
+[41:27] steel plate and that's one and done and
+[41:29] you don't need to think about anything
+[41:31] else so I was getting quite funny
+[41:33] comments on Twitter going oh you're such
+[41:35] an idiot how do you not even know how to
+[41:37] use a hardware wallet like that's some
+[41:38] sort of Silver Bullet what people need
+[41:41] to understand is we did have and we do
+[41:43] use Hardware wallets but of course when
+[41:46] you have a hardware wallet it's just a
+[41:47] signing device so you know you also need
+[41:50] to keep safe your recovery phrase right
+[41:52] so if your Hardware wallet breaks or you
+[41:54] lose it that you can get access back to
+[41:57] your Bitcoin so ultimately you always
+[41:59] end up in the place where you have a
+[42:01] critical piece of data and you need to
+[42:03] keep it secure and you need to be able
+[42:05] to you know reach it and and keep it
+[42:07] safe so the the real story is around
+[42:10] what did we do with those recovery
+[42:12] phrases and what were the decisions we
+[42:15] made well the first thing that that we
+[42:18] did was we used a password manager now
+[42:21] before everybody freaks out and thinks
+[42:23] hang on that's just using a third party
+[42:25] I should be specific say that this is an
+[42:27] open-source and self-hosted password
+[42:30] manager called keypass which is a really
+[42:33] respected piece of software like really
+[42:35] good uh really good piece of software uh
+[42:38] and and through no fault of that
+[42:40] software did we get hacked right but
+[42:42] that's where we stored our our our seed
+[42:44] phrases now what's crucial to understand
+[42:47] as well is that that keypass file was
+[42:49] encrypted so it had a passphrase right
+[42:52] and the passphrase only existed in our
+[42:55] heads so it wasn't written down anywhere
+[42:57] it wasn't stored digitally anywhere so
+[42:59] you needed the password to access the
+[43:01] file that had the the the seed phrases
+[43:04] it mistake number one that I should
+[43:06] highlight there is that this file is
+[43:09] living on uh my dad's daily driver
+[43:11] laptop you know he uses it every day to
+[43:14] do his Tesco shopping and and all this
+[43:16] other stuff uh so really really silly to
+[43:19] have uh seed phrases even in an
+[43:21] encrypted file on a laptop that's
+[43:23] constantly connecting to the internet
+[43:25] and interacting with loads of
+[43:27] stuff the next problem you have is
+[43:29] obviously like you know we we understood
+[43:32] that having this file just on one device
+[43:34] was also a risk because if the hard
+[43:37] drive gets corrupted or he spills a some
+[43:40] water on the laptop who knows if that
+[43:42] file got corrupted we we we lose access
+[43:45] to the Bitcoin so we wanted to make
+[43:47] backups of it understandably right which
+[43:50] leads us to mistake number two which is
+[43:53] this keypass file was then backed up to
+[43:55] the cloud
+[43:56] so my dad's a a developer who uh you
+[43:59] know he's is extremely techsavvy right
+[44:01] and and he would re he regularly backs
+[44:03] up his devices and takes uh what would
+[44:06] he call them like snapshots of his
+[44:08] devices so that all his work is saved he
+[44:10] won't lose everything so it it kind of
+[44:12] just ended up as part of his normal
+[44:14] backup process right and this is where
+[44:17] things went wrong you know essentially
+[44:21] the the the cloud storage where the file
+[44:23] lived and the file itself are both
+[44:26] encrypted but the thing that tripped us
+[44:28] up is that the P phrase used to encrypt
+[44:31] those two things was laughably weak like
+[44:35] really really bad you know it was about
+[44:37] 11 characters long uh it wasn't Bitcoin
+[44:41] as some people have guessed like the
+[44:43] password wasn't Bitcoin it wasn't that
+[44:45] bad it also wasn't the name of my dog or
+[44:47] anything but it was laughably short it
+[44:50] didn't have special characters uh and
+[44:53] what we realize now is it would have
+[44:56] been pretty pretty easy for someone
+[44:58] capable to have brute forced this
+[45:00] password so what we think happened and
+[45:04] there's no guarantees right uh I can't
+[45:06] prove any of this this is kind of
+[45:08] following the most likely chain of
+[45:09] events is that we think that uh you know
+[45:13] my dad's email address in details were
+[45:15] leaked from Mount goau attackers are now
+[45:17] aware that there's a Honeypot of 25
+[45:20] Bitcoin that's worth
+[45:21] chasing his same email is connected to
+[45:24] his Cloud account right right so now if
+[45:27] you want to get into his cloud account
+[45:28] you've already got his email the only
+[45:30] missing piece is the password as I've
+[45:32] explained the passwords really rubbish
+[45:34] really weak so you know I'm not an
+[45:37] expert in any of this stuff but from a
+[45:39] bit of you know light Googling that I've
+[45:41] been doing you know it could have been
+[45:43] possible for some people to have brute
+[45:44] forced this password in less than a day
+[45:46] as far as I understand it right and if
+[45:49] it's 25 Bitcoin you know maybe if it
+[45:51] took them a month it's still worth
+[45:53] trying to brute force that password so
+[45:57] uh at the end of the day it was a weak
+[45:58] pass phrase that let us down that let
+[46:00] them a into the cloud storage and then B
+[46:03] into the keypass file with the seeds in
+[46:06] and once they've got that far that's it
+[46:08] they can start moving the Bitcoin round
+[46:11] so yeah you know obviously the lesson
+[46:14] there is you know store your seed
+[46:16] phrases online and
+[46:18] um offline sorry St your C phrases
+[46:22] offline um you know the the there are
+[46:26] other potential theories right could
+[46:28] there have been a key logger on my dad's
+[46:30] device that watched him type in the pass
+[46:33] phrase I I think that's highly unlikely
+[46:37] the reason I think that's highly
+[46:38] unlikely is that whilst my dad's not a
+[46:40] cyber security expert he has been a
+[46:43] developer for 50 years he really does
+[46:45] know his way around computers I think
+[46:47] it's extremely unlikely that he would
+[46:50] ever fall for like a fishing scam or
+[46:52] anything like that like he definitely
+[46:53] knows better so I really do think they
+[46:57] came in through the cloud account and I
+[46:59] I think it's likely that the password
+[47:00] was Brute Force because it only lived in
+[47:03] our heads so it's either a key logger or
+[47:06] it's Brute Force I think for a key
+[47:08] logger they need malware or and we we
+[47:11] ran malware scams or they'd need to have
+[47:13] fished him which I think is low
+[47:14] probability so that's our current best
+[47:17] theory
+[47:18] anyway um just just to chime in here
+[47:21] Rick you mentioned all of this seemed to
+[47:23] happen when you were in San Salvador
+[47:25] right
+[47:27] no so we discovered that the Bitcoin was
+[47:30] gone whilst we were in San Salvador oh I
+[47:34] had actually taken place on September
+[47:37] 12th so unbeknownst to us we had lost
+[47:41] the Bitcoin a month before we even
+[47:43] discovered that it was gone now a lot of
+[47:46] people find that kind of crazy but again
+[47:48] to sort of help understand the context a
+[47:50] little bit you know I would still use
+[47:52] Bitcoin daytoday using different wallets
+[47:55] and stuff like that like buying it
+[47:56] selling it using it um but this was our
+[48:00] long long longterm stack and it sat
+[48:02] there for 10 years you know we don't
+[48:04] check this thing every week we we're not
+[48:06] keeping eyes on it I mean we should have
+[48:08] had like a watch only wallet or you know
+[48:10] there's things we could have done but to
+[48:12] help people understand how we could have
+[48:13] lost that and not noticed for so long
+[48:16] simply because we weren't touching that
+[48:18] and I and I genuinely mean this for
+[48:20] probably another 20 years at least right
+[48:22] like we we we were not giving up this
+[48:25] Bitcoin um so yeah unfortunately I don't
+[48:29] I don't think it has anything to do with
+[48:30] us being in El Salvador at
+[48:33] all okay yeah well it's it's definitely
+[48:36] a plausible Theory I mean there's many
+[48:38] ways this you know many many other
+[48:40] possible roads this can go I mean you
+[48:42] know I'm sure you're aware of um you
+[48:45] know bad cables that you can potentially
+[48:47] plug into your computer that you know
+[48:50] seemingly do what they're supposed to do
+[48:52] but at the same time are infected you
+[48:53] know with remote web servers those are
+[48:56] prevalent you know a lot more than you
+[48:58] know people realize and I know because
+[49:00] you know I've come across so many of
+[49:02] them it's it's fascinating um you buy a
+[49:05] USB cable you know it looks exactly like
+[49:07] the one you have you plug it to charge
+[49:08] your phone yes it does charge your phone
+[49:11] but whatever you plug it into it's like
+[49:13] it's a full access to that device you
+[49:15] know everything and that's where key
+[49:17] loggers usually hide you know when it
+[49:20] comes to accessories of that sort so
+[49:23] that could be I don't know I'm not
+[49:24] saying this is your case but I mean if
+[49:26] you think back you any any detail any
+[49:29] small insignificant detail you know
+[49:31] could potentially be a key to to this
+[49:34] puzzle because you know when you when
+[49:35] you work in cyber security there's no
+[49:37] such thing as ah it's it's it's too
+[49:40] stupid of a theory you know everything
+[49:42] is a possibility because that's where
+[49:44] the most creative attacks usually come
+[49:46] from is again making it seem like as if
+[49:48] nothing is wrong but this is where you
+[49:51] know these are the most dangerous types
+[49:53] of situations to find yourself in yeah
+[49:56] and now now that we got some some hints
+[49:59] that what could have happened what a lot
+[50:02] of things the for people listening that
+[50:05] actually can be avoided like not storing
+[50:08] it
+[50:09] online uh and things like that like
+[50:12] what's sort of uh the best setup for for
+[50:17] for people listening like self custody
+[50:20] steel wallet do you have any
+[50:21] recommendations in in that regard well
+[50:24] there's no best setup there's this
+[50:26] theory of that I have the best setup is
+[50:28] nonsense the best setup is what works
+[50:31] best for you in the sense that you have
+[50:33] to find a balance between you know the
+[50:35] security but the usability at the same
+[50:37] time you know like you don't want to end
+[50:39] up in a situation where you create
+[50:40] something so complex like such a such a
+[50:43] Draconian maze that it locks you out of
+[50:45] it or you forget your way you know in in
+[50:47] and out of that maze then that's even
+[50:49] worse than losing your Bitcoin because
+[50:51] you're just staring at it on a screen
+[50:53] knowing you can't access it anymore
+[50:54] because of something that you've done so
+[50:57] you don't want to be in a predicament
+[50:59] you know some some good habits like you
+[51:00] said Rick N none of them have to be
+[51:02] technical for one keep your mouth shut
+[51:05] don't advertise what you're doing you
+[51:07] know don't advertise what you're doing
+[51:08] don't advertise what you have don't brag
+[51:11] you know like I mean if you want to
+[51:13] bring unnecessary attention to you well
+[51:15] well then you know you're going to live
+[51:16] with the consequences of that moronic
+[51:18] decision don't do it that's for starters
+[51:20] that's not a technical thing that's just
+[51:22] a common sense um uh you know solution
+[51:25] second second of all you know be aware
+[51:28] of everything and anything that you're
+[51:30] doing online like learn what it is that
+[51:32] you're doing on that computer rather
+[51:34] than just blindly click click click
+[51:35] click click click all over the place you
+[51:37] know when it comes to bitcoin there are
+[51:40] a certain set of steps that you can take
+[51:42] you know as sort of like foundational
+[51:44] steps seat phrase if you're not a
+[51:46] technical person the seat phrase what
+[51:48] 100% categorically needs to remain
+[51:50] offline no matter what that's for sure
+[51:52] you know if you're somehow some sort of
+[51:54] like an advanced it expert that's
+[51:56] religiously disciplined about how you do
+[51:59] things and what you plug into your
+[52:00] computer and you have eyes on this stuff
+[52:02] 24/7 then yeah maybe you can somehow get
+[52:04] creative by saving it online but that's
+[52:06] not for everyone it's definitely not
+[52:08] something I would recommend anyone
+[52:09] venturing unless you really know what
+[52:11] you're doing uh keep you know if you're
+[52:14] using p phrases they're recommended use
+[52:16] them keep them in separate locations
+[52:17] don't put everything in one place but
+[52:20] again if you're going to be using
+[52:21] Geographic you know uh displacements
+[52:23] make sure you have access to these plac
+[52:25] in cases of emergencies you know so many
+[52:28] times I've I've come across folks where
+[52:30] you know they've spread out their
+[52:31] signing devices in like 17 different
+[52:33] cities but then when something goes
+[52:35] wrong they can't access any of them you
+[52:37] know like that's that that that's also a
+[52:39] problem that you need to think of or if
+[52:41] there's somebody guarding you know those
+[52:42] signing devices at some specific
+[52:44] location what if they stop talking to
+[52:46] you for what for whatever reason someday
+[52:48] what do you do then you have a problem
+[52:50] again it's not a technical one but it's
+[52:51] a big problem that gets in the way of
+[52:53] you and your coins so so all of these
+[52:55] little details I mean these are the
+[52:57] these are this is why there's no such
+[52:58] thing as a perfect solution when we
+[53:00] consult when I sit down and consult with
+[53:02] someone I ask them like 700 questions
+[53:04] just so that you know we can we can sort
+[53:05] of assess The Sweet Spot between what
+[53:08] they can do and what's actually you know
+[53:12] secure at the same time and that's how
+[53:15] we come up with a solution that's unique
+[53:17] to each individual that nobody knows
+[53:19] about that's the key there's no
+[53:21] off-the-shelf solution here so if
+[53:23] anybody wants to attempt an attack
+[53:25] Vector on someone they will fail because
+[53:28] you know there's something about you
+[53:30] that is different from the next person
+[53:31] and the next person and what have you
+[53:33] this is how you you uh you develop good
+[53:36] cyber security you know habits you know
+[53:39] being as close as possible to a ghost is
+[53:42] is the objective here so you know
+[53:46] there's and again it's a progression you
+[53:47] don't have to do this you know all in
+[53:50] one shot it's not scary it's not
+[53:52] overwhelming it's very easy you know
+[53:55] there are people out there that'll
+[53:57] explain it to you we're one we're just
+[53:58] one of them there are many of resources
+[54:00] that are free online if you don't want
+[54:02] to consult with someone but you need to
+[54:04] sit down do the work pay attention you
+[54:06] know take notes study it learn it in the
+[54:08] same way you learned how to drive a car
+[54:10] in the same way you learned how to do
+[54:12] many things that you take for granted
+[54:13] now you have to sit down do the work to
+[54:16] get to the result and when it comes to
+[54:19] protecting your money it needs to be
+[54:21] your number one priority in my opinion
+[54:23] if you have any plans of living a free
+[54:26] and dignified life for you and your
+[54:28] family at any point in the future that's
+[54:31] a great way
+[54:33] um I think we covered the event now
+[54:37] really good we covered the pitfalls we
+[54:39] covered uh what we can do uh in case
+[54:43] someone wants to be safe um Rick is
+[54:46] there anything before we wrap up the
+[54:48] podcast you want to
+[54:51] add yeah I I think so I think I think
+[54:54] you know what I want to say is that you
+[54:56] know I've been around for a long time in
+[54:58] the space so I've watched most things
+[55:00] play out um you know I'm not a Galaxy
+[55:04] brain uh sort of shadowy supercoder but
+[55:07] I've learned a few things along the way
+[55:09] right so I want to give people a little
+[55:11] M context right bear in mind that I
+[55:13] would say my dad is a a very capable and
+[55:16] Technical person you know he's used all
+[55:17] these programming languages he's a
+[55:19] developer he's the kind of guy I've seen
+[55:21] him take a an air conditioning unit off
+[55:23] the wall cuz it's broken he takes it
+[55:25] apart he gets his soldering iron out and
+[55:27] he fixes it himself this is a guy who's
+[55:29] very capable however he would also be
+[55:33] the first to say that whilst he's a very
+[55:35] good
+[55:35] developer he is not a cyber security
+[55:38] specialist this is a this is a niche
+[55:41] specialism within computer science right
+[55:44] and and he's quite capable and we've
+[55:46] used Bitcoin a lot over the years you
+[55:48] know I've run lightning nodes uh you
+[55:50] know I've played with Ln bits and Ln URL
+[55:53] with draw codes at meta s uh I know how
+[55:56] to use replace by fee I've dabbled with
+[55:59] coin joins um but here's the reality is
+[56:02] like that is not our specialist field so
+[56:05] a couple of things number one when I was
+[56:07] playing with coin joins and replaced by
+[56:09] fee I was doing it like it was a
+[56:11] curiosity like a bit of fun I wasn't
+[56:14] coming at it like yo I'm training for a
+[56:17] boxing match and it's in three weeks and
+[56:19] I I need to get you know really good at
+[56:22] this this isn't just like a fun little
+[56:23] game and the second thing I'd say is
+[56:27] look I I I don't think what I'm trying
+[56:29] to when I say that I think people should
+[56:32] work with advisers on this stuff what
+[56:35] I'm not saying is to completely
+[56:36] Outsource the responsibility to someone
+[56:39] else what I think is a better way to
+[56:42] think about this is that you still need
+[56:44] to go on this journey because ultimately
+[56:46] the buck stops with you so you know you
+[56:49] may work with Tony and he gets your
+[56:51] security you know up to scratch but what
+[56:54] if Tony's not around 15 years from now
+[56:57] for you to talk to he's off doing
+[56:59] something else right you ultimately it's
+[57:02] always going to come back to you so when
+[57:03] you work with an advisor the way you
+[57:06] want to think of it is you know a lot of
+[57:08] bitcoiners are very KY right like I
+[57:10] don't want to work with anyone else I
+[57:11] can do this all myself but ask yourself
+[57:14] this question do you have 30 years
+[57:17] experience in cyber security if the
+[57:19] answer to that question is no then
+[57:22] appreciate you're going to have to get
+[57:23] better at it if you need to get better
+[57:26] at it you can go and you can study
+[57:28] there's loads of great tutorials you
+[57:30] could go to bitcoin sessions is one that
+[57:31] I love you know um you know that there's
+[57:35] Arman on Twitter writes loads of great
+[57:36] blogs there's loads of great information
+[57:38] out there and you can do it yourself
+[57:41] however if I wanted to get really good
+[57:43] at golf right I love playing golf I get
+[57:46] much better much more quickly when I
+[57:49] have a coach uh if I wanted to learn uh
+[57:53] any skill right look look at what rich
+[57:55] and successful people do they hire in
+[57:57] expertise where they have a gap and they
+[58:00] fast forward their thinking when when
+[58:02] Mark Zuckerberg decides he wants to be
+[58:04] great at jiujitsu he didn't just go on
+[58:06] YouTube he hires in all the experts that
+[58:08] he can afford um you know think of it
+[58:12] like that like you know I'm not a
+[58:13] plumber so if my radiator falls off the
+[58:15] wall yeah there's loads of Plumbing
+[58:18] videos on YouTube but I call a plumber
+[58:19] because he's got 25 years experience of
+[58:22] fixing pipes and stuff so there's no
+[58:24] shame in saying I'm not a cyber security
+[58:27] expert but I want to train and because
+[58:30] I'm training I want a really good coach
+[58:32] it's like having a personal trainer um
+[58:35] and you want to do this quickly because
+[58:37] if bitcoin's about to 10x in price it
+[58:39] might be six months might be six years
+[58:40] from now who knows but I'm pretty
+[58:43] confident it's going to continue to
+[58:45] increase in value don't do what I did
+[58:48] right make this investment before you
+[58:52] get hilariously Rich right and I I know
+[58:55] how other bitcoiners are thinking
+[58:57] because I felt it myself for 10 years
+[58:59] you think ah yeah but that costs money
+[59:01] and maybe I'll just wait until after the
+[59:03] bull run because my money will 10x and
+[59:05] then I'll get my security
+[59:08] sorted if I could go if I had a time
+[59:10] machine Robin I'm sure you can
+[59:12] appreciate I would go back uh in time to
+[59:15] before the hack and I'd ring Tony up and
+[59:17] I'd say Tony listen here's a blank check
+[59:19] like this this I'm not going through
+[59:21] that again let's get it done so everyone
+[59:24] says the game is Buy and Hold no more
+[59:27] than that buy hold and train train train
+[59:32] continuously as well because part of the
+[59:35] problem for us is that we never changed
+[59:36] our setup over the 10 years if it ain't
+[59:39] broke don't fix it we we we stopped we
+[59:42] didn't go far enough and over the next
+[59:45] 10 years the technology will get better
+[59:47] Hardware wallets will get better new
+[59:49] vulnerabilities will come out um you
+[59:52] want someone in your corner that you can
+[59:54] call up and that keeps you right uh so
+[59:56] yeah for me it's a no-brainer um and
+[59:59] that's why it's fun to to sort of go out
+[60:01] there and and Tony's given me a platform
+[60:03] to sort of say look this is what
+[60:05] happened to me and here's a sensible
+[60:07] destination you could go and speak to
+[60:08] Tony and and and avoid my fate you know
+[60:11] yeah you know I I'll I'll add one more
+[60:13] thing here keep in mind that you know
+[60:15] since this is technology and we already
+[60:18] have like a my of problems online with
+[60:20] regards to fishing scams and all this
+[60:22] but there's one element you know
+[60:24] everybody's aware of but they don't seem
+[60:26] to be connecting the dots with and
+[60:27] that's AI you know AI is not just a
+[60:30] school Tech everybody's going to be
+[60:32] using you know to improve their lives
+[60:34] and to clone themselves and to do all
+[60:35] sorts of like heroic activities AI is
+[60:39] going to be used you know in attacks
+[60:43] against people to steal from them and
+[60:47] the more sophisticated these you know
+[60:50] these tools become the less you are able
+[60:53] to distinguish between between something
+[60:55] real and something fake so if you
+[60:58] already are like like get suckered into
+[61:01] something now can you imagine how
+[61:04] difficult it's going to be if you're not
+[61:06] prepared when it becomes 10 times more
+[61:10] elaborate to to Really distinguish
+[61:12] between the two like these are all
+[61:14] things you know like you need to think
+[61:15] about you need to be prepared for there
+[61:17] are solutions out there that protect you
+[61:20] that use AI for the for the for the side
+[61:22] of good not just for the side of bad bad
+[61:24] you know so so to maintain a balance so
+[61:26] you're not you know at the receiving end
+[61:29] of all the negativity you're you're in a
+[61:31] position where you have your defenses
+[61:33] strong enough to protect against
+[61:35] anything that can possibly come your way
+[61:37] there are solutions out there we use
+[61:39] them we have them we deploy them they
+[61:42] exist you just need to want to sit down
+[61:44] and learn about them because you're
+[61:46] going to need them hopefully before you
+[61:48] actually go through some you know life
+[61:52] altering damage you know that's that's
+[61:55] my hope I really like that one hour
+[61:58] session now with with you guys it I
+[62:00] think it shines a light on how important
+[62:02] is to take it uh in your hand to take it
+[62:04] seriously to take cyber security in
+[62:07] general seriously but also take self-
+[62:10] custody and securing your Bitcoin uh
+[62:14] seriously and I think a lot of
+[62:15] bitcoiners as you sric they thinking oh
+[62:18] it's it's safe now and uh maybe now it's
+[62:22] uh my Bitcoin stack isn't worth like
+[62:25] maybe 10K and maybe then it goes over
+[62:28] 100k then I invest some money like a I
+[62:31] think a lot of Bitcoins actually think
+[62:32] like that now and uh it's better to
+[62:35] invest in in in in securing your Bitcoin
+[62:38] safely
+[62:41] before it it it happened and I think
+[62:43] this story and that's that's why I I was
+[62:46] reaching out to you so quickly when I
+[62:48] saw you also joined the Bitcoin way um
+[62:52] to to tell this story and make it it
+[62:54] clear to everybody that it's really
+[62:56] important to um take it seriously um we
+[63:00] having an end routine at the uh at the
+[63:03] Bitcoin podcast where the previous guest
+[63:07] asked question for the next guest and uh
+[63:11] I made an small alteration to that end
+[63:14] routine but uh but the first thing I
+[63:18] want to ask um maybe the both of you
+[63:21] what Innovations on top of the base
+[63:24] layer uh of Bitcoin are you looking
+[63:26] forward the most layer two layer three
+[63:28] solutions like this is a question that
+[63:30] came from the the previous
+[63:33] guest I'm hoping to see more privacy on
+[63:37] on by default on bitcoin you know
+[63:39] something that's probably going to be
+[63:41] developed layer two layer layer three
+[63:43] but has to be you know native Native to
+[63:45] native to the system nothing that has
+[63:47] people have to go out of their way to to
+[63:50] activate to use to you know to to take
+[63:52] advantage of it needs to be you know
+[63:54] inherent to whatever application
+[63:56] whatever system that you know being used
+[64:00] that's what I'd like to see so that
+[64:01] people don't have to worry about it and
+[64:03] more importantly don't have to be feel
+[64:05] guilty that they're keeping their stuff
+[64:07] private because they're somehow you know
+[64:09] being stereotyped as criminals because
+[64:12] they decide to keep their private
+[64:13] information to
+[64:15] themselves that that's what I'm looking
+[64:17] forward
+[64:19] to yeah I I'd Echo similar to that I
+[64:21] mean the stuff that that really excites
+[64:23] me it's kind of funny right because the
+[64:25] attacker used coin joins and and mixing
+[64:28] technology to to hide our funds and and
+[64:31] abscond with them right so you might
+[64:32] think that I would sit here and say I
+[64:34] hate mixing and it's wrong and let's kyc
+[64:37] everyone but actually no th those are
+[64:39] the technologies that that that excite
+[64:41] me the most you know and and I want to
+[64:43] give a big shout out again to Samurai
+[64:45] wallet and and Ergo BTC and those guys
+[64:48] because you know I know I know I know on
+[64:50] Twitter they they seem quite prickly
+[64:52] right and and they they're they're very
+[64:54] very um very forthright with their
+[64:56] opinions right which is something I
+[64:58] actually quite appreciate um but I know
+[65:00] it might put some people off and I would
+[65:02] just say like understand that I think
+[65:04] these guys are fighting the good fight
+[65:06] and and they do it they do it against
+[65:09] immense pressure right like all this
+[65:10] chainalysis stuff um you know there's a
+[65:13] lot of people who wouldn't want them to
+[65:14] succeed but if we don't if we don't have
+[65:17] privacy on
+[65:19] bitcoin I I see problems further down
+[65:22] the road and I think you know it's the
+[65:24] those kind of guys that that are going
+[65:25] to make the biggest difference um and
+[65:28] other like other than that I think you
+[65:29] know I'm excited to see if if layer 2os
+[65:32] can get a little bit more robust uh
+[65:35] especially you know the high fee
+[65:36] environment at the moment you know for
+[65:39] me I I want to see a world where
+[65:41] everyone can use Bitcoin and have access
+[65:43] to it but but I understand block space
+[65:45] you know is limited and hey look you
+[65:48] know I don't I don't have any of the
+[65:49] answers for this but but I I I sincerely
+[65:51] hope that that's something that we can
+[65:53] solve to to keep Bitcoin as accessible
+[65:56] and and
+[65:58] permissionless as as as we possibly can
+[66:01] um May maybe the layer twos can never be
+[66:04] as decentralized as the layer ones but
+[66:06] can they be a huge Improvement on on
+[66:09] what fiat currency looks like yeah
+[66:11] probably so yeah you know I'd love to
+[66:14] see those things take off and and uh I
+[66:16] think those those are the things we need
+[66:18] badly yeah so I think it's also a really
+[66:20] great way to end it and to to to make
+[66:23] the podcasts here um uh where can people
+[66:29] find you Rick uh also I think like ton
+[66:32] is on on X you are also mostly on
+[66:36] Twitter X however you want to call it
+[66:38] rick yeah so my handle is uh ressit uh
+[66:42] so that's R Ms i t uh again yes that is
+[66:47] my second name and yes I am a dummy for
+[66:50] using that as uh as my handle but you
+[66:53] know I made that I made that 10 years
+[66:55] ago uh you know what you might see from
+[66:58] me in the future is that like I want to
+[67:00] tell this story I'm going to go on a
+[67:01] journey now of you know getting start n
+[67:04] servers privacy phones learning this
+[67:06] stuff properly because of the the wakeup
+[67:08] call and I want to share that Journey so
+[67:11] if if you want to come along and see how
+[67:13] far I get and see where I get stuck and
+[67:15] stuff like that then come and follow
+[67:17] along uh but in the fullness of time
+[67:19] when I get everything back together I
+[67:21] probably will recede into the shadows
+[67:23] and become in a non pleb once again um
+[67:27] but yeah you know come and find me if
+[67:28] you and and again I want to reiterate if
+[67:30] you're having a time you've been
+[67:32] hacked or maybe you just lost your money
+[67:33] trading or you know you're in a bad
+[67:36] place reach out I had a I had a one
+[67:38] recently maybe we can just have a chat
+[67:40] about it and I can convince you that uh
+[67:43] the world's still a beautiful place and
+[67:44] you're still really early so you can
+[67:46] still you can still free yourself uh so
+[67:50] yeah and the Bitcoin way is best
+[67:52] findable on the Bitcoin way.com yeah the
+[67:56] Bitcoin way.com or also on on Twitter
+[67:59] the Bitcoin way uncore you know my
+[68:00] handle is V4 BTC you know I'm very
+[68:03] active there as well so anyone that
+[68:05] wants to reach out you're more than
+[68:06] welcome you know we offer free 30 minute
+[68:09] consults to anyone there's no obligation
+[68:11] just to have a conversation to see where
+[68:13] you're at where you want to get to and
+[68:14] how we can we can potentially help you
+[68:16] so anyone is
+[68:18] welcome so thank you Tony for sharing
+[68:21] your expertise uh thank you Rick for
+[68:23] sharing your your story I really
+[68:26] appreciate your time and I just love the
+[68:29] the session with you guys thanks for
+[68:32] having me
+[68:33] man yeah thanks for the thanks for the
+[68:35] opportunity Robin

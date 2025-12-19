@@ -1,0 +1,1663 @@
+Title: Carlos Toriello: "With 1 Bitcoin, your bloodline will remember you forever!"
+Video ID: Win3floEams
+URL: https://www.youtube.com/watch?v=Win3floEams
+Date Saved: 2025-06-15 11:53:29
+--------------------------------------------------
+
+[00:00] if you have even one Bitcoin to pass on
+[00:03] to your children and grandchildren they
+[00:05] will remember you forever I was
+[00:08] attempting to prove election fraud if
+[00:10] people realized wow our system could
+[00:12] have collapsed but Bitcoin was there to
+[00:14] protect us Bitcoin becomes an anchor of
+[00:16] Truth in a sea of Lies every single
+[00:20] piece of data that a government
+[00:22] publishes you should have a time stamp
+[00:24] to prove that that document can never be
+[00:25] manipulated to eliminate the ability of
+[00:28] the state to erase history and full
+[00:31] Humanity I think that's worth paying to
+[00:34] audit the entirety of Guatemalan voting
+[00:37] system using Bitcoin part of that story
+[00:39] is getting Bitcoin to become the
+[00:41] timestamp know standard for all data
+[00:44] [Music]
+[00:47] everywhere what are you doing how did
+[00:49] you come to where you are and how did
+[00:52] you come to uh what you do with
+[00:53] elections with Guatemala with
+[00:56] Bitcoin it's a long story uh but the
+[00:58] short of it is I am Carlos too I am
+[01:01] known as carinho uh for those that are
+[01:05] good at Spanish or or Portuguese h i
+[01:09] born and raised in Guatemala uh for
+[01:11] those that don't know it's uh in between
+[01:13] Mexico and El Salvador uh so Central
+[01:17] America and uh born and raised here went
+[01:20] to school in the states then came back
+[01:22] in 2009 you know great time to to
+[01:24] graduate from from college 2009 and um
+[01:29] immediately
+[01:30] I tried to you know get involved in in
+[01:33] in uh different businesses here my my
+[01:35] father was an entrepreneur I I joined
+[01:37] his the family business and um
+[01:40] specifically with elections uh Guatemala
+[01:42] has a volunteer army that manages the
+[01:46] elections and so we have uh voting every
+[01:49] four years and I decided to join that in
+[01:52] 2011 2015 then I came back as an
+[01:56] election Auditor in
+[01:58] 2019 to don't trust verify the results
+[02:02] and 2019 in Guatemala was the first time
+[02:04] in over 30 40 years that Guatemala had
+[02:08] um allegations credible allegations of
+[02:12] election fraud and so I tried to audit
+[02:15] the election in 2019 but I failed and so
+[02:19] I just lowered my time preference and
+[02:20] came back in
+[02:22] 2023 and uh I very proud to say that the
+[02:25] effort that I lead is the first election
+[02:27] auditor to audit the entirety of
+[02:31] Guatemalan voting system using Bitcoin
+[02:34] and uh as a byproduct of what we did the
+[02:37] company that I now work for simple proof
+[02:40] is the first company in the world to
+[02:42] have gotten a nation state to use
+[02:45] Bitcoin to protect its voting system
+[02:47] that's a fascinating story um let's
+[02:50] start with uh the basics why should we
+[02:53] use Bitcoin to uh prove uh elections and
+[02:58] and audit elections
+[03:00] so personally and I emphasize I am not
+[03:04] here to convince you to believe in
+[03:06] democracy if you have lost faith in it
+[03:09] that is
+[03:11] your experience your uh you know that's
+[03:14] fine like I'm not here to convince you
+[03:17] about democracy as a bitcoiner though
+[03:20] what I believe is that voting systems
+[03:23] which democracies should have are
+[03:26] effectively proof of work consensus
+[03:29] algorithms
+[03:30] and in the case of Guatemala because
+[03:32] it's all paper based I believe they are
+[03:35] um proof of work consensus algorithms uh
+[03:39] with an audit trail that is in the
+[03:41] analog world and in specifically in the
+[03:44] case of Guama the system is very similar
+[03:47] and has many similarities to how Bitcoin
+[03:51] works and so I believe that voting
+[03:54] systems and that's what I found in
+[03:56] Guatemala provide bitcoiners an
+[03:58] opportunity to reach a new audience not
+[04:03] with a money argument but rather with
+[04:06] truth and in a posttruth world that we
+[04:10] live in nowadays it's um very important
+[04:13] to or at least that argument is uh
+[04:17] material to a lot of people and actually
+[04:20] might be easier for them to be
+[04:22] interested in Bitcoin um and instead of
+[04:25] going straight to to the money right
+[04:27] like I think it's natural and probably
+[04:29] very good and healthy for people to
+[04:31] naturally reject uh you know these
+[04:34] Psychopaths on the internet talking
+[04:36] about their money being broken um you
+[04:38] know that's it's a natural response but
+[04:40] in the case of uh the voting system
+[04:43] there is this consensus algorithm that
+[04:45] takes place and Bitcoin and its
+[04:48] immutability characteristics its
+[04:51] decentralization uh can really help um
+[04:54] specifically in the case for me it was
+[04:56] in 2019 when I was attempting to to
+[04:59] prove election fraud you know I have
+[05:02] friends who are lawyers told me if you
+[05:04] find evidence of election fraud in the
+[05:07] 2019 election and you prove it all that
+[05:11] is going to happen is that the
+[05:12] government will accuse you of election
+[05:15] tampering and in Guatemala at least that
+[05:18] is treason and so I was looking at
+[05:21] potentially going to jail for treason
+[05:23] which hasn't happened in Guatemala in
+[05:25] hundreds of years um and so I needed a
+[05:28] way to demon demate that the data that I
+[05:32] had was the exact same data that the
+[05:34] government published and so uh I
+[05:38] discovered open timestamps which is a
+[05:41] protocol that was built in 2016
+[05:44] 2017 that is a very simple protocol and
+[05:47] and and application that lends anyone
+[05:50] really individuals or anyone the ability
+[05:53] to use Bitcoin as a timestamping service
+[05:56] which uh I'll pause there it's
+[05:57] interesting for me U um like you said
+[06:00] before 2019 you failed uh how did you
+[06:04] fail in in like everything went wrong in
+[06:06] 2019 but the the summary is uh I was
+[06:10] trying to do something very very hard um
+[06:13] in response to the voting system
+[06:16] collapsing and so if you are concerned
+[06:19] that uh if you care about this this and
+[06:22] I cared a lot and care a lot about my
+[06:24] voting system um and you're concerned
+[06:27] that there might be election fraud like
+[06:29] someone May attack your voting system uh
+[06:31] and you want to protect it then uh you
+[06:34] shouldn't wait until election night um
+[06:37] and I you know had my concerns and and
+[06:40] this and that but I wasn't really
+[06:41] prepared for the collapse of our voting
+[06:44] system it's like we have this website
+[06:47] that is public where uh people can look
+[06:50] at uh the data and on Election night
+[06:53] that's what the media uses and it just
+[06:55] collapsed so you have people on TV you
+[06:57] know the TV people oh and so
+[07:00] Robin is is oh I we don't see the data
+[07:03] anymore oh now Carlos is oh the data is
+[07:06] gone oh Robin is not oh like so it like
+[07:10] everything went wrong right and so um
+[07:13] after the like when that happened I
+[07:14] wasn't prepared for that level of of of
+[07:16] chaos uh and so in 2023 when I succeeded
+[07:21] was you know I lowered my time
+[07:22] preference and I I thought and prepared
+[07:25] and researched Bitcoin I studied Bitcoin
+[07:27] and found many useful things in Bitcoin
+[07:30] uh and was just ready so instead of
+[07:32] reacting to the madness I prepared and I
+[07:36] had the tools ready to go to actually
+[07:38] pull it off if that makes sense it it
+[07:41] makes sense um how do usual W things
+[07:46] work like without Bitcoin in Guatemala
+[07:48] how do they usually like in Austria the
+[07:51] only thing that I know is like I go in
+[07:53] there I make my thing and I write a name
+[07:57] and then I put it in a boxy Prett simple
+[08:00] like wooden box I think it is that's the
+[08:02] only thing I know like what's the the
+[08:04] process from there sure so when I
+[08:06] mentioned that what Amala has this
+[08:08] volunteer army it's you know who is the
+[08:11] the person that gives you the ballot
+[08:13] right um that's what I was in 2011 2015
+[08:18] it's the great victory of our last
+[08:20] Revolution in Guatemala in 1982 uh
+[08:23] basically Guatemala between 1950 to 1980
+[08:27] uh the votes were you know you show up
+[08:29] and there a military Guy saying you know
+[08:30] here's your boat you know so that's
+[08:34] democracy um uh but in as of 1982 in our
+[08:38] last Revolution we took that power away
+[08:40] from the government and created this
+[08:42] beautiful system where uh neighbors are
+[08:45] the ones that are in charge of this so
+[08:47] you can volunteer to be the person at
+[08:50] the box right we call them voting tables
+[08:53] and so you show up very early in the
+[08:55] morning you have this box that contains
+[08:57] all the ballots you have friends to help
+[09:00] you you know prepare it and you have a a
+[09:03] a voting role right a list of citizens
+[09:06] that are assigned to your table and it's
+[09:09] on average 400 and so this group of of
+[09:12] volunteers manages this system and um
+[09:16] the political parties who want to
+[09:19] compete in the election can all send
+[09:22] witnesses to every single one of these
+[09:24] tables so as you're doing this and you
+[09:27] know when Robin shows up and I give you
+[09:29] your ballot you go over there you
+[09:31] scratch it and then you come back and
+[09:32] you deposit yourself I with my friends
+[09:35] we are uh organizing this on behalf of
+[09:39] uh the 400 citizens like we are
+[09:41] literally we turn the volunteers turn
+[09:43] into custodians right uh and in some
+[09:46] ways I consider them like coin join
+[09:49] coordinators right because they handle
+[09:52] all the individual votes the
+[09:54] transactions and then at the end of the
+[09:56] day they dump out the votes and they
+[09:58] visually confirm each vote saying oh
+[10:00] this one's for Robin this one's for
+[10:02] Carlos this one's for Robin Etc and the
+[10:05] political parties are standing right
+[10:07] behind them the entire time and so all
+[10:10] that the political parties need to do is
+[10:12] send witnesses that turns them into
+[10:15] validating nodes uh in my you know to to
+[10:19] use Bitcoin terms right it's the the
+[10:21] volunteers are kind of like mining nodes
+[10:23] or or coinjoin coordinators and then the
+[10:25] political parties have a the ability to
+[10:28] send these Witnesses the validating
+[10:30] notes so that when the voting you know
+[10:32] is counted then they actually issue a
+[10:35] document that is handwritten and
+[10:38] contains all the totals of that table
+[10:40] and everyone present has to sign and so
+[10:44] it ends up being that you know Guatemala
+[10:46] had 9.2 million registered voters in
+[10:50] 2023 last year or last election 400
+[10:53] people to a a table that's around
+[10:57] 25,000 of these tables
+[10:59] and so you have a simultaneous like uh
+[11:03] voting system that's happening in 25,000
+[11:06] different places with you know four to
+[11:09] five people at each table uh as the
+[11:12] mining nodes or coin joint coordinators
+[11:14] that's 100,000 people and then the
+[11:17] Witnesses are again like four or five
+[11:19] people so it's like another 100,000
+[11:22] people the estimates are 300,000 people
+[11:26] and so uh in 202 3 we had 4.2 million
+[11:31] people actually bothered to vote so it's
+[11:34] incredible in that Guatemala has about
+[11:37] one in every 21 votes is overseen by uh
+[11:42] people that were there and who also vote
+[11:46] there right so it's this um very
+[11:49] restricted secure system with hundreds
+[11:52] of thousands of eyeballs watching
+[11:54] everything that happens and it produces
+[11:57] this document called uh well the vote
+[11:59] tally sheet or the poll tape we call it
+[12:03] ACTA num and that is at the heart and
+[12:06] soul of our democracy so if every one of
+[12:09] the tables it's about 25,000 right per
+[12:13] election produces one document so there
+[12:15] are
+[12:16] 25,000 documents at every election but
+[12:20] inside each document are 400 votes um I
+[12:24] actually should probably just show you
+[12:25] an example because it's easier to
+[12:27] actually see it but the point there is
+[12:30] these documents contain the transactions
+[12:32] the votes of about 400 citizens so
+[12:34] that's why they're kind of like a coin
+[12:36] join the state makes that document
+[12:39] public um but it protects individuals
+[12:42] privacy and and their secret vote by
+[12:45] mixing the vote between other citizens
+[12:48] however having the witnesses there to
+[12:51] fight for the ballots at that moment and
+[12:53] so the only legal opportunity that
+[12:56] anyone has to fight for the votes is
+[12:59] there and once the day ends that's it
+[13:03] right like there is no more you know
+[13:05] discussion really I mean there's yeah
+[13:08] it's it gets a little bit more
+[13:09] complicated than that but it that means
+[13:11] that you use a giant proof of work
+[13:14] consensus algorithm to make sure that
+[13:16] you have the totals um does that make
+[13:18] sense absolutely I mean AUST I don't
+[13:21] know if you know it but uh we had four
+[13:24] or five years ago an a repetition of an
+[13:27] election because there was something
+[13:30] wrong there was uh there were like two
+[13:32] three things going WR but the main thing
+[13:34] was like the ballots were not sticking
+[13:37] nice and so of like they opening uh and
+[13:40] and the the clue was like for something
+[13:43] that was not standard like they did some
+[13:45] mistake with the clue of like half the
+[13:47] Ballance or something I don't know
+[13:48] exactly what happened but there was some
+[13:50] mistake happening and it was actually
+[13:53] repeated well elections are can always
+[13:56] become a show that's why you
+[13:58] understand that consensus right reaching
+[14:00] consensus having a consensus algorithm
+[14:03] at scale is very hard like getting lots
+[14:07] and lots of people to agree on something
+[14:10] is very hard which is why I say you know
+[14:13] I'm not here to convince you about
+[14:15] democracy what I'm saying is voting
+[14:17] systems present bitcoiners an
+[14:19] opportunity to reach a new audience that
+[14:22] cares very much about these you know
+[14:25] systems and if we can help them and
+[14:28] improve those systems it opens a new
+[14:31] touch point for people to bitcoin where
+[14:34] if they really you know expose you
+[14:36] exposed to it to them and they might be
+[14:39] obsessed with how the voting happens and
+[14:40] it's like oh it's so complicated and
+[14:42] you're like yes but you know here's this
+[14:44] consensus algorithm called Bitcoin that
+[14:46] achieves you know consensus every 10
+[14:49] minutes and you can audit the entire
+[14:50] thing all the way back to the first
+[14:53] block and so it's let's use voting
+[14:56] systems to reach a new audience that
+[14:59] might not come for money but rather for
+[15:02] democracy so I think that there's the
+[15:04] opportunity to reach a new generation of
+[15:06] bitcoiners that came for democracy but
+[15:10] will stay for
+[15:11] Bitcoin yeah I heard you're saying in
+[15:14] some podcast uh elections put the clown
+[15:16] world into hyper Drive something like
+[15:19] that yes for sure any mistake like the
+[15:22] one you mentioned we had a huge one in
+[15:24] 2023 that I can go into de detail about
+[15:27] aom's Razer says the most simple
+[15:29] explanation is more often the right one
+[15:32] and Elon Musk I think famously said the
+[15:35] most entertaining explanation is more
+[15:37] often the right one so like what you
+[15:39] said of like you have to repeat the
+[15:41] whole voting thing because someone
+[15:42] didn't put the glue on like or something
+[15:45] it's just like and this could throw
+[15:47] Society into chaos right like when you
+[15:49] realize so much is at stake that one
+[15:52] mistake can just destroy Society uh
+[15:57] that's why we need to bring cryptography
+[16:00] like Bitcoin to these systems to you
+[16:03] know fortify them and if people realize
+[16:06] wow our system could have collapsed but
+[16:09] Bitcoin was there to protect us then
+[16:12] people are are now can can be exposed to
+[16:15] bitcoin be like ah I want to know more
+[16:16] about this right and that's literally
+[16:18] what happened in Guatemala and um you
+[16:20] know I can I can share my screen if you
+[16:21] want to clarify a little bit more of
+[16:23] this yeah yeah let's get into it like we
+[16:25] have now like cover like what the
+[16:27] elections in general how work and and
+[16:29] how you you describe it in Guatemala how
+[16:31] this works with like the the elections
+[16:33] taable and stuff like that how does
+[16:35] Bitcoin now come into this um scene sure
+[16:39] so first of all um you're looking at
+[16:41] open timestamps um this is the
+[16:44] underlying protocol so on top of Bitcoin
+[16:47] there is uh Bitcoin is open source but
+[16:50] open timestamps is also open source so
+[16:52] find it at open Tim stamps.org and
+[16:56] there's you know there's a bunch of uh
+[16:59] all the code repositories Etc is there
+[17:00] but really the cool thing to understand
+[17:02] is this has been around since 2016
+[17:06] 2017 and it's kind of like I say it is
+[17:09] the last time in back then when we had
+[17:11] this fight between the money maximalist
+[17:14] and the database people in Bitcoin open
+[17:16] timestamps is the Compromise of some a
+[17:20] tool that you know no one is against
+[17:22] open time stamps it's almost I joke that
+[17:25] bitcoiners have um consensus that you
+[17:29] know 21 million hard cap like we we will
+[17:31] never change that and open time stamps
+[17:34] like it I I I I've yet to meet a single
+[17:36] bitcoiner that is against open timestamp
+[17:38] so I encourage you to to look at it and
+[17:41] what you're seeing now on your screen is
+[17:43] basically this Tim stamp uh system where
+[17:46] you can just drag drop any file and now
+[17:50] I can click this button
+[17:53] and where is
+[17:56] it there we go it should prompt me to
+[17:59] see that you might getting a a download
+[18:01] it's not coming up on the screen but
+[18:03] basically uh I can download the proof so
+[18:07] all that this is is the user keeps the
+[18:09] jpeg keeps the audio file whatever file
+[18:12] you want to stamp you keep it on your
+[18:14] drive then you download from open
+[18:16] timestamps the proof that goes with that
+[18:18] file and so now you have cryptographic
+[18:22] proof that that file exists on bitcoin
+[18:24] this is very easy to drag and drop and
+[18:25] use as an individual but uh just like
+[18:29] Bitcoin it's hard to have institutions
+[18:31] use this right so now what I'm showing
+[18:34] you is the Guatemalan voting system
+[18:36] website you can do this uh on your own
+[18:39] it's uh the website is
+[18:42] t. GT t. GT and you basically are
+[18:47] presented with this window you can click
+[18:49] between any of the two major voting days
+[18:51] that we had and now what you're looking
+[18:54] at is you know the different elections
+[18:56] we had I'm going to select the
+[18:57] presidential election
+[18:59] and then if I move over here it's
+[19:01] starting to say oh see the system is
+[19:03] displaying
+[19:05] 99.28%
+[19:07] great and then I can go down and see oh
+[19:10] this is the national map of Guatemala so
+[19:12] if you've never seen it here it is it's
+[19:14] right again next door to Mexico and El
+[19:16] Salvador um and then further down you
+[19:19] start to see all right these are all the
+[19:21] votes that on the national level were
+[19:24] assigned to these uh political parties
+[19:27] and there's you know a bunch of them in
+[19:29] Guatemala we have the opposite of not
+[19:32] enough choices we have way too many
+[19:35] clowns in this clown world right look at
+[19:37] all those guys right it's it just keeps
+[19:40] going but the point is you know cool
+[19:42] database right wow uh don't trust verify
+[19:46] how do I know that these numbers on the
+[19:48] screen and it's like 100 you there's one
+[19:50] number says 41,000 87,000 40,000 like
+[19:54] how do I know that these numbers aren't
+[19:57] you know just numbers on a screen that a
+[19:59] super admin user can do whatever they
+[20:01] want and so interestingly I can go to
+[20:04] this text box here and I can input any
+[20:07] number between 1 and
+[20:09] 24,500 that's the total number of tables
+[20:11] so what's your favorite number Robin
+[20:13] between 1 and
+[20:15] 24,000 uh 420
+[20:18] 420 so if I click 420 and click now I am
+[20:24] now Drilling in instead of looking at
+[20:26] the national scale I'm looking at table
+[20:28] number 420 at voting Center 33 in this
+[20:32] District uh inside the country right and
+[20:35] so again the system now is showing all
+[20:38] the clowns that are competing in the
+[20:39] clown world so we have green party gets
+[20:42] nine blue party got one yellow party got
+[20:45] 10 but again don't trust verify how do I
+[20:48] know these numbers aren't you know
+[20:49] created by some super admin uh instead
+[20:52] of like the actual votes that the
+[20:54] process that we described um so if you
+[20:58] scroll scroll down there was a blue
+[20:59] button that said there and so now I can
+[21:02] actually pull up the picture file that's
+[21:04] associated to table number 420 and so
+[21:08] this is handwritten document from that
+[21:11] table that you can see was uh you know
+[21:13] table number 420 and it's you know
+[21:16] signed by Jorge Ingrid and I think it
+[21:19] says Jessica but you know it's kind of
+[21:21] hard to see and there saying
+[21:23] 2117 citizens showed up to vote and
+[21:26] their 217 votes were split in the
+[21:29] following way and so these are all
+[21:31] handwritten numbers uh from that
+[21:34] physical paper that is the paper trail
+[21:36] right um and so all of the numbers are
+[21:39] further down and then on the right hand
+[21:41] side you see the signatures right so
+[21:43] these three people up here this is their
+[21:46] signatures they are kind of the mining
+[21:47] nodes or the coin join uh coordinators
+[21:51] and then under them you can see 1 2 3 4
+[21:55] five six seven political iCal party
+[21:59] Witnesses signed this document right and
+[22:02] so 2117 votes were overseen by 10 people
+[22:08] with competing interests so that paper
+[22:12] document is has Integrity right like
+[22:16] it's it's people wouldn't sign like
+[22:18] there's the the fact that this happened
+[22:20] means that the numbers are the numbers
+[22:22] right and
+[22:23] so the tricky bit is we are looking at
+[22:26] this on you know J J July 2024 and this
+[22:30] happened in June 2023 how do we know
+[22:33] that this JPEG file is actually a photo
+[22:37] of the document that was produced in
+[22:41] June
+[22:42] 2023 right like that is the main like if
+[22:46] I want to don't trust verify this
+[22:47] database that if if if I can't know that
+[22:51] then I like who cares if I can you know
+[22:54] verify this like if they can change the
+[22:56] photographs then it's nonsense right
+[22:59] the the the system is great on paper in
+[23:01] the analog world it's when it jumps into
+[23:04] the digital world that things can get
+[23:07] wacky right because how do you trust it
+[23:09] and so we actually produced a short
+[23:11] documentary it's 15 minutes long called
+[23:14] immutable democracy that tells this
+[23:16] story uh if you're interested in
+[23:18] learning more um you can find it on
+[23:20] YouTube uh for free it's immutable
+[23:22] democracy 15 minutes and also on film.
+[23:27] simple proof.com
+[23:28] but um to keep going with the
+[23:30] explanation um you see there's this
+[23:32] orange button here that says verify hash
+[23:36] and so everything I've shown you up
+[23:37] until now is the national election
+[23:39] authorities website that the media uses
+[23:42] to publish the results but because of
+[23:46] the chaos and Madness of 2019 when there
+[23:49] were election fraud accusations they
+[23:51] added this orange button and that is
+[23:53] what takes you to simple proof.com
+[23:56] specifically the immutable backup
+[23:59] service so what you're seeing on your
+[24:01] screen now is a
+[24:03] timestamp from simple proof saying that
+[24:06] this document was received the 26th of
+[24:09] June of 2023 at 12:16 a.m. Time Zone GMT
+[24:15] minus
+[24:17] 6
+[24:19] sorry um so this is the time zone of
+[24:22] Guatemala and it's saying the database
+[24:24] of this separate contractor that handled
+[24:27] this data is saying that this document
+[24:30] is from that moment but how do we prove
+[24:32] this information well that's where open
+[24:35] time stamps comes into play and
+[24:37] specifically we're publishing along with
+[24:39] the timestamp the Sha 256 which um do
+[24:43] you want to do a little bit explainer on
+[24:44] what a sh yeah yeah I think it's uh it's
+[24:47] good because uh I think in every
+[24:49] conversation every Bitcoin conversation
+[24:51] there's always someone in there that's
+[24:53] that's a little bit newer to the game or
+[24:56] even like people that are longterm in
+[24:57] Bitcoin maybe didn't never bothered to
+[24:59] um get get into this topic so basically
+[25:03] a sh 256 is a type of hash a hash
+[25:06] function is essentially a way to
+[25:09] summarize Digital Data into a string of
+[25:12] characters and specifically sha256 uses
+[25:16] so many alpha numeric characters that
+[25:18] this string that you are seeing on your
+[25:20] screen it's that starts with e f a 8bb
+[25:25] and you know a lot of other characters
+[25:27] is essentially a a very large number
+[25:30] it's it's a number that is so large that
+[25:32] there are more shatu 56 U than there are
+[25:36] atoms in the universe so what we are
+[25:39] saying is this sh 256 of this jpeg is
+[25:43] extremely unique like there's nothing in
+[25:45] the universe that has this
+[25:48] same fingerprint this genetic code so
+[25:52] what we described it to guatemal and the
+[25:54] media is think of this as the
+[25:57] fingerprint of
+[25:58] the jpeg file right if a if a if a if a
+[26:02] picture file if any Digital Data could
+[26:04] be thought of as like a human body the
+[26:06] shot 256 is like a fingerprint and so we
+[26:09] take the fingerprint we publish it and
+[26:11] then we are saying this fingerprint has
+[26:13] a proof on block number
+[26:17] 795,000
+[26:19] um and it's on that blockchain and it's
+[26:22] a very orange you know blockchain uh so
+[26:25] I wonder which one it is and so then
+[26:27] further down you have the date and and
+[26:29] you know the time stamp of that block
+[26:32] which is uh June 26 at 12:42 a.m. GMT
+[26:37] minus 6 so what simple proof is doing
+[26:39] here is that you are very publicly
+[26:41] saying this uh you know contractor that
+[26:44] has this database is saying I got it at
+[26:47] 1216 and then by 12:42 so what like six
+[26:52] no it's uh 26 minutes later it is the
+[26:56] proof is on the uh Bitcoin uh time chain
+[27:00] and
+[27:01] so
+[27:02] the the
+[27:04] file with this hash can be proven as of
+[27:08] that moment and there was only 26 minute
+[27:11] window uh that it hadn't been you know
+[27:14] available to the public and so some
+[27:16] people would say wow but 26 minutes for
+[27:18] a JPEG that's a long time you can change
+[27:20] it and yes you know it's not impossible
+[27:22] this doesn't completely fix all possible
+[27:25] you know election fraud attacks but 2019
+[27:30] these files that were published were
+[27:32] published 6 days after the election so
+[27:37] in this example 26 minutes yes it's you
+[27:39] know it's valuable time it's a golden
+[27:42] period where someone could attack this
+[27:44] but 26 minutes is 99% 99.9% less time
+[27:50] than six days so it's when you use this
+[27:54] you eliminate
+[27:56] 99% of the attack surface in force would
+[27:59] be attackers to to if they want to
+[28:01] attack the the voting system they have
+[28:02] to do it on Election night as the
+[28:05] documents are coming in when you do that
+[28:07] you force people to make mistakes right
+[28:10] but again you know on what you're seeing
+[28:12] on your screen further down is the
+[28:14] original source file so you can download
+[28:16] the jpeg or you can bring it up visually
+[28:19] and so see now I'm looking at know the
+[28:22] document of table number 420 uh written
+[28:25] by Luiz ingred and Jessica and I can
+[28:27] switch back and check Vis visually
+[28:30] against the other ones so these are two
+[28:32] separate contractors providing the same
+[28:34] information so there's redundancy here
+[28:37] but you know visual comparisons are
+[28:39] going to take a long time easier would
+[28:41] be to just download this JPEG and you
+[28:44] know check the Sha 256 because it's
+[28:47] Unique to this jpeg so if the Sha 256 is
+[28:50] the same you know for a fact that not a
+[28:52] single Pixel of the jpeg has been
+[28:55] changed and then the next bit is the
+[28:58] proof so again what I was showing you
+[29:00] from the open timestamps uh protocol all
+[29:03] you need is to keep a copy of the
+[29:05] original Source the JPEG and the proof
+[29:09] and so this proof is called an OTS file
+[29:12] which if I click view um and and I look
+[29:15] into the file what is showing me is the
+[29:18] mathematical cryptographic proofs that
+[29:20] show that this shat 256 is uh included
+[29:25] in a series of other hash functions um
+[29:28] and cryptographic proofs and so all of
+[29:30] this is basically the mathematics that I
+[29:33] can use to prove that this file was
+[29:36] actually included on Bitcoin now this is
+[29:40] a bit tricky to interpret because it's
+[29:42] all text based and you have to no you
+[29:44] know cryptography to do this so what we
+[29:47] built is this thing called the OTS
+[29:48] Navigator so a button that says view
+[29:50] Merkel tree takes you now to a graphic
+[29:54] representation of what we were looking
+[29:56] at and so basically on your screen what
+[29:58] you're seeing is a Merkel root so
+[30:01] imagine a a series of hashes strung
+[30:05] together and that Merkle root is tied
+[30:08] all the way down through many many
+[30:11] cryptographic functions to our actual
+[30:14] hash of the jpeg so this hash again it's
+[30:18] like the genetic code of the jpeg EF a a
+[30:23] BB right that's how it starts um let me
+[30:26] go back and see the the hash it says EFA
+[30:29] APB right so it's the same we're looking
+[30:31] at the same hash and Visually this hash
+[30:35] is tied up into a mother hash which is
+[30:39] that product of combining two hashes
+[30:43] together to form a new hash and so it's
+[30:46] you do this and it's called a Merkel
+[30:47] tree you keep going up combining it to
+[30:50] another hash and another hash and so
+[30:53] visually what you're seeing is the path
+[30:55] that you would need to to follow all all
+[30:58] the cryptographic proofs to go all the
+[31:00] way up to this Merkel route the
+[31:04] difference between a Merkel route and
+[31:06] the rest of the tree is that yes there's
+[31:09] this hash which starts with 6C
+[31:13] c6b but the Merkel root also contains a
+[31:17] transaction ID and so if you run your
+[31:20] own Bitcoin node all you need to do is
+[31:23] input that transaction ID into your node
+[31:26] and you will be able to prove that this
+[31:28] information exists on bitcoin we provide
+[31:31] an easy link to mempool dospace a block
+[31:34] explorer that I recommend everyone check
+[31:36] out and as you can see now on your
+[31:38] screen we're looking at block number 795
+[31:42] 967 uh and the time stamp is
+[31:46] 2023 uh June uh 26 at 42 in the a.m.
+[31:52] which again going back to our uh time
+[31:54] stamp from what we had here it's the
+[31:57] same time stamp it's the same block but
+[32:00] we are not looking at the Block we're
+[32:02] looking at the transaction and so
+[32:04] further down I can bring up the details
+[32:07] of the transaction and reveal what's
+[32:09] known as the op return function for
+[32:13] those that don't know when you run a
+[32:15] node on bitcoin you can use the op
+[32:18] return function to include a short
+[32:21] amount of a tiny piece of data of
+[32:23] arbitrary data and so what we've
+[32:25] included in this transaction in the
+[32:27] opper function is that hash and so
+[32:30] you're looking at
+[32:31] 600 C6 which
+[32:35] is the hash here and so that is why we
+[32:39] are essentially using Bitcoin as a
+[32:43] timestamping independent you know
+[32:45] digital notary that proves
+[32:48] mathematically and cryptographically
+[32:51] that those pictures that were taken and
+[32:53] that we looked at as the don't trust
+[32:56] verify evidence of the voting
+[32:58] results they they they were created at
+[33:02] least on Election night therefore you
+[33:06] can trust that the jpeg that you're
+[33:08] looking at hasn't been altered so you
+[33:10] have to also make uh include that in a
+[33:14] transaction so for every uh table you
+[33:17] you make for every document you make a
+[33:19] transaction or how does this work sure
+[33:21] so the immediate resistance that I get
+[33:24] from bitcoiners is 300,000 jpeg on
+[33:28] bitcoin you you you you defiler you you
+[33:31] you graffiti artist and it's like no
+[33:34] guys like that's why please go to open
+[33:36] Tim stamps.org and study open timestamps
+[33:39] like I said at the beginning I have yet
+[33:41] to find a single bitcoiner that's
+[33:42] against open Tim stamps and I know some
+[33:45] very toxic bitcoiners like I've talked
+[33:47] to the most toxic bitcoiners you can
+[33:50] find about this and they're all like
+[33:52] it's fine why because and let me show
+[33:55] you again on my screen basically it's we
+[33:58] are not doing uh a JPEG on bitcoin it's
+[34:02] only the root hash that is going on the
+[34:06] up return uh function of the of the time
+[34:10] stamp so in this case what you're
+[34:12] looking at your screen is like 1 2 3 4 5
+[34:15] 6 7 8 9 10 11 12 I mean there's like
+[34:18] hundreds of these jpegs all hashed
+[34:22] together so it's the jpeg has a hash and
+[34:25] it's strung through the open time stamps
+[34:27] protocol to many many many other hashes
+[34:31] and at the end it's just one hash so a
+[34:33] single Hash a single transaction can
+[34:36] actually contain the proof that you need
+[34:38] for the entire database famously Peter
+[34:42] Todd the Bitcoin core developer that
+[34:43] created open timestamps uh one of the
+[34:46] first things he did was hash the entire
+[34:48] internet archive into a single
+[34:50] transaction so you literally can have
+[34:53] trillions of files all into one single
+[34:57] tree
+[34:58] and then one hash at the end is what you
+[35:01] use as your anchor to bitcoin uh and so
+[35:04] that's why Bitcoin becomes this anchor
+[35:07] of Truth in a sea of lies that in the
+[35:11] case of Elections you can use to
+[35:13] differentiate fake documents that are
+[35:15] produced by sock puppets on the internet
+[35:18] from the official database that the
+[35:20] government is using to um you know
+[35:23] determine who wins I've never looked at
+[35:26] open time stamps before that's a a um an
+[35:30] disadvantage for me now but uh like when
+[35:34] you uh verify something on bitcoin at
+[35:38] some point you have to pay a transaction
+[35:40] fees like at some point you you have to
+[35:43] to kind of put it on there um is that
+[35:46] like there are like a lot of things in
+[35:48] uh on top of like in in one transactions
+[35:51] there are like thousands or hundreds of
+[35:53] things or how does this work exactly so
+[35:56] uh I'll bring it back on the screen um
+[35:58] now I'm taking you to the detail section
+[36:00] of the transaction this specific uh root
+[36:04] hash this transaction had 234 bytes
+[36:07] right so out of the the one uh megabyte
+[36:10] block uh that Bitcoin has this
+[36:13] transaction used 234 bytes so it's you
+[36:17] know one in about 4,000 transactions uh
+[36:21] of that specific block so that is the
+[36:25] block space that we're consuming you
+[36:26] know one out of 4,000 we actually did
+[36:29] four transactions per block so it was
+[36:31] like one out of 1,000 transactions could
+[36:34] contain and and really it's like just
+[36:36] one you could contain all of the
+[36:38] information of all the internet
+[36:39] everywhere and so that's what I'm saying
+[36:41] like this giant Merkel tree that could
+[36:43] can contain trillions of files is a time
+[36:46] stamp to bitcoin using 250 bytes simple
+[36:50] proof did this for the Guatemalan
+[36:52] election to make sure that the documents
+[36:53] aren't altered but now our vision as a
+[36:56] company is we want to live in a world
+[36:59] where every single data piece of data
+[37:02] Digital Data that a a government
+[37:04] publishes either for public records or
+[37:07] if you pay some you know a speeding
+[37:10] ticket or uh you know when they issue
+[37:12] your license you know whatever whenever
+[37:15] a citizen interfaces with the state and
+[37:18] you get some kind of receipt some
+[37:20] document you should have a time stamp to
+[37:24] prove that that document can never be
+[37:26] manipulated um this is you know famously
+[37:29] known as uh Orwell's dictum and Juliana
+[37:31] Sange recently kind of put the idea out
+[37:33] there again of saying Bitcoin can break
+[37:35] Orwell's dictum because what or Orwell
+[37:38] said was he who controls the present
+[37:41] controls the past and he who controls
+[37:43] the past controls the future it's
+[37:45] another way of saying history is written
+[37:48] by the winners because the winners can
+[37:51] rewrite history and erase all the
+[37:54] inconvenient things about history simple
+[37:57] proof our goal our mission and vision is
+[38:00] we want to live in a world where the
+[38:03] government issues the public records and
+[38:04] I can't imagine a world where government
+[38:07] doesn't issue public records but at
+[38:09] least they can't change their mind they
+[38:12] can't erase the record and change it to
+[38:16] suit their changing narrative whims
+[38:19] prerogatives you know a new person comes
+[38:21] in and suddenly they want to erase
+[38:23] everything that happened that can end
+[38:26] and we want to work on that and we did
+[38:29] it for the national election of
+[38:32] Guatemala in 2023 if you watch or listen
+[38:36] to my podcast on a regular basis I'll
+[38:38] guess you already bought some Bitcoin
+[38:40] and now the most important step is to
+[38:43] keep the Bitcoin keep them secure in a
+[38:46] hardware wallet my personal
+[38:48] recommendation for Hardware wallet is
+[38:49] the bitbox it's super secure it's simple
+[38:52] to set up it's also perfect gift for a
+[38:54] friend who has still their Bitcoin on on
+[38:57] an exchange and you can get a 5%
+[39:00] discount with the code Robin at the
+[39:02] checkout visit bitbox Doss SL robobin to
+[39:07] get your bitbox and if you really want
+[39:09] to bulletproof your self- custody setup
+[39:12] your security setup and maybe even your
+[39:14] citizenship set up you have to talk to
+[39:17] the Bitcoin way if you go to the Bitcoin
+[39:20] way.com SLP Partners robobin you get a
+[39:24] 30 minute free call where you can dive
+[39:28] deep with them if your self custody
+[39:31] setup is secure if your citizenship is
+[39:34] secure or maybe might be improvable or
+[39:37] your digital footprint in general is
+[39:39] secure they are the experts in cyber
+[39:42] security in Bitcoin self custody and how
+[39:45] to be a secure sovereign individual in
+[39:49] general and for those of you who are in
+[39:51] search of a new Bitcoin exchange where
+[39:53] they can buy their Bitcoin from I
+[39:55] recommend my personal Bitcoin change 21
+[39:58] Bitcoin with code Robin you get a hefty
+[40:01] discount for all your purchases in the
+[40:04] future do you see um very far into the
+[40:08] future and I have like two three
+[40:10] episodes on that where we talk about
+[40:12] like uix or management where we talked
+[40:14] about potential future transaction sizes
+[40:17] on on on on bitcoin uh and I think we're
+[40:21] going to get to a future where
+[40:23] transactions on the base layer will be
+[40:24] just really expensive uh so like I I I
+[40:28] really don't care what what what people
+[40:30] do on the blockchain uh because if it's
+[40:33] if if you can afford the transaction fee
+[40:36] it it's fine like that's free market uh
+[40:38] then there's a use case for that uh but
+[40:41] do you think at some point when like
+[40:43] really the whole world kind of uses that
+[40:45] the the whole uh um the whole Bitcoin
+[40:48] and transactions fees like at Thousand
+[40:50] EUR or like even beyond that um first of
+[40:54] like do you see the transaction fees
+[40:56] rising to the levels and do you see
+[40:58] possibility where like those things
+[41:00] might not have space or like something
+[41:02] like that so um yeah I'm I'm showing
+[41:05] again on the screen the actual fee that
+[41:07] was paid in that transaction it was
+[41:09] 5,911 SATs which was a 38 sat per VB so
+[41:14] we technically overpaid uh two twice as
+[41:17] much as the normal transaction um
+[41:20] obviously right now transaction fees are
+[41:22] still pretty low even though 38 sat per
+[41:24] V is is not necessarily low um I you
+[41:28] know have I don't know what's going to
+[41:31] happen with transaction fees um and I
+[41:33] can't predict but the point here is if
+[41:36] we do this it's a matter of maybe we
+[41:39] have a few transactions per block that
+[41:41] are paying you know very very high fees
+[41:44] but if we are handling the entire you
+[41:46] know voting records of all of the world
+[41:49] democracies and all of the tax records
+[41:51] and all of the uh you know public emails
+[41:54] of important uh you know publicly
+[41:57] elected officials I mean all if the
+[41:59] entire world's information is being
+[42:03] hashed into these transactions I believe
+[42:06] that they will you know we will always
+[42:08] afford to pay you know one out of every
+[42:11] 1,000 transactions to include all the
+[42:14] world's data so you're saying
+[42:17] 99,999 of the transactions could be
+[42:20] Financial or some other you know normal
+[42:22] Bitcoin and then one out of every
+[42:24] thousand transactions is the time stamp
+[42:26] to all the world's data how much is the
+[42:29] world willing to pay for that and to
+[42:31] eliminate the ability of the state to
+[42:34] erase history and and you know full
+[42:38] Humanity um I think that's worth paying
+[42:41] that's a valid point like it's really
+[42:43] really cool maybe I don't know like how
+[42:45] how how opinionated you are on this
+[42:48] topic but when when you are going with
+[42:51] with
+[42:52] Bitcoin most people agree that Bitcoin
+[42:55] is the best of value inside of Bitcoin
+[42:57] like we have this 21 million that people
+[42:59] agree on like this open time stamp that
+[43:01] you said most people agree on and most
+[43:04] people kind of agree like oh oh Bitcoin
+[43:06] is an fantastic store value do you also
+[43:08] think that Bitcoin will be a currency
+[43:10] will be um maybe more than that some
+[43:13] people say like we will build everything
+[43:16] that's now on altcoins on top of layer
+[43:18] twos and layer threes on top of Bitcoin
+[43:20] where do you see the future of Bitcoin
+[43:21] in
+[43:22] general I am super bullish my my life's
+[43:25] mission is to get Central America to
+[43:29] adopt Bitcoin before the rest of the
+[43:32] world I see it as a race right
+[43:34] everything that I can do to push my
+[43:37] region and specifically my country to
+[43:41] win that race I want to do so because
+[43:45] everything that I do like what I just
+[43:47] showed you is helping me right like now
+[43:49] the president of Guatemala his staff um
+[43:52] you know Congress people in Congress
+[43:54] judges they know they know about this
+[43:57] because it was a huge drama in Guatemala
+[43:59] where they tried to repeat the elections
+[44:01] and you know they they were able to
+[44:03] secure the elections and so all of these
+[44:06] important people in the country know now
+[44:08] that this use case existed and that
+[44:10] Bitcoin helped to protect their um you
+[44:13] know Victory and so it just makes my job
+[44:16] as a bitcoiner in Guatemala easier to
+[44:19] get people particularly people in power
+[44:21] to understand that Bitcoin is a tool
+[44:23] right and this stupid idea of oh uh
+[44:27] criminals use Bitcoin it's like well
+[44:28] criminals use cell phones uh criminals
+[44:30] use automobiles use the internet does
+[44:33] that mean that you're going to cancel
+[44:35] yourself out of the internet Automobiles
+[44:37] and cell phones it's like good luck
+[44:39] right criminals wear clothing so are you
+[44:42] going to start walking around naked
+[44:44] right so it's like it it just makes it
+[44:46] easier for me to orange pill my entire
+[44:49] country but then obviously now that
+[44:51] Guatemala has done this with its voting
+[44:53] system I hope that people listening to
+[44:55] this will you know visit proof.com and
+[44:58] contact us because we are ready to take
+[45:00] this everywhere in the world and your
+[45:02] democracy could be the next one that
+[45:05] uses this to protect themselves from
+[45:07] attackers and now in terms of the you
+[45:10] know uh blockchain because on the money
+[45:13] side I'm you know completely convinced
+[45:14] that Bitcoin is the only thing the Apex
+[45:17] pred Predator that will destroy and eat
+[45:19] everything else um but on the truth
+[45:22] argument right because it's separate
+[45:23] it's and I don't know if you know but
+[45:25] famously some uh emails uh private
+[45:27] emails from Satoshi came out uh during
+[45:29] the Craig Wright case where Satoshi
+[45:32] literally said like the only other use
+[45:33] case that I can imagine for Bitcoin is
+[45:36] timestamping so like this this goes back
+[45:40] a while of like this is the like time
+[45:42] stamping information has been known for
+[45:44] a long time by bitcoiners as a useful
+[45:46] tool like I said Juliana Sange spoke
+[45:49] about this as the other the other thing
+[45:50] that really you know excites him because
+[45:53] we could make sure that everything that
+[45:54] Wikileaks ever publishes is impossible
+[45:58] to erase right that's pretty valuable
+[46:00] and so um but that's a truth argument
+[46:03] like I like I mentioned before it's it's
+[46:05] not a money argument but in that
+[46:08] argument we actually have an even
+[46:10] stronger case than any of the uh crypto
+[46:14] um uh blockchain people because why
+[46:18] would you use any other blockchain if
+[46:22] what you are hoping to do is secure
+[46:25] information Bitcoin is the most secure
+[46:28] by far and then because we're using open
+[46:32] time stamps what we're doing is we could
+[46:34] hash trillions of data into one single
+[46:36] transaction so this isn't expensive this
+[46:40] is actually cheap so if you're going to
+[46:42] issue nfts on you know polygon or you
+[46:46] know cardano like you're going to pay
+[46:48] gas fees on that other chain and at the
+[46:50] end of the day those chains are proof of
+[46:52] stake chains that are run by companies
+[46:54] and so you might as well just keep keep
+[46:57] it on you know the data server uh that
+[46:59] you were already running there's no
+[47:01] difference between what we are currently
+[47:03] doing than running it on another
+[47:05] blockchain that's not Bitcoin the
+[47:06] difference is when we have done this in
+[47:09] Guatemala with Bitcoin is the government
+[47:12] of Guatemala any attacking government
+[47:14] hackers or individuals no one can change
+[47:17] this data it just that is that's it
+[47:20] right so we believe that it's important
+[47:22] that as bitcoiners we bring this
+[47:24] technology into public registry right
+[47:27] government because it allows us to make
+[47:29] the case that Bitcoin is the only tool
+[47:31] to use for this all the other
+[47:33] blockchains don't make sense and we need
+[47:36] to do this fast right be because they
+[47:39] are trying to get their technology used
+[47:41] and trying to make it standard it should
+[47:43] be standard operating procedure that all
+[47:45] digital files everywhere on all the
+[47:47] clouds of all the governments are
+[47:49] timestamped to bitcoin because it's the
+[47:51] only way the only way provable to
+[47:55] demonstrate that no one can change
+[47:57] history and so uh that's that's what I
+[48:00] think that's a beautiful thing about the
+[48:02] time chain I feel like um as you said it
+[48:05] so nicely when we have the money and all
+[48:07] the things that most people listening to
+[48:11] that will probably understand um but the
+[48:14] other aspect is like having an event
+[48:17] that actually happened uh I mean it's it
+[48:21] goes that easy to like just like I have
+[48:24] a telegram chat and and and we wrote
+[48:27] there and and we had some event and then
+[48:29] people just like oh block height and
+[48:31] then eight and stuff like that so like
+[48:33] even that kind of uh is a form of time
+[48:37] chain I mean telegram itself could be
+[48:39] manipulated the D could be Rewritten but
+[48:42] uh even that in itself is is kind of use
+[48:45] of the time chain um do you also think
+[48:47] that it it might be possible that the
+[48:50] whole time system will will run at
+[48:54] Bitcoin especially when the the
+[48:55] confirmation of talks are not that
+[48:58] predictable with sometimes 5 minutes
+[48:59] sometimes 20 minutes and stuff like that
+[49:01] I I'm I'm a fanatic right I uh um I
+[49:05] believe that you know in a thousand
+[49:07] years uh Bitcoin will be seen as that
+[49:10] like before and after moment kind of
+[49:12] like nowadays we we see Jesus as like
+[49:17] the main like time stamp for when uh you
+[49:20] know we start counting years right it's
+[49:23] like it's 2024 why because Jesus was
+[49:26] born 20 2024 years ago it's like um and
+[49:30] obviously like we know that he wasn't
+[49:32] literally born that year but whatever
+[49:34] it's like um but you know thousands of
+[49:37] years later you it's such an important
+[49:39] event that changes Humanity so much that
+[49:41] people use it as reference so I do think
+[49:43] that over time that's going to happen
+[49:46] but in the interim right in the long run
+[49:48] Bitcoin wins of course like Bitcoin
+[49:51] already won what we are uh discussing is
+[49:54] how right how is that story going to be
+[49:57] written and I think that part of that
+[50:00] story is getting Bitcoin to become the
+[50:03] timestamp know standard for all data
+[50:06] everywhere and it's almost like um you
+[50:09] know when the automobile was invented at
+[50:12] first they had instead of having a
+[50:14] steering wheel you had these like levers
+[50:16] right you pull like a bunch of things to
+[50:18] make the car turn because it was coming
+[50:20] from the horse and you know the horse
+[50:21] you would pull like on him and whatnot
+[50:24] and eventually people figured out a
+[50:25] steering wheel is much more intuitive
+[50:28] for the automobile and so now like if
+[50:31] you could see a a car that has these
+[50:34] livers you would say how stupid could
+[50:37] people have been right like that's what
+[50:39] I hope will happen for digital
+[50:41] information especially government public
+[50:44] records in 10 years people should look
+[50:46] back and say what were people thinking
+[50:49] publishing public records without a time
+[50:51] stamp to bitcoin like there's no like
+[50:54] how can I trust anything that the
+[50:55] government says if it doesn't have a
+[50:58] time stamp to bitcoin like that's how we
+[51:01] like how logical this is and why we are
+[51:03] inviting people to reach out to us to to
+[51:05] help us get this out there in more use
+[51:07] cases so that we have more uses of this
+[51:10] out there than any other shitcoin um
+[51:13] because then it's easy to create that
+[51:16] story and bring us to the point where
+[51:19] Bitcoin is that standard right and we
+[51:21] can look back and say that you know
+[51:24] period of time between 2009 and
+[51:28] 2025 when governments issued digital
+[51:30] information and Bitcoin existed and they
+[51:32] weren't timestamping it's like thinking
+[51:34] of the automobile with levers it's like
+[51:36] how could people do that it just seems
+[51:40] silly it's it's fascinating for me
+[51:42] especially when when we think about
+[51:44] people outside of of Bitcoin like most
+[51:46] people inside of Bitcoin kind of grasp
+[51:49] more and more where Bitcoin is going and
+[51:51] and how significant Bitcoin actually is
+[51:53] for us um but for people outside of uh
+[51:56] Bitcoin I sometimes have a hard time
+[51:58] explaining them how significant this is
+[52:01] they they still think it's oh it's it's
+[52:03] some asset it's like oh yeah I I also
+[52:06] have some silver in my portfolio so
+[52:07] something like that um C can you make
+[52:11] the case or make make the uh or can you
+[52:14] give us an an picture in our heads or
+[52:17] painting us a picture in our head how
+[52:19] significant it is to own like one
+[52:21] Bitcoin in like 20 50 years how how
+[52:24] significant that will be I mean aot a
+[52:26] lot of people just use an US dollar
+[52:27] price target for that but I'm not the
+[52:30] the best fan of that like do do you do
+[52:32] you have some significance for like
+[52:34] owning one whole Bitcoin or something
+[52:36] like that of course I mean the answer is
+[52:38] no no one has enough right like that's
+[52:40] that's that's the truth no no one has
+[52:42] enough Bitcoin um and uh that but yeah I
+[52:47] mean what you were saying to to how to
+[52:48] drive home the fact that people that oh
+[52:50] yeah I have silver right I have gold
+[52:53] like I own real estate as a hedge
+[52:55] against inflation it's like well um
+[52:57] that's why you doing something like this
+[52:59] and getting to the point where oh your
+[53:01] your election system it was protected by
+[53:03] Bitcoin right like um I can talk to the
+[53:07] president about that now and so it's
+[53:09] just a lot easier to explain to the
+[53:11] president you know that's how powerful
+[53:13] this is and and yet Guatemala has zero
+[53:16] Bitcoin on the balance sheet and El
+[53:17] Salvador has
+[53:20] 5,700 some number right like every day
+[53:22] they're buying one full Bitcoin and
+[53:24] Guatemala has a zero
+[53:26] like you how is it that our democracy
+[53:29] depends on bitcoin as its like final you
+[53:33] know shield to protect itself and yet
+[53:36] our balance sheet our money doesn't like
+[53:40] this is it's creating more use cases and
+[53:44] more narratives where enough of them
+[53:46] will short circuit all of the the the
+[53:49] fear and certainty and doubt that has
+[53:51] happened over the last 15 years that a
+[53:54] lot of people are you know uh
+[53:56] you know unfortunately just kind of
+[53:58] under the weight of but you this this
+[54:01] truth argument this democracy this
+[54:02] public registry information can Pierce
+[54:05] through that right and eventually once
+[54:07] once a person starts to say well uh you
+[54:11] know I I can prove that our our election
+[54:13] was Secure because I can show you on
+[54:15] bitcoin and did you know Bitcoin has
+[54:17] 50,000 you know nodes throughout the
+[54:19] world and and and and and then you're
+[54:21] like well and so is it on your balance
+[54:22] sheet they're like oh no no no I I only
+[54:25] care about Bitcoin protect my you know
+[54:28] information Integrity not my money then
+[54:30] you're like what are you talking about
+[54:32] obvious or at least should make it
+[54:35] easier for us and so it's the the
+[54:37] argument for doing this is like it's do
+[54:39] it for Bitcoin so that we have more uh
+[54:42] uh you know weapons to fight the the the
+[54:45] the fud battle right of just do it for
+[54:47] the Arsenal of examples that we can show
+[54:49] people and so yeah be the fact that I I
+[54:52] I know for sure understanding open time
+[54:54] stamps and Bitcoin Bitcoin can protect
+[54:57] all of digital information in the entire
+[54:59] world from Ever Changing and eliminating
+[55:02] the possibility of humanity living in
+[55:05] 1984 type scenario where the state and
+[55:08] the government controls us and and knows
+[55:10] everything um eliminating that just as a
+[55:14] byproduct of Bitcoin like that that
+[55:16] gives you a sense of how important
+[55:18] Bitcoin will be for Humanity 50 100 a
+[55:21] thousand years from now and so if you
+[55:24] have even one been going to pass on to
+[55:28] your children and
+[55:29] grandchildren they they will remember
+[55:32] you forever right that's that's very
+[55:34] cool um I feel like um when we are in
+[55:37] 2024 and we talk about elections we we
+[55:39] we kind of have to talk about the
+[55:41] American elections that's coming up as
+[55:43] also like 50% of my audience actually
+[55:46] comes from America um and then also
+[55:49] Trump uh and uh ER Robert um Kennedy
+[55:55] junor uh and how start Vivic rasav I
+[55:59] think all those three will be actually
+[56:01] at the Nashville conference in uh now
+[56:04] it's like two weeks when this is out
+[56:06] we'll be like right around the the
+[56:08] Nashville conference um what's your
+[56:10] thoughts right now on the American
+[56:12] elections and and how significant is
+[56:14] that that the Trump and other candidates
+[56:17] are actually at Nashville conference
+[56:20] well um I'll be at Nashville simple
+[56:22] proof we'll have a a little kiosk so if
+[56:24] you are going to Nashville please uh
+[56:26] look for us we will be there and um I'm
+[56:30] also speaking uh at Nashville I'm doing
+[56:33] a fireside chat with Peter Todd the the
+[56:35] protocol developer of of open time
+[56:37] stamps and we are speaking at uh 1:30 pm
+[56:40] on Saturday uh up until 2m and then
+[56:43] Trump is speaking at 2 pm and so uh
+[56:46] different stages but so I'm a little
+[56:48] nervous that I will be speaking about
+[56:50] and the title of the talk is
+[56:52] timestamping elections to avoid a
+[56:55] show so to to all the uh you know United
+[56:58] States and bitcoiners listening to this
+[57:00] uh yeah it's going to be a show I
+[57:03] think you can guarantee that uh in
+[57:06] November but Bitcoin actually helps us
+[57:10] avoid that um and actually if you want I
+[57:13] can share my screen and it's the fact
+[57:15] that this was used like you could ask so
+[57:18] what what was what's the the point of
+[57:20] using uh Bitcoin to protect your voting
+[57:22] system and so what I'm showing on your
+[57:24] screen is the uh election crimes unit
+[57:27] argument of the Guatemalan justice
+[57:30] system saying why the election was
+[57:33] stolen and it's
+[57:35] basically um on the x- axis is voting
+[57:39] day right um and so it's zero hours on
+[57:43] on Election Day in 2023 and it goes for
+[57:45] about two days so 48 hours and then on
+[57:48] the y- axis it's uh the number of
+[57:50] documents generated by the system and so
+[57:53] the election Crim unit in Guatemala is
+[57:55] taking the elction authorities to court
+[57:58] accusing them of election fraud by
+[58:00] arguing that the Smoking Gun evidence is
+[58:03] that
+[58:04] jpegs published by the authorities have
+[58:07] in the
+[58:08] metadata um timestamps that are prior to
+[58:12] the poll's closing so how is it that a a
+[58:16] JPEG file can exist prior to the poll's
+[58:19] closing that for them has been this is
+[58:21] proof and evidence that there was
+[58:23] election manipulation and therefore a
+[58:25] crime
+[58:27] however when you overlay the information
+[58:30] on bitcoin instead of seeing information
+[58:33] from uh coming from different uh times
+[58:37] suddenly there is a normal distribution
+[58:40] that happens after 6PM but more
+[58:43] importantly this biggest chunk over here
+[58:48] well I mean that's 50% of the files have
+[58:52] a time stamp that is in the future
+[58:56] compared to the time stamp to bitcoin
+[58:58] and so why do you use this technology to
+[59:02] avoid a show because thanks to the
+[59:04] election authorities using Bitcoin we
+[59:06] can prove
+[59:07] mathematically that there was no
+[59:10] election fraud
+[59:12] otherwise there would need to be proof
+[59:14] that time travelers hacked the
+[59:17] Guatemalan election because there is no
+[59:19] way that a JPEG can exist in the future
+[59:22] when it existed in the past on bitcoin
+[59:25] the more plausible explanation is that
+[59:28] someone made a mistake and this is what
+[59:30] you know tying it to what you were
+[59:31] talking about in Austria where the glue
+[59:33] like wasn't done well in Guatemala in
+[59:36] 2023 the contractor that was generating
+[59:39] the files misconfigured the time zones
+[59:42] in 3% of the computers and so they
+[59:46] thought they were in the Pacific Islands
+[59:49] uh you know 11 hours ahead of Guatemala
+[59:52] and then 53% of the hardware thought it
+[59:56] was in Baghdad Iraq but when you con
+[59:59] when you correct for the time zone error
+[60:02] it all sandwiches into Guatemalan time
+[60:05] zone and so it provides cryptographic
+[60:08] proof that it was a mistake and so
+[60:12] instead of falling into the show of
+[60:14] people saying election fraud this or
+[60:16] that Bitcoin provides that anchor of
+[60:19] Truth where you can look at and say o we
+[60:22] can prove that this is what happened and
+[60:23] this you know it's not about my guy last
+[60:26] year guy won it's this is what literally
+[60:28] happened and so you know why am I saying
+[60:31] this it's we are literally taking this
+[60:33] argument to Nashville and and I'm
+[60:34] calling upon bitcoiners everywhere to
+[60:36] reach out to us because the way that the
+[60:39] United States election system works is
+[60:41] that there are 50 states each one has
+[60:44] their own election law inside each state
+[60:48] the authorities responsible for carrying
+[60:50] out the voting are County clerks so
+[60:53] small local government and those the
+[60:56] guys that could use this technology to
+[60:59] keep them from going to jail and so it's
+[61:02] very cheap insurance for your local
+[61:05] Authority that means that there's about
+[61:07] 3,000 counties in the United States so
+[61:11] there's about 3,000 people in the USA
+[61:14] that could choose to use Bitcoin to
+[61:16] protect the voting system and my message
+[61:18] to bitcoiners is what are the odds that
+[61:21] that election Authority is your neighbor
+[61:24] your cousin your dad ad or yourself
+[61:28] right at this point bitcoiners are
+[61:30] everywhere there's a chance that that
+[61:32] one of those 3,000 is already a
+[61:34] bitcoiner or is a very close friend to a
+[61:36] bitcoiner and so please reach out to us
+[61:38] because in November that person could
+[61:41] use Bitcoin to protect themselves
+[61:44] against a stupid mistake like time zone
+[61:47] misconfiguration or glue you know
+[61:50] problems and just use Bitcoin so that if
+[61:54] the hits the fan and we know it's
+[61:57] going to be a show you have Bitcoin
+[62:00] and Bitcoin becomes an anchor of Truth
+[62:02] in a sea of Lies the benefit to that
+[62:06] person is they can keep themselves from
+[62:08] going to jail if they are unlucky to be
+[62:11] accused of election fraud and the
+[62:12] benefit to bitcoiners is by December we
+[62:15] can credibly say that Bitcoin protects
+[62:19] democracy and if Bitcoin protects
+[62:21] democracy in the United States of
+[62:23] America then if you're against Bitcoin
+[62:25] you must be against
+[62:27] democracy I love it a lot um we had last
+[62:32] year no last time uh Trump was not
+[62:36] elected Biden was elected heavy
+[62:38] allegations from Trump's side from uh
+[62:41] the Republicans that there was election
+[62:43] fraud I mean we had the whole whole
+[62:45] traum around that um might be Trump a
+[62:49] big fan of of of exactly your project we
+[62:53] shall see in Nashville we are taking
+[62:55] this argument to the Genesis stage um
+[62:58] and we'll have a kiosk there and we're
+[63:00] talking to everyone there there's
+[63:01] already about eight bitcoiners or in
+[63:04] eight different states that have reached
+[63:06] out to us so please we are you know
+[63:08] simple proof.com we're on Noster as
+[63:11] simple prooof I'm on Twitter as Carlos
+[63:13] Toro um you'll maybe include that link
+[63:16] because it'll be hard to to find um and
+[63:19] just reach out to us because uh we also
+[63:21] offer a 5% referral fee so if you
+[63:24] introduce us to a local government that
+[63:26] uses this and we sign a contract we'll
+[63:29] give you 5% of that contract that being
+[63:31] said it's it's you know do it really
+[63:33] more to because if you're the one that
+[63:35] gets us introduced to to to to the you
+[63:38] know your local government that we do
+[63:40] this then you become the legendary
+[63:43] bitcoiner who got Bitcoin inside the
+[63:46] United States voting system and will'll
+[63:49] timestamp that and and it will live
+[63:51] forever right you can be that legendary
+[63:54] bitcoiner that created this AR this
+[63:57] Narrative of Bitcoin protects democracy
+[64:00] so that next time that uh some
+[64:03] politician is arguing that the Bitcoin
+[64:05] miners are using too much energy and we
+[64:08] should shut them down because it's these
+[64:10] mathematical formulas that just waste
+[64:12] energy we can you know bring in your
+[64:15] local Authority and ask you know did
+[64:18] Bitcoin help you like is bitcoin useful
+[64:21] to protect voting and if you if now you
+[64:24] are going against the system arguing
+[64:26] Bitcoin protects democracy we can't shut
+[64:29] down the miners because the miners are
+[64:31] protecting democracy then we've flipped
+[64:35] you know most of the attacks against us
+[64:37] on their head and that should protect
+[64:40] the network from these political attacks
+[64:42] from these alleged you know democracy
+[64:45] lovers um and you know expose them for
+[64:48] the frauds that they are and demonstrate
+[64:51] bitcoin's utility like I said in truth
+[64:55] and in the only you know credible
+[64:58] database in the entire world I mean
+[65:00] that's um a massive incentive for people
+[65:04] to do that I'm I really love that uh
+[65:07] that you on the mission and that uh that
+[65:10] you did that in Guatemala and I can only
+[65:12] Wonder um how long it take but it's
+[65:15] probably faster than we think with with
+[65:17] Bitcoin and with the network effect and
+[65:19] people getting it and like who could
+[65:22] imagine just like two years ago that the
+[65:25] current president of like the the
+[65:27] probably next president or like the
+[65:30] former president uh Trump is talking so
+[65:33] openly about Bitcoin that he goes to
+[65:34] bitcoin conferences uh and it's not that
+[65:37] yeah is a Bitcoin I don't think so but
+[65:39] he uh definitely knows that he needs to
+[65:43] talk about Bitcoin we we haven't Like
+[65:46] For Better or Worse Bitcoin has become a
+[65:48] political issue in this campaign it's
+[65:50] not the most important issue but it is
+[65:51] an issue and so let's not waste the
+[65:54] opportunity to say to negotiate with
+[65:57] these political forces and say oh you
+[65:59] you you want our vote well then let's
+[66:01] get Bitcoin to protect the information
+[66:05] and I'll I'll emphasize simple proof.com
+[66:08] our solution is an information Integrity
+[66:11] solution this doesn't mean that we want
+[66:13] to you know touch your ballots this
+[66:17] doesn't mean we want like to no no none
+[66:19] of that this is literally just a backup
+[66:22] of your data like your local author
+[66:26] during the elections they will produce
+[66:28] some data how in whatever process they
+[66:31] have we adapt to it and this just runs
+[66:34] as a parallel you know independent
+[66:37] notary you know a digital notary of what
+[66:41] happened and so it's in terms of
+[66:43] implementation if you're wondering in
+[66:45] Guatemala the election authorities
+[66:47] signed the contract four days prior to
+[66:50] the election and we were still able to
+[66:53] implement the technology because it's
+[66:56] simple yeah simple proof right it's
+[66:59] reduced all the complexity and make it
+[67:01] so that you know a few buttons are
+[67:03] clicked and boom the magic just happens
+[67:06] and it works you know opentime
+[67:08] stamps.org uh if you go you can see how
+[67:11] easy it is for an individual it's much
+[67:12] harder for in institutions especially
+[67:15] like governments that you know so we we
+[67:17] just make all of that very simple uh but
+[67:19] of course if you're listening to this
+[67:21] reach out to your election Authority ask
+[67:23] them do you have a plan come November if
+[67:27] you know Russian hackers attack you with
+[67:30] artificial intelligence if your
+[67:32] contractor makes a mistake and deletes
+[67:35] all the data uh or has the wrong time
+[67:38] zones or there's a power outage just
+[67:40] like it's purely just a redundancy you
+[67:43] know insurance plan that you can point
+[67:47] to what happened in Guatemala and tell
+[67:49] them these guys have a cheap solution
+[67:51] because it's not expensive and it's
+[67:54] already help helping election
+[67:56] authorities in Guatemala avoid going to
+[67:59] jail so you should at least take a look
+[68:01] at this right because who wants to go to
+[68:03] jail right and so um yeah we're just
+[68:07] putting up the bat signal and and and
+[68:09] you know there are already eight people
+[68:10] working on this that want to become that
+[68:13] legendary bitcoiner so uh you know reach
+[68:16] out soon because the race is
+[68:19] on I love it a lot um before we come to
+[68:23] our end routin I have one question that
+[68:25] always ask my ask ask my my guests to
+[68:28] get something outside of Bitcoin into
+[68:30] the podcast um what can we learn from
+[68:33] you besides Bitcoin like I said uh
+[68:37] democracy I'm not going to ask you to
+[68:39] believe in it I'm going to call you I
+[68:42] call on you to see it and particularly
+[68:44] the voting system you know who cares
+[68:47] about who's competing at it's just the
+[68:48] voting system is a consensus algorithm
+[68:52] that a lot of people care about and it
+[68:55] provides a proxy a a different touch
+[68:58] point to reach people with a message
+[69:01] that eventually leads to bitcoin right
+[69:05] these voting systems consume our
+[69:07] attention consume our energy sometimes
+[69:10] create conditions for war and there's
+[69:14] this other consensus algorithm that
+[69:16] reaches perfect cons well not perfect
+[69:18] but is the best consensus possible and
+[69:22] it's every 10 minutes so I encourage you
+[69:26] to consider democracy as a means of
+[69:29] reaching people with a different message
+[69:31] you're probably at this point sick of
+[69:33] working for the Bitcoin marketing team
+[69:35] sick of talking to your family members
+[69:37] they all think you're crazy but if you
+[69:39] talk to them about this then and and
+[69:41] there's a 15-minute documentary that you
+[69:43] could send them immutable democracy to
+[69:46] say this happened in Guatemala
+[69:48] Guatemala's democracy was defended and
+[69:51] in in no small part we may still be a
+[69:53] democracy just because of Bitcoin so
+[69:55] it's not about hey you know forget about
+[69:58] gold and real estate like that's a much
+[69:59] harder argument so I I invite you to to
+[70:02] do that because um you know monarchies
+[70:06] autocracies they they are becoming you
+[70:08] know more popular and you know go for it
+[70:10] if you want to go you know live in in
+[70:12] Dubai or some other you know autocratic
+[70:15] State go for it but realize that
+[70:18] democracies may be a you know Factory of
+[70:21] bitcoiners every voting system we can
+[70:24] use this to just drive home the fact
+[70:26] that Bitcoin is useful that's not
+[70:28] something that autocracies have and so I
+[70:31] believe that democracies have a unique
+[70:33] advantage to adopt Bitcoin faster than
+[70:37] autocracies simply because of the proof
+[70:39] of work consensus algorithm that voting
+[70:41] systems represent and the fact that it
+[70:44] lowers people's uh um barriers to being
+[70:48] curious and and and studying Bitcoin
+[70:50] really cool um let's come to the end
+[70:52] rtin where the previous guest is asking
+[70:54] a question for the next guest without
+[70:56] knowing who the next guest is um this
+[70:58] question is even even hard to ask
+[71:01] because it's so long and it has so much
+[71:03] things in there I might like I might
+[71:06] have to repeat it I I had to let it
+[71:09] repeat to to myself first time I heard
+[71:11] it um what is the one thing that you can
+[71:14] do and enjoy that you doing H that you
+[71:19] don't get paid that helps others and why
+[71:21] aren't you doing more of it why am I not
+[71:23] doing more of it I well some some people
+[71:26] would say I'm doing too much of it um I
+[71:28] am auditing my uh election uh so I
+[71:32] believe that running uh nodes is
+[71:35] important We should strive to try to get
+[71:37] as many people to run nodes and I am the
+[71:40] first person in the history of Guatemala
+[71:44] to run a full node on the voting system
+[71:48] so I verified the entire voting system
+[71:51] and I check the entire thing against
+[71:53] what they are publishing to find the
+[71:55] discrepancies and and and and the
+[71:57] matches to start
+[72:00] identifying whether or not our democracy
+[72:03] is legitimate um and I'm going I am
+[72:06] doing more of it I I I Tred to do it in
+[72:08] El Salvador and in Panama Republic
+[72:11] Dominicana Mexico and I'm actually also
+[72:13] open to doing it in the States this is
+[72:14] separate to simple proof uh if you're
+[72:16] curious It's digital
+[72:19] witness. um and I do want to do more of
+[72:21] it it's just hard to get into other
+[72:23] people's democracies and and their
+[72:24] voting systems it's a you need to be
+[72:26] invited uh but yes I'm I'm an election
+[72:29] auditor and I believe that auditing
+[72:31] elections is effectively running a full
+[72:33] node on Democracy um and I think that if
+[72:37] more that's why democracies present this
+[72:39] opportunity to farm not just people
+[72:42] exposed to bitcoin as a new touch point
+[72:44] but to farm node Runners uh and I think
+[72:47] we need more node Runners and
+[72:49] democracies can create that so it's
+[72:53] basically I came for democracy but I
+[72:56] stayed for big um Carlos thank you for
+[72:59] for being on thank you for explaining
+[73:00] what what you're doing uh thank you for
+[73:02] joining us today for Al also for
+[73:04] everyone watching and listening thank
+[73:06] you for joining us today I'll be back
+[73:07] tomorrow with another episode bye-bye
+[73:10] [Music]

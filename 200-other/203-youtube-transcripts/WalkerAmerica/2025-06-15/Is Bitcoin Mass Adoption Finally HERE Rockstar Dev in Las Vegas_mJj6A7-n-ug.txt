@@ -1,0 +1,1134 @@
+Title: Is Bitcoin Mass Adoption Finally HERE? Rockstar Dev in Las Vegas
+Video ID: mJj6A7-n-ug
+URL: https://www.youtube.com/watch?v=mJj6A7-n-ug
+Date Saved: 2025-06-15 12:36:56
+Channel: WalkerAmerica
+--------------------------------------------------
+
+[00:00] We are getting to the point where our
+[00:02] society is so complex that we cannot
+[00:05] allow people to be like, "Oh, central
+[00:07] bankers, please make a decision on
+[00:09] monetary policy, but do not enrich
+[00:12] yourself." They're like, "No, no, we
+[00:13] won't do it. Pinky
+[00:15] promise. You will not print a trillion
+[00:17] dollars, locker. You won't unless we
+[00:19] have to, and we always have to." Well,
+[00:21] that's that's the insane thing. Like,
+[00:22] man, it's it's funny to me that people
+[00:24] look at Bitcoin still and they're like,
+[00:26] "Well, that's that's crazy. What do you
+[00:28] mean no one's in charge?" But it's like
+[00:29] once you go down the Bitcoin rabbit hole
+[00:31] a bit, you look at the fiat system and
+[00:32] you say, "That's crazy. Why are people
+[00:34] in charge of the price of money? Why are
+[00:36] these 12 dudes setting the price of
+[00:38] money and they're like academics, you
+[00:40] know, in nice suits? They they have this
+[00:42] reputation of being knowledgeable.
+[00:44] They're economists. Yes. Yes. Not not
+[00:47] like you and me. We're Yeah. We're a
+[00:49] bunch of internet trolls. Degenerates.
+[00:52] Yeah. We don't understand it. It's it's
+[00:53] above our heads. Walker. We don't have
+[00:55] the necessary degrees to understand it.
+[00:57] The Federal Reserve employs some like
+[00:59] insanely high number of economists and
+[01:02] it's like fourth and fourth all that
+[01:03] they do. It's not like they employ all
+[01:05] these different economists and they all
+[01:06] like debate and disagree with each
+[01:07] other. They just get as many economists
+[01:09] as they can so that they can all agree
+[01:10] and they're like, "Well, we've got
+[01:11] consensus. Every every economist that
+[01:14] works for us says that we need to print
+[01:15] more money." So, I mean, I guess we'll
+[01:17] just print more money. God bless those
+[01:19] people. But you become part of the
+[01:21] cancer on society.
+[01:24] [Music]
+[01:29] Greetings and salutations, my fellow
+[01:31] plebs. My name is Walker and this is the
+[01:34] Bitcoin podcast. Bitcoin continues to
+[01:36] create new blocks every 10 minutes and
+[01:39] the value of one Bitcoin is still one
+[01:41] Bitcoin. And if you are listening to
+[01:43] this right now, remember you are still
+[01:47] early. I am back from the Bitcoin
+[01:49] conference in Las Vegas. And as you can
+[01:51] hear, my voice is still pretty rough
+[01:53] from having way too good of a time. But
+[01:55] I do just want to give a quick shout out
+[01:57] to everybody who took the time to come
+[01:58] up to me and say that you love the
+[02:00] Bitcoin podcast or you enjoyed my
+[02:02] narration of Lawrence Leard's book, The
+[02:04] Big Print. It honestly means a lot to
+[02:07] hear your feedback and I truly
+[02:09] appreciate all of you supporting the
+[02:10] show. Seriously, thank you. If you find
+[02:13] the show valuable and want to support it
+[02:15] with some sats, quick reminder that you
+[02:17] can do so on Fountain app by boosting
+[02:19] the show or becoming a paid subscriber
+[02:22] or feel free to zap on noster or don't.
+[02:25] Bitcoin doesn't care. This episode was a
+[02:28] live stream with my uncle Rockstar at
+[02:30] the Roxom booth in Vegas and I want to
+[02:32] give a shout out to the Roxom crew for
+[02:34] letting me use their setup so I didn't
+[02:36] have to bring all of my gear to Vegas.
+[02:38] As usual with my uncle Rockstar, it was
+[02:40] a great rip. My only complaint is that
+[02:42] it was far too short. So, I'll have to
+[02:44] have him back on the show again for a
+[02:45] longer rip in the near future. All
+[02:48] right, that is enough from me. Without
+[02:49] further ado, let's get into this Bitcoin
+[02:52] talk with Rockstar
+[02:59] Dev. Rockstar developer, my uncle, I am
+[03:04] Walker America. Both of those are our
+[03:06] real names. And here we are. Here we are
+[03:09] at the Bitcoin conference. We are in
+[03:11] beautiful Las Vegas, Nevada, Sin City.
+[03:15] What a time to be alive. How are you, my
+[03:16] uncle? Crazy, man. You see that? Uh we
+[03:20] we just actually just looked that Dorsy
+[03:23] tweeted out that now on Square Terminals
+[03:26] you can accept Bitcoin. And this is what
+[03:29] I've been working on, man. Now this card
+[03:31] of mine that has Yeah. Show show the
+[03:34] camera maybe so they can see how how
+[03:36] awesome this is. So that has laser eyes,
+[03:39] right? Incredible. I can actually go to
+[03:42] the terminal and pay with this. Isn't
+[03:44] that crazy? Like with with this Bitcoin,
+[03:47] I just go and like tap to pay. Here's
+[03:49] what I love about this because I feel
+[03:51] like there's this ongoing narrative or I
+[03:54] shouldn't say nar maybe argument about,
+[03:55] oh, you know, never sell your Bitcoin
+[03:57] or, you know, you don't actually need to
+[03:59] use Bitcoin as money because using it as
+[04:00] a store of value is is good enough. you
+[04:03] obviously have a different opinion on
+[04:05] the matter and are actively working on
+[04:07] things that uh make it very easy to use
+[04:10] as money as easy as using your card. So
+[04:11] can we like can we talk about this?
+[04:12] First of all, what what what is this
+[04:13] card for people who don't know? I also
+[04:15] want to talk it from a perspective I
+[04:17] understand. Yeah. Not everyone is an
+[04:19] altruistic idiot like myself, right? So
+[04:23] you spend years developing false
+[04:25] software while you could have just uh
+[04:28] you know amassed Bitcoin didn't do
+[04:31] anything you're up in profits that's it
+[04:34] but the thing is PE when people say
+[04:36] don't spend your Bitcoin spend fiat
+[04:39] actually I see the technical way of how
+[04:42] to do that because you can keep your
+[04:45] Bitcoin now you we're getting to the
+[04:48] point where you can literally
+[04:50] borrow against it in infinitely. And as
+[04:55] you're doing that, you have dollar
+[04:57] balances backed by Bitcoin. And then you
+[05:00] can use cards like this that are
+[05:02] essentially just authentication key that
+[05:05] sends a signal to server transmit this
+[05:08] much like uh pay this lightning invoice
+[05:11] authorized and and that's all that this
+[05:14] is. I uh what I love about uh situation
+[05:18] now is now that Square rolls this out.
+[05:21] Mhm. Man, you have a lightning node
+[05:23] running. Yep. You tie it to bolt cards.
+[05:26] You're paying from your lightning node
+[05:27] to square. Isn't it insane? And I It's
+[05:30] incredible. I don't even want to get in
+[05:32] the whole KYC no KYC. I I think I spoke
+[05:37] with Sailor about his bold card that's
+[05:40] coming at the conference. So, uh it will
+[05:43] be at official conference store
+[05:45] releasing tomorrow morning. like I'll
+[05:48] I'll uh see if Michael can get his card
+[05:52] and use it to pay with Bitcoin and we
+[05:56] can set it up so he's spending dollars
+[05:58] actually. So So all good, Michael. We
+[06:00] you know I mean and either way if he's
+[06:02] not spending his Bitcoin maybe
+[06:03] presumably he's good with it, right?
+[06:05] Well, I mean he's spending Coinbase's
+[06:06] Bitcoin, right? There we go. Yeah. But
+[06:10] to me, man, that's okay. If you want to
+[06:12] have a custodian
+[06:14] and you want someone to be responsible,
+[06:17] someone you can pressure, okay, that's a
+[06:21] bank, but you come tap to pay. Done. I
+[06:25] love these cards because I think one of
+[06:26] the things that was always uh always
+[06:29] hard for people when it comes to
+[06:30] understanding Bitcoin, like I was just
+[06:32] talking to uh somebody on the flight
+[06:34] here to Vegas, nice gal was coming in
+[06:36] for a Kenny Chzn concert. Oh my god. and
+[06:39] she works as like a financial adviser
+[06:41] actually and started chatting up Carl
+[06:42] and I and she said you know some of my
+[06:44] clients have you know asked me about
+[06:45] Bitcoin I don't I don't know like I
+[06:47] don't understand it I you know whatever
+[06:50] and she's like you know because you
+[06:51] can't touch it it's not like physical
+[06:53] and and which I always think is such a a
+[06:56] weird thing for people to say because
+[06:57] first of all it's I was like okay you
+[06:59] got cash on you or you you're using a
+[07:01] credit card or a debit card debit card
+[07:04] okay so so like where where is that you
+[07:06] can't touch that either it's just like
+[07:07] you just have this physical ical card,
+[07:09] but that makes them think it's it's
+[07:11] physical even though there's there's
+[07:12] nothing physical about it. This is kind
+[07:14] of like I feel like bridges that gap
+[07:16] where people then feel, oh, now look, I
+[07:19] can touch the Bitcoin, you know, like
+[07:20] the bitcoins are in the card and it
+[07:23] makes a difference for people. It really
+[07:24] does and it's way cooler with laser eyes
+[07:27] and experience. I It's so sick. I spoke
+[07:30] with Odell about this and I think now
+[07:33] that we will be moving from you like get
+[07:36] your wallet out
+[07:38] uh scan to pay, pull the we move to
+[07:40] this, tap to pay. I think the ultimate
+[07:43] frontier is you get this into the phone
+[07:46] and then you tap and pay like with Apple
+[07:49] Pay and behind all of that is Bitcoin
+[07:52] settlement layer. so excited because it
+[07:56] took us time man when when you look at
+[07:59] mainstream media they were calling us
+[08:00] out that uh look at that that there it's
+[08:04] a Bitcoin conference but you can't pay
+[08:06] with Bitcoin it's onchain it's 10
+[08:08] minutes it's this and that sure but we
+[08:11] worked on the technology for last five
+[08:14] six seven you know eight years bringing
+[08:18] up lightning network and now it's ready
+[08:20] now it's literally you have Square like
+[08:23] a company that's tens of billions of
+[08:25] dollars worth rolling out like hey you
+[08:28] remember you you see this that we have
+[08:30] at BTC pay open source tab to pay now we
+[08:33] have it as well and it's beautiful man
+[08:36] to see it that Square announcement is
+[08:38] honestly huge because that's something
+[08:40] that is used by like so many small
+[08:42] businesses especially small merchants
+[08:45] you know individuals who aren't running
+[08:46] some big enterprise and maybe you know
+[08:48] couldn't pay for whatever expensive POS
+[08:50] software and hardware terminals were
+[08:52] were out there and Square filled like a
+[08:55] definite need for them. Now they're
+[08:56] coming in and across all of the I don't
+[08:59] know how many how many merchant users
+[09:01] they have, but it's a mass it's a an
+[09:03] insane number. Now anyone can pay with
+[09:05] Bitcoin at those and I feel like that
+[09:07] that just breaks down so many walls that
+[09:10] were up there before where it was really
+[09:11] easy to say, well, okay, if you know the
+[09:13] classic argument, if Bitcoin's money,
+[09:15] then why can't we spend it anywhere? And
+[09:18] you know, speaking of people who say
+[09:19] that, I see Peter Schiff walking by
+[09:21] right now. Maybe maybe he'll stop in.
+[09:24] We'll see. Gold is old, Peter. Gold is
+[09:27] old. No, no, he's ignoring. He's a man
+[09:30] on a mission. A very cool shirt, though.
+[09:32] Very cool shirt. I'll give him that.
+[09:34] But, you know, they takes away those
+[09:35] arguments where you say, "Well, why
+[09:36] can't I spend it anywhere?" And it's
+[09:38] like, now now you can spend it anywhere.
+[09:39] And one thing, all of these merchants
+[09:42] are now stacking sets. Mhm. Right. as
+[09:45] you're like a mom and pop shop that's
+[09:48] that's moving to Bitcoin standard and
+[09:50] suddenly your purchasing power is
+[09:53] increasing over the the the time. It's
+[09:55] no longer because we say like Bitcoin is
+[09:58] not get quick rich scheme. It's don't
+[10:01] get poor slowly scheme because and
+[10:04] Sailor has that. The people that use
+[10:06] fiat currencies as money, we call them
+[10:09] poor. It's just you're diluted every
+[10:11] day, man. It is it is a it is a great
+[10:13] quote. Yeah. and uh made it into a
+[10:15] really banger uh banger house track too
+[10:18] as well. It's it's a great it's a great
+[10:20] sample remix. We need to add this to the
+[10:22] video. Yeah, absolutely. So, now you've
+[10:25] got the ability to use these cards. Can
+[10:26] for anybody maybe can you give the the
+[10:28] highlevel uh technical of like how that
+[10:31] actually work without like like this
+[10:33] this is a b a bolt card. Who cares? Like
+[10:35] you you mean like two developers out of
+[10:38] every Okay. So, okay. I'll tell the
+[10:41] point it works. Yeah. But anyone that
+[10:43] wants to replicate this setup, install
+[10:46] BTC pay server. Uh Nicholas Dorier,
+[10:50] Emperor Nicholas, uh who founded BTC pay
+[10:53] server, he created this bold card bank
+[10:55] plugin. So if you want to on board your
+[10:59] family on uh Bitcoin standard, you get
+[11:02] these bolt cards. You give everyone
+[11:04] allowance like this card is 20,000 sats
+[11:08] or 20,000 bitcoins. We won't know soon.
+[11:11] Walker like rename Satoshi. We might
+[11:13] have to get into that a little bit.
+[11:15] Yeah. But the thing is you get like five
+[11:17] of these cards, you have five members of
+[11:19] your family. Go like spend go buy uh
+[11:23] stake and shake tap to pay Bitcoin
+[11:27] standard and we get corporations to
+[11:29] stack SATs as well. And I'm telling you,
+[11:31] man, this as Pomp says rocket ship is is
+[11:35] leaving man. It's this time. Yeah. For
+[11:38] real. It's actually I want to sidebar
+[11:41] quick to the Steak and Shake thing
+[11:42] because I think this is honestly like
+[11:44] inc like first of all it's cool. Um I I
+[11:47] enjoy Steak and Shake. I enjoyed them
+[11:48] even more when they put tallow uh on
+[11:51] instead of every like incredible
+[11:54] incredible. Uh, and then now they have
+[11:57] integrated Bitcoin where you can like I
+[11:58] literally went and I I bought a burger
+[12:00] and fries and actually I got a Frisco
+[12:02] melt a Frisco melt kind of guy and fries
+[12:04] and and a shake, you know, and
+[12:06] everything and I paid in Bitcoin and it
+[12:07] was easy and it's kind of incredible
+[12:09] like it's an incredible marketing tactic
+[12:12] for them as well because they get so
+[12:14] much free advertising now from all the
+[12:17] toxic psychopaths on the internet who
+[12:19] are like this is really cool. I just
+[12:20] went and bought Steak and Shake with
+[12:22] Bitcoin. This is a huge franchise
+[12:24] nationwide. I mean, do you think we
+[12:26] start to see more of this? Like as these
+[12:28] like the tools have gotten better now.
+[12:30] The tools have gotten way better even
+[12:31] than a couple years ago. I haven't been
+[12:33] in as as long as you, but like I've seen
+[12:35] this progression and it's amazing. Do
+[12:37] you think we start to see more of
+[12:39] businesses do this? I think we're at
+[12:41] the, you know, that critical point,
+[12:43] critical juncture. It's literally like
+[12:45] this conference, man, now that Square
+[12:46] has announced. I think that's it
+[12:50] because you know, you know how it is.
+[12:52] You've been in Bitcoin, as you say, like
+[12:54] maybe not as long as me, but you're
+[12:55] getting a few years now. Yeah. You had
+[12:57] the whole, "Oh, you're crypto couple.
+[12:59] You're not Bitcoin couple. Everyone
+[13:01] hating." And when we met at Beef Steak,
+[13:04] Josh at Beef Steak, I I think I told you
+[13:06] the same thing actually. But but I like
+[13:09] then get telling everyone like, "Hey, it
+[13:11] takes time." Yeah. Because everyone just
+[13:14] like people look at this video, they say
+[13:16] like, "What is this masked guy doing?"
+[13:17] Mhm. But then they research, they're
+[13:20] like, "Oh, oh, like these guys, they're
+[13:23] like somehow improving their lives and
+[13:26] getting wealthier as they do it. Like, I
+[13:29] want that. I want that for me. I want
+[13:31] that for my family." And I'm telling
+[13:33] you, when we were memeing this, like I
+[13:35] remember Bitstein uh doing the whole fix
+[13:38] the money, fix the world. They're like,
+[13:40] "Yeah, right." Like, "How will you fix
+[13:42] it?" And we're like, "We will fix it. We
+[13:44] will fix the money with Bitcoin. We'll
+[13:46] fix the world." They're like, "Yeah,
+[13:47] right." Like bunch of freaks online,
+[13:50] like geeks. But now people are like,
+[13:52] "Oh, they're actually doing it. They're
+[13:54] fixing money. It's fixing food supply
+[13:57] cuz seed oils poison. It's just you you
+[14:03] get all the the bloating, mitochondria.
+[14:05] You know, probably better than me. I
+[14:07] just stuffing yourself full of an
+[14:09] industrial lubricant basically that was
+[14:10] packaged as some somehow a food. I
+[14:13] watched Yeah. your videos. I I like
+[14:15] followed your post and I'm like, "Okay,
+[14:17] let me try not to eat like seed oils."
+[14:21] Then I'm like, "Oh, actually, I feel,
+[14:23] you know, less like bloated and and all
+[14:26] of that." Like, it's almost like you're
+[14:28] you're you're having infection, man.
+[14:30] Like, I don't know how how to explain
+[14:32] it. It's a It's a fiat infection really.
+[14:34] It's like something that's that's
+[14:35] totally avoidable and should never have
+[14:37] happened, but somehow because of this
+[14:39] fiat system that we live in where
+[14:41] everything needs to, you know, you got
+[14:42] to hide the inflation by making stuff.
+[14:45] Metabolism slows down. Yeah. It's like
+[14:48] it's like and then it's amazing to see
+[14:51] it is a company do that though to say no
+[14:53] no no seed oils anymore. Like we're not
+[14:55] going to poison our customers. That's
+[14:57] great. More of that, please. But I
+[14:59] understand the way that started. We were
+[15:01] on fiat standard. Everything is getting
+[15:03] faster. They're like, "Oh, we can save
+[15:05] 10 cents if we use this oil." Now
+[15:08] they're coming to senses. They're like,
+[15:10] "Well, we can save 10 cents right now,
+[15:13] but this person is going to get
+[15:15] progressively sicker as it's getting
+[15:17] full of seed oils and other not even
+[15:20] seed oils, but all those extra chemicals
+[15:22] they're adding to food to last longer."
+[15:25] No. Improve the technology. Like I there
+[15:28] is no reason for you to put preservative
+[15:31] in a meat like improve say do you want
+[15:34] your customers to die younger because
+[15:36] then they won't be your customers
+[15:37] anymore. It's going to cost you more to
+[15:38] acquire new ones man. It's just okay.
+[15:40] Improve the uh food uh food supply chain
+[15:44] logistics. Get the fresh burgers in.
+[15:46] Grill them. Eat. But we're getting
+[15:49] there, man. I'm telling you. They they
+[15:50] thought we're crazy, but it is. Fix the
+[15:53] money. Fix the world. And we're we're
+[15:54] doing it. If you're stuck spending
+[15:57] dollars, at least stop earning dirty
+[15:59] fiat rewards. Use Fold to earn Bitcoin
+[16:02] on everyday purchases and regular
+[16:05] expenses, groceries, bills, travel, home
+[16:08] improvement. I literally just earned
+[16:11] 2,203 SATs, buying a $100 Amazon gift
+[16:14] card on Fold. You don't even need to use
+[16:17] the Fold card itself if you don't want
+[16:19] to. You can connect your favorite credit
+[16:21] card and double dip with Bitcoin rewards
+[16:24] on merchant offers or go allin. Make
+[16:27] Fold the center of your personal
+[16:29] finances. Buy, earn, save, and even get
+[16:33] paid in Bitcoin with Fold. Head to the
+[16:35] link in the show notes to get started
+[16:37] with the ultimate savings toolkit. Or go
+[16:40] directly to
+[16:41] [Music]
+[16:44] use.foldapp.com/r/walker and get
+[16:46] yourself $10 in Bitcoin when you sign
+[16:48] up. Let's talk about using Bitcoin the
+[16:51] way it's meant to be used.
+[16:53] Self-custodial, lightning fast, and
+[16:55] ready for the real world. That's exactly
+[16:58] what BitKit wallet is all about. Bitkit
+[17:01] wallet is a clean, powerful Bitcoin and
+[17:04] Lightning mobile wallet that gives you
+[17:06] full control onchain and on Lightning.
+[17:10] You hold the keys always. Whether you're
+[17:13] brand new or are a seasoned Bitcoiner,
+[17:16] BitKit's intuitive wallet design makes
+[17:18] it simple to send, receive, and manage
+[17:21] your SATs. Quick Pay lets you fire off
+[17:24] Lightning payments faster than ever, and
+[17:26] seamless integration between Onchain and
+[17:29] Lightning means your funds are always
+[17:31] where you need them. It's your daily
+[17:34] driver Bitcoin and Lightning wallet, and
+[17:36] it actually feels good to use it. And
+[17:39] with modular widgets, you can
+[17:41] personalize your experience to match
+[17:43] your style. There's even a lightning
+[17:46] node running right on your phone. No
+[17:49] custodians, no compromises. Go to
+[17:54] bitkit. Or search bitkit wallet in your
+[17:57] app store and start using Bitcoin like
+[18:00] it's meant to be used. That's bit tit.
+[18:06] If you've accepted that we're living
+[18:08] through the fourth turning, then it's
+[18:09] time to get yourself some Bitcoin and
+[18:12] then go to
+[18:14] bitbox.swiss/walker and use the promo
+[18:16] code Walker for 5% off the easy to use,
+[18:19] fully open-source Bitcoin only Bitbox 2
+[18:22] hardware wallet. Then get your Bitcoin
+[18:24] off the exchange into your own
+[18:25] self-custody and prepare yourself for
+[18:27] the chaos that is to come. The world is
+[18:30] going pretty wild right now, but Bitcoin
+[18:32] is ripping and your stack will soon be
+[18:34] worth a heck of a lot more in fiat value
+[18:36] than it is today as every currency
+[18:38] around the world hyperinflates. So now
+[18:40] is the perfect time to get your security
+[18:42] locked down tight with Bitbox. I really
+[18:44] want to emphasize that the Bitbox O2 is
+[18:46] easy as hell to use. Whether you're
+[18:47] brand new to Bitcoin, it's your first
+[18:49] time setting up a hardware wallet, or
+[18:50] you are a well seasoned psychopath. It
+[18:53] is Bitcoin only and fully open source.
+[18:55] No need to trust me. You can head to
+[18:57] their GitHub and verify that for
+[18:59] yourself when you go to
+[19:02] bitbox.swiss/walker and use the promo
+[19:03] code Walker. Not only do you get 5% off,
+[19:06] but you also help support this podcast.
+[19:09] So, thank you. I think that now that
+[19:11] it's kind of interesting so where we're
+[19:12] at in like this particular cycle. I
+[19:14] again I haven't been around for a lot of
+[19:16] cycles, you know, this is kind of like
+[19:18] first time seeing these things happen,
+[19:20] but this is a very interesting cycle it
+[19:21] appears from from what I've seen where
+[19:23] you have like the institutions are
+[19:25] actually here. It's not like the
+[19:26] institutions are coming. It's like no,
+[19:28] the institutions are here and they are
+[19:29] gobbling up sats. At the same time, from
+[19:32] what I've seen, retail, you know, quote,
+[19:35] retail is actually not so much here yet.
+[19:38] And I don't know what it takes if if
+[19:40] Bitcoin's been too boring, you know,
+[19:42] bouncing around above a 100,000 couck
+[19:44] bucks. Somehow that's boring. But
+[19:46] apparently it's too boring for most
+[19:47] people to pay attention yet. I mean,
+[19:49] man, I I think it is partly uh the fact
+[19:52] that everyone is getting robbed. They
+[19:55] you see even the dips in stock market
+[19:57] and it's like hey people buy the dip and
+[19:59] they're like with what? Yeah my credit
+[20:02] cards are maxed out. But that's exactly
+[20:05] the the system is rigged is on once you
+[20:09] get to million dollars okay you're
+[20:12] coasting on 10% of uh inflation that
+[20:17] money printer like you're becoming
+[20:18] insider hello Warren Buffett you know
+[20:21] rat poison I get it like those people
+[20:23] are invested in that system and that
+[20:26] system got us to a point I I don't want
+[20:28] to be fiat system was 100% bad it wasn't
+[20:32] actually like it brought us uh ability
+[20:35] to settle much faster like uh technical
+[20:39] innovations like we have the the whole
+[20:41] internet revolution but we are getting
+[20:44] to the point where our society is so
+[20:46] complex that we cannot allow uh people
+[20:51] to be like oh central bankers please
+[20:53] make a decision on monetary policy but
+[20:56] do not enrich yourself. They're like,
+[20:57] "No, no, we won't do it." Like, pinky
+[21:00] promise.
+[21:02] Like, you will not print a trillion
+[21:04] dollars. Walker, what you want? Unless
+[21:06] we have to and and and we always have
+[21:08] to. Well, that's that's the insane
+[21:10] thing. Like, man, it's it's funny to me
+[21:11] that people look at Bitcoin still and
+[21:13] they're like, "Well, that's that's
+[21:15] crazy. What do you mean no one's in
+[21:16] charge?" But it's like once you go down
+[21:18] the Bitcoin rabbit hole a bit, but you
+[21:19] look at the fiat system and you say,
+[21:21] "That's crazy. Why are people in charge
+[21:23] of the price of money? Why are these 12
+[21:25] dudes?" and and they like setting the
+[21:27] price of money and they're like
+[21:28] academics, you know, in nice suits. They
+[21:31] they have this reputation of being
+[21:32] knowledgeable. They're economists. Yes.
+[21:35] Yes. Not not like you and me. We're
+[21:38] Yeah. We're a bunch of internet trolls,
+[21:40] degenerates. Yeah. We don't understand
+[21:42] it. It's it's above our heads. Walker,
+[21:44] we don't have the necessary degrees to
+[21:46] understand it. And then that's the this
+[21:48] is a total sidebar, but the Federal
+[21:50] Reserve employs some in like insanely
+[21:53] high number of economists. And it's
+[21:55] important to work. All that they do,
+[21:56] it's not like they employ all these
+[21:58] different economists and they all like
+[21:59] debate and disagree with each other.
+[22:00] They just get as many economists as they
+[22:02] can so that they can all agree and
+[22:03] they're like, "Well, we've got
+[22:04] consensus. Every every economist that
+[22:07] works for us says it. We need to print
+[22:08] more money." So, I mean, I guess we'll
+[22:10] just print more money. God bless those
+[22:12] people, but you you you become part of
+[22:14] the cancer on society. and and
+[22:17] um maybe I'm too harsh but yeah imagine
+[22:20] like you listen you got to go to work
+[22:23] you got to provide for your family but
+[22:26] at this point you got to be like okay
+[22:28] I'm part of the system that's wrong it's
+[22:31] just it's wrong if I because when you're
+[22:35] part also big companies not even Fed but
+[22:37] big companies and you're like doing
+[22:40] those meetings and everyone is smiling
+[22:42] and you're like pushing the envelope
+[22:46] you know you you can do better and and
+[22:48] these people like printing money then
+[22:51] distributing it around the world to
+[22:54] NOS's Soros Bill Gates Bill Gates he's
+[22:58] going to fix everything we just need to
+[23:00] trust him man so but no it's it's just
+[23:03] system is bad like the I wish Bill Gates
+[23:06] man would be just like okay everyone is
+[23:09] yelling at me I must be doing something
+[23:12] wrong right but these
+[23:14] psychopaths. They're like, "Everyone is
+[23:16] yelling at me. I misunderstood. They
+[23:18] just they just don't get it. I I I need
+[23:20] to help the the the poor out there.
+[23:23] They're just too stupid to understand
+[23:25] that what I'm what I'm doing, you know,
+[23:27] is really for their best interest cuz
+[23:29] they don't know any better. Little
+[23:30] simpletons." Yeah. It it's it's a very
+[23:33] condescending uh condescending attitude
+[23:36] that is perpetuated by some of these
+[23:38] guys that are at the very tippy top. I
+[23:41] think it's a corruption, man. And it's
+[23:42] just your your brain becomes corrupted
+[23:44] into thinking you're going to save Yeah.
+[23:47] save your world. Yes. Yeah. And and then
+[23:51] Well, luckily we have Bitcoin. So, you
+[23:54] just stay humble. Stack SS. Now, if you
+[23:56] Square Merchant, we want you in Bitcoin.
+[23:59] Enable Bitcoin payment. Stack SS and uh
+[24:03] let the fiat system show its its way
+[24:06] out. Because, man, I also love that
+[24:08] politicians are now sing. So, we can do
+[24:10] more like this. not serious interviews.
+[24:13] We just have fun while they do like all
+[24:15] the serious stuff. Bitcoin, you know,
+[24:18] it's it's kind of funny like I think
+[24:20] sometimes Bitcoiners forget that like
+[24:22] we're at this stage right now where we
+[24:24] don't have to suck up to politicians.
+[24:26] The politicians are trying to suck up to
+[24:28] us. They're also realizing that
+[24:30] Bitcoiners are this growing cohort that
+[24:33] has a like a growing amount of wealth.
+[24:36] First, we're also incredible memers. So
+[24:38] they like they need our mimemetic energy
+[24:40] as well as our economic energy. And me
+[24:42] and Walker, we have zero Bitcoin. I I
+[24:44] lost all of mine gambling in we're here
+[24:46] in Las Vegas. Yeah. Zero. It's it's very
+[24:49] sad. I'm going to have to start from
+[24:50] scratch, but I I'll build up sat by sat,
+[24:52] you know. Yeah. Step by step. But no,
+[24:54] we're we're at like politicians are at
+[24:56] the Bitcoin conference again for it's
+[24:58] been multiple years in a row and they
+[25:00] are actively trying to say like why am I
+[25:02] a politician that is pro Bitcoin?
+[25:04] They're fighting over themselves to
+[25:06] prove who is more pro- Bitcoin, who has,
+[25:08] you know, and it's Republicans and
+[25:10] Democrats both. Maybe more Republicans
+[25:12] now, but like the Democrats are catching
+[25:14] on. Are catching up because you you saw
+[25:16] last year at the Bitcoin conference how
+[25:19] much money was raised for Trump by
+[25:22] Bitcoin. And I posted back then it's
+[25:25] just just I post and then people are
+[25:27] like, "Oh, you know, this not serious
+[25:28] person." But I said like if you're a
+[25:32] politician, if you're a politician, like
+[25:35] support Bitcoin and you will be
+[25:37] supported to
+[25:39] win. And if you go against Bitcoin, you
+[25:43] will lose. And I tell to people, Trump
+[25:47] won because of Bitcoin. Or they say like
+[25:50] crypto vote, they always try to get in
+[25:52] the [ __ ] coiners. But the thing is if
+[25:54] people don't believe that Trump won
+[25:56] because of Bitcoin, even those people
+[25:59] believe that Camala lost because of
+[26:02] Bitcoin, because of Operation
+[26:04] Chokepoint, because they alienated the
+[26:07] whole industry, that then 95% went Trump
+[26:11] donations. The only one that chose the
+[26:14] wrong side were Ripple. And now they're
+[26:16] coming and they're like, "Please take us
+[26:18] take us in. We're like, we want to
+[26:20] help," blah blah. But even then, they're
+[26:22] like, "Yeah." Wait, did you see the
+[26:24] thing? This was actually hilarious. Uh
+[26:26] that Brad Garlinghouse, uh you know,
+[26:29] chief executive shitcoiner uh of of
+[26:32] Ripple. We love you, Brad. Oh, you
+[26:35] you're such a meme. You uh Yeah, you are
+[26:37] hilarious. Uh but he he posted like,
+[26:40] "Oh, I tried to meet with Senator Lumis,
+[26:42] but she uh she declined my meeting and
+[26:44] like won't answer my calls and refuses
+[26:45] to meet with me." And I'm like, "Such a
+[26:47] [ __ ] going on." That's right, man. That
+[26:48] but that's that's amazing though that
+[26:50] even the the toxic maximalism is
+[26:53] bleeding into politics. They're
+[26:56] politicians are realizing at least some
+[26:57] of them don't have time to deal with
+[26:59] scammers like come on man like stop
+[27:01] doing that that that stuff like we don't
+[27:03] meet okay do better but no they go he
+[27:06] goes online and cries oh trying to throw
+[27:10] senator under but like come on okay will
+[27:12] she meet with you now yeah definitely
+[27:14] like like never and and you look you
+[27:17] look very weak I'll I'll see you there
+[27:19] I'll see you there oh man it is
+[27:21] incredible to see this this vibe shift
+[27:23] even with the okay the strategic Bitcoin
+[27:25] Reserve. Uh, you know, this idea, it's
+[27:28] it's contentious. I think that I'm of
+[27:29] the opinion that this was an inevitable
+[27:32] result of Bitcoin succeeding. Like, of
+[27:34] course, governments will want to hold
+[27:35] it. This is not me saying I I approve or
+[27:38] disapprove. I'm just saying I think this
+[27:39] was inevitable, right? Of course. Like,
+[27:42] why why if if Bitcoin is the best money,
+[27:45] why wouldn't governments and
+[27:46] corporations want to hold it? They'd be
+[27:47] stupid not to. That said, I think it's
+[27:50] very interesting that a lot of this
+[27:51] toxic maximalism has actually bled into
+[27:54] the regulations that there or the, you
+[27:56] know, executive orders that came out.
+[27:58] Yeah, we're going to uh hold the Bitcoin
+[28:00] we have, not sell it and try to acquire
+[28:02] more. This is what the executive order
+[28:03] said. Uh in terms of the crypto, the
+[28:05] digital asset stockpile, the non-
+[28:07] Bitcoin, uh we will uh probably sell it
+[28:10] and we're not going to acquire more.
+[28:12] Like it's two completely diametrically
+[28:15] opposed treatments of these things. And
+[28:18] it's like as far as like from a
+[28:19] maximalist perspective, it's like
+[28:20] amazing, you know. No, no, but but but
+[28:23] then again, the president also launched
+[28:24] a shitcoin. So, but but that's the thing
+[28:26] is I wish around that Trump had better
+[28:31] advisers and had his own because your
+[28:34] reputation is just not worth it in the
+[28:36] long run. like two things. Safedine with
+[28:39] his
+[28:40] work amazing work that it shows that
+[28:44] hardest money always wins like there is
+[28:48] no oh this will be number one money and
+[28:51] number two three four like 15. It's like
+[28:53] you always want to be holding the
+[28:56] hardest money. So and then you you you
+[28:59] held gold. Gold was the hardest money
+[29:01] the best technology that was available
+[29:02] to us. Great. Did silver people come in?
+[29:05] They're like silver is better. It's like
+[29:07] no it's not. And you can argue with
+[29:10] those people. However, that is the same
+[29:13] and uh uh the same situation. Like you
+[29:16] have Bitcoin and you have silver people
+[29:19] like the these shitcoiners there's
+[29:22] silver people like gold people
+[29:24] understand this. So hardest money always
+[29:26] wins. And number two toxic Bitcoin
+[29:30] maximalists. the the term was coined by
+[29:33] Vitilik Bhutaran who as a you know
+[29:37] derogatory term to like show all these
+[29:40] crazy people that are not reasonable
+[29:43] they're too stupid to understand my
+[29:45] technical
+[29:46] genius 10 years have passed right since
+[29:49] Ethereum more than 10 since Ethereum was
+[29:52] out last month Vitalic comes and says
+[29:55] hey uh we should be more like Bitcoin
+[29:59] dude we've been telling you for 10
+[30:01] years. You took so many people in the
+[30:04] wrong direction.
+[30:07] You made bunch of money. Great. Great
+[30:09] for you. You know, you and your
+[30:10] insiders, you keep dumping on retail.
+[30:14] Great. But you know, the the whole thing
+[30:17] and American Hodddle has the way better
+[30:18] video. He's a toxic maximalist la. They
+[30:21] cry. Sure. I mean, the best thing about
+[30:24] Bitcoin is you believe in it. You hold
+[30:27] it. You don't need anyone else. When
+[30:30] people start asking you, you answer
+[30:33] questions. When you do when someone asks
+[30:36] you five times, you play Walker's video
+[30:39] of sailor
+[30:41] thing and and that's it. It's just like
+[30:44] focus on yourself. Focus on your loved
+[30:46] ones, people that you care about. You
+[30:49] know, someone asked me about Bitcoin.
+[30:51] I'm like, it's a scam. Don't buy it. I
+[30:53] called Walker. We talked. So, yeah, have
+[30:55] fun. Uh, Sidebar, did you hear that
+[30:58] American Odel is running for president
+[31:00] of the United States? That this is just
+[31:02] what I hear. This is the This is the
+[31:04] word on the street. I don't know. Oh, I
+[31:06] I don't know. Listen, I I don't vote,
+[31:09] but if he truly like gets a ticket,
+[31:13] I would vote. I hear I hear it's the the
+[31:15] American Eric Kasein ticket. That's
+[31:17] that's what I'm hearing. Oh my god. I'm
+[31:19] like I'm voting definitely. It's the
+[31:21] most based ticket of all time. I mean,
+[31:23] that's what I hear. Listen, Eric Eric is
+[31:26] just special. He is a master shaman.
+[31:30] That's that's how I address him. And
+[31:32] then he is because he's unapologetically
+[31:35] himself. He I think he also carries a
+[31:38] little bit of guilt because he's like,
+[31:40] "Why me? Why did Bitcoin pick me with
+[31:46] all this burden and like got me to the
+[31:49] point where I'm set and I can just focus
+[31:51] on philosophy?" And I think he's trying
+[31:53] to deliver, but man, I think he's going
+[31:55] to make a great vice president, you
+[31:57] know, really great. I I don't vote, but
+[31:59] I would vote for that ticket. So, Huddle
+[32:02] Kase, you have my vote. I can't believe
+[32:05] I will be voting, man. I'll be getting
+[32:06] all those scammy like like, "Oh, you
+[32:08] need to be part of the jury thing." Oh,
+[32:10] man. That's how they get you. That it is
+[32:12] a trap. Yes. So, I would I would
+[32:15] sacrifice myself that much for you too
+[32:17] if you if you go on ticket. You heard it
+[32:19] here first. The American hodel Eric case
+[32:21] and ticket. Also, I do I do still say
+[32:23] Hodel. We don't have to get into that
+[32:24] now. Uh,
+[32:27] but I should pronounce American
+[32:28] Hodddle's name as he pronounces it.
+[32:30] Just, you know, that's what he
+[32:31] identifies as. As as an American
+[32:33] hodddle, what are his pronouns? Uh,
+[32:36] yeah, I think his pronouns are American
+[32:38] and Hodddle. Yeah.
+[32:40] 615. Yeah. You know, that turned out to
+[32:44] be pretty darn good advice. Uh, yeah. I
+[32:47] I mean that guy can meme. The the
+[32:49] funniest things when when girls started
+[32:50] approaching me at the conferences and
+[32:52] they're like, "Do you have 615?" I'm
+[32:54] like I I I didn't like understand. It
+[32:58] took me like 3 months to to figure it
+[33:00] out. Like so so stop doing that, girls.
+[33:03] Don't don't approach that. So Oh, man.
+[33:06] You know, it's it's amazing. I mean,
+[33:08] we're at the we're at this point where
+[33:10] like again, I haven't been in Bitcoin
+[33:12] that that long. It's, you know, a few
+[33:14] few years now, which is cool. Time
+[33:16] flies, but it I don't know when you're
+[33:19] having fun. Yeah. But the other thing is
+[33:20] it it still feels it feels early, I
+[33:24] think, to those of us who are watching
+[33:26] like in the space watching this happen.
+[33:28] But to people who are maybe just like
+[33:31] hearing about Bitcoin because it starts
+[33:32] pumping again. They see the price tag
+[33:34] and they start saying, "Oh, I must be
+[33:36] late." You know, I I must be late. You
+[33:39] know, and obviously a lot of them may
+[33:41] not know that you can buy a, you know, a
+[33:42] fraction of a Bitcoin called a Satoshi.
+[33:44] like you can you can buy a dollars worth
+[33:46] of Bitcoin or a couple cents worth of
+[33:47] Bitcoin. Like that's that's amazing. But
+[33:50] they may not know that. But I'm curious,
+[33:53] you know, do you think like are we going
+[33:57] to have just another shitcoin cycle
+[33:59] because now the price of Bitcoin is so
+[34:00] high and every like does this just keep
+[34:02] repeating itself forever? Like this is
+[34:03] what I want to know. Do shitcoins
+[34:05] eventually all die out or do shitcoins
+[34:06] just keep coming and scamming new people
+[34:09] over and over and over again forever
+[34:10] forever. Forever. Sad though. Yeah, but
+[34:14] that's why why money exists. Uh it's
+[34:16] it's a tool for truth because you know,
+[34:20] oh Walker, we're buddies. Do this for
+[34:23] me. You're like, okay. I'm like, hey,
+[34:25] Walker, we're buddies. Do this for me.
+[34:27] You're like, okay. Sorry, I just saw
+[34:29] Tatum turn. Tatum. Yeah. He's like,
+[34:31] "Hey, Walker, retweet this with You're
+[34:33] like, "Okay, man." Like $5, $10. Like
+[34:36] you you switch the relationship to be
+[34:40] like, it's a like lightning channel. You
+[34:42] got to be settled. It can't I can't be
+[34:44] the psychopath that's constantly
+[34:47] demanding things for you. And if I do
+[34:49] that, got to pay you. So money is a tool
+[34:52] for truth when it's used. Well, I love
+[34:56] how popular you are, Uncle. It's a It's
+[34:57] amazing, you know, for a man who doesn't
+[34:59] show his face.
+[35:01] Everybody knows Uncle. Yeah. But I'm
+[35:03] telling you, man. Uh if there is uh
+[35:06] there is a better coin,
+[35:09] we will all be in it. But until then,
+[35:12] We're we're we're good for 100 years.
+[35:13] Didn't you hear actually XRP is better
+[35:16] than Bitcoin? So, I guess I guess guess
+[35:17] we're all switching over. Oh, crazy. It
+[35:20] it is it is ridiculous though. I mean, I
+[35:23] guess like I guess in you know, scammers
+[35:25] are going to scam, right? And that's why
+[35:27] like that's why Bitcoin education is
+[35:28] also so important because if you get to
+[35:30] people like most people go through a
+[35:32] little bit of a shitcoiny phase because
+[35:33] they get distracted by the bright lights
+[35:35] and the flashy marketing and and some
+[35:38] jackass influencer who tells them that
+[35:39] you know XRP is going to $100. No it's
+[35:42] not. No it's not like they're they're
+[35:44] dumping it on you like who you're buying
+[35:46] it from Ripple also and and they are
+[35:48] just going to keep dumping on you. Yeah.
+[35:49] But like eventually maybe a lot of us
+[35:52] need to shitcoin a little bit and get
+[35:54] burned before we go into Bitcoin and
+[35:56] say, "Okay, now I'm, you know, I'm all
+[35:58] in. I don't want to get burned anymore.
+[36:00] I want to just save the value of my hard
+[36:02] work. I want to save my time and my
+[36:03] energy in something that can't be
+[36:05] corrupted by some, you know, jackass
+[36:07] crypto crypto founder and a bunch of
+[36:10] VCs." Like, I I think you literally
+[36:13] opened with a question. We went through
+[36:15] the whole arc like, "Don't buy Bitcoin.
+[36:18] It's a scam. buy whatever and then after
+[36:21] five years you will be like oh I wish I
+[36:23] actually listened to these guys. They
+[36:26] they actually they they actually had
+[36:28] nothing to gain. They only had to lose
+[36:30] because less sats for them. I know but
+[36:33] Oh, speaking of sats, where do you sit
+[36:35] on the sats versus bits versus bit just
+[36:38] calling sats bitcoin debate? Where where
+[36:40] are you at with this? I like I like sats
+[36:42] personally, man. I think people are I
+[36:45] see the whole thing that we need to
+[36:47] rename SATs into bitcoins. I see it as a
+[36:49] very condescending. It's like people are
+[36:52] not smart enough. People are amazing,
+[36:54] man. It's just they're under so much
+[36:57] pressure with this fiat high velocity
+[37:00] trash economy. You're like forced to run
+[37:03] the you know hamster wheel. People are
+[37:06] smart when they you just tell hey
+[37:07] there's bit one bitcoin it's divisible
+[37:10] in 100 million satoshi's that's it boom
+[37:13] boom dollar cents but there is also the
+[37:17] thing is like people that are in
+[37:19] bitcoin it's a status game you know you
+[37:22] become oh I am the developer that merged
+[37:26] PR into bitcoin core and this is where
+[37:30] power corrupts because you want that
+[37:32] status you want that influence
+[37:35] And maybe that's actually the biggest
+[37:37] thing that I love about Bitcoin. It
+[37:39] allows those people that are not status
+[37:41] seeking stack
+[37:43] SATs do your thing. So yeah, I'm I'm
+[37:46] definitely team SATS and I think people
+[37:50] that are renaming SATs into bitcoins
+[37:52] that they'll be just like laughed. Maybe
+[37:54] it even happens on Square Terminals.
+[37:57] They they show like bitcoins. So you're
+[38:00] buying for 20,000 bitcoins. Yeah. Yeah.
+[38:02] Yeah. Oh boy. This is going to get
+[38:04] confusing, isn't it? So, Jack Dorsey,
+[38:06] you're wrong, but it's okay. We still
+[38:08] love you, man. With all due respect,
+[38:10] sir. With all due respect, sir, Odell is
+[38:13] right. Yeah. Yeah. Yeah. No, it's uh
+[38:16] it's like there will only be 2.1
+[38:18] quadrillion bitcoins. That's How many
+[38:21] zeros are in quadrillion? I don't even
+[38:23] know. A lot. A lot. Like, there will
+[38:25] only be 21 million mega bitcoins. A mega
+[38:28] bitcoin does sound kind of cool, though.
+[38:30] I I I do kind of like that. Like I like
+[38:32] that idea. Ultra Bitcoin. Ultra Bitcoin.
+[38:35] Ultra. Ultra mega mega premier Bitcoin.
+[38:38] Right. And now we're shitcoiny. I know.
+[38:40] I know that that that's the problem.
+[38:42] Let's close it up. Let's close it up.
+[38:44] Uncle has places to be. Uncle has place
+[38:46] to be. Okay. So, uncle, if you uh if you
+[38:49] had to leave people with something, and
+[38:51] thank you for joining, by the way. I
+[38:52] appreciate I know you're running around.
+[38:54] It's it's always good to to get a
+[38:55] therapy session with with my uncle. If
+[38:58] you had if you had to leave people with
+[38:59] something, you know, for somebody who
+[39:01] stumbles across this, who is new to
+[39:02] Bitcoin, maybe who sees this spectacle
+[39:05] that we have here in Las Vegas and
+[39:06] thinks like, what even are we dealing
+[39:09] with here? What what what do you say to
+[39:11] that person who just feels overwhelmed
+[39:12] and like I don't even know where to
+[39:14] start? Subscribe to Walker's YouTube
+[39:17] channel.
+[39:19] That's too No, it's we we have the best
+[39:22] influencers as well. There is the whole
+[39:24] joke that oh, you're doing these faces.
+[39:26] do that, man. You're fighting the army
+[39:28] of shitcoin influencers. Any people that
+[39:31] we manage to scam into Bitcoin to scam
+[39:33] them into profits, they're saved. So,
+[39:38] subscribe to your channel and watch
+[39:40] uncle's interview. Yeah. With Walker and
+[39:44] you don't like me, don't like him. Find
+[39:46] the voice in Bitcoin that speaks to you.
+[39:48] You know, Jack or become that voice.
+[39:51] Become Start your own Bitcoin podcast.
+[39:53] Why not? We need more we need more
+[39:55] podcast. Yeah. But no, like Jack Morers,
+[39:58] he talks to a lot of people. Yeah.
+[40:00] Listen to him. Um Safeine,
+[40:04] uh Matt Odell. So find the voice that
+[40:07] speaks to you uh in Bitcoin. Like now
+[40:10] even Trump is in Bitcoin. I don't know
+[40:12] if that's a good voice to listen, but
+[40:15] you know, don't don't buy don't buy his
+[40:17] shitcoin. Don't buy shitcoin. Please
+[40:19] don't. And when you have consumed enough
+[40:23] materials, come join us at at some
+[40:25] Bitcoin event. You know, uh the Bitcoin
+[40:28] conference is, you know, too big, too
+[40:29] crowded. Come to Bitlock. Boom. Come to
+[40:32] What What's your favorite conference?
+[40:34] Like, boy, you know, honestly, I think
+[40:36] perhaps the the It holds a special spot
+[40:39] in my heart, but Unconfiscable was the
+[40:40] first Bitcoin conference I went to uh
+[40:43] back in in 2022. Uh yeah, shout out to
+[40:46] Tone Vays who brought us Carl and I
+[40:48] there to host the Scammy Awards which
+[40:50] was amazing. We just got phenomenal. We
+[40:52] just got to [ __ ] all over Shitcoiners.
+[40:53] It was it was incredible. Um but but
+[40:55] that was but that that is a it is great
+[40:57] advice like to come to a Bitcoin
+[40:59] conference, meet people in person and
+[41:01] who knows if you're if you're working in
+[41:02] the fiat world and you're trying to uh
+[41:04] you're not feeling fulfilled there.
+[41:07] There are a lot of Bitcoin companies now
+[41:08] and you and there are a lot of shitcoin
+[41:10] companies too, but you can find a lot of
+[41:12] pure Bitcoin companies. There's somebody
+[41:14] who there is strike booth right across
+[41:16] us and if you really don't have anyone
+[41:19] to come to find uncle come to uncle I
+[41:22] will connect you and uh BTC Prague is uh
+[41:25] next month. So people in Europe I'll be
+[41:29] I'll be at BTC Prague. You're coming or
+[41:31] no? I wish I could. I wish I could. I
+[41:33] got to talk with Martin and Matias. We
+[41:34] got to have you sometime. Well, we'll
+[41:37] see. Maybe maybe we can make an
+[41:38] impromptu. So you're you're Oh, he's the
+[41:40] biggest star. He was invited, but he was
+[41:42] like, "No, I can't come. Rockstar is
+[41:44] going." Well, if you're going to be
+[41:45] there, well, okay, we'll we'll we'll
+[41:46] leave with this uh because we didn't
+[41:48] mention it at all. But, uh people can
+[41:50] find you on uh on X, but they can also
+[41:52] find you on Noster. Uh preferably No. I
+[41:56] think they can probably just go to I'm
+[41:57] guessing
+[41:58] primal.net/rostar if I had to guess.
+[42:00] Exactly. You can find me there,
+[42:01] primal.net/walker.
+[42:03] There we go. You can search for us,
+[42:04] Rockstar developer. You can search for
+[42:06] Walker America. uh find us out there on
+[42:09] the interwebs and then I I never know
+[42:11] which camera to look at. I'm such a bad
+[42:12] streamer. No, man. This this is great.
+[42:14] I'm going to look at this one and just
+[42:15] say, you know, uh Bitcoin is scarce, but
+[42:19] podcasts are abundant. So, thank you for
+[42:21] spending your scarce time to listen to
+[42:22] Uncle Rockstar and I on this little
+[42:24] impromptu Bitcoin podcast. Uncle, thank
+[42:27] you. Let's go. It's been a pleasure. We
+[42:29] should probably take one more selfie in
+[42:30] our cool headsets while while we're
+[42:32] still on stream. And a present for you.
+[42:35] Oh, amazing. So, we going to pay with
+[42:37] Bitcoin. I love it. I love it. Let's go.
+[42:40] Let's pay with Bitcoin. We're going to
+[42:41] go pay with Bitcoin now, guys. Thank you
+[42:43] all for joining us. I don't know who to
+[42:45] give this headset to.
+[42:47] We just leave it here. Do we just leave
+[42:48] it here? Cheers, guys.
+[42:52] [Music]
+[42:58] And that's a wrap on this Bitcoin Talk
+[43:01] episode of the Bitcoin Podcast. Remember
+[43:04] to subscribe to this podcast wherever
+[43:06] you're watching or listening and share
+[43:08] it with your friends, family, and
+[43:10] strangers on the internet. Find me on
+[43:13] Nostaster at
+[43:14] primal.net/walker and this podcast at
+[43:18] primal.net/titcoin on XY YouTube and
+[43:20] Rumble. Just
+[43:22] search and find this podcast on X and
+[43:25] Instagram at
+[43:27] titcoinodcast. Head to the show notes to
+[43:29] grab sponsor links. Head to
+[43:32] substack.com/walkeramea to get episodes
+[43:34] emailed to you and head to
+[43:36] bitcoinpodcast.net for everything else.
+[43:39] Bitcoin is scarce, but podcasts are
+[43:42] abundant. So, thank you for spending
+[43:44] your scarce time listening to the
+[43:47] Bitcoin podcast. Until next time, stay
+[43:51] free.

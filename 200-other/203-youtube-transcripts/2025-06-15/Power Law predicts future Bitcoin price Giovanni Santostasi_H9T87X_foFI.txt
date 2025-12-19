@@ -1,0 +1,2941 @@
+Title: Power Law predicts future Bitcoin price | Giovanni Santostasi
+Video ID: H9T87X_foFI
+URL: https://www.youtube.com/watch?v=H9T87X_foFI
+Date Saved: 2025-06-15 12:00:25
+--------------------------------------------------
+
+[00:00] how can we predict the price of Bitcoin
+[00:02] we're not going to see anything below
+[00:04] 60,000 ever in the history of Bitcoin
+[00:06] what does happen when Apple tomorrow
+[00:08] comes out and says uh we are now buying
+[00:11] with all our reserves Bitcoin we have
+[00:13] the strategies called weight DCA so we
+[00:15] are going to give a weight to the
+[00:17] different phases of where you are when
+[00:19] will we break the 1 million US dollar
+[00:22] barrier we should reach 1
+[00:25] million as a full disclosure I want to
+[00:27] start off with um I I only Buy and Hold
+[00:32] Bitcoin so those uh models are really
+[00:35] interesting for me to see patterns to
+[00:37] see uh things but uh I'm just like a
+[00:40] hodler I'm just buying Bitcoin yeah but
+[00:43] um you will see I'm actually going to
+[00:45] explain it is also useful for odler
+[00:48] because uh and I will explain why you
+[00:50] know because I think it goes from
+[00:52] everything right from somebody who wants
+[00:53] to be a little bit more aggressive to
+[00:56] actually somebody that is a holder
+[00:57] because you know let's say
+[01:00] and we are already recording yeah yeah
+[01:03] yeah yeah okay so let's say for example
+[01:07] um I don't know let's say we were last
+[01:09] cycle right and uh we know that Bitcoin
+[01:13] we picked 70,000 right and three days in
+[01:16] advance I'm going to tell you hey uh
+[01:20] it's going to be in three day from now
+[01:22] we're going to reach a
+[01:23] peak wait wait a little bit wait you
+[01:26] know you have all this money saved up
+[01:28] for buying Bitcoin right because maybe
+[01:30] you're doing it on a monthly basis or
+[01:32] whatever you do you do some
+[01:34] DCA wait a little bit you know wait a
+[01:38] few months because it's going from
+[01:42] 70,000 to 16,000 if you wait this amount
+[01:45] of time and in fact you don't you don't
+[01:48] even need to wait 16,000 wait until it's
+[01:51] 30 wait until it's 25 and my algo can
+[01:54] tell you how long is going to take when
+[01:57] we are going to reach the bottom and
+[01:59] when it's time to buy again right you
+[02:01] can always wait a little bit right to
+[02:03] buy your Bitcoin of course you say well
+[02:06] buten is the risk is is going up right
+[02:08] and you're are wrong well of course
+[02:10] right there is a risk on everything but
+[02:12] this is a limited risk right so you can
+[02:14] still do your odling and you only buy
+[02:17] policy but also
+[02:20] maybe understand Bitcoin you know it's
+[02:23] like if we love Bitcoin we also need it
+[02:25] to understand and I think I found a way
+[02:28] to actually understand what really Bon
+[02:30] is doing now you have to trust my you
+[02:33] know my my understanding and my model
+[02:36] but uh there is space Also for odler in
+[02:39] this approach so everybody can help can
+[02:43] be helped by this knowledge of of a cyes
+[02:47] yeah that's why I'm really interested in
+[02:48] it because you can always like have an
+[02:50] DCA plan but still buy chunks here and
+[02:54] area um we we have the strategies called
+[02:57] weighty DCA so we are going to give a we
+[03:00] to the different phases of where you are
+[03:02] in fact right now we are even developing
+[03:05] this terminology we explain in a know
+[03:07] later over a clock we can tell you what
+[03:10] is a Bitcoin time in the cycle and
+[03:13] according to where we are in the clock
+[03:15] you can give a weit right I'm going to
+[03:17] buy more when we are here and I'm not
+[03:19] going to buy much here and so on so you
+[03:23] don't have to buy and sell uh even if
+[03:26] that is a possible approach you can also
+[03:29] just simply
+[03:30] by the right time you know so it's also
+[03:32] good for aing maybe let's start right
+[03:35] into it like what is the the power law
+[03:38] um outside of Bitcoin because it's a
+[03:40] thing outside of Bitcoin also yes what
+[03:42] is it in in in the most simple terms
+[03:45] okay sure
+[03:48] so you know I am a physicist that is my
+[03:51] background right uh and uh uh so physics
+[03:54] is a the study of nature right this in
+[03:57] fact what this what it means physics
+[03:58] means nature and so
+[04:02] um we want to understand different
+[04:05] patterns in nature right usually uh if
+[04:10] we want to express it in with some kind
+[04:12] of mathematical formula right like like
+[04:14] a relationship between things and then
+[04:17] once we found find the particular
+[04:19] pattern and the mathematical formula
+[04:21] that describe uh these a particular
+[04:24] phenomena we want to understand it we
+[04:26] want to go deeper and try to see why is
+[04:29] behaving in this way but you know the
+[04:31] first step is always finding these
+[04:32] relationships right so for example I use
+[04:35] this all the time because it's probably
+[04:38] the first time that scientists talked
+[04:42] about some kind of a power law I think
+[04:44] actually it was another example and uh
+[04:48] um and that example was Galileo so we
+[04:50] can also use that so let me give you a
+[04:52] couple of historical examples right so
+[04:55] the first historical example was Galileo
+[04:58] so he you know from my country I'm
+[05:00] Italian he's also you know it's like he
+[05:02] kind of actually created a field of
+[05:04] physics is he was the first one he also
+[05:07] came up with this idea of a scientific
+[05:09] method you know how to explore something
+[05:11] with a scientific approach and different
+[05:13] steps to do that so uh he he he
+[05:18] understood he was studying animals and
+[05:20] you see at that time you know there was
+[05:23] still this Aristotelian way of looking
+[05:25] at the world you know it was like a
+[05:27] making analogy uh he was not as
+[05:30] scientific as Galileo did he he actually
+[05:33] has this famous phrase that says nature
+[05:36] is a book and is written in the language
+[05:40] of mathematics so beautiful right
+[05:42] because it really applies to what we are
+[05:44] discussing here so in this case what in
+[05:46] the power law what he was trying to
+[05:49] understand how animal size up in fact
+[05:52] actually this is a very good example
+[05:54] also in terms of this idea of sizing up
+[05:56] what sizing up means right so if I start
+[06:00] something that goes from being a small
+[06:03] thing to a something that is much larger
+[06:06] I'm not interested in small little
+[06:08] changes I want to see what happens when
+[06:11] you know the animal becomes maybe you
+[06:13] know 10% bigger 20% bigger 30% bigger or
+[06:17] you know if you have something that also
+[06:19] change by a lot like for example Bitcoin
+[06:21] right they went from being a few cents
+[06:23] to almost
+[06:25] $100,000 right that every time it
+[06:28] changes by a factor of 10 so it goes
+[06:30] from 0.1 1 10 100,000 and so on that is
+[06:36] size you know that is one term the other
+[06:38] term we use is scale you know the scale
+[06:41] so if you focus if you try to forget
+[06:45] details but you look at these large CH
+[06:50] changes and try to see what happens
+[06:53] maybe like for example you're looking at
+[06:56] time in this case how the how much time
+[06:58] it takes to change right or maybe a
+[07:02] relationship between two things like for
+[07:04] example in the case of Galileo he was
+[07:06] looking at how big an animal um how big
+[07:11] an animal becomes uh as he grows and he
+[07:14] realized that basically you know I know
+[07:17] we make this joke in physics that we
+[07:20] call them the spherical cows you know
+[07:23] like if you're are trying to understand
+[07:24] a cow make it to a sphere you know
+[07:28] initially at least later you can go in
+[07:30] the details but initially think it as a
+[07:33] sphere because sphere is so simple to
+[07:35] describe right it's an approximation so
+[07:38] let's if you imagine an animal be being
+[07:40] kind of a blob thing right a sphere uh
+[07:44] you know a sphere spherical cow and the
+[07:46] cow grows you know it grows with let's
+[07:49] say with the radius right bigger the
+[07:51] radius bigger the cow and then with what
+[07:55] quantity exactly well the cube right
+[07:57] because a volume the volume of a cow GRS
+[08:00] with the cube right so and mass is the
+[08:04] same right bigger the volume if the
+[08:06] density is the
+[08:07] same uh bigger the mass right and so and
+[08:12] and is going up with the cube so if I
+[08:15] for example double the size of an animal
+[08:19] the mass of the animal doesn't go up by
+[08:21] a factor of two it goes by a factor of
+[08:23] eight because it's two to the three
+[08:25] right if I if animal becomes three times
+[08:28] when I have to take the three to the to
+[08:31] the cube right so 3 three three right so
+[08:34] that is uh 27 so you see um it's
+[08:39] important to understand how something
+[08:40] scales in terms of the power you see the
+[08:43] power here is a cube okay so this is one
+[08:46] of the clue to understand uh Power lows
+[08:50] and this why they are called Power
+[08:52] because we're talking about some
+[08:53] quantity raised to the power right and
+[08:57] the power can be two three like for
+[08:59] example volume goes up with the cube
+[09:03] what about the area the area for example
+[09:06] of the feet of an animal right the
+[09:08] animal needs to walk and usually like in
+[09:12] our case our feet touch the ground right
+[09:15] and that is the area of the animal uh
+[09:18] and that
+[09:20] area how does it grow it doesn't grow
+[09:22] with a cube it grows with the square
+[09:26] right because this what with are is so
+[09:30] this is another relationship that goes
+[09:33] with the power of the quantity that
+[09:36] we're looking at and so he realized that
+[09:38] as an animal grows there is kind of a
+[09:41] ratio right that is basically how much
+[09:43] weight the animal will have on this on
+[09:45] the foot right on on his bones because
+[09:48] the bones need to make contact with the
+[09:51] ground right so it's a question of the
+[09:53] volume over the area right so actually
+[09:57] that relationship R Cube over Square we
+[10:00] get R right so the an as the animal
+[10:03] becomes bigger and bigger this
+[10:05] relationship between mass and the
+[10:08] surface on which an animal can walk it
+[10:13] goes up linearly right so it's a
+[10:16] straight line in a in a graph and you
+[10:19] know if I do uh this quantity that is
+[10:22] the ratio between the the mass and the
+[10:26] surface area of the animal right that
+[10:28] has contact with the ground if you if
+[10:31] you take this ratio it goes up right
+[10:35] with linearly right these two quantity
+[10:38] so there is the r Cube and R square I
+[10:41] can make a graph of these two quantity
+[10:43] and I get some kind of straight line and
+[10:47] whenever you have a relationship of this
+[10:49] kind where there is one quantity
+[10:51] changing in relationship to another with
+[10:55] some kind of a power you can visualize
+[10:58] it better by taking a graph of the log
+[11:02] of one quantity versus the log of
+[11:04] another so this type of graph that no
+[11:07] many people are familiar but in physics
+[11:09] we are very familiar with is called a
+[11:11] log log graph and if something as a type
+[11:14] of relationship that I describe that
+[11:16] depends on the power then it looks like
+[11:19] a straight line and this is what
+[11:20] happened also with Kepler I was
+[11:22] mentioning because uh you know in this
+[11:24] case I tell this story all the time
+[11:26] because actually in a sense this where a
+[11:28] really this idea of plotting things in a
+[11:31] log l graph started uh he was looking
+[11:34] for a pattern in the universe because he
+[11:37] thought the planets were not moving just
+[11:39] by chance but because it was some kind
+[11:42] of underlying law you know he was not
+[11:44] aware of the law yet you know again he
+[11:47] you remember this was a the beginning of
+[11:50] science so we were still influenced by
+[11:51] all these ancient ideas you know about
+[11:55] planets moving in perfect orbits you
+[11:58] know we had all kind kind of mystical
+[11:59] idea about a universe but you know he
+[12:02] wanted to start to use math to actually
+[12:05] understand if it was a very specific
+[12:07] pattern and so he tried many different
+[12:09] things and finally because log was
+[12:11] something the log uh you know the log
+[12:15] basically what the log does so if I have
+[12:18] a let's say log of 10 right is this
+[12:20] function and that apply to a number like
+[12:22] 100 it gives me the power so 10 to the
+[12:25] two is 100 right and so if I take the
+[12:29] log 10 of 10 to the two the answer is
+[12:33] two if I take the log of 1,00 because
+[12:37] 1000 is 10 to the three the answer of
+[12:40] that operation of taking the log is
+[12:42] three and so on so you see it's almost
+[12:44] like I'm asking through the log what is
+[12:47] the size of this number right and it
+[12:49] gives me gives me the power the power is
+[12:52] the size right so he did this thing he
+[12:54] took the distance of the planets from
+[12:57] the Sun because we knew right other
+[12:59] hundreds of century and Century
+[13:01] observations of the planets of a move
+[13:03] and so on so we had all these very
+[13:05] detailed information all on paper it was
+[13:07] crazy you know they did all this we
+[13:09] didn't have computers at the time we had
+[13:11] to do everything on paper very carefully
+[13:13] very accurately I don't know how they
+[13:16] did it because you know modern
+[13:17] scientists don't have that feeling we do
+[13:19] everything by computers uh and and so he
+[13:23] he he measured right he wrote down the
+[13:27] numbers associated with the distance of
+[13:30] the of a planet and it took the log of
+[13:34] this distance and then on the y axis he
+[13:37] had the time the log of the time or you
+[13:40] know you can do the other way around it
+[13:42] doesn't matter uh the log of time right
+[13:46] the in fact let me put it in the Y A on
+[13:49] the x- axis because it's what I did with
+[13:51] Bitcoin so he put the log of time in the
+[13:55] in the x axis and U um and the time in
+[13:59] this case is the time that it takes the
+[14:01] planet to go around the sun right so
+[14:04] when he did that he was shocked because
+[14:07] you could see this beautiful organized I
+[14:10] have a graphit I can show you in a
+[14:12] moment beautiful organized line you know
+[14:16] all the planets were little dots and you
+[14:19] could like draw there are mathematical
+[14:22] techniques to draw these lines but in
+[14:24] that case you could draw it by hand you
+[14:26] could just join the dots because they
+[14:28] were so perfect
+[14:29] along this line that you could do it by
+[14:32] hand almost and and he was shocked and
+[14:35] then because he knew the mathematics it
+[14:37] could write a formula that tells you how
+[14:40] long a planet takes to go around as a
+[14:44] function of his distance or vice versa
+[14:46] right so if I know how long it takes a
+[14:49] planet uh to go because this is usually
+[14:51] what You observe you look at this planet
+[14:53] you see when he comes back in the same
+[14:55] spot of the sky some of the planets take
+[14:57] years and years you have to be very
+[14:58] patient Jupiter takes 12 years right
+[15:01] imagine being there every night for 12
+[15:03] years like a Bitcoin it took 12 years
+[15:05] right 15 years and in one one B more
+[15:08] than the life of Bitcoin and Jupiter
+[15:10] comes back right and you then if you
+[15:14] have that information even if it is a no
+[15:16] a planet that you never saw before
+[15:18] because of this law you can say oh I
+[15:20] know how long it takes to go around the
+[15:22] Sun h no distance now even if you not
+[15:25] measure because because there is this
+[15:27] law all the planet then follow it and so
+[15:30] by that time right so it's several
+[15:33] hundred years we found hundred and
+[15:36] hundred and hundreds of these power loss
+[15:38] everywhere in nature so it's not really
+[15:40] like oh that is the main thing about
+[15:43] physics but it's really a big chunk like
+[15:47] a lot a lot of phenomena and the
+[15:49] interesting thing right so in physics we
+[15:52] really like when we see what is called
+[15:55] universality so different phenomena
+[15:59] doesn't seem like what Bitcoin has to do
+[16:01] with the planets right and this is one
+[16:03] of the things that I hear all the time
+[16:05] from people that don't know science of
+[16:06] they don't know
+[16:08] physics what has what is a corresponding
+[16:11] why there is any relationship well
+[16:14] because ex what we do in physics exactly
+[16:17] that we look for oh you know this thing
+[16:19] behaves like this other we have the same
+[16:21] behavior so in a sense we are the same
+[16:24] like for example waves right this is
+[16:26] another thing that we study in physics
+[16:28] the wave waves in the sea the sound you
+[16:31] know that we hear that is a wave the
+[16:34] light is a wave right very different
+[16:36] level of abstractions of a wave because
+[16:39] you know usually you don't see light as
+[16:40] a wave but it is a wave it is a wave and
+[16:43] this what we physics we get really
+[16:46] really excited when we see this
+[16:48] Universal pattern different phenomena
+[16:50] that behaves very similarly and they can
+[16:52] describe the same laws you know it it
+[16:55] gets excited I don't know we you know we
+[16:57] are a a bunch of nerds but it's really
+[17:00] important because you know um once you
+[17:05] understand the formula behind then you
+[17:07] can
+[17:08] say how these things behave you know you
+[17:11] can use the same questions and say yeah
+[17:13] you know sound and light are very
+[17:15] different but you know they behave like
+[17:17] a wave so I can calculate with speed I
+[17:19] can calculate other properties of a wave
+[17:21] I can tell you how much energy VI car
+[17:23] you know because it's the same formula
+[17:25] so this why this why it's very powerful
+[17:28] to see this similarity and power lws is
+[17:30] one of the keys that allows us to make a
+[17:33] lot of connections because you know
+[17:35] there are phenomenal in nature like you
+[17:38] know how River form How Mountains grow
+[17:40] like the other day uh I was showing in
+[17:43] my X account how you know there is this
+[17:46] article that had a very beautiful graph
+[17:48] of how te grow teth grow in a power LW
+[17:52] if I make a graph of the size of a tooth
+[17:54] and then time how much time of the
+[17:57] animal is you know for how long the
+[18:00] animal is growing for long the tooth is
+[18:02] growing and they do a log of the size of
+[18:06] a tooth and the log of time right of
+[18:09] growth it's a beautiful power law and
+[18:12] there are different Power laws for
+[18:13] different animals so you can actually
+[18:15] use it as a fingerprint this animal as
+[18:17] this slope you know because there are
+[18:19] different slope right there are
+[18:20] different lines you will have different
+[18:22] slope because that slope it turns out to
+[18:24] be the power is a you know if you
+[18:26] measure the slope is actually the
+[18:29] quantity I told you right the equation
+[18:31] usually is like y equal the quantity x
+[18:36] to the power to the n and that n is the
+[18:39] slope of a straight line and that n tell
+[18:42] us a lot of information I made a PO um
+[18:45] post the other day it was very very
+[18:47] popular because I was explaining how if
+[18:49] you look at metabolism and the size of
+[18:51] the animal you get a again a beautiful
+[18:54] straight line for many different animals
+[18:56] and the fact that that n is three over
+[18:59] four it tell us a lot of things you know
+[19:02] and uh people can go on X and look at my
+[19:05] post or you know we can spend a couple
+[19:08] of minutes to explain if if you are
+[19:10] interested but uh so this is the general
+[19:13] idea of power law they come up in nature
+[19:15] many times is this a relationship very
+[19:17] simple relationship but it has a lot of
+[19:22] consequences in terms of how things
+[19:24] happen how the metabolism of an animal
+[19:27] uh Works how
+[19:29] um scaling and changing size when we
+[19:32] grow you know U how planets move around
+[19:36] so so many many different things that
+[19:37] are described by different simple laws
+[19:40] and it doesn't matter if it's simple
+[19:41] that is otheris oh it's so simple it's
+[19:44] so silly you know is well this how
+[19:47] nature likes it you know nature likes
+[19:49] simple things economical things is
+[19:51] trying to do something in the most
+[19:54] simple and direct and efficient way you
+[19:57] know doesn't to be
+[19:59] complicated and I I totally get now the
+[20:03] the whole power law and how it's
+[20:05] connected to Nature and when we now talk
+[20:08] about Bitcoin and the power law for me
+[20:10] is the one question in mind like there's
+[20:13] the human side of things like what does
+[20:15] happen when like apple for example
+[20:17] tomorrow comes out and says uh we are
+[20:20] now buying with all our reserves Bitcoin
+[20:22] I mean it's unrealistic but um how does
+[20:26] uh the human brain
+[20:29] uh and the human factor work in this
+[20:32] power law and why does Bitcoin still
+[20:34] follow this power law and can this
+[20:36] something break this power law in
+[20:39] Bitcoin okay very good question so in
+[20:41] general let me say let me answer why
+[20:44] this power actually come up in human
+[20:46] behavior because they don't it's not
+[20:48] just Bitcoin right so you will say hey
+[20:50] Bitcoin is not a force of nature I use
+[20:52] this Logan that I know it's as his
+[20:56] limitation because you know it's not
+[20:57] really a force of nature in the sense
+[20:59] that is something that comes from
+[21:01] directly from the natural war first of
+[21:03] all humans are part of the natural War
+[21:06] so it's still nature uh how humans
+[21:10] behave as a group you know why not and
+[21:14] second um we find this uh Power laws
+[21:18] also in Social phenomena these again uh
+[21:22] famous Italian sociologist e Economist
+[21:27] his name is Paro probably you heard
+[21:29] about him right for example income
+[21:31] distributions are um if you take you
+[21:35] know how much a person has in terms of
+[21:38] income and you look at how many people
+[21:41] have that type of income and you
+[21:43] organize them and so on you get a power
+[21:45] law and it's called the Paro
+[21:47] distribution you know he discover there
+[21:50] is a very precise like you will say how
+[21:52] is possible right people probably have
+[21:55] random uh salaries Etc it's a human
+[21:58] phenomen
+[21:59] maybe you know this count is different
+[22:01] this yeah different countries will have
+[22:02] different slopes and again you can use
+[22:06] it almost like something specific for
+[22:07] that country almost like a fingerprint
+[22:10] but we still follow that you know it's
+[22:12] also called the rule of 8020 because it
+[22:14] turns out 80% of the people sometime you
+[22:18] know in some countries even worse but
+[22:20] 80% of the people sorry 20% of the
+[22:23] people own 80% of the resources and that
+[22:26] happens in so many different phenomena
+[22:27] like a for for example in social media
+[22:29] you know 20 80% of the post come from
+[22:32] 20% of the people you know this law tell
+[22:36] us a lot of things so you will think how
+[22:38] is possible that human beings behave in
+[22:40] that way you know in social media people
+[22:42] do whatever they want they are free to
+[22:44] do well I'm not sorry this is how it
+[22:47] happens because when people start to
+[22:48] interact Etc they follow certain laws
+[22:51] you know why that happens well it's much
+[22:53] more complicated with human beings we
+[22:55] don't know exactly the interaction Etc
+[22:58] about so
+[22:58] they organize themselves to create this
+[23:01] law and you can see them in our cities
+[23:03] behave like for example this is
+[23:05] something relatively new in the last
+[23:07] maybe 20 years there was in particular
+[23:09] there is this physicist called Jeffrey
+[23:12] West and he has beautiful TED Talks
+[23:14] maybe you can link it in your video uh
+[23:17] where and also books and paper of course
+[23:20] right he's a scientist he publish a lot
+[23:21] of it's not just a scientist going
+[23:23] around talking about stuff you know you
+[23:25] usually write papers you know scientific
+[23:27] or the science analyze so it's a very
+[23:30] well assed field it's not just a random
+[23:33] guy uh it's an entire field of study
+[23:35] where people look at cities how City
+[23:37] organized for example look at the number
+[23:40] of gas station you know you will think
+[23:42] the number of gas station in a city it's
+[23:45] just random right the city has a m more
+[23:48] these others you know fewer maybe you
+[23:51] know yes it's proportional to the size
+[23:53] of a city but you know I don't expect to
+[23:56] see a very precise law no there is such
+[23:59] a precise same thing with income same
+[24:01] thing with the patents that that city
+[24:03] produces same thing with you know
+[24:06] hundreds of different type of things
+[24:08] that you look they all organized as
+[24:10] power power power almost to the point
+[24:13] where you know I I made a joke and say
+[24:16] and you know is it's all about power law
+[24:18] it's it has been all about power law
+[24:21] yeah it is you know a lot of things and
+[24:23] with Bitcoin in a way is surprising
+[24:27] because when you see it with your own
+[24:29] eyes because one thing is what the
+[24:31] theory says and the other when you
+[24:34] actually see it it's amazing because you
+[24:38] know first of all is there and is
+[24:40] undeniable and second you know it's
+[24:44] you're thinking about say of course
+[24:46] because Bitcoin is a network and
+[24:48] networks hold and behold you know when
+[24:51] you have interaction between different
+[24:53] agents this how we call them in in
+[24:55] physics you know different things that
+[24:57] interact with each other in different
+[24:59] way right be people that talk about
+[25:01] Bitcoin the miners how the miners
+[25:04] interact with the the people that trade
+[25:06] Bitcoin it's a big interactive Network
+[25:10] right uh literally because there are all
+[25:12] these nodes around the planet where
+[25:14] running the protocol Etc you always
+[25:17] almost always you see Power lows
+[25:21] expressing and you can even go through
+[25:22] the mat and show that yes you will see
+[25:25] Power lows and and then you say well but
+[25:30] what if uh there is something big you
+[25:32] know like the ETF what if Apple like you
+[25:35] say right it starts to adopt
+[25:38] Bitcoin because they allow it to use it
+[25:42] in their Apple store or whatever you
+[25:44] know Facebook adopts it Elon mask or
+[25:47] whatever it's usually these things do
+[25:51] not change the behavior like you know
+[25:54] like in a city will say well what if in
+[25:57] a city and a c point they invite a big
+[26:00] Corporation to come in right like you
+[26:02] know remember there was a time when um I
+[26:06] don't remember if it was Apple or some
+[26:07] other maybe Google you know they were
+[26:09] looking for another headquarters right
+[26:11] and there different city competing with
+[26:13] each other what if that City gets Google
+[26:15] coming in in the town will know that
+[26:17] change everything the Dynamics of this
+[26:19] power law really usually not really
+[26:23] because you know what happens the
+[26:24] company moved there because the power
+[26:27] law What was a the right place that to
+[26:29] go to the next step needed something
+[26:32] like Google to come in right it's almost
+[26:35] like the power law attracts you know
+[26:38] because it's it's it's a sign of how
+[26:41] evolved the city is how wealthy the city
+[26:44] is now there are some exception if a big
+[26:47] company like Google come in in a small
+[26:49] little town you know that creates some
+[26:51] kind of big change Etc and that also is
+[26:54] part of the theory how very dramatic
+[26:56] changes can affect a network right but
+[27:00] usually it it's very rare and this why
+[27:03] you see this power loss because if it
+[27:05] happen all the time we will not see them
+[27:06] right we see just disrupted power loss
+[27:09] instead usually the other way around if
+[27:12] a network is ready for a the next big
+[27:15] event then that event comes but for
+[27:18] Bitcoin is a beautiful story because if
+[27:20] you think what happened right in this 15
+[27:22] years in the beginning was nothing you
+[27:24] know it was just Satoshi and some crazy
+[27:29] cryptographers you know in a very small
+[27:31] little corner of Internet doing their
+[27:33] little things about hacking you know
+[27:35] white talking and thinking about
+[27:37] cryptography and stuff like that he
+[27:39] created this thing his friends say some
+[27:42] were skeptical some were supporting they
+[27:45] come together you know they start to
+[27:47] share ideas then Satoshi launch the code
+[27:50] some people run it on their computer
+[27:52] they use some of their resources they
+[27:54] debug it and this makes the network grow
+[27:57] more people people hear about it they
+[27:59] come in they started to tra you know to
+[28:01] trade it between themselves somebody
+[28:03] buys a pizza with thousands of Bitcoin
+[28:06] you know all these events all these
+[28:07] events right uh you know media start to
+[28:11] talk about Bitcoin so all these things
+[28:13] are happening and it's basically like a
+[28:15] feedback loop like this right so
+[28:17] something happens it brings the
+[28:19] resources the resources make the network
+[28:21] work go up and grow the that attracts
+[28:24] more resources and so on and so on these
+[28:27] when you have a effects like that that
+[28:29] we call them in in physics we call
+[28:32] multiplicative because you know you have
+[28:35] something then is multiplied by the
+[28:37] effect of another then is Multiplied so
+[28:39] you have like instead of summing things
+[28:41] you multiply them that is exactly when
+[28:44] you you will expect a power L this why
+[28:47] I'm I'm saying to everybody look I'm not
+[28:49] just drawing a stupid straight line
+[28:51] through data there is an entire
+[28:54] philosophy there is an entire
+[28:56] understanding if you get this principle
+[28:59] then you understand a lot of things of
+[29:00] Bitcoin it's almost like a key like a
+[29:03] lot of equ that you have about Bitcoin
+[29:05] what will happen with the ETF my answer
+[29:07] is nothing you see I'm very different
+[29:09] from many people because I'm saying this
+[29:12] based on some principle that I could be
+[29:16] wrong and we will see what the data
+[29:18] shows but if this principle is I am
+[29:21] trying to be consistent with this
+[29:22] principle then I can answer all these
+[29:24] questions and you can actually make
+[29:26] predictions you can say
+[29:28] you can say when is when how many years
+[29:33] are we are going to wait before beIN
+[29:36] catches up with gold and becomes more
+[29:39] valuable than all the gold on earth
+[29:41] because of this principle and because of
+[29:43] these ideas and because of the
+[29:45] mathematical laws that governs Bitcoin
+[29:48] that seems to be true I can make this
+[29:51] prediction see so it's an entire
+[29:53] philosophy an entire understanding of a
+[29:56] history of Bitcoin of a future of
+[29:58] Bitcoin of the nature of Bitcoin once
+[30:00] you understanding as a power L first of
+[30:02] all if you like mat if you like you know
+[30:06] principles Etc it's so fantastic because
+[30:09] you know it's not a random asset it's so
+[30:12] weird you know we have this incredible
+[30:14] asset that for the first time in human
+[30:17] history is not just random you follow a
+[30:20] very precise path right so it's a
+[30:23] beautiful interesting things even if you
+[30:25] are not interested in Bitcoin just
+[30:27] studying it and trying to understanding
+[30:29] it it's beautiful there is no other way
+[30:31] to describe it if you like math and
+[30:33] physics Etc you find it beautiful you
+[30:35] know it's organized so people resisted
+[30:39] but if I am right and this is true the
+[30:42] consequences are incredible you know in
+[30:44] terms of this social experiment you can
+[30:47] call it a social experiment a physics
+[30:49] experiment because you know we use
+[30:51] energy we transform energy to create
+[30:53] this asset you know to create value in
+[30:56] the network and so it's really
+[30:59] fascinating and and it's powerful it's
+[31:03] uh for me still a fascinating thing to
+[31:05] to that Bitcoin follows models and we
+[31:08] have from the past we have the stock to
+[31:10] flow model I think this is something
+[31:12] that uh is really popular in the in the
+[31:14] Bitcoin scene lately not that much but
+[31:17] it was really popular maybe it becomes
+[31:19] again really popular and all this um
+[31:23] models and now also the power law uh
+[31:26] tries to kind of predict where the price
+[31:29] is going with different kinds of mythics
+[31:32] um the power law is really interesting
+[31:34] because it's the first one for me and
+[31:37] I'm I'm not a physicist I have I only
+[31:41] I'm a software developer so I have not
+[31:44] that much understanding of all that uh
+[31:46] nature and all th those uh meth methods
+[31:50] but as I understand this is the first
+[31:51] one that's like tied to Nature and for
+[31:54] me Bitcoin is also really tied to Nature
+[31:57] and
+[31:58] when I now asked the question to you
+[32:00] like uh how can we predict the price of
+[32:04] Bitcoin and if we now have the last 15
+[32:07] years as record where it follows the uh
+[32:10] price Model the the the power law uh
+[32:15] where will Bitcoin stand in like 15
+[32:17] years when will we break the 1 million
+[32:20] US dollar
+[32:21] barrier um and also another interesting
+[32:24] question is is that power law
+[32:26] denominated in US dollar the same thing
+[32:30] denominated in I don't know Zimbabwe
+[32:32] dollar Venezuelan dollars is there
+[32:35] difference in in those kinds of um
+[32:38] smaller and even uh less powerful uh fat
+[32:43] Curren
+[32:45] is very good questions okay so one by
+[32:48] one so the first one about model so yes
+[32:51] it's a great thing that actually you can
+[32:54] study Bitcoin and try to make prediction
+[32:57] and
+[32:58] actually believe me it's not just uh me
+[33:02] and uh Plan B that are doing these
+[33:04] things uh like with some kind of
+[33:06] methodology because of course you know
+[33:07] you can always draw a line you can do ta
+[33:10] Etc and most of the time it doesn't work
+[33:13] because it's mostly based on humans
+[33:15] trying to find patterns where they are
+[33:17] not because this is how we are
+[33:18] programmed right it's a very good thing
+[33:20] we are kind of machines we're trying to
+[33:23] find pattern because this are what
+[33:24] allows us to survive but many times we
+[33:27] do
+[33:28] mistakes you know we see you know Jesus
+[33:31] on a toast you know like oh look at this
+[33:33] you know looks like Jesus or you know
+[33:35] you see something in the clouds you know
+[33:37] when there is nothing in the clouds so
+[33:41] people can do that but you know if you
+[33:42] have a methodology then you at least you
+[33:46] around something like for example as the
+[33:48] s2f model it had some value because it
+[33:51] had
+[33:53] some understanding of C you know like
+[33:55] this is what makes the price goes up you
+[33:58] know this is the mechanism the U amount
+[34:01] of Bitcoins that are mined because of
+[34:03] the alving event goes by down by a
+[34:05] factor of two so I'm thinking that this
+[34:08] what is going to happen so you know I am
+[34:09] M actually with I know it received a lot
+[34:12] of criticism people got disappointed and
+[34:15] I think this what is happening also a
+[34:16] little bit with my mother because people
+[34:18] got tired and disappointed by s2f and
+[34:21] you know we are kind of resisting by
+[34:24] telling everybody that actually we have
+[34:27] crack Bitcoin we have a model that works
+[34:29] and I mean if I show you slide some of
+[34:32] the recent things they did I think
+[34:34] really I cracked it you know it really
+[34:36] behaves exactly like I'm saying it is
+[34:38] behaving uh and not not just in the
+[34:41] general Trend but you know even in all
+[34:44] the different phases of a cycle but um
+[34:48] you know it's this how you do science
+[34:50] you come up with an hpo remember what I
+[34:52] told you Kepler tried many different
+[34:54] things before he found the right thing
+[34:56] you know this is how you go like uh
+[34:58] Edison you know he was trying literally
+[35:01] thousand of different materials for his
+[35:03] light light bulb for the filament and
+[35:05] they were all failing until he found the
+[35:08] right one you know tungen for example uh
+[35:11] so he this how you do science you try
+[35:13] you explore and it's beautiful that the
+[35:15] Bitcoin is actually study because if you
+[35:18] go online actually and you go on scholar
+[35:20] you know where they have all the
+[35:21] scholarly articles you find really
+[35:24] hundreds of papers on bitcoin people are
+[35:27] studying as a scientific topic maybe
+[35:30] bitcoiners are not aware of it but
+[35:32] actually they should it's actually there
+[35:34] are serious scientists they study
+[35:36] Bitcoin and in fact there are even Ser
+[35:39] scientists they found power lws like I
+[35:41] always mention all these these one of my
+[35:44] favorite Financial physic is actually
+[35:46] pretty famous his name is seret he's a
+[35:49] French scientist and he actually
+[35:52] published a couple of papers where it's
+[35:54] all about power laws he he found
+[35:57] actually one of the first Power laws
+[35:58] that they found was a power law that I
+[36:01] found four years before but at the end
+[36:03] publish a paper instead I I was silly
+[36:05] and I wrote on Reddit I should have
+[36:08] publish a paper instead of spending my
+[36:10] time on Reddit and and social media but
+[36:12] you know this how we did it and they
+[36:15] publish the paper because usually you
+[36:16] know you cannot publish exactly the same
+[36:19] thing that somebody else publish un you
+[36:20] know unless you make an improvement or
+[36:23] something but you know they didn't know
+[36:25] about my work because you know it's on
+[36:27] redit and so they don't read readit they
+[36:28] are seror scientist they're not like me
+[36:31] that I'm playing with kids and you know
+[36:33] talking about it's it's fun it's fun and
+[36:36] I like it it's also educational you know
+[36:38] but it's okay but just to tell you right
+[36:40] it's a scientific topic power loss came
+[36:42] about with bcoin before serious
+[36:45] scientist mention them but then mention
+[36:47] this specific one that I'm mentioning
+[36:49] that is time itself being a power law
+[36:52] with price and uh um and so you know the
+[36:57] beauty of doing something in time is
+[36:59] that if you're right and your equation
+[37:01] you basically you come up with an
+[37:03] equation of how bcoin develops in time
+[37:06] then I can plug in in that equation any
+[37:08] future time right and so this how I can
+[37:11] make a prediction I have an equation
+[37:13] that b describe a Behavior now you have
+[37:15] to understand what it means in this case
+[37:17] for example we're looking at the medium
+[37:19] price you know the kind of the average
+[37:21] price of Bitcoin right we are not trying
+[37:23] to predict exactly where it is day by
+[37:25] day but in average where in average
+[37:28] price is going and again remember with
+[37:30] emphasis on scale we are not caring
+[37:33] about you know is it 50,000 or 53,000
+[37:37] you know to me is the same thing because
+[37:39] remember I want to focus on how the
+[37:42] price scales up right so is it 50,000 or
+[37:45] 100,000 you know is 10
+[37:48] or you know 50 is in between so okay so
+[37:52] but you know it's much more precise than
+[37:54] that but in general we are trying to
+[37:56] understand how we go to the next level
+[37:58] of 10 does it take five years does it
+[38:00] take 10 years does it take 100 years you
+[38:02] know that is this entire thing about
+[38:04] power lws uh it's the focus on scale so
+[38:08] you know there are many differen between
+[38:09] s2f and the power law of course I
+[38:12] believe the power laws are more powerful
+[38:16] you know me and plan B are talking we
+[38:18] want to do at a certain point like a
+[38:19] public public debate you know where we
+[38:22] discuss with Pro and cons I admire him
+[38:25] and I think he's great I think he got
+[38:27] too much negative publicity when his
+[38:29] model didn't work because people got
+[38:31] disappointed there was some controversy
+[38:34] there I think he was at a certain point
+[38:36] maybe got excited and he was kind of
+[38:38] hyping you know what was going to happen
+[38:41] you know because his model is very
+[38:42] optimistic this is basically an
+[38:45] exponential so every four years
+[38:47] according to his model we go up by a
+[38:49] factor of 10 and you know so this cycle
+[38:52] for example s2f predicts basically we
+[38:55] are going close to a million my
+[38:57] prediction right because you were kind
+[38:59] of asking what my model predicts is more
+[39:02] like 210,000 for the cycle is much more
+[39:06] sober is much more because you know
+[39:09] there is growth but the one of the
+[39:12] messages because there are a lot of
+[39:13] messages associated with the power law
+[39:15] is that it takes longer and longer for
+[39:18] Bitcoin to grow you know most of the
+[39:21] very fast growth happen in the beginning
+[39:23] and now we are slowing down and
+[39:25] everybody kind of kind of see that right
+[39:27] because we don't see that explosive
+[39:29] growth it's the same growth right
+[39:31] strangely enough because but because has
+[39:33] to do with size it to you know the
+[39:35] analogy is this if he you know if it
+[39:38] took let's say took a you know 100 days
+[39:41] for Bitcoin to go from one to
+[39:43] $10 next step to go from 10 you know to
+[39:49] what did they say from1 to $100 right to
+[39:51] go from 100 to a th000 so it's a next
+[39:54] step of 10 it takes a proportional
+[39:57] amount of time so instead of you know
+[40:00] 100 days it's going to take a thousand
+[40:02] days so you know we're talking about
+[40:04] years right because thousands of days is
+[40:07] kind of almost like three years right
+[40:10] so this is idea that to go to the next
+[40:14] step it takes longer and longer and
+[40:16] longer so for example how long is going
+[40:18] to take to reach a million well it's
+[40:21] going to take
+[40:23] 2033 that is what the calculation of a
+[40:26] model says which you should reach 1
+[40:28] million around 2033 now if you if you if
+[40:32] s2f is right because this cycle actually
+[40:36] we will see if SF is completely wrong
+[40:40] because it look kind of wrong last cycle
+[40:43] but this time this new cycle will really
+[40:46] decide between all these models you know
+[40:48] and again it's something that happen
+[40:50] science as you get more data some of the
+[40:52] old models die and is almost like a
+[40:55] battle of the models you know so model
+[40:57] gets put aside because we were're wrong
+[40:59] that you know like the Earth being the
+[41:01] center of the universe you know it
+[41:03] turned out not to be true we went to the
+[41:05] heliocentric model right so as you get
+[41:09] more data more information and knowledge
+[41:11] many different models can be excluded
+[41:14] you know so I think this what will
+[41:16] happen with this new Circle and s2f uh I
+[41:20] think his model is wrong mostly because
+[41:22] the exponential growth doesn't look like
+[41:25] what is bitcoin is doing and also you
+[41:27] know what again because all this is a
+[41:29] philosophy power laws are associated
+[41:32] with something that is stable that is
+[41:34] strong that is antifragile you do it
+[41:37] something to it he wants to go back to
+[41:39] where he was before so I prefer to work
+[41:41] that the coin really follows a power law
+[41:44] because even if it takes longer for us
+[41:47] to go you know to millions of dollars it
+[41:50] shows that the system is robust is
+[41:53] strong it's going to last for a long
+[41:55] long time and things that move move
+[41:57] exponential they don't they usually go
+[42:00] fast fast fast and then they crash or
+[42:03] something really dramatic happens to
+[42:05] them so you know we will see because
+[42:08] whatever bcoin does whatever bcoin does
+[42:11] right I I cannot force it to do a
+[42:13] certain thing but you know again I think
+[42:16] the power law gives us a completely
+[42:18] different perspective s2f is part you
+[42:21] know and by the way I'm doing model much
+[42:24] much earlier than uh Plan B I started is
+[42:27] in 2012 all the way so you know it's not
+[42:30] that I'm trying to copy what plan B is
+[42:33] doing with something different you know
+[42:34] I'm doing this much earlier than him but
+[42:37] you know like I say I think there is so
+[42:40] much more so much more interesting
+[42:43] principle ideas and they are all
+[42:46] consistent and all you know even this
+[42:48] idea of time for example that we have to
+[42:51] wait for good things to come right so
+[42:53] you you read of a Bitcoin standard right
+[42:56] at remember that there is concept of
+[42:59] preference time time preference right
+[43:02] and and there is idea that it's it's a
+[43:05] good thing to wait you know for gains
+[43:09] and for uh good things to happen right
+[43:12] so I make a joke all the time that uh
+[43:16] yeah it's actually for Bitcoin it's it's
+[43:19] not preference time but preference log
+[43:22] time right because I'm taking the log of
+[43:24] time so it's kind of a joke but it makes
+[43:26] you feel think about what is beyond that
+[43:29] if you want really if you care about
+[43:31] this system and we want to support the
+[43:33] network and for us you know it's a tool
+[43:36] for Freedom Etc we want it you know like
+[43:39] a plant you know that is growing with
+[43:41] its own patterns and it's going stronger
+[43:44] and stronger you know instead of being
+[43:47] selfish and want that Bitcoin goes up
+[43:49] like an exponential and we make millions
+[43:52] very quickly I rather hope that a
+[43:56] Bitcoin it's like that key that waits
+[43:58] for the cookies you know that uh is
+[44:01] taking his time and say okay I'm I'm
+[44:03] going to wait because now now I'm going
+[44:04] to get two cookies instead of one right
+[44:07] so you see how the philosophy changes we
+[44:09] are almost like opposite in a way s2f
+[44:12] and the power LW there are like two
+[44:16] different models that say different
+[44:17] things you know all opposite things yeah
+[44:22] I like uh your approach to it because it
+[44:25] seems like an uh and connected to
+[44:28] Something Real it seems like low time
+[44:31] preference it seems like not a hype
+[44:33] model where you like predict oh at this
+[44:36] state uh the price will be at 1 million
+[44:39] it's like uh no we having a power low
+[44:43] and this is what it seems like and you
+[44:45] also mentioned it in the beginning
+[44:47] somewhere that uh there can be
+[44:50] exceptions like for example I don't know
+[44:52] uh in uh in the in the co area actually
+[44:56] happened in Germany where the the
+[44:59] company who buil who was uh doing the
+[45:02] manufacturing of the covid vaccines H he
+[45:05] that was in a smaller uh town and they
+[45:09] now bringing in so many taxes because of
+[45:12] one event like probably this is
+[45:14] something it's a little bit of an
+[45:15] exception to like something like a power
+[45:18] but as Bitcoin also grows it seems like
+[45:22] uh exceptions to the power law can be
+[45:25] happen uh um not as as as as fast like
+[45:30] the more Bitcoin grows the harder it
+[45:33] gets for it to to break like you know
+[45:36] like exactly exactly exactly you start
+[45:40] see you you started to be a fellow
+[45:42] physicist you're starting think like a
+[45:44] physicist you know this is good this
+[45:46] this is this why you know I wish
+[45:48] everybody study Physics you know they
+[45:50] should it's the martial I call it
+[45:52] sometime the martial art of science you
+[45:54] know it really trains you we have even
+[45:57] experiment they show that when students
+[45:59] take physics classes their brain changes
+[46:01] because it's so different from thinking
+[46:03] from everything else you start to see
+[46:05] pattern you started to reason in a very
+[46:08] systematic way you know you say okay
+[46:11] yeah great like you did right now you
+[46:13] say yeah a system is bigger and I'm
+[46:15] talking about some kind of feedback loop
+[46:18] of action reaction of course it's going
+[46:20] to go slower because it takes much more
+[46:23] to go from you know 100,000 to a million
+[46:26] you know
+[46:27] uh and also exceptions will not be so
+[46:32] important you know very be little uh
+[46:35] there be some reaction but it will not
+[46:37] be as dramatic as before you know and we
+[46:40] see that we seen so many things even
+[46:42] these bubbles you know these times when
+[46:45] after the alving the price goes away
+[46:48] actually from the power law it's a i i
+[46:52] that again I try to be consistent with
+[46:54] My Philosophy I see it almost what
+[46:57] physic is called like a perturbation you
+[46:59] know it's like a you have a you know
+[47:02] like a a branch of a tree but you know
+[47:04] stays there it's stable and then I go
+[47:07] and hit it and what it does it starts to
+[47:09] vibrate right and then little by little
+[47:12] because of the frictions inside the tree
+[47:15] and you know the fibers inside the tree
+[47:17] they create friction it loses that
+[47:20] amplitude and he goes back to where he
+[47:23] was
+[47:24] before and so that is exactly what what
+[47:27] happened with the coin because if you
+[47:28] see what happens with the bubble I can
+[47:30] show you again in one of the graphs you
+[47:32] see the response to the alving the price
+[47:35] goes up like crazy and then he reaches
+[47:38] the top and he goes back and you know
+[47:39] where he goes exactly along the
+[47:42] trajectory of a power law it goes back
+[47:44] there how does he do it I don't know but
+[47:47] it does it you know it's a fact it's
+[47:49] there in the graph you know it's a
+[47:51] scientific thing and it shows that the
+[47:54] system is robust it's yes it can react
+[47:56] react to changes but even goes back to
+[48:00] equilibrium same thing with physiology
+[48:02] if I run my heartbeat will go up you
+[48:05] know it it's kind of a perturbation in
+[48:07] the system then because what is called M
+[48:11] homeostasis you know the system wants to
+[48:13] go back to equilibrium you see again
+[48:16] this understanding of Bitcoin as a power
+[48:19] law also allows you to understand how
+[48:21] the Cycles work it's all consistent it's
+[48:24] all part of the story and it's not
+[48:27] you know it's not like a little BS story
+[48:30] you know that I'm making up it's all
+[48:32] Based on data it's all based on science
+[48:34] it's all based on now could could I be
+[48:37] wrong yes because some of these things
+[48:38] that maybe I see maybe are not here you
+[48:41] know but this we have a tool now to go
+[48:44] and answer this question in a more
+[48:46] scientific way you know and and and
+[48:49] understanding Bitcoin as this kind of
+[48:51] process that follows a power law so yeah
+[48:54] and uh can that happen in the future be
+[48:57] it could happen you know maybe there is
+[48:58] some dis disastrous event you know
+[49:01] like and sorry if I kind of skip a
+[49:04] question you were talking about
+[49:06] different currencies you know so what
+[49:08] happened I didn't do it yet because I'm
+[49:11] doing so many things I'm coming up with
+[49:12] some many I spend all actually almost
+[49:15] all my day doing these graphs because it
+[49:18] doesn't look like it takes time but it
+[49:20] does you have to code you have to
+[49:22] understand you have to adjust the graph
+[49:24] you know to make it nicer to make it
+[49:26] look more understandable for people so
+[49:28] it takes a long time for me to work on
+[49:31] this is I'm I'm very excited I cannot
+[49:34] wait to wake up and and work and see how
+[49:37] people like it and how they respond it's
+[49:40] really interesting uh it's it's the love
+[49:43] of my life right now you know but um
+[49:46] um you know I didn't do the currencies
+[49:48] because there were other things the
+[49:50] dollar is really good a good way because
+[49:54] we're talking about value most people in
+[49:56] the word use still the dollar as a
+[49:58] currency you know it's very stable
+[50:00] inflation inflation It's relatively
+[50:03] small uh it would be interesting to see
+[50:06] how it behaves with different currency
+[50:08] but it's really I don't know what we
+[50:11] could learn from that you know besides
+[50:13] okay this currency crazy and uh you know
+[50:16] maybe the power load is not there
+[50:17] anymore when uh you have a i a very
+[50:20] inflationary currency I I will do it
+[50:23] because it's interesting and it should
+[50:24] be done but I I don't know yet I saw
+[50:27] some graphs with other people show of
+[50:30] how crazy looks like looks almost
+[50:32] exponential but see at that point it's
+[50:35] not power law anymore I mean it's not
+[50:37] Bitcoin anymore it's really the currency
+[50:40] that is losing value in almost
+[50:42] exponential fashion so that effect
+[50:45] dominates over the growth of Bitcoin
+[50:47] itself it it looks like Bitcoin is
+[50:49] growing but really is a currency that is
+[50:51] losing value you know uh that is what
+[50:54] bcoin does you know the makes you your
+[50:57] stupid currency look like crazy if uh if
+[51:00] if you trade it in Bitcoin right but uh
+[51:04] I don't know if there is really a
+[51:05] pattern there we we can look at it but I
+[51:08] my guess is that it's dominated by the
+[51:11] currency losing value you know with with
+[51:13] dollar it's a small correction in fact
+[51:16] the other day posst because I say this
+[51:18] many times it's small correction small
+[51:19] correction but uh I really didn't show a
+[51:22] graph and then finally I show a graph
+[51:24] and you can see from that graph in my uh
+[51:26] Reddit post that uh it basically almost
+[51:30] didn't change at all you know while if
+[51:32] you do the same thing with the sp500 for
+[51:35] example in a equivalent amount of time
+[51:39] he lost almost half of his value so it's
+[51:41] already not much because you know like
+[51:43] in the last you know almost like 20
+[51:46] years SP 500 went up like four times you
+[51:49] know and it seem oh maybe it's a big
+[51:51] well it's not nothing for Bitcoin
+[51:54] because Bitcoin goes up a factor of four
+[51:56] in sometime in few months you know um
+[52:00] but um you know for a for a normal
+[52:04] investment seems a lot but you have to
+[52:07] cut it in half because you lost half of
+[52:09] it by for because of inflation you know
+[52:12] so it's really dominant with things like
+[52:15] SP 500 almost like you're basically
+[52:18] catching up with inflation you're not
+[52:19] really making a ton of money you are
+[52:22] like basically preserving your money
+[52:24] against inflation that is not what
+[52:27] investment should be about right it
+[52:28] should not just be about uh holding
+[52:31] something because uh you beat inflation
+[52:33] but you know to create wealth because
+[52:36] basically you're saving and you're not
+[52:39] doing all the things you would like to
+[52:41] do with the money because you want to
+[52:43] the Future reward but if a future reward
+[52:45] is hey I just uh fought inflation you
+[52:48] know it's really sad and it tells
+[52:52] everything right in our philosophy of
+[52:54] Bitcoin that we are against printing
+[52:56] money and we all the time complain about
+[52:59] inflation Etc these things that keeps us
+[53:01] like slaves you look at that graph it I
+[53:04] just posted you see it directly with
+[53:06] your eyes look at this you know I
+[53:08] invested in Sp 500 it's supposed to be
+[53:10] this incredible investment for 20 years
+[53:14] and I barely beat inflation by a little
+[53:16] bit you know while Bitcoin you you are
+[53:19] plotting the same graph Bitcoin bitco
+[53:20] looks like this you know like really
+[53:24] thousand tens of thousands B better than
+[53:26] sp5 R better than gold better than
+[53:29] anything it looks like like you look at
+[53:31] the graph you say what re is happening
+[53:33] yet doesn't even look real you know it's
+[53:36] crazy I'm super excited to announce that
+[53:39] this podcast got the first ever sponsor
+[53:43] 21 Bitcoin is Bitcoin only from day one
+[53:47] and they teach and preach self custody
+[53:49] this is my go to exchange when someone
+[53:52] asks me oh where can I buy my Bitcoin
+[53:55] from this is the EAS easiest entry for
+[53:58] bitcoiners and if you want lower fees
+[54:00] Plus at the same time support this
+[54:03] podcast use code Robin and click the
+[54:05] link in the description maybe it's now a
+[54:07] good time to actually look at the cfts
+[54:09] you you mentioned in the while we we
+[54:12] talked and now answer like the all the
+[54:14] questions like how is the graph coming
+[54:17] along what's the power of of the Bitcoin
+[54:19] power law yeah and and where we are
+[54:22] going and maybe we can also see like
+[54:24] okay when should we cross the you said
+[54:27] 210,000 for this cycle so like 210,000
+[54:30] in like the next one two years yes and
+[54:33] they can you see my screen I can see the
+[54:35] screen yes bit boy side
+[54:38] on yeah this is actually my company so I
+[54:42] have a company and a goal of a company
+[54:44] and so let me see if I can actually make
+[54:46] it as a
+[54:48] presentation let slides show so I should
+[54:50] click here on the power L power L on the
+[54:55] PowerPoint so fixated with power
+[54:58] lws uh okay from the beginning all right
+[55:01] and and now you see it as um
+[55:03] presentation I see the slides yeah yeah
+[55:05] so my my site is called B posidon and
+[55:09] you guys can go there and sign up we
+[55:12] have a like a little box where you can
+[55:14] put your email we're going to we are
+[55:16] planning to send regular uh newsletters
+[55:20] uh you know to update people you know so
+[55:22] you you can actually see it at your own
+[55:24] liser instead of you know following me
+[55:27] also on Twitter this is my Twitter by
+[55:29] the way I I know if this is a crazy name
+[55:32] I didn't know that you actually could
+[55:34] use uh your own uh tailor the name and
+[55:38] because so many different places Now
+[55:41] link to this uh you know different
+[55:43] interviews that I did Etc I decided not
+[55:47] to change it at least for now uh so you
+[55:50] know just paste and copy and or you know
+[55:53] I know it's long but come and and uh see
+[55:56] our discussions on Twitter and this site
+[55:59] what this site is about uh we are
+[56:02] developing an app actually because uh we
+[56:04] want to help investors uh and the app
+[56:08] will you know you basically decide what
+[56:10] is your style if you're odler because
+[56:13] this approach can also be used by odler
+[56:15] because basically it's telling you look
+[56:17] this is a good time to do DCA uh do it
+[56:20] very aggressively because the price is
+[56:22] very low we are um oversold relative to
+[56:26] this General Trend here is not such a
+[56:29] good idea you know just wait a little
+[56:31] bit until you get actually a lower price
+[56:34] you know so even a old can use or if you
+[56:37] want to be aggressive where maybe you
+[56:39] want to multiply your Bitcoin and you
+[56:41] want to risk where you want to sell
+[56:42] maybe 10% of your Bitcoin 20% 50% you
+[56:47] know is is something that is called
+[56:49] rebalancing right you sell the asset
+[56:52] that is doing very well you know to get
+[56:54] the one that is not doing and then
+[56:56] because of a cycle you can Reby Bitcoin
+[56:58] at a lower price so this app is going to
+[57:00] help you with that you decide how you
+[57:02] want to play the game and then uh it's
+[57:05] basically doing the buy and selling for
+[57:07] you all automated of course you can
+[57:10] check what it's doing the performance
+[57:12] you can control it but uh many people
+[57:14] you know have busy lives so they don't
+[57:16] want to look at a chart all day long so
+[57:19] this this app can do it for you
+[57:21] automatically uh so sign up we are going
+[57:23] to do a beta testing very very soon so
+[57:27] you know uh you can be part of the beta
+[57:29] testing if we set up and so this is the
+[57:33] first graph I wanted to show you so
+[57:34] basically this is what I say all the
+[57:35] time this basically what they show on on
+[57:39] you know CNBC and all these uh Financial
+[57:44] uh media uh they always talk about how
+[57:47] Bitcoin went up like crazy and then it
+[57:49] crash and it looks messy you know like
+[57:52] if you look at this graph it doesn't
+[57:53] look very is a pattern at all right it
+[57:55] look looks like yeah maybe it's
+[57:57] generally going up you know we have this
+[58:01] going up recently right in the last year
+[58:04] but you know if you for example if we
+[58:06] just went through a bare Market it looks
+[58:08] sad right oh we reached 60,000 now we
+[58:10] crash to 16 and you know it's the hand
+[58:14] of Bitcoin it's horrible you know uh
+[58:17] this what we usually show you know uh
+[58:19] they I never show them saw them showing
+[58:22] a log graph for example where a so in
+[58:25] this chart what you see in this chart is
+[58:27] is called a linear chart because the
+[58:29] time in this case what I'm showing are
+[58:32] the days how many days are passed by
+[58:34] since the creation of Bitcoin so the
+[58:36] what we call the Genesis block this why
+[58:39] we have zero you know of a Genesis block
+[58:42] when Bitcoin was created then uh you
+[58:45] know these are the number of days from
+[58:47] that event right uh and and basically
+[58:51] here is where we are today um I think at
+[58:54] this this charts like three or four days
+[58:56] ago and here on the Y AIS we see the
+[58:59] price I know it's in this scientific
+[59:00] notation that some people are not
+[59:02] familiar but you know we're talking
+[59:03] about every Mark here is basically
+[59:06] 10,000 right so we have on top 70,000
+[59:09] 60,000 and so on because 10 to4 here
+[59:13] means
+[59:14] 10,000 um and uh and then you know if
+[59:18] you do this chart with many people are
+[59:20] familiar because it looks kind of like
+[59:22] you know that rainbow chart that
+[59:23] everybody's familiar the rainbow chart
+[59:26] actually is based on the work of this
+[59:28] guy that is called troll or law I would
+[59:31] like to meet him one day somewhere in
+[59:34] the Bitcoin Universe because he you know
+[59:37] I don't think he he understood
+[59:40] completely what he was dealing with
+[59:41] because he doesn't use the word power
+[59:44] law uh it comes up with a a method that
+[59:48] is a little bit cumbersome but his big
+[59:51] intuition was I think we should plot
+[59:54] Bitcoin but is not you know a big big
+[59:56] deal because whenever you have something
+[59:58] that changes by you know factor of 10
+[60:01] like it happened with Bitcoin and
+[60:02] remember he did it this around 2014 so
+[60:05] we were here you know when we didn't
+[60:07] have a lot of data uh and he decided to
+[60:12] plot the graph on a what is called a log
+[60:15] linear so log in the y axis but still
+[60:18] linear in the y axis sorry the x-axis
+[60:21] you know the time is linear it is what
+[60:23] most people are familiar with and so so
+[60:26] when you do that even at that time it
+[60:28] looked like there was some kind of a
+[60:30] pattern and and he was trying to say to
+[60:34] people I think I see here something you
+[60:37] know it looks like and that was one of
+[60:40] the things I was trying to describe had
+[60:42] a very very good intuition so even if he
+[60:44] didn't have a language of a physicist
+[60:46] that you know to call it a power law uh
+[60:50] he understood that scaling was important
+[60:53] so and he and the scaling was the X Y
+[60:57] AIS it was focus on how Bitcoin changes
+[61:00] in the y axis and you say look you know
+[61:03] when I go from zero to
+[61:05] $1 and so you see here is log so what
+[61:09] this means you know when it's a log zero
+[61:13] we are talking about $1 because 10 to Z
+[61:16] is $1 10 to one is $10 10 to the two uh
+[61:20] $100 ,000 and so on right this this what
+[61:23] these numbers represent uh is the
+[61:26] exponent of these dollar prices so he
+[61:29] you know when he did it in that way he
+[61:32] he he started to say this see guys I'm
+[61:35] looking at how long it takes for Bitcoin
+[61:37] to go from you know from zero to $1 to
+[61:42] you know from from $1 to $10 from $10
+[61:45] from $100 and so on and it looks like
+[61:48] it's taking longer and longer time you
+[61:51] had a very beautiful graph with all the
+[61:53] time that it took to do that and you
+[61:55] also projected in the future because he
+[61:57] wanted to see what happened in the
+[61:59] future so he he is kind of a grandfather
+[62:02] of this idea right so because this also
+[62:05] how you do science it's not a question
+[62:06] oh I was the first you were the second
+[62:09] many people come together and everybody
+[62:11] has their own little contribution right
+[62:13] this how many scientific Fields develop
+[62:16] was you know Kepler and then Newton and
+[62:18] then you know and Galileo have started
+[62:21] you know they all contributed something
+[62:24] for science to move along so think with
+[62:26] the history of Bitcoin people started to
+[62:28] notice there were very precise
+[62:30] regularities right I was also active at
+[62:33] that time in this field I was making my
+[62:35] own charted I was already talking about
+[62:37] power lows but I was more focused I I I
+[62:40] cared about the price but I was also my
+[62:43] the power lws that I was Finding were
+[62:45] with addresses with Ash rate with
+[62:48] transition I didn't look at of the price
+[62:51] directly if a price directly was a power
+[62:53] law because I thought it was like kind
+[62:55] of two step process first you find the
+[62:57] power law let's say between addresses
+[62:59] and price and then if you know how
+[63:02] addresses change you can then do the
+[63:05] second step and say our price change
+[63:07] right so it was like a two-step process
+[63:10] uh and so I was like working there I
+[63:13] heard about Trololo model he was fitting
+[63:17] a nonlinear fit because you see this is
+[63:19] Al the other thing that he saw remember
+[63:22] he was for here around
+[63:24] 2014 it doesn't look very curved right
+[63:27] if you just focus up to 2014 it looks it
+[63:31] kind of looks almost like a straight
+[63:32] line and the straight line in this type
+[63:34] of graph is what is called an
+[63:37] exponential so many people were saying
+[63:39] that Bitcoin was an exponential and if
+[63:41] it was an exponential imagine I draw a
+[63:43] straight line just here from you know
+[63:45] the beginning to 2014 and I continue
+[63:48] that straight line you know it will be
+[63:50] already a million several years ago but
+[63:53] he didn't do that right so he was right
+[63:56] in his intuition because when oh
+[63:58] actually the ma because he applied uh
+[64:02] what is called a regression basically
+[64:04] it's a mathematical tool to find is
+[64:07] there like basically his answering this
+[64:09] question is there some kind of a curve
+[64:10] there that seems to explain the behavior
+[64:13] of Bitcoin and he came up with a log
+[64:17] that the answer was a log that the log
+[64:19] of
+[64:21] price seem to change with the log of
+[64:24] time and
+[64:26] I was kind of silly because if I I saw
+[64:28] that and I should immediately have
+[64:30] recognized but okay basically you found
+[64:32] the power law that this is a cumbersome
+[64:35] way of finding a power law because there
+[64:38] is a much more straight way and what I
+[64:40] want to say one more think about this
+[64:42] chart you see even the nonexperienced
+[64:46] mathematician of physicist looks at this
+[64:49] chart and all of a sudden it doesn't
+[64:51] look that random anymore right it
+[64:53] follows a very nice beautiful art
+[64:56] it seems to go up right maybe slowing
+[64:58] down right because it's curved it's not
+[65:02] straight if it was an exponential
+[65:03] remember it will look like a straight
+[65:04] line in this kind of Graph the linear
+[65:08] graph an exponential looks like a hockey
+[65:10] stick it goes very very fast but a in a
+[65:13] graph like this looks a straight line
+[65:15] this is not a power this is not a an
+[65:17] exponential so it looks curved so at we
+[65:19] means is growing but it's growing slower
+[65:23] than an exponential right and it's now
+[65:26] stoping because this thing in theory you
+[65:28] know it's like a parabola it's a very
+[65:30] because uh remember I told you that we
+[65:33] can extract the exponents when we do
+[65:36] this calculation and the exponent for
+[65:37] Bitcoin is 5.82 so it looks basically
+[65:40] like a a parabola right because we know
+[65:42] what a parabola looks like y equal s
+[65:45] square but instead of having the square
+[65:47] we are having a number that is almost
+[65:49] close to Six so you can imagine how fast
+[65:51] it's going so when we're talking about
+[65:52] slowing down it's still a very fast
+[65:55] process is slowing down relatively to an
+[65:58] exponential uh but so I was telling you
+[66:01] there is a much more St and this look
+[66:03] this stars are the alings right so we
+[66:05] can see some other regularities in this
+[66:07] chart like every time there is an alving
+[66:10] it seems there is a like some kind of
+[66:12] event where you know we call them bubble
+[66:14] the price goes up shoots up reaches a
+[66:17] top and then it comes down right but you
+[66:19] see how nicely because differently from
+[66:23] trolol and Etc this chart is also based
+[66:25] on the power law because I did one step
+[66:28] that I will show you in a moment and
+[66:30] then everything looks much more regular
+[66:32] when you do that see uh so even in this
+[66:35] chart you can start to see that it
+[66:37] doesn't look that random and people were
+[66:39] already pointed out but you know they
+[66:42] didn't really love the language of a
+[66:44] power LW because to me that is how
+[66:47] things start to be so clear first of all
+[66:50] and then it's not anymore fitting a line
+[66:54] it's an entire philosophy
+[66:56] of Bitcoin and in fact life so and that
+[66:58] is here look this is revealed by this
+[67:02] graph so for a moment forget about the
+[67:05] oscillations here because this is what I
+[67:07] added on top say Okay beside doing this
+[67:10] is also oscillating but so if you forget
+[67:13] about the oscillations you can see that
+[67:15] something magical happened look St curve
+[67:19] straight line right it looks like a
+[67:22] straight line and you say well there are
+[67:24] these deviation yeah yeah a straight
+[67:26] line with some deviations where like I
+[67:29] told you before look what happened here
+[67:31] it deviates it goes up then what after
+[67:34] and how does Bitcoin knows to do that it
+[67:36] comes back and look what it does it
+[67:38] follows the power LW it follows the
+[67:40] bottom you know it it is parallel to the
+[67:43] trend and it stays within this channel
+[67:46] that is like a deviation from that
+[67:48] General Trend the general trend is the
+[67:50] orange line so that is kind of a middle
+[67:53] ground and then you have this Reg is
+[67:56] like oh it looks like a it goes down to
+[67:58] some kind of a deviation like a very
+[68:00] fixed deviation it turns out it's about
+[68:03] 60% from the trend and then it stays
+[68:06] there and so I did it also before you
+[68:08] see and here and here a little bit you
+[68:10] know this actually by ways Co that is a
+[68:13] little deeper but you see you know um in
+[68:16] this um in in in the cycle after this is
+[68:21] like a this is the last cycle this is
+[68:23] the previous one like in 2018 then then
+[68:26] we had the covid and during the covid
+[68:29] the price went back you know to that
+[68:32] General bottom Trend right but it stayed
+[68:35] a little bit above right but I don't
+[68:37] know maybe where where things right
+[68:39] these are some of the there are
+[68:40] regularities and then there are like
+[68:42] little exceptions but in general again
+[68:44] you know the general pattern is follow
+[68:46] and this see after the last Cycles again
+[68:49] we see the same thing where price stays
+[68:51] there in this green band right that
+[68:54] represents like a a range of different
+[68:57] percentages from the general Trend right
+[69:00] in the legend you can see 20% 40% and so
+[69:03] on so all of a sudden when I saw these
+[69:07] with my training of
+[69:09] plotting power Lads and some of them
+[69:11] believe me are not perfect like the
+[69:13] planet they look ugly like if you do for
+[69:16] example with addresses it looks much
+[69:18] more disorderly right but there is still
+[69:21] a general Trend there where you can say
+[69:24] look it looks it doesn't look completely
+[69:26] random it follows a precise pattern it's
+[69:29] a power law and uh and then you know you
+[69:31] can actually do this calculation that is
+[69:34] a regression that uh is finding a
+[69:36] straight line and and many people say Al
+[69:38] you did a regression what is a big deal
+[69:40] is not a big deal because most people
+[69:42] that have like some basic mathematics
+[69:44] skills know how to do regression and the
+[69:46] computer can do for you the point
+[69:49] is recognizing that there is something
+[69:53] very organized very structure that is
+[69:57] very unlikely for a an asset to behave
+[70:00] in this way and in particular the other
+[70:02] thing that I always remind to the
+[70:04] critics of oh you just did a straight
+[70:07] line in a graph it is silly you are
+[70:10] silly if you say that because look at
+[70:12] this you know my Italian passion comes
+[70:14] out we went through orders of magnitude
+[70:17] the this thing went from being F cents
+[70:19] all the way to almost 100,000 and
+[70:22] through all these he beh in this regular
+[70:25] fashion
+[70:26] this cannot happen by chance okay no
+[70:29] scientist will tell will look at these
+[70:31] and tell you this happens by chance in
+[70:34] fact you know this uh Krueger um person
+[70:38] you know he's like one of the um very
+[70:41] active Bitcoin uh accounts and from what
+[70:45] I understand I like his post Etc is very
+[70:49] smart guy he has a a PhD from Stanford
+[70:52] in mat you look at this graph I don't
+[70:54] know why he didn't find it before but he
+[70:56] look at the graph and he commented this
+[70:58] is amazing Bitcoin goes through an
+[71:01] Unstoppable power law he understood it
+[71:04] anybody with any basic understanding of
+[71:07] math and physics and some a little
+[71:11] in understanding of Science and
+[71:14] intelligence immediately says this is
+[71:17] this is interesting this is weird and if
+[71:20] you do it with other assets they don't
+[71:22] look like that SP 500 doesn't look like
+[71:24] that gold doesn't look like that you
+[71:27] know just be coin and so it you know
+[71:30] when I discover this yeah it's not
+[71:33] something completely new there was TR
+[71:35] there were other people but the new
+[71:37] thing was this is a power law and
+[71:39] everything changes all of a sudden
+[71:40] because now you have all these other
+[71:43] tools that come together in trying to
+[71:46] interpret what Bitcoin does that we
+[71:48] already discuss right and so uh you know
+[71:51] this was an example that I was telling
+[71:53] you before this is a paper where a see
+[71:55] this a lot of we got also and a certain
+[71:58] point we were all you know when actually
+[72:01] s2f came about they were all these
+[72:04] economies coming out some of you know
+[72:06] probably students or maybe some phds Etc
+[72:10] they were debating about the validity of
+[72:13] v2f but also because uh there was like a
+[72:17] u this uh soft you know I think he's a
+[72:21] um computer scientist uh came out very
+[72:26] very clever guy he saw my paper not my
+[72:28] paper my my Reddit post because that was
+[72:31] my mistake to publish he saw my uh my
+[72:35] post and he also he like being a smart
+[72:38] guy immediately was convinced this is
+[72:41] striking and he started to post a bunch
+[72:44] of medium articles his name is HC burger
+[72:48] and he popularized this model you know
+[72:50] and it
+[72:51] becames not as famous as s2f but it
+[72:54] becames kind of almost the competition
+[72:56] and people were putting it down like
+[72:57] these economies we attacking it and some
+[73:00] of them started to make us fun of us but
+[73:02] we're taking the log of time because you
+[73:04] see how weird it looks all these dates
+[73:06] bunching up what these dates bunching up
+[73:09] means is because we are taking the log
+[73:11] of time it it takes longer and longer
+[73:13] and longer time for the price to go up
+[73:16] by a factor of 10 this what it means you
+[73:19] have to understand what is going on and
+[73:21] come up with the right interpretation
+[73:23] but because this Economist are not used
+[73:26] to take the log of time of an asset they
+[73:29] got confused and one in one of them in
+[73:31] particular was telling us is absurd you
+[73:33] know it doesn't make any sense it means
+[73:35] that time is accelerating it doesn't
+[73:37] mean that time is accelerating it's
+[73:39] simply a way of showing that if you
+[73:41] focus on scale both the price and the
+[73:46] time scale in a similar fashion in a
+[73:49] very we call it in physics we use this
+[73:52] term a scale invariant invariant means
+[73:55] it doesn't change so if I go from 10 to
+[73:58] 100 to th it does the same thing because
+[74:01] a straight line means a regular a
+[74:04] consistent pace of change right so the
+[74:08] same thing here so you can understand
+[74:09] what is happening here in this graph
+[74:11] they have time oh look at the these
+[74:14] weird guys you know these weirdos that
+[74:16] are taking the log of time we do it all
+[74:18] the time in science I don't know why
+[74:20] economists don't know that so it took
+[74:23] the time that it takes for the to to
+[74:25] grow right in this case years and and
+[74:27] why this is a log graph you see how the
+[74:30] weird scaling first of all all this you
+[74:32] know they are not equally space that is
+[74:34] a sign we're looking at the log and also
+[74:37] you see how it grows by factor of 10
+[74:39] right 10 50 and so on and same thing in
+[74:42] in the x-axis so when you do something
+[74:45] like that that is the main tool one of
+[74:47] the main tool it's a trick if that is
+[74:50] another thing people that don't
+[74:52] understand M you know I see on the
+[74:54] social media they say
+[74:56] he manipulated the
+[74:58] chart I mean it's silly but at the same
+[75:01] time because we are dealing with a lot
+[75:02] of people that don't know M it makes me
+[75:04] sad if they say things like it what
+[75:06] which kind of manipulator it's called a
+[75:08] transformation we do this all the time
+[75:10] in physics to show patterns that we not
+[75:13] visible when you have a normal type of
+[75:16] graph the fact that this Behavior looks
+[75:20] like a straight line and a log log graph
+[75:22] is significant it means that is a power
+[75:24] l it's one of the way to recognize it
+[75:27] easily because our eyes are trained to
+[75:30] look for a straight line it doesn't mean
+[75:32] that you're just basing all your
+[75:35] understanding on using your eyes you
+[75:37] then first use your intuition you look
+[75:40] where is a straight line it looks like a
+[75:41] straight line yes a little bit tilted
+[75:43] you know maybe in the beginning but you
+[75:45] know it really follows kind of like a
+[75:48] straight line so it can be irregular it
+[75:50] doesn't have to be always perfect but
+[75:53] the scientist say it's a look like a
+[75:55] power law yeah with some deviations of
+[75:57] course because you I still kind of a
+[75:59] random process but it's significant
+[76:02] because when I can come up with all kind
+[76:04] of interesting Properties by looking at
+[76:07] exponent you know there are ways of
+[76:09] thinking and understanding you know I
+[76:11] can see the different animals have
+[76:14] different lines so you know this animal
+[76:17] uh the tooth grows faster why what is
+[76:19] going on in that animal why that happens
+[76:22] you know there are so many things that
+[76:23] you can understand and extrapolate by
+[76:26] doing this trick now we do it all the
+[76:29] time it's like part of doing science
+[76:32] okay so this is very interesting and
+[76:34] these are an example but look at this
+[76:36] there are tons of other example all over
+[76:39] the place where are these are are you
+[76:41] know for example I have body mass right
+[76:43] and here are a metabolic rate and so I
+[76:46] was telling you before right let me try
+[76:48] to summarize what I wasling in the post
+[76:52] the beauty of this graph right first of
+[76:54] all look at all these different animals
+[76:57] in this graph where they all follow how
+[76:59] the bull knows you know where the goose
+[77:02] is going to be of the dog and I all
+[77:05] organized even the man and the woman the
+[77:07] woman look at the woman so and there are
+[77:11] many things to learn from a graph like
+[77:13] this like for example right Al besides
+[77:15] saying oh it's a it's a power law you
+[77:17] can say why a woman is just below the
+[77:21] man right well it seems a man for
+[77:23] example the you know given the same body
+[77:26] mass if you take a woman and a man with
+[77:28] the same body mass in average men
+[77:31] consume more energy so actually women
+[77:34] are more efficient right so women are
+[77:36] more efficient in now using the energy
+[77:38] maybe because when they became pregnant
+[77:40] they have to save energy so or maybe men
+[77:43] need to do like a big efforts you know
+[77:45] to anunt Etc so in evolution we change a
+[77:49] little bit like when I say men and women
+[77:51] are the same no because this graph shows
+[77:52] you that at least from a metabolic point
+[77:55] of view we're not you know there is a
+[77:56] difference and an important difference
+[77:59] and you can actually start to understand
+[78:01] a lot of things by just looking at the
+[78:02] graph the other thing I was explaining
+[78:05] is that the slope this is why the slope
+[78:07] is so important is three quter that
+[78:10] means that is less than one and what
+[78:13] that is the consequence of that well
+[78:15] that means that every time I make the
+[78:18] animal bigger and bigger so you know you
+[78:21] will think I'm making the animal two
+[78:24] times bigger is going to consume two
+[78:26] times the energy no because it's the
+[78:28] size of an animal this this graph means
+[78:31] simply that how much energy you're
+[78:33] consuming is your mass to the power of
+[78:37] 3/4 right so if I take two to the
+[78:40] 3/4 it's I don't remember exactly by by
+[78:44] heart but something like 1.6 so it's not
+[78:47] quite two so that means there is some
+[78:50] kind of economy of scales right so if I
+[78:53] triple the animal is not going to be
+[78:56] three times energy it's going to be 2.
+[78:59] three let's say I I cannot do that in my
+[79:02] head but if you do it with the
+[79:03] calculator take the power of you know
+[79:05] three to the power of 3/4s you don't get
+[79:09] three you get something less and Tre
+[79:11] that means as the animal scales up
+[79:14] becomes bigger and bigger and bigger
+[79:17] it's more efficient in using V Energy do
+[79:19] you see how many things we can learn
+[79:21] from a power law this why you see why
+[79:23] scientists are fascinated by them
+[79:25] because just by deriving that little
+[79:27] power we can say so many things about
+[79:29] the phenomena that we're studying and
+[79:31] also looking at the details of a chart
+[79:33] and so on and so on so on then we can
+[79:35] think about okay what is causing this
+[79:37] why we see this three quter why is not
+[79:40] five7 you know what is going on let's
+[79:42] try to study and understand how that
+[79:45] number comes about and so on you see it
+[79:47] happens everywhere in languages like
+[79:49] look how languages organized this is a
+[79:52] how many times a word appears a language
+[79:55] all the like what Latin and Japanese
+[79:58] have anything to do with each other well
+[80:00] they follow power law and every language
+[80:03] see these are different colors represent
+[80:05] different languages but yeah there will
+[80:07] be differences but they all kind of stay
+[80:09] on top of each other they seem to follow
+[80:11] a very precise pattern same thing with
+[80:13] cities you see here I show cities
+[80:16] different nations right and different
+[80:18] cities the different lines here
+[80:20] represented a different city so it
+[80:22] depends on how big the city and how it
+[80:24] waves Etc and so there are very precise
+[80:28] quantities whatever I'm looking at it
+[80:30] could be how the city is growing and
+[80:33] whatever these different type of
+[80:35] parameters like I say it works with
+[80:38] number of jobs uh gas
+[80:40] stations um you know whatever t
+[80:44] television stations and in a city they
+[80:47] all follow power losss power losss power
+[80:50] losss and the planets that we mention
+[80:52] right and these are just few example
+[80:54] that are l under and look right when you
+[80:56] compare it with everything look again
+[80:59] Bitcoin it follows like a general Trend
+[81:02] looks a straight line so Bitcoin is also
+[81:05] power law and it follows within all
+[81:07] these thingss you know it's incredible
+[81:09] it's like if this is true and it
+[81:12] continues to be true it's probably one
+[81:14] of the most fundamental interesting
+[81:16] things about Bitcoin but for the first
+[81:18] time in human history we have an asset
+[81:22] that doesn't behave like a a a a
+[81:25] um an asset random and it goes up it
+[81:27] goes down Etc it does locally but the
+[81:31] general Trend over many many many orders
+[81:33] of magnitude like you know basically
+[81:35] going from being a mouse all the way to
+[81:37] being an elephant it follows the general
+[81:41] power LW pattern it's extraordinary and
+[81:44] if you are not seeing this I'm sorry for
+[81:46] you I'm very sorry for you you are not
+[81:48] you don't like science you don't
+[81:50] understand science and I you
+[81:53] know it's sad because it's a beautiful
+[81:55] thing you know understanding all these
+[81:58] with there are patterns in life and and
+[82:00] in Bitcoin you know so uh and then you
+[82:04] know this is what I was telling you
+[82:05] before other scientists you know they
+[82:08] again sometime they criticize me even to
+[82:10] last the other day there is this this
+[82:13] Reddit post that I don't know you know
+[82:15] has to be like the saddest place on the
+[82:17] Internet is called bcoin right Buu TT
+[82:21] coin because these people are I'm sorry
+[82:24] to us reward but literally idiots
+[82:26] because you know when he was they were I
+[82:28] was talking to them in 2012 when Bitcoin
+[82:31] was $9 and you know you could still
+[82:34] think he was a tulip Etc but you know 15
+[82:37] years later they say the same thing is a
+[82:39] tulip Etc so you're really an idiot
+[82:41] because it's not right and right now if
+[82:44] you invested in Bitcoin instead of being
+[82:46] stupid on the internet you could be a
+[82:48] millionaire because you know it went up
+[82:49] thousands of time but you know these
+[82:51] people continue to say s bu then they
+[82:53] were making fun of my model and I was
+[82:56] telling them look you know go and make
+[82:57] fun of uh the snet that is one of the
+[83:00] most famous physicist in the world uh
+[83:03] you know in the financial uh area of
+[83:06] physics and he wrote entire books on how
+[83:09] to predict crashes in the stock market
+[83:12] this guy is famous if you if you are in
+[83:14] the field and he they wrote a paper with
+[83:17] a coh where they were they had power lws
+[83:21] in Bitcoin you know so you're saying
+[83:23] that I'm silly to make little regression
+[83:25] lines well that is exactly what we did
+[83:27] we took the market cap we took the AC
+[83:30] users by the way I had a graph I that on
+[83:33] Reddit for years before them and this
+[83:36] why you know they were not aware of my
+[83:38] work because I publish on Reddit instead
+[83:39] of a paper but I did it four years
+[83:41] before that and I show this like see I
+[83:43] told you that the data look messy you
+[83:46] know because of course there is some
+[83:48] Randomness right but in general you can
+[83:50] see there is a very general pattern that
+[83:53] can be explained by a power law these
+[83:55] guys do a regression in a log l graph
+[83:58] you can make fun of them they publish a
+[84:00] paper you didn't you know these are
+[84:02] professional scientist you are not you
+[84:04] know so maybe maybe they are right you
+[84:06] know so and you know then you can
+[84:08] actually take this law do you remember
+[84:11] that I was telling you the twostep
+[84:13] process right this what I was trying to
+[84:15] do I was looking at the addresses in
+[84:18] fact I had a redit CO post called medal
+[84:22] flow compare with zip FL law Etc you
+[84:25] know there are different type of power
+[84:27] laws you know and there was maybe K
+[84:29] comparison and say Bitcoin kind of
+[84:31] follows in between it's neither Zips and
+[84:34] neither metal it looks like something in
+[84:37] between uh so I was making all this
+[84:39] reasoning by looking at this
+[84:41] relationship so basically what this
+[84:43] article is about and this article is
+[84:45] published in a peer review journal other
+[84:48] scientists look at it they agreed it's
+[84:51] amazing you know okay you can go ahead
+[84:53] and publish
+[84:54] and you know and they had like a kind of
+[84:56] a prediction of the price of Bitcoin
+[84:59] that is kind of basically what I'm
+[85:01] saying it's a very regular pattern that
+[85:04] is based on a power lad right I did it
+[85:06] four years before them they arve to the
+[85:09] same conclusion you know so it's good
+[85:11] when other
+[85:12] scientists kind of support your work you
+[85:15] know that say yeah you know you are on
+[85:17] the right path you know um this how you
+[85:20] do science you know so and it's not just
+[85:22] this crazy physicist it's just I'm
+[85:23] trying to say say I did it before many
+[85:26] other people even if I didn't do in the
+[85:28] right platform and also I don't care
+[85:32] about who did it first it's just amazing
+[85:35] that uh so this is the education part
+[85:37] that actually is true and bitcoiner
+[85:40] should be aware and not just be coer
+[85:43] CNBC should be aware you know ker Kramer
+[85:46] should be aware everybody we talk about
+[85:48] Bitcoin you cannot talk about Bitcoin
+[85:50] unless you realize that Bitcoin doesn't
+[85:52] behave like a normal asset so don't talk
+[85:54] about your normal way of analyzing a set
+[85:57] you should understand power laws you
+[85:59] should understand that is different that
+[86:01] it behaves in a very regular fashion and
+[86:03] it's stable and I know it's weird
+[86:05] because people are not used to this
+[86:08] right to think that there is an asset
+[86:09] that you invest in it and you know what
+[86:11] it's going to do 10 years from
+[86:13] now it sounds weird but it is like like
+[86:17] this and you know these are other graph
+[86:19] that we did like for example we did like
+[86:21] other things other people say oh but you
+[86:24] didn't do all very deep statistical
+[86:27] analysis to show that is a power we did
+[86:29] we did a lot of different you know and
+[86:31] these were for example I work with
+[86:33] Burger you know where we wrote different
+[86:36] articles we should write actually real
+[86:38] scientific paper I that is my next step
+[86:41] I want to put all this together and
+[86:43] write in a paper but we did a lot of
+[86:45] analysis to show that you know this
+[86:48] graph what this graph is trying to show
+[86:50] like one question is what if I uh did
+[86:52] this model five years years ago what if
+[86:54] I did six years ago what did I did 10
+[86:57] years ago will I get a similar value for
+[87:00] the N right for the slope Etc and how
+[87:04] much the price is changing relatively to
+[87:06] that Trend Etc so you know you can do
+[87:09] all kind of different analysis and our
+[87:11] conclusion after we did all these
+[87:13] analysis that yeah they it seems to
+[87:16] follow this pattern all the statistic
+[87:19] points to be stable and consistent Etc
+[87:23] and it's not a fluke you know so we did
+[87:25] all the homework right and so then if
+[87:29] you go back because now I show you the
+[87:32] line the graph where Bitcoin looks like
+[87:34] a straight line but you know once you
+[87:37] look at it and you know once every few
+[87:40] days should go back and look at the
+[87:41] graph in particular when you're worried
+[87:43] and you know about Bitcoin Behavior look
+[87:45] at the graph and remember it is
+[87:47] following this trend right we still like
+[87:50] this more linear graph right it's easier
+[87:53] for us to think
+[87:54] at least the time to be linear so you
+[87:57] can always go back and show how that
+[88:00] straight line Looks in this graph it
+[88:02] doesn't look like again like a straight
+[88:05] line but curve but now I use all that
+[88:07] knowledge that again from that chart to
+[88:10] make a model so I added other components
+[88:13] right because beside the general Trend
+[88:15] we also have these bubbles right very
+[88:18] regular Bubbles and so I say okay can I
+[88:21] add these components to my model we do
+[88:23] that the time in physics almost like
+[88:25] modular you start with a very simple
+[88:27] little toy model and then you add more
+[88:31] complications right when you study for
+[88:32] example a fall of an object you first
+[88:36] discard the um the friction of the air
+[88:39] right of the resistance of air and then
+[88:41] you say okay let's how now that we
+[88:44] understand how a Free Falling Body Works
+[88:47] in vacuum let's add add air and see how
+[88:51] it behaves we do that in physics all the
+[88:52] time we had a little comp components to
+[88:54] the model so here what I did I added the
+[88:57] kind of periodic Behavior around the
+[89:00] bubbles I also remember we observe that
+[89:03] most of the time during the bare Market
+[89:06] the price seems to go down to this about
+[89:09] 60% deviation from the trend so I also
+[89:12] uh you know I wrot this code to say okay
+[89:15] let's Force the price to go there when
+[89:18] you know when we are in bare markets uh
+[89:21] and then I added you know like I said I
+[89:22] added the these
+[89:24] sign kind of waves like to show where
+[89:28] bubbles are and also because we see
+[89:33] these we call it you know diminishing
+[89:36] returns basically the deviation from the
+[89:39] bottom to the top if you measure the
+[89:42] distance from the bottom to the top for
+[89:44] each Cycles it BEC smaller and smaller
+[89:46] right you can kind of see it with your
+[89:48] eyes and and then you I kind of actually
+[89:51] measure it it turns out even that is
+[89:53] very regular it looks like a a um an
+[89:56] exponential but instead of going up it's
+[89:59] an exponential that is going down so
+[90:00] it's going down pretty fast and so I
+[90:03] included that in the model you know I
+[90:06] included that change as measure from
+[90:09] these Three Peaks and this is why when
+[90:11] you go in the future you see how these
+[90:12] bubbles are smaller and smaller because
+[90:14] I kind of try to mimic these decrease in
+[90:19] the size of the bubbles and projected in
+[90:21] the future how we how that if it Contin
+[90:24] to be like that and it continues to be
+[90:25] regular how that will look in the future
+[90:28] so I put all the and plus you see it's a
+[90:30] little Wiggly this black line because I
+[90:32] also put some of the noise right it's a
+[90:34] it's not on a daily basis it's h
+[90:37] changing a little bit I put actually the
+[90:39] real noise that you serve on bitcoin
+[90:42] right so of course it's much more
+[90:43] regular because this models the entire
+[90:46] idea of a model is that they are always
+[90:49] simpler than the things they want to
+[90:51] describe right because if I put so many
+[90:53] elements model where is basic is also
+[90:56] called overfeeding because you're
+[90:57] thinking that oh it's behaving like this
+[91:00] you're adding all these extra pieces and
+[91:02] then you're are actually wrong so it's
+[91:04] usually good idea to keep the model as
+[91:06] simple as possible and you know here
+[91:08] there are three simple little additions
+[91:13] and when you put them together they
+[91:16] really look like doesn't look like a
+[91:17] very nice fit to you tell me you think
+[91:20] it's a nice representation right
+[91:23] simplification
+[91:24] Bitcoin Behavior over time if it's
+[91:27] almost like a glove right there are some
+[91:29] exceptions like here for example right
+[91:31] in in the in the last cycle not just
+[91:34] before the last Cycles but in general it
+[91:36] looks very pretty fit right pretty nice
+[91:39] fit and so then you say okay let's say
+[91:42] that it continues to behave in that way
+[91:44] let projected in the future because
+[91:45] these are all equations of time so I can
+[91:48] plug in future times and then see how it
+[91:52] it develops in the future and so we will
+[91:55] see right is he going to do that we will
+[91:58] see it will be really nice right maybe
+[92:00] in six months from now one year from now
+[92:02] you know we can have another talk and we
+[92:04] can compare right and see how it looks
+[92:06] like and so it looks like you know this
+[92:09] is what is going to do and if he's going
+[92:10] to do that then we can tell what the
+[92:13] price will be um in during the peak I
+[92:16] already told you it's going to be around
+[92:18] 2,00
+[92:19] 210,000 then see the nice thing that is
+[92:22] going down and then when it's going down
+[92:26] is we're reaching this bottom I think I
+[92:28] calculated is going to be around 60,000
+[92:31] so we're not going to see anything below
+[92:33] 60,000 ever in the history of Bitcoin
+[92:36] and so I will continue I will continue
+[92:38] until in 200 33 we're going to be 1
+[92:43] million and again if Bitcoin does what
+[92:46] he did for the last 15 years is
+[92:49] basically unavoidable it's going to
+[92:51] happen and we can tell even when so you
+[92:53] know this is the beauty of this model am
+[92:55] I right am I wrong we will see this is
+[92:58] how you do science you make an
+[92:59] hypothesis this is nothing else when a
+[93:01] scientific hypothesis the data you know
+[93:05] and people even I heard other
+[93:07] non-scientific people they want to use
+[93:09] scientific language and don't know what
+[93:11] they're talking about say oh the model
+[93:13] is not Fifi it's very falsifiable right
+[93:16] you want a model to be falsifiable
+[93:18] because if you make an hypothesis and
+[93:21] the data is not right you know the data
+[93:23] doesn't show that your model it can
+[93:25] really predict the future behavior and
+[93:29] by the way again I want to respond also
+[93:31] to the people say the past doesn't
+[93:33] predict the future what else will you
+[93:35] use to predict the future the past is
+[93:37] that you know with asset usually that
+[93:40] doesn't work very well but with very
+[93:42] regular almost you know natural law type
+[93:46] of phenomena like Bitcoin yes you know
+[93:49] this is exactly what you do you take the
+[93:51] past you look at what happened in the
+[93:53] past and you project it in the future
+[93:55] This Is How We Do Science this is how we
+[93:56] know that there will be an eclipse in
+[93:59] this given time right and
+[94:02] so uh you know if you and so I made this
+[94:06] joke this is like a you know kind of a
+[94:09] meme because I'm trying to be also
+[94:10] entertaining on the social media you
+[94:12] know and so here I show what uh you know
+[94:15] the usual media uh talks about you know
+[94:18] like always this graph this sad graph
+[94:20] you know it doesn't so messy doesn't
+[94:22] look anywhere you know CR crer CR always
+[94:26] you know say oh bad things about Bitcoin
+[94:29] and this is what I usually show you see
+[94:30] even here in the chart only linear time
+[94:33] you know never never a log chart they
+[94:35] don't even show this log linear and they
+[94:38] you know I use saor because kind of now
+[94:41] he's like kind of an enlighted bitcoiner
+[94:44] but most of us right most of the
+[94:46] bitcoiners that are familiar with this
+[94:48] but they're not familiar with this right
+[94:49] this where I came in Crazy Italian
+[94:52] scientist that tells you know it is a
+[94:54] very nice precise pattern and this
+[94:57] pattern is not just like a nice fitting
+[95:01] doesn't have anything to do with fitting
+[95:02] the fitting is just a tool to extract
+[95:05] the power you know and that is not where
+[95:08] the emphasis is is the fact that it
+[95:10] don't look at your eyes I don't need to
+[95:12] make any complicated ma mat you know
+[95:14] tell me how do I get such nice regular
+[95:17] pattern that it's just striking with
+[95:21] your eye because uh that is where you
+[95:23] intuition comes from it's not anymore a
+[95:25] question of math it's a question of
+[95:27] looking at the graph you know this why I
+[95:29] argue many times with this pedantic ma
+[95:31] people they don't know Ma because they
+[95:33] just studied in school but they don't
+[95:35] use it on a daily level they don't leave
+[95:38] it they don't make it you know their own
+[95:40] way of thinking about the entire
+[95:42] universe and they tell me oh the mat
+[95:45] here the mat the M look at before you do
+[95:47] any mat look at the graph the graph look
+[95:49] like straight line you cannot deny it
+[95:51] you know so if you do something that
+[95:53] your your mat is telling you that is not
+[95:55] a straight line probably you did
+[95:56] something wrong you know or you don't
+[95:58] understand what is going on you don't
+[96:00] understand the purpose of this we are
+[96:01] focusing those scale we are focusing on
+[96:04] big large changes we are not looking at
+[96:06] the details you know this is what is all
+[96:08] about many times we say yeah you know
+[96:10] you're of course your graph looks like
+[96:12] in a in a log log KN because you're
+[96:14] repressing the noise that is exactly
+[96:16] what I'm trying to do I'm telling you
+[96:18] once once you forget about the noise
+[96:21] repress it you make it small then looks
+[96:23] like there is a pattern you know it's a
+[96:26] way of looking at stuff that you were
+[96:29] going to be distracted by the noise
+[96:32] noise in the linear chart is not a story
+[96:34] the signal is in the log log chart and
+[96:37] I'm you know I show you already I'm not
+[96:40] just me that does this kind of things
+[96:41] scientists do that all the time so if
+[96:43] you don't know that go and study science
+[96:46] okay and come back and then let's have a
+[96:47] discussion if you don't know that go and
+[96:49] study science that is my message to you
+[96:52] all these critics that don't know
+[96:54] anything you know I'm sorry if I am
+[96:55] angry with them but you know I'm kind of
+[96:57] a little bit tired of repeating the same
+[96:59] thing over and over again you know I was
+[97:02] not born yesterday I have a a white
+[97:05] beard you know so and I have a PhD in
+[97:07] physics and there are other phds
+[97:10] publishing Bitcoins and power Lads you
+[97:12] know I mean anyway this is
+[97:14] aide they show you just want to quickly
+[97:17] jump in I think um I think this is all
+[97:21] bitcoiners are used to that like um
+[97:24] because we are still so early and uh not
+[97:26] a lot of people actually know about
+[97:28] Bitcoin and I also have this feeling
+[97:31] when I talk with people since the last
+[97:34] four years in Bitcoin and talking about
+[97:36] why Bitcoin makes sense I think like I
+[97:39] can like tell the same thing over and
+[97:42] over again and it's frustrating but I
+[97:44] think it's important if you have
+[97:46] something that you really believe in and
+[97:48] you think it's true that you tell the
+[97:50] world uh even if uh people don't
+[97:53] appreciate that like and just put it you
+[97:56] know I'm amazed about bitcoiners because
+[97:58] you know they come from all different
+[98:00] backgrounds not all of them understand
+[98:02] science but when they look at graph like
+[98:04] this it's not because it's confirmation
+[98:06] bias oh look Bitcoin is amazing of
+[98:08] course no because I think these people
+[98:11] have something special in particular
+[98:14] this particular stage right and more
+[98:16] earlier you came in and you know we have
+[98:20] different experiences in life and you
+[98:22] know some of you guys have so young but
+[98:24] 10 years ago you were a baby so how
+[98:26] could you get in Bitcoin you didn't even
+[98:29] understand it right so there is
+[98:31] something special about bitcoiners that
+[98:33] have this intuition you know maybe they
+[98:35] cannot express it in all this m Etc but
+[98:38] they get it they get it they understand
+[98:40] and it's not just about you know making
+[98:42] a lot of money it's the entire
+[98:44] philosophy behind right it allows us to
+[98:47] be free from government okay you don't
+[98:50] you don't care about me because you're
+[98:52] printing money and you're making the
+[98:53] richer richer I'm going to invest in
+[98:55] Bitcoin goodbye you know so these are
+[98:57] people that are revolutionary they are
+[99:00] early adopter they look forward and so
+[99:03] even if you have different experiences
+[99:04] we are all like a big family because we
+[99:07] understand each other right we have we
+[99:09] are contributing different way maybe you
+[99:11] you contribute somewhere else right when
+[99:14] you talk about Bitcoin in your own way
+[99:16] this other person is doing in it this
+[99:17] other way all of us have something to
+[99:20] contribute and we always understand the
+[99:22] same thing my contribution here been
+[99:25] passionate about math and physics is to
+[99:28] give a physics look right but yeah I I
+[99:32] cannot I I don't know have to convince
+[99:35] Bitcoin because they know already maybe
+[99:37] they are surprised like see this is the
+[99:39] last graph I going to show you sorry if
+[99:41] I'm taking so much time but uh there is
+[99:44] so much interesting things you know like
+[99:46] these are one of the things that I did
+[99:48] recently I started to combine both this
+[99:51] uh growth along the power law with the
+[99:55] regularity of a pattern so there is such
+[99:57] a thing right if you put and I didn't
+[100:01] come up with this idea of putting
+[100:02] Bitcoin on a circular map other people
+[100:04] came up I think one of the first people
+[100:07] is called rational rout I think there
+[100:08] was somebody else but again it doesn't
+[100:10] matter if we came up all of us
+[100:13] contribute right we all work on each
+[100:15] other and work and contribute right so
+[100:19] my contribution and so IDE is basically
+[100:23] you it's something that uh again like
+[100:25] the log plot the log log plot is not my
+[100:28] original idea it's something that is
+[100:30] done all the time we always in physics
+[100:33] always when we try to understand
+[100:35] something that is cyclical because you
+[100:37] know Bitcoin has this foure Cycles right
+[100:40] because of the alving you want to put it
+[100:42] in a map where time is the is the angle
+[100:46] right like in a clock it's not so
+[100:48] difficult to understand right it's like
+[100:50] a clock right time in a in like maybe
+[100:54] young people are not used to analog
+[100:57] clocks right
+[100:58] with
+[101:00] end but us you know older people like me
+[101:04] with this what we use for some time you
+[101:06] know and they are beautiful right
+[101:08] because it's a analog it's mechanical
+[101:11] you know but uh you know the the end the
+[101:14] time there if you think about is
+[101:16] basically the angle right bigger the
+[101:18] angle bigger the time right and if you
+[101:21] do an entire cycle it's basically
+[101:23] 12 hours right for the clock and then
+[101:26] another cycle two two cycles is an
+[101:28] entire day right with Bitcoin one cycle
+[101:31] is for years so you can do the same
+[101:32] thing you can create a clock basically
+[101:34] and you say okay I look at the p and in
+[101:36] that case you see there not going to be
+[101:38] a circle because the radius what the
+[101:40] radius represents is the price so
+[101:42] because the price goes up instead of
+[101:44] being a circle it's going to be a spiral
+[101:46] right because a spiral is basically like
+[101:48] a circle that has an increasing radius
+[101:51] right but the beauty of it is when and I
+[101:54] don't have it graph here but you can
+[101:55] find it in my um my YouTube on my X it
+[102:00] looks amazing particular if you again
+[102:03] you're trying to average out the Noise
+[102:05] by taking averages over a long period of
+[102:07] time let's say one year it looks like a
+[102:10] beautiful beautiful spiral and it's a
+[102:13] power law it's called a power law spiral
+[102:15] right because given that the part is
+[102:17] described by a power law the spiral is a
+[102:20] power law spiral and there is such a
+[102:22] think in nature
+[102:23] again where a lot of different processes
+[102:26] are explained by power LW spirals like
+[102:30] for example the trees in a ring you know
+[102:32] with three rings with three rings the
+[102:35] way they grow it's a power low spiral
+[102:39] the how the horns you know like in a ram
+[102:42] where the horns curl on themselves that
+[102:45] growth of that natural object it's a
+[102:48] power loss spiral you know our planets
+[102:51] form and they form like this Beau
+[102:53] spirals of the Galaxy Etc power loss
+[102:56] spiral Bitcoin is a power loss spiral so
+[102:59] if you combine both the cyclical nature
+[103:03] of Bitcoin and the fact that follows a
+[103:06] power law and you put it all together is
+[103:09] a power loss spiral that is something
+[103:12] that I realized recently and when you
+[103:14] put it all together now we basically
+[103:15] crack Bitcoin because look at this here
+[103:18] in this graph you know the top part is
+[103:21] my is a trading View
+[103:23] script that they wrote right is an
+[103:25] indicator so you see the general Trend
+[103:28] it's kind of a little bit wavy because
+[103:30] it's adaptive this is a like a an
+[103:33] addition that they did like instead of
+[103:34] being like one big straight line taking
+[103:36] all the data is kind of adapting a
+[103:39] little bit to the local data so it kind
+[103:41] of also works in trying to tell you the
+[103:44] local Trend instead of a general Trend
+[103:47] it those both in a sense so you see the
+[103:49] general power low Trend and then and see
+[103:53] how you know it catches the bottom see
+[103:55] how here the purple was perfectly
+[103:57] telling where the bottom was Etc but
+[103:59] then I made another indicator where I
+[104:02] basically took this spiral something
+[104:05] that looks like a clock because it's
+[104:07] thinking in very linear terms so I came
+[104:09] up with the best thing that could do to
+[104:11] represent the spiral that is basically
+[104:14] you know you can take a if you move
+[104:16] around the circle right you can project
+[104:18] uh the dot around the C Circle you can
+[104:21] project it on the x or the y axis right
+[104:25] I don't know if you ever there are
+[104:26] animations of that like if you took a
+[104:28] physics class or there are things like
+[104:30] that online right and then basically
+[104:32] what you get is the sign a sign wave
+[104:34] because a sign waves basically is a
+[104:36] representation of a of a of a cycle so
+[104:40] it's a circle right so if you have a and
+[104:42] in this case it will look like it
+[104:43] doesn't look much here but uh if you go
+[104:46] back to previous cycle you see these
+[104:49] oscillations they became bigger and
+[104:51] bigger and bigger because the price
+[104:52] became bigger and bigger right so you
+[104:54] can see that this little first s
+[104:57] semicircle is a little bit smaller than
+[104:59] the other one this represents the price
+[105:02] becoming bigger and bigger and bigger so
+[105:03] this is the spiral I try to uh show how
+[105:06] the spiral looks like in a linear graph
+[105:09] and so the red one is basically the
+[105:12] model the power low model that is this
+[105:14] blue line maybe I should use the same
+[105:16] colors but is basically the Blue Line in
+[105:18] the linear graph so see how it follows
+[105:22] the very very closely the price of
+[105:25] Bitcoin that in this second chart is
+[105:27] this blue line right that is kind of
+[105:30] Wiggly because you know the price
+[105:31] locally of course is going to be uh you
+[105:34] know noisy but in general look how
+[105:36] fantastically well it follows that blue
+[105:40] line and then the C I say oh it looks
+[105:43] like a clock so we have Z o' 3 o' six
+[105:46] o'clock and all these critical points in
+[105:49] this clock right uh are actually
+[105:53] significant because for example at 0:00
+[105:56] you have a top look at this see follow a
+[105:59] little white line here you see how it's
+[106:03] exactly the top right and then 3 o'cl
+[106:06] what is 3 o'cl it's the bottom look at
+[106:08] this it's exactly where the bottom is
+[106:10] look at six o'clock what is six o'clock
+[106:12] well six o'clock is basically we went
+[106:15] through this bare Market Etc you know
+[106:17] the price was kind of moving along this
+[106:20] power LW you know with some noise and
+[106:22] Etc and then we reach a bottom it's
+[106:25] basically you are leaving
+[106:28] a behind the bare Market this is when
+[106:32] you're leaving behind so I called it the
+[106:35] transition from the bear to the start of
+[106:38] a of a bull market so this is when the
+[106:40] bull market starts then you reach 9 o'
+[106:43] and this when the LI the price goes
+[106:46] above a trend line and that is usually
+[106:48] when you have a a much crazier bull
+[106:51] market when things are really so it's I
+[106:53] called the transition to full bull
+[106:55] market or frenzy bull market so again if
+[106:59] you look at this point it's a very
+[107:02] significant important point because
+[107:04] things from that moment on are going to
+[107:05] be like crazy and look at this again
+[107:08] look how precise and I went back I
+[107:10] cannot show it here because would be too
+[107:12] clutter but if if you go to the previous
+[107:15] cycle is exactly like this all cycle
+[107:18] perfectly look at this I'm not making a
+[107:20] nap right so in a graph you can even say
+[107:23] oh maybe you manipulate a little bit
+[107:24] with graph no you know I
+[107:28] actually uh trading view is doing it
+[107:31] right you cannot manipulate trading View
+[107:33] and look how perfect it is do you agree
+[107:36] does it look very regular does it look
+[107:38] like we are finding very important
+[107:41] points on the chart it it's fascinating
+[107:44] that uh it actually matches with the
+[107:46] cycle and follows that kind of a power
+[107:49] law and I'm just now like I'm because I
+[107:54] came really uh new to this topic I
+[107:56] wanted to don't research too much about
+[107:59] it and come with a new mind to it
+[108:02] because I think most listeners are also
+[108:04] come with that new mind to to that power
+[108:06] law topic uh and I think it's a lot to
+[108:10] process and I think uh and I recommend
+[108:13] that to everyone that's kind of where I
+[108:16] am right now where I'm like this is
+[108:18] fascinating and I want to understand
+[108:19] more of it uh I I actually Rec commend
+[108:23] and I never did that before I recommend
+[108:25] just listening to to the whole thing
+[108:28] twice because uh it's it's something
+[108:32] there's a lot of information a lot of
+[108:34] information a lot of things to take in
+[108:36] and uh I think it's a perfect even like
+[108:38] a kind of a master class for power law
+[108:40] like an introduction class uh where it's
+[108:43] like we started wise power law the
+[108:45] nature stuff then on bitcoin and now
+[108:48] we're getting really in the charts and I
+[108:51] honestly I would I would love to give
+[108:53] you feedback right now but I'm kind of
+[108:56] overwhelmed with a lot of information
+[108:58] the only thing I can definitely say uh
+[109:01] it's fascinating and uh you made me
+[109:05] curious to learn uh more about it and
+[109:08] you see by way we just uh so because
+[109:11] this is where we are right now right so
+[109:14] the time and fact will be really cool
+[109:16] that people start to adopt to this
+[109:17] language right what is a what is the
+[109:19] time on the uh you know power power low
+[109:24] spiral clock right the PLS clock uh and
+[109:28] you can say right right now it's like
+[109:29] what and I can even calculate in fact I
+[109:31] want to make a a clock and put it online
+[109:35] live you know so people can see what
+[109:36] time it is on the clock so right now
+[109:39] it's basically maybe like what 65 610
+[109:42] and that means we are over this bump
+[109:46] that represents a transition from be to
+[109:48] start of a bull market right so really
+[109:50] cool that this kind of feels like that
+[109:52] right that we left behind the bull
+[109:54] market the bare market and we are
+[109:56] entering the bull market we are not yet
+[109:57] in the frenzy period right when it's 9
+[110:00] o'clock but it's really cool it's a way
+[110:03] of thinking about these cycles and using
+[110:05] this terminology it's a really another
+[110:08] interesting way of talking about Bitcoin
+[110:11] right maybe it's a it will people will
+[110:13] stick with that terminology right what
+[110:14] time it is oh 6:15 930 you know and it's
+[110:18] very useful because it tells you what to
+[110:20] do you know if you want to do investing
+[110:22] because it depends on your style like we
+[110:24] discussed in the beginning maybe want to
+[110:26] Old you know like you probably don't
+[110:28] want to buy Bitcoin when it's uh Zer o'
+[110:31] clock because you know just wait until
+[110:34] it's three o'clock and then byy you know
+[110:36] save your money so if this continues to
+[110:39] do the same thing it gives you an idea
+[110:42] of when is you know when you should do
+[110:44] theca and if you want to continue maybe
+[110:46] do a little bit less DCA right when you
+[110:48] are close to Zer and then go really ay
+[110:51] when it is three o' and so on and so on
+[110:54] I think I think this would be actually
+[110:57] these are we we can end here if you if
+[110:59] you want because I made this joke and
+[111:02] you I say I'm going to the I'm going to
+[111:04] tell everybody about power loss I'm
+[111:05] going to the physics conference you know
+[111:08] to the Bitcoin conference actually I
+[111:10] didn't invent these are these actually
+[111:13] power laws are so used in physics that
+[111:16] we kind of almost like make fun of
+[111:17] ourselves so somebody else made this
+[111:19] shirt because it's a internal joke that
+[111:22] it's there are so common and so many
+[111:24] papers are published about finding power
+[111:26] lws everywhere that you know we want to
+[111:29] you know be a little bit
+[111:30] self-deprecating so we made a joke oh
+[111:32] you know I went to a physic conference
+[111:34] and all I I got was allous po law and
+[111:37] they say okay I'm going to scratch
+[111:39] physics and I going to say Bitcoin I'm
+[111:41] going to sell a bunch of shirt to the
+[111:43] next Bitcoin conference you know and
+[111:46] this is my like one of our repr
+[111:48] presentation kind of colorcoded you know
+[111:51] rela where we are
+[111:53] and so you know it's it's yeah you know
+[111:56] we should always make fun of ourself you
+[111:58] know we we should not take ourself too
+[112:00] seriously but you know still even if it
+[112:04] is a meme there is some truth there you
+[112:06] know and and it's really really
+[112:09] fascinating and you know I would like to
+[112:11] explore this with other Bitcoin
+[112:14] bitcoiners or come to my ex account come
+[112:17] to the YouTube you know and let's talk
+[112:20] about these things you know and trying
+[112:21] to understand Bitcoin better better yeah
+[112:23] I think a website where you show like a
+[112:25] clock and which time it is and stuff
+[112:27] like that uh this would be really good
+[112:29] in in marketing this this whole idea
+[112:32] that where you can put uh put people ASW
+[112:36] like this is the weight weighted DCA you
+[112:38] should have and with a normal DSA you
+[112:40] would have so much Bitcoin with weighted
+[112:42] DSA you would have so much Bitcoin like
+[112:44] I I think you can do a lot of marketing
+[112:47] stuff on top of this model because there
+[112:50] like data there's the models but then
+[112:52] you also have to put it in nice charts
+[112:55] in nice marketing things uh to people
+[112:58] that people grasp uh things and this is
+[113:01] basically what I want to do with with
+[113:03] Bitcoin itself like make it uh by way I
+[113:05] really love your accent you know I think
+[113:07] this will be really a cool interview
+[113:09] where there are two people with some
+[113:11] crazy accents right yours is more like
+[113:14] what Egger accent you know but is really
+[113:18] nice I love it I get it a lot that I
+[113:21] speak like Arnold Schwartz
+[113:23] and there are some people that uh want
+[113:27] me to say get back to the chopper
+[113:31] for I I'll be back they they wanted me
+[113:35] to say that for a long time in the
+[113:36] podcast now and I think my this is my
+[113:38] 55th podcast so I finally did it I
+[113:41] finally said
+[113:42] it yes yes because you know you find
+[113:45] somebody else with a even stronger
+[113:46] accent than yours you know and hopefully
+[113:49] people understand what we're talking
+[113:50] about but I think actually would be
+[113:52] really cute you know that both of us
+[113:53] have a strong accents you know so it's
+[113:56] so so cool yeah it's it tells also about
+[114:00] you know how Universal Bitcoin is right
+[114:03] because people from different countries
+[114:04] different experiences you know we all
+[114:07] come together it's a world thing right
+[114:09] so different accent different cultures
+[114:11] you know it's really amazing you know
+[114:13] it's a that is one of the cool thing
+[114:15] about being in this space that you meet
+[114:16] so many different people from different
+[114:19] country different backgrounds you know
+[114:20] and we have all this common things you
+[114:23] know that we love freedom we want to do
+[114:27] amazing things in the world you know so
+[114:30] yeah it's exciting yeah it's it's it's
+[114:33] like an uh it's like a base layer to our
+[114:36] whole for natural system and finances is
+[114:40] so fundamental to our life that it's
+[114:42] like unites whole uh the whole globe
+[114:45] with like one uh base layer of asset
+[114:48] like it's an it's interesting thought
+[114:50] model like where can this go when we
+[114:53] like looking 50 100 years in the future
+[114:56] and how will society change when we have
+[114:59] one fundamental layer that's all across
+[115:02] the the globe and there's a lot of
+[115:04] freedom involved in there like but yeah
+[115:06] this is this is one thing because I
+[115:08] wanted to start the the podcast because
+[115:10] I think we are in a really early stage
+[115:13] of an extreme Revolution and the goal
+[115:17] that I have to interview as many Bitcoin
+[115:20] as as possible I'm now doing seven seven
+[115:24] to nine podcasts a week I'm publishing
+[115:27] five of them per week I want to publish
+[115:30] like six and go to a daily upload
+[115:32] schedule at some point but I need more
+[115:35] time for that and in March I make the
+[115:37] step to do it full-time like now I'm
+[115:39] working till parttime but in March I'm
+[115:41] going full-time on that so uh and I just
+[115:45] want to document uh the thoughts because
+[115:48] yeah we don't have the documentation of
+[115:50] the internet that well imagine a podcast
+[115:54] that uh interviews all the people
+[115:56] involved in building up the internet in
+[115:59] 1995 that would be sick to watch and
+[116:02] this is basically what I want to do with
+[116:04] with with my podcast documenting the
+[116:06] whole journey it's a very good idea and
+[116:08] I really enjoy your um podcast I watch
+[116:11] it all the time every time you have an
+[116:12] interview because it's also a way of
+[116:15] knowing different bitcoiners what
+[116:16] they're doing you know what is uh their
+[116:19] way because everybody's contributing
+[116:21] their own ways you know like different
+[116:23] projects different ideas different
+[116:25] approaches it's all fantastic yeah
+[116:27] perfect um we are the first time ever
+[116:31] I'm approaching the 2hour mark oh sorry
+[116:33] for that no no it's I think it's
+[116:36] something good because if you have a lot
+[116:38] of talk it means there's a lot of value
+[116:40] and content in there uh and I think uh
+[116:45] the longer I do the podcast the longer
+[116:46] the podcasts will go but yeah let's see
+[116:50] um and we having if you watch the
+[116:52] podcast we're having an end routine uh
+[116:54] where the previous guest asked question
+[116:57] for the next guest uh your previous
+[116:59] guest was knut swanholm you probably
+[117:03] know him the the the author of like
+[117:05] really cool books and I think he
+[117:07] invented the meme of uh everything
+[117:09] divided by 21 million uh
+[117:13] and lot of cool stuff and he asked you
+[117:16] the question uh it's like you have to
+[117:18] know a film for that question but I
+[117:21] didn't know about that question what is
+[117:24] the air speed velocity of an unladen
+[117:28] swallow oh this is a multi python MTI
+[117:33] yeah yeah yeah yeah he so cool I I don't
+[117:36] remember what was the answer uh I am an
+[117:38] ND and I love MTI python but uh I I
+[117:41] remember the context right that it was
+[117:45] basically you know they say where do you
+[117:47] get these coconuts because we were uh
+[117:49] playing you know I actually remember
+[117:51] that movie so funny because I I was like
+[117:54] a kid and I was uh very much in Middle
+[117:57] AG things and all of a sudden you know
+[118:00] they say oh and now we have a Monti
+[118:02] Python and the search of olig say oh
+[118:04] cool you know because I knew what the
+[118:06] olra was it's a middle age movie it's a
+[118:09] night movie you know then I I look at
+[118:11] this thing I said what the heck is going
+[118:14] on guys coconuts you know we have
+[118:17] coconuts for to play their horse woles
+[118:21] you know and it and the Italian version
+[118:24] is all in dialects every you know the
+[118:26] French are Sicilian talking in Sicilians
+[118:28] and you know because in Italy we have
+[118:30] all these different dialects you know
+[118:32] and it was so funny I was like I was
+[118:35] disappointed because you know I wanted a
+[118:37] serious night movies at the same time it
+[118:39] was so funny that uh I was like rolling
+[118:42] on the ground I still remember the first
+[118:44] experience and I do remember that
+[118:46] passage because you know they said where
+[118:48] did you you know this is zland where did
+[118:49] you get the coconuts and and they
+[118:51] started to say well came from asaro but
+[118:54] you know asaro cannot really live to it
+[118:56] and we have all this very indepth
+[118:59] discussion about the physics of f flight
+[119:01] of a of a sparrow and I don't remember
+[119:05] you know what the exact thing was but it
+[119:08] was this crazy calculations they were
+[119:10] doing about you know how far asaro could
+[119:13] go with the coconut Etc so larious and I
+[119:16] think actually is relevant because you
+[119:18] know it's like kind of a
+[119:20] self-deprecating thing right in one end
+[119:23] yeah very all this mat Etc but you know
+[119:26] like a little bit like this meme right
+[119:28] you know
+[119:29] like know it's not that you're going to
+[119:32] try to push it forever where okay you
+[119:34] know yeah it's everything a power law
+[119:36] Etc but you know the same time even that
+[119:39] Meme was funny because in a cental sense
+[119:42] it's true right how the heck asaro can
+[119:44] bring a know if you use physics you
+[119:47] realize it's impossible right so it was
+[119:49] a joke but it was not a joke at the same
+[119:51] time right right so it's relevant so
+[119:53] even if I didn't answer straight I think
+[119:55] a kind of answer right do you agree yeah
+[119:58] definitely I actually when he asked the
+[120:01] question I was like what is that and oh
+[120:03] it's a Monte Pyon uh thing I think it's
+[120:06] from
+[120:09] uhon and the search of H yeah yeah the H
+[120:13] yeah it's like 9070 80 or something like
+[120:16] that it's like an old movie right right
+[120:18] I think it was classic right it was
+[120:20] around that time when my father was born
+[120:22] so it's like it's long before my time
+[120:25] right right yeah but you you find it on
+[120:27] the internet and you know usually like
+[120:29] very nerdy people they memorize it you
+[120:32] know like all the lines Etc so for sure
+[120:36] he's a nerd like me and I knew the
+[120:38] context like I say I don't remember by
+[120:41] heart the the discussion but it was all
+[120:43] about you know using physics to
+[120:45] understand how come these guys have
+[120:47] coconuts right because they using Co
+[120:50] it's very absurd right it's like this
+[120:53] English humor that is like absurd right
+[120:56] um it's uh it's not realistic but yeah
+[121:00] and I love that he put the question and
+[121:03] you got the question because it's is not
+[121:06] plann something like I I don't plan when
+[121:09] who is on like as I do it with you like
+[121:12] I just send a link out and you pick your
+[121:15] date and time when you have time uh and
+[121:18] he also and it's it's fascinating than
+[121:21] he uh gives the question to you because
+[121:23] I think it's it's it it fits you
+[121:25] perfectly I think to 90% of all the
+[121:28] other guests uh it would have not been
+[121:31] as suitable for that
+[121:34] question yeah he ask a right question
+[121:37] yes pertinent yeah it's meaningful
+[121:40] perfect then uh um before we end is
+[121:43] there anything you want to to add to
+[121:45] today uh and where can people find you
+[121:49] the best way like where can and you were
+[121:50] saying I need to make up questions but I
+[121:52] can do that offline for the next yeah
+[121:55] usually do it I usually do it offline uh
+[121:58] yeah yeah so I can think about and also
+[121:59] you can tell me who is the next guest
+[122:02] okay um yeah so um I right now I have a
+[122:07] uh three uh different channels so one is
+[122:11] my ex account right it was in the
+[122:13] beginning of the slides maybe uh if you
+[122:15] have a link andc on your video that will
+[122:17] be great so people can come to my X
+[122:20] account I also have a YouTube account so
+[122:22] please if you want to support me because
+[122:24] I'm trying to make this kind of a
+[122:26] full-time job to be a Bitcoin researcher
+[122:30] and educator so um if you can I'm you
+[122:34] know I'm doing a very Spartan live
+[122:36] because I'm you know like sleeping on
+[122:38] the floor so I can stack more B coins
+[122:41] but uh you know I need to still pay
+[122:43] bills so if you like my work and you
+[122:46] want to support me please come to the
+[122:48] YouTube channel like And subscribe and
+[122:51] all the other things if you really like
+[122:53] my job my work even more you can also
+[122:56] support me with patreon and by the way
+[122:59] um the patreon as uh uh you can get the
+[123:03] indicators you know with the show as
+[123:06] part of being uh you know I'm Community
+[123:09] member because I have like a Discord
+[123:10] Channel and so we are creating a little
+[123:13] Community there where we discuss all
+[123:15] these things and we help each other you
+[123:17] know through trying to understand this
+[123:19] knowledge behind the power law so if you
+[123:21] want to join join our community there
+[123:23] you can do it through patreon it's very
+[123:26] uh inexpensive you know to the basic
+[123:28] support like $5 you know just symbolic
+[123:32] so yeah these are the different chall
+[123:33] and I will give you the link so if you
+[123:35] don't mind to uh link all these things
+[123:37] on U on your video so people can find me
+[123:41] and interact with me and we can learn
+[123:43] these things together yeah that the
+[123:45] video will also be posted the full video
+[123:47] on X on YouTube and all the podcast
+[123:49] platforms so uh actually most of the
+[123:51] listeners are actually on X so they can
+[123:53] just click on because a tag usually they
+[123:56] they can just click on your uh profile
+[123:59] and then they see everything from you
+[124:02] and on YouTube and all the other
+[124:03] platform I will just put like the link
+[124:05] and then they can go to your profile and
+[124:07] see all the following links I think this
+[124:10] would be perfect then uh yeah thank you
+[124:12] for taking the time thank you for being
+[124:14] on
+[124:16] and maybe we can re resit the the whole
+[124:19] thing in one year and see how it how it
+[124:20] went yeah
+[124:24] prediction and what really Bitcoin did
+[124:27] perfect and thank you for being on my
+[124:30] pleasure thank you so
+[124:37] much

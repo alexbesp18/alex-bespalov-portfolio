@@ -1,0 +1,955 @@
+Title: What most get wrong about Bitcoin | Alex Waltz
+Video ID: neVdOD-SYEo
+URL: https://www.youtube.com/watch?v=neVdOD-SYEo
+Date Saved: 2025-06-15 12:02:25
+--------------------------------------------------
+
+[00:00] Satoshi do not exist the units of the
+[00:01] Bitcoin system they do not exist you
+[00:03] sold me that's great the title is not a
+[00:06] click bait that that's as real as it
+[00:08] could get why do Satoshi not exist the
+[00:10] reason they don't exist is like if you
+[00:12] take a look at a transaction and you try
+[00:13] to see where are they there no Satoshi
+[00:15] and I'm making a computer scientific
+[00:17] argument here I'm not making a
+[00:18] philosophical one I will ask you again
+[00:20] if you don't it is change in the world
+[00:23] and there is there's no way you can deny
+[00:25] the impact I just don't think is this
+[00:28] highly the tagline Satoshi don't exists
+[00:32] not a Bitcoin movie a movie that happens
+[00:34] to be about Bitcoin what's the story
+[00:37] behind this
+[00:38] title well that's the punch on that's
+[00:40] not the title the title is just toi
+[00:42] don't exist well you know what i' I've
+[00:43] noticed that uh a lot of people started
+[00:46] having this idea of Bitcoin movies and
+[00:49] for me that kind of bothered me a bit
+[00:51] not too much just a bit because it kind
+[00:53] of well the point is like a movie is a
+[00:55] piece of art and the piece of art you're
+[00:57] supposed to go there and not have any
+[00:59] preconceived notion of it and just and
+[01:01] just really really really try to figure
+[01:03] out what a piece of art is about so if
+[01:05] I'm telling you this is a Bitcoin movie
+[01:07] I'm not leaving any room for artistic
+[01:09] exploration right and and I feel like I
+[01:12] feel like all the good movies that
+[01:14] happen to be about a certain thematic
+[01:16] they happen to be about it for example
+[01:18] 2001 A Space Odyssey that's not a space
+[01:20] movie that's a movie that happens to
+[01:22] take space in a place in space so the
+[01:25] same way I feel like I mean I want this
+[01:28] to be a movie that if you're not a
+[01:29] Bitcoin or you would still watch it and
+[01:31] it would be like oh the theme of this
+[01:32] happened to be something Bitcoin
+[01:34] thematically related so I kind of wanted
+[01:36] to to transmit that to some degree um
+[01:40] and that's why I said it because I just
+[01:41] feel everyone just feels like oh Bitcoin
+[01:43] this Bitcoin that they they just put the
+[01:45] Bitcoin sign on whatever they do you
+[01:46] know um so yeah I guess that was some
+[01:49] kind of social commentary I guess you
+[01:50] could call it so so that's why you also
+[01:53] put satosi don't exist and the in the
+[01:55] big title and not oh
+[01:58] no no the title I mean the title is It's
+[02:01] that that's really what you're going to
+[02:02] get in the movie that is the movie is
+[02:04] going to be about the fat at Satoshi do
+[02:05] not exist the units of the Bitcoin
+[02:07] system they do not exist um and I
+[02:10] understand that's that's quite
+[02:11] intriguing uh and that's why I decided
+[02:13] to make a movie about this but no the
+[02:16] title is not a click bait that that's as
+[02:18] real as it could get oh okay okay before
+[02:20] we get deep into the movie why are you
+[02:22] making a movie about Bitcoin in the
+[02:25] first place like what's your motivation
+[02:28] why did you came into Bitcoin why you
+[02:30] make the Bitcoin movie and what's your
+[02:32] Bitcoin story till now okay I guess I
+[02:35] should start with the Bitcoin story then
+[02:37] well uh I got I was studying computer
+[02:39] science in 2012 in Romania in Bucharest
+[02:42] and um I wasn't too happy about it I
+[02:45] kind of wanted to quit anyway and I
+[02:48] discovered Bitcoin by mistake and then
+[02:50] ever since then every waking second of
+[02:52] my life was about Bitcoin and over the
+[02:54] years I've been involved in a lot of
+[02:55] projects a lot of projects has to do
+[02:57] with mining in the early days um I tried
+[03:00] to build some apps with some friends uh
+[03:02] being a part of a bunch of startups
+[03:04] which none of them took off in a bit way
+[03:06] but the most recent project I was
+[03:07] involved in and the one I was only that
+[03:09] was successful was um OTC disc that was
+[03:12] called Ibex and I I was running in
+[03:14] London so that's the origin story um
+[03:19] what El I just why am I making a movie I
+[03:20] mean this is all I've did all my life
+[03:22] man like for the last 12 years of my
+[03:24] life every day that's what I do I
+[03:27] there's nothing else everything in my
+[03:28] life is secondary to to trying to do
+[03:31] things with Bitcoin um but still that
+[03:33] would doesn't explain why I'm making a
+[03:35] movie
+[03:36] well around 2020 when Co was happening
+[03:41] this OTC this that I was running was
+[03:43] doing really well and I but there was
+[03:46] this problem because I most of my for
+[03:48] the last month most of my days were
+[03:50] spent just trying to figure out how to
+[03:52] do regulations and paperwork and stuff
+[03:54] like that I don't like paperwork but I
+[03:56] didn't like this type of paperwork and
+[03:58] um you know paperwork for what exactly
+[04:03] oh it was paperwork for like well we had
+[04:04] to register for like pretty much kind of
+[04:06] get a license was which was pretty close
+[04:08] to like uh a license you get when you
+[04:11] try to get a bank we weren't trying to
+[04:12] become a bank but it was that type of
+[04:14] scrutiny and it was just a lot of
+[04:15] paperwork and I just didn't find it um
+[04:18] enjoyable and then one day it was just
+[04:21] like I was just waking up every day and
+[04:23] I was I wasn't doing what I like and um
+[04:26] at some point I was like I'm why am I
+[04:27] doing this what's wrong with me I could
+[04:29] stop right now and I stopped it I closed
+[04:30] it down people weren't happy about that
+[04:33] the people who were involved but um it
+[04:35] was what it was and then after a while I
+[04:38] like well I'm curious what I'm gonna do
+[04:40] now and I ended up getting a camera for
+[04:43] the wrong reasons and then I started
+[04:46] like just easy I made my way into like
+[04:49] kind of like trying to make things and
+[04:51] stuff like this with the camera and
+[04:53] there was this one moment I made a a
+[04:55] video with a friend of mine with with
+[04:56] Adam wa asking uh about nor signatures
+[04:59] and that's when I said like I want to be
+[05:00] a movie director this was why I put the
+[05:02] why I was put on this Earth so that's
+[05:04] why I'm making a movie because I just
+[05:06] fall in love with this with this thing
+[05:08] uh with with film making I guess you
+[05:11] know and then the Bitcoin movie is
+[05:13] basically like a self-explanatory if
+[05:15] you're into Bitcoin if you're into movie
+[05:17] making uh at some point you're making
+[05:20] movies how did you get started with the
+[05:22] idea of the movie like this searching of
+[05:24] the team getting sponsors getting
+[05:26] choosing the place uh how does this all
+[05:29] come
+[05:30] together well I was I was I was speaking
+[05:32] with a friend of mine actually and we
+[05:34] were having this chat and and we reached
+[05:36] both reached the conclusion hey Satoshi
+[05:38] don't exist and we're like isn't that
+[05:40] such a crazy thing because we're both
+[05:42] like we've been around for quite a long
+[05:43] time it's like I can't believe this is
+[05:45] such like such a simple and obvious
+[05:47] thing I just never bothered to look at
+[05:49] it I never looked at at at where Satoshi
+[05:51] are and and if they are there and I was
+[05:53] like that's such a funny thing I'm just
+[05:55] going to go and tell everyone I know
+[05:56] about this and I started telling people
+[05:58] and also the people that I was telling
+[05:59] uh this they're like hardcore protocol
+[06:01] developers you know so they're not like
+[06:03] noobs or anything like this I'm telling
+[06:04] them that gu satosi don't exist and they
+[06:06] have this this this weird reaction they
+[06:08] just try to prove me wrong and I was
+[06:11] sitting down one day and I was just
+[06:12] thinking dude when I when I realized
+[06:14] this when I was told this fact I was so
+[06:16] happy because hey there's something new
+[06:19] about Bitcoin that I didn't knew there's
+[06:20] something that turns my world upside
+[06:22] down I'm I'm so happy about this I wish
+[06:24] this is true even though I can't wrap my
+[06:26] head around it immediately why this is
+[06:28] true or not but everyone else they just
+[06:30] want to Pro they don't want this to be
+[06:32] true and I said like why is this
+[06:34] conflict of opinion and and when I see
+[06:36] the word conflict I said like oh I have
+[06:37] to make a movie about this you know so
+[06:40] that's why I decided to make a movie
+[06:41] about it
+[06:42] um and and why do satosi is not exist
+[06:46] like I think there already apps that
+[06:49] have like the calculations you can
+[06:52] change in satosi they're like satosi
+[06:55] like in the Bitcoin Community I think
+[06:58] really set settled as a as a as a unit
+[07:02] of account from Bitcoin as a smaller uh
+[07:06] unit of Bitcoin like why don't they
+[07:09] exist well I'm not going to tell that
+[07:11] because I would give away the movie and
+[07:13] and it's not like these things weren't
+[07:14] discussed before like if you go and
+[07:15] search on the old forums these topics
+[07:17] have been discussed before but the main
+[07:19] idea the reason they don't exist is like
+[07:21] if you if you if you look take a look at
+[07:23] a transaction and you try to see where
+[07:25] are they they're no satoshis they're
+[07:27] imaginary units and as soon as hear this
+[07:30] you think like oh this is supposed to be
+[07:31] hard money so you start panicking a bit
+[07:33] but it's no no no the reason Bitcoin has
+[07:36] certain properties that it has is
+[07:38] precisely because Satoshi don't exist
+[07:40] and I'm making a computer scientific
+[07:42] argument here I'm not making a
+[07:43] philosophical one so so really the the
+[07:46] the the idea would be that that I'm
+[07:48] trying to explore the the intellectual
+[07:50] aspect of this which is like precisely
+[07:52] how it works you can look at the code
+[07:54] and whatever and then there's the
+[07:55] consequence of this and and then there's
+[07:58] the idea of like but but but the
+[07:59] interesting part is like but why do
+[08:01] people react to this why why why do
+[08:03] people have this weird reaction to it
+[08:04] you know when they're present that
+[08:07] that's crazy like I have really urge to
+[08:09] see the movie now you sold me that's
+[08:12] great in April it's coming out right no
+[08:15] it's not well it was supposed to we
+[08:17] thought it's gonna come up in April but
+[08:18] it's GNA be more like July and stuff
+[08:20] like that so yeah I don't even know if I
+[08:21] answered your question I'm so sorry I'm
+[08:23] all over the place uh it's fine I Note
+[08:26] Everything I will ask you again if you
+[08:28] don't know
+[08:30] um did producing the movie change your P
+[08:34] perspective on on on first like like
+[08:38] usually when I go deep in a topic um and
+[08:42] then make a video out of it I made this
+[08:44] earlier and now I'm only making the
+[08:46] podcast but ear I make like videos uh
+[08:48] from specific topics and I sometimes
+[08:51] this discover when I also also when I
+[08:53] make a tweet and I research about a
+[08:55] topic there sometimes the research
+[08:57] process and getting the information in a
+[09:00] nice order it can change my VI a little
+[09:04] bit about the topic but because you
+[09:07] researching differently when you're
+[09:09] putting the information together for
+[09:10] someone else or only you that's for me
+[09:14] it makes a difference uh I don't know if
+[09:16] if it's the same for you oh I definitely
+[09:18] agree with TR there was a part of the
+[09:20] process which was like that I was as as
+[09:24] sorry as as I was researching was
+[09:25] getting more concrete and I was seeing
+[09:27] other things but I spent six months
+[09:29] researching this and I had Adam the guy
+[09:31] who I did the first video with he's the
+[09:33] technical consultant on the on the movie
+[09:35] he's a really smart guy one of smartest
+[09:37] people I ever met in my life anyway so
+[09:39] so it wasn't like so when I said I'm
+[09:41] gonna make the movie like there was no
+[09:43] surprises left for me there was nothing
+[09:45] that anyone on the planet could show me
+[09:47] or or tell me that I didn't thought
+[09:48] about right uh but in the ear but in the
+[09:51] beginning yeah um I guess the thing
+[09:53] things that I knew and I didn't
+[09:56] initially I didn't um figure it out
+[10:00] um what you know was interesting is like
+[10:04] well the idea is that because the the
+[10:06] whole conflict of this movie the whole
+[10:08] premise of the movie was the conflict
+[10:10] between the fact that that I reacted the
+[10:12] certain way this information and other
+[10:14] people reacted this way I said that you
+[10:16] know I want this movie to be I want to I
+[10:18] want to talk with some other people
+[10:19] about this and it's not gonna be
+[10:21] necessarily strictly like a documentary
+[10:23] it will be more like um it will be like
+[10:26] a movie he's not going to be just
+[10:27] Talking Heads but I want to talk with
+[10:29] other people and what really surpris and
+[10:30] I ended up talking with free people I
+[10:32] went to this place called BTC aorus
+[10:34] which is an unconference uh which is
+[10:37] it's kind of weird there's this island
+[10:38] in the middle of of Atlantic and people
+[10:40] go there and talk about Bitcoin so I
+[10:42] went there and I interviewed some people
+[10:44] but sorry what I found out is like while
+[10:46] talking with these people the way they
+[10:48] explained something that I thought about
+[10:50] it was so odd that I would have never be
+[10:52] able to say it like that you know and I
+[10:54] don't want to say what it is because I'd
+[10:56] give away the the interesting parts of
+[10:58] the movie but um and also you know what
+[11:00] was also interesting is like all the
+[11:01] free people that I talk with they all
+[11:03] said the exact same thing to the T there
+[11:06] was no disagreement about like how this
+[11:08] fact works but their conclusion around
+[11:10] the fact was like everyone had it
+[11:12] differently and I thought that was so
+[11:13] interesting because
+[11:16] um like there was no conflict on the
+[11:18] technicals but as soon as you went away
+[11:20] from the technical that's when the
+[11:21] conflict came about with interpretation
+[11:23] and stuff so and these are also the
+[11:25] three people that are on the X Channel
+[11:29] uh uh presented like uh how I didn't
+[11:32] know I don't remember the names Daniela
+[11:34] I think there two guys one
+[11:37] girl yeah yeah so the thing is like when
+[11:40] I when I I realized that the way I want
+[11:42] to approach this topic like I said I
+[11:44] definitely want to go as deep as you can
+[11:46] on this topic that being said um this is
+[11:48] not an explainer video or it is a movie
+[11:51] and it will be entertaining so I I
+[11:54] figured out you know what I need to find
+[11:55] some people that really have the
+[11:58] intellectual cap capacity of going
+[12:00] anywhere on this topic not just th not
+[12:02] just necessarily computer science but
+[12:04] philosophy or anywhere it might go but
+[12:06] they also have to be interesting because
+[12:08] the thing is like when you write a
+[12:10] character in a movie you get to decide
+[12:12] how the character is and he has certain
+[12:13] like characteristics and and that's what
+[12:15] draws you to it sorry the one thing is
+[12:18] like a good character is idiosyncratic
+[12:20] idiosyncratic means like it has
+[12:22] something that stands out so then I made
+[12:24] a list a huge list of people who are
+[12:26] smart and are kind of like a movie
+[12:28] character and I ended up trying to see
+[12:31] who's going to come on the island there
+[12:32] and whatever and that's why I ended up
+[12:33] with them and the three people are sge
+[12:35] prus who's um old school um core
+[12:39] contributor Josie bake who's who's also
+[12:42] core contributor and then alberon who's
+[12:45] um uh BDK contributor so yeah these were
+[12:48] the the the
+[12:49] people and the movie is actually just
+[12:52] about the premise that there is uh like
+[12:55] obviously it's it's you don't want to
+[12:57] speak too much about the move movies
+[12:59] content but it's you said it's not
+[13:02] explaining Bitcoin it's explaining the
+[13:05] premise of the title so it's not a movie
+[13:07] for newes it's more like a movie for
+[13:10] bitcoiners if I understood it right um
+[13:15] so yeah the thing is like you know like
+[13:18] have you ever seen any West andon
+[13:20] movies uh no no um he has
+[13:26] um it it it's hard to explain this
+[13:29] without having a a point of reference
+[13:32] but
+[13:33] um um I'm trying to think of of a movie
+[13:37] that that kind of is very close to to
+[13:39] how this was um the idea is
+[13:43] that there's this there's a narrative
+[13:45] structure to the movie there definitely
+[13:47] is a narrative structure and the
+[13:48] narrative structure is that I came up
+[13:50] with this whole thing and I then I went
+[13:52] and talked with some people on this
+[13:53] island and that's where the event took
+[13:55] place so that's what's going to happen
+[13:58] yeah yes so everything is also recorded
+[14:00] on the
+[14:01] island uh a big part of it is recorded n
+[14:04] Island yes a big part of what happened
+[14:06] is is recorded on the island yes I I I I
+[14:09] like the idea of people making content
+[14:11] about Bitcoin it's it's such an
+[14:13] important uh topic it's like it goes
+[14:16] into Freedom it goes into money goes
+[14:18] into a broken system like um what what
+[14:22] is the most important thing for you in
+[14:25] in in Bitcoin what what drives you to
+[14:28] make content into this field like what
+[14:31] property is like that's what I want to
+[14:35] be in Bitcoin like if you orange build
+[14:38] someone new like a grill party or
+[14:40] something I never even though I always
+[14:43] intellectualize the them to understand
+[14:45] about
+[14:46] Bitcoin sorry what do you want them to
+[14:49] understand about Bitcoin I don't want in
+[14:52] oh I I actually don't want anyone to
+[14:54] understand anything uh uh as I said this
+[14:56] is a movie I wanted to feel something I
+[14:58] I don't want him to understand anything
+[14:59] I'm not trying to explain anything I'm
+[15:01] not trying even to convince people of
+[15:03] Satoshi don't exist you what I'm trying
+[15:05] to capture is like is this you know how
+[15:07] for me it's like this I I I discovered
+[15:10] Bitcoin and in the moment I discovered
+[15:12] there was this feeling this my heart
+[15:14] stopped for a second and I was this is
+[15:17] incredible and and the reason why it was
+[15:19] incredible is like as soon as that that
+[15:20] came into my mind I can see all the
+[15:22] implications ramification all these
+[15:24] things now I don't want to tell you
+[15:25] those implications I want you to feel
+[15:28] that same feeling that that happened
+[15:29] there that's what I'm trying to capture
+[15:30] in this movie and and this this feeling
+[15:32] was when I when I was like this whole
+[15:33] thing was satos didn't exist it was just
+[15:36] like time stopped for a moment my I was
+[15:38] like if they don't exist then this
+[15:40] happen and this happened this happen and
+[15:41] all these things are going in my head
+[15:43] and and that that feeling of like oh my
+[15:45] God this is magical that's what I'm
+[15:47] trying to to give in this movie so so
+[15:50] that's why I'm trying to say like you
+[15:51] don't have to be technical or you don't
+[15:53] have to like do your homework is like I
+[15:54] want you to capture that feeling but
+[15:57] again it is talking about Bitcoin so it
+[16:00] will have some concrete elements I hope
+[16:02] that answer the question yeah it's I'm
+[16:05] I'm really looking forward to the to the
+[16:06] movie and I think we will we cover the
+[16:09] movie right uh so that you didn't give
+[16:11] up uh any content that is in there but
+[16:15] still make people really want to see it
+[16:17] I'm looking forward to July you said
+[16:19] right um yeah I I will release a trailer
+[16:22] by the way probably by the end of
+[16:24] January or something depending how the
+[16:25] filming is go and and and that will will
+[16:28] reveal bit more about it you know uh so
+[16:30] I'm not trying to be super super
+[16:31] secretive but um yeah yeah this would be
+[16:36] actually my next question if if there's
+[16:37] a trailer coming up before July so
+[16:39] January is a is trailer coming up with
+[16:42] the with the launch of the Bitcoin spot
+[16:47] ETF yeah I don't know that that would be
+[16:49] cool if if that would happen um yeah I
+[16:53] don't want to make any promises but but
+[16:54] like maybe maybe end of febru maybe end
+[16:57] of January a trailer is is going to come
+[16:58] out yeah did you saw the
+[17:01] advertisements uh from uh I think like
+[17:05] two or three already came out with
+[17:07] Bitcoin ETF ads um before even the
+[17:11] approval came did you saw the ads yeah I
+[17:13] saw the one with a meme guy I thought
+[17:15] that was that one was the best made out
+[17:17] of all of them the most interesting guy
+[17:19] on Earth uh what how did you like it
+[17:22] like what would you how would you make
+[17:25] an ad for for a Bitcoin ETF for like
+[17:27] example
+[17:29] c yeah well I mean I I also maybe should
+[17:32] have clarified like for the most part
+[17:34] since I started making movies I only
+[17:36] made commercials and this is my first
+[17:37] movie that I'm making um I only made
+[17:40] commercials so so and I studied
+[17:41] commercials and also the movie is going
+[17:43] to include commercials inside it and I
+[17:45] know that sounds kind of odd but anyway
+[17:47] to answer the question ah gee I don't
+[17:49] know like um how would I make a Comm
+[17:51] it's hard because when I make a
+[17:52] commercial like there's no way I could
+[17:54] have an idea about it I would have to
+[17:56] talk with a client and they would have
+[17:58] to tell tell me what they want to do and
+[17:59] then I would have to tell the story well
+[18:01] well I don't know it's like what do you
+[18:02] think it's why do you think anyone would
+[18:03] need an ETF that's an interesting
+[18:06] question because uh I would never buy an
+[18:09] ETF uh but I understand I understand
+[18:13] there are people out there that just
+[18:16] trust
+[18:17] their legacy Financial systems so much
+[18:20] and they need a financial advisor
+[18:22] telling them uh to buy Bitcoin so I also
+[18:25] think that um in the ETF game it will be
+[18:29] more about sales people and less about
+[18:31] ads because uh you need the financial
+[18:34] advises you need the salese actually
+[18:36] selling the high ticket clients the the
+[18:39] ETFs like hey you should invest 1% 5%
+[18:42] 10% 20% of your portfolio in Bitcoin and
+[18:46] I think it will be different I was just
+[18:49] curious because we like Bitcoin ETF is
+[18:51] like right now a big topic maybe not as
+[18:55] big when the podcast from ARS now comes
+[18:57] up because today is the second of
+[18:58] January it comes out like maybe middle
+[19:00] or end of January Hour episode so if you
+[19:03] if someone watching this um so it will
+[19:07] be interesting how the ad uh are well if
+[19:11] I would have to make an ad right now I
+[19:13] would think for the thing is like mainly
+[19:15] the main purpose to to use an ETF is if
+[19:17] you're like a financial institution
+[19:19] because you you can't get exposure to
+[19:21] this in any other way right you need a
+[19:23] specific type of financial product so I
+[19:26] would I would kind of like just I would
+[19:27] kind of try to turn around this whole
+[19:29] thing of like an Institutional thing I
+[19:32] would probably try to create some kind
+[19:33] of small narrative structure of having
+[19:36] someone who doesn't look like it's an
+[19:38] instit like when you think of an
+[19:39] institution you think someone in a suit
+[19:41] and button down and all these things I
+[19:44] would find the most spk rocker I I would
+[19:46] follow the a person waking up who has
+[19:49] the most punk rock way of like living in
+[19:51] the house walking there getting in the
+[19:53] car on a motorcycle I don't know having
+[19:55] tattoos doing drugs on the way I don't
+[19:57] know something like that and then he
+[19:58] walks in and then in his office he buys
+[20:01] the ATF that's what I would do I would
+[20:02] just turn it around so everyone would be
+[20:04] like oh I would never expect that I
+[20:06] think that would be actually a good one
+[20:09] um I don't know yeah could be could be
+[20:13] you have uh this is a completely random
+[20:16] question from me now and maybe there's
+[20:18] nothing behind it but um I saw your ex
+[20:21] profile and I saw you handle raw
+[20:24] avocado yeah does this has any story
+[20:27] where is it coming from a raw avoc oh no
+[20:30] no it is the most uninteresting story uh
+[20:33] the first time I had a avocado in
+[20:35] Romania uh I realized it was ripe it was
+[20:38] not ripe it was raw um and that's when I
+[20:42] opened my Twitter I think and that's how
+[20:44] that came about but it it has no meaning
+[20:46] or no nothing and I'm not vegan a lot of
+[20:49] people ask me I'm not vegan not at all
+[20:52] no I couldn't be further from veganism
+[20:55] actually yeah that would be actually my
+[20:58] next question because uh some sometimes
+[21:01] the avocado stands for like the
+[21:03] plan-based uh movement a little bit in
+[21:06] my in my view as my
+[21:10] thing
+[21:12] um where do you see when you look out in
+[21:16] the bitcoin's future like maybe 100
+[21:18] years ago because I'm I always like to
+[21:20] to see what people think about Bitcoin
+[21:23] in like 100 years or like 20 years like
+[21:25] really far into the future where
+[21:28] um we might actually have a chance of uh
+[21:32] seeing that Revol Revolution going on um
+[21:36] where do you see Bitcoin do you see it
+[21:38] as replacing Fe do you see living
+[21:42] besides Fe how how will it change or is
+[21:45] it just money and it uh does not change
+[21:47] a
+[21:48] lot yeah I mean you know I used to think
+[21:50] for a long time probably in the first
+[21:53] years that you know this is going to
+[21:55] come and replace fat and it says all the
+[21:58] TR all the evil in the world is going to
+[22:00] be saved by Bitcoin but I don't think
+[22:02] that's going to be true um I just think
+[22:05] it's it it is probably gonna leave
+[22:07] alongside it I mean I think it's easy I
+[22:09] think there are a lot of people who came
+[22:10] up with optimistic scenarios for this I
+[22:13] would I would think it' be more
+[22:14] interesting think of a more pessimistic
+[22:16] one like I think a big pess a big
+[22:20] pessimistic scenario and I hope this
+[22:21] this is not going to happen but a
+[22:23] pessimistic scenario is the miners get
+[22:25] captured by reg by regulations and we
+[22:27] don't have censorship resistance you
+[22:29] know and the weird part about that I
+[22:32] about that is that I think we could have
+[22:33] that system and Bitcoin would probably
+[22:35] still be up in price you know so I hope
+[22:38] that's not what's gonna happen but uh I
+[22:40] don't know 20 years is just so hard to
+[22:41] say
+[22:42] because I mean I know I I used to make
+[22:45] predictions even five years ago and
+[22:47] they're all so couldn't be further away
+[22:49] from you know what we expected um I
+[22:52] don't I I'm sorry I know people usually
+[22:54] like to go on podcast and be like it's
+[22:56] going to save the world it's going to do
+[22:57] all these things but I just don't
+[22:58] believe that I just don't I can't I
+[23:00] don't feel like I couldn't say that
+[23:02] because I don't believe it 100% you know
+[23:04] yeah I I I I have both both side of
+[23:08] people on actually like there there are
+[23:10] people saying oh it will it will be a
+[23:13] revolution even spiritual spiritual for
+[23:15] all people it and but there are also
+[23:18] people that say come on it's just money
+[23:20] it's like uh it it it will maybe uh be
+[23:24] an evolution for the for the money
+[23:26] sphere and it will be an way for people
+[23:29] how to save effectively money but if you
+[23:33] put in the work you could have done it
+[23:35] before also kind of inter fear system
+[23:37] with real estate stocks ETFs and stuff
+[23:39] like that so it's just another vehicle
+[23:42] and it's interesting how how Bitcoin has
+[23:44] a SE how different the um objectives
+[23:47] here
+[23:48] are I mean I just just to be very clear
+[23:51] it it it already is revolutionizing the
+[23:53] world it is changing the world and there
+[23:55] is there's no way you can deny the
+[23:57] impact I just don't think is this highly
+[23:59] utopic thing I just don't see how that
+[24:01] could ever make sense um actually I
+[24:04] think it's dangerous like when someone
+[24:05] promise you Utopia uh behind every
+[24:08] utopic promise there's always some kind
+[24:10] of like you know um dictatorship to some
+[24:13] degree so
+[24:16] yeah yeah it's it's it's hard but the I
+[24:19] think it's the the main Revolution
+[24:22] behind it is that there is no Creator
+[24:25] like we still don't know who's the the
+[24:27] mot and if it's a guy a girl group of
+[24:31] people there's so many fears about it I
+[24:33] was I was obsessed in the beginning
+[24:36] actually with the story about it and I
+[24:39] read I think two or three books about it
+[24:41] who s Nakamoto might be there are like
+[24:44] really people out there and analyzing
+[24:47] every email analyzing everything he kind
+[24:50] of left like the the language he used
+[24:52] the the accent he might be Associated
+[24:56] and there and in in my end of the
+[25:00] research just concluded there is no one
+[25:03] strategy that he might be this person or
+[25:05] might be that person and yeah moving on
+[25:09] from Bitcoin uh as a
+[25:12] filmmaker you might have an unique view
+[25:15] about social media like what what
+[25:18] platform do you like the most I guess
+[25:22] YouTube um no well you know I I'm mostly
+[25:25] active on Twitter you know and I post
+[25:28] quite a lot and I I don't know if you
+[25:29] notice but recently I said that I
+[25:31] realized we have to start promoting the
+[25:32] movie and I tried tried to Mak a bit
+[25:35] more effort in that in that regard so by
+[25:37] the time this goes out there should be a
+[25:39] lot of post that that I I made Twitter
+[25:42] is definitely my favorite because I like
+[25:43] to talk a lot you know I also post
+[25:45] things on Instagram because I take
+[25:46] photography um I do photography just to
+[25:49] practice composition and stuff but no
+[25:52] it's probably goingon to be a Twitter
+[25:55] the only I also like I mean if I'm going
+[25:57] to post video videos I would prefer on
+[25:58] YouTube because it's better format but
+[26:01] yeah Twitter yeah Twitter also has they
+[26:03] are working really hard to to push
+[26:06] videos at least I see it that when I
+[26:08] have a a video it kind of gets pushed a
+[26:10] little bit more I think it gets an gets
+[26:12] in
+[26:14] poost more instead of just a picture or
+[26:17] just a text um what would you change
+[26:20] about XA how it like is now would you
+[26:24] have an standard section just for like
+[26:27] videos you have anything want that I
+[26:30] mean I'm I'm actually very happy with
+[26:32] what elas did I don't really don't
+[26:33] understand why how how people were were
+[26:35] cheering on uh when Jack was at the at
+[26:38] the boat when it was awful it was it was
+[26:41] absolutely awful like I mean and the
+[26:43] things that came out of out of the
+[26:44] Twitter files is like oh my God and all
+[26:46] of a sudden Elon Musk KES everything is
+[26:49] good about it every single change he
+[26:51] makes literally made the platform 10
+[26:53] times better I don't understand why
+[26:54] people are not happy the only thing I
+[26:55] would change is it's very simple I just
+[26:57] want better quality video I mean I spend
+[26:59] like you know a lot of money on my
+[27:01] equipment to get like super quality
+[27:04] video and I when you put it on on
+[27:07] Twitter it compresses a lot that's
+[27:08] probably the only thing I would change
+[27:10] but I'm very happy with Twitter I use it
+[27:12] a lot I like it you know yeah it it's it
+[27:14] also recommends you to only upload in
+[27:17] 720 and not in HD so it's it's it's but
+[27:21] I always try to get the highest quality
+[27:24] up um that's that's funny um we are
+[27:28] having an an Andro at the the podcast
+[27:31] where the previous guest asked a
+[27:34] question for the next guest um and your
+[27:37] question is an interesting one how much
+[27:39] Freedom Is Enough freedom for
+[27:42] you oh I just feel freedom with caveats
+[27:45] is not Freedom that's where I lean in
+[27:47] that thing and of course that sounds
+[27:49] very scary you know
+[27:50] because I mean Al I mean when you think
+[27:53] about it it's like ultimate Freedom
+[27:55] really means there's no walls around you
+[27:57] and at some point Humanity was existing
+[27:59] like that there were no walls around us
+[28:01] and and life was probably incredibly
+[28:04] difficult and probably some people got
+[28:05] together is like we have to put some
+[28:07] walls around us we in some sense you're
+[28:09] limiting the freedom you know um and
+[28:12] then this went to some degree over you
+[28:14] know probably a few hundred thousand
+[28:16] years and now here we are which things
+[28:18] are quite a bit stable but just's too
+[28:21] much walls and there's nothing wrong
+[28:23] with having walls but the problem is
+[28:25] that someone comes and builds a wrong
+[28:27] wall around you and I'm talking about
+[28:29] like you know like the state or
+[28:30] something like that um and even though
+[28:33] life is the best has ever been that's
+[28:35] kind of happen now so I I just feel like
+[28:38] that's how Freedom looks like and also
+[28:39] like another I had this incredible
+[28:41] cultural shock when I first went to the
+[28:43] US um I never saw a gun in my life right
+[28:45] now here I am shooting gun at guns at a
+[28:48] range and and I just I um you know
+[28:51] everyone was just making fun of me of
+[28:53] how you know here we we don't have
+[28:55] freedom and to some degree they kind of
+[28:57] our right because I'm not I'm not sure
+[28:59] about the guns precisely but but just as
+[29:02] a general comment on this thing it's
+[29:03] like I would rather prefer less
+[29:06] intervention from the state and whatever
+[29:08] and I want to take matters in my own
+[29:10] hand and protect myself and then be
+[29:13] overprotected um so but but but to get
+[29:15] back to the original question yeah I I
+[29:17] don't think Freedom has caveats Freedom
+[29:18] with caveats there's no you know there's
+[29:20] not Freedom so there there cannot be
+[29:24] enough
+[29:25] Freedom what are you saying okay
+[29:29] yeah I mean that's how I see it anyway
+[29:33] um yeah I and I I feel like that's kind
+[29:36] of like the main promise of of Bitcoin
+[29:38] to some degree the idea is that no one
+[29:40] can stop you from you know broadcasting
+[29:42] a transaction with whatever caveats and
+[29:45] stuff like that so um yeah yeah that's
+[29:50] where I lean on this thing I I guess I
+[29:52] probably would would think that I like
+[29:54] some kind of a narco capitalist type
+[29:57] I sympath I don't know if I would like
+[29:59] it but I sympathize with it yeah me too
+[30:03] me too very much even um I usually asked
+[30:08] where people can find you uh and and
+[30:11] where do you want to put direct people
+[30:15] do but I guess it's on X and Satoshi
+[30:18] doesn't exist satosi doesn't exist on
+[30:22] the the Twitter Channel also the
+[30:24] film yeah I mean you can find me at
+[30:26] Round avocado definitely and uh yeah you
+[30:30] can find the movie there and also we
+[30:31] have a gazer campaign so if you want to
+[30:33] donate to the movie uh donations that's
+[30:35] very much appreciated oh you actually
+[30:38] asked me at some point I didn't answer
+[30:39] like about the production proc and how I
+[30:42] found the sponsors yeah um but but yeah
+[30:45] I mean that that's where you can find
+[30:46] the find find me and find details about
+[30:50] the the movie there
+[30:52] yeah how how did you go and ahead and
+[30:55] and like because a movie I don't know
+[30:59] like it depends of course how how high
+[31:01] quality and high cost of production you
+[31:04] you make it but you you need quite a
+[31:06] time from the team you need the
+[31:08] equipment you need to place uh it can be
+[31:10] cost costly how did you go ahead and
+[31:13] then make it happen well the thing is
+[31:16] like I said I only made commercials
+[31:17] before that and and I don't know if my
+[31:20] commercials are good or not that's up to
+[31:22] people to decide but I do know the
+[31:25] quality is there I know I could put my
+[31:27] commercials up to anything else and and
+[31:29] everyone said this you know um so and I
+[31:33] studied commercials a lot so now when I
+[31:34] came when the idea came to make this
+[31:36] movie I realized that even though it's
+[31:38] gonna be have a specific narrative
+[31:40] structure it's gonna be quite loose
+[31:42] that's why I was talking abouts Anderson
+[31:44] movies it's like it's not like The
+[31:46] Godfather where like you need to follow
+[31:48] what's going on and whatever it's gonna
+[31:49] be a bit more playful so when I realized
+[31:52] that's going to happen I realized that
+[31:54] that stylistically I can do a lot of
+[31:56] things and and then I was sitting down
+[31:58] at some point and I was like dude we
+[32:01] should have some products placements and
+[32:03] I was like here's the truth if I'm going
+[32:04] to have a product placement in my movie
+[32:07] um I'm gonna I'm gonna do it I'm gonna
+[32:09] make it look nice and I'm gonna make
+[32:11] sure stylistically everything works with
+[32:13] the movie and and and it's like I'm
+[32:16] gonna make it like a commercial and I
+[32:17] was like why don't I just do that anyway
+[32:19] because what happened most of the time
+[32:21] people go to uh somewhere to a company
+[32:24] especially people who make Bitcoin
+[32:26] movies and they go like hey can you
+[32:27] please sponsor us out of the goodness of
+[32:29] your heart um and then people say like
+[32:32] yeah sure maybe and that's that but I
+[32:35] figured out why don't I just go to these
+[32:37] companies and tell them like here's the
+[32:39] thing uh we we'll we'll place your
+[32:42] product in the movie and we'll make it
+[32:44] in the style of the movie and will make
+[32:45] it like a commercial like the ones I
+[32:47] made and you get to keep keep the
+[32:49] commercial
+[32:50] afterwards so it wasn't like pretty much
+[32:52] like hey do this out of the goodness of
+[32:53] your heart now now this is a business
+[32:56] deal right now you know and also like if
+[32:58] if you know in the marketing promotions
+[33:00] and stuff like that depending on what
+[33:02] kind of uh sponsorship happens uh the
+[33:04] people are going to be featured so when
+[33:06] that happened you know people were a bit
+[33:08] more open to it they was like well this
+[33:09] sounds kind of interesting you know I
+[33:11] mean even if the movie fails in the
+[33:12] worst possible way we're getting a
+[33:14] commercial out of it so um so they can
+[33:17] use the commercial and
+[33:20] uh to get value out of this anyways um
+[33:25] one question came up to me also Where do
+[33:27] you um get the movie out like how do you
+[33:31] distribute the
+[33:33] movie yeah well um that's also like I
+[33:36] the ideally would be to get it on
+[33:37] Netflix or something like this but I
+[33:39] just have to be realistic I'm a
+[33:40] first-time director so and again like I
+[33:43] know I don't know anyone in the movie
+[33:45] industry so I have to be realistic about
+[33:47] this even though I I still don't think
+[33:49] that like like the chances are
+[33:50] impossible I just think the chances are
+[33:52] low and I want to Mage expectations so
+[33:54] but but that would be the ideal Target
+[33:56] other than that um yeah there's quite a
+[33:59] few options obviously to just do it on
+[34:00] the YouTube channel um or just find some
+[34:04] other like Distributors that's a bit
+[34:06] lower tier and try to have it there I um
+[34:09] there's that movie that came out there
+[34:11] to
+[34:12] dream the El Salvador one and they ended
+[34:14] up getting like on on Apple and on um
+[34:19] Amazon and stuff like that uh so I I
+[34:22] think I we would have a chance also with
+[34:24] this movie um to go there but I it's
+[34:28] really early I don't I I don't have the
+[34:30] answer to that yet there will be a
+[34:32] Premiere I will say um it's kind of like
+[34:35] 90% chance the premier is goingon to be
+[34:37] in Berlin like a a physical Premiere but
+[34:40] I don't also don't want to make any
+[34:41] promises because that's still further
+[34:42] away but yeah a premier in berin it's
+[34:46] it's not that far from my place so I
+[34:48] would definitely uh come where you where
+[34:52] where are you if you can say uh lince
+[34:54] Lind it's in Austria uh in AA okay I
+[34:57] mean Berlin is actually not as close uh
+[35:02] because Germany is obviously in the
+[35:04] border from from Austria but uh Berlin
+[35:07] is high up and Austria like down so it
+[35:09] would be like I don't know one or two
+[35:11] hours flight or like five six seven
+[35:13] hours with the car around that time I
+[35:16] would suggest but for like a nice movie
+[35:19] uh I would definitely come to
+[35:21] building oh listen I'll promise you uh I
+[35:24] don't know what's going to happen and
+[35:25] where that's going to take place yet but
+[35:27] I I can promise right now GNA get a
+[35:29] ticket I can I can make that promise
+[35:31] right now uh a ticket to get inside and
+[35:33] stuff so yeah perfect
+[35:36] perfect um then uh let's let's wrap it
+[35:40] up and uh I'll I we will interview you
+[35:44] after the the movie launched I
+[35:47] think yeah yeah that that sounds great
+[35:50] um we're definitely gonna need a lot of
+[35:51] press when that's going to happen you
+[35:52] know um and and that's also kind of the
+[35:56] point was just this of the marketing
+[35:57] campaign that's why I started being a
+[35:58] bit more active on Twitter and stuff
+[36:00] right now so but but yeah that that's
+[36:02] when the main press in marketing should
+[36:04] happen
+[36:06] perfect thank you for doing it no thanks
+[36:09] for having me on yeah this this was
+[36:10] great

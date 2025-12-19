@@ -1,0 +1,1853 @@
+Title: Why OWNING BTC isn't enough: Bitcoin BLOCK SPACE is crucial!
+Video ID: tyxcPAId47c
+URL: https://www.youtube.com/watch?v=tyxcPAId47c
+Date Saved: 2025-06-15 11:45:14
+--------------------------------------------------
+
+[00:00] people are missing the importance of
+[00:02] block space control in addition to
+[00:04] focusing on building a strategic Bitcoin
+[00:06] Reserve I would be building a mining
+[00:08] model if as a country I do not have
+[00:11] guaranteed access to the base layer
+[00:14] owning the Bitcoin could be irrelevant
+[00:16] the economic sovereignty of a nation of
+[00:19] an individual or company is I believe
+[00:21] dependent on them having access to the
+[00:24] base layer Bitcoin is built a certain
+[00:26] way on purpose and I believe it's the
+[00:28] right architectural structure for
+[00:30] Bitcoin you could say Bob I want to pre-
+[00:33] buby space in the blocks you are going
+[00:36] to produce in April the base layer
+[00:38] access is a luxury it's not a right
+[00:41] there'll always be a door open it might
+[00:43] be very expensive and you might have to
+[00:45] wait a long time but the door is is
+[00:47] always
+[00:48] [Music]
+[00:52] open so many people talking about
+[00:54] strategic Bitcoin Reserve which is great
+[00:58] I think people are missing
+[01:00] the importance of block space control
+[01:03] and the geopolitics around all of that
+[01:06] how important is that PL space and like
+[01:09] what role will that PL space that scares
+[01:12] infrastructure that scarce place in the
+[01:15] Bitcoin ecosystem play in in the future
+[01:18] so I I think we have to start with you
+[01:21] know why is block space scarce how
+[01:23] scarce is it and you know what you know
+[01:25] what is it really mean and and
+[01:28] so um
+[01:30] as I think most people probably
+[01:31] listening to the show show know um you
+[01:33] know every 10 minutes there's a block uh
+[01:36] roughly right but that block has got a
+[01:39] finite size to
+[01:40] it and that size is uh 4 million weight
+[01:45] units but what that really means is
+[01:48] typically you're going to see 3 to 4,000
+[01:50] transactions embedded within that block
+[01:53] now you could stretch that in probably a
+[01:56] maximum scenario you could probably get
+[01:58] north of 10,000
+[02:00] but as a practical matter you're
+[02:01] typically going to see in that range I I
+[02:04] use 4,000 kind of as my typical
+[02:07] barometer and I don't think there's a
+[02:11] lot that can be done to practically
+[02:13] switch that so if we know a block comes
+[02:16] on average every 10 minutes and there's
+[02:18] about 4,000 transactions in it then we
+[02:22] can
+[02:23] extrapolate to look at it on an annual
+[02:25] basis and say there are about 200
+[02:27] million transactions per year that can
+[02:30] run through the Bitcoin base layer and I
+[02:34] don't believe that there's a lot that
+[02:36] can be done to change that number there
+[02:39] are some people who disagree with me I
+[02:40] want to be you know fair that there are
+[02:42] other opinions uh some people think that
+[02:45] some of the op codes and things that are
+[02:47] being floated around might stretch that
+[02:49] number a little more I I personally
+[02:51] don't have much optimism for that
+[02:53] changing that but so what that means is
+[02:57] that at at the base layer you know you
+[02:59] know that's really where all the action
+[03:01] happens right if you want to if you want
+[03:03] to take self- custody has to be a Bas
+[03:05] layer transaction you want to
+[03:07] consolidate utxos has to be a Bas layer
+[03:10] transaction you want to open a lightning
+[03:12] Channel Bas layer transaction so all of
+[03:16] us around the world have to
+[03:18] share those 200 million
+[03:21] transactions but there are 8 billion
+[03:23] people in the world and there are 330
+[03:26] million companies in the world so if we
+[03:30] if we look at that we'd say well that
+[03:32] math doesn't work really
+[03:35] well so um in fact one example I give is
+[03:39] if I sat here today and I said I want to
+[03:42] give every person in the world some
+[03:45] Bitcoin let's say I had enough to do
+[03:47] that just hypothetically it would take
+[03:49] me about 40
+[03:50] years to do to accomplish that using all
+[03:54] of the block space and all of the blocks
+[03:57] so um we have to do is understand that
+[04:01] Bitcoin is built a certain way on
+[04:04] purpose and I believe it's the right
+[04:06] architectural structure for Bitcoin
+[04:09] which
+[04:09] is we have a base layer which is the
+[04:13] most
+[04:15] secure uh area of the network it's
+[04:19] access to that is
+[04:21] precious um that is you know the
+[04:24] equivalent of the bank vault right it's
+[04:27] like this is the this is the the thing
+[04:30] armies would have to uh fight to get to
+[04:34] right in in historical days it's the the
+[04:36] central reserves in the US it would be
+[04:38] the Fort Knox where all the gold is like
+[04:40] this is this is our layer and access to
+[04:43] it is very restricted and we we've built
+[04:46] a structure or bitcoin's based on a
+[04:48] structure of layers where you know
+[04:51] things like lightning or liquid sit
+[04:53] above it and and we could do side chains
+[04:56] we can do all these other things that
+[04:59] aot higher level trans higher uh volume
+[05:03] of transactions to occur um but maybe
+[05:06] with less security or less
+[05:08] decentralization okay
+[05:10] so the reality is though that we we're
+[05:14] all seeing a lot of talk these days
+[05:18] about strategic Bitcoin Reserves at the
+[05:21] nation state level it's happening in the
+[05:23] US I just saw this morning uh someone
+[05:26] from France had given a a a a speech to
+[05:29] the EU Parliament about you know
+[05:32] prodding you know the EU to get with it
+[05:36] and and start doing something
+[05:38] similar I think that's great I I have no
+[05:41] problem with
+[05:42] it however I think if if I were the head
+[05:46] of state doesn't really matter what
+[05:48] country of the world it is if I was the
+[05:50] head of state what I would be
+[05:52] doing is at a minimum in addition to
+[05:56] focusing on building a strategic Bitcoin
+[05:58] Reserve I would be
+[06:00] building a mining
+[06:03] model and the reason is that if if as a
+[06:09] country I do not have guaranteed access
+[06:13] to the base layer owning the Bitcoin
+[06:15] could be irrelevant so the and what I'm
+[06:18] trying to get at is the economic
+[06:21] sovereignty of a
+[06:23] nation of an individual or or a CO
+[06:26] company but we're talking nation state
+[06:28] right now is I believe dependent on them
+[06:31] having access to the base layer and the
+[06:34] only way for them to do that is to have
+[06:37] access and control of some of the block
+[06:41] Spas via mining so just as a
+[06:44] hypothetical if I was the uh president
+[06:47] of Algeria say a small nation I would be
+[06:52] actively pursuing e building a little
+[06:55] mining infrastructure myself but also
+[06:58] doing something to attract mining into
+[07:02] my country a country of that size I
+[07:04] might have the goal of owning one
+[07:06] quarter of 1% of the world's hash
+[07:10] rate and and the reason would be if I
+[07:13] own one quarter of the world's hash rate
+[07:17] there are um let's see what a little
+[07:20] over a thousand blocks produced every
+[07:23] week if we just look at it that way and
+[07:26] if I own one quarter of 1% of those I'm
+[07:29] GNA produce about three blocks a
+[07:32] week so what that means is at the
+[07:35] country of Algeria in this particular
+[07:38] example by having control of that hash
+[07:43] raate it means they can create what are
+[07:46] called The Block templates they can
+[07:48] decide what transactions go in to all
+[07:52] the blocks they're trying to create and
+[07:53] about three times per week it would be
+[07:56] the transactions they selected that
+[07:58] could get
+[08:00] get included in the block and so even if
+[08:03] there was an international ban on
+[08:06] Commerce I was I was blacklisted as a
+[08:09] country I was in disfavor with the west
+[08:12] or with China or with Russia there's
+[08:14] nothing any of them could do to stop me
+[08:17] me and me from doing Commerce with the
+[08:21] rest of the world and by extension I
+[08:24] would what I would do is I would have a
+[08:26] set of rules for the blocks I was
+[08:28] creating Algeria that said first the
+[08:31] business of the Algerian government
+[08:33] those transactions get put in second
+[08:36] probably the more significant
+[08:40] corporations within the country I'm
+[08:42] going to prioritize their transactions
+[08:44] and then third the citizens of Algeria
+[08:47] would would maybe be next and so it I I
+[08:52] use the term economic
+[08:54] sovereignty to kind of describe this
+[08:58] that it's not really a form of warfare
+[09:01] but I think it's a it's a way of
+[09:03] Defending yourself um against economic
+[09:06] persecution in the International
+[09:08] Community and guaranteeing that you have
+[09:12] um that you have access because if we
+[09:15] take the opposite scenario let's say
+[09:18] you're Algeria you have no mining but
+[09:20] let's say you own 40,000
+[09:22] Bitcoin well it may be difficult for you
+[09:26] to get access to that Bitcoin
+[09:29] and use it to your advantage um if you
+[09:32] don't have access to block space
+[09:35] especially if other countries join in
+[09:38] and um by the way I I don't necessarily
+[09:40] like this I don't love the idea as a
+[09:42] bitcoiner of a bunch of nation states
+[09:44] controlling a bunch of the hash power
+[09:46] it's not a very bitcoiner thing to do um
+[09:49] to a certain degree I I I've even had
+[09:52] internal battles with myself about you
+[09:53] know should I be talking about
+[09:55] this but I think the reason I want to
+[09:58] talk about it
+[10:00] is that I do think there are things we
+[10:01] can do about it and and we have to make
+[10:04] sure that that we don't let all the hash
+[10:08] rate go that direction that that we can
+[10:11] as a community preserve some degree of
+[10:15] individual freedom and in individual
+[10:17] economic sovereignty by making sure the
+[10:20] mining network doesn't get completely
+[10:22] controlled by the nation state level
+[10:26] that's super interesting there there are
+[10:27] many directions uh want to go now but um
+[10:30] maybe let's start with that we talked
+[10:33] about Str strategic Bitcoin reserve and
+[10:36] uh Donald Trump and uh the The Mining
+[10:40] and he said one thing that we laughed at
+[10:44] uh when he said we will mine all the
+[10:45] Bitcoin in in America yeah but that's
+[10:48] basically uh the thing that like what
+[10:51] you are saying is like the the USA
+[10:54] should fight for mining all the Bitcoin
+[10:56] even they will not never get to all the
+[10:58] Bitcoin but uh should fight to get as
+[11:00] many Bitcoin miners as possible in into
+[11:04] the USA real and maybe even like on a
+[11:07] nation level is is that do do you think
+[11:10] he got it that that game theory aspect
+[11:12] of it or was just something that he
+[11:15] said I doubt he got it but you know
+[11:18] sometimes you get the right answer for
+[11:19] the wrong reason so so I I don't think
+[11:24] he understands uh what I'm talking about
+[11:28] here but it but it would that that would
+[11:30] be the result because I know this will
+[11:32] this will
+[11:33] probably uh sound controversial I guess
+[11:36] it probably is controversial but I'll go
+[11:38] back to the Algeria
+[11:41] example if I was the president of
+[11:43] Algeria and there was a a magic Genie
+[11:47] and the magic Genie
+[11:48] said you can
+[11:50] have 40,000 Bitcoin right now just boom
+[11:54] you own it here are your keys you have
+[11:56] 40,000 Bitcoin or
+[11:59] you can have one quarter of
+[12:03] 1% of all the world's hash rate for the
+[12:05] next Century which do you
+[12:09] choose I would pick the hatch
+[12:12] rate
+[12:13] because just owning the Bitcoin does
+[12:17] not protect the sovereignty of my
+[12:20] country and its people but owning the
+[12:23] hash rate does so like uh owning hash
+[12:26] rate uh is is more important then owning
+[12:30] the Bitcoin itself at the nation state
+[12:32] level yes I think at the nation state
+[12:35] level but individual level not because
+[12:38] uh it's it's it's better it's it's a
+[12:41] better decision to directly buy the
+[12:43] Bitcoin yeah well I would still I mean
+[12:45] if it were possible at the individual
+[12:47] level to do that I would I would
+[12:50] actually probably
+[12:51] even then I'd have to think about it a
+[12:54] little more but nation state level I
+[12:56] think the answer is clear probably at
+[12:59] the individual
+[13:01] level uh I would still pick the hash
+[13:04] rate because I I believe that
+[13:07] um hash rate will be
+[13:11] monetized it
+[13:13] is when you think about so I am a minor
+[13:16] I get you know just to preface it I
+[13:19] don't know if we've talked about that
+[13:20] but I am a minor um I'm sometimes I like
+[13:24] to say like I am my mining operation is
+[13:27] big enough to not be small but probably
+[13:29] not big enough to be big so you know we
+[13:32] we're a medium-sized commercial minor
+[13:35] private minor we control hash rate um
+[13:38] we're big enough that in the course of a
+[13:41] year we will win blocks we'll win
+[13:44] several blocks directly from my
+[13:46] operations we publish that sometimes
+[13:48] that we do because we use ocean which
+[13:50] I'm also on the board of directors of
+[13:52] which is a unique aspect of ocean it's a
+[13:55] sidelight is that you know when you win
+[13:58] a block with ocean like we know exactly
+[14:01] what machine won the block no other pool
+[14:03] offers that so I know when I won the
+[14:06] block and I create my own templates too
+[14:09] so I guess what I'm getting at is over
+[14:12] over time I I believe when you are a
+[14:15] hasher when you do create
+[14:17] templates you have a certain
+[14:19] responsibility there's a
+[14:21] certain Bitcoin
+[14:24] citizenship um that
+[14:27] that I I take on when I do that I I I
+[14:31] believe I must act ethically and act in
+[14:34] the best interest of Bitcoin by by doing
+[14:38] this
+[14:39] um that
+[14:41] said I believe there will be numerous
+[14:44] ways for Block
+[14:46] space to be
+[14:49] monetized going forward and that those
+[14:52] that control it will be the ones that
+[14:56] get to monetize it so
+[14:59] um the simple one is you know for
+[15:02] instance a product that we're working on
+[15:04] right now which is a block space forward
+[15:06] idea which is it says um you know let's
+[15:11] say we're we're here on uh in mid
+[15:13] December of
+[15:15] 2024 but let's say um you Robin are
+[15:19] running a business and you know that in
+[15:21] April of this year you're going to have
+[15:25] to do a lot of Bas layer transactions so
+[15:30] in the present world this means that you
+[15:33] would um have this in today's
+[15:37] environment you have this big
+[15:39] unknown you don't actually know let's
+[15:42] say you have to do thousands of them for
+[15:44] for as an example you have to do
+[15:45] thousands of Bas layer transactions in
+[15:47] April you don't know what it's going to
+[15:49] cost you to do those
+[15:50] transactions and you actually don't know
+[15:52] for sure whether or not you're going to
+[15:54] be able to do them because um one as is
+[15:58] obvious we don't know how big the
+[16:00] backlog is going to be how many
+[16:01] transactions are pending in the mempool
+[16:04] and um we don't know what the quote
+[16:08] unquote uh bid
+[16:11] price for transactions fees will be to
+[16:14] be at the upper end of the priority but
+[16:17] what you also don't know and I think
+[16:20] people forget is the people that create
+[16:22] the block templates can choose any
+[16:25] transaction they want they don't have to
+[16:27] pick the most expensive ones that's what
+[16:30] I was talking about in the Algeria
+[16:32] example right maybe we reach a point in
+[16:34] time I think we will where the people
+[16:39] making block template creation decisions
+[16:42] what transactions go in blocks aren't
+[16:45] motivated by the block reward they're
+[16:48] not motivated by how much they're being
+[16:50] paid in transactions fees their
+[16:52] motivation may be completely different a
+[16:55] good example would be if um if if the
+[16:59] country of Algeria was in a situation
+[17:04] where uh they had been kicked out of the
+[17:06] Swift system and they needed to
+[17:09] buy uh wheat from Russia to feed their
+[17:14] people well uh if if the
+[17:19] the the global monetary system running
+[17:22] the Fiat system the global Fiat system
+[17:25] was not allowing that transaction to go
+[17:27] through then
+[17:29] they're going to prioritize that
+[17:31] purchase of wheat from Russia on the
+[17:33] Bitcoin Network and and it won't matter
+[17:38] how much money if if you were at the
+[17:40] same time trying to get into a block for
+[17:44] at least their template it won't matter
+[17:46] how much you're offering they don't care
+[17:47] they need to get the wheat to their
+[17:49] people so they're going to make that
+[17:51] transaction go through so the same same
+[17:55] thing applies I think at the individual
+[17:58] level where
+[18:00] um you you may want to guarantee that so
+[18:02] me as a minor let's just keep it simple
+[18:06] if if I own 1% of the world's hash rate
+[18:09] that means on average I'm going to
+[18:11] produce one and a half blocks per
+[18:13] day so you could come to me now in
+[18:17] December and you could say
+[18:20] Bob I want to pre- buby space in the
+[18:24] blocks you are going to produce in April
+[18:26] and we will agree today
+[18:29] on a price let's say of 25 SATs per
+[18:32] Vite now I will be contractually
+[18:36] obligated
+[18:38] to honor that price for you when the
+[18:41] time
+[18:42] comes and I must prioritize your
+[18:45] transactions above anything else in the
+[18:48] blocks I produce in
+[18:49] April so this essentially Futures
+[18:54] Market um will allow both the producers
+[18:59] of block space and the buyers of blocks
+[19:03] space to now start looking forward and
+[19:07] guaranteeing access to to to block space
+[19:10] and guaranteeing revenue streams for
+[19:12] Miners and cost structures for
+[19:15] users and uh I think this is part of a
+[19:19] healthy
+[19:21] ecosystem that we can't I think we as
+[19:24] bitcoiners will often talk about
+[19:25] hyperbitcoinization and like these sorts
+[19:28] of things well
+[19:30] if if if we're in a hyperbitcoinization
+[19:38] as an
+[19:40] example to just accept that whenever
+[19:44] they need to make a transaction they're
+[19:46] going to go into an open realtime market
+[19:49] and bid for a
+[19:52] transaction they they they they won't
+[19:55] hyper Bitcoin eyes until they know
+[19:59] they can have predictability both on the
+[20:01] cost and the availability of block
+[20:03] space so um so anyway I I think when you
+[20:07] start thinking about these types of
+[20:10] things start realizing the
+[20:13] [Music]
+[20:14] implications of block space control like
+[20:18] how important it can be and how not not
+[20:22] having it could be existential to a
+[20:24] company or a uh a nation
+[20:28] and having control like we we need
+[20:32] organizations and
+[20:34] individuals controlling at least some of
+[20:37] the block space that live within the
+[20:40] Bitcoin ethos that that will
+[20:43] Preserve at least the the spirit of the
+[20:49] world we have today because um if we
+[20:53] don't it I'm not saying next Tuesday but
+[20:57] over time it will migr to them the the
+[21:00] the the financial motivations and the uh
+[21:04] Power
+[21:06] motivations will drive them toward
+[21:09] taking block space
+[21:10] control that's super interesting I never
+[21:13] heard about the possibility of like a
+[21:15] future Market uh for Block space that's
+[21:18] also super interesting um which brings
+[21:21] us to an interesting topic where we have
+[21:24] mining pool
+[21:26] sensorization um basically two I think
+[21:29] the two biggest ones control like 53% I
+[21:31] think I looked a few days ago something
+[21:34] like that and there's like a third
+[21:35] fourth a really big one um H how will
+[21:39] this develop who who will control that
+[21:43] PL space in the future and especially
+[21:47] also with like we often talk about big
+[21:51] coroporation just being a longer arm of
+[21:54] of actually the government uh which then
+[21:57] if the mining operations centralized to
+[22:00] like really big corporations and then
+[22:02] they're basically just the government uh
+[22:05] that could develop into a problem uh
+[22:08] long term I guess
+[22:10] absolutely so first you you are correct
+[22:13] that we have over 50% controlled by the
+[22:17] top two probably even more daunting and
+[22:20] scary is that 90% is controlled by
+[22:24] six so and of those six two are American
+[22:28] Luxor and and Foundry for
+[22:33] Chinese um so and and the chines
+[22:37] collectively are over 50% so you have
+[22:41] you know uh you have multiple ways in
+[22:46] which the current construct of the
+[22:50] mining pools could consolidate and cause
+[22:54] problems I don't believe at this point
+[22:57] that there are
+[22:59] problems so it's it's a
+[23:01] hypothetical situation most bitcoiners
+[23:05] understand have heard of 51% attack I
+[23:08] don't think 51% attack is really a
+[23:11] legitimate concern um not saying we
+[23:14] shouldn't ever think about it but I
+[23:16] don't think it's really a legitimate
+[23:17] concern it has more to do with control
+[23:20] of the block space of censorship of like
+[23:23] these sort of things happening and
+[23:25] becoming more more real the real issue
+[23:29] is I I mentioned it before and I I
+[23:31] probably should reiterate block block
+[23:33] template creation is really in my mind
+[23:36] the issue
+[23:38] so so each pool can pick what block it
+[23:43] wants to try to M so the way to think
+[23:46] about this is if there are like roughly
+[23:51] 250,000 unconfirmed transactions right
+[23:54] now hoping to get into a block and each
+[23:56] block can only have roughly 4 ,000 there
+[23:59] has to be some criteria upon which those
+[24:02] 4,000 get picked right so um you know
+[24:06] less than 2% of the transactions are
+[24:08] going to get picked and put in the block
+[24:10] so which which ones you going to pick in
+[24:12] today's current world the formula used
+[24:17] by almost all the pools is number one do
+[24:21] they have any of their own transactions
+[24:24] they need to include so they they put
+[24:26] those in first okay
+[24:29] um and those would typically be to pay
+[24:31] out miners like so they they they may
+[24:33] owe money to miners for previous work so
+[24:36] they'll slap that in there um those go
+[24:41] first and then for the most part they
+[24:44] will look at those offering the highest
+[24:48] fees and put those in until the block is
+[24:50] full and that's what they will try to
+[24:53] mine but as I mentioned before there's
+[24:56] there are no rules about what
+[24:59] transactions can can uh can be picked
+[25:02] each individual Miner mining pool
+[25:07] template Creator gets to make that
+[25:08] choice so um I mentioned I'm on the
+[25:11] board of directors of ocean and also an
+[25:12] investor in Ocean I always want to be
+[25:14] transparent with people about that um
+[25:16] and we mine at Barefoot mining my
+[25:18] company primarily with
+[25:20] ocean ocean offer introduce something in
+[25:24] September called datam and what it what
+[25:27] datam does does is it it allows instead
+[25:31] of the pool making the template choices
+[25:36] it allows each individual minor the
+[25:39] people that actually have the hash rate
+[25:41] can make a template so I'm I'm mining
+[25:45] with a template chosen by Barefoot with
+[25:48] our
+[25:49] criteria um and Robin if you if you were
+[25:52] in the
+[25:53] pool um and and you could create your
+[25:57] own template we'd be mining together so
+[26:00] if I win I get
+[26:04] the percentage of the reward equivalent
+[26:08] to my hash rate contribution and and you
+[26:13] get and the same for you it doesn't
+[26:15] matter who created the template we share
+[26:17] the proceeds based on you know the pool
+[26:20] so this is a um a big innovation because
+[26:24] what it what it allows us to do is go
+[26:27] from a world where there really are just
+[26:30] primarily six companies in the world
+[26:32] those pools I mentioned at the beginning
+[26:34] that are creating the templates so now
+[26:36] even though ocean is a pretty small pool
+[26:38] we only control about one half a one% of
+[26:40] the world's um hash rate right now but
+[26:44] we're creating dozens of different
+[26:47] templates today within that so the the
+[26:50] the people in there there's dozens of
+[26:52] different people who are creating
+[26:54] individual templates so we've had an
+[26:56] order of magnitude change with in the
+[26:58] Bitcoin Network about how many different
+[27:01] template choices are being made and
+[27:03] that's very important because obviously
+[27:06] we hope ocean grows I also hope other
+[27:09] pool even though I'm I'm in Ocean I want
+[27:11] other pools to come up I want other
+[27:13] pools to offer template choice to miners
+[27:17] because as a bitcoiner I know that what
+[27:19] we need is we need hundreds if not
+[27:23] thousands of different template creation
+[27:26] points and we need to assume as you said
+[27:29] these big
+[27:30] corporations that are mining whether
+[27:33] they're the US public mining companies
+[27:36] or the um the the larger mining pools
+[27:41] it's highly likely that either directly
+[27:44] or
+[27:45] indirectly they become arms of some
+[27:48] nation state or or heavily influenced by
+[27:51] some nation state and that's where we
+[27:53] see what I would call true censorship
+[27:56] coming in which means you know there are
+[27:59] Blacklist addresses or wh list addresses
+[28:02] like those sort of things that are are
+[28:05] predicating the template
+[28:08] choice and that's that's where the
+[28:10] danger really comes
+[28:13] in I think
+[28:15] like what I usually hear is that we need
+[28:18] way more pools uh and with more pools
+[28:21] also more templates and and all those
+[28:23] things as you just mentioned um in in
+[28:26] general when we look at my mining there
+[28:29] are really big and I think you actually
+[28:33] uh it came up in in a recent podast but
+[28:35] I think that model actually comes from
+[28:36] you like with horses and rabbits like
+[28:38] the different sizes of it that comes
+[28:41] from you
+[28:43] um we need more pools but is it also
+[28:46] important to have different uh sizes of
+[28:49] the mining operations and maybe also
+[28:51] more smaller ones like home miners that
+[28:54] have like a few miners at home I don't
+[28:56] know heating up there their pools
+[28:58] heating up their water uh and maybe
+[29:01] heating up their their their Apartments
+[29:03] is is is that important that we not only
+[29:05] decentralize the pools but also
+[29:06] decentralize the location of of the
+[29:08] miners and how big they
+[29:10] are yes for
+[29:13] sure the what you're referring to is um
+[29:17] uh several years ago I came up I was
+[29:19] looking at kind of the landscape and I
+[29:21] realize there were three in my mind
+[29:24] three distinct classes of miners
+[29:28] emerging um one I I labeled the rabbits
+[29:32] and that's the individual home
+[29:34] miners they might have one or two or
+[29:36] three or something on that order and I I
+[29:40] call them rabbits because while
+[29:43] individually they don't have much power
+[29:46] collectively they can they can be
+[29:49] powerful right so it's like a if you
+[29:51] think of a farmer who has a field of of
+[29:54] cabbage if there's one rabbit in the
+[29:56] field eating eating the cabbage is not
+[29:58] really a problem but if he has thousands
+[30:01] of rabbits eating the Cabbage you can
+[30:05] suddenly realize that the rabbits can be
+[30:07] very
+[30:08] powerful if you're trying to if you're
+[30:11] that that that farmer and you go out and
+[30:14] you start trying to shoot the
+[30:16] rabbits because they're eating your
+[30:18] cabbage you'll hit a couple but you'll
+[30:22] never hit them all and and the moment
+[30:24] you start shooting they scatter and it
+[30:27] gets really hard to find them they can
+[30:29] hide easily and so so they're very
+[30:32] they're very important part of the
+[30:35] infrastructure because in a in a state a
+[30:40] world
+[30:42] state where mining has
+[30:48] become very uh it may be illegal or
+[30:52] frowned
+[30:53] upon they can they can still provide
+[30:58] this in a in a in a discreet way that is
+[31:01] is very difficult to find on the other
+[31:04] end we have what I call the elephants
+[31:06] now that probably sounds obvious but if
+[31:09] if you take let's say a riot and they
+[31:11] have a a a site with 400 megawatt it's a
+[31:15] big and powerful site
+[31:17] clearly but it it's
+[31:21] immobile right just like an elephant and
+[31:24] if you if you decide you want to start
+[31:26] hunting them it's pretty easy to find
+[31:29] them and it's pretty easy to shoot
+[31:31] them um so big and powerful and they
+[31:35] take forever to grow so so the the the
+[31:40] elephants they can't reproduce quickly
+[31:43] they can't multiply and grow but the
+[31:45] rabbits on the other hand they can they
+[31:47] can multiply
+[31:49] quickly in the middle are what I call
+[31:52] horses it's where my company focuses
+[31:55] horses are small to medium siiz
+[31:57] commercial operations they might be a
+[32:00] few hundred kilowatt to several
+[32:02] megawatts in
+[32:04] size but they may be all around you
+[32:08] right now you still don't even know that
+[32:10] they're there I give this example like
+[32:13] we have a we have a site that operates
+[32:16] in two containers in just outside the
+[32:20] back of a Burrito Factory in South
+[32:22] Dakota
+[32:24] so the the people in that Community
+[32:26] don't even know it's they just think
+[32:28] it's part of the Burrito Factory it's
+[32:31] you know and and we have we have many
+[32:35] many sites like that almost all of the
+[32:37] Barefoot sites are just like that
+[32:39] they're a megawatt here and two
+[32:42] megawatts there and half a megawatts
+[32:43] there and and um they just blend in with
+[32:49] everything going on um but obviously
+[32:51] they're powerful you know we we can we
+[32:54] can in any one of those locations have
+[32:57] 10 tens of pah hases in current with
+[32:59] using the current technology we can have
+[33:01] tens of pah hases of mining power there
+[33:05] and uh you know again they're they're
+[33:09] they're kind of hard to hunt because you
+[33:13] you can't find them you have to work
+[33:14] really hard to even find where they
+[33:17] are and if we hear that that we're being
+[33:20] hunted like if there are Hunters looking
+[33:22] for us in a given area we can pick up
+[33:24] and move very quickly where we any of
+[33:26] our sites probably within a matter in an
+[33:29] emergency probably within a matter of 72
+[33:31] hours we could be gone um so the the um
+[33:38] I think the if we think of more of a
+[33:41] dystopian kind of world right which
+[33:44] we're not in today but I think we have
+[33:46] to think about this we have to be um
+[33:50] very
+[33:51] judicious in being security
+[33:55] conscious and just because the world
+[33:58] seems to be
+[33:59] blowing in with favorable winds toward
+[34:02] Bitcoin right now it could
+[34:05] change and and
+[34:08] so uh so my my premise is we have to
+[34:11] have these different parts there because
+[34:14] if the elephants get
+[34:16] hunted we we can you can destroy a
+[34:21] massive piece of the infrastructure very
+[34:22] very quickly and if there are no rabbits
+[34:24] and horses left if we let only the
+[34:27] elephants EX exist that's a huge problem
+[34:29] from a hash power perspective but the
+[34:32] other part is the template creation
+[34:35] because if we can also have the rabbits
+[34:37] and the horses being template
+[34:40] creators that really provides us with a
+[34:43] lot of security and
+[34:45] so I I would feel best with well over
+[34:48] 50% of the hash rate in the hands of
+[34:51] horses and rabbits but I feel like
+[34:54] 30% is kind of the bare minimum as a
+[34:56] community should um we should allow and
+[35:00] I hope like you you started this
+[35:02] conversation talking about the rabbits I
+[35:05] hope we see a return there was a there
+[35:07] was a period of time early in Bitcoin
+[35:09] when almost everybody mined at least a
+[35:12] little bit and and I hope we have that
+[35:15] again where we have millions of rabbits
+[35:17] out there and some may just mine in the
+[35:20] winter months when the electricity
+[35:22] prices are right or they need the heat
+[35:24] in their home and others may may uh like
+[35:27] you said they they
+[35:29] may do it to uh for for their pool
+[35:33] heater or a small business that uses
+[35:37] them to um dry beef jerky or or or
+[35:44] create heat for a greenhouse we actually
+[35:46] have a small operation that does that
+[35:48] already um like the these are really
+[35:50] important for the long-term security of
+[35:53] the
+[35:54] network what what is the I mean it's
+[35:58] probably not you probably cannot
+[36:00] pinpoint an exact number but how is the
+[36:03] distributed uh distribution right now
+[36:06] currently with like rabbits horses and
+[36:08] and and elephants well we know that 30%
+[36:11] of the hash rate is controlled by the US
+[36:14] public
+[36:15] miners so we start right there there are
+[36:20] there are some other big
+[36:22] organizations around the world that are
+[36:24] private that are also have significant
+[36:26] hash rates I think we're in the
+[36:28] neighborhood of 45 to 50% that would
+[36:31] probably fall into the elephant category
+[36:35] today I think the rabbits are well under
+[36:38] 10%
+[36:40] today um I would really like to see that
+[36:42] number increase you know so so but in
+[36:46] crude terms maybe we could say 50% in
+[36:48] elephants 40% in horses and 10% in
+[36:51] rabbits something on that order I
+[36:54] partnered up with coin vigilante this
+[36:57] this is the most beautiful Bitcoin time
+[37:00] piece that I ever saw created by anyone
+[37:03] look at that beauty I love it so much
+[37:05] coin vigilante made and perfect Bitcoin
+[37:09] watch that's the perfect subtle elegent
+[37:11] way to go out there and show that you
+[37:14] are a bitcoiner and that watch brand is
+[37:17] Bitcoin only and coin vigilante just
+[37:20] dropped a completely new and amazing
+[37:23] Genesis edition of their watch
+[37:26] collections you have the date of the
+[37:28] first ever mined Bitcoin Block in there
+[37:31] and of course also the block height and
+[37:34] which EPO we are currently in I love the
+[37:37] level of detail they put in in this
+[37:40] masterpiece and make sure to check out
+[37:42] those amazing coin vigilante time pieces
+[37:46] down in the descriptions I love those
+[37:48] watches so so much if you watch or
+[37:51] listen to my podcast on a regular basis
+[37:54] I'll guess you already bought some
+[37:56] Bitcoin and now the most important step
+[37:58] is to keep the Bitcoin keep them secure
+[38:02] in a hardware wallet my personal
+[38:04] recommendation for Hardware wallet is
+[38:05] the bitbox it's super secure it's simple
+[38:08] to set up it's also perfect gift for a
+[38:10] friend who has still the Bitcoin on an
+[38:13] exchange and you can get a 5% discount
+[38:17] with the code Robin at the checkout
+[38:19] visit bitbox Doss SL robobin to get your
+[38:24] bitbox and the next step is to really
+[38:26] level up your soft
+[38:28] as an individual you have to have the
+[38:30] most secure self custody setup you have
+[38:33] to secure your own devices you have to
+[38:36] protect your privacy you have to set up
+[38:39] an inheritance plan and depending on
+[38:41] where you live you even want to have a
+[38:43] plan B a citizenship where you can move
+[38:46] in case something goes really really
+[38:48] wrong and through all those steps the
+[38:50] Bitcoin way is guiding you through step
+[38:53] by step and if you visit the Bitcoin
+[38:56] way.com
+[38:57] Partners SL robobin you even get a 30
+[39:00] minute free call to find out how you can
+[39:03] level up your sovereignty is it when
+[39:07] when we look at how someone can get
+[39:10] exposure to to Bitcoin mining uh there
+[39:12] are now several options even uh you can
+[39:15] just buy a Min yourself at home but
+[39:17] there's a lot of technical stuff that
+[39:19] that you have to do then there's um
+[39:22] mining as a service providers um how you
+[39:26] call SS Mining and abundant mines there
+[39:29] there's some of those uh you can buy
+[39:32] mining stocks but then you contribute to
+[39:35] the elephants and and not to the other
+[39:38] ones how how would you suggest someone
+[39:40] that maybe has the financial capacity of
+[39:44] like5 to
+[39:46] 50,000 and they want to start mining uh
+[39:50] what what is the best way to like get in
+[39:52] there uh and and do you have to uh set
+[39:56] it up yourself at home
+[39:57] like what what are the options there
+[39:59] okay so um it's a great question I'm I'm
+[40:03] I'm really glad you asked this one I
+[40:05] think that if if you have very limited
+[40:09] funds let's let's go even smaller let's
+[40:12] say you only have
+[40:13] $500 um well if you have
+[40:16] $500 I would suggest buying a used S9 or
+[40:22] a bit ax or a future well a future bits
+[40:25] a little more expensive but something
+[40:27] like like that and
+[40:29] just set it up to run it you're not
+[40:32] going to make any money I want to be
+[40:34] transparent with you're not going to
+[40:35] make any money but what you will do is
+[40:37] you will participate in the
+[40:41] network and you're going to learn a
+[40:44] tremendous amount by doing that it will
+[40:47] you know you're I think mining is is
+[40:50] this black box to most people but once
+[40:54] you start mining you will understand and
+[40:58] so much more about how the network
+[41:01] works so um I I would suggest that to
+[41:05] almost everybody if you if you consider
+[41:08] yourself a
+[41:09] bitcoiner then you need to at least go
+[41:11] through the mining experience and do it
+[41:13] for a little
+[41:14] while so that's number one number two
+[41:17] now if you have let's say
+[41:19] $5,000 well if you have
+[41:22] $5,000 my guess is most individuals do
+[41:26] not have
+[41:27] now now now you're more making an
+[41:30] investment for financial return the
+[41:31] first one was an educational return this
+[41:34] this this next one is a financial return
+[41:36] if you're investing
+[41:38] $5,000 um I think you're going to be
+[41:40] best off like you mentioned SAS I want
+[41:42] to be I I am an advisor to that company
+[41:45] as well but there are there are others
+[41:46] there's several others you can go out
+[41:48] and you can you can buy a minor the the
+[41:53] the positive is you are contributing
+[41:54] hash rate to the network you can make
+[41:58] money doing it um if you pick the right
+[42:01] company with the right relationship you
+[42:02] can make money at it you're probably not
+[42:05] going to be part of the block template
+[42:07] creation thing though but you know
+[42:09] you're at least contributing the hash
+[42:11] rate if you have um like
+[42:15] $50,000 which was the other end of the
+[42:17] spectrum you said now you're getting to
+[42:19] the point where I would
+[42:21] suggest investing in a private mining
+[42:24] company so like for instance bare mining
+[42:27] we are constantly putting up new
+[42:30] projects and we are bringing in
+[42:33] investors from the outside and it's
+[42:36] usually around 50 to $100,000 is usually
+[42:39] the minimum investment level and what we
+[42:42] do in that case is now you're part of a
+[42:44] let's say we're bringing up a 2 megawatt
+[42:47] site in uh
+[42:48] Pennsylvania I'm doing a lot of work in
+[42:50] Pennsyvania in the US right now so we
+[42:53] bringing up that site you invest in the
+[42:56] in the entity
+[42:58] um you can at least have a voice about
+[43:00] things like template creation you can
+[43:02] talk to me you can say this is this is
+[43:04] where I sit
+[43:06] philosophically um and you get the and
+[43:09] you get paid in
+[43:11] Bitcoin
+[43:13] so um you know and and then I guess the
+[43:16] third thing is uh you could also invest
+[43:20] in the miners in the in the public
+[43:22] miners personally I don't really view
+[43:25] that as in investment in mining I think
+[43:30] you're because it's a it's a Fiat
+[43:34] investment with a Fiat
+[43:36] return um a lot of these
+[43:40] companies I have philosophical issues
+[43:43] with many of them because I I don't see
+[43:46] them as very Bitcoin Centric companies
+[43:50] often I see them making decisions that
+[43:53] are not always in the best interests of
+[43:55] Bitcoin
+[43:57] so if you do do that I would say you
+[43:59] know really do your research and and
+[44:02] really ask yourself if What that
+[44:05] particular company is doing aligns with
+[44:08] your ethos and what you want um because
+[44:11] it might not it might be that they're
+[44:14] just things to look for are they mining
+[44:15] shitcoins in addition to bitcoin are
+[44:19] they um have they been financially
+[44:24] responsible um in other words
+[44:28] if if companies are mining at a loss
+[44:32] they're creating pressure and and
+[44:35] they're what they're doing is they're
+[44:36] using the Public's
+[44:39] money and cheap Fiat money to allow
+[44:44] themselves to operate at a loss while
+[44:46] paying themselves really high
+[44:48] salaries then they're putting pressure
+[44:51] on the private Miners and making it
+[44:52] harder for the private miners who are um
+[44:56] who who who who who must operate at a
+[44:59] profit um so those are just things that
+[45:02] I would say if you decide to invest in
+[45:04] public miners you know obviously it's a
+[45:06] it's a free world you go do what you
+[45:08] want but make sure that they're
+[45:10] philosophically aligned with
+[45:13] you interesting um a for experiment
+[45:18] uh when we're now having a world where
+[45:21] everyone is into Bitcoin and we are
+[45:24] using it every day and we actually have
+[45:26] a a a lot of lot of competing people in
+[45:30] Bitcoin mining for the block space and
+[45:33] you have to pay high fees and all the
+[45:34] all all those things that we currently
+[45:37] don't have right now it's comparably
+[45:40] cheap to make a Bitcoin transaction uh
+[45:42] depends on how you how you uh compare it
+[45:45] to uh but it's possible for most people
+[45:49] um what happens once we have let's say a
+[45:55] Bitcoin standard hper bitcon world uh
+[45:58] with block space uh where only a limited
+[46:01] amount of people can even transact on
+[46:05] the base layer because they are priced
+[46:06] out of that I don't know what the number
+[46:08] is how many millions of Institutions and
+[46:11] individuals will be priced in and how
+[46:13] many is will be priced out but what
+[46:15] happens in in that world and what also
+[46:17] what what are you seeing in terms of uh
+[46:20] who who has to move then upwards the
+[46:23] layer with lightning and liquid and
+[46:24] other things like that yeah that really
+[46:27] is the the I think the big philosophical
+[46:30] question right so we
+[46:33] had we had the Block siiz Wars 2017 is
+[46:38] time
+[46:39] period and part of that was over this
+[46:42] architectural decision how big should a
+[46:44] block be should they should they grow in
+[46:47] size with
+[46:48] time and there's this balance between
+[46:51] theoretically you could make blocks as
+[46:52] big as you wanted and give everybody Bas
+[46:55] layer access but then problem
+[46:58] becomes as the subsidy goes away which
+[47:01] it's getting very very small now will
+[47:04] there be monetization opportunities for
+[47:06] the miners
+[47:08] to um to make enough money to have a
+[47:11] secure network so that's that's the
+[47:14] trade-off because if if you think of
+[47:17] block space as let's say big enough to
+[47:20] always
+[47:22] accommodate anybody's needs instantly at
+[47:25] close to free well then how does a minor
+[47:29] make money we it it it it
+[47:32] doesn't so in other words the scarcity
+[47:35] of block space is very important and
+[47:38] picking the right level of scarcity like
+[47:40] we picked people think of Bitcoin and
+[47:43] the 21 million they get that scarcity
+[47:46] right away right and and nobody wants 22
+[47:52] million or 100 million or a billion
+[47:54] Bitcoin right we would all resist that
+[47:57] very very strongly so we kind of have
+[47:59] the same situation with block
+[48:01] space was you could think of the block
+[48:04] space
+[48:05] wars as a fight
+[48:08] about the scarcity the appropriate
+[48:11] scarcity level for Block
+[48:13] space and and and settling on the
+[48:17] equivalent of the 21 million for Block
+[48:21] space and the end result is 4 million
+[48:25] weight units every 10 minutes that's the
+[48:28] that's the scarcity level you can also
+[48:30] look like if we look at the word subsidy
+[48:32] most people I think think of the word
+[48:34] subsidy as it pertains to bitcoin and
+[48:38] they think of the subsidy as a reward to
+[48:40] the
+[48:41] minor right so so first it was 50
+[48:45] Bitcoin per block and then it became 25
+[48:49] and then 12 and now we're at
+[48:51] 3.125 that's the subsidy level um but
+[48:55] that's not completely
+[48:58] true that subsidy also was to
+[49:03] encourage users of the
+[49:06] network so it was it was essentially a
+[49:09] subsidy to the miners but to give
+[49:13] users unfettered unrestricted access to
+[49:17] the base layer for free whenever they
+[49:20] wanted it right the early users got that
+[49:23] luxury there's a there's a great saying
+[49:27] um that I I use sometimes when I discuss
+[49:29] this and it says a luxury once enjoyed
+[49:32] becomes a
+[49:34] necessity and so in other words like
+[49:37] when you fly first class in an airplane
+[49:40] you want to fly first class every time
+[49:42] right when if you've written in a
+[49:44] Rolls-Royce you go oh I think I'd like
+[49:46] to write in a Rolls-Royce every time um
+[49:49] well that's kind of what we've been
+[49:51] doing is we've as a Bitcoin
+[49:54] Community users of the
+[49:57] Network have been riding in the r rolls
+[50:00] rice of digital networks for free
+[50:04] essentially for free whenever they
+[50:06] wanted for 15
+[50:07] years well now the subsidy is dropping
+[50:11] to the
+[50:12] point where it's not free anymore and
+[50:16] the number of people wanting access to
+[50:18] it were also competing there so um what
+[50:23] I'm trying to say in a very uh
+[50:26] roundabout way is
+[50:28] that this is a luxury the base layer
+[50:33] access is a luxury it's not a right it's
+[50:37] not a um
+[50:41] uh it's not something that we can give
+[50:45] away and it's always available the door
+[50:50] is always open especially if we if we
+[50:53] keep the template creation the way I
+[50:54] talked about they'll always be a door
+[50:56] door open it might be very expensive and
+[50:59] you might have to wait a long time but
+[51:01] the door is is always
+[51:03] open um but that's the way that that
+[51:08] Bitcoin has been built like it or not
+[51:12] it's what we have and the
+[51:16] dream that I think we falsely
+[51:20] profess
+[51:21] of you know everybody should hold their
+[51:24] own keys if it's if it's not your keys
+[51:27] not your Bitcoin we we set a standard
+[51:30] that isn't realistic for 8 billion
+[51:32] people and 330 million companies it's
+[51:35] just the base layer is not constructed
+[51:37] that way um and if it were it wouldn't
+[51:41] be scarce and we would have a really
+[51:43] difficult time securing it like so this
+[51:46] this is what the architectural
+[51:49] tradeoff um I believe what so Satoshi
+[51:53] created was genius in that finding this
+[51:59] balance in the network is really really
+[52:02] difficult and it got fine tuned a little
+[52:05] with segwit although you could actually
+[52:07] argue segwit was a mistake but it got
+[52:09] fine-tuned a little bit with segwit but
+[52:12] we still basically preserve this same
+[52:14] balance we have the same subsidy
+[52:16] schedule the same dependence on fees the
+[52:18] same basic transaction capacity that we
+[52:21] had um at this origin and I find that
+[52:25] magical and as a technologist myself my
+[52:29] my uh respect and admiration for what
+[52:32] Satoshi created is um unlimited I just
+[52:37] I'm I'm continually Amazed by what he
+[52:41] did um but we are going to have to get
+[52:45] used to people operating at second and
+[52:48] third layers
+[52:49] I I think that we shouldn't ostracize
+[52:53] people that make the choice of of buying
+[52:57] through an ETF
+[52:59] or um using micr strategy St stock as a
+[53:05] proxy because not only is self- custody
+[53:08] still difficult for a lot of people when
+[53:10] you start thinking
+[53:12] about the future you think about people
+[53:15] who are maybe thinking about really
+[53:16] long-term planning they have to trade
+[53:19] off their ability to maintain these Keys
+[53:23] maintain access to the network
+[53:26] and um pass this wealth on to Future
+[53:32] Generations it frankly probably will be
+[53:34] easier for most people to use
+[53:37] non-custodial
+[53:39] Solutions but I I would still recommend
+[53:41] that if if you're in a world where where
+[53:45] you can you can take custody now that
+[53:49] you at least have some of it in a self-
+[53:52] custody solution but probably not all of
+[53:54] it yeah it's a it's a good part and it's
+[53:57] it's really I was at in Abu Dhabi and I
+[54:00] think I brought it up in the last three
+[54:02] podcast episodes uh but but I would
+[54:05] bring it up anyways um there was a room
+[54:08] full of people thousands of people were
+[54:10] there and the speaker asked in on the
+[54:12] main stage how many of you have tried
+[54:15] self- custody not even half the room uh
+[54:18] raised the hands so like self custody
+[54:21] even I think it's really important uh to
+[54:23] use it right now as we have the luxury
+[54:26] to to have the Rolls-Royce but it's also
+[54:29] something uh that is a luxury and I love
+[54:33] your Rolls-Royce example because it uh I
+[54:36] I truly think it is something that we we
+[54:39] we we we we should enjoy it and we
+[54:44] should appreciate that and we know uh it
+[54:50] will not be something everyone can do uh
+[54:54] once we get to have a Bitcoin s world
+[54:56] yeah just the the reality and I think
+[54:59] sometimes we have to deal with reality
+[55:01] right I I think that
+[55:03] that's um I love the dream I I I I I
+[55:09] wish somebody could create something
+[55:12] that was like that but that's not what
+[55:14] we have and I
+[55:15] think um the miracle of Bitcoin has been
+[55:18] presented to us it's a you know believe
+[55:21] whatever you wish spiritually but I I
+[55:24] believe it's a divinely inspired
+[55:25] technology that that will create a lot
+[55:28] of freedom for
+[55:30] people um you know
+[55:33] the the biblical thing you know money is
+[55:35] the root of all evil like that sort of
+[55:37] thing well I think this is a this is a
+[55:39] chance for you to have money that's much
+[55:44] more resistant to evil than anything
+[55:48] else and whether whether you believe
+[55:50] that spiritually or just you know human
+[55:52] nature I think I think it it serves that
+[55:55] purpose
+[55:58] and uh so instead of complaining about
+[56:01] it um embrace it be thankful for what we
+[56:06] have I think we're at kind of at that
+[56:07] time of year right we're in the holiday
+[56:09] season it's a good time for reflection
+[56:11] and those sort of things and okayy it's
+[56:13] it's a amazing
+[56:16] gift embrace it don't fight it um and
+[56:22] and but but also I'll say this too
+[56:26] don't don't
+[56:29] allow these big centralized forces to
+[56:32] have all the control at the base layer
+[56:34] you know that was part of my messaging
+[56:36] going kind of back to the beginning is
+[56:38] like these whether it's the nation
+[56:41] states big Banks central banks big
+[56:45] corporations if you believe the world's
+[56:47] going to hyper Bitcoin I they're coming
+[56:49] along like like we're not going to stop
+[56:52] them
+[56:53] from being part of the Bitcoin
+[56:56] Revolution and and if if it happens and
+[56:59] I believe it will then they will want to
+[57:01] be part of it and they'll be want to be
+[57:03] a big part of it so we have to preserve
+[57:06] as much as we
+[57:07] can that's kind of pleb level ethos
+[57:11] driven bitcoiners because they probably
+[57:15] won't be they they they will be they
+[57:18] will look at things
+[57:19] differently um but as I I mentioned
+[57:22] before I would I really hope we can keep
+[57:25] like 30% of the network horses and
+[57:29] rabbits
+[57:30] plebs ethos driven people they're
+[57:33] creating the templates they're helping
+[57:36] each other get access to the base layer
+[57:39] um
+[57:41] uh they're not
+[57:43] corruptible they're kind of anonymous
+[57:46] like all these sorts of things I think
+[57:48] are really
+[57:49] important for the Bitcoin as we know it
+[57:53] to always exist I think even if if that
+[57:56] fails Bitcoin will still exist it'll
+[57:58] probably still be massively successful
+[58:01] but it'll it'll have a different
+[58:03] Spirit the the the spirit of satosi
+[58:06] might might have gone at this point then
+[58:09] I love that um one more topic before we
+[58:13] come to the end routines of the of the
+[58:14] podcast um as we as you said we in the
+[58:17] holiday season it's now the 17th of
+[58:20] December when this comes out it's
+[58:21] probably very close to New Year's Eve
+[58:24] somewhere between Christmas and New
+[58:25] Year's Eve this EP episode will drop uh
+[58:27] so how how has this year been uh for
+[58:32] Bitcoin there has been so much happening
+[58:35] uh what are some of your highlights and
+[58:37] how how do you look back at uh 2024 it
+[58:40] seems like a long year doesn't it I I
+[58:42] think back to uh the beginning of the
+[58:46] year and you know where we where we were
+[58:49] at that point and you know as a
+[58:51] minor uh the very like this time last
+[58:54] year it had been a really difficult
+[58:58] period for for those of us in in
+[59:02] especially in the mining Community um
+[59:05] hash rate was too high price was too low
+[59:08] like we were not doing well it was a
+[59:11] struggle to survive the year started out
+[59:14] gloriously though you know when when as
+[59:17] we came into the first of the year and
+[59:20] we saw the
+[59:21] ETFs get announced and the having the
+[59:25] reality of having became apparent I
+[59:28] think to the general public or kind of
+[59:30] to maybe to the mainstream plebs like
+[59:32] and so we had I think we had just had
+[59:36] that marvelous first part of the Year
+[59:38] run it was was really really wonderful
+[59:41] we kind of POS having though I think we
+[59:44] fell into um almost like a post
+[59:48] honeymoon phase like like the the
+[59:52] honeymoon was over and I'm not just
+[59:54] talking like price-wise I feel like the
+[59:56] community kind of lost some of its
+[60:00] enthusiasm like cuz we we just had such
+[60:02] a great run in that first part of the
+[60:04] year and the summer got pretty difficult
+[60:06] again like I I wrote a a tweet that that
+[60:11] um was somewhat popular about Dante's
+[60:15] Hell and and um what had happened was
+[60:19] hash rate continued to grow was
+[60:22] skyrocketing but the Bitcoin price was
+[60:24] falling and there were no feed
+[60:27] and we had the H the having had occurred
+[60:30] so um I had done this tweet about
+[60:33] Dante's Hell about how the price every
+[60:35] time it went down another thousand we
+[60:37] went down another level of Dante's Hell
+[60:40] and that that if if we went much further
+[60:44] there would be nothing left but ashes
+[60:46] because the the miners were it was it
+[60:49] was an extended period like that could
+[60:52] have been existential to a lot of the
+[60:54] mining Community um
+[60:57] and of course you know we had the uh the
+[61:00] the German
+[61:01] liquidation of Bitcoin suppressing price
+[61:04] we had the uh Mount goau FTX stuff you
+[61:08] know kind of flooding the market we had
+[61:10] kind of a lot of these negative signals
+[61:12] I think at that
+[61:14] point um especially in the US you know
+[61:17] we knew the elections were coming I
+[61:19] think there was a lot of
+[61:21] concern that the current Administration
+[61:26] policies were going to continue that
+[61:28] they might win um and you know that that
+[61:32] would probably have a global uh
+[61:34] impact I think things started to really
+[61:37] turn um positively really with the
+[61:41] election um that for me what happened in
+[61:45] early November with the election of
+[61:48] trump and also the Republican control of
+[61:52] both houses and I'm not I'm not a
+[61:54] republican by the way I'm I'm not a
+[61:56] Democrat either but I think that I'm
+[61:59] looking at through the Optics of Bitcoin
+[62:01] what we found
+[62:02] was the political
+[62:06] Alliance was was forming and gaining
+[62:10] power uh around a a pro
+[62:14] Bitcoin um Pro Bitcoin platforms and
+[62:17] that I think we really had an influence
+[62:19] over the elections and I think now we're
+[62:21] starting to see that Ripple into other
+[62:23] places we mentioned earlier saw the spe
+[62:26] in the European Parliament um this
+[62:28] morning from the from one of the the the
+[62:31] French members um
+[62:33] yesterday again we're recording this on
+[62:35] the 17th um the Canadian Finance
+[62:38] Minister resigned there's rumors that
+[62:40] Trudeau uh will be resigning in Canada
+[62:43] there's a lot of these groups that have
+[62:44] been very anti- Bitcoin we're sitting on
+[62:48] $108,000 Bitcoin
+[62:50] today uh I think the mood is very very
+[62:54] positive um
+[62:57] so I come into the year with a lot of
+[63:00] optimism that said I think we always
+[63:02] have to be careful that that in the
+[63:05] midst of
+[63:08] euphoria um which I think we're in the
+[63:10] early stages of a Bitcoin Euphoria
+[63:14] that's when you can let your guard down
+[63:16] that's that's when you can become very
+[63:18] exposed right it's it's when if you talk
+[63:22] to anybody that's a security expert
+[63:24] whether that's a network security or
+[63:26] physical security what they'll tell you
+[63:28] is it's when you feel
+[63:31] comfortable that you're safe that you're
+[63:33] the most
+[63:35] exposed um so I think that's what we
+[63:38] have to be careful of and as a
+[63:40] minor it's something that that I think
+[63:42] about it's why why I like coming on
+[63:44] shows like this and I appreciate the
+[63:46] chance to talk to people like you
+[63:48] because I think things like these pool
+[63:51] centralization hash rate centralization
+[63:54] lack of template diversity lack of
+[63:56] geographic diversity like these are
+[63:59] things that in the midst of
+[64:02] euphoria can perpetuate and get
+[64:06] worse and then when the
+[64:08] next threat comes when the next down
+[64:11] turn comes they become very
+[64:15] exposed so you know so now now is not
+[64:19] the time to stop worrying about these
+[64:22] things now is the time maybe to become
+[64:25] hypervigilant
+[64:26] about making sure that these things
+[64:28] don't happen that is
+[64:30] super interesting I I I said it's the
+[64:33] last question but I I have some some
+[64:35] more if you have time
+[64:38] um I'm I was always fascinated by the
+[64:41] connection between the Bitcoin price and
+[64:45] Mining uh and you said in the beginning
+[64:48] where we had this low price but hashd
+[64:52] has been just hitting one Alum high
+[64:54] after another altime High uh and it was
+[64:57] fascinating to see sometimes where
+[65:00] Bitcoin hash rate hit altime high after
+[65:02] altime high but the price was down 50%
+[65:06] sometimes I think even 60% from the last
+[65:08] alltime High um what is the connection
+[65:12] between price and Mining hash rate if
+[65:15] there is even one oh uh it's an it's an
+[65:20] age-old question does price lead hash or
+[65:22] does hash lead price if you if you put a
+[65:24] gun to my head you have to pick one I
+[65:26] would probably pick hash lead's price
+[65:28] but I think I think what we're talking
+[65:32] about is actually a problem do you
+[65:35] remember there's an issue with the
+[65:38] elephants and the especially the public
+[65:40] Miners And I think this is the problem
+[65:42] let's let let's con let's talk actually
+[65:46] we before we get to the elephants let me
+[65:47] talk about the way like a horse or a
+[65:49] rabbit let's say you decide you want to
+[65:51] be a rabbit tomorrow Robin okay so so
+[65:53] you're you're going to go order order um
+[65:56] a bid ax let's say you make a decision
+[66:00] today two days later it's going to
+[66:03] arrive and a day after that you're
+[66:05] hashing okay so so you made this
+[66:07] decision to participate three days later
+[66:11] you're hashing okay so in other words
+[66:14] the Bitcoin environment that existed at
+[66:16] the time you made the economic decision
+[66:18] to get into mining is essentially the
+[66:22] exact same environment in which you
+[66:23] start mining now let's look at the horse
+[66:26] like me I want to put up a new 1
+[66:28] megawatt facility in
+[66:30] Pennsylvania I need let's say a million
+[66:32] dollar well I can raise that money
+[66:35] pretty quickly so but from the time I
+[66:37] decide to start raising the money to the
+[66:40] time that I'm
+[66:42] hashing let's say it's 12 to 16
+[66:46] weeks okay pretty quick really right so
+[66:49] again if that happened on January 1st
+[66:53] then somewhere around a April 1st I'm
+[66:56] mining again the likelihood that I made
+[67:00] the economic decision uh is roughly
+[67:03] consistent with when the hash comes
+[67:06] online okay now I want to do an elephant
+[67:10] you and I decide we're going to form a
+[67:12] partnership Robin we're going to go
+[67:14] we're going to raise big money we're
+[67:16] going to put up a 200 megawatt facility
+[67:19] it cost $200 million well it's going to
+[67:22] take a little while to raise that money
+[67:24] to come up with a business plan raise
+[67:25] raise the money then we have you know we
+[67:27] we find the site we have lots of
+[67:30] permitting we have very long lead times
+[67:33] for Transformers and hash huts and tens
+[67:36] of thousands of mining servers and all
+[67:38] that so we come up 15 months later now
+[67:42] what are the odds that the economic
+[67:45] conditions upon which we started this
+[67:48] Venture
+[67:50] match with our expectations they're
+[67:53] pretty low so when
+[67:56] so I took you through that because when
+[67:58] you look at hash rate ripping when the
+[68:01] hash rate is
+[68:03] ripping and it's led by the horses and
+[68:06] the
+[68:07] rabbits it's a reflection of current
+[68:10] economic conditions when it's being led
+[68:12] by the elephants it's being led by
+[68:15] expectations set one to two years
+[68:19] earlier and so that's the
+[68:23] problem is that and and what also is
+[68:26] really difficult is that predicting
+[68:30] where hash rate is going to go is hard
+[68:33] so let's just
+[68:35] pretend again we were doing this $200
+[68:37] million project you and I are Executives
+[68:41] in a in a big uh a big public Mining
+[68:44] Company well sitting in other boardrooms
+[68:47] of other big mining companies are other
+[68:50] people who may be making a similar
+[68:52] decision but we are unaware of it so we
+[68:54] don't really know the future hash rate
+[68:58] conditions very
+[68:59] well um we didn't talk about it but I
+[69:02] came from the personal computer industry
+[69:04] that was my background um early early
+[69:06] days of the personal computer industry
+[69:09] and we face this problem sometimes in
+[69:10] the personal computer industry and it
+[69:13] would it would work this way I worked
+[69:15] for a company called Gateway and at one
+[69:16] time we were one of the top five PC
+[69:18] companies in the world making like 10
+[69:20] million PCS a
+[69:22] year
+[69:24] so um in an era like
+[69:27] 1995 which was um a Heyday in the in the
+[69:32] personal computer
+[69:34] industry we would sit in a room on an
+[69:37] annual basis um and we had we had very
+[69:40] sophisticated models right we had a
+[69:42] whole team actually that work team
+[69:44] worked for me um to try to model what
+[69:47] the growth of the P personal computer
+[69:49] Market would be and what percentage of
+[69:52] that growth would be ours
+[69:55] but all of our competitors had the same
+[69:58] thing so it it would what would often
+[70:01] happen is something like this let's say
+[70:04] globally in 1994 100 million PCS had
+[70:07] been produced and we had had 10% of
+[70:11] it now we look at the overall market and
+[70:15] we think it's going to grow from 100
+[70:16] million to 120 million and we think
+[70:20] instead of 10% of the grow 10% of the
+[70:24] the grow growth being ours we're going
+[70:27] to pick up market share so we're going
+[70:29] to get 20% of
+[70:31] it okay so what that means is we go off
+[70:34] to our suppliers and we order parts we
+[70:37] did 10 million one year now we're going
+[70:39] to order 12 million so we you know for
+[70:42] hard drives and processors and
+[70:44] motherboards and all these things so we
+[70:46] order 12 million we get the supplying
+[70:48] chain moving for us growing 20% but over
+[70:53] at
+[70:53] Dell which may had uh 18% market
+[70:58] share they do the same thing they think
+[71:01] instead of 18% they're going to get 18%
+[71:04] of the growth they think they're going
+[71:06] to get 30% of the growth so instead of
+[71:09] buying 18 million in Parts they buy 23
+[71:12] million in parts and they get the supply
+[71:15] chain moving well it's very rare if you
+[71:18] think about the psychology of people for
+[71:22] people to
+[71:23] forecast that they're going to
+[71:26] shrink right but the reality is every
+[71:30] year somebody shrinks in market share
+[71:32] and somebody grows in market share so
+[71:35] you what what happens is the we we we
+[71:38] ran into this problem in the
+[71:40] industry everybody would forecast
+[71:43] growth and in both in the overall market
+[71:47] and in their hash rate or in their um
+[71:50] their production
+[71:51] rate so so the market would get
+[71:56] overproduced in these periods of
+[71:58] euphoria it's partly what I was talking
+[71:59] about before like these periods of
+[72:01] euphoria everybody gets caught up in it
+[72:03] and they overdo it like they go
+[72:05] overboard and they
+[72:08] overgrow um we're just by human nature I
+[72:11] think we're optimists but it can be a
+[72:15] fault so one reason the hash rate
+[72:19] continues to rip is I think people being
+[72:23] overly optimistic
+[72:27] and that causes problems because I think
+[72:30] at periods of time it pushes a large
+[72:34] piece of the mining Community
+[72:36] into economically disadvantageous
+[72:40] positions that would not happen if this
+[72:43] OV exuberance hadn't caused that growth
+[72:47] so I think we have to be very careful
+[72:49] like I think so that's a really
+[72:51] long-winded way of saying I think it was
+[72:53] a bad thing hash rate should not have
+[72:55] grown as much as it grew and it was a
+[72:58] bad thing for Bitcoin and it
+[73:01] disincentivized some of the more
+[73:04] financially responsible companies from
+[73:07] growing and the
+[73:11] more
+[73:12] exuberant uh companies grow grew too
+[73:15] fast and often they're the ones that are
+[73:18] performing the worst so what you don't
+[73:21] want is you don't want over a long
+[73:23] period of time the people who are being
+[73:26] funded with things like convertible debt
+[73:29] and and and at the market stock
+[73:31] offerings but losing
+[73:34] money to take over and be the only ones
+[73:37] mining we then we have no operational
+[73:39] excellence in the market um and they're
+[73:42] and they're highly subject to being
+[73:45] captured so um I I probably answered way
+[73:48] more than you wanted but but hopefully
+[73:51] that helped I I I like that I you really
+[73:54] G give full context to it uh to to the
+[73:57] to the question so I like that uh but we
+[74:01] we already very Progressive to time um
+[74:05] but I think that's a great episode to to
+[74:09] see where mining currently is uh and to
+[74:13] see potential problems that arise and I
+[74:15] think as you said it especially in those
+[74:18] moments where there's a lot of euphoria
+[74:20] a lot of
+[74:21] excitement like USA will buy Bitcoin Eur
+[74:25] will buy Bitcoin everything is going to
+[74:26] have a Bitcoin isation tomorrow uh we we
+[74:30] have to be aware of the fundamentals
+[74:32] that's why I made today also an episode
+[74:35] uh where I talked about self- custody uh
+[74:37] why it's important what we should do
+[74:39] with Utes o management uh and those
+[74:41] episodes are really important to um
+[74:45] stick to the basics and uh Al also no
+[74:49] not just fly to the moon so there are
+[74:52] really important episodes and I'm so
+[74:54] glad you did it uh with me thank you so
+[74:56] much thank you Robin perfect then we
+[74:59] have an tin in the podcast with two
+[75:02] questions the one question is always the
+[75:03] same question for each guest uh and the
+[75:06] question is what can we learn from you
+[75:08] besides Bitcoin well um I think
+[75:12] being I call it the 10th man you could
+[75:14] think of it as a a devil's advocate is
+[75:17] very important um and and it leads to
+[75:20] this point we were just on like when the
+[75:23] whole world is going one way
+[75:26] make sure you step back and say is there
+[75:30] a flaw in that can I can I
+[75:33] find can I find a flaw maybe there isn't
+[75:36] it's okay but make sure you've really
+[75:38] stepped back I call it the 10th Man
+[75:40] Theory it's something I stole from a
+[75:41] movie called World War Z
+[75:44] where um I won't tell the whole story um
+[75:47] but
+[75:48] but it's basically like hey when when
+[75:52] everybody seems to be agreeing and
+[75:53] thinking the same thing thing it's
+[75:56] probably a good time to sit back and
+[75:58] think about it and and I think it's in
+[76:00] these periods of exuberance that it's
+[76:03] very easy to just get caught up in that
+[76:04] flow and so um so yeah be be critical
+[76:10] think think outside the box think
+[76:12] differently um and you might you might
+[76:14] find opportunity in that by the way that
+[76:17] that's you know I've spent my life as a
+[76:19] technologist and I think try to think
+[76:21] differently to look at um to to look at
+[76:25] a
+[76:26] problem in a new in a new way and you'll
+[76:30] be shocked at at what you can create by
+[76:35] doing that great I love that a lot uh I
+[76:38] don't know where the 10th man comes from
+[76:40] I think you have to do research that I I
+[76:42] only know the the 12th man from from
+[76:45] soccer that's the audience that's where
+[76:47] my mind went well I can I can tell real
+[76:49] I'll tell you there's anep I have a a
+[76:51] show I call old manels people that want
+[76:53] to go I I I have
+[76:55] an episode all on this but the short
+[76:57] version is in the movie World War Z
+[76:59] which is a zombie movie right it's not
+[77:01] some deep movie it's a it's a
+[77:03] entertaining movie but there's a point
+[77:06] where um uh the world is now being
+[77:10] overrun by zombies except for in Israel
+[77:14] and
+[77:15] so um Brad Pit who plays a character in
+[77:18] that movie flies to Israel and asks the
+[77:22] head of security there like how how come
+[77:25] you guys haven't been overrun what did
+[77:27] you do and he said it's because of the
+[77:30] 10th Man and and he explains that uh
+[77:36] in uh Israeli history in in 1972 at the
+[77:42] Munich Olympics that there had been a
+[77:46] threat against the Israeli
+[77:48] athletes um from a terrorist group and
+[77:51] it had been
+[77:52] ignored because it was it was not
+[77:54] considered a viable threat well it ended
+[77:57] up being real and they were overrun and
+[77:59] then he goes through these other cases
+[78:01] in Israeli history where they had had
+[78:05] evidence signs that a bad thing was
+[78:07] going to happen but the security Council
+[78:11] had always unanimously agreed and their
+[78:14] security Council has 10 people so they
+[78:17] created a rule that
+[78:20] says if presented with a
+[78:23] threat if the first nine members of
+[78:26] Security Council all agree it is not
+[78:29] something to worry about it is
+[78:31] imperative on the 10th
+[78:34] Man to take the negative position and
+[78:38] argue a case as to why they are wrong so
+[78:41] I advocate for people to always be the
+[78:43] 10th Man in Bitcoin and um you don't
+[78:47] have to be but what you have to do if
+[78:49] you're going to be the 10th man I call
+[78:50] it like Devil's Advocate on steroids
+[78:53] like you can't just
+[78:56] you have to like take it like super
+[78:58] seriously it's like if anybody that was
+[79:00] did debate as a maybe when they were
+[79:03] younger um you know the way they do a
+[79:05] debate often is they they pick a topic
+[79:07] and they tell you whether or not you
+[79:10] have to debate the pro or the con of the
+[79:12] topic right so you don't win the debate
+[79:16] if if if you don't attack even if you
+[79:19] personally disagree with the position
+[79:22] you lose the debate if you don't attack
+[79:24] it with Vigor so the 10th man has to
+[79:26] take that
+[79:27] attitude um in in in
+[79:32] uh examining that
+[79:35] position I love that I was in uh when I
+[79:38] was like 15 16 17 years old I was in uh
+[79:42] getting into politics now I'm not in
+[79:44] politics at all and we made those
+[79:46] evenings uh where we put out one topic
+[79:51] and the topic was known before and then
+[79:54] you came to the evening and this was
+[79:56] like 10 20 people and then you randomly
+[79:58] was designed a side of the topic and you
+[80:02] didn't knew before the evening if you
+[80:03] will argue for it or against it and this
+[80:07] was amazing uh the the experience of
+[80:11] arguing against your own opinion uh is
+[80:15] something where you really get to know a
+[80:17] topic uh and just like arguing against
+[80:20] Bitcoin uh will that's actually how I I
+[80:24] I Des red in the beginning ones uh
+[80:26] that's actually how I got into Bitcoin
+[80:28] because uh I was skeptical of Bitcoin
+[80:31] and people were Bing me about Bitcoin in
+[80:33] 2020 because I was in I was in investing
+[80:36] and and people are like oh you invest in
+[80:38] stuff like why not Bitcoin also I was
+[80:41] like a Bitcoin is a scam that was my
+[80:43] basic Assumption of it and I kind of
+[80:46] acknowledged that I ran out of arguments
+[80:48] against Bitcoin so I wanted to find more
+[80:52] arguments against Bitcoin on a weekend
+[80:55] uh and Friday I went in trying to search
+[80:57] arguments against Bitcoin Sunday I came
+[80:59] out and say like ah that Bitcoin thing
+[81:01] might be
+[81:03] something so with finding arguments uh
+[81:06] against or for something you actually
+[81:08] can discover something new and I like
+[81:10] that a lot really cool yeah absolutely
+[81:12] and you can apply to anything like
+[81:14] should I own mining stocks or not should
+[81:17] uh we be worried about how many pools
+[81:20] there are um should we should nation
+[81:23] states control block templates pick
+[81:25] whatever topic you want but but um yeah
+[81:29] absolutely yeah really cool perfect then
+[81:32] we have another end routine where uh the
+[81:34] previous guest is asking a question for
+[81:36] the next guest uh without knowing who
+[81:38] the next guest is uh and the question
+[81:41] for you is what is the best analogy to
+[81:45] explain Bitcoin you ever heard okay your
+[81:48] uh your previous guest is evil but okay
+[81:52] um it's hard to pick one right it's it's
+[81:54] it's like that I'm trying I'm trying to
+[81:57] not uh just cuz you know I leap to
+[82:01] digital gold and like those sort of
+[82:03] things but that's just kind of lame so
+[82:04] let me see if I can come up with
+[82:06] something a little a little better well
+[82:09] okay I I'll say this I I came from the
+[82:12] personal computer World okay and I think
+[82:16] the personal computer
+[82:19] was a way in
+[82:21] which computing power
+[82:25] moved from centralized forces to the
+[82:30] individual and it was a marvelous thing
+[82:33] I built the whole early part of my
+[82:35] career on that and it might sound
+[82:38] trivial to younger people or people who
+[82:41] weren't aware of that but I'm old enough
+[82:44] that in the 60s and 7s when I grew up a
+[82:49] computer was not something that you
+[82:53] owned and access to a
+[82:55] computer was a privilege it was
+[82:58] permissioned you only got access to
+[83:01] computing power by being in a very
+[83:03] privileged fortunate position when
+[83:07] others um a big company or a university
+[83:12] or a government gave you that
+[83:16] access and and uh look how the world
+[83:21] changed when we moved computing power to
+[83:24] the
+[83:25] individual and and and Bitcoin is the
+[83:28] same thing bit Bitcoin is
+[83:30] moving Financial sovereignty and you
+[83:34] know uh Financial Freedom to the
+[83:37] individual and um I don't know all the
+[83:40] things that are going to happen just
+[83:41] like I you know I I didn't know all the
+[83:44] implications of the personal computer I
+[83:46] think you could actually even argue that
+[83:48] Bitcoin doesn't happen without the
+[83:50] personal computer one of the side
+[83:53] effects of
+[83:55] the creation and decentralization of
+[83:58] computing power was
+[84:00] Bitcoin um in fact I haven't thought
+[84:02] about this a lot before but I would say
+[84:05] yes that's actually 100% true that
+[84:07] Bitcoin does not happen without the
+[84:09] personal computer it was you know part
+[84:11] of the DNA of Bitcoin goes back so um
+[84:16] that's that's probably the best I can do
+[84:17] on on uh
+[84:20] impromptu uh with an impromptu question
+[84:23] but really good one really good question
+[84:26] I like this it's it's interesting the
+[84:28] best best questions come from the guest
+[84:30] actually not from the host oh yours were
+[84:33] great yours were great too uh perfect
+[84:35] and thank you so much uh Bob for being
+[84:37] on before I let you go where can people
+[84:38] find you ask your questions reach out to
+[84:40] you I'm I'm active on uh X or Twitter as
+[84:44] Boomer
+[84:46] BTC um you can find me on YouTube I have
+[84:49] a show called Old manel's there um I do
+[84:53] a show about once a month that's really
+[84:54] just a monologue of of me so if you
+[84:57] didn't get enough of me blabbering on
+[84:59] here there's more there uh and my
+[85:01] company Barefoot mining you can find at
+[85:03] bareo mining.com I love that really cool
+[85:06] thank you so much I just realized uh Jen
+[85:08] C is talking to pomas i l the L the
+[85:12] syner yeah thank you so much then thank
+[85:15] you so much Bob for being on thank you
+[85:16] so much also for everyone that is
+[85:18] watching and listening for joining us
+[85:19] today as always I'll be back tomorrow uh
+[85:22] with another episode bye-bye
+[85:25] [Music]

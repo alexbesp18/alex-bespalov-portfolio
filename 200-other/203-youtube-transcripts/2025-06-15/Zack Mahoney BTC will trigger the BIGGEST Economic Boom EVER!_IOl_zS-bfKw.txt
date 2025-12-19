@@ -1,0 +1,2078 @@
+Title: Zack Mahoney: BTC will trigger the BIGGEST Economic Boom EVER!
+Video ID: IOl_zS-bfKw
+URL: https://www.youtube.com/watch?v=IOl_zS-bfKw
+Date Saved: 2025-06-15 11:49:07
+--------------------------------------------------
+
+[00:00] Bitcoin is going to have a massive and
+[00:02] profound impact on human behavior
+[00:03] filmmakers have a real issue when it
+[00:05] comes to monetizing their work or even
+[00:08] having access to a market there's really
+[00:09] a couple big players and they sort of
+[00:11] control the production they control the
+[00:13] exhibition Bitcoin enlightening and
+[00:14] digital payments have the potential to
+[00:16] solve a lot of those issues we're on the
+[00:18] cusp of maybe the greatest economic
+[00:20] period in all of human history we want
+[00:22] the market to do what markets do May the
+[00:25] best film win what's the difference
+[00:26] between art and propaganda I think the
+[00:28] answer to that is where the money's
+[00:29] coming from from it's hard to do that on
+[00:31] stripe you're not going to do that on a
+[00:33] rails and so when that friction gets
+[00:35] introduced you end up with a lot of
+[00:37] companies who are in between it right
+[00:38] like stripe might say hey I don't like
+[00:40] what's going on on Indie Hub I think
+[00:41] that you guys are doing things that are
+[00:43] illegal or that the government's going
+[00:44] to say hey we'll we'll shut you down so
+[00:46] there's just these little Gatekeepers
+[00:47] that get in the way of that flow of uh
+[00:49] that relationship Bitcoin is going to
+[00:51] have a huge impact on the business
+[00:53] models we're going to continue to see a
+[00:56] decentralization of voices and product
+[00:59] and opinion the job of an artist in my
+[01:01] opinion is to really ride that line of
+[01:03] Consciousness between you know Order and
+[01:05] Chaos the freedom to transact is is as
+[01:07] important if not more important than
+[01:09] freedom of speech actions speak louder
+[01:11] than words even Darkness knows who
+[01:12] writes its check there's one Authority
+[01:14] and that is creation there's nothing
+[01:16] more powerful than that and destruction
+[01:18] serves creation it always has it always
+[01:22] [Music]
+[01:24] will what are you doing with like film
+[01:27] making and in connection with with
+[01:29] Bitcoin Co so the idea uh the idea is
+[01:32] simple um we've got a film exhibition
+[01:35] platform uh for filmmakers to exhibit
+[01:38] their work and um get my knee out of the
+[01:41] frame
+[01:42] here and uh you know I we're just trying
+[01:46] to make it simple if your movie is being
+[01:47] watched you're being paid if it's not
+[01:49] being watched you're not being paid uh
+[01:51] kind of a simple concept so we built a
+[01:54] platform you know on top of lightning
+[01:56] the whole thing's kind of built on that
+[01:57] payments infrastructure and uh we're
+[01:59] just trying to utilize you know a global
+[02:01] distributed payments protocol um in
+[02:04] order to get filmmakers paid for their
+[02:06] work so you know we allow filmmakers
+[02:10] to uh not just generate Revenue by
+[02:13] second but we can also split that
+[02:15] Revenue uh on a filmmaker's cap table if
+[02:17] they so choose so um you know if there's
+[02:21] five or six
+[02:22] people excuse me if there's five or six
+[02:25] people uh you know involved in a project
+[02:28] they can split that Revenue many ways
+[02:30] and whatever percentage uh that they
+[02:32] deem appropriate so it's a little bit
+[02:35] like for podcasting and Fountain uh it's
+[02:39] for filmmakers for you and Bitcoin yeah
+[02:42] that's right I L it a lot it's actually
+[02:45] really cool because um Fountain is an
+[02:49] amazing platform as as I found until now
+[02:51] it's that there's not too many people
+[02:53] right now watching compared to like
+[02:55] YouTube and and all the other platform
+[02:57] Spotify and apple podcast they like the
+[02:59] biggest platform
+[03:00] but uh the the quality of comments and
+[03:03] and the feedback you get from there is
+[03:05] like really nice and I kind of imagine
+[03:08] that also for for that what what you're
+[03:10] trying to do um before we get into that
+[03:13] why did you even get started with that
+[03:15] like did you saw some some some problems
+[03:17] with Cinema and and uh the the movie
+[03:20] industry yeah yeah a lot of
+[03:23] problems
+[03:25] um so I spent uh I spent my career in
+[03:28] film and television I started my career
+[03:29] as an actor
+[03:30] um almost 20 years ago did that for a
+[03:33] number of years and then I uh you know
+[03:36] bounced around the production side of
+[03:37] things directing producing editing um
+[03:39] just kind of everything you could
+[03:41] imagine and when I stumbled into the
+[03:44] crypto World in 2017 I pretty you know
+[03:47] once the idea connected for me that you
+[03:49] could stream value in the way that we
+[03:52] stream data uh I immediately realized
+[03:56] that that could solve a lot of the
+[03:57] problems that I had both as an artist
+[03:59] and and the business side of film making
+[04:01] um so you know filmmakers have a
+[04:06] real uh have a real issue when it comes
+[04:09] to monetizing their work um or even
+[04:12] having access to a market uh you know
+[04:14] there's really a couple big players and
+[04:16] they sort of control the production they
+[04:17] control the
+[04:18] exhibition um you know YouTube in my
+[04:21] opinion you know while a really cool uh
+[04:25] product isn't really appropriate for the
+[04:27] art of film making you know we hear this
+[04:29] you know it's turned into this word
+[04:31] content your content creator you know um
+[04:34] I don't really I don't really know what
+[04:35] that word means I don't I don't like
+[04:36] that word I'm a filmmaker we make movies
+[04:39] you know it's a particular kind of art
+[04:41] form um you know that has particular
+[04:44] expectations from an exhibition
+[04:45] perspective and a production perspective
+[04:47] and it's very unique in its business
+[04:49] model um so I think that uh I think that
+[04:54] there needs to be something that's more
+[04:56] appropriate uh for that you know that
+[04:58] structure and uh I think that I think
+[05:01] the Bitcoin enlightening and digital
+[05:02] payments you know have the potential at
+[05:04] least to to solve a lot of those issues
+[05:06] it's super interesting Al like uh
+[05:08] decentralizing the whole whole thing
+[05:11] it's uh I get more and more guests with
+[05:13] with uh that are not Direct in Bitcoin
+[05:16] but doing something with Bitcoin uh like
+[05:18] even with decentralizing Healthcare data
+[05:21] and also decentralizing film making to a
+[05:24] certain extent even though like inab is
+[05:27] still a centralized platform uh but uses
+[05:29] a decentralized platform really
+[05:31] interesting uh what you're doing um Can
+[05:35] anyone then upload a movie there or how
+[05:38] do how does it uh is it different to a
+[05:41] platform like Netflix or platform like
+[05:44] um uh
+[05:45] YouTube it'll be a little bit of a
+[05:47] hybrid approach um I think you said it
+[05:49] well you know there's Indie Hub is C
+[05:51] certainly a centralized platform um as
+[05:54] far as you know the servers are
+[05:55] concerned and data is concerned and
+[05:56] payments are concerned um or I should
+[05:59] say payouts are concerned we're using
+[06:01] you know obviously we're using lightning
+[06:02] but um users will anyone can upload a
+[06:08] project upload a film uh there will be a
+[06:11] minor screening process you know we just
+[06:13] making sure there's not like obscene
+[06:14] content or uh inappropriate movies or or
+[06:17] things that aren't movies at all you
+[06:19] know like we're not looking for uh Tik
+[06:21] Tok type stuff or you know things like
+[06:23] that so there's a little bit of a filter
+[06:25] on our end we're just making sure that
+[06:27] it's appropriate for the platform but we
+[06:28] do want to make sure that it is uh kind
+[06:31] of as wide a net as possible um within
+[06:34] that and we want the market to do what
+[06:36] markets do and you know may the best
+[06:39] film win you know if people are really
+[06:41] watching it and they're really
+[06:41] responding to it you're you're getting
+[06:43] paid interesting so when you watch a
+[06:46] movie there uh you pay per minute or
+[06:48] like how does the this this work so uh
+[06:51] the way the structure is now for the
+[06:53] from the audience side of things you're
+[06:54] going to pay a monthly subscription uh
+[06:56] to have access to the platform so it'll
+[06:57] feel like Netflix or Hulu or ever um and
+[07:01] the payouts are what's happening on
+[07:02] Lightning now uh you can pay you know if
+[07:06] you want to pay that subscription
+[07:07] enlightening we're going to be enabling
+[07:08] that here shortly we're waiting on a
+[07:10] couple little things uh to go through
+[07:12] from a technical perspective um but
+[07:14] we're not at the point yet where it's
+[07:16] like connect a wallet uh and then have
+[07:19] sat stream directly out of that wallet
+[07:22] um that being said we are we're very
+[07:26] very early on integrating the RSS 2.0
+[07:29] spec um so in that world uh users
+[07:33] filmmakers will be able to publish their
+[07:35] movies over RSS and uh in that realm uh
+[07:40] users will be able to attach a lightning
+[07:43] wallet and actually stream STS or tip
+[07:45] directly to that filmmaker and their cap
+[07:47] table so we're trying to you know kind
+[07:49] of attack both angles of it um but the
+[07:51] RSS stuff that's very very early I mean
+[07:54] we are super early on that and and I
+[07:56] don't expect you know kind of mainstream
+[07:58] movie goers to to uh be able
+[08:02] to uh facilitate that kind of tech on
+[08:04] their end for quite some time it's still
+[08:06] pretty
+[08:07] complicated that's interesting yeah it's
+[08:10] it's it's fascinating for me that uh
+[08:11] that we can use like it opens up so many
+[08:14] possibilities when when all of the
+[08:16] sudden we have a a protocol like
+[08:19] lightning uh where we can actually be uh
+[08:23] paying per whatever second minute hour
+[08:26] what we watching like actual like if you
+[08:28] have a Netflix subscri ion and and you
+[08:30] don't watch for like 3 months you're
+[08:32] still paying but if you're like watching
+[08:34] heavily then you're maybe like using
+[08:37] more of that of that and it's
+[08:39] interesting the consume per actual like
+[08:42] the the paying per actual consume an
+[08:45] interesting concept which probably makes
+[08:48] people more aware of things I don't know
+[08:50] if it's a good thing when it's something
+[08:53] like a relaxing thing like a movie I
+[08:56] don't know if people get freaked out
+[08:57] like oh [ __ ] like every second that I
+[08:59] watch more than movie that it's it's
+[09:01] going off my wallet could be a bad bad
+[09:04] effect of of that but it's interesting
+[09:06] concept I love it a lot yeah yeah I mean
+[09:09] we're still so early in this and we're
+[09:11] you know Indie hub's definitely
+[09:12] pioneering uh this new world um I don't
+[09:16] I don't have you know I don't have a
+[09:17] crystal ball I don't know how this is
+[09:18] all going to shake out but I I think
+[09:20] that I think that there is a new
+[09:22] business model to be had here with that
+[09:23] um and we're going to just try to make
+[09:25] it work uh whichever direction it goes
+[09:28] and really just be the appropriate tool
+[09:30] for filmmakers to monetize so whether
+[09:32] they want to do it over RSS or they want
+[09:34] to do it you know locally on Indie Hub
+[09:36] uh we we we want them to have the
+[09:37] ability to make that
+[09:39] choice you also said in the in the
+[09:42] beginning that you see uh a difference
+[09:44] between you don't like the wood content
+[09:46] creator by the way I also don't like
+[09:47] that word like yeah like you you you you
+[09:51] you're doing content it's like okay what
+[09:53] what content is like it is a very prod
+[09:56] like if if if someone in a company
+[10:00] is producing exle sheets as a report
+[10:02] that's that seems to be a content
+[10:04] creator right like he's producing
+[10:05] content that should not be compared with
+[10:08] like filmmaker so I don't like that word
+[10:11] because it's very generalistic like
+[10:13] every almost everyone is making content
+[10:15] in some sort of some sense um but uh
+[10:19] what do you think is is like the the
+[10:21] difference between um uh like the the
+[10:24] Comm the commercial movies than like
+[10:26] Indie movies independent movies uh and
+[10:29] then even something I saw some there
+[10:32] there are some sort of movies on on
+[10:33] YouTube also some people that are like
+[10:35] just trying there to be also filmmaker
+[10:38] there and just posted it there um uh
+[10:40] what are the different FS on how do how
+[10:43] do they different how do you see um a
+[10:46] YouTube YouTuber versus like a filmmaker
+[10:49] how would you define that so so super
+[10:52] good question um I try to boil it down
+[10:55] to where's the money coming from uh
+[10:58] who's who's paying you um and so I I
+[11:01] asked the question like what's the
+[11:03] difference between art and
+[11:04] propaganda and I think the answer to
+[11:07] that is like where the money is coming
+[11:08] from who's paying you um you know
+[11:11] ad-based platforms particularly YouTube
+[11:15] uh we already we're all well aware that
+[11:16] you run into major censorship issues
+[11:18] there um if advertisers don't want to be
+[11:22] associated with a particular ideology or
+[11:24] whatever um you know they can they can
+[11:26] demonetize that they have outsized uh
+[11:29] they have outsides control over that so
+[11:32] you know in my opinion it's really about
+[11:34] it really comes down to that Financial
+[11:36] relationship between artist and audience
+[11:38] member um and if we can remove as many
+[11:42] people uh from you know the middle of
+[11:44] that relationship as possible then you
+[11:47] know I think we've done our job so you
+[11:49] know I there's a there's a lot of
+[11:51] differences between you know making a
+[11:53] movie and you know just having a podcast
+[11:56] for instance um you know the business of
+[11:58] a movie movie is vastly more complex uh
+[12:02] you have you know you know not only are
+[12:05] you hiring potentially hundreds of
+[12:07] people you have you know you're dealing
+[12:09] with labor you're dealing with contracts
+[12:11] you're dealing with
+[12:12] licensing um you know it's a it's a
+[12:15] sophisticated complicated uh business
+[12:17] model so you know I just I don't I don't
+[12:20] know that YouTube is the right venue
+[12:22] from an advertising perspective you know
+[12:24] you you're you're working for their
+[12:25] algorithm you're working for you're
+[12:28] trying to game their system that they've
+[12:30] created in order to sell their own
+[12:33] services to advertisers and I think that
+[12:35] um you know yeah I think the primary
+[12:38] difference is where that money is coming
+[12:39] from it's a good one yeah and also like
+[12:42] I'm I'm a a solo podcast and I can put
+[12:45] out one podcast a day would be probably
+[12:47] really hard for me to put out the movie
+[12:49] a
+[12:50] day as a single
+[12:52] person I think that there there's some
+[12:56] major difference there uh really cool um
+[12:59] do you think that's uh
+[13:01] changes do do you think that change what
+[13:03] you're doing is uh a little bit because
+[13:06] of Bitcoin or or would that happen
+[13:08] anyways or is is is the money that we
+[13:11] use um a factor in there yeah I I think
+[13:15] that it is I think that um you know just
+[13:18] just from the low value perspective
+[13:20] right like let's say on Indie Hub we can
+[13:22] make payments that fractions of a penny
+[13:24] you know regularly multiple times a
+[13:27] minute um you it's hard to do that on
+[13:30] stripe you're not going to do that on
+[13:32] acch Rails um you know and so when that
+[13:35] friction gets introduced you you end up
+[13:38] with a lot of companies who are in
+[13:40] between it right like stripe might say
+[13:42] hey I don't I don't I don't like what's
+[13:43] going on on Indie Hub I think that you
+[13:45] guys are doing things that are illegal
+[13:47] or that the government's going to say
+[13:48] hey we'll we'll shut you down so there's
+[13:49] just these little Gatekeepers that get
+[13:51] in the way of that flow of uh that
+[13:54] relationship um and I think that that's
+[13:58] that's ultim what muddies the waters the
+[14:00] most and and you just end up with this
+[14:02] very very slow very very high friction
+[14:04] environment
+[14:06] um so I think that I do I think that I
+[14:10] think that Bitcoin has is going to have
+[14:12] a huge impact um on the business models
+[14:14] you know moving forward um I think that
+[14:17] we're going to continue to see a
+[14:20] decentralization of uh voices and
+[14:23] product and opinions and I I think
+[14:26] that's a great thing I think that's a
+[14:27] good thing um you know I think from an
+[14:30] from an art perspective you know the job
+[14:33] of an artist in my opinion is to really
+[14:35] ride that line of Consciousness between
+[14:37] you know Order and Chaos and they bring
+[14:39] things in um and reflect onto Society
+[14:43] what it is that they see and we reward
+[14:45] the best artists uh for doing so you
+[14:48] know and and there's a there's a direct
+[14:50] relationship between artists and
+[14:52] filmmakers in this uh in this case and
+[14:56] um for for Consciousness to to move
+[14:58] forward that you know the resolution of
+[15:01] that reflection has to be as high
+[15:02] quality as possible um I don't know if
+[15:05] that answered the question it kind of
+[15:07] went on a rant there
+[15:09] but I I I love rants it's it's fasc I
+[15:12] had the longest probably I don't know if
+[15:14] it's a record but uh there was one guy
+[15:17] and I mentioned that a lot um he he was
+[15:20] uh writing Bitcoin 21 million times he
+[15:23] tries to write Bitcoin down on paper 21
+[15:25] million times I think he's now at like
+[15:27] 400,000 or something like that and he
+[15:29] documents everything on Twitter and
+[15:30] stuff like that and I was like hey I I
+[15:32] have to have him on I just want to ask
+[15:34] him why he's doing that and then let's
+[15:36] see if there's a conversation but I
+[15:38] actually just asked him that one
+[15:39] question and he went on to a 55 minute
+[15:43] rant
+[15:45] like
+[15:47] uninterrupted uh and I just asked him
+[15:49] the question and then he he talked for
+[15:51] 55 minutes then I had like like 15
+[15:54] minutes more where we had some dialogue
+[15:56] there uh but it was really cool I didn't
+[15:58] want to to interrupt him he really just
+[16:01] was on a on a on a run there and was
+[16:03] like hey let's let's let him run it's
+[16:05] it's it's it's fun to he in the middle I
+[16:09] forgot that I'm actually a podcast host
+[16:11] but was his name Michael
+[16:13] [Laughter]
+[16:15] sailor king of no Michael let me talk
+[16:20] even a little bit more like I think we
+[16:23] went on for one and a half hours uh and
+[16:27] I got to ask like six questions or
+[16:29] something like that
+[16:30] so that's that was almost good I feel
+[16:33] like that's a record for
+[16:36] sailor he just goes man I love it he
+[16:39] just goes yeah that that's true that's
+[16:41] true uh by the way how how did you find
+[16:44] your your way in bitco
+[16:46] um excuse me sorry about that um so a
+[16:50] buddy of mine in
+[16:54] 2017 like had been bugging me about
+[16:56] ethereum mining I don't I don't know why
+[16:58] you know I think he was just interested
+[17:01] in the tech and had some gpus lying
+[17:03] around and was like I you know he could
+[17:04] make some money mining ethereum or
+[17:06] whatever um and he hit me up he he'
+[17:09] asked me about it a few times and I was
+[17:11] just busy and and had absolutely no way
+[17:14] of really diving into it and um one of
+[17:17] the days that he called me I just
+[17:19] literally was sitting in my office I had
+[17:20] absolutely nothing to do and uh you know
+[17:24] he told me to go look into ethereum and
+[17:26] Mining and all that so I I mean I just
+[17:29] did a little Google search I ended up on
+[17:31] coin market cap this is probably like
+[17:33] March or something March April of
+[17:35] 2017 and uh you know I honestly within
+[17:39] probably 45 minutes maybe less than an
+[17:41] hour uh I
+[17:44] I I understood the basic concept of
+[17:47] being able to have a you know a
+[17:49] counterparty free peer-to-peer transfer
+[17:52] value and I was like wow that's that's
+[17:55] massive this is this is huge uh uh I I
+[18:00] didn't I didn't know anything about any
+[18:04] of the tech at all I mean I you know
+[18:06] none at all so I was just like I don't I
+[18:07] don't know what these thousands of coins
+[18:09] are I couldn't have told you the
+[18:10] difference between Bitcoin or ethereum
+[18:11] or uh xrp or any of it at the time uh so
+[18:16] I just I just kind of dived in I tried
+[18:18] to start buying whatever I could and you
+[18:21] know sat did did the [ __ ] coining for a
+[18:23] while and um I I really became obsessed
+[18:26] man I I I I spent an outsized amount of
+[18:30] time for years I mean to this day
+[18:32] honestly um paying attention to the tech
+[18:34] and the space and um it took
+[18:37] me it took me probably two years of real
+[18:42] research and um really just diving into
+[18:45] obscure books I mean I my career was in
+[18:48] film and TV you know I didn't have any
+[18:50] real um understanding of like
+[18:53] sophisticated Financial Plumbing or
+[18:54] treasuries or how money was created or
+[18:56] anything like that and
+[18:59] uh you know I would say by about 2019 I
+[19:02] started to understand the value prop of
+[19:05] Bitcoin uh you know better than I had
+[19:08] and one of the things that did it for me
+[19:11] was uh I had started building a proof of
+[19:14] concept of Indie Hub years ago and at
+[19:17] that time we were building it on a on
+[19:19] inner Ledger which was developed um by
+[19:23] this guy Stefon Thomas who was one of
+[19:24] the one of the founders and worked at
+[19:27] Ripple
+[19:28] um and it was great like I need that big
+[19:32] jug of water you got man and uh so uh at
+[19:37] the time you know this was you know it
+[19:40] it worked in a similar way to lightning
+[19:42] you know you opened up essentially a
+[19:43] private payment Channel you could do
+[19:45] 50,000 transactions a second per Channel
+[19:47] or whatever it was you know basically
+[19:49] free um and then you kind of settled on
+[19:51] chain it was it was it was a similar uh
+[19:54] makeup but lightning at that time um you
+[19:57] know was not as developed at all
+[20:00] compared to what it is now and so we
+[20:02] used interledger and it worked great you
+[20:04] know it was you know stream watch a
+[20:06] movie stream of payment uh fractions of
+[20:08] you know micro payments tiny every
+[20:10] second uh it was great it worked great
+[20:13] but when I tried
+[20:15] to get into the like oh I'm going to run
+[20:18] a node you know how can how can Indie
+[20:20] Hub you know run a node on this and run
+[20:22] this software I realized it was like
+[20:24] basically impossible uh you needed to be
+[20:28] you know have have an incredible amount
+[20:30] of experience in it and just crazy
+[20:33] amounts of bandwidth and servers with
+[20:34] SSD I mean it would have been tens of
+[20:36] thousands of dollars a month like it was
+[20:37] just totally nuts and it was pretty much
+[20:41] in that moment that I I realized what
+[20:43] bitcoiners had been saying the value of
+[20:45] having these small nodes that anybody
+[20:47] could run that didn't cost anything um
+[20:50] so that was it was kind of like my own
+[20:52] experience of just diving into it
+[20:54] realizing the importance of having a
+[20:57] cheap node that anybody could run
+[20:59] uh and
+[21:01] then uh it
+[21:03] was it was another couple of years
+[21:06] of just deep deep research um you know
+[21:10] there were there were a
+[21:12] few there were a few articles and a few
+[21:14] things that really were I mean it was
+[21:17] ever there was a ton of information but
+[21:19] there were a few things that were just
+[21:21] especially pivotal in my understanding
+[21:23] of uh the value prop of Bitcoin um breed
+[21:28] article uh the number zero in Bitcoin
+[21:32] was one of them GG had this article
+[21:35] Bitcoin is time um uh John valis did
+[21:40] this article called money
+[21:42] Messiah and those
+[21:45] articles I I mean they just absolutely
+[21:48] [ __ ] blew my mind they just blew my
+[21:50] mind I I mean I just read them like
+[21:52] multiple times and they started to
+[21:54] rewire my brain in ways that I just
+[21:57] hadn't thought about the world
+[21:59] uh particularly with regards to energy
+[22:02] um you know in GG's article Bitcoin is
+[22:03] time got me into like okay I I I don't
+[22:07] understand I got to try to understand
+[22:09] what time is from a from a physics
+[22:10] perspective um and I would say that you
+[22:14] know entropy learning what entropy was
+[22:17] just the basic concept of that um and
+[22:20] how the Bitcoin uh time chain works and
+[22:23] creates its own time um those were those
+[22:27] were some of the major major PS
+[22:28] Pinnacles for me it was like I had to
+[22:31] get I had I had to just like develop a
+[22:32] better relationship with physics um and
+[22:35] uh you know again it was a lot of
+[22:37] different things but but those in
+[22:38] particular really really really had an
+[22:40] outsized impact on my understanding of
+[22:42] it
+[22:43] and and and then you know then I ended
+[22:46] up reading a bunch of really obscure
+[22:48] stuff like there was this really really
+[22:51] good interview on real Vision um kind of
+[22:54] early real Vision days uh with Warren
+[22:56] Mosler and he and he talked about gave a
+[22:59] really really good description of how
+[23:02] Financial the financial Plumbing works I
+[23:03] mean the guy just completely understands
+[23:05] it and um that got me into all of these
+[23:08] other ridiculously obscure books Warren
+[23:10] mosa wrote this book called Soft
+[23:11] currency economics 2 I think he did one
+[23:14] or there was a a version two um that I
+[23:17] had to like trudge through that just
+[23:19] totally you know opened my mind to how
+[23:22] our financial markets worked um you know
+[23:26] I kind of got deep into the mmt stuff I
+[23:28] started reading reading like Stephanie
+[23:30] kelton's books and just just to
+[23:33] understand the plumbing of the system um
+[23:35] so once I had kind of like the physics
+[23:37] aspect of it sort of grasp and then the
+[23:40] financial Plumbing aspect of it grasp um
+[23:44] things really really really started to
+[23:45] click and then and then Co hit you know
+[23:48] and it was like here's the proof like
+[23:50] they're going to print $6 trillion
+[23:52] dollars was like oh my God what is going
+[23:55] on um you know by by early 2020 I had
+[23:59] pretty much
+[24:01] already just moved my my um my my under
+[24:05] my heart was with Bitcoin let's say um
+[24:08] and then as the co debacle played out I
+[24:11] it just kind of proved the whole thesis
+[24:13] and I was like wow okay so then I I
+[24:15] basically just got out of everything
+[24:17] else that I was holding on to out of
+[24:19] basically just a lack of understanding
+[24:20] and fear um kind of the like I'm going
+[24:23] to diversify because I don't really know
+[24:25] anything um you know it was that classic
+[24:27] chart right like under understanding of
+[24:28] Bitcoin allocation of Bitcoin straight
+[24:31] up um and
+[24:34] so uh I was still developing Indie Hub
+[24:36] at the time and and and I kind of just
+[24:38] made a a bet and I was like I hope that
+[24:40] lightning is as developed as I need it
+[24:41] to be because I need somebody to just
+[24:43] create a product that I can plug into
+[24:44] I'm not trying to run a money
+[24:46] transmission business it's not I have no
+[24:48] interest in running nodes you know and
+[24:50] doing anything like that that's not my
+[24:52] business and it kind of just like lined
+[24:54] up perfectly uh some companies started
+[24:56] offering uh lightning services
+[24:59] um and and that was kind of it man it
+[25:02] just that was it was like I I understand
+[25:04] this I understand why we're doing this
+[25:06] um it's kind of No Going Back super
+[25:08] interesting um it's also interesting how
+[25:12] this transition is going um I asked that
+[25:15] question a lot because I really want to
+[25:18] grasp how Bitcoin will transform Society
+[25:21] in a in a lot of ways uh and that's why
+[25:23] I'm interested in like how people fought
+[25:26] before Bitcoin and how people think
+[25:28] after Bitcoin uh and a lot of things I
+[25:32] think have to do because we in an early
+[25:34] crowd and we also get impacted by that
+[25:38] early uh and we are small community and
+[25:41] and we have like this group thinking a
+[25:43] little bit in there even though we get
+[25:46] way bigger uh these days but I do think
+[25:49] money has an impact on our thinking on
+[25:53] our incentives and will change something
+[25:55] in society so that's why I ask
+[25:58] uh in what way did Bitcoin change your
+[26:01] perspective on wealth and time super
+[26:04] good
+[26:05] question for me I think I I think I fit
+[26:08] into the category that a lot of people
+[26:10] fit into which is that um you know I I
+[26:13] was
+[26:14] raised
+[26:16] um with fairly simple principles you
+[26:20] know just sort of ethics and morals you
+[26:21] know work hard save your money do right
+[26:25] by um the people that you work with you
+[26:28] know your word is your bond trust um
+[26:33] and as
+[26:35] I you know the first part of my you know
+[26:39] professional career I I was I was just
+[26:42] an actor and I had um I don't want to
+[26:44] downplay that it is important but I had
+[26:47] I would say like negative respect for
+[26:50] finances or money um I I really ju I
+[26:54] mean I just had I had no idea I had
+[26:56] absolutely no idea how any of this
+[26:57] worked and as I started to switch over
+[27:01] to the production side of things I
+[27:02] started to run my own businesses and I
+[27:04] started hiring people and I started uh
+[27:07] you know on my business
+[27:10] journey and what happened to me was I
+[27:13] started to realize that I was trying to
+[27:16] do business the right
+[27:19] way uh you know treat people fairly be
+[27:23] honest
+[27:25] um you know do things in a in a
+[27:28] respectable Manner and I realized that I
+[27:31] was not incentivized to do that um from
+[27:35] a regulatory perspective like it was it
+[27:37] was the government that was getting in
+[27:39] the way um and that was basically
+[27:42] forcing me to behave in a way that was
+[27:44] against the interests of myself the
+[27:46] people I was working with and my
+[27:48] customers um and
+[27:51] so I just had this like General
+[27:54] frustration and general sense that like
+[27:57] this isn't this doesn't make any sense
+[27:59] like this isn't how things should be um
+[28:01] this isn't how my family was brought up
+[28:04] this isn't how they operated in their
+[28:07] life you know
+[28:09] and uh but it wasn't anchored to any
+[28:12] kind of functional understanding it was
+[28:13] just like this growing frustration that
+[28:15] that that the incentive structures just
+[28:18] seem totally perverse and
+[28:20] corrupt um and so I guess what I'm what
+[28:24] I'm trying to get at is that I think
+[28:26] that Bitcoin brings us back to to what
+[28:28] we all sort of innately understand at
+[28:31] this like base layer of relationship and
+[28:34] behavior and and how we conduct
+[28:36] ourselves and how important it is and
+[28:38] necessary it is for human beings to
+[28:40] cooperate at scale um and when people
+[28:44] are in the middle of you cooperating it
+[28:46] just you know there's just a massively
+[28:48] negative result um and
+[28:52] so you know I Bitcoin just came in and
+[28:55] it was like yes this is yes this is how
+[28:57] it should be
+[28:58] like this is this is how I was raised
+[29:00] for things to to uh how the structure
+[29:05] was you know implied in my
+[29:08] upbringing and so for me it was like it
+[29:13] I wouldn't say that it changed my
+[29:16] behavior I would say that it reverted my
+[29:18] behavior back to what I just innately
+[29:21] and instinctually thought it should have
+[29:23] been in the first place um particularly
+[29:26] as an American you know like we we have
+[29:29] a strong sense of individualism and you
+[29:32] know I don't really have any interest in
+[29:34] being told what to do and I'm going to
+[29:35] take my risks and I should get the
+[29:37] reward for taking that risk and um you
+[29:41] know I I think that I think that just I
+[29:43] I just think that Bitcoin is like a
+[29:44] little bit closer to natural law in that
+[29:47] in that respect um and so I do I I think
+[29:50] that I think that Bitcoin is going to
+[29:52] have a massive and profound impact on
+[29:55] human behavior and I think that it I
+[29:57] think that is going to kind of reset us
+[29:58] back to where we our natural our more
+[30:01] natural state if that makes sense it
+[30:04] makes total sense and it's a funny for
+[30:06] me because uh sometimes I talk with
+[30:08] people outside of Bitcoin and when I
+[30:10] come at that angle of like oh yeah
+[30:12] Bitcoin will bring us back to how nature
+[30:15] actually wanted to be and nature
+[30:17] actually wanted us to have
+[30:20] money from an outside perspective it's
+[30:22] really hard to understand that because
+[30:24] it's like a highly technical thing uh
+[30:27] you need computer just to run it you
+[30:29] need all those uh fancy things your
+[30:31] wallets your your things like it's it
+[30:34] seems not true and but then you
+[30:38] understand okay yeah like we cannot use
+[30:40] something directly from nature as money
+[30:43] uh so we kind of translate Nature's
+[30:46] energy with the proof of work algorithm
+[30:49] into something digital so I can also
+[30:52] send this across the ocean uh and to
+[30:55] someone else to actually use it because
+[30:57] otherwise it it's not going to work
+[30:59] anyways in a globalized digitalized
+[31:02] world where uh people from America work
+[31:04] with people from Asia and they work with
+[31:07] people from Austria again so this is
+[31:10] something that we need we will never go
+[31:13] back to something not digital and I
+[31:16] rather have a digital Bitcoin than a
+[31:18] digital
+[31:19] Euro or some digital xrb or something
+[31:22] like that so in that sense it's the it's
+[31:25] the most most natural way of money ever
+[31:29] invented and so it's a hard hard thing
+[31:31] to understand but I think once you're
+[31:34] there it kind of makes sense in in that
+[31:37] sense yeah very cool yeah absolutely and
+[31:40] like you know I when I'm when I'm in the
+[31:43] process of of like explaining Bitcoin or
+[31:45] I'm orange pilling people um you know I
+[31:49] I realize I have to go back most of the
+[31:51] time to my to where I started which was
+[31:54] Zero you know I no idea of no real
+[31:57] concept of money as a tool or a
+[31:59] technology it was just something that
+[32:00] was assumed
+[32:03] um and you know I have to just start at
+[32:07] the very very Basics
+[32:10] and generally speaking in those
+[32:13] conversations the presupposition that
+[32:15] people have is like that the money
+[32:18] should hold some value they they assume
+[32:20] that it does but haven't put a ton of
+[32:21] thought into it um and that we should be
+[32:25] able to transact without asking
+[32:28] permission to transact you know I I'm a
+[32:31] big believer in the idea that uh the
+[32:34] freedom to transact is is as important
+[32:36] if not more important than freedom of
+[32:38] speech um you know actions speak louder
+[32:41] than words and uh you know how we
+[32:44] express ourselves behaviorally using
+[32:48] money as a tool is um you know in a on a
+[32:53] planet of 8 billion people probably the
+[32:55] most important tool that all of us use
+[32:58] collectively I I just don't think that
+[32:59] there's anything more important than
+[33:01] that tool um and if that
+[33:04] expression um is is distorted or
+[33:08] perverted or augmented based on the
+[33:11] whims of somebody else then then then
+[33:14] humans don't get to iterate in as
+[33:16] quickly as we need to in order to
+[33:18] progress and so we just end up being
+[33:20] totally hamstrung and stuck you know and
+[33:23] and that's no good like we got to we
+[33:25] can't be stuck we have to move forward
+[33:27] you know like we can't we can't energy
+[33:29] has to move man it really does I even go
+[33:32] one step further I feel like uh the
+[33:34] freedom from transact and the freedom of
+[33:37] of money moving is for me freedom of
+[33:40] speech in in a way because freedom of
+[33:43] speech means uh for me uh the freedom to
+[33:45] communicate whatever I want and I if I
+[33:48] cannot communicate to someone else my
+[33:50] financial energy freedom of speech is
+[33:52] actually um challenged in in in that way
+[33:56] so if if my B says heyy uh you cannot
+[34:01] transfer that money to to that person uh
+[34:04] because that person might be bad uh and
+[34:07] even if they are right they violate my
+[34:11] right of freedom of speech in in my
+[34:13] sense in my in my understanding maybe
+[34:15] maybe that goes too far or maybe that
+[34:17] this different it's a weird uh way of
+[34:20] thinking of freedom of speech but that
+[34:22] that's at least how I look at it yeah I
+[34:24] I mean I I totally agree um you you know
+[34:28] I kind of a separate tangent here but I
+[34:29] one of the I I would say you know
+[34:31] Bitcoin led me on a spiritual path and a
+[34:35] spiritual journey as well and there's um
+[34:39] I I was not aware I I was not personally
+[34:43] aware at all of how much fear um
+[34:48] dictates a a a a an outsized amount of
+[34:52] human behavior um until Co hit when Co
+[34:55] hit I just I had just
+[34:58] I don't generally don't live my life
+[35:00] operating at that frequency and um when
+[35:04] Co hit and I started to see the
+[35:05] destruction that was Downstream of
+[35:08] making decisions out of fear um it
+[35:12] really a lot of light bulbs went off for
+[35:13] me um and I and I realized that fear
+[35:17] from a from a vibrational perspective is
+[35:20] essentially the it's the vibration of
+[35:22] Destruction um you know I I looked at my
+[35:25] life and I looked at the choices that
+[35:26] I'd made and and I and I realized pretty
+[35:28] much unequivocally that all the best
+[35:30] decisions and all of the best work and
+[35:32] all of the best relationships I'd ever
+[35:33] had were uh rooted in love and um all of
+[35:37] the worst decisions I'd ever made were
+[35:39] rooted in fear and when my life was uh
+[35:42] you know on a downward trajectory let's
+[35:45] say um it was almost always because I
+[35:47] was I was operating out of a place of
+[35:49] fear the the reason I say that is
+[35:51] because I I um there's a I I I suppose
+[35:56] there's a strong case to be made for
+[35:58] trying you know control comes from Fear
+[36:02] a lot of the time I mean I think there's
+[36:03] there's just people who are legitimately
+[36:06] evil there's sociopathic U that's kind
+[36:10] of a different topic but I think a lot
+[36:12] of people uh if you're operating from a
+[36:15] place of fear you can you start to try
+[36:16] to control things and you start to try
+[36:18] to control behavior and you start to try
+[36:19] to control how people think and I I
+[36:23] think that in the long run uh that's
+[36:27] just it's it's just net negative um you
+[36:29] know there's this Jason
+[36:32] Lowry um I think it was Lowry in in
+[36:37] either a one of his posts or podcasts or
+[36:39] his book maybe all of them uh he made
+[36:42] this really really crazy point that
+[36:44] stuck with me man and this just like
+[36:46] this will never leave me and he
+[36:48] basically said that at the Battle of
+[36:51] Gettysburg um when they went to collect
+[36:54] the bodies and the weapons and clean up
+[36:56] the battlefield
+[36:58] they they realized that some insanely
+[37:02] large percentage of the guns hadn't even
+[37:04] been fired and furthermore a lot of the
+[37:08] guns had two or three uh balls of
+[37:12] ammunition you know shoved into their
+[37:14] musket which suggests that not only were
+[37:16] people not firing their weapon but they
+[37:20] were pretending to fire their weapon
+[37:22] they were pretending to shoot and they
+[37:23] were pretending to reload and you know
+[37:26] the implication of that in my mind is
+[37:28] that the overwhelming majority of people
+[37:31] are
+[37:32] not like our base state is not violent
+[37:35] and aggressive like at a at a at the
+[37:38] core base layer of our brain we
+[37:41] understand how important it is to be
+[37:42] peaceful and to
+[37:44] cooperate
+[37:46] and I for us to progress it it has to be
+[37:51] in a peaceful way it has to be in a
+[37:53] creative way it cannot be in a
+[37:54] destructive way um now now and
+[37:57] destruction certainly has its place uh
+[38:00] you know things need to be uh you know
+[38:03] destroyed in order to be built back up
+[38:05] like it's just part of the process but
+[38:07] um you know this this fear that people
+[38:10] are going to oh they're going to
+[38:11] transact they're going to do things I
+[38:13] don't like them to do or whatever um
+[38:17] that's just it's it's just that it's
+[38:18] just fear um and if I I fundamentally
+[38:21] believe I'm not cynical in this regard
+[38:23] that if if humans have the opportunity
+[38:25] to uh trans act freely uh we will see
+[38:30] just an unfathomable amount of Positive
+[38:32] Growth and then of course there's
+[38:33] there's insane people and there's
+[38:35] there's disgusting things that happen
+[38:37] there's no question about that but I
+[38:38] think that uh being controlling and
+[38:42] trying to control transactions I think
+[38:44] leads to more uh more behavior that is
+[38:48] you know just frankly not in line with
+[38:51] uh kind of the base the base layer of
+[38:53] being a human being if you watch or
+[38:56] listen to my my podcast on a regular
+[38:58] basis I'll guess you already bought some
+[39:01] Bitcoin and now the most important step
+[39:03] is to keep the Bitcoin keep them secure
+[39:07] in a hardware wallet my personal
+[39:09] recommendation for Hardware wallet is
+[39:11] the bitbox it's super secure it's simple
+[39:13] to set up it's also perfect gift for a
+[39:15] friend who has still their Bitcoin on an
+[39:18] exchange and you can get a 5% discount
+[39:22] with the code Robin at the checkout
+[39:24] visit bitbox do Swiss Robin to get your
+[39:29] bitbox and the next step is to really
+[39:31] level up your sovereignty as an
+[39:33] individual you have to have the most
+[39:35] secure self- custody setup you have to
+[39:38] secure your own devices you have to
+[39:41] protect your privacy you have to set up
+[39:44] an inheritance plan and depending on
+[39:46] where you live you even want to have a
+[39:48] plan B a citizenship where you can move
+[39:51] in case something goes really really
+[39:53] wrong and through all those steps the
+[39:55] Bitcoin way is guiding you through
+[39:57] through step by step and if you visit
+[40:00] the Bitcoin way.com SLP Partners robobin
+[40:04] you even get a 30 minute free call to
+[40:07] find out how you can level up your
+[40:09] sovereignty and last but not least I
+[40:11] have something completely new for you
+[40:14] guys I partnered up with coin vigilante
+[40:18] this is the most beautiful Bitcoin time
+[40:21] piece that I ever saw created by anyone
+[40:24] look at that beauty I love it so much
+[40:26] coin Vig land made and perfect Bitcoin
+[40:30] watch that's the perfect subtle elegent
+[40:32] way to go out there and show that you
+[40:35] are a bitcoiner and that watch brand is
+[40:38] Bitcoin only and coin vigilante just
+[40:41] dropped a completely new an amazing
+[40:44] Genesis edition of their watch
+[40:47] collections you have the date of the
+[40:49] first ever mined Bitcoin Block in there
+[40:52] and of course also the block height and
+[40:55] which EPO we are current in I love the
+[40:58] level of detail they put in in this
+[41:01] masterpiece and make sure to check out
+[41:03] those amazing coin V the time pieces
+[41:07] down in the descriptions I love those
+[41:09] watches so so much I mean it it comes
+[41:13] down to any to every invention ever made
+[41:17] like you can say the same thing about
+[41:20] fire about knives about gunpowder about
+[41:24] everything there is always
+[41:27] if you justify not allowing Innovation
+[41:30] to prosper because uh 1% of the
+[41:34] population might abuse it for something
+[41:37] bad that's that's always a really bad
+[41:40] that's always a really bad ankle uh and
+[41:43] so uh of course criminals will use
+[41:46] Bitcoin because everyone will use
+[41:49] Bitcoin so of course criminals use uh
+[41:52] knives but I still like knives to cut my
+[41:54] onions
+[41:57] I I don't I don't want to squee them so
+[42:00] like it it's it's for me really
+[42:02] interesting how how people look at that
+[42:04] and and I really like how electricity
+[42:07] got adopted uh and there you see those
+[42:10] old Comics that were painted where we
+[42:13] like oh they made propaganda against
+[42:16] electricity because they thought it will
+[42:18] be really bad and the whole world will
+[42:21] goes down a really bad Lane but now a
+[42:25] world without electricity and I'm aware
+[42:28] that there are Parts in the world where
+[42:29] actually people live completely without
+[42:31] electricity and that part of the world
+[42:33] is not even that small um but uh in
+[42:37] everyone that is listening right now uh
+[42:40] their Liv is probably really complicated
+[42:42] if they have tomorrow no electricity
+[42:45] anymore yeah not not negative dude like
+[42:49] and from an energetic perspective right
+[42:50] this is this is one of the things I
+[42:53] started to be able to see the world more
+[42:55] from an energetic perspective right like
+[42:56] you can't create energ you can't destroy
+[42:57] energy we can transmute which is
+[42:59] incredible right like we're like Wizards
+[43:02] in that respect you know we can we can
+[43:03] take what's here and we can rework it
+[43:05] into something else and that's kind of
+[43:06] the base layer but like um you know
+[43:09] there was this uh uh really good Ted
+[43:13] Talk um uh I think it was I think it was
+[43:16] beray brown uh in one of her TED talks
+[43:18] and she talks about she was trying to
+[43:20] find she was doing research about uh you
+[43:24] know people who
+[43:27] have meaning in their life you know
+[43:28] basically and long it's a great Ted Talk
+[43:31] highly recommend go check it out but
+[43:32] from an energetic perspective
+[43:33] essentially what she found out was that
+[43:35] you can't take away the highs you can't
+[43:38] take away the lows sorry and and still
+[43:41] have the highs you if if you take away
+[43:44] one you compress you know our our
+[43:46] energetic reality to this like middle
+[43:48] band of of uh you know you give somebody
+[43:52] anti-depressants and you're also cutting
+[43:54] off their happiness at the same time
+[43:55] they're maybe they're not as depressed
+[43:56] but they're not as happy and so you you
+[43:59] try to start manipulating how energy
+[44:01] works and it's going to squirt out
+[44:02] somewhere else like it just there's no
+[44:04] there's no way around it um you know and
+[44:08] we we we we have to have some element of
+[44:13] trust and faith and love in order to
+[44:15] continue to move forward without any
+[44:17] guarantee of safety um you know but But
+[44:21] the irony is the more the more of a
+[44:23] guarantee of safety you're looking for
+[44:25] the less safe you become you know I
+[44:27] think it's kind of how I see it% and I
+[44:29] talked about about that on the podcast
+[44:31] already but for me volatility is
+[44:33] vitility like you you need uh that to to
+[44:37] make uh noise and there will come a
+[44:40] point where Bitcoin is super boring
+[44:42] where where Bitcoin is just like
+[44:43] everyone has Bitcoin it is this thing
+[44:46] that like yeah it's really big news if
+[44:48] it shoots up 1.7% in a year in
+[44:51] purchasing power uh because then it's
+[44:53] like oh what happened this year like
+[44:55] it's it's that would be huge news if if
+[44:57] Bitcoin moves more than 1% or in that
+[45:01] scenario Bitcoin is actually the thing
+[45:03] that we are measuring everything in so
+[45:06] uh it's it's more like uh it's it's it's
+[45:08] massive if prices move down more than 1%
+[45:11] or something like that so like that
+[45:13] that's I think more the way to to think
+[45:15] about that but at that point I will find
+[45:17] something else to talk about I I I I
+[45:21] will not I will not um talk about
+[45:23] Bitcoin when it's boring so till it's uh
+[45:26] till it's not boring and I think the
+[45:28] next like 10 years I guess will
+[45:30] definitely not be boring in Bitcoin uh
+[45:33] but at some point it will get boring and
+[45:35] then I'm like yeah let's let's let's
+[45:36] find something else that I'm passionate
+[45:38] about yeah like 100% you know we get
+[45:41] back to what we should be doing here
+[45:42] which is uh you know getting more
+[45:44] efficient at things getting better at
+[45:46] producing things uh being more creative
+[45:48] you know I mean human beings like I say
+[45:50] we're we're Wizards we have this
+[45:51] incredible ability to transmute energy
+[45:54] um and I think that that's in service of
+[45:55] something I think that I think that we
+[45:58] have uh you know part of our job here is
+[46:02] to sort of solve for entropy and uh make
+[46:05] things make sure that that that this
+[46:07] party doesn't end any sooner than it has
+[46:09] to you know what I mean so you know in
+[46:12] that case if bitcoin's going up let's
+[46:15] say 2% a year well that's great that
+[46:17] means that we got 2% better at at uh
+[46:20] doing whatever it is that we need to be
+[46:22] doing you know and that should be
+[46:23] celebrated absolutely that's uh that's
+[46:26] also uh just a side note I think that's
+[46:28] what a lot of people don't get about
+[46:30] inflation even if we saying CPI is
+[46:33] actually inflation which I completely
+[46:34] disagree with we are measuring from zero
+[46:37] and we should be measuring from where we
+[46:40] have a productivity gain because we are
+[46:42] getting more efficient in doing stuff so
+[46:44] like even if inflation is just 7% in
+[46:47] reality we should not measure it from
+[46:49] zero we should measure it from like
+[46:50] minus 10% and then inflation is like 27%
+[46:53] or something like that uh but then
+[46:59] we you get it right it's that it's that
+[47:03] um um Jeff boof um I think uh really
+[47:07] made that concept popular and and I
+[47:10] think it's such a genius way to think
+[47:12] about when Jeff poof told me that I was
+[47:15] I was mind blown to be honest like that
+[47:17] when I heard about the prize of tomorrow
+[47:19] and how he un explained it I was like
+[47:22] that's so simple why I did not think
+[47:24] about that at all in my
+[47:27] whole years of studying money and
+[47:30] investing in stocks and and doing all
+[47:31] this things like I felt really stupid in
+[47:33] that moment yeah you
+[47:36] know I think it goes I think that that
+[47:38] goes back to the point we were making
+[47:41] earlier which is that we all just have
+[47:43] this base level of understanding that
+[47:46] that which is Jeff Jeff's point of
+[47:49] things should be getting cheaper over
+[47:51] time like all of the complexity that we
+[47:53] have to learn like if I'm orange pilling
+[47:55] somebody like all of this cial
+[47:57] complexity is really the work isn't in
+[48:00] saying hey uh which is you know things
+[48:04] should be getting cheaper over time we
+[48:05] should be getting better at
+[48:06] manufacturing things uh that's a simple
+[48:08] concept like we all understand that
+[48:10] intuitively that the challenge is in
+[48:12] having to explain how the system
+[48:15] currently is because it's it's
+[48:17] fraudulent and so we have to explain how
+[48:20] and why it's fraudulent you have to
+[48:22] rewire the brain expose the lie so that
+[48:25] people can go back to appreciating what
+[48:27] their their base assumption was in the
+[48:28] first place you know like I one of the
+[48:32] one of the things that I like to one of
+[48:34] the examples that I like to use for
+[48:36] people
+[48:37] um if they have a house if they have a
+[48:40] mortgage um and I say look okay your
+[48:43] house over the last whatever 10 years is
+[48:45] up
+[48:46] 50% can you sell that house in the same
+[48:50] neighborhood and buy a bigger house in
+[48:53] that neighborhood and of course the
+[48:55] answer is no and so I go are you
+[48:57] actually richer in in in that
+[49:01] context like no I guess not you know now
+[49:04] obviously that only holds up in like a
+[49:06] localized neighborhood you know if
+[49:07] you're moving somewhere else but but I
+[49:09] mean even like us real estate prices
+[49:11] they just in aggregate they just riding
+[49:13] this wave of money um and uh you know
+[49:17] that that tends to click with people
+[49:18] they go oh yeah I guess I can't buy a
+[49:20] bigger house so it's nominally it went
+[49:22] up real terms it went down and then they
+[49:25] can that's a good way to kind of get
+[49:26] into the nominal versus Real uh
+[49:29] discussion and debate but anyway I I
+[49:32] just it it doesn't have to be this
+[49:34] complicated the only reason it's
+[49:35] complicated is because the rules are
+[49:37] insane and you know we have to like
+[49:39] expose the insanity yeah it's also
+[49:42] interesting and people are like oh
+[49:43] Bitcoin is so complicated really explain
+[49:45] me the Fe explain me the feat system
+[49:48] please like I I still don't still don't
+[49:50] get what's what's going on there uh yeah
+[49:53] really interesting um another question
+[49:55] that came up to me when when when you
+[49:57] were talking about um violence um do you
+[50:01] think that Bitcoin has a chance to limit
+[50:03] or end Wars to to a certain extent I do
+[50:07] um I definitely do
+[50:11] um like I said I I
+[50:16] the I had this I had this realization at
+[50:19] one point you know and I'm free to feel
+[50:21] free to critique me on this or call me
+[50:24] an idiot or whatever but um you know you
+[50:27] look at a situation right now I mean
+[50:28] it's Global this the craziness is global
+[50:30] right now for sure but let's say let's
+[50:31] just look at the Middle East because
+[50:33] it's especially crazy
+[50:35] um you know in my opinion the natural
+[50:40] state of things is is um beautiful it's
+[50:45] peaceful it's
+[50:46] balanced um and when things are as
+[50:49] insane as they are particularly given
+[50:52] that the overwhelming majority of people
+[50:54] really don't want to pick up a gun and
+[50:55] shoot somebody like we really don't you
+[50:58] know like like we don't um I know
+[51:00] there's people who are cynical who think
+[51:02] that we're just sort of naturally
+[51:03] violent and whatever I I just
+[51:05] categorically disagree with that and so
+[51:08] if things are as crazy as they are it's
+[51:10] just it's antithetical to the Natural
+[51:14] order of things and so in my mind it it
+[51:16] just is very clear that when things are
+[51:18] that disorderly it's by choice someone
+[51:21] or something or some group of people is
+[51:24] intentionally creating chaos and people
+[51:27] against each other who would otherwise
+[51:28] have no interest in fighting each other
+[51:30] most people are just like I'll just go
+[51:32] this way and we'll cooperate and
+[51:34] whatever um we really don't want to get
+[51:36] down to shooting each other in the face
+[51:37] you know that's just not the natural
+[51:38] state of people so um I I do and I think
+[51:43] that when people have the freedom to
+[51:44] transact and the freedom to opt out of a
+[51:48] system that uh sort of forces them into
+[51:51] violence which is kind of how I feel
+[51:53] like a lot of this is going on um you
+[51:56] know I I I do think that the potential
+[51:59] is there that we're on the cusp of maybe
+[52:00] the greatest economic period in all of
+[52:04] human history um I I could be insane but
+[52:08] it it makes sense to
+[52:10] me it also makes sense for me the one
+[52:13] thing that still doesn't make sense for
+[52:15] me where I'm undecided is if we can get
+[52:19] to that future peacefully I I get when
+[52:22] once we have Bitcoin uh I think it will
+[52:25] be more peaceful I think there will be
+[52:27] still um sort like a form of War uh but
+[52:32] I think it will be extremely limited and
+[52:34] only Wars where the people actually want
+[52:37] to fight them right now we have that
+[52:38] weird thing where when the government
+[52:40] says we are at War all of a sudden even
+[52:42] if maybe just 10% of the population
+[52:44] actually wants War 100% of the
+[52:47] population is at War uh because they
+[52:49] have the money printer and they can just
+[52:51] like get the financial energy from it if
+[52:53] you all of a sudden have to raise taxes
+[52:55] for a war you have to explain it to
+[52:57] everyone and uh most likely most people
+[53:01] will disagree with that um if you at
+[53:05] that future I think that will be really
+[53:07] good for Wars and peace so like we will
+[53:09] have way more peace than than any wars
+[53:12] and if we have a war that's probably
+[53:14] some war that actually makes sense to a
+[53:16] certain group of people uh but I I have
+[53:19] a hard time understanding if if we even
+[53:21] have this but then there's human nature
+[53:23] also involved in that but the one thing
+[53:25] I have really hard uh hard time
+[53:27] understanding if we come to that point
+[53:30] from like now fear to then Bitcoin in a
+[53:32] peaceful manner because there are those
+[53:34] feed money printers that really want to
+[53:37] protect uh their uh good status of like
+[53:41] just having the money printer and with
+[53:43] Bitcoin they don't have a money printer
+[53:45] do do you think also that we could get
+[53:48] to us to that stage to transition phase
+[53:51] of of the hyperbitcoinization in a
+[53:53] peaceful manner it's it I think that I
+[53:56] think that's the question of the times I
+[53:58] really do uh I think that that's kind of
+[54:01] the only relevant question can we make
+[54:03] this transition peacefully I think that
+[54:05] it's possible do I think that it will
+[54:07] definitely happen peacefully I don't
+[54:08] know I would say
+[54:10] 5050 um you
+[54:13] know if
+[54:15] you the way I kind of look at it is uh
+[54:18] you know like cancer you know cancer is
+[54:21] is you know unregulated cell growth
+[54:24] right your body's not able to
+[54:27] um use its natural processes to to kind
+[54:30] of Slough off um toxic
+[54:35] cells
+[54:36] um you know I we could be going through
+[54:40] this this period where it's kind of this
+[54:43] one last gasp of um cancerous energy
+[54:48] that we have to contend with you know on
+[54:51] the one hand I think that in a lot of
+[54:53] ways that'll be good for Bitcoin you
+[54:55] know there's a lot of people who
+[54:57] don't understand the value proposition
+[55:00] of Bitcoin and I'm not sure that they
+[55:01] will understand it until things get
+[55:03] excruciating for them
+[55:06] um so I I guess what I'm trying to say
+[55:10] is that I I think it's possible that we
+[55:12] can't get there without some level of
+[55:14] violence but I at the same time I also
+[55:17] think that that level of violence will
+[55:19] be
+[55:21] instrumental and necessary to get us to
+[55:25] that next phase because you're going to
+[55:26] have to convince a whole lot of people
+[55:29] that there's an alternative that there's
+[55:30] an exit and it doesn't have to be
+[55:32] violence I mean to your point earlier
+[55:34] like for most people violence is the
+[55:37] absolute Last Choice uh that that you
+[55:41] could possibly make like I don't I do
+[55:43] not want to if there's a dispute I want
+[55:45] to try to resolve it in any way
+[55:47] conceivable uh unless it's absolutely
+[55:49] necessary that I turn violent um so I I
+[55:53] I don't in that situation like it it's
+[55:55] kind of ridiculous to say like that's
+[55:57] good for Bitcoin like it you know
+[55:58] violence isn't good but I think that it
+[56:01] could be the energetic thrust that you
+[56:05] know the cancer sort of eats itself the
+[56:07] host dies in this case you know kind of
+[56:09] metaphorically Society goes like okay
+[56:10] we're done with this for quite some time
+[56:13] and it really is the final Catalyst to
+[56:14] get us into this new world but I don't
+[56:17] think that that's I I'm just saying I
+[56:19] could see that I don't think that it's
+[56:21] fundamentally necessary for us to do to
+[56:23] get there um you know kind of maybe
+[56:25] taking the other side of that argument
+[56:27] is like if in my own perspective if
+[56:29] people don't want to commit violence and
+[56:32] there is this escape hatch um it's
+[56:34] possible that even just the threat and
+[56:36] the uncomfortable reality of violence
+[56:39] will force them there before they ever
+[56:40] turn violent and and maybe that uh
+[56:43] stymies it before you know anything
+[56:46] super Global pops off anyway um I I
+[56:49] don't know I don't have a strong opinion
+[56:51] about it I'm certainly not hoping for it
+[56:53] I'm certainly not rooting for it you
+[56:55] know in my my mind um I would like to
+[56:58] see a slow orderly transition into this
+[57:02] new world I I would rather see bitcoin's
+[57:04] price go up slowly and consistently you
+[57:08] know if it if it spikes to a million
+[57:09] bucks in the next three years like I
+[57:11] think that that's an indication like we
+[57:12] have serious problems um and I'm not I'm
+[57:16] not going to be rooting for that um you
+[57:19] know I I I would rather it be slow and
+[57:23] steady and peaceful one other aspect
+[57:24] that I want to get into this
+[57:26] conversation um is the the digital War
+[57:30] that's going on that I participate in we
+[57:34] have the the the the information uh
+[57:38] cyber war that is going on between
+[57:41] different Financial religions in in a
+[57:44] sense where I uh I fight for Bitcoin
+[57:49] online every day and try to like get
+[57:51] across the message of sound money and
+[57:53] and Bitcoin uh with the podcast with
+[57:55] Twitter on Primal I mean on Primal
+[57:58] probably most people on no most people
+[58:01] are
+[58:01] already kind of bitcoiners but uh that
+[58:06] that's a a war aspect that not a lot of
+[58:09] people see as a war maybe war is not the
+[58:12] the best uh word also for that but it's
+[58:15] it's kind of like you have those digital
+[58:18] uh soldiers that fight and and
+[58:19] information War because there's so much
+[58:22] information out there and you can get
+[58:25] down uh a complete fear route and there
+[58:28] are a lot of uh let's call the word
+[58:30] content creators out there the
+[58:32] influencers however you want to call
+[58:34] that they actually are completely in
+[58:36] that fat world and they promote that
+[58:37] field world oh buy an ETF you you do
+[58:41] that you get there and yield and you do
+[58:43] that so that's a whole another world but
+[58:47] I don't like I I I'm on the other side
+[58:49] like hey buy buying hold Bitcoin uh and
+[58:53] it's it's it's kind of a a different War
+[58:56] where we we fight digital about
+[58:59] attention and I guess every subscriber
+[59:01] every like every comment every
+[59:04] engagement thing that you get more on
+[59:06] the Bitcoin side is is kind of win for
+[59:08] for for Bitcoin uh it's it's an
+[59:10] interesting um I never really thought
+[59:12] about it in that way but when you were
+[59:14] explaining it I was like oh in in some
+[59:17] sort I'm in in a digital War uh fighting
+[59:20] for
+[59:20] Bitcoin not not very brutally like like
+[59:24] I I I respect everyone and we we don't
+[59:27] Point guns at each other there are like
+[59:30] debates even where we sit next to each
+[59:32] other and and we we we don't even touch
+[59:35] each other like we don't even fight each
+[59:37] other any anyway physically uh but
+[59:40] there's probably maybe that's that maybe
+[59:43] that's the way how how Bitcoin will get
+[59:45] adopted not with a physical violence but
+[59:48] with like uh information
+[59:50] vience in in a sense at least that what
+[59:53] would I that's a word that I would get
+[59:55] behind like digital information
+[59:58] War I dude 100% uh we're in it man
+[60:01] there's no question about that you know
+[60:04] um I think that
+[60:08] um you know kind of back to my early
+[60:11] early point about creativity you know
+[60:13] and human beings have this really
+[60:14] interesting ability to like manifest you
+[60:16] know the way I see things is like we
+[60:18] have two we have two Realms we have I
+[60:20] call it the acostic realm that's like a
+[60:21] bad word for it but you got the realm of
+[60:22] information and you've got the realm of
+[60:24] physics um side note this is one of the
+[60:27] things that's so [ __ ] mind-blowing
+[60:30] about Bitcoin is that it's fusing these
+[60:32] Realms it's fusing the information realm
+[60:34] with the Physical Realm I mean once you
+[60:36] connect the dots on that it's like it's
+[60:38] just absolutely
+[60:39] mindblowing um but I do
+[60:43] see a lot of times when I I'm thinking
+[60:46] about what's going on in the world I do
+[60:48] see it as um uh we human beings are the
+[60:53] physical manifestation of the war of
+[60:56] ideas of the war of information that's
+[60:57] kind of floating around um and we're
+[61:00] we're expressing in the Physical Realm
+[61:03] um what was manifested from the the
+[61:06] akashic realm or the the the realm of
+[61:09] information and ideas um so I I totally
+[61:12] agree with that I think that we're
+[61:13] absolutely in it um and that's fine like
+[61:15] that's that's where human beings should
+[61:17] stay we we have the ability to Hash
+[61:19] things out uh without having to resort
+[61:22] to physical violence um through things
+[61:24] like debate you know the this this mind
+[61:26] virus idea like that is Bitcoin and
+[61:28] there's mind viruses that are you know
+[61:30] more destructive and
+[61:32] negative um but you know I I think that
+[61:36] you
+[61:37] can't you can't save everybody from
+[61:40] themselves uh some people really really
+[61:43] really need to know beyond a shadow of a
+[61:46] doubt that the stove is super hot you
+[61:48] know like you can't you can tell them
+[61:50] all day long you could show somebody
+[61:51] getting burned like it's not going to
+[61:54] matter they have to know
+[61:56] beyond a shadow of a doubt that the
+[61:58] stove is hot and so I think in in those
+[62:00] situations as bitcoiners the best we can
+[62:03] do is just patiently be a beacon of
+[62:06] light you know in in A Realm of Darkness
+[62:09] and at some
+[62:10] point if someone has the capability or
+[62:13] the willingness uh to to open their eyes
+[62:16] and recognize that there is light in
+[62:19] this Cave of darkness and they go
+[62:21] towards that light we just have to make
+[62:23] sure that we represent that light as
+[62:25] best as possible possible um you know uh
+[62:30] welcoming uh kind
+[62:32] loving
+[62:34] um you know responsible people which I
+[62:37] think is generally like the overwhelming
+[62:39] some of the overwhelming characteristics
+[62:40] of bitcoiners they're they're generally
+[62:42] not cynical they're generally hopeful
+[62:44] they're generally creative they're
+[62:45] generally um this just great they're
+[62:48] just great people so uh I guess what I'm
+[62:50] trying to say is that you know to to try
+[62:53] to win that war the best we can do is
+[62:56] represent in the Physical Realm uh what
+[62:59] that idea the best version of what that
+[63:01] idea could look like and be like if that
+[63:03] makes sense that absolutely makes sense
+[63:06] I love also how you put it um as we
+[63:09] already over one hour that that flew by
+[63:12] really quickly um I have a few question
+[63:14] that I really want to get into because
+[63:15] you're from movie making um what are
+[63:18] your favorite Bitcoin movies which
+[63:21] aren't Bitcoin movies oh man uh hot
+[63:26] um you know first of all I got plenty of
+[63:29] time so if we got to keep going no rush
+[63:33] um um there are there are a number of us
+[63:37] uh
+[63:39] filmmakers the Bitcoin filmmaker
+[63:42] crossover group um who are generally
+[63:46] very dissatisfied with uh the Bitcoin
+[63:50] cinema world right now um you know a lot
+[63:52] of the the the Bitcoin movies are
+[63:55] they're just very factual uh you know
+[63:57] they they just kind of get
+[64:00] into uh these sort of myopic debates
+[64:04] about the nature of money and things
+[64:06] like that and that's great like that's
+[64:08] that's fantastic but um most
+[64:12] people's portal
+[64:15] into um having some Revelation about
+[64:18] something like this is going to be
+[64:20] through um like superlative human
+[64:23] experiences right there the stories that
+[64:24] we tell over and over and over again and
+[64:26] the way that we get into these stories
+[64:28] and we we we have empathy for characters
+[64:33] that are going through a human
+[64:35] experience and uh you know all of that's
+[64:39] to say that I think that I think that
+[64:41] here in the future we're going to see a
+[64:43] lot more movies that have these themes
+[64:44] in them but put Bitcoin as like a
+[64:46] secondary or tertiary sort of subplot um
+[64:49] they need to be great movies first that
+[64:52] are you know Universal um and
+[64:55] well-crafted
+[64:56] and Bitcoin needs to be something that
+[64:58] uh people sort of come to you know
+[65:00] accidentally I mean it when you're
+[65:02] making a movie uh the people who do it
+[65:06] the best you know it's a it's a highly
+[65:08] sophisticated emotional manipulation
+[65:10] machine you know like when you're making
+[65:13] a movie you're you're you're aiming for
+[65:15] certain beats you're looking for certain
+[65:16] reactions you're you're crafting a
+[65:18] particular emotional experience I mean
+[65:19] that's your job and uh the people who do
+[65:24] it the best are the ones that get an
+[65:26] audience to come to those to to feel
+[65:28] like they're coming to those conclusions
+[65:30] on their own rather than those ideas
+[65:32] being shoved down their throat um and so
+[65:35] I think right now we're in this like
+[65:36] very early phase of Bitcoin where it's
+[65:38] just like a lot of a lot of factoids and
+[65:41] information just sort of being shoved
+[65:42] down people's throats but we haven't yet
+[65:44] really hit uh like a worldclass
+[65:48] Storyteller um you know using those
+[65:51] themes so I guess the answer is I don't
+[65:52] have one yet um we're kind of waiting
+[65:56] you know hopefully I can be involved in
+[65:57] some of those when they pop down the
+[65:59] line um you know I it's sort of a copout
+[66:04] answer I think also like some of the you
+[66:06] know some of the great works of all time
+[66:08] whether it's music or movies or fine art
+[66:10] or whatever um that seek truth above all
+[66:16] else you
+[66:17] know that's a bitcoiner movie you know
+[66:20] what I mean like like I am going
+[66:24] to put my out in order to try to to seek
+[66:27] a deeper truth or present a deeper truth
+[66:31] um and
+[66:32] so you know I I guess I guess what I'm
+[66:35] saying in part of what I'm doing at
+[66:36] Indie Hub is that if we can if we can
+[66:40] reorient that relationship between
+[66:42] filmmaker and audience member um we're
+[66:45] going to see a lot more movies that feel
+[66:48] like Bitcoin esque but really that's
+[66:51] just that's just a function of artists
+[66:53] being able to get rewarded and take risk
+[66:55] and and and do their jobs in other words
+[66:57] movies will get better over time they'll
+[67:00] get more Universal they'll get more
+[67:01] human um you know we've the the industry
+[67:04] has has gone off on this like Fiat
+[67:06] tangent over the last you know 10 or 15
+[67:08] years and it feels more like propaganda
+[67:11] than art you know what I mean I
+[67:13] absolutely do it's interesting for me
+[67:15] also as you said Bitcoin movies that
+[67:18] that are really Bitcoin movies like uh I
+[67:22] think about the Matrix Truman Show The
+[67:24] Big Short in time there are a lot of uh
+[67:28] really great movies if if you watch them
+[67:31] and you are a bitcoiner you're like oh I
+[67:33] can relate a lot to to bitcoin there I
+[67:35] mean especially Matrix I mean Matrix is
+[67:37] probably the the number one movie that
+[67:40] is always uh brought up but I I do
+[67:43] actually think also like I there's not
+[67:45] that one actual Bitcoin movie where I'm
+[67:49] like yeah that's that's a great great
+[67:51] movie there are a lot of documentaries
+[67:53] there a lot of those kind of things
+[67:55] they're great but they're not a
+[67:57] movie they they as you said they are
+[68:00] factual they're not emotional like you
+[68:02] really want to feel you want to watch a
+[68:04] movie you want to feel that emotional
+[68:07] connection to to the characters uh to
+[68:10] the story and it really uh it should be
+[68:14] a movie that a non bitcoiner is watching
+[68:18] and also rooting for Bitcoin in that
+[68:21] process it's probably a really hard
+[68:23] thing to do and maybe we need one
+[68:26] gigantic event in Bitcoin that hasn't
+[68:30] happened yet where uh you then can wrap
+[68:34] a story around that event and get some
+[68:36] Bitcoin before that I I don't maybe know
+[68:39] maybe that just didn't happen till now
+[68:42] um I don't know I don't know if it's a
+[68:45] positive or negative uh Story Probably
+[68:48] negative like yeah would would would be
+[68:51] interesting what what that story uh
+[68:52] could be uh what what that could
+[68:54] actually what that event could trigger
+[68:57] such a big movie where Al like a big
+[69:00] creators and storytellers would then
+[69:02] also get behind and make that movie will
+[69:04] be interesting to see but I definitely
+[69:06] also wait for one like I am eager to to
+[69:09] see an real Bitcoin movie that has um
+[69:13] that class of like a matrix Movie that
+[69:15] that that movie is amazing it's
+[69:17] interesting when I watch The Matrix
+[69:19] movie I cannot really watch it I get so
+[69:21] motivated to work on something like in
+[69:23] the middle of the movie it's it's it's
+[69:25] it's really hard for me to watch that
+[69:26] movie without getting motivated yeah I I
+[69:29] yeah I totally agree I I'll I'll I'll
+[69:32] I'll append my answer to yes the Matrix
+[69:34] I mean I really that movie just holds up
+[69:37] man it's so well done um it's so good um
+[69:44] you know I think that you
+[69:47] know there's a lot of
+[69:50] um I shouldn't I I don't say a lot I I I
+[69:53] come across like kind of an unspoken
+[69:55] assumption a lot of times in the Bitcoin
+[69:57] space that like 15 years is a long time
+[70:00] or 16 years is a long time like it is
+[70:02] not like we are we are in the you know
+[70:04] this is like a toddler um we are so
+[70:07] early in the lifespan of this um and in
+[70:11] the
+[70:12] cultural like kind of the cultural
+[70:14] Echoes of the
+[70:15] technology uh you know like this is a
+[70:19] really weird analogy but like when cell
+[70:21] phones started to become super
+[70:23] ubiquitous there was a whole period of
+[70:26] time where filmmakers really struggled
+[70:28] with how to technically integrate a cell
+[70:31] phone into a story like how do we okay
+[70:34] they would text here and then we'd all
+[70:35] be like well how do we shoot the phone
+[70:37] and like or do we just do it digitally
+[70:39] on screen and like if you go back to
+[70:41] this transition to this period you'll
+[70:42] see all these all these crazy ways that
+[70:44] people tried to integrate that
+[70:46] technology I mean this literally took
+[70:48] years you know this is just a phone so
+[70:51] um I I think that you know I haven't
+[70:53] thought about it this deep until this
+[70:55] conversation but I I happen to think
+[70:57] that now I'll put I'll put my bet out in
+[70:59] this way I think that as the world is
+[71:04] descending into
+[71:06] chaos through that chaos will be
+[71:10] some some Timeless classic movies will
+[71:15] come out of this um because you have
+[71:18] turmoil and you have tension and you
+[71:20] have all of these things that reveal
+[71:22] character reveal the trajectory of
+[71:24] humanity through stri and
+[71:26] conflict I think that the I think that
+[71:29] the what who will be the big artists of
+[71:32] the next 15 or 20 or 30 years are just
+[71:35] being born and I don't mean that
+[71:37] literally I mean that just like
+[71:38] artistically and technologically um so I
+[71:41] think that some of the movies that get
+[71:43] made about this time uh that are able to
+[71:46] integrate Bitcoin just as a technology
+[71:49] as house a main character used it to
+[71:51] escape uh a war zone or oppression or
+[71:55] human trafficking or whatever like
+[71:57] whatever the use case is somebody's
+[71:59] going to um really make a movie that
+[72:02] everyone agrees is kind of the gold
+[72:05] standard for representing that period of
+[72:08] existence um and I think that that I
+[72:10] think that those will be the ones that
+[72:12] start to you know become the good the
+[72:14] best Bitcoin movies thematically um I I
+[72:18] so I think that we're at the very
+[72:19] beginning of this and I think that the
+[72:21] next 15 years are going to be um
+[72:23] absolutely massive and unec eded for
+[72:25] that type of work to be uh created I
+[72:29] 100%
+[72:31] agree it's it's a great endpoint of the
+[72:34] podcast but I really love to I would
+[72:36] love to see amazing Bitcoin podcast with
+[72:40] amazing Bitcoin movie in the next like
+[72:41] five years I I would love just like this
+[72:44] this two and a half hour long Thriller
+[72:47] that actually friends that are not in
+[72:50] Bitcoin are actually excited to see and
+[72:52] there's like some really big stars in
+[72:54] there and like
+[72:55] some some like r a big movie that would
+[72:58] be really uh something amazing but we
+[73:01] probably need a lot of price action in
+[73:03] Bitcoin and some term as you said in the
+[73:07] financial system but I could I could see
+[73:09] it yeah um what yeah what I think I
+[73:12] think it you know I think it'll happen
+[73:14] uh selfishly I hope to be instrumental
+[73:16] in that I hope Indie Hub is instrumental
+[73:17] in that um there are definitely some uh
+[73:22] huge bitcoiners in the entertainment
+[73:24] industry
+[73:26] um most of them are quiet about it they
+[73:28] don't really want to be known about it
+[73:30] or associated with it yet there will be
+[73:32] a time where they can monetize their
+[73:36] films and their projects where they're
+[73:37] not under the thumb of a publicly traded
+[73:39] company or network um and they'll be
+[73:42] able to take that risk and earn that
+[73:43] outsized reward I hope that Indie Hub
+[73:45] can play a huge role in that um but all
+[73:49] of that's to say that the energy is
+[73:52] there the talent is there for sure um I
+[73:55] think it's really just a matter of how
+[73:57] do we get them uh to be able to make
+[74:01] money on a movie like that uh that's got
+[74:03] a budget of you know tens of millions at
+[74:06] least um and and without having to deal
+[74:10] with Studio Executives that uh you know
+[74:14] have no interest in telling a Bitcoin
+[74:16] story I I think that we're I think that
+[74:18] we're on the verge of that I I would I
+[74:20] would imagine it starts to happen here
+[74:22] in Fairly shorter hopefully less than
+[74:24] five years would love to see it really
+[74:26] cool um perfect then uh what one
+[74:29] question that I always ask my guest is
+[74:31] what can we learn from you besides
+[74:33] Bitcoin and I add for you uh besides
+[74:37] film making oh man oh
+[74:40] man um I I don't know I hope I hope that
+[74:46] um I hope that some of the stuff I said
+[74:49] was was able to offer some you know a an
+[74:52] interesting or fresh perspective on some
+[74:54] of this I know that I know that the
+[74:56] Bitcoin podcast we tend to just cycle
+[74:58] through the same commentary over and
+[75:01] over again but I hope that I hope that
+[75:03] that I was able to offer a little
+[75:04] something here just sort of organically
+[75:06] um
+[75:09] inorganically uh man I I would I don't
+[75:13] know I would just point to my own story
+[75:14] I guess
+[75:16] um you know I I started out my life
+[75:20] probably a lot more cynical than I am
+[75:23] now I wasn't like full-blown hardcore
+[75:26] I've never been a hardcore cynic or
+[75:27] anything like that um but I guess it
+[75:31] would be that you know there is a
+[75:33] tremendous amount of reasons to
+[75:36] be um hopeful and positive and creative
+[75:40] and
+[75:41] constructive um it's a scary time things
+[75:45] are very disorderly and becoming more
+[75:47] disorderly by the day um but I I think
+[75:52] that that's a necessary component to
+[75:54] this whole
+[75:55] um to this whole process I I had this
+[75:59] realization um a little while
+[76:02] ago about
+[76:04] darkness and it was the realization was
+[76:07] like if if darkness is rolling through
+[76:12] town um it's probably not there for you
+[76:16] like you can just get the [ __ ] out of
+[76:18] the way like you can just continue to go
+[76:20] build and be loving and kind and
+[76:22] creative like you don't you don't need
+[76:24] to
+[76:25] um try to fight something that may not
+[76:30] actually be looking for you um you know
+[76:33] that darkness and destruction um I'll
+[76:37] put it this way like there is nothing
+[76:39] that is more powerful than the frequency
+[76:41] of creation itself full
+[76:44] stop even Darkness knows who writes its
+[76:47] check like there's one Authority and
+[76:50] that is creation there's nothing more
+[76:52] powerful than that and destruction
+[76:55] serves
+[76:57] creation um it always has it always will
+[77:00] um so if if it's not there for you thank
+[77:04] it have gratitude for it because it's
+[77:06] there to make the world a better place
+[77:08] in the long run the transition is not
+[77:11] going to be comfortable for a lot of
+[77:13] people but that doesn't mean that you
+[77:15] have to be directly in the middle of
+[77:17] whatever that fight is maybe you do um
+[77:20] but I think that generally speaking you
+[77:23] know in aggregate we don't um and
+[77:26] there's never a reason to stop being um
+[77:30] constructive and loving and creative and
+[77:32] kind and compassionate and and strong
+[77:35] you know it requires a tremendous amount
+[77:36] of Courage um to to withstand something
+[77:40] like that and continue to keep your eye
+[77:42] on the light um you know the the the the
+[77:47] thought of meekness I think Jordan
+[77:50] Peterson sort of made this famous um
+[77:52] Meek not meaning you know like man like
+[77:55] I'm super weak you know like it meaning
+[77:57] that you know how to people who know how
+[77:59] to use their weapons but decide to
+[78:01] sheath them something like that um or
+[78:05] the concept of like you can't be
+[78:07] peaceful if you're not capable of great
+[78:09] destruction uh they're two sides of the
+[78:12] same coin
+[78:14] um so I don't know I hope there's just a
+[78:17] message of uh a little bit of Hope there
+[78:20] that was at least my own personal
+[78:21] realization you know that that Darkness
+[78:24] works for
+[78:25] Darkness knows who it works for it's not
+[78:27] it's not the end of things it is it
+[78:30] pales in comparison to the frequency of
+[78:32] creation itself the frequency from which
+[78:34] All Things become how could you possibly
+[78:36] be more powerful than that um and the
+[78:39] trajectory is is overall positive yeah
+[78:41] especially that that with Jordan
+[78:43] Peterson is uh is is such an eye
+[78:46] openening thing as as he puts it uh I
+[78:48] think he puts it as like um if you are
+[78:51] not uh strong and dangerous
+[78:55] uh but still uh loving caring and and
+[78:58] just like not dangerous to the society
+[79:01] you're not really disciplined like if if
+[79:05] you if you could not um if you're not
+[79:08] having a really powerful weapon as as
+[79:11] like your body or whatever uh uh like
+[79:14] how do I put it he puts it way better
+[79:16] than me of course uh but it's like
+[79:19] having a a weapon and being able to
+[79:21] shoot someone and not doing it because
+[79:23] of discipline that's disciplined but not
+[79:26] having that weapon and not shooting
+[79:27] someone is not disciplined because you
+[79:29] don't even have the Capac capacity of of
+[79:32] shooting someone I guess that's that's
+[79:33] that's a point that you wanted to make
+[79:35] and I love that uh the the comparison of
+[79:39] of what Peterson is saying uh a lot I
+[79:43] think it's it makes a lot of sense and I
+[79:47] don't know how he how he he phrases it
+[79:49] but it's also like become dangerous but
+[79:51] be disciplined with it so something like
+[79:53] that he message and I think it's it's
+[79:56] very um it's a nice it's a really great
+[79:59] message to make I love it a lot really
+[80:01] cool yeah like I mean just kind of I
+[80:04] don't know trying to synthesize what I
+[80:05] said down even further is like all you
+[80:07] have to do is choose the team like just
+[80:09] choose the team of creation don't choose
+[80:12] the team of Destruction and you're on
+[80:14] the winning team like you're on the
+[80:15] winning team like it's
+[80:18] undefeated like it you know obviously
+[80:21] there are periods of human history that
+[80:22] are horrific and I'm not trying to
+[80:23] downplay that at all
+[80:25] um but in aggregate in the long run uh
+[80:28] you kind of have one choice to make and
+[80:29] I think that's the choice and if you can
+[80:31] make that choice just have faith and
+[80:33] trust that you're on the right team and
+[80:34] you're going to win like we are going to
+[80:36] win there's no question in my mind about
+[80:38] that absolutely very cool uh with that
+[80:41] let's come to the end routine of the
+[80:42] podcast where the previous guest is
+[80:44] asking a question for the next guest
+[80:46] without knowing who the next guest
+[80:47] actually is uh your previous guest uh
+[80:50] asked a question when do you foresee
+[80:53] hyperbitcoinization
+[80:55] happening that's a cool uh I've never
+[80:57] heard anybody do that that's a pretty
+[80:59] cool little structure there um when do I
+[81:02] see okay I guess we'd have to Define
+[81:03] hyperbitcoinization in that in that
+[81:05] context so how would we what's your
+[81:08] definition of that that's that's a deep
+[81:12] question but but I would just like to
+[81:14] make it easy I would say that Bitcoin is
+[81:19] as a unit of account as a medium
+[81:21] exchange and as a store of value uh used
+[81:24] more than 50% all over the world in all
+[81:27] of those free categories so like it's
+[81:30] it's uh it's the most dominant store of
+[81:32] value most dominant unit of accountant
+[81:34] most dominant media of exchange uh all
+[81:37] across the world but they are still uh
+[81:40] out of forms of currencies uh because
+[81:44] that that's kind of for me have a
+[81:46] Bitcoin isation if if it if it comes
+[81:49] even to the point where there's only
+[81:51] Bitcoin like Bitcoin is not dominant in
+[81:53] all those categories but it's the only
+[81:55] thing we we only measure everything in
+[81:58] our world in in Bitcoin and we measure
+[82:01] everything uh and we only transact in in
+[82:04] Bitcoin I think that's pretty
+[82:06] far H and it's it's it's better to
+[82:09] measure like that like when do we come
+[82:11] to a when when does Bitcoin become
+[82:13] dominant and that that's I think
+[82:15] probably the beginning of
+[82:16] hyperbitcoinization
+[82:17] man um you know you know what comes in
+[82:21] mind here I'm going to like stretch this
+[82:23] out and then try to answer it you know I
+[82:25] I haven't I've never thought of it this
+[82:26] way but maybe maybe there's an argument
+[82:28] to be made um a definition of
+[82:31] hyperbitcoinization is when Bitcoin has
+[82:34] overtaken sovereign
+[82:36] debt as a as a global savings account
+[82:41] such that there's no outsized Authority
+[82:44] by any particular Sovereign to control
+[82:46] the price of money you know I I I
+[82:49] certainly
+[82:50] see Fiat currencies being around there's
+[82:53] a lot of reasons for to exist um whether
+[82:56] you agree with it or not um so I don't
+[83:00] know let's maybe that number is um maybe
+[83:03] that number is 200 or 300
+[83:06] trillion um something like that I I
+[83:10] don't I don't see that happening for I I
+[83:13] would say 35 45 maybe 50 years um I I
+[83:19] think
+[83:20] that I I look at it also um in terms of
+[83:23] generation
+[83:25] you know so another way to frame it is
+[83:26] like how many how many new groups of
+[83:28] human beings need to be
+[83:30] born um with Bitcoin as an
+[83:35] assumed um part of life kind of the way
+[83:38] the dollar is we're born into the money
+[83:40] we have you know and so in that case 50
+[83:43] years that's two generations like that
+[83:44] that that compresses that time frame a
+[83:46] lot like that generationally speaking
+[83:48] that doesn't seem like a lot um to me so
+[83:51] I I would say let's call it 50 years
+[83:55] [Music]
+[83:56] seems Seems realistic yeah um I will be
+[83:59] in Bitcoin Amsterdam actually when this
+[84:01] comes out I already was in Bitcoin
+[84:03] Amsterdam uh and there we will speak
+[84:06] about the vision for 2050 so in 26 years
+[84:09] and it's already very hard to to Define
+[84:11] like what's happening 26 years because
+[84:13] when you think about it it's hard to
+[84:16] think about next year and we usually
+[84:18] overestimate what we can do in one year
+[84:19] and we underestimate what we can do in
+[84:21] 10 years but it's completely uh
+[84:24] mindblowing what can happen in 26 years
+[84:27] like we can go uh down like a really
+[84:30] hyper biton World already in in that
+[84:33] time frame because a lot can happen in
+[84:35] that time frame but yeah it's it's
+[84:36] really interesting and and and uh nice
+[84:40] and fun to to talk about that uh in the
+[84:43] end of the day it's it's it's hard to to
+[84:45] Really pinpoint something uh but I think
+[84:48] if we all kind of speculate and and we
+[84:50] take the directional thing of that uh we
+[84:53] we might be
+[84:55] at least directionally uh correct in in
+[84:58] a sense yeah really cool yeah thank you
+[85:01] so much uh sack for for being on the
+[85:03] show thank you so much for taking the
+[85:04] time before I let you go where can
+[85:06] people find you ask questions and and
+[85:08] hear more about you uh all right so uh
+[85:11] I'm personally on Noster uh my nippo
+[85:14] five is uh and I didn't realize he could
+[85:16] do this until recently I was like duh
+[85:18] but um instead of having to share the
+[85:20] crazy uh you know Pub key or whatever
+[85:25] um uh Zack indyhub nde Hub doxyz uh Zack
+[85:32] indihub doxyz that's my Noster address
+[85:36] um uh Indie Hub is on Twitter at indihub
+[85:39] again I nde
+[85:41] hu um websites Indie hub. studio um you
+[85:46] can go there check it out um and uh yeah
+[85:50] man I think uh I think that's it was
+[85:52] that was that all the last questions
+[85:55] cool absolutely yeah thank you so much
+[85:57] no this was a blast
+[85:59] man the I'm glad uh glad you enjoyed it
+[86:03] uh yeah then thank you so much for your
+[86:04] time thank you so much also for everyone
+[86:06] that is watching and listening uh and
+[86:08] and joining us today as always I'll be
+[86:11] back tomorrow with another episode
+[86:12] byebye see you
+[86:15] [Music]

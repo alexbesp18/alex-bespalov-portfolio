@@ -1,0 +1,1571 @@
+Title: Is Bitcoin Self-Custody Your Life Insurance? with Rob Hamilton
+Video ID: 5RxsL1HWoKA
+URL: https://www.youtube.com/watch?v=5RxsL1HWoKA
+Date Saved: 2025-06-15 11:40:54
+--------------------------------------------------
+
+[00:00] how if we are looking to ensure the
+[00:02] Bitcoin how can we make it more robust
+[00:05] to loss damages theft any other asset
+[00:09] you know Fine Art gold Collectibles
+[00:11] anything else would have an insurance
+[00:12] market and the idea ultimately with
+[00:14] insurance is that you come to an
+[00:15] agreement with someone and that in the
+[00:17] event something goes wrong they'll be
+[00:18] able to step in and adify you this was
+[00:21] much more directly akin to a bar of gold
+[00:23] I have a coin it has information on it
+[00:25] it needs to be safe and not kept not
+[00:27] destroyed so you're kind of like locking
+[00:29] it away in a traditional of all right
+[00:30] cuz you're still dealing with like a
+[00:31] physical token we leverage um multi sigs
+[00:34] of multi sigs so actually for the length
+[00:36] of your insurance contract anchor watch
+[00:38] is a required co-signer it's an
+[00:40] interesting concept too cuz at no point
+[00:42] ever can the money be moved by anchor
+[00:44] watch by ourselves basically any
+[00:47] individual who self- custody what
+[00:49] they're doing is called self-insuring
+[00:51] and all that means is that you bear all
+[00:54] the
+[00:54] [Music]
+[00:58] risk we can the start into with with
+[01:01] Bitcoin insurances a little bit because
+[01:03] that I think that's a topic that is
+[01:04] rarely discussed on any top on any
+[01:07] podcast it's also something that's
+[01:08] that's pretty new uh so that's what
+[01:11] you're currently focused on with with
+[01:13] anchor watch and and yourself as I
+[01:15] understood it yeah absolutely yeah so uh
+[01:19] the base premise I me anchor watch is
+[01:20] coming up on three years old the initial
+[01:22] premise was ultimately the way Bitcoin
+[01:25] is kind of managed today um you think
+[01:28] about it in the sense of risk man
+[01:29] management you have uh and that it
+[01:33] relates with insurance the way Bitcoin
+[01:35] really works today is if you're an
+[01:37] individual basically any individual who
+[01:41] self- custody what they're doing is
+[01:42] called self-insuring and all that means
+[01:44] is that you bear all the risk if
+[01:47] something goes wrong there's no refunds
+[01:48] in Bitcoin if something gets mismanaged
+[01:50] you lose your Bitcoin right and
+[01:53] bitcoin's had a long history of this
+[01:57] practice and it takes in different forms
+[01:58] right because at first maybe it was uh
+[02:02] use a a computer that's offline or save
+[02:04] multiple backups right just have
+[02:06] multiple backups of your keys in case
+[02:07] something goes wrong you don't want a
+[02:08] single point of failure uh the next
+[02:10] probably like step would be um having
+[02:13] all of your keys never touching the
+[02:15] internet however you execute that
+[02:17] whether it's a computer that's offline
+[02:18] or a hardware wallet right thinking
+[02:20] about it that way and then you start
+[02:21] thinking about ways of Distributing risk
+[02:24] of uh a multi- signature right you have
+[02:26] a single signature you go to a multi
+[02:28] signature your further kind of
+[02:31] unbundling single points of failure and
+[02:34] maybe you use different Hardware wallets
+[02:36] for each key right so now you're kind of
+[02:38] Distributing risk across all of these
+[02:39] different um technical Stacks that kind
+[02:41] of do the handling of transaction data
+[02:43] the keys and the you know the signing of
+[02:46] transactions all of this is in the
+[02:47] bucket of risk mitigation and risk
+[02:50] distribution uh the one in the umbrella
+[02:53] of risk management the one thing that's
+[02:54] been really missing up to this point is
+[02:55] risk transference which is insurance and
+[02:58] with that looking at the larger
+[03:00] ecosystem if you look at the larger
+[03:02] custodians and exchanges the ETFs and
+[03:04] everything there is a massively
+[03:07] underserved Market where coinbase has
+[03:09] hundreds of billions of dollars of
+[03:10] assets under management and they maybe
+[03:12] have a $300 million insurance policy
+[03:15] right so thinking about it from a market
+[03:16] opportunity standpoint it's something
+[03:18] that has not really been uh fleshed out
+[03:21] yet in the maturation of Bitcoin as a
+[03:23] financial asset I think as Bitcoin
+[03:25] continues to grow our thesis and I think
+[03:28] this is just manifestly going to be true
+[03:30] is that there's going to be a more
+[03:31] robust Insurance Market that begins to
+[03:32] develop around it right um any other
+[03:35] asset you know Fine Art gold
+[03:37] Collectibles anything else would have an
+[03:38] insurance market and the idea ultimately
+[03:40] with insurance is that you come to an
+[03:43] agreement with someone and that in the
+[03:44] event something goes wrong uh they'll be
+[03:47] able to step in and indemnify you right
+[03:49] um repair you for the damages right uh
+[03:51] today our policy is settled in US
+[03:53] Dollars we can get into a long
+[03:54] conversation about that but the this
+[03:57] presented a unique opportunity for us
+[03:58] thinking about
+[04:00] how if we are looking to ensure the
+[04:02] Bitcoin how can we make it more robust
+[04:05] to loss damages theft right ways that
+[04:09] you could possibly lose the Bitcoin
+[04:11] because you have an arrangement with an
+[04:13] insurer where you're all risk aligned
+[04:16] every no one's looking for a loss right
+[04:18] if everyone's an honest actor everyone
+[04:19] wants everyone to be happy and the coins
+[04:21] to be kept safe and secure so this is
+[04:23] where we went to the other side of
+[04:26] attacking the problem not just from a
+[04:27] financial contract of insurance but
+[04:29] thinking about technically how can we
+[04:31] improve how Bitcoin is custodi on layer
+[04:33] one today to be able to offer that risk
+[04:35] distribution and kind of like fail safes
+[04:36] and guarantees uh as much as the tech
+[04:39] can enable right uh of how to actually
+[04:42] execute this and that kind of goes into
+[04:43] what we've built with the Trident Vault
+[04:45] and leveraging miniscript and doing more
+[04:47] advanced Bitcoin native smart contracts
+[04:49] uh which pair nicely with insurance and
+[04:51] I I'll leave it there because I think
+[04:52] there's a lot of places we can take the
+[04:54] conversation whether it's on the
+[04:55] insurance side or on the tech side yeah
+[04:57] there's a lot I mean uh
+[05:00] you have been long in Bitcoin As I
+[05:01] understood it from from previous podcast
+[05:04] uh so you have probably lived through a
+[05:05] lot of Innovations and cycles of like
+[05:07] how to cust the Bitcoin and and the mxes
+[05:10] the exchanges the the things that go
+[05:12] bust uh even in the last uh like four
+[05:15] and a half five years where I was in the
+[05:17] space A lot has happened um and it's so
+[05:20] so interesting that the insurance is not
+[05:23] as I understood it this is something
+[05:25] completely new like insurance is
+[05:27] basically like this last year developing
+[05:30] what I heard from from Chris like that
+[05:32] that's something that that is just now
+[05:34] developing right yeah absolutely so
+[05:36] insurance has existed for some time um
+[05:39] actually someone recently linked me when
+[05:42] Andreas Antonopoulos went on Joe Rogan
+[05:44] in
+[05:45] 2014 um I forget the Red Band the guy
+[05:49] who uh was on with uh Joe that was
+[05:51] interviewing Andreas and they're talk
+[05:54] and the guy ask like hey can you like
+[05:56] Ure Bitcoin and sure enough um if you
+[06:00] remember so I got into Bitcoin in 2013
+[06:02] and end of 2013 if you know like the
+[06:03] cash Asis coins in 2014 Lloyds of London
+[06:07] was offering Insurance on those cash
+[06:08] ases coins and Andreas talks about it in
+[06:11] that podcast but right think about this
+[06:13] mentally though this was much more
+[06:15] directly akin to a bar of gold I have a
+[06:17] coin it has information on it it needs
+[06:19] to be safe and not kept not destroyed so
+[06:22] you're kind of like locking it away in a
+[06:23] traditional Vault right because you're
+[06:24] still dealing with like a physical token
+[06:26] um when you're thinking about larger
+[06:28] like insurance over the years what you
+[06:30] would typically get is at custodians you
+[06:32] would get uh an insurance policy which
+[06:35] would be uh crime the bucket of crime
+[06:38] right so when you think about insurance
+[06:40] there's many different kinds of
+[06:41] insurance there's homeowners insurance
+[06:42] there's car insurance there's life
+[06:44] insurance there's health insurance right
+[06:46] there's many different buckets of things
+[06:48] um most of the insurance coverage that's
+[06:51] existed up to this point um when it
+[06:53] involves Bitcoin is crime insurance and
+[06:55] what that means is that okay I leave my
+[06:57] money at an exchange in the event they
+[07:00] do some sort of internal theft and crime
+[07:02] I want to make sure that I can pay on my
+[07:03] customers typically how this is works is
+[07:06] It's usually the hot wallets that get
+[07:07] insured because that's those are the
+[07:08] ones that are most actively touched and
+[07:10] managed um but when you even those that
+[07:14] extend into the cold wallets um they're
+[07:16] narrowly covering a specific thing maybe
+[07:18] it's like the destruction of the keys
+[07:19] being held by the custodian or crime
+[07:21] right um this idea of what we brought to
+[07:25] Market I would say is new and novel in
+[07:28] that one we are are what's called a
+[07:30] Lloyds of London cover holder meaning we
+[07:32] are direct agents of Lloyds of London
+[07:33] and that when we sell you an anchor
+[07:35] watch insurance policy uh it is a Lloyds
+[07:38] of London contract right so today we're
+[07:41] available in the United States only
+[07:43] working on larger Ambitions and
+[07:45] expanding globally but for today we're
+[07:47] live in the United States um if you were
+[07:49] to be insured by us it's a Lloyds of
+[07:51] London policy up to this point this was
+[07:53] not readily accessible to the random
+[07:55] person walking off the street we're the
+[07:57] first um able to offer this to retail
+[08:00] non-commercial entities we also can use
+[08:02] commercial entities our policies
+[08:04] minimums start at
+[08:05] $250,000 and we can actually write up to
+[08:07] $100 million of coverage uh per customer
+[08:12] and this is from an accessibility
+[08:15] standpoint way more straightforward
+[08:17] where you talk to us and we can curate
+[08:18] and like build you out um your fault and
+[08:20] your policy and get that on the road
+[08:22] whereas before you had to go through
+[08:23] many intermediaries and trying to like
+[08:25] broker one-off deals so that's kind of a
+[08:27] new Innovative thing and what we're kind
+[08:29] offering uh to that uh it really has
+[08:33] developed in the past year I know Chris
+[08:35] is working on some stuff as well at bit
+[08:36] Insurance like this is something that in
+[08:38] the past year being able to kind of
+[08:40] provide this rapper more directly has
+[08:41] been out there there have been some
+[08:44] predecessors um I know there's a company
+[08:47] called coin cover uh that had wallet
+[08:50] Insurance um I think they discontinued
+[08:53] that product because they were also
+[08:54] offering Insurance on coins held at
+[08:57] Celsius and FTX which which as you can
+[08:59] imagine not not not not something from a
+[09:02] risk appetite standpoint uh you want to
+[09:04] be underwriting risk for uh so when you
+[09:06] think about it there's been versions and
+[09:09] forms of this there's like crypto defi
+[09:11] versions of like you lock up tokens and
+[09:14] then the token if the loss happens right
+[09:16] um but really it's something that I
+[09:18] think the whole ecosystem has started
+[09:20] paying attention to over the past one to
+[09:22] two years uh we were kind of a little
+[09:24] bit skating to where the puck was going
+[09:25] when we started three years ago uh and
+[09:28] ultimately I just this Bitcoin maturing
+[09:30] as a financial asset ultimately I view
+[09:32] like the biggest risk of the ETFs or
+[09:35] even micro strategy or any of these
+[09:36] large like Bitcoin companies that like
+[09:38] companies that have a lot of Bitcoin on
+[09:39] their balance sheet is not like oh the
+[09:41] Bitcoin price is going to zero right
+[09:42] because that's usually how it's framed
+[09:43] it's like well Bitcoin over time we're
+[09:45] all directionally long Bitcoin we think
+[09:47] it's going to go up so like there's no
+[09:49] like like that's not a problem here the
+[09:51] biggest risk is that the coins go
+[09:52] missing right they get lost they get
+[09:54] stolen whatever have you and if you look
+[09:57] at the ecosystem today all of the ETF f
+[09:59] s primarily are using coinbase I believe
+[10:03] well so one Fidelity the ETF at Fidelity
+[10:06] is managed by their own team right so
+[10:07] anyone who's getting ETF exposure I
+[10:09] recommend at least throwing some in
+[10:10] Fidelity because it's at least an
+[10:12] uncorrelated risk to uh it being held at
+[10:15] coinbase it's a different team I think
+[10:17] bito has one of them uh there's a couple
+[10:19] like like a small longtail but most of
+[10:21] the aggregation risk for all of these
+[10:23] Financial products are sitting at
+[10:24] coinbase whether those are the retail
+[10:25] wallets coinbase institutional the ETFs
+[10:28] and there isn't incremental insurance
+[10:31] coverage to my knowledge on top of any
+[10:32] of those right um and so as if you're
+[10:36] paying management fees you're paying
+[10:38] like you're paying fees to be able to
+[10:39] secure Bitcoin when you're using these
+[10:40] institutions to us at anchor watch it
+[10:43] just makes sense to have a risk aligned
+[10:45] relationship where you're paying for
+[10:47] something that if something were to go
+[10:49] wrong you still have your exposure like
+[10:51] you still have your wealth at the end of
+[10:52] the day as opposed to maybe becoming an
+[10:54] unsecured creditor or having uncertainty
+[10:56] in how um incidents would get Unwound
+[10:58] and what percent you would get back like
+[11:00] you want to avoid those incidents like
+[11:02] FTX where they made 100% back but it was
+[11:06] denominated in dollars at like the cycle
+[11:08] low of $16,000 Bitcoin so they ended up
+[11:10] like marking it it was like you know a
+[11:11] 20% something recovery for the actual
+[11:14] value at the time the loss happened um I
+[11:17] just think insurance is just a very
+[11:18] natural market fit for working with
+[11:20] inter intermediaries and also just like
+[11:23] long-term asset wealth and management
+[11:25] right Insurance typically is something
+[11:26] that uh people who have wealth
+[11:30] get because they're trying to protect
+[11:32] their wealth right they're trying to
+[11:33] make sure that if something were to go
+[11:34] wrong I want to make sure that I have a
+[11:36] certain amount of wealth the end of the
+[11:37] day and just honestly goes to kind of
+[11:39] like the maturation of the ecosystem
+[11:41] that we're just getting to a point now
+[11:42] where uh people are starting to consider
+[11:44] that longer time Horizon of uh making
+[11:47] sure that they can keep that Bitcoin
+[11:48] safe and be uh protected against many
+[11:50] risks super interesting and and if you
+[11:53] ensure something you probably also have
+[11:56] like okay this is how the custody set
+[11:59] set up should look like like you you you
+[12:01] probably have like a checklist where
+[12:03] it's interesting you also train kind of
+[12:05] the the client of like uh this is the
+[12:09] security standard or this is where we we
+[12:11] want to do do you have like a a
+[12:13] checklist and like okay you have take
+[12:15] those boxes yeah so there's specific
+[12:18] they're called insured like duties like
+[12:19] your responsibilities in entering the
+[12:21] contract the first thing is if today our
+[12:24] our Flagship product as we call it uh
+[12:26] you're using trid inv vaol which is our
+[12:28] kind of uh custody technology stack that
+[12:31] we built out which is leveraging these
+[12:33] more advanced Bitcoin native smart
+[12:35] contracts um just at a very high level
+[12:37] what that means uh is that we're using
+[12:40] Bitcoin as programmable money and we're
+[12:41] able to do things that other providers
+[12:44] in the market have not done yet um these
+[12:46] are operations that don't require
+[12:48] softwork or any changes today uh and
+[12:51] there's a couple key premises here one
+[12:53] we leverage um multi sigs of multi sigs
+[12:57] so actually for the length of your
+[12:58] insurance contract um anchor watch is a
+[13:01] required co-signer it's an interesting
+[13:03] concept too because at no point ever can
+[13:06] the money be moved by anchor watch by
+[13:09] ourselves right and so that's an
+[13:11] interesting concept of what we like to
+[13:13] call negative control so um at a very
+[13:16] high level just to walk and then the
+[13:17] second thing we use is time locks and
+[13:18] I'll get into that now so at the start
+[13:20] of your policy uh you have a vault which
+[13:24] is a two of three multisig and a two of
+[13:27] three multisig the first two of three is
+[13:29] managed by anchor watch the second two
+[13:30] of three is managed by you the customer
+[13:32] that means that both of us have to sign
+[13:35] on the transaction and you can think
+[13:37] immediately this does a lot of
+[13:38] interesting mitigations of risk right if
+[13:40] someone uh broke into your house like
+[13:43] like got into um your keys have to be
+[13:45] stored in safety deposit boxes or actual
+[13:48] vaults right like um like safes um
+[13:51] physical ones and because of that you're
+[13:53] in a dynamic where uh if you if you were
+[13:57] just doing a two3 multi if the attackers
+[14:00] get the keys your keys then that means
+[14:01] the bitcoin's moving with us uh we have
+[14:05] to also coign the transaction before
+[14:06] money can move which allows us to be
+[14:08] able to kind of slow things down in the
+[14:10] protection of your interest to making
+[14:11] sure is this an agreed upon withdrawal
+[14:13] right um we're able to Institute two
+[14:16] different kind of concepts of one
+[14:17] enforcing a white list right making sure
+[14:19] that it's a pre-approved address that
+[14:21] you already like authorize and sign off
+[14:23] I want to send Bitcoin to this address
+[14:25] and then additionally we're also able to
+[14:26] have things like velocity controls so
+[14:28] hypothe Al um this this is actually an
+[14:31] interesting point too as it interrelates
+[14:33] with the risk of the policy is that um
+[14:37] many of our customers are opting into
+[14:39] What's called the Huddle discount
+[14:40] meaning hey this is my deep Cold Storage
+[14:42] I'm not going to touch it all year I
+[14:44] don't want to spend it at all and
+[14:46] because of that we're able to evaluate
+[14:48] and say hey the risk is materially
+[14:50] lowered if they're not regularly
+[14:51] transacting with the Vault and we're
+[14:53] able to offer better pricing because of
+[14:55] that right because there's lower risk
+[14:56] right so you can start seeing how us in
+[14:59] the insurance role are able to actually
+[15:01] incentify behaviors that are risk
+[15:03] aligned saying if that you are going to
+[15:05] engage in lower risk activities we can
+[15:07] offer you cheaper coverage because of
+[15:09] this like now like that's that first
+[15:11] layer right the 203 from the customer
+[15:12] and the two3 from anchor watch six
+[15:14] months into the
+[15:15] policy um you're actually in a position
+[15:18] where we leverage time locks to say you
+[15:20] know what maybe if you've lost two of
+[15:21] your keys for whatever reason it's only
+[15:22] one of your keys as the customer as well
+[15:24] as a two of three from us at anchor
+[15:26] watch now this provides you some more
+[15:28] flexibility and just being able to know
+[15:29] that hey if I have one of my keys
+[15:31] accessible I can still move funds six
+[15:33] months in now the next step is at month
+[15:36] 11 roughly basically when you're getting
+[15:39] to towards the end of the policy there
+[15:41] is a window where you're still insured
+[15:43] where it actually goes to in the event
+[15:45] you lost all of your keys right um Home
+[15:47] Fires disasters thefts robberies what
+[15:50] have you it goes to an anchor watch two
+[15:52] of three as well as we use our recovery
+[15:55] partner uh coin Corner based out of the
+[15:58] is ofand been in business for 10 years
+[15:59] as a Bitcoin exchange I'm sure many of
+[16:01] your audience knows them uh they can
+[16:03] also have a key to be able to move the
+[16:05] funds and this allows us to again anchor
+[16:08] watch can't unilaterally spend the funds
+[16:11] and additionally uh multi- like
+[16:13] multi-jurisdictional right they're based
+[16:14] over in the ISA man and we're able to
+[16:17] act in the event that something were to
+[16:19] go wrong we can still help you recover
+[16:20] your funds which is kind of
+[16:21] fundamentally different than how other
+[16:24] arrangements work today where maybe uh a
+[16:26] partner has a minority of keys and you
+[16:28] still still need to have some key
+[16:29] material this additionally is really
+[16:31] interesting because we've gotten a lot
+[16:33] of initial feedback on this is a really
+[16:34] handy inheritance protocol where if your
+[16:37] heirs your beneficiaries um don't have
+[16:39] to have Bitcoin knowledge and they don't
+[16:41] have to manage key material to be able
+[16:43] to return funds to you right so this is
+[16:45] like a fundamental like difference in
+[16:47] how other recovery systems work today
+[16:49] final step though is that after the
+[16:51] insurance policy expires we don't have a
+[16:53] contractual relationship with you
+[16:54] anymore it goes to your sole two of
+[16:56] three custody right which is a different
+[16:58] Dynamic than working with a custodian
+[17:00] where um maybe you have a one-year
+[17:02] contract the contract ends and you're
+[17:03] like hey can I please get my Bitcoin
+[17:05] back you have to ask them to get it back
+[17:07] whereas in this the default state it
+[17:08] goes back to your sole unilateral
+[17:10] control um and this is all done on chain
+[17:14] um leveraging as I mentioned earlier
+[17:16] before miniscript which came out of
+[17:17] block stream in 2019 from uh Peter will
+[17:20] um Andrew polston sanet gandar like that
+[17:23] team put this together and it U we don't
+[17:26] have to go into the technical details
+[17:27] unless you wish um it's a very um Clean
+[17:31] safe way to be able to do these more um
+[17:33] arbitrary ways of securing your Bitcoin
+[17:36] in a safe
+[17:37] manner yeah I think the minus scripts
+[17:39] are something that uh not too many are
+[17:43] actually aware of that I mean it's it's
+[17:45] it's uh it's getting it's I see it more
+[17:48] and more developed and I see it more and
+[17:50] more discussed about uh but it's
+[17:52] actually is something that I also just
+[17:54] got aware of like I think six months ago
+[17:57] or something like that where first at my
+[17:59] touch point with manuscripts uh so it is
+[18:03] definitely something that that uh we we
+[18:05] should talk a little bit about sure um
+[18:08] maybe not to too deep in in technical
+[18:10] details but like uh give us some give us
+[18:13] some overview of like what minis scripts
+[18:15] are and and how they can be leveraged
+[18:17] yeah absolutely so I would even just
+[18:19] take a super step back right because we
+[18:21] are using miniscript for our use case
+[18:24] and application but let's just super
+[18:26] zoom out to the general audience here
+[18:29] Bitcoin uh and one of the strengths that
+[18:31] many of the proponents of Bitcoin
+[18:33] believe is that it's very um narrow in
+[18:36] what it can do right it doesn't do
+[18:38] arbitrary smart contracts that are
+[18:40] turning
+[18:41] Complete because of this um there is um
+[18:45] a very set few things that can be done
+[18:47] in Bitcoin now typically up to this
+[18:50] point we have gravitated as an industry
+[18:53] towards either single signature or
+[18:55] multi- signature another example of
+[18:57] something that's different would be like
+[18:59] a lightning Channel like a bolt 3 um
+[19:01] like like the actual way that the smart
+[19:04] contract on chain is a two of two that
+[19:06] falls back and then you can do ad
+[19:07] Justice transaction all of that uh
+[19:10] there's a lot of technical overhead when
+[19:12] it comes to this right you have to think
+[19:14] about okay I need to be able to know
+[19:17] what the format is I need to have it be
+[19:18] reliable I want to make sure the only
+[19:20] way I can spend it is the way I'm
+[19:22] intending it can be spent right if you
+[19:24] if you yourself like Bitcoin script is a
+[19:26] full programming language of itself it
+[19:28] may be not turning complete but you can
+[19:30] do many things in there right I think
+[19:32] there's like 150 or so op codes um that
+[19:35] can do different things and you could
+[19:37] just write a program yourself I want to
+[19:39] do op if if this else that right and
+[19:42] then but one of the immediate problems
+[19:43] is is are you sure the way that you
+[19:45] coded that is the only way you can spend
+[19:47] it right if you're just like casually a
+[19:49] computer like like you you you set up an
+[19:51] address and you like uh set up your
+[19:54] contract there's no refunds so if you
+[19:56] deposit money maybe the first problem is
+[19:58] oh no did I set this up in a way that it
+[20:00] actually can't be spent and I just sent
+[20:01] Bitcoin in there it's locked forever
+[20:03] that's totally a possibility right um
+[20:06] other ones are being hey I C it up this
+[20:08] way but uh a minor can actually
+[20:11] rearrange how I'm broadcasting the
+[20:12] transaction and steal the money from me
+[20:14] right there's all of these like
+[20:15] contingencies and Corner cases that get
+[20:18] really prickly and thorny and when
+[20:20] you're trying to actually do it uh
+[20:21] additionally when it's time to broadcast
+[20:23] the transaction you have to actually
+[20:25] arrange the script in such a way where
+[20:27] you're providing the signatures in the
+[20:28] right order and stuff and that gets a
+[20:29] little complicated uh what miniscript
+[20:32] does it allows it remove I call it
+[20:34] bowling with bumpers where you can't
+[20:35] throw a gutter ball like if you program
+[20:37] it as long as you have the key material
+[20:39] that you're supposed to have you're able
+[20:40] to kind of execute and spend the money
+[20:42] uh and this is a really helpful way for
+[20:46] also Hardware wallets to be able to
+[20:47] arbitrarily interface with these more um
+[20:50] Advanced spending policies to be able to
+[20:51] provide signatures and verify yes I'm
+[20:53] sending the funds in the way I intend
+[20:55] them to um it's in that sense I would
+[21:00] say a really broad canvas for people to
+[21:03] start thinking about how you can use
+[21:04] this here's a really simple example on
+[21:07] how you could leverage Min script uh you
+[21:09] as an individual let's say you have a
+[21:10] two of three multisig um you may want to
+[21:13] have and say if the money has not moved
+[21:15] in a year maybe make it a one of three
+[21:18] multisig or maybe make it a two of four
+[21:20] you could have a buddy who on the normal
+[21:22] day-to-day operations of the Vault can't
+[21:24] do anything with the Bitcoin but they
+[21:27] can come step in and co-sign with you as
+[21:29] a fallback contingency uh really great
+[21:32] project that's kind of like fleshed this
+[21:33] out is lyanna wallet over at wizard
+[21:35] sardine those guys um it's a really
+[21:38] handy way of starting to think about
+[21:40] using uh these tools in a self-
+[21:42] sovereign way you can run the software
+[21:43] it's free open source on your own node
+[21:45] um and it provides a lot of flexibility
+[21:47] in many different ways you can spend the
+[21:49] Bitcoin um other ones that like I the
+[21:52] this goes into a conversation too about
+[21:54] time locks I think the idea of adding
+[21:55] time locks to your Bitcoin security is a
+[21:57] massive Improvement to what we have
+[21:59] today because with time locks you can
+[22:01] actually have contingencies baked into
+[22:03] how the money can be spent and that
+[22:05] gives you more flexibility and more
+[22:07] Disaster Recovery right because the way
+[22:08] Bitcoin works is you kind of set up your
+[22:10] rules you deposit the money and then it
+[22:12] sits there um you can have many
+[22:14] different ways you can spend that
+[22:16] Bitcoin over the course of time which
+[22:18] gives you risk mitigation risk
+[22:20] distribution contingencies right you
+[22:22] don't have all of your eggs in your two
+[22:24] of three basket um and these are just
+[22:26] really just powerful Concepts when
+[22:27] you're thinking about how you want to be
+[22:29] able to spend your money across time
+[22:31] that give you even on today for like a
+[22:33] self- sovereign user a lot more
+[22:35] governance like control and confidence
+[22:37] and understanding that they have many
+[22:39] different ways that they can make sure
+[22:40] their Bitcoin is safe at the end of the
+[22:42] day I think it's an amazing thing of
+[22:45] like hey like if if I didn't move my
+[22:47] Bitcoin for a certain period of time
+[22:49] there's a key unlocked and I I can still
+[22:51] do it in case I I lose some some of some
+[22:54] of my keys uh and hopefully with that
+[22:57] also the stories of like oh lost my keys
+[22:59] and now I don't have access to my
+[23:00] Bitcoin get less and less over time
+[23:02] because there were a lot of stories like
+[23:03] a few years ago and I hope in a few
+[23:05] years we have less and less of those
+[23:07] stories exactly right uh and that's you
+[23:10] know that's why we attack it like the
+[23:11] way we're using it um for this risk
+[23:13] distribution right reducing the ways
+[23:14] that you could possibly lose the coins
+[23:17] um even having contingencies of in the
+[23:19] event everything is lost uh for you as
+[23:22] the customer that you're were still able
+[23:24] to recover I think this is just a really
+[23:26] robust design space of being able to
+[23:28] offer support right and over the past
+[23:30] two years we've had many of the hardware
+[23:32] wallets um you have The Ledger you have
+[23:34] the cold card the bitbox O2 the Spectre
+[23:37] DIY the blockstream Jade they're all
+[23:40] kind of coming to step in and like be
+[23:41] able to provide that infrastructure
+[23:42] because that was kind of part of The
+[23:43] Last Mile friction in understanding okay
+[23:46] technically I can run this on my command
+[23:48] line and I can do a couple things but
+[23:49] like how can I actually have my
+[23:52] traditional signing experience that I'm
+[23:53] used to and comfortable with to be able
+[23:55] to run with this so I think it's a
+[23:58] really great Improvement and it's really
+[24:00] interesting in that it doesn't require a
+[24:01] fork at all right this is just using
+[24:03] Bitcoin as it exists today um that's
+[24:06] kind of the Hat I wear as an
+[24:07] entrepreneur of there may be things I
+[24:09] want to change Bitcoin in the future
+[24:11] like there are features like like
+[24:12] vaulting um you know being able to
+[24:14] restrict outputs so that I can kind of
+[24:16] do my own native velocity controls and
+[24:18] all that stuff but I'm building a
+[24:20] company today and I'm not going to build
+[24:21] my company on the assumption that I'm
+[24:23] going to get something in the future so
+[24:25] uh I think this is just a really ripe
+[24:27] design space for uh not just myself but
+[24:29] anyone who's thinking about building
+[24:31] applications in Bitcoin I think there is
+[24:33] a massive amount of opportunity for
+[24:35] being able to build in this and the way
+[24:37] I view this too is that Bitcoin as
+[24:39] programmable money the more that we
+[24:41] leverage those native programmable
+[24:42] functions we're going to be able to
+[24:44] build better Financial applications
+[24:46] across the board um and it's a really
+[24:49] interesting way of being able to think
+[24:51] about how you can provide values to
+[24:52] customers uh by kind of having ways that
+[24:55] maybe they can still be self- Sovereign
+[24:57] you're not dealing with AUST zodan and
+[24:59] you're able to kind of improve that uh
+[25:01] you know just ultimate like that store
+[25:03] value use case because this is a layer
+[25:04] one solution it doesn't unlock
+[25:06] inherently new layer 2 scaling
+[25:07] Technologies on its own uh but for me
+[25:11] and kind of what I chose to tackle with
+[25:12] in starting this company was that store
+[25:14] value long-term holding use case and
+[25:17] this just seems to be U it's very
+[25:19] apparent to me uh a very great way of
+[25:21] being able to offer more to kind of
+[25:23] service that use case today that really
+[25:25] has not been explored up to this point
+[25:27] in the larger industry
+[25:28] it's an interesting point that you
+[25:30] brought up a minute ago uh with like
+[25:32] changes to the Bitcoin uh protocol what
+[25:36] are because you have have seen already
+[25:38] so so lot so much in the in the past
+[25:41] couple of years what do you think are
+[25:42] the changes that we have to do or should
+[25:45] come to the Bitcoin protocol in in the
+[25:47] coming years yeah so um the lens I view
+[25:51] this through is I mean and there's many
+[25:53] different cohorts in Bitcoin that have
+[25:56] all different things they want to work
+[25:57] on right my my main you like focus is
+[26:01] layer One Security right and there's
+[26:04] kind of a spectrum of like small baby
+[26:05] steps and kind of like a grander vision
+[26:07] to start I think looking at something
+[26:10] like uh CTV being able to restrict
+[26:12] outputs and being able to do kind of
+[26:13] Vault schemes with that is a great way
+[26:16] to start uh and being able to say hey
+[26:18] once it's in this Vault I only can send
+[26:20] it to this address maybe have a time
+[26:21] lock against it and it kind of gives you
+[26:22] like an intermediary staging area before
+[26:24] funds can go out to like the larger
+[26:27] ecosystem
+[26:28] uh with this too I think there's been
+[26:30] some conversation recently around CTV
+[26:32] and cig from stack um cig from stack
+[26:35] allows you to do kinds of like key
+[26:37] delegation um I was watching some posts
+[26:40] yesterday with cig from stack Jeremy
+[26:42] Ruben was talking about how you could
+[26:43] actually prove that a key only signs
+[26:45] once and it won't sign again uh like
+[26:47] like you can do interesting security
+[26:49] models and trade-offs as it relates to
+[26:51] that uh I think that's like a small step
+[26:53] in the sense that the code has been
+[26:55] around for five years there hasn't
+[26:57] really been a bug or an issue found yet
+[26:59] I think there's a large like five coin
+[27:00] Bitcoin Bounty for anyone to find a bug
+[27:02] in it it's been sitting there um I think
+[27:04] that's a good like initial step if we're
+[27:06] talking like the grander vision of what
+[27:08] I would love to see um I'd love to be
+[27:11] able to do 64bit math and the reason why
+[27:14] is that uh you actually could start
+[27:16] doing core velocity controls of how much
+[27:18] and with with transaction introspection
+[27:20] like looking at the details of what
+[27:21] you're sending I could say like hey if
+[27:23] I'm sending over a Bitcoin you have this
+[27:26] security Arrangement if I'm sending less
+[27:27] than a Bitcoin it's this like lower
+[27:28] security threshold and start thinking
+[27:30] about all of these products and services
+[27:33] that companies offer today for like
+[27:35] helping secure your coins with wh list
+[27:37] and velocity controls and how much you
+[27:38] can spend you could in theory bring that
+[27:42] to a state where it exists on chain
+[27:44] right I'm talking to uh like uh nvk from
+[27:47] coin kind he's like I just want to get
+[27:49] to a point where you don't even need the
+[27:50] cold card anymore right I want to
+[27:51] obsolete myself out of business I want
+[27:52] all of the security and all of the like
+[27:54] the ways that you can kind of control
+[27:55] and manage your funds with an HSM I just
+[27:57] want to have that on chain um those
+[27:59] transactions would be larger um that's
+[28:01] kind of a a much more further out like
+[28:04] ambiguous like larger goal but I think
+[28:06] there's small incremental steps that we
+[28:08] can take between now and then uh to be
+[28:11] able to kind of marginal like
+[28:13] incrementally improve that security like
+[28:14] an OP Vault construction where I was
+[28:17] just having a conversation this morning
+[28:18] with uh Matt Caro and a couple and James
+[28:20] o bur on Twitter um the way Bitcoin
+[28:23] works today it's it's entirely proactive
+[28:26] security right you set up the way on how
+[28:27] the money can be spent and then you kind
+[28:29] of like you have your your drawbridge
+[28:31] and your moat and you have like your
+[28:34] like all of your defenses but if someone
+[28:36] gets through that and they send the
+[28:37] Bitcoin out you have one block to be
+[28:40] able to try and send it somewhere else
+[28:42] and then and then otherwise you're just
+[28:44] done uh that's worked really well up to
+[28:48] this point I would love to have reactive
+[28:50] security where uh after a fund like
+[28:53] funds get broadcasted you have a window
+[28:55] and opportunity to be able to pull those
+[28:56] funds back so you go from
+[28:58] I have less than a block to try and fix
+[29:01] this issue to maybe I have hundreds or
+[29:03] thousands of blocks on the orders of
+[29:04] days or weeks where I can have deep cold
+[29:07] storage and say okay I'm going to do a
+[29:10] withdrawal but it's not going to be able
+[29:11] to go out of the Vault entirely until
+[29:16] you know two weeks have gone by and that
+[29:18] allows an opportunity for me to realize
+[29:20] oh no something has happened and they
+[29:22] try and pull those funds back you have
+[29:23] to manage a different set of keys to be
+[29:25] able to do that to be clear all layer
+[29:27] one Bitcoin security is assumptions
+[29:28] though or that your private keys are
+[29:29] kept private um I would love though to
+[29:32] be able to take that window of you have
+[29:33] less than a block to you have hundreds
+[29:35] if not thousands of blocks to be able to
+[29:37] Institute a recovery let's take a break
+[29:39] for a moment and appreciate the beauty
+[29:42] that coin vigilante has made with the
+[29:45] Bitcoin watches those watches are the
+[29:47] most amazing the most elegent way of
+[29:50] showing that you are a true bitcoiner
+[29:53] and coin vigilante just dropped a
+[29:56] completely new and amazing Genesis
+[29:58] edition of their watch collections you
+[30:01] have the date of the first ever mined
+[30:04] Bitcoin Block in there and of course
+[30:07] also the block height and which EPO we
+[30:10] are currently in I love the level of
+[30:13] detail they put in in this masterpiece
+[30:16] make sure to check out those amazing
+[30:18] coin vigilante time pieces down in the
+[30:21] descriptions I love those watches so so
+[30:24] much and now if you have Bitcoin I
+[30:27] really do hope that you don't have it on
+[30:29] Exchange but if you do have it on
+[30:31] Exchange I have two ways for you to deal
+[30:33] with that the first way is you put it on
+[30:35] a hardware wallet that's the entry for
+[30:38] you to get into the self- custody game I
+[30:41] recommend bitbox Bitcoin only Edition
+[30:44] for that it's a super simple and secure
+[30:47] way and if you check out the link in the
+[30:49] description you even get 5% off if you
+[30:52] use the code Robin and the second way is
+[30:55] the Bitcoin way the Bitcoin way is your
+[30:59] Allin partner in terms of how to get the
+[31:02] most out of your sovereignty they will
+[31:05] personalize for you a self custody setup
+[31:08] that is perfect for your individual
+[31:11] situation they will show you how you can
+[31:13] secure your own devices securing your
+[31:16] Bitcoin is not enough you also have to
+[31:18] keep all your devices secure one topic
+[31:21] that is overlooked often is the
+[31:23] inheritance plan what happens with your
+[31:26] Bitcoin once you know no longer here do
+[31:29] you have a plan for that in place
+[31:31] already and last but not least if you're
+[31:33] in a jurisdictions where you don't feel
+[31:35] safe it's better to get a plan B for all
+[31:38] that head over to the Bitcoin way.com
+[31:42] robobin to get a 30 minute free call and
+[31:46] just a quick side note I will be for the
+[31:49] first time ever speaking at the Bitcoin
+[31:51] prog event in June it will be absolutely
+[31:55] legendary and I'm really looking forward
+[31:57] to seeing all of you there you can get
+[31:59] your ticket in the link down in the
+[32:02] description of Bitcoin brag and very
+[32:04] important use code Rob Robin to get 10%
+[32:07] off your ticket I'm really looking
+[32:09] forward seeing you there it's also an
+[32:11] interesting conversation of like um now
+[32:14] we are a small group of people uh we are
+[32:19] basically in a very early stage of a
+[32:21] very early early Revolution how will
+[32:24] this look if we have all of the sudden
+[32:26] four or five billion people
+[32:28] wanting to interact with Bitcoin um how
+[32:32] do you imagine that it's probably most
+[32:35] not onchain I I guess like the most
+[32:38] applications will be something above
+[32:41] Bitcoin yeah so this goes I would say
+[32:43] one step outside of my passion and my
+[32:46] deeper intimate knowledge when it talks
+[32:48] about scaling but you're going to In
+[32:51] This World um I think ultimately you're
+[32:54] you cannot have 5 billion people
+[32:56] interact with Bitcoin on lay one it's a
+[32:58] non-starter right that's just the nature
+[33:00] of the size of the block space and uh
+[33:04] the utxo set just the natural forcing
+[33:07] function of um scarcity of the Bitcoin
+[33:10] blocks themselves that you can achieve
+[33:12] that so then you get into different
+[33:14] models uh where you have different
+[33:17] protocols that kind of act on top of
+[33:19] layer one to be able to do this uh I
+[33:21] think an example of what's working on
+[33:22] this today is Arc right the idea that
+[33:25] you can kind of uh have a virtual utxo
+[33:27] that gets shared within a pool of people
+[33:30] and then on occasion if you have a large
+[33:31] enough balance you're going to be able
+[33:33] to sovereignly withdraw at no point ever
+[33:35] if I have 100 SATs is it ever going to
+[33:38] make sense for me to unilaterally
+[33:39] withdraw the layer one because you're
+[33:41] going to below the dust limit right and
+[33:43] you're gonna have to pay transaction
+[33:44] fees when you claw it out of a system to
+[33:46] be able to move it again on your own so
+[33:48] there's going to be a natural floor
+[33:49] that's going to be a combination of uh I
+[33:52] would say basically the block space
+[33:54] right at zero SATs at one sat per Vite
+[33:56] right now you have lot of uh ability
+[33:59] where it's only maybe a couple hundred
+[34:01] STS to move a single signature
+[34:03] transaction um in this world where we're
+[34:05] thinking that more and more people we're
+[34:07] talking billions of people interacting
+[34:09] that those fee rates are going to be two
+[34:12] if not you know eventually three orders
+[34:13] of magnitude higher right you're talking
+[34:14] like hundreds of SATs per Vite like we
+[34:16] saw during a couple spikes last year
+[34:18] while people were doing a lot of layer
+[34:19] one speculation um designing these
+[34:22] systems to be able to support that is
+[34:25] going to come with just natural
+[34:26] trade-offs for layer One Security in
+[34:28] that not everyone's going to have layer
+[34:29] one so how can you design systems at
+[34:32] Layer Two to be able to kind of
+[34:34] distribute uh it's less so Distributing
+[34:36] the risk but making sure that um you can
+[34:40] have natural Game Theory and kind of um
+[34:42] evolution of these like layer two
+[34:44] solutions that are going to be able to
+[34:46] uh protect users at the end of the day
+[34:47] right um it's something that like I said
+[34:51] before is not my core area focus and
+[34:53] expertise so it's definitely not
+[34:54] something that I'm going to have a more
+[34:56] prescriptive model of how that get
+[34:58] accomplished uh I would say though that
+[35:00] that's naturally the course of Bitcoin
+[35:02] as it kind of permeates the Global
+[35:04] Financial system in the world for
+[35:06] payments yeah it's it's really
+[35:08] interesting this question of like
+[35:09] scaling Bitcoin it's also like it's so
+[35:12] fun to watch the adoption uh moving
+[35:14] forward in in life I just had uh two
+[35:17] days ago or three days ago a
+[35:19] conversation with someone that came into
+[35:21] Bitcoin I think 2013 or 14 and he told
+[35:24] the story of how he first bought Bitcoin
+[35:26] he literally had to go to someone
+[35:28] locally uh and he felt like a truck
+[35:30] dealer because he was dealing with
+[35:32] someone that he never know like and it
+[35:34] felt illegally at that point and now we
+[35:37] have come so far with like edfs with the
+[35:39] exchanges with all those great services
+[35:41] and and products around it uh and now I
+[35:45] I mean maybe tomorrow for for the
+[35:46] viewers that I listen to this probably
+[35:49] like one two weeks old already uh uh the
+[35:52] Strategic Bitcoin reserve and Nations
+[35:54] buying it uh it it's kind of
+[35:56] unbelievable where we are how do you
+[35:58] look at um the the speed of of the
+[36:01] adoption that that we currently
+[36:03] witnessing are you kind of surprised of
+[36:05] how fast things actually
+[36:07] moving yeah it's interesting in the
+[36:10] sense of like I mean there's that line
+[36:12] we like to use gradually then suddenly
+[36:14] right because you know what 2017 I
+[36:17] thought it was inevitably like this is
+[36:18] now it's happening we've arrived um
+[36:21] we've definitely gone up a tier in kind
+[36:23] of the level in the attention economy in
+[36:25] global politics in macroeconomy like you
+[36:29] know the focus of Bitcoin
+[36:30] specifically um it's to
+[36:34] me I I I think this is just part of
+[36:36] natural hyperbitcoinization right more
+[36:39] and more people are paying attention to
+[36:40] it more people are interested in it I
+[36:42] think over time too it's really
+[36:43] interesting we're seeing is that Bitcoin
+[36:45] dominance is also creating to like I
+[36:47] think we're over 60 uh percent at the
+[36:49] moment uh the larger ecosystem is also
+[36:53] starting to be able to disambiguate and
+[36:55] understand Bitcoin is something special
+[36:56] I'm not if you saw um uh Jesse Pal from
+[36:59] Kraken Brian Armstrong from coinbase and
+[37:03] I forgot the third but like three us
+[37:05] exchangers were basically saying yeah it
+[37:07] should be a Bitcoin only reserve and
+[37:09] it's funny because everyone's like oh
+[37:10] look at this like all of these companies
+[37:13] that list all these other coins are
+[37:14] talking about you know uh it all has to
+[37:17] be uh Bitcoin only I think they
+[37:20] understand right and the reason why they
+[37:22] understand is that if they're if they're
+[37:23] at the adult table right you're talking
+[37:25] with world leaders the last thing they
+[37:28] want to do is have them as the
+[37:30] Proprietors of the exchanges have them
+[37:32] be bag holders for these random coins
+[37:34] they know that Bitcoin in the long run
+[37:35] is going to a crew value right they have
+[37:37] extremely high confidence in their
+[37:38] business is built on that most of their
+[37:40] revenue
+[37:42] though is is happening because of the
+[37:44] buy and sell of all of these other coins
+[37:46] right or you have maybe like a coinbase
+[37:48] where they're they now have a lay or two
+[37:50] of base right so they're trying to
+[37:51] collect the transaction fees for kind of
+[37:52] like this larger crypto economy they
+[37:55] don't have as much confidence in the
+[37:57] long-term acral value of that right
+[38:00] there the way I view it is like they all
+[38:01] have casinos and they collect a good
+[38:03] rake when you uh do that um it's funny I
+[38:08] have to think about that casino metaphor
+[38:09] more because I used to play a lot of
+[38:10] Poker and the thing with poker is that
+[38:13] you're playing against other people
+[38:14] you're not playing against the house so
+[38:15] the house just takes a small little fee
+[38:16] and they kind of just go about running
+[38:18] their business whereas if you go out and
+[38:19] play Slots there's a massive Edge where
+[38:20] you're just dumping money into the house
+[38:22] that's running the casino they know that
+[38:24] Bitcoin is going to be the long-term
+[38:25] winner so they know that if they're
+[38:28] getting the adults sitting at the table
+[38:29] they want those guys to be uh really
+[38:32] happy in the long run over the course of
+[38:34] like a decade or two that they made the
+[38:35] right decision which would in in turn
+[38:37] kind of give them more political
+[38:39] Prestige and power and they're not going
+[38:41] to get that if they have the random
+[38:42] longtail of all these small coins that
+[38:44] are in there that are going to be down
+[38:46] and so uh I think it's effective
+[38:48] branding I think it's total uh on the
+[38:50] narrative the mimic narrative Wars
+[38:52] capitulation that Bitcoin is a deao
+[38:54] store of value you can just look at the
+[38:55] eth BTC trading pair over the past
+[38:57] couple years right in the increasing
+[38:59] Bitcoin dominance um it's exciting times
+[39:02] I think like a lot of things that we
+[39:04] were saying in our little corner of
+[39:06] bitcoiners that were seen as uh
+[39:09] heterodox to the whole like crypto
+[39:12] industry we've had years and years of
+[39:14] playing these narratives out this point
+[39:15] and over time our thesis has being shown
+[39:17] to be
+[39:18] correct that's an interesting as
+[39:20] perspective of like the game theory of
+[39:23] people that understand Bitcoin and
+[39:25] crypto they also understand and that if
+[39:28] they say all like we have to do those
+[39:30]  coins and if if if president
+[39:33] actually acting on that and they go to
+[39:34]  it's it's it falls back on them so
+[39:38] they don't want to recommend anything
+[39:40] else in Bitcoin because they can rely on
+[39:42] the value of Bitcoin I never thought
+[39:44] about that actually it's an interesting
+[39:46] INF aspect of of uh Casino
+[39:50] leaders yeah because right like they're
+[39:52] making money on Dogecoin CU Dogecoin is
+[39:55] not going up it's CU people are buying
+[39:56] and selling Dogecoin all the time
+[39:57] speculating but a strategic Reserve is a
+[40:00] long-term held asset so the exchanges
+[40:02] don't even have an opportunity to make
+[40:04] money as it relates to buying and
+[40:05] selling because it's not like you're
+[40:07] going to have a daily like portfolio
+[40:08] manager who's like longing one and
+[40:10] shorting the other it's supposed to sit
+[40:12] there and do nothing right which is
+[40:14] Bitcoin superpower is sitting there and
+[40:15] doing nothing uh so you have a total
+[40:17] different Divergence where they're
+[40:19] retail facing business and kind of their
+[40:21] Enterprise facing businesses getting
+[40:23] people to speculate for a long-term held
+[40:25] asset the performance metric is does the
+[40:27] price go up over time and for everything
+[40:29] else the answer is no right you have
+[40:31] volatility and spikes and up and down
+[40:33] but they're long and if you zoom out
+[40:35] it's down and to the right on the price
+[40:36] charts for all of those whereas Bitcoin
+[40:37] is up and to the right uh it just makes
+[40:39] sense there for sure what does the um
+[40:44] ETF paired with like the ETF second year
+[40:48] paired with a possible strategic Bitcoin
+[40:51] Reserve now mean for how how close we
+[40:53] are to this hyperbitcoinization this
+[40:56] this suddenly moment that you said
+[40:58] before I still like if you ask me I
+[41:01] still think we're a decade out at least
+[41:03] uh this is Bitcoin is a$2 trillion doll
+[41:06] asset right now that's a puddle in the
+[41:09] ocean of global Capital markets it's
+[41:11] still so early and we could have a 10x
+[41:13] and still be on the early side of that
+[41:14] conversation right so for me this is
+[41:16] just kind of climbing like B basically
+[41:20] Bitcoin gets promoted and gets to sit at
+[41:21] a larger and larger table um and this is
+[41:25] just the beginning of that it's it's the
+[41:26] beginning of the next stage of the game
+[41:28] the next level of the game is just
+[41:29] starting uh and it's going to take a
+[41:31] longer time Horizon for it to all play
+[41:33] out um I think it's validation of the
+[41:35] thesis and that if you were having this
+[41:38] conversation you know in 2017 you said
+[41:41] you've been around Bitcoin for five
+[41:42] years if five years ago you got in
+[41:43] you're like oh in five years you're
+[41:46] going to have World governments that are
+[41:47] going to be coming in and buying Bitcoin
+[41:49] and thinking about that and they'll be
+[41:51] accessible to all all traders in the
+[41:52] world through stock
+[41:54] wrappers you'd uh you'd be like wow
+[41:56] that's like that's amazing like that's
+[41:58] huge progress right so like we're just
+[41:59] validating like the next step that our
+[42:01] thesis 5 years ago is we're on the
+[42:03] trajectory of being more right than
+[42:05] wrong so we're gonna have to do another
+[42:06] round or two of this you know it's going
+[42:08] to take time still I don't uh think it's
+[42:10] happening tomorrow uh if it is I'm ready
+[42:13] for it but uh I think it's just going to
+[42:16] naturally we're going to keep riding
+[42:17] volatility and we're going to keep on
+[42:19] climbing and growing uh and it's going
+[42:22] to be really exciting kind of seeing how
+[42:23] this next level plays out I I do agree
+[42:26] with that a lot and I see it like that
+[42:28] and that's why it's actually surprises
+[42:31] me so much that the USA is now moving in
+[42:34] like I expected when I think about uh
+[42:38] the Nations Game Theory uh El Salvador
+[42:42] was kind of expected that like a country
+[42:44] like that tries things out like that and
+[42:47] then maybe like a um a smaller country
+[42:51] like Budan is basically doing that they
+[42:53] have for their size of their country a
+[42:55] massive amount of of of Bitcoin if you
+[42:57] compare the the size of the country with
+[42:59] with how many Bitcoin they have uh but
+[43:02] America is just surprising me so much if
+[43:05] like why are they moving they have no I
+[43:08] mean they have the biggest
+[43:11] feat bag to secure but they
+[43:15] have the I thought they will be at the
+[43:18] end of the adoption cycle and not at the
+[43:21] beginning of the adoption cycle well
+[43:23] it's funny right um I'm an American
+[43:27] right I'm uh I would say a proud
+[43:29] American I think uh the many of the
+[43:31] great things about America are you know
+[43:33] it's free and open markets and I
+[43:36] actually think the I tweeted this the
+[43:38] other day the Strategic Bitcoin Reserve
+[43:39] is not the US government holding it it's
+[43:42] families holding it right it's
+[43:43] businesses holding it right and from a
+[43:45] capital Market perspective it is
+[43:47] interesting to see that the US is trying
+[43:48] to like lead the way on this where you
+[43:50] would have thought they'd be at the end
+[43:51] because they have the most to lose with
+[43:53] the you know the losing of the Petro
+[43:55] dollar and the like the global dollar as
+[43:57] like the world Reserve
+[43:59] currency I think the the problem with
+[44:03] that is unless we get an act of Congress
+[44:05] the next Administration can come in and
+[44:07] undo everything that's being done right
+[44:08] now right so you very well could have
+[44:11] some strategic Bitcoin Reserve set up
+[44:13] and then in four years it's being
+[44:15] Unwound um and that's why I think in the
+[44:18] long run the actual strategic Bitcoin
+[44:19] Reserve are the people the individuals
+[44:21] the businesses Capital allocators who
+[44:24] are holding in Bitcoin they've held
+[44:25] Bitcoin for a very long time and they're
+[44:26] not looking to sell anytime soon um I
+[44:30] think in the it's interesting and I
+[44:32] think this actually goes to a bit of the
+[44:34] natural disruptive nature of America the
+[44:36] culture of America right where um you
+[44:39] have Elon Musk you have David saak you
+[44:41] have all these like entrepr serial
+[44:42] entrepreneurs that are now kind of like
+[44:44] in the administration they're trying to
+[44:45] move fast and break things and try and
+[44:46] disrupt themselves this is like the
+[44:48] innovators dilemma the idea that if
+[44:50] you're like the market leader it's
+[44:51] harder for you to be able to come in and
+[44:52] figure out the next new thing because
+[44:54] you're incentivized in the way your
+[44:56] corporation operates
+[44:57] to uh not kind of really ultimately
+[45:00] break the mold um but the flip side of
+[45:03] that coin in American dynamism is that
+[45:05] you have all these startups and you have
+[45:07] all these companies and people that are
+[45:08] thinking about how do we kind of uh
+[45:10] attack the incumbents in a way that we
+[45:11] can provide more value to end users and
+[45:14] you can just that as Bitcoin Bitcoin is
+[45:15] a better value proposition to the end
+[45:16] users that are actually holding
+[45:17] currencies for the long run uh and so
+[45:20] with that like I think it's interesting
+[45:22] to see that the US is dabbling in there
+[45:24] I'm I'm going to have medium to low
+[45:26] confidence until it's an actual act of
+[45:28] Congress and that's just the nature of
+[45:29] just how America and our judicial and
+[45:31] our legal system and the whole process
+[45:33] of our Constitution and how laws
+[45:35] actually get created if you want
+[45:36] something to be sticky you need Congress
+[45:38] to actually be there because anything
+[45:39] that a president unilaterally does the
+[45:40] next one can just unilaterally
+[45:42] undo yeah it's it's also interesting the
+[45:45] concept of like Grassroots adoption
+[45:47] versus institutional and government
+[45:49] adoption uh where you as a bitcoiner you
+[45:53] actually want the the families of
+[45:55] America to hold as many Bitcoin as
+[45:57] possible and not the government again
+[46:00] that that that like the I'm I'm way more
+[46:03] happy if someone and the family adopts
+[46:06] Bitcoin then uh the government adopting
+[46:08] it and holding it in kind of like for
+[46:11] the citizen like that's is a an almost
+[46:14] an anti- Bitcoin
+[46:17] thing yeah it's uh you know like I said
+[46:20] it's part of that culture just in
+[46:22] America of uh the cowboy the
+[46:24] entrepreneur the businessman like
+[46:25] whatever you want to say like uh
+[46:27] and what I also love about that too just
+[46:29] thinking about from the risk side it's
+[46:30] distribution of risk all the coins
+[46:31] aren't sitting in one place right
+[46:33] distribution of keys is good for the
+[46:34] health of the
+[46:35] network absolutely I have an interesting
+[46:38] question that uh that I recently uh got
+[46:41] myself and I was like I want to bring it
+[46:43] into a podcast and I think maybe with
+[46:46] you it's the it's perfect guest um if
+[46:49] Satoshi return today what do you think
+[46:53] he would critique the most about Bitcoin
+[46:55] huh
+[46:58] if Satoshi were to come back today what
+[47:00] would be his biggest critique it's a
+[47:01] hard question to answer
+[47:04] because I think anyone who would answer
+[47:07] this question would basically be
+[47:09] smuggling their own opinion into the
+[47:11] answer and be like well Satoshi would
+[47:13] agree with me obviously right so like
+[47:15] the question the question's a hard one
+[47:17] to try and answer honestly like I never
+[47:20] spoke to Satoshi I've read his email
+[47:21] posts and stuff it's hard for me to have
+[47:23] a read on what his thoughts were um it's
+[47:26] a tough question and and now that I've
+[47:29] kind of uh revealed the thought process
+[47:31] of trying to not smuggle my own opinion
+[47:33] into what I think Satoshi would say um I
+[47:37] think if if I were to say in the
+[47:39] evaluation of Bitcoin I think just being
+[47:43] more open-minded to how other people are
+[47:45] using it right um when he disabled a
+[47:49] bunch of op codes back in 2011 right
+[47:50] before he left the project he was
+[47:52] concerned not of people using Bitcoin
+[47:55] for use cases that everyone wouldn't
+[47:57] agree on but it was a concern of it
+[47:59] would literally crash the network right
+[48:02] um it's hard to say too because Satoshi
+[48:04] had such limited information when he was
+[48:06] a steward of the project right in 2011
+[48:08] when he left like mining pools were like
+[48:11] not really a thing like like Central
+[48:12] like it was still mostly like CPU and G
+[48:14] it was GPU miners right that's why he
+[48:16] actually chides llo for uh doing the GPU
+[48:20] mining at first because he and I think
+[48:22] this is actually if I were to speculate
+[48:24] like probably had some familiar toi had
+[48:27] some familiarity with Hardware he
+[48:28] probably understood that you could use a
+[48:30] GPU to kind of mine faster but it was
+[48:32] good for the health of the network if
+[48:33] any random computer could get turned on
+[48:35] in mind Bitcoin and so because of that
+[48:38] um he kind of chides llo for kind of
+[48:40] opening up Pandora's Box and then you
+[48:42] kind of go down the rout of as6 and
+[48:43] Mining pools and this kind of
+[48:45] concentration um and maybe that's
+[48:48] actually a safe one kind of the stuff
+[48:49] that people are doing at Ocean for being
+[48:51] able to disambiguate between mining
+[48:53] pools and the actual person who creates
+[48:54] the block template it's good for the
+[48:56] network that you don't have like
+[48:57] basically nine people n nine entities
+[48:59] who that pick blocks maybe less if you
+[49:01] look at how they're aggregating under
+[49:02] the hood I think that's a I think that's
+[49:04] a good one that I think that's actually
+[49:05] a really good safe one that he would
+[49:06] want to have more because that's
+[49:08] something that has a market Dynamic that
+[49:10] evolved after he left he would probably
+[49:12] want to have a strong critique on the
+[49:13] fact that um we need to have more
+[49:16] distribution in who's proposing block
+[49:17] templates for the mining pools yeah like
+[49:20] stratum V2 stuff I think that's actually
+[49:21] a really safe one that isn't really kind
+[49:23] of talking my own perspective in POV and
+[49:26] something that developed entirely after
+[49:27] he left would be that organization of
+[49:29] block
+[49:30] propagation yeah probably like the all
+[49:33] the things that go in the in the
+[49:35] direction of like let's make this thing
+[49:37] more decentralized more robust uh and
+[49:40] that's is a really good one like the
+[49:41] ocean topic comes up the last couple of
+[49:44] months more and more in the podcast I
+[49:47] really like it um we have one question
+[49:49] that I ask each and every one of my
+[49:50] guests and the question is uh what can
+[49:53] we learn from you besides
+[49:55] Bitcoin what could you learn from me
+[49:57] besides Bitcoin interesting um I have
+[50:00] some fun answers I'm trying to think uh
+[50:02] through a couple of them I mean learn as
+[50:04] if like you and I spent a couple hours
+[50:06] together we learn or like like a lesson
+[50:07] or something that isn't uh that isn't
+[50:10] just Bitcoin like like I I usually is it
+[50:13] like if you sat down for six hours I
+[50:15] could teach you something or is it like
+[50:16] a parting thought of something you can
+[50:17] learn that isn't related to bitcoin it's
+[50:20] interesting because those are the two
+[50:21] things you could go down and I see
+[50:23] guests answering in in in both Direction
+[50:26] but I my
+[50:27] original attention was more of like an
+[50:30] an in skill and and something like an an
+[50:34] area like what what are you also
+[50:37] passionate about outside of Bitcoin is
+[50:39] is probably like a a different way to
+[50:41] say it so I I have a couple I'll list
+[50:43] off like um I've been working a lot with
+[50:45] um I mean I was previously a data
+[50:47] scientist and a programmer before
+[50:48] getting into Bitcoin fulltime so
+[50:50] understanding how to like
+[50:52] architect big big cloud Enterprise
+[50:55] systems being able to do data analysis
+[50:58] uh automating tasks um but maybe a fun
+[51:01] one I'll just go for is uh I'd teach you
+[51:03] how to count cards it's actually not
+[51:05] that hard I used to uh my favorite
+[51:07] professor in math professor in college
+[51:09] was what part of the MIT card counting
+[51:11] team so I'd go to his office hours and
+[51:13] it's actually very simple arithmetic of
+[51:14] plus and minus um but the actual fun for
+[51:17] me whenever I was doing it was it wasn't
+[51:19] the mathematical like I'm going to make
+[51:21] money it was the social game you had to
+[51:24] play to not uh draw attention to
+[51:25] yourself and understanding how to behave
+[51:27] in a in in a controlled environment to
+[51:30] not come off as someone who's trying to
+[51:32] account cards uh and that's a fun
+[51:34] activity that you could probably you
+[51:36] know with a couple thousand dollars you
+[51:37] could um make some positive EV bets and
+[51:40] uh come out with a little bit before you
+[51:41] get put into a database it's a fun you
+[51:43] know it's just like one of those fun
+[51:45] things yeah it's I also love I never
+[51:49] talked about that on my podcast but I
+[51:51] actually love doing small magic tricks
+[51:54] like like the just like learning a small
+[51:56] all uh um C trick to to see if we can do
+[52:00] because it's it's mostly just about um
+[52:03] not not bringing attention to the small
+[52:06] trick that you do within like a five
+[52:08] minute presentation uh so people are
+[52:10] like oh like he actually that did that
+[52:12] because there's always like some small
+[52:13] thing that you have to do like a double
+[52:14] lift or something like that uh so I I I
+[52:18] do like that a lot out outside of
+[52:20] Bitcoin and actually someone asked me
+[52:22] recently what would you do if if you
+[52:24] couldn't talk about Bitcoin I was like
+[52:26] uh yeah I sounds interesting but maybe I
+[52:28] just go down a fun Rabbit Hole of magic
+[52:30] tricks and open YouTube channel nice
+[52:35] yeah I have one more uh question because
+[52:38] of data scientist what is the what are
+[52:41] the the the the metrics that you're
+[52:44] looking into when you look at Bitcoin of
+[52:46] like are you looking at the hash rate
+[52:48] are are you looking at uh at some
+[52:50] metrics of Bitcoin uh regular to to see
+[52:53] where where Bitcoin is going no I I
+[52:55] don't actually it's funny enough with my
+[52:57] background I don't look too much at the
+[52:59] onchain analytics of things um I think
+[53:01] the most interesting ones just matter of
+[53:03] factly are like the hoddle waves that
+[53:05] the unchain team puts out are just very
+[53:07] clear concrete observable patterns on
+[53:09] how the velocity of coins and how long
+[53:11] people are holding them for um I think
+[53:13] it's a great visual too to be able to
+[53:14] tell a story uh that's a great one that
+[53:17] to be able to show and it's also the
+[53:19] nature of it isn't requires a lot of
+[53:22] time as opposed to like oh hash rates up
+[53:24] hash rates down coins are moving to and
+[53:26] from changes like it's kind of like this
+[53:28] chaotic frenzy all the time uh getting a
+[53:31] larger sample size reducing variance and
+[53:33] seeing the long-term trends I think are
+[53:35] more interesting so like the hotle wave
+[53:36] stuff for sure really cool uh I do like
+[53:40] that also I think the last time talk M
+[53:43] check made it that was uh the onchain
+[53:45] stuff is really fascinating but uh it's
+[53:48] it's also not my world totally but I
+[53:51] thought maybe you're into it because of
+[53:53] the data science background no yeah um
+[53:56] really cool we have one uh last end
+[53:57] routine in the podcast where the
+[53:58] previous guest is asking a question for
+[54:00] the next guest without knowing who the
+[54:01] next guest actually is okay uh we
+[54:03] touched on it today already but uh what
+[54:05] is the most exciting thing about
+[54:07] lightning most exciting thing about
+[54:09] lightning for me I think it's what I
+[54:11] love about lightning is that it they
+[54:14] can't like the the Bitcoin Community
+[54:16] came together to leverage Bitcoin script
+[54:19] into a way that you can do a new scaling
+[54:21] solution right lightning got three soft
+[54:24] Forks to get enabled it got two time
+[54:26] lock op codes thatr 2014 2015 and it got
+[54:29] segt in 2017 and I think it's a really
+[54:31] powerful use case of showing that when
+[54:34] the community comes together in
+[54:35] understanding different use cases that
+[54:37] you can actually enable whole new design
+[54:39] paradigms on how Bitcoin can function uh
+[54:44] with that that that was not part of the
+[54:45] original Vision right you can kind of
+[54:47] like over time kind of expand the
+[54:49] perception of what's possible and I
+[54:51] think lightning up to this point is the
+[54:52] best possible use case for that I also
+[54:54] love that it's um Anonymous payment for
+[54:56] the sender I think it's a great way to
+[54:58] be able to do instant settlement I you
+[55:00] know going to bitcoin Park and buying my
+[55:02] Seltzer every day and just like throwing
+[55:03] a thousand SATs into the BTC pay
+[55:05] terminal like it's it's an amazing
+[55:07] experience like I'm using Bitcoin all
+[55:09] the time and it lowers that friction to
+[55:10] be able to kind of spend with it
+[55:13] absolutely thank you so much Rob for for
+[55:14] being on the show before I let you go
+[55:16] where can people find you ask your
+[55:17] questions and reach out to you
+[55:19] absolutely yeah uh my Twitter handle is
+[55:21] Rob onam r o the number one H um you can
+[55:25] reach me at Rob Anor watch.com check out
+[55:27] Anor watch.com if you want to get signed
+[55:29] up for our email list if you want to
+[55:30] like learn more about what we're doing
+[55:32] um yeah that'd be great thank you so
+[55:35] much for for being on the show also
+[55:36] thank you so much for everyone that is
+[55:37] watching and listening for joining us
+[55:39] today as always I'll be back tomorrow
+[55:41] with another episode bye-bye
+[55:44] [Music]

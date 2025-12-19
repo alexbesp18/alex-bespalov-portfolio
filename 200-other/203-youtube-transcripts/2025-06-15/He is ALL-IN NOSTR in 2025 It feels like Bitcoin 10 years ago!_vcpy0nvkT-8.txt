@@ -1,0 +1,2053 @@
+Title: He is ALL-IN NOSTR in 2025: It feels like Bitcoin 10 years ago!
+Video ID: vcpy0nvkT-8
+URL: https://www.youtube.com/watch?v=vcpy0nvkT-8
+Date Saved: 2025-06-15 11:45:46
+--------------------------------------------------
+
+[00:00] Bitcoin is money and Noster it's the
+[00:02] same idea instead of transferring money
+[00:04] what we transfer is information Noster
+[00:06] makes us self- Sovereign in what we say
+[00:09] on the internet and this is something
+[00:11] that no other social media can ever be
+[00:13] able to do you're capable of saying
+[00:15] whatever you want and your audience can
+[00:17] verify that that's what you said nobody
+[00:19] can fake it you can build your own
+[00:20] algorithm if I don't like cooking
+[00:21] recipes I can say don't show me this
+[00:23] it's my choice we're very early we are
+[00:25] just 4 years old and this is like
+[00:27] Bitcoin 10 years ago
+[00:30] [Music]
+[00:33] you are focusing on Nostra as I as I
+[00:38] understood it um maybe because I know
+[00:41] most of the people that listen to this
+[00:43] podcast know Bitcoin at least they heard
+[00:45] about it uh but I saw uh when I ask
+[00:50] people about Nostra that there are some
+[00:52] people that actually have no clue about
+[00:54] Nostra especially on YouTube um it's not
+[00:57] that common there um give us an you what
+[01:00] is Nostra what does Nostra what what
+[01:03] makes Nostra special uh and yeah what
+[01:06] what is Nostra in general right so I
+[01:09] have I think I have the perfect analogy
+[01:11] for your audience for the bitcoiners so
+[01:15] let's start with first the name right
+[01:16] like what is Noster Noster is an acronym
+[01:19] that stands for notes and other stuff
+[01:24] transmitted by relays okay what does it
+[01:28] mean doesn't matter that's the name
+[01:30] right so let's start with this
+[01:33] uh this um idea that I that I thought
+[01:36] about how to explain Noster so imagine
+[01:40] Bitcoin everybody knows from from from
+[01:43] your audience what is bitcoin Bitcoin is
+[01:45] a protocol and you can have Bitcoin I
+[01:47] can have Bitcoin and if I want I can
+[01:50] send you Bitcoin but it doesn't matter
+[01:54] what app what wallet I am using it
+[01:58] doesn't matter
+[02:00] I can be using wet of Satoshi I can be
+[02:03] using uh blink or I can be using uh uh
+[02:08] something different than what you are
+[02:10] using and it doesn't matter because the
+[02:12] Bitcoin will arrive to you so the way
+[02:15] I'm I'm explaining Noster it's the same
+[02:18] so Noster is a protocol it's a base
+[02:20] layer it's a set of algorithms of pro
+[02:24] it's a programming programming tool that
+[02:27] is used to connect one people with
+[02:29] another
+[02:30] Bitcoin what we are connecting or the
+[02:33] the tool that that is used for is to
+[02:36] transfer um money right Bitcoin is money
+[02:41] and Noster it's like the same idea that
+[02:45] but instead of trans transferring money
+[02:47] what we transfer is information what
+[02:49] kind of information it can be a video it
+[02:52] can be a text it can be a long text it
+[02:55] can be a podcast that's why it's called
+[02:58] notes and other stuff note a note could
+[03:01] be just two words like good morning
+[03:04] Robin that could be a note and then the
+[03:06] other stuff can be a video like part of
+[03:09] this recording that we are having at the
+[03:11] moment and it's transmitted by relays
+[03:15] what are the relays relay is just
+[03:17] imagine a synonym for a node a Bitcoin
+[03:20] node what is a Bitcoin node it's just a
+[03:23] computer connected to to all the network
+[03:26] of computers that are talking the same
+[03:28] language so in Bitcoin they are called
+[03:31] nodes and in Noster they are called
+[03:34] relays what they are they're just
+[03:36] computers that are talking the same
+[03:39] protocol which is the Bas layer and why
+[03:42] why was I using this comparison between
+[03:45] Bitcoin and wallets and all this because
+[03:48] Noster it's like a base layer and we can
+[03:51] communicate we can send all these notes
+[03:53] all these videos all these podcasts
+[03:56] using different types of apps they are
+[03:58] not called apps
+[04:00] like in Bitcoin they are called wallets
+[04:02] in Noster they are called clients it
+[04:05] doesn't matter they are just synonyms to
+[04:08] be able to to understand that it's just
+[04:11] a protocol and then everybody can build
+[04:13] on it it's interesting um would it
+[04:16] actually be possible I never had that
+[04:17] thought but would it actually be
+[04:19] possible to build maybe a layer three on
+[04:22] top of lightning and build directly on
+[04:26] bitcoin kind of a social media thing
+[04:28] because uh you can
+[04:30] uh also sent notes with uh
+[04:33] lightning
+[04:35] probably probably videos and other stuff
+[04:37] will be really
+[04:38] hard I don't know how to how to do that
+[04:42] uh but it's probably not possible to
+[04:44] build directly natively uh the things
+[04:46] that Nostra has on bitcoin on a
+[04:50] obviously like it has to be far away
+[04:52] from the main chain otherwise the costs
+[04:54] are too high uh but that's probably not
+[04:57] possible right so the problem with no
+[05:00] for this use case is that they are like
+[05:04] small machines the beauty of Bitcoin is
+[05:07] that all of us all PLS can be part of
+[05:09] the network and it is because um Bitcoin
+[05:14] is just like a few
+[05:16] megabytes but because it's just text
+[05:18] it's like plain text that's why you can
+[05:20] say as you were saying on Lightning not
+[05:22] like um hello Robin this is a tip for
+[05:24] you I like what you're doing something
+[05:25] like that just a plain string of text
+[05:29] but when you start talking
+[05:32] about long strings of text videos audio
+[05:37] this uses a lot of of space and the
+[05:40] difference between Bitcoin and Noster
+[05:42] because as I was saying I I was using
+[05:45] the the example of Bitcoin as a
+[05:47] comparison but Bitcoin has something
+[05:49] that Noster doesn't have which is the
+[05:52] blockchain the blockchain is copying
+[05:55] everything that's going on on all these
+[05:57] small computers on all these small notes
+[05:59] but in Noster the computers cannot have
+[06:03] a copy of everything because if you try
+[06:05] to copy all the videos how many
+[06:07] megabytes gigabytes terabytes petabytes
+[06:10] of data do you
+[06:11] need there is not enough space so people
+[06:14] couldn't be running these decentralized
+[06:17] network if they put have to copy
+[06:19] everything so I know some people in
+[06:22] Bitcoin is playing and experimenting
+[06:25] with sending like all kinds of stuff
+[06:28] that are not money but they are limited
+[06:31] and when they when there is a lot of
+[06:32] demand for that is as you were saying
+[06:35] the the fees ramp up a lot and and then
+[06:40] the main purpose of of what the the
+[06:42] chain was built uh loses its its initial
+[06:47] purpose so it could be it could be built
+[06:50] but because of all these technical
+[06:52] limitations that's why I think Noster is
+[06:56] a better tool to to decentralize this
+[06:59] kind of information which again Noster
+[07:02] doesn't have any blockchain it's not
+[07:04] copying everything that everybody's
+[07:06] saying on all the those relays that are
+[07:08] the computers that are on the
+[07:10] network so there are those relays and on
+[07:14] those relays the data is like the video
+[07:16] the uh text on those relays but it is
+[07:19] not on every relay the same data on on
+[07:22] the different relays there are different
+[07:25] um datas and you can access with the
+[07:30] Noster protocol with connecting to all
+[07:32] those relays to all the data is that is
+[07:36] that correctly understood that's the way
+[07:38] it is Imagine like nost what is Noster
+[07:40] right so Noster is like this protocol
+[07:44] that most of us are using it as a layer
+[07:47] to build social networks so social
+[07:50] networks today or I don't like to call
+[07:52] them social networks all of them maybe
+[07:54] more social media but that's another
+[07:56] topic but the way they work is that they
+[07:59] have their set of computers of servers
+[08:03] that they run it's like these same
+[08:05] relays maybe they don't have them on
+[08:07] house maybe they pay Amazon web services
+[08:10] or maybe they pay Google Cloud platform
+[08:12] or Microsoft aour so what they have is
+[08:15] that they have different computers
+[08:17] distributed all around the globe to for
+[08:21] us to to access but if I'm using um
+[08:26] Instagram I will only be able to access
+[08:29] those servers that are property or that
+[08:32] are paid by Instagram that are uploading
+[08:36] the information let's say the reals that
+[08:37] I would like to see today so Noster is
+[08:40] the same but instead of being owned by
+[08:42] one
+[08:43] Instagram or one or one single company
+[08:48] it can be run by us you could run your
+[08:50] own relay the same way I could run my
+[08:52] own maybe I can I would like to to run
+[08:55] my relay for my own family or for my own
+[08:59] community
+[09:00] and then everything that everybody posts
+[09:02] I will be the guardian of this
+[09:04] information if my computer breaks if my
+[09:07] computer computer freezes if I get I
+[09:10] don't know like a power outage or or
+[09:12] that computer get disconnected and you
+[09:15] will not be able to see what I posted
+[09:17] that's why there are like some
+[09:19] professional relay no noers that they do
+[09:22] copies of it but they do it because they
+[09:25] want not because the protocol itself is
+[09:27] always copying everything
+[09:29] if I'm now logged in for example in
+[09:33] Primal um uh as as I use Primal um
+[09:38] mostly um when I press send on which
+[09:42] relay is it sent like do I did I did I
+[09:46] first select what relay I want to put my
+[09:49] data on like how does that work so when
+[09:52] you download any client of Noster like
+[09:55] Primal
+[09:57] it it tries to make make it easier for
+[10:00] you not asking you all these type of
+[10:02] questions because most people might get
+[10:05] like overwhelmed by all these technical
+[10:08] kind of information that nobody ever
+[10:10] told them they have to worry about like
+[10:13] Instagram is doing all these on on the
+[10:16] backstage they are selecting when you
+[10:18] download the app which server will you
+[10:20] connect first because it's closer maybe
+[10:22] to your house or to your ISP
+[10:25] provider but Primal for example he
+[10:28] allows it allows you to to change the
+[10:30] list of notes that you want to connect
+[10:32] so when you download it it automatically
+[10:35] chooses the ones that he thinks that are
+[10:37] most relevant for you but then you can
+[10:39] go to settings and and change it and if
+[10:41] you have your own note you can say okay
+[10:44] everything I post will be published here
+[10:46] why because I want just just because you
+[10:48] want you can do it is there um a danger
+[10:53] of uh
+[10:55] centralizing uh relays in the sense of
+[10:59] like when we have those like right now
+[11:02] nostril is still like very small but
+[11:04] like let's imagine there's like one two
+[11:07] maybe three clients that get really
+[11:09] popular that have like default settings
+[11:11] uh because they make it super easy and
+[11:13] they all kind of like like those three
+[11:15] are the the main relays uh so is is
+[11:18] there a danger of long term if we scale
+[11:20] this thing make it super easy user
+[11:22] friendly that we kind of end up with the
+[11:25] the the same system that we already have
+[11:27] now where all the data is basically at
+[11:29] like three different places yeah amazing
+[11:32] topic of discussion and the first
+[11:34] question is like is this something we
+[11:37] have to worry about is this something
+[11:39] bad is centralization bad for uploading
+[11:42] this video for example because if it's
+[11:45] run by amateurs then and you have a big
+[11:48] audience maybe the S the server doesn't
+[11:51] allow all your viewers to be able to
+[11:54] enjoy like the same level of quality so
+[11:57] there will always have to be some
+[12:00] tiers some like
+[12:03] um professional relay know the relay
+[12:08] Runners that they have to offer
+[12:09] something that that the users want and
+[12:13] I'm asking like is this something we
+[12:14] have to worry about because there are
+[12:16] there is another thing that I think it's
+[12:18] more important that we have to worry
+[12:20] about which is not the centralization of
+[12:22] the information because as I'm saying
+[12:26] the when you download one of those apps
+[12:28] the system automatically chooses for you
+[12:30] but the more you learn then you can
+[12:32] change them so but there is something
+[12:35] that even if you don't Lo this app and
+[12:37] you have always all the factory settings
+[12:41] you will never be able to change and
+[12:43] this is what people should worry more
+[12:46] about which is the authenticity of what
+[12:49] were you're saying so the the value the
+[12:54] the differentiating point of Noster
+[12:56] compared to other social networks like
+[12:58] maybe Facebook Twitter Instagram or even
+[13:01] blue sky that people is talking about
+[13:03] like no this is more freedom for Freedom
+[13:05] Seekers and so on no like all these
+[13:07] companies that are run by um by a all
+[13:11] these social media companies that are
+[13:13] run by one company what they try to do
+[13:16] is like
+[13:17] to um to get you there so they can serve
+[13:21] you content and then based on that
+[13:23] content they can make some kind of of
+[13:26] Revenue which is not bad that's not what
+[13:28] I'm saying
+[13:29] but what what I'm saying is that because
+[13:31] they are centralized companies you can
+[13:33] never know that what people is
+[13:37] saying is that they are saying so if I
+[13:40] follow you on Twitter and you know I
+[13:43] like your content and every every time
+[13:45] you you post something I I engage with
+[13:49] you but you are not the owner of the
+[13:51] content that you post on Twitter and
+[13:54] everything you post there you expect
+[13:57] Twitter to it the way you post it if you
+[14:01] set a a comma you expect if you type a
+[14:04] comma you expect Twitter to post a comma
+[14:07] there but anybody in in Twitter can
+[14:10] enter to your account any employee and
+[14:13] post anything like I hate
+[14:15] Bitcoin and then all your reputation is
+[14:18] gone right right so this is what all
+[14:21] these big social media companies have
+[14:24] the power of it's which is the the
+[14:28] speech that they saying it's under under
+[14:30] their control and the different thing
+[14:32] that Noster has is that everything you
+[14:35] say and I'm going back to the to the
+[14:38] comparison with Bitcoin everything you
+[14:40] say if you post a coma if you post a a
+[14:42] full stop if you post a I love Bitcoin
+[14:45] text if you post a video everything you
+[14:47] post needs to be signed by you and when
+[14:50] I mean signed it's like when when you
+[14:53] send a transaction on bitcoin even you
+[14:56] don't you maybe you don't know when you
+[14:58] click Send
+[14:59] at this moment on the back uh the system
+[15:04] is verifying that when you're sending
+[15:07] you are signing this electronically so
+[15:10] everything we post on Noster will be
+[15:12] always always be signed by the owner of
+[15:16] that
+[15:17] Noster pair of public and private key so
+[15:22] the the main differentiation from from
+[15:25] these social media companies is that I
+[15:29] if I if I see if I'm following you on no
+[15:31] using Primal amethyst whichever client I
+[15:34] don't I don't matter which client I'm
+[15:37] using because I have your public key
+[15:40] which is your we could call it username
+[15:44] and you signed that message that said I
+[15:46] love Bitcoin with your private key I can
+[15:50] verify using a simple algorithm that you
+[15:53] were the people who signed up so Noster
+[15:57] makes us like sell Sovereign in what we
+[16:00] say on the internet and this is
+[16:03] something that no other social media can
+[16:05] ever be able to do because if they do
+[16:08] that they lose the the The Narrative of
+[16:12] what they're of what they're trying to
+[16:14] to push so this is more to me this is
+[16:16] more important than if if the relays are
+[16:20] more centralized or not centralized
+[16:22] because even if a Rel is centralized
+[16:24] they cannot fake what you are posting so
+[16:27] it's it's impossible inside of
+[16:30] nothing can the
+[16:32] relays um if if for example I just edit
+[16:37] if I
+[16:38] only can can a relay edit the content uh
+[16:43] once you sign it like you you post it to
+[16:45] a relay you sign it and only you can
+[16:47] sign it but once the data is at the
+[16:49] Relay can they go ahead and and edit
+[16:52] that yeah good good question so
+[16:55] everything so imagine like let's make it
+[16:57] easier right so what is a relay a relay
+[17:00] is a a small laptop a very very old
+[17:04] laptop very simple laptop that only has
+[17:06] like a a hard drive and a connection to
+[17:08] to the Internet so when you sign
+[17:11] something a picture you and I take a
+[17:13] picture like yes we're having fun here
+[17:15] boom you uploaded it not me you uploaded
+[17:17] it because you uploaded it what do you
+[17:19] what are you doing before sending it to
+[17:22] this laptop hard drive you have to first
+[17:26] attach or sign it with your signature
+[17:28] I'm ring s I'm I'm I'm signing this
+[17:30] picture with J boom you uploaded to the
+[17:33] hard drive of this of this relay and
+[17:37] then the relay owner if he shuts down
+[17:39] his computer then nobody I I won't be
+[17:42] able to see this picture because this
+[17:44] picture it's a URL that goes to https
+[17:47] blah blah blah going to the server of of
+[17:49] this computer then imagine that yes he
+[17:53] he keeps his computer on but then he
+[17:55] wants to change the picture and instead
+[17:57] of being the whole picture of you and I
+[17:59] I don't know he just cuts it on the
+[18:00] middle and now it's just your face he
+[18:04] can do that and he because he's the
+[18:07] owner of the or he he's not the owner
+[18:09] he's the he's hosting
+[18:13] the the picture file on his hard drive
+[18:16] and if he installs Photoshop or
+[18:17] whichever other app he can edit the
+[18:20] picture but when you edit the picture
+[18:24] the what what is a picture a picture is
+[18:26] a a set of ones and zeros organized in a
+[18:29] way using an algorithm that then with
+[18:32] another um computer app which is like a
+[18:34] picture viewer it can be like transcoded
+[18:38] into pixels in and colors and and then
+[18:41] you can see a picture but in the process
+[18:45] when when you edit a picture and you
+[18:46] create a new one and you save it the
+[18:49] numbers and the ones and zeros of the
+[18:50] original picture they change and the
+[18:52] same happen with the signature so he can
+[18:56] upload a new picture but then when I see
+[18:58] it
+[18:59] I will see that you are not you did not
+[19:01] sign it so there will be this picture
+[19:04] will exist there on his on his hard
+[19:06] drive he can even delete the original
+[19:09] picture that you posted there but it
+[19:13] doesn't matter now because everybody
+[19:15] that is following you could see that
+[19:18] this picture was not signed by you
+[19:21] another example of that is like you and
+[19:23] I sign a a PDF a contract so you send me
+[19:27] a PDF then I sign it digitally I send it
+[19:29] to you then you don't like what what I
+[19:31] signed then or you add one or two more
+[19:34] pages you can do that but then when I
+[19:37] see the file again I will see that the
+[19:39] file has been edited after I signed it
+[19:41] so then the validity of the signature is
+[19:44] lost that is super interesting sorry for
+[19:46] all those beginner questions but I I
+[19:48] really have no clue about it and um it's
+[19:51] it's always like an indication like if I
+[19:53] don't have a clue about it it might be
+[19:55] also big portion of my audience uh that
+[19:58] also still doesn't know so I think this
+[20:01] is really helpful um uh so I think I
+[20:04] understood the the main concept of of
+[20:06] Nostra now a little bit better um is
+[20:10] there any way to find out how many
+[20:12] relays there are and then like how much
+[20:15] data is there on like is there because I
+[20:17] know for example if like mining you can
+[20:19] uh look at like um mol. space and Mining
+[20:23] you see exactly where the mining pools
+[20:25] are and and what percentage they have
+[20:27] and stuff like that is something similar
+[20:29] there for for Nostra yeah right it's
+[20:32] like this is the same as with with notes
+[20:35] with Bitcoin notes there is people that
+[20:37] have a note at home and then they they
+[20:41] transmit everything on on the internet
+[20:45] like on the plain internet but then
+[20:46] there is other people that is running
+[20:48] notes under tour which is more more
+[20:52] hidden under the eyes of the of the
+[20:55] people on the internet so it's it's more
+[20:58] difficult to know how many notes of
+[21:00] course mining you need to know where are
+[21:02] the mining machines that are like
+[21:04] calculating all the hash making all the
+[21:07] mathematical tools to then be able to
+[21:10] tell them okay so you
+[21:12] successfully uh achieved or or or
+[21:15] discover these the secret numbers so
+[21:18] then the the minor reward goes to you
+[21:21] but the beauty of of of the relays of
+[21:25] Noster it's because they are similar to
+[21:28] the notes of Bitcoin I can tell you I
+[21:32] can broadcast if I have one but if I
+[21:34] don't want to I don't have to this is
+[21:37] this is the beauty it's like we we don't
+[21:40] know I mean I I've heard that there is
+[21:42] like 100,000 relates out there but I
+[21:47] don't know I I don't know because those
+[21:50] numbers are as estimates it's the same
+[21:52] way as like when they say like there are
+[21:54] I don't know like 4 million Bitcoins
+[21:57] lost how do you say they're lost no
+[21:59] they're not lost the numbers are there
+[22:02] maybe they haven't moved there for a
+[22:04] while and then there is an estimation of
+[22:05] if they don't move in whatever number of
+[22:08] days years decades they're considered
+[22:11] lost but the numbers are there and also
+[22:14] as I was saying this is a
+[22:16] very um we are in the early days of
+[22:19] Noster we just celebrated four years
+[22:22] when like uh a couple of weeks ago when
+[22:25] when we met there in in El Salvador
+[22:29] and this is like a tool for for for gigs
+[22:34] so I could I could run a server for a
+[22:37] couple of
+[22:38] weeks and then shut it down and then
+[22:41] next week I I do another one I I I start
+[22:44] another one and so we cannot say so
+[22:47] there are some professional servers that
+[22:49] of course they are they are there like
+[22:51] all the people that is all these
+[22:52] companies that are building those
+[22:54] clients you talked about Primal I talked
+[22:56] about
+[22:57] amethyst we can there are countless
+[23:00] countless um clients they of course want
+[23:04] to make sure that they offer a good
+[23:05] service to their users so they're
+[23:07] running their own relays the same thing
+[23:10] with those with
+[23:12] those Bitcoin lightning accounts as I
+[23:16] like to call them like those those
+[23:19] lightning wallets that you are not the
+[23:22] owner of your keys like wallet of
+[23:25] Satoshi for
+[23:26] example he he has to make sure that he's
+[23:29] run running one node with so many many
+[23:32] channels because he wants to offer a
+[23:34] service to his audience so the same
+[23:36] happens with uh with Noster clients and
+[23:41] the more clients that that will appear
+[23:45] in that will come that will that will
+[23:47] exist in the next years then the more
+[23:50] professionalized the
+[23:53] infrastructure below those clients will
+[23:55] be built so this is like the early days
+[23:58] of I think of Amazon web services so
+[24:01] Amazon web services it's now like I
+[24:03] think it's half it's a astonishing
+[24:07] number it's half of all these Cloud um
+[24:11] service providers it was built for
+[24:13] Amazon because they just wanted it they
+[24:16] they wanted to have an infrastructure to
+[24:18] hold their website and then they
+[24:21] realized that they could sell it to
+[24:23] third parties so the with the with the
+[24:27] launch of every new um technology there
+[24:31] will be
+[24:32] professionalization sorry
+[24:34] professionalization of all the sections
+[24:37] of this business so at the moment I
+[24:40] think we are in the early days where you
+[24:42] and I can build a can build a a relay
+[24:45] that people can use but in 10 in 10
+[24:49] years I don't know now this video how
+[24:52] many megabytes how many megabytes per
+[24:54] second is this using okay maybe we can
+[24:57] run a relay from our home but maybe in a
+[25:01] couple of years when when every video is
+[25:03] not me it's not measured in megabytes by
+[25:05] per second but maybe it's measured in
+[25:08] terabytes per second and then you don't
+[25:10] have like 10 people watching your video
+[25:13] concurrently but maybe you have a 100 or
+[25:15] a thousand then you will need a
+[25:18] professional service that is uh that is
+[25:21] um so maintaining this this peak or this
+[25:26] demand of of users
+[25:29] and and again and this is not nothing to
+[25:31] to worry about because this is how all
+[25:34] Technologies if if they are useful how
+[25:37] how all Technologies evolve again to me
+[25:40] like the main topic is that in Noster
+[25:43] you're capable of saying whatever you
+[25:45] want and your audience can verify that
+[25:49] that's what you said nobody can fake it
+[25:52] if if they fake it they lose they they
+[25:53] break like we're doing on this example
+[25:55] of the picture they break the
+[25:59] the the linkage of your of your tool of
+[26:02] your note with your signature and and
+[26:06] this is the the word that they use note
+[26:08] when I say note it's because Noster is
+[26:10] notes and other stuff in Twitter I think
+[26:12] they called posts in Instagram like
+[26:14] pictures I don't I don't know how they
+[26:17] how they call they are called in every
+[26:19] social network but the idea here is it's
+[26:21] a note a note can be a voice note text
+[26:25] an audio message
+[26:28] I like the name notes and other stuff
+[26:32] transmitted over relay like it's it's
+[26:34] very descriptional the the name of
+[26:38] it yeah yeah who knows to be the name
+[26:41] forever for the next years but this is
+[26:45] so simple it's like we're trying to be
+[26:48] so transparent here and and everyone who
+[26:52] wants to jump in this is free open
+[26:55] source so you can build on top anything
+[26:57] can be built buil on top of no it's like
+[26:59] all the wallets that can be built on top
+[27:01] of of Bitcoin and people people have to
+[27:05] experiment with that that's that's the
+[27:06] beauty of open source
+[27:09] code super interesting um what is from
+[27:13] those really Runners because uh I think
+[27:16] a big part of why Bitcoin is so
+[27:18] successful because it aligns incentives
+[27:21] and it really gives you the incentive to
+[27:23] to uh have a minor running especially in
+[27:26] the early days to even have a a node
+[27:29] running there are big incentives to do
+[27:31] that uh and now obviously you also have
+[27:34] a big incentive to hold Bitcoin yourself
+[27:37] um the incentives slowly slowly get more
+[27:40] to also spend Bitcoin to transmit in
+[27:42] Bitcoin uh so like there's always like a
+[27:45] huge incentive and that's why Bitcoin is
+[27:47] such a beautiful technology because uh
+[27:51] as as as long as humans are greedy
+[27:54] Bitcoin will work uh so like it's a it's
+[27:56] a really simple s simple thing where you
+[28:00] just align the financial incentives of
+[28:02] the whole world and Bitcoin will
+[28:04] automatically spread across the across
+[28:06] the globe um maybe greed is is the wrong
+[28:09] word for it but I think you know what
+[28:12] what I mean um what incentive do users
+[28:17] have to um uh obviously if if people
+[28:22] post on there they get SS uh that's like
+[28:25] kind of the incentive to post more on on
+[28:27] Noster especially for the early people
+[28:29] because you probably get sooner some
+[28:32] some revenue for that like that's a big
+[28:33] incentive to post there but what are the
+[28:36] incentives for Relay uh owners for like
+[28:39] people that run those relays they have
+[28:41] to buy the hardware the computer they
+[28:43] they have to do that what is the their
+[28:45] incentives to to do so so at the
+[28:48] beginning I thought that those
+[28:51] incentives are not for for like plebs
+[28:55] right like a Bitcoin note might be
+[28:58] interesting for a ple if he is going
+[29:01] down this Rabbit Hole of learning about
+[29:04] privacy because what the main to me the
+[29:07] main benefit and note for Bitcoin gives
+[29:10] you is privacy Everything You broadcast
+[29:13] to the Bitcoin network is is not not
+[29:17] seen by anybody anybody else
+[29:20] can like align your IP address with that
+[29:24] transaction and then create a connection
+[29:26] like this IP address this IP address
+[29:28] which normally is linked to a name the
+[29:32] owner of the network connection is doing
+[29:35] that transaction so for for me the the
+[29:38] Bitcoin note incentive it's clear it's
+[29:40] privacy once you want to get more
+[29:42] privacy inside of bit but for Noster I
+[29:46] don't think there is like such a big uh
+[29:51] incentive because everything you post in
+[29:54] social networks normally is uh is tied
+[29:58] to to to an identity as well so it's
+[30:00] like if you want to reach more followers
+[30:02] then normally you don't you don't matter
+[30:05] about what uh if you're posting with
+[30:08] your picture or not so to me I I don't
+[30:11] think that there is a a big incentive
+[30:13] now for plebs to run Noster relays so
+[30:16] it's more like companies that they is
+[30:18] what I was saying before like these
+[30:20] companies that are playing around with
+[30:21] the technology to build this
+[30:24] infrastructure so then when the clients
+[30:27] the
+[30:28] and let me explain again what the client
+[30:30] is the client is this app that uses
+[30:33] Noster like the Wallets on on bitcoin
+[30:35] it's an app that you have to use like
+[30:37] Primal to connect to to Noster to see
+[30:40] what's going on what your friends are
+[30:42] posting so to me what I'm saying is that
+[30:45] the incentive is more um is more
+[30:48] interesting for the
+[30:53] computer like technology
+[30:55] providers that are helping build
+[30:58] the tools for the average user the
+[31:02] incentive is not run this these relay
+[31:07] but rather use the client that will
+[31:10] allow
+[31:11] him not only as I was saying before make
+[31:15] sure that everything he reads from
+[31:17] anybody can be verified that this person
+[31:20] posted but also for the Creator's
+[31:23] economy like most of these of these
+[31:26] people that is using social networks
+[31:29] they are like building like their
+[31:31] personal Brands and maybe they are
+[31:34] experts in one topic or on another one
+[31:36] and what they want to get is exposure to
+[31:39] get an audience and then based on that
+[31:41] audience maybe they can monetize it so
+[31:44] to me like the incentive is more to use
+[31:46] the tool itself and not bother about how
+[31:49] to run the technological part of of of
+[31:53] the of the business because imagine you
+[31:56] are a photographer you're a photographer
+[31:58] maybe you like to go places visit
+[32:00] amazing Landscapes and take pictures so
+[32:03] this is what you like but maybe you
+[32:04] don't like to have to learn about how to
+[32:08] have like hosting service to upload
+[32:12] those pictures how to then connect it to
+[32:15] the Internet so if the if there is a
+[32:17] peak of users going the server doesn't
+[32:19] go down so I think more more interest
+[32:23] for the creators that they can focus on
+[32:26] their area of Interest you're a photog
+[32:27] pher take pictures if you're a cook
+[32:30] maybe you want just to record
+[32:33] yourself cooking recipes and posting it
+[32:36] to your audience maybe on on a on a v on
+[32:40] with with videos or maybe you like to to
+[32:42] write and you just like to be immersed
+[32:46] in the process of writing so you don't
+[32:48] have to know how all these
+[32:50] tools how if you need to buy a bigger
+[32:52] server for the videos of of your cooking
+[32:54] recipes or if you need um a a bigger
+[32:58] connection to the Internet so the user
+[33:00] so the the incentive is more of using
+[33:04] the tool that is sustained by maybe
+[33:09] amateurs or professionals because one of
+[33:12] the things that I didn't mention you yet
+[33:14] about Noster is that for all those
+[33:17] creators out there if you're posting
+[33:19] your video on YouTube probably YouTube
+[33:22] is taking a cut of course because
+[33:23] they're doing a job right so they're
+[33:25] hosting all these infrastructure they
+[33:27] posting commercials and then you have
+[33:29] your Partnerships and based on that a
+[33:31] part that goes to you and a part goes to
+[33:33] to the people who help you build that
+[33:35] that infrastructure but on Noster if I
+[33:38] like if if you post if you Robin as as
+[33:42] yourself Robin say writes like a long
+[33:45] post a long history about Bitcoin and I
+[33:48] like it I can
+[33:51] directly zap you this is how we called
+[33:53] to send value for Value can I can zap
+[33:56] you a couple of um of satosi directly no
+[34:03] intermediary so this is more the value
+[34:06] is more of using the platform to reach
+[34:10] your audience directly limiting the
+[34:12] number of intermediaries of course and
+[34:15] of course I'm going back to the
+[34:16] incentive of the question that you asked
+[34:18] me the incentive of running a relay
+[34:20] because the infrastructure needs to to
+[34:23] to be sustained by someone I still don't
+[34:25] know how these companies will make money
+[34:28] but I have an assumption and we'll see
+[34:31] maybe in a couple of years if I'm right
+[34:33] or if I'm wrong so my hypothesis is that
+[34:36] there are now these these companies the
+[34:39] clients Primal amethyst
+[34:43] damus whichever that they are they are
+[34:46] releasing their softwares for free their
+[34:49] clients but they have to pay for all
+[34:50] this
+[34:51] infrastructure and the code itself the
+[34:54] base layer of Noster it's an open source
+[34:57] protocol that is mainly sustained by
+[34:59] volunteers that are like subsidizing the
+[35:04] the
+[35:05] technology so what I would like to see
+[35:07] in the future or to make this self
+[35:11] sustainable is that those clients that
+[35:13] people are
+[35:14] downloading maybe they need to be um uh
+[35:19] they they they would need to pay to the
+[35:21] underlying protocol to these people that
+[35:23] is running all the servers and
+[35:25] maintaining the
+[35:26] software for using the software but
+[35:30] because it is something that is so
+[35:31] personal between you and I if if I again
+[35:33] if I like your article and I zap you
+[35:36] then what we can do is that part of this
+[35:38] app goes to maintaining the client
+[35:41] itself and the protocol and this is
+[35:43] something that I'm not sure if
+[35:45] somebody's playing around with it if
+[35:47] somebody's doing it please reach out to
+[35:50] me or or just comment or whatever but
+[35:52] what I already seen is that if you and I
+[35:55] let's go back to this example that we
+[35:56] said about the picture you and I take a
+[35:59] picture of us and you post it but you
+[36:03] not only post it you mention me so when
+[36:05] you do that some of the clients allow
+[36:08] you to share with the person you post
+[36:11] all the Zs that they're sending you so
+[36:13] if you receive 10 Z 10 10 satoshis and
+[36:16] you decide that well the P you took the
+[36:18] picture so you you you want to have the
+[36:20] biggest credit so it's like out of every
+[36:23] 10 Satoshi that are sent eight go to you
+[36:26] and two go to me you can do that right
+[36:29] now with all these apps so my idea is
+[36:32] that or my hypothesis is that in the
+[36:34] future this is what will happen like um
+[36:37] every zap but only the zaps that happen
+[36:40] you know it's like not everybody will
+[36:42] have to pay for using the platform only
+[36:44] the ones that are getting value out of
+[36:47] it so because this is more personal
+[36:49] because in Noster you have what it's
+[36:50] called like the social graph that Noster
+[36:53] LS learns about you and everything you
+[36:55] do it's creating uh
+[36:58] uh it can create a recommendation on
+[37:00] what you like what you don't like who
+[37:02] you are connected to and he can
+[37:03] recommend you things that you already
+[37:04] like so the more that the more things
+[37:06] you like the more things that are
+[37:09] similar to what you see you will see and
+[37:10] then the more C circular economies will
+[37:14] be able to be built directly inside of
+[37:17] of this nost I know I didn't ask you
+[37:20] exact I didn't answer you exactly like
+[37:22] what is the incentive for regular people
+[37:25] to build relays but it's because at the
+[37:28] moment I think that is not such a big
+[37:31] incentive for for Regular People Like Us
+[37:34] I partnered up with coin vigilante this
+[37:38] is the most beautiful Bitcoin time piece
+[37:41] that I ever saw created by anyone look
+[37:44] at that beauty I love it so much coin
+[37:46] vigilante made a perfect Bitcoin watch
+[37:50] that's the perfect subtle elegent way to
+[37:53] go out there and show that you are a
+[37:55] bitcoiner and that watch brand is
+[37:58] Bitcoin only and coin vigilante just
+[38:01] dropped a completely new and amazing
+[38:03] Genesis edition of their watch
+[38:06] collections you have the date of the
+[38:08] first ever mined Bitcoin Block in there
+[38:12] and of course also the block height and
+[38:14] which Epoch we are currently in I love
+[38:18] the level of detail they put in in this
+[38:20] masterpiece and make sure to check out
+[38:23] those amazing coin vigilante time pieces
+[38:26] down in the descript descriptions I love
+[38:28] those watches so so much if you watch or
+[38:32] listen to my podcast on a regular basis
+[38:34] I'll guess you already already bought
+[38:36] some Bitcoin and now the most important
+[38:39] step is to keep the Bitcoin keep them
+[38:42] secure in a hardware wallet my personal
+[38:44] recommendation for hard wallet is the
+[38:46] bitbox it's super secure it's simple to
+[38:49] set up it's also perfect gift for a
+[38:51] friend who has still the Bitcoin on an
+[38:54] exchange and you can get a 5% discount
+[38:57] account with the code Robin at the
+[38:59] checkout visit bitbox do Swiss robobin
+[39:03] to get your bitbox and the next step is
+[39:06] to really level up your sovereignty as
+[39:08] an individual you have to have the most
+[39:11] secure self- custody setup you have to
+[39:13] secure your own devices you have to
+[39:16] protect your privacy you have to set up
+[39:19] an inheritance plan and depending on
+[39:22] where you live you even want to have a
+[39:24] plan B a citizenship where you can move
+[39:27] in in case something goes really really
+[39:29] wrong and through all those steps the
+[39:30] Bitcoin way is guiding you through step
+[39:34] by step and if you visit the Bitcoin
+[39:36] way.com
+[39:38] Partners robobin you even get a 30
+[39:41] minute free call to find out how you can
+[39:43] level up your sovereignty but yeah that
+[39:47] that could be in the future as you said
+[39:48] like I think um I think for long-term
+[39:53] scaling there needs to be an incentive
+[39:56] for them to run realist that's are super
+[39:59] efficient especially when we talk about
+[40:02] video content uh and maybe a lot of
+[40:05] video content um maybe you have like a
+[40:09] long from video content platform or or
+[40:11] you build like a Netflix on top of of of
+[40:14] relay top of nostril where you really
+[40:17] have big video files in whatever 4K and
+[40:22] it has to run super smoothly because
+[40:25] otherwise people will stay with Netflix
+[40:27] and YouTube and with uh with Instagram
+[40:30] Tik Tok and so on if it's not perfect if
+[40:33] the user experience is not absolutely
+[40:36] amazing nobody has an incentives to
+[40:39] switch so like uh we we have to get
+[40:41] there where the the
+[40:44] relays uh they have to provide a really
+[40:46] Professional Service uh and and I hope
+[40:49] we we get there you also mentioned one
+[40:52] really interesting point
+[40:54] is I know there are people that work on
+[40:58] ad Revenue also on Nostra like to
+[41:01] implement th those things also on Nostra
+[41:03] but right now it's basically just value
+[41:05] for
+[41:06] Value what do you think of uh value for
+[41:10] Value versus add revenue of a business
+[41:13] model is do you see value for Value
+[41:15] something that is has a future uh with
+[41:19] the micro payments and I can just like
+[41:21] send you a fraction of a fraction of a
+[41:23] scent or maybe I maybe in the future I
+[41:25] can even send you a fraction of a toi uh
+[41:28] for for something I think right now at
+[41:30] least like one Satoshi the minimum of
+[41:33] scent but yeah we we might be uh there
+[41:37] if if Bitcoin grows we we might be able
+[41:39] to send you fractions of a zosi um it's
+[41:42] like those value for Value model the the
+[41:45] future or do you also see ad Revenue
+[41:47] something that will be dominant uh
+[41:50] moving forward yeah and you touch on two
+[41:53] things here like first of like the
+[41:55] infrastructure is not capable now of
+[41:58] doing like this video streaming
+[42:00] streaming service which maybe Noster is
+[42:04] not the tool for that which is fine
+[42:06] maybe I don't want to watch a movie
+[42:09] using Noster because I'm using Noster to
+[42:13] to watch things that I can verify that
+[42:16] the owner has said so if I'm watching a
+[42:19] movie on Netflix I'm I'm happy I don't
+[42:22] need to watch it through these new techn
+[42:25] but if I'm watching a a of you you know
+[42:29] now with AI I can put anything I want in
+[42:31] your mouth so I want to use Noster to
+[42:35] see everything you have to say because I
+[42:37] want to make sure that what you're
+[42:38] saying you said a movie nobody's gonna
+[42:41] fake a whole
+[42:43] movie
+[42:44] to to say something that the movie
+[42:46] wasn't intended to so it is more a tool
+[42:49] for for freedom of speech Noster is
+[42:52] built to to be able to verify that
+[42:54] everything you hear you read you see
+[42:56] it's by the by the person that that he
+[42:58] said and then the other topic that you
+[43:00] were asking like is value for value and
+[43:02] then yeah of course the fraction
+[43:03] fractions of Satoshi is I run a note a
+[43:05] Bitcoin note myself uh a Bitcoin
+[43:08] lightning note as well and I am routing
+[43:13] payments from people that are using my
+[43:15] note as a channel to get to another
+[43:17] place and because my fees are so low so
+[43:21] I sometimes receive uh what was it a, m
+[43:27] so you I don't know for how how small
+[43:30] you can you can cut this because it's
+[43:32] just a matter of adding zeros right so
+[43:34] it's like I changing this so yeah value
+[43:38] for Value I think that it depends on on
+[43:42] who your who your your audience is um
+[43:47] I've been I've been working in startups
+[43:49] for for the last couple 10 years and
+[43:54] part of my my role was doing business
+[43:56] development and discovering new business
+[43:58] models for new products and new
+[44:01] technologies that are emerging and every
+[44:04] product and every
+[44:06] service needs to have a specific
+[44:09] business model for them we are now in
+[44:11] Noster playing with value for value and
+[44:14] you can talk to many um content creators
+[44:18] like yourself that have audiences in the
+[44:22] other part of the globe that they might
+[44:24] not have access to a bank account and I
+[44:26] know this is like typical topic of
+[44:28] discussion like Bitcoin is not for us
+[44:30] Bitcoin is for the people who who
+[44:31] doesn't have like I think it's like two
+[44:32] billion people in the world that don't
+[44:34] have access to bank accounts so the
+[44:36] value for Value I think it's useful for
+[44:38] for these people that don't have like
+[44:40] this type of of I don't know buying your
+[44:43] product because they are so far away and
+[44:46] then the ad Revenue uh business model it
+[44:49] works but again it depends on who your
+[44:53] audience is so you're in Austria maybe
+[44:56] your audience is the english- speaking
+[44:58] community of bitcoiners so every type of
+[45:01] ad that you run on on your network needs
+[45:05] to be focused on this type of of
+[45:07] audiences so if I am if I am a
+[45:11] kid uh in s Salvador maybe I don't care
+[45:15] about the watches you know or or your
+[45:18] sponsors maybe I don't care about that
+[45:21] so this app is useless for for you as a
+[45:25] content creator so I think that the
+[45:28] value for Value it's a good other way of
+[45:31] your audience to let you say thank you I
+[45:35] like what you're doing I love your
+[45:37] content especially for so I'm seeing now
+[45:41] like this trend of we
+[45:44] are we are stopping becoming employees
+[45:49] we're starting to learn how to become
+[45:52] maybe uh working from home employees and
+[45:56] then remote workers and then maybe we
+[45:59] have some sight hustles like like there
+[46:02] is a path and people and this was um the
+[46:06] trend that started 10 10 20 years ago
+[46:10] with social networks not social media
+[46:14] that's what we have today but with
+[46:15] social networks empowering everyone what
+[46:18] I what today is called the Creator's
+[46:20] economy and of course the names will be
+[46:22] changing so what I'm what I'm seeing now
+[46:24] is like this trend of all my my young
+[46:28] friends
+[46:29] my Z my my gen Z friends they're all
+[46:33] always talking about oh we can we can
+[46:35] run this side hassle or this other side
+[46:37] hustle people is starting to realize
+[46:39] that they can monetize their skills on
+[46:43] internet and we are seeing like a less
+[46:47] interest of having a 9 to5 job that you
+[46:51] start when you 18 and you finish when
+[46:53] you are 60 whatever or 70 when you when
+[46:56] you tire and we see more of a trend of
+[46:59] even people that likes to discover new
+[47:02] communities new countries no much that
+[47:05] are willing to move their business with
+[47:08] themselves so for these
+[47:10] people they they need a a way of making
+[47:14] their living so to me if all those
+[47:17] creators join on Noster and they can
+[47:20] start building their Community there
+[47:23] they can make a lot of a lot of money
+[47:25] from everywhere just with the with the
+[47:29] uh value for value and of course this is
+[47:32] not easy and it took me a while to
+[47:34] participate in the value for
+[47:36] Value um Market but everything is a is a
+[47:41] process and I'm glad that Noster has
+[47:44] this tool because most artists are the
+[47:48] way they have to to reach Their audience
+[47:51] I'm I'm telling you the the example of
+[47:53] of artist because the the typical
+[47:55] business model of an artist is is that
+[47:57] maybe they spend one year researching
+[47:59] and creating u a new a new piece of art
+[48:03] then they have to to rent a gallery they
+[48:06] have to Showcase their piece or their
+[48:07] pieces of Art and hope and cross their
+[48:10] fingers that the right people go to that
+[48:12] Gallery at that precise moment and gets
+[48:15] their art so they have
+[48:18] to save a lot of money to leave one year
+[48:22] out of nothing to create something that
+[48:23] then maybe they can monetize so nost
+[48:26] what they offer is like a way of you
+[48:29] create a small piece of art today while
+[48:32] you have maybe you are staring you're
+[48:33] having uh you already have a job and
+[48:36] maybe you have like a couple of hours
+[48:38] free today and you start playing and you
+[48:40] start discovering what is the skill set
+[48:43] that you want to monetize and this
+[48:45] allows you to verify very easily very
+[48:47] fastly if if this is the the next PATH
+[48:51] for you if this is what you have to to
+[48:53] pursue and again no intermediaries it's
+[48:56] a connection directly from the artist to
+[48:59] Their audience it could be the social
+[49:02] networks already promoted that but the
+[49:05] difference is that social network if
+[49:06] they don't like what you're posting if
+[49:09] the piece the piece of art that you
+[49:10] uploaded goes against the media
+[49:14] guidelines of the week because today we
+[49:16] have to talk about whichever war or
+[49:18] whichever new president or whatever then
+[49:21] you will not be able to see um if your
+[49:25] audience will not be able to see see
+[49:26] your art so the difference between
+[49:29] social media and I'm telling you now why
+[49:31] I differentiate between social network
+[49:33] and social media social network is a
+[49:35] network you connected to me I connected
+[49:37] to this other person but social media
+[49:40] it's just a way of hiding inside of a
+[49:43] social network what traditional mass
+[49:46] media has been doing all the time which
+[49:48] is the rulers post what they what the
+[49:51] what they want the the audience to talk
+[49:53] about in that specific time and that's
+[49:56] why even if you have 1 million
+[49:59] followers if you post something on
+[50:02] whichever social media platform all
+[50:05] these million followers are not going to
+[50:06] see what you posted it goes it is
+[50:09] filtered first by the algorithm and it
+[50:12] this happens maybe in a fraction of a
+[50:13] second and then if it aligns to the
+[50:16] social media message that they want to
+[50:18] convey at the same at that moment then
+[50:20] maybe half only uh 500,000 half of of
+[50:25] your audience will see it so the
+[50:27] difference between social networks and
+[50:29] social media that social networks first
+[50:31] was trying to to connect people but now
+[50:34] that we almost are all interconnected
+[50:36] social networks don't want us to connect
+[50:38] what they want us is to stay there
+[50:40] hooked in our phones like like this all
+[50:43] the time like hours and hours and hours
+[50:45] so they can streamline direct to our
+[50:48] brain all these uh dopamine hits that we
+[50:52] need to stay connected so then they can
+[50:53] sell us the products that they think
+[50:57] that we might be interested in buying
+[50:58] maybe we don't care about those products
+[51:00] but because they put it at the moment at
+[51:02] the right moment that we are having like
+[51:03] this dopamine Rush maybe we buy it so
+[51:06] the difference between the social
+[51:07] network and social media platform is
+[51:09] that the social media is just trying to
+[51:11] get you hooked because now companies
+[51:13] are are competing against each other for
+[51:16] attention they want us to be there
+[51:19] because the more they we're there the
+[51:20] more they can know about us the more
+[51:23] profiling they can know about each of us
+[51:25] they can cluster in groups and then they
+[51:27] can make more money it's not wrong to
+[51:30] make money based on the on ads if if if
+[51:35] this is your business model for your
+[51:37] platform but the problem here is that we
+[51:40] users sometimes are not aware of we
+[51:44] staying on those platforms not because
+[51:46] we like it but because we are addicted
+[51:49] so the idea of switching from from uh
+[51:53] Legacy social media platforms to Noster
+[51:56] is that Noster doesn't have this type of
+[52:00] behavior what they what we have in
+[52:02] Noster is the social graph which is what
+[52:04] I said before is like a way of knowing
+[52:07] about our tastes based on the people we
+[52:10] follow so in Noster the important thing
+[52:12] is who you follow who follows you and
+[52:14] everything you say and in noer you can
+[52:17] build your own algorithm if I don't like
+[52:21] um cooking recipes I can say don't show
+[52:24] me this but you know it's my choice
+[52:27] it's not that today is not a topic of
+[52:30] that we have to talk about and that's
+[52:31] why the the tool itself cancels
+[52:34] everything that has to be about this
+[52:36] topic so you see like those are the the
+[52:39] differentiations I do between social
+[52:41] media social networks social networks
+[52:44] are gone at least the way the way we
+[52:46] know it and I think that that Noster is
+[52:49] is trying to catch up on that we're very
+[52:51] early we are just 4 years old and we
+[52:55] know we don't know this is like like
+[52:57] Bitcoin 10 years ago right we we don't
+[53:00] know where this is going to go the good
+[53:02] thing is that this is an open protocol
+[53:04] and we can all build on this and and
+[53:06] that's why I'm I'm part of that and
+[53:08] that's why I'm on Noster because I
+[53:09] believe that we have better ways to
+[53:12] connect to each other better ways to
+[53:14] express ourself and better ways of
+[53:17] monetizing all of our skills that we
+[53:20] have that maybe we still don't know I
+[53:22] don't know maybe you can play the guitar
+[53:24] and and you don't know that your
+[53:25] audience is interested in that okay just
+[53:27] play with it maybe if I like it I will
+[53:30] send you 10 satosi 20 1,000 satoshis
+[53:33] this this is the the value I see of of
+[53:36] Noster interesting I like the more I
+[53:40] think about Noster the more I'm like uh
+[53:43] it it could be something that we
+[53:44] actually use in in in in the future and
+[53:47] that might actually be there I see some
+[53:50] problems uh with scaling and with like
+[53:54] those uh let's see like the the where we
+[53:58] go from we are now like a small
+[54:02] community to like we go to like a mass
+[54:05] Market of like maybe five to 10% of the
+[54:08] world population is on noer where we
+[54:10] slowly get to uh those ad Revenue models
+[54:14] are then built in then clients get built
+[54:18] that are super addictive again because
+[54:20] that's how you get the people and like
+[54:22] all those problems we have now with
+[54:24] social media um
+[54:27] I think have a good chance also to come
+[54:30] to Nostra if it's successful uh because
+[54:33] it's just human behavior like we we
+[54:36] we're getting addicted to those toam Min
+[54:38] hits uh and uh from a techn technology
+[54:42] samper we could like I'm not saying this
+[54:45] is where NOS I'm not saying that NOS
+[54:48] will end up at the same place that is
+[54:49] social media right now I'm just saying
+[54:52] that's one of my concerns that we just
+[54:56] build building the same thing that we
+[54:58] already have um a little bit more
+[55:01] decentralized and that little bit more
+[55:03] decentralized might be uh good enough
+[55:06] like that might be uh already the the
+[55:09] small thing that we need for freedom of
+[55:10] speech because you can sign a
+[55:12] transaction not not you can sign the
+[55:14] message that you do uh you can then uh
+[55:17] decide for yourself and uh choose
+[55:20] algorithm there will be probably a
+[55:23] bigger um
+[55:26] you you can you can get your account
+[55:29] from one client to another client so for
+[55:31] example if you now build a huge audience
+[55:33] of on Twitter you can just not just take
+[55:36] that and put it on YouTube uh but with
+[55:39] nost that's possible so there are a lot
+[55:42] of incentives to have really the free
+[55:45] market of
+[55:46] clients um but so that that's kind of
+[55:49] the positive side of things that that I
+[55:52] see uh but I I I really am impressed
+[55:55] with nost and development in the last
+[55:57] year uh I think the last year was
+[55:59] extremely positive and extremely good in
+[56:02] terms of what what has been built uh and
+[56:04] I'm just fascinated by the by the topic
+[56:07] because it is
+[56:09] the it is the
+[56:12] 201 12 of of Bitcoin maybe 13 yeah where
+[56:17] we are at such an early point where
+[56:20] there are still so many questions open
+[56:23] 2011 12 like
+[56:26] if if you went all in Bitcoin in 2011
+[56:30] you were a
+[56:31] maniac there were so many questions open
+[56:35] the same the same now with with with
+[56:38] Nostra obviously now it's not about
+[56:40] financial energy you don't you don't
+[56:41] have to gamble your life savings into
+[56:44] Nostra you can just like play with it
+[56:46] and and do something with it like a few
+[56:48] minutes every week and you're kind of in
+[56:50] the game uh so the barrier to entry is
+[56:53] definitely smaller I would say but I I
+[56:57] just I'm really fascinated by it and and
+[56:59] if I think
+[57:01] Nostra could be a huge topic moving
+[57:05] forward also on this podcast I think
+[57:07] that that I have now maybe maybe three
+[57:11] or four or five podcast episodes where
+[57:13] we talk mainly about Nostra um and maybe
+[57:16] 20 or 30 episodes where there are some
+[57:19] Nostra talks in there or something like
+[57:21] that and I think the it it will continue
+[57:24] to accelerate so yeah really cool uh I I
+[57:28] I like it a lot how how it uh how it
+[57:31] develops um one thing that if we compare
+[57:34] to bitcoin Bitcoin podcast I have to ask
+[57:37] that are there are there com is there
+[57:40] competition to Nostra that does kind of
+[57:43] the the same thing can there be a second
+[57:45] best
+[57:46] Nostra W good question it's like Bitcoin
+[57:49] right it's open source free code anyone
+[57:52] can build a a Noster to anyone
+[57:57] but so far people is using Noster
+[57:59] because for whichever reason we believe
+[58:02] that the protocol that Noster set up or
+[58:06] or gave us is good enough so this is how
+[58:10] you build um an open source project you
+[58:13] start you share your code your code base
+[58:16] then some developers start contributing
+[58:18] to the software and then if there is
+[58:21] some disagreement then you decide to to
+[58:25] do a fork and and then you go through
+[58:27] through another path at the moment
+[58:29] everybody is building on top of Noster
+[58:33] but who knows time will tell and because
+[58:36] of the free market competition as you
+[58:37] were saying of the clients if one client
+[58:41] for whichever reason switches to another
+[58:44] protocol the others will see what is the
+[58:47] the best one to to adhere to at the
+[58:50] moment yeah four years in the making
+[58:54] it's what people is using interesting
+[58:56] yeah the I I hope we get to the point
+[59:00] where um we have full freedom of speech
+[59:04] like I I truly don't care how we get
+[59:07] there the the same way I don't care
+[59:10] about how we get to sound money how we
+[59:13] get to a good Financial system I think
+[59:15] Bitcoin is the way uh but if all of a
+[59:18] sudden tomorrow erupts something better
+[59:21] uh and it takes the whole world
+[59:22] over I put that uh possibility at like
+[59:26] 0.1% but if that happens I'm fine like I
+[59:30] won't sound money right exactly the
+[59:33] technology is just a tool to arrive
+[59:35] there doesn't matter doesn't matter if
+[59:37] if if you're a fan of uh blue and I'm
+[59:40] fan of of red you know it doesn't matter
+[59:43] we the tool that we're using to to reach
+[59:46] a goal is the goal is the important
+[59:49] thing and now so far this is what we
+[59:51] have we have Bitcoin we have nost and
+[59:53] the community is building h absolutely
+[59:56] really cool perfect then uh we have um
+[60:00] uh uh we we we talked before what we can
+[60:03] talk about like and we wanted to talk
+[60:05] about saltis the things that you also
+[60:08] doing took a long time to to get here
+[60:11] but uh what is santis and and and and
+[60:13] and what are you actually doing there
+[60:16] right I mean I have some idea right of
+[60:18] of of the of the talk but I'm I'm So
+[60:20] Into Noster that to me like everything
+[60:22] gravitates to to Noster and this is why
+[60:25] I join Satan because santis is one of
+[60:28] these other clients and as you were
+[60:30] saying if you're a user of Noster it
+[60:33] doesn't matter which client you're using
+[60:35] there are clients that are more focused
+[60:36] on text long text Twitter
+[60:40] threats
+[60:42] podcast uh music um videos there are
+[60:46] many clients and of course there are
+[60:48] clients that are doing the same thing
+[60:49] like many are doing text or many are
+[60:51] doing podcasting so Atlantis is just
+[60:54] another and and again I want to talk
+[60:57] much about the tool itself what I'm
+[61:00] trying to say is that everything you do
+[61:02] in every of those clients it's written
+[61:06] in a way that if this client dies if
+[61:09] this client disappears tomorrow it
+[61:12] doesn't matter to you because the data
+[61:14] your data is never stored on those
+[61:16] clients again I'm repeating the meaning
+[61:18] of client a client for regular people to
+[61:22] understand it's it's an app an app that
+[61:24] you download on your phone that that's
+[61:26] that's a client like Twitter inside of
+[61:28] Noster that would be like a client so
+[61:32] what I'm saying is that now all the apps
+[61:35] that you download on your phone
+[61:37] everything that that you do there it
+[61:39] stays there with them because they are
+[61:41] normally companies and they are the
+[61:44] owners of this data when you sign like I
+[61:47] agree terms of condition and all this
+[61:48] what happens there is that you're
+[61:51] selling your your soul to the devil
+[61:53] right it's like you're saying everything
+[61:54] I'm doing now is yours and you grant me
+[61:57] access to this information until you
+[62:00] decide to stop granting me this access
+[62:02] so what I'm saying what I'm trying to to
+[62:04] explain here is that all these clients
+[62:06] what they are is just they're just
+[62:08] glasses they are glasses of seeing the
+[62:10] world and today you can wear the blue
+[62:11] glasses tomorrow the orange glasses or
+[62:13] whichever glasses and you see the W in
+[62:16] different ways and what I'm seeing what
+[62:17] I'm saying w i mean the speech that
+[62:19] you're sharing to world so if you don't
+[62:22] load uh we talked about um
+[62:26] Primal right before Primal is it's it's
+[62:28] a clone of Twitter so everything that I
+[62:31] post on my Noster account through Primal
+[62:33] you'll see it with a UI with a user
+[62:37] interface that is similar to Twitter sat
+[62:40] lantis it's just another tool another
+[62:42] client we are focused on Nomads and
+[62:45] bitcoiners it's like we are building
+[62:47] like like this directory this aggregator
+[62:50] of information that is happening on
+[62:52] Noster because now the problem with
+[62:53] Noster is that it's so big every body
+[62:56] can post you can post a picture you can
+[62:58] post a note you can post um a long text
+[63:01] you can post a video and you can post it
+[63:04] from Vienna I can post it from
+[63:06] Barcelona maybe I don't care you know
+[63:09] now about what you're posting now and
+[63:12] unless I know you and unless I know that
+[63:15] I like your
+[63:17] content and this is the same with with
+[63:19] social network at the beginning you
+[63:20] don't know anyone you need to maybe we
+[63:22] need I met you in person and then
+[63:25] through that I said can I have your your
+[63:26] contact and that's how we connected but
+[63:29] there are other ways especially what I
+[63:31] was saying for these people that is
+[63:33] changing their path no like I'm an
+[63:35] employee now I work from home now I
+[63:37] start doing some gigs on the side and
+[63:39] then I decide to travel and then I I
+[63:41] become my own boss so for these people
+[63:43] that are normally traveling all the
+[63:45] world they would like to know
+[63:47] like-minded people or what's going on in
+[63:50] the country or in the city they're going
+[63:52] so we build a tool we build this
+[63:53] aggregator of Noster everything that's
+[63:55] going on on Noster we organiz it by
+[63:58] cities so when I went to El Salvador and
+[64:02] I went to
+[64:04] Elon I had no idea that was my first
+[64:06] experience there so before I went there
+[64:09] I checked the Elon page on santis doio
+[64:14] which is our website and then you you
+[64:16] can choose there um can I see what's
+[64:20] going on on Noster so everybody that if
+[64:22] you were there posting things like oh I
+[64:24] just arrived in Inon then I could see
+[64:27] and then I could find you or then there
+[64:29] is another tab that says uh Merchants
+[64:32] there's a map if I want to go to a place
+[64:35] a restaurant or a hairdresser or I want
+[64:37] to make a I want to get a massage so you
+[64:41] can choose from that map from that
+[64:43] specific City where to go it's like
+[64:47] imagine a Google Maps but the problem
+[64:48] with Google Maps is that it's all fake
+[64:50] right like I can buy I can buy 100
+[64:54] positive reviews and and tomorrow I have
+[64:57] 100 positive reviews in my account right
+[64:59] why because I have to trust that Google
+[65:01] Maps is telling me that those reviews
+[65:03] are right and what are their incentives
+[65:06] to tell me they are right they make
+[65:07] money out of out of their Merchants
+[65:11] being there so they're not going to be
+[65:14] helpful to meet the user they're going
+[65:16] to be helpful to their pockets because
+[65:19] they want to make money so in our map
+[65:22] every comment every place that is put
+[65:24] put there needs to be signed by the roal
+[65:26] owner so if I saw you posting like I'm
+[65:29] here in in Elon I saw your picture and
+[65:32] then I saw that you have a a review on
+[65:37] on whichever restaurant you went to then
+[65:39] I I'm certain for sure that that review
+[65:42] is real of course you can fake it but
+[65:45] you have to have to create a fake
+[65:47] profile of you that create a lot of
+[65:49] audience and then post it there so but
+[65:51] the incentive is different it's like now
+[65:53] I make you work you have to put the work
+[65:55] work whereas in Google Maps or in Trip
+[65:58] Advisor everything can be bought by one
+[66:01] click there are those Bots that you pay
+[66:03] or these farms and you can buy so what
+[66:06] we're trying to do is like to to embrace
+[66:10] all these qualities of Noster to help
+[66:13] users or to help Travelers that are
+[66:15] going around to verify that all the
+[66:18] information that they see where as if
+[66:20] it's information about the city about
+[66:21] the merchants about the quality of of
+[66:24] the city we have a section that is
+[66:26] quality of the city so is
+[66:28] it um is the air the air quality good
+[66:31] are there roads in the street you don't
+[66:33] know when you're going to a new place
+[66:36] um is is the ambulance is the health
+[66:39] system good enough so what we're
+[66:40] building is based on this social graph
+[66:43] people that follow you or people that
+[66:44] have similar interest to you that you
+[66:47] can really trust what's going on on that
+[66:51] on that
+[66:52] City I'm going now to uh to changai in
+[66:57] in a couple in a couple of months I've
+[67:00] never been there so but
+[67:02] luckily we have a a page of chm Atlantis
+[67:06] and I will use it to in advance to
+[67:09] verify what's important to me and I know
+[67:12] that if you Google changai on Google
+[67:14] you'll have tons of blogs tons of
+[67:17] Travelers blogs but again what gives me
+[67:20] the trust that this information is real
+[67:23] and it's not paid everything you you you
+[67:26] and I can just set up a website now that
+[67:28] it's called traveltips for nomad.com and
+[67:33] we can start posting whichever content
+[67:36] our advertisers advertisers tell us to
+[67:39] post and then we put a lot of money on
+[67:42] ads and then this is the it appears on
+[67:45] page number one on Google and that's it
+[67:48] so then we
+[67:49] are we are falsifying we are we are
+[67:53] telling the audience what we want so so
+[67:55] in the end it's like the person or the
+[67:59] organization with more money can control
+[68:01] the narrative this is the Legacy social
+[68:05] media platforms so what we're trying to
+[68:07] build here is that it doesn't matter who
+[68:09] you are if it doesn't matter if you have
+[68:12] $1 or or or1 million dollars I I don't
+[68:15] care because what I care is to if if you
+[68:18] post your experience in chai because you
+[68:20] are there because you are one of our
+[68:21] ambassadors that he's been leaving there
+[68:23] that has been uploading all the
+[68:25] information so a burger cost this a
+[68:27] hotel night in a fancy hotel cost this a
+[68:30] massage cost that if we have like real
+[68:32] people that is verifying what they say
+[68:34] online then other people can can have
+[68:37] like a a source of trusted information
+[68:41] that can it can be not manipulated by
+[68:45] the organization that has more money so
+[68:47] that's what we're trying to build in
+[68:48] Atlantis right so it's like at the
+[68:49] moment now it's only um a directory of
+[68:52] with all this information that I'm
+[68:53] saying but we're trying to build then um
+[68:56] a social networking section as well so
+[69:00] you can interact with the users and then
+[69:02] at the end of the of the journey like
+[69:05] final stage of of the platform will be a
+[69:08] place for creators to find ways of
+[69:11] monetizing their their uh their content
+[69:14] so if you are a podcaster I don't want
+[69:16] you to care about having to think about
+[69:19] oh the editing and the lightning and no
+[69:21] I don't care I just want you to to to
+[69:24] find your best
+[69:26] um uh your best speakers and to be able
+[69:29] to write your scripts
+[69:32] and that that um areas of of work that
+[69:38] are not adding any any value to you need
+[69:40] to be done by anybody else so that's why
+[69:42] we're trying like a tool of of Creator
+[69:44] tools for all creators if you're an
+[69:46] artist if you're a content creator if
+[69:49] you are if you have some skill set if
+[69:52] you're a a writer or whatever we want
+[69:55] you users to be able to discover many
+[69:58] places uh and and and visit any places
+[70:01] so they can focus only on that and not
+[70:03] worrying about the tedious parts of the
+[70:05] job that of course at the beginning
+[70:07] anybody has someone has to do it but the
+[70:10] more you you start discovering what is
+[70:13] what you like in your life maybe the
+[70:15] less interested you are in doing that
+[70:17] because they do not add as value as the
+[70:20] the skill that you are that you are
+[70:23] pursuing it's a little bit of you know
+[70:25] an overview of what Atlantis is and I'm
+[70:28] very I'm very glad that we are building
+[70:30] that on top of Noster because as I was
+[70:31] saying Robin if Atlantis dies tomorrow
+[70:35] if we close the website tomorrow for our
+[70:38] users it doesn't matter because
+[70:40] everything they do Satan is just a tool
+[70:43] and you can call it a technical tool and
+[70:45] maybe people doesn't even need to know
+[70:47] what Noster is we are just a tool that
+[70:50] uses Noster to verify that everything
+[70:52] that you say you said it and if you
+[70:55] don't like if you use it for a couple of
+[70:57] weeks because you're traveling like me
+[70:58] to Chaya but then you don't travel
+[71:00] anymore just L out you don't even have
+[71:03] to delete the account because there are
+[71:05] no accounts I mean you can create one if
+[71:06] you don't have an Oster and we can help
+[71:08] you to create an account but you can
+[71:10] bring your your information from your
+[71:13] you talked about Primal if you have a
+[71:15] primal um the Primal client you can
+[71:17] bring your sorry you can bring your user
+[71:22] to satanis and you'll see everything the
+[71:24] same thing all the information that you
+[71:25] had in Primal now it's on Atlantis it's
+[71:28] just as I'm saying Atlantis is it's a
+[71:30] glasses a different type of glasses
+[71:33] you're saying the same thing but the
+[71:34] problem with you know with Travelers is
+[71:36] that when they go when they go to Noster
+[71:39] everything is
+[71:40] disorganized and what happens they don't
+[71:43] like to stay there they this is so so
+[71:46] difficult we are just organizing
+[71:48] information it's it's fascinating also
+[71:50] the social craft of of things um I I
+[71:54] really like the social craft right now
+[71:56] on Twitter because it gives me a quick
+[71:58] idea uh um so like if someone writes me
+[72:02] on Twitter uh hey can I be on the
+[72:05] podcast first thing I do is just like
+[72:07] look in the profile uh and if a bunch of
+[72:09] people that I follow follow
+[72:12] him that in itself is a really big uh
+[72:16] indicator for me that oh he might be
+[72:18] interesting then I see what what he does
+[72:20] he write on his bio has he been on other
+[72:23] podcast what does he write on Twitter
+[72:25] and then like I have really quickly in
+[72:27] profile of him but if he's not on
+[72:31] Twitter and maybe he's on LinkedIn it's
+[72:34] harder for me because in LinkedIn I have
+[72:35] a very small substance I have like I
+[72:39] only follow a few people there uh and I
+[72:42] have way fewer connections there then
+[72:44] I'm like yeah I don't know like I don't
+[72:47] get the inside as good so having that
+[72:50] social graph yes all over over them uh
+[72:55] and connecting it with Google Maps like
+[72:58] seeing on Google Maps um what are my uh
+[73:02] uh people on on that I follow like that
+[73:05] I have I follow maybe 500 600 people um
+[73:09] and maybe those from those 700 people
+[73:13] 200 has been already uh to that one
+[73:16] hotel uh in in Abu Dhabi and like maybe
+[73:20] 10 of them wrote a review those 10
+[73:22] reviews are way more relevant to me than
+[73:25] from random strangers so that's that's a
+[73:27] really interesting use case and that's a
+[73:30] really interesting thing um to do for uh
+[73:35] the future
+[73:36] of of everything like of the internet
+[73:38] basically of like uh Google maps of of
+[73:42] social medias of every everywhere where
+[73:45] you maybe need a social graph you need
+[73:49] you need to trust people on the internet
+[73:50] so i' I've been now I'm in the creators
+[73:53] economy which is how it's called today
+[73:55] and five 10 years ago in 2014 I started
+[73:58] a startup in the what this was called at
+[74:01] the time the sharing economy and I was
+[74:03] inspired by the beginners at the time
+[74:06] which were which were Airbnb in the US
+[74:10] Uber as well in the US and blbl car they
+[74:13] are a a French company that expanded all
+[74:16] over Europe and for the audience that is
+[74:19] not from Europe blabar was a service
+[74:21] where you could share a right so this is
+[74:26] not like uber that Uber comes to you and
+[74:29] he drives you whatever you tell him no
+[74:32] no no sharing a right so if you Robin
+[74:35] are driving from Vienna to Clen for and
+[74:39] I want to do the same route then I could
+[74:41] find you and then we could share the
+[74:43] right so I was in I was inspired by
+[74:46] those three companies and and I launched
+[74:48] my own startup that U was trying to do
+[74:52] the same with uh with education which
+[74:55] it's not important for for the moment
+[74:57] but what's important is that blabar they
+[75:00] created a framework for trust for
+[75:04] strangers and this is what what we have
+[75:06] been trying to crack like I'm talking
+[75:11] about 2014 right it's been 10 years and
+[75:14] the problem with those types of
+[75:16] Frameworks is that they can all be
+[75:20] broken um you're
+[75:23] saying if somebody reaches up to you on
+[75:25] Twitter and then you check his profile
+[75:29] and then you see that he is connected to
+[75:31] the same people as you
+[75:32] are that's today but if tomorrow Twitter
+[75:36] for whichever reason decides that that
+[75:39] account doesn't need to follow these
+[75:41] same people that you are following click
+[75:44] then this account has zero followers all
+[75:46] his work that he has put on Twitter it's
+[75:48] gone maybe five years of work creating
+[75:51] an audience creating their topics the
+[75:53] topics they were talking
+[75:55] gone like that so Noster might seem like
+[76:00] a a tool a very a to in the very early
+[76:05] stages but nobody's going to think about
+[76:08] using it because nobody has most of of
+[76:11] of the audience today has never suffered
+[76:14] of being cancelled on those social
+[76:15] networks but probably somebody of you
+[76:17] know that I have a friend that for
+[76:20] example in my case I have a friend who
+[76:22] had an Instagram about cats and for
+[76:24] which ever
+[76:25] reason from one night to the other
+[76:28] Instagram decided to close that account
+[76:30] it was just cats you know there was no
+[76:32] political message or what so for
+[76:34] whichever reason like these big social
+[76:36] networks they are automatically run by
+[76:38] algorithms there is no people behind it
+[76:40] so for whichever reason the algorithm
+[76:42] thought that that account didn't follow
+[76:45] the company terms and conditions and he
+[76:48] decided to close that account okay it's
+[76:51] just a funny account for cats but
+[76:53] imagine you're putting all your work on
+[76:55] social networks and then you are not on
+[76:58] control of of your audience of your
+[77:02] content of your Revenue stream tomorrow
+[77:06] you lost your job you wake up one day
+[77:08] and oh they deleted all my all my
+[77:11] accounts go fight go fight Google go
+[77:13] fight YouTube You're nobody I mean when
+[77:16] I'm saying you I'm referring to the
+[77:19] early um entrepreneur that's starting a
+[77:22] career because the
+[77:25] the bigger the content creators become
+[77:27] the more they start thinking about
+[77:29] decentralizing and not posting
+[77:30] everything on on on YouTube you're
+[77:33] posting as well on Twitter because
+[77:35] you're creating a a safety network but
+[77:37] that costs it costs you time how much
+[77:40] time do you have to replicate everything
+[77:41] you're doing to all all all the networks
+[77:44] and it's not only the content that you
+[77:45] have to upload that of course you
+[77:47] can ask someone to do it for you but you
+[77:50] have to create an audience in each one
+[77:52] of those networks so and I think that
+[77:55] Noster is not yet for everyone because
+[77:58] people is not thinking that far away in
+[78:00] that situation this will happen so now
+[78:02] we are building the building blocks for
+[78:05] whenever uh a big outage happens and
+[78:10] then in that time it's when and I don't
+[78:12] know if this will happen next year or in
+[78:13] 10 years you know like this is one of
+[78:15] those it's like the the lockdowns this
+[78:17] is a surprising thing that you you
+[78:18] cannot plan in advance you just get
+[78:21] caught there so what I'm saying now is
+[78:24] that to all content creators that are
+[78:25] hearing us so start thinking about ideas
+[78:30] and start playing around with that
+[78:32] because maybe one day you get kicked out
+[78:34] of YouTube and maybe that's your main
+[78:38] source of income and then what and then
+[78:41] you are in the street so this is why
+[78:44] Noster was built and that's that's why
+[78:48] people should think about using it not
+[78:50] not more about incentives and the zaps
+[78:53] and validating it's more about if you
+[78:56] are Your Own Boss because you are
+[78:58] building your own product you're selling
+[78:59] your own
+[79:01] Services you have to to think about who
+[79:04] you're partnering with so most of those
+[79:06] content creators they are single
+[79:08] entrepreneurs and I'm I'm trying now to
+[79:11] think or or to reach out this audience
+[79:13] that has built companies that normally
+[79:15] are are not single owned companies but
+[79:18] Partners Partnerships with other
+[79:19] partners that's the same when you're a
+[79:22] single owner of your content you believe
+[79:26] you're you're a single owner but no you
+[79:28] just partner with YouTube so YouTube is
+[79:31] your partner you have to choose very
+[79:33] carefully who your partner is and what
+[79:35] control he has over you I'm talking
+[79:37] about YouTube as I could be talking
+[79:38] about any other social media Legacy
+[79:41] platform I don't have anything against
+[79:42] YouTube I I enjoy watching your show on
+[79:45] YouTube but we don't know what will
+[79:47] happen in the future so you have to
+[79:49] think about who are you partnering with
+[79:52] to to prepare for uh for your um your
+[79:56] professional career that's what Noster
+[79:59] is about and I know you want you ask you
+[80:00] were asking me about santis but you see
+[80:02] everything goes down to me to to the
+[80:04] same
+[80:05] point yeah and and I have like a bunch
+[80:09] of other questions but I
+[80:13] think yeah I think like we we we can um
+[80:19] uh put put that in a in a second round
+[80:21] like in half a year year something like
+[80:23] that I think that it would be really
+[80:25] interesting the only thing uh that I'm
+[80:28] also interested in because you wrote me
+[80:30] that you're an airline pilot or you were
+[80:32] an airline pilot um H how did how does
+[80:38] an airline pilot come to to work in
+[80:41] Nostra and Bitcoin and is that way maybe
+[80:44] may maybe you can shortly just give us a
+[80:46] little bit of your background of like
+[80:49] airline pilot and now Bitcoin as it's on
+[80:53] on your sh
+[80:55] what is written there
+[80:57] Bitcoin especially free uh financially
+[81:01] free financial financially free socially
+[81:04] awkward nice do you agree with the with
+[81:07] the explanation with the description uh
+[81:09] yeah I mean I I might not be
+[81:13] the I'm I'm maybe a more outgoing
+[81:16] bitcoiner uh than the usual
+[81:19] bitcoiner um but I I'm definitely not
+[81:23] normal so like I I have a lot of
+[81:25] socially awkward things definitely so I
+[81:29] I would not say that I'm socially
+[81:30] awkward but maybe maybe other people
+[81:33] would describe me like that I think we
+[81:36] are we all are in our in our level like
+[81:40] this is not zero and one so that there
+[81:42] is like a spectrum in the in the middle
+[81:44] and and yeah and funny funny story I was
+[81:48] a pilot in your country I was working
+[81:51] for Austrian Airlines so this is that
+[81:53] was my my first job my first real job
+[81:56] after I graduated uh school and yeah and
+[82:00] and at that time I remember I heard
+[82:02] about Bitcoin I was like
+[82:04] yeah that's okay it's just funny magic
+[82:08] internet money and you know I have my my
+[82:10] Fiat job my Fiat career I worked my ass
+[82:13] off and then I realized like why I'm
+[82:16] still poor so then I I thought about
+[82:19] ideas of how to get out of of U of this
+[82:23] Rat Race and I said said Okay so let's
+[82:25] make money and then I started in the
+[82:27] startup world like like this hockey
+[82:30] sticks projection things and then I
+[82:32] realized that yeah I'm I'm no Mark
+[82:35] Zuckerberg right I'm no Elon Musk so
+[82:38] startups like 99% fail after I think it
+[82:42] was I think it's after five years 99% of
+[82:44] startups fail some something like that I
+[82:45] don't yeah it's it's like after three
+[82:47] years it's a it's a major point and
+[82:49] after five years there's another major
+[82:52] point where startups fail uh heard some
+[82:54] statistics around that and yeah like if
+[82:57] if you make it past five years uh and
+[83:00] you're consistently growing and your
+[83:02] profit is growing and you're still alive
+[83:04] after five years uh and you're like
+[83:07] doing all those things I think you are
+[83:09] past the startup uh point so like for
+[83:11] the five first like three five years uh
+[83:14] you're a startup yeah but sorry yeah so
+[83:17] and I I successfully failed with my
+[83:21] startup in the sharing economy after
+[83:23] five years so successfully failed I love
+[83:27] that it's it's like it's a path you
+[83:30] learn I learned a lot then I started
+[83:32] Consulting for other startups and in the
+[83:34] meantime I was looking like why am I
+[83:36] still poor what am I working my ass off
+[83:40] and and doing all putting all these
+[83:42] hours and every year my money is worth
+[83:44] less and this is how I discover Bitcoin
+[83:46] and now I am a a proud um member and
+[83:51] organizer of the Barcelona Bitcoin only
+[83:54] group so if anybody is listening that is
+[83:57] in Barcelona that will come to Barcelona
+[83:59] just ping me because we are running one
+[84:02] Meetup every month many workshops even
+[84:06] meetups are free free and they are
+[84:08] normally even in Spanish or in English
+[84:11] and we have like a community and we tell
+[84:14] what is the next Meetup going to be
+[84:16] about so I'm very uh um interconnected
+[84:19] with the Barcelona Bitcoin community so
+[84:23] anybody coming to Barcelona please reach
+[84:25] out to me and I i' love to see you in
+[84:27] person in in Barcelona and of course
+[84:29] because I'm a bitcoiner and when you
+[84:32] start thinking about how to fix money
+[84:34] how to become self- sovereign you start
+[84:36] talking about other topics which are
+[84:39] like uh low time preference like things
+[84:41] that will help improve Society at the
+[84:44] longer at the longer term and this is
+[84:46] how I discovered Noster and that's why I
+[84:49] joined santis to to be part of this
+[84:51] journey and to help of course used to be
+[84:53] a pilot traveled a lot I like traveling
+[84:56] and Satan you know it's like a mixture
+[84:58] of traveling and Noster so it's it's the
+[85:03] the perfect
+[85:04] fit really nice yeah I like that a lot
+[85:08] when when we talk about about uh the the
+[85:11] personal stories I see that bitcoiners
+[85:14] are going through so uh I I immediately
+[85:17] I think we met in El Salvador at the UN
+[85:20] conference if I remember correctly and I
+[85:22] immediately clicked with you like you're
+[85:24] like a really positive guy and I like
+[85:28] your energy and so I really wanted to
+[85:30] get that into the podcast and next to
+[85:33] that energy we got to learn a lot about
+[85:36] Nostra today a lot about how the future
+[85:38] will will be in that I think you're I
+[85:41] think you're honestly one of the top
+[85:42] guys that can explain it in in simple
+[85:45] terms like I not if I've been too
+[85:47] technical because I will look back at
+[85:51] this interview and probably I will see
+[85:53] okay I was too technical here oh no you
+[85:56] did you did an amazing job like at least
+[85:58] for me like uh it's I always try to keep
+[86:01] in mind my audience and and see like
+[86:02] where where can I ask better questions
+[86:04] and go deeper uh but I think I really
+[86:07] like uh I I got a way clearer picture
+[86:11] now of what Nostra is and what it tries
+[86:13] to accomplish and what it could be yeah
+[86:16] really cool thank you so much I have one
+[86:19] question that I always ask every guest
+[86:20] of mine what can we learn from you besid
+[86:24] Bitcoin and I will add for you besides
+[86:28] Nostra okay so that is something that of
+[86:31] course my main focus since I was a kid
+[86:33] is money right
+[86:35] so I'm I'm always surprised by money
+[86:39] what is money so I'm I'm I'm deeply
+[86:42] interested into money and when I say
+[86:44] money I'm not saying about how many
+[86:45] zeros do you have in your bank account
+[86:47] right about what is money like from the
+[86:50] ancient ancient Egypts and the Romans
+[86:52] and the Greeks and all all this story
+[86:55] but all this converges to bitcoin so I'm
+[86:57] not going to tell that because you don't
+[86:59] want me to to tell Bitcoin so there is
+[87:02] another thing that I I like a lot which
+[87:04] is artistic gymnastics so this is
+[87:06] something just a personal thing of mine
+[87:08] I practice every day and this keeps me
+[87:11] sane in in this world of of of
+[87:15] Randomness and and sometimes decadence
+[87:18] so Sports in my case artistic gymnastics
+[87:22] love so much and post everything I can
+[87:25] on my Instagram but it's just an
+[87:26] Instagram about uh artistic
+[87:29] gymnastics I after a lot really cool
+[87:32] thank you so much J for for sharing that
+[87:34] with us U Before I Let You Go uh we have
+[87:38] all right we have the end routine before
+[87:39] I almost forgot that uh where the
+[87:41] previous guest is asking a question for
+[87:44] the next guest without knowing who the
+[87:46] next guest actually is and your question
+[87:48] from the previous guest is about Bitcoin
+[87:50] mining do you know what the bit X is and
+[87:54] and what it does I know and in our
+[87:58] Barcelona Bitcoin only Meetup we have
+[88:01] invited the
+[88:05] um nerx Builder and we are selling them
+[88:08] so what is it it's it's like a small
+[88:10] device like this this this size like
+[88:13] this size little little bit oh and of
+[88:15] course you can see my phone has a a QR
+[88:17] code to the Barcelona Bitcoin only
+[88:18] community so an airx it's like a orx is
+[88:23] a like a a small device like double the
+[88:25] size of a phone maybe that is that you
+[88:28] can um plug in at your in your home to
+[88:31] to play what is called Lottery mining
+[88:34] because it's it's such a small device
+[88:37] it's mining it's guessing all these
+[88:39] numbers to block to to mine the next
+[88:41] block but because it's very very little
+[88:45] in compar in comparison to this um big
+[88:48] miners we call it Lottery because you
+[88:51] have a little chance of winning but
+[88:53] still they call it Lottery mining but it
+[88:55] still has more chance chances than
+[88:58] regular Lottery to win to be one of the
+[89:01] winners absolutely and it's it's great
+[89:03] to get into Mining and then maybe
+[89:05] connect with like an ocean po pool or
+[89:07] something like that uh it's it's a it's
+[89:09] a great way perfect thank you so much
+[89:11] before I forget uh where can people find
+[89:14] you ask your questions reach out to you
+[89:16] right so follow me on Twitter
+[89:20] jiore Yong it's a difficult name know
+[89:24] it's my Catalan surname which is Jordy
+[89:27] maybe I can I can share it with you then
+[89:30] to to be written on I will put it as
+[89:32] always in the the description so people
+[89:34] can just clink the click the link um if
+[89:37] they are watching on a podcast platform
+[89:38] like Spotify Apple music or anything
+[89:40] that it's in the description if they're
+[89:42] watching on YouTube it's in the
+[89:43] description if they watch on Twitter I
+[89:45] know there are like 10 people that
+[89:47] actually watch the episode on Twitter
+[89:49] also uh you can just directly click on
+[89:52] the link above
+[89:54] uh because on Twitter I directly tag
+[89:57] your profile so you you have the most
+[89:59] direct way there so yeah we we do that
+[90:02] Twitter is easy because people people
+[90:04] will follow you I also um suggest you to
+[90:07] follow Atlantis if you want like and
+[90:09] we're in Twitter as well in in Instagram
+[90:12] and in YouTube at joins
+[90:15] Atlantis but of course what was the
+[90:17] topic of today's um
+[90:20] conference nost yeah Nostra yeah want
+[90:24] you guys to follow me on Noster as well
+[90:25] on Noster I'm curious Wizard and of
+[90:28] course we have also Satan's account so
+[90:30] do you know your endp uh by
+[90:34] heart and
+[90:36] one no I don't
+[90:38] know how many characters is that is like
+[90:41] 15 20 H it's too much it's it's too much
+[90:45] to know by heart that's that's for sure
+[90:47] no no just follow me um use search for
+[90:49] Curious Wizard and you'll find me really
+[90:54] cool perfect and yeah thank you so much
+[90:55] JY for for being on thank you so much
+[90:57] for everyone that is watching and
+[90:58] listening for joining us today as always
+[91:01] I'll be back tomorrow with another
+[91:03] episode bye-bye thank you Robin bye-bye
+[91:06] [Music]

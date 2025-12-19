@@ -1,0 +1,1225 @@
+Title: Bitcoin is the best insurance | Adolfo Contreras
+Video ID: lM6ot9S7yOg
+URL: https://www.youtube.com/watch?v=lM6ot9S7yOg
+Date Saved: 2025-06-15 11:53:36
+--------------------------------------------------
+
+[00:00] with Bitcoin we remove completely all
+[00:02] the need for all the legal all the
+[00:04] regulatory all the enforcement
+[00:06] infrastructure that is super expensive
+[00:08] and that is needed in order to to reach
+[00:10] consensus on who owns what you realize
+[00:13] that what people used to use where our
+[00:16] sense stor used as self-coded wealth
+[00:18] they used this as an insurance and what
+[00:21] Bitcoin enables is just that in case
+[00:23] things go crazy that it's very likely
+[00:26] nowadays if you think about it internet
+[00:28] is changing completely the trust in our
+[00:31] [Music]
+[00:34] institutions how do you in general
+[00:37] foresee Bitcoin scaling and evolving in
+[00:40] like the next decade or two decades uh
+[00:42] because we have not a lot bit people in
+[00:46] Bitcoin now and I hope we have a lot of
+[00:48] people in Bitcoin in like 20
+[00:50] years yeah um yeah I mean definitely
+[00:54] liquid is one option but liquid is just
+[00:56] an implementation of of the elements
+[00:59] codebase so um even if liquid were not
+[01:02] able to scale it all and even if by
+[01:07] adding uh lightning Network on top of
+[01:09] liquid it were not enough then we have
+[01:12] anyone can spin up another Federation
+[01:14] for a particular number of use cases for
+[01:16] example and and others could Implement
+[01:19] their own side chains for Bitcoin right
+[01:22] and and depending on the tradeoffs there
+[01:26] might be use cases for which a number of
+[01:28] H trade trade-offs on the Chain would be
+[01:31] preferable to those on liquid I don't
+[01:33] know but if that were the case others
+[01:36] have the elements code base right there
+[01:39] you know available to spin up anything
+[01:42] and um you know and uh cater to The
+[01:45] Right Use cases so I think I think we'll
+[01:49] see that happening I don't h i probably
+[01:52] not one of the people that thinks that
+[01:56] um everyone is necessarily going to be
+[01:59] used
+[02:00] Bitcoin for absolutely everything so
+[02:03] that also decreases the number of you
+[02:06] know the need or the requirements for
+[02:08] those chains um but um but yeah I mean
+[02:12] definitely there's Tech enough in there
+[02:15] to you know to cater to a lot of
+[02:17] people um maybe let's go in there like
+[02:20] because it's interesting usually people
+[02:21] like oh Bitcoin will scale to everyone
+[02:23] and stuff like that but like what are
+[02:25] the people that will not adopt Bitcoin
+[02:27] or like who who will adopt Bitcoin like
+[02:29] what's the differentiation here I um The
+[02:33] View I have on on bitcoin and um and on
+[02:37] liquid uh I mean in fact thanks to
+[02:40] studying liquid and the use cases that
+[02:42] it can enable I changed my mind with
+[02:45] regards to bitcoin you know I used to be
+[02:47] a person that as many others used to
+[02:50] think that Bitcoin is going to be a hard
+[02:53] money and um used by everyone and needed
+[02:56] to scale to for everyone but I changed
+[02:59] my
+[03:00] mind just a couple of years ago probably
+[03:04] and and the reason is that I think that
+[03:07] what Cipher punks were trying to solve
+[03:08] was basically enabling trust to scale
+[03:12] right and and that and and I think that
+[03:15] probably Satoshi made a lot of work to
+[03:17] trying to to to enable a one of those
+[03:20] rights the the ability to exchange with
+[03:22] money but but without proper stability I
+[03:27] I I changed my mind and I now think that
+[03:29] it will be hard to to be used as a
+[03:32] general means of of exchange so what I
+[03:35] think now Bitcoin is is basically a
+[03:38] digital private property without the
+[03:39] need for loss right so so basically what
+[03:42] Cypher punks were trying to enable was
+[03:44] um our trust to scale by removing the
+[03:48] needed parts that are in the in the
+[03:49] middle right to enable our cooperation
+[03:52] and and what what are what is needed in
+[03:54] our cooperation is um institutions right
+[03:57] is is basically and protocols that are
+[04:00] in in the middle between you and I for
+[04:02] example if we don't know each other if
+[04:04] you and I are strangers in order to
+[04:07] cooperate and Cypher punks by removing
+[04:10] that the need for those institutions
+[04:12] enable trust to scale in in the digital
+[04:14] age right and and I think that one of
+[04:16] those institutions is private property
+[04:19] if you if you cannot own things in in
+[04:21] the internet er er you know and you
+[04:25] can't exchange them perhaps not at scale
+[04:28] as if it were money but you can still
+[04:30] exchange them then it it is hard for for
+[04:33] trust to scale in the digital age if I
+[04:35] want to make business with someone in in
+[04:37] Argentina or Mexico Albania or wherever
+[04:41] and and I'm more I follow more the the
+[04:44] sub what I call the Nix Sabo School of
+[04:46] Economics rather than the school of
+[04:49] Economics of many other bitcoiners out
+[04:51] there right and and that that this has
+[04:53] changed my whole um let's say Bitcoin
+[04:56] worldview and and but that's why in part
+[05:00] I think that not that many I mean not
+[05:03] everyone will need to adopt a
+[05:06] Bitcoin with adopt Bitcoin you mean with
+[05:10] uh putting it like as a medium of
+[05:13] exchange and not the store of value
+[05:15] aspect like adopting Bitcoin is not for
+[05:16] you when when someone also just like
+[05:18] holds it for a store of value uh reasons
+[05:21] because it seems like you it store of
+[05:23] value um is really good but you don't
+[05:26] think it will be in meded exchange yeah
+[05:29] I mean I think it's it's a great store
+[05:31] of value but what I think Bitcoin is
+[05:34] best for is basically enable enabling
+[05:38] private property whenever you cannot own
+[05:41] property otherwise and that happens in
+[05:44] countries and in situations where a rule
+[05:47] of law doesn't work you know where I
+[05:49] mean basically if you think about it
+[05:51] what makes money good is actually how
+[05:55] good is the depbt in the asset side of
+[05:58] of the Central Bank balance sheet right
+[06:01] that is what makes the the rule of law
+[06:04] in the US for example is really good
+[06:06] compared to many other countries it's
+[06:08] not great it's not the best it's not
+[06:11] ideal but better way better than in many
+[06:13] other countries as well in and it's in
+[06:15] Switzerland and if you have proper rule
+[06:17] of law that means that debts are likely
+[06:20] to get paid back right and if debts get
+[06:23] paid back the the balance sheet the
+[06:25] asset side of the balance sheet of a
+[06:27] central bank is basically
+[06:30] mostly private and public debt and and
+[06:33] and if that public and private debt is
+[06:35] likely to be paid it means that asset
+[06:38] balance sheet is is good is valuable and
+[06:41] therefore the the liability part of it
+[06:43] which is the currency is is valuable as
+[06:46] well and that's why a countries with
+[06:49] good rule of law enable good money but
+[06:52] also private property you know people
+[06:54] can be sure that their private property
+[06:57] is is something that they can Count On
+[07:00] You Know by you know using the courts or
+[07:02] whatever disputes are typically
+[07:04] solved and uh and with Bitcoin we remove
+[07:08] completely all that you know we remove
+[07:10] completely all the need for all the
+[07:13] legal ER all the regulator all the
+[07:16] enforcement infrastructure that is super
+[07:18] expensive and that is needed in order to
+[07:21] to reach consensus on who owns what you
+[07:24] know reaching consensus on who is what
+[07:27] is something that is is so f fascinating
+[07:30] and and But but so extremely expensive
+[07:32] that even nowadays in in the 21st
+[07:35] century most countries cannot afford it
+[07:38] and they have wars you know they have
+[07:40] gas they have terrorism they have every
+[07:42] single you know kind of thing and
+[07:46] because the rule of law is not there so
+[07:48] in those situations and also in Cy cyber
+[07:51] space which is an a place where rule of
+[07:54] law doesn't exist and it's impossible to
+[07:56] implement where where laws don't work
+[07:59] it's also an area where you need a a
+[08:03] technology to enable private property
+[08:05] without the need for those lws and
+[08:06] that's where I think Bitcoin excels
+[08:09] basically you know and and and and so so
+[08:12] for me even if many people in
+[08:14] Switzerland own um Bitcoin in my view
+[08:18] probably Switzerland would be the
+[08:19] country where people would need it the
+[08:21] least right and and so that but that is
+[08:24] the
+[08:25] fundamental use case in my opinion it
+[08:27] doesn't mean that many people will not
+[08:30] be jumping on this ship in order to
+[08:33] speculate with a potential uh you know
+[08:36] increase in value right which is you
+[08:39] know which is probably the most common
+[08:42] use case at this point I think that
+[08:45] eventually more and more people will
+[08:46] realize that it is good to own an
+[08:48] insurance if you if you look at the
+[08:51] article and the at the shelling out
+[08:53] article from Nick Sabo which
+[08:55] is probably one of the best ones from
+[08:58] him you you realize that what people
+[09:01] used to use where our sensors used as
+[09:04] self-coded wealth they used this as an
+[09:07] insurance mostly right and and what
+[09:11] Bitcoin enables is just that in case
+[09:13] things go crazy which is also a use case
+[09:16] that it's very likely nowadays if you
+[09:18] think about it internet is changing
+[09:21] completely the trust in our institutions
+[09:23] in our existing institutions you know
+[09:26] everything that we're seeing in the news
+[09:27] nowadays is basically a com massive
+[09:31] transfer shift a massive shift of trust
+[09:34] in the institutions you know in
+[09:36] governments in laws in contracts in in
+[09:39] banks in in the police in you know
+[09:41] whatever institution you can think of
+[09:44] trust is basically shifting away from
+[09:46] those and moving away to new ones and it
+[09:50] was very interesting to see for example
+[09:52] Elon mask's tweet recently challenging
+[09:56] the EU you know I found it fascinating
+[10:00] because it's a a new institution which
+[10:02] is Twitter saying hey you cannot get in
+[10:05] there in here right you you have to stop
+[10:08] you know and I'm going to stop you it's
+[10:10] basically a sovereign individual
+[10:12] stopping the EU you know from getting
+[10:14] into you from from censoring all our
+[10:18] tweets so yeah it's a incredible part of
+[10:22] incredible changes we're leaving and and
+[10:25] I think that those that work in Bitcoin
+[10:27] and and Technology say such as liquid
+[10:29] are you know on the right side of
+[10:31] History
+[10:32] basically do you think then uh when
+[10:36] Bitcoin will not be used as a mean of
+[10:38] exchange uh from everyone we need
+[10:40] something else like do you think that
+[10:41] feat currencies then will always be
+[10:43] around I think I think so but let me
+[10:45] clarify something when I say means of
+[10:48] exchange I don't mean money money for me
+[10:51] is a generally a commonly accepted means
+[10:54] of exchange so it means that whatever
+[10:56] you're going to be paying it is very to
+[10:59] be accepted right and that's what I
+[11:02] think Bitcoin is not going to be but I
+[11:04] think Bitcoin is a great means of
+[11:06] exchange right it's going to be accepted
+[11:09] as a means of exchange for I don't know
+[11:11] how wide but a decent number of use
+[11:13] cases you know so you and I will be able
+[11:16] to exchange Bitcoin easily but it
+[11:19] doesn't it doesn't mean that I'm going
+[11:21] to go to a store down there and it's
+[11:23] going to be easily accepted and chances
+[11:26] are you know it's going to be accepted
+[11:29] for sure you know other means of
+[11:32] exchange that keep stability will be you
+[11:35] know um more uh demanded by the market I
+[11:39] believe right and that's that's why
+[11:41] tether rocks you know it's it's
+[11:42] basically killing it right and usdt is
+[11:45] basically doing something that liquid
+[11:48] enables which is connecting a reputed
+[11:51] institutions like like the Central Bank
+[11:54] in in the US with users worldwide that
+[11:57] wouldn't have basically my opinion
+[11:59] tether is exporting rule of law the the
+[12:02] US rule of law to users worldwide you
+[12:05] know and it's it's fascinating you know
+[12:07] but so I think that I am very critical
+[12:10] of the still very prevalent view with
+[12:13] bitcoiners that um well I'm not very
+[12:16] critical I'm I'm okay but what I mean is
+[12:18] I don't agree with it any longer you
+[12:20] know with a view that Bitcoin is going
+[12:22] to be used to be used absolutely
+[12:24] everywhere I think it's going to be used
+[12:26] a lot for a for a while set of use cases
+[12:32] but that is different than being a
+[12:34] generally accepted or a common accepted
+[12:37] means of exchange that that that is an
+[12:39] entirely different uh story because the
+[12:41] the lack of stability is not something
+[12:43] that some anyone has figured out even
+[12:46] you know if you think about it even Nick
+[12:49] Sabo gave up with bit gold right he was
+[12:51] trying to enable that kind of stability
+[12:54] in the supply and and he gave up right
+[12:58] so um yeah that's that's my view if that
+[13:01] makes sense what do you mean with uh
+[13:04] stability in in Supply do you mean price
+[13:07] volatility or yeah what I mean is in
+[13:10] order to be stable it needs to be stable
+[13:13] with regards compared to um a basket of
+[13:16] goods right the price of a basket of
+[13:19] goods whatever size it is but a basket
+[13:21] of goods and and if Supply is basically
+[13:25] fixed then and and demand is variable by
+[13:29] def fault the demand for money on
+[13:30] liquidity is is very variable so the the
+[13:34] chances that demand is going to match H
+[13:37] Supply at you know continuous or very
+[13:40] constant time is very unlikely in my
+[13:43] opinion I don't I don't totally discard
+[13:46] it to be honest I don't totally discard
+[13:47] it there might be folks out there you
+[13:50] know way mared than me that figure out
+[13:52] ways in which you can enable some kind
+[13:56] of Supply mechanism that adapts to
+[13:58] demand you know which is what a
+[13:59] centralized entity like a central bank
+[14:01] does in when there are many things they
+[14:04] do but one of them is this one and it's
+[14:06] it's valuable but but I'm at this point
+[14:10] way less I buy this idea less than I did
+[14:13] a couple of years ago or and more I mean
+[14:15] the volatility is interesting because
+[14:16] for me it's like um right now it's
+[14:19] highly volatile of course it's like a
+[14:21] really young uh form of money like if if
+[14:24] you look at the history of money like
+[14:25] the those things needed like hundred
+[14:28] some like thousands of years to actually
+[14:30] develop uh and so like Bitcoin is like
+[14:33] so young and and and like how many
+[14:36] people actually have 50% plus of their
+[14:39] net worth in Bitcoin like like that
+[14:42] number has to be super low like a lot of
+[14:44] people like I guess like 100 million
+[14:46] maybe 200 million people have in some
+[14:48] capacity Bitcoin but if you have just
+[14:50] like 2% of your net worth in Bitcoin how
+[14:52] much do you really have in in Bitcoin so
+[14:56] so no let me let me clarify that this is
+[14:59] is partly this change in opinion is
+[15:00] partly based in my experience you know I
+[15:02] have kids I have lots of expenses and I
+[15:06] realize the cost of volatility is huge
+[15:09] you you know I I used to before having
+[15:12] kids and all these expenses I used to
+[15:14] think it's okay to have to be 50 60% of
+[15:17] my net worth in in Bitcoin wow it I
+[15:22] totally changed my mind right because
+[15:24] you
+[15:25] know if you need if your demand for
+[15:28] liquidity Happ when the price is in here
+[15:30] it's going to hurt and and I've been
+[15:33] really through a lot of pain right and
+[15:35] so that that personal experience is
+[15:37] mostly what made me change my mind a lot
+[15:41] with this
+[15:41] regard yeah I mean know like right now
+[15:44] it's it's highly volatile like you you
+[15:46] cannot really like it's hard right now
+[15:49] to use it as 100% Bitcoin standard like
+[15:51] if you do that uh you kind of you live
+[15:54] in uh in El Salvador and you're doing
+[15:56] that that's that that means that you
+[15:59] have a stable income that you can rely
+[16:01] on and that you can actually pay your
+[16:04] bills even if it fluctuates like
+[16:06] 50% um so as I do it like I have
+[16:09] everything that I don't need for my
+[16:11] monthly income in Bitcoin uh and I rely
+[16:14] on that that income comes every month
+[16:17] and I also said a lot of the times if I
+[16:21] have would have kids if I would have
+[16:23] employees if I had with like other
+[16:25] responsibilities that would totally
+[16:27] change like if I uh like right now I
+[16:30] have the situation where uh if all the
+[16:33] Bitcoin goes to zero tomorrow and at the
+[16:36] same time all my income goes to zero
+[16:38] tomorrow I still can live a few months
+[16:41] yes I cannot live like uh with five
+[16:45] people three months that's not possible
+[16:47] because I'm so risky in there like I'm
+[16:49] just 25 I can also still live with my
+[16:52] parents and stuff like that like I have
+[16:53] a personal situation this is always
+[16:55] important but the point that I was
+[16:57] before getting to is like what happens
+[16:59] if like more crazy people like me um put
+[17:04] like over 50% of their net worth in
+[17:07] Bitcoin because then I guess it gets way
+[17:11] more stable and I'm talking like really
+[17:13] long term like I'm not talking like 10
+[17:15] 20 years I think it needs way longer I
+[17:17] think volatility is going to be a lot
+[17:20] more crazy in the next years than even
+[17:22] it was like the last years because like
+[17:24] a lot of uh forces come into play but uh
+[17:28] what if the volatility against Market
+[17:30] Goods is stable because so many people
+[17:33] actually adopted this as a store of
+[17:35] value could it then be also me of
+[17:37] exchange I've never I've heard this
+[17:40] argument a few times but I've never
+[17:42] really understood it to be honest I've
+[17:45] I've never really understood why the
+[17:47] fact that a lot of people own it that
+[17:51] that would definitely create a very
+[17:52] thick order book right and and therefore
+[17:55] the the
+[17:56] movements you know when a much is
+[17:59] created should be shorter and smaller
+[18:02] that's for sure but it wouldn't change
+[18:05] the fact that if the demand of liquidity
+[18:08] changes and and it has changed for me I
+[18:10] have needed liquidity when the price was
+[18:13] here H if the demand of liquidity
+[18:15] changes for a number of folks at a
+[18:17] particular number of uh you know a point
+[18:20] in time then the demand of Bitcoin will
+[18:23] change and and and that would mean that
+[18:26] you know the price will go here but the
+[18:27] supply will not move
+[18:29] right and that will create a a spike in
+[18:31] the price that will be very significant
+[18:34] I I I'm not able to get around this fact
+[18:37] you know I I'm not able to get
+[18:39] around the fact that the supply is fixed
+[18:42] um any longer even if many many people
+[18:46] own it I I haven't been able to
+[18:49] understand why having a lot of people
+[18:51] owning it should change this again the
+[18:54] order book idea yes I get it but the
+[18:57] demand in in in liquidity is very
+[19:00] changing you know it changes a lot and
+[19:02] even for example in a in times of a
+[19:05] crisis you know when when people start
+[19:08] you know paying attention to to the fact
+[19:10] that the economy is you know shaking and
+[19:13] all that and they want you know
+[19:16] liquidity right the liquidity will spike
+[19:19] a lot and therefore the price should go
+[19:21] very high and and and the change the
+[19:24] opposite should should happen as well
+[19:26] when when everything is stable people
+[19:27] would gradually demand L liquidity and
+[19:30] go after assets that would yield some
+[19:34] interesting H profitability over time
+[19:37] and or invest in businesses or whatever
+[19:41] H that would change the demand as well
+[19:43] and the demand would for liquidity would
+[19:45] go downwards and therefore since the
+[19:48] price doesn't move then you wouldn't
+[19:50] have a stability any longer but again I
+[19:52] don't
+[19:53] mean I am right or I am wrong I just
+[19:56] haven't been able to properly understand
+[19:59] how the fact that so many people would
+[20:01] hold it should change this Dynamic I I
+[20:05] don't get it and and I haven't been able
+[20:08] to find someone that really gives me an
+[20:11] argument that I should H totally buy I
+[20:14] haven't and and therefore I'm just a
+[20:16] skeptical I'm I'm not either 100% either
+[20:20] on one side or in the other I'm just way
+[20:22] more skeptical than I was and also
+[20:24] because of this personal experience that
+[20:26] I told you H way more skeptical than I
+[20:30] was just a few years back yeah I mean if
+[20:34] Bitcoin always stays volatile it will
+[20:37] never be a med of exchange and unit of
+[20:39] account in a big way like that's I
+[20:41] totally agree with fact that that's um a
+[20:44] no brainer for me like if if Bitcoin
+[20:46] changes like 10 20% in a month it cannot
+[20:50] be a unit of account long term people
+[20:52] will still transac in it uh people will
+[20:54] still use it but it will not be a
+[20:56] general accept the currency I I was like
+[20:58] um my my thought was always like um it
+[21:02] is right now volatile but when you look
+[21:04] at gold for example um it's way less
+[21:08] volatile uh what if what happens if like
+[21:10] the like that's high pae and it takes a
+[21:13] long time but if like we have the
+[21:16] singularity of money coming to fruition
+[21:18] where like at some point all the wealth
+[21:21] is stored in in in in kind of one
+[21:24] vehicle and Bitcoin actually sucks up
+[21:26] like the financial energy of real estate
+[21:29] and and gold and all that things which
+[21:32] um I think but it's a long way and a
+[21:35] hard way and nothing maybe not happens
+[21:38] in my lifetime even though I'm very
+[21:39] young um but what if that happens then
+[21:43] there's like so much money in there so
+[21:46] that it hardly moves when we look at
+[21:50] bitcoin's history me we kind of already
+[21:52] see that a little bit 15 years is not a
+[21:54] lot of history um but when IL musk in
+[21:57] 2021 came in
+[21:59] uh it moved a lot like this was the
+[22:01] richest man alive uh back then I think
+[22:04] even now and he said like oh yes I want
+[22:07] to buy uh Bitcoin I like it accept it
+[22:09] for Teslas all that stuff and I think
+[22:12] price moved up like 30% like something
+[22:14] crazy and then like a few weeks later
+[22:16] he's like ah I don't I'm not sure about
+[22:18] that environment thing which was
+[22:21] completely interesting uh to see uh and
+[22:25] then the price actually moved back down
+[22:27] to exactly where it was before him which
+[22:29] was also very interesting to see but
+[22:31] there you could see like Bitcoin is a
+[22:33] very small asset still and one guy has a
+[22:37] major impact on the price yeah even now
+[22:40] I feel like the this impact is now less
+[22:43] like even if like Jeff bz or ilas comes
+[22:45] out and does something the impact would
+[22:48] be less but I could be wrong maybe
+[22:50] depends on like when Apple now comes out
+[22:52] and says like oh 5% of our balance sheet
+[22:54] tomorrow will be converted to bitcoin or
+[22:57] was converted to bitcoin like the last
+[22:59] quarter probably that's more realistic
+[23:01] that would massively influence the price
+[23:04] we talking like I think hundreds of
+[23:06] percents of uh of of gains and also like
+[23:09] volatility along the way um I'm I'm just
+[23:12] thinking like uh it it could go to a a
+[23:16] size that might change that fact but I
+[23:20] agree with you like totally like as long
+[23:22] as it stays volatile there's no chance
+[23:24] that it gets a me of exchange well
+[23:26] there's no way around the fact that uh
+[23:28] many people are in Bitcoin simply
+[23:30] speculating right and and we should be
+[23:33] frank about this fact I am I am in love
+[23:36] with The Cypher Punk vision of enabling
+[23:40] trust to scale by removing these trust
+[23:43] intermediaries right and and this is
+[23:45] what I'm love with with with regards to
+[23:47] bitcoin and what I'm in love with with
+[23:49] regards to to liquid but it doesn't
+[23:53] change the fact that many people are
+[23:54] simply here because when the price goes
+[23:57] up they want to be in the vagon right
+[24:00] and and and and and that people change
+[24:03] their mind with regards to an asset if
+[24:06] Elon Musk gives them their their his
+[24:09] endorsement or Jeff bethos or any of
+[24:12] those folks H it doesn't change mine one
+[24:15] bit you know my my view with regards to
+[24:17] bitcoin if v m i don't I couldn't care
+[24:20] less I have a Clear Vision on what
+[24:23] Bitcoin is for me and how it changes the
+[24:27] world and and I want to be that vum for
+[24:29] those reasons so um in fact you could
+[24:33] argue that the fact that they move so
+[24:36] fast it is actually the consequence of
+[24:38] so many people playing with a casino on
+[24:41] bitcoin but it who who cares it's part
+[24:45] of any new asset any new asset has
+[24:48] speculation people looking forward
+[24:51] specul right the specularity means
+[24:53] looking forward some someone says said
+[24:55] this in bitco in Spanish Bitcoin and I
+[24:58] love the sentence because it means
+[25:00] you're are looking into the future
+[25:01] specul and and and and folks that think
+[25:04] that they are on the right side are
+[25:06] making bets and and you know hoping that
+[25:09] it will increase in price that's okay
+[25:12] those that are right will be gaining
+[25:14] money and those that fail will lose it
+[25:17] but those of us that are in here because
+[25:19] they see value at owning Bitcoin I I I
+[25:23] find it valuable to own Bitcoin right
+[25:26] because it it it pro it enables
+[25:28] exchanges for me that are not possible
+[25:31] otherwise it enables exchanges when when
+[25:34] I'm talking about exchanges I mean both
+[25:36] person to person me to you but also with
+[25:40] me and myself in the future right and
+[25:42] and and therefore I'm I'm way super
+[25:46] happy to own Bitcoin and I think that's
+[25:48] where the value is and and um the fact
+[25:52] that I think it is not generally
+[25:54] accepted means of exchange or the fact
+[25:56] that there are many people using it as a
+[25:59] casino doesn't change that fact one bit
+[26:01] right so yeah how how will Bitcoin
+[26:04] change the world yeah it will change the
+[26:07] world because again it will enable
+[26:09] exchanges that are not possible
+[26:11] otherwise and this is what I see with
+[26:14] liquid and I find it fascinating with
+[26:18] liquid if you think about it or let let
+[26:21] me let me let me try to explain to you
+[26:24] what I find awesome about liquid and and
+[26:27] because it's a exactly the same idea
+[26:29] that I described about Bitcoin if I step
+[26:31] back I I would say yeah Bitcoin enables
+[26:33] private property it enables us to to own
+[26:36] something without the need for any loss
+[26:39] which is an institution it removes the
+[26:41] need for that institution and therefore
+[26:43] I can own property here where I live I
+[26:45] can own property in your country in any
+[26:47] other country in the world and and
+[26:50] nobody can H you know prevent that from
+[26:54] from from happening prevent that from
+[26:57] happening so a so what happens is that
+[27:00] there are many other exchanges there are
+[27:02] many other many institutions that we can
+[27:04] get rid of and let trust scale and one
+[27:08] of of those institutions is financial
+[27:10] markets markets are also an institution
+[27:12] because it's again a number of rules and
+[27:14] protocols that enables strangers to to
+[27:17] interact with each other and and
+[27:19] financial markets are a very powerful
+[27:21] one in fact it is extremely powerful
+[27:25] because you could argue that in many
+[27:27] emerging countries the lack of these
+[27:30] institutions such such as financial
+[27:32] markets with proper rule of law is what
+[27:34] is preventing many of the very valuable
+[27:38] assets that those countries have to
+[27:40] connect with global liquidity and by
+[27:42] being unable to connect with global
+[27:44] liquidity there is no money flowing in
+[27:47] and there they cannot bootst let's say
+[27:49] their their economies right so so what I
+[27:53] think liquid can enable is
+[27:55] to make countries in emerg
+[27:59] economies with very lean regulatory
+[28:02] bodies to to enforce the right of an
+[28:05] asset you for example I own land in in
+[28:08] an emerging country and and I want to
+[28:12] develop a real estate project and if if
+[28:15] with very little loss you know with very
+[28:18] the need for very little loss and a very
+[28:20] lean regulatory body that does thing
+[28:23] correct you can
+[28:25] then connect the asset in a digital H
+[28:29] form you know there would be an article
+[28:32] is a trusted intermediary but it would
+[28:34] be way less than what it's needed
+[28:37] currently in Europe or the US to enable
+[28:40] financial markets you know in order to
+[28:42] to enable financial markets in the EU or
+[28:43] the US you need a massive regulatory
+[28:46] body you need a National Stock Exchange
+[28:49] you need a Clearing House a a Central
+[28:52] Security depositary a settlement system
+[28:55] that includes the Central Bank and a a
+[28:57] huge number of regulatory bodies
+[29:01] supervision
+[29:03] auditing lawyers anything a huge number
+[29:06] of of things and that system is
+[29:09] extremely costly and it's so costly that
+[29:11] it's making all those emerging countries
+[29:14] not being able to enable financial
+[29:16] markets Advanced Financial markets so a
+[29:20] a system like liquid that is secure
+[29:22] because it uses bitcoin's codebase utxo
+[29:25] model and a number of other things can
+[29:28] enable a very lean regulatory body in an
+[29:30] emerging country to connect the local
+[29:33] assets with global liquidity you know
+[29:36] with Global Investors and therefore let
+[29:38] money get in and bootstrap truly
+[29:41] economies and and we've seen this on
+[29:44] liquid with a number of assets and it's
+[29:47] fascinating because H lenders for
+[29:50] example in Mexico uh you know
+[29:53] non-banking financial institutions that
+[29:55] that are lending to individuals and in
+[29:58] in in Mexico H were not
+[30:02] able to land any longer despite having
+[30:06] owning a lot of collateral you know what
+[30:08] is called promisory notes and and all of
+[30:11] a sudden thanks to liquid these these
+[30:15] assets can moved can be moved and used
+[30:17] as collateral via token by being a token
+[30:20] and this completely blew my mind because
+[30:22] all of a sudden these non-banking
+[30:24] financial institutions can lend way more
+[30:27] way more more into the Mexican economy
+[30:30] so so we're and and he thanks that to to
+[30:32] US Banks and US funds lending money
+[30:36] through liquid onto these non-banking
+[30:38] financial institution so we are
+[30:40] basically connecting very valuable
+[30:42] assets thanks to a law in Mexico that
+[30:44] makes them very H strong from the legal
+[30:47] standpoint with global liquidity you
+[30:49] know and it it really blows my mind so
+[30:52] and it even made me change the focus of
+[30:55] my work you know I I I was you know
+[30:58] chasing traditional financial
+[31:00] institutions in Europe and and and the
+[31:02] us but I realized that what with a truly
+[31:05] secure blockchains for financial markets
+[31:07] where it really solves a problem is in
+[31:09] emerging economies right so it that is
+[31:12] the to respond your
+[31:14] question if you want to buy the Assets
+[31:16] in the in liquid you will need Li you
+[31:19] will need Bitcoin you know so it will
+[31:21] enable exchanges that are not possible
+[31:24] otherwise it is already enabling
+[31:26] exchanges that are not possible
+[31:28] otherwise you know and it's enabling um
+[31:31] many other use cases that we are seeing
+[31:33] coming you know where ER the need H for
+[31:37] trust laws are what makes you you know
+[31:41] choose where where to put your trust you
+[31:43] know if if if there is a law it will
+[31:45] tell you you can trust this institution
+[31:48] because it's supervised it's regulated
+[31:49] you know blah blah blah all that you
+[31:51] know but if there's no law you don't
+[31:53] know who to trust so in order to reach
+[31:55] consensus that's where a blockchain a
+[31:57] secure block really solves a problem and
+[31:59] that is needed in these kind of
+[32:00] countries you know where there there's
+[32:02] no such loss you know and and this is
+[32:05] what blowing my mind because it's
+[32:07] exactly matches the what I think Bitcoin
+[32:09] is solving you know
+[32:11] and yeah so so it's it's about I didn't
+[32:15] use Liquid before H joining H
+[32:18] blockstream but as I understood it I'm
+[32:20] I'm a hardcore user right now you know
+[32:22] and so I'm using already Bitcoin as an
+[32:25] exchange a means of exchange for assets
+[32:28] that are not possible otherwise this is
+[32:30] this is what I mean by that thank you
+[32:32] you already made it halfway through the
+[32:33] video and I'm really really grateful to
+[32:36] have you here two things make this
+[32:38] channel possible you as a watcher and
+[32:40] listener who keep supporting this
+[32:42] Channel and another one is all the
+[32:44] Bitcoin brands that I partner up with
+[32:46] like 21 Bitcoin who support me from the
+[32:49] very start and where I personally buy my
+[32:51] Bitcoin from with code Robin you even
+[32:53] get a discount when you buy Bitcoin with
+[32:55] them and now also bitbox bitbox is the
+[32:59] simplest and securest way to secure your
+[33:02] Bitcoin and I heard a crazy statistics
+[33:04] only 2% of bitcoiners hold their Bitcoin
+[33:07] in a hardware wallet how crazy is that
+[33:09] don't be in that 98% bracket be in the
+[33:13] 2% bracket and if you have self custody
+[33:15] and you know your friend does not have
+[33:17] maybe he needs a Christmas present maybe
+[33:19] he needs a birthday present and a small
+[33:21] life hack if you use code Robin you get
+[33:23] 5% off your order plus you support my
+[33:27] channel and now let's get back to the
+[33:29] video that's interesting um maybe for
+[33:32] those who who don't know much about
+[33:34] liquid how does it work what exactly is
+[33:37] it and let's make it uh uh for them
+[33:40] understandable sure liquid is a side
+[33:42] chain of of Bitcoin right and H
+[33:45] basically what um it means this means is
+[33:48] that if a blockchain by by definition uh
+[33:52] does shouldn't try to achieve uh
+[33:55] security decentralization and ability on
+[33:58] the same chain because that could and in
+[34:02] fact does compromise the security of the
+[34:05] Native token and if you are if you think
+[34:08] that the security of that native token
+[34:10] is very important as we all think with
+[34:12] regards to bitcoin H then it's it would
+[34:15] be a bad idea to enable that scalability
+[34:18] and fancy functionalities for financial
+[34:21] markets on top of the same blockchain
+[34:24] where where the native token is is is
+[34:27] stored and therefore that's why um H the
+[34:31] founders of blockstream decided that the
+[34:32] best way forward would be to to enable
+[34:35] that kind of fancy features and
+[34:37] scalability on our second layer the way
+[34:39] it works is that you lock Bitcoins on a
+[34:42] a address controlled by a number of
+[34:45] companies which are the members of the
+[34:47] Federation that that manages the liquid
+[34:50] Network and then it gets unlocked on the
+[34:53] liquid network with different protocol
+[34:54] rules and different by different
+[34:56] protocol rules I mean faster cheaper you
+[34:59] know and with all these up codes with
+[35:03] the the ability to program very
+[35:05] interesting logic to the transactions
+[35:08] you know that is not possible on bitcoin
+[35:10] main chain but securely unlike on other
+[35:13] blockchains and and uh liquid is again
+[35:17] managed by currently around 80 companies
+[35:20] 80 companies that are organized in a
+[35:22] federation and this Federation has three
+[35:24] boards and they vote in those uh boards
+[35:27] whenever they want to propose you know
+[35:30] the a new member joining um new rules or
+[35:34] to change the technology road map of of
+[35:36] liquid you know and they vote there and
+[35:38] they make this decisions interestingly
+[35:40] this consensus
+[35:42] model has of course uh the disadvantage
+[35:46] over Bitcoin that it's not entirely
+[35:50] decentralized but on the other hand it
+[35:53] is a proven model because it's exactly
+[35:56] the way the con ens model that manages
+[35:58] nationalized stock exchanges Clearing
+[36:00] Houses depositaries and even central
+[36:03] banks central banks are actually in fact
+[36:05] many of them at least are Federation of
+[36:07] members federations of members you know
+[36:09] and those members are the ones that take
+[36:11] the
+[36:11] decisions H with regards to the central
+[36:13] bank yeah that's the the way it works
+[36:15] and and the the the goal of liquid is
+[36:19] basically enabling these Advanced
+[36:20] Financial applications that are not
+[36:22] possible otherwise you know by removing
+[36:23] all those trusted intermediaries
+[36:25] intermediaries that I if you think about
+[36:27] all those trusted intermediaries are
+[36:29] nothing more than a recordkeeping
+[36:32] companies you know they keep a ledger
+[36:33] basically you know with lots of controls
+[36:35] lots of supervision lots of but we can
+[36:37] turn all those ledgers into just one you
+[36:40] know and and all those federations into
+[36:42] just one and that's what liquid does you
+[36:44] know liquid enables just that and what
+[36:47] we are seeing right now is to I would
+[36:49] frame it as two categories mainly one is
+[36:52] scalability use cases which is you know
+[36:55] using Bitcoin to pay or or to buy things
+[36:59] faster and cheaper or to balance payment
+[37:01] channels for example or you know many
+[37:03] other use cases that are part of the
+[37:05] scalability category that I would call
+[37:08] and there other use cases which are
+[37:10] capital markets you know and most of my
+[37:12] focus is capital markets and and it's
+[37:15] basically enable you know that those
+[37:17] interesting Assets in any country to be
+[37:19] connected to Global Investors right and
+[37:22] that's where I think liquid excels and
+[37:25] and precisely if I may add the key
+[37:28] differentiating factor of liquid of
+[37:30] other over other
+[37:32] blockchains is that if you if you want
+[37:35] to need loss the least you need to have
+[37:40] you know security paranoid approach to
+[37:42] software development you know and that's
+[37:44] what we have in in Bitcoin right and
+[37:46] that's what liquid inherits by by using
+[37:48] its code base so so yeah it is funny
+[37:53] because I typically travel to these
+[37:55] places in trafa in Europe or the US and
+[37:57] then they say you know technology is a
+[38:00] commodity technology the blockchain that
+[38:02] is going to be used in financial markets
+[38:04] is a commodity and they couldn't be more
+[38:06] wrong in my opinion and the reason why
+[38:08] they're wrong in my opinion is
+[38:10] because they are used to regulating
+[38:14] absolutely everything the the EU has the
+[38:17] power to regulate anything right they
+[38:19] have all the lawyers they need all the
+[38:21] Regulators all the supervision that is
+[38:23] needed could be needed to regulate
+[38:25] anything and if you can regulate any
+[38:27] anything you don't need security because
+[38:29] whenever a smart contract is going to
+[38:31] break there will be someone to regulate
+[38:34] what happens when things break but
+[38:36] instead in an emerging country if they
+[38:38] don't have the legal enforcement and
+[38:40] apparatus to to regulate what happens
+[38:42] when things break that's when when they
+[38:44] choose security paranoid blockchains you
+[38:47] know and and that's where the value is
+[38:50] in my opinion and that's also why in
+[38:53] Bitcoin the security is totally paranoid
+[38:56] you know the if you don't if you want to
+[38:58] totally remove the need for any trusted
+[39:01] intermediaries then security has been
+[39:04] completely crazy and that's what in my
+[39:07] opinion Nick Sab always means when he
+[39:09] says trusted intermediaries are trusted
+[39:12] third parties are security holes right
+[39:13] it's really interesting and and I feel
+[39:15] like when when we talk about uh side
+[39:17] chains uh second layers and all all
+[39:20] those scaling solutions to bitcoin um
+[39:23] most people usually think about
+[39:26] lightning first like they they have like
+[39:28] the lightning apps and lightning is a
+[39:30] really big name in the space how does it
+[39:33] um how's it different to light how
+[39:35] liquid different use cases are they
+[39:38] complimentary to each other like how
+[39:39] does this work yeah lightning is great
+[39:43] for the means of exchange use case for
+[39:46] for the usual one for payments you know
+[39:48] but but but that's lining with regards
+[39:50] to bitcoin but I see lightning nowadays
+[39:53] as as simply a not simply but a great
+[39:56] technology for any utxo based model ER
+[40:00] model asset and and that is Bitcoin but
+[40:03] it's also any liquid asset you know so
+[40:05] for me right now even if you know we
+[40:08] have a service that is green light that
+[40:10] enables lightning Network as a service
+[40:12] so if anyone doesn't want H to to run a
+[40:16] lightning network node they they would
+[40:19] hire us and they they can enable that
+[40:21] non-custodial you know which is great
+[40:23] and that serving that service is growing
+[40:25] with regards to bitcoin but but now for
+[40:28] me it's even more interesting to enable
+[40:30] lightning on liquid for any asset that
+[40:33] requires maximum throughput you know so
+[40:36] for example H we have a number of stable
+[40:39] coins there is particularly one I cannot
+[40:42] talk about it yet unfortunately but uh
+[40:44] there is one that
+[40:46] is I think it's going to grow a lot you
+[40:48] know over the next few months and and I
+[40:52] expect hopefully to be a problem to
+[40:55] become a problem in terms of throughput
+[40:57] on liquid and that at some point will
+[41:01] force us to implement a lightning
+[41:04] Network for that particular asset and
+[41:06] hopefully I I like that kind of problems
+[41:09] right and and and for any other asset
+[41:12] that grows enough to make the space in
+[41:15] the blocks uh too expensive right and
+[41:18] that's what liqu lightning is it's a
+[41:19] great scalability solution for any
+[41:22] situation where a throughput is a
+[41:25] problem and and liquid is just a liquid
+[41:29] You could argue that it is partially
+[41:31] great for throughput but where it is
+[41:33] actually great in my opinion is to
+[41:35] enable different means of exchange use
+[41:38] cases not only payments but also buying
+[41:40] these assets that can yield a a profit
+[41:43] that can make you enable you to own
+[41:46] Assets in companies in in debt in land
+[41:49] in whatever you know asset that can be a
+[41:53] let's say tokenized interesting it's
+[41:56] it's like this the this topic there are
+[41:58] so many factors already in like it's
+[42:00] it's uh even for someone like me like
+[42:02] that's kind of involved in all all the
+[42:04] things like it it kind of gets it's
+[42:08] chaotic um then there's two other things
+[42:12] uh that also come up sometimes on my
+[42:14] podcast this is fediman and Arc how how
+[42:18] different are though like fediman like
+[42:20] the Federation system it sounds a little
+[42:22] bit like liquid uh when you talk about
+[42:24] it how does those
+[42:27] compare to be honest I don't know much
+[42:30] about ER fedy Min I haven't been uh
+[42:33] looking at it but but simply because
+[42:36] since I most of my work is with regards
+[42:39] to Capital
+[42:40] markets in regards to Capital markets ER
+[42:44] fed Min is is not there what what
+[42:47] capital markets are currently looking at
+[42:49] is mostly other blockchains you know and
+[42:52] and that's where I think we have a a
+[42:55] huge market and a massive
+[42:58] that is where we can grow the most so I
+[43:00] haven't been paying attention to fine I
+[43:02] have to be entirely honest with regards
+[43:04] to Ark I think it's in very early stages
+[43:06] but it's very promising you know and I
+[43:08] think um it is Marco um from bpam that
+[43:13] it's looking at it and I like Marco a
+[43:15] lot you know and if he's putting his
+[43:17] eyes into this I think it's it has great
+[43:20] chances of being great and I certainly
+[43:22] hope so but again I I haven't deep dived
+[43:26] that much into our either I think it's
+[43:28] still early stages it is promising
+[43:31] simply because of the people that are
+[43:33] are on top of it again not because I
+[43:35] think I have a strong opinion but it's
+[43:37] great and I hope that experimentation
+[43:40] keeps happening and that we keep H
+[43:42] finding er er the proper tradeoffs for
+[43:45] each H use case you know I think that in
+[43:49] blockchains is all about trade-offs and
+[43:51] this
+[43:51] is it is not about finding because for
+[43:54] example some people ask me yeah you
+[43:56] think that security is is Paramount to
+[43:59] enable financial markets and all that
+[44:02] but tether runs mostly on Tron you know
+[44:05] and I'm like yeah but you know but
+[44:07] Security on TR sucks but but for a
+[44:09] payment of you know of $20 or $100 you
+[44:14] know security is not really a big issue
+[44:16] right I'm talking about really massive
+[44:19] amounts of of value you know assets that
+[44:21] are worth billions or or or trillions
+[44:24] you know in liquid the total value lock
+[44:26] right now is 1.7 billion already you
+[44:30] know and many people in the Bitcoin
+[44:31] space are not even aware of this you
+[44:33] know and we have many kinds of assets
+[44:35] already and is valuable assets that are
+[44:38] being used as as collateral and and
+[44:42] stable coins are way more than this but
+[44:44] scattered across many different
+[44:46] blockchains you know so every blockchain
+[44:49] has a different H tradeoff and depending
+[44:52] on the use case you need to enable you
+[44:55] will need one tradeoff of or the other
+[44:57] right and and that's where I think we
+[45:00] will find use cases for Arc hopefully H
+[45:03] we will find use cases for Fint and
+[45:05] others and I think that we keep we need
+[45:08] to keep exploring where each blockchain
+[45:12] Act does actually solve a
+[45:14] problem yeah and I think this is the the
+[45:17] the main takeaway always for me like we
+[45:19] have to keep innovating we have to keep
+[45:21] uh uh trying to find new ways to do
+[45:25] things uh because we are so early in
+[45:27] that space with Bitcoin uh and uh nobody
+[45:30] 100% knows what the future looks like
+[45:33] and how we we will do it in like 20 50
+[45:36] 100 years but it's always fun to to
+[45:37] speculate about that and always fun to
+[45:39] talk about that uh and my main takeaway
+[45:42] is always like let's let's keep
+[45:45] researching let's keep innovating Al
+[45:47] like Mar
+[45:49] a something like that uh he's also on
+[45:53] the already was on the podcast so if you
+[45:55] just like Ty in my my channel Marco you
+[45:58] you will you will find it in my library
+[45:59] for everyone watching and listening um
+[46:02] we have before we start in the endro te
+[46:04] uh one question that is always getting
+[46:06] like all all my guests are getting um it
+[46:09] aims for getting something else outside
+[46:12] of of Bitcoin and outside of the things
+[46:14] that we already talked in the podcast in
+[46:15] the podcast um what can we learn from
+[46:18] you besides Bitcoin liquid and all the
+[46:21] things that we talked about for for me
+[46:24] personally yeah whatever you want to
+[46:26] talk about outside of that drum okay
+[46:30] yeah you I I managed a weather company
+[46:32] for six years uh so and most of our
+[46:36] services were with regards to energy
+[46:38] markets H because it's it's critical you
+[46:41] know the weather for you know wind power
+[46:44] and solar power and how it impacts the
+[46:47] price at you know the wholesale price in
+[46:49] the markets so and that's also the
+[46:51] reason why I I very quickly and very
+[46:54] early saw the the synergy is between
+[46:58] Bitcoin mining and the energy markets so
+[47:00] with regards to energy markets and
+[47:02] weather uh I think I can hopefully be
+[47:05] helpful for whoever wants to know a
+[47:07] little bit more about
+[47:09] that that's interest like a weather
+[47:11] company what what do a weather company
+[47:13] doing I never heard that but yeah yeah
+[47:15] weather companies I mean weather affects
+[47:18] any any outdoor activity right so we
+[47:21] work with energy markets the most
+[47:23] because it's where most money is but
+[47:25] also with ship transport portation Road
+[47:28] Transportation airports insurance
+[47:31] companies agriculture you name it and
+[47:35] and what basically you you do is you use
+[47:38] weather models numerical models and H
+[47:41] try to find correlations with h business
+[47:45] variables right and in this case that I
+[47:48] mentioned it would be power production
+[47:50] for wind power for solar power and all
+[47:54] these things but with regards to to AR
+[47:56] ulture it would be for example things
+[47:59] with regards to the soil the humidity of
+[48:01] the soil the the variables the
+[48:03] temperature in the soil the temperature
+[48:05] you know centers certain sensors with
+[48:08] Center sensors and many other things and
+[48:11] that kind of mixture of different
+[48:13] variables when you mix it with the
+[48:16] production or for example with the
+[48:18] ability to I remember a very funny use
+[48:21] case which which was for example a
+[48:22] retail company in Canada H they always
+[48:25] run out of stock of barbecue stuff you
+[48:28] know like sausages and all these things
+[48:30] whenever the sun came out and decent
+[48:32] temperatures you know and they wanted to
+[48:34] be able to to keep in stock enough so
+[48:38] that they could sell it all you know
+[48:39] when when the time come you know when
+[48:42] the weather is appropriate and therefore
+[48:45] um they wanted our service to to be able
+[48:47] to provide decision support systems what
+[48:50] we provided the the deliverable for
+[48:53] customers were was a decision support
+[48:55] system so basically the person making a
+[48:57] decision with regards to the price of
+[49:00] energy the the insurance the price of an
+[49:02] insurance or the the operations behind
+[49:05] the back end the back office for
+[49:07] insurance management and these kind of
+[49:10] things all these people's these people
+[49:12] that are making decisions need an easy
+[49:14] support system that tells them hey do
+[49:16] this within this time window don't do
+[49:19] this with here use this price here you
+[49:22] know so basically all kinds of web based
+[49:24] or mobile based fun tools that enabled
+[49:27] make them to make good decisions there
+[49:30] were or even for example gas Traders I
+[49:34] mean there's a myriad of people using
+[49:36] weather information you wouldn't believe
+[49:37] it but it's a tiny sector it's a very
+[49:40] small industry so not that many many
+[49:42] people know it that's that's really
+[49:45] interesting uh that's that's almost
+[49:47] worth a a full
+[49:50] podcast so many questions around that
+[49:52] but we we have to come to the endro te
+[49:55] totally uh um our tin is where the
+[49:57] previous guest is asking a question for
+[49:59] the next guest without knowing who the
+[50:00] next guest actually is H the question
+[50:03] for you is what could the future of
+[50:05] humanity look like when we have access
+[50:07] to Limitless power on a Bitcoin
+[50:10] standard wow what would be a what would
+[50:13] Humanity look like if there is Limitless
+[50:16] power but is it is the idea if we get
+[50:19] for example fusion fusion power and and
+[50:23] how we would I I don't see the
+[50:25] relationship between the Bitcoin
+[50:27] standard and the having Fusion other
+[50:30] than it would we would have very cheap
+[50:32] power prices but infrastructure would
+[50:35] still need to be paid for right so it's
+[50:37] very expensive to build a a nuclear
+[50:39] fusion reactor so is it's not even
+[50:43] possible yet but uh but um if we would
+[50:46] get it well look I'm a optimistic I'm a
+[50:49] rational optimistic so what I believe is
+[50:52] that we humans H solve problems we are
+[50:55] great at solving problems we are we are
+[50:57] able to create explanatory knowledge as
+[50:59] my favorite author David Deutsch always
+[51:02] says and that means that whatever is a
+[51:06] problem with regards to anything we will
+[51:10] figure it out we will figure it out we
+[51:12] only need to have good ideas and that's
+[51:15] why I'm a great defendant of the West
+[51:18] the ideas of the West you know of the
+[51:20] Western countries and I think they are
+[51:22] under threat right now you know and I'm
+[51:25] and what I think that whatever the
+[51:27] problem is you know expensive energy or
+[51:31] cheap energy I think that what it's
+[51:33] important is that we Prevail we keep um
+[51:38] the error correction mechanisms and and
+[51:41] in the west what what I think that has
+[51:43] made us progress in within the last 300
+[51:46] years is the tradition of criticism you
+[51:48] know we are able to criticize we should
+[51:50] be able to criticize and have free
+[51:52] speech for that you know and and any
+[51:55] kind of problem it that one or any other
+[51:58] can be solved if we keep that in mind
+[52:00] okay so let's keep Western values in
+[52:02] place and let's protect them and let's
+[52:05] keep any threat away from here because
+[52:07] it's been good so far and let's H keep
+[52:11] progress happening that's what I would
+[52:12] say absolutely freedom of speech is so
+[52:15] important it's it's it's very very
+[52:17] important uh before I let you go where
+[52:19] can people find you if they want to
+[52:21] reach out to you and have questions I'm
+[52:23] not very active lately I was very active
+[52:26] before on on Twitter but I'm not any
+[52:28] longer so you can find me on LinkedIn
+[52:31] but also on the B2 community that blog
+[52:34] stream enabl for both um Court lightning
+[52:37] and and liquid uh so yeah both places
+[52:41] perfect then yeah thank you for joining
+[52:43] us today and also for everyone watching
+[52:44] and listening thank you for joining us
+[52:46] today I'll be back tomorrow with another
+[52:48] episode bye-bye
+[52:50] [Music]

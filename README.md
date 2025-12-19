@@ -26,28 +26,32 @@ Located in [`000-099-investing/`](./000-099-investing)
 
 ## ₿ Bitcoin Mining Calculators (100-199)
 
+Located in [`100-199-bitcoin-mining/`](./100-199-bitcoin-mining)
+
 Suite of React-based Bitcoin mining and financial calculators. All run in-browser.
 
 | # | Calculator | Description | Live Demo |
 |---|------------|-------------|-----------|
-| 101 | [Mining Calculator](./101-bitcoin-mining-calculator) | Matrix comparison across electricity rates | [Demo](https://bitcoin-mining-calculator.vercel.app) |
-| 102 | [Profitability Calculator](./102-bitcoin-mining-electricity-calculator) | 3-year projections with halving | [Demo](https://bitcoin-mining-with-set-electricity-calculator.vercel.app) |
-| 103 | [BTC Loan Calculator](./103-btc-loan-calculator) | Bitcoin-backed loan analysis | [Demo](https://btc-loan-calculator.vercel.app) |
-| 104 | [Miner Price Tracker](./104-miner-price-tracker) | Historical hardware price tracking | [Demo](https://miner-price-tracker.vercel.app) |
-| 105 | [Acquisition Calculator](./105-miner-acquisition-calculator) | Max price to hit profit targets | [Demo](https://miner-acquisition-calculator.vercel.app) |
-| 106 | [Hosted Mining Portfolio](./106-hosted-mining-portfolio) | Multi-company portfolio tracking | [Demo](https://hosted-mining-portfolio.vercel.app) |
-| 107 | [Calculators Landing](./107-crypto-calculators-landing) | Landing page for all calculators | [Demo](https://btc-calculators.vercel.app) |
-| 108 | [Miner Price Analytics](./108-miner-price-analytics) | Web scraping for miner marketplace data | - |
+| 101 | [Mining Calculator](./100-199-bitcoin-mining/101-bitcoin-mining-calculator) | Matrix comparison across electricity rates | [Demo](https://bitcoin-mining-calculator.vercel.app) |
+| 102 | [Profitability Calculator](./100-199-bitcoin-mining/102-bitcoin-mining-electricity-calculator) | 3-year projections with halving | [Demo](https://bitcoin-mining-with-set-electricity-calculator.vercel.app) |
+| 103 | [BTC Loan Calculator](./100-199-bitcoin-mining/103-btc-loan-calculator) | Bitcoin-backed loan analysis | [Demo](https://btc-loan-calculator.vercel.app) |
+| 104 | [Miner Price Tracker](./100-199-bitcoin-mining/104-miner-price-tracker) | Historical hardware price tracking | [Demo](https://miner-price-tracker.vercel.app) |
+| 105 | [Acquisition Calculator](./100-199-bitcoin-mining/105-miner-acquisition-calculator) | Max price to hit profit targets | [Demo](https://miner-acquisition-calculator.vercel.app) |
+| 106 | [Hosted Mining Portfolio](./100-199-bitcoin-mining/106-hosted-mining-portfolio) | Multi-company portfolio tracking | [Demo](https://hosted-mining-portfolio.vercel.app) |
+| 107 | [Calculators Landing](./100-199-bitcoin-mining/107-crypto-calculators-landing) | Landing page for all calculators | [Demo](https://btc-calculators.vercel.app) |
+| 108 | [Miner Price Analytics](./100-199-bitcoin-mining/108-miner-price-analytics) | Web scraping for miner marketplace data | - |
 
 ---
 
 ## 🤖 AI & Automation Tools (200-299)
 
+Located in [`200-other/`](./200-other)
+
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
-| 201 | [Strategic Audit Bot](./201-strategic-audit-bot) | AI-powered company audit tool | Python, Claude, PDF |
-| 202 | [Product Hunt Ranking](./202-product-hunt-ranking) | Weekly Product Hunt scraper | Python, Google Sheets |
-| 203 | [YouTube Transcripts](./203-youtube-transcripts) | YouTube transcript extractor | Python |
+| 201 | [Strategic Audit Bot](./200-other/201-strategic-audit-bot) | AI-powered company audit tool | Python, Claude, PDF |
+| 202 | [Product Hunt Ranking](./200-other/202-product-hunt-ranking) | Weekly Product Hunt scraper | Python, Google Sheets |
+| 203 | [YouTube Transcripts](./200-other/203-youtube-transcripts) | YouTube transcript extractor | Python |
 
 ---
 
@@ -82,8 +86,19 @@ alex-bespalov-portfolio/
 │   ├── 007-portfolio-analyzer/  # React portfolio tool
 │   └── 008-ticker-analysis-sheets/
 │
-├── 101-108-*/                   # Bitcoin mining calculators
-├── 201-203-*/                   # AI & automation tools
+├── 100-199-bitcoin-mining/       # Bitcoin mining calculators
+│   ├── 101-bitcoin-mining-calculator/
+│   ├── 102-bitcoin-mining-electricity-calculator/
+│   ├── 103-btc-loan-calculator/
+│   ├── 104-miner-price-tracker/
+│   ├── 105-miner-acquisition-calculator/
+│   ├── 106-hosted-mining-portfolio/
+│   ├── 107-crypto-calculators-landing/
+│   └── 108-miner-price-analytics/
+├── 200-other/                    # AI & automation tools
+│   ├── 201-strategic-audit-bot/
+│   ├── 202-product-hunt-ranking/
+│   └── 203-youtube-transcripts/
 └── README.md
 ```
 

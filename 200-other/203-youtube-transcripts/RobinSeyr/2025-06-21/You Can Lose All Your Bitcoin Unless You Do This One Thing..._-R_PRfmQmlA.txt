@@ -1,0 +1,1507 @@
+Title: You Can Lose All Your Bitcoin Unless You Do This One Thing...
+Video ID: -R_PRfmQmlA
+URL: https://www.youtube.com/watch?v=-R_PRfmQmlA
+Date Saved: 2025-06-21 21:37:47
+Channel: RobinSeyr
+--------------------------------------------------
+
+[00:00] 10 years ago, it's like insanely
+[00:02] complicated. So many soap stories on
+[00:05] Reddit, how people lost their coins
+[00:07] because basically you had to invent your
+[00:09] own self-custody solution. Today, you
+[00:11] can just get a hardware wallet if you're
+[00:13] talking about like large sums and you
+[00:15] want to keep them secure. There's a
+[00:17] thing called the Glacier Protocol.
+[00:19] Basically, stepby-step instructions.
+[00:22] It's I think it's about 100 pages. We
+[00:24] actually don't know any capital gains
+[00:25] taxes, so that's that's a plus, too.
+[00:28] There's a strong narrative that
+[00:30] investing in Bitcoin companies is better
+[00:33] than holding Bitcoin, which is obviously
+[00:35] not true in my opinion. With the taxes,
+[00:38] I think it's more probably just a
+[00:40] bureaucracy thing because if you have to
+[00:42] list every coffee purchase on your tax
+[00:44] return, that just sucks. That doesn't
+[00:46] make any sense because if you have
+[00:48] Bitcoin on an exchange, it's it's
+[00:49] basically useless. It's not not even a
+[00:51] form of money. It's just like some sort
+[00:53] of an investment. Everything you build
+[00:56] you build in layers. There's absolutely
+[00:58] no point in cramming everything into
+[01:01] layer one. All that could have gone
+[01:03] horribly wrong, but it didn't. It was
+[01:04] like a lot of not hindsight, but really
+[01:07] like thinking into the future and just
+[01:09] nailing it. That's unbelievable for me.
+[01:14] [Music]
+[01:16] Before we get started with all the
+[01:17] topics, maybe for the few people that
+[01:19] don't know you, who are you? Why are you
+[01:21] excited about Bitcoin?
+[01:24] So, I'm Staticus, at least online. uh my
+[01:27] alter ego um one of the co-founders of
+[01:30] Bitbox. Um we're a Swiss hardware wallet
+[01:35] company or or as I like to call us like
+[01:38] an open- source company because
+[01:39] everything we do is out in the open.
+[01:41] It's everything is open source and we
+[01:44] are a very boring unregulated nothing to
+[01:48] see please move along um electronics
+[01:51] manufacturer.
+[01:52] So this is what we what we are building.
+[01:56] We want to build freedom technology uh
+[01:58] for Bitcoin for self-custody
+[02:01] um trust minimized open for everybody to
+[02:05] to validate on their own. Yeah. I always
+[02:09] forget you're from Switzerland like the
+[02:10] the Bitcoin country. Uh for for me it's
+[02:13] like the the it it would be my plan B if
+[02:17] Europe and the European Union gets crazy
+[02:19] like Switzerland is like almost like
+[02:21] Austria without the EU for me. Okay.
+[02:24] Yeah. I would say Surirk the M uh the
+[02:27] largest city in Switzerland is probably
+[02:29] more Bitcoin focused while Zuk the
+[02:31] crypto valley is more like the host of
+[02:34] the Ethereum Foundation and all the
+[02:36] other um altcoin stuff. But we're based
+[02:40] in Zurich. So yeah, I think what it's
+[02:43] worth. I think it's just cool to have uh
+[02:45] in the middle of Europe, Switzerland,
+[02:48] where they like I don't care what what
+[02:50] they promote and not promote, but like
+[02:52] at least they let innovation and Bitcoin
+[02:55] happen. It's always like if you let
+[02:57] innovation happen, yeah, you probably
+[02:58] also attract a lot of crypto and web
+[03:00] free things, but you kind of have to
+[03:02] ignore that. At least Bitcoin can
+[03:04] prosper in the country. And I think
+[03:06] that's a that's really cool to see in
+[03:07] Switzerland. Definitely. I guess low
+[03:09] taxes also help especially for the
+[03:11] foundations, but there's a healthy like
+[03:14] free market even when it comes to taxes
+[03:16] and like money and all that stuff. So I
+[03:19] think it's good to see what can bring
+[03:22] the most value to consumers. Yeah, I
+[03:24] think most people are not aware like
+[03:25] Switzerland is a pretty small country
+[03:27] but in the Switzerland there's certain
+[03:29] regions and they have different tax
+[03:31] codes and it's it's it's it's
+[03:33] fascinating to see. Yeah, Switzerland is
+[03:36] very decentralized. So I think where
+[03:37] Bitcoin really fits well like 26 cantons
+[03:41] in for just 8 or 9 million people with
+[03:44] different legislation almost like states
+[03:47] in the US of course they are hu way
+[03:49] bigger um different school laws
+[03:53] different tax regulation and yeah it it
+[03:58] keeps us fit and really limits
+[04:01] government overreach. Absolutely. Yeah.
+[04:04] Um but let's get started with self
+[04:06] custody. Uh and and I'm always shocked
+[04:07] and I told you that beforehand I'm very
+[04:09] focused on self- custody. I'm only
+[04:11] holding in self- custody. I'm as soon as
+[04:13] I get Bitcoin in on some non-self
+[04:16] custody way, which is um barely
+[04:18] happening these days because I earn in
+[04:20] Bitcoin. So like uh um part of uh I I
+[04:23] almost don't have to to buy Bitcoin
+[04:26] these days. I don't even touch the
+[04:27] exchanges. Um I always try to move it
+[04:30] directly to self custody or some hot
+[04:32] wallet or like some kind of things that
+[04:34] I I can do. Um, why do you think so many
+[04:38] people aren't still in self-custody? And
+[04:41] yeah, like as I said in the beginning,
+[04:42] the poll that I always do it like around
+[04:44] 50% of my audience is still not in self
+[04:47] custody even though I'm so focused on
+[04:48] it. Um, why why do you think most people
+[04:51] still haven't gotten to self custody and
+[04:54] how can we like move more people to that
+[04:57] uh future? I think most people probably
+[05:00] start out with just buying some Bitcoin
+[05:03] um on an exchange and the next step of
+[05:06] actually withdrawing the Bitcoin is of
+[05:09] course not really promoted by exchanges.
+[05:11] So it takes a while until you and like
+[05:14] interest also a bit of knowledge and
+[05:17] about the why you should do that. And
+[05:20] for me, it's it's actually a pretty easy
+[05:23] sell because once people realize um that
+[05:27] Bitcoin as money has like these unique
+[05:30] properties, it's a better asset. It's
+[05:32] trustless. No third party risk. No, it's
+[05:36] censorship resistant. Nobody can tell
+[05:38] you what to do or what not to do. But
+[05:41] you basically lose all these properties
+[05:43] if you hold the Bitcoin on an exchange.
+[05:45] then it's just like another account on a
+[05:47] bank and maybe even worse because banks
+[05:51] are pretty um well regulated and funded
+[05:54] and most of the exchanges are more of a
+[05:58] wild west style company. Not all of
+[06:01] course I guess in Switzerland, Germany,
+[06:03] we have also Austria we have quite
+[06:05] reputable companies but if you then just
+[06:09] go to like FTX
+[06:12] had like a they were a Super Bowl
+[06:13] sponsor. they had like huge political
+[06:16] influence and still it's just like house
+[06:19] of cards. So, you can get rid of all
+[06:23] that uh by just holding your own coins.
+[06:26] And I think it's never been easier like
+[06:29] today. Um I mentioned before BitBox is
+[06:32] now 10 years old, which is like for me
+[06:35] personally an amazing achievement in a
+[06:37] space that has changed so much. We're
+[06:40] still around and going strong.
+[06:44] And I think when I think back um 10
+[06:48] years ago, it's like insanely
+[06:50] complicated. So many soap stories on
+[06:53] Reddit, how people lost their coins
+[06:55] because basically you had to invent your
+[06:57] own self-custody solution. Today, you
+[07:00] can just get a hardware wallet. Of
+[07:02] course, you should get a reputable one.
+[07:04] And that's all it takes. It's really not
+[07:08] that complicated.
+[07:09] Do by the way do you have any data on
+[07:12] how many people how many bitcoiners
+[07:14] actually have self custo I guess 50% is
+[07:16] probably way too high because like this
+[07:18] is people that actually watch a bitcoin
+[07:20] channel online. Uh I have heard I think
+[07:23] like last bit uh bitcoin prag conference
+[07:25] I heard someone talking about like two
+[07:27] to 5% which seemed very low for me. I
+[07:30] don't know what the actual data is. No I
+[07:32] don't have any strong insights to be
+[07:35] honest. We don't even know how many of
+[07:37] our own customers keep what coins and
+[07:40] how much of them of course um we are
+[07:43] very privacy focused company and it's
+[07:46] it's hard to guess. I I would assume
+[07:49] that especially this or maybe even last
+[07:51] year the overall overall volume has
+[07:54] probably gone down with all the ETFs
+[07:56] with all the micro strategy stuff with
+[07:59] like the institutions coming in huge
+[08:02] sums but I think that's only one aspect
+[08:06] what I care about is that we're a B2B
+[08:09] B2C company we we are producing consumer
+[08:13] um products not for institutions or for
+[08:16] companies And for me, this is the real
+[08:18] metric, the decentralized aspect of
+[08:21] spreading the coins in in the
+[08:23] population. So everybody can hold their
+[08:26] own coins. And I think just the number
+[08:28] of individual wallets, regardless how
+[08:31] how much or how little bitcoin they
+[08:34] hold, I think that's probably some
+[08:36] something we should uh promote. But it's
+[08:40] really hard to estimate how how large
+[08:42] that um percentage is. Yeah, it's true.
+[08:46] It's also um I think like around 70% of
+[08:49] the bitcoin are still held by
+[08:50] individuals. So not only like 70% of the
+[08:52] wallets but like actually the 70% of the
+[08:55] volume of bitcoin uh which is is quite
+[08:58] high. Um and so I I I disregard these
+[09:02] days the danger of like people relying
+[09:06] just on institutions and all the bitcoin
+[09:09] will be just to help institutions and
+[09:11] and people will just have the IOU. Um I
+[09:14] I I think there is a small chance of
+[09:16] that happening but right now there's no
+[09:18] indication for that but maybe when we
+[09:21] move more in those I I see that big
+[09:24] cycle that we have now of like
+[09:26] institutional adoption but retail is
+[09:28] kind of sleeping still we have like a
+[09:31] little bit of less retail um interest
+[09:34] when you look at YouTube search volume
+[09:36] when you look at Google search volume
+[09:37] and you look at all the the volumes that
+[09:40] you can compare to 2017 2091. Do you see
+[09:43] some danger in in institutions
+[09:46] really um um kind of not not taking over
+[09:49] but like getting more and more of the
+[09:50] market share and this the smaller small
+[09:53] individual bubble kind of swapping over
+[09:56] to exchanges and ETFs and whatever. Hard
+[09:59] question. Um I don't have a crystal
+[10:02] ball. I think there's a strong narrative
+[10:05] that um investing in Bitcoin companies
+[10:09] is better than holding Bitcoin, which is
+[10:11] obviously not true in my opinion. Um I'm
+[10:15] kind of open to that when these
+[10:18] companies actually are working for
+[10:19] Bitcoin. Like they are like giving back.
+[10:22] they're producing something valuable
+[10:24] like creating new interesting technology
+[10:28] or services things like that make
+[10:31] bitcoin more useful for example just in
+[10:33] the US every bitcoin transaction is a
+[10:36] taxable event right so it's really hard
+[10:39] to spend bitcoin in a non-ilgal way so
+[10:45] many bitcoiners borrow against their
+[10:47] bitcoin which I think is is a valid way
+[10:50] of using your bit bitcoin in stack. Um,
+[10:53] but if companies just are basically just
+[10:56] like money bags, I don't really find
+[10:59] that too too interesting. And for me at
+[11:02] the heart, as I mentioned, like Bitcoin
+[11:04] and Bitbox especially, I think it's it's
+[11:07] really freedom technology. And this is
+[11:10] something we really need to to work to
+[11:13] to keep to not like let other narratives
+[11:18] like greed and yield and all that stuff
+[11:21] that seems to come out of nothing to
+[11:24] take over and like work against self
+[11:27] custody.
+[11:28] I think spending is really important
+[11:30] like spending bitcoin like actually
+[11:32] using the bitcoin somehow and obviously
+[11:36] there the people just like they have a
+[11:38] feared income they don't want to spend
+[11:39] any because they have like their uh they
+[11:42] just want to stack more satoshi and and
+[11:44] that's that's perfectly fine um but
+[11:46] there are also people that uh even when
+[11:49] they want to spend something of the
+[11:50] stack they borrow against it or they do
+[11:52] something else with that uh and I think
+[11:54] spending bitcoin is something underrated
+[11:57] and I'm I'm curious on what you think
+[11:59] about that. I think the taxes actually
+[12:02] should not hold someone back because if
+[12:05] you have a situation where you are uh
+[12:07] 90% on Bitcoin and you spend the 10% of
+[12:10] fiat, you can spend 10% of fiat without
+[12:13] taxes obviously. If you then go ahead
+[12:16] and convert those uh remaining 10% to
+[12:20] 100% bitcoin, then you have to spend
+[12:22] your bitcoin obviously and then you also
+[12:25] uh have to pay capital gains tax when
+[12:28] you make a profit. But that's the point.
+[12:30] You only pay capital gains tax if you
+[12:33] make profits on those 10%. So um holding
+[12:38] feiat is ultimately worse because when
+[12:43] you hold bitcoin you only pay something
+[12:46] if you are better off than holding feiat
+[12:50] for me the taxes is like it's anyways
+[12:52] just if you made profit from that. So
+[12:56] yeah of course it sucks that you have to
+[12:57] pay taxes like I'm I'm not a friend of
+[12:59] taxes. I'm very much against taxes but
+[13:02] it's still better than holding fears.
+[13:04] True. I I think the main So, I'm
+[13:06] personally I'm a huge like spend and
+[13:08] replace guy. Um I just have a standing
+[13:11] order buying a bit of Bitcoin every
+[13:14] month and I know I can spend it. I mean
+[13:18] I don't spend like huge sums but I spend
+[13:20] freely and I know sometimes over over
+[13:23] the month I I'll get a bit more,
+[13:25] sometimes I get get less, but it's
+[13:27] always a positive amount that I add to
+[13:30] my stack with spend and replace. And
+[13:32] that has also become a lot easier with
+[13:36] um non-custodial exchanges that send you
+[13:39] the bitcoin directly to your wallet. So
+[13:42] just have a standing order and then you
+[13:44] can just start spending bitcoin when you
+[13:47] feel like it. With the taxes, I think
+[13:49] it's more probably just a bureaucracy
+[13:51] thing because if you have to list every
+[13:54] coffee purchase on your tax return, that
+[13:56] that just sucks. That doesn't make any
+[13:58] sense. And I guess nobody should do
+[14:01] that. Um or should need to do that. Um
+[14:06] and I really hope that some sort of like
+[14:07] a minimal amount that is not taxable
+[14:11] will be established in the US at some
+[14:13] point. I I I hope so. I also hope that
+[14:16] it it comes to Europe. Uh it's like I
+[14:18] mean in in Germany, I don't know
+[14:20] actually how it's in Switzerland, but in
+[14:22] Germany you have the rule if you hold it
+[14:25] longer than one year they are taxfree.
+[14:27] In Austria, the rule is unfortunately no
+[14:29] longer there. Uh, but it's all still
+[14:31] there for people that bought Bitcoin.
+[14:34] What is the date? February 2021. Might
+[14:36] be wrong. Maybe it's February 2022,
+[14:38] something like that. Um, so the Bitcoin
+[14:41] you bought before that. How's it in
+[14:43] Switzerland? You pay for for every uh
+[14:45] transaction. No. Um, we we actually
+[14:47] don't know any capital gains taxes, so
+[14:49] that's that's a plus, too. Wait,
+[14:51] Switzerland has no capital gains tax at
+[14:53] all. We do have a wealth tax, but it's
+[14:55] like 0.01. 0 1 whatever percent just
+[14:58] like once per year at the end of the
+[15:01] year what you owe what you own sorry um
+[15:05] is taxed and that's but that has nothing
+[15:08] to do if you spend or uh the bitcoin or
+[15:11] not you make Switzerland uh more
+[15:14] attractive already like like every time
+[15:16] I talk with someone from Switzerland I'm
+[15:18] like oh like I'm in the wrong
+[15:20] mountain village. Yeah. But yeah, there
+[15:23] there's also there are also some uh apps
+[15:24] that make it easy, I guess, with the
+[15:26] taxes. Um um I I personally don't use
+[15:29] any of those, but I heard of of some
+[15:31] interesting things where you just like
+[15:32] plug in the public address and then
+[15:34] they're like, "Oh, like here's what you
+[15:36] owe on taxes and this is the report and
+[15:39] you you can do it easily." But yeah, but
+[15:42] the one thing you mentioned that like
+[15:43] actually spending bitcoin or using
+[15:46] bitcoin is important. I think that also
+[15:48] comes down to or or leads back to self
+[15:51] custody because if you have Bitcoin on
+[15:53] an exchange, it's it's basically
+[15:55] useless. It's not not even a form of
+[15:57] money. It's just like some sort of an
+[15:58] investment because nobody can pay you.
+[16:01] Uh you cannot pay anyone. Um you can
+[16:04] withdraw into your own wallet, but then
+[16:06] again, you need a harder wallet if the
+[16:08] sum is large enough. Um, it's it's
+[16:12] basically just useless
+[16:14] rock like shiny rock like gold without
+[16:18] all the the cool stuff that Bitcoin
+[16:20] offers on top of that. So self- custody
+[16:23] is the only way to actually use Bitcoin
+[16:25] as money. And there are even some
+[16:28] exchanges that don't you where you
+[16:30] cannot withdraw. I think Robin Hood and
+[16:32] N26 in in Austria definitely I know. So
+[16:35] there's some places where you can buy
+[16:36] Bitcoin and you're trapped. Yeah. you
+[16:40] have to sell it again. That's definitely
+[16:41] not what it was meant to be. Absolutely.
+[16:43] And when I think back like 10 years when
+[16:46] the first Bitbox 01, it was called
+[16:48] Digital Bitbox came to market, that was
+[16:51] like a very different place obviously.
+[16:53] And I know that when I I wasn't in the
+[16:57] team back then, but uh that was like
+[16:59] just two guys, Yonas Schnelli and our
+[17:01] CEO Douglas Beckham. Um they basically
+[17:05] invented a harder wallet from scratch
+[17:08] basically at the same time as Treasure,
+[17:10] but even before Leeder came out with
+[17:12] their first device. And
+[17:15] back then nobody knew what a hardware
+[17:18] wallet actually should do or should
+[17:20] should offer. So none of these devices
+[17:23] had a screen. And of course this is also
+[17:27] what led to like iterations and
+[17:30] improvements in hardware. So
+[17:32] self-custody really came a became a lot
+[17:35] more secure and a lot a lot easier over
+[17:38] the last years.
+[17:41] How was that time? I'm really curious
+[17:42] because like I never actually um
+[17:46] researched how it was in the early days
+[17:48] to self custody. I had some guests on
+[17:50] that talked about how hard it was to buy
+[17:52] Bitcoin even and some crazy stories
+[17:54] where you had to meet some shady guy in
+[17:56] some coffee shop to like get some
+[17:58] Bitcoin because there was not really
+[17:59] exchanges. Uh so that was that was
+[18:02] interesting to hear. How was it to like
+[18:04] self custody the bitcoin? We also hear a
+[18:07] lot of stories of like how people lost a
+[18:09] bitcoin in the in the early days. Um I
+[18:12] don't have like that much um firsthand
+[18:14] experience in these very olden days. But
+[18:17] of course then you basically had if you
+[18:19] if you're talking about like large sums
+[18:22] and you want to keep them secure there's
+[18:25] a thing called the glacier protocol.
+[18:27] Basically stepbystep instructions. It's
+[18:29] I think it's about a 100 pages that you
+[18:32] you need to buy like two identical
+[18:35] laptops. You need to like manually
+[18:38] remove the network card, the Wi-Fi card,
+[18:41] all everything is in duplicate. You it's
+[18:43] like hours and hours of like gutting the
+[18:47] the the laptop just to get some sort of
+[18:50] a secure airgapped device. Um,
+[18:55] and still it's so easy to up
+[18:57] because at some point of course you
+[18:59] still need to communicate with the
+[19:01] outside world and air gap as it has is
+[19:04] is used often as a marketing gimmick is
+[19:07] basically just that. It's not really
+[19:10] that much of a security benefit because
+[19:12] communication still happens and if you
+[19:15] use USB sticks or SD cards or all that
+[19:18] stuff,
+[19:21] things can leak, keys can um get outside
+[19:25] of your secure enclave. And that's the
+[19:28] best
+[19:29] that's best practice back then. Most of
+[19:32] course didn't do that and just held it
+[19:34] on on a on their regular computer on or
+[19:37] on their phone or on empty Gox as one of
+[19:40] the mer first exchanges before it just
+[19:44] went bust. So many coins were lost back
+[19:47] then because there just wasn't like any
+[19:51] offthe-shelf proven product that has
+[19:54] been like built upon the experience of
+[19:59] like actual users and standardized with
+[20:02] things that you can recover in a in a
+[20:05] way that is not like um invented by
+[20:08] yourself. Interesting. And how has it
+[20:10] been then kind of uh developed from
+[20:14] there? I think uh the Bitbox came out
+[20:16] like as you said 10 years ago, quite a
+[20:19] long time ago. Uh and how has it been
+[20:21] like developed over over the years? So
+[20:24] the first Bitbox 01 um didn't have a
+[20:27] screen, but it did have a a mobile app
+[20:30] as a two- factor um authenticator.
+[20:34] Basically, you had to check because if
+[20:36] if you have a signing device like a
+[20:38] hardware wallet, of course, it should
+[20:40] not sign Bitcoin transactions blindly.
+[20:44] This is where all the these credit card
+[20:46] things already fall on their faces
+[20:48] because if you cannot um check what
+[20:51] you're actually signing, you're 100%
+[20:53] trusting the host device, which is
+[20:56] actually not not exactly the point not
+[20:58] to do.
+[21:01] Exactly. Nice. that brings back a lot of
+[21:04] memories.
+[21:07] Um and but we had a um a mobile app
+[21:11] which was paired with the Bitbox uh 01
+[21:14] and you can actually like check what
+[21:17] you're signing on on your phone. So that
+[21:20] was already quite a good security. Um
+[21:25] but of course today we expect a hardware
+[21:28] wallet to have a screen. It's just like
+[21:30] best practice and I would never use one
+[21:32] with that doesn't have a screen. So if
+[21:35] you go to the exactly the Bitbox O2 of
+[21:37] of course comes with a screen. It still
+[21:40] has the micro SD card backup which is
+[21:42] really nice because it allows you to set
+[21:44] up the Bitbox in in just a few minutes
+[21:47] without actually going through all the
+[21:49] hassle at least in the beginning to
+[21:51] write down all the recovery words. So
+[21:53] you can do it with a friend without
+[21:55] seeing the words or you leaving the room
+[21:58] for 10 20 minutes. Of course you still
+[22:01] have the option to write the recovery
+[22:04] words down later and we also recommend
+[22:06] that. Um but just to get started we have
+[22:10] a speedrun on Twitter. We set up a bit
+[22:12] box two in under one minute including
+[22:14] backup and you you're you're ready to
+[22:17] go. So that's that's really nice. Uh
+[22:21] just a side question. What is the
+[22:22] importance actually of a Bitcoin only
+[22:25] addition of a hardware wallet? Is it
+[22:27] just to like block out the noise of of
+[22:29] the hardware wallet for for users?
+[22:31] That's certainly part of it. So, um the
+[22:33] Bitbox 01 was a multi- edition. It
+[22:36] already supported Ethereum and other
+[22:38] things. Of course, that back then there
+[22:40] was not a lot else. Um but as I
+[22:44] mentioned, Yunas Schnelli, one of the uh
+[22:46] main Bitcoin core uh maintainers was a
+[22:50] co-founder of the original uh Bitbox
+[22:53] company. And for him, it was always a
+[22:56] very important thing to also make a
+[22:59] Bitcoin only device. And with the
+[23:01] Bitboxer 2, we actually did that. And
+[23:05] from what I see, we sell about 50/50.
+[23:07] Although they're they're the same
+[23:09] hardware, just different firmware. and
+[23:11] the Bitcoin only which does less doesn't
+[23:15] cost less. It's it's the same price. Um
+[23:18] yet we still sell 50/50. I think most
+[23:20] people buy it either because they want
+[23:22] the device to be as minimal as possible,
+[23:25] like less error um for um like less
+[23:31] potential for error or they want to gift
+[23:34] the device to someone and they want to
+[23:36] make sure that they not immediately
+[23:38] search for the latest meme coin to buy.
+[23:42] And there's also like a more theoretical
+[23:44] security benefit um because it does have
+[23:47] less external dependencies on
+[23:50] programming libraries or um every line
+[23:53] of code has um some sort of a
+[23:56] theoretical potential for a buck and if
+[23:58] you have less code um that means less
+[24:01] attack surface. So in theory it's a bit
+[24:04] more secure. But I think we're talking
+[24:06] about a security level in general that
+[24:09] is so high that I would classify that
+[24:12] more as statistical noise. It it it's
+[24:15] super interesting because I only
+[24:17] recommend Bitcoin only things to friends
+[24:20] and family because I had it too often in
+[24:22] the early days where I gave them uh just
+[24:25] an like oh like here buy your Bitcoin
+[24:27] you can use any exchange and they're
+[24:28] like coming back with Bitcoin Cash like
+[24:31] coming back with Ethereum. I'm like like
+[24:32] that's not the thing I'm talking about.
+[24:35] So I'm always recommending Bitcoin only
+[24:37] things uh exchanges with without wallets
+[24:40] with anything. So I think it's an
+[24:41] absolute like must to have just for
+[24:44] orange peeling people. Uh yeah security
+[24:46] wise I'm I'm I'm not the expert but uh I
+[24:49] can imagine of course I'm a software
+[24:51] developer actually by trade. Uh so I
+[24:53] know less code is you have more overview
+[24:57] over the over the whole thing and it's
+[24:59] just like every single line of code that
+[25:01] you introduce can also introduce
+[25:04] theoretically as we said um a faulty
+[25:06] thing. So like that's that that that's
+[25:08] very true. Exactly. And the cool thing
+[25:11] is now then like I was I think back like
+[25:14] I think 2019 we introduced the Bitbox 2
+[25:18] with the screen and all the the nice
+[25:20] things. Um, I mean the Bitboxer one
+[25:23] already had a USB connector, um, but a
+[25:26] USBA, so it was more meant for like
+[25:28] desktop or laptop computers. We switched
+[25:31] already in 2019 to the USBC connector
+[25:35] which is like has proven very worthwhile
+[25:38] because now even today now basically
+[25:40] USBC has become the standard even for
+[25:43] iPhones and with the mail adapt mail
+[25:46] plug you don't need an adapter you don't
+[25:49] need an extension cable or anything you
+[25:51] just plug it into your phone into your
+[25:53] tablet into your laptop and then that's
+[25:56] all there is. So that's that's really
+[25:58] nice. And of course the Bitbox 2 doesn't
+[26:02] like it it's it's meant from a hardware
+[26:04] perspective is as as simple as it gets.
+[26:07] There are no moving parts. All the touch
+[26:09] interface is like induction. Um there's
+[26:12] no battery that can lead to a huge
+[26:15] number of problems or like degrade over
+[26:18] time. Um, so it's as simple as possible
+[26:22] and it's just like meant to keep your
+[26:26] coin safe and do nothing else. I have
+[26:28] mine since since quite some time. I
+[26:30] think since since 3 years and never made
+[26:32] any problems like they they they meant
+[26:35] to to last like things from Switzerland
+[26:38] again. Definitely. And I mean even if
+[26:41] you got like uh we we actually had like
+[26:43] a a huge beta program like hundreds of
+[26:46] devices we gave out for free just to get
+[26:48] initial user feedback which led to some
+[26:52] minor um improvements but nothing
+[26:55] serious. For example, we swapped out the
+[26:57] the micro SD card slot for a different
+[27:00] thing um different model. But even if
+[27:04] you had a better device or then the
+[27:06] first production device from 2019,
+[27:08] you're still getting updates. Today, um,
+[27:12] every few months, there's no limitation.
+[27:16] The hardware holds up really well and
+[27:18] this will continue. There are no plans
+[27:20] of like phasing the Bitboxer 2 out
+[27:24] because it it it does what it needs to
+[27:27] do and the hardware holds up really
+[27:29] well. But of course um there are limits
+[27:33] and I mentioned the iPhone for example.
+[27:35] We were really happy when the iPhone
+[27:37] switched to USBC but unfortunately it's
+[27:41] not it's never that easy with Apple. So
+[27:43] the the Bitbox O2 as we know today um is
+[27:49] not iPhone compatible but this will
+[27:52] change. Yeah, it's it's it's Ivan is
+[27:55] always a a special player in the field
+[27:58] and I have myself iPhone but it's it's
+[28:02] always interesting when you want to do
+[28:04] something with with those things and I
+[28:06] think this is what I wanted to lead
+[28:08] towards to that um after like 6 years
+[28:11] there have been some hardware like
+[28:15] requirements that we always wanted to do
+[28:18] and that are not possible in software
+[28:21] for example the bitbox box O2 is it is
+[28:24] made out of plastic um by design um and
+[28:28] it's slightly translucent so that the
+[28:30] screen can show through but of course
+[28:31] plastic also means that it can scratch
+[28:34] especially if you have just have it in
+[28:36] your backpack or whatever. So a glass
+[28:39] top or a glass uh screen with tempered
+[28:42] glass has always been something we
+[28:43] wanted to do. Of course, the the iPhone
+[28:47] compatibility is like the feature
+[28:50] request number one. And this is why I'm
+[28:53] very happy to say that as of basically
+[28:56] today, we'll have the next version of
+[28:59] the Bitbox 2. It's not the Bitbox 03.
+[29:02] It's um like an improvement, but not a
+[29:06] completely new device. Um but we call it
+[29:09] the Bitbox 2 Nova. and it comes with
+[29:12] some additional hardware features and if
+[29:16] you want I would be very happy to talk
+[29:18] about that. Yeah, absolutely. Uh do
+[29:20] maybe also you you probably have some
+[29:22] some pictures that you can show us and
+[29:24] then um I yeah I don't have maybe you
+[29:26] have some pictures I didn't prepare but
+[29:28] I actually have a proper device that
+[29:30] that's even better. That's probably even
+[29:32] better. So you see that it's actually
+[29:35] Oh, I'm not not a not an influencer. you
+[29:37] see like the autofocus, but so the the
+[29:40] glass top is really nice. But otherwise,
+[29:42] it's still like the same discrete
+[29:44] device. You don't even see that it's
+[29:46] like something special really, but it
+[29:49] comes like with a very nice matte
+[29:51] finish, the glass top, and now you can
+[29:54] just plug it into your iPhone or into
+[29:56] the iPad and
+[29:59] use it basically now on any device that
+[30:03] you have that can run apps.
+[30:05] So like it's now compatible with with
+[30:08] iPhone. Uh uh what else did change with
+[30:11] that one? Sorry, I didn't I didn't
+[30:13] understand. Just like um so like it's
+[30:15] now compatible with the iPhone. Is there
+[30:17] something else that changed with this
+[30:19] device? Yeah. So as I mentioned, the
+[30:22] glass top is really nice. Um we will
+[30:26] also offer additional colors. For
+[30:28] example, there's from the start a white
+[30:30] version as well for people that want to
+[30:33] have more of a sleek um design um or
+[30:37] have multiple and want to keep them
+[30:39] apart. Um we also updated the like the
+[30:43] security slightly. So it it now features
+[30:46] a fully certified um EA6 plus um
+[30:50] security chip. So that's more of a
+[30:53] security guarantee. Um, but it it's
+[30:56] really more of an overhaul. But I think
+[30:59] just the the the
+[31:02] feature that you now can basically use
+[31:04] it with any device, even iPhones and
+[31:06] iPads um is is a huge step forward
+[31:10] because so many people um um are
+[31:13] basically using iPads now for their
+[31:16] daily driver and the software we build
+[31:20] really is mobile first. So that's I
+[31:23] think um comes now to a finally to a
+[31:26] good conclusion now that we can also
+[31:28] support the iPhone and iPad. Oh, so like
+[31:31] you even built it for being mobile first
+[31:35] instead of uh being first on on desktop.
+[31:39] I mean we the the Bitbox app that we of
+[31:42] course is free. You can download it and
+[31:44] you should download it to start uh get
+[31:47] started and initialize the Bitbox. It is
+[31:50] built with um eurosoft developer. It has
+[31:53] a um I think a go back end and a react
+[31:58] native uh front end. So we can basically
+[32:01] compile it to any platform that we want.
+[32:04] And of course it supports Windows, it
+[32:07] supports Mac OS for a long time. That's
+[32:10] not something that was restricted. Um it
+[32:13] supports all variants of Linux. Um it
+[32:16] has been supported by for Android for a
+[32:19] long time which that because that this
+[32:21] is more of an open platform and many
+[32:24] people actually prefer to use the Bitbox
+[32:27] on their phone or I like Android tablet
+[32:30] because of course that comes with a
+[32:32] touch interface and it's really nice and
+[32:35] easy to use. Um, and now of course we
+[32:39] can also like compile it for iPhone and
+[32:42] iPads and now that it actually can
+[32:45] communicate with the with these devices.
+[32:48] Interesting. But by the way, fun fact, I
+[32:51] was actually go and react. Uh, okay. So
+[32:55] I had to go and uh react in JavaScript
+[32:58] kind of a and TypeScript uh experience
+[33:01] in my past, but it's it's a long time
+[33:04] coming. So next time you have a feature
+[33:07] request, I'll just ask for your pull
+[33:09] request.
+[33:10] I can program it myself. Yeah. No, but
+[33:13] that would be probably a security risk
+[33:16] for me.
+[33:18] This is actually a good thing because we
+[33:20] we do from time to time um accept
+[33:22] external contributions but it's really
+[33:24] hard and the bar is really high because
+[33:27] of course you kind of trust not the
+[33:30] software itself but the process and that
+[33:33] people are actually looking at the code.
+[33:36] Um everything is in the open but of
+[33:39] course with every update there are
+[33:40] changes and for us it's really
+[33:43] important. You can basically check every
+[33:46] pull request, every code change,
+[33:48] including all the discussions that
+[33:50] happen that people peer review each
+[33:53] other's contributions also from our
+[33:56] internal developers. Um, it's it's
+[33:59] really really important that the code
+[34:01] quality is very high so that it's easy
+[34:03] to audit and to be honest, I wouldn't
+[34:06] want to go through our hiring process as
+[34:08] an engineer.
+[34:11] Um, yeah, that's that's that's something
+[34:13] else. And then also if you contribute
+[34:15] code and you get criticized and there's
+[34:18] like so much stuff you need to change to
+[34:20] just like get into the flow of what
+[34:23] level of code um quality is expected.
+[34:26] That's really something I'm I'm I'm
+[34:28] quite proud of although I'm not directly
+[34:30] involved but it's it's out in the open.
+[34:32] Everybody can can look at how we work. I
+[34:34] never looked at that aspect if you're a
+[34:36] software developer because uh when I
+[34:38] developed software it was all closed
+[34:40] source. it was not open sourced. Um, so
+[34:43] you're only judged by your direct
+[34:45] manager or by the CTO or like someone
+[34:48] above you and maybe by some colleagues
+[34:50] that say like, oh, like you could
+[34:51] improve this and that. But if you open
+[34:53] source as an as an internal uh
+[34:55] developer, you're judged by the whole
+[34:57] world basically. Definitely. The first
+[34:59] time I ever made any money, I got myself
+[35:02] from that money a watch. And ever since
+[35:04] then, I collect time pieces to remember
+[35:07] times where I achieved some milestone.
+[35:10] That's why I got the Bitcoin 2025
+[35:12] edition when I went to my first ever
+[35:15] American Bitcoin conference. So for me,
+[35:17] the Bitcoin watches from Coin Vigilant
+[35:20] represents the time that we are living
+[35:22] in. For every person that wears a
+[35:24] Bitcoin watch, I know they are
+[35:27] representing sound money to the outside
+[35:30] world. Make sure to check out those
+[35:32] amazing Coin Vigilante time pieces down
+[35:35] in the descriptions. I love those
+[35:37] watches so so much. I know how big of a
+[35:41] hurdle it can be to have self-custody,
+[35:44] but it's so freaking important to make
+[35:46] that first step. We have to make sure
+[35:49] it's as easy and simple as possible. And
+[35:53] that's exactly what Bitbox did. Bitbox
+[35:55] created the simplest and the easiest
+[35:58] hard wallet to use to get into self
+[36:01] custody. So get yourself a Bitbox down
+[36:04] from the link in the description. And
+[36:06] when you use code Robin, you even get a
+[36:08] 5% discount. Most people realize that
+[36:12] way, way, way too late. If you have
+[36:15] Bitcoin, you have to have a self-custody
+[36:18] hardware wallet. But what are you doing
+[36:19] if that hardware wallet breaks? Yeah,
+[36:21] you wrote your seed phrase on paper.
+[36:24] What if that paper is just dissolving or
+[36:27] water spilled on top of it? Paper is
+[36:30] very, very nondurable. So you have to
+[36:33] have a fire resistant, water resistant,
+[36:36] and impact proof method of securing your
+[36:39] seat phrase so you can back up your
+[36:41] keys. And to do that, you should use a
+[36:44] solid titanium plate from stamp seed. Go
+[36:47] to stampseed.com
+[36:49] and use code robin to get not five or
+[36:53] 10, but 15% off your stamp seed. The
+[36:58] most important thing for your Bitcoin
+[37:01] journey is not buying Bitcoin, but it's
+[37:03] how to keep them. And yes, you have
+[37:05] maybe the right tools, but how do you
+[37:07] actually go ahead and stick it all
+[37:09] together so it's the most secure for you
+[37:12] personally? Self-custody is a deeply
+[37:15] personalized journey and the Bitcoin way
+[37:17] is helping you exactly finding that
+[37:20] correct setup for you personally.
+[37:23] They're also helping you with securing
+[37:25] your own cyber security. And if you want
+[37:28] to go one step above all that, you can
+[37:31] even get a consultation for a plan B
+[37:35] residency. Go to the bitcoinway.com/roin
+[37:40] and you will get a 30 minute free
+[37:42] consultation. It's an interesting
+[37:45] aspect. How important is that? like have
+[37:47] you seen where like um uh people from
+[37:50] the outside catched something and open
+[37:52] source really was giving very valuable
+[37:55] feedback for for bits. Definitely um we
+[37:59] do have a buck bounty program. So if
+[38:03] that's the whole point of open source,
+[38:05] right? So it closed source might be
+[38:09] let's say more efficient or easier in
+[38:11] the short term. Um, but if you're open
+[38:14] source in the mid or long term, I I I
+[38:17] would I would just claim that it's
+[38:19] always going to result in higher quality
+[38:22] code and less uh more secure code
+[38:24] because it's not only the audits that
+[38:27] you commission yourself from a
+[38:29] professional company, which we did as
+[38:32] well. We actually had two independent
+[38:34] professional audits for the Bitbox O2.
+[38:38] But these are more like checking all the
+[38:40] boxes audits or going through best
+[38:43] practices when it comes to coding. But
+[38:46] with Bitcoin security, most of the
+[38:49] vulnerabilities are really thinking
+[38:51] outside the box vulnerabilities like the
+[38:54] hardware wallet not enforcing
+[38:57] um some sort of a logical check or um
+[39:02] just not understanding the protocol of
+[39:05] Bitbox enough. And with the buck bounty
+[39:08] program and us being fully 100% open
+[39:12] source, we encourage independent um um
+[39:17] security professionals to look at our
+[39:19] code and if they find something of
+[39:21] course they should report it to our to
+[39:24] us first so that we can fix it which has
+[39:26] happened in the past. nothing critical
+[39:28] but some things have been improved and
+[39:32] that's a wellestablished process that
+[39:35] they report it to us in an encrypted
+[39:37] form. Um we evaluate the vulnerability.
+[39:42] Um we basically pay them um for their
+[39:46] efforts and for the severity of the
+[39:48] vulnerability.
+[39:49] Um and then we have 90 days to fix um
+[39:53] the code, release an update and after
+[39:56] that the um the security researcher is
+[39:59] free to do whatever that they want to.
+[40:01] So there's no NDA, there's no gag order
+[40:05] or anything. They can write the blog
+[40:07] pass post about it and be as loud as
+[40:09] they want. But for fairness sake and for
+[40:13] the security of our users, usually it's
+[40:16] 90 days that we have time before the
+[40:19] vulnerability is is publicly disclosed.
+[40:22] Makes sense. Yeah. You you don't want to
+[40:25] like post that publicly as as much. And
+[40:28] it's it's something that I came to know
+[40:30] because I worked in IT security before.
+[40:32] Um back bounty programs are something
+[40:35] that is super super super really really
+[40:38] good. I've seen it firsthand because I I
+[40:41] personally have never done it. I have
+[40:43] some really good friends back in the day
+[40:44] in Munich uh that were part of buck
+[40:48] bounty programs and they just like all
+[40:50] the buck bounty programs that are open
+[40:51] and interesting enough for them. they
+[40:53] just did and uh they bought like the
+[40:56] products. I can I can remember uh
+[40:59] Danielle, shout out to Danielle, he was
+[41:02] um having the middle classes, the
+[41:04] Facebook classes and he found um bucks
+[41:07] there where you can basically interject
+[41:10] the video and can get it into the Wi-Fi
+[41:12] because it has like an own small Wi-Fi
+[41:14] and he hacked into this Wi-Fi got like a
+[41:16] few thousand for finding that um bug for
+[41:20] from Facebook. So backbounded programs I
+[41:22] think like really interesting especially
+[41:24] with hardware devices because I know
+[41:26] there are a lot of um even non-
+[41:29] bitcoiners out there that would just
+[41:31] like to hack hardware and like to hack
+[41:33] the software and the inter intersection
+[41:35] with that and it's a great way of
+[41:38] incentivizing
+[41:39] and white labeling hackers like if if
+[41:42] you don't have back boundary programs
+[41:44] you incentivize hackers to be malicious.
+[41:47] If you have buck bounty programs, you
+[41:49] incentivize hackers to be good actors.
+[41:52] So, we all I'm all about in aligning
+[41:54] incentives. Uh Bitcoin is all about
+[41:57] aligning in incentives. So, I I love bug
+[41:59] bounty programs and uh it's it's almost
+[42:01] a red flag if a company doesn't offer
+[42:03] that in some some some regard. Yeah, I
+[42:06] agree. And I think it's um sometimes I
+[42:09] was it's it's really interesting that
+[42:11] for example during some months like our
+[42:15] employee of the months was basically a
+[42:17] 16year-old like from France. It was like
+[42:21] it's crazy that he found stuff that all
+[42:24] the professionals just overlooked
+[42:26] including ourselves. Nothing serious but
+[42:29] um still like security is a process and
+[42:33] you need to constantly improve otherwise
+[42:36] at some point people will find something
+[42:39] that can even in the most complex way um
+[42:43] like exploit
+[42:45] and we also do security um responsible
+[42:48] disclosures as these are called like
+[42:51] between companies. So we made this to
+[42:53] all to all our competitors. We made
+[42:55] responsible disclosures and have been
+[42:57] paid for it and vice versa. So even in
+[43:00] the professional Bitcoin security
+[43:03] industry, that's a good way to
+[43:06] collaborate without giving others like a
+[43:09] like an unfair advantage or do stuff for
+[43:11] free. Um but still like everybody is
+[43:14] working towards the same goal which is
+[43:16] self- sovereign, sovereignty and self-
+[43:19] custody. So, if these goals align, I
+[43:22] think it's a no-brainer that we also all
+[43:25] act as good actors in the space and
+[43:27] report security vulnerabilities to
+[43:30] competitors.
+[43:31] Yeah, that's something I've definitely
+[43:33] learned in the IT security space.
+[43:36] Security is a moving target. Definitely.
+[43:39] Like you you you never fully catch up,
+[43:41] but you want to be as close as possible.
+[43:43] Yes.
+[43:44] And it's all about like um making it as
+[43:48] so when somebody claims something is
+[43:51] unhackable either they don't know what
+[43:53] they're talking about or they're are not
+[43:56] honest with you or or are malicious.
+[43:58] Like I think there are only these three
+[44:00] options. Uh because everything is
+[44:03] hackable eventually if you have
+[44:05] unlimited resources un unlimited tries.
+[44:09] So what we with hardware wallet um
+[44:12] hardware security are are doing is to
+[44:15] make an attack as expensive as possible
+[44:18] with the least um um probability of
+[44:21] success. So if you need to invest like
+[44:24] 10 million into an electronics lab to
+[44:27] hack something and by doing so you have
+[44:30] a 99%
+[44:32] um chance of destroying the device and
+[44:34] make it basically break it and make it
+[44:36] unusable. then that's already quite a
+[44:39] good um baseline I would say. And then
+[44:43] of course with the Bitbox O2 there are
+[44:45] not even all the secrets are on the
+[44:47] device itself. So for example the user
+[44:50] password is not stored. So even if you
+[44:52] could theoretically extract some data
+[44:55] from it, you still need to brute force
+[44:58] it afterwards. So there's so many um
+[45:01] lines of defense um also with a lifetime
+[45:04] counter and and whatnot that we we call
+[45:07] this security in death. It's like a
+[45:10] military term that if you um overrun the
+[45:13] enemy with in one line there's still
+[45:14] like three more lines that can take you
+[45:16] out. Um so this is our strategy not
+[45:21] claiming that the bitbox is unhackable.
+[45:23] It's just like really really good. It's
+[45:26] also interesting um with with Bitcoin
+[45:29] itself um because of course you could
+[45:32] theoretically hack the network but the
+[45:36] resources needed are impossible to
+[45:38] gather.
+[45:40] Okay. If if if from like if if I
+[45:42] understood that correct uh from my p
+[45:45] perspective, but it's like yeah, of
+[45:47] course that like a 51% attack
+[45:49] theoretically, yes, it's all possible.
+[45:52] It's so unrealistic, so improbable that
+[45:56] it's um probably the most unhackable
+[45:59] thing on earth. And uh that's what I
+[46:03] always uh say to people because I get
+[46:05] the question a lot especially from like
+[46:07] older people that say oh but like those
+[46:09] softs always have bucks and and then
+[46:11] like they get hacked and like how is
+[46:12] this with Bitcoin? Can someone just like
+[46:14] take my money? Uh and always tell them
+[46:17] first of all it's way more likely that
+[46:19] you get hacked from your bank account.
+[46:21] It's like way more unsecure. Uh, and
+[46:25] second of all, like if you actually look
+[46:26] deep, it's so hard to do it that you can
+[46:31] realistically say it's impossible. But
+[46:34] of course, there's always a black swan.
+[46:35] There's always like a
+[46:38] minor event that could theoretically
+[46:41] happen potentially. Yeah. But on the
+[46:43] other hand, Bitbox in itself has also
+[46:46] probably the biggest buck bounty of the
+[46:48] world built in because if you hack
+[46:50] Bitcoin, uh you basically have unlimited
+[46:53] access to so much money. So that it's
+[46:56] really worthwhile and it has been battle
+[46:58] tested for like 16 years now and nobody
+[47:02] managed to break it. So it even with all
+[47:05] the odds and resources that you can
+[47:08] throw at it and and the theoretical
+[47:10] potential that um things could happen um
+[47:15] I'm not sure about cryptography if if
+[47:17] it's even theoretically possible but at
+[47:19] least with the 51% attack or something
+[47:22] like that which of course is not like
+[47:24] really hacking. It's more like roll
+[47:26] rewriting history and maybe doing some
+[47:28] double spending but they still cannot
+[47:30] take your coins. Um but even that um
+[47:33] it's just not feasible because if it
+[47:36] would be uh somebody would have done it.
+[47:39] It's kind of magical for me like h how
+[47:42] did this how did this happen? Like h how
+[47:44] did everything come together so
+[47:46] perfectly that we don't know the origin
+[47:49] that we have this secure protocol that
+[47:52] was in the beginning still fragile like
+[47:55] probably someone could have killed it in
+[47:56] 2010 but no longer in 205. So, how did
+[48:00] this slowly organically grow? It's it's
+[48:02] it's really magic. Also, the best
+[48:05] perfect time for that where we have so
+[48:07] much fiat history already and know that
+[48:10] fear is so so bad and that we really
+[48:11] need an alternative. Uh but it's also
+[48:14] not too late that we're already super
+[48:15] deep into CBDC or anything like that.
+[48:17] It's I it's magical for me like Bitcoin
+[48:21] as the answer to the great financial
+[48:23] crisis like as a digital version of
+[48:25] Occupy Wall Street. I think that's I'm
+[48:28] still surprised that not more activists
+[48:30] are enthusiastic about Bitcoin because
+[48:32] for me it's really uh a freedom
+[48:35] technology and how the incentives that
+[48:38] Satoshi built into the system still hold
+[48:42] up like the haling it started with 50
+[48:44] Bitcoin every 10 minutes it haled every
+[48:47] four years and that kind of aligned very
+[48:50] nicely with the growth of the network
+[48:52] with the value it accrewed with the
+[48:54] profit profitability of the minor
+[48:57] etc. All that could have gone horribly
+[49:00] wrong, but it didn't. It was like a lot
+[49:02] of um not hindsight, but really like
+[49:05] thinking into the future um and just
+[49:08] nailing it. That's unbelievable for me.
+[49:12] I know why there are no activists
+[49:13] because uh you're getting the activists
+[49:17] are busy orange pilling their loved
+[49:18] ones. It's like like yeah, of course,
+[49:21] you could go now to the street. is like,
+[49:22] "Oh, we need Bitcoin as a" But you can
+[49:25] just uh go ahead and and orange pill
+[49:27] your loved ones and orange pill your
+[49:29] politicians, orange pill. I think
+[49:31] Bitcoin is inherently understand if you
+[49:33] want to see a change in this world, like
+[49:35] first of all be the change yourself and
+[49:37] then like try to to change your
+[49:39] environment, try to change like your
+[49:41] your loved ones and and explain to you
+[49:43] do to the to them why Bitcoin and also
+[49:46] the game theory aspect. I think once you
+[49:48] get really into Bitcoin, you're like,
+[49:50] "Oh, like yeah, that's it's inevitable."
+[49:52] And when you see other activists like
+[49:54] for climate change or stuff like that,
+[49:56] that's not inevitable. Like you kind of
+[49:58] have to fight for that. So it's it's I
+[50:02] think that's the inherent reason because
+[50:04] I ask myself the question a lot is like,
+[50:05] oh, like it makes so much sense why I am
+[50:08] not on the street. Like I'm young. I
+[50:10] could be on the street. I can clue I
+[50:13] could clue myself on the street for
+[50:14] Bitcoin. I don't know what that then
+[50:16] would do for for Bitcoin but probably
+[50:18] nothing. Uh why do I don't do it? Yeah,
+[50:20] because I first orange built my loved
+[50:22] ones and then everyone was kind of like
+[50:24] either already on Bitcoin or sick of me.
+[50:27] So I went to the online world went on on
+[50:29] Twitter then Twitter uh blog then I made
+[50:32] a podcast and podcast blog and like yeah
+[50:34] I found other outlets and they are way
+[50:36] more efficient in doing the same thing
+[50:38] as an activist trying to do. So I think
+[50:41] that's the the short answer to why there
+[50:43] are no activists. Interesting. Nicely
+[50:46] put. I mean there is there's one German
+[50:49] guy um do you know him that sits it's
+[50:54] yeah that that silently sits in front of
+[50:56] the central banks and just like stands
+[50:58] there with signs.
+[51:00] An activist definitely.
+[51:03] Um one thing uh more that I want to ask
+[51:05] you if you've seen how long are you with
+[51:08] with Bitbox and with the self custody
+[51:10] space already like how many years? uh
+[51:13] six seven years I would say hard to say
+[51:17] then it's it's really great because six
+[51:18] let's say let's say five years like from
+[51:20] 20120 to 2025 what have you seen in in
+[51:25] innovation in in technical breakthroughs
+[51:27] that we have done in the self- custody
+[51:29] space that are really important for uh e
+[51:33] either making it more secure making more
+[51:36] adoption uh possible making more user
+[51:38] friendly whatever whatever direction you
+[51:40] want to go with
+[51:42] I mean for me um with Bitcoin as self
+[51:45] sovereign um self- sovereignty there are
+[51:48] many aspects harder wallets like secure
+[51:51] self custody is definitely one of the
+[51:54] important ones here I think things just
+[51:58] got easier um products got better they
+[52:03] some products also got got way more
+[52:06] complicated because of all the
+[52:07] shenanigans and altcoins and crypto
+[52:10] swaps and like advertising and a lot of
+[52:13] money going into the space. This is
+[52:15] really what we try to to avoid like
+[52:18] build a a minimal
+[52:21] uh product basically the easiest
+[52:23] hardware wallet on the market. This is
+[52:25] what this is the second goal after being
+[52:28] secure. But I would say most reputable
+[52:32] hardware wallets are secure. So that's
+[52:33] not really a USB but we want to be after
+[52:36] that we want to be the easiest because I
+[52:39] think secure ease of use is part of
+[52:42] security. Um if you are not doing uh
+[52:46] mistakes that's also part of security.
+[52:50] Um other than that I think um the
+[52:53] awareness how to run your own full node
+[52:56] has also um grown a lot. I I I pride
+[53:01] myself in being one of u the drivers
+[53:04] there at least in the beginning with my
+[53:06] own raspby bolt guide. Um basically the
+[53:09] the the first guide that um explained
+[53:12] how you run uh Bitcoin core electrome
+[53:16] block explorer all that stuff on a on a
+[53:18] Raspberry Pi. Um so that was very
+[53:21] exciting and that was also basically my
+[53:23] first time being public in the Bitcoin
+[53:27] space. I think that was about 2016 2017
+[53:31] especially with the block size wars I
+[53:33] become that basically radicalized me
+[53:35] towards Bitcoin full nodes
+[53:38] and now what I think is
+[53:41] changing a lot is mining um home mining
+[53:46] people want to be part of the mining
+[53:48] industry as well um and I think that
+[53:50] becomes more feasible because um miners
+[53:54] are longerlasting you don't need to
+[53:57] change them every year because they
+[53:59] become obsolete so so quickly. And there
+[54:02] are new solutions that are actually
+[54:05] using the the excess heat for for
+[54:08] heating for like different things that
+[54:12] so it's not only about mining. You can
+[54:14] actually use mining as one
+[54:19] as one block in larger solutions and
+[54:21] that of course makes it a bit more
+[54:24] profitable if you don't have access to
+[54:26] the most to the cheapest form of
+[54:28] electricity especially in Germany,
+[54:30] Switzerland where we don't really have
+[54:33] these like super uh um like untapped um
+[54:39] energy sources like hydro that is not
+[54:42] used and stuff like that yeah this this
+[54:45] mining is fascinating. Mining was not on
+[54:47] my radar at all till like November and
+[54:49] then more more guests mentioned it and
+[54:52] like all the things with the Bitex with
+[54:54] the solo mining with Ocean with the
+[54:56] mining templates what's going on. And
+[54:58] it's it's super cool what what what uh
+[55:01] the Bitcoin community uh is is doing
+[55:04] because I do think um if we have just
+[55:07] like two free big pools that control
+[55:09] everything that could run into problems
+[55:11] with like sensoring transactions and
+[55:13] stuff like that. I don't think so but it
+[55:15] could. So I think it's very important
+[55:17] that we have ocean that we have solo
+[55:19] mining that we have bites and that we
+[55:21] have how does popet call it? rabbits, I
+[55:24] think, on horses that we have like
+[55:25] smaller uh miners that do it like with
+[55:28] like maybe two three rigs at home. Uh or
+[55:31] maybe like have horses that have like
+[55:32] one container uh that they're running
+[55:35] which is kind of movable and and like
+[55:38] you you can probably clean it out in one
+[55:40] day if you really want to and move it to
+[55:42] a different location. So I think that's
+[55:43] it's very important for for the Bitcoin
+[55:45] decentralization because as we said with
+[55:47] security there's no 100%
+[55:49] decentralization. there's always an
+[55:51] aspect that you could theoretically
+[55:53] attack and the more we move towards
+[55:56] decentralization the the more
+[55:58] decentralized and the more secure we
+[56:00] make Bitcoin the better it is like the
+[56:02] the better future proof it is yeah and I
+[56:04] mean I'm a an IT engineer by trade um
+[56:08] not the most technical one especially in
+[56:10] our company but I have a decent
+[56:13] understanding of IT and security things
+[56:16] um and for me it was like very obvious
+[56:19] as I mentioned the block size wars in in
+[56:21] in in information technology, everything
+[56:24] you build you build in layers. It's
+[56:27] there's absolutely no point in cramming
+[56:30] everything into layer one because at
+[56:32] some point the layer one will break and
+[56:34] then you're basically done. So that's
+[56:37] like the end of the road. But this is uh
+[56:40] coming back to the the the full node
+[56:42] stuff. Of course, in that context also,
+[56:45] Lightning became um a lot bigger and for
+[56:48] me that's also quite an important um
+[56:52] aspect of actually making Bitcoin more
+[56:56] usable um for everyday purchases. And
+[57:00] I'm very excited about that as well. for
+[57:03] example, with Bitbox, of course, we we
+[57:05] always accepted bit Bitcoin payments
+[57:09] um in our own web shop, but I think we
+[57:12] were definitely the first and for quite
+[57:15] a while the only hardware wallet
+[57:18] manufacturer that sold their products
+[57:20] for Lightning and it's just the best
+[57:24] experience. We were, for example, a few
+[57:26] years back in Bitcoin 2023 or something
+[57:30] in Miami. And for us as a Swiss company,
+[57:33] it's super complicated to actually sell
+[57:36] products outside of of Switzerland.
+[57:39] Legally, we're not allowed to take
+[57:41] credit card payments. Like cash is super
+[57:43] cumbersome, especially if you need to
+[57:45] take them home by by plane or whatever.
+[57:48] Um, Bitcoin of course is is awesome, but
+[57:51] if if you do physical transactions like
+[57:54] handing out the device, you
+[57:55] theoretically would need to wait for for
+[57:58] the at least for the first block
+[58:00] confirmation to avoid like
+[58:04] double spending or some like um
+[58:07] rerouting of the payment. And with with
+[58:10] lightning that was all these problems
+[58:12] basically have fixed. It's like Bitcoin
+[58:16] Lightning with a proper point of sale
+[58:18] device that even prints a receipt and
+[58:20] everything. It's just like the most easy
+[58:23] way of traveling around the world and
+[58:26] selling stuff and you just connect to
+[58:28] your own server. It goes automatically
+[58:31] into your accounting. And for me, that's
+[58:34] also like one a huge step forward in
+[58:37] Bitcoin sovereignty stack. Yeah,
+[58:39] Lightning is Lightning is awesome. We
+[58:41] also have an integration with with with
+[58:43] the book box books. Uh it's it's it's
+[58:44] it's really cool to to see the
+[58:48] to see lightning work on scale because
+[58:51] as I said I I'm once uh once a month I
+[58:55] try and I fail most of the months but I
+[58:58] try to go to the Bitcoin meetups in in
+[59:00] in in Vienna and they always pay for my
+[59:03] burger for my salad with with lightning
+[59:06] and it it works really really cool. It's
+[59:08] just it's just great to have like your
+[59:10] phone lightning bump bang and then you
+[59:12] have it and it's it's really nice.
+[59:15] Definitely. Yeah. For me that so that's
+[59:17] a bit the the Bitcoin freedom stack like
+[59:20] onchain transaction validation like self
+[59:24] custody like payments and then of course
+[59:27] mining. I think these four aspects are
+[59:29] really important. I have one question
+[59:31] that I asked uh every single guest of
+[59:33] mine and the question is what can we
+[59:34] learn from you besides Bitcoin? Oo. Um,
+[59:37] I guess if you follow my Twitter, you
+[59:40] see from time to time some nice pictures
+[59:42] from Swiss from the Swiss Alps. Um, I
+[59:45] never post pictures about like from
+[59:48] people or my family, but of course they
+[59:50] are a huge part of my life. So like
+[59:54] being your own boss and enjoying life
+[59:58] with the freedom that maybe Bitcoin
+[60:00] gives you, I think is is the most
+[60:02] important aspect of being in Bitcoin. I
+[60:05] see here. Yes. Nice. The Alps.
+[60:09] Exactly.
+[60:10] I was actually cleaning meadows for two
+[60:13] days and even repairing a digger. That
+[60:18] was fun thing. That's fun. Really cool.
+[60:21] Um we have Yeah, we have go outside and
+[60:23] touch grass. I think if you were asking
+[60:25] for a for one for a one line, go outside
+[60:29] and touch guys. Very very bitcoin thing
+[60:30] to say. Yeah. Um, we have entertained in
+[60:32] the podcast where the previous guest is
+[60:34] asking a question for the next guest
+[60:35] without knowing who the next guest
+[60:36] actually is. And the previous guest asks
+[60:38] you the question and almost impossible
+[60:41] to answer question in my opinion. What
+[60:43] is the single most important educational
+[60:46] resource that lit up your orange brain
+[60:48] cells? That's actually a very easy thing
+[60:51] to answer. I think it's a it's a person
+[60:53] and for me it was Andreas Antonopoulos.
+[60:56] Um, I learned a lot from him from his
+[60:59] ability to take a complicated question
+[61:03] just from directly from the audience and
+[61:06] build a 10-minute explanation that is in
+[61:11] incredibly coherent
+[61:13] takes you on a journey but circles back
+[61:15] to the original question. I think he's
+[61:18] unmatched in that regard and I I'm
+[61:21] really thankful and happy to have met
+[61:24] him and he really also cut my altcoin
+[61:27] face very very short. That's that that's
+[61:31] I think that's the single most important
+[61:33] things that Bitcoin educators can do.
+[61:35] Cutting the altcoin phase of of Bitcoin
+[61:38] because we all kind of have it. I mean I
+[61:40] see it less and less honestly. I I
+[61:42] talked with I just mentioned it. was in
+[61:44] Vegas at the Bitcoin conference and
+[61:45] there were like
+[61:47] a bunch of people that came in to me and
+[61:50] they were actually orange build the last
+[61:52] one and a half years in 204 or 205 and
+[61:55] they actually never touched alcoins. So
+[61:57] like I think maybe we're getting to a
+[62:01] point where education is so broad and
+[62:03] and and so good and so many different
+[62:05] formats that people get it once they get
+[62:08] to Bitcoin content. They don't have to
+[62:10] do the altcoin thing. And also um I
+[62:15] don't know if it's good or bad, but we
+[62:16] now have uh another distraction in
+[62:19] Bitcoin. We have those Bitcoin treasury
+[62:21] companies. They kind of provide a better
+[62:24] performance like get more Bitcoin. I am
+[62:26] not a big fan of it. Um and this is
+[62:29] coming from someone like I interviewed
+[62:31] Michael Sailor. I I was at this 100K
+[62:33] party and I still have never owned a
+[62:36] single share of my strategy. So I I I I
+[62:40] could have done it easily, but like I
+[62:42] never owned it. Um uh I fully support
+[62:45] what he's doing. I think he's doing a
+[62:46] great service to the Bitcoin community
+[62:48] in in in his way and for
+[62:51] um companies, but I just don't like the
+[62:53] distraction of of holding self-custody
+[62:56] bitcoin. And he himself says like get
+[62:58] bitcoin like he sells micro strategy
+[63:00] shares and buys bitcoin and then people
+[63:03] are like oh like Michael I like him
+[63:04] that's why I buy micro strategy you know
+[63:06] like if you follow his advice he says
+[63:07] buy bitcoin and uh the point I was
+[63:10] making is like I see more and more
+[63:11] people that are focused on number
+[63:13] technology actually going away from
+[63:16] altcoins and moving towards um ius of
+[63:19] bitcoin like strategy and other other
+[63:22] products and this is really interesting
+[63:25] uh to to see and I think it's a positive
+[63:28] development where they come from
+[63:30] altcoins at least to the Bitcoin
+[63:32] ecosystem and it all trickles down
+[63:34] anyways at some point to the Bitcoin
+[63:36] main protocol so we all uh benefit from
+[63:39] that. Yeah, let's hope we don't lose
+[63:42] them and eventually they end up at least
+[63:45] in some sort of like
+[63:48] sovereign Bitcoin um ecosystem. Not
+[63:53] every everybody needs to hold 100% of
+[63:55] their Bitcoin themselves, but I think
+[63:58] everybody should have some. And if you
+[64:00] can and you if you're if you want to,
+[64:02] you should have the ability to to be
+[64:04] 100% in Bitcoin, especially now with
+[64:07] CDBC's uh just around the corner with
+[64:11] for me this is like the overarching goal
+[64:13] of also why I am so excited about
+[64:15] Bitcoin. I think once these like central
+[64:18] bank digital currencies really become a
+[64:21] reality and will be rolled out in force
+[64:24] and there will be a huge um proh
+[64:27] propaganda and fdding Bitcoin and all
+[64:30] that stuff. I I want Bitcoin to be ready
+[64:32] to be like the opt out coin for
+[64:36] everybody to to have. Really cool. I
+[64:38] think that's a perfect way to to end the
+[64:40] podcast. So thank you so much Styos for
+[64:42] for being on. Um before I let you go,
+[64:45] where can people find you, ask your
+[64:46] questions? I think Twitter we already
+[64:47] show this. Is this the best way to reach
+[64:49] out to you? Definitely Staticus 3000 um
+[64:53] on Twitter. And of course for the
+[64:55] Bitbox, it's bitbox. Swiss is our
+[64:58] website. We have like all the
+[65:00] information about our products online, a
+[65:02] great blog post where we post about
+[65:05] security relevant things, not only about
+[65:07] Bitbox. Um it's definitely worth a read.
+[65:11] And yeah um if you see us any um time at
+[65:15] a conference be it a bitcoin conference
+[65:17] or a fiat conference which we are more
+[65:19] and more going towards to to also like
+[65:22] be present there and represent bitcoin
+[65:25] come and say hi it's always a pleasure
+[65:27] to connect directly. Thank you so much
+[65:30] uh study co and as always with with the
+[65:32] with with guests and and the companies
+[65:34] the links are down in the description
+[65:36] and thank you so much for taking your
+[65:38] time. Thank you so much for everyone
+[65:39] that is watching and listening for
+[65:40] joining us today. As always, I'll be
+[65:42] back tomorrow with another episode.
+[65:44] Bye-bye.
+[65:46] [Music]

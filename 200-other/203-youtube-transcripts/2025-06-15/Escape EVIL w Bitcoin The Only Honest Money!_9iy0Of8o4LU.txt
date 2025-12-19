@@ -1,0 +1,1778 @@
+Title: Escape EVIL w/ Bitcoin: The Only Honest Money!
+Video ID: 9iy0Of8o4LU
+URL: https://www.youtube.com/watch?v=9iy0Of8o4LU
+Date Saved: 2025-06-15 11:48:51
+--------------------------------------------------
+
+[00:00] once you start Mining and running nodes
+[00:01] then you see the three-part triangle of
+[00:04] the ecosystem and how you can partake
+[00:06] and be incentivized to do each one you
+[00:08] want to immerse yourself in this
+[00:09] ecosystem because everything else is a
+[00:12] shitcoin I run s9s in my garage to heat
+[00:14] it it just heats the garage Bitcoin
+[00:16] mining has gone industrialized I really
+[00:19] think you're going to start to see over
+[00:20] the next couple years it start to come
+[00:22] back into like a residential sense more
+[00:24] like a personal use imagine every house
+[00:27] having their own miners you will come
+[00:29] back and we do a podcast 10 years from
+[00:31] now and you will see not only home
+[00:33] mining but I think your refrigerators
+[00:36] your dishwashers your dryers your
+[00:38] washers will all have bit ax little
+[00:40] miners in them so that when you're
+[00:42] drying your clothes you're not just
+[00:44] wasting energy it helps you get out of
+[00:46] the Rat Race it helps you get off that
+[00:48] wheel Bitcoin is honest hard money then
+[00:52] you start looking at well what's fat and
+[00:54] then you go down the rabbit hole of uh
+[00:56] corruption and inflation and the banking
+[00:59] sector and you start seeing things and
+[01:00] you're like this is evil There's real
+[01:02] evil in the world and there's people
+[01:04] that will take from you and have no
+[01:06] remorse about
+[01:07] [Music]
+[01:10] it you said in the beginning uh Bitcoin
+[01:12] are are industrialized like what did you
+[01:16] say industrious so we we find a way
+[01:20] right like we're very like uh we can
+[01:22] look at two sticks and we can create
+[01:25] whatever we want with it I I don't know
+[01:27] like I see that in the community but I'm
+[01:30] a millright also so like for me that's
+[01:32] just in my nature is to like find a way
+[01:36] there's there's always an answer just
+[01:38] need to find it I love that a lot really
+[01:40] cool uh I want to to start off with the
+[01:43] question today with um what's your
+[01:46] biggest learning since you have been on
+[01:49] my first podcast I think it has been
+[01:52] January where we uh published it in like
+[01:55] December or something like that where we
+[01:57] recorded it so like it's around like 10
+[01:59] months ago
+[02:00] um what has been your your biggest
+[02:03] learnings within Bitcoin or your biggest
+[02:06] like highlight within Bitcoin in the
+[02:08] past like 10 months uh well you know it
+[02:11] would I guess it would be the people
+[02:13] that I've uh been able to uh explain
+[02:16] Bitcoin to and that they've gotten it
+[02:18] there's been a few family members that I
+[02:20] didn't think were going to get it uh
+[02:22] there's been people it seems to me
+[02:25] almost like I tweeted a couple days ago
+[02:27] for me I I try and immerse my myself in
+[02:31] every aspect of Bitcoin you have your
+[02:33] mining you have your nodes but you also
+[02:36] have your tokens right you can hold
+[02:38] Bitcoin you can run a node and you can
+[02:41] run a miner or you can do none of these
+[02:44] or any part of it it's a to me it's a
+[02:47] three-part ecosystem so I've really
+[02:49] tried to learn more about Mining and uh
+[02:52] node running this year uh instead of
+[02:56] instead of orange pilling people uh I
+[02:59] find it it's more convincing to explain
+[03:02] to them why they need to run a node and
+[03:05] to get them to build a node and then
+[03:07] they can really see like the the nuts
+[03:10] and bolts of Bitcoin once you run a node
+[03:12] and you can punch commands into the
+[03:14] prompt and you can audit the system
+[03:16] you're like holy smokes what's going on
+[03:19] here you know holding tokens is nice uh
+[03:22] number go up you know you're your money
+[03:24] will appreciate but once you start uh
+[03:26] Mining and running nodes then you see
+[03:28] the three part
+[03:30] uh triangle of the ecosystem and how you
+[03:32] can partake and be incentivized to do
+[03:34] each one right like I don't get paid to
+[03:36] run a node I I do it out of the um my
+[03:40] own interest right I have a copy of the
+[03:44] blockchain stored in my home I broadcast
+[03:48] my own transactions I had someone DM me
+[03:51] yesterday and they and it's um a younger
+[03:54] person he's about 17 he's dating my
+[03:56] niece and he wants to know the ins and
+[03:59] outs of Bitcoin not just where can I buy
+[04:01] it he's like I'm trying to explain to
+[04:04] people how the blockchain works and I
+[04:06] keep getting caught up people ask me a
+[04:08] question and I don't have an answer can
+[04:10] you he's like can you please lead me in
+[04:12] a direction and I sent him a few
+[04:14] articles on proof of work um the
+[04:17] Byzantine General problem that Satoshi
+[04:20] solved for and but it's I said this is
+[04:23] very technical stuff it takes a long
+[04:25] time to get this like I don't know about
+[04:28] you Robin but I've been studying bit
+[04:29] coin since 2017 and I honestly feel like
+[04:33] I I barely even understand it like I
+[04:35] know where I can buy it I know how to
+[04:37] set up and run a node uh I can plug in
+[04:40] my minor and point it at a pool but
+[04:42] those are really just surface layers of
+[04:44] Bitcoin each of those things you can go
+[04:46] down rabbit holes for a very long time
+[04:48] like even nodes you can go down the
+[04:51] deepest rabbit hole we have
+[04:53] um oh the datm is coming out for the
+[04:58] lightning Network I don't know if you
+[05:00] dabble in lightning at all but they're
+[05:02] building um Layer Two stuff on Lightning
+[05:05] too and there's a new um implementation
+[05:07] coming out called bolt 12 for the
+[05:10] lightning Network where you can now
+[05:12] Force Bitcoin on people you could load a
+[05:15] QR code with Bitcoin it's essentially
+[05:18] like an invoice so if someone owed you
+[05:21] money or you wanted to give money to
+[05:23] someone you could use this new lightning
+[05:25] implementation to gift Bitcoin and and
+[05:28] we're going to start using it to try and
+[05:31] uh integrate it into bit day cards.com
+[05:34] and see if we can use uh QR codes to
+[05:37] gift Bitcoin to friends and family in
+[05:39] the future so um learning about
+[05:42] lightning is something I've been uh
+[05:44] focusing on it's it's another Rabbit
+[05:47] Hole like I said bolt 12 datm is coming
+[05:50] out uh which I listened to Preston's
+[05:54] podcast he released it Preston pish last
+[05:56] week he had mechanic on there uh I wish
+[06:00] I had his name but this guy is like he's
+[06:02] a wizard and I've been following him on
+[06:04] Twitter he's the one that's releasing
+[06:06] datm for the ocean mining pool and for
+[06:09] the first time miners will be able to
+[06:12] build their own template so literally
+[06:14] with my Miner in my garage and my node
+[06:18] I'll be able to build my own template
+[06:21] and when I solve a block if I do I can
+[06:23] sign that template with whatever I want
+[06:26] like Tommy Boy was here and it'll be
+[06:28] etched in in history forever so really I
+[06:32] there isn't one main area that I've
+[06:34] focused on learning about it's it's all
+[06:36] of them because it's so broad
+[06:39] Bitcoin it's hard to really just focus
+[06:42] on one because when you're studying one
+[06:44] thing a phrase or terminology comes up
+[06:46] and you're like well what's this you
+[06:48] know what's the Byzantine General's
+[06:49] problem boom there you go two weeks
+[06:52] you're going down that rabbit hole right
+[06:54] and then you're learning about you know
+[06:56] well who is Satoshi and then you're
+[06:58] going down that rabbit hole and what do
+[07:01] you mean there's only 21 million
+[07:02] Bitcoins ever going to exist then you go
+[07:04] down that rabbit hole there's so many
+[07:06] holes in Bitcoin you just need to really
+[07:08] be careful where you're stepping it's
+[07:11] it's it's super interesting because uh I
+[07:13] thought I have a good crasp on bitcoin
+[07:16] when I started the podcast and now
+[07:18] looking back 10 months I understand that
+[07:21] I didn't understand anything no like I
+[07:24] had no clue about anything and still now
+[07:28] there are so many things that I have no
+[07:30] clue but for example I never heard datm
+[07:32] I have no clue what what datam is or
+[07:35] what you were talking about what this
+[07:37] means for for the lightning redw maybe
+[07:39] uh for for the people also like me that
+[07:41] never heard about it what like in in in
+[07:44] in layman's terms or like in in general
+[07:46] terms what is that what try does it try
+[07:49] to to achieve okay so I'm myself like
+[07:53] I've just kind of started to go down
+[07:54] this Rabbit Hole
+[07:56] um and so I'll try my best to explain I
+[08:00] learned about datm through like I said
+[08:02] Preston P's podcast but I went and I
+[08:04] researched a little bit and so datam
+[08:07] comes out of the ocean mining pool and
+[08:09] if you know anything about ocean um
+[08:12] that's Luke dasher's uh pool for mining
+[08:16] right so if you're a miner you need to
+[08:18] point your hash rate at a pool well the
+[08:21] more you learn about uh pools the more
+[08:24] you see that it is actually really
+[08:25] centralized there's only about six or
+[08:27] seven players that make your transaction
+[08:30] templates so when you see the block
+[08:33] getting verified and you see all the
+[08:34] transactions in it somebody had to make
+[08:37] that template somebody had to say okay
+[08:39] I'm going to take this transaction that
+[08:40] has the highest fees and I'm going to
+[08:42] put it in this template because it's
+[08:44] financially incentivizes me to put this
+[08:46] in the block well what Ocean's doing
+[08:50] they're trying to like
+[08:52] decentralize um mining pools so that we
+[08:55] can take back some power right and so
+[08:58] this what I'm learning that if I point
+[09:00] my hash rate at Ocean I'm going to start
+[09:02] doing that but they also want to take it
+[09:04] another step further because if you just
+[09:07] point your minor at Ocean they will
+[09:09] build the template for you and building
+[09:11] the template is very important because
+[09:14] if you centralize the template you give
+[09:17] governments an attack Vector to attack
+[09:21] Bitcoin like if they only have to go to
+[09:22] Six companies and say hey block these
+[09:25] transactions block this list of wallets
+[09:27] um make sure that all your templates are
+[09:29] OA compliant then it's really easy for
+[09:32] government to just attack six companies
+[09:34] but if we all are Solo mining which
+[09:39] oceans trying to move towards but in a
+[09:42] in a in a non-s Solo way it's hard to
+[09:45] explain the technical nuts and bolts of
+[09:47] it but so that's what Ocean's trying to
+[09:50] offer but on top of ocean they're um
+[09:52] integrating a protocol that you can run
+[09:55] uh on the side and and mechanic says
+[09:57] it's very light it's like 300 Kil but
+[09:59] it's just a protocol that runs alongside
+[10:02] your ocean mining account and it will
+[10:04] allow you to build a template so you can
+[10:08] I can build my own template which really
+[10:11] is I think one of the issues that we
+[10:13] need to look at as bitcoiners right now
+[10:15] is the centralization of mining pools I
+[10:18] right now unfortunately like I'm pointed
+[10:20] at ant pool right now just because of
+[10:22] convenience right sometimes we become
+[10:25] lazy as bitcoiners or we just find the
+[10:28] path of least resistance which I find
+[10:30] that maybe I've done this last year so
+[10:33] you know I've given myself a kick in the
+[10:34] butt and I'm going to I'm waiting for
+[10:36] datm to come out it hasn't been released
+[10:38] yet I DMD mechanic and he said uh it's
+[10:41] pretty much on the cusp of being
+[10:43] released so even if you have like a
+[10:45] little S9 minor heating your garage I
+[10:47] really urge people to take a look at
+[10:49] Ocean pool and and then to run also the
+[10:52] datm protocol but you have to run a node
+[10:55] too so your node communicates with your
+[10:57] minor and then if you solve block it
+[11:00] uses your
+[11:02] template I hope that kind of gives you
+[11:04] like a little bit of information enough
+[11:06] to get you started down that rabbit hole
+[11:08] I think it actually does and I think
+[11:10] it's a really important topic also
+[11:13] because I think that's a topic that
+[11:16] comes up more and more where people are
+[11:18] concerned about that mining pool
+[11:21] centralization mining itself is quite
+[11:24] decentralized like I think America is
+[11:26] probably the the biggest one with like I
+[11:27] don't know 20 30% what I heard last time
+[11:30] uh which is I think kind of great that
+[11:33] we are decentralized in the in where the
+[11:36] miners are located but then there is the
+[11:38] the the mining pools and there are
+[11:40] basically a few three four five that are
+[11:43] really big and they they control uh the
+[11:46] the mining pools and they're not that
+[11:48] many is that even if we would assume
+[11:51] that uh ocean is not working or like we
+[11:54] cannot decentralize the mining pools
+[11:56] from a like situation where we we have
+[11:59] those big mining pools going forward
+[12:01] would you would you think that's a major
+[12:04] issue for Bitcoin or is it just a small
+[12:07] inconvenience uh for me I'm I'm not
+[12:11] really a criminal and I I'm not on any
+[12:13] black list so for me personally it
+[12:17] doesn't really affect me but it is a
+[12:19] like I said it's an attack Vector that
+[12:21] the governments or The Regulators can
+[12:23] start working on right so as it doesn't
+[12:28] affect me personally it's something we
+[12:29] do need to uh start focusing on and I'm
+[12:32] really grateful for the people over at
+[12:34] Ocean and that they've started this task
+[12:36] is if they didn't bring it to the
+[12:37] Forefront we wouldn't like personally I
+[12:39] don't even know if I would know about it
+[12:41] right and and the more I uh learn about
+[12:44] Bitcoin the more I actually want to run
+[12:47] miners I want to run nodes I want two or
+[12:49] three nodes you want to immerse yourself
+[12:52] in this ecosystem
+[12:54] because everything else is a shitcoin
+[12:56] absolutely
+[12:58] yeah is really interest would you I for
+[13:02] example didn't run my own uh Min till
+[13:07] now like mining is something I still am
+[13:10] not in um is that something that
+[13:13] everyone should look into in in like
+[13:15] running a solo Min or like buying one
+[13:17] rig of an S9 or something like that and
+[13:20] and trying to to get the tech working
+[13:22] especially if we can also get like uh
+[13:24] something going like the the the ocean
+[13:27] mining datum uh that that's really cool
+[13:30] um or is it only something for if you
+[13:33] really want to be be nerdy and and
+[13:35] something about that this is great I
+[13:38] love this topic personally mining is my
+[13:40] favorite topic I think it has the
+[13:42] brightest future um
+[13:45] although um it's become really
+[13:48] industrialized uh as of late like really
+[13:51] it's big factories with these you know
+[13:54] rows and rows of uh miners that run on
+[13:57] 240 volts like you know here in Canada
+[14:01] uh only our our stoves and our dryers
+[14:03] run on 240 volts or if you have a hot
+[14:06] tub so it's challenging for homeowners
+[14:10] to mine unless you find yourself like an
+[14:13] old S9 Miner and whatnot which which I
+[14:16] do I run s9s in my garage to heat it
+[14:19] right it just heats the garage because
+[14:22] uh the only byproduct of mining is heat
+[14:25] so to me once people start waking up to
+[14:29] this and seeing how uh you can use this
+[14:31] heat in so many different ways there's
+[14:34] uh a few people on Twitter I follow Mike
+[14:37] Michael Schmidt is one he was also on
+[14:39] Preston's podcast and I can share his um
+[14:42] Twitter with you and this guy has a
+[14:46] blueprint he can has a step-by-step
+[14:48] guide for people to build um in their
+[14:53] furnace rooms they can submerse a minor
+[14:57] and Heat their entire house they can can
+[14:59] heat their hot water tank their hot tubs
+[15:01] their pools in your home so for me I
+[15:04] people think like okay well Bitcoin
+[15:06] mining has gone industrialized I really
+[15:08] think you're going to start to see over
+[15:09] the next couple years it start to come
+[15:12] back into like a residential sense more
+[15:14] like a personal use you see right now
+[15:17] that on Twitter everybody has these bid
+[15:19] ax little miners right the this I think
+[15:23] is the beginning of the Resurgence of
+[15:26] Home mining I think in the future the
+[15:29] next decade you'll see people like you
+[15:30] and me bitcoiners we're going to start
+[15:33] like plugging these little miners in and
+[15:35] and uh and start seeing what we can do
+[15:37] with them right like like I said my
+[15:39] garage is heated all winter by Bitcoin
+[15:42] I've posted uh over the last week other
+[15:44] things that I dry in front of the miners
+[15:47] it's it's an amazing thing and it's just
+[15:49] I really think it's just at the
+[15:50] beginning it went industrialized mining
+[15:53] but I think you'll start seeing the
+[15:55] pullback towards more um home mining and
+[15:59] the use of the heat like even uh in
+[16:03] Quebec here I can buy an s19 J for
+[16:07] $990 right and I can plug that in it's
+[16:11] 240 volt 30 amp it's a it's a big plug
+[16:15] but I can unplug my hot tub I can have
+[16:17] an electrician come here and just switch
+[16:18] out and easily be able to plug in um a
+[16:22] 20040 volt minor so I think you'll start
+[16:26] to see a lot more of that type of stuff
+[16:28] even um downtown in your metropolises I
+[16:32] don't know why skyscrapers haven't
+[16:33] started to look at this as uh we could
+[16:36] all put mining facilities in the
+[16:37] basement and use that heat to heat the
+[16:40] water and the air for all of our
+[16:42] residents or if it's a business
+[16:44] skyscraper uh for all the businesses in
+[16:47] this in the uh building you're really
+[16:49] going to start to see humans realize
+[16:50] holy smokes there's more usage use case
+[16:54] for mining than just um creating Bitcoin
+[17:00] it's super interesting also the uh
+[17:02] capitalizing on The Heat Of The Miner uh
+[17:05] which then you could even go ahead and
+[17:08] build a hot tub where the hot tub is
+[17:11] heated by the minor so you just like
+[17:13] plug in the hot tub you don't even have
+[17:15] to get switch around that you can build
+[17:18] a hot tub with uh mining with the with
+[17:21] the with the the Bitcoin Heating and
+[17:24] there are really cool home projects from
+[17:27] people out there they just like go out
+[17:29] there and make those those projects in
+[17:31] reality um really interesting will it be
+[17:35] when commercial products are coming out
+[17:37] like an an ready implemented hot tub
+[17:41] that has a Bitcoin minor in them I mean
+[17:44] we kind of see that already with like
+[17:46] how's the company called I think 21
+[17:48] energy it's an aan company who builds uh
+[17:51] mining heaters you can just plug it in
+[17:54] and it's super easy and the Min is
+[17:56] plugged into the the in the heater
+[17:58] because think we probably don't get to a
+[18:01] mass adoption of solo and DEC
+[18:04] decentralized mining if there's not um a
+[18:08] commercial product around it which makes
+[18:10] it really easy uh to Plug and Play that
+[18:13] that that whole thing um probably
+[18:16] probably most people will never um
+[18:19] figure mining out for themselves but
+[18:22] maybe I'm wrong maybe maybe maybe I'm
+[18:24] wrong probably commercial products has
+[18:26] to come out to make that transition
+[18:28] really nice which which will be amazing
+[18:32] imagine every house having their own
+[18:34] miners uh from I don't know solar energy
+[18:37] or whatever uh that that's that's a I
+[18:40] think the mining industry is still quite
+[18:43] underrated in in in the Bitcoin
+[18:47] ecosystem as at least as I think about
+[18:50] it yeah like you hit the nail right on
+[18:53] the head Robin I think personally you
+[18:56] can mark it down here we'll make a
+[18:57] prediction me and you will will come
+[18:59] back and we'll do a podcast 10 years
+[19:00] from now and you will see not only home
+[19:04] mining but I think your refrigerators
+[19:07] your dishwashers your dryers your
+[19:09] washers will all have like bit ax little
+[19:12] miners in them so that when you're
+[19:14] drying your clothes you're not just
+[19:16] wasting energy it's very inefficient I I
+[19:19] believe people will find a way to
+[19:21] implement miners into almost everything
+[19:23] that we do that runs daily to me one
+[19:27] thing I I see on a daily basis is the
+[19:30] wasted energy in vehicles in cars right
+[19:34] like these cars are all generating
+[19:36] electricity with alternators I I don't
+[19:38] know why a company hasn't come along I'm
+[19:40] sure there's reasons but installed
+[19:42] miners in vehicles so while you're
+[19:45] driving around you're also mining
+[19:47] Bitcoin and and maybe it's a small
+[19:49] fraction like with how much energy you
+[19:51] can produce but it it sure beats nothing
+[19:54] right like my minor C the S9 in my
+[19:56] garage it costs me a little bit of money
+[19:58] to heat or to run but uh and especially
+[20:02] with the having event in April it went
+[20:04] from a dollar to 50 cents a day for per
+[20:07] S9 but it's it's 50 cents that I if I
+[20:10] had a regular heater I wouldn't get so
+[20:14] you're really going to see people like
+[20:16] me and you start figuring it out that
+[20:19] there was a lot of energy out there that
+[20:20] we need to start capturing and sending
+[20:22] it through as6 absolutely really cool
+[20:24] how was the Haring event for you in in
+[20:27] April as you also run honor yourself uh
+[20:30] like I said My Rewards got cut in half
+[20:32] uh immediately uh I was
+[20:35] actually where was I was at a Luke
+[20:37] Colmes concert in Buffalo New York with
+[20:39] my wife and two family friends and the
+[20:42] having event happened right during the
+[20:45] concert and I looked around and nobody
+[20:48] cared I looked at my wife I'm like look
+[20:51] look 840,000 woohoo and we clapped a
+[20:54] little bit and I looked around and not a
+[20:56] single person cared Robin that just lets
+[20:59] me know that's how early we really are
+[21:02] like some people are like oh I got to
+[21:03] get as much as I can today like that um
+[21:06] my niece's boyfriend he's been talking
+[21:09] to me uh via DM over Twitter uh he's
+[21:12] been asking so many questions about
+[21:13] Bitcoin and he's just like I want to
+[21:15] know everything now I got to get so much
+[21:17] Bitcoin and I'm like I'm like Jackson
+[21:20] just relax you have your whole life okay
+[21:23] just do what you can on a daily basis
+[21:25] don't get
+[21:26] overwhelmed uh with it because one thing
+[21:29] you learn when you understand Bitcoin
+[21:32] you understand low time preference
+[21:35] everything on bitcoin slows down you
+[21:37] don't need to rush life's not inflating
+[21:40] away on you okay so you can take your
+[21:42] time just do one or two podcasts a week
+[21:45] you know pick up a book and read for an
+[21:46] hour I assure you Jackson you will be
+[21:49] where you need to be okay one thing that
+[21:52] Bitcoin has uh brought into my life is
+[21:54] um a higher power uh I he brought Jesus
+[21:57] and God into life and and that even
+[22:00] slowed things down more right I
+[22:03] understand that everything happens
+[22:04] exactly how it's supposed to so this is
+[22:07] a beautiful thing a feature of Bitcoin
+[22:09] is why I urge people to understand it is
+[22:12] it helps you get out of the Rat Race it
+[22:14] helps you get off that wheel absolutely
+[22:16] really really cool um which I'm really
+[22:19] curious like I think a lot about what
+[22:22] Bitcoin will do the society and and to
+[22:24] the world uh once more people get it and
+[22:27] once it's like right now we we are a
+[22:30] very small community if you see the
+[22:32] whole thing like how many people
+[22:34] actually understand Bitcoin I don't
+[22:36] count the people that have like um yeah
+[22:38] they have like an in coinbase account
+[22:40] and they have like 5% of their portfolio
+[22:42] in Bitcoin uh those people excluded like
+[22:46] how many people actually understand what
+[22:48] what Bitcoin means and what Bitcoin
+[22:50] represents the number has to be so so
+[22:54] low it's it's fascinating probably in
+[22:56] the greater things of fi but what
+[22:58] happens once we get this number up to
+[23:01] like 10 million people 100 million
+[23:04] people or maybe even like uh a billion
+[23:07] people that actually understand Bitcoin
+[23:10] and then I'm like okay let's let's look
+[23:12] at the people right now that adopted a
+[23:15] Bitcoin standard what the change in in
+[23:17] in their behavior and maybe we can then
+[23:20] understand what what Bitcoin might do to
+[23:22] to the world so the question for you
+[23:24] like what what did Bitcoin change uh in
+[23:27] you you said higher power it gave you
+[23:30] that low time preference uh what do you
+[23:32] mean by that uh well I'm not sure if if
+[23:36] the higher power came into my life first
+[23:39] I I assure you it did I I have to be
+[23:41] very careful um it it brought God into
+[23:45] my life and and and the Bible and Jesus
+[23:48] and that's really like I've focused just
+[23:50] as much on that this year as
+[23:52] understanding the life of Jesus as I
+[23:54] have um the life of Satoshi Nakamoto and
+[23:58] and and Bitcoin I've almost uh found
+[24:01] that Jesus is taking over my life more
+[24:04] than Bitcoin right it's it's a real gift
+[24:08] the Bible and I urge people like I
+[24:11] orange pill people um and then once I
+[24:14] orange pill them I really tell them they
+[24:16] need to look at at the life of Jesus too
+[24:18] and understand what that what he did and
+[24:21] and his story uh and I'm not talking
+[24:23] about organized religion I'm talking
+[24:26] about uh spirituality you know
+[24:29] uh the fundamental the soul that you
+[24:31] have inside you I'm not talking about
+[24:33] going to church and donating which is is
+[24:35] a nice thing too but um I don't want to
+[24:39] speak ill of churches but I find they're
+[24:42] um managed by humans and humans are
+[24:44] corrupt and and you get egos involved in
+[24:46] churches but if you can just pick up the
+[24:49] Bible and learn about Jesus uh it's
+[24:52] going to add uh so many more layers and
+[24:55] and um to your life it's it's an amazing
+[24:58] thing I really urge people to to do that
+[25:00] after you learn about Bitcoin
+[25:03] right it's is interesting how how it
+[25:06] goes but but that higher power did
+[25:10] Bitcoin change something in in in in
+[25:12] your behavior with the low time
+[25:13] preference and and realizing that uh
+[25:16] Bitcoin actually like over time gives
+[25:19] you more purchasing power than like less
+[25:22] purchasing power did that change
+[25:24] anything for you or was it like just a
+[25:26] different money and not really a
+[25:27] behavior change change uh you know what
+[25:30] it was like um a change in my
+[25:33] Integrity it really Bitcoin is honest
+[25:37] hard money right so when you start
+[25:40] looking at that then you start looking
+[25:41] at well what's Fiat and and and then you
+[25:44] go down the rabbit hole of of uh
+[25:47] corruption and inflation and the banking
+[25:49] sector and you start seeing things and
+[25:51] you're like this is evil There's real
+[25:54] evil in the world and there's people
+[25:56] that will take from you and have no
+[25:57] remorse about it so I guess I didn't
+[26:01] want to to have a world view that was
+[26:05] negative and about evil and that's I
+[26:07] guess maybe Bitcoin came into my life
+[26:09] and and I could see that Bitcoin was
+[26:10] about truth it was about honesty it was
+[26:13] about integrity and it was about it was
+[26:16] about more than just me it was about all
+[26:18] of us it's about rules and not
+[26:21] rulers right so I think in that I was
+[26:26] like okay well this is good this is a
+[26:28] good thing and then it kind of brought
+[26:30] me to Jesus which is good his his
+[26:33] message is about love and kindness you
+[26:35] know go and treat each other as you
+[26:37] would treat your your your wife or your
+[26:39] brother right be honest even if it's
+[26:43] hard and help people help help help okay
+[26:46] that's what this world needs is more
+[26:48] people willing to help and I don't see
+[26:50] that as much I see a lot of people on
+[26:52] the sides of the roads with flat tires
+[26:54] and nobody helping them and like people
+[26:57] not holding the doors for people and and
+[27:00] just even saying good morning how you
+[27:02] doing you know I when I pull up to my
+[27:04] drive-thru window and I'm speaking to
+[27:07] someone I don't just spit out my order
+[27:09] I'm like yeah give me a bagle and and I
+[27:11] say hey how's it going how you doing
+[27:12] today and I literally wait for them to
+[27:15] answer because I I'm interested on how
+[27:17] everybody's doing not just not just my
+[27:20] family or like I want to connect with
+[27:22] people and I want to and listen to
+[27:24] people and actively listen because it's
+[27:26] the the best thing you can do is listen
+[27:28] to people because then you can find out
+[27:30] how Bitcoin would benefit them right if
+[27:33] I if I just force my thoughts on you
+[27:37] then you're just going to go oh that's
+[27:38] his thoughts maybe not but if I listen
+[27:39] to you and then I can see well you know
+[27:42] this is where Bitcoin can help you it it
+[27:45] really it's helped my game this year I
+[27:47] love that uh really really cool it's
+[27:49] also interesting when when I think about
+[27:51] that the the Bitcoin Community aspect uh
+[27:55] it's it's amazing that we have uh all
+[27:57] those like podcasts uh conferences the
+[28:00] local meetups the orange bill apps like
+[28:03] the the the the the connection of of
+[28:06] actual real human beings that are
+[28:08] bitcoiners and we have so many different
+[28:10] ways to do that uh and I think that
+[28:14] that's quite important what do you think
+[28:16] is like how do you feel about the the
+[28:18] Bitcoin Community uh uh right now how
+[28:21] important is the Bitcoin Community
+[28:23] aspect to the Bitcoin itself also it's
+[28:27] everything uh I don't know you're on
+[28:30] YouTube you're on a few other platforms
+[28:32] but the best platform I find is uh
+[28:34] Twitter also known as x uh on Twitter we
+[28:38] have the best people in the world you
+[28:40] know if you want to know anything you
+[28:42] can go to bitcoin Twitter and you ask
+[28:45] and you'll get an honest to goodness um
+[28:48] genuine answer from people and they want
+[28:50] you to be healthy like you you look at
+[28:53] Bitcoin Twitter is not just about
+[28:54] Bitcoin you learn about you know cast
+[28:56] iron frying pans and carnivore diet and
+[28:59] and you learn about how they're trying
+[29:01] to manipulate us and you learn about
+[29:03] government corruption and you learn
+[29:05] about Fiat and
+[29:07] gold it's the community is everything
+[29:10] and I find the Bitcoin Community is one
+[29:14] of the most genuine right I I my story
+[29:17] does include [ __ ] coining uh obviously
+[29:19] like I got into Bitcoin through ethereum
+[29:22] nfts I got rug pulled on Sheba enu I got
+[29:26] rug pulled on and all these tokens and
+[29:29] nfts were built on community it's all
+[29:32] about the community but looking back it
+[29:35] was all about just you know a Ponzi
+[29:37] scheme of ripping each other off and it
+[29:40] was like it's really sad and and I was
+[29:42] glad that it pushed me into Bitcoin
+[29:45] where I can like see that bitcoiners are
+[29:48] genuinely good people like you Robin
+[29:50] you're here on your own dime you know
+[29:53] trying to bring truth and honesty to
+[29:56] people right like I seen you a year ago
+[29:59] when you just started out and this was
+[30:00] just about you wanting to immerse your
+[30:03] life in Bitcoin and and look what it is
+[30:05] giving you this is is a blessing it
+[30:08] really is like you can create a life
+[30:11] from Bitcoin there's I have bit day
+[30:14] cards.com it's a website that I could
+[30:16] build a company on bitcoin right just a
+[30:19] simple uh teaching people about seed
+[30:21] phrases and then that's a way to gift
+[30:23] Bitcoin to people but you you could also
+[30:26] you set up home mind for people you
+[30:29] could build a business where you go in
+[30:31] and set up a minor for someone in their
+[30:33] garage and and you know they they pay
+[30:36] you for that this it's amazing what
+[30:38] Bitcoin can offer to people you can't I
+[30:41] can't buy Facebook stock and then go and
+[30:44] create a Facebook business and try and
+[30:46] live off of my Facebook stocks I can't
+[30:49] do it with Nike Apple Netflix I can't I
+[30:52] can give Netflix a million dollars of
+[30:54] stocks but I can't create a Netflix
+[30:56] business where if I took a million
+[30:58] dollars of Bitcoin and bought it and
+[31:01] started learning about it I'd see that
+[31:02] there's like 20 different businesses
+[31:04] that are need to be created just out of
+[31:06] Bitcoin you know Bitcoin backed
+[31:08] Insurance Bitcoin backed mortgages
+[31:11] mining even going and setting up nodes
+[31:13] for people you know creating a
+[31:15] Consulting business where you can just
+[31:17] you know set up a weekend class where
+[31:19] you teach people about Bitcoin it's just
+[31:22] the options are endless it's great I L
+[31:25] it a lot yeah it's it's interesting how
+[31:28] I think a lot of things has also to do
+[31:30] because Bitcoin is still so early like
+[31:32] we we we have like people compare like
+[31:36] Bitcoin to like a stock uh but then
+[31:39] they're like no it's actually not a
+[31:40] stock like it's an HTTP uh the HTTP HTTP
+[31:44] protocol the dcip protocol whatever uh
+[31:47] protocol you want to compare it to uh
+[31:50] and around that then you can build
+[31:52] actually on bitcoin the Facebooks the
+[31:55] the Googles and and and so forth which
+[31:58] which I think we're just like seeing the
+[32:00] the start of of the Bitcoin ecosystem
+[32:03] and the the things around that because
+[32:06] we will need um uh a lot of lightning
+[32:09] networks a lot of scaling Solutions uh
+[32:11] payment service provider whatever like
+[32:13] we need we need people and companies and
+[32:16] institutions and whatever to build on
+[32:18] top of Bitcoin the protocol uh and build
+[32:21] it out so we are ready for 8 billion
+[32:24] people transacting daily on it
+[32:28] yep it is definitely coming I seen a
+[32:30] clip uh last week and it was I'm not
+[32:33] sure if you're familiar with David
+[32:34] Letterman he was a talk show host a late
+[32:37] night talk show host here and I think
+[32:39] the clip came from I I think 1995 is so
+[32:44] uh the internet itself had only been
+[32:46] around I think for roughly like 15 years
+[32:49] so we are at the same spot in the
+[32:51] adoption curve uh for Bitcoin both the
+[32:55] internet was around for 15 years and
+[32:57] Bitcoin today has been around for 15
+[32:59] years so on this clip uh someone was
+[33:01] explaining to Letterman how uh emails
+[33:04] will work in the
+[33:05] future and David Letterman goes why
+[33:07] would I need to write an email and sit
+[33:09] here and hit and type and send it when I
+[33:11] can just write with my hand and mail it
+[33:13] to the person I want to send it to and
+[33:16] you could just see that it's no fault of
+[33:18] his own but he had no idea what was
+[33:21] coming in the future honestly I've it's
+[33:24] 7:30 in the morning here and I've
+[33:26] already sent three emails checked it
+[33:28] five times you sent me a link for this
+[33:30] podcast via email we can't picture our
+[33:33] lives without email today it's just you
+[33:36] know billions of them are sent every day
+[33:39] so this is where we are on the adoption
+[33:41] curve for Bitcoin we me and you are
+[33:44] immersed in Bitcoin and we still don't
+[33:46] even have a clue of where it's going to
+[33:47] take us we have no idea the the amount
+[33:50] of the wave the Title Wave that's coming
+[33:53] right and I hope it takes a long time so
+[33:55] I can get cheap Bitcoin for long
+[33:59] but I do still want to see the progress
+[34:01] move along but just remember the more
+[34:03] the price goes up the less corn you get
+[34:06] so it's a double-edged short I want to
+[34:08] see it go up but I don't want to see it
+[34:10] go up I guess we benefit both ways when
+[34:12] it goes up we know our purchasing power
+[34:15] goes up and when it goes down we know we
+[34:16] can buy more uh which will uh benefit
+[34:19] our purchasing power long term yes so
+[34:22] either way we we we are fine like it's
+[34:24] it's a weird thing like uh once it falls
+[34:26] it's like ah yes we can buy more Bitcoin
+[34:28] and but but I'm also happy when it goes
+[34:30] up like I'm happy when the price goes
+[34:33] down or up I'm kind of like I mean it
+[34:36] just stay stable it's boring yeah but I
+[34:38] I think long term um I mean we're not
+[34:42] there at all yet so like because we so
+[34:44] small but I think at some point Bitcoin
+[34:46] will be boring and will mostly do
+[34:48] nothing but it will take a very long
+[34:51] time till till till we get there until
+[34:53] then uh it will be a lot of fun to talk
+[34:56] about Bitcoin and and and and have have
+[34:59] those great Bitcoin conversations and
+[35:00] and see the the Bitcoin price also like
+[35:03] as as weird as it sounds a bitcoin price
+[35:07] um for Bitcoin does not directly matter
+[35:09] but it's really fun to look at it
+[35:11] because it's kind of Scoreboard on how
+[35:14] well the Feld system is doing against
+[35:16] Bitcoin uh for me at least like for me
+[35:18] it's like oh Bitcoin will proceed uh how
+[35:21] how fast is the field system coming into
+[35:23] the Bitcoin system that's the scoreboard
+[35:26] for it US dollar is usually the best one
+[35:28] because it's the probably the last Fiat
+[35:31] system to die and I think it's uh it's a
+[35:33] great way uh to to to look at that uh
+[35:37] yeah yeah yeah for sure the uh Fiat
+[35:40] system is crumbling we know this right
+[35:43] so it is interesting to watch the price
+[35:45] go up um I was in on family vacation in
+[35:50] February the last time Bitcoin lagged up
+[35:53] and I looked at my wife and I said just
+[35:57] because we save in Bitcoin it just
+[36:00] bought us next year's vacation right
+[36:02] this is what the purchasing power of
+[36:04] Bitcoin does like you can lit like even
+[36:09] yesterday I sold a little bit of Bitcoin
+[36:12] to buy gas because I'm on a a Bitcoin
+[36:14] standard so as soon as I get dollars I
+[36:17] convert it to bitcoin and if I need
+[36:18] dollars I'll convert back out of Bitcoin
+[36:22] right you look today bitcoin's up three
+[36:24] and a half per. Robin that tank gas was
+[36:28] free if I denominate in Fiat dollars I
+[36:33] look at my portfolio today and it's up
+[36:35] that tank of gas plus some so you it's
+[36:38] weird you see that Bitcoin like if
+[36:41] you're good with it and you learn how to
+[36:43] manage it it pays it can pay for your
+[36:45] life right and and that's I think what
+[36:49] the Fiat system should do but we have a
+[36:51] small group of Psychopathic individuals
+[36:54] that want to hoard all of that uh human
+[36:57] Innovation and development to themselves
+[36:59] and that would be the government right
+[37:02] they have a button on the printer and
+[37:04] when they print money they rob us of all
+[37:07] this um all this wealth that we create
+[37:10] as humans like we're out there working
+[37:13] hard I work every day of the week and
+[37:15] and I'm creating value and saving in
+[37:17] Bitcoin but I'm getting robbed by the
+[37:19] government if I leave my money in Fiat
+[37:23] and that to me is like it's really great
+[37:26] talking point for people I find is uh
+[37:28] lately is inflation has been a really
+[37:30] good wedge to get people talking about
+[37:33] Alternatives and I I found this last six
+[37:35] months even though bitcoin price has
+[37:37] gone sideways since February people are
+[37:40] still becoming more and more intrigued
+[37:42] I'm getting more and more people that
+[37:43] come up to me and are ask me so you know
+[37:46] what is this Bitcoin thing and
+[37:48] fortunately I've done the research and
+[37:51] I've learned what it is so I have a good
+[37:54] uh time explaining it to people it seems
+[37:56] to go well and uh I'm finding people are
+[37:59] warming up to it more and more so it's a
+[38:02] good thing if you watch or listen to my
+[38:04] podcast on a regular basis I guess you
+[38:06] already bought some Bitcoin and now the
+[38:09] most important step is to keep the
+[38:12] Bitcoin keep them secure in a hardware
+[38:14] wallet my personal recommendation for
+[38:16] Hardware wallet is the bitbox it's super
+[38:19] secure it's simple to set up it's also
+[38:21] perfect gift for a friend who has still
+[38:24] the Bitcoin on an exchange and you can
+[38:26] get a 5% discount with the code Robin at
+[38:30] the checkout visit bitbox do Swiss
+[38:34] robobin to get your bitbox and the next
+[38:37] step is to really level up your
+[38:39] sovereignty as an individual you have to
+[38:41] have the most secure self custody setup
+[38:44] you have to secure your own devices you
+[38:47] have to protect your privacy you have to
+[38:50] set up an inheritance plan and depending
+[38:53] on where you live you even want to have
+[38:55] a plan B a citizenship where you can
+[38:58] move in case something goes really
+[39:00] really wrong and through all those steps
+[39:02] the Bitcoin way is guiding you through
+[39:04] step by step and if you visit the
+[39:07] Bitcoin way.com SLP Partners robobin you
+[39:11] even get a 30 minute free call to find
+[39:14] out how you can level up your
+[39:16] sovereignty and last but not least I
+[39:18] have something completely new for you
+[39:21] guys I partnered up with coin vigilante
+[39:25] this is the most beautiful bitco coin
+[39:27] time piece that I ever saw created by
+[39:30] anyone look at that beauty I love it so
+[39:33] much coin vigilante made an perfect
+[39:36] Bitcoin watch that's the perfect subtle
+[39:38] elegant way to go out there and show
+[39:41] that you are a bitcoiner and that watch
+[39:44] brand is Bitcoin only and coin vigilante
+[39:48] just dropped a completely new and
+[39:50] amazing Genesis edition of their watch
+[39:53] collections you have the date of the
+[39:56] first ever
+[39:57] Bitcoin Block in there and of course
+[40:00] also the block height and which EPO we
+[40:03] are currently in I love the level of
+[40:06] detail they put in in this masterpiece
+[40:09] and make sure to check out those amazing
+[40:11] coin vigilante time pieces down in the
+[40:14] descriptions I love those watches so so
+[40:17] much yeah it's the it's it's the carrot
+[40:20] and the stick method like the the the
+[40:23] stick uh in getting into the bit bit
+[40:27] coin ecosystem is like the inflation and
+[40:29] the pain you get from the field system
+[40:31] and the carrot is like oh like the the
+[40:33] price is running up and would I imagine
+[40:37] next year could be the year where like
+[40:39] there's a major stick and a major carrot
+[40:41] for people to come into Bitcoin where
+[40:43] inflation is is getting out of control
+[40:45] and at the same time maybe the the
+[40:47] Bitcoin price also uh runs up it's it's
+[40:50] an it's really
+[40:51] interesting to to watch both things and
+[40:54] uh I I like it always when people come
+[40:57] because of the carrot so they they're
+[40:59] not in pain so like they they can still
+[41:01] live their life they they're not in in
+[41:03] danger of like getting eaten by the
+[41:05] inflation but they feel it still uh
+[41:08] because like if if you come because of
+[41:10] pure pain of the feat system there's
+[41:12] probably some financial problems in your
+[41:13] life uh because the inflation is just
+[41:15] eating up your your salary and and your
+[41:19] salary doesn't grow with your uh grocery
+[41:22] shopping list and with your rent and
+[41:24] whatever you have to pay so I I I it's
+[41:27] usually more uh tragic if if someone
+[41:30] comes because of that I prefer it if
+[41:31] someone comes actually because ohy this
+[41:33] Bitcoin seems to be an interesting thing
+[41:36] uh but yeah like both will be a massive
+[41:39] driver uh to bitcoin especially I think
+[41:41] like in the next like 12 to 18 months if
+[41:43] history is and any teacher um what else
+[41:47] happened the last uh 10 months uh we
+[41:50] mentioned before the the Haring but uh
+[41:52] the Bitcoin ETFs also uh happened I
+[41:56] think right around when after we we
+[41:58] recorded right around after we we
+[42:00] published it um how do you uh consider
+[42:03] them how bigger is that and and and what
+[42:06] do you think changed because of them is
+[42:09] that just like the feat wealth that then
+[42:11] opens up for Bitcoin or how do you look
+[42:14] at them well um I look at them as a as a
+[42:17] good thing uh they're going to bring
+[42:19] more adoption in right as long as uh you
+[42:22] know I know that we had a little bit of
+[42:24] unsur there a couple weeks ago with uh
+[42:27] Black Rock and do they actually hold the
+[42:30] Bitcoin that's they say they do and
+[42:32] Brian Armstrong came on Twitter and and
+[42:35] there was this whole thing where Black
+[42:36] Rock said okay uh we want to settle
+[42:39] within 12 hours if we withdraw from our
+[42:41] Bitcoin so there was a little bit of
+[42:44] unsur but the way that black rock
+[42:46] handled it uh gave me confidence they
+[42:48] you know they didn't uh beat around the
+[42:50] bush they said uh you know let's
+[42:53] actually Force coinbase to give us our
+[42:55] money in in a shorter time frame which
+[42:57] is good right they should have to make
+[42:59] make good so that was good that opened
+[43:02] up uh people's eyes uh it' be nice if
+[43:04] Black Rock gave us the wallet address so
+[43:06] we could monitor it ourselves I know the
+[43:08] other ETFs they give give you their
+[43:11] wallet address so you can track and
+[43:12] monitor which is great um here in Canada
+[43:16] it's it's actually it's against the
+[43:19] bank's Charters to invest in Bitcoin so
+[43:23] we have five major Banks up here in
+[43:25] Canada uh that's it like we don't have
+[43:28] many other Banks or options there's a
+[43:30] few Credit Unions but it's very
+[43:32] difficult in Canada to become a bank you
+[43:34] don't get ones that pop up here and
+[43:36] there it's very difficult they're very
+[43:38] regulated uh even Tony Robbins in his
+[43:40] book on shakable said in the 2008
+[43:43] financial crisis that the Canadian Banks
+[43:45] were the best Safe Haven in the world
+[43:48] for your money so we have a very robust
+[43:50] banking system but they're not even
+[43:52] allowed to buy Bitcoin it's actually
+[43:55] illegal for them so
+[43:57] now they can go and buy the ETFs so
+[43:59] they're getting exposure to bitcoin you
+[44:02] know by proxy through this so that's
+[44:04] great thing right that's going to bring
+[44:05] more and more adoption in I don't see it
+[44:08] being a bad thing uh the more adoption
+[44:11] that comes in the the better right I
+[44:14] believe in the future you'll see Bitcoin
+[44:16] back mortgages I listened to the uh CEO
+[44:19] of the fold app he was on a podcast
+[44:21] there a week ago and he's talking about
+[44:24] how he listens to his customers and and
+[44:26] what his customers want and the number
+[44:28] one topic they wanted was Bitcoin backed
+[44:31] mortgages uh Bitcoin backed car loans so
+[44:35] that like people like you and me Rob and
+[44:37] that that have all of our wealth saved
+[44:39] in Bitcoin it's not recognized by the
+[44:41] Fiat world like I can't go get a
+[44:43] mortgage and say hey I have 100,000 in
+[44:45] Bitcoin the bank will go okay so yeah
+[44:47] whatever uh do you have any actual
+[44:50] assets and I'll say oh no and they'll be
+[44:52] like okay well I can't give you a
+[44:53] mortgage but now in the future with
+[44:55] Bitcoin back mortgages you can use your
+[44:58] Bitcoin as leverage right and that's an
+[45:01] amazing tool it's an amazing tool for
+[45:04] people like you and me that aren't Elon
+[45:06] Musk and can use his you know a billion
+[45:09] dollar position in a company as leverage
+[45:11] to get a loan right like he bought
+[45:13] Twitter X on on Leverage right he had he
+[45:17] put up Tesla stock so he could buy a
+[45:20] company we can't do that they don't
+[45:22] allow us the financial institutions
+[45:24] don't allow us that type of access but
+[45:26] in the fure future they will if you keep
+[45:29] saving in Bitcoin I promise you fold is
+[45:32] working on this they're working on
+[45:33] getting out uh backed loans which is
+[45:36] amazing right for the first time you can
+[45:38] use uh a financial tool for leverage
+[45:42] it's
+[45:44] awesome do do you think that that Fiat
+[45:47] system will will always always be around
+[45:50] or will we get rid of of of of that
+[45:53] thing I mean kind of like loans and
+[45:55] stuff like that will still be around I
+[45:57] guess in in a in in in a Bitcoin
+[45:59] standard world but uh do we ever get rid
+[46:01] of that US dollar of that fat world I I
+[46:05] don't think in our lifetime I don't
+[46:06] think you'll see it maybe not even in
+[46:08] our grandchildren's lifetime I think the
+[46:11] US dollar is like it's got his hooks dug
+[46:14] in and it's going to take a very long
+[46:15] time to knock that off its pedestal so I
+[46:19] don't think it's really a a topic that
+[46:21] we should talk about I think maybe you
+[46:24] when your grandchild does a podcast then
+[46:26] maybe they'll be talking about that but
+[46:27] I think for now it we're pretty strong
+[46:30] yeah it's it seems like that it's it's
+[46:33] interesting because when I started the
+[46:34] podcast I was more on the side of uh no
+[46:37] like the fear system will collapse quite
+[46:40] quickly and and Bitcoin will
+[46:42] prevail but the more I learn about
+[46:44] Bitcoin and the deeper and deeper I go
+[46:46] I'm like oh [ __ ] like that that fear
+[46:47] system is quite strong like the network
+[46:50] effect of the fear system it's not
+[46:53] something that goes away tomorrow and
+[46:55] even like even if we uh for a second
+[46:59] think like okay what if the field system
+[47:02] goes away like next year or something
+[47:05] like that that would not be cool like
+[47:07] that would be massive catastrophic event
+[47:12] uh which would be maybe good for
+[47:16] bitcoiners but it would not be really
+[47:18] good for bitcoiners as their family the
+[47:21] LOF ones and even themselves suffer
+[47:23] because the world will will look like uh
+[47:26] [ __ ] for for a long time and we would
+[47:28] need a long time to rebuild it so I'm
+[47:31] way more of a fan of a very very smooth
+[47:33] and slow uh transition of like this is
+[47:37] weird uh this this cool uh comparison of
+[47:39] like if you have a a ship uh that gets a
+[47:44] league you want to let it sink as slowly
+[47:48] as possible so everyone has the time to
+[47:51] go on the other ship that actually
+[47:53] doesn't sink and go on the land or
+[47:55] whatever so like if if we imagine Fe as
+[47:58] like a ship we don't want to I don't
+[48:01] want Bitcoin to get to2 million EUR
+[48:04] tomorrow because then the fear system
+[48:06] would completely be screwed so that's
+[48:10] just like some of my father around te
+[48:13] topics I hope I don't see that anytime
+[48:17] soon yes yes Robin can I ask you a
+[48:20] question I know you're usually the I
+[48:22] know you're usually the one asking
+[48:24] questions but you've had such a great
+[48:26] year like I've got to watch you this
+[48:28] whole year and you've and you've like
+[48:30] Turned uh you know a 200 view podcasts
+[48:33] into this Jugger not of a podcast and
+[48:36] it's really been a blessing to watch you
+[48:38] grow and watch the things that Bitcoin
+[48:40] has brought into your life uh could you
+[48:43] tell me the highlight of your year
+[48:46] oh um yeah it's it's been a crazy ride
+[48:50] uh espe like when when you were on my
+[48:52] podcasts I had like 100 to 200 viewer
+[48:56] was a weekly so uh that compared to now
+[49:02] only on YouTube not comparing any other
+[49:04] platforms I have like 70 to
+[49:06] 80,000 uh monthly uh audience which is
+[49:11] still like massive for me that this is
+[49:14] like such a like I cannot even imagine
+[49:17] such a huge amount of people on on one
+[49:19] spot um and some of the highlights there
+[49:22] are two really big ones for me uh
+[49:25] because this one was a go goal of mine
+[49:27] when I started the podcast because he
+[49:29] was the main person that orange buil me
+[49:31] with with Michael sailor that he was on
+[49:33] my podcast was just like this um stamp
+[49:37] of approval of of Bitcoin podcasting and
+[49:40] then it was like weird that it was so
+[49:42] early and that was like he came on my
+[49:45] podcast and he agreed to be on my
+[49:46] podcast when I had like 3,000
+[49:48] subscribers uh so it was was really
+[49:50] early it was not like he did not wait
+[49:52] until the podcast is huge and makes more
+[49:54] sense for him uh so this also shows like
+[49:58] he and he has a major humbleness on on
+[50:03] that topic also Jeff po was a major step
+[50:06] for me he was kind of the the first
+[50:09] bigger guest that that came on my
+[50:12] podcast like the first like let's say uh
+[50:15] really really big guest that came on my
+[50:17] show and he pushed my podcast from like
+[50:20] 200 subscribers to like a thousand
+[50:22] subscribers um that was huge because I
+[50:25] talked with him after the podcast and he
+[50:27] kind of encouraged me with the saying of
+[50:30] like okay Robin you are spending all
+[50:32] your money in Bitcoin but where is your
+[50:34] time going and then I was like oh my
+[50:36] time is not going to bitcoin my time is
+[50:38] going to it Security on all the other
+[50:41] topics and I'm like I'm not passionate
+[50:43] about it security I'm young I can take
+[50:45] the risk I can I should go into where I
+[50:48] really want to go and this is where I
+[50:51] then went ahead and actually like I
+[50:54] think a month or or like one and a half
+[50:57] months after I spoke with Jeff I
+[50:58] actually quit my job and went full on in
+[51:01] Bitcoin podcasting even though back then
+[51:05] uh it was not sure that I can even pay
+[51:07] my
+[51:08] bills the of the podcast because the
+[51:10] podcast podcast was still quite quite
+[51:13] small yeah but there was one more
+[51:15] highlight I want to mention uh I was on
+[51:17] the main stage at Bitcoin Amsterdam uh
+[51:20] just last week uh and this was an
+[51:24] unbelievable highligh for me because
+[51:27] this is like wow they actually let me on
+[51:30] the main stage in front of like two or
+[51:32] 3,000 people uh online also watching so
+[51:35] many tens of thousands of people and
+[51:37] this is like the a year ago I was
+[51:41] watching like uh the the the big bitco
+[51:44] conferences and all the big speakers
+[51:46] there like a super bowl like a like a
+[51:48] major event for me and all of the S A
+[51:51] year later I'm I'm myself on that stage
+[51:54] so yeah it has been quite a lot for me
+[51:56] that's kind of my my my my personal year
+[52:00] this has nothing to do with Bitcoin and
+[52:02] has all to do with Bitcoin because
+[52:03] Bitcoin enabled this the Bitcoin
+[52:05] Community enabled this but this is just
+[52:07] like my my personal uh year uh for for
+[52:11] that that's amazing isn't that a gift
+[52:13] from Bitcoin like you've been able to do
+[52:15] this just off of you know hard money
+[52:19] this is like proof of work right you are
+[52:23] proof of work and and that is the
+[52:25] backbone of Bitcoin and and I love
+[52:27] explaining to people proof of work
+[52:30] because they don't understand like uh
+[52:32] the mining aspect of Bitcoin and how
+[52:34] what what's proof of work right and I
+[52:37] say to them I'm like you're proof of
+[52:38] work I'm like everything around you is
+[52:40] proof of work right we live in this Fiat
+[52:43] society that that wants proof of stake
+[52:46] if you have money you should get more
+[52:48] money that's a Fiat mindset cancer and I
+[52:52] and it really I it bothers me like these
+[52:55] investors like Warren Buffett that gets
+[52:57] like $3 billion a year in just dividends
+[53:01] just because he was an early investor
+[53:03] and his big pile of money is bigger for
+[53:05] some reason he should just get more
+[53:07] naturally and it's hard for people to
+[53:10] break that mindset and that concept H
+[53:13] because they want that people want the
+[53:16] easy money but we learn in Bitcoin that
+[53:19] if it's easy it's probably a scam right
+[53:22] so you need to work hard in life
+[53:25] everything has to be proof of work I
+[53:27] tell my kids that like I love watching
+[53:29] my kids work hard like lifting wood and
+[53:31] carrying it and sweating and getting
+[53:33] dirty that's life okay the other is
+[53:37] cancer that's Fiat so it's great to see
+[53:40] you putting in the work and the proof
+[53:43] and building this this is amazing when
+[53:45] you asked me to come back on I was like
+[53:46] absolutely I'd love to have a
+[53:48] conversation just to see how your Year's
+[53:51] been uh I see you had Dylan llar on uh
+[53:54] on Friday he just showed up at your head
+[53:56] house was like a knock at the door and
+[53:59] here's like one of the biggest guys in
+[54:00] Twitter also biggest guys in Bitcoin
+[54:03] coming to talk to you like this is I
+[54:05] like when I see these things I show my
+[54:07] son and he's like Dylan the Clair dad
+[54:10] why does Robin want to talk to
+[54:12] you I'm like I don't know I'm not too
+[54:15] sure he talked to Michael sailor he
+[54:18] talked to Jeff Booth Dylan L clerk like
+[54:21] you I would love to see you talk to
+[54:23] Preston piss next he was the one that
+[54:25] orange pill me uh and he's like one of
+[54:28] the most uh loyal and honest bitcoiners
+[54:31] I find and he has the the greatest
+[54:33] Integrity uh so if if anything I would
+[54:36] love to see you get Preston pish I'm
+[54:38] gonna when when we post this I'm GNA tag
+[54:41] him and make sure that you get him yeah
+[54:42] I I definitely want him also I want him
+[54:46] like my show is split I think in three
+[54:51] parts of guests um the the one part is
+[54:54] just like a small part of the podcast
+[54:57] actually like the Highlight people of
+[54:59] like Michael Sailor
+[55:01] dlir Jack M down the road Preston Beach
+[55:04] like they really like the people that
+[55:06] everyone knows in in Bitcoin um this is
+[55:09] like the probably the smallest part of
+[55:11] the podcast because I do seven a week
+[55:13] you cannot feel like so so many in there
+[55:17] uh a big part that I'm really proud uh
+[55:21] of of doing is getting people that have
+[55:23] never ever been on a podcast on my
+[55:26] podcast it's around probably like 10 to
+[55:29] 20% of my whole podcast is people that
+[55:34] have never ever been on any podcast not
+[55:36] Bitcoin podcast but no no podcast at all
+[55:39] yeah and they they just DM me iame them
+[55:43] however we get in contact they're like
+[55:45] hey I have this story I really want like
+[55:46] to to share in the podcast and I'm like
+[55:48] yeah let's try like if it works out we
+[55:51] publish it if not uh then we don't uh
+[55:54] and there has been some some people
+[55:56] uh that I have discovered with that that
+[55:58] were just like amazing there was like a
+[56:00] science teacher he dm'd me and he was
+[56:02] like Hey I have this story I would like
+[56:04] to share and I was like yeah let's try
+[56:06] it and one of the most successful
+[56:08] episodes till now like the top 20
+[56:10] episodes or something like that and he
+[56:13] had not even an social media account
+[56:15] like he was completely uh uh scrapped
+[56:18] from from social media and that's kind
+[56:21] of what I'm really also proud of giving
+[56:24] a stage to uh just PLS that are in the
+[56:28] real world not even working in Bitcoin
+[56:30] just like being a science teacher or
+[56:32] being like an engineer or or some some
+[56:35] small entrepreneur and they just want to
+[56:37] share their Bitcoin perspective because
+[56:39] I think they are like we all heard
+[56:42] Michael sailor and Preston Bish and and
+[56:44] Jack Ms they're great we all heard them
+[56:46] so many times I still want to have them
+[56:48] on because it's fascinating you talk to
+[56:50] them and you can always learn more yeah
+[56:53] uh but for me I'm so excited about just
+[56:55] getting someone on that have never been
+[56:57] on because you cannot even research them
+[56:59] you just go completely blank in a
+[57:01] conversation and that's that's an
+[57:03] amazing uh feeling and the third
+[57:06] category uh is where I try to have
+[57:09] people on that have a connection to
+[57:11] bitcoin but are not full into Bitcoin
+[57:14] for example there's a German company
+[57:16] that now does the micro strategy
+[57:18] playbook in Germany with offering 30
+[57:21] million EUR uh bonds and buying with
+[57:24] that Bitcoin and I just saw that and
+[57:28] dm'd him hey do you want to jump on the
+[57:30] on the podcast he's just a CEO of a a
+[57:33] company uh not a a bitcoiner per se but
+[57:36] he gets Bitcoin and he wants adopt a
+[57:38] Bitcoin strategy in his company and I
+[57:40] was like hey he is cool it's that's
+[57:42] that's like know the third like he's not
+[57:44] a real Bitcoin like he's not entr
+[57:46] trenched in the Bitcoin community and
+[57:48] speaking all the events but he he gets
+[57:51] Bitcoin and he wants to adopt Bitcoin in
+[57:54] his life and he achieved something thing
+[57:56] cre another uh live so that's kind of
+[57:59] the third part of of of my guest sorry
+[58:03] for but no I you know what the thing is
+[58:05] like have you been on any other podcast
+[58:07] Robin yeah actually I've been I have a
+[58:10] list like that's maybe also interesting
+[58:11] for some of my subscribers uh because I
+[58:13] don't repost the podcast I've been on uh
+[58:17] directly on the channel but I have um a
+[58:19] guest appearance YouTube playlist
+[58:22] featured on my YouTube homepage like if
+[58:24] you go to my profile and go directly on
+[58:27] home there's one playlist where I
+[58:31] collect all my guest appearances it's
+[58:33] like 18 or 19 now of them uh sometimes
+[58:38] it's like a show where more guests are
+[58:40] on sometimes it's just me sometimes it's
+[58:42] just a recording of a Twitter space uh
+[58:44] it's it's been really cool uh to also
+[58:47] tell my story yeah um but I didn't share
+[58:50] it directly on the channel uh but I have
+[58:53] been collecting the YouTube playlist and
+[58:55] everyone that is interested in that can
+[58:57] just check that out and oh I'm going to
+[58:58] find I'm going to find it
+[59:01] Rob I'm going to find it I'm going to
+[59:03] watch it yeah I like I like learning
+[59:05] like I'm the same as you I like I want
+[59:07] to learn about these people because you
+[59:10] will stumble across uh like a science
+[59:12] teacher that will just blow your mind
+[59:14] that will change you right it's not like
+[59:17] like you said the Michael Sailors the
+[59:19] big people they have great messages and
+[59:22] and I love listening to them but it's
+[59:23] really the small seedlings that have
+[59:26] these just nuggets of information that
+[59:28] you can really build on like I said I
+[59:30] learned about mechanic last week on on
+[59:32] Preston's podcast and it's just been
+[59:34] like this guy has a way of thinking that
+[59:37] I just is amazing and the and the
+[59:39] responses he has and the way he
+[59:40] communicates is just it's epic right and
+[59:43] and I want more of these people in my
+[59:45] life right that have truth and integrity
+[59:48] and they're trying to do the right
+[59:49] things in life even when nobody's
+[59:51] looking right because that is the
+[59:52] definition of integrity is can you do
+[59:55] the right thing when when nobody's
+[59:56] watching and and those are the type of
+[59:59] people I need in my life because I want
+[60:00] to emulate that and and that is a gift
+[60:03] of Bitcoin it's amazing like to watch
+[60:05] you this whole year and do your thing
+[60:07] it's it's been crazy and I'm glad that
+[60:09] you told me that there's like a I can
+[60:11] learn more about you because you're
+[60:12] always the one asking questions you know
+[60:15] you're the interviewer I want to see you
+[60:16] be the interviewee maybe get a little
+[60:18] uncomfortable ask the hard
+[60:21] questions I I'm actually uh it's
+[60:24] interesting because
+[60:26] I actually I'm way more comfortable
+[60:29] hosting than being the guest um but I
+[60:33] get more comfortable now with being the
+[60:35] guest because I have done it now like
+[60:37] around 20 times uh so it's been better
+[60:41] and better also in in Bitcoin Amsterdam
+[60:43] I've been interviewed I think by three
+[60:45] people uh with camera just like a quick
+[60:48] like five to 10 minutes uh interview uh
+[60:51] on on like the the area there because
+[60:54] hey I saw your channel let's to quick
+[60:56] interview I'm really interested also in
+[60:57] in getting those house and seeing them
+[60:59] uh being released uh because this was
+[61:02] just literally like I just like walk
+[61:04] from one stage to another stage uh and
+[61:06] in between me watching a show or me
+[61:09] watching the stage in Amsterdam guy came
+[61:12] up like hey do you have time for five
+[61:14] minutes and two questions I'm like yeah
+[61:17] okay and just like camera there you go
+[61:19] like Z zero preparation nothing you know
+[61:22] before just like going going with the
+[61:24] flow and yes it's completely
+[61:27] uncomfortable um but I always seek the
+[61:31] the uncomfort because I think in the
+[61:34] uncomfort this is where you grow and for
+[61:36] me starting the podcast was really
+[61:39] uncomfortable like I I I wasn't born
+[61:42] like I was not like oh let's go on
+[61:44] camera I want to be seen I want to like
+[61:46] that was not me 100% that's why I asked
+[61:49] questions that's why I put someone else
+[61:51] in the in in the Highlight because
+[61:53] that's more me I'm more of a listener
+[61:56] less of a of a speaker but I I speak
+[61:58] more more because I'm I'm draining that
+[62:01] a lot yeah yeah and you're doing much
+[62:03] better it's amazing like uh to watch
+[62:06] your first few episodes and see you now
+[62:08] you're you're very you're very
+[62:09] comfortable It comes naturally to you
+[62:11] you're doing so well it's amazing to see
+[62:13] and it like I'd like to ask you like is
+[62:15] it something that takes practice or is
+[62:17] it something that you're still just as
+[62:19] uncomfortable but you just do it anyways
+[62:22] or do you find that your nerves have
+[62:24] come down over time oh yeah my nerves
+[62:26] have come down completely
+[62:28] like um now it's uh my first few
+[62:32] episodes were like I prepared like two
+[62:36] hours one and a half hour three hours
+[62:38] and really tried to research and like oh
+[62:40] what question can I ask now I research
+[62:45] maybe 20 to 30 minutes and sometimes
+[62:48] even like just 10 minutes and I even did
+[62:50] some podcast episodes uh where I did not
+[62:53] research at all um because I there was
+[62:56] nothing to research as with the people
+[62:58] that haven't been online um or because I
+[63:02] just overlooked the time I was like oh
+[63:03] [ __ ] like now I have to podcast now I
+[63:05] have to go online um this happened also
+[63:07] in so many episodes and I saw that I'm
+[63:12] really good in uh just improvising
+[63:15] questions and just going with the flow
+[63:17] because I have done it so many times I
+[63:19] couldn't have done it in the First
+[63:20] episodes but now as I've done 280
+[63:23] episodes now I can actually do that so
+[63:26] you get really good um and also
+[63:29] interesting I don't know if you have
+[63:31] that but in your mind if you have in
+[63:33] your mind something going on like you
+[63:35] imagine yourself on a on a stage or
+[63:37] something like that I always imagine
+[63:39] myself speaking really good uh then you
+[63:42] go on stage and you're like oh [ __ ] I
+[63:44] don't speak as good as I'm speaking in
+[63:46] my dreams yeah and and and I found
+[63:50] myself uh closing that gap between uh
+[63:55] how I met imag being speaking on on on a
+[63:58] podcast and and speaking on a stage uh
+[64:00] versus how I actually do because I think
+[64:04] the the true that your true self your
+[64:07] integrity uh your honesty comes out more
+[64:10] like you need to be comfortable to be
+[64:12] honest with yourself to be an in integer
+[64:14] person because if you're like stressed
+[64:16] you're not really
+[64:17] yourself and that come that goes
+[64:20] completely over time uh and yeah now I
+[64:24] can just like have like a major person
+[64:27] like Dyan Clair in my apartment and I'm
+[64:29] not stressing up awesome so so I'm still
+[64:33] nervous but I'm not stressing out so
+[64:34] like that's definitely something with
+[64:36] with with with practice that goes away
+[64:39] uh yeah really really cool there yeah
+[64:41] it's been a real pleasure Robin watching
+[64:42] you this year like uh I love putting on
+[64:45] your podcast and just listening to your
+[64:46] guys conversations whoever you may be
+[64:48] interviewing and I thank you for
+[64:49] allowing me to be on like like I say
+[64:51] you've interviewed the biggest and now
+[64:53] you've interviewed the worst
+[64:58] you were at the top now you're down at
+[64:59] the bottom all right scraping the bottom
+[65:02] of the
+[65:03] barrel Tommy Boy
+[65:06] Ah that's
+[65:08] good no I actually like it's an
+[65:11] interesting question of like who can I
+[65:14] in uh invite like for second podcast and
+[65:16] third podcast uh I just enjoyed our
+[65:19] conversation so much and I was like yeah
+[65:20] let's let's invite him back on and I
+[65:22] also look at some metrics of like how
+[65:24] long did the viewers watch did they like
+[65:26] all opt out at like 5 minutes or like
+[65:29] did they watch like on average 12 or 13
+[65:31] or 15 minutes which is a good average
+[65:33] food aration uh and I just saw like
+[65:35] first of all I enjoyed it a lot with you
+[65:37] but I saw that uh your podcast was one
+[65:41] of the first that uh people really
+[65:43] watched for a long time wow so that gave
+[65:46] me Al an indicator that people actually
+[65:49] like to listen to you uh because the
+[65:52] average F duration was is up
+[65:54] significantly to to some of the other
+[65:56] early ones and most of this has has also
+[66:00] to do like my interview style has going
+[66:02] better so people now watch in general a
+[66:04] little bit longer uh but you were like
+[66:06] the early ones that was has a really
+[66:08] good average fation has has all to do
+[66:10] with you uh so that's like I I really
+[66:13] wanted to to have you back on because I
+[66:17] loved our conversation and the audience
+[66:19] uh lik it too obviously so that was a
+[66:22] great great match that's cool I think I
+[66:24] think when you're passion about
+[66:25] something it just comes out of you and
+[66:28] then that attracts people and I find
+[66:31] with me or you me and you were very
+[66:33] passionate about Bitcoin like I'm not
+[66:35] just buying you know my DCA weekly and
+[66:39] just you know going and doing the rest
+[66:41] of my Fiat life like I literally when
+[66:43] I'm not taking care of my kids and being
+[66:46] my family I'm digesting as much
+[66:48] information as I can about Bitcoin
+[66:51] because I realize what it actually is
+[66:53] it's you know it's decentralized it's
+[66:56] immutable it's permissionless money and
+[66:58] the the the the things that it offers
+[67:01] people far away any other Financial
+[67:04] instrument in this world like it gives
+[67:06] you the ability to say if you were um
+[67:10] say you're in Palestine or or um Israel
+[67:14] right now or whatnot and you're in a war
+[67:15] torn country and you're a wealthy person
+[67:18] like Bitcoin for the first time you can
+[67:20] travel over borders with a 12-word seed
+[67:23] phrase in your head like that's amazing
+[67:25] to me is like you could be have a
+[67:28] million dollars in Bitcoin and the
+[67:30] regime changes in your town or your
+[67:32] village and you have to flee and alls
+[67:34] you need is 12 words and you can go and
+[67:37] and and recoup your wealth and that's
+[67:40] what I urge people to do uh if anything
+[67:43] is you should try and recover uh a
+[67:45] wallet from the seed phrase it it's a
+[67:48] really powerful thing I did it with a
+[67:51] person I'm trying to teach about Bitcoin
+[67:54] uh recently like I said my niece
+[67:55] boyfriend well I donated I gave my niece
+[67:58] Bitcoin for Christmas and it sat there
+[68:01] uh and I actually I gave her $60 in
+[68:03] Bitcoin December 2023 it's actually
+[68:06] worth $85 right now so I urge anybody to
+[68:10] look at what you got your family for
+[68:11] Christmas and you see if it's still as
+[68:14] valuable as when you bought it or if
+[68:16] it's less right that's what I like about
+[68:18] Bitcoin is I gift it to you and it
+[68:20] increases in value over time so it's an
+[68:23] amazing thing her Bitcoin had
+[68:25] appreciated and value well her boyfriend
+[68:28] was getting into Bitcoin and I said
+[68:29] Jackson why don't you try and recover
+[68:33] Hannah's Bitcoin via her seed phrase and
+[68:35] he didn't know how to do it and so I
+[68:37] took him through the steps of going into
+[68:39] blue wallet importing a wallet typing
+[68:41] the seed phrase in and then boom the
+[68:44] bitcoin's on his phone it's not on his
+[68:46] phone but he has access to the Bitcoin
+[68:49] he's like wow I I could see his first
+[68:52] text back to me was wow and like that is
+[68:54] an eye opening moment for people when
+[68:56] they can use the seed phrase to recover
+[68:59] funds so that in closing if if anything
+[69:01] I'd urge people to run a node recover
+[69:04] your seed phrase uh once and and find an
+[69:07] old minor an S9 minor on Marketplace and
+[69:10] although you're not going to make money
+[69:11] at it you're going to learn what it's
+[69:13] like to contribute hash rate to the
+[69:15] network it's it's a really empowering
+[69:18] thing I I love that a lot really really
+[69:21] cool uh and I think that's a a great way
+[69:24] to also to end the podcast I have two
+[69:26] more questions the one question is now
+[69:28] uh I did that after um I think around
+[69:31] episode 50 or something like that I
+[69:33] introduced that uh new method of ending
+[69:35] the podcast where I asked one question
+[69:38] is always the same question uh what can
+[69:40] we learn from you besides Bitcoin
+[69:44] uh actually um I did I had posted in the
+[69:48] past I am like a mechanic so I'm a mill
+[69:51] right so I do fix things I have posted
+[69:54] uh on my Twitter about taking apart my
+[69:56] dryer uh you know the the dryer broke
+[69:58] down in my house and instead of calling
+[70:01] a repair man uh I fixed it myself and I
+[70:04] posted all the progress on Twitter uh I
+[70:08] changed the lights on my house yesterday
+[70:11] and uh I I'm going to post that and show
+[70:14] people how to you know try and save
+[70:16] money because I try and do all my
+[70:17] repairs around the house myself um I'd
+[70:22] like people to learn about God through
+[70:24] me I would love someone someone to DM me
+[70:26] and say you know what like after hearing
+[70:28] you on the podcast I took a look at the
+[70:29] Bible and I took a look at the Jesus's
+[70:32] life and I started learning about it and
+[70:34] that to me would be it would almost
+[70:37] probably make me cry if you want to make
+[70:39] Tommy Boy cry you DM me and say that you
+[70:42] know what Jesus is has come into my life
+[70:44] and and that's because of you and maybe
+[70:47] that's that's how I want to close that
+[70:49] question I love that a lot yeah really
+[70:51] really cool then our tin that I have I
+[70:53] think since the first podcast actually
+[70:55] um the where the previous guest is
+[70:57] asking a question for the next guest
+[70:58] without knowing who the next guest
+[70:59] actually is um how will Bitcoin affect
+[71:03] romantic relationships in the future I
+[71:06] thought that that question was
+[71:08] interesting
+[71:09] wow um do you know what really that is
+[71:12] actually a good question uh it's not one
+[71:15] you would expect so it really forces you
+[71:16] to think on the fly but um I think it
+[71:21] will affect um it will affect
+[71:24] relationships some in a positive way and
+[71:26] some in a negative way right there's not
+[71:28] going to be one box that you can put
+[71:29] this question in I I think it's very
+[71:32] important that if you are in a
+[71:33] relationship that you should both have
+[71:35] the same ideas uh and be on the same
+[71:37] page with Bitcoin my wife she
+[71:40] understands Bitcoin not maybe at the
+[71:42] level I do but she understands what it's
+[71:45] trying to solve for uh you know
+[71:47] corruption uh
+[71:49] inflation uh censorship government
+[71:52] overreach like those things me and my
+[71:55] wife are on the same page about and and
+[71:58] that is just an an umbrella over top of
+[72:01] it is Bitcoin so if you and your partner
+[72:04] aren't on the same page as with Bitcoin
+[72:06] if one thinks it's a scam and the other
+[72:08] thinks it's the greatest thing since
+[72:09] sliced bread it is going to cause some
+[72:12] tension in the relationship so I think
+[72:14] you should both be on the same page it
+[72:17] will affect relationships I think just
+[72:18] like politics right like you could have
+[72:21] a trump supporter and a Harris supporter
+[72:24] and these people are fighting I know
+[72:26] people at work that that lost um spouses
+[72:29] over the covid vaccine one the husband
+[72:32] didn't want to get it and the wife did
+[72:34] and and it literally tore marriages
+[72:36] apart I'm like it breaks my freaking
+[72:39] heart you know and I know people that it
+[72:40] did this too and uh I think Bitcoin is
+[72:44] going to fall in the same class as that
+[72:46] yeah that that that's true it can really
+[72:50] uh like if you're really a hardcore
+[72:52] bitcoiner and she really thinks it's a
+[72:54] scam then then I think it can really
+[72:56] negatively impact that as other big and
+[72:59] huge topics I'm very grateful that my
+[73:01] girlfriend supports that yes yes I know
+[73:04] me too Robin we don't know how grateful
+[73:06] yeah we don't know how blessed we are
+[73:07] that our our partners uh will listen to
+[73:10] us cuz I know we just talk about Bitcoin
+[73:12] non-stop the poor
+[73:15] things tell tell your girlfriend I'm
+[73:17] sorry tell your girlfriend I'm sorry for
+[73:19] me okay poor
+[73:22] thing they're just like okay yes yes
+[73:25] Bitcoin Bitcoin I get it honey really
+[73:27] awesome perfect then thank you so much
+[73:29] for being on uh before I let you go
+[73:31] where can people find you ask your
+[73:32] questions and DM you uh when when they
+[73:35] found uh the the way to God that's it I
+[73:38] love it Robin uh I am at cooligan fields
+[73:42] on Twitter or you can search for Tommy
+[73:45] Boy 21m I do have the blue check mark so
+[73:48] make sure I have the check mark there
+[73:50] has been some scam accounts popping up
+[73:51] lately I guess people want to be me uh
+[73:56] what is it what do they say that um
+[73:58] imitation is the sincerest form of
+[74:00] flattery so I'm flattered that people
+[74:02] want to act like me but just make sure
+[74:03] you got the blue check mark I will never
+[74:06] DM you about financial advice I will
+[74:08] never ask you how the market is treating
+[74:11] you so I'm mostly mainly on Twitter if
+[74:14] you want to find me I'm on Twitter and I
+[74:15] put the real link to your real profile
+[74:19] on to Twitter in the description so
+[74:21] people can can easily find you there and
+[74:24] just slick on the link and than they are
+[74:25] at your profile uh really cool thank you
+[74:27] so much for taking the time uh Tommy
+[74:30] also thank you so much for everyone that
+[74:32] is watching and listening to this for
+[74:34] joining us today I'll be back as always
+[74:36] tomorrow with another episode byebye
+[74:38] nice
+[74:40] [Music]

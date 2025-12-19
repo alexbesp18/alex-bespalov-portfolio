@@ -1,0 +1,2524 @@
+Title: BITCOIN ADOPTION, SELF-CUSTODY, ECASH & FIGHTING STATE CONTROL | Evan Kaloudis
+Video ID: n0mjA3OQ2ac
+URL: https://www.youtube.com/watch?v=n0mjA3OQ2ac
+Date Saved: 2025-06-28 20:46:32
+Channel: WalkerAmerica
+--------------------------------------------------
+
+[00:00] I think if we just if Bitcoin stays
+[00:02] where it's at with the small community
+[00:03] it has and it's just used as it is now
+[00:08] store value ETFs shiny rock under the
+[00:11] bed gold 2.0 I don't know like I'll
+[00:12] consider it a colossal failure. So we
+[00:14] need to build out these circular
+[00:16] economies and make sure Bitcoin gets
+[00:17] used for commerce everywhere really.
+[00:19] Bitcoin needs everyone. Bitcoin needs
+[00:22] you and it success is not inevitable and
+[00:25] the more that individuals act we act
+[00:28] collectively in pushing this technology
+[00:31] then the higher chance it is to succeed
+[00:33] and the harder it is for the state to
+[00:34] snuff it out. We still have a long way
+[00:36] to go. A lot of our friends are still
+[00:38] being prosecuted. The tornado cash guys
+[00:40] are still in court. The samurai wallet
+[00:43] devs are still in court. Not all states
+[00:46] or countries have the same asurances
+[00:47] about self custody or mining or these L2
+[00:52] services that we're running. And you
+[00:54] know, like I said, like these things
+[00:56] could change at the drop of a hat. Maybe
+[00:58] even this administration changes their
+[00:59] tune. If you look at the geopolitical
+[01:01] climate, a lot of that stuff could be
+[01:03] used as an excuse to crack down on us.
+[01:07] So, you know, my message to all the
+[01:09] builders out there, to the people
+[01:10] pushing the software, is like when we're
+[01:12] given an inch, let's take a mile. Let's
+[01:14] keep pressing forward while we have the
+[01:16] runway. Let's use it. I personally think
+[01:19] that we're going to win a lot of battles
+[01:21] over the next 4 years duration of this
+[01:23] admin, right? We're going to still lose
+[01:26] some, but we certainly have more runway
+[01:28] and leeway than we previously did. So,
+[01:31] let's build. Let's build. Let's build.
+[01:33] Let's ship. Let's keep pushing stuff in
+[01:34] the right direction.
+[01:43] Greetings and salutations, my fellow
+[01:45] plebs. My name is Walker and this is the
+[01:47] Bitcoin podcast. Bitcoin continues to
+[01:50] create new blocks every 10 minutes and
+[01:53] the value of one Bitcoin is still one
+[01:55] bitcoin. If you are listening to this
+[01:58] right now, remember you are still early.
+[02:02] Find me on Noster at primal.net/walker
+[02:04] ET/walker and this podcast at
+[02:06] primal.net/titcoin
+[02:09] on XY YouTube and Rumble. Just searchame
+[02:13] and find this podcast on X and Instagram
+[02:16] at titcoinodcast.
+[02:18] Head to the show notes for sponsor
+[02:20] links. Head to substack.com/walkeramea
+[02:23] to get episodes emailed to you and head
+[02:26] to bitcoinodcast.net
+[02:28] for everything else. Without further
+[02:30] ado, let's get into this Bitcoin talk.
+[02:40] I don't think I've ever made it through
+[02:42] an entire Lex Freedman podcast.
+ I I
+[02:45] don't I don't get the appeal either.
+[02:46] Like I'm I'm really not a huge fan,
+[02:50] you know? It's like respect to him for
+[02:52] what he's built. Like that's super cool.
+[02:54] It's just like that style of like, "All
+[02:57] right, let me ask you about your mother
+[03:01] and how that relates to geopolitics."
+[03:03] It's just like I'm I don't know, man.
+[03:05] Like, and this is this is coming from
+[03:07] somebody who like occasionally is like
+[03:09] told they have like a weird voice. It's
+[03:11] like something about the voice, the vibe
+[03:13] is like it just you can't listen to it
+[03:15] for that long.
+ Yeah. I don't know what
+[03:17] it is. I mean, you know, it's not like
+[03:19] that we don't have like equally boring
+[03:21] podcasts in Bitcoin, right? Oh, you got
+[03:24] I got it on uh Bitcoin Review with Rulo.
+[03:27] You know, it really goes into the weed.
+[03:29] So technical, but
+ like that's really the
+[03:31] the show you put on uh as you're trying
+[03:33] to get you know, your 40 hours per week.
+[03:35] You know, you got to be listening at all
+[03:36] times. You put that on just in time for
+[03:38] bedtime, you know?
+ Dude, every everybody
+[03:41] always says that that show is like uh
+[03:43] you know, whatever like you know, very
+[03:45] boring like we'll put you to bed. I
+[03:47] don't know. I like maybe it's just
+[03:48] because like even though I'm not super
+[03:50] technical, I I am somewhat of a nerd.
+[03:52] Like I always enjoy that show. Like I I
+[03:54] have I have I I would have difficulty
+[03:56] falling asleep to it. I like NVK too.
+[03:59] Like I feel like he always he brings a
+[04:01] great energy to it.
+ Yeah. Yeah. It's
+[04:03] like tongue and cheek, self-aware
+[04:04] enough, you know, like and he's got like
+[04:06] a good read on things, but also, you
+[04:09] know, willing to say like, "Oh, I don't
+[04:10] know XYZ. Anyone know more about this?"
+[04:13] You know, so
+ Yeah. Yeah. Exactly.
+ So,
+[04:16] yeah. Exactly. Doing that again soon at
+[04:19] some point.
+[04:21] Um,
+[04:23] but yeah, man, I'm just excited.
+[04:25] Wherever you want to take the
+[04:26] conversation,
+[04:28] uh, basically willing to take it. We can
+[04:31] talk about Cashew and Zeus. We can talk
+[04:34] about some of the new stuff we're doing
+[04:36] with Zeus Pay. We're starting to do, you
+[04:38] know, digital checkout for goods and
+[04:40] expanding our point of sale. Talk about,
+[04:43] you know, what we're doing to onboard a
+[04:45] lot of merchants. We got a lot of a lot
+[04:48] of companies queued up right now that
+[04:50] we're going to be on boarding very soon.
+[04:52] So hoping to get a
+[04:55] you know uh just
+[04:59] little bit of momentum
+ series of
+[05:01] announcements going but nothing I could
+[05:03] say yet unfortunately.
+ Oh you're going
+[05:05] to tease me like that. I mean, Evan, uh,
+[05:08] you you guys have had quite a uh, like I
+[05:11] feel like Zeus has been on quite an
+[05:13] interesting journey cuz I was I was
+[05:15] thinking about this cuz like I I've had
+[05:16] Zeus downloaded for a while and I I was
+[05:18] going back and am I remembering
+[05:20] correctly? You guys were initially just
+[05:22] a way to connect to your node remotely,
+[05:26] right? Like that was the original like
+[05:28] Yeah, that was that's still most of our
+[05:29] lifetime. So
+ yeah,
+ let's say we started
+[05:33] back in like 2019, the fall. I think
+[05:36] we're coming up on like six and a half
+[05:37] years now.
+ Damn.
+ And we started just
+[05:40] like a remote controller. So it started
+[05:42] okay, you know, L & D was the powerhouse
+[05:45] implementation, right? Still still is,
+[05:47] but you know, some of the other ones are
+[05:49] catching up. It's getting interesting.
+[05:50] So we start with L &D.
+[05:52] We added core lightning. Then we added
+[05:56] like L & D hub. Then we added all these
+[05:58] other like alternate connection types.
+[06:00] So now you could do like Nostra wallet
+[06:02] connect.
+[06:04] Um and then of course the last uh two
+[06:09] years we we put the wallet in the phone,
+[06:12] the note in the phone we call it, right?
+[06:14] And uh
+ it's great for memes also.
+ Yeah.
+[06:17] That that we just really went crazy with
+[06:19] that meme cycle. uh with, you know, just
+[06:22] shooting the [ __ ] with Matt on Citadel
+[06:24] Dispatch. Um, you know, have have a
+[06:28] really long history with that show and
+[06:31] uh yeah, just people just clung on to it
+[06:34] and had a lot of great meme ability. Um,
+[06:38] but yeah, still like you know, we still
+[06:40] have a long ways to go. the
+[06:43] note in the phone was like a great way
+[06:45] to lower the barrier to entry into this
+[06:47] whole thing. But, you know, it doesn't
+[06:49] really stop there. Like with Cashew, we
+[06:51] made it even easier. Really addresses,
+[06:54] you know, that economic barrier you
+[06:56] have. So,
+[06:59] you know, self-custody in itself has
+[07:04] really high cost, you know, in terms of
+[07:06] the transaction fees, in terms of
+[07:07] responsibility.
+[07:09] uh for someone who wants to just start
+[07:10] accepting payments especially in you
+[07:13] know the little economies we're building
+[07:16] up with stuff like noster and you get
+[07:18] one sat zaps um you know that's not
+[07:21] really conducive to being like okay I
+[07:23] got to put you know 6,000 7,000 8,000
+[07:26] sats for a whitening channel and I don't
+[07:28] want to do that like how are you going
+[07:29] to convince someone to take this plunge
+[07:31] into bitcoin and set up a self-custodial
+[07:34] channel when it has this cost unless you
+[07:36] know whoever's onboarding them is
+[07:38] willing to bear
+[07:39] So now with Cashew, of course you have
+[07:42] trade-offs. It's custodial. You don't
+[07:44] have access to the, you know, the
+[07:46] underlying asset, but you get to, you
+[07:50] know, skip this cost. You get a
+[07:52] lightning address that you could take
+[07:53] with you as you upgrade down the road.
+[07:56] You can take that lightning address, put
+[07:58] it into Noster, start getting your first
+[08:01] zapped, have your first aha moment with
+[08:03] Lightning, and be like, "Oh, this
+[08:05] permissionless.
+[08:07] uh I could do these instant transfers
+[08:08] there. It's very cheap. I can get paid
+[08:11] for my content. Um I think that's super
+[08:14] powerful. And then we as the wallet, we
+[08:18] can sort of give the user guidance. You
+[08:21] know, it it's one thing to like wrap
+[08:25] your head around starting to use a new
+[08:26] currency. don't really necessarily need
+[08:29] to be inundated with like, okay, uh,
+[08:32] receiving capacity, uh, sending
+[08:34] capacity, how what the hell is a
+[08:35] channel? It's sort of nice that you
+[08:37] could push that back now and say, okay,
+[08:40] get started, do it this way, maybe you
+[08:42] should, uh, copy your your seed down,
+[08:45] right? But other than that,
+ it's pretty
+[08:48] seamless, easy. You don't have to worry
+[08:49] about that stuff. But then, you know, as
+[08:51] you're carrying a larger balance, as it
+[08:54] makes sense for you to do so like
+[08:57] economically, when like economic
+[08:59] self-custody is feasible, which is like
+[09:02] a whole other can of worms. We'd get
+[09:03] into that if you ever want with the new
+[09:05] L2s coming up. Um,
+ but yeah, when it's
+[09:08] time like we'll give you that
+[09:10] educational material like, oh, this is
+[09:12] what self custody is. This is what you
+[09:14] have right now. we have now cashew has
+[09:18] really great privacy properties, but
+[09:21] it's still sort of like a bank account.
+[09:22] You don't really have control of your
+[09:24] funds. But if you press this button, you
+[09:27] can hop over and for a fee, get a
+[09:30] channel,
+[09:32] uh go to self-custody, become sovereign,
+[09:34] and really control your, you know,
+[09:37] financial destiny. you have full control
+[09:39] of your money in a way that most people
+[09:43] really have never had before, in a way
+[09:46] that's, you know, even greater than
+[09:47] holding calf. So, um,
+[09:51] yeah, it's interesting. It's it's it's
+[09:52] been really wellreceived the last couple
+[09:54] weeks, like
+[09:56] what is it, three weeks since we
+[09:58] launched onto the app stores and then we
+[10:00] did like about, you know, two months
+[10:01] before that of beta. And, you know,
+[10:05] people are just loving it. Um,
+[10:08] and you know, you sort it's not sort of
+[10:10] just like one or the other. Like you can
+[10:13] upgrade to self custody and still reap
+[10:15] the benefits of Cashew and have like a
+[10:19] super easy to use Lightning address. You
+[10:22] can then have the wallet automatically
+[10:25] sweep your cashew balance to self-
+[10:27] custody when it makes sense at whatever
+[10:29] threshold you want to incur the fees at,
+[10:32] which is huge. like having that auto
+[10:34] sweep capability, I think.
+ Yeah,
+[10:37] absolutely. And uh you know, it it's
+[10:40] it's not that I can't spin up a node and
+[10:42] just have that on all the time, but I
+[10:45] just I just like the convenience of of
+[10:47] having it like that, too. Like I'm using
+[10:48] the Cashew auto sweep functionality
+[10:51] myself on my Zaps right now. And um
+[10:55] yeah, it's it's it's just fantastic. I
+[10:57] think it's like a very happy medium. And
+[11:02] you know, it's it's like I think we're
+[11:04] this is also really uniquely positioned
+[11:05] here. Like how many other wallets are
+[11:08] really going to tell you, oh, time to
+[11:10] get into self custody, you know, like
+[11:12] it's only when you get into those jams
+[11:15] on these other platforms where um they
+[11:18] restrict access to your region, your
+[11:20] account gets flagged.
+[11:22] uh you know basically when you get
+[11:24] rugged that
+[11:26] you know you've learned the importance
+[11:28] of holding your own keys and and having
+[11:30] control of the asset of being
+[11:32] self-custodial in Bitcoin and you know
+[11:35] Zeus is uniquely positioned because we
+[11:37] have this um you know incentive to move
+[11:41] you on to self-custody right
+[11:44] um you know we're not running any of the
+[11:46] mints we're just letting third parties
+[11:48] run that the user selects their own
+[11:49] mints um but we have the lightning
+[11:52] service provider and we connect people
+[11:53] with those self-custodial lightning
+[11:55] channels. So, we sort of have this
+[11:57] incentive to educate the users, prod
+[11:59] them. Um, you know, maybe there are
+[12:03] cases in which like there's regulatory
+[12:05] concerns that some of these wallets
+[12:07] might have be like, oh, we're going we
+[12:08] want to wind down the custodial part.
+[12:11] Um, we'll push you out the door. But
+[12:13] like financially, most of these other
+[12:16] services are collecting
+[12:19] fees like for each transaction that goes
+[12:22] through their node. They probably want
+[12:24] to keep you in there as long as
+[12:25] possible. Zeus has the complete opposite
+[12:28] outlook. Our incentives are, you know,
+[12:29] push custody. uh have you pay for the
+[12:32] channels on the LSP or even if you don't
+[12:34] go that route, you still have the
+[12:36] freedom to,
+[12:38] you know, open up your own channels and
+[12:40] go self-custodial in however form you
+[12:43] want if you want to be hands-on and get
+[12:45] all that crazy granular control we give
+[12:47] you. Or, you know, you could even just
+[12:50] swap out. Like, you don't have to be
+[12:52] using self-custodial lightning
+[12:53] necessarily, even though it's my
+[12:55] preferred way to go. You might just want
+[12:56] to be someone who's like, "Okay, I'm
+[12:58] going to build up this cashew balance.
+[13:00] I'm willing to incur a little more risk.
+[13:02] I'll go up to 100,000 sats and then
+[13:05] I'll just swap out and I'll go onchain
+[13:07] on my hardware wallet or whatever. And
+[13:10] that's an option too. And you know
+[13:13] really the thing with Seuss that you
+[13:18] know we're rooted in self-custody like
+[13:21] that's how we started the app. you know,
+[13:22] being that cipher punk, connect to your
+[13:25] node remotely,
+[13:27] but we also realize that people are
+[13:29] going to use Bitcoin a whole lot of
+[13:31] different ways.
+[13:33] And if we're going to get angry or like
+[13:35] moralized or look down upon people, like
+[13:38] that's not the right way to go. I think
+[13:40] it's better to sort of meet people where
+[13:42] they're at and then give them the
+[13:45] resources,
+[13:46] the education so they can make their
+[13:49] informed decisions. And then you sort of
+[13:51] have this crazy user experience where
+[13:53] like you just can be the place where you
+[13:57] start your Bitcoin journey not knowing
+[13:58] anything and then you you level up as
+[14:01] you go. You can go to the node in the
+[14:03] phone. You could become a remote node
+[14:05] runner.
+[14:07] It's sort of like an all-in-one
+[14:08] experience now and we're sort of like
+[14:10] your Bitcoin Sherpa guiding you as you
+[14:14] go along and I think that's super
+[14:16] unique. I I like the sherpa analogy
+[14:19] there and I I think it's really
+[14:21] important what you said about meeting
+[14:22] people where they are. It's like you you
+[14:24] need to meet people where they are, not
+[14:26] where you want them to be, not where you
+[14:27] ideally believe they should be, not
+[14:30] where like you think that they must be
+[14:31] or they're completely lars because most
+[14:34] people like don't actually care about
+[14:36] that and that doesn't actually help
+[14:37] adoption. Like, but if you can meet them
+[14:39] where they are right now, addressing the
+[14:42] needs that they have at the moment, then
+[14:44] they're going to actually use your
+[14:45] product and then they like like all of
+[14:47] us did like maybe there are some people
+[14:50] who heard about Bitcoin and immediately
+[14:52] went all the way down that rabbit hole
+[14:54] wherever it ends. I was not one of them.
+[14:56] I for I think for most people it's a
+[14:59] journey, right? It's a journey down that
+[15:01] rabbit hole. It's a journey of going
+[15:02] deeper and deeper, understanding more,
+[15:04] being comfortable with more. Like I
+[15:06] remember setting up my first uh first
+[15:08] time I set up a a node and and a
+[15:10] lightning node. I did the whole Raspi
+[15:12] blitz thing. Um had no idea what I was
+[15:14] doing, you know, was going around on
+[15:16] various forums figuring stuff out like,
+[15:18] you know, but got like got it to work
+[15:20] and like that was really fun and it
+[15:22] taught me a lot about it.
+ Most people
+[15:24] aren't going to most people aren't going
+[15:26] to do that though.
+ Yeah, of course. A
+[15:27] lot of people still may have a desire to
+[15:29] have something in the middle that still
+[15:31] gives them some of the same benefits of
+[15:33] of having something that they're running
+[15:34] themselves, but without a lot of those
+[15:37] setup hurdles, let's say. And actually,
+[15:39] I want to uh I I want to kind of dive in
+[15:41] a little bit to the uh the eCash part of
+[15:44] this cuz correct me if I'm wrong, you
+[15:46] were not always the biggest ecash fan,
+[15:49] correct?
+ Yes, I'm still not. Well, yes
+[15:51] and no. Right.
+ So, talk to me about
+[15:53] that. What what what changed your mind
+[15:55] where you brought this into to Zeus?
+[15:58] Well, I I think it's multiple things,
+[16:00] right? Like you know, I've had such a
+[16:02] funny history with it and
+[16:05] you know, um I I've always like worn my
+[16:09] heart on my sleeve, but you know, I'll
+[16:11] also be the first to admit that, you
+[16:13] know, my opinions have changed over the
+[16:16] years. I don't think it's so crazy to
+[16:19] get new info and
+[16:22] evolve and grow, right? But yeah, I'll
+[16:24] be the first to admit like I'm I'm the
+[16:26] told Kie to his face, so I think he
+[16:29] cashes [ __ ] you know, and had like
+[16:32] uh giant tirades against it. Um but at
+[16:36] the same time, I I I can still see the
+[16:38] immense value in it. Um,
+[16:42] I I think it's in the online age like
+[16:45] it's very easy to try to put things in a
+[16:48] box and paint things as black or or
+[16:50] white, but you know, reality is not like
+[16:52] that at all. There's so much nuance and
+[16:55] layers to it. Um,
+[16:58] obviously
+[17:00] if
+[17:02] the whole world is just using cashew
+[17:05] mints, that wouldn't be the ideal world,
+[17:08] right? Ideally, we'd get to a point
+[17:09] where people can use Bitcoin
+[17:10] self-custodially and hold their own keys
+[17:12] and they can't get rubbed, right? Um, at
+[17:15] the same time,
+[17:18] if the whole world was using Bitcoin
+[17:20] ecash, that's would still be pretty
+[17:23] sweet compared to where we are now. be a
+[17:25] much better alternative to the fiat bank
+[17:27] system as it exists today and would be
+[17:30] way way way better than the dystopian
+[17:34] um potential futures we have with these
+[17:36] CBDs or CBDC. Sorry.
+[17:41] Yeah. Um yeah, CBD is not too dystopian.
+[17:44] No, I I just to to jump in there for
+[17:47] anybody who is like perhaps uh still
+[17:49] confused about uh about Cashew and maybe
+[17:51] we can go into some of the high level,
+[17:53] but like there's a bunch of other things
+[17:54] I want to get into with you here today.
+[17:56] I did do a full like 90 plus minute deep
+[18:00] dive with Cali on eCash. So, if you guys
+[18:02] for anyone that is like still confused
+[18:04] about that and like wants to go back and
+[18:06] kind of dig into that really deeply and
+[18:08] figure out exactly what's going on
+[18:09] there, check it out. Also, you what
+[18:11] you'll hear that Calli himself says is
+[18:13] look, this is like you can get rugged
+[18:16] that this is not rug free. This is not a
+[18:18] risk-free thing.
+ Right. Right.
+ But
+[18:20] again, it's like it's serving a purpose.
+[18:22] It's it's not supposed to be layer 1
+[18:24] Bitcoin or to compete with layer 1
+[18:26] Bitcoin, but it's building a really
+[18:27] great tool that leverages Bitcoin as
+[18:31] money, but doesn't have all of the
+[18:34] benefits of layer 1 Bitcoin because of
+[18:36] course there's trade-offs as you go down
+[18:38] in layers, right? absolutely everywhere.
+[18:40] There's no perfect solutions in
+[18:42] engineering at all. You know, you just
+[18:44] have trade-offs and you sort of just got
+[18:46] to figure out what tool best suits the
+[18:49] job. And instead of moralizing about
+[18:53] saying, "Oh, everyone should be using a
+[18:54] hammer." Um, you know, you should figure
+[18:57] out what everyone's trying to do and
+[18:59] where they're at. And we could say,
+[19:00] "Hey, the hammer's really great. You
+[19:02] might want to use this for um for
+[19:05] hitting nails, putting some wood
+[19:06] together."
+[19:08] Um, you got to understand that, you
+[19:09] know, maybe people aren't ready for it
+[19:11] right away. Um, not to just like give up
+[19:16] and say, "Oh,
+[19:18] this person's never going to use a
+[19:19] hammer." Like, just not now, you know?
+[19:20] Just slow your time horizon and give
+[19:24] people time to to justade and give them
+[19:27] resources and give them encouragement
+[19:29] and and try to explain why these tools
+[19:32] are important and why they should
+[19:34] consider going down this path. Um, and I
+[19:37] think, you know, it's just
+[19:39] so much easier to go online and say,
+[19:40] "Hey, you're an idiot. You're not using
+[19:43] Bitcoin like me. You're not holding your
+[19:44] own keys. You're uh not self-custodying
+[19:47] yet." Um, yeah, probably some of those
+[19:50] labels are okay to throw at someone when
+[19:53] they're putting, you know, serious
+[19:55] amounts of their wealth relative uh to
+[19:58] their net worth into these systems. Um,
+[20:02] but, you know, people are going to do
+[20:04] stupid things anyway. the best you can
+[20:05] do is educate them, show them the way,
+[20:10] you know, it's like you attract more
+[20:11] flies with honey sort of thing. And
+[20:16] I think if we just if Bitcoin stays
+[20:18] where it's at with the small community
+[20:20] it has and it's just used as it is now,
+[20:25] you know, store value ETFs,
+[20:29] rock under the bed, shiny rock under the
+[20:32] bed, gold 2.0, like I'll consider a
+[20:34] colossal failure. Uh so we need to build
+[20:36] out these circular economies and make
+[20:38] sure Bitcoin gets used for commerce
+[20:40] everywhere. And if you expect people to
+[20:43] just go in full throttle, you know, uh
+[20:46] run your own lightning node, uh do it
+[20:49] all privately, self-hosted,
+[20:51] self-custodial,
+[20:53] spit out coin joins, go to cold storage
+[20:56] on day one, then you're diluted. Um, but
+[20:59] at the same time,
+[21:03] this technology and or at least the base
+[21:05] knowledge of it, cursory knowledge of it
+[21:07] is becoming ubiquitous. It's everywhere.
+[21:09] And the average person on the street
+[21:12] sees that it's not going away. They're
+[21:14] seeing that these articles that have
+[21:16] been written about Bitcoin dying or just
+[21:18] being for drug money or scams that
+[21:20] they're seeing that that's all fake and
+[21:23] that there's something to this. It has
+[21:24] staying power. more people are adopting
+[21:26] it as we see I mean just the last couple
+[21:30] of months stake and shake it's big
+[21:32] chains that have 400 branches plus when
+[21:35] you hear stories that square is finally
+[21:38] gearing up to turn it on by default on
+[21:41] their what their 4 million terminals and
+[21:43] I think that's going to include web
+[21:45] checkouts too um and then just like
+[21:49] anecdotally from what we're seeing in
+[21:50] terms of uh usage from both the like
+[21:54] consumer level, like the app level, but
+[21:56] also businesses calling us up and
+[22:01] asking like, "Hey, how how do I do
+[22:03] this?" Like, "I saw um Steak and Shake
+[22:07] doing this and I see you guys are doing
+[22:10] something similar or I saw, you know, a
+[22:12] Zeus user paying to terms. Can you help
+[22:13] us set up?" Or I saw
+[22:16] um payments at Pub Key and I saw you
+[22:20] guys were running the payments for them.
+[22:22] Um, we're having a lot of really
+[22:25] interesting conversations right now and
+[22:27] I'm hoping, you know, we can make some
+[22:29] some more announcements uh in the coming
+[22:32] weeks and months about some of the
+[22:34] people we're on boarding right now. Uh,
+[22:37] obviously there's a lot of work to do
+[22:38] and you know things are still very nent
+[22:41] and we have a long way to go both as a
+[22:44] company at Zeus,
+[22:47] Bitcoin as a medium of exchange,
+[22:50] the whole thing growing. Um, but it
+[22:52] feels like we're making some real
+[22:53] strides right now and it's really
+[22:54] exciting.
+[22:56] It's a it's a great time to to be
+[22:58] involved and feels nice to help push the
+[23:01] needle a little bit.
+ If you're stuck
+[23:04] spending dollars, at least stop earning
+[23:06] dirty fiat rewards. Use Fold to earn
+[23:10] Bitcoin on everyday purchases and
+[23:12] regular expenses like groceries, bills,
+[23:15] travel, home improvement. I literally
+[23:17] just earned 2,23
+[23:19] sats buying a $100 Amazon gift card on
+[23:23] Fold. You don't even need to use the
+[23:25] Fold card itself if you don't want to.
+[23:27] You can connect your favorite credit
+[23:29] card and double dip with Bitcoin rewards
+[23:31] on merchant offers or go allin. Make
+[23:35] Fold the center of your personal
+[23:37] finances. Buy, earn, save, and even get
+[23:40] paid in Bitcoin with Fold. Head to the
+[23:43] link in the show notes to get started
+[23:45] with the ultimate savings toolkit or go
+[23:48] directly to use.foldapp.com/r/walker
+[23:53] and get yourself $10 in Bitcoin when you
+[23:56] sign up. If you've accepted that we're
+[23:58] living through the fourth turning, then
+[24:00] it's time to get yourself some Bitcoin
+[24:02] and then go to bitbox.swiss/walker
+[24:04] Swiss/walker and use the promo code
+[24:07] Walker for 5% off the easy to use, fully
+[24:10] open-source Bitcoin only Bitbox 2
+[24:13] hardware wallet. Then get your Bitcoin
+[24:14] off the exchange into your own
+[24:16] self-custody and prepare yourself for
+[24:18] the chaos that is to come. The world is
+[24:20] going pretty wild right now, but Bitcoin
+[24:23] is ripping and your stack will soon be
+[24:25] worth a heck of a lot more in fiat value
+[24:27] than it is today as every currency
+[24:28] around the world hyperinflates. So now
+[24:31] is the perfect time to get your security
+[24:33] locked down tight with Bitbox. I really
+[24:35] want to emphasize that the Bitbox O2 is
+[24:37] easy as hell to use. Whether you're
+[24:38] brand new to Bitcoin, it's your first
+[24:39] time setting up a hardware wallet, or
+[24:41] you are a well seasoned psychopath, it
+[24:43] is Bitcoin only and fully open source.
+[24:46] No need to trust me. You can head to
+[24:48] their GitHub and verify that for
+[24:50] yourself. When you go to
+[24:51] bitbox.swiss/walker
+[24:54] and use the promo code Walker, not only
+[24:56] do you get 5% off, but you also help
+[24:58] support this podcast. So, thank you.
+[25:02] No doubt. And I'm I'm curious, too. I
+[25:03] mean, do you think
+[25:06] because I' I've seen this debated and
+[25:07] it's something that I debate about uh
+[25:08] with my myself occasionally, but I mean,
+[25:11] do you think Bitcoin is at this point
+[25:13] mainstream uh in terms of at least it's
+[25:17] uh that people know about it? Because
+[25:20] I've seen, you know, back and forth on
+[25:21] this like if you see some of like Joe
+[25:22] Nakamoto, who shout out to Joe, he does
+[25:24] incredible work. Uh if you see some of
+[25:27] his videos like where he does man on the
+[25:29] street type stuff and goes up and just
+[25:30] talks to random people. It's like
+[25:32] there's still so many people who
+[25:33] literally he says Bitcoin to them and
+[25:34] they're like what is that? I've I've
+[25:36] literally never heard that word before
+[25:37] in my life. And I'm like how have you
+[25:39] never heard that word? Like, but you
+[25:41] realize like from an adoption
+[25:44] standpoint, we're objectively still
+[25:46] early in terms of like we're at probably
+[25:48] less like a fraction of a percent of the
+[25:51] world that actually owns Bitcoin in some
+[25:55] some way. Maybe with the ETFs that's
+[25:58] changed a little bit, but it's still a
+[26:00] pretty small amount of people who at
+[26:02] least know they have exposure to
+[26:04] Bitcoin. Maybe there's others that have
+[26:05] exposure that don't know about it yet. I
+[26:07] don't know. But like
+ that's going to
+[26:08] change too with like
+ Yeah. and stuff.
+[26:10] But
+ where do you think we're at in that
+[26:13] though? Like because to me it still
+[26:15] feels very early. And I think it's great
+[26:17] that these tools are being uh that these
+[26:19] tools are being built so that when
+[26:20] people do decide to actually pay
+[26:22] attention to Bitcoin, they have more
+[26:24] options available to them than just
+[26:26] okay, I'm going to go buy the Bitcoin a
+[26:28] Bitcoin ETF, which is you want to do
+[26:30] that, that's fine. Like, but
+ yeah, it's
+[26:32] it's like it's such in such an
+[26:34] interesting spot right now, right?
+[26:36] Because I feel like at least anecdotally
+[26:40] like my experience like you'll say the
+[26:42] word Bitcoin
+[26:44] to the average person they at least have
+[26:46] like heard of it they're like uh some
+[26:48] internet money digital money
+[26:51] what they think of it you know has
+[26:54] probably range wildly most people have
+[26:57] like talk about like risk aversion oh I
+[27:01] heard from you know financial person I
+[27:04] shouldn't invest in it or I shouldn't
+[27:06] invest more than I'm willing to lose in
+[27:08] it. Like that that's probably the
+[27:09] general sentiment. So it's like where
+[27:12] are we in this adoption curve? And you
+[27:14] can't really draw too many parallels to
+[27:17] to other technologies.
+[27:19] I think like looking back
+[27:22] like email would probably be an
+[27:25] interesting one. like we're in the phase
+[27:27] where people have all maybe heard of it
+[27:29] because of articles written in
+[27:33] you know um the news magazines and
+[27:37] whatnot. It's like oh the mail is in the
+[27:39] computer but people haven't done it yet.
+[27:41] They haven't gotten their um they
+[27:44] haven't gotten internet in their home
+[27:45] yet you know like that's sort of where
+[27:47] we're at. Uh I think there might also be
+[27:50] a lot of interesting parallels to like
+[27:52] file sharing. Um, you know, some people
+[27:57] are there, they might be using Napster,
+[28:00] but it's really just the more hardcore
+[28:03] people that have been exposed to it.
+[28:05] But, you know, um,
+[28:08] we still really haven't had our like
+[28:12] Spotify moment or Apple iTunes moment
+[28:15] yet. Not really. I mean, there are some
+[28:18] big players in right now, but
+[28:23] adoption like usage really isn't that
+[28:26] widespread yet.
+[28:28] And I think like the reason you can't
+[28:30] really
+[28:33] like draw parallels to either of these
+[28:35] technologies onetoone
+[28:37] is that when money is involved, stakes
+[28:40] are higher and people are going to be
+[28:41] more riskaverse, right?
+[28:43] uh it's much less risky to uh send an
+[28:48] email, for example. There's like no
+[28:50] almost no risk there. Uh with file
+[28:52] sharing, uh it's a little risk. Maybe
+[28:54] you're worried about getting caught by
+[28:56] uh you know, the cops getting a letter
+[28:58] from your ISP or whatever, getting sued
+[29:01] like, uh like what Metallica did. Um
+[29:05] but with money, I think most people jump
+[29:08] in there and be like, "Oh no, I can't I
+[29:10] can't afford this. I can't take this
+[29:12] risk. I I don't have the budget for it.
+[29:15] I'm just trying to make ends of meet.
+[29:17] And you know,
+[29:20] people don't realize that they can
+[29:22] receive like less than a cent of Bitcoin
+[29:26] on the lightning network or with a
+[29:28] cashew token and that the don't have to
+[29:31] just dive in with your whole life
+[29:33] savings like a lot of us have. Um
+[29:37] so yeah, it's it's interesting. Um,
+[29:41] but yeah, it's it's really going to take
+[29:43] more time. And and the other interesting
+[29:45] parallels that it's like completely
+[29:47] unique, it's not like when email was out
+[29:50] that all these email like things and
+[29:53] scams were like forcing people out, you
+[29:56] know,
+ like say like, uh, oh, I got
+[30:00] malware from Kazah or whatever. Like,
+[30:02] no. Like there is so much damn noise
+[30:06] with crypto and these scams and FTX and
+[30:09] every cycle and it's going to just keep
+[30:11] repeating and repeating and repeating
+[30:12] and you know that that distinction um is
+[30:16] really tough to make and takes time and
+[30:19] education and all these other efforts
+[30:20] and and really it takes people like
+[30:22] actually trying and getting a better
+[30:25] grasp of the technology themselves and
+[30:27] like at least understanding like you
+[30:30] know the properties of it Obviously,
+[30:34] the average person doesn't know how
+[30:36] email works and how it gets from one
+[30:39] inbox to another. Similarly, they're not
+[30:42] going to know how Bitcoin works or how
+[30:44] it goes from the blockchain all the way
+[30:46] up to the cash min or something like
+[30:49] that. But at the same time, people are
+[30:51] still going to use it. People are using
+[30:52] it today. And um yeah, it's just going
+[30:57] to be a long haul. you we got to be in
+[30:59] it um for the long haul. Understand that
+[31:02] things are changing in this industry
+[31:05] incredibly rapidly even though adoption
+[31:08] takes a really long time. Um, and
+[31:14] you know, it's sort of funny at how it's
+[31:17] at odds with how things sort of work in
+[31:20] the fiat economy with VC money and all
+[31:25] these hype cycles and trying to take
+[31:27] people's attention away. It's it's
+[31:30] really at odds with each other. And
+[31:32] really the people who are going to
+[31:34] succeed are going to be the ones who
+[31:35] can, you know, stay alive and be in it
+[31:41] for the long haul and also be adaptable,
+[31:45] you know. um sort of meet people where
+[31:48] they're at and actually listen to
+[31:52] what people need and and expect and what
+[31:56] their problems are
+[31:58] and not just say, "Oh,
+[32:01] yeah, the problem is central banking.
+[32:03] The problem is your your wealth is being
+[32:04] ded away." The problem is you're in a
+[32:07] hamster wheel and you're barely making
+[32:10] ends meet and you're living paycheck to
+[32:11] paycheck. And yeah, of course that's
+[32:13] really the problem for most people. Um,
+[32:18] but it's also like a bitter
+[32:22] pill to swallow and it could be
+[32:23] overwhelming and and people might not be
+[32:27] looking
+[32:29] at their lives at at that level and
+[32:33] probably have a lot of distractions
+[32:34] going on. you know, it's really just
+[32:37] it's really a big uphill battle in a lot
+[32:40] of ways trying to orange pill someone
+[32:42] and and I know
+[32:45] many of the Bitcoin most of the
+[32:47] Bitcoiners I've talked to and hang out
+[32:48] with like they've given up on that.
+[32:51] Like I feel like everyone goes through
+[32:53] this period when they first learn about
+[32:54] it, they're like, "Oh my god, this
+[32:57] technology is amazing. It's empowering.
+[33:00] It can break me out of my nine-to-five
+[33:04] shackles, my debt shackles, societal
+[33:07] expectations,
+[33:09] uh my the fruits of my labor not being
+[33:11] stolen from me in this indirect
+[33:15] taxation. Um and you know, as you
+[33:19] extrapolate, you're like, "Oh, this
+[33:20] could potentially have geopolitical
+[33:22] impacts. This could change the whole
+[33:24] [ __ ] world." And you want to go tell
+[33:26] everyone. You get so excited. You're
+[33:27] like, "Have you heard about Bitcoin
+[33:28] yet?" and you just become that annoying
+[33:31] guy and everyone's like, "Shut the [ __ ]
+[33:32] up, dude." Every conversation you try to
+[33:34] inject this and uh you know, most people
+[33:38] don't care. They're like,
+[33:40] "Did you watch the game last night?"
+[33:42] Yeah. Catch that game last night, bro.
+[33:44] Yeah. And you know, it's like nothing
+[33:46] against sports. I love sports. Um but uh
+[33:50] you know, people are have all these
+[33:51] distractions that they're more worried
+[33:53] about. And uh
+[33:56] then it's sort of like a double-edged
+[33:58] sword, too. Like, okay, like let's say
+[33:59] you get someone in
+[34:01] um at the top of a cycle and they're
+[34:03] like, "Fucking Evan, that son of a
+[34:05] [ __ ] You recommended Bitcoin to me and
+[34:07] now it's down 30%." And what you're
+[34:10] going to say like, "Oh, you got to lower
+[34:11] your time preference. You just got to
+[34:13] wait. Just hold it for two years. You're
+[34:15] going to be back up two years. Two years
+[34:17] is a millennia for these people."
+[34:20] The other side of the coin is Oh [ __ ]
+[34:23] Look, Evan invested in Bitcoin so early.
+[34:25] That's a lucky son of a [ __ ] And um
+[34:30] this, you know, they're jealous. They
+[34:33] they might not say it directly. Um
+[34:37] and you know, in that regard, people
+[34:40] become
+[34:43] averse to like trying to to orange pill
+[34:45] people. They have all these bad
+[34:46] experiences. And I think as a result,
+[34:49] people just
+[34:51] have sort of resigned and been like,
+[34:52] "Okay, you know what? I'm not really
+[34:54] going to be too vocal about it." Um, but
+[34:59] instead, we'll let people come to them,
+[35:01] which is probably a better way to go
+[35:03] about it.
+ Dude, you've literally just
+[35:05] described my entire journey. Like,
+[35:07] exactly, though. Like, like literally so
+[35:09] gung-ho at first hearing about it. And
+[35:11] you're right, cuz it's like you're so
+[35:13] excited about it and things are clicking
+[35:14] for you and so you're like, I need to
+[35:16] share this with the people I care about.
+[35:18] I need to share with my family. I need
+[35:20] to share it with my friends. I need to
+[35:21] share it with the the lady cutting my
+[35:23] hair and like, you know, the like, you
+[35:25] know, I need to share it with everyone.
+[35:27] And then like part of it is like maybe
+[35:29] you get you get like rejected enough
+[35:31] times or like you said, okay, you told
+[35:34] tell somebody to get in at the at the
+[35:36] current top, you know, which is not
+[35:38] going to be the top. it's going to be
+[35:39] somewhere in the middle like four years
+[35:41] from there but like right you know if
+[35:42] somebody got in right at the top you
+[35:44] look like a you know a jackass to them
+[35:46] like and you're like oh [ __ ] okay and
+[35:47] then eventually you're just kind of like
+[35:48] okay you know yeah come my way like you
+[35:52] know you want to do your best to get
+[35:53] your family and your like closest
+[35:55] friends on board and like what I've
+[35:58] realized it's like a good way of doing
+[36:00] this is like look you know I care about
+[36:02] you hopefully you think that you don't
+[36:04] think that I'm like a lunatic I'm
+[36:06] literally telling you this because I
+[36:08] love you and I want you to be able to
+[36:10] experience this. You can turn it down if
+[36:12] you want, but like you can't say that to
+[36:14] like a random person or like a not such
+[36:16] a close friend cuz if you start telling
+[36:17] everybody like you love them, it just
+[36:18] gets a little weird.
+ But so like there's
+[36:21] there's a there's a limit to how much
+[36:22] that works to how big that circle can
+[36:24] spread. But
+ Mhm.
+ But but it's tough.
+[36:27] Well, and this is why I love like what
+[36:29] you're building though because it's like
+[36:31] yeah, not every like you everybody may
+[36:34] try to orange pill their friends and
+[36:36] that spreads slowly, but like ultimately
+[36:38] people come when they're ready like
+[36:39] right like we get Bitcoin at the price
+[36:41] we deserve. Uh we start understanding it
+[36:44] at the price we deserve and once you do
+[36:46] start understanding it like it's pretty
+[36:49] amazing when there's great tools that
+[36:50] already exist where you can go, "Oh,
+[36:53] wow. This is like this is easy. This
+[36:55] doesn't feel as scary as I thought it
+[36:57] was when you know my friend Walker was
+[36:59] ranting about magic internet money like
+[37:01] that. He made he he made it sound way
+[37:03] too complicated that ass. But like so so
+[37:05] that's like you need those tools in
+[37:08] place because people are coming. It's
+[37:10] just it's not a question of if it's just
+[37:12] a question of when.
+ It's happening. It's
+[37:14] crazy.
+ Yeah, it's happening. It's
+[37:15] happening. I I am I am curious.
+ Even the
+[37:17] boomers, man. Even the boomers are
+[37:19] coming. I'm telling you. I I dunk I dunk
+[37:21] on boomers a lot, but I hope the boomers
+[37:23] that I know listen to the show and my
+[37:24] friends, dear friends who are boomers
+[37:26] know that I'm not talking about them
+[37:28] specifically. I'm talking broadly like
+[37:30] when boomers say and I'm again broadly
+[37:32] boomers say like, "Well, you
+[37:33] millennials, if you just didn't eat your
+[37:35] avocado toast and, you know, pick
+[37:37] yourself up by your bootstraps, maybe
+[37:38] you too could buy a house for four
+[37:40] raspberries like I did in 1971." And you
+[37:43] know, so shout out to shout out to the
+[37:45] boomers. I love you even though you are
+[37:46] the butt of some jokes. uh you know who
+[37:48] you are and I appreciate you.
+ Yeah. They
+[37:51] don't just they just don't know how good
+[37:52] they had it. It's like okay, yeah, maybe
+[37:54] we have our cheap avocado toast relative
+[37:56] to you guys, but you guys had all the
+[37:59] assets that anyone wants. So much
+[38:01] cheaper housing. Um you know, just cost
+[38:04] of living in general. Um
+[38:08] it's crazy. It's absolutely crazy. But
+[38:10] you know, I I think boomers are at least
+[38:14] seeing that this thing has staying
+[38:16] power. It's been around a long time. Uh
+[38:20] we can't ban it. You can't stop it. It's
+[38:23] not a scam. Um people are improving
+[38:26] their lives over it. They are
+[38:28] integrating it into their businesses.
+[38:31] And you know, I I feel like they've seen
+[38:34] it time and time again in their lives.
+[38:36] It's like at some point you need to um
+[38:40] get a website for your business, right?
+[38:43] You need to get on social media and
+[38:46] use that to to grow your business and
+[38:48] reach out to more customers. And
+[38:50] eventually it's going to become you got
+[38:52] to accept Bitcoin at your business. You
+[38:56] should really have a Bitcoin treasury,
+[38:58] too. And that's sort of a funny
+[39:00] distinction that we're having with some
+[39:01] of the boomers that we're talking about
+[39:03] and on boarding. They're like, "Oh,
+[39:05] yeah. You know, I see the the
+[39:06] volatility. You know, Evan, you sent me
+[39:08] uh
+[39:10] he sent me a thousand sets. uh you know
+[39:13] it was a little bit over a dollar now
+[39:15] it's a little bit under a dollar what's
+[39:17] going on I want to get rid of this as
+[39:18] soon as possible and it's like okay okay
+[39:19] okay you know they don't have to dive in
+[39:23] all the way but really you know you got
+[39:25] to plant those seeds like you should
+[39:27] probably think about holding this it's
+[39:28] like uh this probably won't be a huge
+[39:30] amount of your sales right out the gate
+[39:34] maybe you should just hold that part if
+[39:36] you can right and you know obviously
+[39:40] it's your money you're free to do
+[39:41] whatever you on will even help you
+[39:43] convert it. Um,
+[39:46] but it might make sense to hold on to it
+[39:49] maybe. So, you know, like I said, people
+[39:53] are in different stages of their
+[39:55] journeys. They make these realizations
+[39:57] at different points. They're going to
+[39:58] use it differently. Everyone's life
+[40:00] situation is different. Every business
+[40:02] has different requirements and needs and
+[40:05] clientele and costs and XYZ.
+[40:10] And you know, we're seeing them like
+[40:14] just cultlike behavior by so many people
+[40:17] that it's like subsections of our
+[40:19] community where like everyone's got to
+[40:21] do this, everyone's got to use it the
+[40:22] same way, everyone's got to be
+[40:23] self-custodial, or everyone should just
+[40:25] use,
+[40:27] you know, this custody app. It's so
+[40:30] easy. or or everyone should run core,
+[40:33] everyone should run N. It's like no,
+[40:36] dude. Do what makes sense for you. Um,
+[40:39] and
+[40:41] here's some reasons why X, Y, or Z might
+[40:44] make sense to you. I don't know. It's
+[40:47] just just a it's just so easy to just
+[40:48] get into your
+[40:52] corner and be like, "Okay, these are my
+[40:54] people, right? This is how I do. This is
+[40:57] who I'm going to defer to for my
+[40:59] thinking."
+[41:00] um you know if if some if this person
+[41:03] likes this then it can't be good. It's
+[41:05] like it's like where's the critical
+[41:09] thinking of some people? It's it's
+[41:11] pretty scary. And you know
+[41:14] you know I I feel like this is also like
+[41:17] another side effect of the internet age.
+[41:19] It's like people think that they can't
+[41:22] have disagreements with people that
+[41:24] they're friends with or or they love.
+[41:26] like
+[41:28] I'm not going to gonna hang out with
+[41:30] them cuz they're they're a lib or
+[41:32] they're a magard or whatever. It's like
+[41:37] sort of a sad way to to live your life,
+[41:40] you know, and and you know, same thing
+[41:42] with Bitcoin. It's like, okay, like
+[41:45] you're into Bitcoin, you like Bitcoin,
+[41:47] you that's great. That doesn't mean that
+[41:49] you know, we're best friends or we're or
+[41:51] that we're sympaticos. It's like it's
+[41:54] it's also just a tool, you know? It's
+[41:57] like, "Oh, dude, you use email, too."
+[41:59] Oh, man. We're bros.
+[42:02] You got a Twitter account. That's sweet,
+[42:04] dude.
+[42:07] So,
+ hey, that said, being a Bitcoiner,
+[42:10] at least at this stage we're at now, I
+[42:13] found, can be a good filter for finding
+[42:15] some good people. Now, there's still
+[42:16] plenty of shitty plenty of shitty people
+[42:18] who have Bitcoin. There's shitty people
+[42:20] everywhere. But like at least at the
+[42:23] eariness uh early or this stage of
+[42:26] eariness we're at now, it it can be a
+[42:29] cool filter uh for for finding people
+[42:31] that are at least
+[42:33] uh roughly ideologically aligned. U
+[42:36] Right. Right. Most most people that got
+[42:38] here
+[42:40] got here for a reason.
+ Yeah.
+[42:44] But you know there are outliers.
+ So but
+[42:47] no, you're right. You're right. to where
+[42:48] we are in the adoption curve, it is a
+[42:49] really good filter and and most of the
+[42:51] people that
+[42:53] we have come out to the meetups that we
+[42:55] do out here, you know, generally really
+[42:58] great people. I'm sure there's like a
+[42:59] spook or two in the middle. I think
+[43:02] there's always a spook or two. Like it
+[43:04] would be crazy if there I mean the CIA
+[43:06] invented Bitcoin after all, so you know,
+[43:08] of course there there's got to be a
+[43:10] spook or two there. They got to check on
+[43:12] how their little their little project's
+[43:13] doing, right?
+ Yeah. Yeah. Yeah. Well,
+[43:16] who knows really? I don't try to know,
+[43:19] but you know, if you look at,
+ you know,
+[43:22] deception of the internet, all these
+[43:23] other, you know, pieces of encryption,
+[43:27] um
+[43:29] even even apps like Signal, how how
+[43:31] they've been funded. Um
+[43:35] you know, it's ubiquitous. It's just how
+[43:37] society's really organized itself and
+[43:40] state has really grown to such a crazy
+[43:43] level and especially in the last 100
+[43:45] years let's say. Um
+[43:48] yeah, it's it's just makes sense that
+[43:52] and just thinking about the stakes, of
+[43:54] course, these people are going to be
+[43:57] embedded everywhere and uh yeah, it sort
+[44:00] of makes
+[44:02] operating as a Bitcoiner uh a little
+[44:05] tricky, a little dicey. Well, I I wanted
+[44:07] to ask you about this because like okay,
+[44:10] obviously the last administration in the
+[44:12] US was
+[44:13] uh exponentially less friendly and was
+[44:16] trying to make life hell and has you
+[44:18] know been prosecuting or was prosecuting
+[44:21] uh various open-source developers.
+[44:24] Where are you at right now with your
+[44:25] level of comfortability running a a
+[44:29] Bitcoin business and building awesome
+[44:32] freedom tech for people? Like are I mean
+[44:37] are are you always just one
+[44:39] administration away from like okay I
+[44:41] gotta like shut this down and go
+[44:44] somewhere else or like
+ how how do you
+[44:46] think about cuz like it can change it
+[44:48] can change every four years
+ a drop of a
+[44:49] dime you know.
+ Yeah.
+ Like if the state
+[44:54] doesn't like what you're doing
+[44:57] they could basically stop you. like the
+[44:59] the state by itself can always crush any
+[45:04] single individual
+[45:07] but
+[45:09] if the actions are taken on by a group
+[45:11] and it's a distributed thing it's
+[45:14] multiple efforts it becomes cultural um
+[45:17] and it's not just
+[45:20] you know one small group or or one
+[45:22] individual then you know then things
+[45:25] become inevitable and and they become
+[45:26] unstoppable
+[45:28] And
+[45:31] I think,
+[45:33] you know, we we just got to keep leaning
+[45:35] into that and and, you know, not to be
+[45:37] like an uber collectivist.
+[45:40] I mean, that's already been an
+[45:41] interesting talk uh theme in our talk so
+[45:44] far, but you know, really Bitcoin needs
+[45:49] everyone. Bitcoin needs you. And
+[45:54] it success is not inevitable. And the
+[45:57] more that individuals act, we act
+[46:00] collectively in pushing this technology,
+[46:03] then the higher chance it is to succeed
+[46:05] and the harder it is for the state to
+[46:07] snuff it out. Um,
+[46:09] so where's my comfort level right now
+[46:12] building this technology?
+[46:14] Um, it's not 100%.
+[46:17] Right now it's way better than it was um
+[46:21] the last couple years.
+[46:23] Um, that being said, we still have a
+[46:26] long way to go. A lot of our friends are
+[46:28] still
+[46:30] being prosecuted, right? The tornado
+[46:32] cash guys are still in court. The
+[46:35] samurai wallet devs are still in court.
+[46:39] uh not all states or countries have the
+[46:42] same asurances about self-custody or
+[46:46] mining or
+[46:50] you know these L2 services that we're
+[46:53] running and you know like I said like
+[46:57] these things could change at the drop of
+[46:59] a hat maybe even this administration
+[47:01] changes their tune and you know if you
+[47:04] look at the geopolitical climate a lot
+[47:07] of that stuff could be use as an excuse
+[47:10] to
+[47:12] back down on us. So, you know, my
+[47:15] message to all the builders out there,
+[47:17] to the people pushing the software, is
+[47:18] like,
+[47:21] you know, um when we're given an inch,
+[47:23] let's take a mile. Let's keep pressing
+[47:25] forward. While we have the runway, let's
+[47:27] use it.
+[47:29] I personally think that we're going to
+[47:32] win a lot of battles over the next four
+[47:35] years, the duration of this admin,
+[47:37] right? Um,
+[47:40] we're going to still lose some,
+[47:43] but we certainly have more runway and
+[47:45] leeway than we previously did. So, let's
+[47:48] build, let's build, let's build, let's
+[47:50] ship, let's keep pushing stuff in the
+[47:52] right direction. And
+[47:56] we need to get this tech to a point
+[47:58] where it's proliferated so much that
+[48:01] it's not socially acceptable to put the
+[48:04] clamps down on the technology, the
+[48:07] users, the developers.
+[48:11] So, still
+[48:14] a lot of fighting to do.
+[48:17] We should expect things to get worse
+[48:19] before they get better. But we can also
+[48:25] tell ourselves and and accept like
+[48:27] things are definitely better than where
+[48:31] they were like, you know, two years ago.
+[48:33] And when Samurai was just getting
+[48:36] arrested and
+[48:38] while a Satoshi and Phoenix wallet
+[48:40] leaving the United States, like
+[48:43] I'm not going to lie to you, that was
+[48:44] scary.
+[48:46] Really scary. Um
+[48:52] and to think that that's the worst of
+[48:54] it. I mean hopefully it is.
+[48:56] Um
+[48:59] and obviously you know geopolitically
+[49:01] like the whole world is different.
+[49:02] Different countries are going to do
+[49:03] crackdown more other some countries have
+[49:05] more to lose than others. Um,
+[49:10] but yeah, we just got to be resilient
+[49:13] and
+[49:17] know that that's
+[49:19] likely not the worst of it. We have a
+[49:22] lot of bigger battles ahead of us to
+[49:23] fight. I mean,
+[49:26] what happens if
+[49:29] hyperinflation really hits some of these
+[49:30] Western countries?
+[49:33] We're definitely prime scapegoats.
+[49:38] But again, it's about education. It's
+[49:40] like, no, you guys are the [ __ ] who
+[49:43] put us 30, 40, 50 trillion dollars in
+[49:46] debt. It wasn't us who wanted to
+[49:48] recklessly spend. It wasn't us who
+[49:50] wanted to
+[49:51] give money to foreign countries when we
+[49:54] have veterans starving at home.
+[49:58] Um,
+[50:00] and you know, at some point
+[50:04] the existing system is going to topple
+[50:07] in on itself and there's going to be
+[50:09] there's going to have to be a new
+[50:10] restructuring. I think again it's like
+[50:13] not going to happen this year, next
+[50:16] year, probably not even during this
+[50:18] administration. I think, you know, I
+[50:21] think in the next 20 years though,
+[50:22] there's going to be some radical things
+[50:25] that happen. currency is getting
+[50:27] repgged. I'm not necessarily set that
+[50:30] fiat is going to go anywhere. Obviously,
+[50:32] the incentive the incentives are too
+[50:35] strong.
+[50:37] Um,
+[50:39] but yeah, I mean, we could already see
+[50:41] today that this technology
+[50:44] is really having profound impacts. You
+[50:46] know, obviously Bitcoin is not crypto.
+[50:48] Bitcoin is not uh CBDC's. Bitcoin is not
+[50:52] stable coins,
+[50:56] but we're seeing things like Tether
+[51:00] might be the most successful
+[51:03] company in the world right now. Like
+[51:04] they print money.
+[51:06] The current administration
+[51:10] sees Tether as a way to offload
+[51:13] treasuries, have them buy treasuries,
+[51:16] and help address some of our debt
+[51:17] issues. Um, so to
+[51:23] only look at Bitcoin as a medium of
+[51:25] exchange and say, "Oh, it's failing.
+[51:26] It's not having an effect on the world,"
+[51:28] is a little um
+[51:31] myopic. It's a little uh nearsighted.
+[51:35] And obviously
+[51:37] medium exchange is super important and
+[51:39] that's how the world is really going to
+[51:41] change. Um but we're already having
+[51:44] we're already seeing the effects that
+[51:46] Bitcoin is having on finance and
+[51:49] geopolitics. It's super interesting
+[51:51] right now.
+[51:54] Did uh did you guys ever pull out of US
+[51:58] availability?
+[52:00] No.
+ During that?
+ No. No. I I mean
+[52:05] um
+[52:08] did the thought cross my mind? Not
+[52:11] really. I mean when Phoenix pulled out
+[52:14] it was like an oh [ __ ] moment where I'm
+[52:16] like
+[52:18] am I going to have to pull out? Like it
+[52:21] was it was really a scary day. But,
+[52:26] you know, like I I I alluded to earlier,
+[52:28] Walker, it's like, "Okay, this thing, if
+[52:30] it's going to be successful, it has to
+[52:31] be done collectively."
+[52:33] And people are like, "Oh, Evan, you
+[52:35] should have just shut up. You should
+[52:36] have just kept operating and not made us
+[52:38] think about is like, "Yeah, probably
+[52:40] that would have been the smart thing to
+[52:41] do, but we would have been worse off if
+[52:48] we didn't inspire some confidence in,
+[52:52] you know, our other peers and and more
+[52:53] people
+[52:55] um you know decide to leave the market,
+[52:57] we would have would have sucked. So, you
+[53:01] know, obviously
+[53:04] everyone's situation is different. Not
+[53:05] everyone is a US citizen, but where am I
+[53:09] going to go? You know, and the United
+[53:12] States, they think they're the police of
+[53:14] the world. Even if I were to go
+[53:16] somewhere else, they'd probably still
+[53:17] think they could go and prosecute me
+[53:19] wherever I was in the world. So, the
+[53:21] choice was simple. It's like, no, we're
+[53:23] staying. We're standing our ground.
+[53:25] We're going to take this risk. We're
+[53:27] going to keep building. And it paid
+[53:30] dividends. And you know, hopefully we
+[53:34] inspired confidence in some users and in
+[53:37] users of Bitcoin.
+[53:39] And hopefully we inspired confidence in
+[53:41] in some people that were on the fence.
+[53:46] And you know, like I said, like that was
+[53:49] a test. I think we passed it with flying
+[53:51] colors, but we got to be ready for the
+[53:53] next test. And we got to make ourselves
+[53:55] more resilient. And we got to have
+[53:58] contingencies and, you know, have plans
+[54:01] for when these events happen, what we're
+[54:04] going to do to,
+[54:08] you know, make make sure we can keep
+[54:10] providing these services and this
+[54:12] technology for users. Um,
+[54:17] yeah, it was it was just a test. It was
+[54:19] just a test.
+[54:21] I I've got to say for on the record that
+[54:23] you've got balls the size of
+[54:25] watermelons. Uh because like that I mean
+[54:28] you know and this is nothing like you
+[54:29] said everyone's situation is different.
+[54:31] Yeah. Like I don't really want to judge
+[54:33] anyone on their actions obviously
+ but
+[54:35] you did what you did
+ situations
+[54:37] different legal situations different
+[54:39] legal guidance.
+[54:41] Um, but yeah, I'm happy we made the
+[54:45] decisions we did. And uh, you know, it's
+[54:49] not just just me, but you know, tons of
+[54:51] other companies do the same. Maybe they
+[54:52] weren't as vocal about it. And, you
+[54:56] know, that's that's what it's going to
+[54:56] take. It's going to take collective
+[54:58] action like that. And to like center
+[55:01] yourself, take yourself out of markets
+[55:03] preemptively without like the state
+[55:05] forcing you to do so is like
+[55:09] it would it would have been the worst
+[55:10] thing. we we could have done and
+[55:16] I'm just I'm just so glad we didn't.
+ Did
+[55:19] Did you guys see just from like a a user
+[55:22] standpoint when Phoenix and Waldo
+[55:24] Satoshi pulled out, did you guys see
+[55:26] your uh user base expand like as a
+[55:30] result of that? I I assume so.
+ Yeah,
+[55:32] probably like
+[55:36] 3x or so.
+ Wow.
+[55:40] So it was
+ uh at the same time, you know,
+[55:42] it was also when we had just really hit
+[55:43] our stride with our services and we're
+[55:45] rolling it out. Um
+ so good timing. I
+[55:49] mean, you know.
+ Yeah. Yeah. Yeah.
+ Shitty
+[55:51] situation. Good good timing.
+ Yeah. Yeah.
+[55:54] Now, now people tell me about it. It's
+[55:55] like it's like, dude, like this sort of
+[55:58] has added a lot to the ethos of it, too.
+[56:00] I'm like,
+[56:03] so I didn't even like think about it
+[56:05] that way. I mean,
+[56:07] we were just trying to figure out what
+[56:09] the best thing to do in that environment
+[56:11] was and we had to make a tough decision
+[56:13] and it wasn't [ __ ] easy for me to
+[56:15] make.
+[56:17] like you know we just had our first kid
+[56:20] in the last year and you know it's
+[56:24] around time that stuff was uh ruminating
+[56:26] and I'm like okay
+[56:30] am I going to run the risk of not being
+[56:31] there for my kid
+[56:34] or
+[56:35] am I going to just
+[56:38] like bend the knee and be like yep we're
+[56:41] not doing this anymore you got to live
+[56:43] in this world and set this awful example
+[56:45] it's like
+[56:47] it's sort of like being in between a
+[56:49] rock and a hard place. Um, so yeah, it
+[56:52] wasn't easy. It's not something I took
+[56:54] lightly, but at the same time, like I I
+[56:57] knew my decision within, you know, just
+[57:00] a couple of hours of
+[57:02] Phoenix like making the decision. And it
+[57:05] just didn't seem like there was any
+[57:07] alternative. We had to do it.
+[57:12] And that's that.
+[57:14] Oh, massive respect to you, dude. And
+[57:16] I'm I'm glad you continued to to build
+[57:19] in the US. I mean, you know, uh
+[57:21] purportedly we're, you know, the freest
+[57:23] country in the world. So, it is absurd
+[57:26] that that companies even felt that sort
+[57:29] of pressure in the first place. The last
+[57:31] administration was rough. This
+[57:32] administration is by no means perfect.
+[57:34] And as you correct, as as you correctly
+[57:37] said that that can change on a dime,
+[57:39] right? Like,
+ right. Right.
+ Right. Like,
+[57:41] and you know, these guys are on a dime.
+[57:43] We don't know. Like they're changing
+[57:44] their views on all sorts of stuff as you
+[57:47] can see in the last week or two.
+ Um
+[57:51] yeah, so you never know what's going to
+[57:52] happen. Um
+[57:55] but yeah, you you can just try to, you
+[57:58] know, figure out where your hardlines
+[58:00] are.
+[58:01] Try to plan in advance to the best of
+[58:04] your ability. Try to gather the
+[58:06] resources that you can. And you know,
+[58:09] we're never going to forget the people
+[58:11] who had our backs, who helped us out,
+[58:12] who helped us navigate that, who reached
+[58:14] out and even said, "Hey, we support
+[58:15] you," or "Thank you for doing this." Um,
+[58:21] those little actions, they meant the
+[58:22] world to us. And, you know, we know
+[58:27] who's got her back when [ __ ] hits the
+[58:29] fan again, if it ever does, god forbid.
+[58:32] Um,
+[58:34] but yeah, just like it it really just
+[58:37] meant a lot the support that we got and
+[58:42] being being able to grow our user base
+[58:45] and
+[58:47] our company and our our services was was
+[58:51] a great reward for it too. Um,
+[58:54] so
+[58:56] yeah, it was it was tense. It was scary,
+[58:57] but it it it paid dividends.
+[59:01] Well, I want to I want to kind of talk
+[59:03] about like okay, you you've grown your
+[59:05] user base. You've just uh released uh V
+[59:08] uh V11.0,
+[59:11] right?
+ A version ver or what what's the
+[59:14] version number?
+ It's 0.11.1 right now.
+[59:17] Okay. Okay.
+ We call it we call it 11.1.
+[59:20] You know, who knows? Maybe we'll drop
+[59:22] the zero at some point just randomly
+[59:24] like Bitcoin Core did.
+ Yeah, screw it.
+[59:27] Why not, right? like ver version numbers
+[59:29] version numbers are just yeah
+ people are
+[59:31] like you don't have to go to 1.0 know
+[59:34] although we're sort of at a point where
+[59:36] we're like okay we sort of want to get
+[59:39] to a place where like okay this is the
+[59:42] culmination of everything we've done and
+[59:44] and I think you know I think that's a
+[59:47] lot of our focus like we had built up
+[59:49] all these great building blocks over the
+[59:51] years the remote node embedded node the
+[59:53] LSP services the swap services the
+[59:56] cashew and now we have all this arsenal
+[59:59] of of tools and now I think A lot of our
+[60:03] focus for the rest of the year is like
+[60:07] how do we round out the edges? How do we
+[60:11] improve the onboarding? How do we
+[60:14] identify the biggest pain points? How do
+[60:17] we just like really put on our UI UX
+[60:20] hat? And obviously like it's not easy
+[60:24] that there's a lot of people who are
+[60:27] going to bring in and and rely on and
+[60:30] help us with this thing. But yeah, I
+[60:33] think with our current set of tools
+[60:35] right now, I I think that like yeah,
+[60:37] this is this is the bones of the 1.0
+[60:39] product. It just needs that polish and
+[60:42] it needs,
+[60:44] you know, those uh user interviews. It
+[60:48] needs
+[60:50] just a little love and I I think it's
+[60:52] really going to shine. And I think like
+[60:54] we've really built like today what I
+[60:58] personally believe is the most powerful
+[60:59] mobile Bitcoin wallet on the planet. And
+[61:03] with just a little bit of love, we can
+[61:06] make it the best Bitcoin wallet, period.
+[61:10] Something that you'll be comfortable
+[61:11] onboarding anyone, even your grandma,
+[61:15] even Maya.
+[61:17] And that's that's always been the goal.
+[61:19] And
+[61:21] it feels really close now. We still have
+[61:23] a ton of work, a lot of work, a lot of
+[61:26] work that we don't typically do.
+[61:30] And it might be a little uncomfortable.
+[61:32] It might be difficult, but that's where
+[61:33] the best growth happens.
+ What What do
+[61:36] you What do you mean work that you don't
+[61:37] typically do?
+ Like, you know, UI, UX.
+[61:41] Okay. thinking about how people on board
+[61:43] interact with the app, you know, like a
+[61:44] lot of our stuff has been like,
+[61:48] and I don't think this is necessarily a
+[61:49] bad way to build apps, but like really
+[61:51] just scratching my own itch, like like I
+[61:54] think it would be awesome if I could do
+[61:56] this and then build it for myself first
+[62:00] and foremost, right? And
+[62:03] um if anyone else likes it, that's just
+[62:05] icing on the cake. Like that's how I
+[62:07] thought about it for like a long time.
+[62:09] And I understand that the app can still
+[62:11] be that. It could be the wallet of my
+[62:13] dreams and do everything it wants, but
+[62:16] there are like different UX flows that
+[62:21] can definitely stand to be improved in
+[62:23] these. And there's a overwhelming amount
+[62:26] of functionality in the app. And there's
+[62:29] definitely stuff that we can tuck away
+[62:32] in other menus. There's definitely
+[62:35] things we could explain better.
+[62:38] And
+[62:40] it's it's like this sort of
+[62:42] introspection looking in the mirror
+[62:46] that we're all going to really have to
+[62:48] do more widely um for Bitcoin to reach
+[62:54] peak adoption
+[62:56] and that's what we're going to be trying
+[62:58] to do yet.
+ Let let me let me ask you a
+[63:01] question on that because like I mean I
+[63:03] like uh I I love Zeus as a as an app.
+[63:07] Um, it is like for me, you know, I I
+[63:10] like I get it also like I get what you
+[63:13] guys are uh are trying to do. I I know
+[63:15] enough about how things work on the the
+[63:17] back end and channels and everything
+[63:18] else like things make sense to me. Do
+[63:21] you think, and this is not about Zeus
+[63:23] specifically, but let's just say more
+[63:25] more broadly, like are we ever going to
+[63:27] be to a point where the majority of
+[63:30] people, let's just classify majority,
+[63:32] over 50% of people are using Bitcoin in
+[63:37] a uh how do I say this? In a way that is
+[63:41] uh further along the the self-s
+[63:44] sovereignty spectrum than 50%. You know
+[63:46] what I like they're using it like I
+[63:49] think sovereignty is a spectrum like
+[63:50] many things like you're never going to
+[63:52] be perfectly sovereign. Um you can be
+[63:55] pretty much a slave though perhaps
+[63:56] that's the other end of the spectrum.
+[63:59] Like how realistic is it what actual
+[64:02] penetration of the of the world in a
+[64:05] hyper bitcoinized future? Like what
+[64:07] maybe a better question is what does
+[64:08] that mean to you? Does that mean it's a
+[64:10] majority of people that are actually
+[64:12] using Bitcoin in a relatively self-s
+[64:15] sovereign way? Or does that just mean
+[64:17] that Bitcoin itself is ubiquitous? It's
+[64:19] the water that the fish swim in. People
+[64:22] are using it, but they don't even know
+[64:23] it and they don't care about the method
+[64:25] in which they're using it. Whether that
+[64:27] be custodial, non-custodial, whatever.
+[64:29] It's just it's so ubiquitous that that's
+[64:31] just what hypercoinization means. Where
+[64:33] do you fall on that?
+[64:35] That's a really loaded question.
+[64:38] But self custody
+ like let's let's break
+[64:41] down like
+[64:43] is
+[64:45] is it realistic to think that most
+[64:47] people
+[64:49] will hold their own keys
+[64:53] to you know underlying Bitcoin? Um
+[64:58] probably not.
+[65:00] But that doesn't mean that that's not a
+[65:02] worthwhile ideal to strive for.
+[65:06] And even if we'd never crossed that
+[65:08] threshold, I think these are the things
+[65:10] that are important
+[65:13] one that the average person
+[65:16] can do that can decide to go and hold
+[65:19] their own keys if they so choose.
+[65:22] And then on the other side of it,
+[65:26] thinking about the systemic risks
+[65:31] of this world where people aren't
+[65:34] holding most of their keys, where those
+[65:36] destructions can happen. Um, you know,
+[65:40] stuff like running fractional reserves,
+[65:43] um, manipulating the markets. Um,
+[65:49] we can still strive to have those
+[65:53] bitcoins held by enough parties for
+[65:55] users to have them across enough
+[65:57] different custodians.
+[65:59] Um, to have the rails between them and
+[66:02] the ability to switch custodians and
+[66:05] leverage rails like people are using
+[66:07] lightning today. Um,
+[66:11] I I think that's what's important. Um we
+[66:17] people are are so passionate about using
+[66:19] Bitcoin the right way
+[66:21] you know running it self-custodially run
+[66:24] your own node doing it privately
+[66:28] I think mainly because they have this
+[66:30] fear that is I think very real right
+[66:33] we're that
+[66:36] in a lot of ways we run the risk of
+[66:38] recreating the existing financial system
+[66:42] and from that perspective. I entirely
+[66:46] understand
+[66:48] uh the toxicity, the name calling, the
+[66:52] just trying to jump into these groups
+[66:55] and say, "Ah, you're in the in group,
+[66:57] you're in the out group, you're doing
+[66:58] things right, you're doing things
+[67:00] wrong." Um, so I I totally
+[67:05] sympathize with, you know, those fears
+[67:08] at least
+[67:09] and,
+[67:11] you know, they've played their roles.
+[67:13] It's like people should should really be
+[67:15] vocal about the importance of these
+[67:16] things. We don't want to just recreate
+[67:19] the existing financial system and change
+[67:21] the name of the units to Bitcoin. Um
+[67:25] but at the same time, it feels like even
+[67:28] at this point,
+[67:32] um there's a lot of freedoms that we've
+[67:35] we've taken that that really just can't
+[67:39] be taken away. like you can't get the
+[67:40] toothpaste out of the tube uh back in
+[67:42] the tube, excuse me. Um like from here
+[67:46] on out,
+[67:50] it's going to be very very difficult to
+[67:52] stop people from being able to create
+[67:57] their own keys, their own 12 words,
+[67:59] memorize them and store their wealth.
+[68:01] Like
+[68:04] you can try to intervene in that in very
+[68:07] unique ways. uh pushing people onto
+[68:10] custodial platforms, compromising
+[68:13] um networks and hardware and all this
+[68:15] sort of stuff. But the underlying
+[68:20] ability,
+[68:22] it's sort of out of the tube. It's like
+[68:25] saying, "Oh, uh the humans learned how
+[68:28] to
+[68:30] to make fire and we're going to stop
+[68:32] that from happening." It just seems
+[68:34] ridiculous. So, um, we should still be
+[68:37] vigilant. We still should be concerned
+[68:39] about this thing being co-opted,
+[68:41] especially now, especially in this
+[68:42] environment where heads of state are
+[68:45] talking about Bitcoin, where we have
+[68:47] ETFs, where we have paper Bitcoin,
+[68:49] Bitcoin treasury companies,
+[68:54] people taking buy pressure away from
+[68:56] Bitcoin, the underlying asset, and
+[68:58] putting it into these easier way, easier
+[69:00] to get into avenues.
+[69:02] Um, there's a lot to have your guard up
+[69:06] about,
+[69:09] but sometimes you also need to kick your
+[69:11] feet up and look back at all that's been
+[69:14] accomplished already by this technology.
+[69:17] And,
+[69:18] you know, a lot of these freedoms are
+[69:22] now inalienable and and can't be taken
+[69:24] away.
+[69:25] And
+[69:28] you know obviously like I said earlier
+[69:30] the state can go and crush any single
+[69:32] individual but as a widespread
+[69:35] technology
+[69:37] it's not going anywhere and we can be
+[69:42] very grateful for that and now it's just
+[69:46] our job to make sure it reaches its full
+[69:48] potential.
+[69:51] I say amen to that brother. Uh and and I
+[69:55] think that is such a such an important
+[69:57] point that like yeah okay
+[70:01] it's it's very like it's a it's a you
+[70:03] know cliche but you know like you know
+[70:06] uh united we sc we stand you know like
+[70:08] but separated we fall like it is much
+[70:11] harder to stomp the boot of the state
+[70:13] down on a massive group of people who
+[70:16] are also armed with cryptographic uh
+[70:19] cryptographic weapons. Uh, no, those are
+[70:21] weapons of defense, right? Those are
+[70:23] asymmetric defense-based weapons, but
+[70:25] weapons nonetheless. Uh,
+ we're doing the
+[70:28] Jason Lowry thing now.
+ No, I meant more
+[70:30] so like they they've tried to classify
+[70:32] strong encryption as arms. Like this
+[70:34] this happened like wasn't it Adam Adam
+[70:37] back who like printed out I forget which
+[70:40] uh uh which algorithm on his like on a
+[70:43] shirt and like was wearing it across
+[70:44] borders. I thought I think it was Adam
+[70:46] Back who did that, right?
+ Yep. Indeed.
+[70:48] It was Dr. back.
+ Just a badass move.
+[70:51] Like honestly to be like, "Nope. Yep.
+[70:53] Okay, I'm going to I guess I'm going to,
+[70:54] you know, transporting arms across
+[70:56] borders." Like that's amazing. And also
+[70:59] just shows the absurdity of trying to
+[71:02] classify
+[71:03] code, open- source code, as somehow the
+[71:07] like to classify the same as the bombs
+[71:09] that uh the US sells and drops around
+[71:12] the world. Like
+[71:14] just insane. They they literally put the
+[71:18] RSA algorithm encrypted in a Pearl
+[71:21] script that you could scan with an
+[71:23] advanced barcode scanner and wrote on
+[71:26] it, "Warning,
+[71:28] this shirt is classified as a munition
+[71:33] and you cannot export it from the United
+[71:36] States or give it to a foreign
+[71:37] national." But here it is on my shirt.
+[71:41] They literally did that and they
+[71:45] followed those same principles. They
+[71:48] said it as as clearly as they could with
+[71:50] this action. Said the toothpaste
+[71:54] is out of the tube.
+[71:57] There's nothing you can do about it. It
+[72:00] is proliferating to all humanity. And
+[72:03] that's just such an incredible
+[72:06] statement. It's unbelievable. Yeah, that
+[72:07] shirt is legendary. Um, I think they
+[72:10] have a new like updated version of it on
+[72:13] the Blockstream store. I I have it
+[72:15] upstairs somewhere.
+ Nice.
+ It's classic.
+[72:18] Shout out to Dr. Beck.
+[72:20] Do you uh just slightly kind of
+[72:25] different route on this. Obviously, all
+[72:27] of the tools that are available to
+[72:28] individuals are available to the state,
+[72:30] right? Strong cryptography is available
+[72:32] to individuals. It's available to the
+[72:34] state. Uh, you know, Bitcoin is
+[72:37] available to individuals. it's available
+[72:39] to the state. All of these things are uh
+[72:42] now I'm curious where you s like CBDC's
+[72:47] and which are basically just like the al
+[72:49] CBDC's are essentially the ultimate form
+[72:51] of like AML KYC, right? It's like
+[72:53] automated AML KYC using some of these
+[72:56] same same tools like it basically
+[72:58] inspired by Bitcoin. But CBD is the the
+[73:01] ultimate uh fiat shitcoin, right? It's
+[73:04] taking fiat to its worst possible uh
+[73:06] conclusion. It's taking the only good
+[73:08] thing that fiat had, which was cash,
+[73:10] which cash is
+ cash is great. Physical
+[73:13] cash. I mean, that's actually great.
+[73:14] That's, you know, anonymous. It's it's
+[73:17] excellent. You should use cash more.
+[73:19] Uh it's taking that only good thing away
+[73:22] from it.
+ Where do you think we're at on
+[73:26] this kind of uh I mean, you've spoken
+[73:28] pretty strongly about KYC, AML, and so
+[73:31] I'd love to kind of get your your
+[73:32] thoughts on that because obviously I
+[73:34] think that's a a travesty. And we see
+[73:36] there was just another huge data breach
+[73:38] today. And it's just a classic example.
+[73:39] Anytime I see a data breach, I'm just
+[73:41] like all of our anytime you KYC like
+[73:45] that's just an invitation for a data
+[73:47] breach. It's an invitation for you to
+[73:48] get doxed. It's an invitation for bad
+[73:50] things to happen.
+ Yeah.
+ A CBDC is the
+[73:52] ultimate form of KYCing yourself. It's
+[73:55] KYCing every single thing you do. It's
+[73:58] zero privacy. Where where are you at on
+[74:00] this? Do you think that America has
+[74:02] rejected this strongly enough? Uh what
+[74:04] are your thoughts?
+[74:06] I think America's in a you know very
+[74:09] interesting position in terms of its
+[74:11] CBDC's and it's like as a result of its
+[74:14] values. It's not like the CBDC's that
+[74:17] we're going to see
+[74:20] are going to be the same like a Chinese
+[74:21] CBDC um you know tied into WeChat
+[74:26] just perfect view into these users. Um,
+[74:30] I think one of the funny things that
+[74:32] America's done that, you know, we've
+[74:36] seen sort of as a result of like the
+[74:37] Snowden revelations, it's like they will
+[74:40] outsource their spying, for example, to
+[74:44] these third parties, to these
+[74:46] corporations, right? and they're like,
+[74:48] "Okay, we're not going to do this
+[74:51] directly, but we'll easily cut a check
+[74:54] to these telos or these, you know,
+[74:56] financial services companies in exchange
+[74:58] for that data, and that'll be okay.
+[75:01] That'll be our way to skirt around the
+[75:03] constitution." I feel like similarly
+[75:06] we're gonna see the role of you know
+[75:10] private issuers companies like Tether uh
+[75:13] players like JP Morgan Black Rockck who
+[75:16] might get into issuing CBDC's play the
+[75:19] that role um
+[75:22] it might be a marginally better uh in
+[75:25] terms of it being distributed widely but
+[75:30] it's effectively going to still have
+[75:32] those same controls that same
+[75:33] surveillance
+[75:34] uh because you know they're working so
+[75:36] closely with the Treasury Department
+[75:39] with Fininsen they have this data they
+[75:41] have to answer to government requests
+[75:43] they can freeze their currencies like
+[75:45] we've seen with Tether time and time
+[75:46] again um yeah I think this is like a
+[75:52] really preient time to talk about it now
+[75:54] that feel like the the Genius Act the
+[75:56] new stable coin act I don't know all the
+[75:58] ins and outs of it but I know it just
+[76:01] passed the Senate I believe and I had
+[76:04] passed the House previously, I think.
+[76:07] And does Trump just have to sign up on
+[76:08] it now? See, like I I'm not following it
+[76:10] closely enough,
+ but I know that there's
+[76:13] I think so. Yeah.
+ I think there's going
+[76:14] to be a deluge of newly privately issued
+[76:19] stable coins and the government's
+[76:22] position is going to be to just try to
+[76:26] cut deals to to monitor that them
+[76:28] individually. Um, that's my outlook on
+[76:31] it. Um, we're gonna see what this looks
+[76:34] like. I feel like other big players in
+[76:36] in the fintech space like like a Stripe,
+[76:39] um, PayPal, uh, all all these sort of
+[76:43] players are going to get involved, issue
+[76:45] their own coins. Um, but yeah, like from
+[76:48] a surveillance perspective,
+[76:52] you know, the government's going to hook
+[76:53] into these companies. Um,
+[76:56] on the other side of things,
+[77:00] I'm not optimistic, but I think there
+[77:03] are opportunities for us to try to,
+[77:09] for lack of a better word, or better way
+[77:12] of putting it, like Bitcoinize the
+[77:13] dollar where we try to
+[77:17] build these systems on top of Bitcoin or
+[77:21] on top of ecash and we could sort of
+[77:24] reap the benefit benefits of the privacy
+[77:27] benefits of of the self-custodial
+[77:29] properties of these assets. Um but at
+[77:32] the same time we have to be realistic
+[77:34] and be like okay um the underlying asset
+[77:38] is
+[77:40] this completely untied to these
+[77:43] blockchain assets like the dollar could
+[77:45] be printed at a whim and self-custody
+[77:48] really means nothing in this context
+[77:51] but privacy does and
+[77:56] if we have the opportunity for
+[78:01] the bit uh for the dollar to be
+[78:04] operating on lightning where the
+[78:07] payers privacy is fantastic at least and
+[78:10] and this receivers uh property uh
+[78:12] privacy properties are are getting much
+[78:14] better especially over the last couple
+[78:16] of years or
+[78:19] the properties of cashew where you don't
+[78:23] know how much any individual user has or
+[78:25] or who's what and you can't stop any
+[78:29] individual
+[78:31] or shut down their account, you have to
+[78:33] rug the whole mint. Like I I think there
+[78:36] might be some interesting opportunities
+[78:38] there and if we can
+[78:40] take them, we should.
+[78:43] But at the same time, what are the
+[78:46] incentives for the government to do
+[78:48] that? These are going to be, if they
+[78:50] exist, they're not going to be
+[78:51] sanctioned
+[78:52] uh stable coins. There'll be privately
+[78:54] issued black market
+[78:57] um dollar pegs that are put together in
+[79:02] a plethora of different models as we see
+[79:04] now. There's algorithmic stable coins uh
+[79:08] stable coins uh where
+[79:11] uh the issuers are just putting together
+[79:14] short or long positions on these
+[79:16] exchanges depending on um what their
+[79:21] assets and liabilities are. Um,
+[79:26] yeah, I mean
+[79:29] there's opportunities there and and
+[79:31] perhaps
+[79:33] that could be an interesting avenue to
+[79:35] onboard people into Bitcoin, especially
+[79:37] if the rails to dump your Shitcoin,
+[79:40] fiat, dollar coins, whatever, and flip
+[79:43] into Bitcoin is as easy as making a
+[79:44] payment or pressing a button. That would
+[79:47] be phenomenal. That's definitely a lofty
+[79:51] uh but worthwhile aspiration to have.
+[79:55] Um but at the same time, let's not rely
+[79:57] on that. Let's try to onboard people
+[79:58] onto Bitcoin directly. Let's try to show
+[80:00] them the way
+[80:02] and
+[80:05] just go from there one day at a time,
+[80:07] one person at a time.
+[80:10] And a quick uh uh just fact check for on
+[80:13] both of us. Uh it it still has to go to
+[80:14] the House, but it did pass the Senate
+[80:16] 6830.
+ So it didn't go through the House.
+[80:18] Okay.
+ Yeah. Yeah. So it's it's uh it's
+[80:20] it's going to the House next. And
+[80:21] honestly, I I haven't followed it super
+[80:23] closely just because it's like uh I know
+[80:26] that a lot of people are super jazzed
+[80:27] about stable coins right now. I just I
+[80:29] don't find it quite as interesting. I
+[80:31] mean, the the the whole point of it is
+[80:33] literally like this is like Senator
+[80:35] Gillibrand like quoting her. It's like,
+[80:37] you know, protect US dollar dominance or
+[80:39] safeguard dollar dominance.
+ Yeah. the
+[80:42] increase demand for treasuries. It's
+[80:43] like how what is the appeal for us,
+[80:46] Walker? I mean, and you know, I
+[80:48] completely understand people in like uh
+[80:51] these countries where they have like
+[80:52] much weaker currencies just wanting it.
+[80:54] Like it makes sense to want tether in
+[80:57] Turkey, you know, like
+[81:00] their currency is dog [ __ ] Like we
+[81:01] complain about it is terrible.
+ It's
+[81:04] really bad in other places. And you
+[81:06] know, we have easy access to these
+[81:08] dollar rails, these dollar banking, uh,
+[81:10] and financial services. So, you know, at
+[81:14] at the same time, we're probably the
+[81:17] worst people to be talking to about
+[81:20] stable coins and,
+[81:22] you know, what usage looks like. Um, I
+[81:25] could only just provide my guidance on
+[81:27] like
+[81:28] privacy perspective and how I think it's
+[81:31] going to be surveiled. Um, but yeah,
+[81:34] there's it's obviously
+[81:37] like I said earlier, Tether's like the
+[81:38] biggest company in the world. There's
+[81:40] very real demand for it. It's not just
+[81:43] an artificial thing propped up by the
+[81:45] government, but the government is going
+[81:46] to take advantage of this demand and use
+[81:50] it to sell other treasuries.
+[81:54] Then the lifespan of the dollar.
+[81:57] Yeah. And you know, to be fair, it's
+[81:59] like the the dollar is, as far as fiats
+[82:01] go. Like, if the dollar has fallen, that
+[82:04] likely means pretty much every other
+[82:06] fiat currency in the world has already
+[82:08] collapsed if we're being honest. Like,
+[82:09] people like to single out the dollar.
+[82:11] It's like, okay, the dollar is going to
+[82:13] be one of the last dominoes to fall.
+[82:15] It's it's not the first. You know what I
+[82:16] mean? We like it's that's just a reality
+[82:18] of the situation.
+ Slowest melting ice
+[82:20] cube. And you know when the dollar
+[82:24] eventually falls
+[82:27] um
+[82:29] you know it's it's going to be at the
+[82:30] cusp of dystopia or utopia or you know
+[82:33] probably just a b multipolar world where
+[82:36] it's a little bit of both probably bad
+[82:38] in some places probably amazing in some
+[82:40] others. Um,
+[82:43] it's a bit scary to think about, but you
+[82:46] know, nothing lasts forever and
+[82:48] everything has its own lifespan. And,
+[82:52] you know, as much as I really love
+[82:54] American values, uh,
+[82:59] a lot of a lot of late empire
+[83:01] late stage empire vibes right now. Uh,
+[83:04] and a lot of scary things going on in
+[83:06] the world. And
+[83:08] obviously, change is the only constant.
+[83:11] So,
+[83:12] we'll see what happens.
+[83:15] Yeah. I mean, I I won't deny the the
+[83:18] scariness of things happening in the
+[83:19] world right now and the latest stage
+[83:21] empire vibes as well. I I again though,
+[83:24] it's like it's it's difficult for me to
+[83:26] see the United States collapsing before
+[83:31] basically everywhere else has collapsed
+[83:34] just realistically, you know. And maybe
+[83:36] I'm maybe I'm totally wrong. I also, you
+[83:38] know,
+ it's like if there's one thing
+[83:41] we've realized in, you know, in this
+[83:42] fiat world, it's man, the powers that be
+[83:44] are really good at kicking the can down
+[83:46] the road. Like they're really good at
+[83:48] kicking it down the road just just until
+[83:50] they all, you know, get to retire.
+ In a
+[83:52] lot of ways, like obviously like, okay,
+[83:54] we want a hyper bitcoinized world
+[83:56] tomorrow. We want a better world for our
+[83:58] children tomorrow, right? Um, but at the
+[84:00] same time, it would probably most
+[84:04] definitely
+[84:05] be better to have like an easy
+[84:07] transition onto the Bitcoin standard
+[84:10] instead of like an oh [ __ ] here's
+[84:12] societal collapse and figure it out and
+[84:16] just mass chaos. And
+[84:20] so,
+ yeah,
+ I think I think a little
+[84:23] patience will will go a long way. Um,
+[84:28] and you know, like I said, I'm not
+[84:30] expecting fiat collapse tomorrow either.
+[84:33] I I think they're going to repe it.
+[84:36] They're going to do all sorts of new
+[84:38] arrangements
+[84:39] and, you know, we should fully expect
+[84:43] fiat currency to be around for a long,
+[84:45] long time, for generations and
+[84:47] generations. Um, that being said,
+[84:51] humanity can still benefit from Bitcoin
+[84:55] greatly while it's still around.
+[85:00] That doesn't that doesn't mean we should
+[85:02] be working to extend the lifespan of it,
+[85:04] though. So,
+ be careful what you work on,
+[85:07] be careful what you wish for, and um,
+[85:10] you know, just try to be mindful and uh,
+[85:13] have intention with your actions.
+[85:17] Speaking of intention with actions, what
+[85:19] are you most excited uh that to kind of
+[85:22] you know, you mentioned some of the
+[85:23] things you need to tweak about about
+[85:24] Zeus and we we've gone in a I think a
+[85:27] big wide uh wide arc here and we're
+[85:29] coming back a little bit to where we
+[85:30] started, but you've you've got a lot of
+[85:32] stuff in this uh this latest release.
+[85:34] You guys have done a lot uh over, you
+[85:37] know, even the past couple years. Is
+[85:39] there something, you know, beyond the
+[85:40] the UIUX stuff that you're really uh you
+[85:44] want to make sure you turn on if you can
+[85:46] something you can talk about? I know
+[85:47] some stuff may be under the hood still,
+[85:49] but like is there something that you
+[85:50] think like, oh, like we really need to
+[85:53] get this in the app and I can't freaking
+[85:55] wait for it to happen.
+[85:57] Um,
+[86:03] or are you getting close to like
+ getting
+[86:05] close? There's Well, I definitely know
+[86:06] where the freckles are, the spots, the
+[86:08] things people struggle with. I think
+[86:11] some optionality on how the embedded
+[86:13] node works,
+[86:15] how you sync it to chain, stuff like
+[86:17] that. Like just a lot of technical
+[86:18] stuff. I know that once we flesh out a
+[86:22] little more, it's really going to shine.
+[86:23] Well, no, honestly, well, the thing I'm
+[86:25] most excited about right now is like
+[86:26] talking with merchants, onboarding
+[86:28] companies. Um, you know, Bitcoin
+[86:31] adoption and tooling from the uh
+[86:34] consumer side, I think, is actually
+[86:37] really good right now. Tons of
+[86:39] optionality. It's again, super easy to
+[86:41] use. Lightning is the de facto rails for
+[86:44] Bitcoin. Everything's interoperable. you
+[86:48] get out of uh you know a KYC account to
+[86:53] uh self-custodial lightning wallet very
+[86:56] easily with really good privacy like all
+[86:58] that stuff is great
+[87:01] the uh business side tooling is not so
+[87:06] great needs a lot of work but has a lot
+[87:09] of opportunity right now a lot of demand
+[87:11] I think some awesome things are going to
+[87:12] be built and I more than anything more
+[87:15] than any technology in Zeus or any
+[87:17] products we're building. I am just
+[87:18] really excited in general for adoption
+[87:21] to grow on the merchant side and that's
+[87:23] where we're also going to be spending a
+[87:24] lot of focus on um and are actually
+[87:27] really focusing on right now like we're
+[87:30] talking with three pretty interesting
+[87:34] uh merchants this week um that we're in
+[87:38] various stages of onboarding and you
+[87:40] know we really see this demand ramping
+[87:43] up and
+[87:45] yeah I I don't I mean there there are
+[87:47] improvements that I'd like to see come
+[87:50] to lightning and even to the base
+[87:52] protocol like we we recently signed a
+[87:54] letter signaling our support for uh a
+[87:57] CTV
+[87:59] uh CSFS software
+[88:03] whether I think that's going to actually
+[88:04] come to fruition
+[88:07] I really don't know I think uh some of
+[88:09] the tribalism going on right now is
+[88:10] going to make that exceptionally
+[88:12] difficult but
+ can you explain in ADIQ
+[88:14] terms what that means
+[88:17] Um,
+[88:19] yeah, covenants. Uh, covenants allow you
+[88:21] to put spending restrictions on your
+[88:25] Bitcoin. It's all optional. It's all
+[88:27] optin, but it's going to pave the way
+[88:30] for a lot of L2 systems to work more
+[88:33] efficiently. Um,
+[88:36] this includes uh Lightning, this
+[88:38] includes stuff like Arc, this includes
+[88:44] uh UX for coin joints. Um, yeah, just a
+[88:48] lot of things you could do um much more
+[88:51] passively uh with coin joints
+[88:54] um
+[88:56] and sort of take your your setup
+[88:58] offline. Um, super exciting. Um, and
+[89:02] then just in general, uh, what you can
+[89:06] do with vaults,
+[89:07] like spending restrictions that you can
+[89:10] have for your personal stash, uh, to
+[89:14] ensure that your family and your savings
+[89:17] are are safe without really having to
+[89:19] rely on a third party. Like right now we
+[89:22] have really good tooling that you can do
+[89:24] with collaborative multi-IG
+[89:27] uh like these companies like Unchained
+[89:29] or or Casa signing tools like stuff like
+[89:33] Nunchuk mobile wallet makes multi-IG
+[89:35] really easy, Phoenix hardware wallets um
+[89:40] that allow you to do all these crazy
+[89:42] things, but a lot of them like really
+[89:44] require third party help. If you have a
+[89:46] vault, you can say, "Hey, my money is in
+[89:49] this vault. It has a
+[89:52] three-day, 14 day, three month, six
+[89:55] month cool down period and I can send
+[89:58] something out into transit. I don't need
+[90:01] to get this money until the end of that
+[90:03] period. But if I see anything is messed
+[90:06] up, flow it back. I have an exit path.
+[90:10] Bring it back, put it back in the vault
+[90:12] or kick it out somewhere else where I
+[90:13] know it's safe.
+[90:15] and the ability to create this
+[90:22] uh
+[90:25] this timelmited
+[90:28] place for your Bitcoin to live
+[90:31] um for these big transfers is like is
+[90:33] huge. Um there's really reduces the
+[90:38] ability for someone to break into your
+[90:39] house to stick a gun to your head. It's
+[90:42] like no, it's in the vault. Like
+[90:44] someone else or or if it's not me claw
+[90:48] it back uh within that time period and
+[90:51] it gives you just like a whole lot of
+[90:54] asurances. It it puts time on your side
+[90:57] when you're doing self custody. And I
+[91:00] think that vaults alone
+[91:03] are worth activating uh OPCTV for. I I
+[91:07] truly do. I I think for self custody to
+[91:10] to really flourish and for the
+[91:11] individual to really take it into their
+[91:13] own hands and reap these benefits, get
+[91:16] rid of these security concerns, vaults
+[91:19] and and covenants go so so far. And
+[91:23] that's why I've been a real ardent
+[91:24] supporter of them on top of the benefits
+[91:26] we get with L2s, Arc, Lightning, Coin
+[91:29] Joints, new constructions we haven't
+[91:31] even thought of. Um
+[91:34] and yeah, I just don't want Bitcoin to
+[91:36] to stagnate either. The discussions have
+[91:38] been really interesting right now. Um
+[91:41] because a lot of people are opposed to
+[91:42] change on Bitcoin because the secondary
+[91:46] effects of say something like Taproot
+[91:48] and um you know enabling or at least
+[91:51] making stuff like ordinals or or rather
+[91:55] inscriptions easier
+[91:57] uh has left like a lot of people like
+[91:59] risk averse and not wanting to change
+[92:01] Bitcoin at all. And I understand that.
+[92:05] But still like Bitcoin usage overall in
+[92:08] the world is still super low. Uh Bitcoin
+[92:11] is a medium of exchange still not widely
+[92:14] adopted. Uh and I really think that
+[92:16] these op codes are simple. They're well
+[92:19] reviewed.
+[92:20] Um I don't think there although you can
+[92:24] never know for sure. I I don't see any
+[92:26] major impacts in the same way that a new
+[92:29] uh scripting type has. I think Tapoo is
+[92:33] a much bigger can of worms. Um
+[92:37] yeah, of course I love this technology,
+[92:40] want to protect it, but also want it to
+[92:41] be
+[92:43] as easy to use um
+[92:47] in into use case as money as it can be.
+[92:49] And I think that these the software um
+[92:53] does that. It's very much worth
+[92:55] considering and I'm been loving the
+[92:58] discussions that we've been having the
+[93:01] last week or two since this letter we
+[93:03] signed has been out. Obviously, a lot of
+[93:06] push back, but just the fact that these
+[93:07] discussions have been happening
+[93:10] uh have been fantastic and I think it's
+[93:11] much more productive than arguing about
+[93:14] uh relay policy or some of the other
+[93:17] even more shallow topics the community
+[93:19] has been talking about. So, it's been
+[93:20] really great to champion that and see
+[93:23] where that goes. So, we'll see. We'll
+[93:25] we'll see what happens. Hopefully, we
+[93:26] have
+[93:28] uh an activation client maybe end of the
+[93:32] year, probably next year.
+[93:35] We'll see. Um
+[93:38] but even if we don't get it activated,
+[93:41] still a ton of stuff that we have to
+[93:43] work on in Bitcoin and still a lot of
+[93:45] things we can do to make adoption more
+[93:48] widespread.
+[93:50] Do you think the uh uh the filters
+[93:54] debate is a important one right now or
+[93:58] do you view that as a bit of a
+[93:59] distraction?
+[94:01] It's not entirely a distraction and I'm
+[94:04] very sympathetic to the view that
+[94:05] Bitcoin shouldn't just be a general
+[94:06] storage database, but at the same time
+[94:10] um
+[94:13] this there's a lot of noise. There's a
+[94:14] lot of noise. There's a lot of
+[94:16] tribalism.
+[94:17] Um,
+[94:21] really
+[94:22] at the end of the day, it's your node.
+[94:24] It's your rules. You should run the
+[94:26] policies that you want. I fully believe
+[94:28] in the ability for people to run
+[94:29] whatever node implementation they want.
+[94:32] Uh, I probably,
+[94:36] you know, the the one single
+[94:37] implementation for everyone is probably
+[94:39] not the best way to go. I think it's
+[94:41] better to
+[94:43] have competing implementations. Uh
+[94:46] centralizing power of course is
+[94:48] dangerous. Um there have been some red
+[94:52] flags for sure that out of the core camp
+[94:55] and how that's organized. Uh but at the
+[94:58] same time it's definitely been
+[94:59] overstated.
+[95:01] Um
+[95:03] you know there's there's a lot of nuance
+[95:04] to it but it's definitely not the end of
+[95:06] the world. the relay policies, you can
+[95:09] just run an older version of core or,
+[95:13] you know, if you're technically
+[95:14] inclined, you can run the latest version
+[95:16] without the commits that you don't like
+[95:17] on it. Um, but generally speaking,
+[95:22] like I've been saying this whole show,
+[95:24] people are going to use Bitcoin
+[95:25] differently.
+[95:27] This isn't a consensus change.
+[95:31] Bitcoin isn't really changing at its
+[95:33] core.
+[95:34] um your node, your rules,
+[95:36] you should use Bitcoin in the way that
+[95:39] makes most sense for you. Um
+[95:43] so yeah, love to see a lot of people
+[95:46] spinning up their own nodes though. It's
+[95:48] fantastic.
+[95:50] Spin up a node, run it,
+[95:52] use it for your transactions. If you're
+[95:55] just spinning up a node and
+[95:58] just having it talk on the internet and
+[95:59] you're not doing with it anything with
+[96:01] it just to increase a number on a chart
+[96:04] on the pie chart like I don't who cares
+[96:06] about that. But if you're using it
+[96:10] that's amazing. You
+[96:12] validate your own transactions hold your
+[96:13] own keys. It's all we've ever really
+[96:16] wanted.
+[96:18] Man that's a a heck of a note I think to
+[96:22] wrap up on. We've been running here for
+[96:24] a little little over 90. Is there
+[96:25] anything uh we we didn't cover that you
+[96:28] wanted to make sure we touched on either
+[96:29] about you know Zeus or where do you want
+[96:31] to send people? Uh yeah, feel free to to
+[96:33] to show anything you want right now.
+[96:36] Let's do it. Uh check out the wallet.
+[96:37] We're at zeusln.com. We're on Nster.
+[96:40] We're on X. We have a Telegram group.
+[96:43] Everything is linked on the website.
+[96:45] That's Zeusln.com.
+[96:48] Check out the wallet. You can get
+[96:49] started with a Cashew wallet. You get a
+[96:53] free lightning address. You could put
+[96:54] that in your Nster bio. You can start
+[96:56] accepting zaps. When you get enough
+[96:58] stats that becomes economically viable
+[97:00] to upgrade to self- custody, we're going
+[97:02] to bug you about it. Uh but once you get
+[97:04] your own Lightning Channel, you got some
+[97:08] funds in self-custody. Those messages
+[97:10] are going to go away. You can reap the
+[97:13] benefits.
+[97:15] Keep that cashew wallet. Sweep to self
+[97:17] custody.
+[97:18] whenever makes sense for you
+[97:21] and you could keep going on that
+[97:22] journey. You be can become that self-
+[97:24] sovereign full node runner. You can
+[97:27] point your lightning address that you've
+[97:30] kept this whole journey to your full
+[97:31] remote node using the offster wallet
+[97:33] connect.
+[97:35] And yeah, we've got a whole lot of other
+[97:37] tools that we're working on. Our point
+[97:39] of sale products are going to be
+[97:40] improving. We were working with new
+[97:42] merchants. We just started doing our
+[97:44] proof of concept for selling digital
+[97:46] goods on zeuspay.com.
+[97:48] Go check out uh Bitcoin for institutions
+[97:52] by our friend fundamentals. That's all
+[97:54] linked on our social profiles. Go check
+[97:55] that out.
+[97:58] And yeah, just, you know,
+[98:01] think critically, use Bitcoin in a way
+[98:03] that makes sense for you and uh you
+[98:06] know, make Bitcoin payments your way.
+[98:09] That's it.
+[98:11] Amen to that. Evan, thanks so much for
+[98:13] coming on here, man. Great uh great to
+[98:15] finally get you on the show.
+ I really
+[98:16] appreciate it. I'm The only thing I'm
+[98:18] really confused about is like it's the
+[98:20] Titcoin podcast. I don't mentioned
+[98:22] breast once on the show.
+ Maybe maybe
+[98:25] when you have me back, we can hit on
+[98:27] that. I guess
+ you you come you come for
+[98:28] the tits, you stay for the bits. That's
+[98:30] how you know it it's it's really just uh
+[98:33] it's really just to hook hook people in
+[98:34] who would otherwise uh find Bitcoin
+[98:36] itself too boring. I I do have BIP 6969
+[98:40] as well. Um which yeah, it's it's a
+[98:42] pretty serious BIP that I've published.
+[98:44] Uh so if you ever want to check that
+[98:46] out, it's it's pretty fascinating.
+ Okay,
+[98:48] I have some reading to do tonight.
+[98:51] Seriously though, man, appreciate you
+[98:52] coming on here. Welcome back anytime.
+[98:54] Thanks again, Walker. It's been great.
+[98:56] Likewise, man. Talk soon.
+[98:59] [Music]
+[99:05] And that's a wrap on this Bitcoin Talk
+[99:08] episode of the Bitcoin Podcast. Remember
+[99:11] to subscribe to this podcast wherever
+[99:13] you're watching or listening and share
+[99:15] it with your friends, family, and
+[99:17] strangers on the internet. Find me on
+[99:20] Nostaster at primal.net/walker
+[99:22] and this podcast at primal.net/titcoin.
+[99:26] On X, YouTube, and Rumble, just search
+[99:29] America. And find this podcast on X and
+[99:32] Instagram at titcoinodcast.
+[99:34] Head to the show notes to grab sponsor
+[99:36] links. Head to substack.com/walkeramea
+[99:40] to get episodes emailed to you. And head
+[99:42] to bitcoinodcast.net
+[99:44] for everything else. Bitcoin is scarce,
+[99:48] but podcasts are abundant. So, thank you
+[99:51] for spending your scarce time listening
+[99:53] to the Bitcoin podcast. Until next time,
+[99:57] stay free.
+[100:03] [Music]

@@ -1,0 +1,1886 @@
+Title: Nick Neuman: How the Top 1% secure their Bitcoin!
+Video ID: 4CNp0CfdF1M
+URL: https://www.youtube.com/watch?v=4CNp0CfdF1M
+Date Saved: 2025-06-15 11:50:55
+--------------------------------------------------
+
+[00:00] self- custody can be mainstream
+[00:01] custodians have been holding our money
+[00:04] our stocks our bonds for us for
+[00:06] centuries but what has changed with
+[00:09] Bitcoin is just that Bitcoin is now
+[00:10] digital money relative to any other
+[00:12] point in history it's very easy for
+[00:14] people to self- custody in a secure way
+[00:17] it can be a systemic risk to bitcoin to
+[00:19] have most of it sitting with custodians
+[00:21] just because it's very identifiable
+[00:23] where it is at that point that change in
+[00:25] technology is really powerful and really
+[00:28] has the potential to change the banking
+[00:30] model because now banks have to think
+[00:32] about what are all the services that I
+[00:34] provide around this custody model
+[00:37] instead of just how do I aggregate
+[00:40] Assets in order to lend them out when
+[00:42] you give people more responsibility they
+[00:45] improve the quality of how they act
+[00:47] thanks to cryptography and private
+[00:50] [Music]
+[00:53] Keys why aren't people taking more self-
+[00:57] custody I I always bring that example of
+[00:59] I have like a few friends of mine who
+[01:01] are almost all in in Bitcoin and they
+[01:03] still don't have self- custody they
+[01:05] still have it completely on Exchange um
+[01:07] why do you think those people don't take
+[01:10] self- custody what mindset barriers uh
+[01:13] do they have to overcome I mean I think
+[01:15] there's a couple of reasons here what's
+[01:18] interesting is there there's actually a
+[01:19] lot of Bitcoin protected in self-
+[01:22] custody
+[01:23] and the more Bitcoin that you protect
+[01:27] the more likely you are actually to be
+[01:28] self- custody and that Bitcoin I think
+[01:31] because you're having to protect a much
+[01:33] larger value and really think about what
+[01:36] are the things that could go wrong here
+[01:40] and
+[01:41] um it's just much more painful to lose a
+[01:44] large amount of Bitcoin and so you're
+[01:45] thinking much more seriously about your
+[01:47] security I think that for people who are
+[01:52] not comfortable with self- custody a lot
+[01:54] of that comes from really two things it
+[01:58] comes from fact that this is a very new
+[02:00] behavior for centuries now we've been
+[02:03] securing Bitcoin using uh or securing
+[02:06] money sorry using Banks right like
+[02:09] custodians have been holding our money
+[02:13] our stocks our bonds for us for
+[02:16] centuries and so it's a very well-worn
+[02:20] path to you to trust somebody else to
+[02:24] secure your money for you and the reason
+[02:26] that that was all built up so long ago
+[02:29] was the fact that money was physical and
+[02:31] so it was much harder to protect and you
+[02:34] really needed somebody who specialized
+[02:36] in building a bank or you know building
+[02:40] a building that can be heavily
+[02:42] fortified and able to secure money so
+[02:47] that uh individual people didn't have to
+[02:50] like think about how they were going to
+[02:51] keep this safe in their houses which was
+[02:53] very difficult at the time
+[02:56] so that was why that all started but
+[02:58] what has changed with Bitcoin is just
+[03:01] that Bitcoin is now digital money
+[03:03] relative to any other point in history
+[03:04] it's very easy for people to self
+[03:06] custody in a secure way and to have a
+[03:09] very secure setup that can help them
+[03:12] secure anywhere from a couple dollars
+[03:14] worth of bitcoin to you know thousands
+[03:17] of Bitcoin or more and so I think this
+[03:20] is something that is a change in
+[03:22] technology that Bitcoin brings but the
+[03:24] human behavior and the comfort with this
+[03:26] hasn't quite caught up yet and then the
+[03:28] second big reason why I don't think
+[03:30] people self custody is when they hear
+[03:32] what you have to do to self custody in a
+[03:34] secure way it's a nightmare and so they
+[03:37] just you know you're like you got to
+[03:39] have this Hardware wallet that you write
+[03:41] down this seed phrase for a seed phrase
+[03:44] is 12 or 24 words and if you lose it you
+[03:47] lose all your Bitcoin make sure somebody
+[03:49] doesn't steal it too because or make
+[03:52] sure you don't give it to anybody else
+[03:54] because then they can steal your Bitcoin
+[03:57] so when you the way that people have had
+[04:02] uh historically to protect themselves
+[04:05] when they're self- custody has just been
+[04:06] incredibly difficult so to us when we
+[04:10] think about this at Casa we think about
+[04:11] how do we help people understand from a
+[04:15] human behavior perspective why this
+[04:19] makes sense and why the technology of
+[04:20] Bitcoin unlocks self- custody as a new
+[04:25] behavior for them and as something
+[04:27] that's actually great for their life and
+[04:29] then we also focus a ton on building
+[04:32] things that are really simple for people
+[04:33] to use because people don't want to
+[04:36] spend all their time trying to figure
+[04:39] out how to be secure they just want
+[04:42] somebody to tell them how to do it so
+[04:44] it's the same kind of corollary to I'm
+[04:48] going to store my gold in a bank because
+[04:51] the bank is the Security Experts that
+[04:53] can secure it for me that uh with
+[04:56] Bitcoin you can secure it yourself but
+[04:59] you still want the Security Experts to
+[05:00] be telling you how to do it you don't
+[05:02] want to spend all of your time becoming
+[05:04] a security expert and staying up to date
+[05:05] with things and for a lot of the self-
+[05:08] custody solutions that are out there
+[05:10] that's what you have to do with Casa
+[05:12] what we really tried to do is make it so
+[05:13] that all you got to do is do what the
+[05:15] product tells you to and you're in great
+[05:17] shape so those are the two main reasons
+[05:20] that I think there's been a like a lot
+[05:23] of people when you talk to them feel
+[05:25] hesitant to self custody and they're
+[05:27] things that that we're always working to
+[05:29] to make better I think also it could be
+[05:32] um uh the technical aspect of it is is a
+[05:36] big one because they come into like oh
+[05:38] like okay there's a hardware wallet okay
+[05:40] I have a pin oh I have a backup seat for
+[05:42] if the hardware wallet gets destroyed
+[05:44] and then oh there's like steel wallets
+[05:45] and like it I think if if people hear
+[05:48] too many words they don't understand
+[05:50] they they click off and and they then go
+[05:52] on on their day like oh okay I trusted
+[05:55] my money with with banks so why not
+[05:57] trust my my Bitcoin also with banks so I
+[05:59] think like that's a a huge part of like
+[06:02] like there are too many words that I
+[06:04] don't understand and I just click off I
+[06:06] think we we underestimate how big
+[06:09] psychology plays into that but do you
+[06:11] think we come to a point where self-
+[06:13] custody is is something mainstream uh
+[06:17] and something that uh most of the the
+[06:20] people will do and like most of the
+[06:22] bitcoiners will
+[06:24] do so I think that from a technology
+[06:28] perspective and from a product
+[06:30] experience perspective Casa is to the
+[06:33] point where self- custody can be
+[06:35] mainstream and actually this has taken
+[06:37] quite a bit of time to build up to but
+[06:41] we've the last couple of major feature
+[06:43] releases that we've put out
+[06:45] there have really taken huge steps
+[06:49] towards making this finally feel like a
+[06:51] package that anybody can use to self-
+[06:55] custody their Bitcoin and feel
+[06:56] comfortable doing it and that's earlier
+[06:59] this year we release the casa
+[07:00] inheritance feature which solves the
+[07:02] problem of what happens if I die um and
+[07:05] I'm self- cing my Bitcoin how do I make
+[07:06] sure that my family can access that and
+[07:09] then the second feature that we just
+[07:13] released um a little over a month ago is
+[07:17] being able to use a UB key as part of
+[07:19] your casa setup and so one of the main
+[07:21] friction points that we have always seen
+[07:24] was that while all of the casa software
+[07:27] was very easy for people to use using a
+[07:30] hardware wallet and going to the
+[07:31] hardware wallet manufacturers software
+[07:34] interface always was pretty it was it
+[07:37] was a pretty big hurdle for people who
+[07:40] didn't know what they were doing and who
+[07:41] weren't already comfortable with
+[07:43] Hardware wallets so the UB key is a very
+[07:47] simple way for people to hold a Bitcoin
+[07:51] key offline in Cold Storage on a
+[07:55] dedicated device and then use it with
+[07:58] Casa software in a way where it's just a
+[08:01] tap in order to uh sign or transact with
+[08:06] the key that's held on that UB key and
+[08:08] so it's a I I really think that we've HD
+[08:12] on this perfect solution where we can
+[08:14] take this more mainstream now because
+[08:17] we've really solved all the edge case
+[08:19] problems like inheritance and then we've
+[08:21] also solved the user experience problem
+[08:25] with UB keys and so um I think this is
+[08:30] something that over
+[08:31] time the vast majority of people will
+[08:36] shift to having at least some of their
+[08:38] Bitcoin in self- custody you're always
+[08:40] going to have you know people who
+[08:42] diversify their risk or who they want to
+[08:44] keep some on an exchange because they uh
+[08:48] trade with it more often or whatever
+[08:51] they want to do with it but I think that
+[08:53] from a a technology perspective we are
+[08:56] there and now it's about telling that
+[08:58] story in a way that everybody
+[09:01] understands hey we've solved a lot of
+[09:03] these problems here's why you should
+[09:04] care about self- custody here's why the
+[09:07] exchange or custodian that you're
+[09:09] keeping your Bitcoin with is not as safe
+[09:12] as you think and you should take that
+[09:16] responsibility into your own hands
+[09:17] because nobody cares as much as you do
+[09:19] about protecting your own money and
+[09:21] that's something that I think is a is a
+[09:23] big misconception or has been a big
+[09:26] misconception for bitcoiners so far
+[09:28] because they're like well
+[09:30] I don't really know how to do this so
+[09:32] I'm going to trust that this company
+[09:34] over here will do a better job than me
+[09:37] because it's their it's part of their
+[09:40] technology stack it's part of what
+[09:42] they've built and they're gonna they're
+[09:44] going to do a better job than me at
+[09:46] securing this and I think that depending
+[09:48] on the company you're working with that
+[09:51] um could be true but even if they are
+[09:55] doing a better job than you without the
+[09:57] right tools would do there's still a
+[10:00] bunch of points of vulnerability because
+[10:02] of how Bitcoin works as a at its base as
+[10:06] money with irreversible transactions
+[10:09] based on cryptography and private keys
+[10:11] and a decentralized network of nodes and
+[10:15] miners that makes it not a good fit for
+[10:20] custodial Solutions it's actually just a
+[10:23] much better fit from a security
+[10:25] perspective for self- custody and so as
+[10:28] people start to understand that
+[10:31] understand some of those risks and um
+[10:34] and then realize oh I don't have to go
+[10:37] this alone I can use a company like Casa
+[10:39] to help me do this easily I think that's
+[10:41] how we we see this flip and more and
+[10:43] more people adopting self- custody yeah
+[10:47] absolutely um the UI key one is is
+[10:49] really interesting as I worked a little
+[10:52] bit in it security and I know all my it
+[10:54] security friends are crazy about yuy
+[10:57] everyone is like yeah I use yub key for
+[10:59] your passwords like even for all your
+[11:01] logins you should have UB key there so I
+[11:05] I know UB key uh knew that before you I
+[11:08] think you announced it on on uh in the
+[11:11] Nashville conference I think the first
+[11:13] time you you told you told about that
+[11:16] um obviously it's way more user friendly
+[11:21] UB it's just a tab and it's it's a
+[11:23] easier setup are there any backd draws
+[11:26] to it any disadvantages to it uh or is
+[11:29] there any level where you're like okay
+[11:31] if if you have that many Bitcoins it
+[11:33] really makes sense to to use Hardware
+[11:35] wallets is there any uh difference
+[11:37] between using Hardware wallets versus
+[11:38] using the U Keys yeah there is so the
+[11:42] main difference between Hardware wallets
+[11:43] and U Keys is that um a hardware wallet
+[11:47] has the ability to actually verify and
+[11:49] sign Bitcoin transactions on the device
+[11:53] itself whereas a UB key can't do that
+[11:56] today and so the way that we've
+[11:58] integrated UB Keys is we like a hardware
+[12:01] wallet we are storing the actual Bitcoin
+[12:04] key on the UB key device and so you get
+[12:07] cold storage for 99% of this key
+[12:12] existence and that's what really matters
+[12:14] right it's one of the most important
+[12:17] pieces of self- custody is you want to
+[12:20] make sure that you have keys that are
+[12:22] stored on offline
+[12:25] devices um so some part of the tradeoff
+[12:30] is that when you use a UB key with Casa
+[12:33] the way that it works is that key is
+[12:35] stored on the UB key you plug it into
+[12:37] your computer in order to sign a Bitcoin
+[12:40] transaction and the UB key decrypts the
+[12:44] Bitcoin key sends that Bitcoin key to
+[12:47] the casa software which signs with the
+[12:50] key on the transaction that you're
+[12:52] actually doing at the time and then
+[12:55] throws the key away all in the same
+[12:57] function so the key is not stored on
+[13:01] Casa's servers it's never stored in
+[13:03] Casa's software but the key becomes hot
+[13:06] basically which means it it touches an
+[13:09] online device for that Split Second
+[13:12] where it's signing a
+[13:13] transaction and so by that nature that's
+[13:16] going to make it less secure than a
+[13:18] hardware wallet and that's why we call
+[13:20] it instead of calling it cold storage or
+[13:22] a cold key we actually call UB Keys cool
+[13:25] keys because they're cold for the major
+[13:29] majority of that key life but then the
+[13:31] couple of times when you're actually
+[13:32] using it it becomes a hotkey so why are
+[13:36] we comfortable with this we're
+[13:37] comfortable with it because this is part
+[13:39] of the overall Casa security model where
+[13:43] that UB key that the Bitcoin key that's
+[13:45] on that UB key is not the only key
+[13:47] protecting your Bitcoin it's part of a
+[13:50] multisig where you need multiple keys to
+[13:52] move any Bitcoin and so the compromise
+[13:55] of any one key becomes less important
+[13:59] and it's more about how do you secure
+[14:02] the whole set of keys and what are the
+[14:04] different tradeoffs of each type of key
+[14:07] that you're using in order to give you
+[14:08] the best balance between Simplicity and
+[14:12] security and so that's why we feel
+[14:15] comfortable with UB Keys as one of the
+[14:17] types of keys and you can set up your
+[14:20] Kasa multisig where you've got one of
+[14:23] your keys on a UB key and then one or
+[14:25] more of your keys on Hardware wallets
+[14:27] too and so that way you still get that
+[14:29] benefit from the hardware wallet but the
+[14:32] UB key is uh replaces one of your
+[14:36] Hardware wallets where it just makes it
+[14:38] a little bit easier overall when you're
+[14:40] going to transact maybe you use that UB
+[14:43] key as part of a a casa inheritance
+[14:45] setup so that your family your spouse um
+[14:50] if they were going to be uh they needed
+[14:53] to access your Bitcoin in a scenario
+[14:55] where you passed away they have an
+[14:57] easier key to use than trying to figure
+[14:59] out how to use a hardware wallet which a
+[15:01] lot of people are intimidated by and so
+[15:05] it's part of an overall security setup
+[15:07] so yes you take a little bit of a
+[15:09] security hit from a typical Hardware
+[15:11] wallet but when you take into account
+[15:12] the security of the entire system it's
+[15:15] actually still really solid and really
+[15:17] strong but Kasa offers uh both with card
+[15:21] with hard wallets and with uh ubk so
+[15:24] like that like you can basically choose
+[15:26] what what you prefer as an individual
+[15:29] yeah exactly so you can you can you you
+[15:31] can use UB Keys you can use Hardware
+[15:33] wallets we have the ability to have one
+[15:35] key that's on your phone and then
+[15:37] there's also always a key held by Casa
+[15:39] and so you you have this nice mix of
+[15:42] different types of devices different
+[15:44] types of key storage ranging from cold
+[15:46] to hot that really let you set up a
+[15:51] robust usable security system and this
+[15:54] feels uh to people who are new this
+[15:58] might feel like a lot it might feel like
+[15:59] a lot of decisions that they got to make
+[16:02] we make a lot of these decisions for you
+[16:04] in the product we guide you through the
+[16:06] product in a way that you we have very
+[16:09] strong defaults basically so that you
+[16:11] can just go with what we are telling you
+[16:13] to do but then um if you don't want to
+[16:16] take that default path then you can
+[16:19] change things up for to to match your
+[16:21] situation and we still support a a very
+[16:24] broad range of other Hardware wallets
+[16:25] and devices that can help you do that
+[16:28] securely and just interesting um I think
+[16:30] collaborative custody has a lot of very
+[16:33] unique very interesting advantages um
+[16:37] why do you think that I mean you could
+[16:39] also have uh started a company just
+[16:42] advising people on self- custody and and
+[16:44] do them do all the keys themselves like
+[16:47] um there are other companies that just
+[16:49] do that um why did you choose to make a
+[16:52] company where there is uh intentionally
+[16:55] one key with the company and two or uh
+[16:59] four other keys with with the with the
+[17:02] client what what advantages does that
+[17:04] bring well I think it gives people a lot
+[17:07] of peace of mind they always know that
+[17:09] they're going to be able to access the
+[17:11] casa key and so if they make a mistake
+[17:14] lose one lose two of their keys the casa
+[17:18] key is always there to be one signature
+[17:20] that they need in order to access their
+[17:22] Bitcoin
+[17:24] and as much as we say don't trust verify
+[17:28] in in
+[17:30] Bitcoin we are humans and humans want to
+[17:32] trust people like go back to wanting to
+[17:34] trust custodians and in at the beginning
+[17:37] of our discussion right we want to um
+[17:41] trust that somebody knows what they are
+[17:44] doing in this area and can help us do it
+[17:46] well and so as we were building Casa
+[17:49] having the casa key be part of people's
+[17:51] setup means they people can trust that
+[17:54] we're going to protect that key well but
+[17:58] let's say cost was ever malicious or
+[18:00] Casa was compromised in some way that
+[18:03] one key isn't enough to do anything with
+[18:06] our customers funds by itself and so
+[18:09] it's the right balance between being
+[18:11] able to have Casa as a backup allowing
+[18:14] your family to use Casa as a backup in
+[18:17] case something bad happens and not
+[18:20] having full control and like having to
+[18:22] fully trust Casa like you would a
+[18:24] custodian interesting also with with
+[18:26] trust um that's an really interesting
+[18:28] discussion that I always have on the
+[18:29] podcast because I feel like um sometimes
+[18:31] we go too far out of the freedom uh
+[18:35] Spectrum where we want to be too
+[18:38] independent uh and I explain a little
+[18:40] bit what I mean with that I think we
+[18:42] always have dependencies on other people
+[18:44] and I think those are good because if
+[18:46] you don't have any dependencies like the
+[18:49] the the trash of of of your home will
+[18:52] not get carried away you have to do it
+[18:54] yourself uh if if you have uh no no
+[18:57] other people that help you in any way of
+[18:59] shape or form you're basically yourself
+[19:01] in in the woods and and forests and
+[19:02] fighting against animals I think the the
+[19:05] the freedom aspect is like you should
+[19:07] not be free of any other human being but
+[19:10] you should be free in your decision
+[19:11] making so I like collaborative uh um
+[19:14] models a lot because we do trust other
+[19:18] human beings and we should trust other
+[19:20] human beings uh like a bus driver that
+[19:23] we trust that he will not crash the bus
+[19:25] and stuff like that right uh trust to a
+[19:28] certain extent is good as long as we
+[19:30] have the control so I like the model
+[19:32] where uh you have trust in someone else
+[19:35] but you still have the control over your
+[19:38] keys especially with with Bitcoin and
+[19:40] and the possibilities of that what I was
+[19:43] also is interesting for me is um when we
+[19:47] look at the future of of self custody do
+[19:50] you think that Cara is in the future
+[19:53] kind of kind of The Future model of a
+[19:55] Bitcoin Bank where uh you only help uh
+[19:59] customers how to to help the Bitcoin
+[20:01] maybe even with like um models uh above
+[20:04] that I think unchain has that where they
+[20:07] have like loans on on Bitcoins or they
+[20:09] they they make something with that I'm
+[20:11] not familiar with their product but I
+[20:12] heard something around that do you think
+[20:14] that this is the way to go where banks
+[20:18] will in the future just hold like one
+[20:20] out of five Keys uh and have then
+[20:22] products around that banking products
+[20:25] even around that uh do you see that that
+[20:27] is the the future or how do you see that
+[20:30] I think it does change how we approach
+[20:32] the banking model overall because the
+[20:35] banking model right now is all about
+[20:38] taking in assets from taking in deposits
+[20:41] from customers and then going and
+[20:44] lending those deposits out to people to
+[20:48] in order to generate a return for the
+[20:50] bank and then some of that return gets
+[20:52] paid back to the depositors but you know
+[20:56] his historically it was a lot larger
+[20:58] than it is these days these days it's
+[21:00] very small amount so the way that this
+[21:03] changes is I think that to date until
+[21:07] Bitcoin was
+[21:09] invented you had no other choice besides
+[21:12] I have to put my money in a bank and so
+[21:13] I have to allow the bank to lend out my
+[21:15] money because if you don't want the bank
+[21:17] to lend out your money then the only
+[21:19] thing you can do is like stuff cash in a
+[21:21] mattress basically and that's just not
+[21:25] reasonable or practical for for people
+[21:27] to do
+[21:29] so uh now you can secure your own money
+[21:33] you don't have to give it to a bank with
+[21:36] the equivalent of a mobile app and a UB
+[21:40] key and so it's something that can fit
+[21:44] in your pocket and you can hold be
+[21:46] holding Millions tens of millions of
+[21:49] dollars worth of bitcoin in your pocket
+[21:52] and that change in technology is really
+[21:55] powerful and really has the potential to
+[21:58] change the banking model because now
+[22:01] banks have to think about what are all
+[22:04] the services that I provide around this
+[22:07] custody model instead of just how do I
+[22:10] aggregate Assets in order to lend them
+[22:13] out for um ba based on the depositors
+[22:17] that are holding their money with me in
+[22:19] the bank and so now that maybe changes
+[22:21] the banking model
+[22:23] where um banks have to make it more
+[22:25] attractive to people to
+[22:29] offer them some assets that they can go
+[22:30] lend out to other people so instead of
+[22:33] it being very small interest rates that
+[22:36] you get on your deposits maybe you need
+[22:38] higher interest rates in order to
+[22:40] convince people to take some of their
+[22:42] Capital out of self- custody and give it
+[22:44] to the bank for Lending so I think that
+[22:47] banks in this model they start to focus
+[22:51] a lot more on the services around what
+[22:53] they offer and they have to make those
+[22:54] actually competitive again and people
+[22:57] always have this exit path to self-
+[23:00] custody in this scenario where um you
+[23:04] know to dat you actually don't uh you
+[23:06] haven't had that so when you look back
+[23:08] at the
+[23:10] svb uh Silicon Valley Bank
+[23:13] meltdown um about a year ago year and a
+[23:16] half ago when Silicon Valley Bank which
+[23:19] is where a bunch of startups were
+[23:20] keeping their money when they were going
+[23:22] under and everybody was worried about it
+[23:24] and there was a run on the bank there
+[23:26] was no option really for people to sell
+[23:28] custody those dollars I mean it's very
+[23:31] difficult to get those into like Bitcoin
+[23:32] or stable coins in short notice and then
+[23:35] bring it to self- custody right and so
+[23:38] what are people doing everybody's on
+[23:41] these threads with other startup
+[23:43] Founders being like what banks are you
+[23:45] getting accounts opened at where can we
+[23:47] go that's not going to fail people were
+[23:50] wondering about all these different
+[23:51] banks potentially failing and there was
+[23:53] really not a good way to um to judge
+[23:57] whether a bank was sound or not in that
+[24:00] time where Banks everywhere were under a
+[24:02] lot of pressure and so what I think is
+[24:04] really interesting from a societal
+[24:06] change perspective is if we can use
+[24:09] self- custody as the exit valve for that
+[24:13] where then people can be able to very
+[24:16] easily take their money out of a bank
+[24:18] and protect it themselves in a way that
+[24:21] they know that money is safe and I think
+[24:24] that's a really great net benefit to
+[24:27] society of self- custody and of of what
+[24:30] Bitcoin is pioneered here and so that's
+[24:32] something that we're we're excited about
+[24:35] and and I don't know that like to go
+[24:37] back to your original question maybe
+[24:39] Banks start holding keys for people I
+[24:42] think that would make sense as part of
+[24:43] their their traditional security model
+[24:46] of helping secure people's money
+[24:48] evolving but I think that even more
+[24:50] important is just providing this option
+[24:52] of an exit valve for people when they're
+[24:55] not sure whether the bank is doing what
+[24:57] they should be with their assets and
+[24:58] they want to make sure that they can
+[25:00] protect it themselves I love that exit
+[25:03] wealth analogy because I feel like it's
+[25:05] so important we have Bitcoin as an exit
+[25:08] wealth from the Fiat system uh we have
+[25:11] even in the social media landscape we
+[25:13] have Nostra as an exit wealth to to
+[25:15] Twitter we have Twitter an exit wealth
+[25:17] from Facebook kind of so it's it's
+[25:20] interesting uh just the um just the
+[25:23] sheer existence of an exit wealth uh
+[25:26] makes the existing system better better
+[25:28] so it could even I think shortterm make
+[25:31] even the Fiat system better and more um
+[25:35] robust because then maybe banks are like
+[25:38] yeah we should really take care of it
+[25:40] because people are fleeing to to Bitcoin
+[25:42] now they have something to actually flee
+[25:44] to that is actually globally working not
+[25:46] like gold that you can confiscate later
+[25:48] so that's that's an interesting
+[25:50] comparison uh uh to make yeah really
+[25:52] really cool and I I want our like I
+[25:55] I I think this is important for people
+[25:58] who are making regulations to be
+[25:59] thinking about too like politicians in
+[26:02] government because um I think that what
+[26:06] we've done over the decades is just
+[26:09] build up more and more regulation around
+[26:12] banks in order to make sure that they're
+[26:14] doing the right thing with customers
+[26:16] money and it all boils down to the
+[26:18] principal agent problem right it's like
+[26:21] the bank is not you they're acting on
+[26:25] behalf of you in storing your money and
+[26:28] so so they are never going to be as
+[26:30] incentivized as you to take care of your
+[26:33] money and so we got to in order to fix
+[26:36] that we have to put in all these guard
+[26:38] rails and we just keep building more and
+[26:40] more guard rails on banks to make sure
+[26:42] that they're not messing up with all of
+[26:44] their customers money and the ultimate
+[26:48] solution to that is to allow customers
+[26:51] to withdraw to a simple secure digital
+[26:55] self- custody in a way that provid
+[26:58] provides that exit valve and doesn't
+[27:01] require forcing the banks to comply with
+[27:04] more and more regulations it just forces
+[27:07] them through capitalism and through the
+[27:09] market to be better at securing their
+[27:13] customers Bitcoin because now they know
+[27:15] that their customers can always take
+[27:17] their their money to elsewhere to self-
+[27:21] custody and to protect it themselves the
+[27:23] two- partic question um how how do you
+[27:26] see um yourself and Casa no KC and
+[27:30] privacy for for for the services that
+[27:32] you offer do you collect any data or how
+[27:34] do you see that no so we um as a
+[27:37] software provider that is not a
+[27:40] custodian that doesn't do money
+[27:43] transmission we do not need to we're not
+[27:46] required by government laws to kyc our
+[27:50] customers just like a you know whatever
+[27:53] app that you decide to download online
+[27:56] isn't required to kyc its customers and
+[28:00] so um this is important to us because
+[28:04] more and more data breaches are
+[28:07] happening that cause really big problems
+[28:10] for the people that are part of those
+[28:12] data breaches I mean fishing around
+[28:15] people's Bitcoin has become a rampant
+[28:19] problem and it's gotten very
+[28:22] sophisticated and it all stems from
+[28:25] information that comes out in data
+[28:27] breaches that allows people to be
+[28:29] targeted for and and to be targeted for
+[28:32] trying to steal their Bitcoin and so um
+[28:35] for
+[28:36] us we don't want to collect that
+[28:38] information we don't want to make Casa
+[28:41] into a honey pot and so unlike some of
+[28:43] the other Solutions out there you can
+[28:45] sign up for Casa under a completely
+[28:47] Anonymous email with proton mail and not
+[28:51] give us any of your personal identifying
+[28:55] information and that's great because we
+[28:58] don't want that information because we
+[29:00] don't want to have to protect that
+[29:02] against a data breach and when we do
+[29:04] collect information like this we
+[29:07] actually try to delete it when we're
+[29:09] done with it in order to make sure that
+[29:11] we aren't storing it so part of the
+[29:13] Costa offering is um at some of the
+[29:15] higher membership plans is that you can
+[29:19] actually uh get a box sent to you with
+[29:22] all the hardware like UB Keys Hardware
+[29:24] wallets Faraday bags all the things that
+[29:27] you need to set up a casa 30 of5 multi
+[29:31] Vault and when we send we need we need
+[29:35] your address to send you the box so
+[29:38] after we send you the box we actually
+[29:41] delete your address from our system once
+[29:43] we know you have it and once you've
+[29:45] gotten all the way onboard it and that
+[29:47] way we don't have to keep that info it's
+[29:50] not a risk to you and it's overall just
+[29:54] a better privacy and security posture
+[29:56] for our customers
+[29:58] for companies that are keeping that info
+[30:00] for longer periods of time um they are
+[30:04] risking their
+[30:05] customers physical security and so
+[30:08] that's something that we are really
+[30:10] careful with and you can even use a PO
+[30:14] Box uh for for the address right you
+[30:16] don't have to have your self home
+[30:19] address for the delivery right yeah as
+[30:21] long as you can get access to the
+[30:23] wherever it's being mailed you can use
+[30:26] whatever address you want I I think
+[30:28] that's really important because then uh
+[30:31] even Kasa um themselves is protecting it
+[30:36] against maybe a compliance request from
+[30:39] a government saying like hey um you have
+[30:43] customer funds we would like to know
+[30:45] what are the customers and you can say
+[30:47] like oh we don't know like we have we
+[30:50] have no clue like you can you don't even
+[30:51] have the data to to put out that I think
+[30:53] that's a really important thing uh for
+[30:56] Bitcoin as an really important thing
+[30:58] also for for that kind of a service yeah
+[31:00] I think people don't always uh I think
+[31:03] for whatever reason people assume that
+[31:06] um Casa needs to kyc people or that we
+[31:09] only serve certain like the us or
+[31:12] something like that we serve people
+[31:14] globally and we don't kyc and so uh this
+[31:19] is a better business proposition for us
+[31:22] and it's a better privacy proposition
+[31:25] for our
+[31:26] customers absolutely very cool um one
+[31:29] thing that I ask myself a little bit if
+[31:33] we don't get the self- custody route we
+[31:36] we say like most of the people stay in
+[31:38] exchanges stay in Bitcoin banks that
+[31:41] actually hold all the keys and and
+[31:43] people don't we we're not successful
+[31:46] with um having people self- custody um
+[31:49] do you feel like that could be a
+[31:51] systemic risk to the Bitcoin or is just
+[31:55] the existence of an exit wealth with
+[31:57] self
+[31:58] enough to make Bitcoin secure from a
+[32:02] monetary perspective I think the exit
+[32:04] valve helps but it's still a systemic
+[32:06] risk to bitcoin if the vast majority of
+[32:09] Bitcoin is held by
+[32:10] custodians and that's because that just
+[32:14] it creates a Honeypot for somebody to
+[32:18] try and access and steal from so whether
+[32:22] that's somebody is like hackers even
+[32:26] very sophisticated hackers like from
+[32:28] North Korea or a government that decides
+[32:31] that it's going to Outlaw Bitcoin this
+[32:34] happened in in the United States they
+[32:36] actually outlawed they made it illegal
+[32:39] to hold gold as an
+[32:42] individual and so all the gold that was
+[32:44] stored in Banks was forcibly converted
+[32:47] into dollars and the government seized
+[32:51] all the gold and brought it to its own
+[32:53] faults this could happen again with
+[32:56] Bitcoin if the majority of Bitcoin is
+[32:58] sitting on exchanges and so I think that
+[33:02] um it can be a systemic risk to bitcoin
+[33:05] to to have most of it sitting with
+[33:08] custodians just because it's very
+[33:09] identifiable where it is at that
+[33:11] point the I think it's also systemically
+[33:15] risky
+[33:16] for the broader Financial system for our
+[33:21] country and when I say our country I
+[33:23] mean the us but other countries around
+[33:25] the world too and I think that's because
+[33:28] it just continues building on the
+[33:30] existing Legacy system that we have with
+[33:34] the Banking and Financial system and
+[33:37] like I was saying earlier we've had to
+[33:39] build so many regulations and guardrails
+[33:41] around this to protect against systemic
+[33:43] risk because of all the conflicts of
+[33:46] interests that are inherent throughout
+[33:49] that system and so it's actually
+[33:52] people's best interest
+[33:54] to exit that system through self- custom
+[33:58] and to do that not just for yourself but
+[34:01] for the system as a whole to make sure
+[34:03] that Bitcoin as a monetary system
+[34:06] evolves correctly and doesn't just
+[34:09] rebuild what we've already built and are
+[34:11] trying to replace or or significantly
+[34:14] improve with the Legacy Financial system
+[34:16] if you watch or listen to my podcast on
+[34:19] a regular basis I guess you already
+[34:21] bought some Bitcoin and now the most
+[34:23] important step is to keep the Bitcoin
+[34:27] keep them secure in a hardware wallet my
+[34:29] personal recommendation for Hardware
+[34:31] wallet is the bitbox it's super secure
+[34:34] it's simple to set up it's also perfect
+[34:36] gift for a friend who has still their
+[34:38] Bitcoin on an exchange and you can get a
+[34:41] 5% discount with the code Robin at the
+[34:44] checkout visit bitbox dos Swiss robobin
+[34:49] to get your bitbox and if you really
+[34:51] want to bulletproof your self custody
+[34:54] setup your security setup and maybe even
+[34:56] your citizenship set up you have to talk
+[34:59] to the Bitcoin way if you go to the
+[35:02] Bitcoin way.com
+[35:04] Partners Robin you get a 30 minute free
+[35:08] call where you can dive deep with them
+[35:11] if your self custody setup is secure if
+[35:14] your citizenship is secure or maybe
+[35:17] might be improvable or your digital
+[35:19] footprint in general is secure they are
+[35:23] the experts in cyber security in Bitcoin
+[35:26] self custody and how how to be a secure
+[35:29] sovereign individual in general and last
+[35:32] but not least I have something
+[35:34] completely new for you guys I partnered
+[35:37] up with coin vigilante this is the most
+[35:40] beautiful Bitcoin time piece that I ever
+[35:43] saw created by anyone look at that
+[35:46] beauty I love it so much coin vigilante
+[35:49] made and perfect Bitcoin watch that's
+[35:52] the perfect subtle elegent way to go out
+[35:55] there and show that you are a bitco
+[35:57] coiner and that watch brand is Bitcoin
+[36:00] only make sure to check out the link in
+[36:03] the description for this amazing coin
+[36:05] vigilante time pieces those watches are
+[36:08] amazing I love them so much it was
+[36:10] really hard for me to pick the one that
+[36:12] I want to have because there are a lot
+[36:14] of great options I went with the new
+[36:17] transparency Edition they're all limited
+[36:20] so grab yours those will not be
+[36:22] available for a long time but there will
+[36:24] come new models and new amazing designs
+[36:27] along the way I love that a lot really
+[36:29] really cool do do you see uh the ETF uh
+[36:32] with with coin Bas I think most of the
+[36:34] ETFs hel hold their Bitcoin with ETFs
+[36:37] with with coinbase uh and it's it's a
+[36:40] it's a quite a good amount of Bitcoin
+[36:42] that they already accumulated uh in not
+[36:44] even the first year do you see that as a
+[36:47] potential honeybot that might be I think
+[36:50] it could not be a systemic risk to
+[36:52] bitcoin because it's not enough Bitcoin
+[36:54] at this point but could it be an major
+[36:57] medium short-term uh event that is bad
+[37:00] for Bitcoin yeah for sure I mean even
+[37:03] the US government thinks that this could
+[37:05] be a systemic risk to bitcoin the FBI
+[37:08] put out like a notice two days ago or
+[37:10] yesterday one of the two that was
+[37:12] basically saying they are aware of
+[37:15] sophisticated State actors from North
+[37:17] Korea targeting ETF issuers and
+[37:21] custodians and it was part of a broader
+[37:24] kind of bulletin where they were saying
+[37:27] you you know they're targeting
+[37:28] individuals and other types of
+[37:29] Institutions as well but they
+[37:31] specifically list the ETF
+[37:34] participants as part of the targets
+[37:36] which makes sense because it's a giant
+[37:38] Honeypot sitting there at
+[37:39] coinbase and so of course coinbase has a
+[37:43] lot of security precautions built in
+[37:46] they've got um a lot of different ways
+[37:49] that they're trying to prevent
+[37:51] sophisticated hackers and social
+[37:53] Engineers from accessing that but it's
+[37:55] still a real risk and in a lot of ways
+[37:58] security is a whack-a-mole game where
+[38:02] you know the attackers and Defenders are
+[38:05] always jockeying back and forth and
+[38:08] trying to get a oneup on the other and
+[38:12] you can look at just the ongoing stream
+[38:17] of zero day vulnerabilities we get a few
+[38:20] every year where core systems like
+[38:23] iPhones MacBooks Google Chrome Windows
+[38:27] computer computers etc are are uh
+[38:30] exploited with a vulnerability that
+[38:32] hasn't been found or known which is why
+[38:36] it's called a zero day since it was
+[38:39] created and it comes out apple or
+[38:44] Microsoft or whoever patches it as fast
+[38:46] as possible and maybe it gets uh
+[38:49] exploited in the wild maybe
+[38:51] not if some of these things happen with
+[38:54] some of the big custodians that is a way
+[38:57] that that the attackers win that game or
+[39:00] score a point in that game and maybe
+[39:02] they get all the Bitcoin maybe they only
+[39:04] get some of the Bitcoin but either way
+[39:06] it's bad for Bitcoin and
+[39:08] so I was thinking about this a little
+[39:11] bit earlier today actually and I was
+[39:14] thinking about uh kind of a metaphor
+[39:17] it's like what a custodian or what
+[39:20] coinbase is doing with all the Bitcoin
+[39:22] is they're building this
+[39:25] castle and they're building all these
+[39:28] layers of walls around this castle and
+[39:31] then they've got little gates in each
+[39:33] wall that you can get through in order
+[39:35] to move Bitcoin in and out of this
+[39:39] Castle but it's still just one castle
+[39:43] and you just need to figure out how to
+[39:45] get through all the gates properly or
+[39:48] climb the walls or whatever it is and
+[39:50] then you can get what's inside the
+[39:52] castle whereas a model like Casa you
+[39:56] have
+[39:58] Casa sitting at the center building
+[40:01] software but there's no Bitcoin sitting
+[40:04] with Casa and then you can just draw all
+[40:06] these lines out to each of kasa's
+[40:08] customers which are their own mini
+[40:10] castle that have their own walls
+[40:12] protecting them and a smaller amount of
+[40:15] Bitcoin sitting there and each of those
+[40:18] targets is just much less juicy for the
+[40:22] effort that you have to put in in order
+[40:24] to compromise it the juice isn't worth
+[40:26] the squeeze and so when you distribute
+[40:29] the risk like that you create a bunch of
+[40:33] individual castles all across the
+[40:35] countryside to carry the metaphor
+[40:37] slightly too far and end up in a
+[40:40] scenario where it's a lot harder to
+[40:42] compromise a very large amount of
+[40:44] Bitcoin and so the systemic risk to the
+[40:47] Bitcoin system is just so much lower and
+[40:50] so anything we can do to drive towards
+[40:52] that future versus that future where
+[40:55] we're centralizing everything with a
+[40:56] couple of Riders and we have to protect
+[40:59] that with our life is I think a much
+[41:02] better type of situation and future that
+[41:04] we want to live in it's an amazing uh
+[41:07] metaphor i l that a lot it's also shows
+[41:11] um like banking it they're all castles
+[41:15] basically like you hear it so many times
+[41:17] that a bank account got hacked because
+[41:19] yeah it's like a centralized entity uh
+[41:21] and and sometimes it's really uh maybe
+[41:24] even easy to to guess someone's password
+[41:26] or like to get the two fact notification
+[41:29] like uh Banks like it's it's so
+[41:32] interesting when people asking oh how
+[41:33] can you sleep with all the Bitcoin like
+[41:35] I'm like how can you sleep with a bank
+[41:37] account that has more than I don't know
+[41:39] 5,000 or 10,000 EUR on it like I could
+[41:41] not sleep with that that that would
+[41:43] freak me out um but when we come to that
+[41:46] metaphor and we have a society where
+[41:48] there's not like big castles everywhere
+[41:51] where a lot of big honey pots are but
+[41:53] there is like way smaller castles and
+[41:56] very distributed uh castles with line
+[42:00] between each other like there are of
+[42:02] course dependencies but they they the
+[42:05] own castles um like a casa and their
+[42:08] client because the client has at any
+[42:10] time the ability to move the Bitcoin
+[42:12] without kasa's help uh and and Kasa has
+[42:16] basically no control over their castle
+[42:19] castle Casa uh um what will that do to
+[42:24] um humanity and society when we move
+[42:27] from a a centralized system where we are
+[42:31] used to someone else takes care of our
+[42:34] things to we are taking care of our own
+[42:37] things with help of of someone else
+[42:41] still but we are
+[42:43] decentralizing the
+[42:45] responsibility because um even a uh I
+[42:48] mean Kasa makes a great job in in in
+[42:52] making it failure proof but if a client
+[42:55] really wants to he can make mistake so
+[42:57] like the responsibility is still on on
+[42:59] on on the client side uh what will that
+[43:02] do to to humanity and
+[43:04] Society I think if you look at a lot of
+[43:07] scenarios in humanity when you give
+[43:11] people more
+[43:13] responsibility they improve the quality
+[43:17] of how they act maybe this is most
+[43:20] applicable in kids for example like when
+[43:25] you're with somebody else else's kids
+[43:28] you don't have responsibility for them
+[43:30] you feel like you know it's it's okay
+[43:34] right but when it's your kids and you
+[43:37] have responsibility for raising them
+[43:40] protecting them making sure they turn
+[43:41] out to be good humans the amount that
+[43:45] you care goes up
+[43:47] significantly or when you're in a
+[43:49] workplace situation and you're just
+[43:52] being told what to do all day and
+[43:54] somebody else makes all the decisions
+[43:56] you don't really care you're just kind
+[43:58] of punching in and out but when you give
+[44:01] somebody responsibility you allow them
+[44:03] to make decisions over things themselves
+[44:07] suddenly the quality of their work how
+[44:09] much they actually care goes up
+[44:13] significantly and
+[44:15] so there's something ingrained in us as
+[44:19] humans that when we feel like we
+[44:21] actually own something we care about it
+[44:24] more
+[44:26] and money is one of the most important
+[44:28] things in our lives as humans because we
+[44:32] use it to sustain ourselves we use it to
+[44:35] keep ourselves alive to fill our needs
+[44:38] to fill our wants it helps it's you know
+[44:41] the oil of society basically and of
+[44:43] capitalism and so making people
+[44:46] responsible for that or or giving them
+[44:48] the option to be responsible for that I
+[44:50] think changes how people think about
+[44:53] their money and changes how people value
+[44:55] their money and and then this spreads
+[44:59] Beyond just money right so private Keys
+[45:03] give you the ability to actually own
+[45:07] data so in the case of Bitcoin that data
+[45:10] is just your money um but that could be
+[45:14] your online identity like on Noster it
+[45:17] could be your content like on Noster it
+[45:20] could be Communications like over
+[45:22] encrypted communication apps like signal
+[45:26] or proton or whatever it is it could be
+[45:28] your personal files and so all these
+[45:33] things can be made better and put into
+[45:37] people's control for the first time ever
+[45:40] thanks to cryptography and private keys
+[45:43] and I think that that really changes how
+[45:46] people think about their responsibility
+[45:48] it really changes how people value a
+[45:51] thing and it and it allows them to
+[45:53] actually protect it themselves for the
+[45:55] first time ever and so
+[45:57] that to me a more responsible autonomous
+[46:02] Society where we rely Less on somebody
+[46:04] who's just telling us you know do this
+[46:07] do this do this or who just goes off and
+[46:09] handles all the things for us and is
+[46:11] more like helping us to make the right
+[46:15] decisions around how we secure what
+[46:17] matters most to us I think that's a a
+[46:19] good better Evolution for society than
+[46:23] than what we've had so far it's very
+[46:24] intangible right like it's a it's kind
+[46:26] of a vague idea we haven't seen it come
+[46:30] to full fruition so it's kind of hard to
+[46:32] say you know this is exactly how people
+[46:35] are going to act I think I I'm not
+[46:37] always a huge fan of like the the
+[46:39] Bitcoin fixes this meme where it's like
+[46:41] you know if you fix this one thing with
+[46:44] the money that's going to spiral out to
+[46:46] fix every single problem the world has I
+[46:49] I don't buy into that but I do think
+[46:52] that there's subtle impacts from doing
+[46:54] that and that it can help people live a
+[46:58] better life and one where they feel like
+[47:00] they have more control and
+[47:01] responsibility which overall improves
+[47:04] the quality of life and how much they
+[47:06] care about those
+[47:07] things I have an amazing andrine
+[47:10] question for you because in tin we have
+[47:12] a question from the previous guest uh
+[47:14] that that fits so nicely in but I will
+[47:16] keep it for the end routine um I had uh
+[47:19] two days ago a podcast where someone
+[47:21] said a quote to me that I just wrote
+[47:24] down and it is so nice and I I put it up
+[47:26] because I don't want to mess this up so
+[47:27] I will read it to you a kid that isn't
+[47:29] allowed to do anything will be an adult
+[47:31] that doesn't do anything I love that so
+[47:34] much and he brought it up also in
+[47:36] Bitcoin perspective and I think that's
+[47:38] what you're also talking about where
+[47:40] when where where when we get the control
+[47:43] back this this allows Society really to
+[47:46] to thrive again and I love also your
+[47:48] anology not only with money uh so with
+[47:51] Bitcoin giving the control back to it
+[47:53] but it has the possibilities to give us
+[47:56] with Nostra our social media accounts
+[47:58] back because all of the sudden nost is a
+[48:00] protocol and you can take your followers
+[48:02] your connections your whatever you want
+[48:04] to call it a back and you really can uh
+[48:09] own it and not the clients or not damos
+[48:12] or not any other nostal client owns it
+[48:15] which is an amazing thing as as a
+[48:17] content creator I can say it's like it's
+[48:19] a hustle to build on YouTube then on X
+[48:22] and then on Rumble and then on all other
+[48:23] platforms all at the same time and you
+[48:25] have to produce one video and you upload
+[48:27] it to five different platforms and those
+[48:30] platforms distribute it further it's a
+[48:32] it's a hustle um so that's an amazing
+[48:36] thing and I think the the most
+[48:38] significant amount that that I always
+[48:39] thinking of with with data sharing is
+[48:42] also medical data for example when I'm
+[48:44] like okay I should own my medical data
+[48:47] and the the the uh doctors should ask me
+[48:51] oh can you share that data with me then
+[48:53] temporarily I share it with him not he
+[48:55] has a file on me and I have to ask him
+[48:57] like
+[48:58] hey what is in my file so like there are
+[49:01] a lot of uh trickle down effects from uh
+[49:05] that from that Revolution and uh
+[49:08] obviously I think money is the biggest
+[49:10] one from all of them uh but from that we
+[49:13] we can move forward and move in so many
+[49:16] small and different ways forward I love
+[49:18] that analogy so thank you for that cool
+[49:20] cool Co input of yours yeah of course I
+[49:24] I definitely agree and I think that um
+[49:28] it's it's interesting like anybody who
+[49:31] builds consumer products I think runs
+[49:33] into scenarios where you just see people
+[49:37] acting in ways that actually that's kind
+[49:40] of a weird tangent we can I'm not going
+[49:41] to go down that tangent we can cut that
+[49:43] out I but anyway it's it's like I think
+[49:48] it's interesting to me but it's probably
+[49:49] not very applicable so never mind no no
+[49:52] worries no worries it happens to me all
+[49:55] the time I have a pH I'm like oh [ __ ] I
+[49:58] should have fought that in then one one
+[50:01] thing that um there are a few more
+[50:03] things that I want to go through but uh
+[50:06] one thing that I'm interested in is uh
+[50:10] future threet models to uh all of that I
+[50:14] think a lot of people are also
+[50:15] interested in in okay what is the Fret
+[50:17] model of of maybe AI doing to uh Bitcoin
+[50:23] uh on my C solution because AI I like
+[50:27] for example I'm a high high user of chat
+[50:29] gbt it it helps with the podcast
+[50:32] business so much like from writing tags
+[50:36] that are optimized for search engine
+[50:37] optimization from writing
+[50:39] descriptions uh and and I have people on
+[50:42] like oh how do you write all those great
+[50:44] descriptions for your podcast I'm like I
+[50:47] don't what what AI does that like how is
+[50:50] that possible uh and I just like
+[50:53] consented now to jbt I think they roll
+[50:55] it out today at least for my computer
+[50:58] where they can learn now from each chat
+[51:00] and they combining that information from
+[51:02] from you so like one chat is not uh that
+[51:06] um how dangerous of a threat model do
+[51:09] you see it when AI is taking over the
+[51:11] computer it's like apple has their own
+[51:13] AI build in uh and basically you can
+[51:16] just like Hey Siri uh what is that and
+[51:19] they have all the information about you
+[51:21] what what what you plugged in if you
+[51:23] plugged in an ubk didn't know all of
+[51:25] those things um do do you see that as a
+[51:28] as a POS Potential Threat model to self
+[51:32] custody and do we have to maybe in the
+[51:34] future even go to like air gaped things
+[51:37] and and and go a little bit further down
+[51:40] the the security route to get it away
+[51:43] from the machines to make it more secure
+[51:45] how do you how do you see that's a great
+[51:46] question I think so there's a couple of
+[51:49] things that I think are important to
+[51:51] think about with threat modeling on the
+[51:53] AI perspective so um the
+[51:57] to go specifically to the question that
+[51:59] you were just talking
+[52:00] about I don't think we're there yet
+[52:03] today like I I don't think that we're in
+[52:05] a point where the AI is going to be able
+[52:08] to steal your private key out of the
+[52:11] secure element on your phone or
+[52:12] something like that I think um it's
+[52:17] there's a level of trust I think that
+[52:18] people are putting into apple or some of
+[52:21] the the companies that are building with
+[52:23] AI to and the companies that build the
+[52:26] hardware and the secure elements and
+[52:28] that kind of thing to not open up those
+[52:32] secure elements and open up attack
+[52:33] vectors that then the the AI can utilize
+[52:36] that's the whole point of a secure
+[52:38] element on a phone right it's like this
+[52:40] is a separate chip that can only has
+[52:42] very strict permissioning around it in
+[52:45] order to utilize the the encryption and
+[52:49] decryption capabilities so I think that
+[52:54] for now we can probably trust that that
+[52:58] will continue to be handled in the way
+[53:01] that it should be I think um if we get
+[53:04] to a point where we have like ASI
+[53:07] artificial super intelligence or
+[53:09] something like that then that might be
+[53:12] something that we have to consider a
+[53:14] little bit more and understand what are
+[53:16] the the safeguards that have been put in
+[53:17] around what this can access within your
+[53:20] system and if there if the safeguards
+[53:23] aren't very clearly strong enough then
+[53:27] yeah it probably makes sense to move
+[53:29] towards more of an air gapped model and
+[53:32] so that's something that you can do with
+[53:34] Casa today I think that's a future that
+[53:35] we're we're totally down to live in and
+[53:39] build for
+[53:41] and it'll it'll all just be about making
+[53:45] like the right balance I guess between
+[53:48] Simplicity and security and so you you
+[53:51] have to think about
+[53:52] okay there's going to be a portion of my
+[53:55] Bitcoin that I want more ready access to
+[53:58] that I want to spend more regularly for
+[54:00] that I'm willing to keep it on a less
+[54:02] secure device and a less secure setup
+[54:04] then there's going to be like my main
+[54:06] savings and for that I want to have it
+[54:08] in a much more secure setup
+[54:11] multisig potentially air gapped all
+[54:14] those things and so you can kind of
+[54:16] build up that security model for
+[54:18] yourself based on the threat vectors
+[54:20] that you're seeing and I think that with
+[54:23] AI it's something that we really got to
+[54:25] pay close attention to to and when it
+[54:28] gets smarter really evaluate whether we
+[54:31] need to shift model to where private
+[54:33] keys are only held on like dumb devices
+[54:35] and never leave the device basically um
+[54:38] the other thing that I think is
+[54:39] important with AI is just
+[54:43] that AI is getting better and better at
+[54:45] copying humans and one of the things
+[54:49] that really gets a lot of people today
+[54:51] so everybody worries about these
+[54:53] catastrophic events right like people
+[54:55] are worried about the artificial
+[54:57] superintelligence stealing everybody's
+[54:59] Bitcoin people are worried about the uh
+[55:04] hack of coinbase where all the Bitcoin
+[55:06] goes away at once because they breached
+[55:09] the walls and got
+[55:10] in what's actually probably the biggest
+[55:13] and most practical threat right now is
+[55:17] individual social engineering and
+[55:19] fishing where tons of people are trying
+[55:24] to spending their time trying to hack
+[55:27] individuals who are kind of unsuspecting
+[55:30] today and so that job gets way easier
+[55:34] with AI where you can use AI to help you
+[55:38] sound more like somebody and to help
+[55:41] build up a story that helps you to
+[55:44] socially engineer some someone else and
+[55:47] use that to get access to their Bitcoin
+[55:50] and so there's some pretty sophisticated
+[55:52] stuff happening already today without
+[55:54] the help of AI and now you add in the
+[55:56] ability for AI to impersonate somebody's
+[55:58] family impersonate somebody for a Sim
+[56:00] swap in order to pass voice recognition
+[56:03] I actually was just talking to somebody
+[56:04] else today where they got it was the CEO
+[56:07] they were talking about somebody they
+[56:08] knew who was the CEO of a large company
+[56:11] and they got Sim swapped because the
+[56:14] attacker used AI to impersonate their
+[56:17] voice and pass the voice checks that the
+[56:20] phone company had in place and so that's
+[56:23] something that um you know AI as a tool
+[56:27] to impersonate is only is only getting
+[56:30] stronger and I think that is much more
+[56:33] real in the short term than like the
+[56:36] super intelligence that goes and steals
+[56:38] everything from us so the way to protect
+[56:41] against that is actually through
+[56:43] cryptography because you can verify
+[56:47] authenticity verify that somebody is who
+[56:50] they say they are using private key
+[56:53] private public key cry cryptography
+[56:55] which is the one thing that today an AI
+[56:57] can't break because it would take all
+[56:59] the computing power in the world
+[57:00] millions of years to break one private
+[57:03] public key pair and so I think that's a
+[57:05] really interesting component of this
+[57:08] that actually in the war against
+[57:11] impersonation by AI cryptography is our
+[57:14] best weapon and so that's something that
+[57:17] we're thinking a lot about at Casa and
+[57:19] that I think we're going to see more of
+[57:23] in how people build out their security
+[57:25] model going forward that's a really
+[57:26] interesting thought uh because all of a
+[57:29] sudden you can imitate someone's voice I
+[57:32] mean to a certain extent even this video
+[57:34] and those things are just starting to
+[57:36] develop like we we're just starting to
+[57:38] see those voices and those videos of of
+[57:42] of people and the images and uh the the
+[57:46] right now the the EI memes of like
+[57:49] politicians with Trump and camela and El
+[57:52] musk and and then uh they robbing a bank
+[57:55] like that meme I think go really Ral uh
+[57:58] it's really interesting to to see and
+[58:00] funny to see those memes but it shows
+[58:03] that we are at the starting of
+[58:05] impersonating basically everyone and for
+[58:08] someone like me that's really scary
+[58:10] because I have so much training data
+[58:13] publicly available like I have literally
+[58:16] like now what
+[58:18] 237 podcasts so everyone around one hour
+[58:22] to two hours that's a lot of training
+[58:24] data to make a really
+[58:26] impressive looking Robin S that can uh
+[58:30] be maybe uh yeah basically saying
+[58:33] exactly how I say it and and do it and
+[58:36] interesting enough like Riverside offers
+[58:38] that feature the Riverside platform
+[58:39] where we are recording right now to
+[58:41] voice clone myself so I can actually
+[58:45] make advertisement announcement and
+[58:47] stuff like that only voice of course um
+[58:50] with that and I tried that feature out
+[58:53] uh and I typed in text and I send it uh
+[58:56] to to my girlfriend and she thought I
+[58:59] was it like she was tricked by by that
+[59:02] voice message so I think the the the the
+[59:06] things that we can already do are really
+[59:09] scary where to this point uh where your
+[59:12] romantic partner on a quick voice me
+[59:16] message on a WhatsApp doesn't know like
+[59:18] oh he's not him like that that that
+[59:21] voice sounds weird no that voice
+[59:23] actually is not him but you don't
+[59:25] recognize it like the the possibilities
+[59:27] of that are like endless it's it's
+[59:29] really interesting has has little to
+[59:31] know to do with with Bitcoin but I think
+[59:33] it's a really interesting future that we
+[59:36] that we going through really interesting
+[59:38] to talk about that yeah I mean the and
+[59:40] the thing about it is like you don't
+[59:43] want to not have that tool right like
+[59:45] it's actually very useful to be able to
+[59:49] uh clone yourself and test out a bunch
+[59:51] of different kinds of ads without having
+[59:53] to record every single version of it
+[59:55] then you can can see what resonates the
+[59:57] best and maybe you go back and record
+[59:58] that version make it perfect quality or
+[60:00] whatever it is there's a lot of ways
+[60:03] that AI being able to impersonate people
+[60:06] is going to be incredibly helpful for us
+[60:09] as a tool to run businesses but it's
+[60:12] also going to have it's going to be
+[60:14] helpful for people that are are looking
+[60:16] to do criminal things and so we need to
+[60:17] have protections there that um we can
+[60:21] put in place and new societal norms and
+[60:25] behaviors that people can adopt in order
+[60:28] to protect against the the new threats
+[60:30] that come with that really interesting
+[60:32] um before we come closer to the outine
+[60:34] uh do you have any um future things that
+[60:38] you can say like the those things will
+[60:41] be developed uh on Cara or is the main
+[60:44] agenda just to make uh self- custody
+[60:48] more user friendly and more secure over
+[60:51] time or do you plan to go other avenues
+[60:55] a little bit with like what we discussed
+[60:57] maybe with Bitcoin Banks but then
+[60:58] there's this problem of like having to
+[61:00] KC the customers it's I just thought
+[61:03] about that is there anything like that
+[61:05] that that you can share yeah so nothing
+[61:10] really specific to share today but we um
+[61:16] we've got some good stuff cooking that
+[61:18] I'm excited about a lot of the near-term
+[61:20] stuff is just how do we make self-
+[61:22] custody easier for different types of
+[61:24] people that is a big very big problem in
+[61:27] itself to work on and I think that's
+[61:29] something that we're we're just highly
+[61:31] focused on which is why in my very
+[61:34] humble and unbiased opinion were the
+[61:35] best way to self custody on the
+[61:38] market that said the broader vision of
+[61:42] Casa and the broader story has always
+[61:44] about been about what private keys can
+[61:46] do for Humanity and how can we use
+[61:49] private keys to enable people like we
+[61:53] were talking about earlier to be more
+[61:56] more autonomous to have more control
+[61:58] over the things that matter most to them
+[62:00] and to take on that responsibility
+[62:03] without it feeling like a burden with it
+[62:05] actually where it feels like something
+[62:07] that they want to do that's exciting and
+[62:09] that lets them live a better life and
+[62:13] so that's what we're really thinking
+[62:15] about over the long term and then we um
+[62:19] you know in in the path to get there
+[62:21] what we're really focused on is how do
+[62:24] we make uh security
+[62:27] simple and then how do we make security
+[62:31] simple not just for your Bitcoin but for
+[62:34] you as a bitcoiner and so I I was
+[62:36] talking about this a little bit at the
+[62:38] when we announced the UB key feature on
+[62:40] stage at Nashville
+[62:43] but people who own Bitcoin
+[62:47] bitcoiners they do need to think about
+[62:50] the security of their Bitcoin but they
+[62:51] also need to think about security of
+[62:54] other areas of their life and a lot of
+[62:56] people don't know the steps to take here
+[62:58] and so we're really thinking uh about
+[63:01] how do we help people do this in a way
+[63:04] that is approachable in a way that help
+[63:06] helps them be secure that doesn't take
+[63:09] tons and tons of time on their end but
+[63:12] gets like the easy stuff out of the way
+[63:15] gets like a lot of the basics done so
+[63:17] that you just become a more difficult
+[63:20] Target
+[63:21] for a random attacker it's kind of like
+[63:25] making yourself
+[63:26] it's like if two people are running from
+[63:28] the bear you just want to be faster than
+[63:30] the other person and so when Casa thinks
+[63:33] about how do we offer not just Bitcoin
+[63:36] security we want to offer security for
+[63:38] bitcoiners we're trying to help you be
+[63:39] the faster person and all these
+[63:41] different areas of your life that then
+[63:43] ties back to securing your Bitcoin so
+[63:47] this is something that we're we're
+[63:49] working on right now we've got some good
+[63:51] stuff coming on that and on a couple of
+[63:53] other fronts that I'm excited about and
+[63:55] and you'll hear more soon really really
+[63:58] cool thank you for sharing that with us
+[64:00] um one question before the end te uh
+[64:02] that I kind of have to ask as a Bitcoin
+[64:04] only podcast why support
+[64:07] ethereum yeah good question we just had
+[64:11] so many of our customers saying hey I
+[64:13] really like storing my Bitcoin with Casa
+[64:14] can I store my ethereum with you
+[64:17] too um and then I think that stable
+[64:21] coins are also providing a a service for
+[64:23] people and there's really no stable
+[64:27] coins running on Bitcoin today and so
+[64:29] I'd love to see stable coins running on
+[64:30] bitcoin but there's a lot of people
+[64:32] using stable coins practically around
+[64:35] the world and I think that uh that was
+[64:38] intriguing for us as well so it was just
+[64:42] came down to what our customers were
+[64:45] asking us for and um we remain a Bitcoin
+[64:49] first company and a very Bitcoin focused
+[64:52] company if you look at the things that
+[64:54] we have done since
+[64:56] releasing the support for ethereum all
+[64:59] of them are things that are very
+[65:01] beneficial for bitcoiners and so we
+[65:05] continue to believe that Bitcoin is the
+[65:08] most important asset out of the
+[65:10] ecosystem that's where we want to spend
+[65:12] all of our time and so I think you you
+[65:17] uh we said that we were going to do that
+[65:19] when we first announced ethereum and
+[65:21] people were kind of like yeah sure
+[65:23] whatever like you're probably going to
+[65:25] add next or whatever um and you can see
+[65:29] by our actions since then that
+[65:31] everything we have done and built has
+[65:33] been to help bitcoiners so I hope that
+[65:35] some of the like proof is in the pudding
+[65:37] is now out there from a track record
+[65:40] perspective over the last year and helps
+[65:42] people understand what we're really
+[65:44] focused on yeah is really interesting I
+[65:47] mean I have a lot of guests on that uh
+[65:50] not only hold Bitcoin like it's not a
+[65:52] complete Bitcoin Maxi show I even have a
+[65:54] lot of guests that hold other
+[65:56] cryptocurrencies even outside of
+[65:58] ethereum it just happens to be that I
+[66:00] personally am Bitcoin only uh and it's
+[66:04] interesting that with the podcast I
+[66:07] transitioned to way more of uh a soft
+[66:12] Bitcoin max if if you you say like I was
+[66:15] way more toxic if at the time where I
+[66:19] was just on a and just putting out my
+[66:21] tweets then I'm doing it right now
+[66:24] because uh
+[66:26] even if like I have the I have the thing
+[66:30] where I'm like okay it's Bitcoin only I
+[66:32] don't see any use Cas in other other
+[66:33] altcoins but I'm aware of that I'm just
+[66:36] one human being and I could be flawed
+[66:38] and um no matter what's the outcome the
+[66:42] free market will make the decision
+[66:45] anyways like if if exactly if if if bit
+[66:48] if etherum has absolutely no use case I
+[66:52] don't have to worry about that because
+[66:53] then people will flock out of ethereum
+[66:56] and will only have bit Bitcoin one
+[66:59] question I have to to that any uh more
+[67:02] is there any technical uh difference
+[67:06] between storing Bitcoin uh and storing
+[67:09] ethereum is is is it basically I have no
+[67:12] clue about ethereum that's why I'm
+[67:13] asking is there any any technical
+[67:16] difference in in storing
+[67:17] ethereum well from a user-facing
+[67:20] perspective we tried to make it feel
+[67:23] very similar but under the hood it's
+[67:25] actually
+[67:26] wildly different how the different
+[67:29] protocols work because they both handle
+[67:30] multisig very differently and so we
+[67:34] actually built them to be pretty
+[67:36] separate in our system so that the like
+[67:40] we I think we could have compromised on
+[67:42] things and tried to like smush it all
+[67:45] together and make it like you know not
+[67:50] to separate security systems and in that
+[67:53] case might have actually degraded the
+[67:56] the benefits of securing Bitcoin with
+[67:57] Casa and we took the approach of saying
+[68:00] no we want the Bitcoin security to
+[68:03] remain Rock Solid and to not be affected
+[68:05] At All by us adding support for ethereum
+[68:09] and so in order to do that we had to
+[68:10] build it in a way that we kept them very
+[68:13] separate and just built based on how the
+[68:17] native protocols work and so that means
+[68:19] that they work pretty differently under
+[68:21] the hood but as a user for the most part
+[68:23] you don't really have to to think about
+[68:26] that there's like a couple of scenarios
+[68:28] where it works slightly differently in
+[68:31] the UI uh when you're taking different
+[68:33] actions but overall it you know it
+[68:36] doesn't make a ton of difference it it
+[68:38] all kind of comes down to what's
+[68:40] happening underneath that surface so um
+[68:45] we've just tried to be very careful
+[68:47] about making sure that the ethereum
+[68:49] support doesn't affect the security for
+[68:51] the Bitcoin side of things and I think
+[68:53] that that's that's worked out well for
+[68:55] us
+[68:56] um and yeah I agree that ultimately it's
+[68:59] like a it's a free market thing
+[69:01] because just because we support ethereum
+[69:04] doesn't mean that somebody chooses to
+[69:05] invest in ethereum
+[69:08] and um we take no stance on like you
+[69:12] whether we're in a Bitcoin Maxi or
+[69:14] ethereum Maxi or whatever like Jameson
+[69:16] my co-founder loves to [ __ ] on ethereum
+[69:20] on Twitter or X and that's fine like
+[69:25] fine but he also realizes that we got a
+[69:27] bunch of customers that want to store
+[69:29] their ether with Casa and so that's as a
+[69:32] business it just that's what we decided
+[69:34] to do and so um I think that the free
+[69:39] market it's it's a very free markets are
+[69:41] a very Bitcoin aligned principle right
+[69:45] and so just like you said if Bitcoin
+[69:48] gets more adoption then ethereum it's
+[69:51] going to outperform as an asset and what
+[69:54] we've seen this year is significant
+[69:56] outperformance from of Bitcoin versus
+[69:58] ethereum as an asset and um so I think
+[70:03] that that's the free market at work
+[70:05] we'll see if that changes but in the
+[70:07] meantime it's not our job our job to
+[70:08] tell our customers what they can and
+[70:10] can't invest in it's just our job to
+[70:12] respond to our customer security
+[70:14] needs yeah as a as a company you're here
+[70:17] to serve I get that a lot really really
+[70:19] cool um also like from a performance
+[70:22] performance of Bitcoin in ethereum uh
+[70:24] the one metric that I track always with
+[70:28] Bitcoin versus ethereum is the metric
+[70:31] starting when they switched from proof
+[70:33] of work to proof of stake and it's
+[70:35] really interesting since it did it it
+[70:37] was like 2020 uh I forgot the month but
+[70:40] I think it was in the middle or end of
+[70:42] 20202 um where they they switched from
+[70:45] proof work to proof of stake and since
+[70:47] then it actually um what was it was
+[70:50] Bitcoin going up 50% against it or was
+[70:53] ethereum going down 50% I I forgot but
+[70:56] at least like the the difference between
+[70:59] the Bitcoin and the ethereum price is
+[71:01] significant since then like Bitcoin has
+[71:04] performed so much better since ethereum
+[71:07] switched um I have as as I said like I
+[71:10] have no clue why this this because like
+[71:12] i' I'm not in an a at all uh I only know
+[71:16] why Bitcoin will be going up in the long
+[71:19] term I have a whole podcast around that
+[71:22] but uh ethereum it's it's interesting a
+[71:25] AI switch dead
+[71:27] system and whether the proof of work
+[71:29] versus proof of stake is what did it or
+[71:31] something else like you know there's a
+[71:33] lot of different reasons why Bitcoin
+[71:35] could outperform eth I think that uh
+[71:38] ethereum has a lot more competitors like
+[71:42] there's a bunch of different chains out
+[71:45] there trying to be the smart contract
+[71:47] Computing chain for Bitcoin it's done a
+[71:51] pretty good job of winning that money
+[71:54] use case
+[71:56] and so I think that uh that's a you know
+[72:00] a big difference from like a if you
+[72:03] think about it almost from like a
+[72:04] product Market fit perspective and a a
+[72:06] marketing perspective of like is this
+[72:09] clearly the best thing for this use case
+[72:11] and I think bitcoin's just really nailed
+[72:14] that for money really cool uh as we're
+[72:17] coming closer to the end um even though
+[72:19] there there's so many really interesting
+[72:21] conversation with you um the one
+[72:24] question that asked all my guests in the
+[72:26] end is what can we learn from all
+[72:28] besides all the things uh about the
+[72:31] Bitcoin topics wait let me say that
+[72:33] again I completely made failed that
+[72:37] now I think it was not even
+[72:39] understandable what can we learn from
+[72:41] you besides all the topics that we
+[72:43] already talked about in Bitcoin so I
+[72:46] think probably one of the lessons that
+[72:48] you can learn from and just my
+[72:50] experience as a person is that you don't
+[72:53] have to be this
+[72:56] perfect like the word specimens coming
+[72:59] to mind but that's not quite right you
+[73:02] don't have to be a perfect fit or like
+[73:04] have the perfect plan for a certain type
+[73:08] of role and so let me just be more
+[73:10] specific to like add some clarity to
+[73:12] that I was not the original CEO of Casa
+[73:17] and I actually started my career doing
+[73:20] Finance like something totally different
+[73:22] than what I'm doing today and eventually
+[73:25] decided I wanted to get into Tech and
+[73:28] startups because I wanted to have more
+[73:31] responsibility over what I was working
+[73:33] on and what I was building and I took
+[73:35] like a job just at a random Tech startup
+[73:40] where I knew some of the people that
+[73:42] were working there and I was working in
+[73:44] operations so I it was a travel Tech
+[73:47] startup where you um we would uh let you
+[73:51] order food from your phone at the
+[73:52] airport and so the first job that I took
+[73:54] just to get into the tech world was in
+[73:57] operations for them where I was going
+[73:58] into airports and like physically
+[74:01] installing effectively door Dash tablets
+[74:04] so that people could order food from
+[74:06] their phone and doing all the
+[74:08] Integrations like overnight like pulling
+[74:10] all nighter in airports doing these
+[74:13] things and it was you know it was fun
+[74:17] but it was nothing even close to like
+[74:20] what I'm doing today
+[74:23] but I kind of worked there in that role
+[74:26] for a while and then moved over into
+[74:28] doing product management for the same
+[74:30] company and got that opportunity there
+[74:33] thankfully to them and learned a bunch
+[74:36] doing that and then kind of over and
+[74:39] over again just made these little
+[74:42] changes in my career and eventually
+[74:44] ended up uh joining Casa as one of the
+[74:47] early employees and as head of product
+[74:50] and then I just tried to do good work at
+[74:53] Casa and was really um you know
+[74:57] passionate about the problem that we
+[75:00] have been working on and then at the end
+[75:02] of 2019 which was about a year and a
+[75:05] half into me working at Casa um the
+[75:08] previous CEO decided to step down there
+[75:11] were some family health issues involved
+[75:13] and he asked me to take over as CEO and
+[75:15] I had no idea how to be a CEO and I was
+[75:19] like totally feeling in over my head and
+[75:23] only thanks to help from a couple of
+[75:25] close friends and some of our investors
+[75:28] was I able to figure out like what the
+[75:30] heck I should do we almost ran out of
+[75:34] money we had like not you know 30 days
+[75:38] or 45 days of cash left basically when I
+[75:40] took over as CEO it was a very difficult
+[75:43] time for the company but we pulled
+[75:46] together as a team and supported each
+[75:48] other and we're made it through and and
+[75:51] now are doing very well as a company and
+[75:53] so I think when somebody like looks in
+[75:56] from the outside maybe it's easy to feel
+[76:00] like you know I could never do something
+[76:02] like that but I think what it always
+[76:04] boils down to
+[76:06] is you can do these things you just have
+[76:10] to try and you have to try your best to
+[76:13] do a good job at something and out of
+[76:16] that good things will come and so you
+[76:19] know I every new employee that joins
+[76:22] Casa I give them this uh culture talk
+[76:27] basically and we talk through all the
+[76:29] ways that we work at Casa what our
+[76:31] values are what our mission is all that
+[76:33] but the the very last slide that I have
+[76:36] in my
+[76:37] presentation is a slide that
+[76:40] says uh who you will become is who you
+[76:43] decide to be and this is something that
+[76:46] has been has really been important to me
+[76:50] as a person because it helps me remember
+[76:53] that future me is just a it's just
+[76:57] present me plus all of the decisions
+[76:59] that I make between now and that
+[77:02] whatever future point in time that I
+[77:05] choose and I think that that's something
+[77:07] that's very empowering in one hand and
+[77:10] comforting in the other hand because yes
+[77:13] there may be these kind of random curve
+[77:15] balls that life throws at you but the
+[77:17] the main constant in your life is you
+[77:20] and the decisions that you make and so I
+[77:22] think that that is a very like
+[77:24] encouraging thing for me personally and
+[77:27] if you had asked me back when I first
+[77:29] took that job in operations at that Tech
+[77:32] startup if I thought that I would be the
+[77:35] CEO of a company of a size that Kasa is
+[77:38] today I would not have believed it and
+[77:42] so I think the lesson there is you can
+[77:45] do whatever you want you just have to do
+[77:47] the thing and then try hard at it I love
+[77:50] that a lot thank you for sharing that
+[77:52] that's beautiful um really cool we are
+[77:54] already uh very close to the end of the
+[77:58] podcast um the end routine of the
+[78:02] podcast is where the previous guest is
+[78:03] asking a question for the next guest
+[78:05] without knowing who the next guest is
+[78:07] and I already teased it before a little
+[78:08] bit uh because you said Bitcoin doesn't
+[78:11] solve anything it doesn't solve
+[78:13] everything uh and it's interesting
+[78:15] because your question from the previous
+[78:17] guest is what do you think Bitcoin
+[78:20] doesn't solve
+[78:21] H yeah that is good tie in think uh this
+[78:25] isn't going to be a great answer I think
+[78:27] there's a lot of things that Bitcoin
+[78:29] doesn't
+[78:30] solve about human nature like I think
+[78:34] that sometimes people say like suddenly
+[78:36] Bitcoin is going to make us these like
+[78:41] more
+[78:42] altruistic beings with longer time
+[78:45] preferences that are only thinking about
+[78:47] the future and only like building for
+[78:51] this glorious future not being selfish
+[78:53] in the present
+[78:56] Etc and I just think that that while
+[79:00] that is true sometimes there's also just
+[79:03] a lot of human nature that is built up
+[79:06] around like what do I want right now
+[79:09] what am I feeling right now how do I
+[79:11] make sure I'm feeling good right now and
+[79:16] Bitcoin can't fix that probably a lot of
+[79:19] like Bitcoin plus like a lot of
+[79:21] meditation and you know time spent
+[79:24] analyzing your own psychology and the
+[79:26] wisdom of life as you get older and
+[79:28] older that's like the real recipe to to
+[79:31] fix that but I don't think Bitcoin
+[79:33] fundamentally changes who we are as
+[79:37] people for in that really really deep
+[79:40] way but I think it can be a tool to
+[79:42] allow people to better Express who they
+[79:45] are as people and it can be a tool to
+[79:48] for the people that um you know want to
+[79:51] take on more responsibility want that
+[79:54] free Freedom want that autonomy that
+[79:56] Bitcoin can provide and that
+[79:58] cryptography can provide I think it's a
+[80:01] it's a tool that they've never had
+[80:02] before and so that enables some of those
+[80:05] behaviors that um just haven't been
+[80:08] practical or possible before but does it
+[80:12] fundamentally change human nature and
+[80:15] and turn you into this perfectly healthy
+[80:19] eating um or only meat eating like
+[80:23] longtime Horizon and Guru probably not I
+[80:28] think a lot of that comes actually down
+[80:30] to and I 100% agree with you uh a lot of
+[80:33] that comes down because people are now
+[80:35] coming at the community and we a really
+[80:38] early community and a small community
+[80:40] especially the Bitcoin only uh crowd and
+[80:43] in that Community are a lot of people
+[80:45] that have that low time Preference they
+[80:48] are meditating they are looking out for
+[80:50] their food they have all all those
+[80:52] things going for them so I think when we
+[80:54] have those kind of um people in that
+[80:58] early Community uh and we have uh new
+[81:02] people coming in they're influenced more
+[81:04] by the community and less by by Bitcoin
+[81:07] itself so I think a lot of that comes
+[81:09] down to we are being in a very early
+[81:11] community and not like oh yeah we have a
+[81:14] different money and all of the sudden
+[81:15] our brain functions differently I do
+[81:17] think that bit s money does something to
+[81:19] society but not to the extent that a lot
+[81:22] of uh people think so that I think
+[81:25] that's a great Insight also from you so
+[81:26] a great answer uh from you thank you so
+[81:30] much Nick for for being on today before
+[81:33] I let you go where can people find you
+[81:35] where can people find car or where can
+[81:36] people ask you
+[81:38] questions so uh people can find me on
+[81:42] Twitter my or X my ex handle is n Newman
+[81:48] n NE
+[81:50] M and then you can also uh follow Casa
+[81:54] it's at Casa hodle cah HL and then our
+[81:57] website is
+[81:59] ca. you can go on the website check out
+[82:02] our uh product check out what we've
+[82:05] built ask our team questions you know if
+[82:08] you're interested we can get on a call
+[82:10] with you actually talk you through how
+[82:13] Casa works and and how we can help you
+[82:15] get more secure so please reach out
+[82:18] we're we're happy to help and that's
+[82:19] that's what we're building the company
+[82:20] for thank you so much Nick for being on
+[82:23] also thank you all everyone one that is
+[82:24] watching and listening for joining us
+[82:26] today as always I'll be back tomorrow
+[82:28] with another episode bye-bye thanks
+[82:31] Robert
+[82:32] [Music]

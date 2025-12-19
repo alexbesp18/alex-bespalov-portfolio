@@ -1,0 +1,1409 @@
+Title: Bitcoin is the BEST currency we ever had | Phil Geiger
+Video ID: c6tYyykTBh8
+URL: https://www.youtube.com/watch?v=c6tYyykTBh8
+Date Saved: 2025-06-15 11:57:47
+--------------------------------------------------
+
+[00:00] Bitcoin has the best chance of becoming
+[00:01] the global Reserve currency Bitcoin will
+[00:03] be the 50% of of every human interaction
+[00:06] with hdle waves I think are the most
+[00:08] important visualization of the Bitcoin
+[00:09] blockchain all of the sudden everybody
+[00:11] saves in Bitcoin where it's like oh if I
+[00:13] wait two months longer and don't get the
+[00:15] newest iPhone or wait like a year longer
+[00:17] before I upgrade my car this completely
+[00:20] changes Society largest number of users
+[00:23] were with custodians but the most
+[00:24] Bitcoin was in self- custody and same
+[00:26] thing is true today most people lose
+[00:28] their Bitcoin from just getting their
+[00:30] accounts hack their username their
+[00:31] password two Factor
+[00:33] authentication why is Unchained or like
+[00:36] yourself uh Bitcoin only focused or
+[00:39] differently ask uh do you see all the
+[00:41] other cryptos or altcoins as a
+[00:45] scam that's a really great question and
+[00:47] I might even start before before
+[00:49] answering it directly I I love to hear
+[00:51] that you're based in Europe because I
+[00:53] started my Bitcoin career while I was
+[00:55] living in Europe so my wife and I we
+[00:58] weren't married at the time but we were
+[01:00] living in the Netherlands so that's
+[01:02] where I really left my Fiat career in
+[01:04] about
+[01:05] 2017 and started my career in Bitcoin so
+[01:09] love uh helping out the Europeans to
+[01:12] understand why Bitcoin now to your next
+[01:15] question I think it's a very deep
+[01:18] question that requires quite a bit of
+[01:21] research so it's my perspective that
+[01:24] Bitcoin is the new Global Reserve
+[01:28] currency that might be a big
+[01:30] statement but the reason I believe that
+[01:33] that is true is because Bitcoin has a
+[01:35] fixed supply of 21 million and it is not
+[01:39] controlled by any single Authority so
+[01:42] all other currencies Fiat crypto
+[01:47] whatever they were all founded and
+[01:49] created by a central Authority and
+[01:52] what's
+[01:53] different with Bitcoin is that while it
+[01:56] was created by a pseudonymous individual
+[01:58] Satoshi Nakamoto we don't know who they
+[02:01] were that person left the project very
+[02:03] early on specifically so that they
+[02:07] wouldn't be a single point of failure
+[02:09] for Bitcoin so when I think about
+[02:12] Bitcoin versus all of the other
+[02:16] currencies the the core components that
+[02:18] I think are really important are one the
+[02:21] fixed supply of 21 million all other
+[02:23] currencies don't really have a monetary
+[02:27] policy with much credibility or seeing
+[02:30] just this week with the Yen the third
+[02:32] largest currency in the world that it's
+[02:36] being massively devalued and seemingly
+[02:40] randomly with Bitcoin you have a fixed
+[02:42] Supply it's released on a schedule and
+[02:45] regardless of what's happening in the
+[02:46] world that schedule just keeps on
+[02:49] chugging
+[02:50] along that's not the
+[02:53] only important thing about Bitcoin but I
+[02:55] think it it's where like the all the
+[02:57] value for a majority of the value step
+[02:59] stems from other aspects of Bitcoin that
+[03:01] are really really useful is that it's
+[03:04] censorship resistant nobody can prevent
+[03:06] you from sending Bitcoin it's neutral so
+[03:09] it's it's kind of like the internet in a
+[03:11] lot of ways where nobody's really in
+[03:13] charge of the Internet it's just a
+[03:14] global
+[03:17] tool and uh you can also secure it in
+[03:21] very interesting ways so Unchained when
+[03:26] we first started we actually did the the
+[03:30] founders really thought that maybe it
+[03:34] wasn't just going to be Bitcoin it might
+[03:35] be Bitcoin plus a few other
+[03:38] cryptocurrencies or maybe hundreds or
+[03:40] thousands of other
+[03:41] cryptocurrencies and so unchain actually
+[03:43] supported ethereum early on in its life
+[03:47] for Bitcoin collateralized or crypto
+[03:50] collateralized loans at the
+[03:52] time but we've always tried to build our
+[03:55] products and services using the native
+[03:58] properties of these different Protocols
+[04:00] of Bitcoin so we built our entire
+[04:02] product Suite on top of Bitcoin multi
+[04:06] signature which is a type of address
+[04:08] that is controlled by multiple keys so
+[04:10] if you have a hardware wallet or a
+[04:11] mobile app for example those wallets are
+[04:13] typically controlled by one key with
+[04:16] multisig you build a Bitcoin wallet that
+[04:19] has multiple
+[04:20] keys in our case it's two of three so
+[04:23] three total Keys any two of which are
+[04:26] needed in order to move the Bitcoin out
+[04:28] of the Vault
+[04:32] so when we first started we built our
+[04:35] Bitcoin collateralized loan product on
+[04:36] top of multisig and then we introduced
+[04:40] ethereum collateralized loans but
+[04:43] there's a problem with ethereum it
+[04:45] wasn't it didn't have multisig native to
+[04:49] the protocol so the founders and the
+[04:51] engineering team had to write a multi-
+[04:54] signature smart contract for ethereum
+[04:57] and this was during the time when
+[04:58] ethereum just kept changing every few
+[05:00] months there was a massively breaking
+[05:03] backwards incompatible change unchain
+[05:05] was trying to run an ethereum node we
+[05:08] were trying to do it the right way
+[05:09] really
+[05:10] were and what we found is that we were
+[05:13] investing 70% of our engineering
+[05:16] resources to something that was only
+[05:18] like 10% of our client base and really
+[05:22] most people who were controlling those
+[05:23] other cryptocurrencies didn't really
+[05:25] care about this level of security that
+[05:27] we were able to provide with Bitcoin
+[05:29] and so we dropped it early on I think
+[05:31] this was like
+[05:34] 2019 and ever since then we've had the
+[05:37] focus on just Bitcoin and this has been
+[05:39] a massive massive Advantage for us we
+[05:43] actually just recently published a video
+[05:45] about our core values as a
+[05:47] company this was of course formed over
+[05:49] the last few years but the number one
+[05:51] core value is Bitcoin is our common
+[05:53] purpose so we believe that Bitcoin has
+[05:56] the best chance of becoming the global
+[05:58] Reserve currency and we want to help
+[06:00] people who are securing Bitcoin for many
+[06:03] many years we want to help long-term
+[06:05] Bitcoin Savers secure manage grow their
+[06:08] Bitcoin wealth and after dropping eth
+[06:12] early on WE very soon after realized
+[06:16] that that was the right move and there's
+[06:18] no we have no plans to add any support
+[06:22] for any other cryptocurrencies because
+[06:24] Bitcoin is just the most valuable one
+[06:27] it's the most important cryptocurrency
+[06:28] there is
+[06:30] yeah definitely and I think even if you
+[06:32] don't say like the other ones are scams
+[06:34] or they useless or something like that
+[06:36] uh like there Bitcoin and it's so
+[06:38] different to anything else so like we we
+[06:40] we should even like I try to do it we
+[06:43] should even like just separate it and
+[06:44] not even compare it at all because
+[06:47] they're like so separate and so
+[06:48] different from each other but all of the
+[06:51] but of course like it's listed on coin
+[06:53] market cap with all the other groups
+[06:55] like it it gets always gets in one
+[06:58] bucket uh when you get to a regular Bank
+[07:00] who has crypto Services they also have
+[07:02] like Bitcoin ethereum in the crypto
+[07:05] category so it's like a hard thing to
+[07:07] break uh but it's important that
+[07:10] especially we as as Bitcoin only folks
+[07:13] no matter what we're doing if we have in
+[07:14] a company podcast whatever we are doing
+[07:16] in the space always making the
+[07:18] differentiation between uh Bitcoin all
+[07:21] others because I see a lot of comments
+[07:23] also from people that are like oh I love
+[07:26] your content but I also love Ripple I
+[07:28] also love ethereum I also of Gano like
+[07:31] uh even you normal normal crypto people
+[07:34] that uh uh are interested in Bitcoin
+[07:37] only content because they also have a
+[07:39] Bitcoin stake so like I try to get this
+[07:42] get this itos into everyone that it's
+[07:45] Bitcoin only uh and like slowly BL the
+[07:49] seeds in in in the heads that's uh that
+[07:51] Bitcoin is the big thing and the other
+[07:53] ones is like yeah I don't know what it
+[07:55] is there's really a philosophical
+[07:57] difference I think between bitcoiners
+[08:00] and then I'm going to lump these people
+[08:02] together but
+[08:03] crypto supporters and then also just
+[08:07] fiat currency supporters I think crypto
+[08:10] and fiat currency are very very similar
+[08:12] in a lot of ways so the way I think
+[08:13] about it is
+[08:16] bitcoin's disruption is that it is it it
+[08:22] solved the problem of creating digital
+[08:24] scarcity now historically anything that
+[08:28] has been digital has not been scarce
+[08:30] right pictures you can copy and paste
+[08:32] pictures nfts you can copy and paste
+[08:35] nfts it's the same thing with all other
+[08:38] cryptocurrencies Bitcoin is the one that
+[08:40] solved the problem you can't print more
+[08:42] than 21 million Bitcoin all the other
+[08:45] cryptocurrencies are proof that creating
+[08:47] things that are digital and creating
+[08:49] copies of things that are digital is
+[08:51] Trivial most of the cryptocurrencies are
+[08:54] very small changes to bitcoin with like
+[08:57] a couple adjustments and they're not
+[09:00] credible in terms of their monetary
+[09:02] properties so when I think about these
+[09:04] different cohorts of
+[09:06] people a bitcoiner is somebody who
+[09:11] believes that nobody should be able to
+[09:14] print
+[09:15] money central banks and people who
+[09:19] support Fiat currencies believe that
+[09:21] only a small number of people should be
+[09:24] able to print money crypto enthusiasts
+[09:27] enthusiasts think that everybody should
+[09:30] be able to print money so there's a very
+[09:32] kind of big divide I think
+[09:35] philosophically and
+[09:36] ideologically among these these three
+[09:39] parties bitcoiners nobody should be able
+[09:41] to print money crypto people everybody
+[09:43] should be able to print money Central
+[09:45] Bankers only we should be able to print
+[09:47] money at 100% and uh which also lead
+[09:51] like uh for me it's uh the the feat and
+[09:54] crypto uh guys it's like really similar
+[09:57] for me it's like the the the crypto
+[09:59] people want to build the thing that's
+[10:02] already existing in Fiat but just on
+[10:04] blockchain like they kind of concentrate
+[10:06] like let's put everything on a
+[10:07] blockchain uh and it's it just does
+[10:10] doesn't make sense for me because
+[10:11] there's an oracle problem there like you
+[10:13] have to have an an Central Authority
+[10:16] that gets it on the blockchain at the
+[10:18] first place then the blockchains are not
+[10:20] decentralized actually they are just
+[10:21] inefficient in the way of of saving it
+[10:24] like there's so many problems that I
+[10:26] don't even want to get into it uh but
+[10:28] maybe let's uh like before I want to
+[10:30] really get also into it why is Bitcoin
+[10:32] so decentralized and and why can it
+[10:35] enforce this 21 million cap I also saw
+[10:37] on YouTube that you made a a small
+[10:39] presentation on that but before we get
+[10:41] into this uh um where do you see Bitcoin
+[10:44] dominance going like we are now at like
+[10:46] 50 60% or something like that if you
+[10:49] exclude there's like a different metrix
+[10:50] if you exclude the stable coins because
+[10:52] they're not actually grp to they like
+[10:54] more like to the Feld and we more like
+[10:57] at 70% uh um dominance of Bitcoin where
+[11:01] do you see Bitcoin dominance going in
+[11:03] the next like long term like 20 years or
+[11:06] something like that uh do you see uh
+[11:09] crypto still being around or like
+[11:11] Bitcoin really dominating with all the
+[11:13] things going on with like 80 90% maybe
+[11:17] even I've been very surprised at how
+[11:20] long crypto generally has stuck around
+[11:22] and I think it's because people view
+[11:24] crypto as more of like a gambling or day
+[11:27] trading or speculative asset
+[11:29] so I hesitate to make a specific
+[11:32] prediction but what I will say is that
+[11:35] the Bitcoin dominance is kind of a
+[11:39] faulty not kind of it's a very faulty
+[11:42] metric Bitcoin is by far the most
+[11:45] dominant it's the most liquid it's
+[11:47] Global it's extremely
+[11:50] decentralized all of the other crypto
+[11:52] tokens they they have liquidity problems
+[11:56] right they might appear to be worse a
+[11:59] lot or have a large market cap but if
+[12:01] you were to try to extract that uh that
+[12:05] value out of those networks they would
+[12:08] collapse and we've seen that
+[12:10] historically constantly in crypto I mean
+[12:12] look at FTX and ftt FTX their balance
+[12:16] sheet I think was like 40 to 60% their
+[12:19] own token and when there was a run on
+[12:21] that token it turns out the actual value
+[12:24] of the token was almost worthless again
+[12:27] it's very easy to fake those numbers
+[12:30] so when I think about over the long term
+[12:32] yeah I I I think in reality Bitcoin is
+[12:36] probably like 80 to 90% if not higher
+[12:39] and you can just look at the metrics of
+[12:41] these different companies and how much
+[12:43] of their business is based on
+[12:47] bitcoin coin Bas all these exchanges
+[12:49] like most of their business is Bitcoin
+[12:51] even though they list every single
+[12:53] crypto token Under the Sun and that's
+[12:56] why I also think it's really interesting
+[12:57] that it's there are so many coin only
+[12:59] exchanges and services uh coming up and
+[13:02] this is like when you look back just
+[13:04] like four or five years ago they're not
+[13:06] that many completely Bitcoin only player
+[13:10] and Educators now there are so many
+[13:12] podcasts there are Services there are uh
+[13:15] um Bitcoin exchanges Bitcoin only
+[13:17] exchanges they really really cool and I
+[13:19] like the the how the the whole place is
+[13:23] evolving um with that do you also like
+[13:26] see um the like we talked before a
+[13:29] little bit about you think that Bitcoin
+[13:32] will be the global Reserve asset I frame
+[13:35] it differently but I think we we end up
+[13:37] at the same kind of thought I say
+[13:40] Bitcoin will be the base layer of
+[13:42] everything like it's the future base
+[13:43] layer of our financial system that means
+[13:46] it's a global Reserve asset um and I
+[13:49] think that U Bitcoin will be half of
+[13:52] everything like 50% of of every human
+[13:55] interaction because of every human
+[13:57] interaction 50% of that is is money and
+[14:00] if Bitcoin is that money uh everything
+[14:03] is in there then there are like a lot of
+[14:05] great topics on top of that because then
+[14:08] uh we give this great store of value
+[14:10] back to humanity uh which people can
+[14:13] save in this will make houses affordable
+[14:16] this will drive prices down this will
+[14:19] bring this deflation deflationary system
+[14:22] that we have
+[14:23] naturally actually occurring because we
+[14:25] don't inflate the money supply uh what
+[14:28] what do you think of like like what what
+[14:30] does Bitcoin do in general for for
+[14:32] prices and the future of the economic
+[14:35] system money is the most basic form of
+[14:40] human
+[14:42] communication even kind of lower on the
+[14:45] civilization stack than spoken language
+[14:50] you can do business with somebody
+[14:52] without speaking their language at all
+[14:54] maybe some hand gestures right but money
+[14:57] is a a token of value it's it's
+[15:00] communicating hey you have that thing
+[15:03] over there I would like to trade this
+[15:05] money for that thing we're both better
+[15:08] off so it's really a fundamental tool
+[15:12] for human
+[15:14] civilization and until
+[15:17] Bitcoin that tool has just been it's
+[15:21] suffered from lots of different problems
+[15:24] gold suffers from being physical you
+[15:26] can't zip gold
+[15:29] from the US to China from Texas I'm here
+[15:31] in Austin Texas can't send it to
+[15:36] changdu it's also just very difficult to
+[15:39] Pro protect it centralizes right you
+[15:42] need to hire a team to protect
+[15:44] gold you can't just you know have a pile
+[15:47] of gold in your house and so it's these
+[15:51] drawbacks that have caused gold overall
+[15:55] to morph into this fiat currency system
+[15:58] which solves the physical physicality
+[16:00] problem and the ease of transaction
+[16:02] problem it mostly solves the ease of
+[16:03] transaction problem but what it loses
+[16:07] was gold scarcity so Bitcoin fixes both
+[16:10] of those problems it is ultimately
+[16:12] scarce and you can send it anywhere in
+[16:14] the world
+[16:16] permissionless and as such it allows us
+[16:18] to do business with people who
+[16:22] culturally we couldn't be more different
+[16:24] you know I can use Bitcoin to hire
+[16:26] somebody from across the world to
+[16:28] perform a task build a
+[16:31] website and so yeah it's it's an
+[16:33] absolutely critical tool for human
+[16:37] civilization and until we have had
+[16:40] Bitcoin like it's been kind of a lie
+[16:43] somebody at the root of all of society
+[16:47] is able to unilaterally just sneakily
+[16:50] steal value from people through
+[16:53] inflation so this causes huge problems
+[16:57] housing gets un unaffordable
+[16:59] wealth inequality increases over time
+[17:02] and it actually gets more severe the
+[17:04] more you try to use that old system to
+[17:08] solve it the only way in my view to
+[17:11] really solve the housing Health Care
+[17:14] affordability inequality problem is to
+[17:17] make everyone equal at the very very
+[17:18] base layer of civilization with the
+[17:21] money make everyone equal nobody can
+[17:23] print money there's only 21 million and
+[17:26] lots of good outcomes will come from
+[17:29] that yeah 100% I love how you look at it
+[17:34] I think this is like when you when you
+[17:35] are a longterm Bitcoin you will see like
+[17:38] that uh and it's it's always fascinating
+[17:41] to see um how Bitcoin actually achieved
+[17:44] that and this is where you touched on
+[17:46] with the uh presentation I think January
+[17:49] or something like that was the was a
+[17:50] presentation on on YouTube or something
+[17:52] like that I saw um how does how does it
+[17:55] actually perform like how does Bitcoin
+[17:58] actually enforces that rule like that we
+[18:01] don't have um um limited Supply that we
+[18:05] don't like the supply is actually
+[18:07] limited and is there any way that you
+[18:10] could imagine that at some point in the
+[18:13] future we can break this one 21 million
+[18:16] thing is is there any way like you you
+[18:19] could think of like okay when this
+[18:21] happens this could be interesting where
+[18:23] we like double the supply or something
+[18:25] like that what I like about Bitcoin is
+[18:28] it's very voluntary you get to choose to
+[18:30] opt into it and so that presentation I
+[18:33] gave I just wanted to give a very simple
+[18:36] rundown of how Bitcoin enforces its
+[18:38] fixed supply of 21 million in about 15
+[18:41] minutes this is a topic that I would say
+[18:44] requires significantly more than 15
+[18:46] minutes of time to study but I'll do my
+[18:48] best at running through my thoughts here
+[18:52] so going back to the very beginning
+[18:55] Bitcoin is valuable primarily because of
+[18:57] its fixed supply of 21 million it's
+[18:59] valuable because nobody can print it and
+[19:01] so when you're buying Bitcoin or
+[19:03] acquiring Bitcoin in any form or fashion
+[19:06] mining it you know earning Bitcoin
+[19:09] through podcasting whatever you are
+[19:13] choosing that monetary policy and it
+[19:16] could be a an active choice or a
+[19:17] subconscious Choice most people you know
+[19:20] realistically get into Bitcoin because
+[19:22] they see the value of going up and they
+[19:23] want to just save in that to increase
+[19:26] their purchasing power but but again the
+[19:29] the the root reason that that's
+[19:30] happening is because it has a fixed
+[19:32] Supply so when you acquire Bitcoin
+[19:36] you're knowingly or unknowingly opting
+[19:38] into that monetary policy and there's a
+[19:40] bunch of different things that you
+[19:41] individually can do to help to enforce
+[19:44] that monetary policy you can run the
+[19:47] software a full node you can download it
+[19:50] from bitcoin.org and it tracks all of
+[19:54] the transactions throughout the history
+[19:56] of Bitcoin and confirms that that supply
+[19:58] has been adjusted and once you're
+[20:01] running that software you then are
+[20:05] essentially like a decentralized banker
+[20:07] of Bitcoin because you have the entire
+[20:09] transaction history on your computer and
+[20:12] you can see your balance and you can see
+[20:13] that the supply has never changed and
+[20:16] then if someone else tries to change the
+[20:18] supply you get to choose you get to say
+[20:21] no I don't think I'm going to join you
+[20:23] I'll cut you off from the network or you
+[20:25] could switch out your software and run
+[20:27] the new software so what's really cool
+[20:29] about Bitcoin is it becomes in some ways
+[20:31] an individual Choice are you going to
+[20:34] let someone else change the supply you
+[20:36] can but then you have to trust that a
+[20:39] majority or almost all other people move
+[20:44] over to that new
+[20:46] network I personally have made the
+[20:48] decision that Bitcoin has a fixed supply
+[20:50] of 21 million so if somebody tries to
+[20:53] change the supply and there's a history
+[20:55] of this happening in 2017 a small small
+[20:59] group of uh people who were unhappy with
+[21:01] how Bitcoin was evolving wanted to
+[21:03] change a small component of Bitcoin
+[21:06] totally unrelated to the supply but that
+[21:08] change was backwards
+[21:10] incompatible so what happened is Bitcoin
+[21:13] kept running and this other
+[21:15] cryptocurrency kind of forked off it
+[21:18] became its own thing but it had the same
+[21:20] shared history and that other
+[21:22] cryptocurrency is called Bitcoin cash so
+[21:25] whether they were
+[21:27] knowingly in uh increasing the supply or
+[21:29] printing a new money or whether they
+[21:31] were ideologically really just trying to
+[21:33] make that one little change doesn't
+[21:34] really matter what happened was that a
+[21:38] vast vast majority of bitcoiners who had
+[21:42] control of their Bitcoin during that
+[21:43] time once that second currency split off
+[21:47] they sold the second currency for more
+[21:49] Bitcoin and you can see this in the
+[21:51] price chart if you look at Bitcoin cash
+[21:53] and its history especially measured in
+[21:56] Bitcoin you can see that early on it had
+[21:58] quite a bit of value and then it very
+[22:01] quickly went to almost zero in Bitcoin
+[22:05] terms so this in my opinion is really
+[22:08] the the Crux of why Bitcoin will never
+[22:13] inflate Beyond 21 million and it's
+[22:15] because there will be people during that
+[22:19] time who actively trade whatever copy of
+[22:23] Bitcoin is
+[22:25] created and I think this is the most
+[22:27] important part for everybody that does
+[22:29] not understand how decentralized Bitcoin
+[22:31] actually is started 2017 the block size
+[22:34] was like really really study it and also
+[22:38] look at the free market outcome of that
+[22:40] and what people actually did and and uh
+[22:43] like it was also fasinating I was not
+[22:45] around at that time so I'm only like
+[22:48] able to talk about it because I heard
+[22:50] from other people but it uh as I saw it
+[22:53] there were like the huge part of the
+[22:55] industry actually on the Bitcoin cash
+[22:57] side uh and only the users that opted
+[23:00] out and then shifted the whole industry
+[23:03] back to to the Bitcoin protocol uh
+[23:05] fascinating for me to see like I can
+[23:07] just like encourage everybody that did
+[23:09] not uh study this till now study the
+[23:12] block as what is really important for
+[23:13] Bitcoin uh uh
+[23:16] future I was lucky or unlucky enough to
+[23:20] live through it and it was a very wild
+[23:23] period for Bitcoin because to your point
+[23:25] some of the largest companies in Bitcoin
+[23:29] really thought that this new copy of
+[23:31] Bitcoin was the right direction and so
+[23:33] they put their weight behind supporting
+[23:35] it but for companies that were
+[23:37] supporting it they can't control exactly
+[23:39] what their users are doing right and at
+[23:41] the time that the copy was made by
+[23:45] granting their users access to both
+[23:48] forms of cryptocurrency the users could
+[23:51] then make a choice they could hold on to
+[23:54] both of them they could sell one of them
+[23:57] for you know any other cryptocurrency or
+[23:59] dollars or Euro or
+[24:01] whatever and you just see that the
+[24:04] market immediately crushed the copy just
+[24:08] very quickly and almost instantly went
+[24:12] down but there were a few other things
+[24:14] that were very interesting about that
+[24:16] time
+[24:18] period users were demanding an upgrade
+[24:21] to bitcoin that was backwards compatible
+[24:24] so it wouldn't create a
+[24:26] copy and
+[24:29] a lot of the core developers during that
+[24:31] time were unsure how to deliver that
+[24:33] feature to people the core developers
+[24:36] the people who were working on bitcoin
+[24:38] on the software were actually somewhat
+[24:39] of a roadblock to this feature that
+[24:42] users really
+[24:43] wanted so a developer under another kind
+[24:47] of anonymous name created a copy of the
+[24:51] Bitcoin software with the new upgrade
+[24:54] and a bunch of users started running
+[24:56] that software again it's per L money
+[25:00] right and because enough users started
+[25:02] running that software it it became
+[25:04] almost like a black hole it started
+[25:06] pulling more and more of the weight over
+[25:09] into the new version of Bitcoin again
+[25:11] that was still backwards incompat uh
+[25:13] backwards compatible so it was still the
+[25:15] same monetary policy the same protocol
+[25:19] but it just had a new feature that was
+[25:21] really
+[25:22] requested so Bitcoin not only routed
+[25:25] around the largest miners compan
+[25:28] companies in the space during that time
+[25:30] it also kind of routed around the
+[25:33] Bitcoin core developers and I think
+[25:34] that's like a lesser discussed aspect of
+[25:37] this was really healthy in my opinion so
+[25:40] people always say like well there's only
+[25:41] a few people who maintain the Bitcoin
+[25:43] code what happens if they're captured or
+[25:47] co-opted this time period was another
+[25:49] example of well you can very easily
+[25:51] create a copy of that software and avoid
+[25:55] the entire kind of Bitcoin core
+[25:56] development process and continue the
+[25:58] network without breaking
+[26:02] it um I never really worried about the
+[26:05] core developers uh because as you said
+[26:07] they they are really not in power like
+[26:10] every other block every other software
+[26:13] project uh the uh developers are
+[26:17] actually quite empowered they can put
+[26:19] something in there uh and and and they
+[26:22] are developing it but they are just like
+[26:25] yeah they they making the code but they
+[26:27] don't make the decision
+[26:28] like that if we can say it like that but
+[26:32] what I worried in the the beginning and
+[26:34] this actually changed now that over 70%
+[26:37] at one point of the miners were in China
+[26:40] and now with the Exodus it's probably
+[26:43] way less like 10% maybe speculating I
+[26:46] mean China wanted zero but I think
+[26:49] there's still a lot of mining going on
+[26:50] in China um do you see it still as some
+[26:54] sort of of problem that mining becomes
+[26:57] more more of a specialized um operation
+[27:01] uh with like only really big facilities
+[27:04] can mine is there any any risks or
+[27:07] problems that you
+[27:09] foresee I've always thought of mining as
+[27:12] actually not even its own industry it's
+[27:15] just part of energy production Bitcoin
+[27:18] mining is a very very critical tool for
+[27:21] any sort of energy generation the reason
+[27:25] being that it's always going to buy your
+[27:29] electricity now it's only going to buy
+[27:31] your cheapest electricity so it doesn't
+[27:32] compete with manufacturing with heating
+[27:36] people's homes so on but you always have
+[27:39] a tool that will buy your cheapest
+[27:43] electricity the other thing about
+[27:44] Bitcoin mining that makes it extremely
+[27:47] powerful for energy production is that
+[27:49] you can flip a switch and turn it off
+[27:51] and flip a switch and turn it on there's
+[27:53] no ramp up or ramp down period And so
+[27:56] this makes it an extremely valuable
+[27:59] load uh flexible load
+[28:03] tool so let's just give an example if
+[28:07] you have a wind farm right you can't
+[28:10] control when the wind is blowing you
+[28:13] can't
+[28:14] control how people are going to demand
+[28:17] your wind energy you can just install
+[28:20] the windmill and then generate the
+[28:22] energy and then transfer it and maybe
+[28:25] store some of it in batteries
+[28:28] but I did some research into this and
+[28:29] you know this is now a few years out of
+[28:31] date but when I was doing research about
+[28:33] 18% of the time people with wind farms
+[28:35] were shutting off production they were
+[28:38] just not generating any more energy this
+[28:41] is a massive opportunity cost they could
+[28:44] you know when the wind is blowing if
+[28:46] people aren't demanding all of the
+[28:48] electricity you could essentially vent
+[28:50] the electricity into Bitcoin you can
+[28:52] monetize it
+[28:53] immediately so this makes renewable
+[28:56] energy production a lot more uh
+[28:59] affordable like more profitable
+[29:01] essentially because you will always have
+[29:02] somebody to buy energy regardless of
+[29:04] when you're generating
+[29:06] it and it's also just something that
+[29:08] doesn't compete with energy that people
+[29:11] need so it's a super powerful tool for
+[29:14] energy
+[29:15] production now I think today the way
+[29:18] that we kind of look at Bitcoin mining
+[29:20] is yeah there's these massive you know
+[29:22] public companies and uh smaller private
+[29:26] companies that are focused exclusively
+[29:28] on energy or on uh Bitcoin mining it's
+[29:31] like its own little
+[29:32] industry but I think if you talk to them
+[29:35] a lot of them realize that I need to get
+[29:38] an edge on energy
+[29:40] production because if you can produce
+[29:42] energy for cheaper then you can mine
+[29:44] Bitcoin for cheaper if you are listening
+[29:46] to this podcast you might be wondering
+[29:48] what is actually the setup look like of
+[29:51] Robin or how can I improve my Bitcoin
+[29:53] setup and there's two things you have to
+[29:55] buy Bitcoin from the right source and
+[29:57] you have to store Bitcoin the right way
+[30:00] let's focus on the first thing how to
+[30:02] buy Bitcoin it's simple have a Bitcoin
+[30:04] only exchange don't deal with the
+[30:06] shitcoin exchanges don't deal with an
+[30:08] exchange that has an own token or
+[30:10] something like that be on a Bitcoin only
+[30:12] exchange I use 21 Bitcoin 21 Bitcoin is
+[30:15] for me the best partner for that and now
+[30:19] where do you store Bitcoin Bitcoin
+[30:21] should be stored on a hardware wallet on
+[30:23] a self custody solution where you
+[30:26] yourself hold your keys and it should be
+[30:29] a cold wallet so that's my Simple
+[30:32] Solutions that's a bitbox you just put
+[30:35] your Bitcoin on there back up your seat
+[30:37] fras and you are better than 95% of all
+[30:41] Bitcoin hodlers if you have more than a
+[30:44] th000 in Bitcoin it's an absolutely must
+[30:47] have one last thing before we get back
+[30:49] to the video I'm really passionate about
+[30:51] meeting other bitcoiners and there's an
+[30:53] amazing opportunity in middle of Europe
+[30:56] in June the Bitcoin PR conference it's
+[30:59] the best and biggest Bitcoin only
+[31:02] conference in whole of Europe for all
+[31:04] Americans please visit Europe and visit
+[31:07] this place in June for all europees it's
+[31:09] a must go anyways you so close to the
+[31:12] Bitcoin PR conference you basically have
+[31:14] to come I will do interviews there and I
+[31:17] would love to meet you all there use
+[31:20] code Robin for all my sponsors to get
+[31:22] discounts and use the links down in the
+[31:25] description and it's interesting to see
+[31:27] I I also had with Lisa I always say HFF
+[31:31] but I think in America it's like H or
+[31:33] something like spoken about she talked
+[31:36] about on my podcast that energy
+[31:39] producers are in this unique position
+[31:42] where they should can monetize on
+[31:45] molecules molecules energy molecules
+[31:48] that they actually waste right now
+[31:50] they're paying to load of wasted energy
+[31:53] that they actually could make money of
+[31:55] and that it's a really big possibility
+[31:57] is for all the energy producers
+[31:59] especially those who have excess energy
+[32:02] um that the act just can yeah make I
+[32:06] mean it's also it's just the timing of
+[32:09] the amount of energy you're producing
+[32:10] and the demand for energy right if it's
+[32:12] super windy you know in the middle of
+[32:15] the day in nobody's home you're probably
+[32:17] generating way too much
+[32:19] electricity uh and you can still
+[32:21] monetize that which will help you to
+[32:22] build out more wind yeah I think it's
+[32:25] really interesting I mean in the US
+[32:27] there's even companies that are starting
+[32:29] to monetize totally wasted gas so at
+[32:34] landfills in the US they emit
+[32:37] methane now it's just right now being
+[32:40] vented into the atmosphere what you can
+[32:42] do is actually burn that methane and
+[32:45] power a Bitcoin miner and earn more
+[32:47] money so you would actually be earning
+[32:50] more
+[32:51] money not venting this dangerous gas
+[32:55] into the atmosphere when you have these
+[32:58] economic incentives aligned like this
+[33:00] really interesting things start
+[33:02] happening you start seeing very major
+[33:06] improvements in you know the environment
+[33:09] and Energy Efficiency and so on so a lot
+[33:12] of people I think at first glance look
+[33:15] at Bitcoin and they're like oh it's a
+[33:16] big waste of energy uses a lot of energy
+[33:19] but the really important question to ask
+[33:22] is specifically what energy does it use
+[33:26] and then if you think about it from the
+[33:28] other side of the equation from the
+[33:29] energy producers standpoint It's
+[33:32] actually an incredibly valuable tool to
+[33:34] help you generate energy cheaper for
+[33:37] people yeah it changes the incentives
+[33:40] which also leads me to my next uh topic
+[33:43] um which is I had both sides of the
+[33:47] aisle already on my podcast because for
+[33:50] me Bitcoin is a fundamental Revolution
+[33:53] that changes a lot um but there's also
+[33:58] the crowd that says in the end of the
+[33:59] day it's just money and and if people
+[34:01] are still lazy like it doesn't change
+[34:04] human nature it just gives another layer
+[34:07] to it but then also other people say no
+[34:10] it changes the incentives of people and
+[34:13] I think Charlie manga say like then give
+[34:16] me your five biggest incentives and I
+[34:17] will show you what you you will do uh
+[34:21] and it it can change a lot I think in
+[34:24] society um how do you see like uh and
+[34:27] and there's another aspect also like I
+[34:29] think you also talked about on our
+[34:31] podcast with that um the Huddle waves
+[34:34] like when we see that in Bitcoin
+[34:36] actually people are holding on to their
+[34:38] coins for a long period of time uh uh
+[34:42] and the like any stock uh like any
+[34:46] company that is publicly listed is
+[34:47] really Envy of that because people are
+[34:50] like trading the stock and not holding
+[34:52] on for long and stuff like that how do
+[34:54] you see Bitcoin is changing societ in a
+[34:58] way or changing behaviors in a way long
+[35:00] term or Al are also of the opinion as
+[35:03] it's just money and it changes a lot for
+[35:06] those who see it early but long-term
+[35:09] Society level uh it changes not a lot I
+[35:11] think Bitcoin
+[35:13] changes almost everything um I
+[35:17] think it doesn't necessarily change
+[35:20] human behavior overall but it does
+[35:23] incentivize cooperation and and uh
+[35:27] capital accumulation and
+[35:30] collaboration it makes that a lot more
+[35:35] economically worth it than fiat currency
+[35:38] I think in fiat currency there's an
+[35:41] incentive to just get as close to the
+[35:43] money printer as you possibly can by any
+[35:45] means necessary and then you benefit and
+[35:48] that unfortunately makes people cut
+[35:51] Corners lie you know misconstrue the
+[35:54] truth like produce lower
+[35:56] quality items
+[35:58] and I think when we have when we fix
+[36:01] that like genesis inequality which is
+[36:04] that some people can print money but you
+[36:08] can't print
+[36:09] money when we fix that so that nobody
+[36:12] can print money I think the the
+[36:16] positive externalities of that are
+[36:19] pretty unimaginable like I can't even
+[36:21] really visualize them I just think that
+[36:24] it brings a a sense of Truth to things
+[36:28] that are right now a pretty big lie um
+[36:33] if that makes any sense so like brings
+[36:34] Truth at a very fundamental level like
+[36:37] you know that the value that
+[36:40] you're generating and providing to other
+[36:42] people is going to be yours and you can
+[36:46] use that in the future to purchase
+[36:49] things of value from other
+[36:51] people I think it incentivizes really
+[36:55] big things in the world
+[36:58] yeah definitely incentives are like
+[37:00] basically everything like if if you're
+[37:02] incentivized to do something you will do
+[37:05] it uh in in general
+[37:09] like other than if you're incentivized
+[37:11] to do it and you can do it you will do
+[37:14] it like there is no no question about it
+[37:16] and if if uh Bitcoin changes the
+[37:18] incentives to to save because it a bries
+[37:21] over time and all of the sudden
+[37:23] everybody saves in Bitcoin not in like
+[37:26] Euro or in dollar or something like that
+[37:28] where incentive is like get rid of it
+[37:31] because get just rid of it on its own
+[37:34] and then we're getting getting Bitcoin
+[37:36] where it's like oh if I wait like two
+[37:39] months longer and don't get the newest
+[37:40] iPhone or wait like a year longer before
+[37:43] I upgrade my car or something like that
+[37:46] uh then I get it for cheaper uh this
+[37:48] completely changes uh society and this
+[37:51] is like also what I try to bring in the
+[37:54] conversation of environment because this
+[37:57] is also good thing for our environment
+[37:59] like an really indirectly thing but uh
+[38:01] one that is really good also for for for
+[38:04] that um which is also yeah Inc
+[38:07] incentivizing savings is probably the
+[38:10] most important environmental impact that
+[38:13] we could possibly make right now you are
+[38:16] incentivized by the money just turning
+[38:19] into paper you're incentivized to
+[38:21] consume unnecessarily you're investing
+[38:23] in things that you don't care about
+[38:24] you're purchasing you know a additional
+[38:28] houses because it's an it's a way to
+[38:31] escape this inflation with Bitcoin it
+[38:34] makes any large purchase you think not
+[38:37] just twice about it you think four or
+[38:39] five times about it and then you wait
+[38:41] and then you think a little bit more and
+[38:43] then finally you you know you spend some
+[38:45] Bitcoin to purchase you know a new car
+[38:48] for example but it makes the purchase uh
+[38:51] decision very painful and that's
+[38:53] actually a very good thing it means that
+[38:56] people have to compete way harder to
+[38:58] earn your money it means that you're
+[39:00] less likely to spend it on
+[39:02] partying and it means that the sooner
+[39:06] that you get to work and the sooner that
+[39:08] you start delivering value to people the
+[39:10] sooner you can retire because your money
+[39:12] will not just you know increase in value
+[39:14] over time but or not just store value
+[39:17] over time it'll increase in value over
+[39:18] time so it's funny I think there are
+[39:21] people in Bitcoin where you know their
+[39:23] most lucrative job was probably making
+[39:26] sandwiches 10 years ago and saving in
+[39:29] Bitcoin right and right now they could
+[39:31] be some sort of exec at a company and
+[39:33] they won't be able to earn as much
+[39:35] Bitcoin as they did when they were
+[39:37] driving Uber and saving Bitcoin 10 years
+[39:39] ago definitely and it's I adopted
+[39:42] Bitcoin like four years ago right around
+[39:44] that time uh and ever since then uh I
+[39:48] only increased my stack like every month
+[39:51] I never took out of money from a stack
+[39:54] and I've been all in since three years
+[39:57] uh and every month I'm trying to keep
+[40:00] more income than than I have expenses
+[40:03] and I always try to keep uh stacking on
+[40:06] stacking on stacking on I don't know
+[40:08] when at what age this will ever change
+[40:10] or if it ever changes but but I I like
+[40:14] hasn't for me
+[40:16] yet how
+[40:18] how uh well this is this is now my 10th
+[40:21] year in Bitcoin and I still every day
+[40:25] try to earn more Bitcoin because you
+[40:26] don't stop bitcoin's money and you don't
+[40:29] stop earning money you don't just say
+[40:30] like I guess I have enough money I'll
+[40:31] just stop it's like no every day you
+[40:33] want to be earning more money you
+[40:35] brought up another topic that I wanted
+[40:37] to touch on briefly which is this
+[40:38] concept of the Huddle waves and our
+[40:42] behavior that we're describing right now
+[40:44] of like saving for the long run and not
+[40:47] spending
+[40:48] frivolously you can see that this is how
+[40:51] the mark the Bitcoin Market behaves
+[40:54] because Bitcoin is a public database
+[40:58] earlier I was saying you can run the
+[40:59] software at home you'd have all of the
+[41:02] data of all the transactions and now
+[41:04] what you can do is you can start
+[41:05] visualizing that data and the hotle
+[41:07] waves I think are the most important
+[41:10] visualization of the blockchain of the
+[41:12] Bitcoin blockchain and it
+[41:15] shows how much Bitcoin has been just
+[41:18] sitting for how long and it shows
+[41:21] different bands and different waves
+[41:22] because you can tell like when the Fiat
+[41:25] price runs up people who been holding
+[41:27] for a longer time start
+[41:30] selling and then those coins become kind
+[41:32] of fresh new coins and they appear at
+[41:34] the bottom of the chart it's a really
+[41:36] fascinating chart and definitely worth
+[41:39] studying you can find it at unchain dcom
+[41:41] hodle
+[41:42] waves but it's it's kind of it's the
+[41:45] truth right you're just seeing the true
+[41:47] behavior of people who are treating
+[41:49] Bitcoin as money and overwhelmingly
+[41:53] people hold it as a savings vehicle for
+[41:56] years I think when you're new to bitcoin
+[41:59] you might think oh this is really risky
+[42:01] it's so volatile it's a trading asset
+[42:04] and it is it's trading asset it's very
+[42:06] volatile but if you want to really do
+[42:09] well with Bitcoin and increase your
+[42:11] purchasing power the majority of people
+[42:14] just hold on to it for years and it's
+[42:17] something like if you hold on to bitcoin
+[42:19] for at least three or four years there's
+[42:22] you're in Fiat profit it's preserved
+[42:26] value or significantly increased in
+[42:29] value yeah definitely and it's uh I I I
+[42:33] always try to debate those things
+[42:37] because uh then people are going like oh
+[42:39] but this two years this op from Bitcoin
+[42:41] and I'm like two years like everything
+[42:45] under five years is for me not even
+[42:47] worth looking at because it's such a
+[42:49] short amount of time like I consider
+[42:52] five years extremely short term and
+[42:54] medium term is for me like 10 years in
+[42:57] long term you're talking like 50
+[42:59] years uh granted there's no 50 years in
+[43:03] Bitcoin uh so like for me like Bitcoin
+[43:06] in itself has no long-term history it
+[43:08] has like a really medium short-term
+[43:11] history because it's just a short thing
+[43:14] there but if you look at any amount
+[43:17] longer than five years and if you're
+[43:19] looking at lower time Horizons then I
+[43:22] encourage you look at longer time
+[43:23] Horizons because stretch out your few a
+[43:26] little bit
+[43:27] uh it's it's good for your life uh and
+[43:30] then you don't you don't uh like you
+[43:33] don't trade Bitcoin if you wants to get
+[43:35] that um in the US some of the some of
+[43:38] the fastest growing Bitcoin products are
+[43:41] Bitcoin held in retirement accounts so
+[43:43] there's a couple different types of
+[43:44] retirement accounts in the US and you
+[43:47] know you could have a employer sponsored
+[43:49] retirement account of 401k or an
+[43:51] individual retirement account in IRA and
+[43:54] you get certain tax advantages based on
+[43:56] how you form your retirement account you
+[43:59] can either pay taxes on your money up
+[44:01] front and put it into the account where
+[44:03] then it can grow taxfree or you can
+[44:06] deduct um cash from your paycheck don't
+[44:10] pay tax on it now and then you have to
+[44:12] pay taxes on it later so there's these
+[44:15] retirement accounts and you can now put
+[44:17] Bitcoin into those retirement accounts
+[44:20] and so those are again like across many
+[44:23] different companies some of the fastest
+[44:25] growing Bitcoin products are these
+[44:26] Bitcoin IAS because it's just such a
+[44:30] good longterm asset and when you move
+[44:33] something into an IRA typically I mean
+[44:35] some people again trade their IAS I'm
+[44:37] not one of those people but when you
+[44:39] move Bitcoin into a retirement account
+[44:41] typically you're not even thinking about
+[44:44] taking it out you just said it and
+[44:45] forget it for years and so that's why I
+[44:48] think Bitcoin is such a potent
+[44:50] retirement tool is uh I I'm not from
+[44:55] America so I I heard a lot of IA and for
+[44:58] for 1K and and all the stuff but uh is
+[45:01] is it like you have to buy an Bitcoin
+[45:04] ETF for that or can you still self
+[45:06] custody St stuff uh when you have an IRA
+[45:10] there are there are three
+[45:12] primary maybe four three to four primary
+[45:14] ways that you can get Bitcoin in Ira now
+[45:17] because of the ETFs that's probably the
+[45:19] easiest way so if you have an account
+[45:21] with like a major traditional company in
+[45:24] the US like a Fidelity Schwab
+[45:27] you know so on you can move some of your
+[45:30] retirement funds into the ETFs the
+[45:33] problem there is there's so many
+[45:34] different layers of counterparty risk
+[45:36] and if the last 15 years of Bitcoin has
+[45:39] have told taught us anything it's you
+[45:41] need to be really careful with who you
+[45:43] trust in
+[45:46] Bitcoin the other ways that you can get
+[45:48] it are like direct uh direct Bitcoin
+[45:51] Holdings through like Ira companies and
+[45:55] then you can also control keys to real
+[45:58] Bitcoin in an IRA account so there's a
+[46:02] bunch of different ways that you can get
+[46:03] some Bitcoin I think in that that second
+[46:06] version where you just have like direct
+[46:08] access to bitcoin again you have that
+[46:09] custody problem like where is it being
+[46:12] custody have they done a good job
+[46:14] securing the Bitcoin um can you get
+[46:17] Bitcoin out or only dollars you know
+[46:19] with the ETFs you can only get dollars
+[46:21] out with the ones that that have custody
+[46:25] kind of in direct exposure to bitcoin
+[46:27] sometimes you can get Bitcoin out
+[46:29] sometimes it's dollars only and then
+[46:30] when you control the keys of
+[46:32] course you have
+[46:34] Bitcoin H that's really cool and uh
+[46:37] Unchained has a really cool uh Services
+[46:40] also with like uh custody Solutions um
+[46:43] which is the the topic I want to touch
+[46:45] on also um because it's really important
+[46:48] that people first of all understand that
+[46:49] self- custo is the way uh uh but there
+[46:52] are different levels that like I think
+[46:55] if you have aund to thousand Euros or
+[46:58] dollars in in Bitcoin it's a different
+[47:00] story when you have like half a million
+[47:02] Euros or dollars in Bitcoin like you
+[47:04] need different setups for different
+[47:06] things because if you have €2 200 a
+[47:09] hardware wallet is a kind of big expense
+[47:11] like you pay like 100 for a hardware
+[47:13] wallet and you only have €2 200 EUR in
+[47:16] in Bitcoin so like it doesn't really
+[47:18] make sense uh in that regard uh other
+[47:21] than if you plan to do more with that um
+[47:25] where do you see those like ranges and
+[47:28] what do you usually recommend for people
+[47:30] getting into that and especially with
+[47:32] like a custody solution uh where a
+[47:35] collaborate custody I think it's called
+[47:38] Uh like how when do you recommend
+[47:41] that there are many different custody
+[47:44] options in Bitcoin historically the most
+[47:48] the most the greatest number of
+[47:50] people use a custodian and basically I
+[47:54] guess even at a higher level all Bitcoin
+[47:56] is controlled by keys and keys can live
+[47:59] on little tiny devices they can live on
+[48:01] your phone they can live with a
+[48:04] custodian but at the end of the day all
+[48:08] you know 19 whatever six million Bitcoin
+[48:11] that are available are controlled by
+[48:12] Keys now you can choose to hold your
+[48:15] keys or you can pay somebody to hold
+[48:17] keys on your
+[48:19] behalf the greatest number of users use
+[48:23] custodians today that's where the
+[48:26] custodian
+[48:27] control the keys on your behalf the
+[48:30] problem and and people do that because
+[48:32] it's like oh I don't want to learn how
+[48:33] to use Keys it's too complicated too
+[48:35] scary the problem is that you have so
+[48:37] many different layers of risk
+[48:39] there what's primarily protecting your
+[48:42] Bitcoin in that model isn't really how
+[48:45] the custodian is controlling the keys
+[48:46] like that's very important but most
+[48:49] people lose their
+[48:50] Bitcoin from just getting their accounts
+[48:53] hacked so their username their password
+[48:56] two Factor authentication because
+[48:58] somebody can get into your custodian
+[48:59] account they have the Bitcoin
+[49:01] essentially they can coers the company
+[49:03] to send Bitcoin to their address that's
+[49:06] how most
+[49:07] people that's how most people lose their
+[49:09] Bitcoin Far and Away the greatest number
+[49:11] of Bitcoin millions and millions of
+[49:14] Bitcoin are secured in self- custody
+[49:16] where individuals control keys it's a
+[49:19] smaller number of individuals but a vast
+[49:21] majority of the Bitcoin that's out there
+[49:23] and even within self custody there's a
+[49:26] bunch of different flavors there's
+[49:28] single signature where you have one key
+[49:30] controlling your Bitcoin and then
+[49:32] there's multi- signature where you have
+[49:35] multiple keys that are used to kind of
+[49:38] create like a safety deposit box or a
+[49:40] vault and then multiple keys are used to
+[49:43] spend the Bitcoin single signature is
+[49:46] really good as a first step to start
+[49:47] learning about how to hold the keys you
+[49:50] can test it out with smaller
+[49:53] amounts multi signature I think is the
+[49:55] best for your long-term wealth the
+[49:59] Bitcoin you're thinking about holding
+[50:00] for
+[50:02] years because in a multi signature
+[50:05] address and again with unchain for
+[50:07] example we use two of three so the the
+[50:10] Bitcoin address is Created from three
+[50:13] keys unchain hold one holds one our
+[50:16] clients hold
+[50:18] two two out of three keys are needed to
+[50:20] spend the Bitcoin in that model there's
+[50:22] no single item there that you can lose
+[50:24] that would cause you to lose Bitcoin
+[50:26] we've all read those stories of you know
+[50:28] the the stories of the guy who lost his
+[50:30] hard drive in a dump it has like you
+[50:32] know hundred million dollars or probably
+[50:34] even more than that now worth of
+[50:36] bitcoin the reason that they lost their
+[50:39] Bitcoin is because there was a single
+[50:41] item that was securing all their Bitcoin
+[50:43] that hard drive in that example we've
+[50:46] also heard of people who forget the pin
+[50:48] on their device lose get locked out of
+[50:50] their Bitcoin again that's a problem
+[50:52] because there's just one device securing
+[50:54] it if you have multisig in multiple
+[50:58] keys and especially multi- with a
+[51:00] partner which is collaborative custody
+[51:03] you have a lot of redundancy you can
+[51:04] make a pretty critical mistake you make
+[51:06] multiple critical critical mistakes
+[51:08] without losing any amount of
+[51:11] Bitcoin now you know if you want to if
+[51:13] you don't want to learn you know
+[51:14] multi-sig or keys or all that some
+[51:17] people will then just choose multiple
+[51:18] custodians all right I'll spread out my
+[51:20] pots I'll have a little bit here a
+[51:21] little bit there a little bit there the
+[51:22] problem is if any one of those runs into
+[51:25] an issue you've lost money again compare
+[51:28] that to multi you can lose multiple
+[51:31] items without losing any Bitcoin so it's
+[51:34] that single kind of critical point of
+[51:35] failure that multisig solves for which
+[51:37] is why Unchained built an entire
+[51:40] Financial Services Suite on top of that
+[51:43] that custody model it's what's helped us
+[51:45] to grow to securing over 990,000 Bitcoin
+[51:49] yeah I love it I think uh we are still
+[51:52] in an early stage and we need so many
+[51:55] companies solution
+[51:57] uh Hardware wallets service providers
+[51:59] that just like try to innovate try to
+[52:02] make it better and everything that is
+[52:05] Bitcoin only and get to self custody I
+[52:07] promote
+[52:08] it I want Bitcoin in self- custody I
+[52:12] have those friends that have everything
+[52:14] in Bitcoin and then they have it at
+[52:15] exchange and I'm like there are
+[52:17] solutions out there like if you you want
+[52:19] to have a service there are solutions
+[52:21] out there for you that you can use the
+[52:22] service if you want to do it yourself I
+[52:24] can show you I will be there for you you
+[52:26] like we can make a seminar for a whole
+[52:28] day here there's a harder wallet try it
+[52:31] out at least for a little bit so I'm I'm
+[52:33] really passionate about self- custody
+[52:34] taking your own keys but uh it's on cool
+[52:37] Insight I never heard that before that
+[52:38] the vast majority of users have
+[52:40] custodians but the vast majority of
+[52:42] purchasing power actually have it in
+[52:44] self custody which makes sense oh yeah
+[52:47] like I think on on exchanges there's
+[52:49] like three to four million Bitcoin and
+[52:52] then there's about four you know three
+[52:54] to four million Bitcoin lost and so that
+[52:56] means there's 11 to 12 million Bitcoin
+[53:00] that are secured in self- custody it's a
+[53:03] massive amount of Bitcoin um so yeah I
+[53:06] think when when unchain was was being
+[53:09] founded we were you know our Founders
+[53:11] looked at the hotle waves and they're
+[53:12] like wow people are holding Bitcoin for
+[53:13] the long run and then they were
+[53:15] considering this it's the same story
+[53:18] even back in 2016 2017 when we were
+[53:21] founded the largest number of users were
+[53:24] with custodians with the most Bitcoin
+[53:26] was in self- custody and same thing is
+[53:28] true today and so that's why they
+[53:31] founded the company with this idea of
+[53:33] collaborative custody where clients can
+[53:35] still control keys but unchain is there
+[53:37] as a partner to guide you through the
+[53:39] whole process you can you know if if you
+[53:42] run into any issues you can use unchain
+[53:44] key and then we're able to offer all
+[53:46] those different Financial Services like
+[53:47] the retirement accounts and trading and
+[53:49] loans and so on uh really cool um for
+[53:53] the end routine in our podcast we have
+[53:55] an end routine where the previous guest
+[53:56] is is asking a question for the next
+[53:58] guest actually without knowing the next
+[54:00] guest is so it's like a question not
+[54:04] tailed to the next question guest uh and
+[54:07] the previous guest was uh Roman from
+[54:09] from El Salvador from the Bitcoin Beach
+[54:12] and early early guy there uh and he had
+[54:16] actually two question the first one was
+[54:17] a quick one when I visiting El
+[54:22] Salvador I was just looking at flights
+[54:26] uh this week so I I don't have a date
+[54:30] but I absolutely must visit I actually
+[54:34] was getting really excited I saw on
+[54:36] Twitter this guy who was walking through
+[54:39] a a mansion in El Salvador he was
+[54:42] showing off the different rooms and how
+[54:43] cool it was and I was comparing that to
+[54:45] housing prices here in Austin and I was
+[54:49] like that's that's actually pretty
+[54:51] reasonable so yes it's very high on my
+[54:53] list of places to visit I don't a
+[54:56] specific date yet I'll I'll I'll
+[54:58] certainly make it down for a conference
+[54:59] within the next year or two yeah I will
+[55:02] be there if like 80% sure at adopting
+[55:07] Bitcoin in November I think she it is uh
+[55:10] so that I think will be a because I also
+[55:13] have not been there but I definitely
+[55:14] want to visit and his second question Al
+[55:17] this last question of the podcast is
+[55:18] like uh like kind of obvious with you
+[55:22] but what are you doing for Bitcoin what
+[55:24] is your value that you add to bitcoin
+[55:27] and then like in for Humanity because
+[55:29] you add it for
+[55:32] Bitcoin first of all great questions
+[55:35] both of them are are
+[55:38] awesome yeah I mean I've
+[55:40] devoted I've worked professionally in
+[55:42] Bitcoin since 2017 and primarily focused
+[55:45] on putting private Keys into as many
+[55:48] hands as possible so even before I
+[55:51] worked at unchain I was you know
+[55:53] Consulting with other multi-state tools
+[55:56] and mobile wallets and I really think
+[55:59] that my greatest contribution is
+[56:02] promoting this concept of self- custody
+[56:04] and I've been doing it now you know I
+[56:06] think this is my fifth year at
+[56:08] Unchained I also have personally
+[56:11] onboarded hundreds of individuals and
+[56:14] businesses to controlling Keys like
+[56:16] literally set up Hardware wallets and
+[56:19] built multi- syn vaults so reflecting on
+[56:23] my time I think that's my biggest
+[56:24] contribution is getting as many private
+[56:27] keys out there into the world as
+[56:30] possible we released a statistic uh
+[56:33] recently in a Bitcoin magazine interview
+[56:35] with our CEO Joe
+[56:37] Kelly the 990,000 Bitcoin plus that
+[56:40] we're helping to secure on our platform
+[56:42] is secured with over 12,000 Keys pretty
+[56:45] incredible like if you think
+[56:48] about that 12,000 Keys 90,000 Bitcoin
+[56:52] compared
+[56:53] to a coinbase for example 2 million
+[56:56] Bitcoin how many
+[56:59] keys five three
+[57:03] 10 I don't know
+[57:05] one it could be one it literally could
+[57:08] be one we don't know uh what so yeah
+[57:11] that's uh that's kind of my biggest
+[57:13] contribution yeah it's it's also
+[57:15] fascinating you see that everybody's
+[57:17] custodian with with fun Bitcoins with uh
+[57:20] coinbase almost everybody like Fidelity
+[57:23] has self custody some some others but
+[57:25] the major already has coinbase which
+[57:27] makes a big Honeypot like I'm I'm let's
+[57:30] see if someone uh gets into the Honeypot
+[57:34] uh I I don't hope so but yeah could be
+[57:36] something tour deester had a great quote
+[57:39] about this recently which is Bitcoin is
+[57:42] one of the least risky assets that you
+[57:44] can own if you're controlling the keys
+[57:46] and doing it
+[57:47] well and the Bitcoin ETFs are probably
+[57:50] the riskiest ETFs that have ever existed
+[57:53] simply because of the centralization
+[57:55] problem there's one custodian for 10 of
+[57:58] them what happens if that custodian runs
+[58:01] into issues how much I mean I wouldn't
+[58:04] personally be able to sleep at night uh
+[58:07] knowing that significant wealth was
+[58:09] centralized in in that form or fashion
+[58:11] but I probably spent a little bit too
+[58:13] much time working in Bitcoin with keys
+[58:16] so I might be a different uh different
+[58:19] perspective definitely so thank you for
+[58:22] being on thank you for digging the time
+[58:23] fill uh before I let you go where can
+[58:26] people find you like where can people
+[58:28] reach out to you if they have questions
+[58:29] for you where can people reach you the
+[58:31] best
+[58:32] way you can find me on Twitter at Phil
+[58:36] orger you can email me at Phil unchain
+[58:41] docomo Linked In so yeah just connect me
+[58:44] connect with me my uh DMS on Twitter are
+[58:46] open so you're welcome to shoot me a
+[58:48] message I try to respond to all of them
+[58:50] that aren't blatant you know spam
+[58:53] accounts or whatever um and yeah
+[58:56] definitely reach out to us at unchain if
+[58:58] you think that we can help you improve
+[59:00] the security of your Bitcoin and take
+[59:02] control of your
+[59:03] keys perfect I will also drop your
+[59:06] Twitter link uh in the descriptions
+[59:09] except on Twitter because there's your
+[59:11] tag anyways uh but uh I'm looking
+[59:14] forward to that uh yeah thank you for
+[59:16] being on uh was a pleasure Robin I had a
+[59:19] great time thank you
+[59:21] [Music]

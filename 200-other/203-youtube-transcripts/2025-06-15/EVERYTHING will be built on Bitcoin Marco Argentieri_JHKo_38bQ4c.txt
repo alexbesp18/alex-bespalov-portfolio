@@ -1,0 +1,1579 @@
+Title: EVERYTHING will be built on Bitcoin | Marco Argentieri
+Video ID: JHKo_38bQ4c
+URL: https://www.youtube.com/watch?v=JHKo_38bQ4c
+Date Saved: 2025-06-15 11:54:14
+--------------------------------------------------
+
+[00:00] having other assets on bitcoin on the
+[00:02] layer one can mess with the consensus or
+[00:04] can in general can mess with the
+[00:06] politics all altcoins are basically
+[00:08] obsolete because you could do it more
+[00:11] securely and better on a Bitcoin second
+[00:14] layer or third layer it's very hard for
+[00:16] me to have a b directional relationship
+[00:18] I receive money from the employer that's
+[00:19] it and I pay the grocery store that's it
+[00:22] I will never be paid back so in this
+[00:23] scenario lining doesn't work by Design
+[00:25] it's not like a ux problem or it's not
+[00:27] like an educational problem it's really
+[00:29] like this is not designed for the
+[00:31] checking account use case why do we need
+[00:34] second layer Solutions is this idea
+[00:36] concept we will stack you know seven
+[00:38] eight layer but I think it's very hard
+[00:40] because every time you go above a layer
+[00:42] you lose a little bit of properties so I
+[00:43] think it would be more like common to
+[00:45] have an onion kind of architecture right
+[00:47] so you have multiple layer at the same
+[00:49] maybe multiple second layers and you pop
+[00:52] between one and other but you're you try
+[00:54] to stay closer to the base layer if
+[00:56] someone with some weird thing on top of
+[00:58] Bitcoin is able to break Bitcoin and
+[01:00] then maybe Bitcoin was not that
+[01:02] resilient to begin with I like to call
+[01:04] Arc trustless Bank we have the base
+[01:06] layer of Bitcoin we have second layers
+[01:08] around it like an onion uh and those
+[01:10] second layers just serve different
+[01:12] purposes and in that way we get an
+[01:14] ecosystem that's really really strong if
+[01:16] we really want to increase the monetary
+[01:18] use case of Bitcoin we need to make sure
+[01:20] we can use it uh to pay we need to bring
+[01:22] back
+[01:23] [Music]
+[01:26] Commerce today I really want to get into
+[01:29] the The Arc and lightning and scaling
+[01:33] Solutions and how is Bitcoin above like
+[01:37] we have the Bas layer we know why it's
+[01:38] so good we know um why we like Bitcoin
+[01:42] for the the properties that Bitcoin has
+[01:45] um and I think today it would be an
+[01:47] amazing opportunity to talk with you
+[01:49] about uh scaling solutions for um
+[01:52] Bitcoin but first let's let's uh ask you
+[01:56] like what are you doing at AR and also
+[01:59] at V Ventures where you are also at and
+[02:02] what are those companies doing so to
+[02:04] give some context to to you sure um
+[02:07] first of all thank you so much Robin for
+[02:09] having uh it's really a pleasure to be
+[02:11] to be on the Pod and yeah I've been I
+[02:13] started my career very early on in in
+[02:15] Bitcoin when I was 18 years old I
+[02:17] created a startup uh which was a Bitcoin
+[02:20] brokerage service so we were you know
+[02:22] exchanging Bitcoin for cash and we put
+[02:24] one of the first Bitcoin ATM back then
+[02:26] in 2013 in north of Italy so um we've
+[02:29] been I've been you know working in the
+[02:31] space in the industry for a while but
+[02:32] then after doing main experience
+[02:34] especially in the software engineering
+[02:36] space around the word I decided in 2017
+[02:39] to go back to bitcoin and and focus on
+[02:41] that so I co- founded Wen Ventures which
+[02:44] is uh research and development lab uh
+[02:46] with an investment Wing so we try to
+[02:49] deploy our Engineers to deploy Capital
+[02:51] when we can in project that we retain
+[02:54] interesting for the Bitcoin uh for the
+[02:55] Bitcoin space and yeah I think Arc came
+[02:58] out of that uh really in the sense that
+[03:01] many many years spent uh doing coverance
+[03:03] research uh in the last three years and
+[03:06] deploying um you know production use
+[03:08] case um live in liquid especially gave
+[03:11] us also this you know broader view in
+[03:14] terms of like um how to design a new a
+[03:17] new prot new protocols and how that
+[03:19] could improve Bitcoin and yeah I think
+[03:22] Arc have been you know proposed last
+[03:24] year and we' have been like in a stealth
+[03:26] way um start working on it in terms of
+[03:29] like implementing the first
+[03:31] prototype last in December last year we
+[03:34] released a video where we did the first
+[03:36] you know transaction then we kept
+[03:37] working in this initial initial month
+[03:40] but then we really and decided to go all
+[03:43] in and we created this spinoff company
+[03:46] called AR clubs which you know we are
+[03:47] now focused 100% And the goal is really
+[03:51] like trying to bring Arc to the world
+[03:53] and to try into building Arc Services uh
+[03:57] on top really cool um and I really like
+[04:00] what what you're doing because we really
+[04:03] have to develop those second layers um
+[04:06] but there might be some some people in
+[04:08] the audience uh that maybe are newer to
+[04:11] to bitcoin uh and and and they maybe
+[04:14] don't know like why do we need second
+[04:17] layer Solutions like why why not just do
+[04:19] it on bitcoin and why also um is like
+[04:24] like what are second layer Solutions so
+[04:25] maybe like really quickly just so so
+[04:29] people understand like why do we need to
+[04:31] second layer Solutions and what what is
+[04:33] that is an extension to bitcoin and
+[04:34] stuff like that sure I think and you
+[04:38] know I go back also to my experience in
+[04:40] 2013 when I was used you know to go
+[04:42] around and orange peel people for me was
+[04:46] super simple back then I I said to them
+[04:48] hey download at the time maybe
+[04:50] blockchain.info or whatever like just
+[04:52] download a simple Bitcoin wallet you
+[04:54] create a key pair even just a paper you
+[04:57] know paper a paper wallet and that's it
+[05:00] and they came to me I can send to them
+[05:01] even $1 worth of bitcoin and that worked
+[05:04] every time uh this of course you know
+[05:07] going forward Bitcoin grew and of course
+[05:10] as you as we know there are moment where
+[05:13] the mol is so congested which means that
+[05:16] you know to enter in the next block I
+[05:18] will take you maybe 100 even $100 or you
+[05:21] know you need to wait a lot of time to
+[05:24] do that which is of course deny the
+[05:26] initial point was so simple so easy to
+[05:29] more people to bitcoin um and we
+[05:32] understood that the blockchain gives you
+[05:34] and the proof of work is incredible so
+[05:37] what SAT camoto pull out was an
+[05:39] incredible property to create censorship
+[05:41] resistant money but the problem is
+[05:44] blockchain don't scale and we need to
+[05:47] figure out a way to make sure we can
+[05:49] also scale otherwise we will uh go to a
+[05:53] point where will be like the gold back
+[05:55] back then so hard to transport and you
+[05:58] end up with c stud basically and to
+[06:01] capture the value so I think uh second
+[06:03] layer solution our ways to not
+[06:06] compromise on the EOS of Bitcoin to not
+[06:09] compromise on the uh basics of what
+[06:12] Bitcoin should be right so chor ship
+[06:14] assistant money but at the same time
+[06:16] makes you maybe of course with some
+[06:18] trade-off in life there is no free lunch
+[06:20] right so there always trade-off but um
+[06:23] choosing your own subset of tradeoff uh
+[06:26] there you need to have a way to make
+[06:28] sure you can definently use the property
+[06:30] of Bitcoin at the base layer also in
+[06:33] other new use cases which is not only
+[06:35] maybe potentially just savings
+[06:37] right do you think that we need more
+[06:41] than one second layer solution or will
+[06:43] over time everything melt like in one
+[06:46] second layer solution or like maybe in
+[06:47] two three no I totally think that um
+[06:51] there will be multiple protocols and and
+[06:53] every protocol will have his own
+[06:54] tradeoffs and even now we're using
+[06:57] internet and there are a bunch of
+[06:58] protocol we don't even know we are just
+[07:00] saying yeah I'm using the internet but
+[07:01] there are bunch of protocol behind of
+[07:03] this UDP TCP and and they can even work
+[07:06] at the same time together or just one on
+[07:08] top of the other so I really think that
+[07:11] at some point we will never talk about
+[07:12] lining Arc or state chain we will just
+[07:15] say Bitcoin right So eventually you know
+[07:18] the application will just use bunch of
+[07:19] other protocol to deliver you Bitcoin
+[07:21] the same in the same way so and also
+[07:24] again we're speaking about money here
+[07:26] we're not speaking about uh you know
+[07:29] communication protocols and to me every
+[07:31] time you try to stack it so there is
+[07:33] this idea concept we will stack you know
+[07:35] seven eight layer but I think it's very
+[07:38] hard because every time you go above a
+[07:40] layer you lose a little bit of
+[07:41] properties so I think it would be more
+[07:43] like common to have an onion kind of
+[07:45] architecture right so we have multiple
+[07:47] layer at the same maybe multiple second
+[07:49] layers and you hop between one and other
+[07:53] uh but but you you try to stay closer to
+[07:56] the Bas layer which is really like the
+[07:58] the best right so Bitcoin is obviously
+[08:00] best so closer you are better you are in
+[08:02] terms of chor ship resistance so the
+[08:06] idea would would be we have the base
+[08:09] layer of Bitcoin we have second layers
+[08:11] around it like an onion uh and those
+[08:13] second layers just serve different
+[08:16] purposes uh and in that way we get an
+[08:19] ecosystem that's really really
+[08:21] strong yeah I do I do believe this this
+[08:24] will be the the likely scenario oh nice
+[08:28] and what is now the
+[08:30] the use case or like the the the need
+[08:33] for for Arc and maybe because I think
+[08:36] most people know lightning or at least
+[08:38] heard about lightning uh and Arc is a
+[08:40] little less known like how is the
+[08:42] differentiation between Arc and and
+[08:45] lightning yep I think lining just to not
+[08:48] go too much technical on the differences
+[08:50] but just from a very high level uh
+[08:52] perspective I think lining the the
+[08:55] beauty of lining has been this invention
+[08:57] that allow you to have you know this
+[08:59] payment Channel between me and you right
+[09:01] so me and Robin we have a payment
+[09:02] Channel and we know that we transact
+[09:04] potentially back and forth multiple time
+[09:07] so why not why doing a Bitcoin
+[09:09] transaction every time we need to
+[09:11] transact so why not we set up some funds
+[09:14] there in this payment Channel and
+[09:16] ideally will never touch the blockchain
+[09:18] unless one of us you know is trying to
+[09:21] you know to exit or is trying to you
+[09:24] know to to scam the other and and and
+[09:26] and so on and the beauty of lining has
+[09:29] been why don't go beyond just to a
+[09:32] payment Channel but why we don't create
+[09:34] a network so if you robing of your own
+[09:37] friend and you have a channel and I want
+[09:38] to pay your friend I will use the
+[09:41] balance we have between me and you Robin
+[09:43] to you know to pay so I think this is
+[09:45] like the the very you know uh simple
+[09:48] concept of lining and one thing that uh
+[09:52] maybe for non- technical or people not
+[09:55] actually working and also I I mean I
+[09:58] don't want go back 2017 when there was
+[10:00] like block you know the block size War
+[10:02] but really people tried to use this use
+[10:05] case and to say okay we solve scaling
+[10:08] right so we think that this is the use
+[10:10] case that fits every type of payment use
+[10:13] case which is not a reality because in
+[10:15] practice like very few times I go back
+[10:19] and forth in a payment for example and I
+[10:22] will make an example so I introduce Arc
+[10:24] where I think instead is more is more
+[10:26] fit imagine the classic checking account
+[10:28] right so you receive a salary once per
+[10:31] month from your employer then you will
+[10:34] never pay your employer back never
+[10:36] because you only receive from your
+[10:37] employer usually know most of the time
+[10:39] and most of the other the other the
+[10:41] funds will be spent through Merchants
+[10:44] you know shops around the people or
+[10:46] maybe paying dinner splitting dinner
+[10:48] with you know new friends or or a Meetup
+[10:51] so you understand how it's very hard for
+[10:53] me to have a b directional relationship
+[10:55] I receive money from the employer that's
+[10:57] it and I pay the gross store that's it I
+[11:00] will never be paid back so in this
+[11:02] scenario lining doesn't work by Design
+[11:05] is not like a ux problem or is not like
+[11:07] an educational problem is really like
+[11:09] this is not designed for the checking
+[11:12] account use case which for me is really
+[11:14] just last smile um you know how people
+[11:17] use interact with money they receive
+[11:19] usually you chunk and then they spay
+[11:21] they pay random peers and lining doesn't
+[11:24] work very well because you need to have
+[11:25] this topology of of Channel or
+[11:27] interconnected and you need to hope uh
+[11:30] there will be a route um by then and we
+[11:33] see that these T really like to
+[11:35] centralize a lot uh because if you want
+[11:37] to have relability you need to know very
+[11:39] well uh this connection instead Arc I
+[11:42] think it's much more different is much
+[11:44] more similar to bitcoin on chain like
+[11:46] the example I I I said before when in
+[11:48] 2013 I was you know doing education
+[11:51] early on like I just asked them a public
+[11:53] key an address boom I pay them Arc is
+[11:56] similar there is no Channel there is no
+[11:58] inbound liquid idity which we can we can
+[12:01] you know um go deeper later but there is
+[12:04] really just oh hey give me your address
+[12:07] and and I will pay you inside the arc
+[12:10] and there is no need of liquidity
+[12:11] between me me and you no Channel because
+[12:13] there is an actor called The Arc service
+[12:16] provider which this actor will make
+[12:18] simple is a coordinator which makes
+[12:20] simple uh to create uh Arc uh
+[12:23] transaction which we we can go deeper uh
+[12:26] for
+[12:27] sure yeah maybe maybe let's go a little
+[12:29] bit deeper here how because I think um
+[12:33] Bitcoin are usually really conscious
+[12:36] about their Bitcoin especially those who
+[12:38] have their own keys and they don't want
+[12:40] to give uh any control of of their keys
+[12:43] away and that's why like it's it's
+[12:44] really important to always like explain
+[12:47] like how how does this work um I mean
+[12:49] I'm always a little bit in two hearts
+[12:51] because I know a little the more
+[12:53] technically my podcast gets the more
+[12:55] people uh step out but but I think it's
+[12:59] important conversation uh but maybe we
+[13:01] can can uh leave it as as as as easy as
+[13:07] it gets but still get some some depth
+[13:09] into there how does how does it work and
+[13:12] and and yeah can you explain us yeah
+[13:15] absolutely so I will start with a very
+[13:18] simple elifi just to get an intuition of
+[13:20] what an arc here is so I like to call
+[13:23] Arc a trustless bank I know people maybe
+[13:26] are a bit worried about the term bank
+[13:28] but I think it's the best way to explain
+[13:30] something to use things that people
+[13:32] really are as already understanding and
+[13:35] intuition so I use the term frostless
+[13:38] and that's also the reason why I think
+[13:39] Arc is a second layer because I can in
+[13:42] any time without asking permission of my
+[13:45] banker get my money out so the process
+[13:48] works in a way where I take my Bitcoin
+[13:50] on the layer one on on the normal
+[13:52] Bitcoin blockchain I go to the arc
+[13:55] service provider in in this case this
+[13:57] this banker and say hey give me a
+[14:00] virtual uh Bitcoin in exchange which is
+[14:03] really similar to depositing gold and
+[14:05] getting a check right and then what I do
+[14:08] with these checks I can pay other people
+[14:11] inside this Bank just trading my check
+[14:14] for a new check right so I will say I
+[14:16] will go again to the bank and I say hey
+[14:18] you issued this check to me can you
+[14:20] please use it to pay Robin right and
+[14:23] Robbie maybe never even join the arc yet
+[14:26] so he can just receive it inside the arc
+[14:28] without even knowing I will just go to
+[14:30] you Robin and say hey Robin there is
+[14:31] this Bank go to the bank there are money
+[14:33] for you waiting for you so and those are
+[14:36] your uh your Bitcoin that at any time if
+[14:39] the banker goes away you can go out and
+[14:41] you can go to the Bitcoin blockchain and
+[14:44] receive your actual Bitcoin in an actual
+[14:46] utico in an actual aspan transaction
+[14:49] output right and there is a caveat and
+[14:52] which is very important and is this
+[14:55] check as an
+[14:57] expiration which means that and you know
+[14:59] this is very common with check no like
+[15:01] you have an expiration that usually if
+[15:03] you don't don't don't go to redeem this
+[15:05] this check from the banker uh before the
+[15:07] expiration the the sender will will be
+[15:10] able to REO right so this is very you
+[15:12] know how check withd expiration works
+[15:14] and I think V and now we can introduce
+[15:17] the name virtual transaction output
+[15:19] right so we really mimic what is the
+[15:21] onchain the unpan transaction output and
+[15:23] we call it virtual and this virtual
+[15:25] transaction output gives you uh this
+[15:27] guarantee uh that if you are at least
+[15:30] live before the expiration uh you can
+[15:32] get back your your your Bitcoin or get a
+[15:35] new check with a new expiration so you
+[15:36] can stay inside the arc uh without going
+[15:38] on chain and you just need to go alive
+[15:41] and say to the banker hey I'm I'm alive
+[15:44] so okay this is very like high level so
+[15:46] just to go now deeper how it works it
+[15:49] works because this coordinator The Arc
+[15:52] service provider what it does is
+[15:54] basically create periodic transaction it
+[15:57] can happen every 5 Seconds or it can
+[15:59] happen once per month this is totally
+[16:02] arbitrary and in this transaction this
+[16:04] periodic transaction uh you create you
+[16:07] basically it's very similar to around
+[16:08] where all the people joins and and say
+[16:11] Hey I want to exchange my check for
+[16:13] another check and so all people GA and
+[16:15] then when the coordinator is done and
+[16:17] completed the all the signature from
+[16:20] everybody will basically broadcast this
+[16:22] uh transaction which is a normal Bitcoin
+[16:24] transaction and there is one thing
+[16:27] called the shared output
+[16:29] this shared output the shared uo is
+[16:32] basically an address very similar to a
+[16:34] Channel of of lining which is a two of
+[16:37] two in lining but here is like 1,000 to
+[16:39] 1,000 or even 1 million to 1 million
+[16:42] people can be aggregated all these 1
+[16:46] million um PE people in in one single
+[16:50] Bitcoin address so you see how is
+[16:53] blockchain um foot footprint minimal so
+[16:56] it really consume only one address and
+[16:58] we can ideally put one million people
+[17:01] one even one billion people of course
+[17:03] there are like trade-offs but just to
+[17:04] give you a sense how this shared shared
+[17:07] output allow you to um horizontally
+[17:10] scale to a large large number uh much
+[17:13] more than lining where lining you need
+[17:15] to have two of two two of two two of two
+[17:17] so you need to have one channel every
+[17:19] two um you know two Piers here we can
+[17:21] have one single shared output and bunch
+[17:24] of of other payment virtual Bitcoin are
+[17:26] basically committed uh committed
+[17:29] there so and the question is okay but I
+[17:33] have this share let's say that this
+[17:34] shared output is 10 BTC how do I get out
+[17:38] how do I know that I can get my maybe I
+[17:41] have one BTC right one virtual Bitcoin
+[17:45] uh that is committed there how I know I
+[17:46] can exit there is a condition in the
+[17:49] script that that allow me to Exit
+[17:52] unilaterally so there is unilateral exit
+[17:54] at any time and the process works where
+[17:57] basically all these virtual transac
+[17:58] action are basically created in a binary
+[18:02] tree so it's a binary tree of multiple
+[18:04] transaction so it means that you know
+[18:05] from the 10 BTC in this shared output
+[18:08] which is on the blockchain you can
+[18:09] really BCT which means you know you
+[18:12] split five Bitcoin five Bitcoin then 2.5
+[18:14] 2.5 2.5 2.5 so you go like a tree right
+[18:18] a binary tree so you BCT that's the
+[18:20] technical term and then you go you make
+[18:23] sure that then all the actual Bitcoin
+[18:25] can go out so it's a serious or actual
+[18:27] real Bitcoin transaction that we just
+[18:29] decide to never broadcast we only keep
+[18:31] it virtual between us and the
+[18:33] coordinator interesting um so you you
+[18:36] always have the the the chance to get it
+[18:39] out and you always have to the the thing
+[18:42] like okay I I I want it now and that's
+[18:45] also how you secure it in a way where
+[18:48] there's not the same problem happening
+[18:52] or hopefully not happening which
+[18:54] happened with gold uh when we talk about
+[18:57] gold because there was also that idea of
+[18:59] scaling it with with the bank notes and
+[19:01] and that's basically how how we how we
+[19:04] have now the the Fiat system
+[19:07] um but there's also like do you see when
+[19:11] when there's only a small I had an
+[19:14] episode with vicet uh where we talked
+[19:16] about utx o management and how limited
+[19:19] the base layer is and his thesis was
+[19:22] like around five to 10 million
+[19:25] institutions or persons will ever be um
+[19:28] on the base layer uh to transact monthly
+[19:32] uh to each other because at some point
+[19:34] the the the 10 11th million person will
+[19:38] be priced out of of the base layer do
+[19:41] you see a an an risk there that we are
+[19:44] getting too dependent on on second
+[19:46] layers uh or that that we that there
+[19:50] there is something like an in second I
+[19:53] mean for some for some people even an
+[19:55] ETF is a second layer where we we could
+[19:59] have more Bitcoin than uh we we actually
+[20:02] have um how do you see that situation do
+[20:06] do you see any any problems there yeah
+[20:09] it's uh it's totally true in the sense
+[20:11] that um anything that you cannot afford
+[20:15] to pay the minor fees is basically
+[20:18] custodial and even right now we have
+[20:20] very very few dust it's called dust
+[20:22] amount basically you cannot never you
+[20:25] since you cannot pay the minimum relay
+[20:27] fee to be trans exacted on the main
+[20:29] chain basically are Bitcoin that are not
+[20:31] are a gift to the miners to be to be so
+[20:34] um and I think this is also true for
+[20:36] lining right so if I want to go out of
+[20:39] the channel and the fees are so high in
+[20:40] that moment and I want to broadcast the
+[20:42] Justice transaction if the value of the
+[20:45] channel is below the minimum relay fee
+[20:47] of that moment you basically trust the
+[20:50] other partner and on AR is no different
+[20:53] in the sense that um when we want to go
+[20:56] out if your virtual transaction output
+[20:59] your virtual Bitcoin uh balance is below
+[21:02] the cost of actually exercising this
+[21:05] unroll we call it unroll unroll
+[21:06] transaction which unilateral exit you
+[21:09] from this three um you you you basically
+[21:13] cannot do it that been said um there are
+[21:15] many research on on the matter like for
+[21:18] example if there is a very wealthy
+[21:19] person who has another virtual Bitcoin
+[21:22] but is very very wealthy and for him it
+[21:25] doesn't care to pay I don't know 100
+[21:26] bucks more to get out 1 million it
+[21:29] potentially will subsidize for you or
+[21:31] even you can do sort of class action
+[21:33] right so many many small uh virtual
+[21:36] Bitcoin holder if the this coordinator
+[21:38] disappear they will be able to join
+[21:40] forces and potentially pay pay that also
+[21:44] there is approach called congestion
+[21:45] control which say to you hey you will
+[21:48] get your Bitcoin but to pay the minimum
+[21:51] amount fee we need to wait one year
+[21:52] right so you make sure that this three
+[21:54] is enrolled in one year so you don't pay
+[21:57] you don't go with I priority fee but you
+[21:59] pay the minimum uh in the mle and that
+[22:02] will be a good tradeoff it tells you hey
+[22:04] you need to wait one year but you get
+[22:06] you're getting your money your money out
+[22:08] so this is another approach but that
+[22:09] being said from a we say from a
+[22:11] philosophical
+[22:13] perspective I think personally I think
+[22:15] Bitcoin again of course I am working to
+[22:18] try to on board you know billion of
+[22:20] people to bitcoin that's my uh my my my
+[22:22] goal but at the same time I really
+[22:24] understand that Bitcoin is not like a
+[22:26] public good it's not something that
+[22:27] needs to you know convey everybody at
+[22:30] the same time really see Bitcoin as a
+[22:31] Fed fism right so there will be people
+[22:35] that are like you so rich and people
+[22:37] which is land or Castle or you know an
+[22:39] army and people will be peasons so this
+[22:42] is like the way it works in the world
+[22:44] but that and but and I see har in a way
+[22:48] where maybe you cannot afford an entire
+[22:50] like to take an example of home
+[22:52] ownership right so people start when
+[22:54] they are young they cannot afford to buy
+[22:56] an entire house but they rent right
+[22:58] right and Arc what gives you is really a
+[23:01] financial model where basically you are
+[23:02] renting people that are U so rich the
+[23:05] service provider the coordinator is
+[23:07] basically you know the equivalent of a
+[23:09] landlord right which is giving you their
+[23:11] uo their own chain uo and they will rent
+[23:14] you to you some virtual uh transaction
+[23:17] output and is incentivized to be live
+[23:19] because more is live more he gets fees
+[23:22] but even if it goes away disappear you
+[23:24] can get back your actual Bitcoin out of
+[23:26] there so I think the Eon checks out is
+[23:29] really like a again is like a landlord
+[23:32] that is you know renting you some
+[23:34] blockchain you know utico space since
+[23:36] you ride maybe in 20 year you ride would
+[23:38] not be possibility for normal people to
+[23:40] acquire entire utico that can happen but
+[23:43] you can have a virtual Tico right
+[23:46] interesting what what do the arc service
+[23:49] providers uh get for providing a
+[23:52] service yeah here I think it's very open
+[23:55] in terms of business model but I mean
+[23:57] the the the simple simp way to think
+[23:59] about it is Imagine uh for for the
+[24:01] service provider uh I don't know to have
+[24:04] one BTC locked in a shared output it
+[24:07] will cost maybe some Capital cost maybe
+[24:10] to borrow or whatever or maybe you know
+[24:13] as as we know there is a cost for
+[24:14] liquidity and plus of that you also have
+[24:16] a blockchain cost right Mining cost but
+[24:19] let's say you have 1,000 people and for
+[24:22] you to broadcast that transaction is
+[24:23] $100 I mean not you the service provider
+[24:26] it costs $100 to miners to broadcast but
+[24:29] is 1,000 people you understand you can
+[24:31] divide for that amount of people at
+[24:33] least to cover the the blockchain cost
+[24:35] and then you can charge something on top
+[24:37] right some basis point on the value of
+[24:40] the of the virtual Bitcoin so the
+[24:42] pricing will be more similar to payment
+[24:43] processor where you charge you know a
+[24:45] fee a percentage of fee on the on the
+[24:47] value that you are that you're
+[24:49] transacting since you know the liquidity
+[24:51] needs to be provided by the coordinator
+[24:54] so uh there is a cost to that and and I
+[24:56] think the the business model would be
+[24:58] that similar but no other coordinator
+[25:00] other service provider maybe they can
+[25:02] charge you a subscription fee maybe
+[25:04] right so they subsidize maybe more
+[25:06] transaction or I don't know some Tire
+[25:09] volume I think there there is a lot of
+[25:11] experimentation in terms of business
+[25:12] model but yes you can definitely think
+[25:14] of a uh Business Point on on every
+[25:17] virtual Bitcoin created just so they are
+[25:19] kind of like Banks uh and and and then
+[25:23] they can can do it uh between them
+[25:26] interesting um when like I I know a lot
+[25:29] of uh there's like lightning fediman
+[25:32] there's Arc there's liquid like there
+[25:34] are a lot of uh Layer Two Solutions you
+[25:37] also told told me before that you think
+[25:40] that they might be working together uh
+[25:42] and they might complement each other um
+[25:45] maybe can you give us a a small overview
+[25:49] of of like the the most promising layer
+[25:53] two solutions that you see and how they
+[25:56] could maybe also work together in the
+[25:57] future future and what use cases they uh
+[26:00] they can give
+[26:01] us I did see I mean of course this is
+[26:04] semantic so it's very hard but if you
+[26:06] want to say that to be a real second
+[26:09] layer you need to have this unilateral
+[26:12] unilateral exit uh capability I really
+[26:15] see lining and Arc uh and maybe you know
+[26:19] Mercury layer and state chain of course
+[26:21] there are tradeoffs there but I really
+[26:23] see these two of three uh kind of real
+[26:26] second layer or the other are basically
+[26:28] other blockchain that have some bridging
+[26:31] mechanism and right now as as you know
+[26:35] from my knowledge I think there is no
+[26:37] trustless Bridge uh but even if tomorrow
+[26:39] we get covenants and we can make proper
+[26:43] trustless Bridge which means I deposit
+[26:45] one Bitcoin and some address and this
+[26:48] address issue some rid Bitcoin on the
+[26:50] other chain on the side chain uh it's
+[26:53] true is trustless this process if you
+[26:55] trust the code and and and the stuff but
+[26:58] the same time it doesn't feel to me an
+[27:01] part of the main protocol you're just
+[27:03] like moving your Bitcoin from one
+[27:05] blockchain to another blockchain so it's
+[27:07] very clunky right so it's like it's not
+[27:09] really interoperability it's just you
+[27:10] know I'm moving Bitcoin to another
+[27:12] derivative form of Bitcoin but this
+[27:14] doesn't feel on an upgrade of the
+[27:16] protocol like lining which is an actual
+[27:19] uh you know not broad not yet
+[27:21] broadcasted Bitcoin transaction and even
+[27:23] Arc is are not yet broadcasted Bitcoin
+[27:25] transaction so I think these are really
+[27:27] feels natural native second layer the
+[27:29] other like not yet trustless but even
+[27:32] though they will have bridge that will
+[27:34] allow go between rapad and real Bitcoin
+[27:37] in a trustless way they will feel a
+[27:39] different separated Universe no there
+[27:41] will be a different Universe a different
+[27:42] blockchain a different Explorer so it
+[27:45] feels a little bit to me that's how I
+[27:48] see but in particular I see lining very
+[27:51] very interesting because now going back
+[27:53] like where lining shines and where uh
+[27:55] potentially Arc doesn't and I think when
+[27:57] we have two entities that are capable of
+[28:00] doing two things running a server and so
+[28:03] be online and uh understand the topology
+[28:06] of the network understand how the
+[28:08] liquidity should be deployed these
+[28:10] entities to me doesn't sounds my mother
+[28:13] or you know normal plebs it sounds to me
+[28:15] banks exchanges um you know Arc service
+[28:19] provider themselves so I really see
+[28:22] these entities already capable to run a
+[28:24] channel they create a channel between
+[28:26] peers and they can settle between them
+[28:28] and it's very common in Banks you know
+[28:30] like if you think about the zwift
+[28:32] network right or any other parallel I
+[28:34] really see Ling more to that I know that
+[28:36] has been sold as the Visa network of the
+[28:38] consumer but I don't don't see that for
+[28:41] like how it's been designed but I really
+[28:43] see incredible tool for entities that
+[28:46] need to settle between each other
+[28:48] multiple times and they really need to
+[28:50] go back and forth and two Banks they go
+[28:52] back and forth because if I pay another
+[28:54] bank you you have another bank my bank
+[28:56] will basically pay the other bank but
+[28:59] the bank will need to pay back and if if
+[29:01] and if you substitute the banks to Arc
+[29:03] service provider that's true because
+[29:05] maybe me and you we are in the same Arc
+[29:08] but then you have another friend which
+[29:10] has another different Arc and I think
+[29:13] it's super simple where I can basically
+[29:15] use my virtual Bitcoin to pay aligning
+[29:17] invoice all of this in an atomic
+[29:20] trustless way so I can pay a lineing inv
+[29:22] voice and that line invoice has been
+[29:24] basically transformed at the end in a
+[29:27] vitico in a virtual Bitcoin of the
+[29:29] actual receiver in a different Arc so I
+[29:32] really see lining as the lingua franka
+[29:34] you know like the connective tissue
+[29:36] between multiple layers and even
+[29:38] centralize it or decentralize it it
+[29:41] doesn't matter if it's Arc or is an
+[29:42] exchange I think lining shines in that
+[29:45] use case and yeah Arc really um benefit
+[29:48] from from this multiple Arc will benefit
+[29:50] from having
+[29:51] lining so I mean to a certain extent
+[29:55] lightning is already kind of the bridge
+[29:57] between things you can really easily go
+[30:00] from I don't know uh some some lightning
+[30:02] wallets to even like Bitcoin exchanges
+[30:05] uh from Bitcoin exchange to bitcoin like
+[30:07] lightning is already um in a sense uh
+[30:12] maybe not natively but uh maybe it could
+[30:14] be better but uh um in a sense this this
+[30:17] bridge and you see lightning kind of of
+[30:20] this um Streets between those service
+[30:24] providers who then can actually offer uh
+[30:28] the daytoday transactions like the
+[30:31] there's like an institution or like some
+[30:34] sort of I don't like to use that word
+[30:37] too much but Bank uh that lightning are
+[30:41] transacting with each other and then
+[30:43] there is an arc service provider and
+[30:46] there you can give you like two EUR or
+[30:49] like few sets for for coffee um that's
+[30:52] an that's an interesting so like you see
+[30:54] um basically uh lightning complement Arc
+[30:58] and Arc complimenting lightning is there
+[31:01] is there another one uh you would say is
+[31:04] is uh important for that at the moment I
+[31:07] think and I mean I I don't think this is
+[31:09] a fault of of of the ecosystem but
+[31:12] really like I think after 2017 we really
+[31:15] stopped researching new scaling solution
+[31:17] we just said okay we got lining and
+[31:19] lining if it doesn't work the big
+[31:21] blocker will will tell us we are not
+[31:23] good no so I think everybody wanted to
+[31:25] marry this idea this uh you know the
+[31:28] idea that lining will fix everything and
+[31:30] I think for a lot of years and I'm very
+[31:32] convinced about this people stopped
+[31:34] trying to think about new new thing and
+[31:36] and try to think you know dedicated
+[31:38] protocol for dedicated use case more
+[31:40] like product oriented mentality right
+[31:42] and I think AR has a lot of this like uh
+[31:45] after four years of LSPs lining wallets
+[31:48] and all the AR you know all the problems
+[31:50] have been seen I think AR came to okay
+[31:53] thank you we have done you know user
+[31:55] research we have done you know
+[31:57] interesting you know capability so now
+[31:58] we can design a protocol for that
+[32:00] specific use case but lining is very
+[32:02] hard uh to work and I think inbound
+[32:05] liquidity is the main issue there is no
+[32:08] such thing in any other thing in the
+[32:10] human um for for for end user for
+[32:13] retailers like uh liquidity management
+[32:15] channels it's something you need to
+[32:17] explain but you know it's very technical
+[32:19] it's very like uh not for normal people
+[32:21] and the fact that you know I go around I
+[32:23] go back to the example I Orange Peel
+[32:25] someone and then I say hey download the
+[32:26] lining wallet even noncustodial but then
+[32:29] if I need to send you $1 I can't because
+[32:31] it doesn't have a channel most likely
+[32:33] and the the amount of Channel need to be
+[32:36] deducted from the amount I'm sending so
+[32:38] if I'm sending $1 for the first time to
+[32:40] this guy you will say oh what such a
+[32:42] scam I receive 20 cents uh where the 80
+[32:45] cents go went and you need to explain ah
+[32:48] there is inbound liquidity and people
+[32:50] lose you right and and and I think
+[32:53] that's uh that's how I see I really see
+[32:55] for now lining a Arc and I as I said I
+[32:58] think together they can you know um
+[33:00] enhance a non self custodial
+[33:03] noncustodial um approach to using
+[33:06] Bitcoin that doesn't require eating the
+[33:09] blockchain all the time thank you you
+[33:11] already made it halfway through the
+[33:12] video and I'm really really grateful to
+[33:14] have you here two things make this
+[33:17] channel possible you as a watcher and
+[33:19] listener who keep supporting this
+[33:21] Channel and another one is all the
+[33:23] Bitcoin brands that I partner up with
+[33:25] like 21 Bitcoin who support me from the
+[33:28] very start and where I personally buy my
+[33:30] Bitcoin from with code Robin you even
+[33:32] get a discount when you buy Bitcoin with
+[33:34] them and now also bitbox bitbox is the
+[33:37] simplest and securest way to secure your
+[33:40] Bitcoin and I heard a crazy statistics
+[33:43] only 2% of bitcoiners hold their Bitcoin
+[33:46] in a hardware wallet how crazy is that
+[33:48] don't be in that 98% bracket be in the
+[33:51] 2% bracket and if you have self- custody
+[33:54] and you know your friend does not have
+[33:56] maybe he needs a Christmas present Maybe
+[33:57] he needs a birth of present and a small
+[33:59] life hack if you use code Robin you get
+[34:02] 5% off your order plus you support my
+[34:05] channel and now let's get back to the
+[34:07] video interesting how how much is uh
+[34:11] before that um does any of this and this
+[34:16] the future scaling Solutions of of uh
+[34:18] Bitcoin with lightning with Arc with
+[34:20] potentially other things um require any
+[34:23] updates on the main
+[34:25] layer yeah I think uh Covenant is the
+[34:28] big um you know the big thing people are
+[34:31] talking about and I think Covenant will
+[34:33] one unlock new type of second lay that
+[34:35] we don't even imagine right now uh so I
+[34:38] think the community understand the value
+[34:40] of covenants and and actually covenants
+[34:42] were in Bitcoin from the day one so it's
+[34:44] not something oh new shiny new thing it
+[34:47] was AR raing Bitcoin but then
+[34:48] deactivated for many reason blah blah
+[34:50] blah um Arc as the beginning requir
+[34:54] colant but you know many researcher in
+[34:56] particular Ruben Samson you know
+[34:57] proposed a scheme that will allow for
+[35:00] you which is the main problem for Arc
+[35:02] that requires Covenant is sending to you
+[35:04] Robin and you are offline you know like
+[35:06] this concept of a sync payment right so
+[35:08] offline receiving and at the beginning
+[35:12] the idea was okay you need Covenant for
+[35:13] that and but actually you know Ruben
+[35:16] came with his own uh new payment
+[35:19] protocol which allow you actually to
+[35:21] even without any change to bitcoin to
+[35:24] actually send you offline and it just
+[35:27] Chang the approach on how the art
+[35:29] protocol works but you are confident and
+[35:31] right now you know we release the two
+[35:34] implementation one for Bitcoin and one
+[35:36] for liquid and liquid is basically just
+[35:38] a Bitcoin uh side chain that has
+[35:40] Covenant updated so we can experiment we
+[35:42] can see okay this is the best form of
+[35:44] Arc possible if you get cant to more on
+[35:46] bitcoin isier you can test it but then
+[35:48] we are also using what we can right now
+[35:51] on bitcoin with a different payment
+[35:53] protocol we can do we can deploy on bit
+[35:56] arc on bitcoin right now now the thing
+[35:58] is that even though we sold the offline
+[36:01] receiving there are huge trade-off and
+[36:04] one for example you need to keep uh
+[36:06] beside more interactivity because as you
+[36:09] imagine since we don't have covenants we
+[36:11] do a lot of pre signature between the
+[36:12] peoples and it requires a lot of
+[36:14] bandwidth but assuming that's not a
+[36:16] problem I think the other problem is
+[36:17] like I need as a user I need to keep a
+[36:21] backup a special backup very similar to
+[36:23] how lightning works and if I lose that
+[36:25] backup I will not be able unilateral
+[36:28] exit which is the same on on lining the
+[36:31] beauty here is like this backup uh you
+[36:34] need to keep it only until the
+[36:36] expiration of your virtual Bitcoin right
+[36:38] so it's a less uh so in lining you need
+[36:41] to keep forever uh here you can prune it
+[36:43] right after after one month you know
+[36:45] after the expiration of your of your
+[36:47] virtual Bitcoin and the other is to on
+[36:50] board the arc if you get covenants but
+[36:53] this is also true for lining we don't
+[36:55] need to have a special wallet you you
+[36:56] can just send to normal Bitcoin address
+[36:58] for example tomorrow we go to binance we
+[37:00] don't need to convince binance to
+[37:02] integrate Arc like lining we just say
+[37:05] hey you just withdraw normal Bitcoin and
+[37:08] this Bitcoin address is actually an arc
+[37:11] uh boarding address and I think that's
+[37:13] for me is very important if you want
+[37:15] really want to make it you know the
+[37:16] standard protocol on how Bitcoin is
+[37:19] transacted uh we really need this
+[37:21] approach way where we don't require
+[37:24] every player in the space to integrate
+[37:27] special wallet to special wallet
+[37:28] capabilities and lining has been very
+[37:31] problematic for them to integrate
+[37:33] because they took four years because we
+[37:35] had to you know understand a specific
+[37:37] protocol instead if they could just fund
+[37:39] channels just sending to a Bitcoin
+[37:41] address well the the adoption will be
+[37:43] much better uh from an enter Enterprise
+[37:46] standpoint and the other thing Covenant
+[37:49] makes the liquidity management for the
+[37:51] coordinator much much better and also
+[37:53] this unroll uh three which may be
+[37:56] problematic because imagine the 1
+[37:57] million people in this Arc uh and they
+[38:00] need to go out which means 1 million
+[38:03] transaction I mean roughly I'm just
+[38:05] telling you the a figure need to be
+[38:07] broadcasted need to be published on the
+[38:09] Chain which is pretty you know a
+[38:11] congestion you know issue right and
+[38:14] Covenants will allow you to unilateral
+[38:15] exit using maybe fraud proofs and with
+[38:17] Pro fraud proofs I can just exit by by
+[38:20] myself I don't need to simple just
+[38:22] single transaction and or for example we
+[38:25] can allow you know as I said we can
+[38:27] allow the liquidity to be much better
+[38:29] for the SP so my point is that Arc is
+[38:32] ready now so we can deploy we are
+[38:34] working on it and people will see will
+[38:36] use it very soon we are working as we
+[38:39] speak but at the same time we recognize
+[38:41] that for a proper retail you know
+[38:43] Commerce oriented retail consumer mobile
+[38:46] application uh I think Covenant will be
+[38:49] the the best right so or the best
+[38:51] scenario for building such type of
+[38:53] application that is really self-
+[38:54] custodial and has really minimal
+[38:56] dependency to any other people that
+[38:59] needs to help him to to have a
+[39:01] wallet yeah I mean here I think there
+[39:05] was uh at least like 10 guests already
+[39:08] on that without me asking them they made
+[39:11] advertisement for governance uh so I I
+[39:13] think uh there's more and more consent
+[39:17] finding for for that for that update How
+[39:20] likely do you do you think it it will
+[39:22] happen on or like in what time frame I
+[39:24] mean it's impossible to say for sure but
+[39:27] what what is your feeling yeah it's very
+[39:29] hard especially in open source project
+[39:31] first but in particular in Bitcoin to
+[39:34] understand how you know things will
+[39:36] change or will happen because you really
+[39:38] need to have you know full consensus
+[39:40] right is a distributed system so you
+[39:42] really need to make sure that there is
+[39:44] no huge you know controversy between you
+[39:46] know two or three or four faction so but
+[39:50] one thing is like I think like
+[39:52] regardless of the proposal the specific
+[39:54] current proposal there is I would say
+[39:56] consensus that that's the best uh you
+[39:59] know the the next step and if you look
+[40:01] at too too is the last softwork uh to
+[40:04] Roo is kind of a refactor what we call
+[40:06] in from an engineering perspective we
+[40:08] call it is a refactor of the scripting
+[40:10] system and it looks like a person from
+[40:13] the future came back and made too and if
+[40:16] you don't do covenants is basically
+[40:18] useless yes you make better signator you
+[40:21] need matter multi but we all understand
+[40:23] that was not necessary or super
+[40:26] important like instead having very
+[40:28] complex script right or like maybe I
+[40:30] don't know 12 or 100 condition and
+[40:33] without Covenant you cannot do much so I
+[40:36] think yeah colant Bond very well with
+[40:37] too so I think it's natural the natural
+[40:40] next softw workk um I I really canot
+[40:43] don't know but it sounds that people are
+[40:46] talking now so and very actively couple
+[40:49] of years we will maybe be in a good
+[40:52] shape I think I'm I'm totally chilled it
+[40:55] can take 10 years I'm okay um but uh but
+[40:58] yeah I think I'm I'm hope I'm much more
+[41:00] optimistic this year to be honest
+[41:02] because of course being at the edge
+[41:04] doing Covenant stuff in four years ago
+[41:06] three years ago I wanted yesterday you
+[41:08] know already Covenant on bitcoin but of
+[41:09] course I understand and that's why I
+[41:11] built a lot of stuff on liquid because
+[41:13] there I could actually experiment with
+[41:15] real money and real Covenant and go on
+[41:18] production take feedback from the user
+[41:20] so yeah I'm not in rush but yeah I
+[41:23] hopeful hopeful hopefully in the this
+[41:25] decade yeah and I think
+[41:28] I mean there there's this one thing that
+[41:30] Bitcoin has to be technically ready for
+[41:33] like Mass adoption and Med exchange
+[41:35] adoption uh that we actually can spend
+[41:37] it every day with like really like a lot
+[41:39] of people and I think we have still work
+[41:42] there and I think lightning AR and all
+[41:44] those um people that are included in
+[41:46] those ecosystems are doing an amazing
+[41:48] job every day um but at the same time I
+[41:52] also see that most people don't even
+[41:54] want to spend their Bitcoin right now uh
+[41:56] because this is such an amazing store of
+[41:57] value then most people live somewhere
+[42:00] where there would be tax implications
+[42:02] when they spend their Bitcoin they don't
+[42:04] want to be on the illegal side or they
+[42:07] don't want to pay
+[42:08] taxes um there there are like from a lot
+[42:12] of perspectives we're just really early
+[42:14] on and I think we're now right now still
+[42:16] in this store of value phase but it's
+[42:19] really important that we before Bitcoin
+[42:22] shoots up so much that a lot of people
+[42:23] want to spend it and taxes are uh erated
+[42:27] before that happens that we actually
+[42:28] have the technical things nailed on and
+[42:31] I like really using lightning on on
+[42:34] conferences uh even though I have to
+[42:37] document that and then have to like talk
+[42:39] with my tax consultant and everything
+[42:41] because there's actually tax
+[42:42] implications which bothers me a lot but
+[42:46] I want I want to do it the right way the
+[42:49] thing is when you when you do all those
+[42:51] things and you actually transacted you
+[42:54] you contribute a little bit to to the
+[42:56] new technology and we we just really
+[42:59] early on and then we have to do that and
+[43:01] one question that was in my mind when
+[43:03] when you were talking uh about that
+[43:05] onion thing and uh we can build several
+[43:08] layers on on top of Bitcoin I heard it
+[43:11] in the beginning a lot I don't hear it
+[43:13] that much right now um that all Al coins
+[43:16] are basically
+[43:18] obsolete because you could do it more
+[43:22] securely um and better on a Bitcoin
+[43:26] second layer or third ler here or if you
+[43:28] cannot do that it would be better in a
+[43:31] actual centralized database for example
+[43:33] I I don't know why video games has to be
+[43:36] decentralized like like a video game
+[43:39] money can be centralized I have like I
+[43:42] have know in in that so either the the
+[43:46] ALCO use case is on an actual
+[43:48] centralized database because it's more
+[43:50] efficient and more cost efficient so it
+[43:53] will be better over time or it can
+[43:55] actually be built on top of bitco and
+[43:57] what's what's your opinion there yeah no
+[44:00] the second the second thing that you
+[44:02] mention like definitely most of
+[44:04] centralizing coin think about stable
+[44:07] coins or altcoin but just think about
+[44:10] the stable coin that are at least have
+[44:11] some usage or at least real um
+[44:14] application is true you can definitely
+[44:17] do it on a database but the best thing
+[44:19] of blockchain is to scam Regulators in
+[44:23] the sense that um the beauty of using
+[44:27] you know whatever you know I don't know
+[44:29] teder or usdc whatever I don't want to
+[44:31] mention on any chain is that it seems
+[44:34] decentralized so they can operate right
+[44:36] so I think it's true from a from a you
+[44:40] know theoretical perspective but I think
+[44:42] people really care to not be the money
+[44:45] transmitter to not be the actual person
+[44:47] that otherwise will be Liberty reserve
+[44:49] right so I can definitely do um you know
+[44:51] stable coin much better with my database
+[44:53] but that's Liberty reserve basically and
+[44:54] that's how you went so these layers of
+[44:56] blockchain insurance and so on divide I
+[44:59] think the risk for the issuer and who is
+[45:02] operating the blockchain who's operating
+[45:04] the wallet infrastructure so I think
+[45:05] this approach is like much more I will
+[45:08] not say censorship resistant but
+[45:10] resistant to to attacks to um um
+[45:14] potential regulatory attack the other
+[45:17] thing is like which I I believe and and
+[45:20] I think having other assets on bitcoin
+[45:23] on the layer one on bitcoin not Layer
+[45:25] Two which that's another other topic but
+[45:28] on layer one having other assets on
+[45:31] bitcoin I think can mess with the with
+[45:34] the consensus or can in general can mess
+[45:36] with the politics because it means that
+[45:38] now you have an asset which is you know
+[45:41] not not native is not Bitcoin anymore
+[45:43] you have a new asset that you you may
+[45:45] have leverage to push for R fork or
+[45:49] whatever I don't know I'm I'm I'm not
+[45:50] saying I want to say I'm scared of what
+[45:52] I don't know but is well known that in
+[45:54] the end why I need to use the Bitcoin
+[45:56] block chain which is low um super slow
+[45:59] super expensive to translate an IOU in
+[46:03] any way maybe it's better to do a second
+[46:05] layer for sure because otherwise if you
+[46:07] need to create yet another blockchain
+[46:08] and yet another currency that's another
+[46:10] problem because you are competing with
+[46:11] Bitcoin from a monetary perspective but
+[46:13] assuming you're doing a stable coin and
+[46:15] you're not competing with Bitcoin you
+[46:16] don't need your own blockchain you just
+[46:17] need a ledger which is as networ effect
+[46:21] good enough and we assume Bitcoin has
+[46:23] good networ effect and all the exchange
+[46:25] supported the speculation there if we do
+[46:28] a simple second layer and we do assets
+[46:31] on the second layer then we can use the
+[46:33] Bitcoin Network effect to move also
+[46:36] other assets and you know this is not
+[46:38] new colored coin RGB tarot or you name
+[46:42] it right so personally I think I will
+[46:45] definitely if I need to use stable coin
+[46:47] I I don't want to use it on bitcoin main
+[46:49] chain I will use it on liquid or any or
+[46:52] any other chain but I will go liquid
+[46:54] because I don't want to acquire a
+[46:55] shitcoin to pay for my gas fees right so
+[46:58] I will just um use it on liquid there is
+[47:01] T there so I use it there uh or maybe on
+[47:04] Arc or maybe onling but again I think
+[47:07] issuing the asset on the main chain of
+[47:09] Bitcoin is just a not so interesting and
+[47:12] they potentially mess uh with the
+[47:15] economics of of Bitcoin so if you can
+[47:17] keep the the
+[47:18] assets far away from Bitcoin layer one
+[47:21] I'm I'm
+[47:22] happier MH I mean I I was really toxic
+[47:27] uh like a year ago in Bitcoin like I was
+[47:30] really toxic against all the altcoins I
+[47:32] was really toxic against a lot of things
+[47:34] that was not Bitcoin and I think um I
+[47:37] don't know like I I got really um
+[47:40] chilled now with Bitcoin in a
+[47:44] sense if if Bitcoin is actually the
+[47:46] sound money and actually the the the the
+[47:49] solution to to to the problem that we
+[47:51] have with the monetary system the the
+[47:54] thing that we actually think it is
+[47:57] then it does not matter what other
+[48:00] people do with it it's also with the
+[48:02] ETFs I heard it a lot like oh but now
+[48:04] like order executive order 6012 will
+[48:07] come now to bitcoin and stuff like that
+[48:10] and I'm like it's a possibility that it
+[48:13] comes um but gold survived it and if
+[48:17] Bitcoin is strong enough Bitcoin will
+[48:18] also survive it so like if if Bitcoin uh
+[48:21] is is strong enough and it's actually
+[48:24] the sound money that we think it is and
+[48:27] I actually think it is that um that it
+[48:29] could withstand also the the the weird
+[48:33] things that can happen on top of uh
+[48:36] Bitcoin that I'm not a fan of like I I'm
+[48:39] I I would like to use Bitcoin as money
+[48:41] and nothing else like I I don't like
+[48:44] weird things on top of the of the
+[48:46] Bitcoin layer um other people might like
+[48:48] it it's it's it's okay for me uh but
+[48:51] they should not be able to break Bitcoin
+[48:54] that that's that's kind of my point uh
+[48:56] so like if if someone with with some
+[48:58] weird thing on top of Bitcoin is able to
+[49:00] break Bitcoin then maybe Bitcoin was not
+[49:03] that resilient in to begin with but I
+[49:06] don't I don't think that like that was a
+[49:09] a weird monologue
+[49:11] but my my my my point was I think the
+[49:15] Bitcoin is the most soundest money and
+[49:18] most robust Network that we ever had and
+[49:20] we should protect it at all costs um um
+[49:24] but the the reason that that it's so
+[49:27] robust is the reason why I'm so chilled
+[49:30] about most of the things yeah totally
+[49:34] and uh and makes sense and and to me
+[49:36] like I I think if other people are using
+[49:39] the Bitcoin blockchain for things that
+[49:41] are not moving Bitcoin is the f is our
+[49:44] fault in the sense that we are not using
+[49:46] Bitcoin enough as you said no there are
+[49:48] many complication tax implication or
+[49:50] it's not only scalability it's not only
+[49:52] cost even if I give you the perfect
+[49:53] scalability solution but then people are
+[49:55] not using because so volatile that you
+[49:57] know why I need to use it unless maybe I
+[50:00] receive Bitcoin as as a as a salary so I
+[50:02] think there are many other concept which
+[50:03] is beyond technology that are not there
+[50:06] yet in in pieces to let you really leave
+[50:09] out of Bitcoin because when we save
+[50:11] money yes for sure saving is huge
+[50:13] component of money because I want to
+[50:14] save but then at some point I need to
+[50:16] spend it right so otherwise it's like um
+[50:20] it's a it's other piece which I agree is
+[50:24] not there yet there's not U there is no
+[50:26] rush to do that but I think like if we
+[50:29] really want to increase the monetary use
+[50:32] case of Bitcoin we need to make sure we
+[50:33] can use it uh to pay we need to bring
+[50:36] back Commerce and it's very funny to me
+[50:37] but I I really say that early on bitcoin
+[50:40] was much more used uh for many other use
+[50:43] cases REM people that don't even know
+[50:45] about Bitcoin don't even believed or
+[50:46] understood what Bitcoin was but for them
+[50:48] was a cheaper Wester Union right and
+[50:51] they used that and there is no document
+[50:53] to open a Bitcoin wallet for them was
+[50:55] amazing and people non txav they were
+[50:58] coming buy Bitcoin I think now terer
+[51:00] took a lot of that use case no like of
+[51:02] course because you don't have the
+[51:03] volatility in that and people understand
+[51:06] $1 $1 and and of course a lot of that
+[51:08] use case but I really think that we
+[51:10] should bring back Commerce and I think
+[51:12] Bitcoin is a definitely great um
+[51:15] instrument maybe not buying the coffee
+[51:17] or in in the real life store but even
+[51:19] starting just with digital Commerce I
+[51:21] think that's a huge opportunity where we
+[51:24] are just getting too complacent and we
+[51:26] say okay who cares we just hold and we
+[51:28] don't use it but actually I think it
+[51:30] makes sense for you to try to say okay
+[51:33] maybe I will take alha my salary in BTC
+[51:35] so I'm let's say I'm forced to use it
+[51:37] right so uh yeah so I think uh we really
+[51:40] need to increase the the Commerce use
+[51:43] case I would say yeah I I would love to
+[51:46] just use price out them right to price
+[51:48] out the JP if that was
+[51:51] the because if if it's so cheap to put
+[51:54] some random stuff on there then then
+[51:56] then we should use it more as money
+[51:58] you're absolutely right with that um one
+[52:00] last thing uh I want to to to mention
+[52:04] because guests actually brought it up
+[52:06] and and one very popular guest also
+[52:08] brought it up on my podcast Jeff boof uh
+[52:11] is fedy min uh and uh he said something
+[52:15] uh with that was very similar to you
+[52:18] that uh the lightning is like the
+[52:20] highway streets uh and I think uh he
+[52:24] said like super highway or something
+[52:25] like that um and then he sees like those
+[52:29] cities and towns and he say like see
+[52:32] sees like a fedin Al as those cities and
+[52:35] towns um how how is aiment is is not the
+[52:39] the unilateral thing that you talked
+[52:41] about is that the key difference or and
+[52:44] why would you like prefer um um Arc
+[52:48] above aiment or maybe has fed him some
+[52:52] just another use case no I think it's
+[52:54] much more similar um thinking about how
+[52:57] will look like when you replace Arc with
+[53:00] fedin so I think it's that that
+[53:02] explanation makes s the sense but again
+[53:04] Arc uh is more expensive than Fint by
+[53:07] Nature because there's a liquidity cost
+[53:09] that need to be paid for someone instead
+[53:11] Fint is a database so it cost you few
+[53:14] dollars per month to keep a Fed Min you
+[53:16] know either Fint or even cash you a
+[53:19] single doesn't matter but you understand
+[53:21] that when you are custodial a lot you
+[53:23] cannot compare you know is apple and
+[53:25] orange things you can really compare
+[53:26] because when you are custodial you have
+[53:28] zero cost for doing anything your cost
+[53:30] is the tradeoff uh sorry is the trust
+[53:32] tradeoff right so and also how to
+[53:34] explain to user that this there is a
+[53:36] trust and how you explain to regulator
+[53:39] that you are not a money transmitter or
+[53:40] whatever so I think um I think they they
+[53:44] both have a place and to me as I said
+[53:47] before you know even below a certain
+[53:49] point Arc becames custodial because you
+[53:51] cannot afford to pay your your your exit
+[53:54] transaction and I think for all the use
+[53:56] cases you know very small micro payments
+[53:59] I think you know eash fedin are very
+[54:02] good for example right so um I don't
+[54:05] know maybe just you know an Hotel system
+[54:07] or a festival you know let's take an
+[54:09] example you do a festival why I need to
+[54:11] do an AR even an arc transaction you can
+[54:13] just create you know a simple you know
+[54:15] as a small village and we just you know
+[54:17] deposit our Arc Bitcoin at at the at the
+[54:20] counter and I get my cash uh you know
+[54:22] eash uh and then I using inside to be to
+[54:25] P to pay things inside that Festival
+[54:27] then the festival will end in two three
+[54:29] days and then I will exit and of course
+[54:31] I'm coming to the festival and the
+[54:32] festival as an incentive to not steal my
+[54:34] money because he wants to sell me more
+[54:36] beers and more stuff so I think all
+[54:38] these cases are totally fine and and and
+[54:40] I think there would be a place for that
+[54:42] and even I think running an arc service
+[54:45] provider I think you need more people
+[54:48] you need more entities and why not
+[54:50] creating a fedin to run an arc right to
+[54:53] be a service provider so you can
+[54:54] definitely have like your bodies in
+[54:56] investment bankers they all coordinate
+[54:58] and they create a fine uh to do that to
+[55:00] provide liquidity so I think there are
+[55:02] many other use cases of course like as I
+[55:04] said before if we stop innovate if you
+[55:06] stop research uh we are stuck with
+[55:08] lining and whatever less and then now we
+[55:11] again we are again the same problem we
+[55:12] need to stack things that are not
+[55:14] designed for what we need to do but just
+[55:16] because they are available so to me it's
+[55:17] like a kind of a defeat to say no okay
+[55:20] let's not innovate let's not research we
+[55:22] that's what we have and just you know
+[55:24] stuck some trust layer all around um so
+[55:28] yeah I think again I would see ecash to
+[55:31] enhance um you know many others uh
+[55:34] situation where Bitcoin is used and
+[55:36] where you know the trust tradeoff is
+[55:38] more than accepted um so I think they
+[55:41] also will copy it but is very hard to
+[55:43] compare and I don't believe people
+[55:45] should I mean I don't believe we need to
+[55:47] stop now researching maybe in 20 years
+[55:49] 40 years if we figure out that the the
+[55:51] trust is the only way to scale Bitcoin
+[55:53] okay then we can you know have our white
+[55:56] flag and and and and say defeat but I'm
+[56:00] more I'm more optimistic let's say let's
+[56:03] let's try to to to be more adherent to
+[56:05] the Bitcoin EOS and how Bitcoin should
+[56:08] work yeah and that's I think that's the
+[56:10] that's the whole point like the more
+[56:12] people develop in the stuff the better
+[56:15] the chances that we come up with
+[56:16] something that actually works in the end
+[56:18] of the day because uh no matter what
+[56:21] layer solution even uh no matter what
+[56:24] layer solution to bitcoin
+[56:27] nothing has right now the mass use case
+[56:31] because only a small like only very
+[56:33] small percentage of people actually get
+[56:36] Bitcoin in the world and then from those
+[56:39] only a small percentage actually also
+[56:41] work with those layer to so like when we
+[56:43] look at the whole world we are still
+[56:45] very very early and very very uh small
+[56:49] we not that early because we're 15 years
+[56:51] in but we are very very small still um
+[56:54] so in that way uh everything that's
+[56:57] developed now is for something really
+[57:00] good even though maybe we come to to the
+[57:03] conclusion oh this is actually a bad
+[57:05] thing or this is this is the thing we
+[57:07] always should have focused on or
+[57:09] something like that but we we probably
+[57:11] don't know yet like at least I don't
+[57:12] know yet that's that's the thing yeah
+[57:15] perfect then uh let's come closer to the
+[57:17] end of the podcast um there's one
+[57:21] question before the the endro tetin
+[57:23] questions what are you most excited
+[57:26] about in Bitcoin like what are you
+[57:27] looking forward in the next like one
+[57:29] year 5 years 10 years whatever um what
+[57:32] is something that you're like oh I'm I'm
+[57:34] I'm looking forward to that event or
+[57:35] that thing happening or whatever you
+[57:37] want to to go there I assume beside Arc
+[57:42] right
+[57:44] yeah no I think um I'm very interested
+[57:47] things like I mean if you just but they
+[57:49] are not that far away like silent
+[57:51] payments for me those things are very
+[57:53] interesting because it from it's one of
+[57:57] those things that are like not making
+[57:58] the ux worse for the user they're
+[58:01] actually improving the user experience
+[58:03] of the user and also bringing you
+[58:04] privacy so on that side I think silent
+[58:06] payments is for me the most exciting
+[58:08] things uh so far but uh again like
+[58:11] assuming uh Bitcoin with you know a
+[58:14] better Bitcoin script which means you
+[58:16] know coverance I really think you know
+[58:18] that we can really trying to think uh in
+[58:20] a more bold way to how to build a
+[58:24] Bitcoin native economy which which means
+[58:26] you know new kind of you know economic
+[58:28] Primitives which now we are just of
+[58:31] course comparing things with you know
+[58:32] the Fiat system the Fiat economic system
+[58:35] but how will look like I don't know
+[58:36] lending how will look like derivatives
+[58:38] based on a Bitcoin standard where you
+[58:40] know you cannot print money uh so you
+[58:42] need to you know trying to find other
+[58:44] ways and but I think you know like
+[58:46] Beyond savings and commerce there is a
+[58:48] huge market and a huge need of this you
+[58:50] know uh Financial products and financial
+[58:53] Primitives so I really looking forward
+[58:55] to I don't know Bitcoin native uh stable
+[58:58] coin which means there is no Fiat bank
+[59:00] account in entire stock they're just
+[59:02] using Bitcoin collateral and the
+[59:04] issuance and the the burn of this stable
+[59:07] coin ideally uh is done you know
+[59:10] directly on the Bitcoin blockchain so I
+[59:11] think I'm super excited about that I
+[59:13] work on this and this project called
+[59:14] Fuji Fuji money on on liquid and I
+[59:17] really looking forward to that like I
+[59:18] really think that that would be a huge
+[59:21] thing you know like also trying to bring
+[59:23] native Native you know Financial
+[59:25] Primitives also also to bitcoin new
+[59:27] things things that you know uh current
+[59:29] people don't even imagine so yeah really
+[59:31] cool perfect um then uh we have two
+[59:36] questions the to the endro team the
+[59:38] first question is always the same
+[59:39] question even though I changed it a
+[59:42] little bit uh the the LA the the last
+[59:44] time in the podcast the first time um so
+[59:48] the question is what can we learn from
+[59:51] you besides all things Bitcoin okay very
+[59:55] very good question
+[59:56] I think I I mean in general I think you
+[59:58] know also my my experience you know I
+[60:00] went also before starting working in the
+[60:02] Bitcoin space I also you know worked a
+[60:05] lot in what you can call Big tech and
+[60:07] and whatnot and and I think there you
+[60:10] have really smart smart people and there
+[60:13] is a barrier between those smart people
+[60:15] that don't even believe on the premise
+[60:17] of Bitcoin they really believe in the
+[60:18] you know in whatever is the status quo
+[60:20] and they are super smart engineers and I
+[60:22] think yeah I think one thing I try and
+[60:25] keep trying with you know my all my work
+[60:27] is trying to bring that type of
+[60:29] Competency the type of engineering
+[60:31] attitudes also to bitcoin which is much
+[60:34] more like I would say uh Freedom let's
+[60:38] say more EP style which is totally love
+[60:40] it and that's why I'm in Bitcoin but
+[60:42] also trying I think what we try to do is
+[60:44] like to bring the type of you know um
+[60:48] Enterprise ready or in general you know
+[60:50] trying to bring you know uh the type of
+[60:52] approach that you know made Amazon
+[60:54] Facebook you know multi million dollar
+[60:56] company and also trying to bring also
+[60:58] this to to bitcoin and of course many
+[61:00] challenges but yeah I think that's
+[61:03] that's the goal amazing really good one
+[61:06] actually uh because we have to we we
+[61:10] have to get more uh serious sometimes
+[61:13] it's like we we we are still a young
+[61:15] industry uh but when you see the big
+[61:19] conferences around Bitcoin uh like in
+[61:23] America Nashville in a Europe the
+[61:24] Bitcoin PR conference uh things like
+[61:27] that then you see like oh there's an
+[61:28] actual Big Industry uh around and behind
+[61:33] Bitcoin and and it's good to see the uh
+[61:36] the professionality of of Bitcoin
+[61:38] companies and Bitcoin in general is is
+[61:41] going up and yeah now with the edfs
+[61:43] entering with with publicly trading
+[61:45] companies entering with with countries
+[61:48] entering we will have we see we will see
+[61:51] this anyways perfect then uh let's come
+[61:53] to the end routine of our podcast where
+[61:56] the previous guest is asking a question
+[61:57] for the next guest without knowing who
+[61:59] actually is the next guest and the
+[62:01] question from the previous guest is I
+[62:04] totally unrelated the question to
+[62:06] bitcoin uh but it's an interesting one
+[62:08] what is a personal health habit which
+[62:11] you know you should do but you don't uh
+[62:15] going going bad early going bad early
+[62:18] but uh you know working with many time
+[62:20] zone and you know being maybe in the
+[62:23] middle you know Central Europe time zone
+[62:24] but then working a lot with Soviet
+[62:27] America I go bed late maybe I stay too
+[62:30] much with the screens computers you know
+[62:32] working in Tech so yeah definitely I'm
+[62:34] guilty of too much technology so so
+[62:37] you're guilty of working too hard or or
+[62:41] maybe too too addicted to technology you
+[62:43] know because most of the time you can
+[62:44] work even with computer but you are
+[62:46] always connected too much online so I
+[62:48] think that's uh that's definitely
+[62:50] something I wish to improve perfect then
+[62:54] um Before I Let You Go where can people
+[62:56] find you uh where can people ask you
+[62:58] questions yeah I'm I'm on Twitter uh my
+[63:01] nickname is T you can find me t t or
+[63:03] even on telegram t or GitHub T again uh
+[63:07] we have a website AR
+[63:10] clubs. uh like torant uh so you can
+[63:13] definitely I suggest you to go there and
+[63:15] subscribe uh to the newsletter uh where
+[63:17] we are going to you know release more
+[63:19] updates what we're doing what how Arc is
+[63:22] going so definitely you know that's a
+[63:25] that's a good suggestion to to stay in
+[63:27] the
+[63:27] loop perfect then uh thank you Marco for
+[63:31] for joining us thank you uh for everyone
+[63:34] that is watching and listening for
+[63:35] joining us I'll be back tomorrow with
+[63:36] another episode byebye thank you
+[63:40] [Music]

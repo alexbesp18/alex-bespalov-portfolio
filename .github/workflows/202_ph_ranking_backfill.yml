@@ -2,14 +2,13 @@ name: One-Time Historical Backfill
 
 on:
   workflow_dispatch:
-    # Manual trigger only - this is a one-time operation
 
 jobs:
   backfill:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./product_hunt_ranking
+        working-directory: ./200-other/202-product-hunt-ranking
     
     steps:
     - name: Checkout code

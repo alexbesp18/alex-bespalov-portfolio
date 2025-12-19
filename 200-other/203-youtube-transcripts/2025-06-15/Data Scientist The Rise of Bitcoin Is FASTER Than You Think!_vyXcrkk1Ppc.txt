@@ -1,0 +1,1679 @@
+Title: Data Scientist: The Rise of Bitcoin Is FASTER Than You Think!
+Video ID: vyXcrkk1Ppc
+URL: https://www.youtube.com/watch?v=vyXcrkk1Ppc
+Date Saved: 2025-06-15 11:45:17
+--------------------------------------------------
+
+[00:00] the richest and most powerful country in
+[00:02] the world signaling that they will get
+[00:05] as many Bitcoin as they can as fast as
+[00:07] they can which triggers the whole game
+[00:09] theory about nation states once large
+[00:12] nation states with vibrant economies and
+[00:15] strong geopolitical influence do that it
+[00:17] will trigger the kind of fomo we cannot
+[00:19] imagine we are left behind as we were
+[00:22] with internet with AI with so many
+[00:25] technological Revolution we will feel
+[00:27] Our Fate as an open Air Museum are
+[00:30] really closer to its hand than what most
+[00:33] people think we see that our economy is
+[00:35] collapsing we just hit a record in
+[00:37] bankruptcy our debt is out of control
+[00:39] the government expedit in the GDP are
+[00:42] 60% of the GDP so it's the same level as
+[00:46] in the USSR in the' 70s 40% of the
+[00:49] working age population is working for
+[00:51] the government we don't have energy
+[00:52] security and the cost of servicing the
+[00:55] debt is getting out of control I don't
+[00:57] see a painless way out of this Cris I
+[01:00] could make the case that in 3 years time
+[01:03] the Euro will be past
+[01:04] [Music]
+[01:08] history you studied data science and
+[01:11] then you worked like a little bit like
+[01:12] four years into that has that influenced
+[01:14] how you look at Bitcoin or uh yeah I
+[01:17] discovered Bitcoins through data science
+[01:19] but in a kind of serene depit way um I
+[01:23] was working at Oracle uh back in the
+[01:25] days and uh basically I was um
+[01:29] interested in a software licensing
+[01:31] problem that some software uh
+[01:34] distributor have with on premise
+[01:36] software and I stubbled upon a thesis of
+[01:40] computer science uh written by some guy
+[01:43] in Australia which basically explained
+[01:45] that you could use Bitcoin underlying
+[01:47] technology to solve this problem and
+[01:49] that's how I was uh introduced to
+[01:51] Bitcoin in the first place interesting
+[01:54] so that played a big role even in in uh
+[01:57] discovering Bitcoin for you how's that
+[01:59] influence your thinking of of Bitcoin
+[02:01] maybe different to to other
+[02:03] people excuse me uh how how like I think
+[02:07] like data scientists are really looking
+[02:10] at problems in a different way when you
+[02:12] look at like data and you look at the
+[02:14] actual facts uh versus maybe less
+[02:17] emotional to that sense how is that
+[02:20] influenced how you look at Bitcoin how
+[02:23] you explain Bitcoin how you see Bitcoin
+[02:26] um that's a good question I'm not sure
+[02:29] it has
+[02:30] had that large an influence um because
+[02:35] when I discovered Bitcoin um uh first I
+[02:40] didn't understand it really well like I
+[02:43] was at first I was drawn to etherum
+[02:46] because it was like more user friendly
+[02:49] uh more general purpose and stuff like
+[02:51] that and so I I must confess I didn't
+[02:56] understand like uh the whole game theory
+[02:59] monetary economics history of money uh
+[03:03] Financial history that helps you
+[03:06] understand the role Bitcoin has to play
+[03:09] that came after and so my Bitcoin my
+[03:13] Bitcoin journey in itself was more um uh
+[03:18] on that uh plan like uh I understood
+[03:22] Bitcoin uh well once I got interested in
+[03:27] uh economics history of economic
+[03:28] thoughts um after I've read some aan
+[03:32] economics uh and this kind of knowledge
+[03:36] helps me um discovered Bitcoin and so I
+[03:40] I understand Bitcoin through this lens
+[03:43] more than data science I would say data
+[03:46] science my data science background was
+[03:48] uh rather helpful to um use data to
+[03:53] write about Bitcoin and to analyze it uh
+[03:57] both from a nonchain uh uh analysis
+[04:00] perspective and also from a pure let's
+[04:04] say mathematical Finance perspective
+[04:08] super interesting you said that you got
+[04:10] into etherum more because it had a
+[04:12] better user
+[04:14] interface how how was how was that like
+[04:17] like what was better on on the for the
+[04:19] user interface
+[04:21] so when I entered this when I entered
+[04:24] this space so just after leaving Oracle
+[04:26] it was like 2016 just after eum Ico and
+[04:31] there was a lot of marketing material
+[04:33] out there um it was also at that time
+[04:36] that you had the economist uh um Edition
+[04:41] about like the blockchain the trust
+[04:43] machine all the around like
+[04:44] blockchain technology so back in the
+[04:47] days if you were a young guy such as me
+[04:50] looking info about like blockchain
+[04:52] technology most of the results you would
+[04:55] get would be about like decentralized
+[04:57] application smart contract and stuff
+[04:59] like that and once uh the first ethereum
+[05:03] clients were available it was like easy
+[05:06] to to to to use uh even for someone like
+[05:11] me with not that uh a good technical
+[05:16] background in the sense that I was like
+[05:19] more um doing mathematics in data
+[05:22] science uh I'm not a developer by
+[05:24] formation uh I was in business school so
+[05:28] um I get
+[05:30] uh due to my limited technical
+[05:33] background like uh ethereum was more
+[05:36] appealing and it's only like um 18
+[05:40] months later
+[05:42] once I um first I I had difficulties
+[05:46] wrapping my head around some simple
+[05:49] Concepts about how Market Works uh
+[05:52] especially in the context of like
+[05:54] decentralized financial application
+[05:56] toomics on ethereum and stuff like that
+[05:58] and so I decided to uh basically uh
+[06:01] self-educate in economics in finance and
+[06:04] in economic history and that's through
+[06:07] that lens that I understand that yeah
+[06:09] ethereum was uh kind of clunky not
+[06:12] sustainable in the long run and uh at
+[06:16] the opposite like Bitcoin was there for
+[06:18] the ages and solving a real uh problem
+[06:21] uh that you can miss at the beginning of
+[06:23] course but that is way more uh important
+[06:27] and that has way more chances to succeed
+[06:30] than this kind of vaporware description
+[06:33] of a world
+[06:35] computer interesting I have for me I I
+[06:38] was a little bit in shitcoins and I was
+[06:40] a little in altcoins but I was like ah
+[06:42] it this doesn't make sense too much but
+[06:45] yeah I quickly got into uh Bitcoin only
+[06:48] stuff um what are your thoughts on um
+[06:52] then on things on top of Bitcoin we have
+[06:55] uh um for example ordinals but there's
+[06:58] all a lot of other things that that you
+[07:00] can put on on bitcoin that kind of have
+[07:03] altcoin wipes I would say uh but on top
+[07:07] of uh of of Bitcoin so the way I think
+[07:10] about it is like is it sound from a
+[07:13] technical perspective and is it uh like
+[07:16] a good use case in the same way that you
+[07:18] would analyze a company for example of
+[07:20] course it's different but you can use
+[07:23] the similar Frameworks and my contention
+[07:26] with most of what is developed on Smart
+[07:29] contract blockchain is that uh it is it
+[07:32] scores bad in both dimensions in the
+[07:35] sense that technically speaking most of
+[07:37] the time it's not secure uh it's uh
+[07:41] presents with lots of attack vectors of
+[07:44] ability to manipulate and when it's
+[07:47] successful it blots the Shain because um
+[07:50] it's a trade-off right either you have
+[07:52] something that is easy to use and
+[07:55] anybody can develop its own smart
+[07:57] contract its own shitcoin but at the end
+[07:59] of the day you will have so many
+[08:01] transaction eating the chain at the same
+[08:03] time that you will have scalability
+[08:05] issues which can only be solved at the
+[08:09] the ground layer by centralization and
+[08:11] that's why after ethereum all the smart
+[08:14] contract blockchain that uh um um that
+[08:19] emerg to compu the serum where more
+[08:21] centralized you can think of BNB chain
+[08:24] or Solana for for instance and on the
+[08:28] like um like business model and and
+[08:31] utility front uh I think that uh
+[08:36] basically most of what remains Mo most
+[08:40] of what uh still has fraction uh in this
+[08:44] uh ecosystems is what we call Defi and
+[08:47] to me it's neither decentralized nor
+[08:50] Finance uh in the sense that Finance at
+[08:54] its core is a function of intermediating
+[08:58] uh savings and investment M and to do
+[09:01] that you cannot step outside contracts
+[09:05] property laws and stuff like that
+[09:06] because if for example I have savings
+[09:09] and I want to give them to an
+[09:12] entrepreneur that will use them to uh
+[09:14] build a business and generate
+[09:17] productivity and maybe give me a return
+[09:20] then um we had like 250 years of inst
+[09:25] institutional contracts uh emerging from
+[09:28] the social order to protect the investor
+[09:30] to align interest between uh different
+[09:32] shareholders in this setup and uh
+[09:36] basically the whole idea of defy and
+[09:40] tokens and stuff like that discard all
+[09:43] of that which is completely uh uh it's
+[09:47] first it's uberis and then it's kind of
+[09:49] stupid because if we invented these
+[09:52] institutions in the first place that's
+[09:54] because they are really helpful and
+[09:57] really useful to avoid for example
+[09:59] entrepreneurs getting capital and being
+[10:02] liquid from day one and just deciding
+[10:05] not to build anything because uh it's
+[10:07] easier for them to get rich by marketing
+[10:10] what they will do instead of really
+[10:11] doing it and even if they are successful
+[10:16] uh we have this thing called like uh uh
+[10:19] corporations with like uh um accounting
+[10:22] practices with like stocks with like
+[10:25] different senority on depth instruments
+[10:27] and stuff like that that basically
+[10:29] structures the claims of different
+[10:31] investor within a corporation whereas uh
+[10:35] when you hold the token you have no
+[10:37] guarantee that the success of your
+[10:39] business will directly translate in
+[10:42] financial success for you so all in all
+[10:45] uh I think there is like great uh um
+[10:49] things to develop on top of Bitcoin to
+[10:52] facilitate some kind of uh Financial uh
+[10:57] contracts but um I would um discard the
+[11:01] idea that uh one we will like get rid of
+[11:06] the whole financial system because of it
+[11:08] because we will still need Capital
+[11:09] allocators intermediaries to do that
+[11:12] some kind of trust you know and um at
+[11:15] the end of the day like we formed
+[11:18] institution in the past to do that such
+[11:20] as the rule of law uh and all the
+[11:22] institutions I I mentioned before and I
+[11:25] don't see that disappearing but if you
+[11:28] look at different construct for example
+[11:30] like money market fund basically a money
+[11:32] market fund for your audience is
+[11:35] something like taser it's like a fund um
+[11:40] that will get take your dollars invest
+[11:43] them in short-term treasury bills so the
+[11:45] most liquid and safe uh uh Securities
+[11:49] out there and the the only job of the
+[11:53] fund manager is to make sure that uh it
+[11:56] stays on par meaning that the
+[11:58] liabilities are less than the assets
+[12:01] that like the share issues uh worth each
+[12:05] $1 are backed by corresponding amount of
+[12:09] dollar denominated Securities which is
+[12:11] exactly what teser does uh in a money
+[12:14] market fund though um the shareholders
+[12:16] get a return uh based on the underlying
+[12:19] Securities held by the fund and uh I
+[12:23] think for example like the future of
+[12:24] stable coin will be something like that
+[12:27] like for example you can imagine some
+[12:29] construct whereby you issue tokens or
+[12:33] cryptographic signatures or some kind of
+[12:36] ecash mint whatever the construct and on
+[12:39] the other side you have like a blend of
+[12:43] onchain Bitcoin associated with uh
+[12:46] Bitcoin short position basically
+[12:48] derivatives making them uh at SP with
+[12:51] dollars and reaping funding rates
+[12:54] rewards um because when you are short
+[12:57] Bitcoin basically you are facilitating
+[12:58] people
+[12:59] wanting to be long and because more
+[13:02] people on average wants to be long than
+[13:04] short Bitcoin they have to pay you for
+[13:06] the privilege of getting that exposure
+[13:09] and so that way you could like recreate
+[13:12] something that already existed in the
+[13:14] fat traditional world uh that is Battle
+[13:17] tested that serve a real purpose in the
+[13:19] financial system that really has value
+[13:21] that really has use but you can leverage
+[13:24] the Bitcoin Network such that this kind
+[13:27] of product inherits some of of Bitcoin
+[13:30] desirable properties such as it's
+[13:32] auditable directly on chain you don't
+[13:34] have to trust an intermediary you can do
+[13:37] creation and redemptions automatically
+[13:39] without going through an intermediary so
+[13:41] it's also sensorship resistant and such
+[13:44] uh kind of properties also it can be um
+[13:48] um
+[13:49] cryptographically uh managed so it's
+[13:51] more efficient than human management so
+[13:56] that's it's kind of a long answer but
+[13:58] that's my my my two sents on on yeah
+[14:01] defi it's interesting is the thing that
+[14:05] you said in the beginning was really
+[14:06] true uh the only defi is
+[14:09] Bitcoin only only financial system that
+[14:12] is decentralized is is Bitcoin every the
+[14:16] things that we call defa as you said are
+[14:18] not decentralized maybe have something
+[14:20] to do with money but not really uh I
+[14:24] excuse me to interrupt but I would even
+[14:27] contest that like uh the the kind of
+[14:30] light bu moment I had when I understood
+[14:32] that like Define on other chain uh
+[14:36] wouldn't work was the moment I
+[14:39] understood that like all Finance is
+[14:41] based on money so you have to have an
+[14:44] under genous money on your network that
+[14:48] gains value uh for its uh
+[14:52] characteristics as money and then on top
+[14:55] of that you will have the liquidity to
+[14:57] build uh more more complex Financial
+[15:00] contracts whereas on Smart contract
+[15:02] change they tackle the problem uh
+[15:05] backwards where they try first to
+[15:09] develop utility for financial contracts
+[15:12] and Sly D and thereafter they notice
+[15:14] that ah doesn't seem to work well
+[15:17] because our underlying token is not
+[15:19] really money by the way so yeah let's
+[15:21] wrap Bitcoin which is real money on our
+[15:23] Network in order to be able to do uh
+[15:26] more interesting stuff which is kind
+[15:29] kind of uh an admonition that uh they
+[15:33] didn't tackle the problem in the in the
+[15:35] in the correct
+[15:37] order H how will that look on a Bitcoin
+[15:41] standard do you imagine some some uh
+[15:44] money markets native on bitcoin some
+[15:47] money uh things natively on bitcoin
+[15:49] maybe even like a stock market natively
+[15:51] on on bitcoin how do you see that in the
+[15:53] future oh I'm sure about that um I even
+[15:56] wrote an article for um
+[15:59] BTC which is a Bitcoin only Venture
+[16:03] Capital fund created by Alan farington
+[16:06] and other
+[16:07] bitcoiners um where I explain exactly
+[16:10] this kind of construct which I call
+[16:12] Bitcoin money market fund and my thesis
+[16:14] is that it's one of the way we will get
+[16:17] uh toward the Bitcoin standard because
+[16:19] it's a way in which Bitcoin is poised to
+[16:23] monetize some asset classes especially
+[16:26] fixed income because uh the kind kind of
+[16:29] um value that are seeking like fixed
+[16:32] income investors um is not quite
+[16:35] addressable with Bitcoin right now even
+[16:37] though like what Michael Sor doing could
+[16:39] be a good counter example to to to that
+[16:43] but in the sense that most F income
+[16:45] investor are thinking like stability
+[16:48] with uh higher than inflation returns
+[16:52] and really low risk which is something
+[16:55] that is better delivered with uh this
+[16:58] kind of imaginary construct I put forth
+[17:01] a Bitcoin money market fund than with
+[17:03] Bitcoin uh than with being long Bitcoin
+[17:06] itself in maybe like for example five to
+[17:08] 10 years when uh volatility will be much
+[17:12] lower in Bitcoin I would have a
+[17:14] different opinion but to bridge the gap
+[17:16] to go from where we are now to there I
+[17:19] think there is a compelling argument to
+[17:21] make that Bitcoin could monetize in
+[17:24] different ways some people would like to
+[17:28] hold bitco coin uh um directly because I
+[17:31] understand that yeah the returns are
+[17:33] really worth the volatility um and some
+[17:37] others that maybe are not Bitcoin or for
+[17:39] example you can imagine for example a
+[17:41] big Pension funds that has a a huge
+[17:43] liability problem especially in Europe
+[17:45] for example because of demographics low
+[17:47] growth and stuff like that unable to get
+[17:49] the returns it needs on the fixed income
+[17:51] Market just tapping into this kind of
+[17:54] fixed income Market on bitcoin to get
+[17:56] the desired return so they don't NE
+[17:58] necessarily need to like Bitcoin or
+[18:00] being or or being bitcoiners but the
+[18:03] incent incentive structure is such that
+[18:06] in my opinion they will do it at at some
+[18:09] point another another example could be
+[18:11] like sanction countries if you have for
+[18:13] if you are for example gas prom one of
+[18:15] the biggest uh company in Russia which
+[18:18] is like a partly state owned uh Gas and
+[18:23] energy company uh they have like um
+[18:26] Financial dealings and operations uh
+[18:28] across the world in different currencies
+[18:31] with bank accounts across the world but
+[18:33] now there there are sanctions because of
+[18:34] the the war in in Russia and the
+[18:37] sanction we we we enforced on on Russia
+[18:40] on Russian residents and Russian
+[18:42] companies and so if I were for example
+[18:45] um um CFO at gas prom uh I could totally
+[18:50] like try to convince my board that yeah
+[18:53] uh the safest way we have to hold
+[18:55] dollars now is hold some kind of proxy
+[18:59] in the Bitcoin money market fund because
+[19:01] that way um the Federal Reserve the dog
+[19:05] and any other uh Western institution
+[19:08] cannot prevent us from using it
+[19:10] especially in international trade uh and
+[19:14] uh funnily enough this is kind of what
+[19:18] Putin said recently in an interview
+[19:21] where he demonstrated that he kind of
+[19:25] gets Bitcoin in the sense that it's
+[19:27] censorship resistant it's not going away
+[19:29] and so people we will will use it
+[19:33] because they have use for it um so yeah
+[19:37] um I I sorry I I forgot your qu your
+[19:40] initial question my initial question was
+[19:43] just about uh how the money market fund
+[19:46] stock market all the financial system
+[19:48] will look like on a Bitcoin standup yeah
+[19:51] and also so I think like you will have
+[19:54] this kind of construct but as we get
+[19:56] closer to hyperbitcoinization
+[19:58] I think they will slowly fade away for
+[20:01] the simple reason that um most of our
+[20:05] financial system is uh as any Financial
+[20:08] system as we said before is built on
+[20:09] money and our current fat money is also
+[20:12] built on the promise of inflation so
+[20:15] that's a reason why we have so many
+[20:17] fixed income instruments so much debt uh
+[20:20] and so little in in some sense some
+[20:23] little direct Equity Holdings from
+[20:26] people uh uh uh Incorporated
+[20:29] and as uh many other bitcoiners for
+[20:33] example the I think the most well known
+[20:35] for this position being save damus um I
+[20:38] think that Bitcoin adoption will create
+[20:41] some kind of re
+[20:44] equitization uh of the economy whereby
+[20:46] people will be slowly decentivize
+[20:49] to uh take on more depths and to uh
+[20:53] issue debt because it will be quite a
+[20:55] dangerous proposition to issue debt
+[20:57] under on Bitcoin standard but if I want
+[21:01] to have like some exposure to a business
+[21:04] because I believe in the the the
+[21:06] business model the entrepreneur whatever
+[21:09] um it would be a better bargain for me
+[21:11] to just be a direct Equity investor
+[21:13] because that way I have basically the
+[21:15] same downside because either the company
+[21:17] fails and it won't be able to to
+[21:20] reimburse uh debts in Bitcoin or it
+[21:22] succeeds and then I also get a share of
+[21:25] The Upside and not a fixed return uh um
+[21:29] the fixed return I would get with fixed
+[21:31] income instrument so in N like changing
+[21:35] the incentives change the behaviors of
+[21:37] financial uh Market participants uh and
+[21:40] especially issuers uh and I because they
+[21:43] have to CER to to what uh uh investors
+[21:46] demand and I don't see investor
+[21:49] demanding that much fixed income on a
+[21:51] Bitcoin standard so that would be that
+[21:54] and also I think regarding like the
+[21:57] stock market that at some point we will
+[22:00] have like uh stocks denominated in
+[22:03] Bitcoin balance sheets uh with Bitcoin
+[22:05] AI uh at our company at bu Bitcoin
+[22:08] that's already how internally we do
+[22:11] financial analysis like we don't care
+[22:14] like what's our uh growth margin in fat
+[22:18] what's our cash flow in fat we don't
+[22:20] care about that we only uh try to
+[22:22] measure how effective we are at uh
+[22:26] investing capital in order to get
+[22:27] Bitcoin return returns and obviously
+[22:30] being able to bit uh just a long idle
+[22:34] position in Bitcoin and regarding the
+[22:37] trading of stock itself I also think
+[22:40] that uh maybe some construct on top of
+[22:43] Bitcoin some stuff like side chain like
+[22:45] liquid can help clean uh uh the current
+[22:49] market structure because now um uh like
+[22:53] to to to to try to convey my point you
+[22:56] have to understand that when you trade
+[22:58] Securities now they are listed on a
+[23:00] specific exchange like for example the
+[23:02] New York Stock Exchange and everything
+[23:04] is cleared centrally at this institution
+[23:08] and
+[23:09] that's basically that's open the way to
+[23:12] stuff like high frequency trading
+[23:15] whereby the closer to uh the settlement
+[23:18] layer the settlement server you are um
+[23:22] the better you are able to front run
+[23:24] other Traders and basically taxing them
+[23:28] for or uh nothing uh and living upon uh
+[23:33] like uh the value created in the economy
+[23:36] that's contributing to nothing whereas
+[23:39] if for example uh you have a settlement
+[23:42] that is done uh through a side chain for
+[23:44] example as liquid with maybe also
+[23:47] confidential transaction and stuff like
+[23:49] that this kind of free rider Behavior
+[23:53] are not possible anymore so marginally
+[23:56] speaking uh there are this kind of of
+[23:58] perks that we can unlock once we get uh
+[24:02] a good money uh with uh uh the pro we
+[24:07] can leverage its native programability
+[24:10] to build like financial markets that are
+[24:14] like better in the sense that incentives
+[24:17] are better align uh between like issuers
+[24:21] Traders uh regulators and stuff like
+[24:24] that that's super interesting uh
+[24:27] especially when we think about
+[24:29] uh how the world looks on a Bitcoin
+[24:31] standard and I think that will be really
+[24:33] uh interesting to see but you said you
+[24:36] also in the company bull Bitcoin um you
+[24:40] measure your success in in Bitcoin so
+[24:44] you measure the revenue in Bitcoin you
+[24:46] measure when you do Investments how many
+[24:49] Bitcoins put did you put in how much how
+[24:51] many Bitcoin you get got out like how
+[24:53] how do you do that so basically we do
+[24:56] like normal accounting like regular
+[24:58] accounting but we also um like um
+[25:03] express it in Bitcoin like it's just a
+[25:05] different spreadsheet you know basically
+[25:07] um and you don't see this thing uh
+[25:10] through the same lens because for
+[25:12] example if we were not good at our job
+[25:16] um we could like just have growing
+[25:18] revenues because bitcoin price is
+[25:21] ripping you know uh and whereas when you
+[25:25] measure it in Bitcoin you are truly um
+[25:29] measuring uh your own ability to
+[25:32] allocate Capital uh properly in order to
+[25:35] get return because like it's it's so
+[25:38] easy to to to beat the hurdle rate of
+[25:41] fat in some sense just buy stock and go
+[25:43] to the beach you know like just buy an
+[25:46] S&P 500 ETF and go to the beach and
+[25:48] that's the core reason why our economy
+[25:50] is broken and so kind of our way through
+[25:55] because we are all kind of on a coin
+[25:58] standard uh in the company we understand
+[26:01] that uh it's not satisfactory to only
+[26:04] measure our success in this uh stupid uh
+[26:07] measure system and so we also try to um
+[26:12] look at it uh that way and it the way
+[26:18] you can understand it is like if for
+[26:21] example we decide to invest uh uh uh
+[26:23] money to develop a new product line um
+[26:27] we will measure the success of this
+[26:29] product line uh very simply by saying
+[26:33] like we invested uh uh that many Bitcoin
+[26:37] uh uh to develop it and then uh it it
+[26:41] hit the market uh maybe we had customers
+[26:44] because they like it and we generate
+[26:46] revenue and if in the long run the
+[26:49] revenue exceeds our cost in Bitcoin
+[26:51] terms it was a good use of capital if uh
+[26:54] it's not it was not a good use of
+[26:56] capital and so it gets you back to
+[26:59] economic calculation which is basically
+[27:01] the essence uh of capitalism and why it
+[27:04] works and um even at the micro level of
+[27:08] a company I think it's really help you
+[27:12] st your company towards way better
+[27:14] decision making because uh in some sense
+[27:18] you won't um dilapidate your Capital uh
+[27:22] uh that easily on frivolous useless
+[27:24] thing each time you make a decision uh
+[27:28] you really think hard about like what's
+[27:30] the opportunity cost what's are what are
+[27:32] the risk what could we do that is better
+[27:35] with uh these Bitcoins and it totally
+[27:38] changed the way you operate as a capital
+[27:40] allocator it definitely will change a
+[27:43] lot and it's also interesting for me
+[27:45] because this year is the first time
+[27:46] where I get paid in bit first year where
+[27:48] I get it paid in Bitcoin uh and it is
+[27:53] probably frustrating to see uh how
+[27:57] little your Reven Rue will grow in
+[28:00] Bitcoin terms because you really have to
+[28:03] level up your game massively to get more
+[28:07] paid in the in the next year than the
+[28:09] previous year uh so that will be really
+[28:12] interesting and that is probably also uh
+[28:15] interesting for a company to see as a
+[28:17] motivator like oh I I want to beat the
+[28:19] Bitcoin income uh if if you just measure
+[28:23] it in US dollar yeah of course you can
+[28:25] like you you probably grow your income
+[28:27] if if you have the same dollar Revenue
+[28:31] this year than last year you lost but if
+[28:34] you have the same Bitcoin income than
+[28:36] last year that's quite good like that
+[28:39] that's some that's like twox in in US
+[28:41] Dollars basic basically that's a really
+[28:44] good uh success story but in Bitcoin
+[28:47] terms you like you have to really look
+[28:48] at how many STS are you getting per
+[28:50] month uh and is is that the same amount
+[28:54] or more than you got a year ago it's an
+[28:58] interesting uh using Bitcoin as a
+[29:01] unitive account is kind of a
+[29:03] superpower uh to to your company and you
+[29:05] also to your personal life like just
+[29:08] even if you don't get paid in Bitcoin
+[29:09] you can convert it directly into Bitcoin
+[29:12] or at least the the amount that you
+[29:14] don't need and see like okay the amount
+[29:17] that I don't need on a monthly basis
+[29:19] that I can directly uh exchange for
+[29:21] Bitcoin what is that in Bitcoin terms
+[29:24] and is that amount growing or shrinking
+[29:27] uh in in in satosi I think that's a
+[29:29] really interesting way to look at it and
+[29:32] it's probably really motivating for
+[29:34] people to think about that and it makes
+[29:37] makes me think of two things like um
+[29:40] it's a good example because it also
+[29:42] shows you that there we can like explain
+[29:46] uh Bitcoin growth in price by two
+[29:49] Dynamics uh the first one being like
+[29:52] it's just less inflationary so it's
+[29:54] better money it's better at holding
+[29:56] purchasing power uh over over time and
+[29:59] but also it's an adoption like uh it's
+[30:03] it's it follows like the the classical
+[30:05] like s adoption curve technology uh if
+[30:08] you look for example uh at the number of
+[30:12] nonzero addresses on the blockchain and
+[30:14] you compare it like to different
+[30:16] Technologies and stuff like that you
+[30:17] will see like this kind of exponential
+[30:20] growth and as more people use Bitcoin it
+[30:23] also gains value because it's a network
+[30:25] good so the more people use it the
+[30:28] better utility you have for it as money
+[30:31] as a spending tool as a unit of account
+[30:33] and stuff like that so of course because
+[30:36] we are in the early days still I I guess
+[30:39] um this kind of adoption is quite stiff
+[30:42] and it's for for like like just an just
+[30:46] employees for example it's it's really
+[30:48] difficult to grow your your cash flow
+[30:50] and productivity uh as fast as uh the
+[30:54] adoption but uh once we reach
+[30:58] larger uh uh adoption um of course the
+[31:02] rate of return will slow and I think it
+[31:04] will be easier to achieve what you
+[31:07] described and the other thing uh I
+[31:09] wanted to add is that basically what you
+[31:12] described is a COR is a coral of uh
+[31:15] economic calculation but uh for like
+[31:18] employees incentives and career
+[31:20] management and stuff like that and I
+[31:23] think um Bitcoin companies at least ADB
+[31:27] Bitcoin we are finding out that
+[31:29] operating on the Bitcoin standard also
+[31:32] change a little bit the way we think
+[31:35] about like uh uh employee employers
+[31:38] relationship about like incentives and
+[31:41] fixed salaries and stuff like that for
+[31:44] example um I think like many people will
+[31:48] like having like a a like a salary
+[31:52] expressed in Fiat um and as you
+[31:56] mentioned the down side of that is that
+[31:59] like especially during bull market they
+[32:01] will get less Bitcoin each month uh um
+[32:05] with the same fat salary but they could
+[32:08] also like if they are talented if like
+[32:11] they're really needed by the company
+[32:13] they could also leverage uh this
+[32:16] position to ask for bonuses uh directly
+[32:19] in Bitcoin or for an investment on uh
+[32:22] revenues and stuff like that and in that
+[32:25] sense uh your wealth is also Al growing
+[32:28] with the company so as long as the
+[32:30] company does a good job to earn return
+[32:33] on bitcoin as we mentioned before and as
+[32:36] long as you are really providing value
+[32:38] that is difficult to replace to your own
+[32:39] company it's something that you will be
+[32:41] able to monetize uh for yourself and
+[32:44] gets more sets out of it I partnered up
+[32:47] with coin vigilante this is the most
+[32:50] beautiful Bitcoin time piece that I ever
+[32:53] saw created by anyone look at that
+[32:56] beauty I love it so much coin vigilante
+[32:59] made and perfect Bitcoin watch that's
+[33:02] the perfect subtle elegent way to go out
+[33:05] there and show that you are a bitcoiner
+[33:08] and that watch brand is Bitcoin only and
+[33:11] coin vigilante just dropped a completely
+[33:14] new and amazing Genesis edition of their
+[33:18] watch collections you have the date of
+[33:20] the first ever Mind Bitcoin Block in
+[33:23] there and of course also the block
+[33:25] height and which aepo we are currently
+[33:28] in I love the level of detail they put
+[33:31] in in this masterpiece and make sure to
+[33:34] check out those amazing coin vigilante
+[33:37] time pieces down in the descriptions I
+[33:40] love those watches so so much if you
+[33:43] watch or listen to my podcast on a
+[33:45] regular basis I'll guess you already
+[33:47] bought some Bitcoin and now the most
+[33:50] important step is to keep the Bitcoin
+[33:53] keep them secure in a hardware wallet my
+[33:56] personal recommendation for Hardware
+[33:57] wallet is the bitbox it's super secure
+[34:00] it's simple to set up it's also perfect
+[34:02] gift for a friend who has still the
+[34:04] Bitcoin on an exchange and you can get a
+[34:07] 5% discount with the code Robin at the
+[34:11] checkout visit bitbox
+[34:13] do/ robobin to get your bitbox and the
+[34:17] next step is to really level up your
+[34:19] sovereignty as an individual you have to
+[34:22] have the most secure self custody setup
+[34:25] you have to secure your own devices you
+[34:28] have to protect your privacy you have to
+[34:30] set up an inheritance plan and depending
+[34:33] on where you live you even want to have
+[34:35] a plan B a citizenship where you can
+[34:38] move in case something goes really
+[34:40] really wrong and through all those steps
+[34:42] the Bitcoin way is guiding you through
+[34:45] step by step and if you visit the
+[34:47] Bitcoin way.com SLP Partners robobin you
+[34:51] even get a 30 minute free call to find
+[34:54] out how you can level up your
+[34:56] sovereignty
+[34:58] absolutely and we We should strive to
+[35:00] get more
+[35:01] sets really cool um what are your
+[35:04] thoughts on on this year it has been
+[35:06] crazy uh this this episode is really
+[35:08] close to to the end of the year already
+[35:12] uh I I can only recap really quickly
+[35:15] with like ETF Haring 100K Trump is like
+[35:18] the the four four highlights that I see
+[35:21] right now what are some of your
+[35:23] highlights this year and uh yeah uh how
+[35:26] did you see this year
+[35:28] so yeah a lot of things happened this
+[35:31] year I would also maybe like mention uh
+[35:34] sailor going like full uh Steam on its
+[35:39] speculative attack maybe also like as we
+[35:43] we discussed before uh the comments of
+[35:46] certain head of States especially Putin
+[35:48] like that like just change the Overton
+[35:52] window regarding Bitcoin and maybe also
+[35:56] uh what happened with uh the samurai
+[35:59] developers uh which is in my opinion
+[36:02] really important uh for the future of
+[36:04] Bitcoin and open software in general and
+[36:07] maybe lastly also like the the the
+[36:10] generally speaking the macro situation
+[36:12] with like uh the word clearly uh
+[36:16] breaking into two poles um and one way
+[36:22] to look at that it's like it's the
+[36:23] perfect environment for Bitcoin because
+[36:26] um first as you mentioned we have like
+[36:29] the like richest and most powerful
+[36:32] country in the world uh um just like
+[36:36] signaling that they will uh uh get as
+[36:39] many Bitcoin as they can as fast as they
+[36:41] can which uh kind of trigger the whole
+[36:45] game theory about nation states some a
+[36:49] topic that has been discussed in Bitcoin
+[36:51] circles for years um and that always
+[36:55] seemed uh kind of pie in the
+[36:58] sky for Outsiders like many people I
+[37:01] Tred to to explain this this idea that
+[37:04] once uh like large uh uh nation states
+[37:09] with like vibrant
+[37:11] economies and and and strong
+[37:14] geopolitical influence do that it will
+[37:16] kind of Tri it will trigger the kind of
+[37:18] fomo we cannot imagine uh with the kind
+[37:21] of money that is difficult to grasp um
+[37:25] and it's funny because as we are
+[37:27] recording ing this just yesterday I saw
+[37:30] some um German um parliamentary uh in
+[37:35] the Bund tag uh uh just saying what are
+[37:39] we doing in Europe we should uh um like
+[37:42] follow the the us because if they do
+[37:45] that and we we we are left behind as uh
+[37:49] we were with internet with AI with so
+[37:52] many technological Revolution uh we will
+[37:56] um basically uh just seal Our Fate as an
+[38:00] open an open air
+[38:02] museum like in in some sense like Europe
+[38:05] is becoming like what what Venice was uh
+[38:08] when the center of the world was
+[38:10] shifting from Renaissance cities to
+[38:13] Amsterdam for example or to the New
+[38:15] World um and at exactly the same time in
+[38:19] France we had uh uh so not in France in
+[38:22] the European Parliament some French uh
+[38:25] uh uh political leader uh Sak nafo gave
+[38:29] quite a good speech uh um expressing the
+[38:32] same ideas so you really see that like
+[38:36] what uh uh Cal Lumis and Trump uh
+[38:40] discussed and announced in the US is
+[38:43] kind of uh triggering a lot of reactions
+[38:46] and yeah it will be really really really
+[38:49] uh I think fun to see uh and uh in
+[38:53] 2025 and regarding uh like my Michael
+[38:57] sailor the ETF and all that that stuff
+[39:01] it has been commented a lot so I won't
+[39:03] add anything quite new but I think first
+[39:07] it will warm up a lot of different folks
+[39:10] to the idea of a speculative attack um
+[39:14] I've long uh tried to i' I spent quite
+[39:17] some time Tred to guess who would be the
+[39:20] next micro saor I've uh I'm leaning
+[39:24] towards L lison and orle um
+[39:28] um first because it's a company I know
+[39:30] well because I work for them but also
+[39:32] because it's one of the only large
+[39:35] technological company in the world where
+[39:38] the founders still have a lot of control
+[39:41] uh on the company because he still
+[39:44] almost majority sholder I think he owns
+[39:46] like 40 41% of the company uh also the
+[39:49] guy is crazy so it's is in the sense
+[39:52] that he's able to think out of the box
+[39:55] uh he's a mentor of Elon Musk so maybe
+[39:57] there is something happening something
+[39:59] will happen in the personal relationship
+[40:01] here and um and Oracle is basically
+[40:05] generating cash like few company are
+[40:08] able to do it and they are always buying
+[40:11] back their stocks they have been doing
+[40:12] that for years and years and years uh
+[40:15] only I think like I I calculated
+[40:17] recently I think over like only the the
+[40:20] like last three years they bought back
+[40:22] uh um something like $80 billion of
+[40:26] their own stock which is is a kind of
+[40:28] ludicrous amount um and it's a company
+[40:31] that also have little Avenue for
+[40:33] investment to grow because
+[40:36] uh in some sense they are R Seekers you
+[40:39] know like they live on software that
+[40:41] they have licensed uh uh decades ago and
+[40:44] that it's like basically impossible to
+[40:46] to to not use as a company and they are
+[40:51] quite bad at competing with like other
+[40:55] companies on different like line of
+[40:56] product
+[40:58] um and so yeah getting back to the ETF
+[41:01] and stuff like that I think also like um
+[41:05] I hope it warms uh uh some people up to
+[41:08] the the dangers of uh centralized cion
+[41:12] because as we speak like coinbase
+[41:15] custody is uh holding the keys of
+[41:17] something like 12 133% of all the
+[41:22] Bitcoin uh uh uh Supply and I would um I
+[41:29] I'm not quite comfortable with that like
+[41:32] um it's not it's not me saying like what
+[41:35] like ZF are bad like Michael sailor is
+[41:38] bad and stuff like that um it's not me
+[41:41] saying they should uh taking self
+[41:43] custody because at the company level and
+[41:46] when you are when you have the kind of
+[41:48] mandate that you have when you are an
+[41:50] asset manager issuing ETFs it's really
+[41:53] difficult to do if not impossible but um
+[41:57] at least um I think uh it should wake
+[42:02] some people up to the importance of self
+[42:05] custody which which is something really
+[42:08] dear to us at Bull Bitcoin because at
+[42:11] the end of the day if we understand that
+[42:13] the purpose of Bitcoin is separating
+[42:14] money from States um if we replay Gold's
+[42:19] story through basically the 15th to 20th
+[42:23] century meaning that uh for practical
+[42:26] reasons we decide to give it to
+[42:29] custodians uh because it's just easier
+[42:31] for us then it could also became
+[42:34] captured in some way shape or form maybe
+[42:37] to not to the the same extent than gold
+[42:40] was but it surely will and I can really
+[42:44] see a kind of um like bad future uh and
+[42:51] like a sad future in which like uh
+[42:54] Bitcoin became adopted really really
+[42:57] quickly uh by people just here to for
+[43:01] the fat games and getting exposure
+[43:04] through micro strategy ETFs and stuff
+[43:07] like that thus increasing the Holdings
+[43:09] of coinbase and then some like
+[43:12] government institution stuff like that
+[43:14] just like saying okay now you will
+[43:16] create you will just create a settlement
+[43:18] system centralized settlement system on
+[43:21] on top of that you will give us access
+[43:23] you will give us censorship rights and
+[43:25] stuff like that and
+[43:27] then like maybe some uh of us because we
+[43:32] hold Bitcoin directly in self custody we
+[43:34] know how to interact with the network to
+[43:36] use it properly we can have some uh
+[43:38] Financial sovereignty but uh for most of
+[43:42] uh um the world population it won't be
+[43:45] that way and in that scenario I think we
+[43:50] failed interesting so like in that
+[43:53] scenario you think uh Bitcoin will fail
+[43:57] Bitcoin and also bitcoiners because um
+[44:01] to it's only my opinion but to me it's
+[44:04] our job also to um kind of warn about
+[44:09] these kind of dangers
+[44:12] and at the moment some of us are are
+[44:15] speaking them their minds about it uh
+[44:18] some more than others but the large
+[44:21] majority of people describing themselves
+[44:23] as bitcoiners are just cheering up for
+[44:26] numbers go up
+[44:27] um and I think that at the end of the
+[44:31] day if the uh the dystopian scenario I
+[44:34] described plays out uh we will have some
+[44:37] part of
+[44:39] responsibility um but I mean like it's
+[44:43] not it's not a fatality of course uh
+[44:46] many thing can change um but
+[44:50] um maybe this will be understood the
+[44:54] wrong way but in some sense um
+[44:57] I will not cry if for
+[45:00] example one of these institutions be
+[45:04] micro strategy or ibits or Arc I don't
+[45:08] care gets rug pull soon by coinbase like
+[45:11] because it could like in in my
+[45:15] experience people uh understand danger
+[45:19] when they get hurt and just saying to
+[45:22] people yeah it's kind of dangerous to
+[45:25] create that
+[45:27] such a
+[45:28] Honeypot uh but once you get hacked or
+[45:31] rped or stolen or censored out of your
+[45:35] your Holdings or stuff like that it
+[45:37] becomes way more practical and and
+[45:39] obvious to you um so yeah could also
+[45:43] change the way we think about this stuff
+[45:47] interesting and also what you uh
+[45:49] described earlier is super interesting
+[45:52] kind of the kickoff of the global Game
+[45:55] Theory um americ am I think uh probably
+[45:59] moves really good now into Bitcoin let's
+[46:01] see what Trump actually does um we have
+[46:04] smaller States like bhan El Salvador um
+[46:07] which is interesting to see but not as
+[46:11] important uh of course because of the
+[46:13] size as Europe or America moving in a
+[46:17] big way but they're not moving that fast
+[46:20] um now as you described
+[46:24] the the the finance min minister of
+[46:27] Germany that was the Finance Minister
+[46:29] for the last four years yesterday
+[46:32] literally was his last year last day of
+[46:35] being a finance minister all of the
+[46:37] sudden he he discovers Bitcoin and talks
+[46:41] about Bitcoin uh he had now four years
+[46:44] the chance as the finance minister of
+[46:46] Germany to make something with Bitcoin
+[46:48] and do something about it um but he but
+[46:52] he didn't uh and also the 50k Bitcoin
+[46:55] got sold I know it's not on a Germany
+[46:58] level it was like a Saxony level so it
+[47:01] was like on a smaller level but still uh
+[47:04] I think the Finance Minister probably
+[47:06] has some influence also there uh and now
+[47:11] all of the sudden Bitcoin hits 100,000
+[47:13] in Euros uh now all of a sudden he is no
+[47:16] longer into office now he talks about
+[47:19] Bitcoin H it's it's it's funny how how
+[47:22] this works uh but yeah I I do have hope
+[47:25] for for Europe uh to also kick off the
+[47:28] global Game Theory uh because I would
+[47:31] like for Europe to have a lot of Bitcoin
+[47:33] and not just Russia uee America like
+[47:37] Europe should not completely
+[47:39] sleep on on that on that Trend and uh I
+[47:45] yeah I excuse me I agree with you with
+[47:48] some caveat like I'm more interested in
+[47:51] European plebs getting Bitcoin whereas
+[47:56] um what what's happening right now is
+[47:58] that like our political leaders are fing
+[48:00] and starting to understand that they
+[48:02] will be left behind if they don't wake
+[48:04] up uh but I don't see that quite uh in
+[48:09] the general
+[48:10] population uhe at least in France in my
+[48:13] home country I don't know how the
+[48:15] situation is in different European
+[48:18] countries uh and I think like there is a
+[48:23] case to be made that uh like coin is
+[48:27] like open to everyone something like uh
+[48:31] it levels the playing field between like
+[48:33] individuals and and structures of power
+[48:36] and So like um it would be better in my
+[48:40] mind if um there are like many
+[48:44] individual and Corporation holding
+[48:47] Bitcoin uh when we reach the point where
+[48:50] uh country are really uh stockpiling
+[48:55] Bitcoin for strategical reserves and
+[48:57] stuff like that yeah absolutely and uh
+[49:00] actually what a small small tweet about
+[49:03] that the other day when micro strategy
+[49:06] didn't buy uh the Bitcoin and I
+[49:09] basically said like oh it's good news we
+[49:11] we we want to have Bitcoin and not the
+[49:13] uh big corporations they they don't need
+[49:16] Bitcoin and in the same sense is a good
+[49:18] news of uh Germany selling the Bitcoin
+[49:22] and not holding on to them um the one
+[49:25] thing I will say about that is
+[49:27] it it shows a little bit of what the
+[49:31] overall adoption rate is how politicians
+[49:34] St talk to certain extent um not always
+[49:39] uh and Canada is probably also a good
+[49:41] example where politicians are really not
+[49:44] liking uh um Bitcoin but there's there's
+[49:49] a I think there's a shift coming in in
+[49:50] Canada especially the next next year it
+[49:53] it depends if you look for example PV
+[49:56] yeah has uh spoken highly about Bitcoin
+[49:59] in the past uh he seems to get it at
+[50:03] least to some extent um so yeah things
+[50:06] may might change and also I would add
+[50:10] like I think there is some uh overlooked
+[50:13] quite overlooked region in the world
+[50:15] where um the line will shift uh in a big
+[50:20] way over the the the rest of the decade
+[50:24] which is the whole axis uh between
+[50:28] basically Istanbul and Jakarta so the
+[50:33] Indian Ocean like India Indonesia the
+[50:36] south of China uh the Middle East
+[50:40] aaban uh all these countries like they
+[50:44] have like on average like 10% growth
+[50:47] they are like creating a new middle
+[50:50] class uh in about 10 years they they
+[50:53] will uh have the kind of the the the the
+[50:57] the same purchasing power as uh some
+[51:00] small Western uh uh economies
+[51:04] and the fact is that financial
+[51:06] institutions there are really bad that
+[51:09] people have a culture of not relying on
+[51:11] government because uh of their past
+[51:14] experience and so and they all have
+[51:18] smartphones they all they are all eager
+[51:20] to adopt new technology um and they they
+[51:23] are not like work like they they they
+[51:26] really we are driven towards like uh the
+[51:30] kind of materialism that we had like
+[51:33] couple of decades in Europe where they
+[51:35] want like a better way of life a better
+[51:39] fin Financial standing better material
+[51:42] conditions for their family and stuff
+[51:44] like that so I could also make the case
+[51:46] that a lot of uh um adoption on the
+[51:50] ground will happen there and also I
+[51:52] should have mentioned that at the
+[51:54] beginning we are talking four billion
+[51:56] people
+[51:57] um so uh in terms of like getting
+[52:01] Bitcoin in the hands of people uh I
+[52:05] think that's the most untapped uh uh um
+[52:08] uh um uh reservoir of potential plebs uh
+[52:13] especially also because most of these
+[52:17] most of the national currencies in those
+[52:19] countries are terrible if you look at
+[52:21] Turkey for example I think there are
+[52:24] many bitcoiners there and most stat
+[52:26] statistics show that which can also
+[52:29] really easily be explained by the fact
+[52:32] that the the Turkish L excuse me is one
+[52:35] of the the biggest cheit coin out there
+[52:38] and there are already a lot of mechanism
+[52:40] for financial reparation in jky uh which
+[52:43] is to me the best environment possible
+[52:46] if you want your population to adopt
+[52:48] Bitcoin because uh it's just outline its
+[52:52] value interesting is is 2024 kind of the
+[52:55] start
+[52:57] for uh the official start of global game
+[52:59] theory for nation state adoption uh do
+[53:01] you do you see that like that
+[53:05] um yeah maybe um maybe also it all
+[53:08] depends on the US because all we are
+[53:10] discussing uh starts there it's like
+[53:13] this kind of uh domino effect of Lumis
+[53:17] and Trump getting together and saying
+[53:18] yeah we will do that uh what happens if
+[53:21] they don't do it what happens if they do
+[53:25] it but
+[53:27] I mean it's the government you know like
+[53:30] if for example they do it like let's say
+[53:32] they buy like one million coin at they
+[53:34] they said they as they
+[53:37] propose in the law uh over the next 18
+[53:41] months then they get a financial crisis
+[53:44] for some reason and they decide to sell
+[53:46] it all to rescue financial institution
+[53:49] to pay the debt to do whatever
+[53:51] politician are always doing uh I mean
+[53:55] what happens with like uh the country
+[53:58] that have fod with them will they line
+[54:01] and also sell what what will they do I
+[54:03] don't know uh and I think like it's it's
+[54:07] it's like game theory is dynamic you
+[54:10] know like uh you could also like imagine
+[54:14] that if for example like all the West uh
+[54:18] follow suit with the us and that for
+[54:21] example like a large chunk of the
+[54:23] Bitcoin Supply uh ends up in the ends of
+[54:28] like uh uh Western ETFs Corporation such
+[54:32] as micro strategy and sine state in the
+[54:35] west how the East will react as we
+[54:37] mentioned at the beginning um we are
+[54:41] gearing up toward a different world
+[54:43] order um
+[54:45] with I think an obvious break from uh
+[54:49] the the the world we we used to live in
+[54:54] especially with the bricks forming their
+[54:56] own Camp uh how will they react uh in
+[55:00] this scenario and also like they have
+[55:04] spend they have been spending like 20
+[55:06] years to try to get out of the dollar uh
+[55:09] of the US dollar and doing like Summit
+[55:12] of summit of summit discussing like yeah
+[55:14] let's use Yuan let's use rimbi let's use
+[55:17] rupe but at the end of the day they are
+[55:19] just like rediscovering the the problem
+[55:22] of double coincidence of want uh because
+[55:25] they are essentially proposing using
+[55:28] like um some money so debt from oine to
+[55:33] clear Deb with another sine which I mean
+[55:37] like the Indians will never accept using
+[55:39] Chinese money um so for example but you
+[55:43] could you could use many different
+[55:45] examples um if they try to settle in
+[55:47] Gold it will be logistical nightmare to
+[55:50] just do clearance in Gold uh and uh in
+[55:53] the same way then uh the Indians won't
+[55:56] accept using Yuan they won't never trust
+[55:59] they will never trust the sh the Chinese
+[56:02] uh uh for like gold certificates or or
+[56:06] or or to to just believe that the gold
+[56:08] is indeed there um so maybe there are
+[56:13] they have more reasons than Western
+[56:16] countries to use Bitcoin as uh an
+[56:21] instrument for international trade and
+[56:23] then you also have the idea
+[56:27] that the way our supply chains are right
+[56:30] now for all the talks about fren shuring
+[56:33] and stuff like that we still need some
+[56:36] trade between the East and the west and
+[56:39] how will they uh exchange value like
+[56:44] through the US dollar in Swift I don't
+[56:46] see the Russian doing that anymore
+[56:48] neither will the Chinese maybe the
+[56:51] Indians because they play on both fronts
+[56:54] but uh I think like if like some like
+[56:59] French Corporation for example needs to
+[57:01] trade with like China or Iran or Brazil
+[57:05] or I don't know or Russia or Bitcoin is
+[57:08] the best tool to do that and I think uh
+[57:13] that would be even more bullish if we
+[57:16] kind of if we we start seeing this kind
+[57:19] of stuff it will be even more bullish
+[57:21] than a um National strategic Reserve in
+[57:25] the USA for example
+[57:27] interesting what what what do you think
+[57:29] will has to happen
+[57:31] the that the Fiat system is kind of
+[57:34] bending the knee to bitcoin right now I
+[57:38] would say the field system is still like
+[57:41] in control of everything uh and Bitcoin
+[57:43] is just poking small holes into that
+[57:46] that system uh what do you think has to
+[57:49] happen that the field system kind of is
+[57:53] is going to its inevitable uh CR
+[57:56] or do you see feeld system managing over
+[57:59] over long per obviously we we talk about
+[58:02] long periods of times here but uh what
+[58:05] has to happen what events are you
+[58:06] looking at that that could trigger that
+[58:09] so first I think we are really closer
+[58:12] than what to to IT hand than what what
+[58:16] most people think um let's take the Euro
+[58:20] for example uh as we speak now uh my
+[58:24] home country friend uh present presents
+[58:26] with 6 to 7% deficits this is like
+[58:31] completely crazy like it's almost
+[58:33] unheard of uh uh from uh oecd country
+[58:38] outside of a sovereign default like uh
+[58:42] it's the kind of level you had in Greece
+[58:45] and Spain during the the the the debt
+[58:49] crisis in 2010
+[58:51] 2012 um
+[58:54] currently we we we don't have a
+[58:57] government uh like uh president Macon
+[59:01] appointed like um a prime minister uh
+[59:06] two months ago something like that even
+[59:08] less uh it was uh it received a vote of
+[59:11] no confidence from the parliament now we
+[59:14] have another one which is uh not really
+[59:17] popular this is like an old school
+[59:20] politician that like get there through
+[59:23] inera because there is basically nobody
+[59:26] so here at home we we see that our
+[59:31] economy is collapsing we have like we
+[59:33] have hit we just hit a record in
+[59:36] bankruptcy our debt is out of control we
+[59:39] have like uh uh the government expedit
+[59:43] in the GDP are 60% of the GDP so it's
+[59:46] the same level as in the USSR in the 70s
+[59:50] which is kind of crazy uh I think it's
+[59:52] something like 40% for of the working
+[59:56] age population that is working for the
+[59:57] government um we don't have energy
+[60:00] security uh um um and we like the cost
+[60:05] of servicing the debt is getting out of
+[60:07] control uh public services are
+[60:09] collapsing like everything is like
+[60:13] following the you know the gradually
+[60:15] then suddenly pattern like I I I
+[60:19] explained uh in in an article like six
+[60:22] months ago that uh we will will have
+[60:27] this kind of sequence of event of course
+[60:29] I didn't uh uh forecast it that
+[60:32] precisely precisely but um I was still
+[60:36] able and it's not my job you know I was
+[60:38] still able to say okay so we are in that
+[60:41] so it's uh the debt holder that will do
+[60:44] that will uh decide our politics it's
+[60:46] it's like you can go to the to you can
+[60:49] you can vote now if you want but it
+[60:51] won't change anything um we have no
+[60:56] painless way out of this financial
+[60:58] situation and stuff like that and I mean
+[61:02] currently the situation just to explain
+[61:04] to your audience is like France has
+[61:06] decided to live uh Beyond its means for
+[61:09] ideological reason and we are footing
+[61:11] the bills to European other European
+[61:14] countries that are uh less ill managed
+[61:17] uh because of the common currency uh I
+[61:20] don't see uh like the Germans or the
+[61:24] Dutch uh uh access accepting that for
+[61:26] too long uh I don't see a painless way
+[61:31] out of this crisis for France and so I
+[61:34] could make the case that like in three
+[61:36] years time the Euro will be past history
+[61:39] what happens to financial markets what
+[61:41] happens to our economy what happens to
+[61:43] fats what happens to do do we get back
+[61:46] to National monies if like we were to
+[61:49] reintroduce a French national uh money
+[61:52] now it would have like something like
+[61:55] maybe 15 % inflation due to our our
+[61:58] situation uh what how the population
+[62:00] will react will they still ignore
+[62:02] Bitcoin I don't think so how the state
+[62:05] will react they will uh Go full steam
+[62:08] with financial reparation Capital
+[62:10] controls and stuff like that obviously
+[62:12] they will see savings pension plans and
+[62:15] stuff like that so uh if you look at uh
+[62:19] past examples of failing countries
+[62:21] hyperinflation Sovereign default and
+[62:23] stuff like that it's always the same
+[62:25] thing gradually than suddenly and most
+[62:28] people they don't understand it uh
+[62:31] before it's too late and so I think that
+[62:35] um the kind of uh the game theory we are
+[62:39] talking about is more like we are in the
+[62:42] accelerating phase where the fiscal
+[62:45] situation in the west especially and
+[62:48] also in China is so dire like we have so
+[62:52] much debt and so little real
+[62:55] productivity and we have been in this
+[62:57] situation for decades now that we cannot
+[63:00] just kick the can down the road without
+[63:04] implementing real uh um drastic measures
+[63:08] uh and I mean like kind of almost
+[63:10] totalitarian measure whereby you don't
+[63:13] have any Financial uh uh Liberties
+[63:17] anymore and so uh in this context um I
+[63:23] think Bitcoin is a tremendous uh uh exit
+[63:29] uh uh option it's like um like we as
+[63:34] bitcoiners we understand that already
+[63:37] but I could definitely see uh like
+[63:41] adoption just Pi against team in Europe
+[63:43] because of the macroeconomic situation I
+[63:45] just described you know is is it a good
+[63:49] idea to fle when I when I hear that I
+[63:52] really get scared of Europe and the
+[63:54] situation that that is kind of evolving
+[63:58] um should we flee Europe like as as
+[64:01] Bitcoin as is that something that you're
+[64:04] like oh maybe it gets uh um B bad for us
+[64:09] bitcoiners if the Euro crashes and
+[64:11] Bitcoin Rises massively uh government
+[64:15] has to get money somewhere I mean
+[64:16] Bitcoin is probably the hardest place to
+[64:18] to get money out it's probably easier to
+[64:20] get it out of houses and real estate
+[64:22] taxes and and and Pension funds and all
+[64:26] those things uh but but are you afraid
+[64:29] of of of being living in Europe as you
+[64:31] live in France not really and I would
+[64:33] say to answer your previous question it
+[64:35] depends on your situation uh if you are
+[64:39] married you have kids and stuff like
+[64:41] that which is not my case um yeah maybe
+[64:44] leing is a good idea because anyway like
+[64:49] like even if things gets better uh it
+[64:52] will have to get way worse before
+[64:56] um and so I don't I'm not sure it's like
+[65:00] the best thing currently for example to
+[65:03] raise the child in France uh just look
+[65:05] at our educational system like it has
+[65:09] becoming a machine for uh uh churning
+[65:12] out like morons uh uh totally
+[65:16] ideologically brainwashed by like work
+[65:19] culture and neomarxism
+[65:21] um if you are young uh and you can like
+[65:26] uh experience Financial sovereignty
+[65:29] because you know how to hold and use
+[65:31] Bitcoin um uh in
+[65:35] Europe um my advice would be to stay and
+[65:38] fight because at the end of the day um
+[65:42] it's not only just saying like Okay
+[65:44] let's adopt Bitcoin and stuff will fix
+[65:47] themselves um there also is a need for
+[65:52] education for different propos positions
+[65:56] for um um like uh new forms of
+[66:01] institutions of governance uh and also
+[66:05] we need like social bombs at the local
+[66:08] levels and stuff like that so if to to
+[66:12] get uh to use a popular uh uh phrase uh
+[66:16] if we want to build Europe back better
+[66:19] we need talent uh uh here also but um if
+[66:24] you want to like thrive in a collapsing
+[66:29] Europe you will need like the kind of
+[66:32] resiliency that you could only have in
+[66:36] certain like social economical work
+[66:38] settings and of course Bitcoin helps
+[66:42] tremendously in that way uh because it
+[66:44] will help you dodge some of the worst uh
+[66:48] flavor of financial reparation I
+[66:50] described it will also give you a peace
+[66:53] of mind that you will uh need to avoid
+[66:56] like uh getting like um trapped in the
+[67:00] old like political discourse and stuff
+[67:03] like that like people around me um they
+[67:07] are all expecting like a savior you know
+[67:10] like they are all expecting a political
+[67:13] figure emerging in France and uh
+[67:16] cleaning up the country such as mle is
+[67:19] trying to do in
+[67:21] Argentina um I don't think it's a good
+[67:25] idea to be expecting we should try to do
+[67:29] uh what we can at our own level which
+[67:33] for some will be huge which for others
+[67:36] will be small but um everything is
+[67:39] needed and in in the same way I think
+[67:44] like there is some Merit in just like
+[67:49] being here uh in the trenches to uh try
+[67:53] to save as many people that want to be
+[67:56] safe because some they just don't want
+[67:58] uh and so we will still need like
+[68:01] Bitcoin podcast we will still need like
+[68:04] companies such as bull Bitcoin to give a
+[68:06] a gateway to people uh uh we will also
+[68:10] need like um uh tools we will need uh um
+[68:15] people like teaching basic stuff uh uh
+[68:18] to help like new Commerce uh
+[68:21] understanding the situation and
+[68:23] understand how they can contribute to to
+[68:26] to just make the situation better and
+[68:29] like we need all of that so um I don't I
+[68:33] I won't I wouldn't say that like leaving
+[68:35] is automatic but um I I would definitely
+[68:39] like uh encourage some people to
+[68:42] consider it
+[68:45] because you don't owe anything to your
+[68:48] State uh even if you are like really for
+[68:53] example I I I'm I I really feel like I'm
+[68:56] French you know I really like my culture
+[68:58] I really like my country uh I I don't
+[69:01] see myself living elsewhere I like the
+[69:03] food here I like everything um that's
+[69:07] why my thinking is more like just like
+[69:10] let's get rid of the parasite and the
+[69:12] government but um apart from that uh you
+[69:17] don't owe anything to the French State
+[69:19] you know like you don't have to to stay
+[69:22] here and and just Finance their
+[69:26] and and and suffer from from their
+[69:28] policies uh you you can definitely like
+[69:31] go to a country that will respect your
+[69:34] natural rights uh more and and develop
+[69:38] your life there and and just be happy
+[69:41] like it's your only uh how to to say it
+[69:45] in English your your only like Duty as a
+[69:47] human being is just
+[69:50] that that's a beautiful way to look at
+[69:52] it it's a beautiful way of like uh um
+[69:55] like you should leave if if you really
+[70:00] want to and if you like maybe also have
+[70:02] kids especially if you raise kids here
+[70:04] and stuff like that but yeah um there's
+[70:07] also something to it of fighting for
+[70:09] your country of like trying to uh save
+[70:13] the people of of Europe and not Europe
+[70:16] itself like save the people here um I
+[70:19] like that a lot that's that's very cool
+[70:21] really cool do you know do you know the
+[70:23] addiction of Europe
+[70:26] the the what the Abduction of Europe
+[70:29] abduction I don't know the word
+[70:30] abduction abduction uh it's like
+[70:33] kidnapping oh no no no so it's a
+[70:37] painting by
+[70:38] rbr um it's originally it's it's uh from
+[70:43] Greek mythology it's a myth uh from
+[70:46] which the the name Europa of our
+[70:48] continent come from and basically um
+[70:52] it's this uh Phoenician Beauty called
+[70:56] Europa um that Enchanted Zeus the king
+[71:00] of the Greek gods and to try to seduce
+[71:03] her in it transformed into a magnificent
+[71:07] Bull and came down to fenicia and lured
+[71:10] her into climbing on her back and then
+[71:14] he brought her to Creed um um where he
+[71:18] was uh like in Greece you know um and
+[71:23] it's it's like for example to us it's a
+[71:26] powerful myth of course for bull Bitcoin
+[71:29] coming into Europe because uh it's
+[71:32] exactly that like um you know we just
+[71:35] want to like have the the
+[71:40] the like have bu Bitcoin coming into
+[71:43] Europe in order to give the means to
+[71:47] people that want to um restore Europe
+[71:50] back to its glory to just do that
+[71:53] starting from their own uh individual
+[71:55] life and self um and we need people to
+[71:59] do that but
+[72:02] we I I
+[72:03] mean for many people it will be just
+[72:06] better to leave uh and to build uh uh to
+[72:12] build their life elsewhere uh in a
+[72:14] better setting I love that really cool
+[72:17] um we have one question that I asked
+[72:20] each and every one of my guests and the
+[72:22] question is what can we learn from you
+[72:24] besid it's
+[72:26] Bitcoin
+[72:28] H wow um complicated question uh let me
+[72:33] think um I have an article I've been um
+[72:38] working on for quite some time now uh
+[72:41] but with all that's going on with bull
+[72:44] Bitcoin uh I
+[72:46] don't have had I hadn't the time to
+[72:50] finish it sooner but I will publish it
+[72:52] soon I think um and basically it's kind
+[72:56] of a long article um but if I try to
+[73:01] break it down basically um it's uh an
+[73:05] overall critique of the efficient Mark
+[73:09] um the efficient market hypothesis which
+[73:12] is one of the building blocks of modern
+[73:17] Financial thoughts as it is developed in
+[73:20] Academia and taught in universities and
+[73:24] used in financial models on Wall Street
+[73:26] and stuff like that and as bitcoiners we
+[73:29] have done tremendous work to um
+[73:33] criticize methodically
+[73:36] methodologically uh kesian ISM and
+[73:39] Marxism and different uh economic sorts
+[73:43] and as we mentioned at the beginning of
+[73:45] this interview um once we get to
+[73:48] hyperbitcoinization we will have to
+[73:50] build a new Financial system on top of
+[73:53] Bitcoin as money and I think um if we
+[73:57] build it uh with the principles of
+[74:01] modern Financial theory in mind modern
+[74:04] Financial theory is a whole like set of
+[74:07] um Financial knowledge let's say uh um
+[74:12] that is built on the EMH the efficient
+[74:15] market hypothesis and basically um if we
+[74:20] we we build upon that um framework work
+[74:25] it will be totally dysfunctional because
+[74:28] this theory is I would say at least as
+[74:33] stupid as
+[74:34] kism uh and basically what it says like
+[74:37] it holds that market gations like
+[74:41] volatility in financial markets is the
+[74:44] products of uh like homoeconomicus you
+[74:47] know like this kind of uh um utility
+[74:50] discounting machine that you find in
+[74:52] economic mainstream economic textbooks
+[74:55] always reassessing
+[74:58] the fundamental value of Securities in
+[75:02] the light of new information that is
+[75:05] eting the market and so to them it means
+[75:09] that markets are linear systems only
+[75:12] moved always in equilibrium and then
+[75:15] moved out of equilibrium by um uh like
+[75:19] rational agents uh using new information
+[75:23] to um uh gauge uh the value of financial
+[75:27] securities uh and the consequence of
+[75:30] that is that markets are random so
+[75:34] that's for example like um volatility in
+[75:38] Bitcoin tomorrow is Independence than
+[75:41] volatility in Bitcoin today and of
+[75:44] yesterday's
+[75:45] volatility uh which is another way to
+[75:48] say that uh financial markets have no
+[75:51] memory um so a lot of a lot of things to
+[75:55] unpack here but uh all these hypothesis
+[75:59] uh uh and all these results um basically
+[76:03] can be criticized both from an empirical
+[76:06] and statistic statistical standpoint but
+[76:09] also from a logical standpoint and there
+[76:12] are like um on the the outskirts of
+[76:16] Academia let's say there are like
+[76:19] researchers using different mathematical
+[76:21] tools different hypothesis trying to
+[76:24] explain how financial markets behave
+[76:27] using uh um tools mostly streaming from
+[76:31] physics um and it's it's some stuff that
+[76:35] are really not well known maybe as was
+[76:39] like Australian economics two decades
+[76:41] ago for most um economic students uh but
+[76:46] I think these tools are way better um to
+[76:50] make financial decision basically
+[76:52] because they are built upon uh way
+[76:56] better understanding of what financial
+[76:59] markets are and how they behave um and
+[77:03] so yeah maybe that is something uh that
+[77:06] could interest folks into Bitcoin and
+[77:10] that they could discover by reading this
+[77:12] article I don't think it's something
+[77:15] they would uh find uh elsewhere unless
+[77:18] they are used to read like um uh like
+[77:22] Financial research papers and stuff like
+[77:25] that that's super interesting uh please
+[77:28] please when it's out please send it to
+[77:30] me I think that could be an interesting
+[77:32] article uh yeah thank you so much F on
+[77:35] uh for for sharing that with us we have
+[77:37] an end routine in the podcast uh where
+[77:40] the previous guest is asking a question
+[77:42] for the next guest without knowing who
+[77:44] the next guest actually is and your
+[77:46] question from the previous guest is if
+[77:48] you were tasked with creating a Bitcoin
+[77:51] security checklist for someone just
+[77:53] entering the space what what are the
+[77:55] three most important things that someone
+[77:57] has to do wow it's a really good
+[78:01] question um three things security
+[78:05] checklist
+[78:07] so obviously the first will be like just
+[78:11] get a hardware wallet um like a battle
+[78:15] tested one um at Bull Bitcoin we have a
+[78:18] preference for cold card but I know it's
+[78:20] not uh that uh uh frequent in Europe I
+[78:25] also really like bitbox I think like the
+[78:27] the user experience is really cool um I
+[78:31] mean some of Ledger products are also
+[78:34] nice uh although I would advise against
+[78:38] using them in conjunction with Ledger
+[78:41] live um which to me is not a good piece
+[78:44] of software um also maybe if you never
+[78:49] used it try power um if you want to like
+[78:54] have a desktop wallet that is like
+[78:57] really um secure and also like really
+[79:00] flexible in the sense that it allows you
+[79:03] to really see what you are doing in
+[79:06] terms of interaction with the Bitcoin uh
+[79:08] Network um I think it's a really amazing
+[79:12] piece of software and um in conjunction
+[79:16] with a good Hardware wallet it's one of
+[79:18] the best setup you can have um and so
+[79:23] that's two
+[79:25] um and I think maybe in terms of
+[79:32] um maybe in terms of uh security more
+[79:36] generally speaking I think uh it's a
+[79:40] good idea to uh try to redevelop um uh
+[79:46] relationships whether it is with uh
+[79:49] other plebs or with your local
+[79:51] communities because um
+[79:55] if it's a fan uh that's where your
+[79:59] food Security will come from for example
+[80:02] that's where uh many other kind of
+[80:04] security could come from um so yeah I
+[80:08] would say get a hardware wallet um and
+[80:12] if you don't know how to use it which
+[80:15] one to choose uh you can always go to
+[80:18] Bull Bitcoin one of the thing we do is
+[80:20] like free education um TR power it's the
+[80:25] best desktop uh Bitcoin wallet out there
+[80:29] uh and I think uh like like your first
+[80:33] experience with it can be a little bit
+[80:35] uh difficult because um it's not really
+[80:39] user friendly for noobs but um it's also
+[80:43] like it also all the functionality you
+[80:46] want and it doesn't compromise on
+[80:48] security and privacy and stuff like that
+[80:51] and because it's really descriptive you
+[80:53] can also
+[80:55] understand better how Bitcoin works the
+[80:57] different scripts we have in Bitcoin the
+[81:00] different transaction formats what are
+[81:02] you Tak
+[81:03] exos why it is important to consolidate
+[81:06] you takos and stuff like that and yeah
+[81:09] last piece of advice uh just like try
+[81:12] create like good social relationships
+[81:15] with uh people that you know you will
+[81:17] spend most of your life with because uh
+[81:20] in my opinion most of our uh security
+[81:23] and generally speaking quality of life
+[81:25] comes through
+[81:27] that I love that really cool thank you
+[81:29] so much uh f um before I let you go
+[81:33] where can people find you ask your
+[81:34] questions and and reach out to you so
+[81:37] yeah uh you can follow me or um just
+[81:40] interact with me um on Twitter uh at t t
+[81:45] h e o m o g n t um or you can just like
+[81:50] um you can try also our European
+[81:53] platform uh with bu Bitcoin that will be
+[81:56] live when this interview um is out um
+[82:01] and like if you have any question with
+[82:04] the platform with anything that uh you
+[82:07] need to uh have a good Bitcoin Journey
+[82:10] uh don't hesitate to use our chats uh
+[82:12] there is always a new man behind with
+[82:15] deep Bitcoin knowledge that can answer
+[82:17] your question um and yeah generally
+[82:20] speaking you can also uh follow us on
+[82:23] our different uh social media account um
+[82:26] so ADB Bitcoin uncore or ADB Bitcoin F
+[82:30] if you are French and you are listening
+[82:31] to this um and yeah basically our
+[82:36] content is mostly Bitcoin education and
+[82:37] memes so Soo always interesting to to to
+[82:42] get it's Al always interesting um to
+[82:46] follow maybe Francis PUO Al fer if you
+[82:49] don't know him uh one of the most
+[82:51] interesting guys in Bitcoin uh yeah and
+[82:54] that's all
+[82:55] thank you so much uh for for being on
+[82:57] the show also thank you so much for
+[82:58] everyone that is watching and listening
+[83:00] for joining us today as always I'll be
+[83:03] back tomorrow with another episode bye
+[83:05] yeah thanks a lot for your invites it
+[83:06] was a blast
+[83:08] [Music]
