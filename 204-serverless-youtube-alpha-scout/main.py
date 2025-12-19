@@ -76,6 +76,7 @@ def download_audio(video_id):
     url = f"https://www.youtube.com/watch?v={video_id}"
     
     # Configure yt-dlp to extract audio and convert to mp3
+    # Use 'android' client to bypass "Sign in to confirm you're not a bot"
     ydl_opts = {
         'format': 'm4a/bestaudio/best',
         'outtmpl': 'temp_audio.%(ext)s',
@@ -84,7 +85,14 @@ def download_audio(video_id):
             'preferredcodec': 'mp3',
         }],
         'quiet': True,
-        'no_warnings': True
+        'no_warnings': True,
+        'extractor_args': {
+            'youtube': {
+                'player_client': ['android', 'web']
+            }
+        },
+        'nocheckcertificate': True,
+        'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
 
     try:
