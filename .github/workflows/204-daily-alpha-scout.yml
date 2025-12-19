@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 13 * * *'  # Run daily at 13:00 UTC
   workflow_dispatch:      # Allow manual trigger
+    inputs:
+      force_run:
+        description: 'Force run ignoring date check'
+        required: false
+        default: 'true'
 
 jobs:
   run-alpha-scout:
@@ -27,6 +32,7 @@ jobs:
       env:
         OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        FORCE_RUN: ${{ github.event.inputs.force_run }}
       run: |
         cd 204-serverless-youtube-alpha-scout
         python main.py
