@@ -1,10 +1,12 @@
 import os
+import glob
 from datetime import datetime, timezone, timedelta
 import feedparser
 from youtube_transcript_api import YouTubeTranscriptApi
 from openai import OpenAI
 from dotenv import load_dotenv
 import resend
+import yt_dlp
 
 # Load environment variables (for local testing)
 load_dotenv()
@@ -13,15 +15,15 @@ load_dotenv()
 CHANNEL_ID = 'UCCpNQKYvrnWQNjZprabMJlw'  # Peter Diamandis
 RSS_URL = f'https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}'
 
-# AI Configuration (OpenRouter)
+# AI Configuration
 OPENROUTER_API_KEY = os.getenv('OPENROUTER_API_KEY')
 OPENROUTER_MODEL = "x-ai/grok-4.1-fast"
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY') # Required for Whisper Fallback
 
 # Email Configuration (Resend)
-# DEFAULTS set for maximum convenience
 EMAIL_SENDER = os.getenv('EMAIL_SENDER', 'onboarding@resend.dev')
 EMAIL_RECEIVER = os.getenv('EMAIL_RECEIVER', 'ab00477@icloud.com')
-resend.api_key = os.getenv('EMAIL_PASSWORD') # User provided key maps here
+resend.api_key = os.getenv('EMAIL_PASSWORD')
 
 def get_latest_video():
     """Fetches the latest video from the RSS feed."""
@@ -52,16 +54,72 @@ def get_latest_video():
         'link': entry.link
     }
 
+def download_audio(video_id):
+    """Downloads audio from YouTube video using yt-dlp."""
+    print(f"Downloading audio for video {video_id}...")
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    
+    ydl_opts = {
+        'format': 'm4a/bestaudio/best',
+        'outtmpl': 'temp_audio.%(ext)s',
+        'postprocessors': [{  # Extract audio using ffmpeg
+            'key': 'FFmpegExtractAudio',
+            'preferredcodec': 'mp3',
+        }]
+    }
+
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([url])
+        return "temp_audio.mp3"
+    except Exception as e:
+        print(f"Error downloading audio: {e}")
+        return None
+
+def transcribe_with_whisper(audio_path):
+    """Transcribes audio file using OpenAI Whisper API."""
+    print("Transcribing audio with OpenAI Whisper...")
+    
+    if not OPENAI_API_KEY:
+        print("Error: OPENAI_API_KEY not found. Cannot use Whisper fallback.")
+        return None
+
+    client = OpenAI(api_key=OPENAI_API_KEY)
+    
+    try:
+        with open(audio_path, "rb") as audio_file:
+            transcription = client.audio.transcriptions.create(
+                model="whisper-1", 
+                file=audio_file
+            )
+        return transcription.text
+    except Exception as e:
+        print(f"Error transcribing with Whisper: {e}")
+        return None
+    finally:
+        # Cleanup
+        if os.path.exists(audio_path):
+            os.remove(audio_path)
+
 def get_transcript(video_id):
-    """Fetches the transcript for a given video ID."""
+    """Fetches transcript, falling back to Whisper if needed."""
     print(f"Fetching transcript for video ID: {video_id}...")
+    
+    # 1. Try Standard API
     try:
         transcript_list = YouTubeTranscriptApi.get_transcript(video_id)
         transcript_text = " ".join([t['text'] for t in transcript_list])
         return transcript_text
     except Exception as e:
-        print(f"Error fetching transcript: {e}")
-        return None
+        print(f"Standard transcript API failed: {e}")
+        print("Attempting Whisper fallback...")
+
+    # 2. Fallback to Whisper
+    audio_path = download_audio(video_id)
+    if audio_path:
+        return transcribe_with_whisper(audio_path)
+    
+    return None
 
 def analyze_transcript(transcript_text, video_title):
     """Analyzes the transcript using OpenRouter (Grok)."""
@@ -106,7 +164,7 @@ def send_email(subject, html_content, transcript_text=None):
     if transcript_text:
         attachments.append({
             "filename": "transcript.txt",
-            "content": list(transcript_text.encode('utf-8')) # Resend SDK expects a list of integers for bytes
+            "content": list(transcript_text.encode('utf-8'))
         })
 
     params = {
@@ -134,7 +192,7 @@ def main():
 
     transcript = get_transcript(video['id'])
     if not transcript:
-        print("No transcript available. Skipping analysis.")
+        print("No transcript available (both API and Whisper failed). Skipping analysis.")
         return
 
     analysis_html = analyze_transcript(transcript, video['title'])
