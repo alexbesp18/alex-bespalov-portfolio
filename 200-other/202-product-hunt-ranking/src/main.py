@@ -85,7 +85,7 @@ def save_to_gsheet(products: List[Product], date_override: Optional[str] = None)
         if 'client_email' in creds_dict:
             logger.info(f"Authenticating as: {creds_dict['client_email']}")
 
-        creds: Any = Credentials.from_service_account_info(creds_dict, scopes=scope)
+        creds = Credentials.from_service_account_info(creds_dict, scopes=scope)  # type: ignore[no-untyped-call]
         client = gspread.authorize(creds)
         
         try:
