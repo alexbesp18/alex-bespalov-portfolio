@@ -36,7 +36,6 @@ jobs:
     - name: Run Alpha Scout
       env:
         OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         FORCE_RUN: ${{ github.event.inputs.force_run }}
       run: |
