@@ -14,9 +14,62 @@ import whisper
 # AI Configuration
 OPENROUTER_API_KEY = os.getenv('OPENROUTER_API_KEY')
 OPENROUTER_MODEL = "x-ai/grok-4.1-fast"
-# OPENAI_API_KEY removed for fallback (using local model)
 
-# ... existing code ...
+# Email Configuration (Resend)
+EMAIL_SENDER = os.getenv('EMAIL_SENDER', 'onboarding@resend.dev')
+EMAIL_RECEIVER = os.getenv('EMAIL_RECEIVER', 'ab00477@icloud.com')
+resend.api_key = os.getenv('EMAIL_PASSWORD')
+
+def get_latest_video():
+    """Fetches the latest video from the RSS feed."""
+    print("Fetching RSS feed...")
+    feed = feedparser.parse(RSS_URL)
+    
+    if not feed.entries:
+        print("No entries found in RSS feed.")
+        return None
+
+    entry = feed.entries[0]
+    published_time = datetime.fromisoformat(entry.published).replace(tzinfo=timezone.utc)
+    current_time = datetime.now(timezone.utc)
+    
+    # Check if published in the last 24 hours
+    force_run = os.getenv('FORCE_RUN', 'false').lower() == 'true'
+    if not force_run and (current_time - published_time > timedelta(hours=24)):
+        print(f"Latest video '{entry.title}' was published more than 24 hours ago ({published_time}). Skipping.")
+        return None
+    
+    if force_run:
+        print(f"FORCE_RUN enabled. Processing video '{entry.title}' regardless of date.")
+    
+    print(f"Found new video: {entry.title} (ID: {entry.yt_videoid})")
+    return {
+        'id': entry.yt_videoid,
+        'title': entry.title,
+        'link': entry.link
+    }
+
+def download_audio(video_id):
+    """Downloads audio from YouTube video using yt-dlp."""
+    print(f"Downloading audio for video {video_id}...")
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    
+    ydl_opts = {
+        'format': 'm4a/bestaudio/best',
+        'outtmpl': 'temp_audio.%(ext)s',
+        'postprocessors': [{  # Extract audio using ffmpeg
+            'key': 'FFmpegExtractAudio',
+            'preferredcodec': 'mp3',
+        }]
+    }
+
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([url])
+        return "temp_audio.mp3"
+    except Exception as e:
+        print(f"Error downloading audio: {e}")
+        return None
 
 def transcribe_with_whisper(audio_path):
     """Transcribes audio file using Local OpenAI Whisper model (Free)."""
