@@ -37,9 +37,13 @@ def get_latest_video():
     current_time = datetime.now(timezone.utc)
     
     # Check if published in the last 24 hours
-    if current_time - published_time > timedelta(hours=24):
+    force_run = os.getenv('FORCE_RUN', 'false').lower() == 'true'
+    if not force_run and (current_time - published_time > timedelta(hours=24)):
         print(f"Latest video '{entry.title}' was published more than 24 hours ago ({published_time}). Skipping.")
         return None
+    
+    if force_run:
+        print(f"FORCE_RUN enabled. Processing video '{entry.title}' regardless of date.")
     
     print(f"Found new video: {entry.title} (ID: {entry.yt_videoid})")
     return {
