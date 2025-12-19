@@ -10,7 +10,7 @@ import resend
 load_dotenv()
 
 # Configuration
-CHANNEL_ID = 'UC6zU8jX9z70j6e1R7v8e1kQ'  # Peter Diamandis
+CHANNEL_ID = 'UCCpNQKYvrnWQNjZprabMJlw'  # Peter Diamandis
 RSS_URL = f'https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}'
 
 # AI Configuration (OpenRouter)
