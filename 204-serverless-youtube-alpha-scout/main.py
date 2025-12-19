@@ -9,9 +9,16 @@ import resend
 import yt_dlp
 import whisper
 
-# ... existing imports ...
+# Load environment variables (for local testing)
+load_dotenv()
 
-# AI Configuration
+# ==========================================
+# CONFIGURATION
+# ==========================================
+CHANNEL_ID = 'UCCpNQKYvrnWQNjZprabMJlw'  # Peter Diamandis
+RSS_URL = f'https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}'
+
+# AI Configuration (OpenRouter)
 OPENROUTER_API_KEY = os.getenv('OPENROUTER_API_KEY')
 OPENROUTER_MODEL = "x-ai/grok-4.1-fast"
 
@@ -20,9 +27,13 @@ EMAIL_SENDER = os.getenv('EMAIL_SENDER', 'onboarding@resend.dev')
 EMAIL_RECEIVER = os.getenv('EMAIL_RECEIVER', 'ab00477@icloud.com')
 resend.api_key = os.getenv('EMAIL_PASSWORD')
 
+# ==========================================
+# CORE FUNCTIONS
+# ==========================================
+
 def get_latest_video():
-    """Fetches the latest video from the RSS feed."""
-    print("Fetching RSS feed...")
+    """Fetches the latest video from the YouTube RSS feed."""
+    print(f"Fetching RSS feed from: {RSS_URL}")
     feed = feedparser.parse(RSS_URL)
     
     if not feed.entries:
@@ -30,53 +41,73 @@ def get_latest_video():
         return None
 
     entry = feed.entries[0]
+    # Parse published time (standard ISO from YouTube RSS)
     published_time = datetime.fromisoformat(entry.published).replace(tzinfo=timezone.utc)
     current_time = datetime.now(timezone.utc)
     
-    # Check if published in the last 24 hours
+    video_info = {
+        'id': entry.yt_videoid,
+        'title': entry.title,
+        'link': entry.link,
+        'published': published_time
+    }
+
+    # Check force_run environment variable (defaults to false)
     force_run = os.getenv('FORCE_RUN', 'false').lower() == 'true'
-    if not force_run and (current_time - published_time > timedelta(hours=24)):
-        print(f"Latest video '{entry.title}' was published more than 24 hours ago ({published_time}). Skipping.")
-        return None
     
     if force_run:
         print(f"FORCE_RUN enabled. Processing video '{entry.title}' regardless of date.")
+        return video_info
+
+    # Default 24-hour check
+    if current_time - published_time > timedelta(hours=24):
+        print(f"Latest video '{entry.title}' was published more than 24 hours ago ({published_time}). Skipping.")
+        return None
     
     print(f"Found new video: {entry.title} (ID: {entry.yt_videoid})")
-    return {
-        'id': entry.yt_videoid,
-        'title': entry.title,
-        'link': entry.link
-    }
+    return video_info
 
 def download_audio(video_id):
-    """Downloads audio from YouTube video using yt-dlp."""
-    print(f"Downloading audio for video {video_id}...")
+    """
+    Downloads audio from YouTube video using yt-dlp.
+    Returns path to the temporary mp3 file.
+    """
+    print(f"Downloading audio for video {video_id} using yt-dlp...")
     url = f"https://www.youtube.com/watch?v={video_id}"
     
+    # Configure yt-dlp to extract audio and convert to mp3
     ydl_opts = {
         'format': 'm4a/bestaudio/best',
         'outtmpl': 'temp_audio.%(ext)s',
-        'postprocessors': [{  # Extract audio using ffmpeg
+        'postprocessors': [{
             'key': 'FFmpegExtractAudio',
             'preferredcodec': 'mp3',
-        }]
+        }],
+        'quiet': True,
+        'no_warnings': True
     }
 
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             ydl.download([url])
-        return "temp_audio.mp3"
+        
+        if os.path.exists("temp_audio.mp3"):
+            return "temp_audio.mp3"
+        print("Error: Audio file not found after download.")
+        return None
     except Exception as e:
         print(f"Error downloading audio: {e}")
         return None
 
-def transcribe_with_whisper(audio_path):
-    """Transcribes audio file using Local OpenAI Whisper model (Free)."""
-    print("Transcribing audio with Local Whisper (model='base')...")
+def transcribe_with_local_whisper(audio_path):
+    """
+    Transcribes audio file using the local OpenAI Whisper model.
+    Runs on CPU, requires no API key.
+    """
+    print("Transcribing audio with Local Whisper (model='base')... this may take a few minutes.")
     
     try:
-        # Load the model (first run will download it ~140MB)
+        # Load the model (first run will download it, ~140MB)
         model = whisper.load_model("base")
         
         # Transcribe
@@ -86,27 +117,34 @@ def transcribe_with_whisper(audio_path):
         print(f"Error transcribing with Local Whisper: {e}")
         return None
     finally:
-        # Cleanup
+        # Cleanup temporary file
         if os.path.exists(audio_path):
             os.remove(audio_path)
+            print(f"Cleaned up {audio_path}")
 
 def get_transcript(video_id):
-    """Fetches transcript, falling back to Whisper if needed."""
+    """
+    Fetches transcript.
+    Strategy:
+    1. Try standard YouTubeTranscriptApi (fastest).
+    2. If failed (e.g., subtitles disabled), fallback to download + local whisper.
+    """
     print(f"Fetching transcript for video ID: {video_id}...")
     
-    # 1. Try Standard API
+    # Attempt 1: Standard API
     try:
         transcript_list = YouTubeTranscriptApi.get_transcript(video_id)
         transcript_text = " ".join([t['text'] for t in transcript_list])
+        print("Successfully fetched transcript via Standard API.")
         return transcript_text
     except Exception as e:
         print(f"Standard transcript API failed: {e}")
-        print("Attempting Whisper fallback...")
+        print("Falling back to Local Whisper transcription...")
 
-    # 2. Fallback to Whisper
+    # Attempt 2: Local Whisper Fallback
     audio_path = download_audio(video_id)
     if audio_path:
-        return transcribe_with_whisper(audio_path)
+        return transcribe_with_local_whisper(audio_path)
     
     return None
 
@@ -114,6 +152,10 @@ def analyze_transcript(transcript_text, video_title):
     """Analyzes the transcript using OpenRouter (Grok)."""
     print(f"Analyzing transcript with OpenRouter ({OPENROUTER_MODEL})...")
     
+    if not OPENROUTER_API_KEY:
+        print("Error: OPENROUTER_API_KEY is missing.")
+        return None
+
     client = OpenAI(
         base_url="https://openrouter.ai/api/v1",
         api_key=OPENROUTER_API_KEY
@@ -128,6 +170,7 @@ def analyze_transcript(transcript_text, video_title):
     )
     
     try:
+        # Truncate transcript to avoid token limits (approx 100k chars is plenty for 1 hr video)
         response = client.chat.completions.create(
             model=OPENROUTER_MODEL,
             messages=[
@@ -148,7 +191,7 @@ def send_email(subject, html_content, transcript_text=None):
         print("Error: Resend API Key (EMAIL_PASSWORD) not found.")
         return
 
-    # Prepare attachment if exists
+    # Prepare attachment if transcript is provided
     attachments = []
     if transcript_text:
         attachments.append({
@@ -170,31 +213,41 @@ def send_email(subject, html_content, transcript_text=None):
     except Exception as e:
         print(f"Error sending email: {e}")
 
+# ==========================================
+# MAIN EXECUTION
+# ==========================================
+
 def main():
+    # 1. Validation
     if not OPENROUTER_API_KEY:
-        print("Error: OPENROUTER_API_KEY not found.")
+        print("CRITICAL: OPENROUTER_API_KEY not found in environment.")
         return
 
+    # 2. Get Video
     video = get_latest_video()
     if not video:
+        print("Exiting: No video to process.")
         return
 
+    # 3. Get Transcript (with Fallback)
     transcript = get_transcript(video['id'])
     if not transcript:
-        print("No transcript available (both API and Whisper failed). Skipping analysis.")
+        print("CRITICAL: Failed to obtain transcript via any method. Exiting.")
         return
 
+    # 4. Analyze
     analysis_html = analyze_transcript(transcript, video['title'])
     if not analysis_html:
-        print("Analysis failed.")
+        print("CRITICAL: Analysis failed. Exiting.")
         return
 
-    # Wrap analysis in a basic HTML structure with link to video
+    # 5. Format & Send
     final_html = f"""
     <html>
     <body>
         <h2>Alpha Scout Report: {video['title']}</h2>
         <p><a href="{video['link']}">Watch Video</a></p>
+        <p><em>Generated by Serverless Alpha Scout (Grok + Whisper Fallback)</em></p>
         <hr>
         {analysis_html}
     </body>
@@ -202,6 +255,7 @@ def main():
     """
 
     send_email(f"Alpha Scout: {video['title']}", final_html, transcript)
+    print("Job Complete.")
 
 if __name__ == '__main__':
     main()
