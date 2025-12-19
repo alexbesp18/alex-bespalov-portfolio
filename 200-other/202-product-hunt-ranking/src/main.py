@@ -7,8 +7,8 @@ import sys
 import os
 from typing import List, Dict, Optional, Any
 
-import gspread  # type: ignore
-from google.oauth2.service_account import Credentials  # type: ignore
+import gspread
+from google.oauth2.service_account import Credentials
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 from src.config import settings
@@ -85,7 +85,7 @@ def save_to_gsheet(products: List[Product], date_override: Optional[str] = None)
         if 'client_email' in creds_dict:
             logger.info(f"Authenticating as: {creds_dict['client_email']}")
 
-        creds = Credentials.from_service_account_info(creds_dict, scopes=scope)
+        creds: Any = Credentials.from_service_account_info(creds_dict, scopes=scope)
         client = gspread.authorize(creds)
         
         try:
