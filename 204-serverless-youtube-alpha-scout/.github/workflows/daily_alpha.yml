@@ -1,0 +1,36 @@
+name: Daily Alpha Scout
+
+on:
+  schedule:
+    - cron: '0 13 * * *'  # Run daily at 13:00 UTC
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  run-alpha-scout:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        cd 204-serverless-youtube-alpha-scout
+        pip install -r requirements.txt
+
+    - name: Run Alpha Scout
+      env:
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
+        SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+        SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      run: |
+        cd 204-serverless-youtube-alpha-scout
+        python main.py
