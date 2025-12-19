@@ -1,0 +1,1247 @@
+Title: Bitcoiners Built Tether Into The Most Profitable Company Ever
+Video ID: uRB4dfgzl1g
+URL: https://www.youtube.com/watch?v=uRB4dfgzl1g
+Date Saved: 2025-06-20 22:33:02
+Channel: AnthonyPompliano
+--------------------------------------------------
+
+[00:00] in order to have a stable society,
+[00:01] right? The journalist asked me, you know
+[00:03] what, how you would define Tether and
+[00:05] the journalist told me that um he would
+[00:09] define Tether as the stable coin
+[00:11] company. I would define it as as as the
+[00:14] stable company. So remove coin is the
+[00:18] stable company company because the aim
+[00:21] is helping stability of society. And so
+[00:25] we realized that for for society to be
+[00:27] stable, society needs stable money.
+[00:31] What's going on guys? Today we have a
+[00:32] very very special conversation. It's
+[00:34] with Paulo Arduino. He is the CEO of
+[00:37] Tether and the CTO of Bitfinex. They're
+[00:39] the most profitable company per employee
+[00:41] in the entire world. They did 13.7
+[00:44] billion in profit last year. And now
+[00:46] he's here to tell us what's going on
+[00:48] with the stable coin. What exactly is
+[00:50] happening with regulation in the United
+[00:51] States? What are they going to do with
+[00:52] 13 billion dollars of profit? They're
+[00:54] investing in AI and brain computer
+[00:56] interfaces and they want to see a very
+[00:58] specific version of the future come to
+[01:00] life. They're going to fund it and build
+[01:02] it themselves. Paulo's always a great
+[01:04] conversation because he is rational and
+[01:06] he really understands how so much of the
+[01:08] market is developing both in the
+[01:10] emerging market but also in developed
+[01:11] markets like the United States. And this
+[01:13] conversation gives you tons of insight
+[01:14] into how he's thinking about it. And
+[01:16] then also he gives us an idea of what he
+[01:19] thinks Tether's actually worth in terms
+[01:21] of its market value. It's a big big
+[01:23] number that surprised me, but I think
+[01:24] that they're probably actually
+[01:25] undervaluing what they've built so far.
+[01:27] So here's my latest conversation with Po
+[01:29] Arduino. Paulo, I thought a great place
+[01:31] to start the conversation is the US
+[01:33] Senate just passed the Genius Act.
+[01:36] They're sending it along. Uh this is
+[01:37] supposed to create a federal framework
+[01:39] for stable coins. You run the biggest
+[01:41] stable coin. You you're the king of the
+[01:42] mountain right now. uh how do you guys
+[01:44] look at the United States kind of
+[01:46] leaning in on this and what do you think
+[01:47] the ramifications of this bill will be
+[01:48] once it is fully passed in the United
+[01:50] States? Well um first of all uh thanks
+[01:53] MPO for having me. Uh look I think
+[01:57] everyone knows that uh US being the most
+[02:00] powerful country in the world and the
+[02:02] country that um is the biggest economic
+[02:06] power in the world. Every other country
+[02:08] is looking at the US in this moment. So
+[02:11] the US passing a low for stable coins at
+[02:15] the federal level is truly important
+[02:17] because that will become the template
+[02:18] for everyone else. So we are going to
+[02:20] see and right now there are just few
+[02:22] jurisdictions that are dipping their
+[02:24] toes in in stable coins and crypto in
+[02:26] general. But with this first the stable
+[02:28] coin bill and then the market structure
+[02:29] that is the comprehensive crypto bill
+[02:31] that the Congress want to pass then it
+[02:35] will become the blueprint for for for
+[02:36] the war. So that is first of all very
+[02:38] exciting. Second, I mean, being Tedar,
+[02:41] the company that created the first
+[02:42] stablecoin 2014,
+[02:44] um 11 years in in the in the making and
+[02:47] now after 11 years, we're seeing the the
+[02:50] greatest country in the world uh passing
+[02:52] a bill on our innovation. So, we are
+[02:54] very humbled and we are very excited. Um
+[02:57] so I think it's the right um way forward
+[03:01] and look very honestly I saw like some
+[03:04] speculations uh going around or it's
+[03:07] going to be okay for tether and you know
+[03:10] look uh I like this um stable coin bill
+[03:14] because um it forces a lot of um um
+[03:20] requirements to onshore and foreign
+[03:22] stable coins and I think it's very
+[03:25] egalitarian
+[03:27] is creating an even playing field. It
+[03:30] pushes and raised the bar very high.
+[03:33] Also for a foreign stable coin like
+[03:35] USDT, it has strong requirements for
+[03:39] AML, strong requirements for compliance,
+[03:41] stronger requirements for um reciprocity
+[03:45] and comparable regimes where you know
+[03:48] foreign stable coins has to be uh
+[03:50] regulated and incorporated. And so that
+[03:53] in my opinion is the right way to go.
+[03:56] And so we are very proud. Um as I said
+[03:58] uh multiple times uh Tedar is interested
+[04:01] to meet the requirements and will meet
+[04:04] the requirements as a foreign issuer as
+[04:07] well as is looking to create a
+[04:10] grassroots domestic stable coin. We
+[04:11] think that we are able to create two
+[04:13] different products that will serve two
+[04:15] very different use cases. a super high
+[04:19] efficient stable coin for a very very
+[04:21] high efficiency um market like the US
+[04:25] market that it has the best efficiency
+[04:27] in all the financial rails in the world
+[04:30] and a stable coin that is USDT that is
+[04:33] the stable coin for the emerging markets
+[04:34] developing countries is the stable coin
+[04:36] for the people not for the institution
+[04:39] not for the you know the bankers is the
+[04:42] stable coin for the people so that's
+[04:44] what is our aim and that's what we like
+[04:47] to see from this bill. It feels like
+[04:49] there was a moment in time where some US
+[04:51] players were kind of targeting you guys
+[04:53] and some of these things that were in
+[04:54] there. Uh you guys could have, you know,
+[04:56] tucked your tail between your legs and
+[04:57] run off and say, "Hey, we're not going
+[04:59] to the US." Uh you've been coming to the
+[05:01] US a lot. You've been visiting the
+[05:02] United States. You've been going to
+[05:03] Washington. You've been going to uh Wall
+[05:05] Street. You've been going to uh various
+[05:07] uh cities. I think meeting with a lot of
+[05:08] people. And it sounds like really the
+[05:10] way that you guys are going to respond
+[05:11] to uh the legislation is you'll continue
+[05:13] to do USDT for the people as you
+[05:15] mentioned, but then you also want to
+[05:16] create something that is here for kind
+[05:18] of the US financial system. Um, and I
+[05:21] can't help but notice that like JP
+[05:23] Morgan just announced the JPMD, which is
+[05:26] kind of their version of a bank oriented
+[05:28] or bank integrated uh alternative to
+[05:30] stable coins. And so is this just a game
+[05:32] where ultimately Tether with, you know,
+[05:35] whatever $13 billion in profit per year
+[05:37] is going to go up against the big banks
+[05:39] and we're going to see who actually can
+[05:40] get their dollar denominated, you know,
+[05:42] kind of digital asset adopted by the
+[05:44] most amount of people in the US.
+[05:46] Well, I think that the banks and this
+[05:49] bank consortium or JP Morgan is no
+[05:52] threat to our broader business model.
+[05:55] the uh foreign um stable coin USDT uh
+[06:00] will remain in my opinion undisputed
+[06:02] winner in um the emerging markets. U I
+[06:05] don't see JP Morgan or any other bank
+[06:07] from their ivory towers going and
+[06:10] building adoption with the boots on the
+[06:12] ground in Argentina in Turkey in in
+[06:14] Vietnam in Nigeria in Kenya. We we are
+[06:18] there every single day with our team. We
+[06:20] are breaking our backs to build kiosks
+[06:22] in Africa and we are doing education in
+[06:25] bodeas in central South America with in
+[06:28] in the number of hundreds of thousands.
+[06:31] So that is completely far from the
+[06:34] mentality of the big banks in the United
+[06:37] States and in Europe for matters. But
+[06:39] also you know the I like this analogy
+[06:42] that you know I tried to use to to
+[06:44] explain the different use cases right.
+[06:46] So what you have in the US, you have to
+[06:48] imagine the US as a market that has 90
+[06:52] 90% perfection of and efficiency of
+[06:56] financial rails. So what the US achieved
+[06:58] over the last 120 years is basically
+[07:01] perfection of financial rails almost
+[07:02] like 90% perfection. And if you add the
+[07:05] stable coins of it, you get to 95%. So
+[07:09] you gain 5% more because stable coins
+[07:11] are more program are programmable money.
+[07:13] you can do few more things with stable
+[07:15] coins that are nice to have in the
+[07:17] United States and is not really you
+[07:19] couldn't couldn't do it before was just
+[07:21] more complex
+[07:24] or less elegant to do this these things
+[07:28] um with uh with without stable coins or
+[07:31] without blockchain technology. If you
+[07:33] take a country like Nigeria or or others
+[07:37] the efficiency of the financial rails is
+[07:38] 20%. If you add a stable coin it becomes
+[07:42] 50%. So instead of gaining 5% like a
+[07:45] United States, you would gain 30%. So
+[07:48] these are completely to super different
+[07:51] markets. So yeah, our competitors
+[07:53] thought well you know Tedar is going to
+[07:56] stay in their own small niche that by
+[07:58] the way our niche counts up to three
+[08:01] billion users three billion people that
+[08:03] are the ones left behind by the
+[08:05] financial system. So even calling them a
+[08:07] niche would be extremely detrimental to
+[08:10] half of the population of the world. But
+[08:12] nevertheless again I think that what the
+[08:15] difference between Tedar even for the US
+[08:16] market the difference between Tedar and
+[08:18] the big banks is that we understand what
+[08:22] people want. Even in the US you have uh
+[08:25] people that are in have basic income and
+[08:28] part of the working class that are not
+[08:31] the the riches that can afford you know
+[08:33] or can cannot be served or boarded
+[08:36] necessarily by JP Morgan. And so that is
+[08:39] our market right. We understand the
+[08:41] normal people very well, better than
+[08:43] anyone else. When you think about uh
+[08:46] kind of those individuals, uh there
+[08:48] really seems to be two use cases for the
+[08:50] US dollar, right? People want to pay for
+[08:51] things, people want to hold them. We
+[08:53] know that just changing the technology
+[08:55] form factor, kind of the wrapper around
+[08:56] the dollar, doesn't change the
+[08:58] debasement rate, doesn't change the
+[08:59] inflation rate, uh kind of any of those
+[09:01] things. And so, what are you guys seeing
+[09:03] when it comes to uh these individuals
+[09:05] portfolios or kind of the different
+[09:07] currencies they use? Are they using
+[09:08] dollars to spend and then they're
+[09:10] holding like Bitcoin for savings? Are
+[09:12] they are they trying to get gold or you
+[09:13] know I know you guys have tether gold
+[09:15] like talk a little bit as to what the
+[09:17] dollar is being used for and then what
+[09:18] are they supplementing the rest of their
+[09:20] financial life with as a way to protect
+[09:22] themselves from that debasement or
+[09:23] inflation.
+[09:25] Look, um, when it comes to USDT, 37% of
+[09:29] the users of USDT are using USDT as a
+[09:32] savings account because if you live in
+[09:34] Turkey, if you live in Nigeria, if you
+[09:35] live in Argentina, your national
+[09:37] currencies devaluating at the pace that
+[09:39] is incredible, is um insane against the
+[09:42] the US dollar. So, it's normal for for
+[09:45] the people the the most the well the
+[09:48] wide user base of of USDT to use it as
+[09:52] their savings account. Of course the the
+[09:55] richer the country or the wealthier is
+[09:57] the person then it might use USDT as um
+[10:02] a checking account. Now uh we believe
+[10:05] that there is a space for and by the way
+[10:07] Tedar does a lot of Bitcoin education
+[10:09] for example when we go in all the
+[10:11] emerging markets first we explain
+[10:13] Bitcoin and then we talk about stable
+[10:15] coins. Unfortunately, in the emerging
+[10:18] markets especially, you have still
+[10:20] people that have urgencies. They have
+[10:23] priorities in their lives, right? So,
+[10:25] they're not rich people. And again, they
+[10:27] live in a country where the inflation is
+[10:30] 70% year-over-year. So, they have bigger
+[10:33] problems than trying to understand what
+[10:35] would what is Bitcoin. That of course to
+[10:38] all of us Bitcoin is the best currency
+[10:40] in the world is the biggest creation in
+[10:42] financial industry. But requires a level
+[10:44] understanding that not necessarily is
+[10:46] everyone is ready to undergo and um and
+[10:51] they might not have the time but they
+[10:53] know the dollar right so they have been
+[10:54] knowing the dollar for the last decades
+[10:56] and using the dollar in form of cash
+[10:58] bills for the last decade decades and so
+[11:02] that's what they ask first they ask okay
+[11:04] can you give me uh stable coin can you
+[11:06] give me USDT teach me how to use USDT
+[11:09] and then that is the pathway to get them
+[11:11] on on Bitcoin and when it comes to gold
+[11:14] also the the common denominator of
+[11:16] emerging markets is the um appreciation
+[11:19] of gold right gold has been the currency
+[11:21] of the world for the last 5,000 years
+[11:24] and um India and a lot of countries in
+[11:27] Africa and other many countries in Asia
+[11:29] um and and Middle East are have been
+[11:31] using gold as a as a form of of savings
+[11:34] as well. So we are seeing recently an
+[11:37] uptake also given the fact that the gold
+[11:39] price went almost 2x or actually more
+[11:41] than 2x in the last u two year and a
+[11:43] half or 3 years then we're seeing an
+[11:45] uptaking of interest of um tar gold in
+[11:48] this moment tar gold is the interest is
+[11:51] more for uh from um hedge funds and
+[11:54] professional traders that are looking at
+[11:57] using it as their um reserve or or
+[12:00] collateral because honestly would be a
+[12:02] better collateral than any fiat
+[12:04] currency. including also the dollar,
+[12:07] right? So they're looking at at least
+[12:09] diversifying their portfolio when it
+[12:10] comes to their savings portfolio or
+[12:13] their collateral portfolio with Tedar
+[12:16] gold. But also we are seeing um higher
+[12:18] uptake from the retail that are you know
+[12:21] they retail has been use buying paper
+[12:24] gold a lot recently and the beauty of
+[12:28] Tedar gold is that we have physical gold
+[12:31] in a vault owned by Tedar and controlled
+[12:34] by Tedar. Uh now we hold between Tether
+[12:37] Gold and Tether own gold reserves. We
+[12:39] have more than well around the 80 tons
+[12:42] of of gold of physical gold held in
+[12:44] Switzerland. So you know it's not your
+[12:46] vault not your gold like not your keys
+[12:49] not your coins is pretty much our
+[12:50] philosophy.
+[12:52] I have heard that uh you guys have the
+[12:54] physical gold and there have been times
+[12:56] where they have been counted and to make
+[12:58] sure that you got exactly what you need
+[12:59] right and uh and verified and things
+[13:01] like that which um talk a little bit
+[13:03] about the attestations that you guys put
+[13:05] uh recently I was talking to someone and
+[13:06] they were asking me all about you know
+[13:08] where's the money go and and I said well
+[13:10] look here's a website and uh the
+[13:11] breakdown I think has gotten much better
+[13:13] over time it's got a lot more
+[13:14] granularity to it uh but but just maybe
+[13:16] talk about the idea of putting it out
+[13:18] there and then also like how you think
+[13:20] about allocating what those reserves
+[13:22] actually are.
+[13:24] So um the reserves are predominantly in
+[13:27] US treasuries and then we have a bit of
+[13:30] gold and a bit of Bitcoin but uh we have
+[13:33] um strong overcolateralization. So Tedar
+[13:37] um USDT the market cap is around $155
+[13:40] billion. Um we have um around 125
+[13:45] billion uh dollars in US treasuries plus
+[13:48] we have gold and bitcoin and we have an
+[13:50] over collateralization just for the
+[13:53] stable coin of um around 6 to7 billion.
+[13:56] Now we are you know running up to the
+[13:58] end of the quarter. So we are going to
+[14:00] do the the updated calculations but we
+[14:02] are keeping uh several billion dollars
+[14:05] more than the 100% reserves that we need
+[14:09] to keep in order to fulfill uh of all
+[14:12] the redemptions. That's because we don't
+[14:14] want to be like a bank. Banks do 90 up
+[14:17] to 90% of um fractional reserve u they
+[14:21] only keep 10% in liquid assets. We want
+[14:24] to keep more than 100% in liquid assets
+[14:27] among which the vast vast vast majority
+[14:29] is US treasuries shortterm and plus the
+[14:32] entire uh terror group has give or take
+[14:35] another 15 to 16 billion
+[14:38] uh in excess. So that you know overall
+[14:42] the entire group has an equity of
+[14:46] 176 billion um in front of 155 billion
+[14:52] as a market cap of USDT. So that is very
+[14:54] unprecedented as uh in in the financial
+[14:57] industry. That's what make us I think
+[14:59] very different. Now we are very proud to
+[15:01] to release um a quarterly stationation
+[15:04] that is done by BDO that is um the fifth
+[15:08] largest auditor in the world. Um the
+[15:11] station is the industry standard is um
+[15:14] is is very thorough and independently
+[15:16] verified. So uh Bo does a very good job
+[15:19] in in in independently verifying our
+[15:21] reserves. you're right, the gold as well
+[15:23] is being checked um weighted and they
+[15:26] you know pass through this scanner um so
+[15:30] they they make sure it's not tungsten
+[15:32] and um yeah so I think that transparency
+[15:35] is is um is key and what I like about
+[15:38] the genius act is that the requirements
+[15:40] of transparency either you are domestic
+[15:43] or foreign are very strong so that you
+[15:46] know you cannot have another teruna that
+[15:50] hides behind the finger and call itself
+[15:52] a stable coin. What do you think about
+[15:55] the Circle IPO? You know, we've seen
+[15:56] Circle obviously uh come out of the gate
+[15:58] and explode. I saw somebody trying to
+[16:00] break down uh the financials of Tether
+[16:03] and say, "Well, if Tether was a public
+[16:04] company, given these uh financials and
+[16:07] kind of the way the market is treated,
+[16:08] you guys basically be worth a gazillion
+[16:09] dollars. This would be, you know, crazy
+[16:11] how how valuable Tether would be." How
+[16:14] do you look at that? And you know, would
+[16:15] you ever be tempted to take Tether
+[16:17] public or or just talk a little bit as
+[16:19] to, you know, kind of you're getting
+[16:20] updated information from the market on
+[16:22] how they're treating the second largest
+[16:24] stable coin? I got to imagine that you
+[16:26] guys are thinking, you know, internally.
+[16:27] Does that change anything that you guys
+[16:28] are doing either in the financing of
+[16:30] your company going public or maybe even
+[16:31] how you operate?
+[16:33] Well, first of all, we're very excited
+[16:36] to see that multiplier. So I think that
+[16:40] someone put out an analysis saying that
+[16:42] you know with a conservative multiplier
+[16:45] ter would be worth $500 billion and I
+[16:47] said that is very conservative in in uh
+[16:50] with all due respect because you know
+[16:52] with the the same multiplier that um
+[16:54] that circle has plus the fact that we
+[16:57] have gold and bitcoin has reserves plus
+[16:59] the fact that we have and we own our
+[17:02] distribution network. we don't have to
+[17:04] pay the distribution network like a vast
+[17:07] majority of our profits then terror with
+[17:10] the same multiplier would be worth $2
+[17:11] trillion. So you know that is a nice
+[17:14] number. Now we are not interested to go
+[17:17] public um especially given the fact that
+[17:20] the company is very profitable and this
+[17:22] year we think we could beat last year
+[17:24] profits. Um then you know why why going
+[17:29] public? Because look um there are two
+[17:32] reasons why people well why companies
+[17:34] want to go public. The first one is
+[17:36] access to cheap capital and in $13.7
+[17:40] billion last year and you know I would
+[17:42] imagine similar numbers or higher
+[17:44] numbers this year you know I it's very
+[17:47] hard to to spend all that money. You
+[17:49] know we have great projects and very
+[17:51] high ambitions but you know again we are
+[17:54] very conservative in the way we manage
+[17:56] the company. We don't have uh you know
+[17:59] dozens of of of employees. We have very
+[18:02] highly professional selected number of
+[18:03] employees that are great. They they work
+[18:05] very hard and are the best in class. And
+[18:08] also we have um uh we have lean
+[18:11] operations. We have we are reinvesting
+[18:14] most of what we we earn in in safe
+[18:18] assets uh like gold and bitcoin. But
+[18:20] also we are doing we have a very strong
+[18:22] investment arm that is investing in in
+[18:25] new technologies like biotech,
+[18:27] artificial intelligence and um
+[18:29] telecommunications even land and
+[18:31] agriculture because we think that is the
+[18:34] ultimate stability of the world because
+[18:35] society will always need land and
+[18:37] agriculture. So we have all that. So we
+[18:39] don't need access to capital and also
+[18:42] most importantly I don't need we don't
+[18:45] need an exit right we are going we we I
+[18:48] feel like tether is one year old is not
+[18:50] 11 years old is is we I feel like we
+[18:52] just started we we can create the
+[18:54] greatest company in the world we are
+[18:56] super excited every single day we wake
+[18:58] up even more excited than the day before
+[19:00] and um that's something that um is a
+[19:04] strong testament to to everyone in the
+[19:05] company. So yeah, no, we we are not
+[19:08] going to be public. Actually, funny
+[19:09] fact, um I took a photo. I I did a great
+[19:13] interview. I think it was great uh with
+[19:15] the New York Stock Exchange. Um I think
+[19:18] um you know, a few months ago and then I
+[19:20] went walked out from from that hall and
+[19:23] I I I look at the bull. I took a selfie
+[19:27] and basically I I posted a picture
+[19:29] saying Tanner does not need to go public
+[19:31] because again we don't need the money
+[19:32] and we don't plan to do an exit. and my
+[19:36] interview was removed from from the New
+[19:38] York Stock Exchange website. That was
+[19:40] hilarious. Um so but look we are we are
+[19:43] simple people even if you know we not
+[19:45] necessarily the establishment likes us
+[19:47] in as establishment talking the big
+[19:49] strong all the finance uh the finance
+[19:52] world I we don't care right so we we
+[19:55] don't want to live quarter by quarter
+[19:57] trying to please a couple of analysts
+[19:59] from JP Morgan why I mean we have a
+[20:02] beautiful business and we are helping
+[20:04] hundreds of millions of people speaking
+[20:07] of uh maybe the incumbent financial
+[20:09] system uh one organization that loves
+[20:11] you guys is Caner Fitzgerald. Um, you
+[20:14] obviously have a a great relationship.
+[20:17] Um, it started with Howard Leticer team.
+[20:20] Now, Brandon Leticum I think you guys
+[20:23] are very close with and and it seems
+[20:25] like Tether and Caner have this kind of
+[20:27] symbiotic thing where they were very
+[20:29] helpful to you all in terms of helping
+[20:31] to uh attest to the the reserves and
+[20:33] things like that early on. Uh, but also
+[20:35] I think as you guys have started to do
+[20:37] more things in the United States, they
+[20:38] seem to be helpful there. talk a little
+[20:39] bit about that relationship and maybe
+[20:41] Howard, Brandon, and the rest of the
+[20:42] team. Today's episode is brought to you
+[20:45] by Maple, the go-to place for onchain
+[20:47] asset management. There aren't many
+[20:48] teams in crypto who manage real money
+[20:50] the right way, but Maple does. Maple now
+[20:53] manages over a billion dollars,
+[20:54] combining serious finance experience
+[20:56] with DeFi innovation. I use Maple
+[20:58] because they make it simple to earn real
+[21:00] yield. Whether that's allocating stable
+[21:02] coins for overcolateralized lending to
+[21:03] institutions, depositing Bitcoin to
+[21:05] their institutional Bitcoin yield
+[21:07] offering, or accessing their premium
+[21:09] DeFi assets like Syrup USDC. If you're
+[21:12] serious about putting capital to work,
+[21:13] then go to maple.inance to learn more.
+[21:16] Once again, that's Maple. Go check them
+[21:19] out today. Today's episode is brought to
+[21:20] you by Zapo Bank, where eligible members
+[21:23] can unlock the power of Bitcoin without
+[21:24] selling it. Need cash fast? With Zapo
+[21:27] Bank's Bitcoin backed loans, you can
+[21:28] access 40% of your Bitcoin's value.
+[21:30] Borrowing as much as $1 million for a
+[21:32] full year with low interest rates, zero
+[21:35] fees, and no early repayment fees
+[21:36] either. Now, here's the best part. You
+[21:39] keep your Bitcoin, meaning you get to
+[21:40] watch your holdings grow as the price of
+[21:42] Bitcoin increases. Whether you're
+[21:43] looking to buy a house, fund your
+[21:45] child's education, or seize an exciting
+[21:47] investment opportunity, these loans give
+[21:49] you the flexibility to access cash
+[21:50] without selling your Bitcoin. Unlike
+[21:52] traditional loans, Zapo Bank's Bitcoin
+[21:54] back loans have no minimum repayments,
+[21:56] no early repayment penalties, and the
+[21:58] flexibility to settle your loan in USD
+[22:00] or Bitcoin whenever it suits you. It's
+[22:02] liquidity entirely on your terms. Zapo
+[22:05] understands the unique needs of Bitcoin
+[22:07] holders. That's why they have developed
+[22:08] a product designed specifically for you.
+[22:11] With over a decade of experience in the
+[22:12] Bitcoin space, Zapo Bank has been a
+[22:14] trusted partner for those looking to
+[22:16] make the most of their Bitcoin while
+[22:17] keeping it safe. Your Bitcoin stays safe
+[22:19] in your vault, untouched, never lent
+[22:21] out, and secured in a global network of
+[22:23] militarygrade bunkers with cuttingedge
+[22:25] security technology. Head to
+[22:26] zapobank.com/p
+[22:29] to learn more. That's xapnk.com/pump.
+[22:33] [Music]
+[22:34] Go check them out at zapobank.com/p
+[22:38] today. Talk a little bit about that
+[22:39] relationship and maybe Howard, Brandon,
+[22:41] and the rest of the team.
+[22:43] Well, um, Caner is, I would say, the
+[22:47] first institution that that took Bitcoin
+[22:49] very seriously. We, um, we had the
+[22:52] opportunity to meet them, um, very early
+[22:55] on, a few years ago when they were
+[22:58] looking at all the different players in
+[22:59] the industry and they found ourselves
+[23:02] um, in they found ourselves uh, very
+[23:06] interesting. But first they wanted to
+[23:08] understand and get the answer to the
+[23:11] biggest question around tether that
+[23:13] circulated. Do we have actually the
+[23:16] money? So they did two years of very
+[23:20] strong due diligence. They turned every
+[23:21] single rock and the more time was
+[23:24] passing they was like they were like all
+[23:26] right these guys must have the money
+[23:27] because they everything that they say is
+[23:29] there. And uh you know that that uh in
+[23:33] the end uh um ended up with um Howard
+[23:36] Latnik going public in um early 2024
+[23:40] with a statement they have the money uh
+[23:44] proving and saying that you know money
+[23:47] the the all the T bills are in
+[23:49] counterfeit Gerald and um you know like
+[23:52] vast vast majority of the tables are in
+[23:54] counterfeit Gerald and they they you
+[23:56] know they are in on on US soil that is
+[23:58] the other thing right. So lot of um
+[24:01] there is still a lot of f a lot of um
+[24:04] misinformation like around terror. We
+[24:07] keep our reserves with our treasuries in
+[24:12] the United States. If we were a company
+[24:14] that wanted to hide, would we keep 120
+[24:17] plus billion dollars in the most or one
+[24:20] of the most regulated financial
+[24:22] institutions in the United States? that
+[24:25] is like you know the when you hear this
+[24:27] stuff I I I think people don't open X or
+[24:30] don't open you know our website or don't
+[24:33] don't read since 2017 because you know
+[24:36] they're clearly stuck to the old fashion
+[24:38] of FOD because now um I think that
+[24:41] everyone that that uh has a bit of brain
+[24:44] and can read and is looking around can
+[24:47] see that first of all given the
+[24:49] profitability tether given the fact that
+[24:50] we keep our money in the United States
+[24:52] we have been scrutinized by so many
+[24:54] regulators, the New York Attorney
+[24:56] General and so many others. We have been
+[24:58] on boarded and scrutinized by even
+[25:00] counter and so that is that was um you
+[25:04] know I I think a strong result plus I
+[25:07] think that the counter now is
+[25:08] positioning itself as uh the leader in
+[25:11] space when it comes to Bitcoin products.
+[25:13] They announced like uh Bitcoin lending.
+[25:16] they announced um um a product that is
+[25:20] um you know a fund that is uh a fund
+[25:23] that allows um people companies go long
+[25:26] bitcoin but with downside protection
+[25:28] with gold. So there there are I I think
+[25:32] that they are uh very good in in
+[25:33] understanding the space and very very
+[25:35] committed and I I'm proud to be to have
+[25:37] participated to their orange peeling. I
+[25:40] uh I loved that uh they uh they did two
+[25:43] years of due diligence and I remember
+[25:44] when Howard Lutton came out and said
+[25:45] they got the money and everyone was like
+[25:47] wait what like that's not a Bitcoiner
+[25:49] saying that right that's somebody who uh
+[25:51] if he's saying that he either really
+[25:52] really believes or he's going to look
+[25:54] very bad after the fact and so I think
+[25:56] that was a kind of a seminal moment um
+[25:58] but but also I think that you've worked
+[25:59] with a lot of other organizations most
+[26:01] recently uh the department of justice uh
+[26:04] basically came out and said that you
+[26:05] guys helped them um if I understand this
+[26:07] correctly it's like a $225 million
+[26:10] dollar uh case, but it's around pig
+[26:12] butchering. Is that right? Yeah. Yeah,
+[26:15] it's right. It's crazy, right? So, it's,
+[26:17] you know, it's a romance scam. It's like
+[26:21] uh nice Well, nice girls could be now
+[26:24] generated with AI. I don't know. I mean,
+[26:25] but you know, maybe there is a like
+[26:27] there is a an old dude behind them, but
+[26:30] you know, sending messages to to to guys
+[26:33] and basically asking them for money and
+[26:35] guys basically sending these these girls
+[26:38] some money and crazy thing is that they
+[26:41] they were able to to to get $225 million
+[26:45] out of this. And there is a a huge
+[26:48] misconception around it. So you know I I
+[26:50] was talking to some journalists and they
+[26:52] were like oh that means that you know
+[26:55] these criminals are using USDT and you
+[26:57] know a lot and I was like no that is
+[27:00] actually the the wrong way to look at
+[27:02] it. The right way to look at it is that
+[27:04] tbachering is not stealing USDT from the
+[27:08] people. What happens is that who pro who
+[27:12] is the criminals are asking for the
+[27:15] money. The money is being sent through
+[27:17] credit cards and debit cards or or you
+[27:20] know other like uh payment apps to
+[27:23] payment processors that these payment
+[27:26] processors or from bank accounts. What
+[27:28] what mentors they are the the money is
+[27:31] first sent to payment processor then is
+[27:33] moved on an exchange and then is moved
+[27:35] maybe on a crypto exchange and then is
+[27:36] moved to USDT. when it gets to USDT, we
+[27:39] freeze it. So for three times, two or
+[27:42] for two or three times, traditional
+[27:45] financial systems fail to freeze and to
+[27:48] recognize the the the scam and to freeze
+[27:51] the money. They failed that. And when it
+[27:53] comes to USDT, when it gets converted to
+[27:55] USDT and goes on chain, we can recognize
+[27:58] the patterns because for the last 11
+[28:00] years, we developed the best monitoring
+[28:02] technology and then we proceed to
+[28:05] freezing. So all the noise about you
+[28:08] know cryptocurrencies and stable coins
+[28:09] used for criminal activity is actually
+[28:12] stable coins and USDT is the worst are
+[28:16] the worst tool for for criminals because
+[28:18] criminals will be caught and money will
+[28:19] be frozen. When you think about uh users
+[28:23] of USDT one of the things to me that uh
+[28:26] becomes really interesting is um by
+[28:29] having a public blockchain you now have
+[28:32] access to that information. And you're
+[28:33] talking about a law enforcement use case
+[28:35] here. Are there things that you think
+[28:37] you can do whether it's generating
+[28:39] analytics, whether it's measuring
+[28:40] inflation, whether it's, you know,
+[28:42] measuring an economy or or other things
+[28:44] that you can start to do as you get
+[28:45] access to more and more information on
+[28:46] chain. Like I've always been fascinated
+[28:48] with this idea that um you know, we know
+[28:50] that the uh Fed and the Bureau of Labor
+[28:53] Statistics like they're horrible with
+[28:54] the data. They're looking at backwards
+[28:56] looking information. They're trying to
+[28:57] tell you what's going to happen in the
+[28:58] future by telling you what happened in
+[29:00] like February with inflation. But right
+[29:02] now, Stripe or uh Square or maybe like a
+[29:05] Zillow or you know any of these sites,
+[29:07] they have real-time information. You all
+[29:10] maybe more so than almost anyone in the
+[29:11] world have real-time information of
+[29:13] payments and and uh kind of what people
+[29:14] are doing with money. Have you guys
+[29:17] started to kind of explore what exactly
+[29:19] is is valuable there?
+[29:22] Well, yes. So we we are creating an
+[29:25] internal dashboard to understand exactly
+[29:29] how USDT is being used and that
+[29:31] dashboard is the one that allows us to
+[29:33] understand that 37% of USD holders are
+[29:37] holding USDT as a savings account. We we
+[29:40] understand the time zones where USDT is
+[29:43] being sent the most. We understand the
+[29:45] service providers that are using most
+[29:46] USDT.
+[29:48] So that's how we could get to
+[29:51] understanding that now we have around 4
+[29:53] 450 million users and the growth of
+[29:55] number of wallets per quarter is around
+[29:58] 30 million new wallets and so that is
+[30:01] almost like Facebook Facebook level of
+[30:03] growth. So look I I think that data is
+[30:07] is fundamental for for a business like
+[30:09] because with data we can automate a lot.
+[30:12] We can we are starting to implement
+[30:14] through our QAC AI platform. We are also
+[30:17] thinking how we can leverage all the
+[30:19] data that we are collecting from
+[30:20] blockchains to try to understand our
+[30:22] business better in a certain way like
+[30:25] the the you know the the fact that
+[30:27] became so popular without us having even
+[30:29] a marketing team you have sometimes to
+[30:32] go back and look in retrospect and
+[30:34] understand how why it happened and what
+[30:37] made made it great and so that's what we
+[30:40] are doing through this platform we are
+[30:41] going back in the entire history of
+[30:43] Tedar and trying to to pair it every
+[30:45] single
+[30:47] um increase or decrease of the monetary
+[30:49] supply um type two event geopolitical
+[30:53] local event and so on and trying to link
+[30:55] it to time zones link it to different
+[30:57] service providers and so that is
+[31:00] extremely helpful so I I think that it's
+[31:02] going to be the foundation for our
+[31:04] future growth um you know we are we are
+[31:07] now um starting to use these tools to
+[31:09] understand how commodity traders are
+[31:11] using USD that I believe is going to be
+[31:13] the biggest game changanger for the
+[31:15] growth that are in the next few years.
+[31:17] Explain that more. What why the
+[31:18] commodity traders?
+[31:20] So if you're a commodity trader um you
+[31:24] do oil deals. Imagine like you want to
+[31:26] buy some oil and trade oil. What happens
+[31:29] is that you you have a ship waiting to
+[31:33] load barrels of oil in some dock and
+[31:36] then the ship cannot start loading the
+[31:38] barrels of oil until the the wire hits
+[31:42] uh the bank account of the seller. And
+[31:44] uh that can take 1 day, 3 days, 7 days.
+[31:48] You know, there there the slowness is
+[31:51] incredible even for huge commodity
+[31:53] trading firms. We're talking to the
+[31:54] biggest all the biggest commodity
+[31:56] trading firms and they all report the
+[31:58] same. And so you know they they suddenly
+[32:01] discover USDT and they think that is the
+[32:03] best thing after sliced bread because
+[32:06] then for them they all know that in all
+[32:09] the emerging markets in all basically
+[32:11] most of the countries where they're used
+[32:12] to to to do trades and send dollars they
+[32:16] can send USD because USDT there is
+[32:18] accepted by the population because those
+[32:20] are exactly the countries that are using
+[32:21] USDT as their savings accounts. So then
+[32:25] they know that the seller is
+[32:26] incentivized to um to to obtain USDT as
+[32:30] a payment because it's faster and so
+[32:32] they can the efficiency of money for the
+[32:34] commodity traders is higher. The seller
+[32:36] is happier because gets the money sooner
+[32:38] and also the salaries knows that can
+[32:41] also use USDT locally and to pay
+[32:44] salaries to the population and all that
+[32:45] because USD is accepted as a normal
+[32:48] currency. Look at Bolivia. I mean,
+[32:50] Bolivia posted a tweet like in the in in
+[32:53] Bolivian shops in in Santa Cruz people
+[32:55] and the the you know tags of the price
+[32:58] tags are USD. That happens all the time
+[33:01] in many many countries and many many
+[33:03] cities
+[33:04] when you think about how this stuff
+[33:07] starts to play out. Um do you foresee a
+[33:09] world where Tether is integrated into
+[33:13] the stock market? Like for example,
+[33:15] rather than using the electronic
+[33:17] dollars, uh I want to sell a stock and I
+[33:19] literally sit in Tether or I pull
+[33:21] withdraw money from the stock market in
+[33:23] Tether like how how deep into the
+[33:25] traditional financial system can you
+[33:27] push this versus do you have to build a
+[33:29] parallel system and you say hey look we
+[33:31] got to go build a whole new stock
+[33:33] exchange we got to go build a whole new
+[33:34] you know kind of payment system and then
+[33:36] we'll put uh tether into that world.
+[33:40] So I think that um you know consortium
+[33:43] banks will trying to cover the first use
+[33:45] case that you described um and honestly
+[33:48] that will be basically a tokenized money
+[33:51] market fund because you know traders
+[33:54] especially from the traditional board
+[33:55] they are used to such a high efficiency
+[33:58] of money um having clearing houses and
+[34:01] all that that um it's are you know
+[34:03] always at their disposal that they you
+[34:06] know it will just improve the the effic
+[34:09] efficiency a little bit as I said from
+[34:11] 90% to 95%.
+[34:14] So what I believe that is going to but
+[34:16] you know focusing on that use case will
+[34:20] not improve 90% of the the rest of the
+[34:22] population. So you know 3 4 billion
+[34:25] people are living in different
+[34:26] conditions. They are the ones that
+[34:28] cannot access to the to the to to the
+[34:31] traditional markets. They they need
+[34:34] different tools. they need tools then
+[34:36] they they they they leap forward 30
+[34:39] years of of of technology and will use
+[34:42] daxes on chain they will use stable
+[34:44] coins and all that so actually it's the
+[34:48] emerging markets that will need a
+[34:50] parallel financial system still you know
+[34:53] are subject to regulations again the the
+[34:56] the genius art is a great first example
+[34:59] but you know this will bring new
+[35:02] opportunities to the people that need it
+[35:03] the most I don't I think you know the
+[35:05] you know the the the the traders that
+[35:08] are used to one nanocond
+[35:11] um um efficiency for trading will you
+[35:17] know benefit incredibly much from a
+[35:19] stable coin but if you live in Nigeria
+[35:22] and want to have access to a stock
+[35:24] market for example that is game changer
+[35:27] and when you start to see kind of uh the
+[35:30] profits that you guys are generating
+[35:32] obviously it's a lot 13.7 billion last
+[35:34] here just a couple of pennies. Um you
+[35:36] are investing in all kinds of things as
+[35:39] a diversification strategy. Um but
+[35:41] they're not just things where you're
+[35:43] going and saying, "Hey, let's go buy,
+[35:44] you know, a car wash. You guys are
+[35:46] investing in AI. You're investing in
+[35:48] brain computer interfaces. You're
+[35:49] investing in humanoid stuff. You're
+[35:51] doing, you know, computational power. I
+[35:53] mean, like the things you're doing are
+[35:54] the future. Uh regardless of who the
+[35:56] individual winners are, like the trends
+[35:58] are where the world is headed. talk
+[36:00] about the philosophy there and maybe
+[36:01] some of the projects that you guys are
+[36:03] heavily involved with. Maybe we talk
+[36:04] about QVAC and then I know that the uh
+[36:06] brain computer interface is maybe one of
+[36:08] the things that you spend the most time
+[36:09] thinking about.
+[36:11] So today's episode is brought to you by
+[36:14] Polka Dot. Polka Dot offers secure,
+[36:16] scalable, and decentralized blockchain
+[36:18] technology that perfectly aligns with
+[36:20] the needs of innovative projects. It was
+[36:22] developed by Gavin Wood, one of the
+[36:23] co-founders of Ethereum and the creator
+[36:25] of Solidity. Polka dot aims to build an
+[36:27] internet where users have full control
+[36:29] over their data and their applications.
+[36:31] Polka dot offers tons of unique
+[36:33] features, a shared security model along
+[36:35] with a new auction model and significant
+[36:37] implementations like ASIC banking. Given
+[36:39] these characteristics, it's easy to
+[36:41] understand why Polka Dot is gaining more
+[36:43] and more traction in the cryptocurrency
+[36:44] world. Some people even are talking
+[36:47] about it as the AWS of web 3. Now,
+[36:50] companies such as Mythical Games, Astro
+[36:52] Network, and over 50 other independent
+[36:54] blockchains with hundreds of
+[36:55] applications already leverage Polka
+[36:57] Dot's technology to power their
+[36:59] platforms. If you're looking for a
+[37:01] reliable, scalable, and cuttingedge
+[37:02] solution, Polka Dot seems to be the top
+[37:04] choice for industry players. Go check
+[37:06] them out today at polka dot.com. We are
+[37:09] being in this lucky situation. Um, we
+[37:12] are carefully planning how to we use our
+[37:14] profits and being Bitcoiners at heart.
+[37:18] um you know we we created this um this
+[37:22] uh basically almost an equation that
+[37:26] says that uh in order to have a stable
+[37:28] society right the journalist asked me
+[37:30] you know what how you would define
+[37:32] tether and the journalist told me that
+[37:35] um he would define tether as the stable
+[37:38] coin company and I replied I would
+[37:41] define it as as as the stable company so
+[37:46] remove coin is the stable
+[37:48] company company because the aim is
+[37:51] helping stability of society. And so we
+[37:54] realize that for for society to be
+[37:57] stable, society needs stable money. That
+[38:01] you know for for emerging markets,
+[38:02] stable money can be used be USDT because
+[38:05] their existing solution is not that
+[38:09] stable at least compared to USDT. So
+[38:12] everything is relative. Of course, you
+[38:13] could say that stable money for for um
+[38:17] for the US could be gold or bitcoin, but
+[38:20] for Nigeria or for for Turkey, stable
+[38:22] money is USD.
+[38:24] Then the second thing would be so this
+[38:27] equation is is four-fold. The second
+[38:29] part would be uh freedom of speech and
+[38:31] the freedom of communications. And so we
+[38:33] are trying to do that with Keith and
+[38:35] whole punch creating peer-to-peer
+[38:37] communications with a great user
+[38:38] experience that is basically equal to or
+[38:41] superior to a normal centralized system
+[38:43] but completely undisruptable uh
+[38:46] completely unstoppable completely free
+[38:48] for everyone. Right? So that is the
+[38:50] second layer. The third one is stable
+[38:54] energy. So um you need to for a stable
+[38:57] society you need to have uh egalitarian
+[38:59] access to electricity. So um electricity
+[39:03] brings to education brings to a lot of
+[39:05] things of course it's is very obvious.
+[39:07] So we are even in Africa we are trying
+[39:09] to help with stable electricity or
+[39:12] energy through these kiosks that we're
+[39:14] building uh with solar panels on top and
+[39:16] batteries inside. We are selling
+[39:18] subscription to rechargeable batteries.
+[39:20] We did a pilot with 500 kiosks now in
+[39:22] small um small villages in Africa and we
+[39:26] have now you know 500 k around 500,000
+[39:29] um subscribers already and we did more
+[39:33] than 10 million battery swaps. So that
+[39:36] is that is the pilot but by 2026 we're
+[39:39] going to have 10,000 kiosks and by 2030
+[39:42] we're going to have 100,000 kiosks. So
+[39:44] that is stable energy. It's like
+[39:45] decentralized energy. So you don't have,
+[39:48] you know, you have uh you bring the
+[39:49] energy source clo closer to to to the
+[39:52] user. That's what we like about, you
+[39:54] know, Bitcoin, right? And what we like
+[39:56] about peer-to-peer telecommunications,
+[39:58] like bringing the ownership and the
+[40:00] control, but basically closer to the
+[40:01] person, closer to the user. The last one
+[40:04] is stable intelligence. And so stable
+[40:08] intelligence means an intelligence that
+[40:10] is um controlled and owned by the person
+[40:14] and not by a big corporation. So my my
+[40:17] fe theor is I I made made this this
+[40:19] analogy with the kazio calculator right
+[40:23] when I was a kid when I was in
+[40:24] elementary school we were forced to do
+[40:26] all the multiplication division uh
+[40:28] additions uh with mind with our mind so
+[40:33] to train our mind and become fast and
+[40:35] being able to be to quickly multiply and
+[40:38] divide and all that. Now most of the
+[40:40] people um they are so used to use
+[40:43] calculators that they cannot even for a
+[40:45] small uh addition they will not do it by
+[40:47] mind they will do it on the calculator
+[40:50] and so imagine for a simple case like
+[40:53] calculations how calculators what
+[40:55] calculators made to the ability of
+[40:57] people to calculate in their mind.
+[40:59] Imagine what AI could do to the human
+[41:03] brain if basically AI will do all the
+[41:05] thinking or most of the thinking. And so
+[41:07] at least the concept of not your coins,
+[41:11] not uh not not your keys, not your coins
+[41:14] and not your um vault, not your gold
+[41:16] should be applied to the intelligence.
+[41:18] So not not your AI, not your
+[41:20] intelligence is kind of our motto. So we
+[41:23] want to build a peer-to-peer AI platform
+[41:25] that uh allows to do inference and uh
+[41:28] keep the data of the users directly
+[41:30] local to the people's devices. So with
+[41:34] um it can run on a $30 smartphone can
+[41:36] run basically everywhere. it adapts of
+[41:38] course the more power the better it will
+[41:40] be the model that is going to be using
+[41:42] the more weights is going to be used
+[41:43] from the model and all that right but
+[41:45] that is my opinion a way to ensure that
+[41:49] um AI will not increase the gap uh of of
+[41:53] access to education and access to
+[41:56] intelligence between different
+[41:58] populations already money is a huge um
+[42:01] divider and I think that AI could
+[42:04] multiply that divider by 100x if we on
+[42:07] to create something that again is
+[42:09] peer-to-peer from the get-go. We cannot
+[42:11] live in a future where only three
+[42:12] companies will become the will have the
+[42:15] entire intelligence of the board. And so
+[42:18] that's something that Tether fortunately
+[42:20] has the balance sheet to fight against
+[42:22] and to build a different alternative
+[42:24] system. We did it already once with
+[42:26] money and we're going to do it again
+[42:27] with intelligence. When you think about
+[42:29] the future of Tether 20 years from now,
+[42:32] 30 years from now, you're you're a young
+[42:33] guy, you know, good-looking Italian. Um,
+[42:35] only second best looking one on this uh
+[42:37] call here, but uh good-looking Italian.
+[42:40] Um, what what is the vision for this,
+[42:42] right? I mean, you you have solved one
+[42:44] of the problems that is very difficult
+[42:46] for people who have high ambition and uh
+[42:48] who have unique thoughts of the world,
+[42:50] which is you have the capital that
+[42:52] profit is an engine that you can use to
+[42:54] go after some of these big ideas. Is it
+[42:56] something where you know um Elon's got
+[43:00] everything from rockets to electric
+[43:02] vehicles to brain computer interface
+[43:03] like he's trying to build the future and
+[43:04] you guys aspire to be much more than
+[43:06] just the stable coin or is there some
+[43:09] other future vision that you really see
+[43:10] for the Tether group uh that people
+[43:12] should kind of keep in mind as we watch
+[43:14] this play out over the next couple
+[43:15] decades?
+[43:17] Well, I think that um it might be um
+[43:20] counterintuitive, but my dream is to
+[43:23] create a company that builds technology
+[43:26] that can survive to the death of the
+[43:28] company itself, right? We we exceeded
+[43:31] our dreams with the with the
+[43:34] profitability of this company and
+[43:35] personally and all that, right? So, you
+[43:38] know, we even like Tedar only
+[43:40] distributed less than 5% of the profits
+[43:42] that he made in from from inception. So
+[43:45] all the rest is is is kept in the
+[43:47] company to invest in great
+[43:49] opportunities, great companies, great
+[43:51] minds to build but with one mission to
+[43:54] build a decentralized future that is
+[43:57] bringing control and power closes closer
+[44:00] to the person. Uh we want I want to
+[44:03] build technology that not even tar can
+[44:06] control. I want if we build a
+[44:08] communication app, I want people to
+[44:10] control the communication app to to have
+[44:11] the data local to have I want that
+[44:15] communication app to survive even even
+[44:17] eye or tether dies right that is the
+[44:20] beauty I think that is the ultimate goal
+[44:22] of what we're building is to to create
+[44:24] that the same with AI the same with
+[44:26] everything else right so we want to do
+[44:28] things that um are resistant to the
+[44:30] wrath of god hence they they should
+[44:32] survive to whatever happens including
+[44:34] tether disappearing so only at that
+[44:37] point I know that we have done a very
+[44:39] good job.
+[44:41] What is your personal mission still?
+[44:44] What what is the thing that you haven't
+[44:45] accomplished yet outside of the company?
+[44:47] Like we know the company as you just
+[44:48] described, but for you personally like
+[44:50] what what is motivating you? What is the
+[44:52] thing that you're still driving towards?
+[44:57] I mean my my my dream is really linked
+[44:59] to to to the company sense that I
+[45:04] I think that we I think that my myself I
+[45:07] can build
+[45:10] with with our team this vision of of uh
+[45:15] ensuring that in the worst case scenario
+[45:18] the thing that I hate the most is
+[45:20] technology is only working we we are so
+[45:24] immersed in technology today and that
+[45:26] technology only works in the best case
+[45:28] scenario. I mean in these last days you
+[45:31] have you might have heard of this little
+[45:34] thing as the World War II that was
+[45:36] airing around and I can guarantee you
+[45:39] that in that case if that truly happens
+[45:42] most of the technology that we we have
+[45:44] in our pockets will stop working
+[45:47] because internet lines will be cut and
+[45:49] so technology should be more local
+[45:52] should be able to work in the worst case
+[45:54] scenario should be able to work with
+[45:56] latency that is one day or one
+[45:59] Most of the applications don't work if
+[46:01] latency is higher than 1 second and
+[46:05] there are timeouts of technology that is
+[46:08] every single
+[46:10] SDK or library for coding has a timeout
+[46:12] of 30 seconds. So if you cannot get a
+[46:15] connection for 30 seconds everything
+[46:16] starts to fail. How crazy is that? But
+[46:19] if we are living in a disaster scenario
+[46:22] we need to be able to have technology
+[46:23] that works locally first. That's my
+[46:27] mission is actually to prove that you
+[46:29] can build great technology that is human
+[46:31] first is persons first is peer first and
+[46:35] can survive to the worst case scenarios
+[46:38] but even if we are going to a
+[46:40] multilanetary uh life what is the
+[46:43] latency between here and the moon what
+[46:45] is the latency between here and Mars so
+[46:47] we need to be able to have that type of
+[46:49] technology and that's what we are
+[46:51] building with whole punch with our AI
+[46:53] platform with everything else is a a
+[46:56] future where doesn't matter if you are
+[46:58] close or far everything will keep
+[47:00] working the and you are going to be
+[47:02] protected by the by by your technology
+[47:04] and everything will be open even with a
+[47:06] brain computer interface company we want
+[47:08] to build an open source brain operating
+[47:10] system so that people will have full
+[47:13] control over their own lives that is my
+[47:15] life mission um you know it all started
+[47:18] for me when I've been a coder all my
+[47:20] life I started when I was eight and I
+[47:23] know I've been a sci-fi I fan that is
+[47:25] driving all most of my thoughts. I
+[47:28] always think about like sci-fi and event
+[47:30] sci-fi eventually will become true and
+[47:32] so so it means that eventually will
+[47:35] hit the fan and I want to be able to
+[47:37] build for that scenario and uh I did I
+[47:40] was researcher in this group that was um
+[47:43] building a telecommunication network for
+[47:45] for disaster scenarios like from the
+[47:47] apocalyptic scenario or a battlefield
+[47:50] and if you are like a person in a
+[47:52] battlefield
+[47:53] you know you have you need this
+[47:56] communication network that will work and
+[47:58] will it needs to save your life, right?
+[48:00] It needs to talk to your friends, needs
+[48:03] to be able to get you out from a very
+[48:06] dangerous situation. And so I started
+[48:08] thinking about technology in that sense.
+[48:11] So you need technology that will save
+[48:14] your life when your life when you are
+[48:16] the most scared when your life is in
+[48:18] danger because that could happen to
+[48:19] everyone. And and so that is basically
+[48:22] how how I try to think about everything
+[48:24] that I build in in in um in Tether. I
+[48:28] could talk to you all day, man. I uh I'm
+[48:30] obviously very impressed with uh what
+[48:32] you guys are doing with Tether, but I
+[48:33] think that the broader vision and kind
+[48:35] of the vision for humanity and its
+[48:36] intersection with technology is is
+[48:38] inspiring. Um and uh you know, I'm glad
+[48:41] that you guys have the capital uh
+[48:43] available to you to go and see if uh if
+[48:45] you can help usher that world in.
+[48:46] there's not very many people who I think
+[48:48] understand some of these problems but
+[48:50] also have the the courage and ambition
+[48:51] to go after them. So, uh from everyone
+[48:53] else, thank you very much and we'll
+[48:55] definitely do this again in the future.
+[48:57] Thank you for for having me. Great
+[48:59] talking to you.

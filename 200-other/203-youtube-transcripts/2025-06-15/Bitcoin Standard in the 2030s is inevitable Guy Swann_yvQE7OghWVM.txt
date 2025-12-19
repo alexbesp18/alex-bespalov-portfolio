@@ -1,0 +1,1888 @@
+Title: Bitcoin Standard in the 2030s is inevitable | Guy Swann
+Video ID: yvQE7OghWVM
+URL: https://www.youtube.com/watch?v=yvQE7OghWVM
+Date Saved: 2025-06-15 11:59:24
+--------------------------------------------------
+
+[00:00] we're here like right when this is
+[00:02] really starting I don't see how we don't
+[00:03] make it through the 2030s without a
+[00:05] Bitcoin standard the internet without
+[00:07] Bitcoin is actually going to centralize
+[00:10] and move into a direction that makes the
+[00:11] internet a negative in a lot of
+[00:13] different way the interest rate price
+[00:14] controls and the Fiat system don't work
+[00:17] if people have an escape Bitcoin is
+[00:18] small enough that it like moves like
+[00:20] crazy and dollar is so huge that it's
+[00:22] just like really hard to see anything
+[00:24] but as they get closer and you start to
+[00:25] see little movements you just shift
+[00:28] eventually one's only going down and
+[00:30] one's only going up on a long enough
+[00:32] timeline in seven years it'll be a very
+[00:33] very interesting conversation seven
+[00:35] years we may be looking back and
+[00:36] thinking like oh yeah this is we're
+[00:38] already we're already past that point
+[00:40] where that market can't operate as if
+[00:42] Bitcoin doesn't
+[00:43] exist I want to start the day with what
+[00:46] do you think is the most widely
+[00:48] misunderstood aspect in Bitcoin when you
+[00:51] talk on the one hand with bitcoiners but
+[00:53] also on the other hand with normies that
+[00:56] are not in Bitcoin and what should like
+[00:58] what should be the topic that I should
+[01:00] feature in almost every podcast episode
+[01:03] to educate people
+[01:05] on so the biggest disconnect without
+[01:07] question and it's funny because like
+[01:10] I've been wasting time on X this on
+[01:12] Twitter this morning and uh um and it's
+[01:16] it's with the finance guy or whatever
+[01:19] who's having the exact same the the the
+[01:22] mental frame the the picture that he has
+[01:24] for what Bitcoin is is just so it's so
+[01:28] payments app
+[01:30] you know it's like it's just like this
+[01:32] is it's a it's a
+[01:34] monetary asset and I actually got him to
+[01:38] recognize that most people still don't
+[01:40] trust Bitcoin don't understand what it
+[01:42] is and have no conception that it's like
+[01:45] a reliable place to store value and I'm
+[01:46] like yes yes yes trust trust trust the
+[01:51] trust Market the cycle of adoption of
+[01:54] trust as a monetary good is still
+[01:57] incredibly nent and you know when when
+[02:00] you look at Monetary history and you're
+[02:03] trying to compare it to stuff like he's
+[02:05] comparing it to which this is an analogy
+[02:08] that I this is an analogy that I use
+[02:11] quite a bit is tcpip because it is also
+[02:13] a protocol and protocols have their own
+[02:16] difficulties in network adoption but
+[02:18] it's a protocol and the money and from
+[02:21] the context of a
+[02:23] money he's thinking of it like a
+[02:25] payments app like oh well cash app was
+[02:27] popular after like three years you know
+[02:29] why can I use it at Costco I'm like
+[02:32] every other monetary a good a good in
+[02:36] the market a new monetary good that has
+[02:38] been monetized literally it's like an
+[02:41] average of a century like Bitcoin is
+[02:44] being monetized faster than any other
+[02:47] monetary good the trust network is
+[02:49] growing and providing a positive
+[02:51] feedback for Bitcoin faster than any
+[02:54] other money in history it is succeeding
+[02:59] wildly and his like I can't use it at
+[03:01] Costco yet and it's been 15 years is
+[03:04] like I get that you see apps you see
+[03:07] apps you see the internet you see these
+[03:10] technological things that have been
+[03:12] adopted you've never seen a trust
+[03:15] Network be adopted you've never seen an
+[03:18] asset be monetized from zero because if
+[03:22] you and and I'm trying right now
+[03:24] actually last the last thing I said to
+[03:26] him was what's the most recent thing
+[03:28] that you can think of that was a good
+[03:30] that was monetized what's the most
+[03:32] recent one what was it like how long did
+[03:34] it take like what were the
+[03:36] characteristics um and and that's like a
+[03:39] huge disconnect all the all the normies
+[03:41] that I talk to they they think in apps
+[03:44] they think in websites they think and
+[03:48] platforms it's just like they don't
+[03:51] realize that there's genuinely
+[03:54] nothing nothing in their span of 20
+[03:57] years of existence or 30 years whatever
+[03:59] it is is that actually relates to
+[04:02] bitcoin they can really apply it to you
+[04:04] can get a general understanding of how
+[04:07] difficulty the net how difficult the
+[04:08] network effect and how the technology
+[04:11] stack is going to unfold because you can
+[04:13] look at Bitcoin like a protocol and we
+[04:15] have the internet to compare it to it
+[04:17] Bitcoin is a fundamental protocol as as
+[04:20] core to our communication layers in fact
+[04:23] arguably below it even though it you
+[04:25] kind of need the Internet for Bitcoin to
+[04:27] work you technically don't like it's the
+[04:30] the trust layer actually becomes it's
+[04:31] weird because the you know the internet
+[04:34] layer is right here you've got like the
+[04:36] foundation of society you've got like
+[04:37] culture language Pol like like uh the
+[04:40] societal rules and property rights and
+[04:42] the political system and then you've got
+[04:44] communication layers right you obviously
+[04:46] you can't have a communication layer
+[04:47] until you have language um so
+[04:49] communication layers are above it and
+[04:51] then because of this communication layer
+[04:52] we are able to create a new monetary
+[04:55] protocol except that that new monetary
+[04:57] protocol is actually down here
+[05:00] it's just it can only exist because of
+[05:02] the technology of the communication
+[05:03] layer um so it's it's interesting to
+[05:06] think about it that we're building a
+[05:08] lower layer on with all of the tools of
+[05:10] a higher layer uh uh and but like that
+[05:14] that framing so we can kind of
+[05:16] understand the evolution of the
+[05:17] technology stack because it is a
+[05:19] protocol and we've we've actually have a
+[05:22] a very Prime and recent example of
+[05:24] watching a protocol stack come into
+[05:26] being which most people still don't know
+[05:28] much concrete about the history of
+[05:30] the internet they just kind of Google it
+[05:32] like um but there's a fascinating and
+[05:35] kind of Rich history to unpack there
+[05:37] which I've done in a bunch of different
+[05:38] episodes on the show um but uh but yeah
+[05:42] 100% 100% it's that bitcoin's first
+[05:46] Network effect and adoption cycle is
+[05:49] going to be very long it's going to be
+[05:51] very slow and it's about trust it is
+[05:54] about trust it's not about payments it's
+[05:57] not about buying stuff with it at Costco
+[05:59] it's about establishing its trust in the
+[06:03] face of you know 200 some odd monetary
+[06:07] competitors uh and who also maintain a
+[06:10] violent Monopoly over the money market
+[06:13] can it continue to exist and can it
+[06:15] continue to be a money in those markets
+[06:20] despite a violent Monopoly preventing it
+[06:23] that's what bitcoin's job is right now
+[06:25] so that's amazing and I think um the
+[06:30] comparison with this dcpip protocol is
+[06:32] so crucial because people don't get that
+[06:35] uh they always trying to compare
+[06:37] MasterCard PayPal and everything with
+[06:40] Bitcoin but this are layer three four
+[06:42] five technology and not layer one
+[06:44] technology and once you study and I
+[06:47] study it and and computer science in in
+[06:50] school like when I I was like 15 16
+[06:53] years old from that onwards moment and I
+[06:56] know the tcpi pro protocols and still it
+[06:59] was for me a big hurdle to go over
+[07:00] through that um but for me it's like
+[07:03] with with Bitcoin you have the
+[07:05] possibility to invest in the tcpi Pro P
+[07:07] protocol this is something mindblowing
+[07:09] like imagine like don't don't having to
+[07:12] care what application on there will
+[07:14] succeed because with tpip you had to
+[07:17] like oh will Facebook succeed with
+[07:19] Myspace succeed will Amazon succeed and
+[07:23] you had to invest in there to gain from
+[07:25] that with Bitcoin you can invest in the
+[07:27] base layer like in the tcpip
+[07:30] tokens if you want to do that uh which
+[07:33] which also leads me kind of to the to
+[07:34] the next topic uh do you think and we
+[07:38] talked about a little bit do you think
+[07:39] the internet or Bitcoin is then the
+[07:42] bigger Revolution because we could argue
+[07:44] that Bitcoin is kind of in the internet
+[07:47] Revolution and it's the monetary aspect
+[07:50] of the internet but it's also its own
+[07:52] thing where you can build on top of
+[07:56] that
+[07:57] um it's interesting
+[08:00] because Bitcoin as a
+[08:03] protocol technically can work on pen and
+[08:07] paper um it could actually be it
+[08:10] certainly wouldn't be very
+[08:12] efficient um and it wouldn't provide
+[08:16] like it's security mechanism would be
+[08:18] very difficult because you need a kind
+[08:20] of broadcast layer for the protocol to
+[08:23] actually work but it could be done uh
+[08:27] you could in a really funny way you
+[08:29] could do it in a very slow High
+[08:31] settlement system over snail mail you
+[08:34] could do it over radio so it's not
+[08:37] technically
+[08:38] necessary that you need the Internet for
+[08:41] it but it's never really going to
+[08:44] operate without the internet because of
+[08:46] the complexity of the design um and uh
+[08:50] so it's it's not practical without the
+[08:52] internet is probably the better way to
+[08:53] put it uh so from the context of which
+[08:59] is is the more
+[09:02] revolutionary uh invention so to speak
+[09:06] is it's a question
+[09:09] of which one will have the most Impact
+[09:12] versus which one is interdependent on
+[09:14] the other like they they are
+[09:15] interdependent on each other like the
+[09:17] internet without Bitcoin is actually
+[09:21] going to centralize and move into a
+[09:23] direction that makes the internet uh a
+[09:25] negative in a lot of different ways and
+[09:28] Bitcoin without the internet can't quite
+[09:31] can't really work they like the internet
+[09:33] is kind of the establishment of the
+[09:34] ecosystem and the Bitcoin is and Bitcoin
+[09:37] is the protocol that will create the
+[09:40] rules and the incentives for that
+[09:42] ecosystem so the ecosystem alone is
+[09:46] going would lead to these giant
+[09:48] centralized platforms and all of these
+[09:50] things without a monetary a base
+[09:51] monetary protocol in it um which which
+[09:55] is why the internet was such a profound
+[09:58] invent from the context of communication
+[10:01] and opening the communication layers of
+[10:03] the world uh but then Bitcoin I think is
+[10:06] actually going to reinvent the internet
+[10:08] so Bitcoin Bitcoin is at a lowest level
+[10:13] from a from a fundamental conse a
+[10:16] consequential layer in society it it
+[10:21] establishes rules uh the limits of
+[10:24] political control it establishes the
+[10:28] cost and ability to exit abusive and
+[10:32] violent monopolies and jurisdictions and
+[10:35] all of these things and uh you know if
+[10:37] you read like something like Nick Zabo
+[10:39] has a great piece on this called exit
+[10:41] and freedom is that largely
+[10:44] the the very means by which freedom is
+[10:47] established has nothing to do with
+[10:49] getting a political system that is nice
+[10:51] or is like really good it's about
+[10:53] lowering the barrier to exit because if
+[10:56] you can exit your value from an
+[10:59] intrusive political system uh or an
+[11:02] abusive or tyrannical uh political
+[11:04] system well then you can defund that
+[11:06] political system very quickly because
+[11:08] the whole basis of it is to steal value
+[11:10] that you didn't that it doesn't have uh
+[11:12] that it didn't earn or it doesn't create
+[11:15] um uh you know if you read something
+[11:16] like
+[11:17] U uh the sovereign individual um uh I
+[11:22] think they have a brilliant thesis that
+[11:24] the the better way to understand history
+[11:28] is through a technological lens on the
+[11:31] economics of violence is what does it
+[11:34] cost to steal something from someone and
+[11:37] uh what is the what's the degree of the
+[11:40] feedback mechanism this is why the most
+[11:42] important things in his in history for
+[11:44] establishing the way Society works today
+[11:46] have been agriculture gunpowder printing
+[11:49] press internet like all of these things
+[11:52] um and uh like for instance the state
+[11:55] didn't exist before agriculture it's
+[11:58] very if you think about it through the
+[11:59] context of the economics of violence is
+[12:01] a very simple reason why is because if
+[12:03] we're hunter gatherers and we just carry
+[12:05] all our value on our back and you know
+[12:09] there's it's just like kind of free
+[12:10] flowing Society you can move from one
+[12:12] area to another no Mafia can like you're
+[12:16] not going to stay a slave you're not
+[12:18] gonna you're not going to be you know
+[12:20] beholden to some sort of Mafia that
+[12:21] takes half of what you earn and half of
+[12:24] what you value you're just going to
+[12:26] throw it all in your back and you're
+[12:27] going to leave so the e iics of violence
+[12:29] the ability to exit because you can
+[12:31] carry all of your value with you is very
+[12:34] very low and thus there's essentially
+[12:36] freedom because abuse can't does not
+[12:40] have this positive or I guess
+[12:41] technically this negative feedback loop
+[12:44] where the stronger they get the easier
+[12:46] it is for their for them to enforce
+[12:47] their control and
+[12:49] Authority whereas when agriculture comes
+[12:52] along now 98% of our value is trapped
+[12:57] stuck right there on the land I've built
+[12:59] a house I have oxen I have a harvest
+[13:02] that's not even going to come until next
+[13:04] year I I have to be here if if I pick up
+[13:07] and leave my cost of exit is now 98% of
+[13:10] my value so when the mafia comes with
+[13:13] sticks and you know they put a knife to
+[13:16] my wife's throat and they say you're G
+[13:17] to give me half of what you earn that's
+[13:20] the lower cost I give them half of what
+[13:23] I earn because otherwise I lose 98% to
+[13:26] leave with my family now sometimes the
+[13:29] cost does get that high sometimes you
+[13:30] don't want to live as a slave and
+[13:32] sometimes you do leave but you leave 98%
+[13:34] of your value for the mafia so they
+[13:37] don't care and uh so in thinking about
+[13:41] the rules how how this economics of
+[13:45] violence
+[13:46] establishes uh the limitations of
+[13:48] tyranny in a society Bitcoin literally
+[13:51] shifts the entire Dynamic practically
+[13:54] back to the hunter gatherer days now I
+[13:57] can just I can sell into that system I
+[14:00] can I can sell into that market for an
+[14:03] asset that I can hold in my mind I can I
+[14:07] can have it in my brain and I can walk
+[14:10] to any other jurisdiction I can leave to
+[14:12] anywhere in the world and the cost of
+[14:14] exit has Dr drastically drastically
+[14:18] plummeted um because we have a
+[14:21] essentially a system of property rights
+[14:24] without a
+[14:26] state we have a system of in and
+[14:30] exchanging value without the need for
+[14:33] any sort of state
+[14:35] enforcement and in fact that works in
+[14:37] spite of state enforcement in spite of
+[14:41] tyrannical controls Capital controls and
+[14:43] all of these things um and I think the
+[14:46] people
+[14:47] who I think don't understand the degree
+[14:51] of effect the economics of violence has
+[14:55] in the structure of the world today it's
+[14:58] very easy for them to misplace or or
+[15:04] miscalculate how unbelievably
+[15:07] profound the effect of making not even a
+[15:11] significant shift a small shift in the
+[15:14] economics of violence changes the world
+[15:17] Bitcoin is a big shift in the economics
+[15:20] of violence comparably like we don't
+[15:22] really have a lot of good examples I
+[15:24] think on something that has changed it
+[15:26] so drastically in such a short period of
+[15:28] time
+[15:29] um and it will continue to take time
+[15:33] to realize this in practice uh but
+[15:40] um I I
+[15:42] think it it very much depends on how you
+[15:45] treat the interdependent relationship
+[15:47] but I think Bitcoin is by far the more
+[15:49] fundamental protocol and it
+[15:52] changes it has a more fundamental change
+[15:54] to how we will Design or how we will
+[15:56] organize as a species that's uh just an
+[16:00] amazing speech that you just gave
+[16:02] wow thank you for that um and I think uh
+[16:06] technology in itself is so interesting
+[16:08] and I mentioned before the the the
+[16:10] podcast also you did with um uh Preston
+[16:14] uh about Ai and I think a lot about how
+[16:18] AI will play a bigger and bigger role
+[16:20] because I use it myself more and more
+[16:23] and I see it every day how it gets more
+[16:27] intelligent how it gets better and
+[16:28] better integrated and how it grasps more
+[16:31] and more data from from all over uh and
+[16:34] you gave so many great examples in the
+[16:36] podcast um do you see um like first of
+[16:39] all before we go to the dangers of of AI
+[16:43] um what what role do you think or will
+[16:46] AI play a role uh in the Bitcoin
+[16:48] adoption and and obvious question also
+[16:51] to ask Will AI choose Bitcoin as the the
+[16:54] main store of
+[16:56] value um uh
+[16:59] 100% um I honestly think AI will
+[17:02] largely it you won't be able to
+[17:04] disconnect AI from pretty much anything
+[17:07] um AI is in fact this is like God one of
+[17:11] the craziest things to think about like
+[17:13] where we are
+[17:14] today is how
+[17:17] many you know the overwhelming amount of
+[17:20] innovation and like new technology that
+[17:23] you have in a world or or in a market
+[17:27] over time the over whelming majority is
+[17:31] kind of I forget there's like a specific
+[17:33] term for it it's like maintaining
+[17:36] technology um uh it's it's Innovation
+[17:38] that occurs within the systems that we
+[17:41] have like like rather than changing the
+[17:45] Piston the Piston uh you know uh uh
+[17:49] intake exhaust uh uh oh Jesus Christ
+[17:54] what's the word whatever the piston
+[17:56] engine the internal combustion ra rather
+[17:58] than changing the fun Al design of the
+[18:00] internal combustion engine I'm missing
+[18:01] I'm brain farting on one piece of it um
+[18:04] uh you make the gears a little bit
+[18:08] stronger or you space them out in a new
+[18:11] way to get it slightly more efficient or
+[18:14] you you know put in a turbo on the
+[18:16] intake so you can put in more pressure
+[18:19] or you do electronic valves instead of
+[18:22] um uh instead of a manual valve uh and
+[18:25] you can you know you can microcontrol
+[18:27] the amount of release or like input on
+[18:30] the pressure and you can get more
+[18:32] efficient with a computer like you you
+[18:34] change little things around the design
+[18:37] but you uh uh but you don't change the
+[18:41] system one of the fascinating things
+[18:43] about where we are today is how many
+[18:45] systems disruptions we are witnessing at
+[18:50] the same time AI is one of those things
+[18:54] uh AI is kind of like a way to Model A
+[18:58] series or a set of
+[19:00] patterns um at a large scale I I I like
+[19:04] to think about it as uh I think this is
+[19:07] a a decent analogy at least a picture
+[19:09] it's not totally accurate but I've
+[19:11] actually since since I thought about
+[19:14] this from uh one of the pieces that
+[19:16] broke down that I covered on the show on
+[19:18] AI Unchained um uh for how an llm works
+[19:22] and how the encoding decoding and all of
+[19:24] this stuff works is it immediately
+[19:26] painted a picture in my mind of like
+[19:28] this is actually a giant compression
+[19:30] algorithm for relationships between
+[19:34] words for for patterns in language and
+[19:38] so that you could think of it as an
+[19:40] insanely lossy compression so that I I
+[19:43] can compress a bunch of Articles or a
+[19:45] bunch of pictures or or something and
+[19:48] rather than storing the the actual image
+[19:51] data and rather than storing all the
+[19:53] individual pixels which I could do
+[19:56] before and I can do on a hard drive but
+[19:58] that takes up an enormous amount of
+[19:59] space instead what I've done is I have
+[20:03] compressed the
+[20:05] relationship between these pixels over
+[20:07] here and these pixels over here and
+[20:10] connected to to Connected them to the
+[20:12] idea of a cat and
+[20:15] so later on I am able to quote unquote
+[20:20] redraw a cat I'm able to exchange the
+[20:25] specificity of the data for computation
+[20:28] and I am able to compute back out of it
+[20:31] the pattern of a
+[20:33] cat even though it's not actually a
+[20:35] picture of any one particular cat but
+[20:38] there is always some set of
+[20:40] relationships between the pixels that a
+[20:43] cat basically represents our eyes see it
+[20:45] our minds see it all the time right I
+[20:48] can see that there is a pattern that
+[20:49] makes a cat and if it looks more like a
+[20:52] dog well I'm I recognize that there's a
+[20:54] dog the brain is a model creation tool
+[20:58] that's a lot of reason that I think
+[21:00] people have misunderstandings about
+[21:02] where AI is AI all of these different
+[21:04] AIS are explicit models about explicit
+[21:08] sets of patterns while the human brain
+[21:10] is a generalized model creation tool we
+[21:14] create new models about all sorts of
+[21:16] things all the time we're a giant like
+[21:20] broad generalized
+[21:22] multimodality model creation tool so
+[21:25] we're more like the computer the P torch
+[21:28] um and the the software set and the
+[21:31] model because we have thousands of
+[21:33] models about all sorts of different
+[21:34] things you know I I have models about
+[21:36] how Maps work I have models about
+[21:37] physical location you developed you
+[21:40] developed thousands of models about
+[21:41] reality before you even can speak you
+[21:44] know language isn't the entirety of how
+[21:47] we relate to the world like I already
+[21:49] know not to go jump off a cliff before
+[21:52] I'm making full sentences you know
+[21:54] because I fell down and I hurt myself
+[21:55] and I bumped my knee uh so I got have
+[21:59] many models of reality um and uh AI
+[22:04] is is going to
+[22:07] be one of the most efficient and
+[22:09] adaptive ways at which we've
+[22:13] ever stored in recalled patterns um like
+[22:17] we're going to be able to basically
+[22:19] anything it's kind of like the assembly
+[22:21] line you know allowed us to take the um
+[22:26] meticulous process of you know
+[22:29] handcrafting all of these things and
+[22:31] kind of automated it by recognizing the
+[22:35] pattern in that in the series of events
+[22:38] and then you know creating some concrete
+[22:40] thing at each piece that Stamped Out
+[22:44] ubiquitous um or you know equal pieces
+[22:48] at each at each stage of it and so now
+[22:50] like only one piece needs to actually be
+[22:52] done well this is kind of like that same
+[22:55] sort of abstraction for tasks for
+[22:59] patterns in language for uh for image
+[23:03] generation and video generation patterns
+[23:06] uh and because of that we basically are
+[23:10] yet another step removed from the
+[23:13] creation process and now we're going to
+[23:15] organize and understand the
+[23:17] relationships between patterns that's
+[23:19] where we're going to be useful because
+[23:20] again we're a big General
+[23:22] multimodality model creation tool so
+[23:24] we're now going to use all of these
+[23:26] individual models just like I use my
+[23:29] model of physics and my model of you
+[23:32] know light and like all of the different
+[23:34] things all the models that I have in my
+[23:35] relationship with the world I use a
+[23:37] combination of hundreds of these models
+[23:39] to go build a tool you know build some
+[23:42] sort of a project or put my minor up in
+[23:44] my my attic I'm I'm constantly referring
+[23:46] to tons of different models in my mind
+[23:48] but the combination of all those all
+[23:50] those things lets me accomplish a task
+[23:53] well we're going to be doing the same
+[23:54] thing with ai ai is going to be kind of
+[23:56] an interaction layer um like already
+[23:59] this is why I started the the um series
+[24:01] called uh devs who can't code and AI is
+[24:05] going to be fascinatingly good at
+[24:08] writing code uh because code is a code
+[24:12] is a language and specifically it is a
+[24:15] language without ambiguity so while it's
+[24:19] actually going to be a little bit
+[24:20] difficult at poetry or metaphors or
+[24:23] analogies because it's really abstract
+[24:25] language is an extremely artistic uh
+[24:28] form of communication and people don't
+[24:30] really appreciate that um uh and so
+[24:34] language is actually it's going to sound
+[24:36] like a term paper every time it writes
+[24:38] and if you if you you know give it
+[24:40] something and you ask it to write you
+[24:41] something it's almost always going to be
+[24:42] on the nose one of the things that I do
+[24:44] with my um a couple AI tools that I use
+[24:47] regularly for the podcast is I have uh a
+[24:49] little script that I built with chbt so
+[24:52] so I have a little app that I've built
+[24:54] um and uh uh what it does is when I'm
+[24:58] done with any sort of a show like if I
+[24:59] was you know we're recording this is as
+[25:01] soon as I was done I would export the
+[25:04] video file and then I drop that on my
+[25:06] transcribe app and it's going to write
+[25:08] it's going to print out an entire text
+[25:10] file with the entire
+[25:12] conversation and then I take that text
+[25:14] file and I put it into an llm and I say
+[25:17] can you write me a short description can
+[25:19] you frame it as a question uh that will
+[25:22] you know lead the the audience's Mind
+[25:26] toward the content of the show and I've
+[25:30] never actually used exactly what it gave
+[25:32] me but it always has a really good
+[25:34] starting point because it will read the
+[25:35] context and it will understand what the
+[25:37] conversation was about but it almost
+[25:39] always asks an on the- noose question so
+[25:43] like uh uh and whereas typically I want
+[25:47] to ask one step removed so like a good
+[25:50] one was um uh what was the episode about
+[25:54] um why there was so much antagonism like
+[25:56] the bitter bitter ant agism toward
+[25:59] Bitcoin from policy makers like why does
+[26:02] Elizabeth Elizabeth Warren like
+[26:03] literally like hate it like why does she
+[26:05] hate it why does Gary guinsler just like
+[26:08] have like have to make sure that Bitcoin
+[26:10] ETFs don't get approved and it basically
+[26:13] wouldn't have happened without a uh
+[26:15] without the court forcing their hand
+[26:18] well it's because Bitcoin allows pure
+[26:20] price signals and the reason the Fiat
+[26:22] system works the reason interest rate
+[26:24] price controls work is because there's
+[26:26] no exit valve there's not an escape you
+[26:30] know um uh Christine lagard said this
+[26:34] explicitly and Allan Greenspan wrote
+[26:36] about it in a paper um back in the 60s
+[26:40] or 70s or something um he talked about
+[26:42] like the the reason statists have such a
+[26:45] profound antagonism like a hysterical
+[26:48] antagonism toward the gold standard and
+[26:50] they come up as much propaganda against
+[26:52] it as possible is specifically
+[26:55] because the the interest rate price
+[26:57] controls and the Fiat system don't work
+[27:00] if people have an escape it becomes the
+[27:04] alternative price signal that it's
+[27:06] essentially the canary and the coalmine
+[27:08] for the financial system so that's why
+[27:10] they had to put a cap on it they they
+[27:13] had to Outlaw ownersh you know
+[27:15] individual ownership of gold um they had
+[27:18] to suppress the ETFs and luckily gold is
+[27:22] well luckily for them unluckily for us
+[27:25] gold is such an insanely slow and
+[27:27] impossible at SC fail to settle um like
+[27:30] you can't you just can't settle hundred
+[27:31] billion of gold right like France
+[27:33] couldn't even do it when they tried they
+[27:35] tried once over the period of 40 years
+[27:38] and the US said no you know back in the
+[27:40] back in the 70s so the ability to at
+[27:43] scale force their hand on on kind of
+[27:46] revealing the true price it's just not
+[27:49] possible Bitcoin can move a hundred
+[27:51] billion dollars in a second for for two
+[27:53] bucks transaction fee Bitcoin can at
+[27:57] scale move volume of value like nothing
+[28:00] ever in history and it can do it to any
+[28:03] corner of the world instantly and that's
+[28:05] one thing that people don't realiz is
+[28:06] that even when transaction fees are $
+[28:08] thousand doll it's still going to cause
+[28:13] like on the Bas layer it is still going
+[28:15] to be such an astronomical price signal
+[28:19] like you'll be able to move a trillion
+[28:20] dollars out of a country in 10
+[28:22] minutes like you're talking about
+[28:24] killing the the survival of a country
+[28:27] the capital in country being able to
+[28:29] move
+[28:31] intraday
+[28:32] intraday like that's insane to think
+[28:35] about and even better is the more
+[28:37] capital is moving cheaper it is to do
+[28:41] like what's it like a
+[28:43] 0.001% fee at a thousand transaction fee
+[28:47] to move a trillion bucks you know um so
+[28:52] uh at scale Bitcoin becomes especially
+[28:55] if it's available to retail especially
+[28:57] if it has broad
+[28:58] Global multi-layered networks you have
+[29:00] the lightning Network you have retail in
+[29:03] ETFs um you have normal day-to-day users
+[29:07] you have countries like El Salvador
+[29:08] adopting it it becomes this alarm Bell
+[29:13] for every single time a bad policy
+[29:15] decision is made and as Christine lagard
+[29:18] said that our policies they're their
+[29:22] nerp policies you know negative interest
+[29:25] rates their their attempts to control
+[29:27] and choke the uh the debt markets of the
+[29:31] world Capital controls only work price
+[29:34] controls only work if you control the
+[29:36] entire
+[29:37] Market if you have 20% of the market
+[29:40] that you can't touch that 20% is going
+[29:42] to reveal
+[29:44] instantaneously how stupid your policy
+[29:46] is and all of your prices are false
+[29:49] black Market's going to have 300% of the
+[29:51] price that your little price controls
+[29:52] are and black market is the only place
+[29:54] that people are going to be able to get
+[29:55] those products or services or whatever
+[29:57] it is that you're trying to into price
+[29:58] control price controls don't work unless
+[30:00] you have a totality over the market the
+[30:03] antagonism toward
+[30:04] Bitcoin is specifically because it is an
+[30:07] escape
+[30:08] valve as Christine lagard says if there
+[30:11] is an escape people will use it and it
+[30:14] won't work therefore they cannot allow
+[30:16] an escape that is where that Hy
+[30:18] hysterical antagonism comes from that
+[30:20] was a really really long tangent to say
+[30:22] going back to the AI thing is that it
+[30:25] it's when I ask when I get it to ask a
+[30:27] question about that it doesn't give me a
+[30:29] question that leads to it it gives me a
+[30:32] question that's like super on the nose
+[30:34] like is is uh you know Bitcoin a an
+[30:38] alarm Bell for a financial policy and
+[30:41] you know is it a canary in the coal mine
+[30:44] for the financial like it uses like
+[30:46] something explicit from the conversation
+[30:48] and then it just gives a bunch of
+[30:49] details rather than what's the what's
+[30:53] the source of this deep antagonism to
+[30:55] bitcoin from policy makers does it does
+[30:58] it shake the foundations of what they
+[31:00] are able to accomplish and how you know
+[31:02] that's that's the more that's the
+[31:04] removed question that I would be going
+[31:05] for um but uh anyway holy crap that was
+[31:09] a that was a long tangent for just kind
+[31:11] of saying that uh I think AI is going to
+[31:14] be our interface for accomplishing
+[31:15] things um uh much like uh we now think
+[31:19] of the keyboard and the mouse as this is
+[31:22] how we interact with computers this is
+[31:24] how we you know you can say that
+[31:27] photoshop killed art but did it of
+[31:31] course not you just have Photoshop art
+[31:35] you know you still draw on Photoshop
+[31:38] what we're looking at is the base layer
+[31:40] of these tools and it's a new layer it's
+[31:42] a new interface it's far more akin to
+[31:45] touch interface it's far more akin to
+[31:47] the um the keyboard and mouse I think
+[31:50] than it is
+[31:52] um you know a production like a like a
+[31:56] film editing software or something
+[31:57] something like that like you'll still
+[31:59] use it within film editing I guess is
+[32:01] probably the way to think about it um
+[32:04] but uh a decent example is my brother
+[32:07] was trying to make a a funny meme the
+[32:08] other day and and he asked me for my
+[32:11] help because I I know how to use all
+[32:12] these tools and he was just trying to
+[32:14] use the stable Cascade demo and it
+[32:15] wasn't working uh and we ended up doing
+[32:18] like 20 different things and like trying
+[32:21] a bunch of stuff and we just could not
+[32:22] get the picture to look like he
+[32:24] described it you know it was just a a
+[32:26] stupid Meme and uh and he ended up going
+[32:29] back with like the very original Meme
+[32:30] and just putting like basic text over it
+[32:32] but uh it's a good example of like you
+[32:34] can't just go say like generate this
+[32:37] image that I have in my head and then it
+[32:38] just pops out like it's very explicit
+[32:41] tools for very for very concrete sorts
+[32:44] of patterns and if you don't know how to
+[32:46] composite you know if you don't if you
+[32:49] don't know how to like blend if you
+[32:51] don't have a vision in your mind well
+[32:53] then you're just going to kind of create
+[32:54] the generic image diffusion that the
+[32:58] image generator is going to create um
+[33:00] and people are going to get bored with
+[33:02] that F they already have they
+[33:04] already have uh like AI image generation
+[33:08] like the stock image generation is
+[33:10] already just kind of like scroll past it
+[33:12] you know like it's not it it doesn't
+[33:14] pull the um interest that it once did
+[33:17] because it's already kind of flooded all
+[33:19] over the place um but yeah anyway that's
+[33:22] the the way I think about it is that AI
+[33:24] is going to be a an interaction layer
+[33:27] it's going to be a UI for how we do
+[33:30] things um especially especially right
+[33:34] code um uh I mean I've I've just been
+[33:37] building constantly like just these
+[33:39] little Pro whenever I have the time to
+[33:41] just sit down and you know throw 40
+[33:43] minutes and hour at a project um I can
+[33:46] just make all sorts of little micro apps
+[33:48] and it's getting increasingly complex
+[33:51] like what you can do with it which is
+[33:52] really exciting um and uh uh and more
+[33:58] importantly going back to the other part
+[34:00] of your question about
+[34:02] Bitcoin
+[34:04] is I think one of the things about AI is
+[34:09] that like I said in the compression
+[34:12] analogy is that you're trading
+[34:14] computation for data you're you're
+[34:18] storing the pattern of a thing at like
+[34:21] you know
+[34:22] 1% of storing the actual thing and you
+[34:26] can't fully take that that same exact
+[34:28] picture back out of it but you can
+[34:30] restore the pattern of the astronaut or
+[34:34] the
+[34:35] cat and because of that there's an
+[34:39] enormous amount of computation involved
+[34:41] and computation you can think of as a
+[34:43] proof of work it is a irreversible final
+[34:49] payment and when you have that
+[34:51] computation as the basis for your
+[34:53] interaction imagine if it cost you a p
+[34:58] every time you moved the
+[35:00] mouse like it would be
+[35:04] insanely difficult to
+[35:07] price and deal with the cost of you know
+[35:11] letting somebody use your API to a
+[35:14] website if you were just pulling in a
+[35:17] penny a penny a penny a penny a penny a
+[35:19] penny a penny a penny like just all over
+[35:21] the place every single time somebody
+[35:23] does any interaction it's costing you a
+[35:25] penny because you just have an enormous
+[35:28] amount of computation with every single
+[35:29] thing that's occurring well with AI you
+[35:33] re you literally have this they're are
+[35:35] they're running into bottlenecks
+[35:36] everywhere because this is It's
+[35:38] exploding so fast in fact I read an
+[35:40] article the other day and I'm this is
+[35:43] something that I'm been trying to dig
+[35:44] into a little bit more but it's very
+[35:47] possible that we may have a Resurgence
+[35:49] of uh nuclear power support and
+[35:52] proponents because Google Apple Nvidia
+[35:56] and all of these companies are running
+[35:58] out of power like they're using so much
+[36:01] computation that they're desperate for a
+[36:03] ro like a huge dense energy source and
+[36:07] so they're like well we've got nuclear
+[36:10] they don't they don't care they don't
+[36:11] care about the politics anymore they
+[36:13] care about a solution and there's not a
+[36:15] direct solution so they're actually
+[36:17] looking at kind of rebuilding this
+[36:20] support for nuclear which is great
+[36:22] because nuclear should have been the
+[36:23] thing we should have been going through
+[36:24] thorium reactors this whole time it
+[36:25] would have solved a whole lot of if
+[36:27] the government had had gone the thorium
+[36:29] route rather than the uranium route but
+[36:31] the governments wanted bombs they didn't
+[36:33] want energy so uh we went uranium and
+[36:36] plutonium uh but uh uh so it will be
+[36:40] fascinating to watch that Resurgence
+[36:42] occur just because the demand of energy
+[36:45] now outpaces what we can actually
+[36:46] produce because of the Staggering amount
+[36:48] of computation but when you have an
+[36:50] irreversible proof of work as a
+[36:54] service well how do you accept payment
+[36:57] on a
+[36:59] non-settling credit-based identity-based
+[37:03] payment system that can be that you know
+[37:07] has billions of dollars of fraud growing
+[37:10] every year like it gets worse and worse
+[37:14] because the ability to mimic other
+[37:16] people and the ability to steal their
+[37:19] the ease and low cost of stealing their
+[37:21] information like you can get a credit
+[37:23] card um credit card details Social
+[37:26] Security uh address and everything for a
+[37:30] a person I think it's like $5 a pop
+[37:32] typically on the dark web you just
+[37:36] eviscerate somebody's life it's so
+[37:38] prevalent like it's so out there that
+[37:40] basically all of our information is
+[37:42] exposed it's simply that there's not
+[37:44] enough people you can't exploit it at
+[37:46] scale so literally the only reason we
+[37:49] don't all get hit with identity theft
+[37:50] every single day is just because there's
+[37:52] not enough thieves like that that's
+[37:55] literally the problem you can't scale
+[37:57] the fast enough um but the interesting
+[38:00] thing about AI is that that is going to
+[38:03] scale you know when I can have a picture
+[38:05] of somebody and then I can do a video
+[38:08] like I just did this on my computer the
+[38:09] other day I turned my face into Selah
+[38:11] hyek live on my computer with uh I think
+[38:15] I was using face Fusion or was I using
+[38:17] an animated no no yeah was it was it was
+[38:20] face Fusion so like I have like a ton of
+[38:22] AI software that I play around with all
+[38:23] the time now it did not look good at all
+[38:26] because my beard the B of my beard was
+[38:28] still there so it was a very very creepy
+[38:30] sah hyek um but uh but it was really
+[38:32] funny I was showing it to my wife she
+[38:34] was like don't ever show me that again
+[38:35] what is wrong with you why have you done
+[38:37] this um and and I just thought it was
+[38:40] hilarious but uh like I was live I was
+[38:44] live doing that I was live doing that on
+[38:45] my MacBook and it's not even optimized
+[38:48] for M1 so I was basically using CPU
+[38:52] level and if I wanted to do it on my
+[38:54] Linux machine be easy as cake because
+[38:57] I've designed design this thing to have
+[38:58] you know I've got two beastly gpus in
+[39:00] this and 192 gigs of RAM so I can do
+[39:03] live change my face now what does that
+[39:05] mean if I can easily get an ID or I can
+[39:08] use there's a there's a model now
+[39:10] that makes a can't really tell it's fake
+[39:13] ID and it's a small model too because
+[39:16] it's just trained on like driver's
+[39:19] licenses um and I can just generate an
+[39:22] ID with whatever details that I want and
+[39:23] it's like almost indistinguishable as
+[39:26] like a picture how many things do you
+[39:29] require as like proof of identity your
+[39:31] kyc that is take a picture of your ID
+[39:34] and take take a
+[39:36] selfie I can do both of those on this
+[39:38] computer easy with anybody that I want I
+[39:41] guess I might have to shave my beard if
+[39:43] I wanted to be soek but um uh what
+[39:48] happens to credit card fraud when you
+[39:50] cannot prove who someone is digitally
+[39:55] anymore you need a different system you
+[39:58] need a different system of
+[40:01] identity um
+[40:03] and that problem is just going to get
+[40:05] worse every single year I was actually
+[40:06] just talking about it with my wife uh
+[40:08] yesterday because she was having like a
+[40:09] big payment problem we were just trying
+[40:11] to get a stroller I mean excuse me a new
+[40:13] car seat for rad because he's outgrown
+[40:16] his other one and uh it's not even like
+[40:19] super expensive like $280 or something
+[40:21] like that so it's not like like we're
+[40:23] spending $10,000 and the bank's going to
+[40:25] freak out and be like what did you did
+[40:27] you you make this payment um and like
+[40:30] there's like some sort of a problem we
+[40:32] have to contact the the company and like
+[40:35] confirm something on the PNC it's just
+[40:38] like it's just like a nightmare and I
+[40:39] was like I bet they're getting slammed
+[40:41] with fraud right now like all of those
+[40:43] numbers are up and AI is only making
+[40:45] this easier in a long enough time scale
+[40:49] when you can you know hit an API that
+[40:52] pulls $20,000 worth of computation cost
+[40:56] overnight
+[40:57] and you have you have an irreversible
+[40:59] service like they can't get that back
+[41:02] they can't they can't like call up the
+[41:03] Energy company be like um it was okay it
+[41:05] was a fraudulent customer so we're just
+[41:06] going to like not pay for that energy
+[41:08] today um and uh uh so you have an
+[41:12] irreversible proof of work service and
+[41:14] then you also have exploding and easyto
+[41:18] do fraud I think this this just keeps
+[41:21] getting worse and worse until people
+[41:22] realize you have to use an irreversible
+[41:23] payment system you have to use something
+[41:25] that settles immediate
+[41:28] to pay for a service that settles
+[41:31] immediately um and I mean I don't think
+[41:33] it will be super quick because you still
+[41:35] have to build trust in the Bitcoin
+[41:36] Network and like I said the trust cycle
+[41:38] is slow uh but I think it will speed it
+[41:41] up because it will be there will be a
+[41:43] degree of necessity um like if you have
+[41:47] you know 90% of your Market is in Fiat
+[41:49] credit card payments but there's 20% of
+[41:53] that of that profit uh now is lost to to
+[41:57] fraud to
+[41:59] chargebacks uh to all sorts of problems
+[42:02] and now you have 10% that's done in you
+[42:05] know lightning and Bitcoin but you have
+[42:07] zero fraud because the payment is the
+[42:10] payment you know at what point does the
+[42:12] feedback loop start to benefit well if I
+[42:15] can get 1% more of Bitcoin and lightning
+[42:19] service and take 1% away well that means
+[42:22] I've got I've got like 0 2% less in
+[42:25] fraud you know like like you could start
+[42:27] doing the math on as we shift over and
+[42:30] you know once that gets to like 30 40%
+[42:33] you're like this is looking increasingly
+[42:35] stupid that we like we should just push
+[42:37] all towards this direction and like I
+[42:39] said long timeline but I think it's kind
+[42:41] of inevitable that you you have to have
+[42:43] some sort of strong settlement system
+[42:45] and key based ID in the world that we're
+[42:48] heading into I I don't I at least I
+[42:51] don't see a different solution um and
+[42:53] I'm I'm looking for one maybe maybe
+[42:55] there is like we're super creative
+[42:58] humans are really creative people we're
+[42:59] build everybody's building like
+[43:01] crazy maybe AI comes up with a
+[43:03] solution I don't know 21 Bitcoin is
+[43:06] Bitcoin only from day one and they teach
+[43:09] and preach self- custody this is my goto
+[43:13] exchange when someone asks me oh where
+[43:15] can I buy my Bitcoin from this is the
+[43:18] easiest entry for bitcoiners and if you
+[43:21] want lower fees Plus at the same time
+[43:23] support this podcast use code Robin and
+[43:27] click the link in the description I
+[43:29] totally agree with that uh that Bitcoin
+[43:31] is actually for that problem also to fix
+[43:33] and um there like probably 50 questions
+[43:37] I want to ask you just from the last 20
+[43:41] minutes it's it's it's sorry I I ramble
+[43:45] I ramble I have context and I just I
+[43:48] just go for it so yeah that's that's
+[43:51] that's amazing I love it a lot uh and uh
+[43:54] the the main thing I think we we can now
+[43:56] Focus on uh the second part or like the
+[43:59] the later part now of the podcast um
+[44:02] well we have all these factors that
+[44:04] contribute to the Bitcoin adoption and
+[44:06] we have uh EI also and EI is enhancing
+[44:10] that I think also like that uh and there
+[44:13] is uh more and more trust in Bitcoin and
+[44:16] less and less trust in Fiat Fiat is
+[44:18] starting to collapse more and more just
+[44:21] like the last 50 years has shown and the
+[44:23] next 50 years I think will not be
+[44:25] different from that um what will happen
+[44:28] on uh to a society which is completely
+[44:32] on a Bitcoin standard with all the
+[44:34] implications uh you just mentioned with
+[44:36] trust gaining back I had one of my first
+[44:38] podcasts that I ever had on was um uh a
+[44:43] guy who said Bitcoin is a system based
+[44:45] of love because you can actually
+[44:48] trust the thing again and trust is
+[44:52] deeply connected with love uh so what do
+[44:55] you think will happen when when we have
+[44:57] this complete sound money standard and
+[44:59] we have this Utopia of only Bitcoin uh
+[45:03] do you actually like first of all do you
+[45:05] think this will happen in like the next
+[45:07] 100 years in our lifetime or does it
+[45:10] take um more than that because the trust
+[45:13] is slower to to gain and what will then
+[45:17] uh Society on that look like or does it
+[45:20] look different
+[45:22] even
+[45:24] so like I said trust takes it's a it's a
+[45:27] very slow Network effect um and it's a
+[45:31] very hard one network effect um because
+[45:35] you know trust has lost quickly built
+[45:37] very very slowly
+[45:40] um
+[45:42] and I think honestly our move to a
+[45:46] Bitcoin world
+[45:49] is 10 to 15
+[45:52] years um like I really like Alex fy's
+[45:56] three generation Theory which would you
+[45:58] know put us at
+[45:59] 25ish 30 years maybe
+[46:03] um I'm not so sure um I think there's
+[46:08] there's an element like I I I basically
+[46:10] after I read that article he made a very
+[46:12] very strong AR argument for the three
+[46:14] generations Theory and I love it and you
+[46:16] know the you know one of the most potent
+[46:18] tools for Change and like critical
+[46:21] things for adaptation or what's the
+[46:23] what's the what's the con uh the quote
+[46:26] um
+[46:27] uh science progresses one Death at a
+[46:30] time you know something like that um I
+[46:32] can't I can't remember who it is uh uh
+[46:35] but uh it's like Newton or some you
+[46:37] know somebody you would know uh but uh
+[46:41] that you know you need a generation that
+[46:43] lives in a world where Bitcoin like
+[46:46] there are people who were born now who
+[46:47] are 15 years old never knew a world
+[46:50] without Bitcoin it always existed and
+[46:54] once you have those people at 25 and 30
+[46:57] and they're the base of a new growing
+[47:01] economy you know that that 20 to 20 to
+[47:04] 35 age range is really
+[47:07] like what they are building and what
+[47:09] they think about the world is where all
+[47:11] of the change is going to occur or at
+[47:13] least the bulk of the change in society
+[47:15] is going to occur and I think we've
+[47:17] reached a pace a a crazy crazy space
+[47:21] when we're talking about the
+[47:22] acceleration of Technology
+[47:25] where we have disruptions on top of
+[47:27] disruptions you know 100 years ago
+[47:30] disruptive in systemic Technologies
+[47:32] going back to the context of uh or the
+[47:34] analogy of the piston engine you know
+[47:36] most of its maintaining Technologies uh
+[47:38] whereas disruptive Technologies are fair
+[47:40] very very infrequent that's not the case
+[47:43] anymore and uh one of the things that uh
+[47:47] like there's a great book called
+[47:50] um uh I think this is I think it's the
+[47:52] cold start
+[47:54] problem or maybe the secrets of San Hill
+[47:56] Road
+[47:57] no no no no it's uh the innovators hold
+[48:00] on a second I've got it in my audio
+[48:02] books um uh there's a great book by a
+[48:05] guy from the 90s he's a he's a
+[48:09] professor um and he's talking about the
+[48:13] differences
+[48:15] between innovator's dilemma the
+[48:17] innovators dilemma by Clayton
+[48:19] Christensen um and he talks about he he
+[48:23] he uses that same analogy of the the
+[48:26] maintaining techn versus the disruptive
+[48:28] Technologies and how for a long time we
+[48:30] thought of companies as you could you
+[48:32] could build a base in like some sort of
+[48:34] a product or service and then you can
+[48:37] operate as like brilliant managers
+[48:40] reflecting you know with your or or
+[48:42] working with your customers and you know
+[48:44] being efficient and not taking huge
+[48:46] risks and looking for the big things in
+[48:48] the market and that worked you could you
+[48:51] could sustain a company like that for 50
+[48:53] years 70 years aund you know a century
+[48:55] even and that's not possible anymore
+[48:57] sometime in the the 80s to 90s there
+[49:01] were so
+[49:03] many uh so many disruptive changes from
+[49:06] 8 in discs to 5 in discs and from uh
+[49:10] from uh magnetic to spinning discs like
+[49:13] to like like disruptive changes in the
+[49:14] context that the entire function and
+[49:16] mode by which we would actually do these
+[49:20] things shifted like really quickly you
+[49:24] know like you know the first 50 years of
+[49:27] the idea of recording audio like it was
+[49:29] scratch it into a piece of vinyl you it
+[49:32] was it was scratch it into a thing and
+[49:33] then we went from CDs to digital like
+[49:36] like we went in like super compressed
+[49:39] time we went over like four different
+[49:40] mediums from cassettes CDs and digital
+[49:43] like 15 years 20 years something like
+[49:45] that um and uh and this is accelerating
+[49:48] all across the board and companies no
+[49:50] longer can actually establish like like
+[49:53] the actually being a good manager as a
+[49:56] company will actually kill you now
+[49:59] because if you're responding to your
+[50:00] customers and you're just looking for
+[50:02] the maintaining Innovations what you're
+[50:05] actually doing is if you're not looking
+[50:07] for something that will disrupt your
+[50:09] business process like disrupt your
+[50:11] entire model then you're going to miss
+[50:13] it and you're just going to you're just
+[50:15] going to die in the next cycle and the
+[50:16] next cycle is four years away like like
+[50:18] it's it's here every single time and
+[50:20] we're in this weird place where we have
+[50:22] disruptions on top of disruptions where
+[50:25] we have a disruptive cycle occurring
+[50:27] with a new technological framework or a
+[50:28] new protocol layer and before it is even
+[50:33] like reached any sort of serious
+[50:36] maturity in its adoption cycle there's
+[50:38] already the new thing that's going to
+[50:39] disrupt it like like we're starting to
+[50:42] like it used to be that you'd you know
+[50:44] get on this S curve and then it would
+[50:45] start to smooth out and then boom here's
+[50:47] this new disruption and then it would
+[50:49] get on an S curve and start to smooth
+[50:51] out and these things were like really
+[50:52] gapped together and now they're starting
+[50:54] to compress so that like four or five of
+[50:56] them are happening at the same time so
+[50:59] the the comment or the the the concept
+[51:02] of like uh the future is here it's just
+[51:04] not evenly distributed is getting way
+[51:06] worse because the all of the Futures are
+[51:09] here and we don't even know like we're
+[51:12] we're all the the pace at which humans
+[51:14] are learning how to adapt and use things
+[51:17] hasn't increased so if it still takes us
+[51:19] 10 years to adopt and understand how a
+[51:21] new technology is going to change things
+[51:23] and how to integrate it in our lives but
+[51:25] a new disruptive technology is happening
+[51:27] every year and a half well we're going
+[51:28] to be 10 we're going to be 10 behind you
+[51:30] know as soon as we've adopted the the
+[51:32] the one that we were trying to figure
+[51:34] out um and so we're in this really weird
+[51:37] place where everything is just massively
+[51:41] accelerating uh what was the what was
+[51:43] the context of the original question I'm
+[51:44] sorry this was this was like laying the
+[51:46] groundwork for something this uh how
+[51:49] this Bitcoin world look like I think was
+[51:51] the complete original question and how
+[51:54] this Bitcoin standard will uh like have
+[51:57] a change on society yes so the Bitcoin
+[52:01] standard so the interesting thing is
+[52:04] that when you have Fiat money it's like
+[52:08] it's like Society moving everything is
+[52:11] done through molasses like you're like
+[52:12] knees Deep in water you know how you try
+[52:16] to Sprint through water it's like a
+[52:17] nightmare right it's like it's
+[52:19] infuriating and you're like you're look
+[52:21] an idiot because your your legs are
+[52:22] flying out to the side because you're
+[52:23] trying to get out of the water um this
+[52:26] is this is essentially what Fiat Fiat
+[52:28] money does to the society because it is
+[52:31] a constant dis signal a a misinformation
+[52:35] mechanism in the attempt to communicate
+[52:37] value between each other because there
+[52:41] there is no solid way to communicate
+[52:43] value I mean it is it is money like it
+[52:45] is an inter subjective thing it is only
+[52:48] by the cost it is only by the comparison
+[52:51] that we actually understand the value of
+[52:52] anything you know like I'm I you know I
+[52:54] can about my iPhone
+[52:57] not letting me plug you know a USB thing
+[52:59] into it or whatever I'm G be like ah
+[53:00] this is this is annoying and it's not
+[53:03] valuable but it only is in the context
+[53:05] of like what it's related to is the fact
+[53:07] that I there is some other device over
+[53:08] here in which I can do that and so I
+[53:10] want that but if you take my smartphone
+[53:12] and all of its capabilities and the
+[53:13] internet and you give it to somebody in
+[53:15] 1890 it's worth a trillion dollar it's
+[53:17] worth the entire world because it's it's
+[53:19] a scope of existence I mean it's
+[53:22] otherworldly it's literally a alien
+[53:24] technology it's like it's like having a
+[53:26] Harry Potter wand so in the context of
+[53:30] like what it costs to achieve and what
+[53:33] the alternatives are it's comparatively
+[53:35] the most valuable thing in the world
+[53:36] while I sit here and about you the
+[53:38] fact that I it didn't plug in I got I
+[53:40] got to get an adapter you know
+[53:44] and so in that context we have it's a
+[53:47] incredibly difficult thing to um uh
+[53:50] communicate because it is all relative
+[53:52] you know it's like speed you if you
+[53:54] don't have anything to relate it to you
+[53:55] could be moving a b jillion miles an
+[53:57] hour technically you know in outer space
+[53:59] and you're just sitting still like
+[54:01] nothing's happening um value is that
+[54:03] same way um and because it's inter
+[54:06] subjective we have to have someone you
+[54:08] have to have skin in the game in those
+[54:09] decisions Fiat removes that skin in the
+[54:12] game Fiat removes the ability to have
+[54:15] accurate comparisons between you and I
+[54:18] because money is not the same for you as
+[54:20] it is for me and it's not the same for
+[54:22] the central Banker or the finance guy as
+[54:24] it is for the people at the bottom like
+[54:26] we all have different relationships with
+[54:28] money because the money is people
+[54:30] there's just new printing new debt new
+[54:32] this and that happening at every every
+[54:34] different stage it's just constant
+[54:35] floods of misinformation in the market
+[54:38] which means that Bitcoin a Bitcoin
+[54:40] standard will just be
+[54:42] like instead of Knee Deep Water Solid
+[54:46] Ground what becomes easier what things
+[54:50] do you do that are so difficult or
+[54:53] annoying in KNE deep water when you're
+[54:55] on Solid Ground you're like oh we could
+[54:56] do that we could pull that off oh no
+[55:00] that makes perfect sense like that's not
+[55:02] going to be that's not going to be hard
+[55:03] we can run marathon why not why not I'm
+[55:06] not going to do that in he deep
+[55:07] water but I'll do it now and so it
+[55:10] removes this huge misinformation signal
+[55:12] and it's going to allow the spread I
+[55:15] think it's actually critically necessary
+[55:17] because thinking about like the layers
+[55:19] of disruption the speed with which the
+[55:22] new technology can disperse and actually
+[55:24] be adopted is related to the ability to
+[55:27] communicate its value which means that
+[55:30] it might actually than God have the
+[55:32] capacity to shorten that span to
+[55:36] Distributing the future to as many
+[55:37] people as possible as opposed to keeping
+[55:39] it in some Niche corner and making it
+[55:42] difficult to to to get out to the public
+[55:44] to to do the most good like this is
+[55:46] something that we actually saw during
+[55:47] the 30s like during the Great Depression
+[55:49] one of the people think a lot of people
+[55:50] think that like during like huge
+[55:52] economic Contra contractions um and
+[55:54] depression periods the Innovation stops
+[55:57] that's not true Innovation stops
+[55:59] spreading we still have tons of new
+[56:01] Innovations we still have tons of new
+[56:03] like inventions and like fundamental
+[56:05] ideas but they cannot get out from the
+[56:07] market there's not the the the economic
+[56:11] health to distribute it to people so it
+[56:14] basically stays isolated until it's
+[56:16] unlocked and that's why we had this huge
+[56:18] boom after World War II ended because
+[56:21] World War II and this
+[56:23] giant like direct I'm going to control
+[56:26] everything spending program for the
+[56:28] government persisted a depression for 12
+[56:30] years um that just eviscerated the
+[56:33] economy and the ability for anything to
+[56:34] be healthy and when they finally Let It
+[56:36] Go when they finally brought everybody
+[56:38] they they stopped wasting money on
+[56:39] blowing up and they brought
+[56:40] everybody back into the workforce to
+[56:42] build stuff what do you know there was a
+[56:44] boom they're like oh the war saved us
+[56:46] and the didn't it's the war
+[56:48] ended and it saved us you dummy but
+[56:50] anyway um uh but it's a great example
+[56:53] because if you think about that like
+[56:56] again Innovation and disruption didn't
+[56:58] the progress of Technology didn't stop
+[57:00] during the 30s it was just prevented
+[57:02] from getting out to people you can think
+[57:05] about our current ERA very much like
+[57:07] that because of how bad the Fiat system
+[57:10] is we have an enormous amount of
+[57:12] disruptive technology in fact we have
+[57:14] more than we ever have because of the
+[57:16] the natural progression of feedback
+[57:17] loops new technologies enable the
+[57:20] progression of more and better new
+[57:22] technologies um like what is the
+[57:23] internet I mean you can now disrupt
+[57:25] things in a matter of hours you can now
+[57:27] create a new software system as a
+[57:29] 13-year-old kid in your garage because
+[57:31] of the existence of the internet like
+[57:32] everything accelerates the next thing um
+[57:36] and but we have existed in this place
+[57:39] where it's
+[57:41] also been made incredibly slow to
+[57:44] distribute incredibly difficult to to
+[57:47] get out and it still has continued to do
+[57:50] so despite it but just because of the
+[57:52] this it's a force of nature like the the
+[57:54] movement of technology I mean you look
+[57:55] at last 100 years and the amount of just
+[57:59] just obliteration of poverty across the
+[58:01] world like people don't people don't
+[58:02] realize most people and whine
+[58:05] about something as it's being solved
+[58:08] because when it's basically ubiquitous
+[58:10] nobody complains about it like nobody
+[58:12] had Candlelight visuals about poverty in
+[58:15] the 1890s everybody was poor poor was
+[58:17] normal you know it's only when you start
+[58:21] to realize that this could actually be
+[58:23] solved that everybody complains about it
+[58:25] everybody says this is awful can't
+[58:26] believe we've allowed this to happen
+[58:27] it's like no this was the norm now you
+[58:29] realize that there's a way out and now
+[58:31] you're angry at it um and uh
+[58:37] so excuse me so going back to the
+[58:40] concept of Bitcoin
+[58:42] standard I I I think I think we'll
+[58:44] witness a Rena as close
+[58:47] to what we could comprehend as a
+[58:49] Renaissance um we're talking about
+[58:52] removing so much friction in the market
+[58:53] we're talking about removing political
+[58:55] barriers across the world so that we can
+[58:57] interact with other markets we're
+[58:58] talking about AI which will remove L uh
+[59:01] linguistic and cultural barriers across
+[59:03] the world to add to it I really think it
+[59:06] won't be very long before I'll have a
+[59:07] Spanish version of Bitcoin audible read
+[59:09] in my voice with my tonality and my
+[59:11] emphasis I I don't speak Spanish you
+[59:14] know um and I don't think it's it's like
+[59:18] really soon like really soon that I
+[59:19] could have my show in any language that
+[59:21] I wanted um and uh uh in fact I can
+[59:26] basically do it it just kind of sucks
+[59:28] right now you know it's like 90% of the
+[59:30] way there um in fact I might actually do
+[59:33] an investment of just having like
+[59:34] somebody who natively speaks Spanish
+[59:36] make the corrections um but it's it's
+[59:38] like a combination of tools but it's
+[59:40] just like we're just barriers barriers
+[59:42] are
+[59:43] plummeting and we don't know what the
+[59:46] outcomes we don't know what a world
+[59:48] looks like without those
+[59:49] barriers but I'll tell you it it it
+[59:52] looks it it's at least in order of
+[59:55] magnitude more productive more uh faster
+[59:59] and uh more cleanly
+[60:03] communicated than what we have now um
+[60:06] and it's it is going to be if nothing
+[60:10] else is going to be a hell of a time to
+[60:12] live through like it's It's just
+[60:14] sometimes I just think
+[60:16] like of the entire the entire path of
+[60:22] History like and the little blip that we
+[60:26] are at at this crazy acceleration curve
+[60:30] and when sound money is actually
+[60:33] reinstituted at a scale that it was
+[60:35] never possible like gold could never
+[60:37] produce a society the way a digital a
+[60:41] digital commodity and a a uh digital
+[60:43] communication protocol that is genuinely
+[60:46] Global could do like like you're talking
+[60:49] about the difference between a digital
+[60:50] world and a and a physical world and
+[60:52] what
+[60:54] is what that potential is is like it's a
+[60:58] thousandfold you know like it just they
+[61:00] they you you can't compare the two
+[61:03] um and like we're here like right when
+[61:07] this is really
+[61:09] starting I think people think it's like
+[61:11] oh look at you know what's happened in
+[61:12] like the last 30 years the internet's
+[61:13] like gotten big no it literally is just
+[61:16] started like like we're in the curve of
+[61:18] that whole transition
+[61:21] and it's getting faster and it's
+[61:23] accelerating that's why I think you know
+[61:26] 99% of this Bitcoin Supply will be here
+[61:28] in
+[61:29] 2034 um and that last 1% will take 100
+[61:33] years more more than that
+[61:36] to um to
+[61:42] distribute I don't I don't see how we
+[61:43] make it to the 1930 I mean the 1930s I
+[61:46] don't see how we don't make it through
+[61:47] the
+[61:48] 2030s uh without a Bitcoin standard um
+[61:52] with the way things are going now and
+[61:54] the fact that feedback loop catch up
+[61:56] quick um amazing gradually then
+[62:00] suddenly and uh I say this so many times
+[62:03] on the podcast it's it's like whenever I
+[62:05] think of what we are just now living
+[62:08] through I can only think of what a time
+[62:10] to be alive like what what what
+[62:12] privilege and what like how grateful can
+[62:15] we be to to live right now and yeah
+[62:18] there's also like so many things in in
+[62:21] in there that we we we should be talking
+[62:23] about and I think um I I just thought of
+[62:26] of of something that uh that I will will
+[62:29] do now on the podcast and um I because I
+[62:33] did did now I never had a guest on two
+[62:36] times uh so I want to have guests on
+[62:39] also a second round but like with a year
+[62:42] or something like that in between uh and
+[62:46] uh and I I never thought that before but
+[62:50] if if I have questions listening to you
+[62:52] I probably listeners also do this
+[62:54] podcast have question questions about
+[62:56] that so please if you have a question
+[62:58] the guys want just leave it in the
+[63:00] comment and I when I have a second round
+[63:03] with you I will take this also as a
+[63:05] basis uh that we can make a second
+[63:08] episode and then we might have some
+[63:11] interesting questions an interesting uh
+[63:14] influence in that I started sometimes
+[63:16] doing it I think I did it with Jeff poof
+[63:18] when I had him on like a few weeks ago I
+[63:20] asked the community what question should
+[63:22] I ask Booth is great man he's he's Al
+[63:26] amazing man to to listen to uh and and
+[63:29] to interview and yeah then I will I will
+[63:32] do that and we're coming to the end
+[63:35] routine where the previous guest is like
+[63:38] a little bit like the blockchain the
+[63:39] previous guest is asking a question for
+[63:41] the next guest without knowing who who
+[63:42] the next guest is uh and uh then you can
+[63:46] also you will also then ask a question
+[63:48] to the next guest without knowing who
+[63:50] next guest is um and the question to you
+[63:54] from the previous guest is about real
+[63:57] estate and he talked a little bit on the
+[63:59] podcast how um the the homeowners now
+[64:04] are old and they will die soon uh and
+[64:08] how real estate is such a worse
+[64:11] investment uh against Bitcoin when you
+[64:14] really compare it but still so many
+[64:16] people have the belief system that oh I
+[64:20] have to have a home I want to invest in
+[64:21] and this is kind of my savings account I
+[64:23] take a credit against it and then I can
+[64:26] I can like take my home as my main
+[64:29] savings account and misuse a home as a
+[64:31] savings account um and the the fleeing
+[64:35] of the the real estate to bitcoin it's
+[64:38] like the demonetization of of of real
+[64:40] estate and and he was and we kind of
+[64:43] touched on it when you talked about
+[64:45] Bitcoin standard how fast it will go um
+[64:48] and he talked about
+[64:50] how how fast do you think it will go
+[64:54] that we are coming to a collapsing house
+[64:57] prices to Affordable house prices make
+[64:59] housing Bitcoin makes I I think so house
+[65:02] prices affordable again uh do you think
+[65:05] to have a timeline where like okay this
+[65:07] will happen in the next five 10 years
+[65:09] and I think it's was kind of in the last
+[65:12] question in there uh but is this
+[65:15] comparable yeah 100% um I I think I
+[65:19] think when you look at like kind of a
+[65:20] 10year time frame um as Bitcoin really
+[65:23] settles in as a trusted and asset that's
+[65:26] not going anywhere um it will be
+[65:30] especially when we talk about like
+[65:32] closing costs and uh political risk um
+[65:36] the cost of real estate will start being
+[65:39] weighed against the cost of just buying
+[65:41] Bitcoin and holding it um because a huge
+[65:45] amount of the real estate market is
+[65:47] about storing value it is a huge portion
+[65:50] of it is store of value
+[65:52] like uh one of the statistics I heard on
+[65:55] it is that
+[65:56] a third a third of luxury housing in the
+[66:01] Manhattan area sits empty all
+[66:04] year a
+[66:06] third like that's insane it like it gets
+[66:09] used for nothing people are just sitting
+[66:11] on it because it's going to go up in
+[66:13] value but it's not it goes up in nominal
+[66:16] price not
+[66:17] value
+[66:19] and uh the only reason it like I think
+[66:22] real estate is actually the better the
+[66:25] better form of uh calculating inflation
+[66:29] as we have um because it's the
+[66:32] predominant store of value I think uh in
+[66:35] my opinion
+[66:37] for uh getting around the inflation
+[66:40] problem and people don't know it like
+[66:41] even for like it is the middle class
+[66:43] savings account is equity in your home
+[66:46] uh like I I bought this house for like
+[66:49] this was a small like I was trying to
+[66:51] spend as little as I possibly could I
+[66:52] even got a FHA loan I tried to put as
+[66:55] little bit coin into it as possible
+[66:56] because you know seven years ago like I
+[66:59] saw bitcoin's future and trajectory um
+[67:03] and I bought this house for $157,000 it
+[67:05] was 100% fix me up like it was it was it
+[67:09] had some
+[67:10] problems uh and uh there is I haven't
+[67:14] done like a an appraisal on it
+[67:18] for you know oh we ripped out this
+[67:20] rotten MDF kitchen and we put in nice
+[67:23] custom wood cabinets and quartz
+[67:25] countertops oh we completely remodeled
+[67:28] two bathrooms oh I dug out the 8ot crawl
+[67:32] space I excavated around it waterproofed
+[67:36] the whole thing and now it's a Concrete
+[67:38] basement and I've added you know 1100
+[67:40] square foot to square feet to the house
+[67:43] none of that is being calculated if you
+[67:45] just look at the Zillow estimate for
+[67:48] what it costs to have this house
+[67:49] according to its ignorant thinking or
+[67:52] its ignorant perspective that it's just
+[67:54] the same house as it was when I bought
+[67:56] it virtually it's like
+[68:03] $360,000 it's not worth like it it
+[68:05] didn't get worth more the dollar got
+[68:09] shittier the dollar lost value like
+[68:12] there are people and if I sold it I'd
+[68:14] pay capital gains I'd pay capital gains
+[68:17] on getting around inflation and if I you
+[68:21] know sold it for this I can't buy more
+[68:23] house I can't like go you know to the
+[68:26] other side of town and buy something way
+[68:28] bigger i' buy the same
+[68:30] thing like and if you calculate it for
+[68:34] it's like probably like $450,000 if you
+[68:36] calculate what I've actually done to it
+[68:38] like in the fact that it's like way way
+[68:40] better condition than when I got it um
+[68:44] and like that's crazy that's crazy
+[68:47] that's like that is that is the
+[68:48] destruction of a currency right there
+[68:51] like if you don't if you're not framing
+[68:53] it right you just don't understand how
+[68:56] awful that is from the context of money
+[68:58] that's why Bitcoin as a pure price
+[69:00] signal is going to completely change the
+[69:01] game because my entire relationship to
+[69:05] this house is the fact that like I need
+[69:06] it for utility I'm not I'm not using it
+[69:08] to hedge against the dollar I'm holding
+[69:10] the debt to hedge against the dollar so
+[69:12] that I don't have to sell my Bitcoin but
+[69:14] my Bitcoin is my pricing mechanism what
+[69:17] it will cost me in Bitcoin over that
+[69:18] time is how I make my decisions so I buy
+[69:22] this house not because I think of it as
+[69:24] an investment I think of it as a l in
+[69:25] Bitcoin but I need a house I'm we're
+[69:28] start we have a family you know like I
+[69:30] want to have like 16 more
+[69:32] kids and so like it is a utility cost to
+[69:38] me like I'm buying it for its utility it
+[69:40] is not an investment anymore and that
+[69:43] mind shift that that shift in mental
+[69:45] framing will start to occur more and
+[69:48] more at a larger and larger degree as
+[69:50] the trust Network as the the trust
+[69:53] adoption of bit coin grows and real
+[69:57] estate will be priced real estate won't
+[70:00] sit empty real estate will not sit empty
+[70:03] because that means that your opportunity
+[70:06] cost to have
+[70:08] Bitcoin is going to just keeping up with
+[70:10] inflation and still paying capital
+[70:12] gains so you're doing worse than just
+[70:16] just leaving just exiting the real
+[70:18] estate which means that real estate
+[70:20] prices will plummet but I think it will
+[70:21] actually accelerate faster um uh
+[70:25] specifically because like the commercial
+[70:26] real estate market has imploded since
+[70:30] 2020 and it's only because of the
+[70:32] btfp um uh the the financing program
+[70:36] that it's essentially not come home to
+[70:37] roost yet uh and I think
+[70:41] when when that kind of like fully
+[70:43] implodes and we get our unraveling of
+[70:45] the banking crisis there which has
+[70:47] started with in uh the New York
+[70:49] Community Bank um I think probably like
+[70:51] Zion and um uh like m
+[70:55] Wells Fargo is actually really exposed
+[70:58] to this one I think it's like
+[71:00] 22% of their their reserves are in
+[71:03] commercial real
+[71:04] estate um uh that's a that's a big one
+[71:08] that would be bad um but anyway it's
+[71:10] gonna it's gonna be really interesting
+[71:11] to watch that unfold and uh I think
+[71:13] there could be a
+[71:14] second like I think we'll have kind of a
+[71:17] general real estate collapse and it'll
+[71:19] be interesting to see how that plays
+[71:21] into it because if I was thinking about
+[71:22] like just a normal progression from one
+[71:24] to the other
+[71:25] Bitcoin would take 10 years but it could
+[71:28] be you know two years and then a heavy
+[71:30] acceleration in that direction um and uh
+[71:33] as you know a serious banking crisis and
+[71:36] real estate crisis unfolds um in the
+[71:39] debt
+[71:39] markets and a feedback
+[71:42] loop for a negative feedback loop for
+[71:45] Fiat and for real estate will accelerate
+[71:50] not slow down you know like like it's
+[71:53] it's unlikely to reach some sort of
+[71:54] plateau
+[71:56] let me give you an example so when
+[71:58] Bitcoin starts to become like like let's
+[72:00] say like a bad policy gets implemented
+[72:01] and Bitcoin goes up 20% like it becomes
+[72:04] this Extremely Loud very iny face
+[72:08] indicator of the potential Market
+[72:10] Fallout of policymaking policy decisions
+[72:13] and like what's going on in the credit
+[72:15] markets um as it starts to do that when
+[72:19] it becomes A5 trillion dollar market A9
+[72:22] trillion Doll
+[72:24] Market you'll start to see it show up in
+[72:26] Fiat it won't just be that Bitcoin goes
+[72:29] up it'll be that Fiat dips 1%
+[72:34] 2% immediately like
+[72:37] fast and Fiat will become increasingly
+[72:40] volatile in the negative and Bitcoin
+[72:44] will continue to be higher will continue
+[72:47] to be up and when that happens and it's
+[72:51] recognizable it becomes visible on the
+[72:54] Fiat side
+[72:56] well then it becomes even dumber to not
+[72:58] have some exposure to bitcoin and to
+[73:02] like the that that feedback loop becomes
+[73:05] more exaggerated and then when people
+[73:07] say like Bitcoin is volatile it's like
+[73:08] Fiat is volatile they made a decision
+[73:10] today and it fell
+[73:12] 3% and when you start having that sort
+[73:15] of when it simply is you can see when
+[73:19] you can see it happening very very
+[73:22] quickly is when
+[73:26] I I don't think there's any reversing
+[73:28] like I think you've hit the point of no
+[73:29] return where it's just going to continue
+[73:31] to accelerate because you add another $2
+[73:33] trillion dollar to the Bitcoin market
+[73:35] and now every single move you know right
+[73:38] now we're in this place where Bitcoin is
+[73:40] small enough that it like moves like
+[73:42] crazy and dollar is so huge that it's
+[73:45] just like really hard to see anything
+[73:47] but as they get
+[73:48] closer the and you start to see little
+[73:50] movements like I I think you just shift
+[73:54] you know like you you eventually just
+[73:57] one's only going down and one's only
+[73:59] going up on a long enough timeline and
+[74:01] once you start to see those Vol that
+[74:03] volatility show up on both sides of the
+[74:06] essentially the you know the river
+[74:07] you're pouring water from one to the
+[74:09] other and then you start to notice that
+[74:10] the water is changing over here because
+[74:13] this Mark this bucket is now big enough
+[74:16] um I think it
+[74:18] accelerates really fast um the because
+[74:22] price signals are everything and and
+[74:24] right now it's not visible right now you
+[74:26] still can't see it because bitcoin's
+[74:27] very small it really is small when you
+[74:29] talk about like its actual market cap um
+[74:33] so I would I would really love to
+[74:36] reassess in three years to see where I
+[74:39] think it is um and I think in seven
+[74:42] years it'll be a very very interesting
+[74:44] conversation um in fact seven years we
+[74:46] may be looking back and thinking like oh
+[74:48] yeah this is we're already we're already
+[74:50] past that
+[74:52] point where that market can't oper
+[74:55] operate as if Bitcoin doesn't exist it
+[74:58] still can but I don't think it will for
+[75:00] very
+[75:01] long yeah definitely I can 100 100%
+[75:05] subscribe to that and uh I think it was
+[75:08] an astonishing episode with you you're
+[75:11] really really insightful person you you
+[75:14] read and listen sorry for the rambling
+[75:16] thing it's like they go it's it's it's
+[75:19] it's always crazy good to see if someone
+[75:23] actually reads a lot like it's clear
+[75:26] that you have so much information I read
+[75:27] more about Bitcoin than anybody else you
+[75:29] know what are you talking about yeah
+[75:32] right so and this is uh that's why it's
+[75:34] such an amazing conversation with you
+[75:36] and I had like I think I got to one yeah
+[75:40] one fifth of my my
+[75:43] questions oh my God I always try to over
+[75:46] prepare and then let the conversation
+[75:48] flow freely uh but uh thank you so much
+[75:52] uh for being on thank you so much for
+[75:54] for taking the time and on my show I
+[75:56] definitely want to be make a second
+[75:58] round and maybe next year or something
+[76:00] like that and uh yeah where can people
+[76:04] ask you directly questions where can
+[76:05] people reach out to you where can people
+[76:07] find you the best way yeah yeah I am on
+[76:11] uh Twitter obviously uh that's still a
+[76:13] great way to hit me up in DMS um though
+[76:16] they limit now who can send DMS and like
+[76:19] I I I filter through a crap a ton of
+[76:23] crap um so if it takes me a week to get
+[76:26] to you I apologize um if it takes me a
+[76:29] month I that's my bad but uh still dming
+[76:33] on Twitter is still a useful thing uh
+[76:35] hitting me up on telegram is actually
+[76:38] probably a higher hit rate um noer is a
+[76:41] good one too I'm at the guy Swan on all
+[76:43] of it just the guy Swan Swan with two
+[76:46] ends um and of course you can check out
+[76:48] Bitcoin audible uh AI Unchained uh and
+[76:52] I've got another project actually that's
+[76:53] been in the works for a little but um
+[76:55] that'll come out soon on the show side
+[76:57] and then I've also got a development
+[76:58] project that we've been working on so
+[77:00] lots lots of stuff to come uh love to
+[77:03] check those out and I've been trying to
+[77:05] do a lot of little like explainer like
+[77:08] I've been referring to them as guys two
+[77:09] SATs uh uh my two SATs videos where I'm
+[77:13] trying to distill because I have the I'm
+[77:15] gonna tell you something you don't know
+[77:17] but I have a tendency to ramble for an
+[77:19] hour on a topic when asked a question
+[77:23] and I'm trying to figure out I'm trying
+[77:24] to do my best to distill this down
+[77:26] into like three minutes um and it's very
+[77:30] very hard it takes a week to to really
+[77:34] like bring it down you know edit it to
+[77:37] what the heart of the argument is um but
+[77:39] I'm trying to do that in videos and
+[77:41] they've done really really well they've
+[77:42] gotten a lot of attention so um I think
+[77:45] that's a really good one uh and then of
+[77:47] course Keat um I know a lot of people
+[77:49] don't know about Keat uh but honest to
+[77:52] God when I think about like the most
+[77:54] important things that are happening
+[77:56] right now and the the kind of critical
+[77:59] technological changes when I think about
+[78:00] the layers of disruption that I
+[78:02] mentioned um I think Bitcoin Ai noer and
+[78:06] Keat well not Keat ho punch is the
+[78:09] protocol Keat is just kind of an
+[78:10] application built on top of it but it's
+[78:12] the proof of concept that holy this
+[78:15] works um check it out if you haven't um
+[78:18] I think it is the most unsung of the
+[78:20] most important things that are happening
+[78:22] right now and I spend my whole day on it
+[78:25] um so uh definitely check that out too
+[78:28] yeah perfect thank you for for taking
+[78:31] for for taking the time oh wait do am I
+[78:34] asking a question for the next guy uh
+[78:36] yes I usually do it offline but you can
+[78:38] also do it uh while we Rec okay got you
+[78:41] I I'll make it very simple I'll make it
+[78:43] very simple is what's the most important
+[78:45] thing perfect what's the most important
+[78:47] thing that's
+[78:49] it love it uh it's it's fascinating for
+[78:52] me because I have now you're my 77th
+[78:56] guest on and I did not had any question
+[78:58] two times so uh let's see how how long
+[79:01] this streaks continues perfect then
+[79:04] thank you for taking your time and uh
+[79:05] we'll see you soon hell yeah man
+[79:08] appreciate it
+[79:13] dude

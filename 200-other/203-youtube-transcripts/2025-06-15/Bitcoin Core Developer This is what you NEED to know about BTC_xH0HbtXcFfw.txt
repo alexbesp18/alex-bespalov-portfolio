@@ -1,0 +1,1906 @@
+Title: Bitcoin Core Developer: This is what you NEED to know about BTC
+Video ID: xH0HbtXcFfw
+URL: https://www.youtube.com/watch?v=xH0HbtXcFfw
+Date Saved: 2025-06-15 11:52:01
+--------------------------------------------------
+
+[00:00] how high is the threat that Bitcoin C
+[00:02] developers coming together and and doing
+[00:04] something hurtful to bitcoin the main
+[00:06] danger is that something gets done
+[00:08] without it being noticed the most
+[00:10] amazing threat that Bitcoin ever
+[00:12] overcame was 2017 with the block size
+[00:14] war that was that was a big one C was
+[00:16] deactivated for a reason there were some
+[00:18] issues with it is the Bitcoin base layer
+[00:21] kind of done like how much more
+[00:23] developments uh will that come on the
+[00:25] base layer there's still things that
+[00:27] that we can improve
+[00:32] I've done now almost 220 interviews um
+[00:36] it's almost a little embarrassing for me
+[00:38] I've never done an interview with a
+[00:41] Bitcoin Cod developer so so that that
+[00:44] that should have came earlier I feel
+[00:46] like but now we're here now now first
+[00:49] you're the first one H so you will get
+[00:51] all my beginner questions also as you're
+[00:54] the first one H you have to dive me uh
+[00:57] get through that also and we also I also
+[00:59] want to talk with you about the human
+[01:01] rights Foundation that you're also uh
+[01:03] working with it's also really
+[01:05] interesting connection between human
+[01:07] rights and and Bitcoin I love what Alex
+[01:10] gladin also is doing in that regard um
+[01:12] but yeah let's let's just dive in like
+[01:15] how did you become a Bitcoin
+[01:17] co-developer and why is that the thing
+[01:20] that you chose to dedicate your life
+[01:22] to yeah sure um so I mean the the the
+[01:27] first of all I was a developer and um I
+[01:30] was I was passionate about technology
+[01:32] always always like to learn new things
+[01:34] and jump into um new topics and um so I
+[01:39] was working with startups for quite a
+[01:41] while before really uh starting to work
+[01:43] on bitcoin full-time like that that that
+[01:46] already like gave me kind of an
+[01:47] environment where um I could kind of
+[01:50] like always see and understand the full
+[01:52] stack of things and and like see see
+[01:55] kind of how everything works that's
+[01:57] something that's also very important to
+[01:58] me um and I discovered Bitcoin um
+[02:03] somewhat early when when it was pretty
+[02:05] new but kind of really didn't really
+[02:07] understand it at the time um I think
+[02:10] that's uh maybe interesting now that AI
+[02:12] is also the Hot Topic like um I I was
+[02:16] like to say like I initially I looked at
+[02:18] Bitcoin similar to how you would look at
+[02:20] AI like I tried to understand how
+[02:22] Bitcoin could help a business be more
+[02:24] efficient but of course that's a very
+[02:26] bad way of trying to apply Bitcoin kind
+[02:29] of as a tool in the business setting so
+[02:31] that's why initially I failed to
+[02:33] understand Bitcoin and how it could be
+[02:34] relevant and that's why um I only I only
+[02:37] started taking more seriously and and
+[02:39] Diving deeper um years later so um I um
+[02:45] really that and this I think it's a good
+[02:47] connection to the hrf as well to the
+[02:49] work that hrf is doing like really what
+[02:51] what like made it click for me was the
+[02:54] refugee crisis in Europe 2015 2016 when
+[02:58] um I kind of like
+[03:00] you read the stories in the news all the
+[03:02] time about people like trying to make
+[03:04] their way over the Mediterranean Sea or
+[03:06] um coming across other paths and then
+[03:09] relying on on um human traffickers um
+[03:13] and human traffickers always take all of
+[03:15] the money all of the values that they
+[03:17] have with them um and kind of at that
+[03:19] point I remembered that one of the
+[03:21] features of Bitcoin is that you could
+[03:23] like remember the pass phrase in your
+[03:25] head and potentially P cross borders and
+[03:28] and no nobody could that that that you
+[03:30] have valuables on you basically um and
+[03:33] so kind of yeah there was there was
+[03:34] really a trigger for me to get deeper
+[03:36] into it and at the time uh the lightning
+[03:40] network was also very new um and so
+[03:42] that's really the first part of Bitcoin
+[03:44] where I really Dove deep um around 2016
+[03:49] um where like the the base layer while I
+[03:52] while I was understanding how it worked
+[03:54] um on a on a higher level um it also
+[03:58] felt like kind of done and like not
+[04:00] something where I felt like I could
+[04:02] really contribute that much um and while
+[04:06] while lightning was really like those
+[04:08] were the Reckless times right um that's
+[04:11] when you if to in order to participate
+[04:13] you had to set up your own note there
+[04:14] was just no other way um and everyone
+[04:17] was doing like crazy stuff and and just
+[04:20] just yeah just trying stuff out so like
+[04:22] I I built like a vending machine for
+[04:24] example where you could buy uh sneakers
+[04:26] bars with uh with lightning um and and
+[04:30] this yeah like it it was nice to play
+[04:32] around on like application layer stuff
+[04:34] but also um through lightning I learned
+[04:37] more and more about Bitcoin on the base
+[04:39] layer um and yeah just basically saw
+[04:43] more and more how everything relies on
+[04:46] on the base layer and um If we're honest
+[04:48] also everything then relies on bitcoin
+[04:51] core because it's the predominant note
+[04:53] that is run on the network um and I was
+[04:56] still thinking about like working more
+[04:59] on life in um when I was invited to come
+[05:03] to chenco to New York um basically for
+[05:07] for short internship residency like the
+[05:10] program is not really active at the
+[05:12] moment but they have like online
+[05:13] programs now that are comparable um and
+[05:16] there I was in a room with a lot of
+[05:18] people that worked on bitcoin core and
+[05:19] so I could learn a lot more how Bitcoin
+[05:22] core Works in in a short period of time
+[05:24] and that
+[05:25] also really was the first time that I
+[05:27] understood it in so Much Death that I
+[05:29] really saw more and more places where I
+[05:32] could be helpful where I could
+[05:33] contribute um and um yeah so that's what
+[05:37] I started doing then and um in the
+[05:39] beginning I was like okay this is like
+[05:41] interesting learning experience but then
+[05:43] um after some time I was saw like okay
+[05:46] it feels like I'm being useful here so I
+[05:48] will continue to do it um and yeah since
+[05:51] since that time so since 2019 um I've
+[05:54] been continually doing it not full time
+[05:57] as I'm doing it now like on and off uh
+[05:59] full time like the grand the grand
+[06:01] landscape was a bit tricky at times but
+[06:04] um yeah now um I'm uh with Brink uh
+[06:07] since last year um and also supported
+[06:10] for some research work from hrf um so
+[06:13] yeah I'm doing it fulltime now for uh
+[06:16] since since early last year uh what is
+[06:18] Brink really quickly Brink is a
+[06:21] nonprofit that funds Bitcoin development
+[06:24] um and primarily it's focused on work
+[06:27] that is uh um
+[06:30] on bitcoin core um but people that are
+[06:34] funded also work on other stuff so some
+[06:36] people for example work on fuzzing and
+[06:38] so they do the fuzzing work on bitcoin
+[06:40] core but also they fuzz other projects
+[06:42] in the Bitcoin space um and for example
+[06:44] I am primarily working on bitcoin core
+[06:47] but also I do um like the cesa research
+[06:49] stuff that we will talk about later that
+[06:51] hrf is supporting as well um and I'm uh
+[06:55] for example doing some tools that that
+[06:58] are helping them with providing data for
+[07:01] Bitcoin core um so the as map project
+[07:04] there I've built a tool uh with which
+[07:06] you can actually build the maps um so
+[07:09] you you're not really um uh you don't
+[07:12] really have much guidelines in general
+[07:14] what you what you're supposed to work on
+[07:16] but um the primary focus I would say in
+[07:19] general of the organization is support
+[07:20] Bitcoin cwork um and then um also of
+[07:24] course everything that that help the
+[07:26] Bitcoin core the Bitcoin ecosystem in
+[07:28] general how many uh Bitcoin core
+[07:31] developers uh are full-time or like
+[07:34] part-time working on that is there like
+[07:36] is there estimate on on that can you uh
+[07:40] is there like yeah so um there is a a
+[07:44] blog post um that like um Adam Jonas
+[07:48] somebody from from chain code who is
+[07:50] working on um kind of like getting
+[07:54] getting kind of the the status of
+[07:56] Bitcoin core development like once per
+[07:58] year he puts out a um
+[08:00] a post and that features some statistics
+[08:03] um so there the bar I would say is quite
+[08:05] low to for what he calls a contributor
+[08:08] um so I think he call somebody
+[08:11] contributor who has like written five
+[08:13] comments or so or like um um in terms of
+[08:18] commits like who has made five commits
+[08:19] per year um I think that like includes a
+[08:22] lot of people that are not really doing
+[08:23] it full-time um so since you asked
+[08:26] fulltime so I would say um the people
+[08:29] that are really doing anything that is
+[08:31] close to full-time like actually uh
+[08:34] working every week on bitcoin core um
+[08:36] like I would say like generally working
+[08:38] fulltime on bitcoin and then like every
+[08:40] week do something in Bitcoin core I
+[08:42] would say that is a small group of of
+[08:44] like 20 to 30 people or so so it's
+[08:47] really not a big group and so that I I
+[08:49] also wanted to say that when you said
+[08:51] I'm the first one to come to your show
+[08:53] or that you that you get on your show
+[08:54] like that's totally fine like there's
+[08:56] not a lot of people um that really work
+[08:58] on on bitcoin core full time and um not
+[09:01] all of them like to do interviews um and
+[09:04] so yeah I think that's uh that's all
+[09:08] right yeah thank you for coming on and
+[09:11] yeah it's it's it's my unorganized
+[09:14] invite still now like I'm I just like
+[09:16] when something in my feet comes and oh
+[09:18] that's interesting then I invite as I
+[09:20] did it with you so when I if I would be
+[09:23] a little bit more organized with whom I
+[09:25] invite and how I should invite uh this
+[09:27] will come in the future as the podcast
+[09:29] grows and as the the list of potential
+[09:31] guests get bigger uh but as now it's
+[09:34] it's just uh chaotic and in in my head
+[09:37] somewhere um for all the I'm aware at
+[09:41] every Bitcoin conversation there's
+[09:43] someone new in there uh and uh when you
+[09:46] think about developers in in a normal
+[09:50] project like in a centralized I don't
+[09:52] know SAS business uh the developers can
+[09:56] put a lot in the code and they have a
+[09:58] lot of yeah Freedom there because they
+[10:01] only need basically like maybe one or
+[10:03] two people to agree with them and I
+[10:05] think a lot of people maybe come with
+[10:08] that mindset to bitcoin core developers
+[10:10] and and think like oh Bitcoin core
+[10:12] developers they have a lot of um power
+[10:15] and influence over the Bitcoin um
+[10:18] Network maybe maybe let's have a little
+[10:20] bit in the beginning and like um how
+[10:24] high is the threat uh in your case that
+[10:26] Bitcoin core developers like group of 20
+[10:28] or 30 people that I actually doing it um
+[10:31] coming together and and doing something
+[10:33] uh hurtful to to bitcoin even though
+[10:35] they they don't want to do that but
+[10:37] let's imagine if they want to do that
+[10:39] how high is the threat of doing that uh
+[10:41] and uh what is the role of a Bitcoin Cod
+[10:44] developer in the overall ecosystem in
+[10:46] general um so you mean basically that
+[10:49] that the 2030 people uh would
+[10:51] collaborate and and do something hurtful
+[10:54] um yeah I mean it's uh our
+[10:59] I guess 20 to 30 is not I guess a huge
+[11:03] group to corrupt uh in in general like
+[11:07] in in grand scheme of things um but I
+[11:09] think like when you when you look at
+[11:11] kind of the history of the people of how
+[11:13] they contribute how how they came into
+[11:15] it where they are
+[11:17] geographically um like these are very
+[11:20] different people and they they do it for
+[11:22] different motivations they have
+[11:24] different ideas um and so uh like some
+[11:28] of them were together in organizations
+[11:31] like for example Brink like there's five
+[11:33] or six people for example part of that
+[11:35] that that are affiliated with Brink for
+[11:37] example um but U like in order to like
+[11:42] really catch them all and then not be a
+[11:44] canary anywhere like I I would have a
+[11:47] hard time believing that that's really
+[11:48] going to be the case so um of course
+[11:51] like in in such a threat scenario like
+[11:53] more is always better um and of course
+[11:57] there are other stop gaps so um
+[12:00] hopefully more people than just the 20
+[12:02] to 30 people look at the code and like
+[12:04] actually test the code and verify that
+[12:07] that the code says what what what they
+[12:10] are saying so I mean if if really like
+[12:13] there were were like let's say like more
+[12:16] realistic I think is that two or three
+[12:18] people would collaborate um and um try
+[12:22] to put something in the code that is not
+[12:25] really like that that introduces a
+[12:26] vulnerability right um and so with two
+[12:30] or three people like you can you can
+[12:32] make it appear like there's like one one
+[12:34] person implements it and the two others
+[12:36] are reviewing it and saying like yeah
+[12:37] this is fine um but it would need to be
+[12:40] covered and you would basically like it
+[12:43] would really like seem like it's fine um
+[12:46] and I think that's a pretty high bar um
+[12:49] even like I think you would really need
+[12:52] to hide that very very well um in order
+[12:55] in order to get something in like for
+[12:57] example like a change that is just in
+[12:59] the test codee or like an a change in
+[13:02] the documentation um that's something
+[13:04] where two or three people would be fine
+[13:06] like something that is just reviewed by
+[13:08] two people or so that would get merged
+[13:10] um that is possible but something that
+[13:12] touches more sensitive part of the code
+[13:15] like for example the wallet or something
+[13:18] that touches um P2P um that is already
+[13:22] reviewed by by a lot more people um and
+[13:25] requires more people to say okay this is
+[13:27] this is all right um and then if you
+[13:29] look at consensus cor like consensus
+[13:31] changes like tap rot for example was um
+[13:34] reviewed by I don't know 20 people or so
+[13:37] and these were also a lot of people that
+[13:39] are not really active in Bitcoin core
+[13:41] but that came into Bitcoin core just to
+[13:43] look at this particular code change and
+[13:46] and give feedback on it so I think like
+[13:49] core has a good understanding of which
+[13:51] changes are more dangerous than others
+[13:54] um and then depending on how many uh how
+[13:58] dangerous they are um there's a
+[13:59] requirement for more people to to look
+[14:01] at it and also um sometimes with
+[14:04] interesting changes also people that
+[14:06] have maybe not been active for a while
+[14:08] but like maybe attaches code that they
+[14:10] have introduced like five years ago and
+[14:12] then they become curious like why why
+[14:14] does somebody change my code that I
+[14:15] wrote five years ago where I had very
+[14:17] clear ideas why why I did it this way
+[14:20] like maybe they come back and take a
+[14:21] look at this as well um and there's also
+[14:24] like um people or or if they don't see
+[14:26] it themselves like maybe somebody else
+[14:28] asked them like hey you wrote this five
+[14:30] years ago right you can see it in the in
+[14:32] the history in in git um and ask them to
+[14:35] look um then um they can um they can be
+[14:39] activated basically and and asked to to
+[14:41] give feedback as well so um yeah so I
+[14:46] mean like you I think the the main
+[14:48] danger is that something gets done
+[14:49] without it being noticed um like once
+[14:52] it's noticed um I'm not sure if that's
+[14:54] clear to to everyone who's listening but
+[14:56] like once it's noticed of course like
+[14:59] everyone can can run their own uh Fork
+[15:01] of Bitcoin core and so if it turns out
+[15:04] like part of the developers are corrupt
+[15:06] um then a new Fork would get done and
+[15:09] then people could run that version of
+[15:11] the um of the software rather than than
+[15:14] the um than the corrupt corrupted
+[15:17] version yeah and I think that's the
+[15:20] that's the biggest thing like even if
+[15:21] there's something coming in you can run
+[15:24] your own note uh you you can choose your
+[15:26] own version uh and therefore like a lot
+[15:30] more people uh look actually at at
+[15:33] Bitcoin than than just the cor
+[15:35] developers in in in that regard and if
+[15:37] there would be something in there that
+[15:39] would as As We Know It uh things spread
+[15:42] fast in in the Bitcoin Community uh and
+[15:46] especially something that would maybe
+[15:47] even be a threat to bitcoin that would
+[15:49] be highly discussed on on every uh
+[15:52] platform and I think uh I always look
+[15:55] back a little bit when when I see threed
+[15:57] models to to bitcoin like uh for me the
+[16:00] most amazing threat that Bitcoin ever
+[16:04] overcame was 2017 with the block size
+[16:06] war that was that was a big one uh and
+[16:09] and I feel like Bitcoin is now quite
+[16:13] stable and and and and I I feel very
+[16:16] safe with Bitcoin like the the the
+[16:18] overall thing where I'm like I'm
+[16:20] learning since four years now really
+[16:21] deeply in Bitcoin especially now with
+[16:23] the podcast with every day new podcast
+[16:25] guest um just learning deep and deeper
+[16:28] and learning about all the the threet
+[16:29] models also it's like oh yeah it's gets
+[16:32] more safe like every day and a new
+[16:35] person coming in um but I guess new
+[16:37] people have have the concern a lot when
+[16:40] when they come in and oh they wait there
+[16:41] only a few a handful of of of of Bitcoin
+[16:44] core developers yeah but this there's a
+[16:47] whole ecosystem to that like there's
+[16:49] there are node Runners there miners
+[16:51] there's uh the whole group that that are
+[16:54] depending on on bitcoin that have the
+[16:56] life savings in Bitcoin and they they
+[16:57] would react to C certain type if there
+[17:01] something in there like select a lot of
+[17:03] interesting things in there to protect
+[17:05] Bitcoin yes and it's a good question
+[17:07] because the like it really like what I
+[17:10] said like really touches on the the the
+[17:12] most scarse resource that we that we
+[17:15] have in in bitco cor is review time like
+[17:18] it would be great if like the average po
+[17:21] request wouldn't look be looked at by
+[17:23] five people but instead it would be
+[17:24] looked at by 10 people um uh and so
+[17:29] but unfortunately there's just not
+[17:30] enough people so but like we just
+[17:33] recently had some announcement of new
+[17:35] people getting funded um particularly
+[17:38] also for for um stability uh work and
+[17:42] for review work um and so um that's
+[17:46] great I see that there there we will see
+[17:49] new people coming in um into the team
+[17:51] and that they have a really a focus also
+[17:53] on on reviewing um and I hope that like
+[17:56] that will get kind of the average number
+[17:58] of review On Any Given pull request um
+[18:01] up and and yeah kind of make make the
+[18:04] whole development PO process a bit more
+[18:07] enjoyable because like if you heard
+[18:09] anything about bitco core development
+[18:10] probably it's said it's very slow um and
+[18:14] um yeah but I mean slow is also because
+[18:17] it's more secure and like we we just
+[18:20] don't merge anything if there haven't
+[18:22] been enough eyes on it so is the
+[18:24] slowness uh a feature a security feature
+[18:27] in the end
+[18:29] well I mean if
+[18:33] it's like if if there's enough people
+[18:35] looking at a pro request and and uh
+[18:38] saying it's okay within a short amount
+[18:40] of time then it something can get merged
+[18:43] also pretty quickly um but often times
+[18:45] that's just not the case and then it's
+[18:47] also accepted that is fine that the PO
+[18:49] request is lying there for months or
+[18:51] even years like you can see many
+[18:53] examples of that in in Bitcoin cor so
+[18:55] let's say uh it's more a second order
+[18:57] effect of the mindedness of the project
+[19:01] rather than a feature um so yeah um it
+[19:06] it just happens to be that um when
+[19:08] there's not none enough people there
+[19:11] that it feels secure to merge then then
+[19:13] it's fine to take long and like there's
+[19:15] no um or very very limited um uh drive
+[19:22] or appetite I say I would say for for
+[19:24] example merging something before a
+[19:26] release like we have a release upcoming
+[19:28] now which is version 28 um and so
+[19:31] there's some new features in there um
+[19:34] but if there's like like a new feature
+[19:36] and like it hasn't really gotten any
+[19:38] review and like you would drive it like
+[19:40] say like hey let's get this into version
+[19:42] 28 like let's get it done let's let's
+[19:45] merge it it's cool um like that it's not
+[19:48] something that that that happens um
+[19:50] usually like either stuff is very close
+[19:53] to being ready or if something like if
+[19:55] there's a buck found like then it can
+[19:58] get like in quickly um the the buck fix
+[20:02] um for that like we we have some
+[20:04] extended period of time for merging bug
+[20:07] fixes after we have already closed the
+[20:09] door for new features into a version um
+[20:13] U but yeah this like kind of like very
+[20:15] for getting stuff done very short term
+[20:17] is is very limited um because yeah
+[20:20] limited resources and security
+[20:23] mindness it's also interesting because
+[20:25] you mentioned in the beginning that when
+[20:28] you came came into this ecosystem that
+[20:31] you thought that the Bitcoin layer one
+[20:34] like the base layer is kind of done
+[20:36] already as kind of already ready and so
+[20:40] you focus more on on lightning um is the
+[20:44] Bitcoin based layer kind of done like
+[20:47] how much more developments uh will there
+[20:50] come and and how how much more developed
+[20:53] uh can can that be and this is is maybe
+[20:57] more development even dangerous to to
+[20:59] bitcoin um so there's there's many parts
+[21:03] to this so first of all like at at the
+[21:07] time when when I had that perception it
+[21:10] was that yeah I really just didn't know
+[21:13] enough like there's um a lot of things
+[21:15] that need to be done and I mean like
+[21:17] there's this you kind of hinting I guess
+[21:20] at the horific uh argument by by um
+[21:24] Michael sailor so um first of all like
+[21:26] even if you would say like we don't
+[21:28] really change anything on the Bitcoin
+[21:30] core protocol anymore um the project on
+[21:33] on the Bitcoin protocol um the Bitcoin
+[21:35] core project would still need
+[21:36] maintenance in order to function um on
+[21:40] new operating systems on new computers
+[21:43] that come out um in order to to um fix
+[21:47] potential bucks that are still uh being
+[21:49] discovered um so like that that alone um
+[21:54] could could keep the PE the group of
+[21:55] people that are working on it now busy
+[21:57] also for for the next few years and
+[22:00] potentially forever I would say um then
+[22:04] of course there are still things to
+[22:05] improve like not not even talking about
+[22:08] bucks but like in terms of performance
+[22:10] um that there's we always find new stuff
+[22:13] that can be done in a better way um the
+[22:15] the code base also can be improved in
+[22:17] terms of like how um easy it is to
+[22:20] understand so there's a lot of stuff in
+[22:21] there that is still from like satosi
+[22:23] times in terms of like how variables are
+[22:25] named and then you make a change
+[22:27] somewhere and then the variable name
+[22:28] doesn't really mean what it was supposed
+[22:31] to mean anymore um and so all of these
+[22:34] things are also still like there's a lot
+[22:36] of stuff that we can still clean up and
+[22:38] make it easier to understand for other
+[22:40] people that maybe want to come in and
+[22:41] start contributing or that want to just
+[22:44] review um changes um uh so so these are
+[22:49] I would say categories that we really
+[22:51] don't want to miss either way even if
+[22:53] you kind of like say okay the base layer
+[22:55] is is finished as a as a protocol um uh
+[22:59] and then I I would say on the protocol
+[23:02] itself on the base layer I think um
+[23:05] there's still things that that we can
+[23:06] improve um so um just on the P2P side
+[23:11] like not not talking about consensus um
+[23:14] I think there are very interesting
+[23:15] things coming up um like um the um
+[23:20] package relay for example um a lot of
+[23:23] stuff is is or a lot of resources are
+[23:25] going into in general into understanding
+[23:27] how the m functions how pinning attacks
+[23:30] can be uh mitigated um and this really
+[23:33] helps Layer Two protocols like lightning
+[23:36] Network um that is really the main
+[23:38] driver for for this this kind of work um
+[23:41] and so um I think like lightning works
+[23:45] well I think but there's still a lot of
+[23:47] issues also that need to be um that need
+[23:50] to be fixed in order for it to to Really
+[23:54] um support kind of the the next the next
+[23:57] wave I would say
+[23:59] um so uh this is part of that and so um
+[24:02] that is that is also work I think that
+[24:04] we want to that you want to continue
+[24:05] doing um and then I'm not like um the
+[24:10] the covenants have been the driver for
+[24:13] potential consensus changes and that
+[24:15] whole conversation in the future um but
+[24:18] obviously I'm also working on Caesar
+[24:19] which is another um consensus change um
+[24:24] suggestion um so
+[24:27] um because of what I'm working on but
+[24:30] also in general I think Covenant can
+[24:32] bring interesting new features to
+[24:34] bitcoin um which will allow us to kind
+[24:37] of take next step of uh uh layer twos
+[24:41] and like potential scaling solutions
+[24:44] that don't require any trust like ecash
+[24:48] for example is also something that a lot
+[24:49] of people are excited about at the
+[24:51] moment but it requires trust like
+[24:52] there's still the possibility that um
+[24:55] the the mint that you're using um goes
+[24:57] away or that it uh starts implementing
+[25:00] kyc um so I think we shouldn't stop uh
+[25:04] there and we should try to to take a
+[25:06] Next Step so um and and yeah we need
+[25:09] consensus changes for that really
+[25:12] interesting you made the differentiation
+[25:15] between P2P and consensus is is that
+[25:18] different parts of Bitcoin core or like
+[25:20] what what is that um yeah so I mean the
+[25:22] P2P layer is how how the nodes talk to
+[25:25] each other right um and so a lot of
+[25:29] things can go wrong there as well but
+[25:32] and so for example you could like see a
+[25:34] network split or so um but this is not
+[25:37] uh part of consensus in general
+[25:39] consensus is like which which blocks you
+[25:42] accept right um and so um there is
+[25:46] another thing that often like for for
+[25:48] for new people that is maybe a bit hard
+[25:51] to understand but there's a on the P2P
+[25:53] layer we have policy um so policy and
+[25:56] consensus are different
+[25:59] um policy is more restrictive than
+[26:02] consensus um because when you get uh
+[26:06] send like a transaction for example over
+[26:08] policy uh over over the P2P Network and
+[26:12] this transaction for example is um yeah
+[26:16] it's it's it's paying a certain amount
+[26:18] of fee it pays like one satosi per
+[26:20] rebite right um and this this
+[26:23] transaction would be fine to includ in
+[26:24] block and then let's say like I sent you
+[26:27] another transaction that Al Al pays the
+[26:29] same amount of uh uh
+[26:32] um same fees same fee rate um but it's
+[26:35] just a little bit different like it uses
+[26:37] a different output like you can you can
+[26:39] tweak a transaction right without really
+[26:41] changing it materially um but but you
+[26:44] can make tweak through transaction like
+[26:46] let's say I put an OP return in there
+[26:48] and I just changed the input the the
+[26:49] content of the op return um uh every
+[26:52] time and so then I could send you like
+[26:54] tons and tons of these transactions and
+[26:56] they could basically like denial of
+[26:58] service attack you um by making it like
+[27:01] like sending you valid transactions all
+[27:03] of these transactions would be valid to
+[27:04] be included in a block but um as a note
+[27:09] I don't want you to to send me all of
+[27:10] this data because it's it's garbage like
+[27:12] um uh so I don't want to be attacked and
+[27:14] so for example a policy rule is that I
+[27:17] want like when you replace a transaction
+[27:19] when you send a replacement transaction
+[27:21] that pays the same fee or like like I
+[27:24] basically ask you to pay a bit more in
+[27:26] fees um and we call that pay for the
+[27:28] traffic so I accept like more traffic
+[27:30] from you but then you should also pay
+[27:32] for uh for that in the in the in the um
+[27:36] in the sense of a higher um fee rate
+[27:39] yeah so policy rules that kind of
+[27:41] unintuitive I guess when when you knew
+[27:43] but the policy rules are tighter than
+[27:45] consensus rules um you reject stuff on
+[27:48] the P2P layer that you would be fine to
+[27:51] accept when it's in a block um uh but
+[27:54] yeah that that shows how how these two
+[27:56] worlds are different and and both are
+[27:59] important but um P2P layer is still
+[28:02] quite a bit less important than
+[28:04] consensus really interesting and for for
+[28:07] me for it's also interesting uh the
+[28:09] future changes I think governance is
+[28:11] something that comes up I think that
+[28:14] came up like a lot of times already in
+[28:16] the podcast like five six guests uh uh
+[28:19] mentioned it that it's important that we
+[28:21] need to implement this I never heard
+[28:23] someone uh speaking against it on the
+[28:25] podcast till now uh maybe let's dive a
+[28:29] little bit deeper in that um what will
+[28:32] it enable and and why should why is it
+[28:35] important or do you think it's important
+[28:37] uh covenants right it yeah yeah yeah um
+[28:43] so Covenant it's um I first of all like
+[28:48] I I have to say like I haven't really
+[28:51] studied covenants in general and also
+[28:54] like the
+[28:55] proposals um that are
+[28:58] uh being made like for for some some
+[29:01] time over the last couple of months we
+[29:02] had like it felt like a new proposal was
+[29:04] coming up every week um and so I I
+[29:07] cannot really speak as an authority on
+[29:09] this because I have I don't feel like I
+[29:11] have spent enough time on it so uh all I
+[29:15] can say in general I think that there is
+[29:17] very interesting use cases and people
+[29:19] that work on interesting layer TOS um
+[29:22] see it as a potential Improvement uh for
+[29:26] for them to continue their work and for
+[29:27] them to to put their ideas into a
+[29:30] reality um and from the downsides that
+[29:33] I've that I've seen uh being laid out um
+[29:36] weighing against the the upside I think
+[29:38] it's something that is worth that to do
+[29:40] and uh for example this is a kind of
+[29:43] recent development but for example the
+[29:46] Russell has put out this um uh great
+[29:50] script restoration project or
+[29:53] presentation um and so he basically
+[29:55] suggests um reactiv ating opcat um and
+[30:00] also a couple of other opcodes but opcat
+[30:02] is kind of like the Blockbuster opcode
+[30:03] that that people are very excited about
+[30:05] like if you're on bitcoin Twitter you
+[30:07] certainly have seen something about opet
+[30:08] probably in the last couple of weeks um
+[30:11] but really the the main I would say that
+[30:14] the really the important part or the
+[30:15] part that really uh kind of excites me
+[30:18] about this proposal is that he also
+[30:21] spent some time in like like suggesting
+[30:24] how it can be made safe because like
+[30:26] there's always with cat like opcat was
+[30:28] deactivated for a reason there were some
+[30:30] issues with it and um so there's really
+[30:35] like people were talking about features
+[30:37] a lot but not really like how we can
+[30:39] make really the use of these new up
+[30:41] codes safe um and basically what what
+[30:44] Russy has done is um he has suggested a
+[30:47] new kind of way of evaluating of how
+[30:51] computationally um expensive these op
+[30:54] codes are um and so this is then a
+[30:57] consensus change um U but like we when
+[31:01] we look at Bitcoin script um right now
+[31:04] there there are also rules in place um
+[31:07] and they say okay like I want to um I
+[31:11] allow a certain number of basically
+[31:13] computation like um I I allow some kind
+[31:16] of amount of computation that I need to
+[31:18] do in order to validate a block um but
+[31:21] at this point it's too much um and right
+[31:24] now we're mostly doing this around uh
+[31:26] signatures so signatures are expensive
+[31:28] to validate and so um you can construct
+[31:31] blocks in a way that there's a lot of
+[31:33] signatures that need to be validated um
+[31:36] and at some point currently the consens
+[31:39] rules say no this is too many signatures
+[31:41] I don't want to do this it takes too
+[31:42] much time um and so then a drob block is
+[31:46] rejected um and so basically what an
+[31:48] opat OP code does is it allows more ways
+[31:52] to to do this kind of thing like to to
+[31:55] make it too computationally expensive
+[31:58] um and Rusty has suggested kind of way
+[32:01] of calculating how expensive is this and
+[32:04] then yeah suggested also kind of a
+[32:06] boundary that we want to introduce of uh
+[32:09] rejecting what is the point where we
+[32:11] reject this so this is a very important
+[32:13] piece I think of um getting covenants to
+[32:17] to to closer to reality um yeah like on
+[32:21] on the features I think I'm I'm just the
+[32:23] I'm not the right person like there's
+[32:25] there's people that can speak for hours
+[32:26] about like all of the all great things
+[32:28] that that you can build I think like the
+[32:31] there's a potential that that it can
+[32:33] just take Bitcoin scaling what I
+[32:35] mentioned before that it can take that
+[32:36] forward um and if there's if there's
+[32:39] potentially a path then we should um
+[32:41] yeah leave the door open to to kind of
+[32:45] um exploit that um I I always like to
+[32:48] say like why why do I not work on ecash
+[32:51] personally like why when like before
+[32:55] lightning came around um if you had
+[32:57] asked me like okay what's the next step
+[32:59] for Bitcoin like can we scale it to um
+[33:03] is is there a way to to scale it to
+[33:05] whatever you say is like kind of The
+[33:07] Benchmark that you want to put to to
+[33:08] lightning I would have probably said no
+[33:10] I cannot see a way to do that in
+[33:12] trustless way and then of course like
+[33:14] people that are very smart came up with
+[33:16] lightning um and so yeah just because I
+[33:20] cannot imagine what the next step is um
+[33:22] I would say like maybe somebody who's
+[33:25] who's very smart comes up with it and
+[33:27] and I can see that there's a lot of
+[33:28] people working on that um that are very
+[33:31] smart so um I would say yeah there's
+[33:33] there's potential that something is
+[33:34] coming that we don't really see coming
+[33:36] yet um maybe but that that will be a new
+[33:39] breakthrough similar to what lightning
+[33:40] did um and so yeah that's that's why
+[33:44] also I would just say like let's keep
+[33:46] the door open for for proposals that
+[33:48] governments if you watch or listen to my
+[33:51] podcast on a regular basis I guess you
+[33:53] already bought some Bitcoin and now the
+[33:56] most important step is to keep the
+[33:58] Bitcoin keep them secure in a hardware
+[34:01] wallet my personal recommendation for
+[34:03] Hardware wallet is the bitbox it's super
+[34:06] secure it's simple to set up it's also
+[34:08] perfect gift for a friend who has still
+[34:10] their Bitcoin on an exchange and you can
+[34:13] get a 5% discount with the code Robin at
+[34:17] the checkout visit bitbox do Swiss
+[34:21] robobin to get your bitbox and if you
+[34:23] really want to bulletproof your self
+[34:26] custody setup your security setup and
+[34:28] maybe even your citizenship setup you
+[34:31] have to talk to the Bitcoin way if you
+[34:34] go to the Bitcoin way.com
+[34:36] Partners robobin you get a 30 minute
+[34:40] free call where you can dive deep with
+[34:43] them if your self custody setup is
+[34:46] secure if your citizenship is secure or
+[34:49] maybe might be improvable or your
+[34:51] digital footprint in general is secure
+[34:55] they are the experts in cyber security
+[34:58] in Bitcoin self custody and how to be a
+[35:01] secure sovereign individual in general
+[35:04] and last but not least I have something
+[35:06] completely new for you guys I partnered
+[35:10] up with coin vigilante this is the most
+[35:13] beautiful Bitcoin time piece that I ever
+[35:16] saw created by anyone look at that
+[35:19] beauty I love it so much coin vigilante
+[35:21] made and perfect Bitcoin watch that's
+[35:24] the perfect subtle elegent way to go out
+[35:28] there and show that you are a bitcoiner
+[35:30] and that watch brand is Bitcoin only
+[35:34] make sure to check out the link in the
+[35:35] description for this amazing coin
+[35:38] vigilante time pieces those watches are
+[35:40] amazing I love them so much it was
+[35:42] really hard for me to pick the one that
+[35:44] I want to have because there are a lot
+[35:46] of great options I went with the new
+[35:49] transparency Edition they're all limited
+[35:52] so grab yours those will not be
+[35:55] available for a long time but there will
+[35:57] come new models and new amazing designs
+[36:00] along the way yeah I think it it's
+[36:02] really interesting for me this whole
+[36:03] topic I mean obviously I I actually have
+[36:05] a software developer background I was
+[36:07] three years a software developer but I
+[36:10] stopped that because I was not good in
+[36:12] it just I was just not good in it and I
+[36:16] didn't enjoy it too much so it's not not
+[36:19] something that I pursued um so I looked
+[36:23] also in the beginning a little bit into
+[36:24] Bitcoin oh can I do something developing
+[36:27] uh but as as developing is not my main
+[36:29] uh thing it's interesting how how deep
+[36:32] that uh that rabbit hole is and how much
+[36:35] how much there is to discover even 15
+[36:38] years uh later do you think um we we
+[36:41] might come to a point where we we
+[36:45] reached um a state where we don't have a
+[36:48] lot of proposals where like Bitcoin is
+[36:51] already in like almost every hand and we
+[36:54] only do some maintenance as you said
+[36:56] before some maintenance some small um
+[36:59] comparability things maybe some some
+[37:02] things like um we have a small buck that
+[37:05] we found and and we do it or will there
+[37:07] also come bigger
+[37:09] changes um along the way always as
+[37:13] technology always advances and then also
+[37:15] the threet models of those other
+[37:18] Technologies advances and so like
+[37:20] Bitcoin also has to advance to always be
+[37:22] the most secure uh and decentralized uh
+[37:25] layer um yeah I mean like the first of
+[37:28] all like in terms of scaling right you
+[37:30] you said like there's Bitcoin in every
+[37:32] hand I mean like in order to make that
+[37:34] possible in a rustless way like in order
+[37:37] for not everyone to have a coinbase
+[37:38] account like that's uh something where
+[37:41] where we still need probably these
+[37:43] changes as as we just
+[37:45] discussed
+[37:47] um and
+[37:50] um aside from that um honestly can you
+[37:54] can you can you repeat the last part of
+[37:56] the question again it's uh uh I I was
+[37:59] just wondering if we come to a state uh
+[38:02] ever in the Bitcoin core development uh
+[38:05] where we don't have to um have more
+[38:09] developments new developments uh in in
+[38:11] the Bitcoin uh code or if we always have
+[38:15] to kind of uh get more development going
+[38:20] because there is the threat model coming
+[38:22] uh maybe with cryptography where we have
+[38:25] to upgrade that because uh
+[38:28] supercomputers can hack that I don't
+[38:30] know what's what's coming I'm I'm
+[38:34] unfortunately not the The Tech Guy but
+[38:36] but there there might be there's this
+[38:40] question in my mind is like um where is
+[38:42] Bitcoin development going in like 20 30
+[38:45] 40 years down down down the
+[38:48] line yeah yeah okay um yeah I think
+[38:52] there's going to be things always coming
+[38:54] up in terms of like or I mean I'm not
+[38:57] sure um but I guess there will be things
+[38:59] coming up in the next uh
+[39:03] um decades that we will need to address
+[39:07] um I think in general that still means
+[39:09] that like frequency of like how often we
+[39:12] do soft fors um will still go down like
+[39:15] will continue to go down I think that's
+[39:17] kind of unavoidable and kind of like if
+[39:20] if it really would need to go up and we
+[39:22] would kind of
+[39:23] Chase against um new developments of
+[39:27] quantum computers or so every every year
+[39:30] or so that would be not not a great
+[39:32] future I guess um I mean there's always
+[39:35] solutions for that and I think um that
+[39:38] like it's all doable but um I hope that
+[39:42] um that's that's not something where we
+[39:44] headed and and that that we can kind of
+[39:46] keep up with development of of such of
+[39:49] such things like like quantum computers
+[39:52] and um um like I don't know some other
+[39:55] cryptographic um new discoveries um new
+[39:59] developments
+[40:00] um but yeah I think that that there will
+[40:03] be things that that will need to be
+[40:05] addressed like this is kind of kind of
+[40:08] hard to say um honestly like at least
+[40:11] like for example quantum computer is
+[40:13] something that keeps coming up um and so
+[40:15] where where it's not the first time i'
+[40:17] I've been asked this question um and so
+[40:20] even some people have like kind of
+[40:22] aggressively asked me that like how I
+[40:24] cannot like already have a plan for that
+[40:26] when when the quantum computer comes and
+[40:28] like implied that that like Peter te has
+[40:32] one in his basement and stuff um
+[40:35] so uh I like I I'm I'm in the camp of um
+[40:41] believing that it will not like suddenly
+[40:44] happen that that a quantum computer
+[40:46] appears and and breaks Bitcoin I think
+[40:49] first of all I think the the the um the
+[40:52] the researchers don't really agree on
+[40:54] how quickly we we might get them or if
+[40:56] if we will even get them at all but I
+[40:58] think um
+[41:01] the that this computer is coming um we
+[41:05] will we will see it ahead and then we
+[41:07] will have some time to react um at least
+[41:10] that's that's what I that's what I
+[41:12] personally
+[41:13] believe um and um yeah so these kinds of
+[41:18] things were like this is not the only
+[41:20] thing that I would say probably will
+[41:22] come up in the next couple of decades
+[41:24] but um and they even like um some some
+[41:28] bucks that we will need to address that
+[41:30] come in in in about a century for
+[41:33] example like some Fields break because
+[41:35] we're um kind of overstepping some
+[41:37] bounds in terms of like account um so
+[41:40] there will be some changes that we will
+[41:42] need to address and there also for
+[41:43] example like a the great consensus
+[41:45] cleanup which is addressing some issues
+[41:48] in consensus um these are uh attacks
+[41:52] that require um very high amount of hash
+[41:55] power um in order to be exploited but
+[41:57] still um these are things that we should
+[41:59] address um simply for security reasons
+[42:02] but um yeah I would say still over over
+[42:05] time the the amount of changes like
+[42:07] really consensus changes um should be
+[42:10] going interesting um it it's interesting
+[42:14] for you as an uh a c developer um maybe
+[42:18] you have a different view on that and I
+[42:20] I I frequently ask that question to to
+[42:22] to different guests to see what what's
+[42:25] going on um what do you think is the
+[42:27] biggest vulnerab vulnerability or the
+[42:30] biggest threat to the Bitcoin yeah it's
+[42:34] it's a hard hard question to just just
+[42:36] pick one thing um I mean one thing is
+[42:40] that I think with kind of
+[42:44] the development of like cbdcs and and
+[42:47] stuff like in general people don't like
+[42:51] people in the Western World I would say
+[42:53] at least in developed countries um often
+[42:56] times when when they have a when when
+[42:59] things are going well for them they
+[43:00] don't really care so much about privacy
+[43:02] um and so they
+[43:05] may adopt uh something like a cbdc and
+[43:09] and I mean they they already adopt now
+[43:11] like like apps like PayPal and stuff um
+[43:15] so I mean this is not really directly a
+[43:18] threat to bitcoin but um that
+[43:22] um I guess this is more a threat to
+[43:25] humanity right that uh I kind of cash
+[43:27] goes away and in general the sense for
+[43:30] like privacy being being valuable um
+[43:33] goes away and I mean that should mean
+[43:36] Bitcoin should see more adoption from
+[43:38] the people that like still value this
+[43:41] but like maybe maybe we're heading to to
+[43:44] a future where where just people say
+[43:46] okay like I'm I'm happy with um kind of
+[43:48] my my life without privacy um and so I
+[43:54] don't yeah I don't really care so much
+[43:56] about using Bitcoin and like the cbdc
+[43:58] app is working even easier even faster
+[44:02] um and um yeah kind of so I would say
+[44:07] it's not directly like really something
+[44:08] that would destroy Bitcoin but like I
+[44:10] guess for in general for Humanity to
+[44:12] like not care about the values that that
+[44:15] Bitcoin represents I guess is is what
+[44:18] I'm what I'm quite worried about um and
+[44:22] then I guess um maybe that's a bit uh
+[44:25] inspired by recent events but like yeah
+[44:27] we we with the ETFs we' have seen very
+[44:30] powerful Financial players enter the
+[44:33] ecosystem um combined with um kind of
+[44:37] the the centralization that we seen in
+[44:39] in pools um and so this feel is now like
+[44:43] an environment where both of these
+[44:45] things could lead to
+[44:47] potential um New Capital new new kind of
+[44:51] um period where we get to back to
+[44:54] something like the um block size for uh
+[44:58] where there's powerful um um players
+[45:01] that want to kind of yeah make Bitcoin
+[45:05] work the way they want it to work um and
+[45:08] so I it's really hard to say how that
+[45:10] would potentially happen so um the the
+[45:15] centralization of of pools like it's
+[45:18] very hard to say if that really is
+[45:19] something where they want to leverage
+[45:21] the power or um how they would play out
+[45:24] what what the interests are that is kind
+[45:25] of like the a big question Mark right
+[45:27] now nobody as as far as I can tell
+[45:30] really knows how that is valuable to
+[45:33] them when when they have pools that
+[45:36] pretend to be other pools but it's
+[45:37] really their pool um um and yeah with
+[45:42] the with the ETFs um it's very hard to
+[45:45] say like how how a big player like um
+[45:48] Blackstone for example how they might
+[45:51] want to bitcoin to to work the way they
+[45:55] would like it um so the these are really
+[45:57] more like question marks but I guess so
+[46:00] there's not it's not really a tech
+[46:01] scenario that I can that I can outline
+[46:04] now or that I'm particularly worried
+[46:06] about like um when you have billions and
+[46:09] billions potentially to spend on on
+[46:12] doing it on on kind of like making
+[46:15] Bitcoin work the way you want it to work
+[46:17] there's many avenues that you can take
+[46:18] like you can you can buy a lot of mining
+[46:20] power and disrupt the chain you can
+[46:24] spend a lot of money on marketing uh you
+[46:26] can can bribe people there's so many
+[46:28] ways like when you have when you have a
+[46:30] lot of money and power then then um yeah
+[46:33] there's like an almost endless uh amount
+[46:36] of uh ways that you can apply it in
+[46:38] order to kind of disrupt the the the
+[46:40] ecosystem in general um can be can be
+[46:43] more or less technical can be not not
+[46:44] technical at all um so yeah then it's
+[46:48] really like a question of creativity
+[46:50] what you what you what you want to come
+[46:52] up with do you feel like the PE to peer
+[46:55] nature of Bitcoin kind of gets lost when
+[46:58] we have those big players and you
+[47:00] mentioned coinbase like almost everyone
+[47:03] has a has a coinbase account uh it was
+[47:05] also my first account that I opened I
+[47:07] don't have it anymore uh it's it's like
+[47:11] most people don't have their own Keys
+[47:13] most people don't take properly their
+[47:15] self custody even less people run their
+[47:18] own notes even less people have their
+[47:21] own mining rig at home or something like
+[47:22] that so most people in Bitcoin just have
+[47:25] like a coinbase account or whatever
+[47:27] account on an exchange and and that's it
+[47:30] and and they never even experience a
+[47:33] hardware wallet or something like that
+[47:35] so do do you fear that the the
+[47:38] peer-to-peer nature of Bitcoin kind of
+[47:41] gets lost and captured by those
+[47:43] financial Giants
+[47:45] um I I mean I guess um it's kind of I
+[47:51] guess the the same kind of worry that I
+[47:54] said like that when are people in
+[47:57] general kind of lazy I would say yes
+[48:00] with with kind of privacy stuff um um
+[48:03] but it's also a bit like the the nature
+[48:05] right like if you don't have any worries
+[48:06] about privacy if if you've never been
+[48:08] unbanked like I mean um you already are
+[48:12] busy with lots of other things right so
+[48:15] you you probably you don't have to care
+[48:18] about it and so it's it's hard for me
+[48:19] like to tell somebody who's just like
+[48:22] lives a lives a very free life and like
+[48:25] wants to invest some money into Bitcoin
+[48:27] and then does it over a coinbase account
+[48:29] like um yeah I'm not I'm not so
+[48:32] religious about this that I that I would
+[48:35] like scream at somebody uh for hours to
+[48:38] to finally buy a hardware wallet and and
+[48:40] do this um I think it's kind of that you
+[48:44] we just have to be open kind of and like
+[48:46] show people what can happen and I think
+[48:48] for example if we looked at FTX or any
+[48:51] of the other centralized exchanges like
+[48:53] they kind of already make a very good
+[48:55] case for why you should have your own
+[48:57] Keys like centralization is is is um uh
+[49:03] dangerous in in the grand scheme of
+[49:05] things but also it's dangerous for for
+[49:06] somebody like like this worldfree
+[49:09] individual right so um
+[49:12] um and then really up to them like do
+[49:15] they feel more comfortable with having
+[49:16] the money at coinbase or do they feel
+[49:18] more comfortable with having it on
+[49:20] Hardware wallet um at home um I
+[49:23] oftentimes then tell people especially
+[49:25] when they have a kind of significant
+[49:27] amount like just do 50/50 right like if
+[49:30] you if you worry too much that you kind
+[49:31] of lose your seat or that you lose your
+[49:33] Hardware wallet like the guy that still
+[49:36] searching for it in a landfill right
+[49:38] like then um but like how much more
+[49:42] likely is that then like um coinbase
+[49:45] becomes the next FDX um and so then when
+[49:48] when when you kind of go this like
+[49:50] middle approach like okay like if you do
+[49:52] 50/50 like the max you can lose if
+[49:54] either one of these events happened is
+[49:56] is half your Bitcoin investment um then
+[49:59] there's a very important step that they
+[50:01] have at least like done like the the
+[50:05] gone through the the for many people I
+[50:07] would say is a pain still to order a
+[50:09] hardware wallet and go through all the
+[50:10] steps to to to do it and then um get
+[50:13] some money off of The Exchange but at
+[50:15] least they have now a hardware wallet
+[50:17] and they have used it um and they kind
+[50:19] of understand uh what this is about and
+[50:22] I think that's that's a good uh I would
+[50:24] say it's my preferred way for for the
+[50:26] people people that are in this situation
+[50:28] to kind of introduce them to this topic
+[50:30] and like give them like a practical um
+[50:34] like reason to to um to to get off of an
+[50:39] exchange um and yeah I
+[50:43] think does it really get lost um I mean
+[50:48] it's it's hard like you have to
+[50:49] experience it right and if you're not
+[50:51] really a
+[50:52] bitcoiner um then it's hard to
+[50:55] experience it I would say like like um
+[50:58] there were in in the conference in
+[51:00] Nashville there were like 25,000 people
+[51:02] or so um but I mean like how many people
+[51:05] hold Bitcoin like millions of Americans
+[51:08] like have have like some uh Bitcoin at
+[51:11] some exchange account probably like not
+[51:14] all of them can come to to Nashville and
+[51:16] like buy something for Bitcoin there at
+[51:18] the at the conference right I mean
+[51:20] there's more conferences now there's a
+[51:21] lot of conferences I know but not
+[51:23] everyone has like a merchant that
+[51:25] accepts Bitcoin around the corner
+[51:27] and or can go to a conference and and
+[51:29] kind of experience using it um so um I
+[51:34] mean that's just general adoption like
+[51:36] when when the general adoption comes
+[51:38] like I think more people will be able to
+[51:40] experience it and then maybe they get
+[51:41] drawn to this PP use as well and see the
+[51:43] beauty of that um uh but I would say
+[51:48] like it's it's more about keeping the
+[51:50] door open um and the people that
+[51:51] actually have a pain like if their bank
+[51:54] closes their account for for some stupid
+[51:56] reason like they they will come to
+[51:58] bitcoin anyway and they they immediately
+[52:00] see why they don't want to have a
+[52:02] coinbase account and put it on on
+[52:04] Hardware wet like there also we just
+[52:06] have to leave the door open and make it
+[52:08] as easy as possible for these people to
+[52:10] to to then onboard to bitcoin um and and
+[52:13] then I don't really have worries yeah
+[52:15] it's
+[52:17] interesting it's just so interesting for
+[52:19] me because like I have friends that are
+[52:22] in Bitcoin have their own Hardware
+[52:24] wallets have all the things that they
+[52:27] they they should do um some even like
+[52:30] multi and stuff like that um but then
+[52:33] there are also friends who are all in
+[52:36] Bitcoin understand why it's important
+[52:38] from an economic
+[52:40] standpoint uh but then they leave it on
+[52:43] Exchange and and I'm frustrated because
+[52:47] I make a podcast and like I I partner up
+[52:49] with like Hardware wallets and then all
+[52:52] those things and I promote that uh some
+[52:55] I promote basically all services that
+[52:57] promote uh um more control of your own
+[53:01] keys because I think it's a very
+[53:03] important point of of of Bitcoin um so
+[53:07] it it sometimes feels like a little bit
+[53:09] frustrating as someone that advocates
+[53:11] for for not your keys not your coins
+[53:14] yeah but uh I guess people uh some
+[53:17] people will always stick to to the
+[53:19] convenient side and it's important that
+[53:21] we have the choice that we have the
+[53:23] choice to be self Sovereign uh and and
+[53:27] maybe there are coming more and more
+[53:29] events in the future that people and the
+[53:31] race learn from from that and but yeah
+[53:34] FDX was a pretty good one like for me
+[53:36] it's like if you didn't learn from FDX
+[53:38] Celsius and all the other things what
+[53:41] what more should that come like coinbase
+[53:43] getting hacked and all Bitcoins uh
+[53:45] stolen from coinbase that would be a
+[53:47] major thing uh but honestly I I I I
+[53:51] would even I would even say it's it's a
+[53:53] long-term healthy thing if coinbase gets
+[53:55] hacked like it's it's a a massive thing
+[53:57] that will probably tank the Bitcoin
+[53:59] price shortterm massively um I would
+[54:02] pick up all of the the cheap s that I
+[54:05] possibly can and long term maybe it's
+[54:08] it's that major event that has to happen
+[54:11] that people wake up to self custody it's
+[54:13] I don't know may maybe we need some
+[54:16] catastrophe like uh coin B going down uh
+[54:20] would also be interesting because now
+[54:22] they also hold the the the ETFs uh and
+[54:25] and and those things but yeah it's
+[54:28] interesting to think about those things
+[54:30] but as an other topic as we also also
+[54:33] discussed before because we already at
+[54:34] the one hour mark it's amazing how the
+[54:36] time flies by um you're working at the
+[54:39] human rights Foundation also um first of
+[54:43] all
+[54:44] like why and what has Bitcoin to do with
+[54:47] human rights from your perspective so I
+[54:49] mean first of all I have to clarify I I
+[54:52] personally don't work for the human
+[54:53] rights Foundation I have a fellowship
+[54:55] from the human rights Foundation um so
+[54:59] um that I basically I mentioned it
+[55:01] previously and we we'll go into into the
+[55:03] details um bit later probably but um
+[55:06] Caesar cross input sign aggregation is
+[55:08] is a a potential softwalk uh for the
+[55:11] Bitcoin protocol and um I did some work
+[55:15] on that and um at the same time I had
+[55:17] already started working on this um hrf
+[55:21] announced the fellowship uh for this
+[55:23] particular topic um and so we basically
+[55:26] came together immediately and they
+[55:29] awarded me this Fellowship U for which
+[55:32] um primarily so far what you can see of
+[55:34] it is a website um so this um Cesar
+[55:37] research.org um is a website where I've
+[55:41] written all that is basically um
+[55:44] available about cesa at the moment um
+[55:47] hopefully in a adjustable way even for
+[55:50] people that are um a bit newer to to
+[55:52] protocol um development
+[55:56] and so this is basically how the
+[55:59] connection came to hrf and then um now
+[56:02] I'm working with hrf for on on this
+[56:04] topic of of cesa and um um for example
+[56:09] um through hrf um I uh give talks on
+[56:13] this topic and kind of promote the topic
+[56:16] at conferences um to put it more in kind
+[56:19] of the public eye and um yeah get let
+[56:22] more people know what the what cesa
+[56:25] actually is
+[56:27] um just so that yeah people actually
+[56:29] understand its benefits and so but like
+[56:31] back to your question um I uh I cannot
+[56:36] really speak for HF because I don't
+[56:38] really have a great overview I think
+[56:39] over all of the things they are doing um
+[56:43] but uh like I think the reason why hrf
+[56:46] is very interested in Bitcoin is similar
+[56:49] to what I mentioned previously uh what
+[56:52] what kind of got me into Bitcoin and I
+[56:53] think why it's also very good uh match
+[56:55] between us
+[56:56] um is that um when When people's uh
+[57:01] rights are are in danger when they are
+[57:03] suppressed um uh the um all of these all
+[57:07] of these uh things that kind of um are
+[57:10] available to to the state in general
+[57:12] like for example freezing bank accounts
+[57:15] um seizing assets um uh that is
+[57:18] something that people can opt out uh
+[57:20] when they use Bitcoin um and that's why
+[57:23] Bitcoin is very very great tool for
+[57:25] people that are
+[57:26] um doing stuff that in in their
+[57:29] respective jurisdiction is illegal but
+[57:32] maybe for us it's not illegal like this
+[57:34] always depend depends on where you are
+[57:36] right what what is really is illegal and
+[57:38] and what what the state doesn't like to
+[57:39] see um and so um Bitcoin is a very um is
+[57:45] a very um important tool for this and um
+[57:48] hrf particularly I think Alex letin um
+[57:52] is the one who who started this um
+[57:54] understood a couple of years of um what
+[57:58] how valuable Bitcoin is as a tool um and
+[58:01] they're promoting this so they are
+[58:02] educating um activists in in the use of
+[58:06] Bitcoin um some people for example that
+[58:08] I've met is from the team of navali um
+[58:13] an anti-corruption Foundation um they
+[58:16] have been accepting Bitcoin for several
+[58:18] years now um since navali bank accounts
+[58:22] were frozen in Russia um and um yeah I
+[58:25] don't have all of the details what what
+[58:27] that kind of triggered them to start um
+[58:30] but for them Bitcoin is a very important
+[58:32] tool and and there many other activists
+[58:34] that are getting support from hrf uh to
+[58:37] to use the tool and hrf is really yeah
+[58:40] kind of kind of promoting Bitcoin as a
+[58:43] use for people that really need
+[58:45] it um
+[58:48] yeah I I just saw the the website of of
+[58:51] of Tesa is really cool green and very
+[58:54] simple uh in in the design I like I like
+[58:58] that if I'm on the right one t
+[59:00] research.org I think I'm on the right
+[59:02] it's it's dark and green yeah yeah
+[59:05] you're on the right one yeah I love the
+[59:07] the focus on the
+[59:09] content
+[59:11] czys yeah I mean I I also don't like to
+[59:15] do the designs but also I think it's
+[59:17] very important to focus on the content
+[59:19] yeah absolutely so um as you said it
+[59:23] before what is caesa and you're working
+[59:26] on that and and what's the in also
+[59:29] involvement with the human rights
+[59:31] Foundation yeah so cesa um stands for
+[59:35] cross input signature aggregation and um
+[59:39] if you remember the capoot soft for as
+[59:43] part of um Tapo we also got a new
+[59:46] signature type and that is schnor
+[59:48] signatures and schnor signatures are um
+[59:52] linear um so like it's it's a
+[59:56] complicated uh mathematical explanation
+[59:58] so I would just just keep it at that so
+[60:00] the schor signatures are actually a bit
+[60:02] simpler than the signatures we had
+[60:04] previously um and that means you can um
+[60:07] aggregate them together so you can have
+[60:10] um one signature that that signs certain
+[60:14] message and then you can also have a
+[60:15] second uh signature that signs a second
+[60:18] message and then you can basically add
+[60:21] these two signatures together so you
+[60:22] only have one signature um and then you
+[60:24] can still validate that both of these
+[60:27] signatures sign the the these two
+[60:29] messages so this is a um obvious why um
+[60:36] so I mean you can say you have to say
+[60:38] that these signatures are then also
+[60:40] smaller so potentially these two
+[60:42] signatures are the same size as one
+[60:44] signature previously so um I guess if
+[60:47] you understand how Bitcoin transactions
+[60:49] work and how why you pay fees and stuff
+[60:52] like you can see where this is going um
+[60:54] this is possible to do this on
+[60:56] transactions as well um and so the The
+[61:00] Proposal um in in very broad Strokes is
+[61:04] that for transactions we could aggregate
+[61:06] the signatures that are in a transaction
+[61:09] so um often times or usually you have
+[61:12] for each input one signature at least so
+[61:15] let's say you have a transaction with
+[61:17] three um inputs and you have three
+[61:19] signatures to sign these inputs um then
+[61:21] you could aggregate them to just have
+[61:23] one signature and then you have a
+[61:25] smaller transaction ction and so that
+[61:26] means you have to pay less fees um
+[61:29] because yeah you just take up less space
+[61:31] in the block um so that's that's just
+[61:34] generally the basic idea um uh by the
+[61:38] way this aggregation is also what is
+[61:42] being used um or this is similar to
+[61:44] what's being used in multis um it's just
+[61:47] that there the aggregation is happening
+[61:49] previously so you aggregate the keys as
+[61:51] well um so if you think of music or so
+[61:56] oftentimes people um kind of throw these
+[61:59] things together or or have a hard time
+[62:01] keeping them apart with music when you
+[62:04] have a when you have a multis in tap rot
+[62:07] you aggregate the keys first and then
+[62:10] later you also have just one signature
+[62:12] but because you have to aggregate the
+[62:13] keys first there's just one input and
+[62:16] one out one signature so there's not
+[62:19] really something that has to be changed
+[62:22] on the transaction side because on the
+[62:24] transaction side in in the what you see
+[62:26] in the block hasn't changed so this is
+[62:29] why why this is um
+[62:31] different um basically the change if if
+[62:34] I try to make it as simple as possible
+[62:36] like a transaction we we we would want
+[62:38] to have a new type of transaction where
+[62:40] it doesn't matter how many inputs it has
+[62:43] uh it can just have one signature um
+[62:47] would would that allow um we had I think
+[62:51] like a few months back with Wicked an
+[62:53] in-depth talk about utxo management
+[62:57] uh and how you should avoid having too
+[63:00] small of utxos because then they they
+[63:02] might be dust in in the future uh
+[63:05] because the transaction fees outsize the
+[63:07] the actual value so you would have to
+[63:09] pay more uh um more to move the Bitcoin
+[63:14] than the Bitcoin are actually Worth or
+[63:16] the Sates are actually worth would that
+[63:18] also mean that um combining maybe um
+[63:22] bigger ones with smaller ones uh where
+[63:25] the
+[63:26] where uh the the like let's call it dust
+[63:29] when it's like uh the the transaction
+[63:31] fee is higher than the the actual value
+[63:34] of the Sates there um combining more of
+[63:37] those with the this proposal would that
+[63:40] then unlock them again and make utex o
+[63:43] management better in in that regard um I
+[63:46] mean unlocking dust uh that like only
+[63:50] very limited amount of of dust and so I
+[63:54] would say yes potentially um but I mean
+[63:58] uh if if they're really that that Dusty
+[64:01] then I I think this this won't be like
+[64:04] it it won't be that big of Leverage but
+[64:06] definitely what I can say is yeah um the
+[64:09] more inputs like the more inputs that
+[64:12] are in transaction the the better the
+[64:13] savings are um of course and it means
+[64:16] like what what you what you are saying
+[64:18] kind of like these consolidation
+[64:20] transactions so let's say you have a lot
+[64:21] of
+[64:22] small small utex OES um and um currently
+[64:26] we have a nice low fee environment um
+[64:29] you say like okay I um I may not be able
+[64:32] to spend this when when when the next
+[64:34] wave comes and like the the fees are up
+[64:37] 10x or 100x so I want to consolidate
+[64:39] them um then this would make this
+[64:42] consolidation uh a lot cheaper um that's
+[64:45] interesting of course for people that
+[64:46] like get donations for example or um
+[64:49] also interesting for for any kind of
+[64:51] business um that accepts payment for not
+[64:54] super large Goods
+[64:56] um like um company like bitre for
+[64:59] example um still gets a lot of onchain
+[65:02] um payments exchanges of course get uh
+[65:05] get a lot of these um and regular do
+[65:07] these consolidation transactions so for
+[65:11] them uh definitely this is this is a big
+[65:14] um lever in terms of savings um but uh
+[65:18] this is not the like I would say the the
+[65:20] Blockbuster use case and also of course
+[65:22] not not the kind of the reason why hrf
+[65:24] is interested in in this technology um
+[65:27] and there's another transaction type on
+[65:29] the network where there's a lot of
+[65:31] inputs and that's coin joints um and
+[65:34] coin joints are a privacy tool I'm not
+[65:37] sure how much you have discussed it if I
+[65:39] should go into detail what a coin join
+[65:41] is um in general maybe a little bit we
+[65:45] discussed it on one podcast episode so
+[65:47] the chances that people don't know about
+[65:50] it that high uh but yeah maybe just like
+[65:53] quickly what an overview of what the
+[65:54] coin train is
+[65:56] yeah so just very high level view conon
+[65:59] is an interactive um way of of building
+[66:03] transactions together so a lot of people
+[66:05] come together um and all of them have
+[66:08] utxo let's say um and they basically
+[66:12] combine this UT these utxos uh in a safe
+[66:15] way into one transaction where um all of
+[66:18] them like very simply like imagine all
+[66:21] of them have a control one input um and
+[66:24] then at the end they also get out one um
+[66:26] output um and so you then um you don't
+[66:32] lose control of your funds but it's kind
+[66:34] of scrambled so um before maybe since
+[66:37] you um finally made the step to get out
+[66:40] of coinbase uh let's say you withdrew
+[66:43] your uh 0.1 Bitcoin that you saved over
+[66:45] time um and uh but then like since you
+[66:50] it's clear to anyone on the network like
+[66:52] chalis or so can easily see okay this
+[66:54] came out of coin base coinbase has your
+[66:57] passport and and everything um and so
+[67:00] it's still clear that this utxo is
+[67:03] controlled by you um is owned by you
+[67:06] very likely or if not then maybe you
+[67:08] withdrawn to to your friend's address or
+[67:10] whatever um but but it's still
+[67:12] Associated to you in in in the kind of
+[67:14] the view um of the blockchain like bit
+[67:16] Bitcoin is not Anonymous it's
+[67:18] pseudonymous um and so this this
+[67:20] transaction is still uh basically your
+[67:23] pseudonym where where the funds are um
+[67:25] and so then you can use a coin join to
+[67:27] send it through this collaborative
+[67:29] transaction where 100 other people for
+[67:31] example are participating as well and so
+[67:33] then afterwards there's a 100 um uh
+[67:36] addresses where potentially it could be
+[67:38] yours um and so then you have uh an
+[67:41] anonymity set of 100 that you're hiding
+[67:44] uh inside um and then you can also do
+[67:46] this over several rounds um and then um
+[67:49] you can also split these funds like
+[67:51] there there um there are certain
+[67:53] protocols to this um that both make it
+[67:56] safe and that also um kind of make sure
+[68:00] that um it's not easy to analyze what
+[68:03] with with a certain degree of of
+[68:05] likelihood that you own certain funds so
+[68:09] you can do this for example before then
+[68:11] you you finally put your money onto Co
+[68:14] storage um and then you have basically
+[68:18] um Anonymous Bitcoin again and it's not
+[68:22] associated with you in person and um so
+[68:25] this is important because it um it
+[68:29] allows people that are really for them
+[68:31] for who is very important to use Bitcoin
+[68:34] uh not just because they are unbanked
+[68:36] but also because they could potentially
+[68:38] be targeted um uh in in in their in
+[68:43] their country politically or where where
+[68:45] they are um so it's not just about like
+[68:49] using Bitcoin um uh because you don't
+[68:53] have bank account but also like you need
+[68:55] to be be able to use it anonymously and
+[68:57] um coin join allows that um but um often
+[69:01] times coin join comes with a certain
+[69:03] overhead in terms of like you need to
+[69:05] get your money into a wallet that um
+[69:07] allows to participate in coin joins um
+[69:10] and uh then like I mean this is not the
+[69:14] case anymore like there's been quite a
+[69:15] bit of uh turmoil in in the coin join uh
+[69:19] wallet space because the samurai wallet
+[69:22] uh was um people were um
+[69:25] apprehended um I'm not sure if they're
+[69:28] currently in jail but they are
+[69:29] definitely
+[69:31] um there's definitely cour coming up in
+[69:34] a couple of months I think um and so um
+[69:38] but yeah there there's a certain
+[69:40] overhead um and so when but when we say
+[69:43] that with caesa um transactions that
+[69:46] have a lot of input become cheaper um
+[69:49] then also participating in coin joints
+[69:50] becomes cheaper um and what Cesar
+[69:54] actually even
+[69:56] is that it actually makes going through
+[69:59] a coin join um ignoring a lot of the
+[70:02] details but going through coin join can
+[70:04] potentially be cheaper for you than like
+[70:07] just sending your own transaction so
+[70:09] let's say you have your point1 Bitcoin
+[70:10] but you also want to buy a conference
+[70:13] ticket with that um conference gives you
+[70:15] 10% discount on on on purchases with
+[70:18] Bitcoin and in general you want to
+[70:20] finally be part of the P2P uh way of
+[70:23] using Bitcoin right um so then when when
+[70:26] you when you do this payment you can
+[70:27] either send your send one transaction
+[70:29] with uh one input to outputs uh um but
+[70:34] you can also send it through a coin join
+[70:37] um and that can potentially be cheaper
+[70:39] for you um than just making your own
+[70:41] transaction um just because you
+[70:43] participate in this uh big transaction
+[70:46] where um all of the um signatures are
+[70:50] collapsed and you just pay for one
+[70:52] signature like all of the people pay for
+[70:54] one signature but versus when when you
+[70:56] do your own transactions you pay a loan
+[70:58] for for U2 for U one signature what's
+[71:01] also then interesting is that when when
+[71:03] you save with participating coin joints
+[71:05] you also get uh plausible deniability um
+[71:09] it it doesn't just make it um
+[71:12] interesting for people to use a more
+[71:14] private to use Bitcoin in a more private
+[71:16] way but um you since you also save um
+[71:20] money doing it um when somebody like
+[71:23] kind of right now there's kind of always
+[71:25] this like um thing like okay like I mean
+[71:29] in general Bitcoin is just used by
+[71:30] criminals but especially when you use
+[71:33] coin join in order to um be more private
+[71:36] then definitely you must be a criminal
+[71:37] right but uh we can like get away from
+[71:40] that a bit more when we say okay like
+[71:43] coin joints are actually a way to use
+[71:45] Bitcoin cheaper uh it's not just more
+[71:48] private but it's also cheaper um and so
+[71:50] that that is also a very nice effect um
+[71:53] that that yeah would be great
+[71:56] and that's an interesting argument never
+[71:58] heard because like uh without that the
+[72:01] only only argument for doing a coin join
+[72:04] is for uh um yeah basically for privacy
+[72:09] purposes and and then the state is like
+[72:11] yeah you you you want to hide something
+[72:13] from me you're a criminal uh basically I
+[72:15] don't agree with that uh uh opinion but
+[72:19] it is uh it is what they are thinking
+[72:22] and then if you're saying like oh no I
+[72:24] just want to save fees like it's it's
+[72:27] hard so like that that could have been
+[72:29] an interesting uh argument for for that
+[72:32] and it's also really could could really
+[72:34] enhance privacy for people that want to
+[72:36] have more privacy and do those contro
+[72:39] it's really interesting thank you um now
+[72:42] last question before we come to the end
+[72:44] routine the every guest gets what can we
+[72:47] learn from you besides all the things
+[72:50] that we already talked
+[72:52] about um I mean I think
+[72:55] I I'm working on bitcoin core and we
+[72:57] talked a bit about uh kind of like what
+[73:00] it's like to to work on on bitcoin core
+[73:03] and um I guess I gave some some insights
+[73:07] in into that world already um but in
+[73:11] general I would just say that for a lot
+[73:14] of people Bitcoin cor is kind of this
+[73:15] this black box that they have a hard
+[73:17] time understanding or like feel like
+[73:19] it's it's uh something that they like
+[73:23] they they just ignore because there's no
+[73:25] point in in in uh in getting involved or
+[73:29] even just following it being able to
+[73:31] understand what is going on there um and
+[73:34] um I would say like if you make um some
+[73:38] effort to like go to places for example
+[73:42] like read um what an IRC meeting is um
+[73:46] and uh read kind of the meeting notes
+[73:49] and um subscribe to to the optech
+[73:52] newsletter where Bitcoin core Pro
+[73:54] requests are uh mentioned and and
+[73:57] explained um it is something that I
+[74:00] think uh everyone can can go through
+[74:02] even if you're not technical um and I
+[74:05] think it would allow you to learn um a
+[74:08] lot about what the protocol is like and
+[74:11] kind of what the things that are going
+[74:12] on there um and so I would I would
+[74:15] really invite everyone to to kind of
+[74:17] like not not see this as something that
+[74:18] you cannot do like it it definitely is
+[74:21] going to take some time to to kind of
+[74:23] get used to it and like kind of get like
+[74:24] a basic understanding of what things are
+[74:27] that are being talked about um but it's
+[74:30] not something that you can uh that that
+[74:32] you that you should be scared of um I
+[74:35] would say um and um also something that
+[74:39] I would recommend if your if that's like
+[74:42] available to you um the Meetup format
+[74:45] Socratic seminar um also often kind of
+[74:48] like under the name of BFS um if that's
+[74:51] available in your city like I I host it
+[74:54] in in my city City in Berlin um uh but
+[74:57] there's they are available all over the
+[74:59] world and in in Germany for example
+[75:01] there's also German speaking one that
+[75:03] are doing it remotely over a jitsy
+[75:05] server um that is a very interesting uh
+[75:09] format to learn about stuff that is
+[75:11] going on in in the Bitcoin space
+[75:13] especially if it's a bit more technical
+[75:15] um and so this is also something where
+[75:18] maybe if you come there the first time
+[75:19] it will seem like totally overwhelming
+[75:22] and you might not understand anything um
+[75:24] but but there's also my recommendation
+[75:26] just stick with it a bit and um just
+[75:29] yeah you will you will already learn a
+[75:31] lot by of Osmosis basically just just
+[75:34] just listening just just uh kind of like
+[75:38] maybe afterwards you you search for some
+[75:40] stuff later you read some stuff um
+[75:42] afterwards um and then within like going
+[75:45] there three or four times you will start
+[75:47] to see like you hear some things again
+[75:49] that you heard before um you start to
+[75:51] understand things a bit better U maybe
+[75:53] you ask your first question
+[75:55] um and um so yeah I would I'd like to
+[75:59] invite everyone when when you have a
+[76:01] possibility to go to a bit so critic
+[76:03] seminar um please do that that's that's
+[76:06] also very amazing um learning
+[76:08] opportunity really cool uh I think
+[76:11] learning about Bitcoin uh in general no
+[76:14] matter what aspect especially also the
+[76:16] technical things is so important
+[76:18] especially as we are so early into the
+[76:21] game so uh uh thanks for the for the for
+[76:24] the um uh tip um now we have the end
+[76:27] routine where the previous guest is
+[76:29] asking a question for the next guest
+[76:30] without knowing who the next guest
+[76:32] actually is uh and your question from
+[76:34] the previous guest is an interesting one
+[76:35] it gets in the debate store of value
+[76:38] versus medium of exchange um uh and he
+[76:42] asks do you think we will first
+[76:44] integrate more uh um Financial products
+[76:48] for store of value like Bitcoin bonds uh
+[76:51] ETFs and stuff like that before we come
+[76:53] to uh
+[76:55] a higher adoption of medium of exchange
+[76:59] so like the question is like um when
+[77:02] when do we start finding more adoption
+[77:05] of the medium exchange use case I mean
+[77:07] we touch a little bit on it with uh the
+[77:09] lightning um with the lightning
+[77:12] discussion um where do you see the
+[77:14] adoption of Medi exchange where do you
+[77:16] see the adoption with with store value
+[77:18] from Bitcoin especially the the the
+[77:20] whole financial system coming now in
+[77:23] with with uh the the to of value aspect
+[77:25] and ETFs and maybe Bitcoin bonds and
+[77:29] Nations buying Bitcoin and all those
+[77:30] things uh I I would
+[77:33] say like to me it's a it's a bit um hard
+[77:38] to answer I guess it's because I think
+[77:41] the the store value use case to me is
+[77:44] already kind of at the maximum I would
+[77:47] say I mean like more there can always be
+[77:49] more people doing it um but I feel like
+[77:51] everyone who wants to do it can do it
+[77:53] and there's not really it doesn't feel
+[77:55] like to me like there's many ways of
+[77:57] keeping people from it like you you if
+[78:00] you buy an ETF or if you get a coinbase
+[78:02] account or if you if you buy uh if you
+[78:05] buy a hardware wallet uh like these are
+[78:08] things that are open to people and once
+[78:09] you have made the decision to do it I
+[78:11] think you can you have all of these
+[78:13] choices and you can you can do it right
+[78:15] away so I
+[78:17] mean it's um I would say there's not
+[78:20] really that much to do I mean like there
+[78:22] can always be more people doing it like
+[78:24] more people can buy it maybe you have an
+[78:26] uncle that still hasn't uh had any
+[78:28] Bitcoin right but um to me I feel like
+[78:32] there isn't really much to be um to be
+[78:37] discovered in in that sense whereas on
+[78:39] on the other side on the PTP side of of
+[78:42] medium exchange I think like that's
+[78:44] where I'm I'm hoping and I guess that's
+[78:46] my answer I'm going with medium of
+[78:48] exchange I basically I hope that we see
+[78:51] more availability there that we see more
+[78:53] merchants um using uh Bitcoin and
+[78:57] accepting Bitcoin payments um and and
+[79:00] kind of seeing this um as a as a way of
+[79:04] transacting I think there's there's like
+[79:06] we've already had BTC pay server many
+[79:09] years ago and that already made things
+[79:11] great but there's also a lot of other um
+[79:14] tools available now that that um and and
+[79:18] and services that make this easier for
+[79:20] you um like um point of sale um
+[79:24] computers uh apps on the phone Etc um
+[79:28] there so there's really so much choice
+[79:30] that really um yeah I'm I I'm hoping to
+[79:34] see this also because um it's just fun
+[79:36] to to pay for a beer at a bar I'm like
+[79:39] we we do this uh at our Meetup for
+[79:41] example as well and we've been doing
+[79:43] this for a very long time um it's
+[79:47] something where it's still kind of
+[79:49] strange to me when I come somewhere else
+[79:51] and there's like a kind of like a
+[79:53] conference or or something kind of
+[79:55] Meetup or so um where it's about Bitcoin
+[79:57] but then they don't accept Bitcoin
+[79:59] payments in as payment for example like
+[80:02] um or for example like I was at a big
+[80:05] conference um where people told me like
+[80:09] yeah we do offer Bitcoin payments but
+[80:11] really most people here don't really
+[80:13] want to spend their Bitcoin um so this
+[80:15] is something also where yeah this kind
+[80:18] of strange to me because it was always
+[80:19] kind of part of it for me um uh but yeah
+[80:24] I I guess I'm I'm hoping for for that to
+[80:26] become more normal than or become as
+[80:29] normal for other people as it is to me
+[80:31] yeah I think a big part of why people
+[80:33] don't want to spend it uh because if
+[80:37] they want to stay on the lawful side
+[80:40] they have to uh pay capital gains tax on
+[80:43] it uh that's that's a I think a major
+[80:46] thing I think I myself would spend it
+[80:50] even more when when there would not be
+[80:52] tax implications not only because like
+[80:54] costs more than but also the hustle of
+[80:58] documenting all that all that crap is
+[81:02] it's like I don't want to document so
+[81:04] much so it's I think it's in when you're
+[81:07] living in a state where there is um
+[81:10] capital gain stxs on bitcoin it's easier
+[81:13] to just huddle on and and spend your
+[81:15] feat income if you have feat income if
+[81:17] you have only Bitcoin income if you're
+[81:19] one of the the the lucky people that are
+[81:22] already on a Bitcoin standard also from
+[81:24] earning perspective uh then I guess it's
+[81:27] uh more interesting then it's also uh
+[81:30] CLE gain dexs could be could be weird um
+[81:33] but yeah I would love to live on a
+[81:35] Bitcoin standard now I would love to
+[81:36] just switch because I'm already 100% in
+[81:39] Bitcoin I only use field to PL to to do
+[81:43] all the things uh outside of the Bitcoin
+[81:46] world uh but my one of my sponsors in
+[81:48] the podcast already pays me in Bitcoin
+[81:51] uh and I try to to pay a little bit with
+[81:55] with Bitcoin here and there uh but it's
+[81:57] it's it's a hustle with with the taxes
+[81:59] if you really want to stay lawful and I
+[82:01] try to stay as lawful as possible um and
+[82:05] I think that's a major major Catalyst if
+[82:08] no Capal against that no capital gains
+[82:11] taxes on on bitcoin exist yeah perfect
+[82:13] then uh let's uh let's wrap it up um
+[82:17] before I let you go before I can let you
+[82:18] go um where can people uh find you is
+[82:21] there any place on email or where where
+[82:24] people can can reach out to you or
+[82:25] Twitter yeah Twitter is fine um you can
+[82:30] just uh there engage with me that's
+[82:32] that's where we engaged as well the
+[82:33] first time right so yeah I'm I'm
+[82:36] available on Twitter um I think that's
+[82:38] that's probably the easiest way to reach
+[82:40] me perfect then thank you so much Fabian
+[82:42] for for being on also thank you for
+[82:44] everyone watching and listening uh for
+[82:47] for joining us today as always I'll be
+[82:49] back tomorrow with another episode
+[82:50] byebye
+[82:52] [Music]

@@ -1,0 +1,7 @@
+# Project Rules & Philosophy
+1. **Architecture:** Modular service-based. Each step (Research, Strategy, Report) must be its own Python class in a separate file.
+2. **Testing:** Adhere to "High-Level Tests." Every service must have a `if __name__ == "__main__":` block that allows it to be run and verified independently.
+3. **No Cumulative Errors:** If a solution fails twice, do not patch it. Revert to the last clean commit and rethink the approach.
+4. **Modularity:** No file should exceed 200 lines. Break logic into helper functions.
+5. **Tech Stack:** Python 3.11+, Pydantic (for strict data validation), X AI API (OpenAI-compatible client), Tavily API.
+6. **Documentation:** Reference the `docs/` folder for API specs before guessing.

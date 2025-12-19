@@ -1,0 +1,1752 @@
+Title: I Studied Bitcoin for 8+ Years: I’m More Bullish on Bitcoin Than Ever!
+Video ID: 2GGXhG21UU8
+URL: https://www.youtube.com/watch?v=2GGXhG21UU8
+Date Saved: 2025-06-15 11:37:11
+--------------------------------------------------
+
+[00:00] The Bitcoin journey is deeply deeply
+[00:02] individual. It's deeply personal. So
+[00:04] it's like you and you know books,
+[00:07] podcasts, content in general that you
+[00:10] consume. Started my Bitcoin journey in
+[00:12] 2017. And I've ride those waves and
+[00:16] adoption cycles all the way to 2025 or
+[00:19] mid 2025 where we are today. I I've
+[00:21] never been more bullish on Bitcoin. If
+[00:23] you ask somebody new to Bitcoin today uh
+[00:26] about Bitcoin Talk, I would I would
+[00:28] pretty confidently say that a majority
+[00:30] of newcomers to Bitcoin today have never
+[00:34] set foot, have never typed
+[00:36] bitcointalk.org in their browser ever.
+[00:38] The monetary properties, the predictable
+[00:41] issuance, the cap and how Bitcoin is a
+[00:44] savings technology, it's going to be
+[00:46] life-changing. And I think the same
+[00:47] thing when you scale up to, you know,
+[00:49] Trafi, Legacy Finance, just the fact
+[00:51] that they connect that they integrate
+[00:53] Bitcoin is is going to make their
+[00:55] services so much better and more
+[00:56] efficient.
+[01:01] So before we get started with all the
+[01:04] topics, maybe give us some some quick
+[01:06] overview of who you are and and why
+[01:07] you're excited about uh Bitcoin. Um, so
+[01:11] uh I'm Fernando. I'm the VP of marketing
+[01:14] and communications at Blockstream and
+[01:16] I'm also the founder of uh perception um
+[01:20] which is well majority of people uh will
+[01:22] probably know Blockstream uh it's the
+[01:24] you know global leader in Bitcoin and
+[01:26] blockchain infrastructure uh CEO Adam
+[01:29] Bach uh legend in the game uh been
+[01:32] around Blockstream has been around since
+[01:34] 2014 and we're kind of like building uh
+[01:36] the infrastructure uh for uh for Bitcoin
+[01:39] um uh Bitcoin perception is the uh data
+[01:42] intelligence platform that I founded
+[01:44] last year. Uh essentially what it does
+[01:47] is just gathers um data from 100 plus
+[01:50] sources uh in terms of how Bitcoin uh
+[01:53] stable coin tokenized finance those type
+[01:55] of things are being covered uh in the
+[01:58] mainstream media in legacy media crypto
+[02:01] media but also Reddit stacker news
+[02:04] Twitter uh and X and and yeah 100 plus
+[02:07] sources and I take all of that data and
+[02:10] uh you know have a trend discovery
+[02:12] service and also sentiment analysis on
+[02:14] whether certain topics, how they are
+[02:17] being covered, and whether these things
+[02:18] are covered in a negative or a positive
+[02:21] way. Um, I'm originally from Argentina,
+[02:24] so you know, back in 2017 when uh when
+[02:27] um a friend of mine introduced me to
+[02:28] Bitcoin, I was already uh I already knew
+[02:31] about what inflation means. Um I grew up
+[02:34] in Norway when I was uh when I was a
+[02:36] kid. My mom immigrated from Argentina
+[02:38] when I was uh 5 years old because of a
+[02:42] hyperinflationary dumpster fire uh that
+[02:44] happened in in Argentina in 1989. Every
+[02:47] time when I went back to see my family
+[02:48] cuz my dad and the rest of my family was
+[02:50] in Argentina, uh inflation was always a
+[02:53] topic of conversation again and again.
+[02:56] So uh as as uh you know as a young uh
+[03:00] student uh I try to understand what is
+[03:02] this inflation thing that people are
+[03:03] talking about and why aren't we learning
+[03:05] about this in school. Uh that led me
+[03:07] through you know uh just reading books
+[03:09] on my own uh learning about you know uh
+[03:13] gold learning about uh you know Milton
+[03:16] Freriedman and and and all the classic
+[03:18] Austrians. Uh so by the time Bitcoin uh
+[03:21] came to my door in 2017 uh through my
+[03:24] friend I I kind like understood the
+[03:25] monetary properties of Bitcoin and that
+[03:27] was the initial thing I kind of like the
+[03:30] the thing that still gets me excited
+[03:32] about Bitcoin are the monetary
+[03:33] properties. So um that's that's my uh
+[03:37] that's my background. I also before uh
+[03:40] you know before Blockstream I started my
+[03:42] career in the music business uh in
+[03:45] Norway. I was a country manager for
+[03:46] Universal Music Group. Uh, and I was in
+[03:49] the middle of uh kind of like the uh the
+[03:51] craziness around uh the Pirate Bay, if
+[03:54] uh if you remember that. Um, torrenting,
+[03:56] streaming was a thing that was very
+[03:58] disruptive to the music business and I
+[04:00] really wanted to get on top of that, but
+[04:02] you know, I was uh too young to uh to
+[04:04] have enough uh influence in the
+[04:06] boardrooms. Uh so eventually I kind of
+[04:08] like got frustrated with the music
+[04:10] business and uh and quit. Um but I feel
+[04:13] like my career has always been uh you
+[04:16] know close to disruptive technologies
+[04:18] and I think Bitcoin is kind of like
+[04:20] doing the same uh for uh for you know
+[04:23] legacy uh finance traditional banking
+[04:25] and it's really exciting to be close to
+[04:27] the action uh working at a blockstream.
+[04:29] So uh yeah that's TLDDR on me. Ah that's
+[04:32] awesome. when we talked about before
+[04:34] that that we kind of want to talk about
+[04:36] the the narrative wars and I think
+[04:37] that's that topic is so interesting
+[04:39] because I often describe ourselves like
+[04:42] people that educate in the Bitcoin space
+[04:44] and there actually from uh from people
+[04:46] like Robert Pedlo, Michael Sailor like
+[04:48] the the biggest ones in the space till
+[04:50] like someone that just talks to their
+[04:52] mother and Orange like one person. I
+[04:55] think we all are digital or offline
+[04:58] soldiers in in kind of the this Bitcoin
+[05:00] narrative warfare. um what what do you
+[05:03] kind of see in how the the narrative is
+[05:06] shaping in in in Bitcoin? And I want to
+[05:09] get into something a little bit later
+[05:11] after that with internal and external
+[05:14] wars uh in in narrative war because I
+[05:17] think we have a lot of narrative uh
+[05:20] fightings internally in in Bitcoin. But
+[05:22] then like as a Bitcoin community outside
+[05:25] to like
+[05:27] 99.9% to the other uh people that uh
+[05:30] aren't uh in the Bitcoin community yet.
+[05:33] That's super interesting. I'm super
+[05:35] happy that you want to bring that up as
+[05:36] well. So we got a lot of lot of stuff to
+[05:38] go through. Uh but yeah, I think just on
+[05:40] a high level, my my personal
+[05:42] understanding is, you know, looking
+[05:44] around at where we are right now, it's
+[05:47] obvious that we can all feel that
+[05:49] Bitcoin is now at a at a pivotal moment
+[05:52] when it comes to uh its adoption cycle.
+[05:56] We're kind of like moving from the
+[05:58] fringes of finance to the center of, you
+[06:02] know, global uh economic narratives. And
+[06:06] I think that as Bitcoin is
+[06:09] maturing, it is maturing and kind like
+[06:12] entering this new stage at the very
+[06:14] moment where the media landscape is
+[06:16] totally fragmenting. So I think it's
+[06:18] super interesting because what once
+[06:21] operated as like centralized gatekeepers
+[06:24] of public opinion is now splintered into
+[06:28] you know countless platforms and each of
+[06:31] those platforms
+[06:33] uh has its own agenda.
+[06:35] bias, narrative, slant, uh you know, and
+[06:40] and then within each platforms is all
+[06:42] the outlets and all the influencers who
+[06:44] also have their own agenda, their own
+[06:46] bias, their own narrative sl. I think uh
+[06:50] exploring how these shifts are shaping
+[06:55] uh how the world sees Bitcoin is super
+[06:59] interesting and it's also interesting to
+[07:02] see while why some narratives are
+[07:04] gaining traction and then why other
+[07:06] narratives are kind of like getting
+[07:07] buried and and then how the dynamics of
+[07:10] this fragmentation
+[07:12] uh could affect Bitcoin adoption in the
+[07:15] years ahead because I do think
+[07:17] that we all have our own personal orange
+[07:20] pilling story. Uh I I personally think
+[07:24] that um uh the journey the Bitcoin
+[07:30] journey is deeply deeply individual.
+[07:32] It's deeply personal. So it's like you
+[07:35] and you know books, podcasts, content in
+[07:39] general that you consume and then try to
+[07:41] like get a get your own understanding of
+[07:44] right and the people who are talking to
+[07:45] you in that process. I mean, the
+[07:47] podcasters that you're choosing to
+[07:49] listen to, the books, the authors that
+[07:51] you're choosing to read uh books from,
+[07:53] they are all part of that journey and
+[07:55] it's a very like one-on-one
+[07:56] communication and you just like choose
+[07:59] your influencers, your authors, your
+[08:02] podcasters very carefully and then you
+[08:04] kind of like stick around and you uh
+[08:07] listen to more episodes or more content
+[08:09] or more or read more books from the same
+[08:11] authors and that shapes your world view.
+[08:15] Now somebody else also interested in
+[08:17] Bitcoin who have uh you know listened to
+[08:21] completely different sets of authors,
+[08:23] podcasters and and influencers might
+[08:26] also like Bitcoin but for completely
+[08:28] different reasons than your own and then
+[08:31] you know when you are then orange peel
+[08:33] and you know as as it's very common uh
+[08:37] once you understand Bitcoin you kind of
+[08:39] want to go to the top of the mountain
+[08:40] and just shout it out right you now want
+[08:42] to orange peel other people and you are
+[08:44] now becoming the influencer, then that's
+[08:47] just a cycle that just scales a lot. And
+[08:50] I think um you now have influencers that
+[08:54] are Bitcoin influencers, but there's a
+[08:57] cohort that only cares about the
+[08:59] technical side of things. Then there's
+[09:01] another cohort that only cares about uh
+[09:04] the energy, the environmental, and then
+[09:07] there's another side that is only about
+[09:09] regulatory policies and like the
+[09:11] politics of Bitcoin. And then it's only
+[09:13] the straight up number go up ETF uh more
+[09:16] financial side and this goes from
+[09:19] influencers to media outlets to TV
+[09:23] channels to to everything. It's all
+[09:25] fragmented in this little sections. So I
+[09:27] feel like it's an interesting time to be
+[09:29] alive because uh this fragmentation is
+[09:32] kind of like here to stay and I think
+[09:34] the next generation of new Bitcoiners
+[09:36] that will understand Bitcoin and be
+[09:38] Bitcoiners, I don't even know what that
+[09:39] term means anymore. um they will just
+[09:42] come in and purely understand Bitcoin
+[09:44] from one perspective and then a whole
+[09:47] another gang of group will understand
+[09:49] Bitcoin from one perspective and then
+[09:50] the some the total of all those
+[09:53] splintered segments will be the Bitcoin
+[09:56] community but they're going to be very
+[09:59] different from each other and that might
+[10:01] also you know turn into more narrative
+[10:04] wars and and people disagreeing because
+[10:06] they kind of like defend their own
+[10:08] factions they defend their own beliefs
+[10:09] and they it's kind of hard to move away
+[10:12] from that established belief. So yeah,
+[10:15] very interesting. Toby, what do you
+[10:17] think uh about what I just said? Is is
+[10:19] this somewhat aligned to to what you
+[10:22] think? It it's super interesting because
+[10:25] uh I've talked with uh almost 500 I
+[10:29] think we have today 440 uh uh 493. So we
+[10:33] are almost at 500 different guests and
+[10:36] there are many different angles you can
+[10:39] tackle Bitcoin. There is the as you said
+[10:41] the economical. So like there's like two
+[10:45] um very broad groups for like the more
+[10:48] technical people that are really
+[10:49] interested in in in in the technology in
+[10:52] in mining in the sovereignty of it and
+[10:55] the peer-to-peer aspect of it. And then
+[10:57] there are uh people on the other side
+[10:59] that are just really interested in
+[11:01] number technic knowledge in the store of
+[11:03] value. they often only have Bitcoin on
+[11:05] ETFs or like just a part of it in
+[11:08] selfcasio or maybe some exchange stuff
+[11:10] like that. Uh and they they also more
+[11:12] prone to uh buying micro strategy and
+[11:15] buying derivative of of Bitcoin that
+[11:17] might give them a leverage or yield on
+[11:19] on top of Bitcoin. Um and then there is
+[11:22] in those groups many different subgroups
+[11:25] and you described this was a so
+[11:26] wonderful um and it's it's one thing
+[11:30] I've noticed that there's not a a one
+[11:35] sizefits all solutions uh when it comes
+[11:38] to orange building when it comes to
+[11:39] narratives when it comes to anything of
+[11:41] that because every person uh is is
+[11:44] differently so for one person they are
+[11:46] listening to Michael Sale they're like
+[11:48] oh like he's so great like I now at
+[11:50] Bitcoin. another person another person
+[11:54] cannot even listen to him and they're
+[11:56] listening to Peter Dot or or someone
+[11:59] more technically Brown and they're like
+[12:01] oh like now I get what Bitcoin actually
+[12:03] is because we we have different
+[12:06] perspectives and different angles and
+[12:08] we're coming from a different uh
+[12:09] background and we're needing um uh
+[12:12] different uh those different properties
+[12:16] uh of ourselves reflected in the story
+[12:19] that we are being told and I think one
+[12:21] thing we also touched on before we
+[12:23] started recording is the
+[12:27] decentralization of media houses. So
+[12:29] like if you look back 20 30 years, it
+[12:31] was a very different landscape. Now uh
+[12:34] people like me that yeah I'm just alone
+[12:36] with uh two free freelancers that help
+[12:38] me part-time a little bit. Um uh and
+[12:42] they all of the sudden have a voice and
+[12:44] have uh sometimes hundreds of thousands
+[12:46] of of listeners each month. So this is
+[12:50] really big uh this this shift to
+[12:53] individual smaller uh creators that all
+[12:56] of a sudden have a pretty big voice and
+[12:59] uh can be taken seriously. I I remember
+[13:01] and I always bring the example up. Uh
+[13:03] the early days of my Twitter journey was
+[13:07] really cool because when I hit 300 400
+[13:10] subscribers, a local newspaper reached
+[13:13] out because one tweet got viral and they
+[13:15] covered me with like a whole page in
+[13:17] their uh economy um site and it was a
+[13:20] nice article actually about Bitcoin
+[13:22] which I didn't expect at all. Uh so
+[13:26] there's just like you now have the
+[13:28] possibility to be a random ple write one
+[13:31] tweet a journalist sees it and they
+[13:34] actually contact you and want to uh make
+[13:36] a small article around that story that
+[13:38] you tell. So the it's just amazing the
+[13:41] the possibilities we have and how that
+[13:44] impacts uh Bitcoin is is mind-blowing
+[13:47] for me. Yeah. And you know this is
+[13:50] something that has happened inside
+[13:53] Bitcoin as well, right? like in the in
+[13:55] the first few years of Bitcoin, I mean
+[13:58] it was super centralized the
+[14:00] communication it was Bitcoin talk and
+[14:03] then a lot of if you ask somebody new to
+[14:06] Bitcoin today uh about Bitcoin talk I
+[14:09] would I would pretty confidently say
+[14:11] that a majority of newcomers to Bitcoin
+[14:14] today have never set foot have never
+[14:17] typed bitcoin talk.org or in their
+[14:19] browser ever. And from from that, you
+[14:23] know, beginning then it started to
+[14:25] spread out to to Reddit uh then to
+[14:28] Bitcoin Twitter and now we have, you
+[14:31] know, even even more stuff like Noster
+[14:34] and uh so many other like French
+[14:37] communities within the Bitcoin
+[14:38] community. And then you have all the
+[14:41] other non- Bitcoin outlets that have
+[14:44] started to cover Bitcoin as well. And
+[14:46] you know uh if you log into uh to the
+[14:49] perception platform uh
+[14:51] bitcoinperception.com and you start to
+[14:53] look at just the volume you'll see that
+[14:55] in the very beginning like my my
+[14:58] platform goes all the way back to 2011.
+[15:00] And it's just like a flat line. It's
+[15:02] just like barely. And then you you you
+[15:05] see the the Bitcoin price. You can in my
+[15:07] platform you can compare the Bitcoin
+[15:08] price with the volume and the the
+[15:10] coverage um uh from from all these
+[15:13] sources that I'm tracking. And it's just
+[15:14] like the Bitcoin price
+[15:17] helped the story and more outlets
+[15:21] starting to pick up on that just just
+[15:23] purely by price. So, you know, the meme
+[15:26] of like, you know, you come for the NGU
+[15:28] but you stay for the revolution is
+[15:30] totally real because this is the story
+[15:32] about Bitcoin that just keeps people
+[15:34] coming back. And then, you know, if you
+[15:37] heard a story about, oh, Bitcoin crashed
+[15:40] 35%.
+[15:41] uh you'll have a negative uh
+[15:43] understanding of Bitcoin, but then a
+[15:45] year later you see another story with
+[15:47] Bitcoin just like you know up
+[15:50] 230% and that might give you another
+[15:53] chance to look at Bitcoin again. So it's
+[15:56] like more of that decentralization has
+[15:59] happened as the price has gone up and
+[16:02] more and more outlets have started to
+[16:04] cover Bitcoin as a result of that and
+[16:07] then depending on the outlet that these
+[16:09] people uh like what their ideology are
+[16:13] or their their you know their their own
+[16:16] beliefs are the kind of uh reporters
+[16:18] that they
+[16:19] employ their coverage will be a
+[16:21] reflection of that. So you will see that
+[16:24] the BBC has also picked up and started
+[16:26] covering Bitcoin at at you know a very
+[16:29] specific time when Bitcoin passed a
+[16:31] certain price point. But their coverage
+[16:34] has been extremely negative and almost
+[16:36] exclusively negative since the very
+[16:38] beginning and even in 2025 today their
+[16:40] coverage is like insanely uh negative. I
+[16:43] just did a Q1 report on bitcoin
+[16:46] percepterception.com because I also do
+[16:48] some research reports uh for my
+[16:50] newsletter and uh in Q1 of this year in
+[16:53] 2025 BBC had 40% negative uh coverage
+[16:59] and zero positive in in in January,
+[17:03] February and March of this year. You
+[17:05] would think that Bitcoin has proven
+[17:08] itself uh at this point, right? 16 years
+[17:11] of uptime uh price is just you know is
+[17:16] the best performing asset of the last
+[17:17] decade etc etc. You would think they
+[17:20] would at least consider another angle
+[17:22] but they don't. So this is also
+[17:24] something about the fragmentation that
+[17:25] we're seeing is that uh a lot of new
+[17:29] players uh or new outlets might start to
+[17:33] cover uh Bitcoin but they have an agenda
+[17:35] and their agenda is their bias. their
+[17:38] bias is the reason that they have um
+[17:42] accumulated an audience to begin with
+[17:44] because their stories, their angles,
+[17:47] their narratives attracts a certain type
+[17:49] of people. So that when you get big
+[17:52] enough, it's kind of like audience
+[17:54] capture, you know, like when you get big
+[17:55] enough, you need to keep telling these
+[17:59] uh stories in order to keep that
+[18:01] audience and maybe attract more of that
+[18:03] audience that think the same. So at this
+[18:05] point there are certain media outlets
+[18:07] who can't ever publicly change their
+[18:10] mind about Bitcoin because that would
+[18:12] mean they will lose the audience or the
+[18:14] readers or whatever that they have. But
+[18:16] then what's interesting is that there
+[18:18] are other outlets that are not that
+[18:20] desperate I would say who have the
+[18:22] luxury or the privilege to actually
+[18:24] change their mind a little bit and start
+[18:27] covering Bitcoin a little bit
+[18:28] differently. And I see that with, you
+[18:30] know, the financial outlets like
+[18:32] Bloomberg, um, Forbes, uh, CNBC, stuff
+[18:37] like that. Now, the interesting thing
+[18:38] about those outlets is, okay, maybe they
+[18:41] have a bad history. Like, if you look at
+[18:43] their Bitcoin stories from 2016 or
+[18:45] whatever, um, they're they're almost
+[18:48] exclusively negative. And then you know
+[18:50] once the ETF got approved and you know
+[18:53] Larry Frink from Black Rockck all of a
+[18:55] sudden became a Bitcoin proponent they
+[18:57] started to change their tune as well.
+[18:59] And Larry Frink also right like he was
+[19:01] also he used to be negative about
+[19:03] Bitcoin and then he became positive and
+[19:04] started publicly uh you know uh doing
+[19:07] the 180 uh saying that okay now Bitcoin
+[19:10] is is is good in my opinion. And these
+[19:13] are people who have the luxury uh to to
+[19:16] pivot and to capture a new audience and
+[19:18] maybe not think about uh like let's say
+[19:21] in Larry Frink's uh position maybe they
+[19:24] have a lot of like old school investors
+[19:26] or just like investors who are like
+[19:28] anti- bitcoin but they have enough
+[19:30] volume they have enough size to be like
+[19:34] hey we can take this pivot and attract
+[19:36] an audience who is pro Bitcoin and then
+[19:39] if these anti- bitcoiners who are part
+[19:41] of our uh client list for example
+[19:44] chooses to leave uh Black Rockck okay
+[19:46] fine we can deal with that the upside
+[19:48] the potential upside is bigger than
+[19:50] whatever downside is but for the BBC for
+[19:54] the the Guardian for these outlets who
+[19:56] are really
+[19:58] struggling they can't afford that they
+[20:00] need to keep whatever little audience
+[20:02] that they have left so that's why these
+[20:05] narratives will never change and we
+[20:07] should expect that and not be like oh
+[20:09] man BBC again No, it's like you need to
+[20:12] understand that these people will never
+[20:13] change their their point of view because
+[20:15] there's a deeper motivation behind it.
+[20:18] And then uh the Bloombergs, the the
+[20:20] Forbes, the CNBC's of the world who are
+[20:23] now switching and covering Bitcoin
+[20:27] positively, you need to be okay with the
+[20:29] fact that they will only talk about
+[20:32] Bitcoin in the terms of NGU and ETF
+[20:35] inflows and stuff like that that maybe
+[20:38] to you as a Bitcoiner is not Bitcoin
+[20:40] enough, but we need to be acceptive of
+[20:43] the fact that there will be fragments.
+[20:46] will be factions of the fragmented media
+[20:50] landscape who will cover Bitcoin
+[20:52] positively but from a very narrow
+[20:54] perspective and it's a narrow
+[20:56] perspective because that's how they
+[20:58] understand the world right like if you
+[21:00] take a look at yourself and sorry for
+[21:02] this rant but I have I have so many
+[21:04] opinions about this feel free to just
+[21:06] stop me if I go too long but in on an
+[21:09] individual level you know we are busy
+[21:12] people we got families we got jobs we
+[21:14] got friends we got we got a lot stuff to
+[21:16] do uh in the 16 hours a day that we are
+[21:19] awake. So we can't really spend every
+[21:23] single day learning new things and
+[21:26] seeing things from a thousand
+[21:27] perspectives to get a nuanced uh
+[21:30] understanding of one topic, right? You
+[21:33] do that with one topic and then you have
+[21:34] to realize you need to do this with 50
+[21:37] 60 topics. Uh you just your brain will
+[21:39] explode, right?
+[21:41] So us humans we we we we go into this
+[21:45] like defense mechanism or like a
+[21:47] survival instinct type of thing where we
+[21:49] understand a few concepts enough for us
+[21:52] to it makes sense to us. And then the
+[21:55] combination of these like very simple,
+[21:57] very narrow understandings of life is
+[22:01] the lens that we will see life through
+[22:04] that is making us able to uh live our
+[22:10] life, take care of our family, have a
+[22:12] job, build a career, whatever you want
+[22:13] to do without going insane because
+[22:16] there's just too much information.
+[22:17] There's too much things to consider that
+[22:19] you just can't. So you just have to pick
+[22:21] your pick your side, pick your uh uh you
+[22:25] know thought leaders, your influencers
+[22:27] and just develop a very simple
+[22:28] understanding of complex things at least
+[22:31] to have some understanding of something
+[22:32] and that is kind of like what these
+[22:34] outlets are doing right so Bloomberg
+[22:37] will be financial and that's their lens
+[22:40] that they will cover Bitcoin through and
+[22:42] we need to be cool with that. We can't
+[22:44] be as Bitcoiners who've been in the game
+[22:47] uh for a while. We can't say, "Ah, no,
+[22:49] this is not how you're supposed to cover
+[22:50] Bitcoin or this is not how you're
+[22:53] supposed to use Bitcoin. No, this is the
+[22:55] real Bitcoin. This is the fake Bitcoin."
+[22:57] And I think this is something that one
+[22:59] of my biggest problems with the Bitcoin
+[23:01] community is is that we have all these
+[23:04] pre preconceived notions of what Bitcoin
+[23:07] is and what Bitcoin is not. And just
+[23:10] because somebody else thinks differently
+[23:12] about your beloved Bitcoin, uh, doesn't
+[23:16] mean that they're wrong. They just
+[23:17] they're just not aligned with your, uh,
+[23:19] point of view. And that's okay. And I
+[23:20] think we need to be okay with these
+[23:22] things as Bitcoin continues to grow and
+[23:24] adoption continues to grow. That is such
+[23:26] a great point because um I I'm actually
+[23:29] quite annoyed by that because I think
+[23:32] Bitcoin is a mirror and we portray our
+[23:35] own values onto Bitcoin and expect
+[23:37] everyone else else also to have those
+[23:39] values. Uh one very uh popular example
+[23:43] is diet. Um, there are raw vegans in the
+[23:48] Bitcoin community and there are raw
+[23:50] carnivore people that eat like one meal
+[23:53] a day, one steak a day. Uh, and they
+[23:57] both uh love Bitcoin and they both
+[24:00] completely are on a very different
+[24:03] perspective on where where diet is. And
+[24:06] I see it a lot like oh like the
+[24:07] Bitcoiner has to eat meat, the Bitcoin
+[24:09] like that's just not true. And you also
+[24:12] said before like it's hard to um uh put
+[24:16] a label on a Bitcoin and actually go
+[24:18] ahead and always label a Bitcoiner the
+[24:21] same way. A Bitcoin is someone who has
+[24:23] Bitcoin or uses Bitcoin. Like that's
+[24:26] that's it. All the other things is
+[24:29] because we are humans and we put it on
+[24:31] there and uh but it's it's not true.
+[24:34] Like a Bitcoin is just someone that has
+[24:36] or uses Bitcoin. I mean, we can even uh
+[24:39] get it down to uses Bitcoin because if
+[24:41] you just hold it, it's it's also a use
+[24:42] case for me. So, uh Bitcoin is just
+[24:45] someone that uses Bitcoin and nothing
+[24:48] else. Everything else is just a
+[24:50] narrative that we we spin in our head.
+[24:53] Even though I know there is um and and
+[24:56] there that might also be interesting.
+[24:58] There's this how is it called Maya's
+[25:01] personality uh tests and they have done
+[25:04] it with the general population and with
+[25:08] um bitcoiners I think like 3,000 or
+[25:11] 4,000 bitcoiners or something like that
+[25:13] um uh participated in and it's
+[25:16] completely different. So those who in
+[25:18] the general population aren't as uh
+[25:20] common are very common in in the uh
+[25:23] bitcoiner uh sphere. Uh so there are
+[25:27] there is a certain personality type in
+[25:29] Bitcoin but that doesn't mean that there
+[25:31] are only those and it also doesn't mean
+[25:34] that you have your values and then all
+[25:36] of the other ones also have to behave
+[25:38] the the same way. It's it's ridiculous
+[25:42] for me. Yeah. No, it it is. And I think
+[25:45] um it it it the fact that these like um
+[25:49] stereotypes are still
+[25:52] uh like clear in your mind and you can
+[25:54] kind of like define it very well today
+[25:57] goes to show how early we really are,
+[25:59] right? Like if Bitcoin was way bigger
+[26:01] than than it already is, it would have
+[26:04] so many different people involved that
+[26:06] all of these things would be blurred and
+[26:08] not really that clear or not easy to
+[26:10] define. But the fact that it is easy to
+[26:12] define for you to for example break it
+[26:15] down the stereotypes in terms of diet
+[26:17] that means we're still early. this is
+[26:19] still a very small small fraction of the
+[26:22] global population in terms of like
+[26:25] adoption, right? uh that we are still uh
+[26:28] able to um uh to draw you know almost
+[26:32] like caricatures of of different
+[26:34] Bitcoiners uh stereotypical behaviors uh
+[26:38] which is you know I guess it's good
+[26:39] right because uh you know if you want to
+[26:41] get into Bitcoin you know you want to
+[26:43] get in as early as possible so it's a
+[26:45] you know just another affirmation of how
+[26:46] early we are in the in the entire uh
+[26:49] adoption process uh in terms of uh
+[26:51] having Bitcoin become a global a global
+[26:55] asset Um but I do think that you know
+[26:58] hey in the very beginning you are very
+[27:00] susceptible to new information and
+[27:02] there's there's a there's a there's a
+[27:05] period in in the very in like the first
+[27:08] touch points in your Bitcoin journey
+[27:09] where you are very open for a lot of
+[27:12] different information because at some
+[27:15] point in the very beginning when you
+[27:16] start to like get into Bitcoin you start
+[27:18] to learn so many different things and
+[27:20] you you start like realizing like holy
+[27:23] man like there's a lot of stuff that I
+[27:25] thought about the world that hm my
+[27:27] worldview is kind of like getting
+[27:28] crushed uh by the by the minute here. Um
+[27:31] so you start asking questions about
+[27:33] other things as well right like uh you
+[27:35] know when you start realizing that you
+[27:37] know you haven't really been taught
+[27:39] about uh money um in the public school
+[27:43] system you start asking okay what else
+[27:46] haven't uh Ivy been taught about you
+[27:48] know and you start to like distrust a
+[27:50] lot of the previous narratives that you
+[27:53] used to believe in and you kind like get
+[27:55] into a you get into this cognitive
+[27:59] vacuum where the old narratives that you
+[28:03] used to believe in that was fed to you
+[28:05] as a as a child, you realize now that
+[28:08] it's not as valid anymore. But at the
+[28:11] same time, we are humans and narratives
+[28:13] is what drive us to make decisions to to
+[28:16] move certain places to yeah make all the
+[28:19] hundreds plus decisions that we have to
+[28:21] make every day, right? So there's a
+[28:23] vacuum of like old narratives I
+[28:26] understand is it's a lot of stuff that I
+[28:28] need to I need to replace but then what
+[28:31] do I replace it with? So this vacuum
+[28:33] becomes this like vulnerable state I
+[28:36] would say where you might uh be
+[28:40] convinced about Bitcoin's monetary
+[28:42] properties by an influencers who also
+[28:44] happens to be a carnivore and then
+[28:46] you're like let me check out the
+[28:48] carnivore stuff and then you know these
+[28:51] kind of these things snowballs and
+[28:52] that's the that's the power of
+[28:54] influencers right because they get you
+[28:56] through the door through one thing but
+[28:58] then they might have other things that
+[29:00] they are interested about right safe
+[29:02] amuse one of you know sold you know over
+[29:05] 1 million copies sold of the Bitcoin
+[29:08] standard a lot of people understood
+[29:10] Bitcoin through that book alone but then
+[29:12] you start checking out say's Twitter and
+[29:15] he's you know carnivore and there's a
+[29:17] lot of other stuff that that is non
+[29:18] Bitcoin related that he also keeps
+[29:20] talking about and you're like okay maybe
+[29:21] he has a point about this because he
+[29:23] made a point about Bitcoin that I
+[29:24] believe in so that's and and that's
+[29:27] where I think personally this is
+[29:30] something that I had to learn, you know,
+[29:33] myself. I had to take myself out of that
+[29:35] and say, "Listen, okay, things are going
+[29:37] a little bit too crazy. You're starting
+[29:39] to believe other things that are non
+[29:42] Bitcoin by these other
+[29:44] Bitcoiners, and you need to like really
+[29:47] um you really need to be super critical
+[29:49] to that new information flow because
+[29:51] just because they're right about Bitcoin
+[29:53] doesn't mean they're right about
+[29:54] everything else." And I think that is
+[29:56] very hard to do in the beginning when
+[29:58] you're when you have this vacuum. like I
+[30:00] said, and you and you want to like think
+[30:03] differently, you want to see the world
+[30:06] differently because Bitcoin has taught
+[30:07] you so much. But there's a very I don't
+[30:10] want to say dangerous, but yeah, it
+[30:12] could potentially be dangerous if you if
+[30:14] your body uh can't uh process eating uh
+[30:18] meat for 30 straight days, then maybe it
+[30:21] could be a a dangerous thing to do. So
+[30:23] yeah, I think um it's easy to get
+[30:25] carried away
+[30:27] uh when it comes to uh Bitcoin because
+[30:29] you have a lot of smart people saying a
+[30:31] lot of smart things and uh but I think
+[30:34] it's uh it's your own responsibility to
+[30:39] uh to to create that filter and to uh be
+[30:43] critical of new information that these
+[30:46] influencers or these outlets are giving
+[30:48] you uh and not and not not given the
+[30:51] benefit of the doubt just because They
+[30:52] they convince you about one thing which
+[30:54] is Bitcoin. Does that make sense? Let's
+[30:56] take a break for a moment and appreciate
+[30:58] the beauty that Coin Vigilante has made
+[31:02] with the Bitcoin watches. Those watches
+[31:04] are the most amazing, the most elegant
+[31:07] way of showing that you are a true
+[31:10] Bitcoiner. And Coin Vigilante just
+[31:12] dropped a completely new and amazing
+[31:15] Genesis edition of their watch
+[31:18] collections. You have the date of the
+[31:20] first ever mined Bitcoin block in there
+[31:24] and of course also the block height and
+[31:26] which epoch we are currently in. I love
+[31:29] the level of detail they put in in this
+[31:32] masterpiece. Make sure to check out
+[31:34] those amazing coin vigilante time pieces
+[31:38] down in the descriptions. I love those
+[31:40] watches so so much. And now if you have
+[31:43] Bitcoin, I really do hope that you don't
+[31:46] have it on exchange. But if you do have
+[31:48] it on exchange, I have two ways for you
+[31:50] to deal with that. The first way is you
+[31:52] put it on a hardware wallet. That's the
+[31:54] entry for you to get into the
+[31:57] self-custody game. I recommend BitBox
+[32:00] Bitcoin only edition for that. It's a
+[32:03] super simple and secure way. And if you
+[32:06] check out the link in the description,
+[32:08] you even get 5% off if you use the code
+[32:11] Robin. And the second way is the Bitcoin
+[32:14] way. The Bitcoin way is your all-in
+[32:17] partner in terms of how to get the most
+[32:20] out of your sovereignty. They will
+[32:22] personalize for you a self-custody setup
+[32:25] that is perfect for your individual
+[32:28] situation. They will show you how you
+[32:30] can secure your own devices. Securing
+[32:33] your Bitcoin is not enough. You also
+[32:35] have to keep all your devices secure.
+[32:38] One topic that is overlooked often is
+[32:40] the inheritance plan. What happens with
+[32:43] your Bitcoin once you are no longer
+[32:46] here? Do you have a plan for that in
+[32:48] place already? And last but not least,
+[32:50] if you're in a jurisdictions where you
+[32:52] don't feel safe, it's better to get a
+[32:55] plan B. For all that, head over to the
+[33:00] bitcoinway.com/roin to get a 30inut free
+[33:03] call. And just a quick side note, I will
+[33:05] be for the first time ever speaking at
+[33:08] the Bitcoin Prague event in June. It
+[33:11] will be absolutely legendary and I'm
+[33:13] really looking forward to seeing all of
+[33:15] you there. You can get your ticket in
+[33:18] the link down in the description of
+[33:20] Bitcoin Prague. And very important, use
+[33:22] code Robin to get 10% off your ticket.
+[33:26] I'm really looking forward seeing you
+[33:28] there. Yeah, like Bitcoin is kind of uh
+[33:30] an interesting intelligence test, but it
+[33:33] doesn't it's not 100% uh quote like and
+[33:38] you can still So just because someone is
+[33:40] good in in in in discovering Bitcoin
+[33:43] doesn't mean he's also good in all other
+[33:45] aspects of of life. The the same way
+[33:49] maybe an doctor is really good in saving
+[33:51] lives, but he maybe doesn't understand
+[33:54] Bitcoin. So uh like I think those skills
+[33:58] don't transfer automatically which which
+[34:01] is an interesting point. Um h how do you
+[34:05] think as we are still a very small and
+[34:08] early group and as we before uh uh said
+[34:11] we can still do some kind of
+[34:13] characteristics of what like the average
+[34:15] Bitcoiner currently uh kind of looks
+[34:18] even though it's not 100% but like if if
+[34:20] we go with tendencies how do you think
+[34:22] the general population will will look to
+[34:25] um Bitcoiners that bought Bitcoin before
+[34:28] 2026 in like 10 20 years and and and
+[34:33] look back. I think like there's there's
+[34:35] now an an shape of like real estate
+[34:39] people that got like real estate for
+[34:41] like free blueberries in 1950 and stuff
+[34:44] like that. Um how do you think the
+[34:47] general population will look at those
+[34:49] early bitcoiners? I think uh my my
+[34:53] my biggest wish is that they don't take
+[34:55] a look and they just uh because I think
+[34:58] it's kind of cringe. I think that and
+[35:01] this is maybe because the the opera
+[35:03] return debates is so fresh and it's
+[35:05] happening right now and I am totally
+[35:07] cringed out by the way these debates or
+[35:11] discussion has happened. Um but I think
+[35:14] that
+[35:15] uh it all depends on where Bitcoin is in
+[35:18] uh in 10 years from now because um if
+[35:22] Bitcoin succeeds um all of us will be
+[35:25] looked at uh pioneers. If Bitcoin
+[35:28] doesn't succeed, we're going to be uh
+[35:30] cast as naive ideologists who didn't
+[35:34] know about the real world. So, it all
+[35:36] depends on how this this thing
+[35:39] eventually ends up being. But I think
+[35:43] Bitcoin is going to win. I think Bitcoin
+[35:46] is going to just keep continue to grow.
+[35:49] Um but that's also I'm saying I'm
+[35:52] confident and I'm saying this with all
+[35:54] the information that we have up until
+[35:56] today. I don't know what's going to
+[35:57] happen in the future. I might change my
+[35:59] mind about Bitcoin, but ever since I
+[36:03] started my Bitcoin journey in 2017 and
+[36:06] I've ride those waves and adoption
+[36:09] cycles all the way to 2025 or mid 2025
+[36:13] where we are today. I I've never been
+[36:15] more bullish on Bitcoin. Uh a and I
+[36:18] really see like you know my from my
+[36:22] understanding of Bitcoin which is the
+[36:24] monetary
+[36:25] properties, the predictable issuance
+[36:29] uh the cap and um uh how how Bitcoin is
+[36:35] a savings technology and how savings
+[36:37] technology
+[36:38] uh is the catalyst for so many
+[36:41] improvements in life. That's not only
+[36:44] not not just because of Bitcoin, because
+[36:46] of the the catalyst that Bitcoin
+[36:49] represents in order for you know people
+[36:52] who are poor who are forced to live
+[36:54] dayto-day are now uh available are now
+[36:58] um h they have now the possibility to
+[37:00] plan ahead more than one day in the
+[37:03] future. Just those things is extremely
+[37:07] transformational and I don't think
+[37:08] people realize the extent of how much
+[37:12] that changes your whole perspective, how
+[37:15] much that changes your life. You know,
+[37:17] we're talking about stuff like you don't
+[37:20] you can now earn money digitally and the
+[37:23] hardest money ever
+[37:25] created and you can be paid by anybody
+[37:29] uh around the world, which means that
+[37:33] you now have an appreciating asset that
+[37:36] you can save in and plan for the future,
+[37:38] but you don't have to leave your country
+[37:40] or your family to go work in another
+[37:42] country in order to get paid.
+[37:46] So that is just insane. If that had
+[37:49] existed back in 1989 when my mom had to
+[37:52] make that choice, if Bitcoin existed at
+[37:55] that time, we would have never left
+[37:57] Argentina and Argentina would be more
+[38:00] prosperous than it is today. Uh you
+[38:02] know, this is just one example that I'm
+[38:04] giving you. take that example and then
+[38:06] extrapolate that into a thousandx
+[38:09] uh across the entire world and just that
+[38:13] is insane. Okay.
+[38:17] Um and if things don't get drastically
+[38:22] changed when it comes to the protocol to
+[38:24] the consensus to to Bitcoin itself then
+[38:28] yeah I I I truly believe we are going to
+[38:31] be seen as visionaries as you know we we
+[38:34] we we uh we were all playing a part in
+[38:38] Bitcoin success and the world is a
+[38:41] better place because of that in 2035 if
+[38:44] things drastically change and all of a
+[38:46] sudden, I don't know, there's a
+[38:47] consensus around uh not having 21
+[38:50] million uh as the cap, then you know, uh
+[38:54] I'm going to stop believing Bitcoin and
+[38:56] I think people looking back will will
+[38:58] look at us as fools. So, yeah, I don't
+[39:01] know if this is a a good question, but
+[39:03] it was a really good question that
+[39:04] you're posing though. It's uh it's a
+[39:06] it's a it's a very interesting thought
+[39:08] experiment.
+[39:10] Do you see indicators uh from all those
+[39:14] uh uh medias and narratives that that
+[39:16] that you're seeing for the Bitcoin
+[39:20] adoption going forward or is it is it
+[39:23] like a leading or like more of a lagging
+[39:26] indicator of like okay there's Bitcoin
+[39:28] adoption happening and that's why media
+[39:30] is is kind of reporting on it or is it
+[39:32] maybe even the other way around where
+[39:34] there's small media coverage and then
+[39:36] this actually drives more adoption.
+[39:39] Yeah, that's the that's the that's the
+[39:40] whole reason I I created the Bitcoin
+[39:42] perception platform because there's a
+[39:44] big uh difference between what is being
+[39:46] discussed in Stacker News on Reddit on X
+[39:51] uh just take a few of the channels that
+[39:53] I'm that I'm sourcing versus what is
+[39:56] being covered in in the legacy media.
+[39:58] two scenarios uh within that gap is the
+[40:02] things that I get that gets discussed on
+[40:04] Reddit, Stacker News X, whatever makes
+[40:08] it to the legacy media. They're just not
+[40:11] covering it. Nobody will know. It's just
+[40:13] a fringe topic that stays within the the
+[40:17] community of people who are more in tune
+[40:21] uh with with what's happening at at
+[40:23] Bitcoin on a daily basis. Uh but then
+[40:26] the stuff that do get covered in the
+[40:29] legacy media obviously comes way later
+[40:32] than when it first started you know
+[40:35] being discussed in in uh like the the
+[40:38] base layer I would say of uh the the
+[40:41] Bitcoin discussion which is the people
+[40:43] which is which is the different players
+[40:45] which are the the different founders of
+[40:47] different companies and power users and
+[40:49] influencers. That conversation is where
+[40:51] it starts. And obviously in the middle
+[40:54] you have crypto media, you have the, you
+[40:57] know, the Cointelegraphs, the CoinDesk
+[40:59] and stuff like that who constantly
+[41:02] uh are looking at the conversations that
+[41:04] are happening and they are obviously
+[41:05] pretty good at picking up uh things that
+[41:07] are getting momentum or things that are
+[41:10] pretty interesting. Uh new proposals or
+[41:13] uh new companies that are building
+[41:14] something new, they cover that. in
+[41:16] Legacy Media, they will never touch that
+[41:18] unless uh these companies become
+[41:22] public and or or raise a bunch of money
+[41:25] or or or something like that. So, and
+[41:28] that's okay. That's the flow. That's the
+[41:30] information flow that goes between these
+[41:32] like fragmented sets. Um they all have a
+[41:37] they all have a connection to each
+[41:38] other, but it's very fragmented. So,
+[41:40] it's not very easy to see if you're only
+[41:43] uh visiting uh uh your timeline on X or
+[41:47] just visiting or like typing coindes.com
+[41:50] on your browser and checking it out once
+[41:51] in a while or uh uh I don't know uh
+[41:54] seeing maybe some big influencer
+[41:57] retweeting a video clip from CNBC about
+[42:00] an interview that you might see. So
+[42:02] that's why kind like I created uh the
+[42:03] perception platform as well to just have
+[42:06] everything in one place and to be able
+[42:07] to see these uh these straight lines
+[42:10] even though there's that line is going
+[42:12] through a lot of fragmented sections of
+[42:14] the overall uh discourse. Uh so yeah I
+[42:18] and I think it's it's okay. I mean, you
+[42:21] know, I think that the the the Bitcoin
+[42:24] framing in legacy media, like mainstream
+[42:27] financial outlets, uh, like I said, they
+[42:30] see Bitcoin through a very specific lens
+[42:33] that makes sense to them. So, it's going
+[42:35] to be price, volatility, and then how
+[42:38] Bitcoin is somewhat related to like
+[42:40] macroeconomic trends. And I think just
+[42:43] this narrow focus has actually helped uh
+[42:47] with institutional adoption. Um but
+[42:51] obviously it frames Bitcoin you know
+[42:54] narrowly as a speculative asset. But as
+[42:58] the media landscape overall continues to
+[43:03] keep
+[43:03] fragmenting, I think these narratives
+[43:06] will diverge and some outlets will just
+[43:08] double down on the oh, Bitcoin is risky
+[43:11] or Bitcoin is volatile storyline to keep
+[43:15] these legacy audiences engaged and then
+[43:17] others will evolve to reflect Bitcoin's
+[43:21] expanding utility. Now what what these
+[43:24] utility like what these expanding
+[43:26] utilities will be you know time will
+[43:28] tell because things a lot of interesting
+[43:30] stuff are being built and uh is going to
+[43:33] be put to a test whether these things
+[43:34] that are being built are actually being
+[43:36] adopted right like I I talk if I put on
+[43:39] my blogstream hat right now this is what
+[43:42] we are doing in blogstream right like we
+[43:44] are building what we believe is the
+[43:47] future on Bitcoin rails and we are
+[43:51] actively engaging people, prospects to
+[43:56] uh integrate our technologies because we
+[43:58] believe this is hyper bitcoinization
+[44:01] looks a very certain way and you need to
+[44:04] build a lot of the a lot of the utility
+[44:08] that you see in traditional finance. You
+[44:10] need to build that on Bitcoin rail but
+[44:12] you got to make it better. So that's the
+[44:15] bet, that's the risk, that's kind of
+[44:17] like what we are building towards. And I
+[44:19] it's it's it's a nice there's a nice
+[44:22] relationship between adoption of new
+[44:25] technology and the media who covers that
+[44:28] technology and its users. So it's super
+[44:31] interesting to be a marketer or
+[44:32] communications person uh at Blockstream
+[44:35] at this very moment as well because uh
+[44:39] you need to know the institutional lens.
+[44:42] You need to understand why financial
+[44:43] outlets are covering Bitcoin as NGU. You
+[44:46] also need to understand uh the
+[44:49] fragmentation effect like how different
+[44:51] audiences will see different narratives
+[44:54] and be okay with that. And then you also
+[44:57] need to understand like the
+[44:59] inevitability of polarized Bitcoin
+[45:02] narratives and why that's not
+[45:04] necessarily bad.
+[45:07] Interesting. Because you brought it up.
+[45:09] H how do you think hyper
+[45:11] bitcoinization looks like? How do how do
+[45:13] you how do you see that? Does that mean
+[45:15] that everyone is into bitcoin? Like is
+[45:18] is that a requirement for for hyper
+[45:20] bitcoinization? Uh I think hyper
+[45:22] bitcoinization is kind of like hyper
+[45:24] fiatization where you just do stuff and
+[45:27] you don't really know or understand how
+[45:29] fiat money works. It's just the value
+[45:32] that you're transmitting and you have a
+[45:36] understanding of that value and you have
+[45:38] no idea whether the institution that
+[45:41] are lending you money or the the the the
+[45:45] the corporations that are uh custody of
+[45:49] your money. You don't you don't
+[45:51] understand like I mean 99% of people uh
+[45:54] Bitcoiners excluded they have no idea
+[45:56] about these things, right? Like uh
+[45:59] people still to this day, they go to the
+[46:01] bank and they ask, "Hey, I want to take
+[46:03] out 2,500 bucks and they are shocked
+[46:06] when they're like, "Oh, we you can't do
+[46:08] that." Or uh they say, "Okay, we can do
+[46:11] it in 48 hours. You just need to fill 17
+[46:14] pages of paperwork first." They're
+[46:15] shocked by that because they have no
+[46:17] idea how the system works. And I think
+[46:21] hyper bitcoinization
+[46:23] um is still going to offer the same
+[46:26] things. There's still going to be
+[46:28] lending. There's still still going to be
+[46:30] uh borrowing. There's still going to be
+[46:32] um you know private loans being issued.
+[46:35] There's still going to be equities being
+[46:37] issued uh and people buying stock into
+[46:41] um companies. So a lot of these
+[46:44] financial instruments that have existed
+[46:46] for a while, I don't think they're going
+[46:47] to go away in a hyper bitconized future.
+[46:50] The only difference is, which I think is
+[46:52] the main difference, is Bitcoin is going
+[46:54] to be the underlying technology. It's
+[46:57] going to be the underlying protocol and
+[46:59] it's going to be the underlying asset.
+[47:01] So if you get a fiat loan, the
+[47:04] collateral is
+[47:06] Bitcoin. I like that collateral way more
+[47:08] than other types of collateral. So,
+[47:11] uh, it's just about it's not about like
+[47:14] breaking down the system. It's about
+[47:16] just making it more efficient and and
+[47:18] improving on the things that needs to
+[47:20] improve. And I think having the hardest
+[47:23] money uh as the underlying asset and
+[47:28] that can also serve as the protocol. I
+[47:31] mean, that's going to change the world,
+[47:32] man. It's the same example that I that I
+[47:35] talked about 10 minutes ago about one
+[47:37] person being able to charge uh a service
+[47:42] in Bitcoin and just by the fact that
+[47:45] this person is getting the hardest money
+[47:48] ever uh now has a chance to uh plan
+[47:52] ahead and actually save in Bitcoin. Uh
+[47:56] that that makes a huge difference. It's
+[47:58] a simple transaction done on Bitcoin
+[48:00] with Bitcoin, but it's so
+[48:02] transformational just because of the the
+[48:04] nature the properties of the asset and
+[48:06] the properties of the protocol that it's
+[48:09] going to be life-changing. And I think
+[48:10] the same thing when you scale up to, you
+[48:13] know, Tradfy, Legacy Finance, just the
+[48:16] fact that they connect that they
+[48:18] integrate Bitcoin is is going to make
+[48:20] their services so much better and more
+[48:21] efficient. So, I think that's a that's
+[48:24] how hyper Bitcoin looks to me at least.
+[48:27] is super interest. It's it's uh there
+[48:30] are so many um great narratives and you
+[48:32] just brought us a really really good
+[48:35] one. I like that narrative of the
+[48:37] individual and what it brings him in the
+[48:40] actual day-to-day life like not not just
+[48:43] like some numbers and like oh like your
+[48:45] inflation and and this and that like
+[48:47] like what actually does it mean? Do you
+[48:50] have and and maybe this is the the
+[48:51] narrative that you just brought to us,
+[48:53] but do you have a like a personal
+[48:55] favorite Bitcoin narrative that that
+[48:57] you're like, okay, if we all hammer that
+[48:59] down, we'll will come quicker to the bit
+[49:02] hyper bitcoinization. Yeah, I think um I
+[49:05] think uh honestly I think we need to if
+[49:08] I had to choose one thing and and it's
+[49:10] going to be a little bit biased because
+[49:12] um I I I I
+[49:15] I have uh been uh stacking Bitcoin since
+[49:19] 2017. So I have a survivor bias, right?
+[49:22] It's not as easy to say what I'm about
+[49:24] to say for someone who just entered and
+[49:27] might go through a bare market in the
+[49:29] next 6 to 12 months. Who knows? But
+[49:33] savings, Bitcoin as a savings technology
+[49:36] I think is the number one thing because
+[49:41] um the the concept of saving money is
+[49:45] somewhat easy to to understand. It's
+[49:48] easy to understand why the money that
+[49:50] you get today, you should not spend
+[49:52] everything right away and try to save a
+[49:55] portion of that every single day. So you
+[49:57] you grow a bigger stack of money that
+[50:00] you can then uh use in the future for
+[50:05] any choices that you want to make. So
+[50:07] you are not forced to make any choice.
+[50:10] It's a choice that is deliberate and
+[50:12] voluntary because you have the power,
+[50:14] you have the opportunity through savings
+[50:16] to make choices and not let someone else
+[50:19] do make the choice for you. So I think
+[50:23] that is way way more uh it's easier to
+[50:28] teach than saying stuff about this is
+[50:31] how peer-to-peer works. This is what
+[50:34] decentral this decentralization means.
+[50:37] Oh, this is SHA 256. This is space 58.
+[50:40] Let me sit you down. Let's go and read
+[50:42] the white paper together and let's talk
+[50:45] about cryptography and why that is
+[50:46] important. Let's talk about mining and
+[50:48] why uh mining is so important. Um I
+[50:52] think just savings. Bitcoin is a hard
+[50:55] asset because it's um its
+[50:59] circulation new units being made every
+[51:02] day is uh predictable. You already know
+[51:05] what's going to happen. there's no
+[51:07] central committee that are deciding oh
+[51:09] today we're going to just print 21
+[51:11] million today and which in effect
+[51:13] dilutes the value of the money that
+[51:15] you're saving. So if we can get that, if
+[51:19] we can get people to gro that, then
+[51:21] that's a super important aspect,
+[51:23] especially in Latin America or the
+[51:26] global south or whatever you want to
+[51:28] call it, the third world, where the
+[51:30] concept of saving is almost non-existent
+[51:33] because people are forced to just use
+[51:35] all the money that they get in every day
+[51:37] in order to cover basic uh basic needs.
+[51:40] So in terms of like what is the easiest
+[51:44] concept that also has the biggest
+[51:46] transformational effect, I think Bitcoin
+[51:49] as
+[51:50] savings, cold storage and just hold it,
+[51:54] keep accumulating and just do that for
+[51:56] for years um is the one thing that will
+[52:00] lead us the fastest to hyperconization.
+[52:02] everything else. And I'm sorry, but like
+[52:05] how to run a node, how um how uh proof
+[52:09] of work works, uh
+[52:11] cryptography, um all of that stuff is
+[52:14] just not going to get people faster to
+[52:19] having Bitcoin and believing in Bitcoin.
+[52:21] So yeah, savings technology for the win.
+[52:24] Absolutely. I I see that with the data
+[52:26] on on my YouTube analytics also. That's
+[52:28] what people uh that's what people like
+[52:31] to to see and click on.
+[52:33] Um especially um when we look outside
+[52:38] because in in the western world
+[52:40] sometimes it's it's almost seem outside
+[52:42] of Bitcoin a little bit of a a luxury
+[52:44] good Bitcoin. I hear that from my
+[52:46] family. Oh, like you have to have a lot
+[52:48] of money to get Bitcoin because like you
+[52:50] have to have real estate and and stocks
+[52:52] and then only then you can also
+[52:54] diversify in in Bitcoin.
+[52:57] um which is a really weird narrative but
+[53:00] uh it it definitely exists. Uh and I see
+[53:03] that a little bit less uh from people
+[53:05] that that that come from Argentina,
+[53:07] Latin America, Turkey, from from other
+[53:10] parts of the world where inflation is
+[53:11] just uh a lot more crazy. Um how does it
+[53:16] how does it for for you
+[53:19] you how have you been you've been born
+[53:22] in in Argentina, right? How long have
+[53:24] you been in in Argentina? No, I mean I
+[53:26] my mom immigrated when I was a kid, but
+[53:28] I I always went back to visit families.
+[53:31] I've always maintained a good connection
+[53:33] to uh to Argentina. Yeah. So, how was uh
+[53:38] growing up there with and we we had
+[53:40] actually I think one or two podcasts,
+[53:43] probably two podcasts uh where we um
+[53:47] brought down and and and broke down the
+[53:50] how Argentina got a newer uh currency,
+[53:53] then this broke down and then new
+[53:55] currency and then all those those
+[53:56] different iterations like in in a one
+[53:58] two hour video really nicely. Uh uh but
+[54:02] it's really interesting to hear from you
+[54:04] how was it to to see that firsthand
+[54:06] because I only saw it only from like
+[54:08] other people explaining it to me. Well,
+[54:12] it kind of like um accelerates a lot of
+[54:15] bad decisions uh for the for the
+[54:19] individual because if you have any
+[54:21] savings, if you have any assets, uh you
+[54:24] are essentially being forced to sell
+[54:25] them off in order to cover expenses. If
+[54:28] you are a business owner, for example,
+[54:30] and you need to pay people a salary, uh
+[54:33] you can only raise your prices on the
+[54:35] menu for that much before you completely
+[54:38] lose your your clientele and you need to
+[54:41] try to get cash flow from elsewhere in
+[54:44] order to cover all business expenses. So
+[54:46] in my particular um situation, my dad
+[54:50] who used to um the height of of his
+[54:53] success, he had about five restaurants
+[54:56] open at the same time, several cars and
+[54:59] and and and and several properties. And
+[55:02] you just sell one after one after one
+[55:05] after one just to get cash flow to to um
+[55:08] um to support all all your all your
+[55:11] costs to to be in business. And then it
+[55:13] goes to a point where as hyperinflation
+[55:17] accelerates, you accelerate the sell off
+[55:20] of these assets and then you spend all
+[55:23] the money that that sell the the the
+[55:26] selling of those assets gave you and you
+[55:28] ended up with nothing as hyperinflation
+[55:30] continues from that point on. And then
+[55:33] you're just like, okay, I got to close
+[55:34] up. I can't maintain a business and and
+[55:38] you're done. And that's just one example
+[55:40] from my family. Imagine all business
+[55:43] owners that that had a business at any
+[55:46] level, successful or not, uh during that
+[55:48] time. And uh you didn't say the
+[55:52] um you didn't say the period uh for your
+[55:56] podcast episode, but I can imagine this
+[55:58] was the period after 1983 to 1989 cuz in
+[56:02] 1993 Argentina came out of a military
+[56:04] dictatorship or like democracy came back
+[56:07] uh after 1976 to 1983 of being like a
+[56:11] centralized authoritarian military
+[56:13] dictatorship where you couldn't have
+[56:15] elections.
+[56:17] 83 came and um uh the new president, the
+[56:23] new government, they kind of like wanted
+[56:24] to change a lot of things. So they did
+[56:27] uh you know some very dubious obviously
+[56:30] in in hindsight very dubious uh choices
+[56:33] like moving the capital from Buenosidis
+[56:35] to a place called Vietma um and then
+[56:38] changing uh the the currency to
+[56:41] something called Astral. They had no
+[56:43] clue what they were doing essentially.
+[56:45] And after introducing that currency, you
+[56:48] started to see 5,000 uh bills, 10,000
+[56:52] bills, 20,000 bills kind of just kept
+[56:55] adding zeros to those uh notes just to
+[56:58] keep up with inflation, right? And uh it
+[57:01] came to a point where that currency uh
+[57:03] crashed. Uh the capital was returned
+[57:07] from Vietnam to Bonitis in that lapse of
+[57:10] 1983 to 1989. those six years. Can't
+[57:14] even remember how many zeros we added to
+[57:16] the currency, but just like a bunch. And
+[57:20] 1989 was essentially the the the year
+[57:24] that my mom chose to to immigrate. So it
+[57:26] was like she she had enough and at the
+[57:28] very tail end she decided to uh to
+[57:30] immigrate to Norway. Then in 1989, a new
+[57:34] president came in and he he did uh he he
+[57:38] he he essentially converted uh back to
+[57:41] the peso and had a policy um that had
+[57:45] some control controlled inflation at
+[57:48] least didn't it wasn't as rampant. And
+[57:51] then um they had a lot of reserve assets
+[57:54] as well. And uh for the entire decade of
+[57:57] the '90s, one Argentine peso was
+[58:00] equivalent to one US dollar. And that
+[58:03] stability just was enough for people to
+[58:06] now be able to plan, go on vacation,
+[58:09] enjoy life more, buy some assets, just
+[58:13] essentially um the middle class felt
+[58:17] like a real middle class. Um and people
+[58:20] had more purchasing power and uh things
+[58:22] were better. It was a better time
+[58:24] looking back. Uh but then you know uh at
+[58:27] at the at the millennia at at you know
+[58:29] in 1999 2000 and 2001 there's a lot of
+[58:32] different crisises in in the world you
+[58:34] know and uh specifically in Mexico there
+[58:37] was a crisis called the tequila crisis
+[58:39] uh which was essentially a reserve
+[58:41] currency crisis that started in Mexico
+[58:43] and had like a ripple effect throughout
+[58:45] Latin America that also broke this
+[58:47] one-on-one peg uh down and that
+[58:51] kickstarted more
+[58:52] inflation. people who had um dollars
+[58:56] saved in the bank, uh the the the bank
+[59:00] essentially forced you to exchange those
+[59:04] dollars into the local currency that was
+[59:06] inflating away. So, if you had 10,000,
+[59:08] let's say $10,000 in savings, you were
+[59:11] forced to get it back in pesos and then
+[59:13] at the end of this whole um this whole
+[59:17] um uh process, it was maybe worth $3,000
+[59:20] uh US. So again, you know, once again,
+[59:24] the Argentine people had to become the
+[59:27] victim of this unfortunate monetary
+[59:31] policies that continued, I would say,
+[59:35] all the way to when Malay became
+[59:37] president. uh because apart of just you
+[59:41] know bad market momentum or whatever you
+[59:44] want to call it there's also a cultural
+[59:45] aspect when it comes to
+[59:47] Argentina where the political class they
+[59:51] use the money spigot to buy favors to uh
+[59:56] to pay off people to not riot um it's a
+[60:00] very antiquated model uh that is very
+[60:03] resemblant to how Europe was in the
+[60:07] 1920s like right after the industrial
+[60:10] revolution with like the ad the the the
+[60:13] the advent of unions
+[60:16] uh all these labor laws and and and um
+[60:20] uh basically all these mafias all these
+[60:22] like groups that were like so-called uh
+[60:25] in favor of the workers interest
+[60:28] uh essentially created these uh these
+[60:33] scam
+[60:35] essentially these these
+[60:36] rackets um just to have power and to be
+[60:40] aligned with uh politicians uh to remain
+[60:45] in power and that is mostly um mostly
+[60:50] something that was uh perpetuated by the
+[60:54] Peranism uh
+[60:56] movement and perinism is you know named
+[60:59] after Peron which was is one of the most
+[61:02] influential presidents in Argentine
+[61:03] history. He was like a general very
+[61:07] right-wing uh military general who took
+[61:10] a lot of the communist ideas and
+[61:12] socialist ideas kind of like made a very
+[61:16] powerful package
+[61:18] um to essentially take power in the
+[61:23] 1940s all through the 70s and his legacy
+[61:26] is still perpetuated as an ideology by
+[61:30] today's uh leftwing of the Argentine uh
+[61:33] government and They all have they just
+[61:36] still use that formula. Print a lot of
+[61:39] money, pay off all these syndicate this
+[61:41] the syndicates and the and the unions
+[61:44] and then have like this like power
+[61:46] vacuum that nobody else from the outside
+[61:48] can really can really penetrate because
+[61:50] they you just have to be an insider in
+[61:53] order to to uh you know enjoy the fruits
+[61:55] of the power. And then you know until
+[61:57] MLE came and and kind of like broke that
+[62:00] vacuum uh through the use of internet
+[62:03] and the use of narratives uh by becoming
+[62:06] this like TV personality
+[62:09] uh this guy who was able to distill a
+[62:11] lot of complex ideas like Austrian
+[62:14] economics who usually is a very academic
+[62:17] thing and that is you know the reason
+[62:19] why a lot of people don't really
+[62:20] understand Austrian economics too much
+[62:22] because it's all a bunch of academia uh
+[62:24] lingo that people don't really
+[62:26] understand, right? Mle took all of that,
+[62:29] took the ideas and distilled it. He syn
+[62:31] synthesized it into a way that was very
+[62:33] easy for people to understand, became
+[62:35] viral, all internet fueled them to
+[62:38] really spread the message and eventually
+[62:41] led him to be the president of Argentina
+[62:43] and in power a year and a half later has
+[62:46] curbed inflation. U right so um um well
+[62:51] that is Argentina in a nutshell. there's
+[62:53] a big cultural problem that is
+[62:55] underlying all like political uh
+[62:58] political flavors or political uh
+[63:02] factions that gets created and
+[63:04] ideologies that keeps on living. Uh but
+[63:06] I you know I'm very I'm very positive
+[63:08] that Malay is able to at least change
+[63:10] the cultural thing because
+[63:15] uh keeping up with a lot of political
+[63:17] promises is difficult and takes a lot of
+[63:20] time because you have to you have to do
+[63:21] a lot of uh compromise and you need to
+[63:24] broker a lot of deals essentially. But
+[63:27] culture is something that you can change
+[63:30] today if you start with the narratives
+[63:33] that are easy to digest and you just
+[63:36] repeat them over time and you make sure
+[63:38] that you have enough distribution.
+[63:40] uh then you know in a 4-year cycle which
+[63:43] is the cycle that he will be uh
+[63:45] president if he's able to turn the tide
+[63:48] and actually have young people think in
+[63:51] Austrian uh instead of thinking in
+[63:55] socialist then I think that's a huge
+[63:57] improvement for Argentine society as a
+[64:00] whole because it starts with culture it
+[64:03] starts with narratives everything else
+[64:05] is is just um downstream from the way
+[64:09] you think and the way you see the world.
+[64:10] So hopefully Malay is going to change
+[64:12] that in the three years that he has
+[64:15] left. That's super interesting. So he
+[64:18] has three years uh left and and he has
+[64:20] been now two years in 3 years in what
+[64:22] what was Yeah. Yeah. I mean maybe year
+[64:24] and a half. So yeah he has two and a
+[64:26] half uh years left something like that.
+[64:28] Okay. Super interesting. Yeah. Mle is I
+[64:32] mean uh he he went through uh the phase
+[64:36] of being extremely popular in in the
+[64:37] Bitcoin uh ecosystem. then with like uh
+[64:41] some controversies but I think
+[64:43] he at least I hope he really understands
+[64:47] this uh free market dynamics and just
+[64:49] wants to have a free competition between
+[64:51] all currencies and I think in any free
+[64:54] competition around currencies and assets
+[64:57] bitcoin will win. Uh so for me I like
+[65:00] that appro there's an argument to be
+[65:03] made that that approach is better than
+[65:06] what the US US is currently doing with
+[65:08] uh buying Bitcoin for an individual
+[65:10] person because I personally like uh ple
+[65:13] and individuals have bitcoin and not
+[65:15] nation states uh and I just want to have
+[65:17] the nation state to make the rule that
+[65:20] competition is possible and let the
+[65:23] individual and free market decide what's
+[65:25] best because they know what's best and
+[65:28] Uh I I'm I'm really looking forward to
+[65:30] how Argent Argentina
+[65:33] um is setting up in the next few years
+[65:36] is setting up then uh with a new
+[65:38] president potentially. I don't know if
+[65:40] he can be reelected or or he can Okay.
+[65:44] So hopefully he gets reelected and if
+[65:46] they continue this p path, how does
+[65:49] Argentina look like in 10 20 years? They
+[65:53] they they could
+[65:54] potentially be a big
+[65:57] country, a big big big one, and be a
+[66:01] positive role model, positive example of
+[66:03] how you get from bad to to basically
+[66:06] good uh with some radical changes. But
+[66:10] it's not as easy. So, I'm really looking
+[66:12] forward if if Argentina can be that
+[66:14] example. I mean, the the the arc of
+[66:16] Argentina is from good to bad and then
+[66:19] potentially good. So, it's not going to
+[66:21] be from bad to good, but you have to
+[66:23] step back and see how Argentina was when
+[66:26] Argentina um you know was was really
+[66:29] built, right? Like it's uh um you have a
+[66:32] parallel history here with the US and um
+[66:35] and Argentina uh in the sense of
+[66:38] Europeans uh immigrating from Europe and
+[66:42] going on boats and essentially going
+[66:45] either to New York City or to Bonositis,
+[66:47] right? And um and what's common for both
+[66:51] countries at the same time is that these
+[66:53] immigrants, they came uh with their
+[66:56] families, you know, they spent all their
+[66:58] money on that one ticket, one way. There
+[67:01] was no turning back. And people were
+[67:03] determined to actually make whatever
+[67:05] country they were going to great, right?
+[67:08] They were opening businesses. If they
+[67:10] didn't open businesses, they were
+[67:11] working. They were helping other people
+[67:13] build their businesses. And all of that
+[67:16] had like a a net positive effect because
+[67:18] you essentially let the free market in.
+[67:22] Uh you know you are kind of like uh
+[67:24] trying to sell things on very fertile
+[67:27] land but nothing is a guarantee. So you
+[67:29] took a risk uh but it essentially paid
+[67:32] off because everybody was like in on it.
+[67:34] You know it was like here we are and we
+[67:36] are here to build a nation type of
+[67:39] mentality. And then you know the US just
+[67:43] became a success based on that mentality
+[67:47] and were able uh to keep that mentality
+[67:50] going. And you can maybe see now that
+[67:53] that idea of America being a little bit
+[67:57] kind of like you know watered out or
+[67:59] kind of breaking a little bit into
+[68:01] pieces maybe. But in Argentina
+[68:03] definitely broke into pieces and that
+[68:06] and that was a cultural phenomenon,
+[68:07] right? That was a thing where um all
+[68:11] these how can I say all these ideas that
+[68:15] the Europeans
+[68:16] uh were escaping from because they were
+[68:19] escaping you know the Spanish civil war,
+[68:22] World War I and two was like a lot of
+[68:24] political instability in Europe at that
+[68:26] time, right? Uh which led to you know
+[68:28] poverty and you know impossible working
+[68:31] uh environments that led them to to
+[68:34] leave. But all of that was because it
+[68:36] was a big battle, a political
+[68:37] ideological battle between left and
+[68:40] right. It was fascism versus communism.
+[68:42] And and unfortunately uh the immigrants
+[68:45] who came to
+[68:46] Argentina and the US, they took that
+[68:49] with them. And you had the same
+[68:51] communist versus fascist battles in the
+[68:53] US in the early uh 20th century uh in in
+[68:57] Argentina and the US. Now the what
+[69:00] happened in Argentina is that the
+[69:02] communists the the the leftist with
+[69:04] Peron who had fascist tendencies but it
+[69:08] was more uh he was
+[69:12] more communist in terms of being a a
+[69:15] very hardcore left-wing populist. Okay.
+[69:19] He took over and laid the foundation for
+[69:22] what you saw as the acceleration of the
+[69:25] destruction of Argentina, which is you
+[69:27] centralize power, you make the you make
+[69:30] the government as big as possible, the
+[69:32] government has to have a a a part in
+[69:34] everything that happens in the economy.
+[69:36] And when the culture is rotten from
+[69:39] within, that centralized power means,
+[69:42] hey, if you want to do something, you
+[69:43] got to pay me. If you want to open up a
+[69:46] business, you have to pay me. If you
+[69:48] want to have your business kept open,
+[69:51] you got to pay me every month, every
+[69:53] year, every whatever. It's it's a
+[69:55] racket. It's exactly like the mafia.
+[69:57] It's like alapone just in
+[70:01] systemized in a government uh package.
+[70:05] And that culture has led Argentina down
+[70:09] uh to this path. So, uh, uh, you know,
+[70:12] hopefully, uh, uh, MLE again, uh, can
+[70:16] can can fix this, but it's it's just so
+[70:19] much easier to destroy something than to
+[70:21] build it. So, uh, we looking at decades
+[70:25] of
+[70:27] destruction. And, uh, it's going to take
+[70:29] double, triple the time to build it
+[70:31] back. Uh, but you got to start
+[70:33] somewhere. And hopefully, Melee is the
+[70:34] is the start of that. I hope so, too.
+[70:38] Um, and it it's the time flew completely
+[70:41] by. We're already at uh 1 hour and 10
+[70:43] minutes. That's fascinating. Um, I have
+[70:46] a bunch of more topics, but I think with
+[70:49] with the first round, we'll leave it at
+[70:50] that. We have one question that I asked
+[70:53] each and every one of my guests. And the
+[70:54] question is, what can we learn from you
+[70:57] besides Bitcoin? Oh man. Uh, nothing.
+[71:00] Don't don't listen to me. Don't don't
+[71:01] believe anything I say. Make up your own
+[71:03] mind uh about about everything. But no
+[71:06] um I think
+[71:08] um somebody like me uh my experience in
+[71:12] life is um again I've been working with
+[71:16] disruptive technology. I've seen how
+[71:19] technology can shape
+[71:22] uh uh a whole society uh through
+[71:26] cultural moments through uh ease of use
+[71:29] of things that just make your life
+[71:32] easier. And if I say that the the the
+[71:36] the landscape
+[71:38] today mirrors the music industry that I
+[71:40] was part of when torrenting and
+[71:43] streaming kind of upended legacy power
+[71:45] structures. Believe me when I say that
+[71:48] everything else is changing. It's not
+[71:50] only about Bitcoin or anything like
+[71:52] that. uh you will see so many
+[71:54] institutions nowadays that are going to
+[71:56] struggle to survive and they are going
+[71:59] to attempt to buy up the smaller more
+[72:04] agile players and this is like from
+[72:07] businesses to influencers to small
+[72:09] outlets to everything. um they're going
+[72:12] to try to do that but because they
+[72:14] understand that they can't reverse the
+[72:16] shift uh right now. Uh media outlets,
+[72:20] financial uh companies, uh governments,
+[72:24] politicians, they're all facing the same
+[72:26] crisis now. They're losing control of
+[72:28] narratives as independent creators and
+[72:32] decentralized platforms and niche
+[72:34] communities are like gaining uh power.
+[72:37] The difference this time is that
+[72:39] creators can now monetize directly using
+[72:43] Bitcoin. Uh, but it's also so easy to do
+[72:47] everything yourself with AI, with tools
+[72:50] that really can do a lot of stuff for
+[72:52] you as one person. And I think that the
+[72:55] difference now is that those people who
+[72:57] want to be bought up are not going to
+[72:59] want to sell because you can perfectly
+[73:01] make $10,000 a month as a solo creator
+[73:04] if you just figure out uh the variables
+[73:08] where you have the combination of
+[73:10] audience distribution and a very clear
+[73:13] narrative that is a differentiator. and
+[73:16] you solve a very important problem and
+[73:19] that is extremely exciting for the
+[73:21] future even though it can feel a little
+[73:22] bit scary but I think one thing to learn
+[73:26] from me is be grateful that you're
+[73:28] living in 2025 and are able to sit at
+[73:30] the front row uh seat for everything
+[73:32] that is going to change drastically in
+[73:34] the next few years. So yeah, that would
+[73:36] be it. That that's that's a great one
+[73:39] and uh I always say what a time to be
+[73:41] alive in in 95 and what a time to be
+[73:44] alive in the forefront of the Bitcoin
+[73:46] revolution. It's it's crazy that we have
+[73:48] the privilege to do that. Um we have an
+[73:50] end routine in the podcast where the
+[73:52] previous guest is asking a question for
+[73:54] the next guest without knowing who the
+[73:55] next guest actually is. And the previous
+[73:57] guest asked you the question, what's the
+[74:00] biggest Bitcoin related mistake you have
+[74:02] ever made? believing in uh spending
+[74:04] Bitcoin instead of saving it. Yeah, I I
+[74:07] I guess I I make that mistake
+[74:09] unfortunately a lot because I'm 100% in
+[74:11] Bitcoin.
+[74:14] Yeah. No, for sure. That is true. But as
+[74:16] uh somebody from Argentina can tell you
+[74:18] that everybody knows if you live in a
+[74:20] hyperinflationary environment, the money
+[74:23] that you spend is the weakest. You spend
+[74:25] that first. You don't spend the
+[74:26] strongest. The strongest you save. And
+[74:29] that's that is how the mind shift
+[74:32] happens. you know, the the the the the
+[74:34] weakest money is the one that gets
+[74:35] distributed first. That's just how it
+[74:37] is. And I think a lot of people if they
+[74:40] me myself included, I I was paid in
+[74:43] Bitcoin back in 2017 and I paid my rent
+[74:45] for it and stuff like that. Uh if I did
+[74:48] not do that, I would be, you know, in in
+[74:51] a in a better position today. So, it's
+[74:53] just uh save for the future, spend the
+[74:56] weak money for now. That's it. I love
+[75:00] that. Really cool. Thank you so much,
+[75:01] Fernando. Before we um uh before I let
+[75:05] you go, where can people find you, ask
+[75:06] you questions, and reach out to you?
+[75:08] Just Google Fernando Nicolich. You'll
+[75:10] you'll find my my my Twitter, my ex uh
+[75:14] all my stuff, my personal web page. Uh
+[75:16] and check out bitcoinperception.com if
+[75:19] you uh want to get uh you know weekly
+[75:22] monthly reports on how the media how
+[75:25] communities like Reddit and X and
+[75:27] influencers are covering Bitcoin and
+[75:28] whether those trend that you discover
+[75:30] are positive or negative and follow that
+[75:32] through. So bitcoinerception.com.
+[75:34] Thank you so much for taking the time
+[75:36] and also thank you so much for everyone
+[75:37] that is watching and listening for
+[75:39] joining us today. As always I'll be back
+[75:41] tomorrow with another episode. Bye-bye.
+[75:45] [Music]
+[75:55] [Music]

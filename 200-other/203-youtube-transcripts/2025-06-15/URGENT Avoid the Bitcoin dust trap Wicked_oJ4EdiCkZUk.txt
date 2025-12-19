@@ -1,0 +1,1568 @@
+Title: URGENT: Avoid the Bitcoin dust trap | Wicked
+Video ID: oJ4EdiCkZUk
+URL: https://www.youtube.com/watch?v=oJ4EdiCkZUk
+Date Saved: 2025-06-15 11:57:51
+--------------------------------------------------
+
+[00:00] avoiding Bitcoin to be unsp any utxo
+[00:02] that's smaller than you know a couple
+[00:04] hundred, sets will just become unsp the
+[00:06] more valuable Bitcoin gets the more
+[00:08] users it attracts the higher net worth
+[00:10] users it attracts the higher fees
+[00:12] they're willing to pay the more hash
+[00:14] rate comes online to secure the network
+[00:16] the more valuable Bitcoin becomes and it
+[00:18] just goes over and over and over like
+[00:20] these Cycles until it literally sucks in
+[00:22] everybody at a certain point you reach a
+[00:24] full saturation and that might be around
+[00:26] like 10 million users and that current
+[00:28] user who's like at the kind of the lower
+[00:30] end of the wealth spectrum they get
+[00:31] pressed up and they no longer can use
+[00:33] the base
+[00:34] layer not enough bitcoiners know what
+[00:37] Utes o are actually uh and how to
+[00:40] properly manage them what are the risks
+[00:43] involved with that and why should we
+[00:45] care about you Tak s so um let's start
+[00:49] with like a combination of question um
+[00:53] like what are those and why should we
+[00:55] care about them sure yeah so utxos they
+[01:00] stand for
+[01:01] unspent transaction
+[01:04] outputs okay and the way that Bitcoin
+[01:07] works is it it it's it's an accounting
+[01:11] system that basically
+[01:13] uses these uh utxl and gxls are like
+[01:18] chunks of C coin that's kind of how I
+[01:20] always explain them I think it's easiest
+[01:22] to think of them just as you know as as
+[01:25] they're on chunks um so similar to how
+[01:29] gold comes in chunks chunks right it
+[01:31] might come in a big bar or a small chunk
+[01:34] or a little tiny flake um and those you
+[01:38] know those chunks are measured in terms
+[01:40] of you know grams of gold or atoms of
+[01:43] gold you can think of well Bitcoin comes
+[01:46] in these utxos which are just junks of
+[01:49] Satoshi right and so every utxo has a
+[01:52] value that has that has a Satoshi amount
+[01:56] and whenever you're spending Bitcoin
+[01:58] whether you know it or not
+[02:00] you're really spending these
+[02:03] utxos okay
+[02:05] um when you're when you're transacting
+[02:08] with Bitcoin you have to spend the utxo
+[02:11] entirely so um you know even if you're
+[02:15] you know let's say you're you're sending
+[02:19] uh a million sets to somebody else right
+[02:23] and the only sized utxos you have are um
+[02:27] a bunch of 100,000 Satoshi utx O then
+[02:31] you'll have to spend you know 10 of them
+[02:34] together in order to get that million
+[02:36] amount right likewise if all you have is
+[02:40] 10 million satin
+[02:42] utxos then You' have to spend a 10
+[02:45] million set utxo in its entirety to you
+[02:49] know basically split it into like a
+[02:51] little million slat one which you'd send
+[02:52] to the person and then you would get a 9
+[02:55] million set utxo back to
+[02:57] yourself so the system works in a way
+[03:00] where you're always you know you're
+[03:01] spending these these utxl in their
+[03:04] entirety whenever you transact and then
+[03:06] you're always creating brand new ones on
+[03:09] on the out on on the output side of
+[03:11] things
+[03:12] right that's kind of the overview of
+[03:14] what utxos are how Bitcoin as a system
+[03:17] works in terms of
+[03:19] utxos um and you know I guess you know
+[03:22] we can kind of dig into why it's
+[03:24] important to manage them now if you want
+[03:27] yeah definitely I think there are two
+[03:29] main aspects to it like why we should uh
+[03:32] um manage them like there's one avoiding
+[03:35] to be avoiding Bitcoin to be unpend and
+[03:38] the second is like privacy let start
+[03:40] with the Bitcoin unsp part of it because
+[03:44] I think this is the the part that scares
+[03:46] Bitcoin at the
+[03:47] more yeah
+[03:49] definitely okay so yeah um so in Bitcoin
+[03:54] there's this term called dust right
+[03:57] sometimes we we we call thing we call
+[03:59] like these really small utxos dust we
+[04:03] call them that
+[04:04] because um they that they're so small
+[04:09] that they can't even be spent
+[04:12] without spending a fee that's worth more
+[04:14] than the utxo itself okay so let me give
+[04:18] you some context here in terms of how
+[04:20] this actually
+[04:22] works another thing that you have to
+[04:24] understand when you're spending
+[04:26] Bitcoin is um what you're paying for for
+[04:30] in terms of your transaction fees is
+[04:32] you're paying for the amount of data
+[04:35] that you need to um put into a Bitcoin
+[04:38] block right and so the more data you
+[04:42] need the higher the transaction fee is
+[04:44] going to be now luckily for Bitcoin the
+[04:49] amount of data that's required for
+[04:51] spending a
+[04:53] utxo is for all intents and purposes you
+[04:56] know the same um
+[05:00] across all values of utxos so for me to
+[05:04] spend a 1 million set utxo costs the
+[05:08] same amount as for you know some whale
+[05:11] to spend a th000 Bitcoin utxo right so
+[05:17] this is where the analogy with gold kind
+[05:19] of breaks down right with gold a larger
+[05:22] amount of gold costs way more to spend
+[05:24] right way more to to ship uh overseas or
+[05:28] to guard or you know that type of thing
+[05:30] right with
+[05:31] Bitcoin um it costs the same amount for
+[05:34] a large amount and for a small amount
+[05:36] right as long as you're kind of dealing
+[05:37] with the same amount of
+[05:39] utxos so that's kind of the context here
+[05:42] is that like you're when you're
+[05:43] transacting with Bitcoin you're paying
+[05:45] for the data and the amount of data
+[05:47] that's required to spend a utxo is is
+[05:50] consistent across all sizes of utxos
+[05:54] okay so currently um here let's take a
+[05:58] look at the M Pool I'm going go ahead
+[06:00] and share my screen all right can you
+[06:02] see I see it perfectly thank you all
+[06:05] right so this is a great website um I
+[06:08] think most bitcoiners are familiar with
+[06:11] it but if you're not um you know I would
+[06:14] definitely consider going to this
+[06:16] website and and kind of clicking through
+[06:18] it and seeing um what the different
+[06:20] things are in here there's a lot of
+[06:23] information but what this website is
+[06:25] mempo dospace and its primary function
+[06:28] is to show you the Bitcoin blockchain
+[06:32] okay so over here you have all the
+[06:34] blocks that have already been confirmed
+[06:37] and if you click on any of these blocks
+[06:39] you can see you know some of the
+[06:41] information of the block um the
+[06:43] transactions that got included inside of
+[06:45] it and whatnot right what I like using
+[06:48] this website for
+[06:49] primarily is to see the fee rates that
+[06:53] people are paying right to to get into
+[06:56] the next block so you can see here the
+[06:58] range and
+[07:00] right um between 16 Satoshi per VTE and
+[07:05] 355 Satoshi per VTE that's the range of
+[07:08] fees that people are paying to get into
+[07:10] the next block um and then you know the
+[07:13] ones after that are are all in kind of
+[07:15] that 15 Satoshi per V band so this is a
+[07:19] um this is basically the fee rate that
+[07:22] you multiply by the amount of data that
+[07:24] your transaction requires okay so um um
+[07:30] right now uh I believe
+[07:34] a a typical transaction um takes up
+[07:38] about
+[07:39] 150 virtual
+[07:41] bytes okay so if you were to multiply
+[07:46] this lower this lower bound the 16 right
+[07:49] times
+[07:51] 150 uh what would that give you 800 is
+[07:56] that what it is no probably more than
+[07:57] that I'm getting the softare one sec let
+[07:59] me just do this before I make fool of
+[08:01] myself
+[08:02] 2,400 so 2,400 Satoshi is how much it
+[08:06] would cost in fees to just make a single
+[08:09] transaction okay so that that's kind of
+[08:12] like the the minimum amount of Satoshi
+[08:14] you would need in a utl currently in
+[08:17] order to just spend it right if you had
+[08:19] anything less than that then that would
+[08:20] be dust um so it doesn't sound like
+[08:23] that's you know too bad of an issue
+[08:26] right it's like oh that's not bad 2,400
+[08:28] SATs you know
+[08:30] most of your utxos are are far larger
+[08:32] than that most likely hopefully but what
+[08:35] what happens in the future when this
+[08:38] becomes a problem is when the fee rates
+[08:41] get higher and they stay higher right
+[08:44] and the reason why this would happen is
+[08:46] you could have you know another wave of
+[08:49] adoption maybe you have more
+[08:51] institutions more High n orth
+[08:53] individuals more
+[08:55] um aggregate uh uh use on second layers
+[09:00] which are settling in these larger pches
+[09:02] I mean there's all sorts of things that
+[09:04] could kind of Drive the fees up and I'm
+[09:08] imagining that in the future there's
+[09:09] going to be lots of these kind of
+[09:13] aggregate sources of demand which are
+[09:16] happening offchain and and in aggregate
+[09:19] onchain they're going to be paying
+[09:20] exorbitant fees right really really high
+[09:22] fees you'll be competing with you know
+[09:25] those second layers you'll be competing
+[09:26] with these like Ultra hyr net worth uals
+[09:29] you'll be keep competing with you know
+[09:31] these large institutions with nation
+[09:34] states and so if Bitcoin succeeds and in
+[09:37] in the ways that we believe it will
+[09:39] right if it becomes the base layer
+[09:42] monetary
+[09:43] protocol for the whole world
+[09:47] um it's going to have really high fees
+[09:50] and so you know these fees we see now 16
+[09:52] SATs per V for example like these are
+[09:55] these are fees which are happening
+[09:57] because we're just really early
+[09:59] and you know relatively there's there's
+[10:03] very few people using Bitcoin right now
+[10:05] right it's probably like 0.1% of the
+[10:09] population is actually using Bitcoin
+[10:13] like on chain right a decent amount of
+[10:15] people might have exposure to bitcoin
+[10:17] but they aren't actually using Bitcoin
+[10:19] they're not submitting transactions on
+[10:21] chain taking taking it into self-
+[10:23] custody you know using it to as as their
+[10:27] money right they're they just have
+[10:28] indirect disposure
+[10:30] um so that's kind of I mean like that's
+[10:33] that's the fear is that these fees are
+[10:34] going to get really really high
+[10:37] and I think what what we've seen happen
+[10:41] um in these in these past fee spikes so
+[10:43] if you actually if you go to this tab
+[10:45] here um this shows you the the fees and
+[10:49] this is just over the last two hours so
+[10:51] if we expand this out to say a year so
+[10:53] here you can see kind of like how how
+[10:55] high the fees have spiked over the past
+[10:57] year right and actually I think
+[11:00] this one showing oh this isn't showing a
+[11:02] whole year for some reason let's just do
+[11:04] six months
+[11:05] for yeah so so this this Spike right
+[11:08] here was like the having Spike right
+[11:10] when she's got really really ridiculous
+[11:12] and they got up into like the hundreds
+[11:14] if not thousands of sasper Vite just
+[11:17] momentarily we've seen that happen a
+[11:19] couple of times though right like these
+[11:21] these spikes where we get up into the
+[11:22] hundreds or thousands and those tend to
+[11:25] happen during kind of these degenerate
+[11:28] like you know shitcoin minting things
+[11:31] that are
+[11:31] happening right now um but the point is
+[11:35] like it doesn't take much to push
+[11:37] Bitcoin over the edge in terms of the
+[11:39] fee rates all it takes is you know a
+[11:41] handful of degenerates and if that's all
+[11:44] it takes then imagine what it will take
+[11:46] to push Bitcoin permanently into these
+[11:49] ranges when you've got you know again
+[11:53] like thousands of high netw worth
+[11:55] individuals thousands of Institutions
+[11:57] hundreds of nation states and
+[12:00] potentially like dozens if not hundreds
+[12:02] of second layers that are trying to
+[12:04] compete for you know payments layers or
+[12:08] you know different you uh privacy layers
+[12:11] or like different things right there's
+[12:13] going to be a lot of things built on top
+[12:14] of Bitcoin and they're all going to be
+[12:16] competing for the for the Bas layer
+[12:18] block space okay
+[12:21] um so going back to this you know we
+[12:25] said 16 sa per V it makes a 2,400 at
+[12:29] utxo dust thereabouts right if we were
+[12:33] to 100x this um you know if the fee
+[12:38] rates were stay 1,600 sets per V which I
+[12:42] don't think is
+[12:43] unreasonable that would make a 240,000
+[12:46] set utxo dust did I get that math right
+[12:50] yeah I think I
+[12:52] did so so I mean so that's the concern
+[12:55] right is like in in the very very high
+[12:59] um fee rate
+[13:01] environments you're going to have you
+[13:03] know really really large amounts of of
+[13:07] Bitcoin uh become dust
+[13:10] because any any utxo that's smaller than
+[13:13] you know like a couple hundred, stats
+[13:16] will just become unpend otherwise you'll
+[13:17] have to you spend more in fees to
+[13:19] actually move it which doesn't make any
+[13:21] sense so you would rather just not move
+[13:23] it at all right if it's going to cost
+[13:25] you more to move it than it's worth then
+[13:27] it it's becomes worthless you know for
+[13:29] all intensive
+[13:31] purposes um and this kind of also
+[13:34] Segways into like the the whole idea of
+[13:36] like okay so what is the minimum utxo
+[13:38] size that we might need right um it's
+[13:43] highly dependent on what you think the
+[13:47] Fe raise could get up to in the future
+[13:49] and nobody knows the answer to that like
+[13:51] nobody knows exactly how much people are
+[13:54] going to be willing to pay in terms of
+[13:56] Bitcoin um by the way a block just uh
+[13:59] got confirmed there which is kind of fun
+[14:01] to watch but anyways nobody knows how
+[14:03] high the fees are going to get in the
+[14:04] future so nobody really knows what the
+[14:07] best utxo size
+[14:09] is but in that example that I just
+[14:11] walked through where these get a 100
+[14:14] times more expensive right which I think
+[14:17] again is like it's not unreasonable but
+[14:20] it would be very expensive like I think
+[14:23] people would think like oh wow bitcoin's
+[14:25] super expensive to use if the fee rates
+[14:28] were in the thousands of SATs per Vite
+[14:30] right that'd be kind of crazy um and
+[14:33] even in that case you're talking about
+[14:36] utxo is worth a couple hundred thousand
+[14:38] STS becoming
+[14:39] dust um if you have a utxo that's worth
+[14:43] a million stats you'll be able to move
+[14:45] it but you'll pay like a a 10 to 20% fee
+[14:48] to move it so it's not optimal but at
+[14:51] least you're not getting completely
+[14:53] wiped out from the
+[14:55] fees that's why I always kind of say
+[14:57] like the starting level um kind of the
+[14:59] minimum threshold that you want to
+[15:01] probably make most of your most of your
+[15:03] utxo is about a million sets that's like
+[15:06] the minimum I would have um and then I
+[15:10] think you know you also want to kind of
+[15:13] have larger ones as well right you might
+[15:15] start by having a million set threshold
+[15:18] and then after you stack a few million
+[15:21] set utxos and if the fees are like low
+[15:24] like they are now you might want to
+[15:26] consider like okay and maybe I'll
+[15:27] consolidate a few of these smaller 1
+[15:30] million set utxo until like a larger 5
+[15:32] million or 10 million set utxo just to
+[15:35] give you a little bit more protection in
+[15:37] the future if fees you be really high
+[15:40] you know and consolidation just means
+[15:43] that you take uh different OS in one uh
+[15:48] transaction and therefore have a high
+[15:52] uo yes yep so um going back to kind of
+[15:56] how it works like you know when you're
+[15:59] when you're when you're paying somebody
+[16:01] if you need to pay them um a higher
+[16:04] amount than your smallest utxl are worth
+[16:09] then you have to use multiple utxl to
+[16:12] pay them right you're you're literally
+[16:14] like it's kind of like melting down all
+[16:16] your pieces of gold into one piece to
+[16:19] pay somebody with right um similarly you
+[16:22] know same thing happens with etx well
+[16:24] you you use a bunch of them to pay a
+[16:26] larger amount um but you can also do
+[16:28] that to yourself so like you can pay
+[16:30] yourself um you
+[16:33] know by combining all of your smaller
+[16:36] utxl to make a bigger one and that's
+[16:38] what we call utxo
+[16:40] consolidation um it's also similar to
+[16:43] like you know it's like it's like being
+[16:45] your own bank right it's like being your
+[16:46] own bank teller where you can give
+[16:48] yourself a bunch of $1 bills and then
+[16:50] get yourself back out like a $100 bill
+[16:53] right um so you know Bitcoin allows you
+[16:56] to do those things
+[16:59] and is there any change when someone has
+[17:01] a multi or something like that is is
+[17:04] there a change to that you take so fresh
+[17:07] is there like do you need
+[17:09] more yes glad you asked so this is the
+[17:14] second second uh slide I was going to
+[17:17] share so
+[17:19] um I have this uh reference table it's a
+[17:23] it's a consolidation transaction utxo
+[17:27] consolidation transaction fee reference
+[17:29] table um I put this out on Twitter uh
+[17:32] and you know I'll send you the link to
+[17:34] this if you want to include it um but
+[17:36] basically we look through this
+[17:39] table I have um this is the amount of
+[17:43] data that's required for typical single
+[17:47] Sig transactions and so we have like a
+[17:49] legacy transaction which is the you know
+[17:52] typically if you if you see an address
+[17:53] that starts with a one it's it's
+[17:55] typically a legacy uh address right um
+[17:59] Native segwit is the one that pretty
+[18:01] much everyone uses nowadays like most
+[18:03] people use native sigt so that's kind of
+[18:04] the standard type of transaction and
+[18:07] then the more the the more recent type
+[18:09] the tap transaction um is is what the
+[18:13] most recent softwork um
+[18:15] enabled but these are all the different
+[18:18] amounts of data that's required for each
+[18:21] of these transactions so there's a
+[18:22] little bit of overhead in each of them
+[18:24] meaning just like some you know uh um
+[18:29] standard data that's required for the
+[18:31] transaction and then here is the amount
+[18:34] of data required for every input that
+[18:36] you add to the transaction and the
+[18:38] amount of data required for every output
+[18:40] that you add to each transaction okay so
+[18:45] um when we were just talking about like
+[18:48] spending Bitcoin right if you're
+[18:49] spending Bitcoin and you have to spend
+[18:51] with a lot of utxos for every single
+[18:54] utxo that you add you have to add this
+[18:57] much data right because this is the
+[18:59] amount of data that's required for
+[19:01] adding um the utxo and the signature to
+[19:05] spend it right um and then likewise for
+[19:09] every output that you're creating you
+[19:11] know this the amount of data that's
+[19:12] required so when cash app processes a
+[19:17] batched transaction where they're paying
+[19:20] out you know hundreds of plebs with
+[19:23] their withdrawals for every single uh
+[19:26] output that they're creating for every
+[19:28] with drawal that that they're creating
+[19:30] in that batch transaction they have to
+[19:31] include this much data to pay that
+[19:33] person out right to process that
+[19:36] withdrawal this you know this this is
+[19:38] basically just a table for like how much
+[19:40] data is required and then here are some
+[19:42] just quick examples of like the the
+[19:45] overall data that would be required for
+[19:47] a two input one output transaction five
+[19:50] input one output 10 input one output 20
+[19:53] input one output and these would be like
+[19:55] you know kind of the typical amounts of
+[19:57] data that would be required for a
+[20:00] consolidation right typically when
+[20:02] you're consolidating your utxos you're
+[20:04] you know you're
+[20:06] you're putting uh I don't know like a
+[20:09] handful of inputs right a handful of
+[20:11] your smaller utxl as inputs and then
+[20:14] you're creating one larger ET XL as an
+[20:17] output so anyways this is for single Sig
+[20:19] right and then down here this is for a
+[20:23] multisig um so same type of table right
+[20:27] we have our overhead data
+[20:29] and then the amount of data required per
+[20:31] input and per output okay so you'll
+[20:37] notice that the inputs are a lot more
+[20:38] expensive right so again kind of as a
+[20:41] reference it was 68 virtual bytes per
+[20:45] input for a single Sig right for a
+[20:49] multi- if you have a two of three it's
+[20:52] 104 so it's uh maybe about 50% more data
+[20:56] that's required per input if you have
+[20:58] have a three of five then it's you know
+[21:00] it's closer to double the amount of data
+[21:02] required um and then a four of seven
+[21:04] which it's not the four of seven is not
+[21:06] very common um but you can just see
+[21:08] right it gets it gets it requires more
+[21:11] and more data the larger and larger the
+[21:14] the utxo or sorry the the larger and
+[21:17] larger the multisig gets right the
+[21:18] Quorum of keys in the multisig so I
+[21:22] think you know just to kind of focus
+[21:24] ourselves here we probably want to
+[21:26] compare like a single Sig with a two of
+[21:30] three multisig because that's what most
+[21:32] people are dealing
+[21:34] with when we are
+[21:37] considering
+[21:39] a 10 in and one put uh
+[21:46] consolidation um it's going to require
+[21:49] about a, about 1100 virtual bytes of
+[21:52] data for a two of3 multisig for a um
+[21:59] for a single Sig yeah for a single Sig
+[22:02] right this uh Native segwit one it's
+[22:06] 720 virtual btes um so again it's about
+[22:10] 50% more right that's kind of that's
+[22:13] what I was saying and like that's you
+[22:14] can kind of just give it a ballpark 50%
+[22:17] more so multisig is going to cost about
+[22:19] 50% more to transact with on average um
+[22:23] when compared to a single Sig so when
+[22:26] you're dealing with a multi- you
+[22:28] probably want to shoot for a minimum
+[22:31] utfl size of like 1.5 million sets maybe
+[22:36] even 2 million sets just to give you a
+[22:38] little extra
+[22:39] buffer um but yeah you you want to have
+[22:41] larger utxo with multisig in general um
+[22:45] long story short I know that was we went
+[22:48] through a lot of stuff right there but I
+[22:50] don't know any questions with this table
+[22:52] Yeah I think this is uh extremely
+[22:54] helpful with with uh people uh I never
+[22:57] saw this t was really really cool see
+[23:00] the table from you usually follow your
+[23:02] stuff but this is a really cool table I
+[23:05] love it the overviews with the multi how
+[23:07] much is it actually and like two out of
+[23:10] three and three out of five or like the
+[23:12] more common ones never so I think four
+[23:14] of seven uh and the question for me is
+[23:17] not and when we have uh uh those those
+[23:21] High you Tak o uh depending on like the
+[23:24] system is what it is but uh for people
+[23:27] that are now not capable of the the main
+[23:30] layer it's a little bit off topic now
+[23:32] but um what what Solutions uh do you see
+[23:36] as uh for transacting on the base layer
+[23:39] is is the solution just Layer Two or
+[23:41] just being on some second layer third
+[23:43] layer uh or are there any developments
+[23:46] for like that getting better probably
+[23:49] not because like you you need the higher
+[23:51] fees to pay the miners right right yeah
+[23:54] so for for Bitcoin to succeed it needs
+[23:57] to have um High fees that's just kind of
+[24:00] you know I mean and you you hear about
+[24:02] like you know you get this fud of um
+[24:06] like security budget fud right that's
+[24:08] basically people who believe
+[24:11] that the users of Bitcoin won't be
+[24:14] willing to pay high fees to use it um
+[24:17] they believe that
+[24:18] eventually um fees won't pay miners once
+[24:23] the subsidies go to zero right because
+[24:26] we all know the subsidy keeps getting
+[24:27] cut in half every four years having
+[24:30] is and eventually you would expect the
+[24:33] fees to kind of take over right I mean
+[24:37] there's a reason why it's called a block
+[24:38] reward subsidy right it's subsidizing
+[24:40] the network while it gets bootstrapped
+[24:43] and then by the time it gets you know to
+[24:45] to full adoption um to full saturation
+[24:48] Bas layer users then you would expect
+[24:51] the fee Market to have matured and to
+[24:54] effectively take
+[24:56] over in paying the minor in in their
+[24:59] entirety right so in my opinion I mean
+[25:03] if if if fees don't if if if fees don't
+[25:07] mature and actually start paying the
+[25:09] miners as the subsidy keeps getting cut
+[25:11] in half over and over then Bitcoin fails
+[25:14] I that's just the truth right you need
+[25:16] you need the fees in order to um you
+[25:20] know in order to pay the miners in order
+[25:21] to secure the network and so I just work
+[25:24] off the base assumption that that will
+[25:26] happen I mean I think that there's no
+[25:28] reason to believe it won't um people are
+[25:31] going to want to use Bitcoin to secure
+[25:32] their value because it's it's the best
+[25:36] store value we've ever seen right it's
+[25:38] it's it's leak proof and it's kind of
+[25:40] like a self-fulfilling prophecy it's
+[25:42] like you know the more valuable Bitcoin
+[25:45] gets the more users it attracts the
+[25:48] higher net worth users it attracts um
+[25:51] the higher fees they're willing to pay
+[25:54] the more hash rate comes online to
+[25:56] secure the network the more valuable
+[25:58] coin becomes the higher you know net
+[26:01] worth individuals it attracts to use it
+[26:04] to store their value right and it just
+[26:05] goes over and over and over like these
+[26:06] Cycles until it literally sucks in
+[26:09] everybody right at least everyone who
+[26:11] can afford to use it and with each cycle
+[26:14] you kind of you know like you're sucking
+[26:16] in
+[26:18] um uh wealthier users and in doing so
+[26:23] you're also kind of pricing out poorer
+[26:26] ones right because Bitcoin as a network
+[26:29] is limited
+[26:31] in how many um transactions it can
+[26:35] actually settle so you know for every
+[26:40] for every user that starts using Bitcoin
+[26:42] I mean at a certain point right we
+[26:44] haven't reached that full kind of
+[26:45] saturation yet and so we can still have
+[26:48] users come in and they're not
+[26:49] necessarily like crowding out current
+[26:51] users but at a certain point you reach a
+[26:54] full
+[26:55] saturation um and that might be around
+[26:57] like five to 10 million users something
+[27:00] like that right and then at that point
+[27:03] for every new user that wants to come in
+[27:05] and use Bitcoin they have to outbid one
+[27:07] of the current users and that current
+[27:09] user who's like at the the kind of the
+[27:12] lower end of of the wealth spectrum they
+[27:14] get they get pressed out and they no
+[27:16] longer can use the base
+[27:18] layer so I don't know when we're going
+[27:20] to reach that full saturation probably
+[27:23] won't be this cycle hopefully not I hope
+[27:26] we have more time than just one more
+[27:27] cycle
+[27:28] but you know maybe in two or three or
+[27:30] four Cycles we'll kind of reach this
+[27:34] this point where um we've got you know
+[27:37] like we consistently have maybe like 10
+[27:40] million Bas layer users who are settling
+[27:42] every month on chain right they maybe
+[27:45] they like they you know they're saving
+[27:48] in Bitcoin on exchanges or on other
+[27:50] second layers for a month or two and
+[27:53] then they settle that on chain to like
+[27:55] you know get into self- custody and
+[27:57] secure it
+[27:58] and if you have 10 million users doing
+[28:00] that on a monthly basis um that uses up
+[28:04] all the block SP and there's none left
+[28:06] for anyone else so you
+[28:10] know eventually Bitcoin becomes a system
+[28:13] for the 10 million top um entities who
+[28:18] want to settle on chain and those
+[28:20] entities don't necessarily have to be
+[28:21] individuals they could be institutions
+[28:23] they could be second layers themselves
+[28:25] who are settling on chain um and you
+[28:28] know again they could be like nation
+[28:29] states
+[28:30] even yeah and I think uh the the
+[28:34] important part to take away from from
+[28:36] the first section here with the UNS
+[28:38] spendable UT Tak or um if you have the
+[28:42] chance to consolidate Bitcoin uh at a
+[28:45] low fee rate c as as we have it
+[28:47] currently as we will see it throughout
+[28:50] the next periods um you should
+[28:52] definitely do it and I think uh also
+[28:54] with this threshold with 1 million as we
+[28:57] made examples I hope I get the numbers
+[28:59] now right but if the as we said before
+[29:02] the the fees let's say uh 100x which is
+[29:05] not unreasonable uh then you still have
+[29:08] to pay for 1 million SS at 25 uh% fee
+[29:13] which me if you have the chance to
+[29:15] consolidate a 10 million for toi or
+[29:18] maybe like 20 million toi this will drop
+[29:21] like your percentage of of the fee in in
+[29:24] the future uh when you have a lot of UT
+[29:27] hold you want to to spend did I get this
+[29:30] right yeah that's correct yeah and the
+[29:33] idea is
+[29:35] like
+[29:36] um when you're
+[29:38] considering trying to optimize for
+[29:42] future High fee environments it's like
+[29:45] you're going to have to pay the fee
+[29:46] eventually to move your utxos right
+[29:49] that's I mean you can't move your
+[29:51] Bitcoin without paying the fee yeah
+[29:54] right so you might as well kind of
+[29:57] preemptively do the do the
+[29:59] consolidations of your smaller utxos
+[30:02] while fees are low so that you don't
+[30:04] have to consolidate them in the future
+[30:06] while fees are High
+[30:09] um and you know what you what you
+[30:11] definitely don't want to do I I think
+[30:13] again like I just want to I I want to
+[30:15] emphasize this because you know some
+[30:18] people I think might be a little too
+[30:20] scared of of kind of how quickly fees
+[30:22] might ramp up and I don't want to like I
+[30:25] don't want to suggest that it's going to
+[30:26] happen you know
+[30:28] anytime soon and then stay that way I
+[30:30] think we still have a little bit of time
+[30:32] left to kind of figure everything
+[30:34] out um but when fees are low right when
+[30:38] they come back down when they when they
+[30:39] settle down when you
+[30:42] know um these different shitcoin
+[30:45] protocols that are using a lot of block
+[30:47] space when they kind of Peter out and um
+[30:51] B Slayer usage dies down a bit that's
+[30:53] the time to strike right like as just as
+[30:55] a Bitcoin user if you've got any utxos
+[30:58] that are kind of small or you want to
+[31:00] you know kind of clean up your your utxo
+[31:03] set that's the time that You' want to do
+[31:05] it right you consolidate at those points
+[31:07] maybe even if you've got some um some
+[31:10] Bitcoin that's still sitting on
+[31:11] exchanges and even if it's a smaller
+[31:13] utxo you know withdraw it and then
+[31:15] consolidate it right like you can do
+[31:17] that in a one two step and you can do it
+[31:19] like you know fairly cheaply if the fees
+[31:22] are low once the fees get high though
+[31:26] that's when you kind of want to hunker
+[31:28] down and just be like okay well you know
+[31:30] like I've got i' I've got my my self-
+[31:33] custody on chain Bitcoin and coal
+[31:35] storage and that's like my you know
+[31:37] long-term hle
+[31:39] position and then I've got um you know
+[31:42] my more recent savings which maybe
+[31:46] you're stacking on an exchange maybe
+[31:49] you're stacking and you're withdrawing
+[31:51] it to like a second layer like liquid or
+[31:55] maybe you're withdrawing it to I mean
+[31:57] maybe you even have like a lightning
+[31:59] Channel set up and you're withdrawing it
+[32:00] to
+[32:01] lightning and um you know like you're
+[32:05] all set to you have a non-custodial
+[32:06] lightning Channel I mean that'd be
+[32:09] awesome but not everyone's going to have
+[32:11] that um but the point is like when the
+[32:14] fees are high you kind of like you have
+[32:17] to adapt and you have to figure out ways
+[32:20] to continue stacking Bitcoin even though
+[32:23] you're not necessarily going to be able
+[32:25] to always withdraw it on chain right
+[32:27] away right you might have to like take
+[32:29] longer to stack a larger amount before
+[32:31] you could take it on
+[32:33] chain what's going to be interesting
+[32:36] though is when um Bitcoin gets extremely
+[32:42] valuable and getting up to a million sat
+[32:45] utxl becomes like fairly unreachable to
+[32:49] the average person at least you know in
+[32:53] any reasonable amount of time right like
+[32:55] imagine I mean right now right a million
+[32:56] set utxo is is close to 600 bucks right
+[33:01] um that's how much it costs now and I
+[33:04] mean that's already like you know for a
+[33:06] lot of people that's already a decent
+[33:07] amount of money to save up um and we're
+[33:12] saying like don't take that into self-
+[33:15] custody until you have that amount saved
+[33:17] up minimum right like maybe even more
+[33:20] but like that's the minimum now imagine
+[33:24] if Bitcoin were to go to a million
+[33:25] dollars of Bitcoin
+[33:27] now we're saying don't take any don't
+[33:30] take that Bitcoin into self- custody
+[33:31] until you have $110,000 worth of bitcoin
+[33:34] saved up minimum I mean that's a that's
+[33:36] a very different playing field and a
+[33:39] very different
+[33:41] um
+[33:43] uh shift imperative right because we're
+[33:46] no longer saying not your keys not your
+[33:48] Bitcoin we're saying well if you don't
+[33:51] have $10,000 wor a value then like you
+[33:54] have to pick a custodian right like you
+[33:58] have to pick you have to pick a second
+[34:00] layer or a custodian that has different
+[34:02] trust uh
+[34:04] tradeoffs um and you know just pray you
+[34:08] don't get rugged and like that that
+[34:10] becomes a very different um environment
+[34:14] and one that I
+[34:17] think you know bit bitcoiners will have
+[34:20] to grow when we get there and we when we
+[34:23] might get there pretty quickly right I
+[34:25] mean I don't know when we'll get to a
+[34:26] million dollars of Bitcoin
+[34:28] maybe the cycle maybe next maybe the one
+[34:30] after that who knows we'll get there
+[34:31] eventually and when we do like we're
+[34:34] going to have to deal with these
+[34:35] problems if we don't already have um
+[34:39] better self- custody scaling Solutions
+[34:43] which currently we don't I told you a
+[34:45] lot about 21 Bitcoin the best place for
+[34:47] me to buy Bitcoin directly on a Bitcoin
+[34:50] only exchange but now let's talk about
+[34:53] how to secure your Bitcoin once you got
+[34:55] Bitcoin you don't want to leave them on
+[34:57] next exchange you want to take self
+[35:00] custody you want to take responsibility
+[35:03] of your own Bitcoin that's why I
+[35:05] recommend getting a bitbox bitbox is an
+[35:08] amazing wallet where you can not only
+[35:11] keep your Bitcoin in a simple way very
+[35:14] secure you can even create a passphrase
+[35:17] with that passphrase you can basically
+[35:19] create a hidden wallet on the device
+[35:22] itself make sure to buy your bitbox in
+[35:26] the link down in the description
+[35:28] and with code Robin you even get a 5%
+[35:31] discount what would be uh I
+[35:34] mean future question uh but what would
+[35:38] be uh solutions to that like is I I feel
+[35:42] like education is a big part of it even
+[35:44] from exchanges education like not even
+[35:47] like podcast education stuff like that
+[35:48] even from exchanges to say like okay if
+[35:50] you want to have this in your uh
+[35:53] Hardware wallet just keep in mind utxo
+[35:55] management or like what
+[35:58] you can watch this video about uto
+[35:59] management if you want to withdraw such
+[36:01] a small amount uh like there's a lot of
+[36:04] different angles and stuff like that we
+[36:06] can do but on top of that on top of
+[36:08] Education what do you think are like
+[36:10] scaling solutions for self custody yeah
+[36:13] um scaling solutions for self- custody
+[36:17] so the problem with scaling self-
+[36:20] custody
+[36:22] currently is that we have no mechanism
+[36:25] to um give users self- custody on higher
+[36:31] layers
+[36:33] without putting data on
+[36:35] chain so self- custody regardless of
+[36:39] which layer you're talking about whether
+[36:41] you're talking about just straight up
+[36:43] onchain self- custody right Bas layer
+[36:46] self- custody or even self- custody on
+[36:50] Lightning both of those require an
+[36:52] onchain footprint right self- custody on
+[36:55] lightning is literally all that means is
+[36:58] you own the keys right or or you own one
+[37:02] of the keys um that can spend from the
+[37:08] utxo which is the lightning channel so
+[37:11] every lightning channel is a utxo by the
+[37:13] way I don't enough I mean most people
+[37:15] don't think of it like that but every
+[37:17] lightning channel is in utxo so if you
+[37:19] have non-custodial lightning all it
+[37:21] means is that you control you know part
+[37:24] of that utxo you're sharing it with your
+[37:26] lightning Channel counterparty you're
+[37:29] sharing that utxo with your counterparty
+[37:31] right it's a it's like a twers shared
+[37:33] utxo um and if it's noncustodial on your
+[37:36] end it just means that you have the keys
+[37:38] to to you know settle that that utxo and
+[37:41] then take your STS out of it so the
+[37:44] limitations with scaling currently is
+[37:47] you know we we only are able to do
+[37:49] shared utxos with two with two parties
+[37:52] right maybe three like if we really push
+[37:55] the limits some people have been talking
+[37:57] about having like you know three-party
+[38:00] channels in lightning or or in other
+[38:02] kind of second layer designs but the
+[38:04] complexity of of of allowing for that to
+[38:08] happen it it it gets kind of out of
+[38:10] control pretty quickly um so it doesn't
+[38:13] you know it doesn't scale past like
+[38:16] three right and two is like really kind
+[38:19] of all we're doing currently is a two
+[38:22] party shared
+[38:24] dtxl in theory if we want to skip
+[38:28] self- custody we need to allow for more
+[38:30] people to share utxos right we need to
+[38:33] scale that higher so that it's you know
+[38:35] dozens hundreds maybe even thousands of
+[38:38] people sharing um a single ETO and
+[38:42] that's really the only way you can scale
+[38:44] self- custody is if you allow for that
+[38:46] to
+[38:48] happen the only way that I know of to
+[38:51] allow for that to happen is with an
+[38:54] update called covenants and there's a
+[38:57] few different proposals for you know a
+[38:59] couple of different flavors of covenants
+[39:02] right I think the most popular of which
+[39:04] is um CTV or check template
+[39:09] verify um but yeah it's it's an update
+[39:11] called covenants and it basically you
+[39:13] know in short allows for you
+[39:17] to share utxos amongst a lot more people
+[39:21] basically yeah we had uh the topic of
+[39:25] government and CV in
+[39:28] not covered on the podcast but I think
+[39:30] at least five guests of mine already
+[39:33] brought it up and said like support that
+[39:37] or like at least look into it or educate
+[39:39] yourself about that uh and I think there
+[39:41] like uh the I think the more more the
+[39:45] most important message to to people is
+[39:47] like similar to like bu the DI if like
+[39:50] price of Bitcoin is low uh but also when
+[39:54] the B rate is low of Bitcoin
+[39:58] Network consolidate your things like the
+[40:02] someone is creative and makes a nice
+[40:05] line out of it there's probably a way to
+[40:07] do it with B dip and consolidate uh your
+[40:10] your Bitcoin you take SCE um but let's
+[40:14] get to the next part of it because we
+[40:17] current now the part of like unspent
+[40:20] unspent dust that's of bitco network but
+[40:23] the next part why you dig all management
+[40:26] is so important is
+[40:27] privacy uh so like how
+[40:30] is Utes o management impacting the
+[40:34] Privacy uh and this like consol
+[40:36] consolidating a lot of os like the
+[40:39] against the pacy aspect because you're
+[40:41] like saying okay this all this my
+[40:43] Bitcoin if they were separated
+[40:46] before yeah um yeah so yeah the next
+[40:49] part of utxl management is privacy and
+[40:52] actually I think um utxl management
+[40:55] started kind of more focused on privacy
+[40:59] because back in the day nobody really
+[41:02] worried about having dust utxos right
+[41:04] when fees were super low and when you
+[41:08] know when a 100 bucks used to be able to
+[41:10] buy you a million sets or more right
+[41:13] people just generally
+[41:15] were by default withdrawing from
+[41:18] exchanges in larger chunks just because
+[41:20] those chunks were were cheaper in terms
+[41:22] of dollars right um so the focus uh
+[41:26] originally with big coin was always kind
+[41:28] of a privacy focused um discussion when
+[41:30] it came to utxl
+[41:32] management and the idea is because
+[41:35] Bitcoin is an
+[41:37] open um Ledger right anybody can
+[41:40] download the blockchain and literally
+[41:42] see every single transaction that's ever
+[41:45] happened since the beginning of
+[41:47] Bitcoin um any transaction that you
+[41:51] do uh will be permanently recorded in
+[41:55] the blockchain forever so so the
+[41:57] histories of um any utxos that you spend
+[42:02] together will be linked forever and you
+[42:05] can't undo it um when when when you you
+[42:09] know when you submit that transaction
+[42:13] so if you were to say um let's say that
+[42:17] you've been stacking Bitcoin for a
+[42:19] number of years and most of your Bitcoin
+[42:23] has just been withdrawals from exchanges
+[42:26] right you just buy Bitcoin on an
+[42:28] exchange you withdraw it every month or
+[42:29] whatever and that's most your Bitcoin
+[42:32] but then you also have some Bitcoin that
+[42:33] you've receed um maybe as gifts or for
+[42:37] doing some work right if you're not
+[42:41] careful and if
+[42:42] you accidentally you know consolidate
+[42:45] those utxl or even just spend them
+[42:47] together with some of your Bitcoin that
+[42:50] came from the
+[42:53] exchanges you link the histories of
+[42:56] those of those utxos and so now all of
+[42:59] the sudden your exchange that you merg
+[43:03] those those utxos with um that exchange
+[43:06] knows about your other Bitcoin right
+[43:09] which I previously hadn't known about so
+[43:11] like uh you know if you if you spend
+[43:14] some of your cash app Bitcoin with some
+[43:16] of the Bitcoin you got from your friend
+[43:18] Bob then all of a sudden cash app is
+[43:20] like oh that those are some utxos we
+[43:22] didn't know belonged to Wicked but now
+[43:25] that he's spending them along IDE some
+[43:27] of the utxl that we sent in and that
+[43:30] we've been tracking because the
+[43:32] government forces us to track them now
+[43:34] we know that he also has access to this
+[43:36] other Bitcoin right so we'll put that in
+[43:39] our system and send that off to the
+[43:41] government whenever they ask for it um
+[43:45] but from a privacy perspective it's very
+[43:46] important to like keep
+[43:50] your
+[43:51] particular stacks of Bitcoin separate
+[43:54] that you don't want their histories um
+[43:58] to be merged together so typically like
+[44:00] you keep your nonky Bitcoin in a
+[44:04] completely different wallet than your
+[44:06] kyc Bitcoin maybe you even have like you
+[44:10] know different wallets for every
+[44:13] different um non kyc source of Bitcoin
+[44:18] that you that you get it from so like if
+[44:20] you're mining you have like a mining
+[44:21] nonk WC wallet if you're you know
+[44:25] fettling funds from lightning maybe you
+[44:27] have like a non kyc lightning settlement
+[44:31] wallet right if you if you're receiving
+[44:34] gifts maybe you have like a non KC gift
+[44:35] wallet or something like that right so
+[44:37] like um by keeping these in separate
+[44:40] wallets you kind of ensure that those
+[44:43] utxl will never get accidentally
+[44:45] Consolidated together okay the other way
+[44:49] that you can do this um which is
+[44:51] probably easier from a management
+[44:53] perspective because you're not dealing
+[44:54] with a bunch of different wallets is you
+[44:56] can just have have you know one wallet
+[44:59] and then label everything so um as long
+[45:03] as you're as long as your software
+[45:06] wallet allows you to label your utxos
+[45:08] you know you should you should
+[45:09] definitely get into the habit of
+[45:11] labeling them um mostly just with like
+[45:16] where they came from so just keeping
+[45:18] track of where each utxl came from right
+[45:21] did this one come from that exchange did
+[45:23] this one come you know from my friend
+[45:25] Joe did this one come from
+[45:28] um the change I got back when I paid for
+[45:32] my dinner or whatever right just like
+[45:34] keep track of those things um and then
+[45:36] then that way you can um you can you can
+[45:40] kind of like better select the chunks
+[45:42] you want to spend in the future so you
+[45:45] know like yeah like you don't want to
+[45:48] spend certain part certain Bitcoin on
+[45:50] certain things if you don't want it to
+[45:52] be kind of linked in different ways so
+[45:55] that's that's kind of the overall
+[45:57] it's like bringing transparency in your
+[46:00] own wallet so you can not bring
+[46:03] transparency in the governments and
+[46:06] institutional wallets to for for you to
+[46:09] be identified as as as people so so yeah
+[46:14] part and then and then the other part is
+[46:16] like when you're spending Bitcoin the
+[46:19] person you're spending it with they see
+[46:21] the uto that you spent right like they
+[46:23] can see the the the sized chunk that you
+[46:26] spent
+[46:27] and so if you're buying something that's
+[46:31] relatively low cost but you're using a
+[46:34] really big chunk of Bitcoin purchase it
+[46:37] they're going to see that you just got a
+[46:39] bunch of like you're like basically so
+[46:42] if someone's charging again going back
+[46:44] to the example in the beginning if
+[46:46] someone's charging you a million sets
+[46:48] for something and you spend a 10 million
+[46:50] set utxo they're going to see that you
+[46:52] just got 9 million sets back as change
+[46:55] right as a brand new utx so and if
+[46:58] that's very very expensive if that's
+[47:00] very valuable um especially if this is
+[47:03] like an in-person
+[47:05] transaction there could be some concerns
+[47:07] with privacy and security there because
+[47:11] you know they might be incentivized to
+[47:13] rob you at that point so the other
+[47:16] aspect of privacy
+[47:18] is um being aware of the utfl that
+[47:22] you're spending in order to kind of
+[47:24] spend the right size jump right you're
+[47:27] not going to whip out like a kilogram
+[47:30] gold bar to buy you know a grams worth
+[47:32] of gold in it when you're you know like
+[47:35] if you're spending gold right like think
+[47:37] think back back in the days right
+[47:39] spending like a little grams worth of
+[47:40] gold to buy you know a bushel of
+[47:42] whatever apples or something you're not
+[47:44] going to like whip out a a kilogram gold
+[47:46] bar and chop off a little gram of it um
+[47:50] because the Merchant's going to be like
+[47:52] holy [ __ ] that guy's got a kilogram gold
+[47:54] bar let's Rob him when he goes back to
+[47:57] his you know his cart or
+[48:00] whatever same that that's really
+[48:02] interesting to think about because um
+[48:05] like I don't know what has US Dollars
+[48:08] $500 notes or what is the highest nor US
+[48:11] Dollars 100 100 yeah like in in Euros
+[48:15] there's like a 500 euro uh note yeah and
+[48:20] I actually never had one in in my hand I
+[48:22] don't know how they look actually uh but
+[48:24] it's like the when you buy like a back
+[48:27] of Che in gome for like one EUR and you
+[48:29] pay with like a 500 uh Euro thing it's
+[48:33] it's it's kind of that example even
+[48:35] though like 500 EUR is is um like maybe
+[48:39] not as much as you would like maybe like
+[48:42] you have a full Bitcoin uh in in in the
+[48:44] future and it's like a lot worth and
+[48:47] you're buying something small with it
+[48:48] and then the person on the other side
+[48:50] he's like oh [ __ ] there's like 100
+[48:53] million uh Satoshi you Tak so there so
+[48:57] like that's that's interesting to think
+[48:59] about that with a transaction you see
+[49:02] the the full volume of of the the wallet
+[49:05] or the the U Tak so yeah uh yeah that
+[49:10] the value of TI are being and so this is
+[49:14] you kind of bring up an interesting
+[49:15] point though because you know we're
+[49:17] talking about it's interesting that the
+[49:21] the largest denomination of euro is 500
+[49:24] EUR right and the smallest recommended
+[49:30] denomination of utxl as a Bitcoin is
+[49:33] currently worth about
+[49:36] 600 right maybe a little bit maybe like
+[49:38] maybe closer to like 500 euro right like
+[49:41] a 1 million sat utxl is probably around
+[49:43] 500 euro right now right so it's almost
+[49:46] like it's like inverted where it's like
+[49:48] the largest denomination in Euros is 500
+[49:51] and the smallest denomination in in in
+[49:53] Bitcoin currently is worth about 500
+[49:57] so because of this um you know it begs a
+[50:01] question like well how are you going to
+[50:03] spend on very small things right if if
+[50:07] the chunks if all the chunks are
+[50:09] supposed to be around 500 EUR currently
+[50:13] in value all right or a million stats if
+[50:16] you just want to keep denominating in
+[50:17] terms of Bitcoin are you going to buy
+[50:20] things that are worth less than 500 EUR
+[50:24] I mean and this is where
+[50:27] second layers come in right and and um
+[50:31] things that are optimized for like
+[50:32] moving smaller amounts so things like
+[50:36] lightning um and you know there will be
+[50:39] other second layers that emerge over the
+[50:41] next decade that will probably be even
+[50:45] more optimized um you know for spending
+[50:48] or or or or transacting right in smaller
+[50:54] amounts um or transacting privately for
+[50:58] example
+[51:00] so go ahead I know I was just like uh
+[51:04] like as I imagine it um it would be like
+[51:07] you have a bigger Chunk in like your
+[51:09] self custody onchain wallet and then
+[51:13] once a quarter or like once a month or
+[51:16] something like that you take from there
+[51:19] uh to like a hay wallet could be Layer
+[51:22] Two solution it could be whatever you're
+[51:25] paying with like light
+[51:27] uh and from there you can then buy your
+[51:30] coffee or buy your chewing gum and then
+[51:33] it's like uh then then people don't see
+[51:36] out of what you have and you don't have
+[51:38] to spend the transaction fees uh is is
+[51:41] that what you you're going to yeah
+[51:44] exactly so the way I imagine um Bitcoin
+[51:48] will work in the future and and and
+[51:50] again this will be for you know for the
+[51:53] 10 million lucky people who are still
+[51:56] able to transact on chain right um and
+[51:59] who still have utxos that are large
+[52:01] enough to actually
+[52:03] spend what they'll end up doing is um
+[52:07] semi-regularly they'll kind of top off
+[52:09] their their their checking account right
+[52:13] so to speak right they're they're
+[52:14] spending balances which will be on
+[52:16] second layers and so you could imagine
+[52:19] what this might look like
+[52:21] is maybe once every few months um you
+[52:25] will lift you're you I think technically
+[52:29] like the term might be called lift right
+[52:33] this is I think it's this is the term
+[52:34] that's used by um Barack when he when he
+[52:38] talks about his Arc idea for his second
+[52:41] layer um but anyways the idea is like
+[52:43] you lift the utxl up onto the second
+[52:45] layer and then once it's there um once
+[52:48] the Bitcoin is there or committed to
+[52:50] that second layer then you can move it
+[52:52] around offchain um kind of
+[52:55] frictionlessly and and a lot cheaper and
+[52:57] in smaller amounts right and so you'll
+[53:01] pay the onchain fee to get the Bitcoin
+[53:03] onto the second layer but then once it's
+[53:05] on the second layer you know you can
+[53:08] transact in much smaller
+[53:10] denominations um and and and just much
+[53:13] more efficiently up there that's kind of
+[53:16] what's already happening I mean like to
+[53:18] an extent that's already what's
+[53:19] happening currently just at a much
+[53:21] smaller scale right I think Bitcoin as a
+[53:24] medum up exchange is
+[53:27] um super widespread in terms of its use
+[53:31] right we've got these um these kind of
+[53:36] beginning uh inkings of like an
+[53:39] emerging um Market of of you know
+[53:42] lightning service providers and these
+[53:44] custodia wallets which are all linked
+[53:46] together with lightning and then you've
+[53:48] you're even starting to like link other
+[53:52] um layers like liquid with lightning
+[53:55] right like they're linking liquid
+[53:57] through lightning to other layers and so
+[54:00] I think eventually what you have in the
+[54:03] Bitcoin ecosystem is you have you know
+[54:05] the base layer and then on top of that
+[54:07] you have all these other layers which
+[54:09] are probably all going to be linked
+[54:11] together with lightning right you can
+[54:14] have like liquid and um and your
+[54:18] exchange um a lightning Channel you
+[54:20] could have liquid and a sediment have a
+[54:22] lightning Channel um you could have Arc
+[54:26] you know which is this future idea of a
+[54:29] covenants enabled um shared utxl scheme
+[54:32] you have Arc and you know fent together
+[54:35] with a lightning channel so like
+[54:37] lightning will be like kind of like the
+[54:38] glue or like the highways that link
+[54:40] together all of the custodians as well
+[54:43] as all of the um second layers and
+[54:46] shared dxo and
+[54:48] whatnot and
+[54:50] then um yeah and then everything is is
+[54:54] still you know link back to the base
+[54:56] layer because all of these custodians
+[54:59] and all of these second layers like they
+[55:02] all still operate under the utxo model
+[55:05] so at some point like the Bitcoin that
+[55:07] is represented on that layer or the
+[55:10] Bitcoin that is being held by those
+[55:14] custodians has to be on chain in a
+[55:17] utxo right so that's kind of like how
+[55:19] everything links back to the base layer
+[55:21] is through those
+[55:22] utxos for me it's like now we're coming
+[55:24] closer to the end of the the podcast uh
+[55:27] and I want just quickly like have my two
+[55:30] key learnings from from the podcast uh
+[55:33] and maybe you can add something if you
+[55:35] feel like there's something more like
+[55:37] there's a key learning missing the one
+[55:39] is like consolidate your utxos while you
+[55:42] still have the chance and while the fees
+[55:45] are low if you can uh and this the this
+[55:49] was like a first one and the second one
+[55:51] it would be like don't mix your KC stack
+[55:54] with a non KC stack
+[55:56] uh and especially all in F like you can
+[56:00] if you want don't uh mix your non
+[56:03] different nonc Stacks uh if you if you
+[56:07] able to do also that uh is is that like
+[56:10] the two main and key learnings uh from
+[56:13] from this video today or like is there
+[56:15] something to add those are the two key
+[56:17] ones and um the third thing that I would
+[56:21] maybe just say kind of with the last uh
+[56:27] rant I I I just went on I know I've been
+[56:29] I've been kind of all over the place so
+[56:30] I'm sorry about that um but the third
+[56:33] thing I would say is you know we're
+[56:36] still extremely early when it comes to
+[56:38] bitcoin right there's like there's all
+[56:41] of these ideas which have yet to be
+[56:44] built um they may never actually come to
+[56:47] fruition but a lot of them will in the
+[56:51] next decade will have a lot of different
+[56:55] options when it comes to you know
+[56:57] different layers or different custodial
+[56:59] arrangements or different ways of taking
+[57:02] your Bitcoin into self- custody right
+[57:04] maybe even directly on second layers
+[57:07] eventually so because we're so early you
+[57:11] have to realize like um you know this is
+[57:14] a moving Target
+[57:16] right and and you have to like really
+[57:19] kind of stay involved and pay attention
+[57:22] to
+[57:24] the the the changing um landscape of
+[57:29] what Bitcoin is and how it is used
+[57:32] because we haven't really figured out
+[57:34] like exactly how we're going to use this
+[57:36] thing in the end we don't know exactly
+[57:38] how we're going to scale it to hundreds
+[57:41] of millions of not billions of
+[57:43] people and so while we're figuring this
+[57:46] out um it's important for you as an
+[57:49] early adopter and as a current you know
+[57:52] user to keep tabs on all these things
+[57:55] and like as these new technologies and
+[57:57] these new layers emerge you have to
+[58:00] understand whether they are legitimate
+[58:05] ways to store your Bitcoin um and ways
+[58:08] which you know ultimately could save you
+[58:11] on fees or make your transactions more
+[58:14] private um or you know all these other
+[58:16] things that you might care about right
+[58:20] so as a like so just to summarize as as
+[58:23] an early user like you have to kind of
+[58:25] just you have to like stay involved you
+[58:27] can't just really like I mean okay if if
+[58:30] you have a if you have a [ __ ] ton of
+[58:31] Bitcoin like let's say you just have
+[58:33] like a whole Bitcoin or even more right
+[58:36] you can just sit on that utxl and you'll
+[58:38] be fine you could come back in a decade
+[58:40] or two and whatever the landscape is at
+[58:42] that point you know you can assess and
+[58:44] you can say okay that looks like the
+[58:45] best second layer I'm going to lift some
+[58:47] Bitcoin up onto there and then I'll be
+[58:49] able to spend on that that's fine but
+[58:51] for most people who are coming in now
+[58:54] who aren't coming in with like whole bit
+[58:56] coins or they're just stacking smaller
+[58:58] amounts and they're trying to like save
+[58:59] up as much as possible they might only
+[59:02] have a few million stats um and if
+[59:05] you're in that position you know you
+[59:07] have to pay close attention
+[59:09] because um you're going to be affected a
+[59:13] lot more you're going to be much more
+[59:14] fee sensitive than those larger
+[59:18] participants and so you have to be
+[59:20] nimble and able to um move your you know
+[59:26] relatively smaller amount of Bitcoin up
+[59:28] onto second layers like when the time is
+[59:30] right okay um you know and some people
+[59:33] are already kind of doing that right
+[59:36] like some people are just stacking on
+[59:39] liquid right or some people are just
+[59:41] like stacking directly into a lightning
+[59:44] Channel um or some people are just
+[59:46] leaving their Bitcoin on an exchange
+[59:48] because they don't want to deal with all
+[59:49] this right and that's and honestly
+[59:51] that's fine too like you know this it's
+[59:52] not for everybody not highly recommended
+[59:55] but like you know I understand like you
+[59:58] know like we're getting to the point now
+[60:00] where there's just so many people who
+[60:01] are starting to get involved in Bitcoin
+[60:03] that there's going to be a large array
+[60:06] of the types of ways in which people
+[60:09] interface with Bitcoin so yeah just you
+[60:12] know stay involved if you if you want to
+[60:14] be a sovereign Bitcoin user you have to
+[60:17] keep paying attention you have to keep
+[60:19] learning um and you know all those other
+[60:23] things that you said earlier about etx
+[60:26] management so that's why everybody
+[60:28] that's why everybody should follow vicet
+[60:30] on on Twitter
+[60:33] and yeah I mean I you know I I I'm I'm
+[60:37] probably I'm not I'm not a I'm not a I
+[60:39] don't know like I I try I try to put out
+[60:41] good content but there's there's
+[60:43] definitely a lot of other people who are
+[60:45] who are very good followers as well so
+[60:47] you know follow an array of bitcoiners
+[60:49] you get full spectrum of of knowledge
+[60:52] and um you know and I don't know just
+[60:57] mess around with Bitcoin like use it
+[60:59] right like actually use it and then
+[61:01] you'll get a sense of how it works um
+[61:05] and uh you'll become a better more well
+[61:08] equ equipped Bitcoin user if you
+[61:10] actually use it that that's why I kind
+[61:13] of started all the podcast because I
+[61:15] wanted to have some video format of my
+[61:17] Twitter uh and I was like I'm not I I
+[61:21] don't have enough information in my
+[61:23] brain to talk every day about about uh
+[61:27] Bitcoin and a different topic so why
+[61:29] don't I just invite people that are way
+[61:32] smarter than me and I learn from them
+[61:34] and let my audience also learn from them
+[61:37] so like I I invite just uh people that
+[61:40] are smart and have uh specific knowledge
+[61:44] and try to like do every day a Bitcoin
+[61:47] conversation with someone uh in the
+[61:49] Bitcoin sphere which is extremely uh
+[61:53] cool uh to being for me to being able to
+[61:56] do that and second uh to just like learn
+[61:59] from those people it's it's fascinating
+[62:01] to see and that's why I'm I encourage
+[62:03] everybody to follow vicked uh and as I
+[62:05] encourage everybody to follow the people
+[62:08] that are on my podcast video you because
+[62:10] uh almost all of them I want to have a
+[62:13] second time or third time or fourth time
+[62:15] on and they are uh they are definitely
+[62:18] worth following or even uh just follow
+[62:22] uh follow them yeah um before we get uh
+[62:26] to the end routine I have one small
+[62:29] question for you if you still have a
+[62:31] little bit of time um why did you choose
+[62:34] to be anonymous why did you choose uh to
+[62:37] to to stay uh viced and not like who you
+[62:41] really are um it's a good question so I
+[62:45] mean I just the way I see
+[62:49] Bitcoin
+[62:51] um evolving in the future is you know I
+[62:54] believe it's going to be an extremely
+[62:58] valuable money in the future like kind
+[63:02] of you know we all we all joke about
+[63:05] Bitcoin being worth like a million or
+[63:07] even more dollars in today's dollars
+[63:10] right and um I think at a certain point
+[63:14] it becomes so valuable that um you could
+[63:19] easily become targeted if you're if your
+[63:21] name's out there and and if if you're
+[63:23] associated with having been an early
+[63:25] adopter of Bitcoin you know it's not
+[63:28] like uh it's not a sure thing right I
+[63:31] mean you can always have like good
+[63:33] security practices in in real life and
+[63:36] so you
+[63:37] can you know I mean there's plenty of
+[63:40] early adopters who their names are out
+[63:42] there and they haven't been robbed yet
+[63:44] and they have hundreds or thousands of
+[63:47] Bitcoins so I'm sure like yeah it's it's
+[63:50] possible to stay safe but I think it's
+[63:52] just you know like I don't want to have
+[63:54] to deal with that if I don't have to
+[63:57] um so I prefer to stay Anonymous um I
+[64:00] also just you know I don't I don't I
+[64:01] don't want to mix my personal life with
+[64:04] Bitcoin like I don't my I don't want my
+[64:06] job knowing that I'm involved in Bitcoin
+[64:09] very much um yeah I'd rather just kind
+[64:12] of keep the two separate at least for
+[64:14] now um yeah who knows who knows what
+[64:18] happens in the future uh but but at
+[64:20] least for now I just I think staying
+[64:22] Anonymous
+[64:23] is probably the best that for me at
+[64:26] least I think it's also a really Noble
+[64:29] thing to do uh if you think about it
+[64:31] because you are contributing to uh the
+[64:34] Bitcoin Community you are educating
+[64:36] people and you don't really take credit
+[64:38] for it like of course there is some
+[64:40] account that you are owning uh and
+[64:44] people like kind of associate that and
+[64:45] you could switch on with like C face and
+[64:47] stuff like that but uh at least to this
+[64:50] day you are not taking personal credit
+[64:53] uh for for the com the education that
+[64:55] you're doing so like I always respect
+[64:57] everybody that is uh Pony or like
+[65:00] Anonymous on on the podcast I think I
+[65:03] had like five six people already on uh
+[65:05] that didn't show their face uh and were
+[65:09] completely Anonymous here so I I highly
+[65:12] respect that and I love I usually like
+[65:15] enjoy it in conversation with those
+[65:17] people a lot as today um we having an
+[65:21] endine in the podcast where the previous
+[65:23] guest is asking a question for the next
+[65:25] guest without knowing who the next guest
+[65:27] is so this these kind of questions are
+[65:29] usually completely different than the
+[65:31] rest of the podcast uh and your question
+[65:34] is if you were the host of interesting
+[65:37] one if you were the host of a political
+[65:39] debate between the US presidential
+[65:41] candidates what question would you
+[65:47] ask what question would I oh man it's
+[65:51] interesting who was the last
+[65:54] guest enough um
+[65:56] okay so yeah I don't I don't really do
+[65:59] politics very much so you know I don't
+[66:01] have a good sense of like what a good
+[66:03] question would be to ask to be honest I
+[66:05] mean I'm obviously very focused on
+[66:07] bitcoin so I would probably ask him
+[66:10] something about Bitcoin
+[66:13] um uh maybe I'd ask them uh what they
+[66:18] think about Bitcoin just straight up so
+[66:20] i' want I'd want to know kind of where
+[66:22] their head was at in terms of in terms
+[66:23] of Bitcoin so I know that's kind of a
+[66:27] that's a lame
+[66:28] answer I I I would answer the same thing
+[66:32] I would just want to know what they what
+[66:33] they think of economicly I'm I'm if if
+[66:36] in any like because this this uh I I was
+[66:39] really involved in politics but now I'm
+[66:41] not like the more I got involved in
+[66:43] Bitcoin the more I got distanced from
+[66:45] politics it's funny how it goes uh and
+[66:48] for me it's like uh I would love for
+[66:52] Bitcoin to be a topic somewhere around
+[66:54] those elections that we all have like
+[66:56] Austria has election European Union has
+[66:58] an election America has an election this
+[67:01] year so like uh it it I would laugh for
+[67:05] bitco to be a topic but if not I don't
+[67:07] care also so uh will be interesting uh
+[67:10] to watch for the end uh where can people
+[67:14] find it the best I mean we we already uh
+[67:16] qued a little bit before uh you are on
+[67:18] on on Twitter with with Wicket you're on
+[67:21] YouTube I think I also saw some videos
+[67:23] from from you and I will drop you your
+[67:25] details in below but if one if people
+[67:28] want to ask you questions if people want
+[67:30] to reach out to you where's the best
+[67:32] place to find you yeah definitely on
+[67:35] Twitter so my handle on Twitter is
+[67:39] wsor
+[67:41] Bitcoin um and my my username is just
+[67:44] Wicked um and then on YouTube uh my
+[67:47] username is wicked smart Bitcoin so
+[67:50] that's where the W and S come from my
+[67:52] from my Twitter username by the way
+[67:55] right we could smart and then Bitcoin um
+[67:57] yeah if you want to reach out on Twitter
+[67:59] I'm always uh you know available you can
+[68:01] you can either send me a DM or just tag
+[68:03] me on something and ask ask questions
+[68:06] always happy to um help you find the
+[68:11] answers to any of your Bitcoin related
+[68:13] questions uh I I try to hop on Twitter
+[68:17] spaces fairly frequently so you know
+[68:20] it's Al that's also a great place to ask
+[68:23] questions um in a more kind of live
+[68:26] setting right I think for me in
+[68:28] particular like Twitter spaces is what
+[68:31] ramped up my understanding of Bitcoin
+[68:34] from zero to 100 in you know a matter of
+[68:37] months so if you just if you find kind
+[68:40] of like there's there's a few Twitter
+[68:42] spaces which are pretty high signal
+[68:44] right where like they're primarily
+[68:45] Bitcoin focused and they don't really
+[68:47] you know get off the the beaten path too
+[68:51] too too much um but yeah if if you find
+[68:53] those Twitter spaces and you go up on
+[68:55] stage ask questions a lot of the times
+[68:56] man bitcoiners are always more than
+[69:00] happy to help uh get you answers or to
+[69:03] help answer your questions so um yeah
+[69:07] that's what I'd say I'm on Twitter
+[69:09] perfect then thank you for your time
+[69:11] VI yeah thanks for having me Robin
+[69:15] [Music]

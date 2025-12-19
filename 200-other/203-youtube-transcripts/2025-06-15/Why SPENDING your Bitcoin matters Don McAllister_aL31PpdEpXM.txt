@@ -1,0 +1,1595 @@
+Title: Why SPENDING your Bitcoin matters | Don McAllister
+Video ID: aL31PpdEpXM
+URL: https://www.youtube.com/watch?v=aL31PpdEpXM
+Date Saved: 2025-06-15 11:54:52
+--------------------------------------------------
+
+[00:00] there's no way that we can just hold
+[00:01] Bitcoin and not spend it we've got to
+[00:03] use it's got to become a circular
+[00:04] economy it's got to become part of the
+[00:06] infrastructure people have got to become
+[00:07] familiar with using Bitcoin rather than
+[00:09] just storing it as a store of value
+[00:10] instead of having a 100 million SATs you
+[00:12] now have 1 million bits so a Bitcoin is
+[00:14] a million bits and a bit is 100 satoshis
+[00:17] instead of saying 100 SATs you'd say one
+[00:19] bit or instead of saying 2,500 SATs
+[00:21] you'd say 25 bits or if it was
+[00:24] 2,599 SATs it'd be $25.99 you know it's
+[00:27] it's just a more natural way you go to
+[00:29] an exchange for instance and it's in
+[00:30] Bitcoins you know not
+[00:32] 0000000000 32 it's it's just crazy for
+[00:35] people if it's 320,000 stats that blows
+[00:38] the mind as well because people aren't
+[00:39] used to hundreds of thousands in their
+[00:41] monetary units as it becomes more
+[00:42] widespread and people want to start
+[00:44] using it more that I think that you know
+[00:46] the capital gains element if not for
+[00:47] your whole stack but for a portion of
+[00:49] your stack will will need to be removed
+[00:50] spending Bitcoin is really fun I mean
+[00:52] using lightning is is incredible it's
+[00:54] it's a fantastic technology I think we
+[00:56] get a little bit too hung up about the
+[00:58] self- sovereignty and uh the trustless
+[01:00] side of things I I think over time we
+[01:01] will need to start trusting Bitcoin
+[01:04] [Music]
+[01:07] Banks welcome theit podc SC yeah it's a
+[01:11] bit strange for me actually I said I've
+[01:12] done literally thousands of podcasts but
+[01:14] it's all been Apple related because I
+[01:15] used to have my own podcast my own Apple
+[01:17] podcast I still I'm involved with that
+[01:19] but I've guested on many many Apple
+[01:20] related podcasts panel shows and stuff
+[01:23] but this is the very first podcast where
+[01:26] I've actually talked about Bitcoin so
+[01:27] it's a bit strange for me this one yeah
+[01:30] recently discovered that uh Apple
+[01:32] actually invented podcasting like this
+[01:34] the word podcast comes from Steve Jobs
+[01:36] is is that right um not quite no it's
+[01:40] actually Adam Curry Adam Curry and Dave
+[01:42] wi with the original um podcasters uh
+[01:47] and I think it was it wasn't actually um
+[01:49] Adam Curry it was another guy who came
+[01:51] up the term podcast but Apple in the
+[01:53] very early days I mean they were great
+[01:55] because they they really pushed
+[01:56] podcasting and and they really were the
+[01:58] ones who publicized it to a larg
+[02:00] audience but no no um Steve Jobs didn't
+[02:02] invent podcasting but he did a lot to
+[02:03] help it in the early
+[02:05] days I I was so confused because I saw a
+[02:08] documentary with Steve Bobs like uh
+[02:10] Steve Jobs was like IOD podcasting like
+[02:14] he put I saw a speech where he put I was
+[02:16] like did that Steve Jobs and Apple
+[02:18] invented podcast and did actually the
+[02:20] word still come from Apple it's
+[02:22] interesting yeah it it still came from
+[02:23] the iPod but it it was before Apple
+[02:26] adopted I um before Apple actually
+[02:29] adopted podcast themselves because when
+[02:31] the when the iPod came on the scene it
+[02:33] was seen as a great device to download
+[02:35] content to and then uh Dave Wier and
+[02:39] Adam Curry actually came up with the
+[02:40] mechanism of RSS feeds and and how you
+[02:43] would actually take a piece of content
+[02:45] whether or not be audio or video
+[02:47] whatever and actually broadcast that to
+[02:49] a number of devices that would download
+[02:50] in the background and would appear on
+[02:52] your your iPod or on your Mac or on your
+[02:54] PC so the name is coming from Apple from
+[02:59] the iPod but the actual podcasting the
+[03:01] method of it with the Aros s feeds this
+[03:03] is actually coming from Adam Curry yeah
+[03:06] Adam Curry and Dave W yeah yeah Adam was
+[03:08] sort of like the ideas guy that's bit
+[03:10] unfair actually they're both very good
+[03:11] ideas guy but Dave Winer was the
+[03:13] programmer uh and Adam was sort of like
+[03:15] the the the promoter of it and came up
+[03:17] with lots of the concepts as well so
+[03:19] yeah we've got lot lot to thank Adam and
+[03:21] dayve for actually I love it so much
+[03:24] yeah I did not want to get in in this
+[03:26] topic first but sure yeah
+[03:30] definitely um I you have you wrote me
+[03:33] three articles that you wrote also in in
+[03:35] the Bitcoin magazine and the first one I
+[03:37] I just want to get into that because
+[03:39] it's always a discussion in in the
+[03:41] Bitcoin sphere uh bits and SATs and you
+[03:44] actually made the argument why bits is
+[03:46] like better than than sat and using bit
+[03:48] could promote
+[03:49] Bitcoin yeah I I think it's um it's
+[03:52] something that
+[03:53] always it's a bit we have Marmite in the
+[03:55] UK which is like a yeast extract product
+[03:58] which you either love it or you hate it
+[04:00] and I think with the thing with bits and
+[04:01] SATs is people either love it love the
+[04:03] idea of it or or hate it and just don't
+[04:05] want anything to do with it and for
+[04:07] people who aren't familiar with it it's
+[04:08] it's B it's nothing new uh I mean bits
+[04:10] is just a new way of it's not even a new
+[04:13] way it's a way of
+[04:15] uh determining the Nan never say that
+[04:18] word anyway uh it's it's a way of
+[04:20] splitting your Bitcoin so as you know
+[04:22] you've got 100 million Satoshi in a
+[04:24] Bitcoin or in a
+[04:26] BTC and the bit really is like a de
+[04:29] decibel repes representation of that so
+[04:31] instead of having a 100 million SATs you
+[04:33] now you now have 1 million bits so a
+[04:36] Bitcoin is a million bits and a bit is
+[04:39] 100
+[04:39] satoshis uh so you know instead of
+[04:42] saying uh instead of saying 100 SATs
+[04:44] you'd say one bit or instead of saying
+[04:46] 2,500 SATs you'd say 25 bits or if it
+[04:49] was
+[04:50] 2,599 SATs it'd be 25.99 you know it's
+[04:54] it's just a more natural way uh
+[04:56] especially not so much for those people
+[04:58] already familiar with Bitcoin but for
+[05:00] for new people into the space you know
+[05:02] this concept of a 100 million units is
+[05:05] is just completely alien to them and
+[05:07] also and I can understand why we went
+[05:10] with SATs because you know when Bitcoin
+[05:11] was very low value uh you had to use
+[05:14] multiples of SATs to you you know to to
+[05:16] sort of equate the value to a sensible
+[05:19] figure but as Bitcoin increases in value
+[05:21] um I I think the the move to a bits
+[05:24] standard rather than a SAT standard is
+[05:27] is probably going to be more easily
+[05:28] adopted by people who who aren't into
+[05:30] Bitcoin at the moment which is let's
+[05:31] face it it's the bulk of people at the
+[05:33] moment you know not everybody is
+[05:34] although they've had of Bitcoin as soon
+[05:36] as you introduce bits as soon as you
+[05:38] introduce SATs to the equation people
+[05:40] sort of it blows their mind a bit um but
+[05:43] you know the the old bitcoiners uh get a
+[05:45] bit upset because they think we're
+[05:46] trying to replace SATs or this is
+[05:49] something new um but bits actually were
+[05:51] are actually included in the original
+[05:53] white paper I think and also you know
+[05:55] the the word sat and I know a lot of
+[05:57] people sort of said well it's it's a
+[05:58] homage to Su Satoshi he never actually
+[06:01] named them SATs uh they would that came
+[06:03] on later so you know and we're not
+[06:05] getting rid of SATs no one's talking
+[06:06] about getting rid of SATs we just saying
+[06:08] have bits and SATs so one bit is 100
+[06:11] SATs and it's equivalent to $1 is 100
+[06:14] cents one pound is 100 P um you know one
+[06:18] euro is a 100 EUR cents it's just a more
+[06:21] natural way for people who are not
+[06:23] familiar with the concept to sort of get
+[06:25] the head round you know how it how it
+[06:27] would actually work for them and of
+[06:29] course plus when we do reach one million
+[06:31] uh the equivalent of a million dollars
+[06:33] uh per Bitcoin uh one bit would then be
+[06:36] the equivalent of a dollar and one sat
+[06:39] would be the equivalent of a scent so
+[06:40] you know it's it ju it just seems more
+[06:42] sensible but people get very upset and
+[06:45] very uh protective of of SATs but no not
+[06:48] trying to do away with SATs whatsoever
+[06:50] and I think we need more than SATs
+[06:52] anyways I think we need under and
+[06:53] overset like when we have actually like
+[06:56] look really far out then we need those
+[06:58] things I think there are m cense i mean
+[07:01] it's just a matter of moving the decimal
+[07:02] points that's all we're doing there's no
+[07:04] there's no huge rewrite of Bitcoin
+[07:05] required there's no uh new technology
+[07:08] it's literally just moving the decimal
+[07:10] points and again this I think both halin
+[07:12] and also uh Satoshi themselves or
+[07:15] whoever it was uh also mentioned that at
+[07:17] some point in time as the value of
+[07:18] Bitcoin would increase we would need to
+[07:20] to move the decimal point around to make
+[07:22] it more viable for people to understand
+[07:25] yeah especially when we move in the area
+[07:27] where we actually spend Bitcoin because
+[07:29] as long as we we have it just as a store
+[07:30] of value and not of a unifit of count it
+[07:32] doesn't really matter what we call it
+[07:34] but when you want to have like prices
+[07:36] and that's the supermarket and unit of
+[07:38] account then kind of need like oh it's
+[07:40] like oh I I buy a banana it's like two
+[07:44] micro SATs or whatever
+[07:47] yeah yeah yeah it's it's you know as as
+[07:49] we get more into the using as a as a an
+[07:52] exchange mechanism I think you know
+[07:54] probably be more sensible then it's also
+[07:56] easier to um to register in your head I
+[08:00] mean if you go on an app if you go to an
+[08:02] exchange app for instance and it's in
+[08:04] Bitcoins you know note
+[08:06] 000000000000 32 yeah it's it's just
+[08:09] crazy for people um and and you know if
+[08:12] it's 320,000 stats that blows the mind
+[08:15] as well because people aren't used to
+[08:16] hundreds of thousands in their monetary
+[08:18] units um so you know just a decimal
+[08:21] system just appears to me to be more
+[08:22] sensible and this unit bias actually
+[08:25] annoys me a lot like the the the people
+[08:27] like oh one Bitcoin is so expensive if I
+[08:29] cannot afford this it's the same thing
+[08:31] why all the companies are doing stock
+[08:33] splits when it gets up to a certain
+[08:35] extent because you can now with the
+[08:36] modern exchanges you can buy like half
+[08:38] Apple stock that's not a problem it's at
+[08:40] this point it's just like an an unit buy
+[08:42] like oh but they they don't look at the
+[08:44] whole thing they look at one piece and
+[08:46] they're like if bitcoin price now would
+[08:48] be differently divided and would be like
+[08:50] now I don't know 1,000 EUR or like maybe
+[08:52] like one yearo people were like yeah
+[08:54] yeah I can buy two Euro uh two Bitcoins
+[08:56] of that so the unit buyers is like
+[08:58] annoys me a little bit
+[09:00] it do and a lot of people have said that
+[09:02] that's one of the reasons why people get
+[09:03] into altcoins because they do perceive
+[09:05] Bitcoin to be so expensive you know if
+[09:07] they go into a you know exchange for the
+[09:09] shitcoins and they see Bitcoin at
+[09:12] $60,000 and yet they see something else
+[09:14] which is like you know $10 oh well I'll
+[09:16] have a hundred of those rather than you
+[09:18] know
+[09:19] 0.000000001 you know of a Bitcoin it
+[09:22] just totally confuses people so it is in
+[09:26] effect like a stock split yeah and and
+[09:28] this fortunately Finance has a lot to do
+[09:31] with psychology it has that definitely
+[09:35] plays into the role but you also made
+[09:36] the argument that uh we we should spend
+[09:39] our Bitcoin um to draft adoption like
+[09:43] you made some some article about that
+[09:44] like why we need to spend
+[09:48] Bitcoin yeah I mean it's it's great
+[09:50] having as a store of value and you know
+[09:52] people always say well if it's going to
+[09:53] go up so much over time why on Earth
+[09:56] would I actually spend it you know
+[09:57] because it's crazy I may as well just
+[09:59] keep hold of it but the fact of the
+[10:00] matter and the fact of life is you have
+[10:02] to spend money every week you have to
+[10:04] spend money every day um so there's no
+[10:07] reason why you know you shouldn't uh
+[10:11] exchange Bitcoin just in that week to
+[10:14] spend for that week because you're going
+[10:15] to spend you're going to spend say you
+[10:17] spend $1,000 in a month
+[10:20] um you you know you're actually going to
+[10:22] spend $1,000 it doesn't matter if it's
+[10:24] in Bitcoin or if it's in dollars why not
+[10:26] exchange it into Bitcoin and then spend
+[10:28] the Bitcoin if we have the the you know
+[10:30] the ways to spend it uh there's no way
+[10:32] that we can just hold Bitcoin and not
+[10:34] spend it we we've got to use it's got to
+[10:36] become a circular economy it's got to
+[10:37] become part of the infrastructure people
+[10:39] have got to become familiar with using
+[10:41] Bitcoin rather than just storing it as a
+[10:42] store of value but do you think uh keeps
+[10:45] bitco keeps bitcoiners to hold it when
+[10:48] we see all the onch analysis uh like
+[10:50] most people like actually just hold onto
+[10:52] it that's such a big percentage of
+[10:54] Bitcoin that's like they they did not
+[10:56] move since a year they did not move
+[10:57] since five years
+[10:59] yeah yeah well I think one of the issues
+[11:01] is that it's been difficult to spend
+[11:03] Bitcoin to be honest uh which is why we
+[11:05] need to be able to start spending
+[11:06] Bitcoin and that would then improve the
+[11:09] distribution because we have got an
+[11:11] issue with the distribution of Bitcoin
+[11:12] at the moment in that but it is sort
+[11:14] itself out you know we've got all the
+[11:16] people who bought in when it was $10 a
+[11:18] Bitcoin and they probably bought
+[11:20] hundreds if not thousands of Bitcoins
+[11:22] and then when it went up to $100 or $
+[11:24] thousand dollar well they then sort of
+[11:26] skimm some off the top and then some of
+[11:28] that got distributed and then those
+[11:29] people that bought at $1,000 when it
+[11:31] went to
+[11:32] $10,000 they they then sold some of
+[11:34] theirs off at the top and it just this
+[11:35] is this is the way that the Bitcoin
+[11:37] actually gets spread and diffused
+[11:39] amongst the population and we've still
+[11:40] got a long way to go um but you know I I
+[11:44] we're not saying that you should spend
+[11:45] all of your Bitcoin on something you
+[11:47] know uh hold your main stack but then at
+[11:50] when the right time comes either use
+[11:53] some of it to for your day-to-day
+[11:55] outgoings or if you have a major
+[11:56] purchase that you definitely want well
+[11:58] you know just take some profit of at
+[11:59] that point and that's when we get into
+[12:00] the circular economy again I think one
+[12:03] uh one big point is also that uh people
+[12:06] that actually want to spend Bitcoin uh
+[12:08] they rather spend the the Fiat
+[12:09] currencies because they have tax
+[12:11] implications when they spend their the
+[12:13] Bitcoin that's at least why I do it
+[12:14] because I'm like I'm all in Bitcoin
+[12:16] anyways I would love to just like ditch
+[12:19] a feeld and have all in Bitcoin and and
+[12:21] spend Bitcoin uh like the one problem is
+[12:23] like I cannot really spend it like I
+[12:26] have to argue with my landlord for the
+[12:27] rent I have to argue at the grocery
+[12:30] store find some other Solutions uh and
+[12:32] then also I have to report taxes on that
+[12:34] if I buy something for 2,000 euros and I
+[12:37] made like a thousand profits on that I
+[12:39] have to additionally spend like2 200 EUR
+[12:41] for for taxes on that I know that that
+[12:44] is a problem that and fees as well you
+[12:46] know um we want we at the moment to to
+[12:50] buy a small amount of Bitcoin to use as
+[12:52] your weekly spend you know you normally
+[12:54] do in Cur fees so that's an issue as
+[12:55] well um but the the tax thing is
+[12:58] problematic and I think eventually as it
+[13:00] becomes more widespread and people want
+[13:02] to start using it more that I think that
+[13:04] you know the capital gains element um if
+[13:07] not for your whole stack but for a
+[13:08] portion of your stack will will need to
+[13:10] be removed either by it becoming a
+[13:12] legitimate currency because we don't we
+[13:13] don't have capital gains on currency now
+[13:15] uh and Bitcoin is a currency So
+[13:17] eventually one would hope there'll be
+[13:19] legislation that will take away the
+[13:20] capital gain side of things and that
+[13:22] would free up people to to be able to
+[13:24] use it and besides which spending
+[13:26] Bitcoin is really fun I mean using
+[13:28] lightning is is incredible it's it's
+[13:30] it's it's a a fantastic technology and
+[13:33] we're not talking on chain here we're
+[13:34] talking know instant lightning payments
+[13:36] from from one person to another or to a
+[13:38] vendor um I just love using lightning
+[13:40] wallets to uh to spend $10 here or you
+[13:43] know couple couple of SATs or a couple
+[13:45] bits here and there it's it's it's just
+[13:47] it's actually really fun to do I I quite
+[13:49] enjoy it yeah me too I tried it uh with
+[13:54] the Bitcoin conferences I always do it
+[13:55] because there you can spend and you need
+[13:57] anyway something because they're like
+[13:59] small cakes like water and then you need
+[14:02] to spend something to to get the water
+[14:03] and yeah let's let's do it with Sates
+[14:05] and I also have all like at least $50 in
+[14:08] in my lightning wallet to like to spend
+[14:11] something even last time I was in a
+[14:12] restaurant with a a friend and they only
+[14:15] uh took cash and I did not have cash
+[14:17] with me and so he uh paid for me and
+[14:20] then I I gave him with a lightning
+[14:22] wallet the the my share of of of the of
+[14:25] of the coffee and it was really cool
+[14:27] because it was like this cash moment
+[14:29] where like ah we just exchanges
+[14:31] Lightnings on and we exchanged Bitcoin
+[14:33] directly yeah well I was fortunate
+[14:34] enough to go to bitcoin Atlantis in
+[14:36] Madera and uh that that was the first
+[14:38] time really where every single vendor
+[14:40] that was there was actually set up for
+[14:42] for Bitcoin which was terrific you know
+[14:44] they all had lightning terminals um they
+[14:47] also had the Bitcoin cards that you
+[14:49] could load up with uh with SATs as well
+[14:51] so you could use that for payment um I I
+[14:53] used probably half a dozen different
+[14:56] wallets to test them out proper you know
+[14:57] in a live environment and they all we
+[14:59] seamlessly I even have um I've got a
+[15:01] full node of course and I've I've got a
+[15:03] lightning node on my full node at home
+[15:06] and I use tail scale to communicate with
+[15:09] Zeus on my iPhone and even in mad I was
+[15:12] able to use my own lightning node back
+[15:13] at home to to pay for beers and for
+[15:16] pastries and coffees and stuff and it
+[15:18] just worked seamlessly it was really
+[15:19] really good how was mad unfortunately
+[15:23] could not go but uh saw so many great uh
+[15:25] things from there that I was like ah
+[15:27]  I should have gone
+[15:30] yeah yeah yeah I mean I I love mad
+[15:32] anyway because we've holidayed there
+[15:33] many many times so I know it well so the
+[15:35] fact that there was a a Bitcoin
+[15:37] conference and madira rolled in one
+[15:38] package uh I sort of couldn't say no but
+[15:41] the conference itself was it was pretty
+[15:43] spectacular to be honest considering
+[15:45] that they put it together in such a
+[15:47] short time um it was just incredible
+[15:50] lineup of speakers were great uh the the
+[15:53] actual conference venue it was in a
+[15:54] football stadium so it was really
+[15:55] unusual in that the the stage was on the
+[15:57] pitch we were in the stand and then
+[15:59] around The Concourse of the of the of
+[16:01] the Arena they had lots of uh food
+[16:04] stands uh they had art installations
+[16:07] they had a a book thing where auth could
+[16:10] go to sign the books they had a kids
+[16:11] place and they had um an open source
+[16:14] stage as well so it it was fantastic
+[16:16] actually it was very very well put
+[16:18] together and well worth the trip out
+[16:20] there yeah I encourage all those people
+[16:22] to like if they are in Bitcoin even if
+[16:24] they don't want to work in Bitcoin or
+[16:25] stuff like that go to a conference meet
+[16:27] other bitcoiners or go go to a local
+[16:29] meet up or go to some something where
+[16:31] you actually meet uh Bitcoin as in real
+[16:33] life it changes how you view Bitcoin and
+[16:36] it actually makes this thing way more
+[16:38] real when you go to the Bitcoin
+[16:39] conference and you see the Expo area
+[16:41] where all the great companies are there
+[16:43] I always uh encourage people that I
+[16:45] actually see oh Bitcoin is an actual
+[16:47] industry where people work in where
+[16:48] people do something and it's it's
+[16:50] something something really nice it's
+[16:52] something it's good to support them as
+[16:54] well you know they they put all that
+[16:55] effort into putting it together so it's
+[16:57] really good to uh to attend and
+[17:00] support absolutely absolutely and what
+[17:03] is from for you the the what was the
+[17:06] moment for you when Bitcoin clicked like
+[17:07] when you got like oh Bitcoin could
+[17:10] be something could could be more than
+[17:12] just like some some
+[17:15] fed yeah I mean it's going back a while
+[17:17] now I can't remember the exact thing uh
+[17:20] I mean I actually went back many many
+[17:21] years I think it was
+[17:23] 2011 I think possibly the first time I
+[17:25] heard of it um in my previous existence
+[17:28] I was presenter uh i r a screencast I
+[17:31] think called screencast online which is
+[17:33] like a Mac tutorial Service uh it's
+[17:35] still in existence but I just provide
+[17:36] content now um uh one of the presenters
+[17:39] has taken over for for me but as part of
+[17:41] that I actually used to speak on ships
+[17:44] we used to do
+[17:46] cruises uh I think called macmania and
+[17:49] back in uh 2011 I think it was we we
+[17:52] went on a cruise and one of the
+[17:53] presenters there um actually gave us um
+[17:56] a talk about Bitcoin and I think Bitcoin
+[17:58] at the time was around about $10 $20
+[18:01] something like that it was really you
+[18:03] know quite interesting but uh he sort of
+[18:06] told us to go away and um you know Buy
+[18:09] $100 worth of bitcoin it was too
+[18:11] difficult at that time because we
+[18:12] couldn't actually it wasn't easy to buy
+[18:15] so I sort of left it then until I think
+[18:17] around about 2017 when that's when I
+[18:19] started to get back interested in it
+[18:20] again it had gone up to probably around
+[18:22] about s or 8,000 per Bitcoin and I
+[18:25] completely just blanked it out for the
+[18:26] you know between those six years didn't
+[18:29] understand it didn't know what was going
+[18:30] on with it um but I just it just it just
+[18:32] came I don't know how but it came to my
+[18:35] attention and I got really interested in
+[18:37] it and because I was doing these Mac
+[18:39] tutorials um which just wasn't about Mac
+[18:43] and apple stuff I wanted to cover
+[18:44] technology as well I actually did a
+[18:46] couple of shows about Bitcoin at the
+[18:48] time and that that caused me the thing
+[18:50] is when you when you're creating videos
+[18:52] for people yeah tutorials you learn more
+[18:54] Yourself by preparing for them so I I
+[18:57] created two tutorials about Bitcoin back
+[18:59] in 2017 and um you know I was fascinated
+[19:03] to to uh not just the monetary value but
+[19:05] all the other aspects surrounding it as
+[19:06] well you know the social impact not so
+[19:08] much the environmental at the time
+[19:10] because that's only really recently when
+[19:11] the environmental benefits have started
+[19:13] to to proliferate but um yeah so so it
+[19:16] was around about 2017 I just became
+[19:18] really really interested and um and that
+[19:21] was it really I you know I've been deep
+[19:23] down the rabbit hole ever
+[19:25] since I wonder because um you said 2017
+[19:29] I also see that most people come in in
+[19:31] the Peaks when like the price went up
+[19:33] like 2017 was a big Point 2021 and 20120
+[19:37] was a big Point like whenever the price
+[19:38] moves a lot uh I think that's that's
+[19:41] that's the best marketing tool still for
+[19:43] for it's really strange yeah CU because
+[19:46] when I when I started to plan the video
+[19:47] out I think it was about 7,000 uh
+[19:50] because it only took took me like two or
+[19:51] three weeks to to plan the video and
+[19:53] then to record it and to publish it uh
+[19:55] so I I did the first video and I think
+[19:57] it was when I started it was about
+[20:00] 7,000 and then so I wrote my script and
+[20:03] everything was starting to record it and
+[20:04] then by the time I'd finished recording
+[20:05] it had gone up to
+[20:06] 9,000 so I thought well this is weird
+[20:08] and then I planned the second show to
+[20:10] follow a couple of weeks after and then
+[20:12] it gone up to 10 or 11,000 so in the
+[20:14] space of those four months it had jumped
+[20:16] up by about you know $4,000 and but I
+[20:18] was I I was really careful
+[20:21] because I I didn't want to push it as a
+[20:23] as an investment or as a savings
+[20:25] technology I wanted to push it as a
+[20:27] technology that people should be
+[20:28] interested or should be aware of so I I
+[20:31] really downplayed or I tried to downplay
+[20:33] the fact that it was it was actually
+[20:34] going up in value um so you know I
+[20:38] really took it from the angle of what
+[20:39] the technology was how it worked what it
+[20:41] was what its benefits were you know so
+[20:43] the some of the use cases and stuff like
+[20:45] that but all the time as I'm preparing
+[20:47] these shows the price is going up and I
+[20:48] had to reflect that in the show as well
+[20:50] so it was a it was it was a bit strange
+[20:52] bit bit weird what was the exciting
+[20:55] thing about technology outside of being
+[20:57] a store Val outside of being a was it
+[21:00] the payment methods so yeah I think it
+[21:02] was the decentralized aspect of it and
+[21:04] the fact that it was sort of like um an
+[21:06] enclosed ecosystem that sort of ran
+[21:08] itself you know there were no middlemen
+[21:10] and it just worked basically um you know
+[21:13] it been up for such a long time at that
+[21:15] time U with very little downtime um I
+[21:19] just found it really fascinating to you
+[21:21] know H how a money could exist with
+[21:23] because you know we're all familiar with
+[21:24] central banks Etc in the current Fiat
+[21:26] system um you know how how this could
+[21:28] operate independently uh just based
+[21:31] based on maths and code and you know it
+[21:34] seemed like magic really you know it
+[21:35] seemed and again I think this is one of
+[21:37] the reasons why people have difficulty
+[21:39] in adopting Bitcoin because it does seem
+[21:41] too good to be true um not just the
+[21:43] number go up technology but the fact
+[21:45] that you know I know there are
+[21:47] maintainers and stuff and you know the
+[21:48] code does get updated uh but pretty much
+[21:51] it just runs itself and um you know and
+[21:54] it has done for quite a while and we've
+[21:55] never had touch with any any major major
+[21:58] outages it's uh it's pretty spectacular
+[22:00] really yeah I Al love of the memes every
+[22:03] time like Facebook or YouTube or
+[22:05] something like that is down the memes
+[22:07] like oh Bitcoin is still up or even in
+[22:09] the in the weekends when like the banks
+[22:11] are closed and yeah Bitcoin is still
+[22:13] there you can still still use it I love
+[22:15] those those memes is the what do you see
+[22:18] as the the most important aspect is it
+[22:20] is the decentral decentralization of of
+[22:23] Bitcoin the most important for
+[22:25] you um yeah I think it's it's the lack
+[22:29] of Reliance on third parties I think
+[22:31] that's the most uh significant thing for
+[22:33] me the fact that you can become self-
+[22:35] sovereign um I mean I was listening to
+[22:37] your episode with sailor um a couple of
+[22:39] weeks ago and you know it was a great
+[22:40] episode and I I do Echo his feelings I
+[22:43] think we get a little bit too hung up
+[22:45] about this self- sovereignty and uh the
+[22:47] trustless side of things I I think over
+[22:49] time we will need to start trusting
+[22:52] Bitcoin Banks or or or or people who
+[22:54] will help people on board Bitcoin more
+[22:57] um but the fact that you you can be
+[22:59] self- Sovereign if you want um is is
+[23:01] quite a you know it's quite an
+[23:04] incredible thing really um and just have
+[23:05] complete ownership of the asset no one
+[23:07] can take it away from you um it's it's
+[23:10] it's the way it's been engineered is is
+[23:12] quite significant does trust thing is is
+[23:15] really important because people don't
+[23:17] get it um we we always have to trust any
+[23:20] something like I I trust that when I
+[23:23] bring my garbage down that once a week
+[23:25] the garbage is taken out and and they
+[23:27] they do something with I trust this
+[23:30] chair that it does not fall apart and
+[23:31] that he he did a great job like we trust
+[23:33] in our lives so many people and so many
+[23:36] objects and so many things along the way
+[23:38] even like hard wallet uh devices and you
+[23:41] have to trust them that they don't have
+[23:43] anything weird on there you have to
+[23:45] trust the the parcel that there's
+[23:47] nothing manipulated so it's always trust
+[23:50] involved uh so um when when people get
+[23:53] like oh there are Bitcoin Banks and
+[23:55] stuff like that of course people some
+[23:57] people trust the third part party uh to
+[23:59] take their keys more than they they
+[24:01] trust themselves because they're like ah
+[24:03] I just want to have have that and also
+[24:05] salor point about when you have like a
+[24:08] big company with like millions and
+[24:10] millions of dollars you don't want to go
+[24:12] out on the Visa like oh yeah I hold all
+[24:14] the keys please kill me yeah exactly
+[24:17] yeah yeah yeah and people I mean let's
+[24:19] face it you know not everybody's going
+[24:21] to run their own node it's it's just not
+[24:23] going to happen um you know and also not
+[24:26] everyone's going to be able to hold
+[24:27] their own keys um again either from a
+[24:30] technical standpoint or from the fact
+[24:31] that they don't want to because you know
+[24:34] they they just don't want the
+[24:35] responsibility I mean there are great
+[24:37] Solutions great multisig solutions that
+[24:39] people can buy into but um you know it
+[24:42] does take a little bit of not a lot but
+[24:44] a little bit of tech savvy you know um
+[24:46] and these will become more simple over
+[24:47] time but but people just don't want to
+[24:49] do that so I think we we need to
+[24:51] appreciate that and um I think we'll see
+[24:54] more and more services that will will
+[24:56] help will onboard people uh in more
+[24:58] simpler fashion um but we we will need
+[25:01] to have some level of trust um moving
+[25:04] forward and I see a lot of different
+[25:06] options with self custody and I have a
+[25:08] little bit of a problem maybe you can uh
+[25:11] give some feedback here but uh when I
+[25:13] see uh the internet adoption uh like in
+[25:16] the beginning when I see emails a lot of
+[25:18] people said back then I was not I was
+[25:21] not there because I'm too young for that
+[25:23] but in the beginning of email people
+[25:24] said like oh everyone will run their own
+[25:26] email servers now everything is on Gmail
+[25:29] um then like how many people could
+[25:31] actually um put together an email and
+[25:33] send it and understand like oh okay it
+[25:35] goes there and then what to do I do with
+[25:37] the tech now my grandma is on WhatsApp I
+[25:39] can write her on WhatsApp so like the
+[25:42] the thing got way easier uh and we and
+[25:47] and everyone can do it now is self custy
+[25:49] something that will be so easy that
+[25:51] almost everyone will do it or will it
+[25:53] always be like a niche thing and where
+[25:56] uh Banks and third parties will will
+[25:58] take care of it um yeah I no I do think
+[26:01] it's it will be an N thing take s
+[26:02] custody uh although it will become
+[26:04] easier over time and the option will be
+[26:05] there for people who want to do it but
+[26:07] it's interesting you mention email
+[26:08] because I mean I I was there
+[26:09] unfortunately you know I I was there
+[26:11] when the email first came out you know
+[26:13] um I was I was here before you know PCS
+[26:15] and computers came out so you know I was
+[26:17] there to see what happened the really
+[26:19] interesting thing about email and and
+[26:21] the the comparison is that um we sort of
+[26:25] had email in Internet and stuff um and
+[26:28] we could we could communicate with our
+[26:30] own people you know on our local
+[26:32] internets and stuff using email and then
+[26:34] suddenly literally overnight at least it
+[26:36] felt to me overnight suddenly the the
+[26:38] global network was there of emails and
+[26:40] it literally happened so quickly uh
+[26:43] literally within what felt like the
+[26:45] blink of an eye you went from having you
+[26:47] know internet to a Global Network and I
+[26:50] think we're probably going to see
+[26:51] something similar with with Bitcoin you
+[26:53] know at the moment we we've we've got
+[26:55] Niche people we we we've got people who
+[26:57] are really understand understand it but
+[26:59] it's not really there for everybody but
+[27:01] I think um although it you know it will
+[27:03] probably feel a bit longer than the
+[27:04] blink of an eye but over the space of
+[27:05] six months or something we we'll
+[27:07] probably see a shift from the current
+[27:09] system to you know a worldwide adoption
+[27:12] of Bitcoin really really quickly a lot
+[27:14] quicker than people
+[27:16] um are thinking of in the same way that
+[27:19] we saw that with email you know it
+[27:20] probably took six months to a year for
+[27:22] the email to to sort of spread itself
+[27:24] out globally but at the time it it
+[27:27] seemed really really quick and I'm sort
+[27:29] of anticipating we we'll sort of have a
+[27:31] similar feeling when we look back at you
+[27:33] know when when Bitcoin became uh a mass
+[27:36] medium of adoption or or you know the
+[27:37] mass mass people adopted it that it
+[27:39] happened really really
+[27:41] quickly do you see the internet adoption
+[27:44] email adoption uh right now when we see
+[27:48] like Bitcoin is now at a similar stage
+[27:50] where internet and and and this adoption
+[27:52] was like
+[27:53] 1992
+[27:55] 57 do you see like this
+[27:58] boom still coming that we had in the
+[28:01] 2000s uh no not really I mean I still
+[28:03] see sort of you know the the parallel to
+[28:06] to bitcoin adoption is you know at the
+[28:08] time when all those hardened nerds had
+[28:10] dial up modems and stuff you know were
+[28:12] logging into bulletin boards and stuff
+[28:14] it's it's it feels as though it's that
+[28:15] sort of thing perhaps a bit further on
+[28:17] than that because there are so many uh
+[28:19] companies involved in it now but uh I
+[28:21] still think we're in the very very early
+[28:23] days of mass adoption um and things will
+[28:25] change significantly once uh you know
+[28:27] the the the big players get
+[28:30] involved I love it a lot and one topic
+[28:33] that I also wanted to cover with you
+[28:34] because you started a podcast and we
+[28:36] talked a little bit before that um when
+[28:39] you you were in an IT career and then
+[28:41] you started as a hobby a podcast and
+[28:44] then you actually made it a business out
+[28:45] of that which sounds very familiar
+[28:47] because I was also in an IT job then I
+[28:49] started a podcast hobby then I actually
+[28:51] oh was was there like oh I could make
+[28:53] actually money from that and I can
+[28:54] actually live on that then I quit that
+[28:57] um when was the the moment for you when
+[28:59] you realized this this Hoy podcasting
+[29:02] could actually pay your
+[29:04] bills yeah well I I I originally I
+[29:06] started off with the idea of doing a a
+[29:08] Mac podcast but like an audio podcast um
+[29:12] and then I bought the gear I bought the
+[29:14] microphone I bought a domain name even
+[29:16] you know had it all set up and I sat
+[29:17] down in front of the mic and thought you
+[29:20] know what am I going to talk about you
+[29:22] know there wasn't you know I sort of so
+[29:24] sort of went back to the drawing board
+[29:26] and um at the time
+[29:28] uh I was quite new to the MAC at the
+[29:30] time I was I've been a PC guy for most
+[29:32] of my it career but it was only uh sort
+[29:35] of like 2004 I think it was when I moved
+[29:37] across to the mac and I was really
+[29:39] enthusiastic enthusiastic about it and I
+[29:42] was evangelizing to my friends and
+[29:44] family Etc and then one of my one of my
+[29:47] uh family members actually bought a Mac
+[29:48] and I needed to show her how to use it
+[29:50] because she didn't live near me so I
+[29:51] started making these screencasts these
+[29:53] video um which I did the narration on to
+[29:56] to walk through how to use the mac and
+[29:57] how to use apps and stuff and then I
+[29:59] realized that you know it's a video um
+[30:01] with RSS you can deliver video as well
+[30:04] as audio in a podcast so I set up one of
+[30:06] the first video podcasts uh this is
+[30:08] before YouTube um and I would deliver
+[30:10] the content via RSS and then it was
+[30:13] completely free service just a hobby I
+[30:15] did the weekend and then I thought and I
+[30:17] was getting a lots of people actually
+[30:18] contact me saying you know we really
+[30:19] love the videos and they're really
+[30:20] helpful so can we donate can we you know
+[30:23] give you some cash to help out with the
+[30:25] hosting and bandwidth Etc at the time
+[30:27] bandwidth was quite expensive especially
+[30:29] for video and then that sort of you know
+[30:31] said oh perhaps if I do some more videos
+[30:34] or perhaps exclusive videos for people
+[30:36] who want to pay for them So eventually I
+[30:38] went from doing like four videos four
+[30:40] free videos a month to three videos
+[30:43] which were free and then one which was a
+[30:44] a premium video and I set up a
+[30:46] membership site and so people could
+[30:48] become members and then over the years
+[30:50] it sort of went to two three videos to
+[30:52] two paid videos then three paid video So
+[30:54] eventually I sort of built up an
+[30:55] audience and um eventually it was a a a
+[30:58] membership site which we deliver two
+[31:00] videos each week to uh paying members
+[31:03] but also creating some free content as
+[31:05] well and that was that was how I was
+[31:07] able to monetize it over time really
+[31:09] thank you you already made it halfway
+[31:11] through the video and I'm really really
+[31:13] grateful to have you here two things
+[31:15] make this channel possible you as a
+[31:18] watcher and listener who keep supporting
+[31:20] this Channel and another one is all the
+[31:22] Bitcoin brands that I partner up with
+[31:25] like 21 Bitcoin who support me from the
+[31:27] very start and where I personally buy my
+[31:29] Bitcoin from with code Robin you even
+[31:31] get a discount when you buy Bitcoin with
+[31:33] them and now also bitbox bitbox is the
+[31:37] simplest and securest way to secure your
+[31:40] Bitcoin and I heard a crazy statistics
+[31:42] only 2% of bitcoiners hold their Bitcoin
+[31:45] in a hardware wallet how crazy is that
+[31:47] don't be in that 98% bracket be in the
+[31:51] 2% bracket and if you have self- custody
+[31:53] and you know your friend does not have
+[31:55] maybe he needs a Christmas present maybe
+[31:57] he needs a the present and a small life
+[31:59] hack if you use code Robin you get 5%
+[32:02] off your order plus you support my
+[32:05] channel and now let's get back to the
+[32:07] video so this was 20056 before YouTube
+[32:10] yeah I started as a hobby in 2005 and
+[32:12] then 2006 uh we launched it as
+[32:15] screencast online which is the
+[32:16] membership the membership system still
+[32:19] going to this day I'm glad to
+[32:21] say amazing I love it a lot uh yeah also
+[32:25] my podcast I want to run this all my
+[32:27] life I I don't want to stop it anytime
+[32:29] soon it's just fun to have conversations
+[32:32] it's it's fascinating that I can
+[32:33] actually live on that but but even if I
+[32:36] could not uh then I would have not do it
+[32:38] every day I would maybe do it once a
+[32:39] week or twice a week uh because it's
+[32:42] quite easy actually to operate it like
+[32:43] all this the things that you had to do
+[32:45] for me it's like yeah yeah well well
+[32:48] when I started of course we didn't have
+[32:49] the tools then so when I started I I did
+[32:51] the website I did the you know all the
+[32:53] advertising but we didn't do advertising
+[32:55] we still don't really it's all
+[32:56] membership subscriptions so so I did it
+[32:58] was basically a oneman band uh and then
+[33:00] over time um you know uh I brought in
+[33:03] extra presenters uh people to help with
+[33:05] the production side of stuff um and then
+[33:08] probably for the past four or five years
+[33:10] I've sort of gradually started to step
+[33:12] back I still produce content for the
+[33:13] show but I was managing the show and
+[33:15] managing um you know the business side
+[33:17] of it um so now I've reached the grand
+[33:19] old age of 65 I decided it was time to
+[33:22] step back a little bit further so I've
+[33:23] sold the business to I say Lee who's one
+[33:26] of the presenters that's been with us
+[33:27] for years
+[33:28] uh and I now just create content so I'll
+[33:30] create articles for our magazine and
+[33:31] I'll create videos um on a slightly
+[33:34] slightly reduced rate than I have done
+[33:35] before but it's the best of both worlds
+[33:37] I don't have the worry of or the stress
+[33:39] of running a business but I do get to
+[33:41] create the content and I can free myself
+[33:43] up for other interests such as you know
+[33:45] Bitcoin or um whatever I want to do now
+[33:47] so I'm sort of fortunate in that way in
+[33:50] that uh I've sort of semi-retired and
+[33:52] Bitcoin has played a part of that as
+[33:54] well because obviously I've been I've
+[33:55] been stacking uh I have a standard
+[33:58] pension as well but it's nice to have
+[33:59] the um the peace of mind that I've also
+[34:03] got not just my sort of standard pension
+[34:05] but I will also have a a Bitcoin stack
+[34:08] as well which hopefully will grow over
+[34:10] time and uh you know help me out in my
+[34:11] in my future
+[34:13] retirement if it would be now 25 would
+[34:16] you take Bitcoin as like your your
+[34:18] pension plan as oh yeah yeah yeah yeah
+[34:21] oh yeah any day yeah and and the problem
+[34:22] is we we can't uh here in the UK uh the
+[34:25] only way that you can actually have any
+[34:28] Bitcoin exposure in your pension plan um
+[34:30] is to basically follow the root of of
+[34:33] getting micro strategy um you know
+[34:35] adopting micro strategy shares in your
+[34:37] pension so you can do that here in the
+[34:39] UK um I actually did have a a pension
+[34:42] with a one prent pension provider who
+[34:44] wouldn't allow me to do that so I
+[34:46] actually move my pension uh into what's
+[34:48] called a sip which is a self-invested
+[34:50] pension plan so now I've got free full
+[34:52] control over what I can invest my
+[34:54] pension in and you know I've actually
+[34:56] taken some steps to invest in my
+[34:57] strategy and uh some other stocks and
+[34:59] shares that I think are going to be uh
+[35:01] good but um yeah we got we can't have a
+[35:04] whole pension I know in Australia that's
+[35:06] possible that you can actually um put
+[35:08] your pension into Bitcoin uh so at the
+[35:11] moment now I have a separate Bitcoin
+[35:12] stack and then I have my traditional
+[35:15] pension but I have got exposure to
+[35:17] Bitcoin in there through micro strategy
+[35:19] um and also like we have a thing called
+[35:21] an Isa which is a taxfree rapper it's
+[35:23] not a pension but you it's like a
+[35:25] savings plan and again you can invest in
+[35:27] stock and shares and again I've I've got
+[35:29] some exposure to Bitcoin in my Isa by
+[35:32] investing in micro strategy and a couple
+[35:34] of the other Bitcoin companies a couple
+[35:36] of Bitcoin Miners and stuff like that so
+[35:38] I am exposed although I haven't actually
+[35:39] got actual Bitcoin of course in the UK
+[35:42] uh we we can't have access to the
+[35:44] Bitcoin ETFs um just because of our
+[35:48] Draconian Financial rules don't allow us
+[35:50] to do that so you know the only option
+[35:52] is to go down down the micro strategy
+[35:54] route if you do want to expose you to
+[35:55] Bitcoin in in traditional finan IAL
+[35:58] rappers yeah it was a it was a massive
+[36:01] move for Michael saor to do that because
+[36:03] I know a lot of people who have Micro
+[36:06] strategy and they have it as a Bitcoin
+[36:08] play I know a lot of people I don't know
+[36:11] to deal with a self- custody I don't
+[36:13] know to deal with this unsecure Bitcoin
+[36:14] exchange I know stocks I just buy some
+[36:17] micro strategy and have exposure like
+[36:19] that it's like okay but but yeah he he
+[36:22] made a he made it he made it really
+[36:24] great and what I'm also interested in in
+[36:26] when you started the podcast because it
+[36:28] was so significant in my life at least
+[36:31] till now um that I made the jump from a
+[36:34] steady career where I was working
+[36:36] already six years there to actually say
+[36:39] like Oh I like that job I like the
+[36:41] environment but I like this podcasting
+[36:43] thing and this Bitcoin thing even more
+[36:46] so I quit that put it aside and and do
+[36:49] only that how was how was it for you to
+[36:51] like jump from this hobby to a business
+[36:54] and from this career to actually being
+[36:56] self FL yeah yeah um it wasn't too bad I
+[37:00] just found that I had to be very um
+[37:02] strict with myself um very sort of
+[37:04] disciplined so you know um I did treat
+[37:07] it as a job so when I left my corporate
+[37:10] it job um it was a very stressful job
+[37:12] you know I didn't really enjoy it if I'm
+[37:14] honest you know it was too stressful um
+[37:16] the pay was great which was one of the
+[37:18] issues I sort of felt as though I had
+[37:19] what we say is golden handcuffs so you
+[37:22] know I was on a really good salary um
+[37:24] but you know to be honest with the
+[37:26] support of my wife because we had two
+[37:27] young kids at the time so it was a big
+[37:29] big jump really to go from a full-time
+[37:31] highly paid it job to a podcaster you
+[37:35] know no one had even heard of what a
+[37:36] podcast it was uh but you know it was it
+[37:40] was a hobby and I really enjoyed
+[37:41] creating the the content it was mainly
+[37:43] of a weekends so I really enjoyed it and
+[37:46] when people started to reach out to
+[37:48] offer money to support it I thought well
+[37:51] you know it's it's it's potentially
+[37:53] viable I'll give it a year and see you
+[37:55] know how how we can build it um and um I
+[37:58] I was lucky enough at the time because
+[37:59] there were so few of us uh especially in
+[38:01] the video podcast I um I had an
+[38:04] interview by a guy called Robert scoble
+[38:05] I don't know if you're familiar with
+[38:06] Robert scoble he's a um a us-based um
+[38:09] sort of tech influencer used to work for
+[38:11] Microsoft but he um he was kind enough
+[38:14] to interview me on one of his shows and
+[38:15] uh to be honest it sort of took off from
+[38:17] there because he had a big audience so
+[38:19] people got involved uh got interested
+[38:21] came to see the site signed up as
+[38:23] members and you know it sort of
+[38:25] snowboard from there really but yeah
+[38:27] it's it was a big leap a big leap of
+[38:29] faith um but I treated it as a job so
+[38:31] I'd always I'd work every day Monday to
+[38:33] Friday 9 till 5: um and I'm I'm
+[38:37] fortunate in that I'm I could work by
+[38:39] myself quite easily you know I didn't
+[38:41] need a a team around me to energize me I
+[38:45] could quite easily energize myself to to
+[38:47] actually produce the content and it was
+[38:49] fascinating as well I learned a lot
+[38:52] about website development and you know
+[38:54] the psychology of of members and stuff
+[38:56] you know and how to to U how to how to
+[38:59] grow the business from that point on so
+[39:01] yeah it was it was a big leap of faith
+[39:03] but I'm glad it actually did pay off
+[39:05] which is a good thing I love it because
+[39:08] uh when you did it it was way harder
+[39:12] right now it's it's like you have so
+[39:13] many
+[39:14] testimon so many role models and so many
+[39:17] people that already did it we we have so
+[39:19] many examples of content producers
+[39:21] content creators who like oh yeah you
+[39:23] can actually make a little thing out of
+[39:25] that and you can make it and you you
+[39:26] just have to produce a video and put it
+[39:28] on YouTube and YouTube does a lot for
+[39:30] you yeah yeah in some respects I it's
+[39:32] it's probably it was probably easier
+[39:35] when I started uh if I'm honest because
+[39:37] there was very little competition uh I
+[39:39] mean there wasn't another Mac Tech
+[39:41] podcast a video podcast that I can think
+[39:44] of at the time I launched there were a
+[39:46] couple of audio podcasts um but there
+[39:48] were no tutorial podcasts um I say there
+[39:51] was no YouTube so um people couldn't
+[39:54] well that's that's a negative because
+[39:55] they couldn't find you but you know
+[39:57] there wasn't really a lot of competition
+[39:58] I think it's probably a lot harder um
+[40:01] because you've got so much competition
+[40:02] now of people actually developing really
+[40:04] good quality content that um you know I
+[40:07] think it it would be quite difficult for
+[40:08] me to replicate what I did then to the
+[40:10] level that I got um this this day and
+[40:13] age it really would you know would be
+[40:16] quite difficult to do that but you know
+[40:18] the there there's there's plenty of
+[40:20] scope for people to still create great
+[40:21] quality content and and push out there
+[40:23] it's just based on if the if you produce
+[40:25] good quality content people will find it
+[40:26] and then it will will be you know
+[40:28] interesting I I thought it it was
+[40:30] probably harder because also there were
+[40:32] not that many people watching but it's
+[40:34] like the probably like there was so many
+[40:37] less people producing but still a lot of
+[40:39] people watching and and and then just
+[40:41] searching for that kind of content and
+[40:43] now yeah everyone is watching and
+[40:45] everyone is listening but there are so
+[40:47] many people actually doing a Bitcoin
+[40:48] podcast I even like just like a Bitcoin
+[40:50] podcast there's so many out there
+[40:52] already yeah uh well the good thing is
+[40:55] though um that it's very similar to the
+[40:58] Mac I mean I did a Mac tutorial podcast
+[41:01] and the Mac Community especially back
+[41:03] then when this is before iPods this is
+[41:05] before iPads and iPhones it was just the
+[41:07] Mac basically um the the the community
+[41:10] was fantastic um and very supportive so
+[41:14] you know people people really wanted to
+[41:16] um take the information in and I see
+[41:18] that there are parallels with the
+[41:20] Bitcoin Community because you know the
+[41:21] Bitcoin Community is very supportive
+[41:23] they want lots of content uh there's so
+[41:26] much to learn that you know they they
+[41:28] really do um want more and more podcasts
+[41:32] and one of the things I was going to
+[41:33] thinking of when I retired was perhaps
+[41:34] do my own not not um not a big podcast
+[41:38] but you know perhaps a a Bitcoin
+[41:39] tutorial type podcast um so completely
+[41:42] away from the Mac side of things but
+[41:43] just just really um for complete newbies
+[41:47] you know just just let them understand
+[41:49] the basic principles of of what Bitcoin
+[41:51] is and you know how you can get into
+[41:54] Bitcoin and what wallets are and stuff
+[41:55] like that but but very much aim at the
+[41:57] complete newbies um so that was an idea
+[42:00] I had I haven't sort of brought it
+[42:01] fruition yet but uh it's something I
+[42:03] might do in the not too distant future I
+[42:06] don't know we'll have to see I would
+[42:07] love it I would love
+[42:09] it yeah I mean the thing is as well is
+[42:12] you know would with my age as well I
+[42:14] think there's a lot of people um around
+[42:16] about my age who've got no clue what
+[42:17] Bitcoin is uh I mean it's quite unusual
+[42:20] um you know I'm probably one of the
+[42:21] older older U bitcoiners I know there's
+[42:24] Larry leard and there's a few other
+[42:25] people who are of a similar age to me um
+[42:28] but I I think people would probably
+[42:30] learn more people of my generation would
+[42:32] probably learn more or be more
+[42:34] approachable or more receptive to
+[42:36] information from someone roughly the
+[42:38] same age which I think they're not
+[42:39] really they're not really given that at
+[42:41] the moment so I think there's a
+[42:43] possibility there but as I say we'll
+[42:44] just have to see how much time that
+[42:46] might take up and whether or not it's
+[42:47] something I want to uh to to invest my
+[42:49] time in probably will but you know see
+[42:53] how how old are you if I'm allowed to
+[42:55] ask uh 65 yeah 6 next year so officially
+[42:58] retiring age next year so no next month
+[43:02] yeah next month Yeah you mentioned it
+[43:04] before and yes I can actually uh right
+[43:06] now I have my statistics out I have uh
+[43:10] 12.8% between 55 and 64 years old and I
+[43:14] have actually 8% of my viewers are over
+[43:17] 65 years old so even such a young guy
+[43:22] like me because I'm just like 25 years
+[43:24] old uh has a lot of uh people that are
+[43:28] older uh in in the community and I even
+[43:30] have like a smaller Community I have
+[43:32] like Channel memberships also like they
+[43:34] are paying for each month okay and I
+[43:37] make with them like a video call each
+[43:39] month and there is a 76 year old guy in
+[43:42] there who I AB absolutely love and and
+[43:45] we have great conversations but it's
+[43:47] like uh he he he's like 76 and I'm 25
+[43:51] there's a the whole life in between um
+[43:54] but it's great but we can learn from
+[43:56] each other
+[43:57] I love it a lot and so I think there's
+[43:59] definitely demand there's definitely um
+[44:03] an an demand for uh people above 60 to
+[44:07] make content uh for Bitcoin that's
+[44:10] definitely a thing yeah I think I think
+[44:12] youer people as well are more familiar
+[44:14] with YouTube and seeking content out you
+[44:16] know and and researching and you know
+[44:18] just just finding the information that
+[44:20] they want quite easily whereas for
+[44:22] people over a certain age it doesn't
+[44:24] come as natural to them um and I think
+[44:26] as well the demand will only increase
+[44:28] over time because you know as Bitcoin uh
+[44:31] increases in value and becomes more
+[44:32] prevalent in the mainstream um you know
+[44:34] older people will say Well's what's all
+[44:36] this about you know so um I I think that
+[44:39] that side of the uh the audience will
+[44:42] actually grow over time as well or the
+[44:43] people who will need uh good I mean
+[44:46] we're not talking about you know how to
+[44:48] create you know set up your own node and
+[44:50] stuff just just very very basic this is
+[44:52] what Bitcoin is this is how you get into
+[44:54] it and you know and then some of the
+[44:56] benefits behind it um you know but we'll
+[45:00] see I just just saw that and and I was
+[45:03] fascinated by it I have more uh people
+[45:05] in my audience that are over 65 than
+[45:08] under
+[45:09] 25 really yeah I have 6% exactly under
+[45:14] 25 and uh 7.4% over 65 so it's like more
+[45:20] people uh above after work than before
+[45:24] work so like that I would put it it's
+[45:26] interesting to to see yeah yeah yeah
+[45:28] yeah it's
+[45:29] fascinating um a selfish question that I
+[45:32] have right now for you um what would you
+[45:35] give me as an adwise as I just started
+[45:37] out the podcasting of course it's it's
+[45:39] way different than when you started
+[45:41] podcasting and and when you started
+[45:43] membership stuff like that but what's
+[45:44] the one advice you would give me for for
+[45:47] my podcast and for my uh thing that I
+[45:49] just like started that's a tough one um
+[45:52] yeah it's just be true to yourself
+[45:53] really and and I always put myself in
+[45:56] the uh um the other person's shoes so
+[45:58] you know if I was watching this what
+[46:00] would I want to get from the content I'm
+[46:03] producing um you know and and also you
+[46:06] know just just just be true to yourself
+[46:08] basically and uh always strive to
+[46:10] deliver a good quality product um again
+[46:13] you know with video people don't realize
+[46:14] that the audio on on the video is just
+[46:16] as important as the the video so I
+[46:18] always sort of used to strive to make
+[46:20] sure that the production values were as
+[46:22] top-notch as they could possibly be so
+[46:24] both in audio quality and the editing um
+[46:27] so it was a nice polished product that
+[46:28] you could actually ship out to people so
+[46:31] yeah you just pay attention to the
+[46:32] quality and um you know that's that
+[46:34] should be enough to uh to you know to to
+[46:37] gain the attention of of a a valued
+[46:40] audience I even saw that the audio is
+[46:43] more important than the video especially
+[46:45] when your video is longer than like five
+[46:47] minutes long and M usually like around
+[46:49] one hour long we are already recording
+[46:52] 50 hours uh 50 minutes now uh 50 hours
+[46:55] would be something
+[46:57] but uh because more people uh actually
+[47:00] listen to it like they I don't know they
+[47:02] do laundry or they go for run and just
+[47:04] have it on the the earphon so like the
+[47:06] audio is way more important as I see it
+[47:09] uh than the video but the video is still
+[47:11] great if if this has some some things to
+[47:14] it like also switch between the crit VI
+[47:16] and and the single View and stuff like
+[47:18] that so uh I try to do a lot with that
+[47:20] and I see also when uh there's a video
+[47:23] podcast like I did with sailor where
+[47:25] it's actually like there actually in a
+[47:27] room together uh people actually like
+[47:30] that and and watch longer and and and
+[47:32] and do enjoy and actually conversation
+[47:35] in an actual real world setting and more
+[47:38] than just just remote but people still
+[47:41] like the remote stuff because then you
+[47:42] can connect people from all around the
+[47:44] world really easily I must admit I I
+[47:46] tend to I mean I mean I listen to lots
+[47:49] of Bitcoin podcasts and I have done you
+[47:51] know hundreds of hours if not thousands
+[47:53] of hours of podcasts I've consumed over
+[47:55] the years um but I I I must admit it's
+[47:57] very rare that I'll sit down to watch a
+[47:59] video podcast uh I think it might be
+[48:01] because my attention span is is a lot
+[48:03] less than it used to be uh whereas you
+[48:05] know I'll put my earpods in and go for a
+[48:07] walk or or walk the dog or something and
+[48:08] I I'll listen to a podcast or in the car
+[48:11] uh there's another place where I'll
+[48:12] listen to podcasts a lot um but it's
+[48:14] very I might start watching a podcast
+[48:16] and and then never get through it and
+[48:18] then listen to the rest on on audio
+[48:20] later on but the difference is that if
+[48:22] there are charts and stuff when it's
+[48:24] valuable to see that visual component
+[48:26] then I might go back and rewatch it with
+[48:28] the charts and stuff um but yeah yeah so
+[48:31] I must admit my you know um the podcast
+[48:34] of yours that I've I've consumed I've
+[48:36] actually listened to rather than watched
+[48:37] um but you know some people are some
+[48:39] people do enjoy the video content uh the
+[48:41] thing with my video content is that
+[48:44] because it's a screencast it's actually
+[48:46] showing you the Mac desktop and the
+[48:48] software itself so you can't really
+[48:51] listen to it you you have to watch it
+[48:53] because you know curse is going all over
+[48:55] the screen and I'm pointing things out
+[48:57] within the application um so that's why
+[48:59] mine was a a a total video podcast and
+[49:02] an audio podcast would have been
+[49:04] completely useless to be honest although
+[49:06] I did people have told me in the past
+[49:07] that they have listened to my voice to
+[49:10] get off to sleep in the nicest possible
+[49:11] way they said you because that was
+[49:14] another thing with me being English uh
+[49:15] most of the audience were from the
+[49:17] states and I've been over there quite a
+[49:19] few times and met quite a few people
+[49:20] over there and they said oh we we love
+[49:21] your accent I'm from Liverpool in the UK
+[49:24] so we love your accent um but I hope you
+[49:26] don't mind me telling you this but I
+[49:28] sometimes put you on in the background
+[49:29] as I as I drift off to sleep and it just
+[49:31] helps me sleep okay well whatever floats
+[49:33] your boat you know that's
+[49:35] fine I heard that actually too already
+[49:40] really I I heard uh some people have me
+[49:43] as because I do it every day uh so you
+[49:46] can make a nice daily routine with it so
+[49:48] some people are like just like run uh
+[49:51] when when they're out and like oh I'm
+[49:53] running and have my podcast out so like
+[49:54] like I always run every day for minutes
+[49:57] put your podcast in there or I I have
+[50:00] you as my breakfast podcast or like or
+[50:03] before sleep like calm down because I
+[50:05] usually like I have nonaggressive
+[50:08] podcast style I I I don't ask questions
+[50:12] that bring up uh any debates like I you
+[50:15] rarely rarely uh say to my guests that I
+[50:18] disagree on something I rather stick to
+[50:20] like I want to know why he thinks like
+[50:22] that and not debate him I think that's a
+[50:25] way way better thing and and so
+[50:27] like to sometimes relax to the podcast
+[50:30] as I
+[50:31] saw no it's very true Did you saw um
+[50:35] because you mentioned attention span um
+[50:38] many people make the argument oh the
+[50:40] attention span of the general population
+[50:42] gets decreased with like the formats of
+[50:44] of Tik Tok and and and with the formats
+[50:46] of the really small um short video form
+[50:50] but then there are also people that make
+[50:52] like a Netflix marathon and they stick
+[50:54] to it four hours it's it's it's maybe
+[50:56] not a good attention but they still hold
+[50:58] the attention to something a long time
+[51:00] do you do you think that the attention
+[51:01] span got decreased over your
+[51:05] lifespan um personally yeah yeah I would
+[51:09] say so because I used to enjoy TV a lot
+[51:11] I used to enjoy movies a lot and now it
+[51:13] has to be a really good movie now for me
+[51:14] to for it to keep my attention if it if
+[51:16] it doesn't grab me within the first 10
+[51:17] or 15 minutes you know I I'll move on to
+[51:20] something else um although in my own
+[51:22] podcast um it was always said to me oh
+[51:25] you know you need to make sure short
+[51:26] short content you know um but we always
+[51:30] I always went with um like a long form
+[51:32] video tutorial so i' I'd do like a
+[51:35] 10-minute tip video um halfway through
+[51:38] the week and then the end of the week it
+[51:40] would be like a long form 40 minutes 50
+[51:42] minutes sometimes you know which is
+[51:44] quite a long time for someone to to keep
+[51:47] attention and to study but um the long
+[51:49] form ones always seem to do really
+[51:50] really well people as long as they were
+[51:52] interested in the topic um you know if
+[51:55] they if they weren't interested in the
+[51:56] particular topic they would probably you
+[51:57] know jump out after the first five
+[51:58] minutes or so but if it's something they
+[52:00] wanted to learn they would actually uh
+[52:02] quite enjoy the long form content really
+[52:04] but personally yeah I I I have found as
+[52:06] I've got older that if it doesn't grab
+[52:08] me straight away I'll I'll bail on to
+[52:10] something
+[52:11] else I now try to use the short form
+[52:15] content uh as a interest generation for
+[52:19] the long form like I put out five to 10
+[52:23] short clips of like 10 seconds one minut
+[52:27] 2 minutes 30 seconds 40 seconds whatever
+[52:29] it is out to all the platforms
+[52:32] automatically distributed and I see
+[52:35] people like oh it's interesting the
+[52:36] podcast I like that and then I they go
+[52:39] and watch the whole thing and it's
+[52:40] directly connected and directly linked
+[52:42] so this is definitely something also
+[52:44] with the inperson stuff I saw that when
+[52:46] you have an inperson setting um the
+[52:49] short form content actually uh performs
+[52:52] way better for the long form content it
+[52:54] does not matter that much because more
+[52:56] people listen but then if you have short
+[52:58] form then this is just what I what I
+[53:00] learned yeah um no absolutely absolutely
+[53:03] and that's something that I was planning
+[53:04] on doing when before I uh moved away
+[53:07] from uh sort of managing screencast
+[53:09] online we were I think Lee is going to
+[53:11] stood sort of take that strategy as well
+[53:14] you know uh short 10 15 20 second clips
+[53:17] that will bring you back into the long
+[53:19] long form tutorials or when I say short
+[53:21] form they're like 10 minutes to tip
+[53:22] videos which aren't really short form
+[53:24] but they're you know a lot longer than
+[53:26] the the 22nd uh sort like Tik Tok type
+[53:29] clips that there are but yeah that's
+[53:30] something that we'll be looking at in
+[53:31] screencast online to do that as well
+[53:34] amazing then uh we come slowly to our
+[53:36] end routine uh which is two questions
+[53:39] the one question is always the same
+[53:40] question for every guest and the other
+[53:41] one is coming from the previous guest uh
+[53:44] the first question that is always the
+[53:45] same uh what are you currently
+[53:47] passionate about besides Bitcoin um well
+[53:50] I'm not passionate about it but I've
+[53:52] just bought a 3D printer so I've just
+[53:55] literally yesterday um you can probably
+[53:57] see it over oh it's it's it's pH but on
+[54:00] my desk behind me I've just bought a 3D
+[54:02] printer um and um fascinating you know
+[54:06] really interesting to delve into the
+[54:08] technology um consume quite a few
+[54:10] YouTube videos about setting it up and
+[54:13] some of the aspects um so yeah yeah so
+[54:15] that's that's my my current U Obsession
+[54:19] let's say I love it a lot I I I
+[54:21] intentionally do this question always
+[54:23] because I think that bitcoiners are
+[54:25] really interesting people and that we
+[54:26] can learn from each other other than
+[54:29] just Bitcoin and other than just uh uh
+[54:32] Bitcoin and some money in the financial
+[54:33] aspect so I always try to get get this
+[54:35] in the podcast and the other end routine
+[54:38] where you get a question from the
+[54:40] previous guest without know the previous
+[54:42] guest had a question for you without
+[54:44] knowing who is actually the the the next
+[54:46] guest uh and the question for you is can
+[54:49] you share the moment with us when
+[54:51] Bitcoin clicked for you and I kind of
+[54:53] got an ins similar question already in
+[54:55] there uh when when you made the uh yeah
+[54:58] I think I got asked it already right
+[55:01] yeah yeah that was the 2017 but I'm not
+[55:03] quite sure what it was how it had
+[55:05] surfaced but yeah that that was
+[55:06] roundabout when it clicked for me yeah
+[55:09] yeah you do you remember what made it
+[55:11] click for you I don't know um I don't
+[55:14] know because it's a long time ago
+[55:16] now and so much was going on at the time
+[55:18] but uh yeah not not really yeah I mean
+[55:21] that's when I first gotten interested in
+[55:23] it um but I I think when it really
+[55:27] clicked you know when when it when it
+[55:28] all sort of came together was probably
+[55:30] after that when I when I bought my I
+[55:32] think it's buying your first Bitcoin um
+[55:35] is the moment when it suddenly clicks
+[55:37] and you go oh okay I understand what it
+[55:39] is now um because before then it's just
+[55:42] an abstract concept and and people
+[55:44] struggle with the fact that you know oh
+[55:46] well it doesn't exist it's digital it's
+[55:48] not backed by anything um but then when
+[55:50] you actually buy it and you and you you
+[55:52] see the technology behind it and you
+[55:55] understand oh okay so I've now got um
+[55:58] ownership of this bit of the blockchain
+[56:01] and oh okay and and I can now use
+[56:03] lightning to fling it around and you
+[56:05] actually see lightning in operation I I
+[56:07] think actually using it buying it using
+[56:10] it uh you've got skin in the game and
+[56:12] and that actually does sort of Bring It
+[56:14] All home to you right instead of all
+[56:16] this
+[56:16] theoretical um you know gobins about
+[56:19] what Bitcoin is no matter how many times
+[56:20] you explain it to somebody until they
+[56:22] actually get it not physically in their
+[56:25] hands but until they have ownership of
+[56:27] some Bitcoin I think that's that's when
+[56:28] it finally does click for people and
+[56:30] understanding the value as well where
+[56:32] the value comes from um that that that
+[56:35] makes it click as well you know why why
+[56:37] it is valuable you have to spend time
+[56:38] with people explaining why it is
+[56:40] valuable and where the value emanates
+[56:41] from it's not the fact that it's it's
+[56:43] backed by something it's it's all its
+[56:44] utility and um you know everything
+[56:46] around that as to why it's valuable
+[56:49] amazing uh really really cool and till
+[56:52] you have your own Bitcoin podcast um
+[56:55] where can people find you where can
+[56:57] people reach out to you and ask you
+[56:58] questions and find more out about you
+[57:01] yeah um probably best on Twitter so I'm
+[57:03] Don mallister on Twitter um if you want
+[57:05] to check out my Mac tutorials I head
+[57:08] across to screencast online so
+[57:09] screencast online.com um there's a whole
+[57:12] host of presenters there who produce Mac
+[57:14] uh iPad and iPhone based tutorials um so
+[57:17] you can check that out I have have
+[57:20] started a Twitter thing called your
+[57:21] Bitcoin Journey which was what I was
+[57:24] sort of thinking about you know so there
+[57:25] is another uh but I haven't really
+[57:27] updated that recently but it's something
+[57:28] I might start doing ahead but yeah Don
+[57:31] mallister I'm also on Primal as well so
+[57:33] Nostra so you can check me out on on
+[57:36] Primal um amazing yeah that's about it
+[57:39] perfect then uh thank you for being on
+[57:41] and for everyone watching a listening uh
+[57:43] thank you for being here I'll be back
+[57:44] tomorrow with another episode bye-bye
+[57:47] [Music]

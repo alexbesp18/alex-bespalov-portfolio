@@ -1,8 +1,0 @@
-feedparser
-youtube-transcript-api==0.6.3
-openai
-python-dotenv
-resend
-yt-dlp
-openai-whisper
-setuptools-rust

@@ -1,0 +1,1517 @@
+Title: Bitcoin Lightning Just Flipped Banking & Payments FOREVER!
+Video ID: jutv9ZAT6KY
+URL: https://www.youtube.com/watch?v=jutv9ZAT6KY
+Date Saved: 2025-06-15 11:42:25
+--------------------------------------------------
+
+[00:00] all of a sudden it was hundreds to
+[00:02] thousands of dollars to make a
+[00:03] transaction on bitcoin and I don't think
+[00:05] that everyone was quite ready for that
+[00:06] and so I think that people are kind of
+[00:08] waking up that even though the fees are
+[00:09] low right now that's not always going to
+[00:11] be the case and they need to be prepared
+[00:13] I've been in Bitcoin since about 2012 so
+[00:15] I was pretty early into you know getting
+[00:17] involved with Bitcoin kind of credit
+[00:18] card debit card scenario is more like
+[00:20] lightning and then the banking system is
+[00:21] more like Bitcoin the Bitcoin base layer
+[00:23] is the ultimate kind of assurity and
+[00:25] you're moving maybe larger amounts there
+[00:27] but then also you're using lightning for
+[00:29] more of the daily transactions and
+[00:30] things like that if you don't have
+[00:31] anywhere to use it well it's not going
+[00:33] to be adopted we need something to be
+[00:34] able to scale it and scale it well the
+[00:36] use case for gold has like gone down
+[00:38] while Bitcoin is like just starting and
+[00:39] like its use case and what it can do
+[00:41] it's pretty obvious that we need some
+[00:42] sort of like L2 or some other solution
+[00:45] of actually doing these transactions um
+[00:47] that are not always on the Bitcoin base
+[00:49] [Music]
+[00:53] layer I think it's it's really
+[00:55] interesting when we talk about Bitcoin
+[00:57] because we we kind of I think a
+[01:00] consensus that we cannot scale Bitcoin
+[01:02] on on layer one that we kind of have to
+[01:04] scale up in in in in layer twos and I
+[01:08] think the winner might be lightning I
+[01:11] think that lightning has a really good
+[01:12] chance to be number one uh of of the
+[01:15] layer toos um before we dive into uh
+[01:19] lightning and the developments there
+[01:21] maybe let's take a small step back and
+[01:24] and and talk about uh how in general you
+[01:27] see Bitcoin scaling to the future uh uh
+[01:32] will look like because we have the
+[01:34] limited base
+[01:35] layer yeah definitely I mean I think
+[01:37] that the there's obviously been a lot of
+[01:40] conversations about how we scale Bitcoin
+[01:43] um for many years I mean I think the the
+[01:45] biggest one the most notable one is like
+[01:47] the block size Wars and talking about do
+[01:50] we make the the the blocks bigger do we
+[01:53] do something else and like how do we
+[01:54] scale how do we get more transactions in
+[01:57] on basically on chain or or inside of
+[01:58] the bit Bitcoin you go system one way or
+[02:00] the other um I think the lightning is
+[02:02] definitely the prominent way of doing
+[02:04] that um it's obviously you know the most
+[02:06] used like L2 today I think I guess maybe
+[02:09] to even take a step back from that it's
+[02:11] pretty obvious that we need some sort of
+[02:12] like L2 or some other solution of
+[02:15] actually doing these transactions um
+[02:17] that are not always on the Bitcoin base
+[02:19] layer um you know at at the time of
+[02:21] recording the men pool is like pretty
+[02:23] pretty light right now but that's not
+[02:25] always going to be the case that has not
+[02:26] always been the case so we we need to
+[02:28] have some other method of actually
+[02:31] increasing the amount of not only the
+[02:34] amount of transactions we can do in
+[02:35] Bitcoin but then also like the speed and
+[02:37] the fees and all these different you
+[02:39] know variables we see lightning as
+[02:40] definitely being the the number one
+[02:42] solution for that um and it's been
+[02:44] pretty obvious in terms of adoption
+[02:46] there's some other Solutions like liquid
+[02:48] or some like State chain based proposals
+[02:51] been out there but none of them have
+[02:52] shown to be actually all of that all
+[02:54] that good or all that useful so we see
+[02:56] lightning and that's that's the most
+[02:58] adopted L2 that exists on Bitcoin so we
+[03:00] see it as definitely the winner there
+[03:02] and we we're we're we're heavily uh kind
+[03:05] of doubling down on Lightning being the
+[03:06] winner there um because we think that it
+[03:08] is the best method of actually moving
+[03:10] value um in the world not only just
+[03:12] Bitcoin but just value in general
+[03:14] interesting uh why do you think
+[03:17] lightning will will be wi winners like
+[03:19] the the other ones are technically not
+[03:21] as capable or is it already the network
+[03:23] effect of of lightning being early and
+[03:26] and being already so
+[03:27] adopted yeah I mean I think that it's I
+[03:29] think the the network effects that
+[03:31] lightning has are definitely um one of
+[03:33] the big advantages it has but I think
+[03:35] that there's a lot of other um proposals
+[03:37] out there that come with a lot of
+[03:39] tradeoffs so like fedy Min or you fedy
+[03:41] Min is is an example of a you know a
+[03:43] federation type model which I think is
+[03:45] very interesting I think that that's
+[03:47] absolutely a solution that will work and
+[03:49] be uh prevalent but it's obviously a
+[03:51] very very trusted system and so it's not
+[03:53] um doesn't come with the same properties
+[03:55] that exist in Bitcoin on from like the
+[03:57] Bas layer perspective um you're
+[03:58] obviously trusting a group of people
+[04:00] with kind of your funds at that point so
+[04:02] um those things I think will be used
+[04:04] they will be around um I don't think
+[04:07] that they kind of solve Bitcoin scaling
+[04:09] in the ways of keeping the same
+[04:11] properties that exist inside of Bitcoin
+[04:12] like lightning does like with unilateral
+[04:15] exit opportunities and things like that
+[04:16] so um being able to keep the same
+[04:19] properties lightning is the only one
+[04:20] that can do that um anything that's like
+[04:22] State chain based or anything like that
+[04:24] is inherently um more trusted um same
+[04:26] thing with liquid there's a federation
+[04:28] behind it and things like that so not
+[04:30] saying those are all like will never
+[04:31] work like they can obviously work but
+[04:33] they come with a lot of tradeoffs that
+[04:34] you need to kind of consider and those
+[04:37] are some trade-offs that not a lot of
+[04:38] people are going to be willing to to go
+[04:41] with um where they want you know
+[04:43] complete control of their funds and
+[04:44] things like that that lightning is able
+[04:46] to bring so I think it's um there will
+[04:48] be other Solutions but it's something
+[04:50] that every user was going to have to
+[04:51] really evaluate in terms of what are the
+[04:53] trade off and how do you want to where
+[04:54] do you want to interact at maybe a
+[04:56] question that I should have started like
+[04:58] people in the comments always wrote in
+[04:59] me that I never let the guests introduce
+[05:02] themselves because I usually think it's
+[05:04] like I kind of like all like I care
+[05:07] about the opinions and not like what
+[05:09] he's working at and like it kind of gets
+[05:10] boring for me but I think the people
+[05:13] actually care about that that stuff so
+[05:15] uh maybe it's also interesting like what
+[05:17] what are you doing and and what are you
+[05:19] kind of like doing in the uh in the
+[05:22] Bitcoin lightning space and what is wage
+[05:24] or also the the sign right behind you
+[05:27] doing yeah definitely so so I'm my name
+[05:31] is Graham I'm founder and CEO of voltage
+[05:33] um and so voltage is a infrastructure
+[05:35] provider a payment processor for
+[05:37] lightening and Bitcoin transactions um
+[05:39] so I've been in Bitcoin since about 2012
+[05:42] so I was pretty early into you know
+[05:44] getting involved with Bitcoin I've been
+[05:46] involved in the ecosystem writing open
+[05:48] source text doing a bunch of just
+[05:49] different things and kind of just
+[05:50] participating anywhere I could um and I
+[05:53] kept hitting the same issue over and
+[05:54] over again of anytime you want to build
+[05:56] applications on top of Bitcoin it was
+[05:58] always a big hurdle just to get up and
+[06:00] running with you know configuring
+[06:02] Bitcoin core or even doing a lightning
+[06:04] node and setting up the channels and
+[06:06] doing all the things that go into that
+[06:07] um it was always very challenging um and
+[06:10] so that's where I kind of had the idea
+[06:12] for voltage is we want a really easy way
+[06:14] of just being able to plug in to the
+[06:16] Bitcoin Network very easily hit some
+[06:18] apis and be able to send and receive
+[06:20] transactions um so that was the the kind
+[06:22] of original um idea for voltage is just
+[06:24] making building applications on bitcoin
+[06:27] far easier than it was previously so
+[06:30] kind of where we're at today um you know
+[06:31] we we're the largest infrastructure
+[06:33] provider for lightning and so we have
+[06:35] both like a node service that be is able
+[06:38] to like run nodes host them um help
+[06:40] people with some of the liquidity and
+[06:42] like all those different things um but
+[06:44] then we also have some new things that
+[06:45] we're working on that are even like
+[06:46] simplified versions of um lightning and
+[06:49] being able to integrate there so uh we
+[06:51] got kind of across the board a lot of
+[06:53] different solutions but at the end of
+[06:54] the day we help businesses incorporate
+[06:56] lightning into their products and
+[06:57] services far easier and far faster than
+[07:00] they would be doing it um with any other
+[07:03] provider or doing it themselves um so
+[07:05] we've been able to really you know take
+[07:07] take hold of that and really focus on
+[07:09] incorporating lightning into these
+[07:11] businesses that either already move a
+[07:13] bunch of Bitcoin they want to do it
+[07:14] faster and cheaper or they're looking
+[07:15] for efficiencies that maybe they don't
+[07:17] have in their business
+[07:19] already that's a that's a great thing to
+[07:21] to do I think like lightning is such an
+[07:23] and it it's really early stage because
+[07:26] most people like still are like on on
+[07:28] Bas layer you mentioned mention the fees
+[07:30] are really low right now so you can
+[07:32] actually make a bunch of onchain
+[07:34] transactions but I do think long term
+[07:37] the fees are really headed uh into the
+[07:40] hundreds uh maybe even like thousands of
+[07:42] of dollars per per um per transactions I
+[07:45] don't know what what this will be then
+[07:47] in in satoshis but like in in Fe terms
+[07:49] the transactions volume the transactions
+[07:53] fees will be I think quite High uh once
+[07:56] uh there's a lot of volume on bitcoin
+[07:59] and once people also starting to use it
+[08:00] as a medium exchange and not just
+[08:02] storing and if you just store it you
+[08:04] don't you don't uh uh transact too too
+[08:08] much but uh even even if you even if the
+[08:11] whole world just uses as a store of
+[08:13] value you will still have a lot of
+[08:15] traffic going around uh where you need a
+[08:18] layer to uh and I think it's really
+[08:20] important to build out those Med of
+[08:21] exchange tools uh really early on I like
+[08:25] I like that you like you doing that and
+[08:27] that you're already developing in there
+[08:29] yeah I mean absolutely I definitely
+[08:31] agree that I think that there's were
+[08:34] there there's been a lot of different
+[08:35] cycles of Bitcoin fees um going up and
+[08:37] going down right now we're in a pretty
+[08:39] low fee environment but I think that
+[08:40] we've seen a lot of people still waking
+[08:42] up to the fact that that's not always
+[08:43] going to be the case like with a last Fe
+[08:46] Spar Spike um it was kind of created by
+[08:48] like the ordinal craze and people doing
+[08:50] a bunch of ordinal creation on chain um
+[08:52] that CAU people completely off guard
+[08:54] where all of a sudden it was hundreds to
+[08:56] thousands of dollars to make a
+[08:58] transaction on bitcoin um and I don't
+[09:00] think that everyone was quite ready for
+[09:01] that and so I think that people are kind
+[09:03] of waking up that even though the fees
+[09:05] are low right now that's not always
+[09:06] going to be the case and they need to be
+[09:08] prepared so um we definitely see that
+[09:09] resonating with
+[09:11] customers yeah I'm I'm looking forward
+[09:13] to because since around half a year or
+[09:16] like three three quarters of a year
+[09:19] something like that are getting paid in
+[09:21] in Bitcoin now and we did it all onchain
+[09:23] um but if the fees ran up to a czy
+[09:27] amount like we have to do this lightning
+[09:30] uh and we we had kind of have to to move
+[09:32] that because like the the things are not
+[09:34] that good but since we since I get paid
+[09:36] in Bitcoin the fees actually really low
+[09:38] so it has been quite nice to have like
+[09:41] uh the the payment coming in and
+[09:43] directly in yours of custody solution uh
+[09:46] that's an amazing experience but I think
+[09:49] um Bob Beret really puts it nicely of
+[09:52] like we used to Rolling in a Rolls-Royce
+[09:55] uh that's a luxury item uh and we will
+[09:58] not all do that for all transactions
+[10:00] like Bas layer Bitcoin transaction is
+[10:03] like a luxury thing and we should not
+[10:05] get used to that that's a that's a thing
+[10:07] where you like transact big things or
+[10:10] like uh once a month maybe you get money
+[10:13] out there for like for your M for your
+[10:16] wallet or something like that um do you
+[10:19] also see it like that like where Bitcoin
+[10:21] is like the the main layer where you
+[10:23] save money and then like you have a
+[10:24] layer two uh where for your day orto day
+[10:27] spending for like free three month or
+[10:29] stuff like that and maybe you have even
+[10:31] have on top of lightning something for
+[10:32] the daily
+[10:34] transactions yeah I mean I I do see it
+[10:36] very similar um I think that there's uh
+[10:38] I think that as you know volumes
+[10:40] increase on the Bitcoin base layer it
+[10:42] will be harder and harder to get your
+[10:43] transactions in especially when you
+[10:45] think about you know the when you talk
+[10:47] about you know medium of exchange or
+[10:49] something like that being able to use it
+[10:50] for more of a kind of everyday payment
+[10:52] mechanism e even let's say even the
+[10:54] block space is is clear or there there's
+[10:57] relatively you know um low activity you
+[10:59] still have to wait an hour at least for
+[11:02] like you know block confirmations to
+[11:03] feel you know confident in that payment
+[11:05] being confirmed and so that that alone
+[11:08] um even you know even in a Loi
+[11:09] environment that alone you know is very
+[11:11] very lightning is subsec and so that
+[11:13] experience is far far better and so I do
+[11:15] think that I agree that there's the way
+[11:17] that I kind of think about it is the
+[11:18] Bitcoin base layer is sort of like you
+[11:20] know the banks and how they're all
+[11:21] connected like you know you people are
+[11:23] generally not doing like AC transfers or
+[11:25] something like that on a daily basis um
+[11:28] they're usually doing that you know
+[11:29] pretty infrequently and it's generally
+[11:31] larger amounts of money or wire
+[11:33] transfers or something like that where
+[11:35] you know you use a credit card or a
+[11:36] debit card every day or very very
+[11:38] frequently um and so I think that the
+[11:41] the kind of credit card debit card
+[11:42] scenario is more like lightning and then
+[11:44] the banking system is more like Bitcoin
+[11:45] where you have um the that's the Bitcoin
+[11:48] is the ultim the Bitcoin base layer is
+[11:50] the ultimate kind of assurity and you're
+[11:52] moving maybe larger amounts there but
+[11:54] then also you're using lightning for
+[11:56] more of the daily transactions and
+[11:58] things like that but I also think that
+[12:00] you can move significant amounts of
+[12:01] money on top of lightning like you can
+[12:03] do millions of dollars in payments um on
+[12:05] lightning and so um it doesn't
+[12:07] completely rule it out from doing larger
+[12:09] payments but just kind of comparing you
+[12:11] know the two there that's the way that
+[12:13] I've kind of been thinking about it is
+[12:14] it's really um like a banking versus
+[12:16] like a credit card yeah that's an
+[12:18] interesting uh uh way to look at it um
+[12:22] now let's come to to the lightning where
+[12:25] where in the development we we currently
+[12:27] are and then maybe afterwards where
+[12:28] where we of had it of of where we talk a
+[12:32] lot about where Bitcoin is and the
+[12:33] adoption cycle and nation states and
+[12:36] they adopting it and stuff like that uh
+[12:39] and with lightning we usually like just
+[12:40] talk about like oh yeah like they had
+[12:42] those apps and it's but where in the
+[12:46] adoption cycle of lightning are we and
+[12:49] in general where we are at with with
+[12:51] lightning yeah I mean definitely like we
+[12:54] it's lighting has been you know more or
+[12:55] less usable since about 2018 um so it
+[12:57] has been around for a little a while um
+[13:00] that said it has taken a while to get um
+[13:02] it to be really usable and getting a lot
+[13:04] of you know service providers to to to
+[13:06] leverage it um so where we're at now I
+[13:08] mean the 2024 was a pretty big year for
+[13:10] lightning where we had a lot of um just
+[13:13] larger scale um exchanges payment
+[13:15] processors those kinds of folks starting
+[13:17] to adopt it and we think that this uh
+[13:19] 2025 is going to be an even larger year
+[13:21] we see a huge amount of influx of of
+[13:24] people supporting it and adopting it and
+[13:25] so it's kind of one of those things
+[13:26] where you need like the flywheel to
+[13:28] build where you need need more wallets
+[13:30] to support it so then more exchanges can
+[13:31] support it and then you have more
+[13:33] opportunity to use it because that's
+[13:34] been one of the hardest parts of
+[13:36] adoption is if you don't have anywhere
+[13:37] to use it well it's not going to be
+[13:38] adopted you know you got to have kind of
+[13:40] both ends of a transaction um to make it
+[13:42] useful um and so we're starting to see
+[13:44] that we've seen that um at the kind of
+[13:46] the second half of 2024 was pretty
+[13:48] significant and we think that that's
+[13:50] going to carry uh into 2025 and be be a
+[13:52] pretty big deal um there's also one of
+[13:55] the the hardest parts of like
+[13:56] quantifying the the adoption rate or how
+[13:59] much usage lightning Network gets
+[14:01] because it's it's a peer-to-peer Network
+[14:03] it's not a public blockchain like when
+[14:04] you look at Bitcoin layer one or
+[14:06] ethereum salana you name you name any
+[14:08] chain out there almost all of them are
+[14:11] public blockchains and so you can see
+[14:13] exactly who is transacting where and
+[14:15] when and so you can really get a good
+[14:16] understanding of you know Bitcoin is
+[14:18] moving you know $50 million today it's
+[14:21] moving $100 million today whatever it is
+[14:23] um with lightning since the entire
+[14:25] system is peer-to-peer there's no public
+[14:27] metrics on like how many transactions
+[14:29] are happening all those different things
+[14:31] and so it's because it's just between me
+[14:33] and you know the sender and the
+[14:34] recipient um are the only ones that
+[14:36] really know about it so the ways of
+[14:37] quantifying it are much much harder um
+[14:40] the public metrics of lightning are like
+[14:41] node count uh transaction or uh sorry
+[14:44] Channel count and then Channel capacity
+[14:46] those are all like okay metrics but they
+[14:48] don't really actually tell you how much
+[14:49] is being used behind the scenes and so
+[14:52] that's one of the also parts that's
+[14:53] really hard to quantify and we have a
+[14:55] report coming out in about a in a couple
+[14:57] weeks or so with a with Fidelity that
+[14:59] will really highlight a lot of the kind
+[15:01] of the underlying usage behind it where
+[15:03] we're seeing a very very steady increase
+[15:06] in transaction volume um on lightning
+[15:09] today uh and we think that that's going
+[15:10] to really explode in this next year
+[15:13] interesting uh and and how do you get
+[15:17] those numbers like how do you uh try to
+[15:19] figure out where we are with with the
+[15:21] usage numbers as you described that it's
+[15:23] it's kind of hard yeah I mean it's like
+[15:26] you basically have to be like operating
+[15:27] our not or operating a system like our
+[15:29] like us and so since we are the largest
+[15:32] provider for lightning transactions
+[15:34] today we have a huge amount of data um
+[15:36] and so just looking at kind of like a
+[15:37] subset of like anonymized data it's like
+[15:39] generally how many transactions are
+[15:41] happening in a week or a month or
+[15:42] anything like that on lightning and so
+[15:44] um the only way to really get that data
+[15:46] is to either be running a node yourself
+[15:48] and kind of keeping track of that
+[15:49] yourself or like a service provider like
+[15:51] us that can actually you know that is
+[15:52] processing payments for other folks um
+[15:55] and being able to aggregate that data
+[15:57] how fast are we currently growing if you
+[15:59] see the the the data of like how much
+[16:01] how many more transactions have be made
+[16:03] and stuff like that uh I think it's also
+[16:05] interesting to know from that the
+[16:08] Bitcoin adoption cycle because I think
+[16:10] it correlates to a certain um certain
+[16:14] extent because if more people use
+[16:16] Bitcoin on Lightning this also means
+[16:18] more people in general use Bitcoin as a
+[16:21] med of exchange already uh which is
+[16:23] super fascinating to see how fast is
+[16:25] kind of the growth rate of of those
+[16:27] those numbers Uh current
+[16:30] yeah I mean we're seeing so like even
+[16:32] mentioning like uh one of the public
+[16:33] reports was like River's report in 2024
+[16:36] I think it showed like 1200% growth over
+[16:38] the last two years um and we're seeing
+[16:41] that continuing um and I think that
+[16:43] we'll again we'll even we've started to
+[16:44] in just the tail end of 24 we saw that
+[16:46] starting to increase and we think that
+[16:48] that will continue to increase um with
+[16:50] things like St stable coins on top of
+[16:52] lightning which we'll get into a little
+[16:54] bit later but um being able to really um
+[16:57] have some new assets to move as well I
+[16:59] think will really significantly increase
+[17:01] it so I mean we're seeing like thousands
+[17:03] of percent increase um across like you
+[17:06] know since Inception and then we're
+[17:07] seeing we're starting that even to go
+[17:09] into the direction of thousands of
+[17:10] percent increase um year-over-year as
+[17:12] well so I mean we're seeing it very
+[17:15] substantially pick up and I think that
+[17:17] ultimately like the value at is you know
+[17:19] being able to move uh any kind of value
+[17:22] um faster and cheaper where you can
+[17:23] basically send a million dollars have it
+[17:25] settle you know an under half of a
+[17:28] second and pay zero fees on it that's
+[17:31] very very significant and people are
+[17:32] starting to wake up into what like how
+[17:34] that impacts their
+[17:35] business how important do you feel is
+[17:38] the lightning adoption for the Bitcoin
+[17:41] adoption and the Bitcoin narrative
+[17:44] overall yeah I mean I think it's pretty
+[17:46] important um because I mean like since
+[17:48] Inception I mean Bitcoin has always had
+[17:49] kind of the digital gold comparison
+[17:51] which I think is valid but there's so
+[17:53] much more that is there as well um and
+[17:55] people try and put it into a specific
+[17:57] bucket um which Bitcoin is very unique
+[17:59] and that it can kind of fit into a lot
+[18:00] of buckets it can do a lot of different
+[18:01] things um and so I think it's very
+[18:03] important for the overall kind of
+[18:04] Bitcoin um investment thesis or just
+[18:07] view um and that it can be very
+[18:09] versatile and can do these different
+[18:10] things and so uh and then also when we
+[18:13] think about you know large scale Global
+[18:15] adoption of Bitcoin um we need something
+[18:17] to be able to scale it and scale it well
+[18:20] and so that's where that's where we're
+[18:22] seeing lightning kind of taking hold and
+[18:24] so there's uh there's a huge amount of
+[18:27] opportunity uh for to really resonate
+[18:30] with with investors or just people
+[18:32] looking at Bitcoin and the fact that
+[18:33] there is a way of you just storing it
+[18:35] holding on to it and it's incredibly
+[18:37] safe but then also if you want to use it
+[18:40] or if you want to move it uh anywhere
+[18:43] you can do that pretty efficiently as
+[18:44] well so I think it's very important to
+[18:46] have both of those aspects yeah it's
+[18:49] Bitcoin is so unique because like we
+[18:51] never had such an asset which is open
+[18:55] Digital uh limited strictly Limited
+[18:59] uh and accessible to everyone it's it's
+[19:01] an asset that everyone needs even though
+[19:05] they might not know it yet uh and that
+[19:08] is also accessible for everyone and is
+[19:10] still completely limited and there's no
+[19:13] way of manipulating it and there's no
+[19:15] way to make more of it like that in
+[19:18] itself is so interesting and I think
+[19:21] that's why people are so bad in
+[19:24] describing what what Bitcoin really is
+[19:27] like you have so many different
+[19:29] descriptions like even if you look at
+[19:31] that podcast I'm I'm closing down on
+[19:34] like 400 uh episodes now uh and I I
+[19:38] often ask like what is bitcoin like what
+[19:41] is the most exciting point of Bitcoin
+[19:43] like what is the interesting aspect that
+[19:45] you see in Bitcoin and there are like
+[19:47] 400 different explanations of that and
+[19:50] and it's really fun to see
+[19:52] that yeah I mean I I totally agree I
+[19:54] think that and that's I think that's one
+[19:56] of the great the great properties of
+[19:58] Bitcoin is just how versatile it is and
+[20:00] then you know and that is interesting to
+[20:01] know when you ask someone you know what
+[20:03] is bitcoin um the difference in in
+[20:05] answer shows kind of where they're where
+[20:08] they view it as like where is it
+[20:10] important to them whether it's like
+[20:11] investment or means of value or
+[20:13] something like that or transfer um so I
+[20:15] think that's that's very interesting and
+[20:17] that's it's that's what's I think been
+[20:18] really hard for more traditional um
+[20:21] investors people that are just in
+[20:22] traditional Finance to like understand
+[20:24] Bitcoin because it it's it's so
+[20:26] different than anything else that has
+[20:27] ever existed and as it's really hard for
+[20:29] some people to wrap their minds around I
+[20:32] partnered up with coin vigilante this is
+[20:35] the most beautiful Bitcoin time piece
+[20:38] that I ever saw created by anyone look
+[20:41] at that beauty I love it so much coin
+[20:43] vigilante made and perfect Bitcoin watch
+[20:47] that's the perfect subtle elegent way to
+[20:50] go out there and show that you are a
+[20:52] bitcoiner and that watch brand is
+[20:55] Bitcoin only and coin vigilante just
+[20:58] dropped the the completely new and
+[21:00] amazing Genesis edition of their watch
+[21:03] collections you have the date of the
+[21:05] first ever mined Bitcoin Block in there
+[21:09] and of course also the block height and
+[21:11] which Epoch we are currently in I love
+[21:15] the level of detail they put in in this
+[21:17] masterpiece and make sure to check out
+[21:20] those amazing coin vigilante time pieces
+[21:23] down in the descriptions I love those
+[21:25] watches so so much if you watch or
+[21:29] listen to my podcast on a regular basis
+[21:31] I'll guess you already bought some
+[21:33] Bitcoin and now the most important step
+[21:36] is to keep their Bitcoin keep them
+[21:39] secure in a hardware wallet my personal
+[21:41] recommendation for Hardware wallet is
+[21:43] the bitbox it's super secure it's simple
+[21:46] to set up it's also perfect gift for a
+[21:48] friend who has still their Bitcoin on an
+[21:51] exchange and you can get a 5% discount
+[21:54] with the code Robin at the checkout
+[21:57] visit bitbox Swiss SL robobin to get
+[22:01] your bitbox and the next step is to
+[22:03] really level up your sovereignty as an
+[22:05] individual you have to have the most
+[22:08] secure self- custody setup you have to
+[22:10] secure your own devices you have to
+[22:13] protect your privacy you have to set up
+[22:16] an inheritance plan and depending on
+[22:19] where you live you even want to have a
+[22:21] plan B a citizenship where you can move
+[22:24] in case something goes really really
+[22:26] wrong and through all those steps the
+[22:27] Bitcoin way is guiding you through step
+[22:31] by step and if you visit the Bitcoin
+[22:33] way.com
+[22:35] Partners Robin you even get a 30 minute
+[22:38] free call to find out how you can level
+[22:41] up your
+[22:42] sovereignty yeah and and yeah like
+[22:45] usually there's like um a management
+[22:48] team behind that kind of crafts the
+[22:51] story uh and like if there's like a
+[22:54] Tesla or like Uber or like some stock
+[22:57] out there they usually have a story for
+[22:59] that they usually try to convey a story
+[23:02] to the to the investors but there's
+[23:05] nobody conveying a story to bitcoin
+[23:07] investors I mean there are I a bunch of
+[23:10] people that try to convey that but
+[23:12] because there are so many uh and so many
+[23:14] different ones it's not it's not one
+[23:16] story and I think that's a a confusing
+[23:19] part um and people Al like oh like
+[23:21] that's all gold but gold has been around
+[23:24] for so long so the story has kind of
+[23:27] been built what gold is and it has been
+[23:30] ingrained for like thousands of years in
+[23:32] in in in Civilization and in in the
+[23:34] human Spirit uh where Bitcoin is really
+[23:37] new and and go go out there ask 100
+[23:41] people what Bitcoin is and you get like
+[23:42] 100 different answers uh most of them
+[23:45] probably really uh really uninformed uh
+[23:49] that shows you how how early we are but
+[23:52] it's a it's an it's an exciting time to
+[23:53] be alive and to witness this this kind
+[23:55] of Bitcoin transformation is kind of uh
+[23:59] Financial Revolution I I I do think we
+[24:02] we are in a special part of
+[24:05] History yeah I mean I yeah I def I
+[24:07] definitely agree um that's why it's one
+[24:09] of the most exciting um places to be
+[24:11] building a company and working in I mean
+[24:13] there's just yeah there's so much going
+[24:14] on and it's interesting when people
+[24:16] compare it to Gold it's like yeah gold
+[24:18] has been around for thousands of years
+[24:20] um and it's it it's less has less
+[24:23] utility now than it used to because
+[24:25] people used to actually transact with
+[24:26] gold they used to have like gold coins
+[24:27] and things like that and now it's like
+[24:29] you don't really do any of that today
+[24:31] it's more of just that store value and
+[24:32] so the use case for gold is like gone
+[24:34] down while Bitcoin is like just starting
+[24:36] and like its use case and what it can do
+[24:38] so it I think it's really interesting to
+[24:40] compare the two because they're they're
+[24:41] so different at the end of the day
+[24:43] absolutely um what is the for you
+[24:46] outside of of lightning maybe what is
+[24:48] the most exciting aspect for you for for
+[24:51] Bitcoin all like maybe what also what
+[24:53] what captured your attention at first
+[24:55] with with Bitcoin yeah I mean I I'm just
+[24:57] I've been like a a tech Enthusiast a
+[25:00] software engineer for a really really
+[25:01] long time and that was just what
+[25:03] originally brought brought um interest
+[25:05] to me in Bitcoin is just the complete
+[25:08] newness of the protocol itself and the
+[25:10] network and just what it can do like
+[25:12] there's obviously nothing that had
+[25:13] existed before it um that was very very
+[25:16] exciting to me and then just being able
+[25:17] to um I was just fascinated by the fact
+[25:20] that you know someone could move value
+[25:21] from one place to another without having
+[25:24] any intermediary or someone to be able
+[25:26] to um deny the payment or clot back or
+[25:29] do any of those things and the the
+[25:30] ability of it to be a truly peer-to-peer
+[25:33] means of moving value was incredibly
+[25:36] interesting to me um and and that that
+[25:39] was what originally kind of kicked it
+[25:40] off and then you once you start to like
+[25:42] actually research how does this work
+[25:44] like how is like the the consensus ran
+[25:46] there's like all these miners like the
+[25:48] the rabbit hole just goes very very deep
+[25:50] as we you know we all know and there's
+[25:51] just like an endless amount of things
+[25:53] that you can learn um and so it was like
+[25:55] the first thing that caught my eye was
+[25:57] just this Global pain system that you
+[25:59] can just move money anywhere in the
+[26:00] world um that was like holy cow that's
+[26:03] that's incredibly massive that's it's
+[26:05] it's insane um how does this work and
+[26:08] then then you you know then it's kind of
+[26:09] like game over you're like researching
+[26:11] how does this all work and then you get
+[26:13] into like the the economics of it of
+[26:15] like the fixed Supply and all these
+[26:16] things and it's just kind of like
+[26:17] endless from there so um I originally
+[26:19] you know there's a couple people always
+[26:21] approach it either from from what I see
+[26:23] either from like the investment
+[26:24] standpoint or like that fiscal policy
+[26:26] standpoint of like oh it's it's
+[26:27] important because there is a fixed
+[26:29] Supply you can't make more of it those
+[26:30] kinds of things and there's the other
+[26:31] people of coming out from the tech side
+[26:33] of whether it's you know the Privacy
+[26:35] Tech or just the ability of like
+[26:36] uncensored money those kinds of things
+[26:39] um and so people come at it from like
+[26:40] either Tech or or investment I guess and
+[26:42] I was definitely on the tech side um I
+[26:45] was you know I remember the day that
+[26:46] Bitcoin broke five dollars a coin um and
+[26:49] I wish that I could say you know I I put
+[26:50] my life savings into it but I didn't
+[26:52] just because it was this cool technology
+[26:54] and I was not thinking at all about the
+[26:56] ramifications of it from like a monetary
+[26:58] policy perspective so um I was
+[27:00] definitely a big tech nerd and that's
+[27:01] why I got into it in the first place I
+[27:04] was that see saying Bitcoin break5 and
+[27:07] then also seeing Bitcoin break
+[27:09] $100,000 how was that those feelings I
+[27:12] mean it was it was awes when it broke $5
+[27:15] I remember actually kind of complaining
+[27:17] about it because it was like this hobby
+[27:18] this thing that I like to do is getting
+[27:19] expensive it was like you know if you're
+[27:21] like doing like something is like wood
+[27:24] is getting if I'm like a carpenter in my
+[27:26] free time and wood is getting expensive
+[27:27] I'm going to
+[27:28] um so I was like kind of complaining
+[27:30] about like Bitcoins are getting
+[27:31] expensive and I want to keep you know
+[27:33] playing and doing doing all these
+[27:34] different things with it um so
+[27:36] originally it was like you know I was a
+[27:37] little upset which is just crazy to
+[27:39] think about and then now when I you know
+[27:41] just recently passed $100,000 um I don't
+[27:43] know I feel like I've I've been through
+[27:45] so many of like the ups and downs when
+[27:47] it broke $1,000 and then $10,000 and so
+[27:50] on I it's unfortunate that I feel a
+[27:51] little like I don't know it's just kind
+[27:53] of like all cycles of just the ups and
+[27:54] downs um but it was an incredibly it was
+[27:57] incredible accomplishment to really um
+[28:00] to see it to see it do that to see the
+[28:02] value and people actually valuing it at
+[28:04] this level um and fulfill a lot of the
+[28:07] things that we were thinking about back
+[28:09] in 2012 um so it was actually it was
+[28:11] really exciting at the same time of you
+[28:13] know we go through a lot of Cycles but
+[28:15] actually seeing it across this Milestone
+[28:17] was was you know pretty cool to see I
+[28:20] sometimes ask myself if Satoshi knew
+[28:23] what was coming if like if he actually
+[28:26] had planned of like all the option
+[28:28] cycles of like what what Bitcoin is
+[28:32] coming I'm I'm always when I think about
+[28:34] the history I'm like did he did he
+[28:37] foresee
+[28:38] that what was his plan there uh that
+[28:42] that's kind of crazy maybe he was just a
+[28:44] uh uh like all right let's let's do
+[28:47] something and let's try to fix the
+[28:49] system uh and he never anticipated it
+[28:52] for for it being so big he just wanted
+[28:54] to make a a good alternative to that
+[28:57] it's it's kind of fascinating to see
+[28:59] especially if you're like oh like
+[29:00] reached a dollar then it reached $10 a
+[29:02] thousand then 100,000 and it's like that
+[29:06] that was real quick like 15 years it's
+[29:08] not that long of a time uh and now uh
+[29:12] presidents are talking about it Nation
+[29:15] talking about it um yeah that's kind of
+[29:18] amazing how do you actually see the the
+[29:22] if like El Salvador is is doing Bitcoin
+[29:25] developments but also not an America
+[29:27] Nations instead of doing it is that
+[29:29] impacting also the lightning adoption or
+[29:31] how do you look at uh those those things
+[29:33] in the adoption
+[29:35] cycle yeah I mean I I think it depends I
+[29:37] think that um like like El Salvador for
+[29:39] example you know they they with their
+[29:41] whole legal tender and things like that
+[29:43] that obviously was a big deal for
+[29:45] lightning because it was kind of making
+[29:47] it usable in everyday scenarios like you
+[29:50] know putting it into storefronts and all
+[29:52] those things so that was very impactful
+[29:54] for lightning and actually being able to
+[29:56] I mean uh you know the the the roll out
+[29:58] of that is like you know very debatable
+[30:00] whether you know that was like
+[30:01] successful or not but like ultimately
+[30:03] being able to have it as a medium of
+[30:05] exchange um is very very good for
+[30:07] lightning on the flip side you know here
+[30:09] in like in the United States you know
+[30:10] they're talking about adding it to like
+[30:11] a Bitcoin strategic Reserve um which is
+[30:14] very interesting but like I wouldn't say
+[30:15] that that is on its own very impactful
+[30:18] for lightning because that's not um
+[30:20] putting it into storefronts it's not
+[30:21] doing all those things it's just
+[30:22] literally the government buying you know
+[30:25] x amount of Bitcoin and just keeping it
+[30:27] in like a treasury you know a vault so
+[30:28] to speak um so that's a it's a little
+[30:31] bit different of like um ways of
+[30:33] approaching it but overall I think that
+[30:35] it is incredibly important that uh we
+[30:37] see people like both the US government
+[30:39] El Salvador government there's you know
+[30:41] countless other ones that are have
+[30:42] talked about it at least um and that's
+[30:45] like that's a huge validation point I
+[30:47] think in the ways that they're talking
+[30:48] about it it used to be that these
+[30:50] governments like Russia and China we
+[30:52] talking about how can we shut this down
+[30:53] how can we like kick miners out how can
+[30:55] we like get rid of this thing entirely
+[30:57] now the convers is almost flipped in
+[30:59] that you know how can we as a country
+[31:01] leverage Bitcoin to increase like you
+[31:04] know our our um our Reserve assets like
+[31:07] our ability to thrive as a country um so
+[31:10] it's like the conversation is entirely
+[31:12] flipped and looking at it from how can
+[31:14] we actually benefit from this instead of
+[31:16] how can we shut it out so I think that
+[31:18] that is one of the most positive things
+[31:19] that have come out of this is we see you
+[31:21] know kind of world leaders looking at
+[31:23] Bitcoin and seeing how they can actually
+[31:25] use it for good instead of just how to
+[31:28] we uh how do we get rid of this so
+[31:30] that's that's really exciting to me to
+[31:31] see that kind of um the story come
+[31:33] around and how they're looking at it
+[31:35] yeah I I I guess
+[31:38] the I guess the implications are
+[31:41] more more indirect like you you get the
+[31:45] if if America actually buys Bitcoin and
+[31:48] and this will probably impact the price
+[31:50] and everything like the adoption cycle
+[31:52] also um this indirectly pushes lightning
+[31:55] adoption only because like there's money
+[31:58] now coming in the system it flourishes
+[32:00] the whole industry and and there for Al
+[32:02] so all companies uh but it it doesn't do
+[32:05] it directly it's kind of like an
+[32:07] indirect uh sideway of that because I do
+[32:10] see the unfortunately the the price of
+[32:13] Bitcoin being the massive marketing tool
+[32:16] and everything else is kind of coming
+[32:18] coming towards that uh by by by its
+[32:22] nature um where do you see kind of
+[32:25] lightning headed you talked about like
+[32:27] you see a massive growth ahead in this
+[32:29] year in the next coming years uh where
+[32:32] do you see that for
+[32:33] lightning yeah I mean I think that you
+[32:36] know the the way that we've been kind of
+[32:37] talking with our our customers and our
+[32:39] businesses is basically if you're moving
+[32:41] kind of any amount of Bitcoin uh there's
+[32:44] you have the opportunity of saving quite
+[32:46] a bit of money and then also provide a
+[32:47] better user experience by integrating
+[32:49] the lightning Network um so we see that
+[32:51] really resonating with folks and we
+[32:53] think that that's going to you know
+[32:54] really help uh the adoption cycle of
+[32:56] really just understanding what is the
+[32:58] business impact of lightning when when
+[33:00] lightning was early it was always kind
+[33:01] of the pitch was always just it's a it's
+[33:03] cool like it's you know it's better it's
+[33:05] faster but like you know there wasn't
+[33:06] much pitch besides it was just really
+[33:08] cool to integrate lightning because
+[33:10] that's like the future of Bitcoin um but
+[33:12] now I think that we're able to really
+[33:13] point to very specific metrics on how it
+[33:16] can actually impact you know your
+[33:17] business how it can make you more money
+[33:19] which is you know from a business
+[33:20] standpoint that's what you know
+[33:21] ultimately um really matters to them and
+[33:24] so I think that that's going to help the
+[33:25] adoption quite a bit by uh again having
+[33:28] those like more players um in in the
+[33:30] ecosystem you can move it you know to
+[33:32] and from more more places and whatnot so
+[33:35] that's going to be a really really big
+[33:36] deal um and we think that uh there will
+[33:38] be a lot of um I think advancements um
+[33:41] coming so like you know stable coins on
+[33:43] top of lightning for example by
+[33:44] leveraging the taed assets protocol
+[33:47] that's going to be I think an incredibly
+[33:48] large unlock for the lightning Network
+[33:50] and its growth um that's because you
+[33:52] know stable coins are the most used uh
+[33:56] for the most use you know use case for
+[33:59] bitco or I'm sorry crypto in general
+[34:01] today um where they've all been on like
+[34:03] you know Tron and ethereum and all these
+[34:04] other chains um but now we're able to um
+[34:07] you know do that on top of Bitcoin and
+[34:09] then the lightning Network which brings
+[34:10] a huge amount of liquidity and a huge
+[34:12] amount of usage into the network itself
+[34:15] and so you're able to get like these
+[34:17] benefits of the lightning Network which
+[34:18] is you know near instant uh settlement
+[34:21] and very very low to to zero fees on
+[34:23] your transactions if you can do that
+[34:26] with the largest use case for for you
+[34:28] know crypto today that's that's
+[34:30] incredibly massive and I think that that
+[34:32] will really take um that will take the
+[34:34] adoption of the network itself to a
+[34:36] whole new level and also be S more of a
+[34:38] trojan horse of getting people to
+[34:39] actually start using lightning and
+[34:41] Bitcoin by first you know kind of having
+[34:43] stable coins come in and then they see
+[34:44] the value and then they can start
+[34:46] integrating with Bitcoin much more
+[34:47] easily so that's I think a big Catalyst
+[34:49] that we see coming up um for lightning
+[34:51] adoption as well interesting Al Al the
+[34:54] stable coins on lating is fascinating uh
+[34:57] I mean I I do say I do see stable coins
+[35:01] kind of like
+[35:03] Blu-ray you know what I mean like we had
+[35:06] in this like the Blu-ray discussion and
+[35:08] then on top of that there might come uh
+[35:11] there's the digital camera and Blu-ray
+[35:13] was kind of like this this thing in
+[35:14] between and I do see stable coins as
+[35:17] exactly
+[35:18] that yeah yeah I I think it'll be really
+[35:20] interesting and like that's something
+[35:21] that you know we're we're in the early
+[35:23] Innings of as tether just announced
+[35:25] they'll support it I think last last
+[35:26] week or the week before
+[35:28] um and so we're seeing um a lot of
+[35:31] people being very very interested in it
+[35:32] so I'm very excited to see where where
+[35:34] that goes and I think it'll be a pretty
+[35:36] big deal for the network yeah for the
+[35:38] for for the lightning Network it's
+[35:40] probably really cool that t looks looks
+[35:43] at that but but but I do see like oh
+[35:46] like if if we move towards like more of
+[35:48] a Bitcoin standard I I see like all the
+[35:51] extensions of feed and stable coins are
+[35:53] for me like such an extension of that uh
+[35:56] but it it definitely drives a lot of
+[35:58] adoption in lightning which is
+[36:00] ultimately also great for uh for for
+[36:03] Bitcoin that that that's a really cool
+[36:06] uh aspect of of of it it's it's
+[36:10] interesting that they now move to to
+[36:13] lightning I mean they have their own
+[36:15] chain like how how does this even how
+[36:17] does this even work with with with
+[36:19] stable coins on Lightning it's a it's a
+[36:21] it's a weird concept for me in my brain
+[36:24] yeah definitely it I mean it's it's it's
+[36:26] quite a unique concept and it's like the
+[36:28] whole like from kind of the technical
+[36:29] side it's all powered by the taer assets
+[36:32] protocol which is was developed by like
+[36:33] lightning labs and what that does is it
+[36:36] basically allows you to verifiably issue
+[36:39] assets on bitcoin the layer one and so
+[36:42] you could you know the way that you know
+[36:43] stable coins work generally is like they
+[36:45] you know there's a company like a tether
+[36:47] that has a bunch of like you know US
+[36:49] dollars or something you know similar in
+[36:50] a bank account and then they're issuing
+[36:52] you know kind of a token on like
+[36:54] ethereum or a salana or something that
+[36:56] is backed by that dollar um you were
+[36:59] basically able to do the similar thing
+[37:00] with on with Bitcoin um leveraging tap
+[37:04] rot um which is the most recent um
+[37:06] upgrade to bitcoin and so by doing that
+[37:07] you can kind of like have these
+[37:08] verifiable proofs of which assets are
+[37:11] where and all of those different things
+[37:13] um and so you can now take that into the
+[37:15] lightning Network as well and have that
+[37:17] kind of same Assurance of verifiability
+[37:18] of assets and all the all that inside of
+[37:21] lightning and so um it's a pretty deep
+[37:23] concept that you know there lightning
+[37:25] Labs do a pretty good job of publishing
+[37:26] some videos on on how it works and
+[37:28] developer breakdowns and all those
+[37:30] things that I would recommend anyone go
+[37:31] check out but ultimately at the end of
+[37:34] the day it's tap rot that enables this
+[37:35] to be possible and having these
+[37:37] verifiable proofs that can be um
+[37:39] validated both on chain and in the
+[37:41] lightning Network that allows us to have
+[37:43] you know assets that are outside of
+[37:45] Bitcoin on the Bitcoin network is it
+[37:47] then also possible to
+[37:49] like pay in uh a stable coin and
+[37:52] directly convert that somehow to to
+[37:55] bitcoin if it uh kind of integrates with
+[37:57] the T ass it yeah that's a great
+[37:58] question and yes like um that's the way
+[38:00] that the the protocol is built in itself
+[38:02] is that um uh there's things called like
+[38:05] Edge nodes that can basically um do that
+[38:07] conversion automatically as far as a
+[38:08] payment goes so being able to like have
+[38:10] a have a lightning invoice generated um
+[38:13] maybe it's for um a tether invoice and
+[38:16] being able to pay that invoice with
+[38:17] Bitcoin and then vice versa generating a
+[38:19] Bitcoin invoice and paying it with
+[38:20] tether um that's all built into the
+[38:22] protocol which is I think pretty unique
+[38:23] and a pretty awesome um value
+[38:26] ad yeah absolutely it could be because
+[38:30] there's a lot of fear still around and
+[38:33] uh I think it will be around for a long
+[38:35] time still like for quite a long time so
+[38:38] integrating Bitcoin as deep as possible
+[38:41] with feat is actually good for for
+[38:43] Bitcoin to uh Leverage The the whatever
+[38:47] technology we have to get more uh volume
+[38:51] Medi of exchange volume but also to
+[38:53] Value volume uh to bitcoin I think
+[38:56] that's that's uh I never looked at that
+[38:58] like that way if if you like you you
+[39:00] just have usdc or like USD or like some
+[39:03] some form of stable coin and you're like
+[39:06] oh like let's let's let's pay someone
+[39:08] and the other one directly gets it in in
+[39:10] Bitcoin or you can really quickly swap
+[39:12] it without transaction fees or like
+[39:14] without a conversion or exchanges or
+[39:17] anything like that that it just makes
+[39:19] the the whole industry probably a little
+[39:21] bit better and more integrated I like I
+[39:25] love the idea of that
+[39:27] yeah I mean I agree I think it makes um
+[39:29] a much more integrated experience and
+[39:31] it's one of the really great things of
+[39:32] like Bitcoin or the liting network has
+[39:34] about 500 million dollars of capacity in
+[39:36] it today that can all be used for stable
+[39:39] coin movement you know right away and so
+[39:41] it doesn't it it enables us to leverage
+[39:44] the existing liquidity that exists in
+[39:45] the network without having to stand up
+[39:48] you know deploy another 500 million to
+[39:50] be able to do stable coin movement um so
+[39:52] it's really awesome because we can
+[39:54] leverage the existing Network that we
+[39:55] have and we don't have to create an
+[39:56] entire new one so so like we we we can
+[39:59] already use use that and and and kind of
+[40:01] that's an interesting F also it's also
+[40:04] the payment uh if is super interesting
+[40:07] because is it also is it also possible
+[40:09] to just like pay Bitcoin and the other
+[40:12] one gets usdc or like the the other one
+[40:16] that like you can also flip it probably
+[40:18] on on its head are there any apps and
+[40:20] and and stuff like that they already
+[40:22] integrate voltage probably like how is
+[40:25] the the E ecosystem from that
+[40:28] perspective yeah I mean it's definitely
+[40:30] um it's definitely early for the
+[40:31] ecosystem as tether you know just kind
+[40:32] of supported it anoun support just a
+[40:35] couple weeks ago but um people like us
+[40:37] like we're definitely adding support for
+[40:38] tappered assets um there's people like
+[40:40] jolts that are kind of a wallet SDK for
+[40:44] um for taer assets I know that we have
+[40:46] quite a few partners that are very
+[40:47] interested in in adopting it so um it's
+[40:49] early in terms of the the support but um
+[40:52] we see that shaping up pretty quickly um
+[40:54] and we're you know we are definitely
+[40:56] working on our strategy for that as well
+[40:58] yeah could could be an could be an
+[41:00] interesting uh play point for for for
+[41:03] Bitcoin because I'm also like I'm
+[41:06] thinking of like uh pay um I'm I'm
+[41:09] thinking like I'm getting now my first
+[41:11] employees and and trying to figure out
+[41:12] how how to to set this up uh and they're
+[41:15] not all in the same region like me like
+[41:17] the the first one that I'm I'm thinking
+[41:19] about uh he's in Columbia uh and we and
+[41:24] for him it's both possible Bitcoin uh or
+[41:27] dollars but he said like dollars would
+[41:28] be easier on his side uh so like getting
+[41:32] uh dollars to him uh but maybe like if I
+[41:36] can just send my Bitcoin and and he gets
+[41:40] it directly in dollars in his his wallet
+[41:42] like those use cases are super
+[41:44] interesting for Bitcoin operating
+[41:46] businesses where they can plug into some
+[41:50] really nice thing uh some app where they
+[41:53] get directly US dollar in in their
+[41:55] wallets or like spendable US Dollars
+[41:58] equiv equivalence uh and but you you as
+[42:01] a Bitcoin business because I get my
+[42:03] income in Bitcoin so I also want to pay
+[42:05] in Bitcoin um you can just pay in
+[42:07] Bitcoin a Bitcoin address and it kind of
+[42:10] converts that I think those Integrations
+[42:12] are super interesting for the let's say
+[42:16] five 10 20 years to come because we we
+[42:19] need those like there are some
+[42:22] bitcoiners out there and say like oh
+[42:23] it's Bitcoin or like ride or die with
+[42:26] Bitcoin and don't want to touch feed at
+[42:28] all so they're like very against stable
+[42:29] coins they're very against anything that
+[42:32] has fear all over it or like even crypto
+[42:35] uh and I think in the mean medium term
+[42:38] it's a mistake I think we have to be
+[42:40] open to fear to integrate it and to kind
+[42:43] of infiltrated like almost like a trojan
+[42:45] horse to to fear and and I love those
+[42:48] applications where we we kind of have to
+[42:50] to to get in there we have to be the
+[42:53] most open protocol we have to be the
+[42:56] most open ecosystem because the most
+[42:58] open ecosystem will win in the end
+[43:01] that's why open source best better we we
+[43:04] closed source and I I love the idea of
+[43:08] that just I said that I think like five
+[43:10] times now but I love I never heard that
+[43:12] idea and I'm really fascinated by it and
+[43:15] really excited to to hear that you're
+[43:16] working on
+[43:17] that yeah yeah absolutely I mean yeah
+[43:20] we're very excited about it as well and
+[43:21] I think that it'll it will unlock kind
+[43:23] of a new phase of growth for the network
+[43:24] in general and you know and that that's
+[43:26] one of the great things about it is that
+[43:28] you know if you want to use Bitcoin and
+[43:29] never touch stable coins or anything
+[43:31] like that you can totally do it it's not
+[43:33] like you know a requirement to like
+[43:34] support stable coins in Bitcoin as well
+[43:37] so um I think that's that's a great
+[43:38] advantage of anyone that doesn't want it
+[43:40] um doesn't have to use it uh so I think
+[43:43] it'll be a really good um unlock for the
+[43:45] ecosystem and let a lot of people kind
+[43:47] of choose what assets they want to move
+[43:49] when and how and all those
+[43:51] things really cool uh is there anything
+[43:54] else that you're really excited about in
+[43:56] in the ne future in in Bitcoin or or
+[43:59] Bitcoin and or
+[44:01] lightning yeah I mean I think that
+[44:03] overall like we're just we're excited to
+[44:04] go through this year and really um push
+[44:06] the boundaries of of adoption and get a
+[44:08] lot more um companies involved and then
+[44:10] we we're got a a huge amount of kind of
+[44:12] uh announcements and press releases
+[44:14] coming up soon that we're really excited
+[44:16] about as well and then finally we have a
+[44:18] a new product that we'll be releasing
+[44:19] the next you know month or two um that
+[44:22] we're very excited about we're excited
+[44:23] about all these things um but uh overall
+[44:26] I think that there's not you know not a
+[44:27] ton that we can share at this point but
+[44:29] we have a lot of things coming down um
+[44:31] the pipeline and it'll be a really
+[44:33] really good year in 2025 and that's
+[44:36] something that we are um excited about
+[44:38] both from being able to increase the
+[44:40] network as a whole get more people
+[44:42] involved as well as some of the things
+[44:43] that we've been working on for a while
+[44:44] now uh super interesting uh one more
+[44:47] thing that I want to get into the
+[44:48] podcast is uh when do you see or like
+[44:52] what event or like what has to happen uh
+[44:55] in order to see him major spike of
+[44:58] medium exchange right now it's still
+[45:00] like a a small use case for for Bitcoin
+[45:03] most bitcoiners just hold Bitcoin and
+[45:06] and don't touch it and use like a feeld
+[45:08] system to to do that uh what do you see
+[45:11] as kind of the Milestones that has to
+[45:13] happen for that to change that Bitcoin
+[45:15] is really um used as a medium Exchange
+[45:18] in a major way yeah I mean that's a good
+[45:21] question I mean I think that um we so
+[45:24] it's a couple things I think that one
+[45:26] like it doesn't like the the whole
+[45:27] medium of exchange I think is like
+[45:29] people kind of tie medium of exchange to
+[45:31] like to lightning specifically where I
+[45:32] don't know you see that that is has is a
+[45:35] requirement because there's people like
+[45:37] you know people like exchange two
+[45:38] exchanges transferring value and Bitcoin
+[45:40] you know between each other that could
+[45:41] be like $5 million payments you can
+[45:43] still do that faster and cheaper than
+[45:45] you can on chain there's still a huge
+[45:46] amount of value in doing that um Alone
+[45:49] um but then I think I think something
+[45:50] like four it's a somewhat of a us-based
+[45:53] answer but I think some of like the tax
+[45:54] laws that are like very um unhelpful for
+[45:58] like everyday spending like you know
+[46:00] technically today in the US if you send
+[46:02] if you pay for something with $5 doll in
+[46:04] Bitcoin um you have to that's like a
+[46:06] capital gains event you have to pay
+[46:08] taxes on um extra taxes besides your
+[46:10] sales tax on the conversion of when you
+[46:12] bought the Bitcoin and then when you
+[46:13] like transacted with it which is pretty
+[46:15] kind of ridiculous um it's not actually
+[46:17] it's very um I think that's one of the
+[46:19] reasons why people have really not been
+[46:21] very interested in in spending it in
+[46:23] that way um because it's just the system
+[46:25] isn't made to support that um I think
+[46:27] that could be go a long way on
+[46:28] increasing the mean the the exchange of
+[46:31] of Bitcoin in kind of more everyday use
+[46:33] cases and I think it's ultimately just
+[46:35] Inc continuing to uh increase the amount
+[46:39] of uh like the user experience of both
+[46:42] lightning and like getting more people
+[46:43] involved um making it easier and easier
+[46:45] and easier to use um which is something
+[46:46] we're certainly working on and then
+[46:48] finally I think that the the like we
+[46:50] were talking about with stable coins on
+[46:51] Lightning I think that that's going to
+[46:52] be a big unlock for getting it more used
+[46:54] in a day-to-day where uh people might
+[46:57] might start with stable coins on
+[46:58] lightning and then ultimately move into
+[47:00] Bitcoin as they start to see the value
+[47:02] and like hey as as for my business I
+[47:03] would love to be able to support start
+[47:06] accumulating Bitcoin um and doing that
+[47:08] because we see it appreciating over time
+[47:10] so I think it'll it'll be a there's
+[47:12] several kind of steps that we need to
+[47:13] get to making it more and more
+[47:14] accessible um I think that's been
+[47:16] historically pretty hard for for all of
+[47:18] those reasons but I think we're chipping
+[47:19] away at them one at a time H that's
+[47:22] that's that's super interesting yeah
+[47:24] like we we we come we come closer and
+[47:26] closer and like chipping uh chipping
+[47:28] them away really interesting um one
+[47:30] question I ask that I asked each and one
+[47:32] of my guests is what can we learn from
+[47:34] you besides Bitcoin that's a really good
+[47:36] question I mean I think that I do I do
+[47:38] uh quite a bit of just kind of the the
+[47:41] startup um I guess mentoring and and
+[47:43] education of just how do you build a
+[47:45] company from zero to one and how do you
+[47:47] how do you you know scale it and do all
+[47:49] these different things um something I've
+[47:51] I've learn learned about um uh over time
+[47:54] um and then I think just you know I do a
+[47:56] lot of of similar on just kind of
+[47:57] software engineering um that's where my
+[48:00] back I don't do much software
+[48:01] engineering anymore because I I've kind
+[48:03] of moved into more of the the business
+[48:04] side of things but um I think um
+[48:06] software engineering and building
+[48:07] companies are things that I'm very uh
+[48:09] interested in um outside of just Bitcoin
+[48:11] specifically I uh I think I think
+[48:14] building startups in Bitcoin is is quite
+[48:16] unique with like the different hurdle
+[48:18] rate of investors if someone invests in
+[48:20] a Bitcoin startup they obviously get
+[48:21] Bitcoin and a Bitcoin is a very
+[48:24] attractive kind of cash resarch if you
+[48:27] see it as a cash Reserve um uh what kind
+[48:31] of interesting or unique things about
+[48:33] investing in a Bitcoin startup or like
+[48:36] the Bitcoin startup World in itself do
+[48:39] do you kind of see in in in this in the
+[48:42] space yeah I mean I think it yeah I
+[48:45] totally agree and I think that that's
+[48:47] it's it's it's honestly really
+[48:48] challenging because like startups are
+[48:50] already like risky and hard and all
+[48:52] these things and when you add Bitcoin to
+[48:54] it it makes it much harder and it makes
+[48:56] it much more risky and all of these
+[48:57] things because like you know as much as
+[48:59] we all like love and like uh believe in
+[49:01] Bitcoin it is still like you know
+[49:03] especially to investors it's still very
+[49:04] early and like you know how like what
+[49:06] scale does Bitcoin ultimately reach is
+[49:09] is it going to take over the world is it
+[49:10] going to stay the same size like all
+[49:12] these questions from like an investor
+[49:13] standpoint are are very much in their
+[49:15] minds and so um it it can be very
+[49:17] challenging to run a Bitcoin company
+[49:19] because you're kind of like doubling or
+[49:21] quadrupling like the risk and like the
+[49:23] all the considerations that need to go
+[49:25] into it um so it's just it's it's
+[49:27] challenging um but that's something that
+[49:28] you know you you can work through in a
+[49:30] couple ways of um you know in like a
+[49:33] business model perspective or the way
+[49:34] that you kind of pitch or talk about
+[49:36] your company so there's some ways of of
+[49:39] um increasing that or bettering your
+[49:41] odds of getting funding or just becoming
+[49:43] a successful business um but ultimately
+[49:45] at the end of the day it is definitely a
+[49:48] a challenge um and definitely a unique
+[49:51] uh opportunity in building a company in
+[49:53] Bitcoin um because it's just it's we're
+[49:55] still new we're at bitcoin's 15 years
+[49:57] old but we're still um figuring things
+[49:59] out as we go there's still a lot of
+[50:01] unknowns and stuff to build and so um
+[50:03] there's an inherent um kind of risk if
+[50:05] we were building things for like the the
+[50:08] telecom phone systems that's a little
+[50:10] bit more understood that's been around
+[50:11] for many many years and I think that's
+[50:13] really been um drisk in a lot of ways um
+[50:15] we're doing something that's completely
+[50:16] brand new and so there's a lot of risk
+[50:18] that comes with that do do you have a
+[50:21] lot of investors in in startups or do
+[50:23] you see a lot of investors in startups
+[50:25] that don't get bit Bitcoin to this point
+[50:27] like do you see some some investors that
+[50:30] want to invest in Bitcoin startups but
+[50:32] but but are not into Bitcoin is is that
+[50:34] even is that a
+[50:36] thing um is a good question I think that
+[50:39] I like we've seen um most investors at
+[50:42] least like understand Bitcoin that want
+[50:43] to invest in Bitcoin companies there's a
+[50:46] lot of them that that don't only do
+[50:48] Bitcoin they do like you know every
+[50:50] other chain or they do a bunch of other
+[50:52] just general crypto stuff and Bitcoin is
+[50:53] just one of those opportunities inside
+[50:55] of their broader portfolio um I haven't
+[50:58] seen as many people that like completely
+[51:01] don't understand Bitcoin or like just
+[51:02] aren aren't that interested in it
+[51:04] investing in the companies I think that
+[51:05] there has to probably be some
+[51:07] correlation there of people being like
+[51:09] interested in Bitcoin and the value it
+[51:11] brings and then investing in those
+[51:12] companies that are kind of bringing it
+[51:14] into the market yeah makes sense because
+[51:16] like why would I invest in a Bitcoin
+[51:18] company if I don't believe in Bitcoin
+[51:20] it's like yeah if they work in Bitcoin
+[51:23] it kind of doesn't make sense for me to
+[51:25] invest if I it's like I I don't I don't
+[51:29] believe in the internet but I invest in
+[51:31] in in in Amazon it wouldn't make sense
+[51:34] for me at all like if I don't think that
+[51:35] the internet will get adopted uh really
+[51:38] cool uh we have an end routine in the
+[51:39] podcast where the previous guest is
+[51:41] asking a question for the next guest
+[51:43] without knowing who the next guest
+[51:44] actually is uh the question is not
+[51:46] limited to to bitcoin and today it's
+[51:48] also not a Bitcoin question uh the
+[51:51] question is what inspires you most on a
+[51:53] daily basis um that's a good question so
+[51:56] I think um I I think I would say it's
+[51:58] two things um one is just I think like
+[52:02] solving hard problems is like the thing
+[52:04] that I just love to do and I think that
+[52:06] bringing Bitcoin both starting starting
+[52:08] a company scaling a company and then
+[52:09] bringing Bitcoin into the world into
+[52:12] Mass adoption are two incredibly hard
+[52:14] problems to solve um and so those are
+[52:16] things that I just I that really drive
+[52:18] me every day is trying to solve problems
+[52:20] I think that it's not only that but it's
+[52:22] also solving problems that I think add
+[52:23] value to the world I think that Bitcoin
+[52:25] can actually add value to a lot of
+[52:27] people's lives a lot of people's
+[52:28] businesses it can be a huge amount of
+[52:30] opportunity and solving hard problems
+[52:32] for kind of that that good of of
+[52:34] changing people's lives or or making
+[52:36] things better for particular people is
+[52:38] is very interesting so I'd say that's
+[52:40] kind of one of the things that really
+[52:41] drives me is just solving problems um
+[52:43] that's what I love to do and then the
+[52:45] second one I would say is just my family
+[52:46] I mean my family is the thing that has
+[52:48] driven me um through uh the entire kind
+[52:51] of Journey of starting a company and
+[52:53] whatnot and um just doing it for them is
+[52:55] also a big a big driver that uh inspires
+[52:58] me to continue to go absolutely really
+[53:01] really cool that I love those points um
+[53:04] thank you so much Graham for for for
+[53:06] being on uh before I let you go where
+[53:08] can people find you ask your questions
+[53:09] and reach out to you yeah absolutely so
+[53:13] uh my name is Graham again uh you can
+[53:15] find me on Twitter at g k r i z k um our
+[53:19] company is voltage you can find us at
+[53:21] voltage. Cloud is our website the
+[53:23] Twitter is voltage Cloud um yeah hit us
+[53:26] up go to our website just check out what
+[53:28] we're doing and we're would love to help
+[53:30] anyone that's uh looking to to integrate
+[53:31] Bitcoin and lightning and and continue
+[53:33] to to scale the network really cool
+[53:36] thank you so much for being on grab and
+[53:38] also thank you so much for everyone that
+[53:39] is watching and listening for joining us
+[53:41] today as always I'll be back tomorrow
+[53:43] with another episode bye-bye
+[53:46] [Music]

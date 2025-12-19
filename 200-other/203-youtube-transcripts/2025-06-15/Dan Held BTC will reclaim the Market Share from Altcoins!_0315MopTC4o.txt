@@ -1,0 +1,1281 @@
+Title: Dan Held: BTC will reclaim the Market Share from Altcoins!
+Video ID: 0315MopTC4o
+URL: https://www.youtube.com/watch?v=0315MopTC4o
+Date Saved: 2025-06-15 11:51:20
+--------------------------------------------------
+
+[00:00] Bitcoin is larger than every other
+[00:01] crypto asset combined bitcoin's won that
+[00:03] Narrative of store of value that is the
+[00:05] biggest narrative to win it's the
+[00:06] biggest Tam it's 100 trillion dollar Tam
+[00:09] it's bigger than everything else
+[00:10] combined when you hear about the
+[00:11] circular economy on bitcoin a lot of
+[00:13] bitcoiners are looking for that physical
+[00:15] circular economy but they're missing the
+[00:16] far bigger picture it's the digital
+[00:18] circular economy that matters money
+[00:20] needs to be the most secure layer of
+[00:22] this financial system that's where you
+[00:24] want minimal changes very rarely that's
+[00:26] your rock solid base I like that game
+[00:29] theoretic tradeoff for bit coin because
+[00:30] I'd like to be able to survive a state
+[00:31] level attack that's why I store most of
+[00:33] my wealth in Bitcoin NTS on top of
+[00:34] Bitcoin are far superior than ethereum
+[00:37] defi is a critical component of that it
+[00:39] magnifies the use case of Bitcoin it
+[00:41] allows us to build a financial system
+[00:42] that's separate from the existing one on
+[00:44] top of Bitcoin and it allows Bitcoin to
+[00:46] grab back market share in terms of
+[00:47] market dominance doesn't that corrupt
+[00:49] Bitcoin these institutions buying it
+[00:50] does that change Bitcoin bitcoin's code
+[00:52] didn't change one bit they all bent the
+[00:54] need of Bitcoin and acknowledge that
+[00:55] Bitcoin is King and that Bitcoin is a
+[00:57] superior money
+[01:02] how important do you see in general
+[01:05] layer two technologies uh for Bitcoin uh
+[01:08] story long term that's a great question
+[01:11] so layer 2 Tech is how the Bitcoin
+[01:14] Community which came together and during
+[01:15] the Block siiz Wars basically agreed
+[01:18] upon that layered scaling was how we're
+[01:20] going to scale Bitcoin that Bitcoin was
+[01:22] going to scale in like layer twos now
+[01:25] layer twos that that exist so far um
+[01:29] that are at least have been around for a
+[01:31] while and are in use would be lightning
+[01:34] uh liquid Stacks
+[01:37] um uh root stock those are kind of the
+[01:40] bread and butter LTS that exist in
+[01:41] Bitcoin so far um because of the
+[01:44] agreement the community made with each
+[01:47] with each other that we would scale
+[01:48] Bitcoin in layers um I think the L2 that
+[01:52] I think because of that l2s have been
+[01:54] vastly underexplored lightning will not
+[01:57] scale Bitcoin for the world uh lightning
+[02:00] is a great piece of technology and I
+[02:02] have nothing negative to say about it
+[02:03] other than that it's not a catchall for
+[02:05] all Innovation and it's not a catchall
+[02:07] for L2 scaling Tech um that's why I'm
+[02:11] excited to see a sort of explosion of
+[02:13] Bitcoin l2s and ones that will explore
+[02:16] different design surface areas to allow
+[02:20] uh for scalability of Bitcoin allow for
+[02:22] smart contracts on bitcoin um so for me
+[02:25] it's critically important for Bitcoin to
+[02:26] scale and I think it's very been very
+[02:28] underexplored and I don't think that
+[02:30] lightning is the single
+[02:33] solution is uh is the layer two the last
+[02:36] layer or do you see like a more if there
+[02:39] like different approaches like there
+[02:40] like the onion approach that we have
+[02:41] fitco in the middle and then a lot of
+[02:43] layer twos or do we have to stack layers
+[02:46] uh above each other yeah it's a good
+[02:48] question I think it's mainly all solved
+[02:49] by l2s I know that there's been a
+[02:51] conversation on ethereum about
+[02:53] l3s uh I think you know l2s are
+[02:56] basically completely centralized l2s
+[02:59] usually give up some level of
+[03:00] decentralization to become an L2 um Your
+[03:03] settlement guarantee is always best on
+[03:05] L1 especially the Bitcoin L1 um I do
+[03:08] think there's some interesting things
+[03:09] though by the way soft Fork proposal
+[03:11] wise where Bitcoin l2s might be as
+[03:13] secure as a Bitcoin L1 for example opcat
+[03:16] as a proposal a software proposal that
+[03:18] would allow for trustless bridging
+[03:20] bridging means you take your Bitcoin at
+[03:22] an L1 and you pop it up to an L2 or you
+[03:25] bridge it you bridge it from the L1 to
+[03:26] an L2 that's why the term exists um
+[03:29] bridging right now is is usually a
+[03:31] little bit of a risky maneuver and so uh
+[03:34] or like for example especially if the
+[03:35] asset has been wrapped so if Bitcoin has
+[03:37] been wrapped on its L1 and it's not
+[03:40] represented on the L2 in a way that
+[03:41] isn't fully secure then people who are
+[03:44] using Bitcoin on L2 are using a Bitcoin
+[03:46] that's a little bit less secure um
+[03:48] that's where I think opcat and other
+[03:49] implementations you know could lead to a
+[03:51] trustless bridge in architecture which I
+[03:54] think that might be the holy grail for a
+[03:56] flourishing of activity to happen on
+[03:58] bitcoin l2s
+[04:00] interesting um now to the topic of defi
+[04:04] um for me it's interesting defi the name
+[04:06] because it's called decentralized
+[04:08] finance and it's like okay decentralized
+[04:10] Finance it's Bitcoin is decentralized
+[04:14] money decentralized Finance so like what
+[04:16] is defi for you yeah it's a great
+[04:19] question so I think defi is definitely a
+[04:21] misnomer which means that people use it
+[04:22] for everything that this stand for
+[04:24] decentralized finance what it actually
+[04:26] represents is a sliding scale of
+[04:28] decentral decentralized Finance where a
+[04:31] lot of the trust assumptions
+[04:33] are you know a bit tricky so for example
+[04:36] uh most if you look at the architecture
+[04:38] of most D5 projects there's usually a
+[04:41] Federated or threshold or multisig model
+[04:44] where you know you look at liquid for
+[04:46] example liquid of Bitcoin L2 does the
+[04:47] same thing as a Federated model which is
+[04:49] basically a fancy word for say multisig
+[04:51] now there are different threshold or
+[04:53] Federated models to choose from so
+[04:55] certainly there's a game theoretic
+[04:57] security curve here of better and worse
+[04:59] solution
+[05:00] um you know when we look at uh
+[05:04] decentralized what does that really mean
+[05:06] I mean Bitcoin in certain scenarios
+[05:08] breaks down from a game theoretic
+[05:10] perspective right like Bitcoin is the
+[05:12] most secure thing in crypto by far of
+[05:15] course but it is not perfect I mean
+[05:18] there is a scenario where they you know
+[05:20] you could as a malicious actor if you
+[05:21] spent enough money and this is why we
+[05:23] call Bitcoins minor fees paid to miners
+[05:26] in the block you know the block road
+[05:28] which is fees and and newly Meed Bitcoin
+[05:30] paid to miners we call that the security
+[05:31] budget security budget represents the
+[05:34] game theoretic Financial uh trade-off
+[05:37] that miners make to behave properly of
+[05:39] course state level actors could behave
+[05:41] improperly and could be willing to burn
+[05:43] like a hundred billion dollars of mining
+[05:45] equipment they would be able to disrupt
+[05:46] Bitcoin to a large extent you know so
+[05:48] Bitcoin in and of itself is most
+[05:50] decentralized and I would say can take
+[05:52] the take the uh take the Throne of
+[05:55] decentralization in terms of owning that
+[05:57] from the best amount of decentralization
+[05:59] but but there to be clear Bitcoin
+[06:01] there's nothing perfect like nothing is
+[06:02] perfectly secure um when we look at on
+[06:05] the decentralization curve like for
+[06:07] defi there's a lot of different things
+[06:10] I've seen I've spent the last three
+[06:11] years spending time over on the salana
+[06:12] and ethereum ecosystems looking at some
+[06:14] of their design
+[06:15] architectures um look like a there's a
+[06:18] lot of things that are issues you know
+[06:20] like or you've got the Oracle problem
+[06:22] you've got you know if things are
+[06:24] Federated or um Federated like the
+[06:27] Federated multisig model like that's an
+[06:29] issue as well um there could be how the
+[06:32] governance token works these are all
+[06:35] different uh kind of attack vectors but
+[06:38] I do think it's interesting on the defi
+[06:39] world so like what does it mean to me I
+[06:41] think that was the original question
+[06:42] like defi mean means the I think the
+[06:44] attempt to replicate some elements of
+[06:46] Finance onto blockchain Tech in a way
+[06:49] that uh allows for minimized
+[06:52] counterparty risk um you know when it
+[06:55] comes to counter parties uh what's nice
+[06:58] about D5 protocols is that it usually
+[06:59] reduces your counterparty risk to close
+[07:01] to zero however you have protocol risk
+[07:05] so protocol risk means there could be a
+[07:07] zero day exploit in the protocol there
+[07:09] could be a flaw with the governance
+[07:10] token or the game theoretic security
+[07:12] model those things are material issues
+[07:15] and I think it's been very uh I think
+[07:18] very intellectually dishonest by a lot
+[07:20] of the ethereum def5 folks of just kind
+[07:22] of waving those concerns to the side
+[07:23] they're like oh yeah so that happened
+[07:25] but anyways decentralized finan is what
+[07:27] people should use and I'm like I do
+[07:29] agree Gates the future I like what we're
+[07:32] doing here but there should be a really
+[07:34] big Aster around like this is
+[07:38] risk-free it's not risk-free these are
+[07:41] you have protocol risk um so anyways
+[07:44] that was a long-winded way to talk about
+[07:46] you know what I think defi is how how
+[07:49] decentralized do I think it is and and
+[07:51] what that really means interesting um as
+[07:54] you also brought up altcoins do you
+[07:56] think that uh the use case of altcoin
+[07:59] and the value of altcoin can be then
+[08:01] built on on top of of Bitcoin and then
+[08:03] there's all only Bitcoin uh as a base
+[08:05] layer a little bit like the internet
+[08:08] protocols I think so I think this cycle
+[08:10] we're going to see Bitcoin dominance go
+[08:11] up we're going to see for example with
+[08:13] brc2 tokens and with ordinals we saw
+[08:16] asset types built on top of Bitcoin this
+[08:19] is very bullish for Bitcoin I think a
+[08:20] lot of people look at this as mutually
+[08:22] exclusive versus Bitcoin underlying
+[08:24] bitcoin's underlying value prop is
+[08:25] digital gold well is digital gold that
+[08:28] you can etch other contracts to it's
+[08:29] this digital gold that you can root your
+[08:32] other blockchain in uh some for example
+[08:34] some blockchains are like through
+[08:36] Babylon they're using Bitcoin and using
+[08:39] Bitcoin as staked collateral for other
+[08:42] blockchains if you have a proof of stake
+[08:43] chain what asset would you want to stake
+[08:45] to stake your chain with Bitcoin that's
+[08:47] pretty cool and I don't think a lot of
+[08:49] uh ethereum or Bitcoin people even
+[08:51] thought that was going to be a thing but
+[08:52] now that it is I think that's really
+[08:54] cool like Bitcoin still adhering to its
+[08:57] digital gold Roots it's a store value
+[08:59] Asset and people want to use a pristine
+[09:01] piece of collateral for staking for
+[09:03] borrowing against it using as collateral
+[09:05] to borrow dollars or whatever other
+[09:06] asset you like to borrow also to ET your
+[09:09] ordinal on to um you know I think it's a
+[09:12] really beautiful interplay between the
+[09:14] two narratives I don't think they're
+[09:16] conflicting what's what's interesting is
+[09:18] that ped Maxis don't understand too that
+[09:20] this is how Bitcoin wins like Bitcoin
+[09:23] dominance has been dropping since
+[09:25] 2017 and while a lot of that is stable
+[09:27] coins and there's certainly churn in the
+[09:30] competitive set so there's a lot of
+[09:31] crypto assets that go to zero I would
+[09:33] like Bitcoin to claim 80% dominance
+[09:36] again and that's through you know
+[09:38] allowing all these other things to be
+[09:39] built on top of Bitcoin and so yes I
+[09:42] don't you know I'm not going to go hard
+[09:44] shill those assets for people to go buy
+[09:45] I still think Bitcoin is the best return
+[09:47] per unit of risk that you can get you
+[09:49] know so that's never changed for me but
+[09:52] uh I think people very much
+[09:53] underestimate how massive this will be
+[09:55] imagine a hundred billion dollar in
+[09:57] demand for Bitcoin just for
+[10:00] uh staking on other chains like that
+[10:01] that's incredible like that amount of
+[10:03] demand for Bitcoin far out strips the
+[10:06] corporate demand like for example like
+[10:07] Michael sailor from U you know micro
+[10:10] strategy and other corporates all of
+[10:11] them combined hundred billion dollars
+[10:13] might outstrip that um and so for me
+[10:17] like when we look at how this is
+[10:20] developing these narratives that other
+[10:23] l1s we're using are starting to to
+[10:25] crumble and aod for example nfts on top
+[10:28] of Bitcoin are far far superior than
+[10:30] ethereum the graphic asset exists on
+[10:32] chain it's not pointing to an ipfs file
+[10:35] on some C you know somewhere else where
+[10:36] it could just disappear um you have to
+[10:40] spend proof of work to etch it there is
+[10:43] no you can't issue a thousand nfts on
+[10:45] bitcoin and they're free no you have to
+[10:47] etch it and it it's very costly to do so
+[10:49] it's like Ed like I said kind of like
+[10:51] stamping or etching an image into gold
+[10:54] um and then finally there's no smart
+[10:55] contract associated with the asset
+[10:57] issuance so
+[11:00] um there's no changing the smart
+[11:02] contract after you've issued these nft
+[11:04] assets to change how many exist Etc
+[11:06] they're etched into digital gold and
+[11:08] then it's there for forever so that was
+[11:10] a really interesting play where like
+[11:12] nfts on bitcoin I think are superior
+[11:14] from a decentralization standpoint than
+[11:16] entities on entities on bitcoin are a
+[11:19] superior than entities on ethereum and
+[11:21] then the other things like uh tokens
+[11:23] that can be issued on bitcoin I think
+[11:25] Bitcoin l2s have a far stronger value
+[11:27] prop than l2s on ethereum L2 on bitcoin
+[11:30] not only are faster and cheaper but also
+[11:32] are more they give you more
+[11:33] expressibility you know some of these
+[11:35] are svm or um evm so what that means is
+[11:38] that your Bitcoin on this L2 can be in a
+[11:42] smart contract you can borrow against it
+[11:43] you can lend it all these sort of things
+[11:45] that you can do on ethereum and salana
+[11:47] so I think this cycle Bitcoin reclaims
+[11:50] that Narrative of uh you know it had the
+[11:53] solid narrative at digital gold and now
+[11:54] it's digital gold plus uh these other
+[11:57] narratives where it's like uh bringing
+[11:58] on other assets on top of Bitcoin the
+[12:01] one thing I want to leave people with
+[12:02] here is that when you hear about the the
+[12:04] circular economy on bitcoin a lot of
+[12:07] bitcoiners are looking for that physical
+[12:08] circular economy but they're missing the
+[12:10] far bigger picture it's the digital
+[12:13] circular economy that matters and the
+[12:15] digital circular economy as we saw on
+[12:17] salon and ethereum was massive 100
+[12:20] billion plus the physical circular
+[12:22] economy on bitcoin is almost nothing
+[12:24] almost no one buys things with Bitcoin
+[12:26] there's very few Merchant activity for
+[12:28] the simple reason if people don't want
+[12:30] to sell their Bitcoin to buy stuff and
+[12:31] it doesn't solve a problem uh using your
+[12:33] Bitcoin to spend is not cheaper faster
+[12:35] or easier than existing payment methods
+[12:38] um you know no one's shaving off gold
+[12:39] flakes at the at the grocery store to
+[12:41] pay for things with gold they use gold
+[12:43] as a store value Asset now do people
+[12:45] want to speculate with gold they want to
+[12:47] use it as collateral absolutely and so
+[12:49] what we saw on ethereum and salana was
+[12:51] indeed they do not want to spend their
+[12:52] ethereum or salana what they want to do
+[12:54] is stake it lend it borrow it etc those
+[12:57] financial games those financial
+[12:58] Primitives are what people are brought
+[13:00] into that circular economy is what built
+[13:02] out a hundred billion dollar plus
+[13:04] ecosystem on ethereum and on a Bitcoin
+[13:06] you know ecosystem we're talking about a
+[13:08] multi hundred billion dollar ecosystem
+[13:10] so yes I think this is how Bitcoin
+[13:12] claims market dominance back again uh
+[13:15] this is how uh I think Bitcoin
+[13:17] ultimately solves its security budget
+[13:19] problem and also it provides defi on top
+[13:21] of Bitcoin which a lot of people want to
+[13:23] perform these activities like a lot of
+[13:25] folks call these speculation everything
+[13:27] is speculative whether it be bonds
+[13:29] stocks options things are always
+[13:32] speculative and so if people want to
+[13:33] perform that on bitcoin I'm all about it
+[13:35] if that increases demand for Bitcoin and
+[13:36] makes it stronger long term it's a good
+[13:39] point because uh like a lot of people
+[13:41] would call me a Bitcoin maximalist but
+[13:44] I'm more like a freedom free market
+[13:46] maximal list so I I'm up for like what
+[13:49] the free free market uh dictates uh it
+[13:52] will do uh and I think it's positive if
+[13:55] we can get narrative back from from from
+[13:58] the coins I think altcoins are mostly a
+[14:02] distraction from the Bitcoin narrative
+[14:04] um which is interesting because for me
+[14:06] Bitcoin maximal listen is like oh you
+[14:08] want things on bitcoin and in Bitcoin so
+[14:12] having defi on top of Bitcoin instead of
+[14:14] altcoins is kind of Bitcoin maximalism
+[14:17] narrative for me because it it brings
+[14:19] more things into Bitcoin do you also see
+[14:22] it like that yeah what's an interesting
+[14:24] perspective here is what is a Bitcoin
+[14:25] Max must and when when were they a
+[14:27] Bitcoin Max must during what are
+[14:29] so I'm one of the oldest ones and the
+[14:32] reason why we're Maxis back in the 13th
+[14:34] through 17th cycle is there was just
+[14:37] total garbage out there like you had
+[14:39] feathercoin Litecoin these were just
+[14:42] merely knockoffs that were trying to
+[14:43] compete against Bitcoin as of money
+[14:45] these weren't anything Innovative or
+[14:47] serious uh that era was just kind of you
+[14:50] know strewn with a bunch of really poor
+[14:53] projects nothing interesting um 17
+[14:56] through 2021 of course you have the Ico
+[14:58] booth boom mainly pump and dump Cash
+[15:01] Cash grabs not a lot of innovation there
+[15:04] either I would say post 2020 2020 you
+[15:07] had the defi summer defi summer I think
+[15:09] really changed things because there's
+[15:11] two new different types of assets that
+[15:12] came out that were really interesting
+[15:15] and these assets don't compete with
+[15:16] Bitcoin as money just like equities and
+[15:17] bonds don't compete with a dollar same
+[15:19] with equities and bonds don't compete
+[15:21] with gold um they're just different
+[15:22] asset types and those two assets that
+[15:24] emerged from that that I found
+[15:25] interesting were nfts um I'm not here to
+[15:28] aine as to the quality of people's Arc
+[15:30] projects as a Libertarian I naturally
+[15:33] have first principles thinking which is
+[15:35] all value is subjective someone's suit
+[15:38] is someone is someone else's t-shirt
+[15:40] which is someone else's Lobster like no
+[15:42] one no one can tell me what is a good or
+[15:45] bad use of my money it's totally
+[15:46] subjective um and so with nfts like it's
+[15:50] a really cool way to have a uniquely
+[15:51] digital scarce item it's non-fungible so
+[15:54] it means it's one of one or it's a
+[15:56] unique item that's super cool I think
+[15:59] that that's a unique type of asset that
+[16:00] does not compete with Bitcoin just like
+[16:02] art doesn't compete with gold and then
+[16:04] we have money use case of course which
+[16:06] is Bitcoin and then the a new emergent
+[16:08] use case would be like new emergent
+[16:10] asset type would be uh governance tokens
+[16:13] so governance tokens are or quasi
+[16:15] resembling a form of equity where with
+[16:17] governance tokens protocol uh
+[16:20] participants can receive an income
+[16:22] stream or they can uh go vote on
+[16:25] proposals or in some sort of
+[16:26] Representative manner now look are those
+[16:29] like are government's tokens
+[16:31] decentralized no not nearly as
+[16:33] decentralized as Bitcoin it's not trying
+[16:35] to compete with money it's like arguing
+[16:37] like how's decentralized as a company
+[16:38] and I'm like they're not they're
+[16:40] completely centralized that's not a bad
+[16:42] or good thing it just depends on what
+[16:44] problem you're trying to solve so with
+[16:46] the company it needs to be centralized
+[16:48] because of a hierarchical command and
+[16:49] control structure to decide what to go
+[16:51] build and solve problems for a customer
+[16:53] with protocols you know these daps that
+[16:55] have been built for Lending or borrowing
+[16:57] um they semi-active road maps which
+[17:00] means that they need to need to change
+[17:02] things and Implement things where money
+[17:04] needs to be the most secure layer of
+[17:06] this financial system that's where you
+[17:08] want minimal changes very rarely that's
+[17:11] your Rock Bottom solid solid base you
+[17:14] know then you have this D5 scaffolding
+[17:16] and they don't need to be as secure as
+[17:18] the base right um just like a company
+[17:20] doesn't have to have as much credibility
+[17:22] as the US government when it comes to to
+[17:24] the representation of the dollar so
+[17:27] those two unique asset classes that
+[17:29] unique asset types I think were very
+[17:30] interesting where they came out and I
+[17:32] was like these are very different they
+[17:33] don't compete with Bitcoin as a money
+[17:35] and I don't perceive them as a scam like
+[17:37] certainly there are scams in nfts there
+[17:39] are scams in governance tokens there's
+[17:41] also scams with the dollar and there's
+[17:43] also scams with Bitcoin doesn't make
+[17:45] Bitcoin bad or the dollar bad because
+[17:46] scams are done by it it's a unique asset
+[17:48] type and I think a lot of the hardcore
+[17:50] Pur and Maxi's talked about oh well
+[17:52] scams happen with in nfts or ethereum
+[17:54] and I'm like I'm from the oldest cohort
+[17:57] of bitcoiners there's so many scams that
+[17:59] were just in Bitcoin back in the 13
+[18:01] through 16 era like if you want to look
+[18:04] at that and say that uh you know these
+[18:06] that that the underlying asset is
+[18:08] responsible for the scams is is pretty
+[18:10] ridiculous
+[18:12] um longwind did we we were talking about
+[18:14] Bitcoin maximalism the modern version of
+[18:16] Bitcoin maximalism didn't didn't exist
+[18:18] until about 2020 after safe Tings the
+[18:20] Bitcoin standard Bitcoin standard
+[18:22] moralized Bitcoin transactions so it
+[18:26] created a moral framework for money and
+[18:29] and started to moralize decision- making
+[18:31] uh for example there's a rant in there
+[18:33] about Modern Art um as being like a scam
+[18:37] or a a symbol of Fiat money so the
+[18:41] there's quite a few flaws in this and
+[18:42] this is what creates Bitcoin I call them
+[18:45] Puritan maximalists they're not really
+[18:47] maximalist the earliest maximalists were
+[18:48] not these types at all the earliest
+[18:50] maximalists were like everything else is
+[18:52] kind of trash if there's ever cool
+[18:54] things that get developed on these other
+[18:55] chains will'll bring it back to bitcoin
+[18:57] that was a very popular narrative
+[18:59] um and they were very libertarian which
+[19:01] meant hey man if you want to buy pink
+[19:02] flamingos and put them in your front
+[19:04] lawn I don't I don't think it's a great
+[19:06] choice but like it's all on you that's
+[19:08] not a scam like to sell someone Pink
+[19:09] Flamingos wouldn't be a scam the modern
+[19:12] maximalists are heavily influenced by
+[19:14] saine's book and these are very new
+[19:16] people to bitcoin they're very very
+[19:17] they've only been around a few years
+[19:18] these are not the core old group um with
+[19:22] moralizing transactions they violate
+[19:24] core first principles think thinking of
+[19:26] libertarian ideology which is that all
+[19:28] value subjective
+[19:29] um a lot of them have moralized
+[19:31] everything from diet to other things and
+[19:34] blame it at all on fiat currency when if
+[19:37] you just spent two minutes Googling you
+[19:39] know the gold standard like life wasn't
+[19:41] great on that there's all sorts of
+[19:43] Horrors uh Wars wars are extremely
+[19:46] common on a gold standard you also had
+[19:49] very poor diet you had poor everything
+[19:51] in lifestyle if you look at you our
+[19:53] world and data they they calculate The
+[19:55] Human Condition and look at different
+[19:57] ways to measure that during the gold
+[19:59] standard life was just as shitty as any
+[20:01] other's way um you know while money does
+[20:05] solve many life's problems and money is
+[20:07] the core underlying most valuable thing
+[20:09] of our world it's certainly not a
+[20:11] Panacea for everything and so I think
+[20:13] the Bitcoin standard radicalized these
+[20:14] bitcoiners and made them Puritans who
+[20:18] have then moralized everything and now
+[20:20] now it's it's not okay to you know
+[20:23] everything they don't like is called
+[20:24] Fiat and uh everything that isn't
+[20:27] exactly what they prefer is is uh kind
+[20:29] of labeled as immoral which is silly um
+[20:32] you know moralizing every transaction is
+[20:35] the opposite of libertarian ideology if
+[20:37] you do that then Society breaks down as
+[20:39] people then judge you based on every
+[20:41] single thing that you do and moralize
+[20:43] your consumption of food and
+[20:44] entertainment and everything else if you
+[20:46] watch or listen to my podcast on a
+[20:48] regular basis I'll guess you already
+[20:50] bought some Bitcoin and now the most
+[20:53] important step is to keep the Bitcoin
+[20:56] keep them secure in a hardware wallet my
+[20:59] personal recommendation for hard wallet
+[21:01] is the bitbox it's super secure it's
+[21:03] simple to set up it's also perfect gift
+[21:06] for a friend who has still the Bitcoin
+[21:08] on an exchange and you can get a 5%
+[21:12] discount with the code Robin at the
+[21:14] checkout visit bitbox do Swiss robobin
+[21:18] to get your bitbox and if you really
+[21:21] want to bulletproof your self custody
+[21:23] setup your security setup and maybe even
+[21:25] your citizenship setup you have to talk
+[21:29] to the Bitcoin way if you go to the
+[21:31] Bitcoin way.com
+[21:34] Partners robobin you get a 30 minute
+[21:37] free call where you can dive deep with
+[21:40] them if your self custody setup is
+[21:43] secure if your citizenship is secure or
+[21:46] maybe might be improvable or your
+[21:48] digital footprint in general is secure
+[21:52] they are the experts in cyber security
+[21:55] in Bitcoin self custody and how to be a
+[21:58] secure sovereign individual in general
+[22:01] and last but not least I have something
+[22:03] completely new for you guys I partnered
+[22:07] up with coin vigilante this is the most
+[22:10] beautiful Bitcoin time piece that I ever
+[22:13] saw created by anyone look at that
+[22:16] beauty I love it so much coin vigilante
+[22:18] made a perfect Bitcoin watch that's the
+[22:22] perfect subtle elegent way to go out
+[22:25] there and show that you are a bitcoiner
+[22:27] and that watch brand is Bitcoin only
+[22:31] make sure to check out the link in the
+[22:33] description for this amazing coin
+[22:35] vigilante time pieces those watches are
+[22:37] amazing I love them so much it was
+[22:39] really hard for me to pick the one that
+[22:41] I want to have because there are a lot
+[22:43] of great options I went with the new
+[22:46] transparency Edition they are all
+[22:49] limited so grab yours those will not be
+[22:52] available for a long time but there will
+[22:54] come new models and new amazing designs
+[22:57] along the way I see that Al like I see
+[22:59] the extreme a lot uh when we like
+[23:01] talking about like oh money fixes
+[23:03] everything I do think money makes makes
+[23:05] a difference like what money we as a
+[23:08] society uses but it doesn't influence
+[23:11] everything like there there are problems
+[23:13] also with human psychology so um what
+[23:17] what do you think uh will happen if we
+[23:20] are on a sound money standard against
+[23:22] like a highly printed standard is is
+[23:24] there like something that you see like
+[23:26] okay that actually will change
+[23:29] yeah I think a lot of things will change
+[23:30] I also agree with your perspective it's
+[23:32] not that things won't change it's just
+[23:34] not a everything's not going to change
+[23:35] and that everything is dependent on that
+[23:37] so when we look at what might change you
+[23:39] know for example easy ones to call out
+[23:42] if Bitcoin reduces the government's
+[23:43] capability of printing money and
+[23:45] spending more than they have then social
+[23:47] programs will be cut and tax rates would
+[23:49] likely be lower um that's a good thing
+[23:51] for society because governments are very
+[23:53] bad at allocating Capital very wasteful
+[23:56] and so that would mean that we're more
+[23:57] productive as as a society which means
+[23:59] that we produce more goods and services
+[24:01] to solve problems for for humans which I
+[24:04] believe would Usher in um definitely
+[24:06] improvements in technology talking about
+[24:09] medical technology where we could live
+[24:11] longer um solve underlying health issues
+[24:14] we'd have you know we probably have a a
+[24:17] less
+[24:17] regulatory strong framework as well
+[24:20] where like maybe regulations would also
+[24:21] be minimized due to this du the
+[24:22] lessening power of the government so we
+[24:25] might actually have flying cars you
+[24:26] might have you know space you know space
+[24:29] travel like they're hindered by some of
+[24:30] these regulatory issues and also um the
+[24:33] government's giving tons like two or
+[24:36] three times the amount to their
+[24:37] competitors like Boeing pure capitalist
+[24:39] Endeavors will flourish and that means
+[24:41] that through capitalism every company's
+[24:43] just trying to solve a problem for
+[24:45] someone trying to make your life easier
+[24:46] better faster whatever so we would see
+[24:49] Society flourish as a whole in that
+[24:50] regard this that does not solve the
+[24:53] moral framework uh someone's subjective
+[24:55] moral stance on how moral Society is
+[24:58] I don't know if that would improve crime
+[25:00] or not it may or may not I don't know if
+[25:02] it would improve Wars or not certainly
+[25:05] would make Wars a little bit more cost
+[25:07] prohibitive uh but in the gold standard
+[25:09] we didn't see any lessening of Wars at
+[25:11] all compared to the post gold standard
+[25:13] so um nuclear weapons of course game
+[25:16] theoretically led to the uh reduction in
+[25:18] Warfare because the the war between two
+[25:21] parties have nukes would be the end of
+[25:23] civilization so you know uh Bitcoin I
+[25:27] think solves economic problem problems
+[25:28] which then solve human problems because
+[25:30] companies are solving human problems I
+[25:32] don't think that solves happiness and I
+[25:34] don't think that solves
+[25:35] morality yeah humans are still humans um
+[25:40] one topic with with defi that I'm also
+[25:43] wondering um because there is uh like a
+[25:47] centralized database is in most cases
+[25:49] more efficient than a D5 project uh just
+[25:53] from a technology standpoint but you
+[25:56] also want to have maybe some features
+[25:57] that you actually want to decentralize
+[25:59] to some extent where would you say is
+[26:02] the is the line between oh we that can
+[26:05] live on on a this on a centralized
+[26:08] Oracle database and it doesn't need to
+[26:10] have some Bitcoin or some crypto thing
+[26:13] on top of it uh and and on those project
+[26:16] actually make sense to build on top of
+[26:18] Bitcoin yeah so let's start with
+[26:20] something that's very centralized stable
+[26:23] coins uh usdc and usdt completely cized
+[26:29] there is no defi architecture for that
+[26:30] at all none uh nothing that would even
+[26:34] the word decentralized could be used in
+[26:35] it's completely centralized it's a
+[26:37] wrapper around a real dollar in a bank
+[26:39] account that's then been tokenized and
+[26:41] represented on
+[26:42] blockchains um despite that we've seen a
+[26:45] massive amount of activity occurring
+[26:47] with stable coins stable coins are
+[26:49] arguably probably one of the highest
+[26:51] product Market fit things you know
+[26:53] outside of bitcoin's use case as a store
+[26:55] value money um highest product Market
+[26:58] fit use cases in the crypto ecosystem um
+[27:01] I was very skeptical of tether and very
+[27:04] skeptical of centralized Services when
+[27:05] they came out many many years ago um for
+[27:08] a simple reason of like yeah they could
+[27:10] go seize all the money in the bank
+[27:11] account and then all that tether that's
+[27:12] out there would be worthless um you know
+[27:15] it's completely centralized it has no
+[27:17] SEC no security guarantees other than
+[27:19] our trust in that institution but
+[27:21] despite that people want to use these
+[27:23] stable coins and the volume and and
+[27:26] market caps of these stable coins are m
+[27:28] massive so that shows that there is
+[27:30] Market interest in completely
+[27:31] centralized solutions that are simply
+[27:33] integrating the old world dollars into
+[27:35] our new world then we go along that
+[27:37] Spectrum right so that's like completely
+[27:39] centralized and bitcoin's decentralized
+[27:41] and there's a spectrum of other daps and
+[27:43] other things that could be there adaps
+[27:45] and other like Financial
+[27:47] Primitives and so you know with those
+[27:51] I'm again as as a capitalist and as a
+[27:53] Libertarian what I believe in is that
+[27:54] the market will choose what it chooses
+[27:56] to invest in um I personally have qualms
+[28:00] or issues with how certain protocols
+[28:03] have labeled themselves as decentralized
+[28:05] and how secure they've labeled
+[28:07] themselves as for many years I yelled
+[28:10] and yelled and yelled you know hey these
+[28:12] are not as secure as you think there's
+[28:14] issues with this don't trust them and
+[28:17] yet the market over and over and over
+[28:18] again continues to use them right same
+[28:21] with again stable coin stable coins are
+[28:22] completely centralized storing your
+[28:24] money in tether or usdc is risky right
+[28:27] so
+[28:29] I later realized you know look like in a
+[28:32] in a Libertarian system you can't baby
+[28:34] people and you can't baby them into
+[28:37] adhering to your own subjective level of
+[28:39] security like my private Key Management
+[28:41] is is quite rigorous a lot of people
+[28:43] don't do that you know we can yell all
+[28:45] we want about how bad or good a a
+[28:47] private Key Management setup is but most
+[28:50] people will probably stick to what they
+[28:52] like doing um I think education is
+[28:54] important of course and I think people
+[28:55] should call out game theoretic
+[28:57] weaknesses like protocols or in Cold
+[28:59] Storage methods Etc but with these
+[29:02] protocols what we've seen is that the
+[29:03] market is fully willing to embrace
+[29:05] solutions that are I would say in the
+[29:07] midpoint between centralized and
+[29:09] decentralized on the on the on the
+[29:11] decentralization curve for example the
+[29:14] first L2 on ethereum is polygon uh one
+[29:17] of the first l2s on bitcoin was was U
+[29:20] liquid they're a Federated bottel that's
+[29:22] just a multisig model that's that's the
+[29:25] very basic game theoretic security which
+[29:27] is like
+[29:28] not the best and despite that the market
+[29:31] has what what it polygon has like an8
+[29:34] billion dollar market cap people are
+[29:36] okay with that um so ultimately I think
+[29:39] it's up to the market to decide their
+[29:40] risk levels and also you look at a lot
+[29:42] of the Bitcoin Maxis talk about ethereum
+[29:44] and salana as like these will inevitably
+[29:46] like collapse
+[29:48] fail yes salana breaks down once in a
+[29:50] while but it comes back and the market
+[29:52] doesn't seem to care right same with um
+[29:56] same with ethereum like ethereum game
+[29:58] theoretically like with the
+[30:00] ETF you could have if ETFs hold a lot of
+[30:04] ethereum then that is actually leads to
+[30:06] a huge issue with proof of stake systems
+[30:08] bitcoin's not proof of stake so it
+[30:09] doesn't matter how many Bitcoin Black
+[30:11] Rock accumulates they can't control the
+[30:13] protocol with proof of stake systems
+[30:15] they can um so naturally there's a
+[30:17] long-term security attack Factor there
+[30:19] with ethereum but the market hasn't
+[30:21] priced it in or the market doesn't care
+[30:23] now uh with any asset in the world it
+[30:26] doesn't matter what the mark market
+[30:28] prices it has ultimately has to come
+[30:29] back to a reality where if there is a
+[30:31] material issue with the security the
+[30:33] price could go to zero so I do think we
+[30:36] might see something called the Great
+[30:37] filter event so the great filter event
+[30:39] is an event that uh scientists talk
+[30:42] about where when we look at at the stars
+[30:43] why don't we see a ton of alien
+[30:45] civilizations shooting us radio signals
+[30:47] or bombarding us with messages so
+[30:50] there's a there's a concept called the
+[30:51] Great filter which is that there's a
+[30:52] certain moment in Civilization that most
+[30:54] civilizations don't get pasted uh it
+[30:57] could it might just be civilization it
+[30:58] might also just be a just a planet as a
+[31:01] whole for example maybe life never
+[31:03] becomes
+[31:04] multicellular maybe maybe you only have
+[31:07] very primitive animals but you never get
+[31:08] a really you know a very intelligent
+[31:10] animal U maybe civilizations have
+[31:13] occurred frequently but they when they
+[31:15] discover nuclear weapons 99 out of 100
+[31:17] times they die you know so these sort of
+[31:20] moments I think when we look at crypto
+[31:23] crypto hasn't had its great filter
+[31:25] moment where we haven't seen governments
+[31:27] attack crypto crypto like we've seen
+[31:28] them kind of soft attack it but if every
+[31:31] government in the world United and tried
+[31:32] to attack crypto which ones would
+[31:34] survive that's where I think you know if
+[31:36] that moment occurs then these assets
+[31:39] might trade really much lower as people
+[31:41] go whoa this is super risky um I don't
+[31:44] think that moment's going to happen
+[31:46] though so if that moment doesn't happen
+[31:48] bitcoiners might have over optimized on
+[31:50] security now I like that game theoretic
+[31:52] trade-off for Bitcoin because I'd like
+[31:54] to be able to survive a state level
+[31:56] attack that's why I store most of my
+[31:57] wealth in
+[31:58] Bitcoin but you know if we are wrong and
+[32:01] a state level attack never occurs we
+[32:04] might have over architected our security
+[32:06] I'm playing devil's advocate here
+[32:07] because again like I said I put my money
+[32:09] in Bitcoin that's what I want to hold
+[32:11] long term but Playing devil's advocate
+[32:14] if these other if governments never
+[32:15] attack crypto or if like the game
+[32:16] theoretic attack for the other cryptos
+[32:18] are high enough to survive state level
+[32:20] attack then um then these protocols may
+[32:23] never die and I think some of the
+[32:24] Bitcoin Maxi Puritans are you know
+[32:27] saying yes these will will collapse and
+[32:29] I'm like I agree they I don't like their
+[32:32] architecture and I would not invest in
+[32:33] them but to say they will for sure
+[32:35] collaps is it maybe it's interesting um
+[32:39] I mean we saw a little bit of that in
+[32:41] the internet adoption with theom bubble
+[32:44] where a lot of companies and early Pro
+[32:47] startups were washed out and uh the the
+[32:49] good ones obviously stayed with with
+[32:52] yeah apple and Microsoft and Amazon um
+[32:55] also with uh e that there's also
+[32:57] interesting I think I looked it up like
+[32:59] a week ago or something like that the
+[33:00] numbers uh since they switched from
+[33:02] proof of work to proof of stake uh when
+[33:05] you measured against Bitcoin it is like
+[33:07] down like 40 or 50% some something along
+[33:10] those lines um do you think that same
+[33:15] event Could Happen even without the
+[33:17] state level attack in uh in in in
+[33:21] Bitcoin where the market just like
+[33:23] washes the things out as in Internet and
+[33:26] then maybe also on the E thing what do
+[33:28] you think about that well I've been
+[33:29] waiting 12 years to see it happen you
+[33:32] know I uh the fact that like Litecoin is
+[33:35] still around is absurd in xrp like a
+[33:39]  10 years right like 10
+[33:43] years I mean I can't believe it's been
+[33:45] around that long right it's just I mean
+[33:47] what what is litecoin's narrative I
+[33:49] don't even get like first of all by the
+[33:50] way I like Charlie Lee an early early
+[33:52] builder in the space he's a good person
+[33:54] but like Litecoin the project what's the
+[33:57] narrative like a knockoff
+[33:59] Bitcoin it doesn't even have like a fun
+[34:01] New narrative and uh so that one I find
+[34:03] completely bizarre uh same I mean
+[34:06] dogecoins at least mtic you know they
+[34:08] have like memes on its side Litecoin is
+[34:10] just like a really cheap knockoff um and
+[34:13] then xrp is completely bogus uh there's
+[34:16] no banks that like xrp but retail thinks
+[34:19] that Banks like like xrp and for some
+[34:21] reason that's why xrp has continued to
+[34:23] exist um so I don't know it's the 10
+[34:27] years is the long time I thought these
+[34:28] would have been washed out a long time
+[34:30] ago um now 99% of the other ones in
+[34:33] those cohorts did but these things could
+[34:36] last a lot longer than we expect like
+[34:38] how how long does human irrationality
+[34:39] exist forever so I think on on a very
+[34:44] longtime Horizons they in their price
+[34:46] relative to bitcoin they Trend to zero
+[34:49] like from a a you know altcoin over
+[34:52] Bitcoin
+[34:53] ratio will their values ever go to zero
+[34:56] I don't know may maybe over a lifetime
+[34:59] uh but uh you know I thought that this
+[35:01] moment would have happened sooner
+[35:02] especially with things that are
+[35:03] objectively stupid Litecoin xrp I mean
+[35:06] those are easy to pick on right these
+[35:08] are these aren't even like there's not
+[35:10] even a narrative like zcash or Monero
+[35:12] where it's like oh it's privacy coin you
+[35:13] know it's like a cheap knockoff
+[35:16] Bitcoin and a completely useless piece
+[35:18] of technology xrp so you know I would
+[35:22] say decades at a minimum for these all
+[35:24] to Trend to zero I think if you look at
+[35:27] all altcoin pairs relative to bitcoin
+[35:29] most of the time they are trending to
+[35:30] zero through each cycle over and over
+[35:32] and over um these things take a very
+[35:34] long time to play out uh what's
+[35:36] interesting about crypto assets is that
+[35:38] they are Global and mimetic and much
+[35:43] different than like there's no
+[35:44] underlying fundamental value of of
+[35:47] ethereum Salon or Bitcoin other than
+[35:50] aggregate shared belief in it so it's
+[35:52] not like an equity where you're like
+[35:53] yeah well their cash flows went negative
+[35:55] what's the company worth you know like
+[35:57] in they continue to go negative they're
+[35:58] e through the cash and then what's left
+[36:00] it's not a situation like that like
+[36:02] what's the subjective value of Litecoin
+[36:04] the value of Litecoin will exist as long
+[36:05] as a group of people any group of people
+[36:08] believe in it and the value of it is
+[36:10] determined based on the size of the
+[36:11] number of group of people so that number
+[36:13] will just likely shrink over time and
+[36:15] that's where its value will shrink as
+[36:16] well but yeah anyway that's a long went
+[36:19] way to say thought altcoins were going
+[36:21] to disappear longer like a a lot sooner
+[36:23] a lot faster especially the ones that
+[36:25] are quite silly um I think they'll exist
+[36:27] for
+[36:28] decades interesting um as you have been
+[36:32] very long already in the in the Bitcoin
+[36:34] Community uh for longer than most people
+[36:37] that are still speaking about Bitcoin um
+[36:42] what how has your knowledge and your
+[36:44] view on bitcoin changed uh over the
+[36:46] years yeah good question my my core
+[36:48] original thesis which I still believe in
+[36:50] is is bitcoin's digital gold this has an
+[36:54] unwavering opinion I've had since I got
+[36:56] into Bitcoin in 2012 I studied finance
+[36:58] and undergrad during the 2008 financial
+[37:00] crisis and when I graduated in 2010 a
+[37:03] year later he discovered Bitcoin I was
+[37:05] like this is the solution to the problem
+[37:06] now of course I didn't right away figure
+[37:08] that out took me a little while of
+[37:09] reading about it but the 21 million hard
+[37:12] cap was a really brilliant breakthrough
+[37:14] why 21 million versus another fixed
+[37:16] number that doesn't matter but what
+[37:18] matters is that it's fixed there is no
+[37:20] appropriate rate of inflation or
+[37:23] deflation the issue of inflation or
+[37:25] deflation will be a constant political
+[37:27] attack factor and would constantly be uh
+[37:29] probed and used against Bitcoin over
+[37:31] time and there's no way to set an
+[37:33] appropriate rate satoshi's Brilliance is
+[37:35] having a fixed rate or sorry a fixed
+[37:37] amount that fixed amount then has the
+[37:40] whole world and the whole world's
+[37:42] economy re architect around itself run
+[37:43] this fixed fixed number of coins so the
+[37:46] problem is in the rate of the
+[37:48] appropriate rate of inflation or
+[37:49] deflation is zero which is brilliant so
+[37:52] for me this felt like a solved a problem
+[37:54] in economics and the digital gold thesis
+[37:56] says like this is a story value Asset it
+[37:58] has all those parameters that you would
+[37:59] want out of a store value Asset so in
+[38:02] terms of Bitcoin being store value gold
+[38:04] 2.0 we saw the last cycle really
+[38:06] crystallized that thesis and I think
+[38:08] that that's been the original purpose of
+[38:10] Bitcoin all along it's definitely not
+[38:11] for payments um was in that that's been
+[38:14] crystallized and very much solidified
+[38:16] and the reason why it's solidified is
+[38:18] that's the actually the problem that
+[38:19] Bitcoin solves look at what problem
+[38:21] Bitcoin protocol solves and solves that
+[38:23] problem um I think what we'll see emerge
+[38:26] out of this you know see what what has
+[38:27] changed my opinion over the last few
+[38:29] years around defi is the idea that
+[38:31] you've got this solid gold Foundation
+[38:34] you've got this asset that you want to
+[38:35] use as collateral for borrowing against
+[38:37] or you want to use it for staking or you
+[38:39] want to use it for whatever else or you
+[38:40] want to stamp something into it
+[38:43] bitcoin's won that Narrative of store
+[38:44] value that's that is the biggest
+[38:46] narrative to win it's the biggest Tam um
+[38:49] you know it's a hundred trillion dollar
+[38:50] Tam it's bigger than everything else
+[38:52] combined and once you win that you know
+[38:54] winning the store value narrative once
+[38:56] you've won that it's over for everything
+[38:58] else like ethereum will never be as
+[39:01] sound of money as Bitcoin and so as much
+[39:03] as the ethereum folks try to lar about
+[39:04] that they'll never have that sound money
+[39:06] aspect that Bitcoin has sound money
+[39:08] means credibility not a rate of
+[39:10] inflation or deflation in bitcoin's
+[39:13] monetary policy is the most credible on
+[39:14] the planet now with defi though I think
+[39:17] this magnifies that store a value use
+[39:19] case it allows people to use Bitcoin and
+[39:21] uses that as a a piece of collateral and
+[39:24] other things which increases demand for
+[39:25] Bitcoin which ultimately makes the price
+[39:27] go up which makes it more successful as
+[39:29] the price goes up people become more
+[39:31] aware of it it becomes more credible
+[39:32] more people buy into it more
+[39:33] institutions buy into it and this is how
+[39:35] Bitcoin meanss itself into becoming the
+[39:37] world Reserve currency so I do think
+[39:40] defi is a critical component of that
+[39:42] like I said it magnifies the use case of
+[39:44] Bitcoin um it allows us to build a
+[39:46] financial system that's separate from
+[39:48] the existing one on top of Bitcoin and
+[39:50] it allows Bitcoin to grab back market
+[39:52] share in terms of market dominance
+[39:54] really interesting uh to ask that before
+[39:57] because uh I want to lead up to the next
+[39:59] question um we we have now so many
+[40:02] interesting and different uh narratives
+[40:04] in Bitcoin uh we have nation states ETFs
+[40:08] us elections Trump spoke at Nashville we
+[40:10] have def5 we have like really a lot of
+[40:13] uh I mean it speaks to the the growth of
+[40:16] the Bitcoin Community I guess um where
+[40:18] do you think is like the what is the the
+[40:21] biggest narrative over the next like
+[40:22] five 10 years for Bitcoin and what will
+[40:25] be the the the big stories that will
+[40:27] drive
+[40:29] Bitcoin look store value number go up
+[40:31] like that's Bitcoin increased use and
+[40:34] belief as a story value Asset will be
+[40:36] the uh headline headline news uh Bitcoin
+[40:40] will increasingly be adopted by input on
+[40:42] the balance sheet of Corporations will
+[40:44] be increasingly adopted by governments
+[40:46] if Trump wins the election there might
+[40:47] even be a strategic Bitcoin Reserve that
+[40:50] kicks off a game theoretic move that is
+[40:52] the ultimate last final move in the move
+[40:55] of being money is when governments
+[40:57] game theoretically wonder if other
+[40:59] governments are buying it that's the
+[41:00] ultimate maneuver that's the final
+[41:02] battle and bitcoin's on the cusp of that
+[41:04] which is phenomenal so from here for the
+[41:06] next five to 10 years that's the core
+[41:07] thing is that more governments more
+[41:10] people more businesses buy and put
+[41:11] Bitcoin in their balance sheet and that
+[41:13] over time that makes that makes Bitcoin
+[41:16] that is what winning looks like people
+[41:18] are like well doesn't that corrupt
+[41:20] Bitcoin these institutions buying it
+[41:21] does that change Bitcoin bitcoin's code
+[41:24] didn't change one bit Bitcoin they all
+[41:27] the need of Bitcoin and acknowledge that
+[41:28] Bitcoin is King and that Bitcoin is a
+[41:30] superior money this will continue for
+[41:33] the next couple decades but the next 10
+[41:34] years I think will be very exciting as
+[41:36] we see Bitcoin reach its you know full
+[41:39] achievement of being a world Reserve
+[41:40] currency to be a world Reserve currency
+[41:42] governments and corporations have to
+[41:43] hold it and own it and want it and
+[41:44] investment Banks too um you know on the
+[41:47] defi side of things like I said I think
+[41:49] that this will people are very
+[41:51] underestimating the size of what Defi
+[41:53] and Bitcoin could be um I've got a fund
+[41:56] in the space so it's called asymmetric
+[41:57] Bitcoin D5 Venture fund we invest in
+[41:59] Bitcoin startups building uh Bitcoin D5
+[42:02] protocols
+[42:03] so people I think don't really grock the
+[42:07] the magnitude of this Bitcoin is larger
+[42:10] than every other crypto asset combined
+[42:12] not just larger than theing but it's not
+[42:14] all that combined when we look at tvl
+[42:16] total value locked or defi activity on
+[42:18] top of these other chains if Bitcoin
+[42:20] were to have that level of activity on
+[42:22] its own chain like whether that be on
+[42:24] either l2s or ordinals with like TBL and
+[42:28] uh dap usage and um market cap of these
+[42:32] other l2s we're talking like a a world
+[42:35] where a Bitcoin L2 might be worth you
+[42:36] know $150 billion dollars uh the other
+[42:39] l2s might be worth tens of billions and
+[42:41] the other ones be worth billions we
+[42:43] might see total value locked on bitcoin
+[42:46] hit you know for example like if
+[42:47] bitcoin's at a four trillion market cap
+[42:50] and a fourth of that is locked into
+[42:51] Bitcoin defi it's a trillion dollars
+[42:54] locked up into defi on top of Bitcoin I
+[42:56] don't think people really Rock how
+[42:58] massive this shift could be and so if
+[43:01] that happens I think those narratives
+[43:02] will be really critical both for the
+[43:05] successive Bitcoin as in continuing its
+[43:08] uh phenomenon as a store value Asset and
+[43:10] especially store value Asset in a
+[43:11] digital circular economy but also I mean
+[43:14] that just starts to absorb market share
+[43:16] from all these other chains back into
+[43:18] Bitcoin um and by absorbing that I think
+[43:21] long term like I Bitcoin has a couple
+[43:24] different ways it could lose one is if
+[43:25] more people believe in another chain
+[43:26] than Bitcoin and so if we can win the
+[43:29] back that market share that completely
+[43:31] permanently solidifies bitcoin's
+[43:33] long-term value and look I think Bitcoin
+[43:35] is going to win no matter what but I
+[43:37] don't like to rest and I don't like to
+[43:39] just hope that happens I want to make
+[43:40] sure it happens so whether it be inside
+[43:43] of crypto or outside of crypto competing
+[43:45] with fiat currency and gold Bitcoin is a
+[43:48] story value Asset green in a prominence
+[43:49] and Bitcoin defi are both things that I
+[43:51] think help Bitcoin cement and achieve
+[43:53] its long-term locked in position as the
+[43:55] new world preserve asset beautiful I
+[43:58] think so too um really cool we come now
+[44:00] to the end routine uh where I have two
+[44:03] questions the first question is the same
+[44:05] for every guest uh and it is what can we
+[44:07] learn from you besides all the things
+[44:09] that we already talked about yeah so
+[44:12] follow me on Twitter at Dan held um I
+[44:15] think you'll see a lot more content also
+[44:17] subscribe to my newsletter the held
+[44:18] report the held report is a newsletter
+[44:20] that comes out one or two times a month
+[44:22] and we cover Bitcoin defi topics so if
+[44:24] you're curious about what you've heard
+[44:25] on this call you're like what's more
+[44:26] tangible real what are some of the l2s
+[44:29] that you're talking about we cover that
+[44:31] in there um those are the two best spots
+[44:34] to hear more about what I'm working on
+[44:36] if you're a startup please reach out to
+[44:38] asymmetric we'd love to hear from you
+[44:39] I'm we love to we've taken a look at
+[44:41] quite a few companies in this space and
+[44:42] we're actively deploying and then um you
+[44:45] know if you have something particular
+[44:47] you'd like to ask me it's contact at Dan
+[44:48] hill.com as my email amazing thank you
+[44:51] so much and now we have the last end
+[44:52] routine where the previous guest is
+[44:54] asking a question for the next guest so
+[44:56] the last question of uh the podcast uh
+[44:58] and it's it's a popular it's a popular
+[45:01] question on the podcast um what does
+[45:03] freedom actually mean for you yeah
+[45:05] that's a that's a really good question
+[45:07] um I think freedom for me would both be
+[45:09] in two functions one is bodily freedom
+[45:11] and then one is monetary Freedom so
+[45:13] bodily Freedom would be the ability to
+[45:15] do whatever I want with my with my body
+[45:18] um this includes all-encompassing things
+[45:20] like legalization of drugs uh birth
+[45:23] control uh abortion assisted suicide
+[45:28] you have do I I can choose if I want to
+[45:30] use take the covid vaccine or not um
+[45:33] it's a full expression of my bodily
+[45:35] autonomy that would be one also things
+[45:37] like gun control uh to be able to own a
+[45:39] weapon I think is a critical aspect of
+[45:41] autonomy over your body if you don't
+[45:43] have a weapon to defend your body then
+[45:45] how do you have autonomy over it you
+[45:46] don't so self-defense is a critical
+[45:49] point of bodily autonomy so that's
+[45:51] Freedom that's one aspect of freedom to
+[45:53] me the other one is monetary so monetary
+[45:54] Freedom would be that I can do whatever
+[45:57] I want with my money and there's no one
+[45:58] in the way so I can buy be buying
+[46:01] investing saving uh there's no friction
+[46:04] points added to where I'm restricted in
+[46:06] my ability to perform to save own
+[46:09] transmit and uh my money and to engage
+[46:11] in Commerce so that would be so Ultra
+[46:14] capitalist would be kind of that that
+[46:16] framing of a pure capitalist system with
+[46:18] no government oversight at all that
+[46:20] would be freedom to
+[46:21] me I love it I lack that answer a lot um
+[46:25] perfect and thank you so much for for
+[46:26] for being on you already said uh where
+[46:28] people can can find you and thank you
+[46:30] for taking the time also thank you for
+[46:32] everyone watching and listening uh for
+[46:34] joining us today as always I'll be back
+[46:36] tomorrow byebye
+[46:38] [Music]

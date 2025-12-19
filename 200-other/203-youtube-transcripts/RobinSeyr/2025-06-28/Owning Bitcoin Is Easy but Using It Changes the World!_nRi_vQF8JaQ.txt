@@ -1,0 +1,1889 @@
+Title: Owning Bitcoin Is Easy but Using It Changes the World!
+Video ID: nRi_vQF8JaQ
+URL: https://www.youtube.com/watch?v=nRi_vQF8JaQ
+Date Saved: 2025-06-28 20:46:06
+Channel: RobinSeyr
+--------------------------------------------------
+
+[00:00] I don't think SPR's changed the world. I
+[00:02] don't think Sailor's, you know,
+[00:04] acquisition of Bitcoin changes the
+[00:05] world. I think it's how people
+[00:07] ultimately end up using it that changes
+[00:09] the world. They pay me in Bitcoin. Like
+[00:11] we operate on a Bitcoin standard. It
+[00:13] does work. And we we primarily use
+[00:16] onchain. Do you want to have Bitcoin in
+[00:18] self-custody that you control? I mean,
+[00:20] that like true financial self-
+[00:22] sovereignty or do you want to be, you
+[00:25] know, your Bitcoin tied up as collateral
+[00:26] in a lending product? They really need
+[00:28] to ask themselves, why am I in Bitcoin?
+[00:30] And if it's because of freedom and self-
+[00:32] sovereignty and all the things that we
+[00:33] talked about, you know, the cipher
+[00:34] punks, then just buy Bitcoin. The closer
+[00:36] that we can bring these determinations
+[00:38] to home, the better. And like that's why
+[00:40] I think the individual, the family unit,
+[00:42] like those are the ultimate entities to
+[00:45] be making these decisions. You're not a
+[00:47] core developer and so you shouldn't have
+[00:49] an opinion. And and to me, that's a very
+[00:51] dangerous position to take. Lower your
+[00:54] time preference. the barrier to to spend
+[00:56] and replace to like, you know, go on
+[00:58] River, go on wherever you buy your
+[01:00] Bitcoin and immediately replace the
+[01:02] Bitcoin that you just spent. I mean,
+[01:04] it's almost no barrier.
+[01:07] [Music]
+[01:09] Hi, Michael Jordan. How are you doing?
+[01:11] I'm doing great, Robin. Good to see you
+[01:13] again.
+ H Yeah, absolutely. We just met
+[01:16] like not even a week ago, like in in
+[01:18] Vegas. It's it's been it's been a
+[01:20] pleasure uh seeing you. And how have how
+[01:22] was the conference for you? you.
+ It was
+[01:24] great. You know, uh I know the the
+[01:26] Bitcoin conference gets a lot of heat
+[01:28] for some of the uh the sponsors and some
+[01:30] of the talks and and that for me it's
+[01:32] just an awesome networking opportunity
+[01:34] to get to meet you in person and lots of
+[01:37] clients. We have some unbelievable
+[01:38] clients and uh a lot of partners. I've
+[01:41] got some new podcast uh guests who are
+[01:43] going to be coming on because of it. So,
+[01:45] no complaints uh on my end.
+ Awesome.
+[01:48] Yeah, absolutely. and we we soon have
+[01:51] the a little bit higher signal Bitcoin
+[01:53] conference in Prague coming up. Are you
+[01:54] also coming coming to Prague?
+ Yeah,
+[01:57] actually I I'm going to be speaking on
+[01:58] the main stage in Prague. Uh so one of
+[02:01] my my first uh big keynotes uh in Prague
+[02:03] here in a couple of weeks, so I'm
+[02:05] preparing for that. And uh it was uh it
+[02:08] was something our chief marketing
+[02:09] officer was supposed to be speaking. Um
+[02:12] he's uh taking on a new project. And so
+[02:14] I get to talk about one of my passions
+[02:17] in Bitcoin, which is Bitcoin as money
+[02:19] and uh using Bitcoin as money and uh
+[02:23] transacting in it, those sorts of
+[02:24] things. And I'm really looking forward
+[02:26] to it. I think it'll be be a good time.
+[02:28] Awesome. I think it's also a good um
+[02:30] before we get started with all the
+[02:32] topics, maybe give the people some some
+[02:34] of your backgrounds, who you are, and
+[02:36] why you're excited about Bitcoin.
+ Yeah.
+[02:39] Yeah. So, I've I've been in Bitcoin just
+[02:41] a few years. So my my journey started in
+[02:43] so in late 2021
+[02:45] uh at the end of every year I set goals
+[02:48] for the following year right of like New
+[02:49] Year's resolutions and one of my New
+[02:52] Year's resolutions each year is to learn
+[02:54] about a new topic of interest and in
+[02:56] late 2021 I decided I need to learn
+[02:58] about this whole crypto thing like
+[02:59] what's going on in the world why are
+[03:01] people so excited about it and I was
+[03:03] fortunate right at the end of the year
+[03:05] as I was kind of gathering resources
+[03:06] books podcasts to listen to I met a guy
+[03:09] through a friend who was interested as
+[03:12] well. And he told me, he said, you know,
+[03:14] there's kind of this Bitcoin or this
+[03:16] crypto horseshoe, this path that people
+[03:18] take where they start in Bitcoin and
+[03:20] then they go through the crypto phase
+[03:21] and then they ultimately generally make
+[03:23] their way back to Bitcoin. And so he
+[03:26] gave me the name of Preston Pish's
+[03:28] podcast. He told me about Lynn Alden.
+[03:29] Those are the two people in particular I
+[03:31] remember. And he told me, "Start with
+[03:32] Preston's podcast on episode one and
+[03:35] listen all the way through." And so I
+[03:37] think he was u I think Preston was maybe
+[03:39] 50some episodes in that. I think he's
+[03:41] now, you know, in the several hundreds.
+[03:43] And so I did. And it was throughout
+[03:46] 2022, as you remember, that everything
+[03:48] started collapsing crypto. You know, you
+[03:51] saw Celsius, BlockFi, FTX, all of that
+[03:54] stuff. And I began to realize as bit
+[03:56] Bitcoin was making more and more sense
+[03:58] to me, but I realized, wow, the Bitcoin
+[04:00] maxis, these toxic maxis are right about
+[04:02] everything, you know. And uh so I would
+[04:05] say sometime I you know, mid late 2022,
+[04:09] I was all in. I realized that was uh
+[04:12] Bitcoin was the signal amongst the noise
+[04:14] and uh my I mean I've had quite a
+[04:17] journey since a lot of life changes uh
+[04:19] making it to the Bitcoin way to work
+[04:21] with this team now but um it's been it's
+[04:24] been quite a ride.
+ What do you think is
+[04:27] something that
+[04:29] right now most Bitcoiners would disagree
+[04:32] with but uh the toxic Bitcoin maxes are
+[04:35] kind of pushing. You
+ Hey, you you broke
+[04:38] up for a minute there. I lost all audio.
+[04:40] Oh, are you hearing me now?
+ One second.
+[04:42] I don't know if it's my speakers or I
+[04:44] don't know if it's your um
+ I I hear you
+[04:46] perfectly fine.
+ Oh, hang on. Yeah, I
+[04:49] lost I lost speakers here. Say that
+[04:51] again.
+ Do you hear me again?
+ Yeah, now I
+[04:54] can. It kicked over to the to a
+[04:55] different speaker.
+[04:57] Oh, so what is something that Bitcoiners
+[05:00] What?
+ Uh you you you hear me now again?
+[05:02] Yeah. Can you hear me?
+ Oh, yeah.
+[05:04] Absolutely. I I hear you perfectly fine.
+[05:06] Usually when someone kicks out it's it's
+[05:08] it's it gets messy but you are very
+[05:10] clear like I think you have a good
+[05:12] internet connection also.
+ Okay. Good.
+[05:14] Good. Um so so I'm sorry ask your
+[05:16] question again then.
+ Um I I was asking
+[05:19] uh because you said like the Bitcoin the
+[05:21] toxic Bitcoin max is the one that's
+[05:23] always right. And I tend to agree with
+[05:25] that that uh those who push like the the
+[05:28] hard things at the current moment.
+[05:30] You're like, hey, like they're pushing
+[05:32] really hard, but then they end up being
+[05:34] right at at the end of the cycle. Um
+[05:38] what do you think is one thing that a
+[05:40] lot of Bitcoiners uh would disagree with
+[05:43] or like is is right now kind of uh
+[05:46] mainstream but the toxic Bitcoin maxes
+[05:49] are kind of pushing for now.
+ Uh that's a
+[05:52] good question. So I I don't it's it's
+[05:55] it's sometimes hard to distinguish the
+[05:57] toxic maxis from the general maxis. I
+[06:01] think something for me that stands out
+[06:03] is there are a small handful of people
+[06:05] who I think are concerned about what
+[06:08] some of these Bitcoin lending products
+[06:10] mean and what the implications are. Uh I
+[06:13] would say I tend to fall toward a um a
+[06:16] more or more overtly toxic maxi position
+[06:19] on many of those things. And so, um, my
+[06:22] my general position on them is f first
+[06:24] of all, it's a free market, right? If,
+[06:26] um, you know, if Strike or or any of
+[06:28] these companies want to offer those
+[06:30] sorts of products, I I think they have
+[06:31] every right to do so. I think everyone
+[06:33] has a right to, you know, enter a
+[06:35] contractual agreement and uh, make a
+[06:38] determination as to whether or not
+[06:39] that's a fit for them. I think that the
+[06:42] the challenge for most people is that
+[06:45] they're very most people are very bad at
+[06:47] evaluating risk and they they think the
+[06:50] risk is well what's the price of Bitcoin
+[06:52] going to do and how much of my stack am
+[06:55] I am I going to put up as as collateral
+[06:56] to take out a loan and what you know
+[06:58] what's the interest rate and they they
+[07:00] kind of do this very simple math
+[07:03] and you know I think that the risk
+[07:05] extends way beyond that in a very
+[07:08] meaningful and impactful way to well who
+[07:10] who are the counterparties who's
+[07:12] securing it how much of your sensitive
+[07:14] information are you giving up because of
+[07:16] KYC uh what's the regulatory risk
+[07:18] exposure to a 6102 style attack you know
+[07:21] we see all this uh the US government
+[07:23] right now is talking about blowing up
+[07:25] the debt ceiling and just saying it
+[07:26] doesn't exist anymore um obviously they
+[07:29] think things are bad if they're doing
+[07:31] that as Trump and Elizabeth Warren have
+[07:32] said to avoid economic catastrophe so in
+[07:35] a catastrophic situation uh do they come
+[07:38] for your Bitcoin do they shut these
+[07:39] companies down? Do they somehow
+[07:41] intervene and create real problems for
+[07:43] people? And I think most people uh
+[07:47] probably just fail to recognize the u
+[07:51] that those risks are are not just
+[07:53] hypothetical, but could actually come to
+[07:55] fruition certainly in an e in a
+[07:57] catastrophic sort of situation. Uh you
+[08:00] know, I mean, you know, us at the
+[08:01] Bitcoin way, we're all about
+[08:02] self-custody. I mean really having
+[08:04] Bitcoin outside of the system where you
+[08:06] control the private keys that is like
+[08:08] the holy grail of of that's what makes
+[08:11] Bitcoin what it is. I think there are a
+[08:13] lot of people who are probably going to
+[08:14] play around with sort of fiat products
+[08:16] built on top of Bitcoin and pay the
+[08:18] price. My caveat to that I would say is
+[08:21] I think there are some Bitcoiners short
+[08:22] of a catastrophic you know economic
+[08:24] meltdown there are some Bitcoiners who
+[08:26] have enough Bitcoin. They understand the
+[08:28] custodial risks. they've got, you know,
+[08:29] a stack sufficiently large to, you know,
+[08:32] cover collateral, an 80% draw down in
+[08:34] Bitcoin's price, all all of these sorts
+[08:36] of things. Uh, that maybe they come out
+[08:38] unscathed, and good for them if they do,
+[08:41] but I don't think it's probably I think
+[08:42] it's a product that far too many people
+[08:44] are getting excited about when there's
+[08:46] probably 1% of the Bitcoin population
+[08:49] who should really consider that as a
+[08:51] viable option.
+[08:53] Interesting.
+ That's my toxic maxi
+[08:55] position, I guess.
+[08:56] I think it's it's a common sense
+[08:58] position. Honestly, the idea if you
+[09:00] think about it first principles is like
+[09:03] let's say you because it's loan to value
+[09:05] is usually like around 50%. Um so if you
+[09:08] for example uh want to have $50,000 and
+[09:13] like if if it's lower than that I I
+[09:15] would question why you even doing it. Uh
+[09:17] but if if you want $50,000
+[09:20] um you have to give out $100,000 in
+[09:24] Bitcoin. So you basically give out a
+[09:26] full bitcoin to get $50,000 in fiat back
+[09:30] and you are inclined to have risks like
+[09:34] the the the bitcoin can be like even if
+[09:37] they are acting in best interest maybe
+[09:38] it gets stolen from platform maybe the
+[09:40] platform goes under like there's so many
+[09:42] even if you assume everyone is a good
+[09:44] actor even then there's so many risks
+[09:47] associated with that and I don't like
+[09:49] the idea that retail is giving up
+[09:51] bitcoin to get feared like like that
+[09:54] concept is just like really foreign to
+[09:57] me and like it does not make sense and
+[09:59] it's really interesting because I and I
+[10:02] I mentioned it on the podcast with Tony.
+[10:04] Tony and the Bitcoin way pushed me to
+[10:06] accept Bitcoin payments. I did not
+[10:08] accept Bitcoin payments actually before
+[10:10] Tony and Tonyy's like oh why are you not
+[10:11] accepting Bitcoin payments? Uh and he's
+[10:14] totally right and now I think like 70 or
+[10:16] 80% of my income is fully directly in
+[10:19] Bitcoin. So that's uh definitely a
+[10:21] thanks to Tony and the Bitcoin way. Um,
+[10:23] and naturally I came to the conclusion
+[10:26] that I either have to sell Bitcoin to
+[10:28] cover fiat bills or I have to borrow
+[10:30] against my Bitcoin or I just have to get
+[10:33] uh loans in other ways. Um, and I
+[10:37] ultimately decided to just sell my
+[10:39] Bitcoin. Like I I still make more
+[10:41] Bitcoin each month, but uh I sell some
+[10:44] Bitcoin to cover the the fiat bills and
+[10:47] not borrow against them. If you have
+[10:48] like 10% you can pay in Bitcoin, but you
+[10:51] get 70% paid in Bitcoin. And it's a way
+[10:54] better system for me to just have like
+[10:57] the emotional calmness
+[10:59] uh to to deal with with the volatility
+[11:02] and everything like that. And I think
+[11:04] it's the more it's it's more the Bitcoin
+[11:07] away, the the the Bitcoin way. I love
+[11:08] the the name of the company also.
+ Yeah.
+[11:11] No, I I I agree with you. I think the
+[11:12] other complaint I maybe have is is one
+[11:14] that's more philosophical and I'll be
+[11:15] I'll be speaking about it in Prague in a
+[11:17] couple of weeks is I I I believe Bitcoin
+[11:20] is money and I know there's a lot of
+[11:21] philosophizing about what money is and
+[11:24] how do we define it but but to me is
+[11:26] good money stores as a serve of value.
+[11:28] You can use it as a medium of exchange
+[11:29] and it can you know account for value.
+[11:31] It's a a measuring stick for value and
+[11:33] the reason Bitcoin does all of those
+[11:34] things well is because it's scarce. It's
+[11:36] decentralized. All of the these things
+[11:37] that we talk about. My other concern, I
+[11:40] guess, with these products is that it
+[11:42] doesn't um push forward the the the the
+[11:45] narrative and the adoption of Bitcoin as
+[11:48] all of those use cases. If you know, you
+[11:51] you it's it's easy to slide into this
+[11:53] place of complacency where you say,
+[11:54] "Well, I'll just, you know, coll take
+[11:57] out a loan, use Bitcoin as collateral,
+[11:58] and I'll keep using fiat." I think what
+[12:00] we need to be doing proactively is
+[12:03] urging and encouraging and maybe even
+[12:05] demanding our suppliers, vendors, you
+[12:07] know, store, local stores, um your local
+[12:10] farmer, whoever it is to accept Bitcoin
+[12:12] as payment. And if you know that you
+[12:14] have what perceives to be a free lunch
+[12:17] of this, you know, loan that you you
+[12:19] take out fiat and keep paying with fiat,
+[12:21] we we continue to feed into the system,
+[12:23] right? We perpetuate that. And uh I
+[12:26] understand the practical reality that
+[12:29] today if I go to the g, you know, my
+[12:31] local grocery store, they're not going
+[12:32] to accept Bitcoin. And I'm not probably
+[12:34] going to talk a chain of, you know, a
+[12:35] grocery chain into accepting Bitcoin.
+[12:38] But I think it's easy to just concede
+[12:41] that to, you know, these uh to the whims
+[12:44] of of companies and and uh certainly
+[12:47] governments. And the more that we can do
+[12:49] to to push forward Bitcoin as a medium
+[12:52] of exchange, I think over time that's
+[12:54] how that application of our demand in
+[12:56] the marketplace is what leads Bitcoin to
+[12:59] winning in the way that I want it to win
+[13:02] because I think we need it to win in
+[13:04] that way for the bright orange future.
+[13:05] If it's just if it's exclusively a store
+[13:08] of value and it's just governments
+[13:09] buying it and it's just corporations
+[13:11] holding it forever and ever, I mean,
+[13:13] good. I think the value is going to go
+[13:14] up. It's a scarce, you know, digital
+[13:16] asset. has all these advantages, but we
+[13:18] need it to be the medium of exchange use
+[13:19] case before I think we, you know, see
+[13:22] the end of Forever Wars, for example,
+[13:24] before we see a lot of the net benefits
+[13:26] that we anticipate, you know, a Bitcoin
+[13:28] standard uh bringing into the world. One
+[13:30] question that I always have is like are
+[13:32] we maybe too are we trying to pull the
+[13:36] future a little bit uh too fast forward
+[13:39] into the present of like yeah like
+[13:41] Bitcoin has to prove it's a store of
+[13:43] value and then we we can also have the
+[13:44] med of exchange and maybe we we want the
+[13:46] med of exchange too quick and and we
+[13:50] we're not yet over the store of value
+[13:52] phase like the the natural phases of
+[13:53] like how how money progresses.
+ It's a
+[13:55] good question. I think that there are
+[13:58] people who if they understood who there
+[14:00] there are a lot of people to I mean to
+[14:02] your point who understand that you're
+[14:03] doing a podcast you understand the store
+[14:05] of value use case you weren't accepting
+[14:07] Bitcoin at one point in time and it took
+[14:09] Tony pushing you but now you guys are
+[14:11] adding to this like Bitcoin circular
+[14:13] economy together because we won't pay
+[14:14] any we won't we only use Bitcoin we
+[14:16] operate on a Bitcoin standard and so I
+[14:19] think there's something to be said that
+[14:20] there are a lot of people who haven't
+[14:21] acknowledged Bitcoin as a store of value
+[14:23] yet they're just asleep at the wheel
+[14:25] they're not paying attention or They
+[14:26] haven't been sold yet. Yeah. I mean,
+[14:28] they're not going to accept Bitcoin as a
+[14:30] medium of exchange, probably. I will say
+[14:32] that the the farmer who supplies me raw
+[14:34] uh raw goat milk is going to accept
+[14:36] Bitcoin from me. She doesn't know
+[14:38] anything about Bitcoin. She kind of
+[14:39] understands there's something to this
+[14:41] whole thing. And, you know, it's no skin
+[14:42] off her back. And so, there are probably
+[14:44] easy asks in your life that you could
+[14:46] ask people to accept as a medium of
+[14:47] exchange. But I think it's a it's a trap
+[14:50] to assume that everyone has to, you
+[14:53] know, or everyone or some very large
+[14:54] majority of people have to acknowledge
+[14:57] the store of value before those of us
+[14:59] who already understand the store of
+[15:00] value can begin migrating to the medium
+[15:02] of exchange use case. And I think there
+[15:05] are a lot of uh you know very
+[15:07] entrepreneurial Bitcoiners out there who
+[15:10] could begin accepting Bitcoin who
+[15:11] currently aren't. And it's just sort of
+[15:14] this thing that I will build upon itself
+[15:16] as we extend out and continue to educate
+[15:19] the people who maybe aren't there yet,
+[15:21] haven't, you know, haven't accepted it
+[15:22] as store of value. So, I'm not really
+[15:25] concerned about pulling it uh like
+[15:27] pulling that that future back too soon.
+[15:30] I I think I would heir on the side of
+[15:32] caution that if we don't push for and
+[15:34] promote that as Bitcoiners, especially
+[15:36] within our own circle of people who
+[15:37] generally, you know, align with us on on
+[15:40] the role of Bitcoin in the world, I
+[15:42] think that to me seems to be a bigger
+[15:43] risk than uh pushing it off, you know,
+[15:46] further.
+ Sorry, pulling pulling it
+[15:48] forward too soon. Rather,
+ I had Jeff Pu
+[15:50] on I think like two months ago,
+[15:52] something like that. Uh and and he he
+[15:54] said something that that kind of stuck
+[15:55] in my brain ever since and I've
+[15:57] mentioned it probably like 10 times
+[15:58] already in the podcast. He said the
+[16:00] sentence if Bitcoin fails as a medium of
+[16:02] exchange, it will also fail as a store
+[16:04] of value. I'm I'm I'm 100% undecided on
+[16:08] that one. Uh just because like we have a
+[16:11] store of values like real estate and
+[16:13] gold that are horrible medium of
+[16:15] exchanges in in the current world, but
+[16:17] they still have a lot of value. But at
+[16:19] the same time I'm like if gold also
+[16:21] would be the best medium of exchange the
+[16:24] store of value would be so much bigger.
+[16:26] So how do you how do you look at uh the
+[16:29] one requiring the other one in both
+[16:31] directions.
+ Yeah. So I' I've heard Jeff
+[16:34] Booth say share that on several
+[16:36] occasions. I'm a big fan of Jeff Booth.
+[16:37] Love him. And he he's he's a guy who uh
+[16:39] you know puts his money where his mouth
+[16:41] is and u I think I've learned a lot from
+[16:44] him. I for the the reason you described
+[16:46] there would tend to pro probably
+[16:48] disagree though I'm completely open to
+[16:50] being wrong about this one that I think
+[16:52] Bitcoin can still serve as a store of
+[16:54] value even if we even if it never
+[16:56] achieves like broad medium of exchange
+[16:58] adoption and the reason like you said is
+[17:01] you've got gold I mean gold's
+[17:02] appreciating value no one practically uh
+[17:05] is using gold as a medium of exchange I
+[17:08] mean for obvious reasons it's heavy it's
+[17:11] expensive to insure and secure and ship
+[17:13] and Um it's a I mean we live in a global
+[17:16] digital world and a a piece of metal
+[17:19] isn't an effective medium of exchange in
+[17:22] any you know at scale I guess even if
+[17:25] governments might settle in in that I
+[17:26] think and that's why you see a lot of
+[17:28] paper gold out there and IUS and those
+[17:31] sorts of things. Um, so I I think that
+[17:35] Bitcoin can't, and I think this is this
+[17:37] is maybe the trap is that Bitcoiners
+[17:40] don't fully buy into Jeff Booth's thesis
+[17:43] because I think he he could be incorrect
+[17:45] about that. I think it could serve as a
+[17:46] store of value. And so we hold on to the
+[17:49] Bitcoin, which I think is a good thing
+[17:51] to do. I think I I save in Bitcoin. I
+[17:52] think other people should save in
+[17:53] Bitcoin. Um, as though them becoming
+[17:57] rich over some some long period of time
+[17:59] is the end all. To me, the end all is
+[18:02] the bright orange future that we talk
+[18:04] about. And it's very easy for you to get
+[18:06] sucked into this um this narrative of
+[18:09] Bitcoin as a store of value and a
+[18:11] reserve asset and an investment and to
+[18:14] perceive it exclusively as a store of
+[18:16] value. And the thing I always say is if
+[18:18] ultimately militaries aren't using
+[18:21] Bitcoin to buy fighter jets, then I
+[18:24] don't think the forever wars end. And
+[18:26] that doesn't mean that your Bitcoin may
+[18:27] not appreciate in value and that some,
+[18:29] you know, you own one Bitcoin and 10
+[18:31] years from now, 20 years from now, your,
+[18:32] you know, your purchasing power isn't
+[18:34] enormous. Yeah, I think that's probably
+[18:36] very likely. But do we live in a
+[18:38] material materially better world? I'm
+[18:42] I'm less convinced of that.
+[18:44] It's also interesting when we look at
+[18:47] um the stages that are filled with with
+[18:50] people. for example, Michael Sailor is
+[18:52] is a big one, but now we have many more
+[18:56] CEOs that use Bitcoin as a treasury. Um,
+[19:00] as a treasury asset like Metablanet, I
+[19:03] think Simon Govich I maybe I butcher his
+[19:07] name now. Uh, and and then we have Sem
+[19:10] Scientific with Eric Smler, many others
+[19:13] uh examples and many like there's alo
+[19:15] just the bigger ones and there are many
+[19:17] smaller companies. Is that kind of where
+[19:19] maybe just like the the narrative right
+[19:21] now comes of Bitcoin as a treasury
+[19:23] company and then retail sees all all
+[19:25] those companies are uh lending getting
+[19:28] like a billion dollars to buy Bitcoin at
+[19:30] 0% interest rates. So I also want to do
+[19:32] something similar that this is kind of
+[19:34] the the reason why store value and those
+[19:38] borrow against the Bitcoin and lending
+[19:40] products are kind of really bush now.
+[19:42] Yeah, I think that uh so first of all,
+[19:44] you know, I'm not I'm not here to
+[19:46] disparrage anyone. I think Michael
+[19:47] Sailor is a financial genius. I think
+[19:50] he's going to be the wealthiest man in
+[19:51] the world here in the very near future,
+[19:53] certainly in the next, you know, five or
+[19:55] 10 years. And I think his conviction in
+[19:58] Bitcoin is because of his conviction in
+[20:00] Bitcoin, that will be welld deserved. I
+[20:03] think that
+[20:04] as his Bitcoin journey has gone on,
+[20:07] because I remember listening to him my
+[20:08] first, you know, year or two in Bitcoin,
+[20:10] learned a lot. Uh I've been less
+[20:12] impressed with the narrative that he's
+[20:14] pushing. Now, where I where I empathize
+[20:17] with his situation is he has a publicly
+[20:19] traded company that is, you know, he's
+[20:21] he's got regulators and auditors and all
+[20:23] sorts of people paying a lot of
+[20:24] attention to what he's doing, whether
+[20:26] he's in Bitcoin or not.
+[20:28] My concern is that to frame Bitcoin, to
+[20:32] pigeon hole it as exclusively digital
+[20:34] capital, which is generally the
+[20:35] narrative. I don't listen to him quite
+[20:37] as frequently as I used to, but uh to to
+[20:40] frame Bitcoin in in that way um really
+[20:44] uh I I think it's a disservice to people
+[20:47] who are trying to figure out what
+[20:49] Bitcoin is sort of in totality. And
+[20:52] that's where uh I I think we see more
+[20:54] and more people like I've seen a lot of
+[20:56] people online, they're like, "Oh, I'm
+[20:57] not going to stake and shake. I'm not
+[20:58] going to spend my Bitcoin. And to me,
+[21:02] it's like the lower your time
+[21:04] preference. Like the the barrier to uh
+[21:07] to spend and replace to like, you know,
+[21:09] go on River, go on wherever you buy your
+[21:11] Bitcoin and immediately replace the
+[21:13] Bitcoin that you just spent is I mean,
+[21:16] it's almost no barrier. It's a really
+[21:18] bad excuse to say, "Well, I'm not I'm
+[21:19] not going to spend it." Just replace it.
+[21:21] It's, you know, a pretty straightforward
+[21:22] thing. You can do it on your phone right
+[21:24] there. And uh I do think though that as
+[21:27] governments talk about SBS uh all the
+[21:30] attention that Sailor gets about the
+[21:31] accumulation of Bitcoin he's doing and
+[21:33] he's talking about never selling. I
+[21:35] think it creates this unhelpful
+[21:37] narrative to those of us who are trying
+[21:39] to educate people on Bitcoin for the
+[21:42] purpose of money that changes the world.
+[21:44] I don't think SPRs change the world. I
+[21:47] don't think sailor's you know
+[21:49] acquisition of Bitcoin changes the
+[21:50] world. I think it's how people
+[21:52] ultimately end up using it that changes
+[21:54] the world. And so you sort of have to
+[21:55] step back and just say, well, what
+[21:57] what's my goal with Bitcoin? If your
+[21:59] goal with Bitcoin is just to get
+[22:01] wealthy, like, okay, yeah, maybe, you
+[22:03] know, have your own strategic reserve
+[22:05] and like that's it. If your goal is, I
+[22:07] want a brighter future for my kids. I
+[22:09] want uh, you know, the elimination of
+[22:11] Forever Wars. I want incentives to
+[22:13] realign. So all of the nonsense that we
+[22:15] see every day in the news, it begins to,
+[22:19] you know, disappear. Then I think we
+[22:21] need to to reframe and reorient
+[22:23] ourselves to Bitcoin as peer-to-peer
+[22:25] electronic cash. And the fact that it's
+[22:27] pro programmable engineered money means
+[22:30] that new solutions are going to come
+[22:32] about to make that even easier. Uh
+[22:34] there's going to be more, you know,
+[22:35] self-custodial options out there. It's
+[22:37] going to be, you know, lower friction
+[22:39] over time for people to enter and use
+[22:41] Bitcoin the way I believe it was not
+[22:43] only designed to be used but ought to be
+[22:45] used uh for promotion of a a much better
+[22:49] more prosperous world.
+ Important do you
+[22:51] think for Bitcoin overall it is what
+[22:54] kind of narrative there currently is in
+[22:57] Bitcoin in the Bitcoin community? What
+[22:58] is kind of like the the push narrative?
+[23:00] How how important do I think uh it is
+[23:03] that we we promote Bitcoin in like with
+[23:06] the proper with the proper narrative or
+[23:08] or
+ Yeah, the the the kind of where I
+[23:11] want to go is because there are many
+[23:14] different narratives in the Bitcoin
+[23:16] community depending on what time you
+[23:18] live in. So if we go back in the in in
+[23:21] in in the time machine to 2015 where the
+[23:25] Bitcoin community was completely
+[23:26] different um there was a lot of a
+[23:29] different narrative in in the community
+[23:31] when you go back in I don't know 2012.
+[23:34] I was not in the Bitcoin community in
+[23:36] both of those times. But I can imagine
+[23:38] it's probably a lot different to to the
+[23:40] narrative that is now into the Bitcoin
+[23:42] ecosystem. And I'm just wondering if
+[23:45] that narrative
+[23:48] might it's just adopting to what is
+[23:52] currently the the level we're playing at
+[23:54] and right now we are coming into
+[23:57] companies and to um uh even nations
+[24:01] adopting it. So I'm like, how how
+[24:04] important is it to to keep that Bitcoin
+[24:07] ethos, that cipher bank ethos, that
+[24:09] peer-to-peer cash ethos in the
+[24:11] community?
+ And is there a chance if that
+[24:15] ethos and that narrative is kind of lost
+[24:17] that maybe also the core properties
+[24:20] slowly get lost because everyone is kind
+[24:22] of I own own bitcoin.
+ Yeah. No, I think
+[24:26] I think that's a real risk. I think
+[24:28] Bitcoin uh I think Bitcoin the protocol
+[24:31] is probably as cipher punk as it's ever
+[24:34] been. I think Bitcoiners are not. And I
+[24:37] think it's very easy for people to get
+[24:41] caught up in these more modern
+[24:42] narratives of what Bitcoin is and to
+[24:46] lose uh an appreciation for the
+[24:48] importance of self- sovereignty. I think
+[24:49] it's why, you know, we're yelling at
+[24:51] people from the mountain tops to uh get
+[24:53] your coins off of the exchanges. And you
+[24:55] know, we still have clients every day
+[24:56] coming to us and say, "I've got my coins
+[24:58] at Coinbase or whatever."
+[25:00] The the beauty of Bitcoin is is not
+[25:05] simply that it's, you know,
+[25:07] decentralized. It's scarce. It's uh
+[25:10] censorship resistant. Like I all of
+[25:12] those are critical attributes it must
+[25:14] retain to succeed in in the way I think
+[25:16] most Bitcoiners, toxic or otherwise,
+[25:19] would uh you know, it it needs to retain
+[25:22] those. I think most people would agree
+[25:23] with that.
+[25:25] But the interesting thing for me that
+[25:27] I've seen is more and more people are
+[25:29] catching on to this thesis of like Larry
+[25:31] Leard's the big print for example right
+[25:33] and what are the implications of that
+[25:35] and if you know we're 36 37 almost 37
+[25:39] trillion in debt right now in the United
+[25:41] you know our US the US government well
+[25:43] what does that mean well it means that
+[25:44] they're going to have to print a lot of
+[25:46] money in that and at some point they
+[25:48] can't kick the can any further and
+[25:49] things get really ugly and so what do
+[25:51] you want to have do you want to have
+[25:54] Bitcoin in self-custody that you
+[25:56] control. I mean that like true financial
+[25:58] self- sovereignty or do you want to be
+[26:01] you have your Bitcoin tied up as
+[26:03] collateral in a lending product or do
+[26:04] you want to have you know if taking on
+[26:06] debt to fund someone else's purchase of
+[26:08] Bitcoin and then they're you know a
+[26:11] derivative removed custodying with a a
+[26:13] third party who's susceptible to hacks
+[26:15] or a malicious employee you know doing
+[26:18] something wrong and uh I think this the
+[26:21] cipher punk narrative and again like I
+[26:23] I've been around three years I wasn't
+[26:25] I'm not going the I wasn't on the
+[26:27] original mailing list or anything uh of
+[26:29] the white paper, but the further into it
+[26:32] I get, the more convinced I am that that
+[26:34] the longer we can retain that narrative,
+[26:37] the better because I know that as we
+[26:39] sort of enter this early uh early
+[26:41] majority stage, we're going to have a
+[26:43] lot less of that. And so the more people
+[26:45] we can have who have been around for a
+[26:47] couple of years who at least do have
+[26:49] some of that understanding of the
+[26:50] importance of self like real self-
+[26:52] sovereignty the better we can educate
+[26:54] more of that early majority as they come
+[26:56] in. There are always going to be be
+[26:58] people who come in for exclusively
+[27:01] number go up it's an investment they
+[27:03] just allocate to the ETFs or what have
+[27:05] you. But the higher percentage of we of
+[27:08] people that we can have operating on a
+[27:10] Bitcoin standard, trying to find ways to
+[27:12] use Bitcoin, securing their own keys,
+[27:14] running their own node, I I think that
+[27:16] is that's crucial to the ongoing success
+[27:19] of the Bitcoin network because who knows
+[27:21] when the next, you know, fork war is
+[27:23] coming and Black Rockck decides they
+[27:25] want to, you know, remove the hard cap
+[27:27] or whatever. And they've got, you know,
+[27:29] I don't know how they have contractually
+[27:31] agreed upon what happens in that sort of
+[27:33] scenario with the uh holders of the
+[27:34] ETFs. Certainly the people in power and
+[27:37] the, you know, whether it's the the
+[27:39] Larry Finins or the Jaime Diamonds or
+[27:42] politicians, they they have much less
+[27:45] incentive than people like you and I to
+[27:47] use Bitcoin in a self-s sovereign way. I
+[27:49] mean, the the existing the legacy system
+[27:51] has benefited them immensely. And the
+[27:54] longer they can perpetuate that, they're
+[27:56] going to. And so the more of us that can
+[27:58] be running our own nodes, taking full
+[27:59] control of our keys, all of these things
+[28:02] that I think the cipher punks talk about
+[28:04] and and emphasize, I think the more
+[28:07] prepared we are for a a better future.
+[28:10] And,
+[28:11] you know, it's not that I'm it's not
+[28:13] that I'm bearish on on any of that
+[28:15] stuff. It's that I have my concerns and
+[28:17] I think it needs to be a wakeup call for
+[28:19] for many Bitcoiners. Um, so stay
+[28:22] focused. Like, you know, I know there,
+[28:25] you know, we talk about Omega candles
+[28:27] and Wall Street adoption, all of these
+[28:29] things. I know it's exciting for the
+[28:30] price. We all want to be wealthy. Me,
+[28:31] too. I'm not pretending like I just
+[28:33] simply don't care about number go up.
+[28:35] But in terms of where I view my life 20
+[28:37] years from now, it's it's a much smaller
+[28:39] piece of that puzzle. And I'm much more
+[28:42] excited that I'm going to have control
+[28:44] of what I do with my wealth and the
+[28:46] flexibility to go where I want to go and
+[28:48] do the things I want to do. And it's not
+[28:50] exclusively because the purchasing power
+[28:52] of Bitcoin has increased, although
+[28:53] that's a piece of it. Uh, but it's
+[28:56] because I control the purchasing power
+[28:58] of the Bitcoin that I've accumulated at
+[29:00] that time. I I see number go technology
+[29:04] as the Trojan horse for for freedom.
+[29:07] It's the one like I was not interested
+[29:10] at all in any sovereignty rights. was
+[29:12] not cipher bank at all before Bitcoin
+[29:15] and Bitcoiners and Bitcoin pushed me
+[29:19] more and more in in that direction. As I
+[29:21] said, Tony was was one part but many
+[29:23] others uh beforehand before I even
+[29:26] started the podcast on on Bitcoin
+[29:28] Twitter. I love of Twitter because
+[29:31] they can be brutally honest and and
+[29:33] brutally direct direct sometimes and I
+[29:35] love that because it gives you actual
+[29:37] feedback and not just like oh like okay
+[29:39] do your thing. Um and to that extent
+[29:43] I I'm I'm I'm very I'm very interested
+[29:46] in how it plays out because I I see um
+[29:50] Sailor for example even adopting his
+[29:52] speech uh and now saying also not just
+[29:54] Bitcoin but crypto. He's still saying
+[29:56] there's no second best but not as much
+[29:58] as previously and now he's also talking
+[30:00] about Bitcoin and crypto. Um, how like
+[30:04] how far does he just adjust his speech
+[30:07] to
+[30:08] be appeal appealing to the vice
+[30:12] president and the president and be
+[30:14] appealing to to other people in the
+[30:15] space to get kind of Bitcoin through the
+[30:18] door and he knows Bitcoin is anyways not
+[30:22] uh destroyable and it will also get the
+[30:26] freedom technology in there once people
+[30:28] just like get get in like oh like we
+[30:30] need the number technology But then we
+[30:32] got the the freedom. So it's like those
+[30:34] fear and this bitcoin system. The the
+[30:36] the the bitcoin system is kind of the
+[30:38] Trojan horse for freedom and the fiat
+[30:40] system is try kind of trying to co-opt
+[30:42] it. And uh I think Bitcoin will win out
+[30:45] because open s open systems uh usually
+[30:48] win out in the long run. Uh but it's
+[30:51] just so fascinating and interesting for
+[30:53] me how the narrative es especially as a
+[30:55] podcast and you probably also as a as a
+[30:57] podcaster. uh the the narrative is so
+[31:00] interesting how how it shakes out and
+[31:01] how different people have different
+[31:03] stance on it and with over 500 guests
+[31:05] I've have had many different views on on
+[31:07] this podcast on this topic.
+ Yeah, you
+[31:10] know I think I think you're right to a
+[31:12] large extent like uh when I came into
+[31:14] Bitcoin I mean it was it was the the
+[31:15] number go up and all the all the buzz
+[31:17] around crypto that that intrigued me. Um
+[31:20] I think it's it's just important that as
+[31:22] few people stay in that mindset as
+[31:25] possible. Uh but as I said, it gets
+[31:27] harder and harder over time. I I think
+[31:29] you and I and anyone who's sort of been
+[31:31] in Bitcoin uh longer is uh we tend to be
+[31:35] a more disagreeable, curious bunch of
+[31:37] people who are open to maybe things
+[31:40] aren't as they seem. Uh and and
+[31:44] yeah, I'll be honest with you, like I
+[31:46] I'm I'm really disappointed with the way
+[31:48] a lot of people now u including Michael
+[31:50] Sailor are framing Bitcoin. I uh I
+[31:53] didn't stick around for the entirety of
+[31:54] his speech. I I I I just, you know, it's
+[31:56] no knock on him. It's just I feel like
+[31:58] I've kind of heard the narrative and uh
+[32:00] you know, disagree with enough of it. I
+[32:02] it just wasn't it wasn't very
+[32:04] interesting to me. Always cool to see
+[32:06] him. You know, he's a he's a great
+[32:08] communicator and uh I know people love
+[32:10] him. I I went to JD Vance's speech just
+[32:12] cuz how often do you get to see the vice
+[32:15] pres of the United States? Um but it was
+[32:19] yeah it was there there was
+[32:22] I didn't walk away with any new
+[32:24] information from from a speech like that
+[32:27] and it was um you know just the Trump
+[32:29] administration is is doing this and
+[32:30] great if they break down regulatory
+[32:32] barriers awesome but I think in general
+[32:35] the extent to which we can ignore the
+[32:37] talking heads the better and just focus
+[32:40] in on our own lives I mean that's for
+[32:42] for me the the kicker is I'm giving away
+[32:44] a little bit of my speech in Prague here
+[32:45] in a couple weeks is like being the
+[32:47] change we want to in the world has
+[32:48] nothing to do with what Michael Sailor
+[32:50] or JD Vance or Donald Trump or Elon Musk
+[32:52] or fill-in-theblank you know powerful
+[32:55] famous you know wealthy person is doing
+[32:58] has to do with what are the decisions
+[32:59] you're making in your own life right
+[33:01] like how how are you choosing to save
+[33:03] how are you choosing to uh you know
+[33:05] evade the theft that is taking place on
+[33:09] a broad scale across the world by
+[33:11] governments and others and yeah I mean I
+[33:14] think sailor's crypto narrative And you
+[33:18] know, it's it's like on one hand I feel
+[33:19] like he's saying there's no second best.
+[33:21] On the other hand, he's saying, "Hey,
+[33:22] look at all these fiat products that you
+[33:24] can buy, you know, through strategy."
+[33:28] Uh, you know, maybe these are a second
+[33:30] best or maybe they are first best. And I
+[33:32] think some of that's maybe a complaint I
+[33:33] have with the marketing of a lot of
+[33:35] these Bitcoin Treasury products.
+[33:38] I do recognize that there are people,
+[33:40] and this is like the So, I've sort I
+[33:42] sort of laid out like the philosophical
+[33:43] disagreement.
+[33:45] I think practically speaking there are
+[33:47] people who have a bitcoin stack kind of
+[33:50] like the lending thing they want to
+[33:51] speculate on one of strategies products
+[33:54] and you know they but I think most
+[33:56] people just like they don't understand
+[33:58] counterparty risk of of you know the the
+[34:00] fiat or the bitcoin back loans they
+[34:04] don't understand that the bit you're
+[34:07] basically giving money to Michael Sailor
+[34:09] to go buy bitcoin for his company it's
+[34:12] not a bitcoin play like you're not
+[34:15] buying Bitcoin. You're not doing Bitcoin
+[34:17] or or or whatever you it is you think
+[34:19] you're doing. You're buying an equity or
+[34:20] you're buying debt in a fiat company and
+[34:23] they just so happen to buy to be buying
+[34:25] Bitcoin with it. I'm all for like I'm
+[34:28] I'm the the thing I I love about Sailor
+[34:30] is his conviction in Bitcoin and the
+[34:32] fact that he is uh he's you know one of
+[34:35] the first very public corporate adopters
+[34:37] of Bitcoin. I think individuals,
+[34:39] families, companies should be buying
+[34:41] Bitcoin. I think that's a very prudent
+[34:42] thing to I feel very differently about
+[34:44] governments buying Bitcoin for for other
+[34:45] reasons. But the fact that like if I
+[34:49] here's here's maybe maybe my my my
+[34:52] biggest issue. If I owned a company, if
+[34:54] I own strategy,
+[34:56] what I feel like ethically would be the
+[34:58] right way of approaching it would be
+[35:00] we're going to use free cash flow to buy
+[35:01] Bitcoin. We're gonna convert existing
+[35:04] reserves into Bitcoin and we're going to
+[35:07] um
+[35:09] you know we're gonna uh yeah I think
+[35:13] those are those are probably the main
+[35:14] way we're going to accept Bitcoin as
+[35:15] payment say. Okay. So like those are the
+[35:17] ways we're going to accumulate Bitcoin.
+[35:19] Michael Sailor is making the correct
+[35:21] financial decision because he's able to
+[35:23] buy way way way more Bitcoin accessing
+[35:26] the the credit markets but at the
+[35:30] expense of having to pull other people
+[35:32] in to basically fund these purchases for
+[35:34] him versus allowing his you know from my
+[35:36] understanding I haven't looked in a
+[35:37] while but cash flow positive company to
+[35:39] accumulate Bitcoin in a more
+[35:41] conservative way. he'd have a lot less
+[35:43] Bitcoin, but we'd also have a lot less
+[35:45] people tied up in a fiat game that they
+[35:48] think is somehow related to Bitcoin, you
+[35:50] know, and so, you know, I think back
+[35:53] like my dad was a small business owner.
+[35:54] He sold his business a few years ago.
+[35:56] Um, and he he he was he was never into
+[35:58] Bitcoin. Unfortunately, I found it too
+[36:00] late to to fill him in, but uh it was a
+[36:03] small company. They didn't have access
+[36:04] to, you know, 0% uh you know, debt. So,
+[36:09] uh, he would have just had to take
+[36:10] existing cash flows or his existing
+[36:12] reserves and put it into Bitcoin. But I
+[36:14] think that would have been a great way
+[36:15] to do it. You end up with less Bitcoin
+[36:17] perhaps, but you don't put a bunch of
+[36:19] people at risk. You you're not taking on
+[36:21] a bunch of leverage. I don't think it it
+[36:23] makes you a triple maxi to to take on
+[36:26] lots and lots of risk and exposure to
+[36:28] accumulate Bitcoin. Like, I'm I'm not
+[36:30] here for the most possible dollars or
+[36:34] even Bitcoin I can possibly get. It's
+[36:36] how can I accumulate as much Bitcoin as
+[36:38] possible
+[36:39] in a way that I retain control over that
+[36:42] Bitcoin. And so the narrative, how you
+[36:45] go about it, I think all that stuff
+[36:46] matters. I think, again, I'll just
+[36:48] reiterate this because I don't I know
+[36:50] anytime you talk about Michael Sailor,
+[36:51] if you if it's not just, you know, he's,
+[36:53] you know, the new Bitcoin Jesus, I know
+[36:56] you get just railed on. I think um what
+[36:59] Michael Sailor is doing makes a lot of
+[37:01] financial sense. I think that people
+[37:04] should be very clear that they are
+[37:05] buying a fiat product when they use any
+[37:08] of his, you know, the offerings that
+[37:10] strategy provides. And I think what most
+[37:12] people should do is reorient themselves
+[37:14] to the fact that what you're doing when
+[37:15] you accumulate Bitcoin, like real
+[37:17] Bitcoin in self-custody, is you're
+[37:19] buying the money that we are betting the
+[37:21] future uses, right? that we are we're
+[37:24] we're accumulating this hard asset, this
+[37:27] hard form of money that we'll be able to
+[37:29] use, spend, save in, you know, in
+[37:31] innumerable ways 20 years from now. And
+[37:34] a lot of people are just unaware of the
+[37:37] capital gains implications and the
+[37:38] custodial implications and, you know,
+[37:40] the fact that they're really just
+[37:41] playing a fiat game and it just happens
+[37:44] to be someone else buying Bitcoin quote
+[37:45] unquote on their behalf, but not really
+[37:47] because it's not yours. It's not an IOU.
+[37:50] So there's just a lot of I think waking
+[37:51] up around these narratives that people
+[37:52] need to need to do. They really need to
+[37:54] ask themselves why am I in Bitcoin? And
+[37:56] if it's because of freedom and self-
+[37:58] sovereignty and all the things that we
+[37:59] talked about, you know, the cipher
+[38:00] punks, then just buy Bitcoin. Take it
+[38:02] into self-custody and and ignore awesome
+[38:04] like cheer Sailor on for adopting a
+[38:06] Bitcoin, you know, strategic reserve.
+[38:08] And but it doesn't mean you have to play
+[38:11] that game. Also,
+ the first time I ever
+[38:14] made any money, I got myself from that
+[38:16] money a watch. And ever since then, I
+[38:18] collect time pieces to remember times
+[38:21] where I achieved some milestone. That's
+[38:24] why I got the Bitcoin 2025 edition when
+[38:27] I went to my first ever American Bitcoin
+[38:30] conference. So for me, the Bitcoin
+[38:32] watches from Coin Vichilan represents
+[38:35] the time that we are living in. For
+[38:36] every person that wears a Bitcoin watch,
+[38:39] I know they are representing sound money
+[38:43] to the outside world. Make sure to check
+[38:46] out those amazing coin vigilante time
+[38:48] pieces down in the descriptions. I love
+[38:51] those watches so so much. Most people
+[38:54] realize that way way way too late. If
+[38:57] you have Bitcoin, you have to have a
+[39:00] self-custody hardware wallet. But what
+[39:02] are you doing if that hardware wallet
+[39:04] breaks? Yeah, you wrote your seed phrase
+[39:06] on paper. What if that paper is just
+[39:09] dissolving or water spilled on top of
+[39:12] it? paper is very very nondurable. So
+[39:15] you have to have a fire resistant, water
+[39:18] resistant and impact proof method of
+[39:21] securing your seat phrase so you can
+[39:24] back up your keys. And to do that you
+[39:26] should use a solid titanium plate from
+[39:30] stamp seed. Go to stampseed.com
+[39:32] and use code robin to get not five or 10
+[39:36] but 15% off your stamp seed. The most
+[39:41] important thing for your Bitcoin journey
+[39:44] is not buying Bitcoin, but it's how to
+[39:47] keep them. And yes, you have maybe the
+[39:49] right tools, but how do you actually go
+[39:51] ahead and stick it all together so it's
+[39:54] the most secure for you personally?
+[39:56] Self-custody is a deeply personalized
+[39:59] journey and the Bitcoin way is helping
+[40:01] you exactly finding that correct setup
+[40:05] for you personally. They're also helping
+[40:07] you with securing your own cyber
+[40:09] security. And if you want to go one step
+[40:12] above all that, you can even get a
+[40:15] consultation for a plan B residency. Go
+[40:19] to the bitcoinway.com/roin
+[40:23] and you will get a 30inut free
+[40:26] consultation. I know how big of a hurdle
+[40:28] it can be to have self-custody, but it's
+[40:31] so freaking important to make that first
+[40:34] step. We have to make sure it's as easy
+[40:37] and simple as possible. And that's
+[40:40] exactly what Bitbox did. Bitbox created
+[40:43] the simplest and the easiest hardware
+[40:46] wallet to use to get into self custody.
+[40:49] So get yourself a Bitbox down from the
+[40:52] link in the description. And when you
+[40:53] use code Robin, you even get a 5%
+[40:57] discount. you can like what people are
+[41:00] doing with with the Bitcoin and with
+[41:02] with their their games they're playing,
+[41:04] but still choose to like, hey, I I stick
+[41:07] with the most sovereignty most sovereign
+[41:10] way because I know this is the the right
+[41:13] side. This is the the safe side even. Um
+[41:16] you you mentioned it. Why do you think
+[41:18] differently about uh governments buying
+[41:20] Bitcoin?
+[41:22] Well, because the only way they can buy
+[41:24] Bitcoin is through theft. Um and and
+[41:26] just as a libertarian, I'm not a big fan
+[41:28] of that. Uh you know, they they're going
+[41:30] to print money or, you know, they talk
+[41:32] about budget neutral ways, but we're
+[41:33] already running what a $2 trillion
+[41:35] deficit and they already are only funded
+[41:37] by the fact that they're able to steal
+[41:38] through taxes or inflation. The only
+[41:41] people that they can the only way that
+[41:42] they can accum the only way they could
+[41:44] accumulate Bitcoin in a semifair way
+[41:46] would be through mining. But even still,
+[41:49] what's buying the AS6, right? Well,
+[41:51] taxes or, you know, theft of some kind.
+[41:54] And so, uh, I mean, I think just as
+[41:57] practically as a libertarian, I I can't
+[41:59] rationalize how how we support that. I
+[42:02] think, um, you know, I think be beyond
+[42:06] that, I the government has never done
+[42:09] anything, you know, almost anything,
+[42:11] right? And so, I don't know why
+[42:13] supporting their acquisition of the the
+[42:16] best form of money, uh, what I, you
+[42:18] know, would prefer to be the people's
+[42:19] money, uh, is is a productive exercise.
+[42:24] Now, I've heard people make compelling
+[42:27] cases, smart people make compelling
+[42:29] cases for it. Um, but I think in
+[42:31] general, the the whole point for me is
+[42:33] it's an opt out. It's an opt out of it's
+[42:35] a separation of money and state. It's
+[42:36] the opt out of of everything. And my
+[42:38] concern with government adoption of
+[42:39] Bitcoin, even if they could do it in a
+[42:40] way that wasn't theft, which I don't
+[42:42] perceive to be truly possible, is does
+[42:45] it then just become this digital Fort
+[42:47] Knox just like gold has, and nothing in
+[42:50] the world actually changes. Everyone
+[42:52] gets wealthy because the price of gold
+[42:54] goes up and now everyone gets wealthy
+[42:55] because the price of Bitcoin goes up.
+[42:57] And by everyone I mean a very small
+[42:58] percentage of us who actually understand
+[43:00] and own Bitcoin. Uh but no nothing about
+[43:04] the world changes. The incentives don't
+[43:06] change. Like we aren't our economy and
+[43:08] society aren't realigned in in some
+[43:12] meaningful way because of Bitcoin. It's
+[43:14] just sitting there for lots and lots of
+[43:16] people to you know maybe eventually sell
+[43:18] off a little bit. But I think my yeah, I
+[43:20] guess I would summarize my two biggest
+[43:22] complaints is the only way that I see
+[43:24] governments accumulating Bitcoin would
+[43:26] be through some form of theft or use of
+[43:29] you know swapping assets that they
+[43:30] probably shouldn't have to begin with.
+[43:33] Um, you know, or uh, you know, printing
+[43:37] money and but I don't know there I think
+[43:40] governments like I view government as
+[43:42] the enemy. I don't view government as my
+[43:44] friend. and the fact that they can pump
+[43:45] my bags, which I'm fully aware of. They
+[43:47] like they could make Bitcoin go to a
+[43:48] million dollars if they started just
+[43:50] buying it up and they sent, you know,
+[43:51] kicked off the game theory and
+[43:53] governments around the world were buying
+[43:54] it. I would be much much much wealthier.
+[43:58] But my son would not be safe from the
+[44:02] prospect of a future war that he gets
+[44:04] drafted to. And that's a big trade-off
+[44:07] to make. Like my ultimate goal in life
+[44:09] isn't exclusively wealth. I think that's
+[44:11] coming. So, in the meantime, I want to
+[44:13] push forward a narrative that that
+[44:15] inspires people to think beyond that, to
+[44:18] lower their time preference beyond their
+[44:19] wealth and think about, you know, what
+[44:22] what's the world I want my kids to grow
+[44:24] up and what's the world I want to be
+[44:25] exper I'm in my 30s. I've got hopefully
+[44:28] a bit of a runway ahead of me when I'm
+[44:30] 70. What world do I want to experience?
+[44:32] And when I have my grandkids, what world
+[44:33] do I want them to experience? and a
+[44:36] bunch of stolen Bitcoin effectively
+[44:38] sitting in a digital Fort Knox I don't
+[44:40] think does any good for anyone
+[44:42] necessarily.
+ Interesting. I love that
+[44:44] view because it's like
+ what's your
+[44:46] what's your take on the SPR?
+ It I hope
+[44:50] that that I count on the ignorance of
+[44:55] governments through to new technology.
+[44:59] Uh in the EU I can count on that a
+[45:01] little bit more than in in America. Uh
+[45:04] it seems like they they get it faster,
+[45:07] but even now they have like they have a
+[45:10] strategic Bitcoin reserve, but honestly
+[45:13] they they just put a different name on
+[45:14] the Bitcoin they already had.
+ Yeah, for
+[45:17] now that's true. Yeah.
+ Till now it's not
+[45:20] really till now it's not really
+[45:22] anything. I mean there are some states
+[45:24] that passes some bills. I'm not fully in
+[45:27] informed on on how far they've gone and
+[45:29] and if there are any states that already
+[45:30] bought some Bitcoin or is it just uh
+[45:33] rumors and and and and and some
+[45:35] discussions currently going on.
+[45:38] I and and we know um supposedly America
+[45:43] holds a lot of gold.
+[45:45] Maybe supposedly I don't know like if
+[45:49] it's actually true or not. I cannot
+[45:50] verify that. Uh, but if they want to do
+[45:54] the same thing with Bitcoin, I mean, if
+[45:56] they want to have the same amount of
+[45:57] Bitcoin that they hold supposedly with
+[46:00] with gold, that's a lot of Bitcoin. I
+[46:02] don't know if it even could come to that
+[46:04] because, as you say, if the word gets
+[46:06] out and uh we know that America is
+[46:09] buying Bitcoin, like actually
+[46:11] aggressively trying to accumulate
+[46:13] Bitcoin, I think the price just runs
+[46:15] away uh very quickly. the same way as if
+[46:19] I don't know Apple comes out tomorrow
+[46:20] and puts a statement of like okay 10% of
+[46:23] our balance sheet is already converted
+[46:25] to Bitcoin I think the price just shoots
+[46:27] up to like a million or like 500,000
+[46:29] whatever the the the thing is so I count
+[46:33] on if they adopt Bitcoin they might
+[46:36] accumulate Bitcoin but they also kind of
+[46:40] sign on the death of the money printer
+[46:42] and long term they will lose the Bitcoin
+[46:46] because the only way they can hold the
+[46:48] Bitcoin if they get more Bitcoin.
+[46:52] So, I don't know. Uh it's it it's really
+[46:55] hard for me to to see a a world that is
+[46:59] fully Bitcoin and a world where the
+[47:02] government has a lot of power. So, I I
+[47:05] don't know those two seem do not go good
+[47:08] together. I think there there is room
+[47:10] for service providers for uh central
+[47:14] institutions that provide uh services
+[47:18] where you pay a fee for that. I don't
+[47:20] know like if there's a service that
+[47:22] provides streets and and you pay for
+[47:24] those streets to drive on. Um so you
+[47:27] would call it a fee and not a tax
+[47:29] because it's actually associated with an
+[47:31] actual cost. Um and and that's where I I
+[47:34] like that future. I I'm I'm very much uh
+[47:38] subscribe to the sovereign individual uh
+[47:40] that kind of future. Uh but yeah, it's I
+[47:45] I think government uh I'm a fan of
+[47:48] governments not buying Bitcoin. Uh but I
+[47:51] don't know what happens if they
+[47:52] aggressively buy Bitcoin because I
+[47:54] cannot control if they buy or not. I I
+[47:56] just wish they wouldn't. But the
+[47:59] question is like if they do, what
+[48:01] actually happens then?
+ Yeah. And and and
+[48:04] I don't know. The answer for me is I I
+[48:06] don't know what happens. I I guess maybe
+[48:08] the nuance I would add to all of my
+[48:09] arguments is I think over some long
+[48:12] enough time frame
+[48:14] Bitcoin does win in the way that I think
+[48:17] we want it to win that I'm a a better
+[48:20] world kind of win. I think the question
+[48:23] though so but like that's kind of
+[48:25] meaningless if it's a hundred years from
+[48:26] now and in between now and then tons of
+[48:28] people continue to suffer and we have a
+[48:30] you know 50 more wars and like all these
+[48:33] things. Like my question is like what
+[48:34] can we do to push and promote that like
+[48:37] bring that prosperous future closer to
+[48:39] the present and I think that you know uh
+[48:45] using Bitcoin to pay down the debt maybe
+[48:47] there's a good argument to be made that
+[48:49] well they accumulate a bunch of Bitcoin
+[48:50] they use it to pay down the debt and
+[48:52] then that spreads the Bitcoin into the
+[48:54] world in you know some useful way that
+[48:56] people now have there's broad enough
+[48:59] adoption of Bitcoin sort of forced upon
+[49:02] uh these holders to use Bitcoin as money
+[49:04] and it you know maybe but I think in the
+[49:08] interim I think it sits probably as a
+[49:11] digital Fort Knox and doesn't really get
+[49:14] used and maybe some of the debts paid
+[49:16] down but as long as the money printer
+[49:18] still exists then there's no real
+[49:19] incentive for the you know the forever
+[49:22] wars to stop and uh you know the the
+[49:25] incentives are just so broken I I I
+[49:28] don't want and this is you know probably
+[49:31] cognitive dissonance here is like I
+[49:33] don't want the um the economy to
+[49:36] collapse, but I don't I'm I'm I I
+[49:39] struggle to see how how we get out of
+[49:42] the mess that we're in even if
+[49:44] governments are adopting Bitcoin. Um you
+[49:47] know, there just there's so many
+[49:49] variables at play, right? I think the
+[49:51] people uh you know, like people at BPI
+[49:53] who I think are are great people
+[49:55] operating in good faith. Um, even though
+[49:58] I don't necessarily disagree with their
+[49:59] their stance on government accumulation
+[50:01] of Bitcoin and the and certainly in
+[50:04] aggregate they're much smarter than I am
+[50:06] by myself, they can't they can't foresee
+[50:09] all of the potential implications of
+[50:11] what governments adopting Bitcoin means.
+[50:13] Just like I can't, you know, conceive
+[50:16] all of all the uh the implications of
+[50:19] Bitcoin not being adopted by
+[50:20] governments.
+[50:22] uh you brought up, you know, like so so
+[50:24] that's that's maybe one point you
+[50:26] brought up. states adopting bit a bit
+[50:27] Bitcoin strategic reserve. I think I
+[50:29] think it was um like New Hampshire and
+[50:31] maybe Arizona uh did end up getting it
+[50:34] through.
+[50:36] As a again as as a philosophically as a
+[50:39] libertarian I think I'm as opposed to
+[50:40] that as as any that said I think
+[50:42] practically the closer that we can bring
+[50:45] these determinations to home the better.
+[50:47] And like that's why I think the
+[50:49] individual, the family unit, like those
+[50:51] are the those are the ultimate um
+[50:54] entities to be making these decisions.
+[50:57] It gets a it's a little bit worse, but
+[50:59] still way better than the federal
+[51:00] government making decisions if it's your
+[51:02] your town or your local community or
+[51:04] better yet even the subdivision, you
+[51:06] know, like the you know, uh the people
+[51:09] you live, you know, near. And then, you
+[51:11] know, states are are worse, but still a
+[51:14] lot better than the federal government.
+[51:16] And it just sort of goes out like the
+[51:18] closer these decisions about what what
+[51:21] are we using for money? Uh how are we
+[51:23] going to live our lives? The closer
+[51:25] those decisions could be made to home, I
+[51:27] think the better the world's going to
+[51:28] be. And maybe my biggest concern with
+[51:31] the like what are the ex the
+[51:33] externalities of the federal government
+[51:35] buying is the federal government has
+[51:37] proven time and time again they're not
+[51:38] operating in my best interest. And and
+[51:41] also it's a bunch of crazy people. I
+[51:43] mean, look, I look at Trump and Elon
+[51:44] right now. Like, you know, I I thought
+[51:46] we dodged a bullet that we didn't have
+[51:47] Harris, you know, as as president and,
+[51:50] you know, Tim Tim Walls as our VP, but
+[51:55] the world it's not looking it's not
+[51:56] looking awesome. Like, we got a bunch of
+[51:58] like childish men bickering on on
+[52:00] Twitter right now and accusing each
+[52:02] other of things. And so I I am so
+[52:04] distrustful the further from my my home
+[52:07] that I get that the the more we can do
+[52:09] to bring those decisions back to the
+[52:11] individual the better. And so um part of
+[52:15] it is I understand philosophical but I
+[52:17] think part of it's also also practical.
+[52:19] Um you know we we don't want the economy
+[52:21] to collapse. I'm not really sure how
+[52:23] exactly Bitcoin smooth that that
+[52:25] transition but I think if it has a
+[52:27] chance of doing so it's probably because
+[52:29] individuals adopt it not because
+[52:30] governments or large corporations do.
+[52:32] But it's interesting how Elen reacted to
+[52:34] the depth ceiling raising which was kind
+[52:38] of like of course it happens like I
+[52:41] don't know if anyone ever doubted that
+[52:43] they don't raise it. Uh it's the only
+[52:45] thing the Republicans and the Democrats
+[52:47] actually agree on and that government
+[52:50] will spend more money. it. I don't know
+[52:53] if Elon Musk actually believed that he
+[52:55] can reverse government spending. Like
+[52:58] for me, this was so clear that they will
+[53:01] spend more money than they make. Like h
+[53:04] you can't undo that. The the system is
+[53:06] too big for that. There needs to be a
+[53:09] dictator and this dictator needs to be
+[53:12] uh someone that is really really
+[53:14] convinced of that and everyone has to
+[53:17] play with him
+[53:19] in order to for governments to spend
+[53:21] less and actually get the the step down
+[53:24] like otherwise that will just keep
+[53:26] crying. So I think that's like almost a
+[53:28] natural law.
+ Yeah. Yeah. I man I don't I
+[53:32] don't know what to make of uh of like
+[53:34] Doge and and and all of that. I think
+[53:38] Elon's a smart guy. I can't imagine that
+[53:41] he went in really thinking that they
+[53:42] were going to cut$ two trillion dollar.
+[53:44] They were just going to eliminate the
+[53:46] deficit, right? I mean, certainly he
+[53:48] understood politics well enough to know
+[53:50] that there's a massive voting block
+[53:53] relying on social security, Medicare,
+[53:55] Medicaid, who you like in that and
+[53:57] that's what you have to cut in the DoD,
+[54:00] right? like you've got um and like I say
+[54:03] this as like a a former kind of
+[54:05] conservative Republican type of guy.
+[54:08] You've got a huge block of people who
+[54:11] view the like the more we spend on
+[54:13] military the better. Like that makes us
+[54:15] more powerful. Never mind the fact that
+[54:17] we could probably cut, you know,
+[54:19] military spending by 80 or 90% and be
+[54:21] ju, you know, go lean and efficient and
+[54:23] be just as, you know, effective. Um, not
+[54:26] that I want us to be so effective in our
+[54:28] military presence, but you you'd think
+[54:30] that someone like Musk would have
+[54:32] understood that most of what you need to
+[54:34] mess with is just completely politically
+[54:36] off limits. Like you you you simply
+[54:38] can't do anything about it. And uh but
+[54:41] but to me that that's the hope of
+[54:42] Bitcoin is, you know, before Bitcoin
+[54:44] we're in this 37ish trillion dollar
+[54:47] worth of debt. I don't know what you I
+[54:49] mean, I guess I guess you run to gold,
+[54:50] but like there's no real hope for a a
+[54:53] brighter future on a gold standard in
+[54:55] again in a digital global economy, but
+[54:57] we have Bitcoin. Like, opt out. Like,
+[54:59] just just say enough and buy some
+[55:02] Bitcoin uh or earn in Bitcoin if you
+[55:04] can. Sell a good service, you know,
+[55:06] launch a podcast and accept Bitcoin as
+[55:08] payment. Get get as much of it as you
+[55:10] can and then just take it into
+[55:12] self-custody. Like, don't leave it on
+[55:14] the exchange. Don't trust it to someone
+[55:15] else. Don't buy a paper product. Uh
+[55:18] that's the beauty of it. So I I was we
+[55:20] just recorded a podcast uh our inter
+[55:22] like our internal show Bitcoin Banter
+[55:24] and uh we were talking about the the
+[55:26] Musk Trump divorce and uh Rick, one of
+[55:29] our guys said he thinks that uh this was
+[55:32] all just kind of a charade like they
+[55:33] they knew this wasn't going to work and
+[55:35] that they're and I don't know that I
+[55:37] have a strong feeling about that but it
+[55:39] wouldn't surprise me. I mean nothing
+[55:40] would surprise me at this point. So,
+[55:42] like did they know that Doge was going
+[55:43] to fail and they now they have some
+[55:45] scapegoat and we have to raise the debt
+[55:47] ceiling and uh it's just they know they
+[55:49] need to turn the money printers on or
+[55:51] default in just absolute economic
+[55:54] calamity. Uh this is, you know, this is
+[55:56] going to be their excuse. We have to
+[55:58] avoid economic catastrophe. We have to
+[56:00] raise the debt ceiling to non-existence
+[56:03] and and print and print and print. And I
+[56:05] think that's why Larry Leard's book, The
+[56:07] Big Print, is is one of my favorites. I
+[56:09] think it really illustrates the absolute
+[56:11] corruption of the system and uh and why
+[56:14] like ultimately that's the his thesis is
+[56:16] right that's what's going to play out
+[56:19] 100%. And we mentioned Bitcoin Prague
+[56:22] now so many many times. This podcast
+[56:24] will actually come out while Bitcoin
+[56:26] Prague is already going on. So for
+[56:28] people not to be
+ confused me on the main
+[56:30] stage, guys.
+[56:32] Uh and I'm really looking forward uh
+[56:35] just as a side note, I will have in the
+[56:37] VIP stage when this comes out yesterday,
+[56:41] but like on on on Saturday or like on
+[56:43] Friday uh at Bitcoin Prague um a
+[56:46] fireside chat with Larry La. Uh, and I'm
+[56:49] really looking forward to that because
+[56:51] it's unrecorded and I feel like people
+[56:54] are even a little bit more um relaxed
+[56:58] and even giving a little bit more away
+[57:00] when there's not the recording going on.
+[57:03] And uh, Larry Le is anyone someone that
+[57:07] just like doesn't sugarcoat it. So
+[57:09] seeing him unrecorded, I think it will
+[57:13] will be fun or was fun yesterday.
+ Yeah.
+[57:16] No, Larry is awesome. I was just on the
+[57:18] phone with him this morning. We're
+[57:19] trying to help him get some books to
+[57:20] prog me saying this. We're trying to
+[57:22] help him order books to sign in Prague.
+[57:24] And uh I'll tell you what, Amazon is
+[57:26] about as fiat as it gets. He's he's had
+[57:28] a hell of a time doing that. And uh so
+[57:30] we're trying to do what we can to make
+[57:32] sure he's got books to sign when he gets
+[57:34] there.
+ Absolutely. Really really cool.
+[57:36] And one last topic that I want to get
+[57:38] into with you when time flew by um is
+[57:42] oper and uh kind of internal wars that
+[57:46] we have in in Bitcoin beat on the the
+[57:49] technical side but those kind of things
+[57:51] we we kind of mentioned the the the
+[57:53] narrative wars before but and and I
+[57:55] think like an interesting addition to
+[57:57] that is like op return and and other
+[58:00] discussions. I I'm I'm personally not a
+[58:02] big expert on that. I think you also
+[58:04] said like you're not super deep on the
+[58:06] technical side, but I I feel like you
+[58:08] have an opinion on that still.
+ Yeah, I
+[58:10] would say I have a halfbaked opinion and
+[58:12] it's uh yeah, it's it's very much less
+[58:15] technical in nature and so I you take
+[58:17] anything I say with a grain of salt. Um
+[58:19] so first of all, I would say that I look
+[58:21] at sort of the two competing sides on
+[58:23] this debate and I I ask my I'm sort of
+[58:26] in a position where I have to trust and
+[58:27] not verify because I'm not a developer.
+[58:30] um and just don't understand the
+[58:31] understand the intricacies of the
+[58:32] protocol as well as I would like and
+[58:34] hope to someday.
+[58:37] I look at the fix the filters people and
+[58:41] uh you know Bitcoin Mechanic and Matthew
+[58:44] Crowder and uh there's sort of a list of
+[58:47] them and I have learned a lot from that
+[58:52] crew. Um not not exclusively about the
+[58:54] the filters but just you know Bitcoin my
+[58:57] understanding of Bitcoin.
+[59:00] Um, and I look at the other side and
+[59:02] they're, you know, a lot of them are
+[59:03] dancing around in wizards hats or, you
+[59:05] know, I think you probably tell which
+[59:07] direction I'm heading with this. And so
+[59:08] my inclination is to uh or or they
+[59:11] support, you know, like very clearly to
+[59:13] me, shitcoins.
+[59:15] Um, or or they have a a vested financial
+[59:18] interest in spamming the network, it
+[59:20] seems, but I'm by my loose definition of
+[59:22] the word spam. Again, like we can get
+[59:24] into semantics. What does that mean? Um,
+[59:26] so I I tend to be more of a fix the
+[59:28] filters guy. I understand that u like
+[59:31] the uh that operturn discussion is a
+[59:34] meool policy issue. It's not you know
+[59:36] what actually gets into the block is
+[59:38] going to end up on your you know your
+[59:39] node regardless. But I don't think that
+[59:41] means we don't try plugging the holes as
+[59:43] we go is sort of my general feeling. I
+[59:45] think the other thing that I've had an
+[59:46] issue with, and I know both sides are
+[59:48] yelling at each other, and they probably
+[59:49] people have said very stupid things in
+[59:51] both directions,
+[59:54] but I think maybe my maybe my biggest
+[59:56] turnoff from the um pro removal of the
+[59:59] oper limit side is the way that they've
+[60:03] um that they've sort of addressed this
+[60:06] as uh you know, like you're not a core
+[60:10] developer and so you shouldn't have an
+[60:12] opinion. And and to me that's a very
+[60:15] dangerous position to take because it it
+[60:18] it's sort of this effort to remove any
+[60:20] any argument because you aren't the
+[60:22] expert. And I think if there's anything
+[60:24] I've learned in the last you know what 5
+[60:26] years it's that I don't trust the
+[60:28] experts. And the fact that you're a core
+[60:30] developer does not make you an expert on
+[60:31] money or monetary policy or macro. It
+[60:34] doesn't mean that you suddenly have a
+[60:35] crystal ball into the implications of
+[60:37] the decisions you're making. And so for
+[60:39] those reasons, I tend to be, you know,
+[60:42] again, take it as a grain of salt, but
+[60:44] something more of an oification
+[60:46] person when it comes to the protocol. I
+[60:49] understand that there is probably
+[60:50] development that could be done to make
+[60:53] Bitcoin more useful as money and as a
+[60:55] medium of exchange. And um I'm in no way
+[60:58] suggesting that that's not the case. But
+[61:01] we're also at a point in Bitcoin's
+[61:03] existence that there are millions and
+[61:06] millions of people who not aren't
+[61:08] necessarily Bitcoiners but are in some
+[61:10] way uh you know through proxy like the
+[61:13] ETFs or or you know they're invested in
+[61:15] the NASDAQ and so they've got exposure
+[61:17] to Micro Strategy or something. they're
+[61:18] in some in some way sort of reliant on
+[61:21] the reliability of the Bitcoin protocol.
+[61:24] And so making changes without a full
+[61:27] understanding of what the the long-term
+[61:30] consequences of that is or of what those
+[61:32] what they are, I think is dangerous. And
+[61:36] I think I would say any change needs to
+[61:39] be very very very conservative. And I
+[61:42] think to the extent that you can, you
+[61:44] know, Bitcoin's still a small enough,
+[61:46] you know, ship in this ocean of uh, you
+[61:49] know, global assets, the extent that we
+[61:51] can still try to find some level of
+[61:52] consensus about these changes being made
+[61:55] is very helpful. I know you're never
+[61:57] going to achieve perfect consensus. And
+[61:59] I'm referring to consensus just an idea,
+[62:01] not obviously consensus on the protocol.
+[62:04] I think that that would be best to me.
+[62:07] I've talked to very few people like at
+[62:09] the conference on my podcast who are who
+[62:14] are on who just have sided with the core
+[62:16] developers honestly like most people are
+[62:20] their view is Bitcoin is money and I'm
+[62:22] unconvinced that this change is
+[62:24] beneficial to the uh promotion of
+[62:27] Bitcoin is money and to me that just
+[62:30] doesn't seem like a risk worth taking
+[62:32] and I don't think we just throw up our
+[62:33] hands and give up and say well they're
+[62:35] going to spam anyway we plug theole that
+[62:37] we can and then we hope that the free
+[62:39] market prices the spammers out uh in the
+[62:43] in the long run. And I think that's
+[62:44] probably likely to happen. Um but again,
+[62:48] you know, it it's it's tough because I I
+[62:50] just can't get into the the the
+[62:51] technical details of it without, you
+[62:53] know, being wrong or sounding like an
+[62:55] idiot. Um but that that's sort of the
+[62:57] way I'm sort approaching how I think
+[62:59] about this.
+[63:01] It's very similar to to to how I also
+[63:03] think it's in general to any um and I
+[63:07] mean I was a software developer
+[63:09] beforehand but I wouldn't call myself an
+[63:11] expert when it comes to software
+[63:13] especially not to to Bitcoin you really
+[63:15] have to study it very deeply to
+[63:17] understand it but I always argue for any
+[63:21] change like even outside of op return
+[63:24] you have to have an extremely good
+[63:26] reason why you change it and if you're
+[63:29] in doubt hoped if it is good, it's
+[63:32] probably better to keep it the way it is
+[63:35] uh and make a conservative choice. So, I
+[63:38] think we need probably down the road
+[63:41] some changes to Bitcoin. Uh if we just
+[63:45] keep it as it is and we never change
+[63:47] anything, we probably run into uh
+[63:50] problems in I don't know 10 years, 50
+[63:52] years, 200 years, whatever. But the
+[63:54] reason has to be so good and so critical
+[64:00] that you're like, "Okay, we have to do
+[64:02] this." Like it has to be almost obvious
+[64:04] that we have to make that change. And
+[64:06] that's how I view any any change. And I
+[64:09] just haven't seen a compelling enough
+[64:11] argument uh for for for that change. But
+[64:14] yeah,
+ the fact the fact that you've got
+[64:16] smart people on both sides who are who
+[64:18] disagree so vehemently about this to me
+[64:20] indicates probably going conservative
+[64:22] and not making the change makes a lot
+[64:24] more sense. I think there are going to
+[64:26] be changes and I know there will be
+[64:28] fighting and that's is part of the
+[64:29] beauty of of Bitcoin is that we we fight
+[64:31] over things that we think are important.
+[64:32] there will be fighting, but like when
+[64:33] the quantum problem materializes, which
+[64:36] you know, I'm not that's not like
+[64:37] something I'm uh concerned about in the
+[64:39] short term, but I let's presume that it
+[64:42] is a problem at some point. I think
+[64:44] there it'll be much easier to find
+[64:46] consensus amongst people involved
+[64:49] because it's, you know, potentially an
+[64:51] existential threat to to the Bitcoin
+[64:53] network. And uh I bet that gets rolled
+[64:56] out a lot easier. In the meantime, these
+[64:58] sorts of things where it's like, well,
+[65:00] we want to, you know, play with the
+[65:02] these op codes. Um, I would just say
+[65:06] Bitcoin is not perfect and, uh, it's
+[65:09] still working as money. Like, I mean,
+[65:11] the Bitcoin way literally operates on a
+[65:13] Bitcoin standard. We won't accept
+[65:15] anything but Bitcoin. We won't pay you
+[65:16] in anything but Bitcoin. They pay me in
+[65:18] Bitcoin. Like, the like we operate on a
+[65:21] Bitcoin standard. It does work. And we
+[65:23] we primarily use onchain which I I know
+[65:26] isn't like probably what the future
+[65:28] holds because I think eventually people
+[65:29] are going to be priced out of you know
+[65:31] owning their own UTXOs and all that but
+[65:33] there's lightning there's you know there
+[65:34] there these other tools that people are
+[65:36] already using and to me at least that
+[65:39] gives me a lot of hope that we we can we
+[65:42] can play conservative in the meantime
+[65:44] and we don't need to make you know these
+[65:46] sweeping changes that at least half and
+[65:48] to me I perceive it to be much more than
+[65:50] half of the you know the Bitcoin
+[65:52] community and I know that's a a term
+[65:53] people don't like that the Bitcoin
+[65:55] community seems to resent and and uh and
+[65:58] oppose. So yeah, play conservative.
+[66:02] That's kind of my my hope especially
+[66:04] with as much as as is on the line at the
+[66:07] moment with um you know with I mean
+[66:10] nation states and you know Wall Street
+[66:12] getting here. There are a lot of people
+[66:13] who are going to be touched by Bitcoin
+[66:15] in some way that you know weren't a few
+[66:17] years ago.
+[66:19] I very much agree with that. Um, I have
+[66:22] one question to ask each and every one
+[66:23] of my guests and the question is, "What
+[66:25] can we learn from you besides Bitcoin?"
+[66:28] Oh boy. What can you learn from Man.
+[66:30] Well, I've got So, the question I always
+[66:32] ask at the end of my podcast is give me
+[66:34] an unpopular opinion that you have. Um,
+[66:36] so I'm trying to think of like what's uh
+[66:38] what's something that uh I could share
+[66:40] that's maybe a little bit controversial
+[66:42] beyond Bitcoin. Besides understanding
+[66:44] Bitcoin, one of the things I am most
+[66:46] proud of is my family. And um I have I
+[66:50] have three beautiful kids, a beautiful
+[66:52] wife, and I uh can assure you I'm not a
+[66:56] perfect husband or a perfect father. One
+[66:58] of the things that I've learned though
+[67:00] um parenting is that uh it's a very low
+[67:05] time preference thing and if you do it
+[67:08] right. And so the what I always tell
+[67:11] people to the extent that they're
+[67:12] interested in my opinion on parenting is
+[67:14] discipline hard and love harder. And I
+[67:18] think that a lot of people, this 21st
+[67:20] century mentality of, you know, gentle
+[67:22] gentle parenting and, you know, you
+[67:24] don't want to offend your kids and blah
+[67:26] blah blah, I think is nonsense. I think
+[67:28] you need to uh you need to um instill a
+[67:32] sense of discipline in them and you do
+[67:34] that at a very young age. And then if
+[67:36] you're doing it right, my experience has
+[67:38] been 5 minutes later your kids are
+[67:39] running back to you to play and be
+[67:41] cuddled and and that sort of thing. So I
+[67:43] think the maybe hopefully my takeaway
+[67:45] would be that uh you know if you can
+[67:48] learn one other thing from me it's that
+[67:50] uh parenting is low time preference love
+[67:52] is important but so is discipline.
+ I
+[67:55] love that discipline hard love harder.
+[67:58] That's amazing.
+ That's my mantra.
+ Uh
+[68:01] really cool. We have an end in the
+[68:02] podcast where the previous guest is
+[68:03] asking a question for the next guest
+[68:04] without knowing who the next guest
+[68:06] actually is and the previous guest asks
+[68:08] you the question what is the most random
+[68:10] thing you have ever collected? the most
+[68:13] random thing I've ever collected.
+[68:16] Let's see. I don't know if this counts.
+[68:19] When when I was a kid, my my brother and
+[68:21] I had like a a nice little snake
+[68:23] collection going. We played outside a
+[68:24] lot and we'd catch these little garter
+[68:25] snakes and we probably had five or six
+[68:27] of them at once and then one of them
+[68:29] would die after a while because we
+[68:30] didn't know how to feed them or anything
+[68:31] and then a new one come along and we'd
+[68:33] add them to the collection. So, that's
+[68:35] the first thing that comes to mind.
+[68:38] That is very random. I love that.
+[68:41] Dan, thank you so much. uh Michael for
+[68:43] for being on the podcast. And before we
+[68:45] let you go, where can people find you
+[68:46] and ask questions?
+ Yeah, uh you can find
+[68:49] me on Twitter. I'm the other M Jordan
+[68:52] because I'm the other Michael Jordan. Uh
+[68:54] but make sure you go check out the
+[68:55] Bitcoin way. It's the bitcoinway.com.
+[68:57] Can schedule a free 30-minute consult
+[68:59] with a member of our team. We help with
+[69:01] 100% self-custody, no key sharing, no
+[69:03] KYC, none of the nonsense, self-
+[69:05] sovereignty. We also help with online
+[69:07] privacy, privacy phones. We got a plan B
+[69:09] residency option. And uh again, it's uh
+[69:12] www.thebitcoitcoinway.com
+[69:14] and you can check us out on X as well.
+[69:16] We've got a great memer uh on our team.
+[69:19] So uh lots of fun content. It's uh at
+[69:21] the bitcoin way underscore.
+ Absolutely.
+[69:24] Uh the the Bitcoin way link is in my
+[69:27] description and your link to your
+[69:29] Twitter will also be in the description.
+[69:31] So uh people can just click on that and
+[69:33] and directly go there. So, thank you so
+[69:35] much, Michael, for for for being on and
+[69:37] also thank you so much for everyone that
+[69:38] is watching and listening for joining us
+[69:40] today. As always, I'll be back tomorrow
+[69:42] with another episode. Bye-bye.
+[69:45] [Music]

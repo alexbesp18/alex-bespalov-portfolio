@@ -1,0 +1,1258 @@
+Title: AVOID Costly Mistakes! The BEST Way to Keep Your BTC Safe
+Video ID: 4VLGScx6_3Q
+URL: https://www.youtube.com/watch?v=4VLGScx6_3Q
+Date Saved: 2025-06-15 11:47:48
+--------------------------------------------------
+
+[00:00] if you lose your Hardware wallet you
+[00:01] lose your computer you don't have the
+[00:03] advisor anymore can you recover your
+[00:05] Bitcoin Bitcoin is the only asset you
+[00:07] can truly own if you memorize your seed
+[00:09] phrase you can own your Bitcoin in your
+[00:10] head I can flee my country tomorrow I
+[00:12] could hop on a plane and take my entire
+[00:14] Bitcoin stack with me can't take a house
+[00:16] with me I can't take South African
+[00:18] stocks with me or bonds can't take a
+[00:20] kilogram of gold when you trust an
+[00:22] exchange to hold your Bitcoin it's not
+[00:25] yours history is full of breaches of
+[00:27] that trust Bitcoin is freedom money and
+[00:29] freedom money comes with with
+[00:30] responsibility and I think that there's
+[00:31] nothing more you can do than just put in
+[00:33] the hours to understand what you're
+[00:34] doing the more Bitcoin you have the
+[00:36] higher security level you need secure
+[00:37] your Bitcoin in the best way before you
+[00:40] get hilariously rap secure your Bitcoin
+[00:42] as if it were worth 10x the current
+[00:44] value you don't want to make your
+[00:45] Bitcoin set up too complex because
+[00:47] you're going to lose Bitcoin to use
+[00:49] error rather than an attacker you need
+[00:51] to definitely understand what you're
+[00:52] doing yourself cuz even if somebody does
+[00:54] advise you through it all and you don't
+[00:55] really know what you're doing and it's
+[00:56] not a good idea bit box cold card
+[00:58] treaser are all Prett battle tested the
+[01:00] more utxos have the more expensive your
+[01:03] Bitcoin transactions are the solution is
+[01:05] to combine your utxos together to create
+[01:08] larger utxo and have fewer of
+[01:11] [Music]
+[01:15] them it's really important today that we
+[01:18] talk about self- custody as I mentioned
+[01:20] before to you uh if everything goes to
+[01:23] according to plan I think a lot of new
+[01:24] people will join within the next like 12
+[01:27] to 18 months and I see a big big risk
+[01:30] actually in people coming into the space
+[01:33] and saying okay um I want Bitcoin I see
+[01:37] the value of Bitcoin they maybe even
+[01:39] study a lot of like uh oh why Bitcoin
+[01:42] why it's important but then they go
+[01:44] ahead and like oh yeah I I downloaded
+[01:46] this Bitcoin exchange and I have it
+[01:49] there and that's it like now I'm part of
+[01:51] Bitcoin or even worse they have some new
+[01:54] bank app where they can they cannot even
+[01:57] withdraw the Bitcoin I saw that in
+[01:58] Austria with like uh already some
+[02:01] friends of mine um who said like oh yeah
+[02:04] I bought Bitcoin and then I was like oh
+[02:06] where where do you have it and then like
+[02:08] oh this bank and I was like really you
+[02:10] don't even you cannot even withraw the
+[02:12] Bitcoin you don't even have the option
+[02:13] to S custody there so um maybe to start
+[02:17] off with what is your personal
+[02:20] motivation uh why are you doing the
+[02:23] hustle of studying about self custody
+[02:26] and the hustle of self custody
+[02:28] itself yeah well I think Bitcoin is the
+[02:30] only asset you can truly own if you
+[02:32] memorize your seed phrase you can own
+[02:34] your Bitcoin in your head I can flee my
+[02:36] country tomorrow I could hop on a plane
+[02:38] and take my entire Bitcoin stack with me
+[02:40] I can't take a house with me I can't
+[02:42] take South African stocks with me or
+[02:44] bonds or I can't take a kilogram of gold
+[02:47] but my Bitcoin is it's very
+[02:49] transportable and easy to take so
+[02:51] Bitcoin is the only asset you can truly
+[02:53] own there's a quote from was it from
+[02:56] 1984 where it says the only thing you
+[02:59] truly own is the the square inches in
+[03:02] your brain something like that along
+[03:04] those lines and to me that's like um
+[03:06] Bitcoin you you can own it in your head
+[03:09] and you can you can go anywhere with it
+[03:11] so I think self custody is important
+[03:13] because if you're not self-clustering
+[03:14] your Bitcoin you don't have that
+[03:15] property of Bitcoin you you can't escape
+[03:18] with it if it's in locked up in some
+[03:20] South African exchange or wherever you
+[03:21] live I in South Africa and you you flee
+[03:24] the country things go bad and perhaps
+[03:26] they don't allow you to withdraw anymore
+[03:28] perhaps you can't convert that to
+[03:30] whatever you may need and uh they stop
+[03:33] you from withdrawing Bitcoin so yeah
+[03:35] mainly because Bitcoin is the only asset
+[03:37] you truly own is why I'm so big on self
+[03:40] custody really cool I I love that reason
+[03:44] um I I just want to play a little bit
+[03:45] devil's advocate here because I think a
+[03:47] lot of people um maybe not everywhere in
+[03:51] the world but in privileged countries
+[03:53] like I'm in Austria maybe also in
+[03:55] America um uh I mean a lot of bitcoiners
+[03:59] like hardore bitcoiners don't trust the
+[04:01] government but there are a lot of
+[04:03] bitcoiners out there that are not in the
+[04:05] Bitcoin Twitter Bitcoin podcast bubble
+[04:08] but they still have Bitcoin and they
+[04:11] trust their government they they trust
+[04:13] in institutional things and they often
+[04:16] don't trust in
+[04:18] themselves and they trust more in like a
+[04:21] big exchange who has a big big name um
+[04:25] if someone is like in a in a county
+[04:27] where everything goes according to Black
+[04:30] and they for them it's not a reason to
+[04:33] uh be like um like the government is is
+[04:36] corrupt or like the there's something
+[04:38] really going wrong in the country and
+[04:40] they have to flee like within a war
+[04:41] scenario what other reasons are there to
+[04:44] like why of custody uh with like it's
+[04:48] easier to steal in in in exchanges and
+[04:50] stuff like that do you have other
+[04:52] motivations why people should do that
+[04:55] yeah so one of the most famous Satoshi
+[04:59] quotes is that history is full of
+[05:01] breaches of that trust and I think he's
+[05:03] referring to Banks um inflating the the
+[05:06] currency Supply and I think that applies
+[05:08] to bitcoin as well when you trust a
+[05:10] custodian with your Bitcoin you they
+[05:13] hold your coins for you it's not truly
+[05:15] your your Bitcoin it's an IOU and you're
+[05:18] trusting them but history again is full
+[05:20] of breaches of that trust when you're
+[05:21] trusting a centralized party to do
+[05:23] anything for you um they tend to breach
+[05:26] that trust and and Bitcoin is a a good
+[05:28] example of that so there's been lots of
+[05:31] examples of exchanges going bankrupt and
+[05:33] running away with Bitcoin FTX is
+[05:35] probably the the biggest example I think
+[05:37] there was $8 billion lost on FTX and
+[05:40] yeah people trusted FTX it was a huge
+[05:42] name they had the stadiums they had the
+[05:44] huge marketing spend it was very trusted
+[05:47] and yeah history is full of breaches of
+[05:49] that trust and FX went bankrupt and
+[05:51] everyone's Bitcoin was um essentially
+[05:53] gone overnight another good example is
+[05:56] there was this exchange quadriga x a
+[05:59] Canadian exchange and the the founder of
+[06:02] that exchange or the person who held the
+[06:03] keys that accessed that Bitcoin for that
+[06:06] exchange just also mysteriously died I
+[06:08] believe he was in India one day he
+[06:10] vanished um his one of his family
+[06:12] members said he was he died and he was
+[06:15] the only one who could spend that
+[06:16] Bitcoin and I think a few million
+[06:17] dollars in Bitcoin was lost just because
+[06:20] that guy vanished so when you trust an
+[06:23] exchange to hold your Bitcoin it's not
+[06:27] yours and uh another big problem is that
+[06:29] these exchanges are huge honeypots they
+[06:31] hold lots of Bitcoin so an attacker or
+[06:34] or a yeah a sophisticated attacker would
+[06:37] rather attack an exchange to get
+[06:39] thousands of coins than an individual to
+[06:40] get maybe 0 five Bitcoin they're huge
+[06:43] honeypots and yeah that's that's one of
+[06:46] the big reasons as well is exchanges uh
+[06:48] cannot really be
+[06:50] trusted um are there other reasons yes
+[06:54] if you trust an exchange with your
+[06:56] Bitcoin they might be selling paper
+[06:57] Bitcoin and therefore increase you know
+[06:59] the supply of Bitcoin selling coins that
+[07:01] don't exist so if you're a strong
+[07:04] proponent for Bitcoin perhaps you would
+[07:06] want to self custody a coins so
+[07:07] exchanges aren't selling coins that
+[07:09] don't exist they're not um uh using your
+[07:12] coins and I mean lending out your coins
+[07:15] to other people and increasing the
+[07:17] supply in turn absolutely I mean it's
+[07:20] that's the whole whole point of of
+[07:22] Bitcoin I feel like and I hope that the
+[07:25] more people own Bitcoin the more they
+[07:27] also go down the education part and then
+[07:29] they at some point realize oh yeah
+[07:32] like I have to own Bitcoin myself and I
+[07:35] have to take it off exchange um I was a
+[07:38] weird case where I bought my um uh
+[07:42] Ledger back then like I think over four
+[07:45] years ago now actually on the first day
+[07:48] where I got my Bitcoin like I bought my
+[07:51] Bitcoin and ordered directly Ledger um
+[07:54] out of curiosity not of knowing that
+[07:58] it's important but out of curiosity
+[08:00] because I saw a video like oh how to do
+[08:02] self custody I was like what what is
+[08:03] self custody like what do even this is
+[08:06] like I just ordered a cust out of
+[08:09] curiosity and have my Bitcoin ever since
+[08:11] since the first day self custody uh
+[08:14] which has been an amazing experience and
+[08:17] uh so far also never lost anything but
+[08:20] it was 2020 it's it's has been H but I
+[08:22] think a lot of people are actually
+[08:24] scared of losing their Bitcoin because
+[08:26] you have so many prominent stories
+[08:29] granted they're all from uh not all but
+[08:33] the the more prominent ones are from
+[08:35] like further down the line in in the
+[08:37] history it's like gets less and less the
+[08:39] people lose their Bitcoin um but H how
+[08:42] do we take away this like people are
+[08:45] scared to lose the Bitcoin they don't
+[08:46] trust in their own capabilities they
+[08:48] feel like they have to uh study that
+[08:50] like for five years and then only they
+[08:53] can maybe have custody de yeah well I
+[08:55] think um Bitcoin is freedom money and
+[08:58] freedom money comes with respon
+[08:59] responsibility and I think that there's
+[09:00] nothing more you can do than just put in
+[09:02] the hours to understand what you're
+[09:03] doing Bitcoin wallets have become a lot
+[09:06] easier over the years uh we've just got
+[09:08] all you have to do nowadays is back up a
+[09:10] 12 or 24w seed
+[09:12] phrase uh you know in in the early days
+[09:14] it was very different we had you know
+[09:16] raw private keys and we couldn't just
+[09:18] back up one of those keys we had to back
+[09:20] up each one individually so wallets are
+[09:23] becoming easier but I think because of
+[09:26] the nature of Bitcoin because it's self-
+[09:28] responsibility and Freedom you have to
+[09:30] put in a few hours to understand self-
+[09:33] custody to understand how all the the
+[09:35] different wallets work or how your
+[09:36] wallet Works what is a seed phrase why
+[09:39] you need to back it up and uh you know
+[09:41] once you've mastered the basics you you
+[09:44] can fairly confidently self custody
+[09:46] Bitcoin the wallets these days make it
+[09:48] so
+[09:49] simple again just know how to secure
+[09:52] your seed any other parts you may need
+[09:54] some people use a pass phrase or
+[09:55] multisig but if you're just getting
+[09:56] started don't even think about that
+[09:58] quite yet
+[10:00] and yeah hours I think that's that's all
+[10:04] and you don't need to put you don't need
+[10:05] to put five years into this right you
+[10:07] can do I don't know how many hours it
+[10:09] requires maybe not not not five years
+[10:12] definitely maybe one or two months of
+[10:16] not really consistent work but one or
+[10:17] two months of curiosity and
+[10:19] experimenting and trying new things all
+[10:22] all you really
+[10:23] need what role does the amount in
+[10:28] Bitcoin you hold
+[10:30] play in what secur the solution and and
+[10:33] how you how you secure your Bitcoin play
+[10:36] yeah def if the more Bitcoin you have
+[10:39] definitely the the higher security level
+[10:41] you need and I think more security
+[10:43] always comes with increased
+[10:45] complexity so if you do happen to have a
+[10:48] lot of Bitcoin I think and you want to
+[10:50] increase the security of your setup it
+[10:52] requires a bit more time uh studying and
+[10:55] and learning what exactly you're using
+[10:58] for example if you're looking into
+[10:59] multi- multisig will require a bit more
+[11:02] experimenting and and studying than
+[11:04] something like single Sig so the the
+[11:07] more Bitcoin you have the more security
+[11:09] you need definitely but that more
+[11:12] security comes with increased complexity
+[11:14] and therefore you might need to spend a
+[11:16] few more hours uh studying or get
+[11:19] assistance from somebody who knows what
+[11:20] they're doing when does multi um makes
+[11:23] sense is that like an amount you you
+[11:26] have in your head with like okay if you
+[11:27] have about about that uh that many
+[11:30] Bitcoin right now uh you should
+[11:32] definitely do a
+[11:34] mtis yeah I'm not sure about amounts I
+[11:37] think what's very important about
+[11:38] multisig is that the point is to
+[11:41] geographically distribute your Bitcoin
+[11:43] so if you have if you're using multisig
+[11:45] because you're high net worth but all
+[11:47] three seed phrases are in your house
+[11:49] it's kind of defeating the point the
+[11:51] purpose of multisig maybe you need a
+[11:53] pass phrase in that case so I think if
+[11:55] you can geographically distribute coins
+[11:59] or you're a company or you're a business
+[12:01] with multiple um key individuals then
+[12:04] you look into multisig if you've got um
+[12:09] 100 Bitcoin you probably have a few
+[12:11] places to put your coins maybe you've
+[12:12] got vaults Bank vaults in in different
+[12:15] locations then yeah multi6 for you I'm
+[12:18] not sure about a a Bitcoin amount
+[12:20] maybe 10 Bitcoin um I'm not really sure
+[12:24] I think it it depends more on your
+[12:27] circumstances and the amount of of
+[12:29] Bitcoin you have both need to work
+[12:32] together yeah really interesting um
+[12:34] maybe for I mean even if you have 10
+[12:37] Bitcoin right but you only you keep
+[12:39] three seed phases in your house you're
+[12:40] still defeating the purpose of of that
+[12:42] multi Sig yeah it's it's super
+[12:44] interesting when when we think about U
+[12:46] multi signature and and then you can
+[12:49] actually go ahead and even if someone
+[12:52] like if if someone comes to the house
+[12:53] like said like oh give me your your
+[12:55] Bitcoin you can like oh yeah here it's
+[12:57] my please please have it uh but you have
+[13:00] like five other keys or something like
+[13:01] that so but there there's a lot of uh I
+[13:04] mean I think the risk of that is is is
+[13:06] hopefully low for for for
+[13:09] bitcoiners uh but it's definitely
+[13:11] something just just to make sure we we
+[13:14] we have everyone in the boat what is
+[13:17] multi and what is single Sig like what
+[13:20] is that in the first place yeah so we'll
+[13:23] start with single signature and single
+[13:26] signature means you only need one single
+[13:30] signature to spend your Bitcoin so you
+[13:32] only need one seed phrase to authorize a
+[13:35] transaction if you've got your 12 or 24
+[13:37] words you can spend any Bitcoin within
+[13:39] that Wallet multisig requires multiple
+[13:42] seed phrases to sign off on transactions
+[13:46] so first when you create your wallet
+[13:48] firstly you'll decide how many seeds
+[13:50] exist in this wallet and secondly you'll
+[13:52] decide how many seeds are acquired to
+[13:55] spend Bitcoin for example a very common
+[13:58] multi- setup is two of three and that
+[14:01] means there's three seed phrases in that
+[14:03] wallet but you require two signatures so
+[14:06] two of those seeds will be needed to
+[14:08] spend Bitcoin so it kind of depends
+[14:11] um the way we classify it is how many
+[14:14] seeds are required to spend single Sig
+[14:17] requires a Single Seed a single
+[14:19] signature multi requires multiple
+[14:21] signatures or multiple
+[14:25] seeds what's your thoughts on on uh
+[14:28] collaborative multi signature where you
+[14:31] have one entity in this I don't know
+[14:34] three or five or whatever how many keys
+[14:36] you have uh uh is a company in the end
+[14:40] of the
+[14:41] day yeah I think generally it's a good
+[14:43] idea to do that um if you want multisig
+[14:46] uh you just need to ensure that it's
+[14:48] done in a trust list way you should not
+[14:50] be trusting that third party they should
+[14:52] only ever have one seed phrase they
+[14:54] should never have the right to spend
+[14:55] your coins so for example most of them
+[14:58] are
+[14:59] uh you set it up with them it's two of
+[15:01] three seed phrases are required to spend
+[15:04] they only generate one seed phrase so
+[15:06] you're not trusting you don't really
+[15:08] trust them with your Bitcoin you trust
+[15:10] them to hold one seed in case you lose
+[15:12] one of your two but they don't have
+[15:14] access to your coins and that's key in
+[15:15] my opinion um otherwise I think it's
+[15:19] generally a good idea if you if you want
+[15:20] to um distribute your coins and you
+[15:22] don't have uh different multiple
+[15:24] locations to geographically distribute
+[15:27] them it's it's not a bad idea to do
+[15:31] that uh one thing I will say actually
+[15:33] though is if you're dealing with a small
+[15:34] amount of Bitcoin you have to think is
+[15:37] it worth it to do that because they do
+[15:40] charge the monthly or the yearly fee so
+[15:42] if you're not dealing with a lot of
+[15:43] Bitcoin perhaps the fee doesn't justify
+[15:46] how many coins you
+[15:47] have absolutely I mean I mean uh it's
+[15:51] also an interesting discussion in in
+[15:52] Bitcoin because you also have to think
+[15:54] about the the the future of value of it
+[15:59] and uh who who said that um I think Rick
+[16:01] said it on my podcast the the one who
+[16:04] lost 25
+[16:06] Bitcoins uh I don't know if you if you
+[16:08] know the story uh but yeah he had had it
+[16:12] in self custody and he lost 25 Bitcoin
+[16:14] and he said something very interesting
+[16:16] in the end of the podcast secure your
+[16:18] Bitcoin uh in the best way before you
+[16:21] get hilariously Rich so that that was
+[16:24] that was something interesting to think
+[16:25] about uh like do do do it uh in calmness
+[16:30] uh before uh your your Bitcoin 2x's or
+[16:34] 5x's and maybe like okay think about
+[16:37] your Bitcoin stack and like okay what if
+[16:39] this uh five X's now uh would I take
+[16:42] different care of of of those Bitcoin
+[16:45] because it might well does yeah yeah
+[16:48] secure your Bitcoin as if it were worth
+[16:51] 10x the current
+[16:52] value is that's a good rule yeah I think
+[16:57] um I've heard nvk said that quite a lot
+[16:59] I'm not sure who came up with it but
+[17:00] I've I've definitely seen that make the
+[17:02] rounds on
+[17:04] Twitter it it makes sense because uh
+[17:07] it's it's like 10x is it will not happen
+[17:10] probably not overnight but you should
+[17:12] think about the future and especially as
+[17:14] Bitcoin as we have a this low time
+[17:16] preference uh definitely what should
+[17:19] people uh stay away from you already
+[17:21] said uh um collaborative multi signature
+[17:24] where you only have the minority of the
+[17:26] keys is is one one thing is a self
+[17:29] custody Solutions where you're like okay
+[17:31] that's that's something you should be
+[17:33] aware of that's something you should uh
+[17:35] avoid uh in in any
+[17:39] situation yeah uh I think one of the key
+[17:41] things is to avoid complexity you don't
+[17:45] want to make your Bitcoin setup too
+[17:46] complex because you're going to lose
+[17:48] Bitcoin to user error rather than an
+[17:50] attacker um so I do like one-on-one help
+[17:53] sessions with people and I had a great
+[17:56] example of a lady she didn't really
+[17:58] really quite understand what she was
+[18:00] doing but she had a multi- setup but
+[18:02] each of her seed phrases had an
+[18:04] additional pass phrase on top and she
+[18:06] had no clue what she was doing and she
+[18:08] thought she lost her entire bcoin stack
+[18:10] thankfully she had her her seeds and her
+[18:13] pass raises backed up and we spent a few
+[18:16] hours testing it all and eventually we
+[18:18] got her Bitcoin so like I said earlier
+[18:21] you need to balance security with
+[18:24] complexity you need to keep it simple
+[18:26] this is a famous rule in Bitcoin it's
+[18:28] keep it simple stupid or keep it stupid
+[18:30] simple something like that and too much
+[18:33] complexity means you're going to shoot
+[18:35] yourself in the foot especially if you
+[18:37] do not know what you're doing that is
+[18:39] something very important I think a lot
+[18:41] of people tend to overlook uh they'll
+[18:43] hear multisig is the best way to secure
+[18:45] your Bitcoin and they'll just do it
+[18:46] without knowing really what's going on
+[18:49] and um I think multisig isn't for
+[18:51] everyone and increasing complexity isn't
+[18:53] for
+[18:55] everyone I love that a lot very cool uh
+[18:57] in terms of
+[18:59] uh doing it uh yourself versus doing it
+[19:01] with a with a partner how do you look
+[19:04] look at that like do are you
+[19:06] recommending people actually go ahead
+[19:07] and and study it uh deeply or like okay
+[19:10] no like uh have a because there are so
+[19:13] many different uh there's like this the
+[19:15] service providers I would say with like
+[19:18] Unchained and Cara and and that kind of
+[19:21] a thing then there's like um advisors
+[19:25] like the Bitcoin way the Bitcoin
+[19:26] advisory and yourself you you can book a
+[19:29] session with you uh and then there's
+[19:32] like the the hardcore way of like you
+[19:34] look everything up yourself and you you
+[19:37] do it uh the the way you how do you look
+[19:40] at um those kind of options yeah I think
+[19:45] you need a bit of both right you need to
+[19:47] definitely understand what you're doing
+[19:48] yourself because even if somebody does
+[19:50] advise you through it all and you don't
+[19:52] really know what you're doing it's not
+[19:53] very uh it's not a good idea Bitcoin is
+[19:56] your responsibility at the end of the
+[19:57] day it's not somebody else's resp
+[19:58] responsibility so you must understand
+[20:00] the structure of your setup what's
+[20:02] required to access your coins what you
+[20:04] need to secure what needs to be backed
+[20:06] up but definitely working with people
+[20:08] who've done this for years is is a good
+[20:10] idea because they know the best
+[20:13] practices they know exactly what you
+[20:15] need to do to secure the coins but you
+[20:18] can't just rely on them to do it for you
+[20:20] you need to understand exactly what
+[20:22] you've done and hopefully everyone you
+[20:24] know all these advisories are explaining
+[20:26] to you exactly what your setup is how it
+[20:28] works and if they aren't there to help
+[20:31] you tomorrow what you need to do to
+[20:33] spend your coins or what you need to do
+[20:35] to back them up and secure them so
+[20:38] there's a bit of both advisories um I
+[20:40] think there it's great for somebody to
+[20:42] give you a helping hand but you do need
+[20:43] to understand what what you're being
+[20:45] helped with and what exactly you've done
+[20:48] I partnered up with coin vigilante this
+[20:52] is the most beautiful Bitcoin time piece
+[20:55] that I ever saw created by anyone look
+[20:57] at that Beauty I love it so much coin
+[21:00] vigilante made and perfect Bitcoin watch
+[21:03] that's the perfect subtle elegent way to
+[21:06] go out there and show that you are a
+[21:09] bitcoiner and that watch brand is
+[21:12] Bitcoin only and coin Vigilant just
+[21:15] dropped a completely new and amazing
+[21:17] Genesis edition of their watch
+[21:20] collection you have the date of the
+[21:22] first ever mined Bitcoin Block in there
+[21:26] and of course also the block height and
+[21:28] which Epoch we are currently in I love
+[21:32] the level of detail they put in in this
+[21:34] masterpiece and make sure to check out
+[21:37] those amazing coin vigilante time pieces
+[21:40] down in the descriptions I love those
+[21:42] watches so so much if you watch or
+[21:46] listen to my podcast on a regular basis
+[21:48] I'll guess you already bought some
+[21:50] Bitcoin and now the most important step
+[21:53] is to keep the Bitcoin keep them secure
+[21:56] in a hardware wallet my personal
+[21:58] commentation for hard wallet is the
+[22:00] bitbox it's super secure it's simple to
+[22:03] set up it's also perfect gift for a
+[22:05] friend who has still the Bitcoin on an
+[22:08] exchange and you can get a 5% discount
+[22:11] with the code Robin at the checkout
+[22:13] visit bitbox do Swiss robobin to get
+[22:17] your bitbox and the next step is to
+[22:20] really level up your sovereignty as an
+[22:22] individual you have to have the most
+[22:25] secure self custody setup you have to
+[22:27] secure your own devices you have to
+[22:30] protect your privacy you have to set up
+[22:33] an inheritance plan and depending on
+[22:35] where you live you even want to have a
+[22:38] plan B a citizenship where you can move
+[22:41] in case something goes really really
+[22:42] wrong and through all those steps the
+[22:44] Bitcoin way is guiding you through step
+[22:47] by step and if you visit the Bitcoin
+[22:50] way.com
+[22:51] Partners SL robobin you even get a 30
+[22:54] minute free call to find out how you can
+[22:57] level up your sovereignty yeah I I think
+[23:01] a great question that everyone should
+[23:03] ask themselves if they work with with
+[23:05] someone else is like I mean it's a great
+[23:08] question even if you do it yourself like
+[23:10] what happens if that advisor is tomorrow
+[23:13] not there and you want to recover your
+[23:15] uh your Bitcoin what what do you do do
+[23:17] you have actual control over everything
+[23:19] and uh do you know do you know it well
+[23:23] enough without calling them because they
+[23:26] might not like they might not there so I
+[23:29] think that's a really important uh step
+[23:32] that people really Overlook sometimes
+[23:36] yeah yeah the the best question is if
+[23:39] you lose your Hardware wallet you lose
+[23:40] your computer you don't have the advisor
+[23:43] anymore can you recover your Bitcoin via
+[23:46] the seed phrase or whatever backups you
+[23:48] have and um yeah if you can't then there
+[23:51] might be a problem and you should do a
+[23:52] bit more
+[23:54] studying I love that so like you lose
+[23:57] your computer your Hardware wallet and
+[23:59] you don't have access to the advisor uh
+[24:01] you still have access to a Bitcoin yes
+[24:03] or no like that that kind of question I
+[24:07] love it a lot really cool um let's look
+[24:10] at uh uh Bitcoin hard wallets
+[24:13] obviously uh uh full disclosure I mean
+[24:15] everyone knows that uh bitbox is one of
+[24:18] my sponsors uh on the podcast as also
+[24:21] the Bitcoin way is uh so I'm not
+[24:25] entirely
+[24:26] objective hopefully you more than than
+[24:29] me uh but I like bit bitbox just as an
+[24:32] really easy to to find your way into the
+[24:35] self custody game and then like for me
+[24:37] the Bitcoin way is a good way of like uh
+[24:40] okay how go do I go really deep on the
+[24:43] topic and really think about something
+[24:45] uh way more secure than just one uh
+[24:48] Hardware wallet but uh in terms of
+[24:51] Hardware wallets uh what do you
+[24:53] generally look at I know there's like
+[24:55] air gap and not air gap there's
+[24:57] different kinds of hard wallets with
+[24:59] like touch screens uh there's hard walls
+[25:01] with buttons there's hard wallets with
+[25:04] all kind of different designs uh how how
+[25:06] do you in generally judge a hardware
+[25:09] wallet if you like it or not and for
+[25:12] what situation also yeah I think one of
+[25:15] the most important things is whether the
+[25:17] source code is viewable or open source
+[25:20] or not so we all know famously that
+[25:22] ledger is closed source and not many
+[25:25] people trust Ledger because you can't
+[25:27] tell what they what exactly they're
+[25:28] doing behind the scenes you don't know
+[25:29] what your Ledger device what the code is
+[25:32] is doing so that's the the first
+[25:34] starting point I think is is your device
+[25:37] open source or not I know bitbox is open
+[25:40] source and cold card is Source viewable
+[25:42] there's a lot of debate over cold card's
+[25:45] open source status I believe they say
+[25:47] they're open source or they say they're
+[25:49] Source viewable so you can see the code
+[25:51] but you cannot replicate or use that
+[25:52] code for your own um
+[25:55] project what is the difference there
+[25:57] like if if I can see the co code why can
+[26:01] I not use it yeah so cold card's license
+[26:04] I may be um I don't know the the exact
+[26:06] details but from my understanding is
+[26:08] that you can view the code but you
+[26:09] cannot actually use that code for your
+[26:11] own business ventures or you can't you
+[26:14] can't duplicate it and um you know use
+[26:17] it yourself and the one of the key
+[26:19] arguments there is that if somebody else
+[26:21] can't use your code they have no
+[26:23] incentive to review it and um upgrade it
+[26:26] if need be where if you can use let's
+[26:29] say a bit boxes code and you you you
+[26:31] have an incentive to review it because
+[26:33] maybe you'll use it you'll you'll check
+[26:35] it for any bugs or anything like that
+[26:38] and if you identify a bug you'll
+[26:39] probably notify bitbox and uh they'll
+[26:41] they'll fix that bug so that is um the
+[26:45] the the key difference is that you can't
+[26:47] copy code it's a legal
+[26:50] difference yes yes okay now I got it
+[26:54] yeah yeah and um what are what are other
+[26:59] good things for a a hardware
+[27:01] wallet um I think track record is a good
+[27:04] thing you know you don't want to really
+[27:06] want to be using a hard wallet that
+[27:07] dropped two months ago and um it doesn't
+[27:11] have a long history of working well it
+[27:13] hasn't been battle tested for example
+[27:15] the treasure is the first Hardware
+[27:17] wallet the treasure is the most battle
+[27:19] tested Hardware wallet and we we know
+[27:23] that it's pretty secure there was a
+[27:25] issue with the old Treasures where you
+[27:27] could extract the seed phrase if you
+[27:29] were very sophisticated and you had the
+[27:31] physical device now trees's introduced a
+[27:34] secure element chip so you can't
+[27:35] actually do that anymore but battle
+[27:38] tested is a is a very good thing bitbox
+[27:40] cold card treaser are all pretty battle
+[27:43] tested another one I like air gap but I
+[27:47] know there is an argument that air gap
+[27:48] doesn't really make a difference because
+[27:50] at the end of the day you're still
+[27:51] communicating via SD card with your
+[27:55] computer I know uh when you plug in
+[27:58] something you're still communicating
+[28:01] data some people will argue that via SD
+[28:05] card you can tell what that data is but
+[28:06] when you plug it in it's it's more blind
+[28:08] you can't exactly tell what What DOT is
+[28:11] being communicated so I like a gap some
+[28:13] people will argue that it doesn't really
+[28:14] make a
+[28:16] difference and um another one is altcoin
+[28:21] support if you're Bitcoin owning people
+[28:23] like tend to like a Bitcoin only device
+[28:25] because the developers hyperfocus on
+[28:28] securing Bitcoin they don't have this
+[28:29] noise of just securing a thousand random
+[28:32] shitcoins so that is another one another
+[28:36] thing I look for in a hardware wallet
+[28:38] for for this air G uh air g means uh
+[28:42] there's no cable between your Hardware
+[28:44] wallet and your computer but you still
+[28:46] have to communicate and the
+[28:48] communication is then an SD card yeah SD
+[28:51] card or QR code or I believe NFC as well
+[28:55] is there I mean I'm I'm not technically
+[28:57] enough for that actually and air G was
+[29:00] always one topic where I'm I was like a
+[29:04] little bit like why do we need air gap
+[29:07] like if if there's like an communication
+[29:09] line in the computer like does it even
+[29:11] matter like what communication line it
+[29:13] is and and for people it's really easy
+[29:15] especially for newcomers like just like
+[29:17] take take your cable and plug it in the
+[29:20] in the commuter that's how they they
+[29:21] used to do it um but what's the argument
+[29:23] for like using an air gaped um uh
+[29:27] Hardware wallet yeah so the argument is
+[29:30] that if you plug something directly into
+[29:32] your computer you're you're plugging it
+[29:35] into an Internet connect device and that
+[29:37] has a direct link between your Hardware
+[29:39] that's securing your seat phrase and the
+[29:42] computer and you can't really tell what
+[29:43] information is being transmitted between
+[29:46] the two so for example if you're
+[29:49] plugging in a ledger into your computer
+[29:51] you can't read the code of that perhaps
+[29:55] the the computer can access your seed
+[29:57] phrase who knows the the argument with
+[30:00] airgap is that because it's never even
+[30:02] plugged into a internet connected device
+[30:05] that's just not possible because it
+[30:07] never it never touches an Internet
+[30:10] connected device you use it fully air
+[30:12] gapped but there is still some
+[30:14] communication you still need to use your
+[30:16] computer to build Bitcoin transactions
+[30:19] you take your SD card or your QR code
+[30:21] you plug it into the egap device and you
+[30:23] sign that transaction and the SD card
+[30:25] goes back into the computer there is
+[30:28] communication there but it's it's more
+[30:30] easy to audit you can see exactly what
+[30:32] the cold card's written to the SD and
+[30:34] you can see what your computer's written
+[30:35] to the SD card where with if you're just
+[30:38] plugging it you know in a in a ledger
+[30:39] you can't really tell what's what's
+[30:41] being transmitted between the
+[30:42] two so there is not one Hardware wallet
+[30:46] that is completely actually air gap that
+[30:49] has Absolut no communication outside of
+[30:51] that Hardware wallet because you always
+[30:52] have to communicate
+[30:54] somehow yeah well well air gap is per
+[30:57] def finish and it just means it doesn't
+[30:59] connect directly to the computer so the
+[31:01] cold card can be used fully air gapped
+[31:03] but you still do need to communicate
+[31:05] somehow and um it is air gapped right
+[31:09] but the uh that just means you're not
+[31:12] plugging it directly into the computer
+[31:14] you still communicate via SD interesting
+[31:16] yeah uh maybe maybe a question that uh
+[31:19] is stupid but uh like why not making an
+[31:25] hard wallet where you can do everything
+[31:28] on on there and and you don't need a
+[31:30] computer don't need a communication to
+[31:33] computer directly is is it possible to
+[31:35] build a computer inside of the hard
+[31:37] wallet to do it all all
+[31:40] there um the thing is you need to
+[31:42] actually broadcast your Bitcoin
+[31:44] transaction to the network so there does
+[31:46] need to be some sort of connection to
+[31:48] the internet and if you had a hardware
+[31:51] device that did connect to the internet
+[31:52] you would be defeating the purpose of
+[31:54] the hardware device um the the point is
+[31:57] to be completely off offline so even
+[31:58] building your your Bitcoin
+[32:00] transaction uh that needs to be done
+[32:02] connected to the internet so that you
+[32:04] can fetch your transaction history you
+[32:07] can fetch your Bitcoin balance and you
+[32:09] can build that
+[32:11] transaction um you know with all that
+[32:13] information
+[32:14] absolutely I that that's a really good
+[32:18] point like if if you build everything
+[32:21] you need into the hardare wallet uh then
+[32:24] it's kind of like uh no longer offline
+[32:28] it's an online device and then it's like
+[32:30] a a hot wallet in that moment uh then
+[32:33] moving forward yeah really good it's
+[32:36] basically then a phone if you have a
+[32:38] wallet on your phone it's it's it's kind
+[32:39] of that even though like different but
+[32:41] it's it's it's uh it's kind of that then
+[32:44] um you have a pin tweet is really also
+[32:46] interesting and and fitting in that
+[32:48] topic with how secure is your your
+[32:50] backup phrase and uh I actually got that
+[32:54] question I think
+[32:56] like I think I'm a month ago or
+[32:58] something like that uh from uh a person
+[33:02] that says like was like kind of like
+[33:05] into Bitcoin and he was asking me okay
+[33:07] how Bitcoin he's already why Bitcoin but
+[33:09] he's like now how Bitcoin and he asked
+[33:11] me oh the 24 words and then I was like
+[33:14] then he was asking where are those words
+[33:16] coming from I was explaining him like oh
+[33:18] it's a set of words then then I can
+[33:20] guess it like right then I just like
+[33:22] running through a computer programing
+[33:24] and guess anyone's codes uh I also
+[33:28] remember one funny tweet uh where
+[33:30] someone was like oh I guess someone's uh
+[33:33] someone's Hardware wallet uh but there's
+[33:36] no Bitcoin on there so I guess someone's
+[33:38] backup seed phrase but there's no uh
+[33:41] Bitcoin on there no you just created a
+[33:42] new wallet um but talk talk to me like
+[33:46] why this is nonsense and and what also
+[33:49] you covered in that short video that
+[33:51] that you pinned to to your profile yeah
+[33:55] so that video is very fascinating um my
+[33:57] my PIN tweet on Twitter it's a 24w seed
+[34:01] phrase is 256 bits so it's 256 ones or
+[34:05] zeros and your seed phrase is just
+[34:07] essentially a random number a whole
+[34:10] bunch of ones and zeros until you reach
+[34:12] 256 characters and because of the you
+[34:15] know the power of exponentials it's it's
+[34:18] actually very difficult for the human
+[34:20] mind to comprehend how large that number
+[34:23] is and how statistically impossible it
+[34:26] is to recreate that number
+[34:28] and in that video I explained that
+[34:30] guessing 124w seed phrase is equivalent
+[34:34] I can't remember exactly the video I
+[34:35] filmed quite a while ago but it's
+[34:38] equivalent to guessing something like a
+[34:39] star in the random Universe if you get
+[34:42] that right you need to guess a grain of
+[34:45] sand on earth if you get that right you
+[34:47] need to guess a human cell in the body
+[34:50] and if you get that right there was one
+[34:52] more thing you had to guess some
+[34:53] ridiculous thing and and you that's
+[34:55] equivalent to cracking a seed phrase
+[34:58] so just because of the power of
+[35:00] exponentials and huge numbers
+[35:02] replicating a seed phrase is just
+[35:04] impossible and that and then uh if if
+[35:07] you have a lot of Bitcoin you should
+[35:08] also have it in in multi and this makes
+[35:11] it uh on top of impossible double
+[35:15] impossible I guess yeah yeah with multi
+[35:18] as well you need um let's say you have
+[35:21] two of three multisig this will be quite
+[35:24] um complex but if you have two of three
+[35:26] multisig you
+[35:28] you can't only guess two seeds if you
+[35:30] guess two seeds you still can't spend
+[35:32] the Bitcoin you actually need to guess
+[35:34] three seeds even though you only need
+[35:36] two to spend because you need three
+[35:38] public Keys you need the public key for
+[35:41] each seed phrase and then you can use
+[35:43] the two the two uh that whichever two
+[35:45] you pick so the it's already impossible
+[35:48] to crack a 24 seed phase cracking three
+[35:51] of
+[35:52] them triple impossible impossible times
+[35:56] three yeah impossible times times three
+[36:00] I love that a lot yeah but it's it's uh
+[36:03] I guess begin a question that comes up a
+[36:06] lot I I still see it yeah I was like oh
+[36:08] yeah then I can just
+[36:10] guess
+[36:12] Wall go to math class yeah yeah um one
+[36:18] one more topic that I wanted to discuss
+[36:20] with the uh Bitcoin hard wallet thing
+[36:22] and I hope we we kind of covered the the
+[36:25] the beginnings of everything a little
+[36:27] bit like people have like an overview of
+[36:29] that and then can go deeper in some some
+[36:31] topics um utex o management I think it's
+[36:35] something that is overlooked a lot even
+[36:37] with people that have hard wallets and
+[36:39] even though uh you have um a little bit
+[36:43] of an understanding how to secure a
+[36:45] Bitcoin um I made a whole um one hour
+[36:49] video with vicet on uto management uh
+[36:52] maybe I I I think about it when I
+[36:54] publish the video and and Link it or you
+[36:56] can just like uh search vicet on on my
+[36:59] YouTube channel it will also pop up um
+[37:02] but what is the importance of utex O
+[37:05] management when thinking about uh self-
+[37:07] custody and and why should someone even
+[37:10] begin to uh research what is you
+[37:14] management yeah so the best way to think
+[37:16] about it is this is the example I like
+[37:19] to give people you have a wallet just a
+[37:22] normal wallet in real life W with your
+[37:24] notes and your coins in would you rather
+[37:26] have a $100 in that wallet or would you
+[37:29] rather have
+[37:30] $11 coins I don't know what coins they
+[37:33] use in the States but I'm sure there's a
+[37:35] dollar coin so would you rather have a
+[37:37] $100 note or 100 single coins of course
+[37:40] you'd rather have the $100 note and
+[37:43] Bitcoin wallets are are similar you
+[37:45] don't want a whole bunch of small little
+[37:47] Bitcoin uh amounts in your wallet you'd
+[37:50] rather have larger amounts and the
+[37:52] reason for this is by the way let's
+[37:55] first explain what a utxo is every time
+[37:58] you receive Bitcoin you receive a new
+[38:01] utxo every transaction is a new
+[38:05] utxo and if you have let's say you've
+[38:08] received Bitcoin 10 times you'll have 10
+[38:10] utxos if they're all small amounts you
+[38:13] don't that's like receiving 10 $1 coins
+[38:16] instead of
+[38:17] $10 and when it comes to bitcoin
+[38:21] transactions they're priced dependent on
+[38:23] how much space you take on the
+[38:25] blockchain there's this conception that
+[38:28] if you spend uh like in the Fiat system
+[38:31] they'll charge you a transaction fee
+[38:33] based on the amount where in Bitcoin it
+[38:35] charges you based on how much space you
+[38:37] take on on the
+[38:39] blockchain so if I need to spend 10
+[38:42] utxos or 10 $1 coins that's going to
+[38:45] take a lot of space and effort to spend
+[38:48] where if I have just a $10 note it's
+[38:50] equivalent to one utxo it's a lot more
+[38:53] efficient and therefore you pay less in
+[38:56] fees
+[38:57] so the more utxos have the more
+[39:01] expensive your Bitcoin transactions are
+[39:03] the solution is to combine your utxos
+[39:06] together to create larger utxos and have
+[39:10] fewer of them it's equivalent to taking
+[39:12] your dollar coins going to the bank
+[39:15] giving them 10 and getting them a $10
+[39:16] note back and when you spend coins
+[39:20] instead of spending 10 ones you spend a
+[39:22] $10 you're taking less space less fees
+[39:25] and you're going to save a lot of money
+[39:27] one of the key problems is people are
+[39:29] like dcing Bitcoin every week they buy
+[39:31] $100 and it's draw to self- custody if
+[39:34] you've got $1,000 you've got 10 utxos
+[39:37] it's better to build a balance first
+[39:40] then withdraw so you have one large
+[39:42] utxos instead of 10 small ones spending
+[39:45] becomes a lot cheaper I love that idea
+[39:47] and uh when there's like two things like
+[39:51] first of all you have a wallet already
+[39:54] and uh you want to combine them that's
+[39:56] basically making one transaction to the
+[39:58] same wallet to combine all this uh utxos
+[40:02] and then it's also like your utxo plan
+[40:05] of okay you accumulate Bitcoin on an
+[40:07] exchange and then you have yourself
+[40:10] custody solution um how do you go ahead
+[40:13] and transfer it I always uh hear the
+[40:17] amount of 1 million Sates uh you have to
+[40:20] gather then uh transfer it um is 1
+[40:24] million satos is enough uh what should
+[40:27] people do that uh where like 1 million
+[40:30] soses is like uh a lot of money already
+[40:33] like it's like a half a year of stack or
+[40:35] something like that uh what do you how
+[40:37] do you think about that yeah um firstly
+[40:40] one thing I will say is when I when I'm
+[40:41] explaining utxos it's a bit hard to
+[40:43] explain it without a visual visual
+[40:45] representation so I've got a YouTube on
+[40:48] video uh YouTube video on UT so
+[40:50] management where I actually run through
+[40:51] it in sparrow and I compare the fees and
+[40:54] it's a bit easier to explain when you
+[40:56] you've got a wallet open
+[40:57] so if that was a bit confusing I I would
+[40:59] recommend watching that and then
+[41:01] regarding minimum utxo size I think it
+[41:04] really depends on your stack size and
+[41:07] what you do with your Bitcoin because if
+[41:09] you're spending Bitcoin you're going to
+[41:11] treat your utxo very differently to a
+[41:13] long-term hler if you strictly long-term
+[41:16] holding I would say a million sets is a
+[41:19] a good amount if you're spending Bitcoin
+[41:21] every day you don't need to have a
+[41:23] million set utxo you can get away with
+[41:25] having 100 sets and if you you know
+[41:27] spending
+[41:29] Bitcoin so I have two wallets two main
+[41:33] types of wallets I've got a long-term
+[41:37] huddle stack and a spending stack for
+[41:40] your long-term huddle stack 01 Bitcoin
+[41:43] or a million SATs is a good minimum I
+[41:46] would say is it is that a million yeah 0
+[41:48] Z1 is a million sets I think Point a01
+[41:52] yes yeah that's a good amount yeah for
+[41:55] your shortterm stack you can get get
+[41:57] away with having a a smaller amount
+[41:58] maybe 100,000 sets but it also depends
+[42:02] on how much Bitcoin you have if you have
+[42:03] 10 coins do you really want a
+[42:06] 01 maybe you want a one Bitcoin as your
+[42:10] minimum so it depends on two things your
+[42:13] stack size and what you do with your
+[42:15] coins is it short to medium-term or is
+[42:16] it
+[42:17] longterm but 01 generally speaking is a
+[42:20] good
+[42:21] minimum absolutely really cool and also
+[42:24] one thing that uh I only learned
+[42:27] actually uh I think like 10 months ago
+[42:30] or something like that when you have
+[42:32] multi obviously then uh it it comes a
+[42:36] you need a little bit more if you want
+[42:38] to have the same security uh so like uh
+[42:42] with with single Sig and multis there's
+[42:44] a small difference where you need a
+[42:46] little bit more of Sates to be safe uh I
+[42:50] guess if you have the same image yes
+[42:53] yeah well yeah the thing is with multi
+[42:56] like I was explaining earlier Bitcoin is
+[42:58] price dependent on how much space you
+[43:00] take on the blockchain because multisig
+[43:03] requires multiple signatures you're
+[43:06] actually leaving more data and you're
+[43:07] taking up more space on chain because
+[43:10] there's simply more signatures
+[43:12] involved so exactly I think 01 could be
+[43:16] okay for multisig just understand that
+[43:18] when you spend that the fee will be
+[43:19] higher for multisig than it will be for
+[43:21] single
+[43:22] Sig absolutely yeah uh when should
+[43:26] someone go go up to a layer two like
+[43:29] what is the amount of Bitcoin where you
+[43:30] say like that that is like uh you you're
+[43:34] getting uh you're spending so much on on
+[43:38] on fees on the layer one already uh it
+[43:41] makes sense to have like a stack just on
+[43:43] on on a lightning layer too for
+[43:46] example yeah yeah again I think this
+[43:49] depends on what you're doing with your
+[43:51] Bitcoin here in South Africa we've got a
+[43:53] lot of places to spend Bitcoin and a lot
+[43:55] of my friends are orange pilled so
+[43:57] because I'm capable of using lightning
+[44:00] daily if I want to and because I I'm my
+[44:03] friends and I transact over lightning it
+[44:05] makes sense for me to have a fair amount
+[44:07] of Bitcoin en lightning maybe um what is
+[44:11] 100,000 sets I can't even the price is
+[44:13] too volatile to know but 200,000 sets
+[44:16] may be enl lightening for me but if
+[44:18] you're somewhere where you can't
+[44:20] actually use lightning um you're not
+[44:22] using it you you don't have somewhere to
+[44:23] spend it you don't have friends you can
+[44:25] transact with I don't know really know
+[44:27] if you even need lightning in the first
+[44:29] place um for for larger amounts I just
+[44:33] always do on
+[44:35] chain
+[44:36] and 100,000 toes are currently 72 uh US
+[44:42] Dollars 72 so that that because like one
+[44:47] million zes you get now for
+[44:50] 721 uh US Dollars obviously the current
+[44:53] price uh then it will fractur uh because
+[44:57] yeah and then 10 million 7,000 and then
+[44:59] like 100 million because 100 million
+[45:01] Sates is one Bitcoin uh
+[45:04] 72,000 100 currently so we we I think we
+[45:08] did did we hit yesterday the alltime
+[45:10] high I we yeah we didn't I've been
+[45:14] watching actually I've had the chart
+[45:15] open with the alltime high marked and no
+[45:17] we didn't quite surpass it yeah it's
+[45:20] it's it's it's a frustrating we were so
+[45:22] close what I think we just like a few
+[45:24] hundred or like a $1,000 or something
+[45:27] from it yeah yeah like a thousand yeah
+[45:31] thousand frustrating frustrating
+[45:34] yeah really cool um perfect before we
+[45:37] come to the end routine and and closing
+[45:39] this up is there anything that you wanna
+[45:41] add to this episode anything that you
+[45:42] feel like is missing in in that
+[45:45] discussion where like okay let's let's
+[45:46] let's add that uh thing also here yeah
+[45:50] um I will say a lot of the the when
+[45:52] people ask how much Bitcoin should I
+[45:54] have enlightening or what should my
+[45:55] minimum utx so it's very difficult to
+[45:58] answer without knowing what exactly you
+[46:00] do with Bitcoin and um how much you have
+[46:03] these are the difficult questions to to
+[46:05] just give estimates for because if you
+[46:08] have 0.1 Bitcoin and you have 10 Bitcoin
+[46:10] your utxo management is very different
+[46:13] you should treat it very differently if
+[46:15] you have 0.1 Bitcoin perhaps you have a
+[46:18] 07 Bitcoin and a 03 for maybe shorter
+[46:22] term to medium-term spending I don't
+[46:24] know if you have 10 Bitcoin maybe you
+[46:26] don't want any utxos under one coin and
+[46:28] your long-term hling so it's very tough
+[46:31] to to answer these questions and it
+[46:32] really depends on your size and I think
+[46:35] you need to understand um utxos how the
+[46:39] fees work and then come up with your own
+[46:42] um plan but generally if you are a
+[46:45] long-term hler you've got a decent
+[46:47] amount of Bitcoin 01 is a a good amount
+[46:49] to uh have as a
+[46:51] minimum uh another thing is I spoke
+[46:55] about earlier is again I'll bring this
+[46:57] up again is the complexity balancing
+[46:59] complexity and security it is perfectly
+[47:01] fine to start slow um especially if
+[47:04] you're dealing with smaller amounts if
+[47:06] you've just got into Bitcoin use a hot
+[47:09] wallet people uh tend to disagree with
+[47:13] this they say never use a hot wallet
+[47:14] always have cold storage I store Bitcoin
+[47:16] in hot wallets I have a decent amount of
+[47:18] in hot wallets and I use that for medium
+[47:20] to shortterm spending and I've never had
+[47:23] a problem hot wallets are a lot more
+[47:24] secure than people actually think so
+[47:27] it's okay to start with the hot wallet
+[47:29] understand seed phrases understand how
+[47:30] to receive and send Bitcoin and once
+[47:32] you've been stacking for a few months
+[47:34] you've got a decent amount of Bitcoin
+[47:36] get your first Hardware wallet and you
+[47:38] know work from there you've got a
+[47:40] hardware wallet understand how it works
+[47:42] you can sign Bitcoin transactions
+[47:45] offline and uh get familiar with that
+[47:47] Tech then look into maybe increasing
+[47:49] complexity if you have a lot more
+[47:51] Bitcoin consider a pass phrase or
+[47:53] consider a multisig so I'm a firm
+[47:55] believer a big believer in that your
+[47:57] setup should evolve over time you
+[47:59] shouldn't get Bitcoin and jump into
+[48:01] multisig it should be a a stepbystep
+[48:05] process absolutely I love I love that a
+[48:08] lot really cool perfect then uh let's
+[48:11] come to the end routine or not the end a
+[48:13] question that I ask every one of my
+[48:15] guests uh is what can we learn from you
+[48:18] besides all things Bitcoin what can you
+[48:21] learn from
+[48:22] me I'm not sure uh
+[48:27] about my whole life has been Bitcoin I
+[48:29] don't know I uh I'm only 21 years old
+[48:32] and basically everything I've done with
+[48:34] my life is Bitcoin so I love to train I
+[48:38] love to train uh boxing MMA go to the
+[48:42] gym so if you want to do pads that's
+[48:45] what you can learn from me I guess
+[48:47] really cool a lot a lot it is I L that a
+[48:50] lot with with training and and uh I I
+[48:54] right now actually I think like a few
+[48:56] days ago
+[48:57] uh on on Monday I switched from uh Jim
+[49:01] to callisthenics now because I wanted to
+[49:03] try something from new out and it's
+[49:05] really challenging for me because I'm so
+[49:08] tall I'm two meters and and jym is way
+[49:10] easier if you're two
+[49:12] meters callisthenics is really um
+[49:15] something challenging for me but I
+[49:17] always like to do that really cool and
+[49:19] you're boxing and that's your main
+[49:21] training uh thing or do you also trim or
+[49:23] something else yeah I train um some form
+[49:27] of martial arts Mo Tha or boxing twice a
+[49:29] week and then I also have a gym
+[49:31] membership so I'll go there other three
+[49:34] or four days of the week really cool
+[49:37] thank you so much uh we have end in the
+[49:38] podcast where uh the previous guest is
+[49:41] actually asking asking a question for
+[49:42] the next guest without knowing who the
+[49:44] next guest actually will be and the
+[49:46] question for you is from the previous
+[49:48] guest will Bitcoin become a world
+[49:50] Reserve currency in our lifetime in yeah
+[49:54] yes I would say so in my lifetime
+[49:57] yes perfect So within the next like 80
+[50:01] to 90 years or maybe 100 years depending
+[50:03] on uh uh life
+[50:06] expectancy yeah unless something tragic
+[50:09] happens yeah absolutely really cool
+[50:12] thank you so much before I let you go um
+[50:15] where can people find you ask your
+[50:16] questions DM you watch your videos yeah
+[50:19] so on YouTube I'm Southern bitcoiner on
+[50:22] Twitter it's co Tu and then I have a
+[50:25] website Southern bitcoin.com and I help
+[50:28] people one-on-one with Bitcoin at
+[50:30] seats.com secure SATs was taken so it's
+[50:34] just seats.com oh I probably also secure
+[50:37] Bitcoin was was taking already yeah well
+[50:40] I like the s's I like that the secure
+[50:42] set so secure Bitcoin wasn't quite as
+[50:44] smoo yeah but I should consider that
+[50:47] actually um yeah really cool thank you
+[50:50] so much um Cole for being on also thank
+[50:52] you so much for everyone that is
+[50:53] watching and listening as always I'll be
+[50:55] back tomorrow with another episode
+[50:57] byebye cool cheers byebye everyone
+[51:00] [Music]

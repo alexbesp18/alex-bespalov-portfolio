@@ -1,0 +1,1409 @@
+Title: How to build a Bitcoin only Exchange | Adem Bilican
+Video ID: aq1pqxLxjF0
+URL: https://www.youtube.com/watch?v=aq1pqxLxjF0
+Date Saved: 2025-06-15 12:02:09
+--------------------------------------------------
+
+[00:00] we stop everything literally every
+[00:01] project no income 3 months we just build
+[00:04] whatever we can build and then we
+[00:06] release it was quite exhausting and
+[00:08] intense our son was born in June 27 2020
+[00:11] and July the 1st we just released relay
+[00:14] today 3 and a half years later we are 21
+[00:17] full-time employees and and killing it
+[00:20] you recommend to everybody having a
+[00:22] technical co-founder it's like it's like
+[00:25] a marriage this worked out really well
+[00:26] with my wife as well don't try to find
+[00:29] someone that is exactly like you try to
+[00:31] find someone who is filling in the part
+[00:33] that you're missing well what the
+[00:35] question oh you put it so well Rich
+[00:38] literally something that they would be
+[00:39] killing you you will not sleep you will
+[00:42] feel terrible you would just do whatever
+[00:44] it takes to to get it out what has to
+[00:46] happen on the on the Bitcoin layers the
+[00:49] more layers you have the more being
+[00:51] noncustodial becomes
+[00:53] challenging you were a developer and a
+[00:56] Founder uh before reala you did
+[00:59] something with blockchain projects uh
+[01:01] also they have some some tokens even um
+[01:05] how did you find your way to bitcoin and
+[01:07] even to a Bitcoin only exchange yeah I
+[01:09] think this had a big impact on me
+[01:11] finding the the right way because I
+[01:14] could see exactly what was happening in
+[01:16] these projects so I I was a developer so
+[01:22] um I got into the I heard about the
+[01:25] blockchain obviously I heard about
+[01:27] Bitcoin first and at the same time the
+[01:29] blockchain techn techology so I was
+[01:31] really into the the tech
+[01:33] initially and I
+[01:36] realized there was really a lot of
+[01:39] issues for these projects to reach Mass
+[01:42] adoption Mass adoption meaning that I
+[01:44] was so excited about crypto currencies
+[01:46] in general that I thought you know what
+[01:48] it's a Pity that not a lot of people can
+[01:51] use it and for me the bottleneck was
+[01:54] user experience so they all had to have
+[01:58] a proper Mobile Wallet and I was just
+[02:00] working on mobile platforms and I
+[02:02] combined both so I was implementing
+[02:05] mobile wallets for different crypto
+[02:08] projects and there it's relatively small
+[02:10] teams uh one was even less than 10
+[02:14] another one was a bit bigger but you
+[02:16] could already see the the human factor
+[02:20] the impact that this crypto projects are
+[02:25] not to me they're not solving any
+[02:29] Financial
+[02:30] aspect they are here they are
+[02:32] interesting in terms of Technology
+[02:34] because some of them really bring some
+[02:37] novelty um but most of them are just
+[02:40] technology startup I rather call them
+[02:43] startup they're not really crypto
+[02:45] projects for me and if anyone wants to
+[02:48] invest in their token or whatever they
+[02:51] should consider this as investing in a
+[02:53] startup more than investing in a
+[02:56] coin and in this small relatively small
+[02:59] project you can clearly see that taking
+[03:01] a decision is a matter of a few minutes
+[03:05] of discussion and then you take a new
+[03:07] decision so all of a sudden all the
+[03:10] people who invested in this coin they
+[03:13] depend on the on on on this decisions
+[03:18] that will be taken in in a in in a
+[03:20] meeting that they are not even part of
+[03:21] it so there's really not there is no
+[03:23] proper
+[03:24] consensus there is it really goes super
+[03:27] fast it's like oh yeah this is cool
+[03:29] let's do this and then all of a sudden
+[03:30] you see it implemented without being
+[03:32] able to you know take the time to think
+[03:35] about its impact and you just take
+[03:38] decision on behalf of all these
+[03:40] users this is where Bitcoin is
+[03:43] completely different that's the only one
+[03:46] where there is literally no CEO right
+[03:48] all the other crypto projects they have
+[03:50] a CEO most of them they have
+[03:53] investors so there is really the the
+[03:56] human impact that I really don't like
+[03:58] because as a human being we are easily
+[04:02] biased and this is what you don't have
+[04:04] in Bitcoin so I mean obviously there are
+[04:07] still humans taking decisions but there
+[04:08] is a consensus there is no marketing
+[04:11] department nobody is really trying to to
+[04:14] bring Bitcoin to the top or the top as
+[04:17] in um not not the price but just in
+[04:20] front of more people just because they
+[04:23] just they need to hear about it there is
+[04:25] a lot history historically speaking
+[04:28] physic philosophically speaking behind
+[04:31] Bitcoin that you don't have in all these
+[04:32] other projects did U because you just
+[04:36] mentioned it um reala is a VC company
+[04:40] like you have venture capital investment
+[04:42] you did not take the route of uh
+[04:45] launching a token or uh doing something
+[04:49] like that um could could this token
+[04:52] launching and disrupt kind of the VC
+[04:55] Market or the the stock market even or
+[04:59] will will there always be like
+[05:02] traditional investors and kind of a
+[05:05] stock market investors how do you see
+[05:07] that founding a company in maybe like
+[05:11] 2040 yeah actually we we are we take
+[05:15] care obviously of whoever is joining
+[05:17] really as an investor we we don't just
+[05:20] take anyone because they're bringing in
+[05:21] money obviously this is very important
+[05:25] from day one it's all the the culture
+[05:28] the vision of a startup this has to be
+[05:30] shared across the whole board and not
+[05:32] board as in as in uh as in the board
+[05:35] members but the whole team whoever is
+[05:37] part of relay and this also applies to
+[05:40] the users obviously this is something we
+[05:42] want to share and make sure that
+[05:43] everybody can is on the same page so it
+[05:47] is important from the beginning and um
+[05:50] it is important that we have V's on
+[05:52] board that knows about Bitcoin they know
+[05:56] exactly how it works they are in for the
+[05:58] long game
+[06:00] and we don't want anyone on board that
+[06:02] will be like two years we know that the
+[06:04] Visas we have on board two years later
+[06:05] they will not come in and say oh what
+[06:07] about this other token for them it's
+[06:10] clear from day one look guys we're
+[06:11] Bitcoin only this is what we are if
+[06:13] you're not interested if this is already
+[06:14] not a check for you then please uh do
+[06:17] you have plenty of other options out
+[06:19] there unfortunately in our last round we
+[06:22] also had uh EOD joining us which is a
+[06:25] Bitcoin only VC so um at the time when
+[06:29] we Lou we were still too small and I
+[06:31] think the the environment was not that
+[06:33] much like there were not so much Bitcoin
+[06:35] only VCS around especially for this uh
+[06:39] type of um startup it was really early
+[06:42] stage but now we have the luxury of
+[06:44] having also Bitcoin only VCS uh out
+[06:47] there and uh and even have them on on
+[06:50] board now uh with time chain concentric
+[06:53] all of this really they know what
+[06:55] they're talking about they know this is
+[06:57] Bitcoin and uh we don't need to worry
+[06:59] about this but then for other projects
+[07:02] it's obviously they are investing in in
+[07:04] a startup that they want to bring in
+[07:07] more the only way they can really make
+[07:09] money is bringing on some new coin or
+[07:11] some new token uh that might hopefully
+[07:15] make it somehow yeah it's it's
+[07:18] impressive uh staying at the Bitcoin
+[07:20] only link now there are some few
+[07:23] examples uh with rela with 21 Bitcoin
+[07:25] with coin Infinity like there are a lot
+[07:27] of Bitcoin only Exchange is now out
+[07:30] there but resisting the I say to it the
+[07:34] shitcoin casino money because I think uh
+[07:37] having a lot of shitcoins on the
+[07:39] exchange and I saw it with one the first
+[07:41] exchange I used was Bon it was a German
+[07:45] exchange uh and they were at the
+[07:48] beginning just like five tokens and it
+[07:51] was okay for me and at that time I was
+[07:53] also in ethereum uh but then I
+[07:56] completely changed away from from beon I
+[07:59] also made like a a really wild tweet
+[08:01] with like what exchange should I use and
+[08:03] there was like alsoa and 21 Bitcoin in
+[08:06] there like we had a lot of exchanges
+[08:08] there but um they brought up more and
+[08:11] more shitcoins and they're now I think
+[08:13] even now bringing in more and more of
+[08:15] this Shino I remember seeing that
+[08:18] message on my my phone seeing like oh we
+[08:22] now have Shino invest now your first
+[08:24] like it was so I was like this this
+[08:27] should not be on my phone I I don't want
+[08:28] that yeah but how like I think it's just
+[08:33] impressive that Rel could withstand that
+[08:35] that that seduction of of of U having
+[08:39] that money stream not how is it from an
+[08:42] economical bu standpoint has it uh
+[08:47] advantages besides the E ethnical
+[08:50] advantages uh having Bitcoin only
+[08:54] exchain it has both I mean obviously a
+[08:57] lot of advantages and and and as you
+[08:59] said maybe a few disadvantages as well
+[09:02] so maybe starting with the disadvantages
+[09:04] because they're very obvious and you
+[09:05] mentioned them it's it's easy money it's
+[09:09] just like if you are bringing
+[09:13] in x uh with all Bitcoin only you can
+[09:18] bring two x if you add this other crypto
+[09:20] and three x if you add three more and
+[09:22] four x if you had four more it's just
+[09:24] it's just easy math right and this is
+[09:26] what anyone would do it's like yeah but
+[09:29] if you're already it is working so well
+[09:31] with Bitcoin just add a few more and
+[09:33] this will double triple whatever your
+[09:36] revenues and and fortunately this is
+[09:39] nothing close to what we thought from
+[09:41] the beginning it was very clear for us
+[09:44] and it's also very good because it's
+[09:45] good to start with a niche it it helps
+[09:48] you
+[09:48] focus I think that's what we are very
+[09:51] good at being focused on just one thing
+[09:53] and being the best at it and this helps
+[09:55] this is this is true for for whatever uh
+[09:58] company St startup out there not only in
+[10:01] the the financial sector but wherever
+[10:02] you are you cannot just start trying to
+[10:05] reach out to everybody even if you want
+[10:07] it to we never want it anyway and and
+[10:10] the other way the the biggest Advantage
+[10:12] is whoever is on board really knows what
+[10:17] they're talking about and this is such a
+[10:21] a strength that you don't realize until
+[10:24] until you get there right
+[10:26] having every team member being purely on
+[10:30] bitcoin having VCS Bitcoin only VCS
+[10:33] having users that are just CBS and and
+[10:36] really the only thing they want is is is
+[10:39] Bitcoin and Bitcoin only and the the
+[10:42] feedback you get from them the the
+[10:44] support you get from them is nowhere
+[10:46] close to what you would get from a more
+[10:48] broad uh mass or a broad user base or a
+[10:52] broad V's there you will only get a
+[10:54] little bit from here a little bit from
+[10:56] there but here there is such a strong
+[10:59] signal and you can't get this anywhere
+[11:00] else and this signal is important
+[11:02] because that's what keeps us alive
+[11:05] that's what you know it's this drive
+[11:07] that when you wake up every morning you
+[11:09] want to get to somewhere you want to
+[11:10] reach somewhere and you want to do
+[11:12] whatever it takes to to to to reach out
+[11:15] to this to this school and this you will
+[11:16] not get in more generic or shitcoin
+[11:19] casinos because obviously you don't care
+[11:21] okay Shibu what's next and every day you
+[11:23] add one more you add one more you lose
+[11:26] the whole interest there's nothing it
+[11:28] just becomes some sort of of a machine
+[11:31] where by clicking a button you just keep
+[11:32] adding more you lose really what are you
+[11:35] even doing I mean it's fine if you're in
+[11:38] for the money just do it but but you
+[11:41] also have all this responsibility with
+[11:43] all this this users you're putting a lot
+[11:45] of people at risk it just doesn't make
+[11:47] any sense and I know for a fact that uh
+[11:51] I I couldn't work in any project like
+[11:53] this I couldn't handle it and I would
+[11:56] have left already a while ago yeah I
+[11:59] also think that's a big um um a big
+[12:03] factor in for the next like couple of
+[12:05] years because I think over the years
+[12:08] Bitcoin only will be more and more
+[12:11] obvious to everybody and also to Talent
+[12:14] like there will be uh software
+[12:15] developers there will be uh skilled
+[12:18] marketing uh people there will be
+[12:21] podcasters for example I only take
+[12:23] Bitcoin only people on like if they if I
+[12:25] see in the biyo anything else or in any
+[12:28] reads anything else um I I just don't do
+[12:33] it with them and there are more and more
+[12:35] podcasts coming out there are more and
+[12:36] more influences coming out that are
+[12:37] Bitcoin only like I think at some point
+[12:40] uh it will be even a liability to have
+[12:42] anything else than Bitcoin on uh on the
+[12:47] exchange on on on the
+[12:50] portfolio um but it's still a really
+[12:53] impressive uh thing to do maybe let's
+[12:55] let's take a step back uh how did you
+[12:57] find Julie and how did the whole
+[13:00] founding story of Rel
+[13:03] go yeah sure um so this one we we met
+[13:07] first online so you know as I said I was
+[13:10] working on this different um with these
+[13:12] different crypto projects implementing
+[13:13] wallets and all and I remember joining
+[13:16] the in in
+[13:18] Switzerland um crypto in general and and
+[13:21] Bitcoin is very strong so there is a
+[13:23] strong Community there is a city called
+[13:26] Suk which is also called the crypto
+[13:28] Valley that's where all the the crypto
+[13:30] projects they have their Foundation
+[13:32] their Association whatever because
+[13:34] legally speaking for legislation and
+[13:36] everything it's really easy so in terms
+[13:39] of uh uh Bitcoin and crypto Switzerland
+[13:42] has been always very very strong and
+[13:44] there is a Swiss Bitcoin Association but
+[13:46] I just joined the telegram Channel and I
+[13:48] just introduced myself this was end of
+[13:51] 2018 and and straight straight away just
+[13:55] Julian reached out he was like oh um by
+[13:57] the way I want to do this for uh for
+[13:59] Bitcoin like whatever you do like an
+[14:01] easy wallet an easy onboarding
+[14:03] offboarding for for
+[14:04] Bitcoin and then I was like yeah sure
+[14:07] but Bitcoin is already very easy you
+[14:09] know I was coming from these crypto
+[14:11] projects where technically they're
+[14:12] really challenging like you need really
+[14:15] to to put a lot of efforts in bringing
+[14:17] it to mobile it was very complicated and
+[14:20] I was like Bitcoin is easy there are a
+[14:21] lot of wallets out there and all of this
+[14:23] and then he convinced me that it's not
+[14:26] easy but obviously I was biased I'm
+[14:28] coming from from the tech world and I am
+[14:31] a geek so I know exactly how Bitcoin
+[14:33] Works creating a wallet sending
+[14:34] receiving has always been easy but I was
+[14:36] a bit behind my just my computer nobody
+[14:39] in my family was interested in Bitcoin
+[14:41] and all but it was the opposite for him
+[14:43] his family was interested and they were
+[14:45] asking him oh I want to get into Bitcoin
+[14:46] I just
+[14:47] count and at the time it was all the the
+[14:50] the the the kyc craziness with the
+[14:53] pictures and you know you have to hold
+[14:54] this name board and I want to register
+[14:57] to your platform
+[14:59] and you had to on board in a few
+[15:01] different exchanges if you really wanted
+[15:02] to get it to work you had to hold and
+[15:05] board like I know the the process where
+[15:07] you have to like swipe your hands before
+[15:09] and stuff like that but the board you
+[15:11] have to hold w a board was it was a
+[15:13] paper you had to write your first name
+[15:15] last name the date and you had to take a
+[15:17] picture like this and this was the the
+[15:20] old kyc processes and to to send it to
+[15:22] different uh uh platforms but every time
+[15:25] you had to renew it because I think you
+[15:26] had the name of the platform in the the
+[15:28] picture so you couldn't reuse it um but
+[15:31] but that was quite uh quite cumbersome I
+[15:35] mean it was not easy you didn't want to
+[15:37] go through all of this and he convinced
+[15:39] me I was like yeah actually you're right
+[15:41] and um and that's how it all started so
+[15:45] January 2019 and then for a year a bit
+[15:48] more than a year it was on and off we
+[15:50] both had our own still projects on going
+[15:53] so we didn't really put a 100% of our
+[15:56] energy there we did a hackaton that was
+[15:58] the first time where we put some code
+[16:01] together where we had the first MVP of
+[16:03] of a mobile app very ugly but still it
+[16:06] was something that we we started with
+[16:08] and then we we also talked to a few um
+[16:12] investors mostly Angel Investors even
+[16:14] v's and we always had the same message
+[16:17] they were like look if you're not
+[16:18] putting 200% of your time and your
+[16:20] efforts in your own project there is no
+[16:23] way I'm going to put any money in that
+[16:25] one because it looks like even you don't
+[16:27] believe in your project if you don't put
+[16:29] all your efforts in your own project and
+[16:31] we're like yeah well they're right so we
+[16:34] we decided to to stop everything we just
+[16:36] needed a bit of money to to pay the
+[16:38] bills at the end of the month because if
+[16:40] we stop everything and we don't have any
+[16:42] money well we need something still to
+[16:44] pay the bills and Julian was just going
+[16:47] through you know different CH different
+[16:49] challenges different uh competitions for
+[16:51] startups and all to try to get a bit of
+[16:54] money and then we these two Angel
+[16:56] Investors he could raise like I think it
+[16:58] was 15K 15 uh 15,000 Swiss Franks and
+[17:03] that's all we got to put something out
+[17:05] so we said okay you know what we stop
+[17:07] everything literally every project no
+[17:09] income we just uh Focus three months
+[17:12] that was what we agreed on three months
+[17:14] we just build whatever we can build and
+[17:17] then we release it we started April the
+[17:19] 1st so it's it's not it's not a joke we
+[17:22] relas start started April the 1st so
+[17:24] every year April the 1 is oh did we
+[17:26] relase start on April the 1st why did we
+[17:27] do that so 2020 and we said in July
+[17:32] beginning of July whatever is there we
+[17:34] just release it and it was only Julian
+[17:36] and me I was the only one coding and he
+[17:39] was the one handling all the rest like
+[17:41] marketing like business whatever and
+[17:44] this worked out really well because I
+[17:45] really needed to be just be cing all my
+[17:49] whole time I don't want to and this was
+[17:51] what I'm really the best at and he was
+[17:53] managing the rest very
+[17:55] well and and this turned out to be very
+[17:57] good it was quite exhausting and intense
+[18:01] H we were also having our first baby so
+[18:03] he was born in June 27th oh our son was
+[18:07] born in June 27 2020 and July the 1st we
+[18:11] just released relay so um they're both
+[18:14] they are both the same age and I always
+[18:17] like to joke that I have two babies
+[18:18] actually one is Rel and one is one is my
+[18:21] son with the same age with the exactly
+[18:24] the same age I think they're like three
+[18:25] four days they are apart and I don't
+[18:29] know how I did it you know it's just the
+[18:31] the whole hype and everything it's like
+[18:33] uh it was really really tough and
+[18:35] especially at the beginning it's tough
+[18:36] you really want to put a lot of efforts
+[18:37] there and at the same time you have this
+[18:40] human being this little baby at home who
+[18:42] and it's it's our first so you don't
+[18:43] really know how to handle it so yeah it
+[18:46] was it was quite intense but uh but very
+[18:48] happy we did it this was really the way
+[18:49] to go we had a deadline whatever happens
+[18:52] it had to be out and July the 1st we
+[18:55] just released the first version 2020 and
+[18:58] and today three and a half years later
+[19:01] we are 21 full-time employees and and
+[19:04] killing it so I'm really happy that we
+[19:06] we did that move there are two things
+[19:08] standing out for me like the first that
+[19:10] you you had the foresight and put
+[19:13] yourself a deadline like I think a lot
+[19:15] of projects start and they're like oh
+[19:17] let's try a few things and then let's
+[19:19] push it out and they're never giving
+[19:21] them like okay this day I'm starting out
+[19:24] and the second thing is that you
+[19:25] actually um really completely had two
+[19:30] roles with the the technical role and
+[19:32] everything else handling um and you also
+[19:35] tweeted I saw it in your timeline that
+[19:37] you tweeted out um that you recommend to
+[19:40] everybody having a technical co-founder
+[19:43] and also if you're technical having a a
+[19:47] partner that's not non- techical that's
+[19:50] economically
+[19:51] um how did this help and why are you
+[19:54] recommending to to do this like that way
+[19:59] yeah this this helped a lot this helped
+[20:01] like tremendously and the two points
+[20:03] that you mentioned both were very
+[20:05] important and so the first one about the
+[20:07] deadline as you said and here I may be
+[20:10] talking to developers more because this
+[20:12] is like like a I don't want to call it a
+[20:14] disease but this is an issue we have as
+[20:17] developers we we we have a lot of I have
+[20:20] a temporary folder in my Mac somewhere
+[20:22] where I still have a lot of projects
+[20:24] that I never released it's both the the
+[20:27] fear of being in front of all these
+[20:29] users all at once and it's also the the
+[20:33] perfectionism that is uh hitting us
+[20:36] there and every day you know it's been
+[20:39] three and a half years at relay we have
+[20:41] a killer team a developer team and a
+[20:43] marketing team and like we are really
+[20:45] killing it and it's still not perfect
+[20:47] because it will never be perfect and if
+[20:50] I had to wait for oh wait Julian I still
+[20:54] need to implement this oh by the way
+[20:56] let's wait for for to Route oh let's
+[20:58] let's wait for this let's wait for that
+[21:00] we would have never released it and this
+[21:03] came from from julan he was like no you
+[21:05] know what July the first we release
+[21:07] whatever happens because this is this is
+[21:10] something we struggle with a lot as a
+[21:12] developers it it's our baby we want it
+[21:14] to be perfect there is and the problem
+[21:17] is there is always something you can
+[21:18] work on always literally and at some
+[21:22] point you need to stop and to get it out
+[21:23] there so uh there is a saying just ship
+[21:26] it just ship it it will never be perfect
+[21:28] and you will always need to work on it
+[21:30] so that's the first part and the other
+[21:31] part is I mean
+[21:34] obviously both of us could do it
+[21:37] separately I could just go out do a
+[21:39] business course a marketing course and
+[21:41] then just get out and implement it and
+[21:43] put it out there or Julian could have
+[21:45] done the same he could have learned a
+[21:47] bit about programming and get it out
+[21:49] there right but but anyways starting
+[21:52] something like this is already time
+[21:54] consuming energy consuming and
+[21:58] you cannot be the best at at many things
+[22:02] at everything and here what works out
+[22:05] really good is that look I'm the best at
+[22:07] programming and you're killing it it was
+[22:10] not his first startup anyway in the
+[22:11] financial sector he already had two
+[22:13] before and you're the best as killing it
+[22:15] like whatever is business related and
+[22:18] networking and and going out looking for
+[22:20] for funding looking for VCS and and
+[22:23] doing the marketing initially until we
+[22:25] got some some marketing department and
+[22:27] this is this is the core team and the
+[22:29] core team you need you need the two
+[22:33] members to bring in whatever they can
+[22:35] it's it's like it's like a marriage so
+[22:39] and this worked out really well with my
+[22:40] wife as well we are very different with
+[22:43] my wife we're almost the opposite she is
+[22:45] an introvert no I am the introvert she
+[22:48] is the extrovert she likes to do things
+[22:50] like completely unplanned and on the
+[22:52] spot I'm like no no no if it's not in my
+[22:54] calendar I'm not doing it there is no
+[22:55] way but then together it just makes it
+[22:59] just happens to be that super strong
+[23:01] team because Sheen brings on the table
+[23:04] what I cannot this is exactly the same
+[23:06] with with Julian he really extrovert he
+[23:10] likes to go out to talk to a lot of
+[23:11] people and I'm like you know what just
+[23:13] just give a computer I'm in front of my
+[23:15] computer I'm very comfortable let me
+[23:17] just do this and and I'm really good at
+[23:19] it and and I can bring this uh to the
+[23:21] world much much faster if at the same
+[23:24] time you can focus on the other parties
+[23:27] that are all very iCal for a startup so
+[23:29] that's why I recommend and it's also the
+[23:31] fact that you're not alone because alone
+[23:34] you lose track of a lot of things alone
+[23:37] you lose track of deadlines you don't
+[23:40] have any like you don't have anyone you
+[23:43] depend on you're you're not promising
+[23:45] anyone that you will be uh delivering
+[23:48] and and then you're just like well
+[23:50] whatever what if I don't release on July
+[23:52] the 1st nobody cares right I can wait
+[23:54] for August it's summer time let's just
+[23:57] go take take some break and then I will
+[23:59] come back energized and then I will
+[24:01] release it so so it gets very very
+[24:04] tricky and it also gets even for
+[24:06] celebration I mean when you want to
+[24:08] celebrate something you want to be
+[24:09] together to party together and not alone
+[24:11] so all in all it makes a lot of sense to
+[24:14] have anyway co-founder a team and to be
+[24:18] a team you need to be more than one and
+[24:21] they have to be complimentary
+[24:22] complimentary is the keyword here don't
+[24:25] try to find someone that is exactly like
+[24:27] you
+[24:28] this won't help I mean especially for a
+[24:31] starter this will not help try to find
+[24:33] someone who is filling in the part that
+[24:36] you're
+[24:38] missing that's or the parts that you're
+[24:40] missing in in plural because you might
+[24:42] be missing a few and it doesn't have to
+[24:43] be only one person it can be two or
+[24:45] three still keep it limited because then
+[24:48] you have other challenges when it's too
+[24:49] big but that's why I think a core team
+[24:52] and complimentary team is very important
+[24:55] and when we are now looking back like
+[24:57] you really is now going on for we you're
+[25:01] in the fourth year right um I saw a post
+[25:05] of yours of the Diary of a CEO picture
+[25:09] with Cason and I by the way love that
+[25:13] podcast and also saw that that episode
+[25:15] with with Casey um and you posted like
+[25:18] uh that Casey said I would never do a
+[25:20] software company and you said you don't
+[25:23] have to leave it to me um what's your
+[25:26] what's your biggest learning from like
+[25:28] having Rel as an CTO as a Founder what
+[25:32] what did you learn about software
+[25:33] developing companies that provide
+[25:36] services for for so many many
+[25:40] people well what the
+[25:44] question yeah well it there is so much
+[25:47] to say I wouldn't know I wouldn't know
+[25:49] where to start to be honest so um I
+[25:51] really love that podcast as well and
+[25:53] Casey was like you know what you guys
+[25:55] this is not something I can do and also
+[25:57] goes back to what I mentioned earlier
+[26:00] you know there's always something you're
+[26:01] very good at and it makes sense to just
+[26:03] focus on that I'm not saying that KY is
+[26:06] bad at at doing a company a software
+[26:08] development company but he is the first
+[26:10] name that comes to your mind whenever
+[26:12] anyone says Vlog right oh K aat and and
+[26:16] this guy has just been like it's
+[26:18] fabulous what he's been doing and and
+[26:20] that's what he wanted to bring in as
+[26:22] well like the the challenges that are
+[26:23] there as a software development company
+[26:25] are are out of his expertise and he
+[26:28] wasn't expecting all of this and and he
+[26:31] made it he was also very successful but
+[26:33] I can understand that all all these
+[26:35] challenges he had he was not prepared
+[26:36] for them and and and and he ended up
+[26:39] like being saying something like this
+[26:41] and it was funny hearing him say that so
+[26:44] for me it's
+[26:46] like I used I used to work scaling was a
+[26:49] big problem I used to work alone for for
+[26:51] quiet some time and and when you work
+[26:54] alone you try to be efficient you try to
+[26:57] to be fast without always thinking long
+[27:01] term you know you just want to get the
+[27:04] the work the job out and you're like
+[27:06] okay well this is what I did and I'm
+[27:08] happy with that so I deal with it and I
+[27:11] will deal with the consequences or the
+[27:13] problems later this is also called um
+[27:16] Tech de so whenever you start a project
+[27:19] you will be accumulating Tech de Tech de
+[27:21] is something that will hit you back in a
+[27:23] few years because you took a shortcut
+[27:25] today because you had to do it so you
+[27:27] take a short today you were happy today
+[27:28] but in three years it would be like you
+[27:30] remember this shortcut by the way well
+[27:32] this is going to be a big problem now um
+[27:36] and and this happens in every software
+[27:38] development company uh but for me one of
+[27:41] the biggest challenge was to go from uh
+[27:44] one person team it's not a team but one
+[27:47] person to becoming a team and and make
+[27:50] sure that we can work um together in in
+[27:53] Harmony and split the tasks
+[27:56] appropriately and and make make sure
+[27:58] that you know nothing is forgotten
+[27:59] everybody is happy and and we're still
+[28:02] killing it in terms of of uh scalability
+[28:06] performance um feature implementation
+[28:08] and all of this because I also have a
+[28:10] tweet that I really love uh it's
+[28:14] about uh the first version of the relay
+[28:17] app didn't have any test written you
+[28:21] know in software development you write
+[28:22] test for your code there a lot of types
+[28:24] of test that you should write so write
+[28:27] your test but don't focus on writing
+[28:30] your test if it's not a um a project
+[28:34] that is out there for a few weeks or
+[28:36] months or years even already don't don't
+[28:38] try to over complicate things at the
+[28:40] beginning the first version of relay
+[28:41] didn't have any test didn't have proper
+[28:44] logging so when there was an error I
+[28:46] didn't even know what was happening I
+[28:48] had to go myself and dig deep and it it
+[28:50] was a nightmare to do this but if I was
+[28:52] focusing too much on all of these things
+[28:55] really would still be here in in in the
+[28:57] software and we would never have this
+[28:59] podcast because really wouldn't be what
+[29:01] it is today uh so I think it's important
+[29:04] to to do things step by step so you will
+[29:08] start alone you will be both the front
+[29:11] end developers backend developer devops
+[29:14] and CTO you're the CTO to yourself but
+[29:17] anyway you are the CTO because you need
+[29:19] you need a title so it's this you know
+[29:21] you have multiple hats this is the whole
+[29:23] thing that this is a very known um this
+[29:26] is how do you picture yourself in a
+[29:27] startup you have different Hearts now
+[29:29] it's a c your heart when you're talking
+[29:31] to investors or or you know anything
+[29:34] like that and then you have your
+[29:35] developer hat when you're coding and
+[29:37] then you might have your support because
+[29:39] we're also doing support with with
+[29:41] Julian and he was sending me screenshot
+[29:43] or this user has this problem or they
+[29:45] were reaching out to me dming me because
+[29:47] they had problems so initially it's a
+[29:49] lot of things at the same time and you
+[29:50] shouldn't be afraid of that this is
+[29:52] totally part of of the business it's
+[29:55] also fun seriously I really enjoyed like
+[29:57] this but then over time if you want to
+[29:59] scale if you want to get bigger that's
+[30:00] when you start hiring then you hire a
+[30:03] front end developer you hire a backend
+[30:04] developer you become a team with a team
+[30:07] starts communication problems or issues
+[30:10] you need to deal with you need to make
+[30:11] sure that communication is well done
+[30:13] nobody is forgetting anything um and
+[30:16] that it's still uh going very well and
+[30:20] and then the team grows the front end
+[30:21] team becomes two three developers the
+[30:23] back end team becomes two three
+[30:25] developers um the same for super you're
+[30:27] like look I'm not supposed my energy is
+[30:30] worth putting more into the tech aspect
+[30:33] let's hire someone for the support so we
+[30:36] make sure that everybody in the team
+[30:38] everybody in the team has an expertise
+[30:40] on something and that's what they should
+[30:42] focus 100% of th time maybe not 100 but
+[30:45] 90% of their time should be focused on
+[30:48] what they are the best at that's why
+[30:51] they are joining our team to bring in
+[30:53] their expertise so we say that when we
+[30:56] hire someone they are the one telling us
+[30:58] what to do and not us telling them what
+[31:00] to do because they are the expert and we
+[31:02] need them on board because of their
+[31:03] expertise so and then you start focusing
+[31:07] you need to make sure that every team
+[31:09] member is focusing on what they are
+[31:11] doing the best so all of this were just
+[31:15] learnings uh for four years of of
+[31:18] building building such a
+[31:20] startup because it's nowhere comparable
+[31:23] to any startup that I had before uh the
+[31:26] the the level where we where we bought
+[31:27] relays is is also a first for me and and
+[31:30] still today still today I'm I'm learning
+[31:33] so much and and it's always challenging
+[31:36] and it's always a bit of excitement some
+[31:39] fires burning here and there that you
+[31:41] need to handle and that's why I love the
+[31:44] startup world and uh so far these are
+[31:47] the the small learnings I had and
+[31:50] compared to what is coming I think it's
+[31:51] it's nothing yeah it's a it's always a a
+[31:54] wild ride the life and this a lot of
+[31:57] challenges coming and when you have the
+[31:59] challenge you're like oh how should
+[32:00] I overcome this and two years afterwards
+[32:03] you're bigger you're better and you're
+[32:05] thinking like how could I even worried
+[32:07] about this one so I think this is
+[32:10] exactly oh you put it so well literally
+[32:13] something that they would be killing you
+[32:15] you will not sleep you will feel
+[32:17] terrible you would just do whatever it
+[32:20] takes to to get it out and is that you
+[32:23] be did I really put all of this uh
+[32:26] worries and all for that but but it was
+[32:27] worth it I mean you needed this at the
+[32:29] time today you need something else but
+[32:31] just that you need to go with it and
+[32:33] it's it's such a cliche to say enjoy the
+[32:35] journey but it it's really it's it's all
+[32:38] about the journey and it's a cliche for
+[32:40] a reason because you just need to to
+[32:43] enjoy it at the time whatever comes now
+[32:46] uh will be completely different in a
+[32:47] year or so but you today you need to
+[32:49] deal with that if you want to be
+[32:50] somewhere else in in in a year or even a
+[32:53] month later but today this is the
+[32:55] priority this is just what needs to be
+[32:56] handled
+[32:57] journey is also maybe a good point for
+[33:00] the next question um moving on to
+[33:02] bitcoin
+[33:04] and something that a lot of bitcoiners
+[33:07] also think about how will Bitcoin scale
+[33:12] next 100 years to onboard like 8 billion
+[33:15] people if like this fruition of like
+[33:18] everyone having Bitcoin maybe even even
+[33:21] being a payment system where the like
+[33:23] the i in my buyer right I'm not sto
+[33:26] tweeting about Bitcoin deal it's the
+[33:28] base layer of our financial system and
+[33:31] like how can we uh succeed in that what
+[33:35] has to happen on the on the Bitcoin
+[33:37] layers how many layers will be there
+[33:39] will be like two or will there 10 layers
+[33:43] uh will we be even there with Bitcoin as
+[33:46] a payment system will it always be an
+[33:48] asset like the whole whole package of
+[33:51] Bitcoin scaling transaction fees what
+[33:54] what are you thinking about
+[33:55] that yeah it's a Pity uh you took me a
+[33:58] bit uh on the spot here just a few hours
+[34:02] ago they announced a podcast Peter mmak
+[34:05] announ a podcast with John carvalo and
+[34:08] jao talking about scaling Solutions I I
+[34:11] wish I would have listened to that I
+[34:13] would bring you an easier an easier
+[34:15] answer but uh yeah actually uh so we we
+[34:18] are obviously um this is something that
+[34:20] that We Care a Lot why because looking
+[34:24] at what happened
+[34:25] recently and and since the beginning
+[34:27] we've been only on chain only so layer
+[34:30] one and looking at what happened
+[34:32] recently it becoming quite it's becoming
+[34:35] quite challenging to to be dependent on
+[34:38] on on chain fees so much um because
+[34:43] although although we appreciate and we
+[34:45] really believe in um in our users owning
+[34:49] their Bitcoin uh that's why we've been
+[34:52] non-custodial from from the beginning
+[34:54] and and we want to stay non-custodial
+[34:57] it's getting more challenging the more
+[34:58] layers you have the more being
+[35:00] non-custodial becomes challenging on
+[35:02] layer one even on layer one it's it's
+[35:04] already challenging so imagine on L2
+[35:07] L3 um and now already in May last year
+[35:11] in 2023 in may we with with the
+[35:14] craziness of you know BRC 20s ordinals
+[35:19] inscriptions all of this we had a bit of
+[35:21] a pick in the fees and this went really
+[35:23] even worse in uh in
+[35:25] December and we need to make sure that
+[35:28] when we handle all these utx O's and all
+[35:31] of this uh because we are an on ramp and
+[35:34] users are are stacking with us on a
+[35:36] weekly monthly basis and when the fees
+[35:38] are at one sets per bite even if you
+[35:40] have hundreds of utxos you can still
+[35:42] handle it but then it becomes a problem
+[35:46] when the when the fees go high and
+[35:49] that's why we need to already uh and
+[35:51] we've been already looking at the
+[35:53] solutions for for some time now we just
+[35:55] had two main problem with already before
+[35:58] going to L2 to
+[36:00] lightning uh we had the non-custodial
+[36:02] problem and the liquidity problem
+[36:05] so we wanted to stay on custodial and we
+[36:08] couldn't afford putting like a lot of
+[36:11] liquidity on Lightning just opening a
+[36:12] lot of channels yeah hell yeah here is
+[36:15] 100 more Bitcoin for for lightning and
+[36:18] let's open a lot of channels to all of
+[36:19] our users because we didn't have 100
+[36:21] Bitcoin and we didn't have the the money
+[36:23] to put in uh we are still U uh
+[36:27] relatively early phase startup um and we
+[36:32] were in touch with with whoever any name
+[36:36] that can come to your mind related to
+[36:38] lightning we were in touch with them and
+[36:41] uh obviously giving them also
+[36:42] information and data and they were
+[36:44] helping us find the solution and we
+[36:45] ended up with um collaborating with
+[36:48] breeze on that so we are integrating a
+[36:50] lightning wallet now in the relay wallet
+[36:53] a non-custodial lightning wallet very
+[36:55] important and we will release it by the
+[36:57] end of January 2024 to all our users we
+[37:02] are now testing it it's open for for
+[37:05] beta testing but right now it's only the
+[37:07] front end so it's only a lightning
+[37:09] wallet users can still not buy or sell
+[37:12] via lightning and this will come later
+[37:13] this year this is already the challenges
+[37:17] that we had to go to lightning three and
+[37:20] a half years and lightning was already
+[37:23] live and working when we launched so we
+[37:25] could have put efforts already then and
+[37:27] try to to come up with something but but
+[37:29] we are not also working at the protocol
+[37:31] we are not that's not our core uh
+[37:35] business or uh where we where we excel
+[37:39] at there are people that are really
+[37:41] killing it at that and we leave it to
+[37:43] them it it will be totally unfair to say
+[37:46] that oh you know what we brought this to
+[37:48] lightning so it's all our effort no no
+[37:50] no we just rely on on people working on
+[37:53] the on the protocol itself bringing this
+[37:56] these tools
+[37:57] that will make it easier uh for us and
+[38:00] for our
+[38:01] users so now this is already one step
+[38:03] ahead and although there will be some
+[38:07] onboarding fees on Lightning once we are
+[38:11] there it will be faster and cheaper for
+[38:13] our users so we'll not need to worry
+[38:15] about utxos and all and then you
+[38:18] mentioned also other layers and I think
+[38:20] that's where we are heading to it's too
+[38:22] early to say anything about L3 L4
+[38:25] whatever but
+[38:27] um but the way and I like at the time
+[38:30] when they're announced web five you know
+[38:32] as also a bit of a joke to web 3 and and
+[38:35] that's where we are heading to uh I
+[38:38] really like what the synonym team is
+[38:41] doing with John carvalo and um slash
+[38:45] tags I think they're called they will
+[38:47] they will rename it but you know it's
+[38:49] the whole aspect that yes Bitcoin L1 is
+[38:53] all the the financial aspect the
+[38:55] monetary structure and everything
+[38:56] everything but then there is a lot on
+[38:58] top of it like you know things like
+[39:00] social sending things like a user they
+[39:04] work a lot with the user experience as a
+[39:05] user you don't need to worry about
+[39:07] receiving onchain receiving on Lightning
+[39:10] opening channels what is my address no
+[39:13] these are all complications we want to
+[39:14] get rid for the user the user shouldn't
+[39:16] really worry about all of this and these
+[39:19] are things that we shouldn't work on at
+[39:21] at at the at the network layer at L1
+[39:24] these are things we should fix at L2 L3
+[39:26] level because that what it makes sense
+[39:30] it we shouldn't just clock the the the
+[39:32] network for such relatively easy or
+[39:35] unnecessary things I would say so that's
+[39:37] why I think that there will be much more
+[39:41] layers I really believe there will be
+[39:42] much more layers there are also things
+[39:44] that are not problematic today but they
+[39:46] will end up being a problem later that
+[39:48] we are not aware of and we shouldn't try
+[39:52] to fix these on on on the main layer
+[39:54] it's just working perfectly fine as is
+[39:57] and uh and the way it's going we are
+[39:59] going towards uh main layer where uh we
+[40:03] will have higher and higher fees and we
+[40:06] will be using it for big
+[40:08] transactions and we will be using
+[40:10] already lining Network or any other L2
+[40:14] solutions for much smaller transactions
+[40:18] at lower fees yeah this is the this is
+[40:20] also the way I see it I think the layer
+[40:22] one is uh the an amazing elegent uh
+[40:27] solution as a settlement layer if we
+[40:30] call it that there Al a lot of other
+[40:32] names we can call it and then the
+[40:35] payment and all the other aspects uh we
+[40:38] can we can put on layers above it um
+[40:42] before we get to the uh Community
+[40:45] questions I have a personal personal one
+[40:48] for you because it seems that you and
+[40:50] also Julian uh post a lot about their
+[40:54] the sportiness and uh is it is it
+[40:57] something across the relay team I saw a
+[41:00] picture of of the relay team and they
+[41:02] all looked kind of
+[41:04] sporty and so like what's your like
+[41:07] Fitness and eating routine and your
+[41:09] health routine uh what is this looking
+[41:13] like yeah yeah actually it is I mean um
+[41:18] there is literally so we do twice a year
+[41:21] we do a relay Summit we probably saw
+[41:23] some pictures we sh also a lot of about
+[41:25] pictures yeah we me meet in different
+[41:28] locations every year two times um we did
+[41:31] Zurich to start with because it's where
+[41:34] where Rel was born uh we did Lisbon
+[41:37] Berlin
+[41:38] Istanbul uh we did poo recently we are
+[41:41] doing um V Vienna recently as we will do
+[41:46] this year so uh um and every time we
+[41:49] meet in these Summits it's true that uh
+[41:52] Fitness is always coming to the to to
+[41:55] the topic to the discussion and I
+[41:58] wouldn't say the whole team but there is
+[42:00] always a part of the team that is also
+[42:01] doing going to the gym or going for a
+[42:03] run even during the Summits and I think
+[42:06] this is this is this is a lifestyle I
+[42:09] mean it's not part of our interviewing
+[42:12] process you don't need you don't need to
+[42:14] be going to the gym if you want to be
+[42:16] part of the the team but it it's just
+[42:19] it's just um it's just a lifestyle and
+[42:22] and this really
+[42:24] shows how structured you are in your
+[42:27] life look I used to wake up at halfast 5
+[42:32] or at 600 just to go to the gym before
+[42:33] everybody wakes up just that I'm ready
+[42:36] for my day and you don't realize it at
+[42:38] the time you just feel happy because
+[42:39] you're going to the gym but what it does
+[42:42] it just structures your whole day you're
+[42:44] starting your day by being punctual and
+[42:49] by really putting a lot of energy to
+[42:52] your health and your well-being there is
+[42:55] no way that this day ends up bad I mean
+[42:58] this is just what it is right
+[43:01] so it's like this whole a player
+[43:05] strategy and I think it's if you really
+[43:07] killing it in one domain of your life
+[43:10] you will end up if you look at that
+[43:11] person you will see that well actually
+[43:13] they care about their their their wealth
+[43:15] their health because they need to be in
+[43:18] a good shape if if you want to kill it
+[43:20] this just goes together you need to be
+[43:22] eating well and take care of your health
+[43:25] if you want to be performing well also
+[43:27] in um in in your job and especially in
+[43:31] the startup world where where it's it's
+[43:33] quite intense and requirements can be
+[43:36] tough and you need to be ready and you
+[43:38] need to be you you can never be ready
+[43:41] although you need to be ready so all all
+[43:43] in all it it goes together that you the
+[43:46] better you are in your in your life
+[43:49] especially healthwise being nutrition
+[43:52] and and Sport the better you will
+[43:54] perform and so it goes the other way
+[43:57] around so whoever we end
+[44:00] up hiring or whoever ends up being like
+[44:03] wow this this guy is a killer or this
+[44:05] girl is a killer they also end up taking
+[44:08] care of their uh Health very very
+[44:11] carefully and I think that's that's just
+[44:14] it just goes together that's why it's
+[44:15] probably looks like this but it's not
+[44:17] that in the CV we are requesting your
+[44:20] diet and your your um your Fitness level
+[44:25] but yeah like emo did his Marathon last
+[44:28] year Julian is going for one this year
+[44:31] now although I am more in weightlifting
+[44:33] like maybe I should go for a marathon as
+[44:35] well you know and then it goes well
+[44:37] together and it's like we talk about
+[44:38] Marathon at every Summit and we also had
+[44:41] Yanik doing one in our team who have
+[44:43] tamas just doing cycling so what you
+[44:45] said is really true but it it goes the
+[44:48] other way around we whoever we brought
+[44:50] in a team and that shows this um this
+[44:53] willingness of killing it actually they
+[44:55] are all very careful about their health
+[44:58] yeah that's that's amazing I think
+[45:00] there's also like a group thing like
+[45:02] when a lot of people are so like-minded
+[45:05] with Bitcoin and the early adoption of
+[45:07] Bitcoin and they are so curious about
+[45:09] life they're mindful about what they're
+[45:11] doing of course they're also looking
+[45:13] about looking about their health and
+[45:15] wealth so that's that's that's just a
+[45:20] almost a no-brainer that such an early
+[45:22] Bitcoin only team uh is caring about the
+[45:25] health
+[45:26] um moving on to the community questions
+[45:30] I got two interesting ones uh the first
+[45:33] one is a technical one the second one is
+[45:36] a personal one uh the first one it seems
+[45:39] that reala is targeting mainly
+[45:41] beginners uh are you going to develop
+[45:44] tools and settings for more advanced
+[45:46] users and he wrote some uh examples for
+[45:49] M multiple addresses change addresses
+[45:52] utico
+[45:54] management this some going to happen on
+[45:58] relay very good question I love that
+[46:01] question because I hear that that a lot
+[46:05] and fair enough because sometimes it
+[46:07] looks counterintuitive because we are
+[46:10] like
+[46:11] bitcoiners and in the end our really
+[46:13] wallet is like well you know there are
+[46:15] better wallets out there and I'm like
+[46:18] yes fair enough we are not the best when
+[46:21] it comes to implementing best practices
+[46:25] and I'm not saying say this as as if I
+[46:27] don't care obviously I do care but there
+[46:30] is a balance between what we can do and
+[46:33] what our users expect so for example
+[46:37] coin control we didn't have proper coin
+[46:39] control for some time we had an issue we
+[46:41] fixed it now it's coming but there is no
+[46:44] Advanced coin control so you cannot go
+[46:45] in the settings and select some coins
+[46:48] you want to spend or ignore some coins
+[46:50] you don't want to spend this is not in
+[46:52] the relay wallet another one that is
+[46:54] getting critical now and we're work
+[46:55] working on is address change initially
+[46:57] we just said you know what this is how
+[46:59] it has to be and this for for various
+[47:02] reasons it's not only because it was
+[47:04] easy to implement it was also because
+[47:07] our broker was not supporting it at the
+[47:09] time we were working with a third party
+[47:10] broker we don't have our own broker and
+[47:13] the second one is it was already a big
+[47:15] challenge for our users in the question
+[47:17] you mention newcommerce or newbies and
+[47:20] that's exactly from the beginning this
+[47:22] is our target
+[47:24] market um
+[47:26] I mean we never claim to be for uh for
+[47:29] advanced bitcoiners we appreciate their
+[47:31] support and we are all uh bitcoiners in
+[47:33] the team we know that there are still a
+[47:35] lot of things we need to improve but we
+[47:37] need to improve them in a very user
+[47:41] experience efficient way we cannot just
+[47:44] go out and Implement address change
+[47:46] because every time a user will go to the
+[47:49] receive button they will see a different
+[47:51] address and they will freak
+[47:53] out they will literally freak out the
+[47:55] way they want to use Bitcoin is the way
+[47:58] they use their banking system you only
+[48:00] have one iban and you share this iban
+[48:02] with everybody and they end up by just
+[48:04] having one wallet address and they share
+[48:06] it with everybody again it's terrible
+[48:08] it's terrible for privacy and we are
+[48:11] already taking measures we're talking
+[48:12] about Solutions currently in the team
+[48:15] obviously could it have come earlier yes
+[48:18] but at a cost where we might have lost
+[48:20] some users because it was really not
+[48:22] easy for them and it it's the same for a
+[48:26] lot of features so some people are
+[48:29] asking about why not tooot now yes Tapo
+[48:31] is also good we could also work on that
+[48:34] and try to get it there but there are a
+[48:36] lot of things we need to work for our
+[48:38] target market that would bring in more
+[48:40] awareness and more people into Bitcoin
+[48:43] than too in the Reay wallet too is very
+[48:46] good if you have a
+[48:48] um uh multi- uh Sig wallet uh but then
+[48:53] it's also not ideal if you don't have a
+[48:55] multi wallet it's also not ideal for the
+[48:57] fees where segwit is handling it better
+[49:00] so all of this all of this together it
+[49:02] was an easy decision to say you know
+[49:04] what for now we live tap the side we
+[49:05] will get there we started with Legacy
+[49:07] very quickly we went to to nested segwit
+[49:10] but then again our broker was not
+[49:12] supported uh Native segwit so we had to
+[49:15] wait to implement our own broker to go
+[49:17] full
+[49:18] segwit but it's it's it's exactly what
+[49:21] is happening we are aware of this
+[49:24] limitations and we are just implementing
+[49:27] them as they come and as much as they
+[49:29] are userfriendly what we do and what we
+[49:32] did for some time was to hide some of
+[49:34] them in an advanced feature so you could
+[49:37] go to the settings and click uh enable
+[49:40] Advanced features and then in the app
+[49:42] you would see things like you could
+[49:44] select custom fees when you send a a
+[49:47] transaction you could select custom fees
+[49:49] you could put one sets per bite and it
+[49:50] will go with one sets per bite and then
+[49:53] even this ended up being quite
+[49:55] problematic we had a lot of super
+[49:56] tickets piling up because the
+[49:58] transaction was was stuck in the men
+[50:00] pool so then we were like you know what
+[50:02] let's maybe remove it and just put three
+[50:04] options uh fast medium and slow and this
+[50:07] turned out to help a lot and work better
+[50:11] so we will get to a point where I think
+[50:13] anyway we will Implement them we will
+[50:15] maybe initially hide them behind a
+[50:18] feature like uh an advanced feature and
+[50:20] if it's disabled by default users will
+[50:23] not see it only if they enable they will
+[50:25] see this Advanced options and over time
+[50:28] try to make it the default also for
+[50:31] newbies as soon as they're become user
+[50:33] friendly with ux and UI from day one
+[50:37] this is the biggest challenge we had at
+[50:38] relay it's always solving UI ux problems
+[50:41] more than solving technical problems
+[50:43] technical problems there are a lot of
+[50:45] people out there doing it better than us
+[50:47] coming up with bibs improvements
+[50:49] whatever on lightning or or on or on
+[50:51] bitcoin and what we do is take them and
+[50:54] try to make them user friendly oh that's
+[50:57] that's great and then I think it also if
+[50:59] you and you touched on it if you have
+[51:02] all the Imp implementations you you use
+[51:06] you lose a lot of beginners in the app
+[51:09] uh because I also think of oh if my
+[51:13] uncle who has no clue about technical
+[51:15] stuff who wants to be in Bitcoin because
+[51:19] he's understands it on a financial level
+[51:22] uh he should have an really easy
+[51:24] onboarding like he should have that app
+[51:26] where I can just send him the referral
+[51:28] link and he can get his first Bitcoin in
+[51:31] a a few minutes or an hour something
+[51:33] like that and then then from that moment
+[51:37] on he can learn uh about self custody
+[51:40] later he can learn about you takes own
+[51:42] management he can learn about all the
+[51:44] things he has to learn a little later
+[51:47] like we don't have to overwhelm uh
+[51:50] newbies for Bitcoin at the first minute
+[51:54] I also had Daniel for 21 Bitcoin on and
+[51:56] he was also like first let's give them
+[51:59] Bitcoin let's give them the exposure and
+[52:02] uh they can learn along the way at when
+[52:05] I first bought Bitcoin I did not even
+[52:08] understand what it was like I had no
+[52:10] clue I never heard utex o utex o
+[52:13] actually only heard in 2023 and I'm and
+[52:18] I'm Bitcoin only since
+[52:20] 2021 so I I learned really late so I
+[52:25] think everybody has his own learning
+[52:27] process and his Learning Journey and
+[52:30] there's a lot of advantages of having
+[52:32] really and other Bitcoin only apps that
+[52:35] are just in really easy onramp uh to the
+[52:39] Bitcoin world and it's important that we
+[52:41] have a lot of different options that
+[52:43] there are wallets out there with all the
+[52:44] controls for the advanced users and then
+[52:46] there's wallets for the beginners and I
+[52:49] like that really as around and bringing
+[52:52] uh the masses onto the Bitcoin as as we
+[52:55] all do and uh that you join uh that you
+[52:59] are in for the for the mission um
+[53:02] definitely we have the second question
+[53:05] is a personal one how do you and maybe I
+[53:08] need some tips actually from you in that
+[53:10] regard how do you grow your
+[53:15] beard okay fair enough uh good one okay
+[53:19] good one well I would have never thought
+[53:21] that I would live such a such a beard I
+[53:23] must say I'm I'm I'm always I always
+[53:26] been the clean shaved guy and you know I
+[53:29] was like no it has to be clean shaved
+[53:31] and all I think this is the the the the
+[53:34] before Bitcoin and after
+[53:36] Bitcoin it turned out to to to look
+[53:39] pretty good and um you know obviously I
+[53:41] had to I had to I had the the talk with
+[53:44] my wife and like okay let's give it a
+[53:46] try and now it's like yeah you keep it
+[53:48] there is no way you get rid of this but
+[53:51] uh um I am a bit uh lucky or biased in
+[53:55] that one because here the the DNA plays
+[53:57] a big role and um and I have Turkish
+[54:00] Origins yeah so it's a it's not a
+[54:03] problem to grow a beard it's more a
+[54:05] problem not to grow a beard in for for
+[54:09] for Turkish people and uh so it was
+[54:12] relatively easy actually I think it's I
+[54:14] should trim it a bit it's getting a bit
+[54:16] too much now but I get so used to it now
+[54:19] and and and I like it it goes so well
+[54:21] with the whole lightning topic and Zeus
+[54:23] you know with the beard and I was joking
+[54:26] last time on on Twitter that yeah I'm
+[54:30] Bitcoin Zeus uh I have the beard but now
+[54:33] I need to build the body right because
+[54:34] he's like zos is really uh massive a lot
+[54:38] of muscles so now I'm working on the
+[54:40] body because the beard was the easy part
+[54:42] now I need the body but yeah I mean it's
+[54:44] not about there's no secret oil or or
+[54:48] lotion that I can recommend you
+[54:50] unfortunately so uh yeah it's all in the
+[54:53] it's all in the DNA yeah I'm I'm jealous
+[54:55] I'm
+[54:57] jealous fair enough we having the end
+[54:59] routine and maybe if you're a fan of the
+[55:01] Diary of a CEO you know where the Andrew
+[55:03] Dean is coming from because I just stole
+[55:05] it from him where the previous guest
+[55:07] asked the question for for the next
+[55:10] guest um and the question uh and that's
+[55:13] we we touched on it a little bit uh what
+[55:16] do you think ordinals pose a risk or
+[55:18] opportunity for Bitcoin and uh why uh
+[55:21] for me I don't like this things
+[55:25] happening on the main chain on the main
+[55:27] layer ordinals inscriptions
+[55:30] brc2 especially brc2 and all these me
+[55:33] meme coins they literally have no
+[55:36] utility and I consider this an attack on
+[55:39] bitcoin it's it's obvious and they're
+[55:42] not even hiding I mean it would be quite
+[55:46] uh stupid to say that yeah know they're
+[55:49] it's a technical uh advancement oh wow
+[55:52] it's it's fabulous no so um dang I don't
+[55:55] know I mean in the end some people would
+[55:57] also be in in favor of look it's a valid
+[56:00] transaction yes it is a valid
+[56:01] transaction and and you can't get rid of
+[56:04] it you shouldn't get rid of it that's
+[56:05] also fair but it's also not what Bitcoin
+[56:10] was meant for and I would be willing to
+[56:13] talk say it and talk with these people
+[56:16] and find a solution that's the way to do
+[56:18] it but the way it's been done that was
+[56:21] clearly an attack I don't think it's
+[56:23] it's the way it should be done
+[56:25] um so I'm I'm happy I'm more than happy
+[56:28] to get rid of this U
+[56:32] unnecessary block space from from the
+[56:35] main layer and and this I've been I've
+[56:37] been pretty clear about it I'm not
+[56:39] against people collecting gegs or
+[56:41] whatever everybody can do whatever they
+[56:43] want with with the life and it doesn't
+[56:46] make sense because there are much better
+[56:47] technology out there to do this as I
+[56:50] said you know we started our our our
+[56:51] talk with u crypto projects in general
+[56:55] and technically technologically speaking
+[56:59] they're doing other stuff and they're
+[57:01] doing it much better than on bitcoin so
+[57:04] why not just go there and and use and
+[57:06] use that instead or or why not bring
+[57:09] that as a layer three layer four
+[57:11] whatever on bitcoin and use it for that
+[57:14] I mean I wouldn't be against that but as
+[57:18] they are right now and the the main
+[57:22] layer I don't think they make sense I
+[57:25] fully agree with with you here I mean uh
+[57:28] the the I think it's an attack I think
+[57:32] they try to attack it but in the end I
+[57:34] think they just make Bitcoin uh Stronger
+[57:38] with every attack that goes onto Bitcoin
+[57:41] uh but it's uh I fully agree with you
+[57:44] that's that's an attack that and it's an
+[57:46] unnecessary they could do it somewhere
+[57:48] else but they wanted to do it on on
+[57:50] bitcoin I don't know if they think it's
+[57:52] an attack but it's definitely one
+[57:56] well they they are clearly happy that
+[57:58] they broke Bitcoin so I guess it's h
+[58:01] they know exactly what they're doing and
+[58:03] fortunately now it looks like it calmed
+[58:05] down a bit because anyway they need
+[58:07] money for that so at some point
+[58:09] eventually you get out of money but yeah
+[58:12] I mean I'm fine I mean look guys come
+[58:14] with a solution on L2 L3 L4 whatever you
+[58:17] want you want to work together on that
+[58:19] yeah let's discuss and let's do whatever
+[58:21] you want but it's not the main layer is
+[58:23] not the the place it should be
+[58:25] perfect then uh thank you for being on
+[58:28] uh for the uh last part where do you
+[58:31] want to people uh to to direct people
+[58:34] there uh like uh where can people get in
+[58:37] touch with
+[58:38] you yeah so I'm pretty much uh recently
+[58:41] only focusing on Twitter or X apparently
+[58:44] we should call it X now so they can find
+[58:46] me if they look for my name it's uncore
+[58:49] Adam
+[58:51] bancore um and also uh for anything Rel
+[58:55] to the project relay. app for our
+[58:57] website perfect uh thank you for being
+[59:01] on thank you for having me Robin that's
+[59:03] a pleasure

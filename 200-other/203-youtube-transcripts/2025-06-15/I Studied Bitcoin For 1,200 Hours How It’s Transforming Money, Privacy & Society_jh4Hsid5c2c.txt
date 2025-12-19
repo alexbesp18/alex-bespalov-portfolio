@@ -1,0 +1,1243 @@
+Title: I Studied Bitcoin For 1,200 Hours: How It’s Transforming Money, Privacy & Society
+Video ID: jh4Hsid5c2c
+URL: https://www.youtube.com/watch?v=jh4Hsid5c2c
+Date Saved: 2025-06-15 11:37:33
+--------------------------------------------------
+
+[00:00] How do you KYC an AI, right? You can't
+[00:03] do it. So, you have to have like you
+[00:06] have to rely on p private keys coming
+[00:08] from finance. You you think you know
+[00:10] what's going on. You think you
+[00:12] understand the financial system. You
+[00:13] think you understand money and investing
+[00:15] and then Bitcoin comes in and turns all
+[00:18] of that upside down. We're looking at
+[00:20] this thing now. We're waking up to all
+[00:22] these lies. There has to be some sort of
+[00:24] mechanism by which we can anchor on
+[00:27] truth. So, it has to start with
+[00:28] ownership. you know the other potential
+[00:30] that Bitcoin has as a solution for
+[00:32] society. So does that you know if we can
+[00:34] get store value then we can start to
+[00:36] think about decentralized identity on
+[00:38] Bitcoin. We can start to think about
+[00:40] cyber security with Bitcoin. We can
+[00:42] start to think about all these other use
+[00:43] cases that are just going to uh embed it
+[00:46] even deeper into our system. You could
+[00:48] see us getting to the point where like
+[00:49] if you're not signing with private keys,
+[00:52] we do not trust this payment. So much
+[00:54] fraud and so much corruption could lead
+[00:56] to it being like we will accept nothing
+[00:59] but Bitcoin.
+[01:01] [Music]
+[01:05] Before we get started, uh just briefly
+[01:08] give the people an an overview of of who
+[01:11] are you and and why you're excited about
+[01:13] uh Bitcoin. Okay. Sure. Yeah. So um my
+[01:16] background is in traditional finance. I
+[01:18] was in that space for about 25 years um
+[01:22] in wealth management and uh found
+[01:25] Bitcoin uh like many people in
+[01:29] 2017 and it's slowly you know just
+[01:32] completely disrupted my view of the
+[01:34] financial world. Um, I feel like I
+[01:36] learned more about finance from Bitcoin
+[01:39] um, since 2017 than I ever learned uh,
+[01:43] working in the industry for that many
+[01:45] years or at least I felt like I learned
+[01:47] the truth, right? Um, so
+[01:50] um, I became very vocal and uh, and
+[01:53] trying to promote Bitcoin internally.
+[01:56] Um, that I I wasn't having much luck. uh
+[02:00] had was working at a very traditional
+[02:02] firm um that been around for 140 years
+[02:06] and
+[02:07] um uh they it just didn't connect, you
+[02:10] know, with with uh their long-term what
+[02:12] they've been doing for so long um that
+[02:15] this this thing could disrupt
+[02:16] everything. So, um I was stepping
+[02:19] outside my traditional role and speaking
+[02:21] at meetups and speaking at local uh
+[02:25] educational seminars, helping people
+[02:27] learn about Bitcoin. Uh, and then in
+[02:30] 2022, oh, excuse me, 2020 during COVID,
+[02:33] clients, uh, you know, obviously were
+[02:35] panicked. They're asking me what I did
+[02:37] with my money and we started having
+[02:39] conversations about Bitcoin. Uh, and
+[02:42] that led to a number of clients sending
+[02:44] emails uh, that they wanted to add
+[02:46] Bitcoin into their portfolio. The only
+[02:48] opportunity I had to do anything like
+[02:50] that was GBTC at the time. Um, I sent
+[02:53] those emails to the trading desk and of
+[02:55] course everybody's at home and the
+[02:58] trading desk let it go. I didn't think
+[03:00] it was going to happen. So, we had uh,
+[03:03] you know, 1 to 3% positions of GBTC in
+[03:06] these portfolios. Um, that became 15 to
+[03:10] 25% of their portfolio in short order
+[03:13] and compliance
+[03:15] uh, was in a tizzy. that led to even
+[03:19] more in-depth conversations about
+[03:20] Bitcoin internally within the firm uh
+[03:23] and it just finally came to a point uh
+[03:26] where I needed to stop my engagement
+[03:28] with Bitcoin or move on and I moved on.
+[03:31] So now I work uh with Bite Federal,
+[03:34] which is a local Bitcoin ATM company. Um
+[03:39] they do uh about for they have about400
+[03:42] ATMs in the United States, about 60 in
+[03:44] Australia and uh have a non-custodial
+[03:48] wallet that a lot of our Bitcoin
+[03:50] customers utilize to hold their own
+[03:52] keys. Uh we're currently working on a
+[03:55] custodial wallet which will be more
+[03:58] transactionbased and um uh then they'll
+[04:01] be able to move, you know, and it'll
+[04:03] also be an on-ramp, right? So people
+[04:04] will be able to buy actively and and uh
+[04:08] if they want to then move those coins to
+[04:10] the non-custodial wallet and hold their
+[04:11] own keys, they can. So they'll have both
+[04:13] options. Um we have a POS, it's in beta
+[04:17] and our uh about 45 customers using the
+[04:19] POS system to accept Bitcoin and
+[04:22] Lightning payments. Um we did the first
+[04:24] lightning payment for gas here in
+[04:26] Florida. That was fun. Uh that got a lot
+[04:29] of attention on X and a lot of people
+[04:30] were driving from a couple hours away to
+[04:32] buy gas with lightning. Um yeah, so that
+[04:36] that's about it. Um other than that, uh
+[04:39] just passionate about Bitcoin and and
+[04:41] like to help people learn about it and
+[04:44] get involved whenever possible. It's so
+[04:47] exciting when there's all of the sudden
+[04:49] Bitcoin accepted somewhere where it's
+[04:52] usually like uncommon to be accepted. in
+[04:54] Switzerland right now. I don't know if
+[04:56] you heard the news last week or the the
+[04:59] week before or something like that. Spa,
+[05:02] a really big supermarket chain, it's in
+[05:04] Austria, it's in Germany, it's in
+[05:06] Switzerland, like it's a really huge
+[05:08] one, is now accepting at one local
+[05:11] location in in Citling and Bitcoin, but
+[05:16] they are now expanding it the whole of
+[05:18] Switzerland. So, all of Switzerland will
+[05:20] be able to you will be able to buy with
+[05:24] Bitcoin your supermarket thing at a
+[05:26] really huge uh really huge chain. And my
+[05:30] hope is that they try it out in
+[05:32] Switzerland and maybe also do it in
+[05:34] Austria, Germany, because they are all
+[05:35] over the place. That's wonderful. That's
+[05:38] great. It's really cool to see that. And
+[05:41] I'm really interested in in in in your
+[05:44] before we get with the with the Bitcoin
+[05:46] stuff um in your journey because Bitcoin
+[05:49] has kind of a way to to suck people in
+[05:51] in the in the way. So like there's lot
+[05:53] so many people that work something else
+[05:56] like you and me and all of the sudden
+[05:57] they're like, "Oh, like I not only I
+[06:00] want to uh put my financial energy in
+[06:02] Bitcoin, but I also want to put my time,
+[06:05] my life's energy into Bitcoin."
+[06:08] Why was it so apparent for you like all
+[06:10] right let's let's completely switch
+[06:11] career? Sure. Um I
+[06:15] so
+[06:17] Bitcoin seems to unlock a desire for
+[06:21] truth, right? So it coming from finance,
+[06:25] you you think you know what's going on.
+[06:26] You think you understand the financial
+[06:28] system. You think you understand money
+[06:30] and
+[06:31] investing. And then Bitcoin comes in and
+[06:34] turns all of that upside down.
+[06:37] and unlocks
+[06:39] a understanding that is more true to
+[06:43] reality than any of
+[06:46] this matrix of financial products that
+[06:49] that currently exist
+[06:51] today. And so I I think what it is is
+[06:53] that once you realize that whatever that
+[06:56] core thing is that you've been doing is
+[06:59] all of a sudden a
+[07:01] lie and you get a glimpse of the truth.
+[07:04] Now, I think you start to clamor for it
+[07:08] in all other parts of your life. And I
+[07:11] think that's why we see so many
+[07:12] Bitcoiners go from uh financial truth to
+[07:17] uh what's the truth about a diet? What's
+[07:20] the truth about medication? What's the
+[07:22] truth about education? What's what's the
+[07:23] truth about energy? Right? It's like
+[07:26] it's like Bitcoin is like the spoke of
+[07:28] this wheel and then we we shoot off and
+[07:31] there's so many smart people in our
+[07:33] space that there's always somebody to
+[07:35] pull you into another rabbit hole and
+[07:37] educate you and you have this innate
+[07:40] trust with them because they're they're
+[07:43] anchored to Bitcoin which you know is
+[07:45] this truth machine and so it just it's
+[07:48] given me the ability to kind of like
+[07:50] quickly now identify and communicate
+[07:52] with people who I can value and trust.
+[07:55] and and go with them on other journeys
+[07:58] and learn. So I think I think this is
+[08:00] sort of the thing and that it seems to
+[08:02] be
+[08:03] a you know seems to be a Bitcoin thing
+[08:06] or core to the Bitcoin protocol. You're
+[08:09] coming from the traditional financial
+[08:11] space and I'm asking myself a lot um
+[08:14] there's a lot of traditional financial
+[08:16] services. There's a lot of things that
+[08:18] are happening outside of Bitcoin and and
+[08:22] I'm always wondering what if that will
+[08:25] still be there and what if that will not
+[08:28] be there for for example central banks
+[08:31] uh or like local community banks uh or
+[08:34] like those lending things like there's a
+[08:37] lot of financial services um that that
+[08:41] are important in the traditional
+[08:42] financial space and I'm wondering as
+[08:44] someone that comes from that space what
+[08:46] will survive in a Bitcoin world and and
+[08:48] what kind of will maybe die in a Bitcoin
+[08:51] world, right? Well, f first I think it's
+[08:54] important to understand that that it's
+[08:55] going to take a long time for that stuff
+[08:56] to die off, at least here in the United
+[08:58] States.
+[08:59] Um, you know, and I think that's going
+[09:02] to like, for example, my my
+[09:05] my kids' generation, right? They they
+[09:08] were baffled by what a check was because
+[09:11] I have them banking uh all with mobile
+[09:14] apps and and Bitcoin and online. And uh
+[09:18] the other day my son got paid with a
+[09:20] check. He's like, "What? Like this is
+[09:22] doesn't make any sense, right? This is
+[09:24] paper. Like this is just number like
+[09:26] what? How is this even possible?" he was
+[09:28] just baffled by it. Um, so I think it
+[09:32] just generationally will dissipate and
+[09:35] and go away. Um, but there's so much
+[09:40] money tied up in the old system
+[09:43] um that uh it's going to take boomers
+[09:47] and and then others passing their wealth
+[09:49] to the next generation before we see
+[09:51] that stuff fade away. But I think it's
+[09:53] going to become less and less important.
+[09:55] Um, and and you know, I always hold a
+[09:59] space for complete
+[10:02] collapse because there's there's all
+[10:06] sorts of um timelines that could unfold,
+[10:09] right? And and um if but you know that
+[10:13] that question of collapse becomes
+[10:16] doesn't necessarily mean that the old
+[10:18] system dies. It might just mean that it
+[10:20] morphs into a stable coin and uh
+[10:24] digital banking infrastructure, right?
+[10:27] Where we're we do have Bitcoin, but we
+[10:30] also have
+[10:33] centralized digital infrastructure that
+[10:35] we're interacting with and that that
+[10:38] that Wall Street Trafi system just
+[10:41] morphs into that and the players sort of
+[10:43] change and some some die off and some
+[10:46] move forward. Um, I think we're kind of
+[10:49] seeing that
+[10:50] today. So, I think the only only way
+[10:53] that goes away is in a a
+[10:57] complete collapse scenario. And and I
+[10:59] don't know that any of us really want to
+[11:03] experience that or even want our friends
+[11:05] and family to experience that. Um, as
+[11:09] much as I as I would love to see a
+[11:11] Bitcoin only future, uh, I think the the
+[11:14] best thing that can happen is a a slower
+[11:17] transition where people volunteer to be
+[11:21] a part of that Bitcoin standard as
+[11:22] opposed to having it, you know, thrust
+[11:24] upon them.
+[11:26] Yeah, it's it's a good point. You you
+[11:29] need the grassroots movements. Um I mean
+[11:32] we we see what problems come uh in El
+[11:36] Salvador was was an interesting thing
+[11:37] because there was a grassroots movement
+[11:39] but then all of the sudden very early on
+[11:42] uh someone uh tried Nuk tried to also
+[11:45] push it down from from uh from the top
+[11:48] and it went good but also there was some
+[11:51] some bad things coming with that and it
+[11:54] was just really quickly because I I also
+[11:56] had in my whole life just one physical
+[11:58] check in my my my my hands and I
+[12:01] couldn't redeem it. I I actually put it
+[12:04] in my waste paper basket. It was like I
+[12:06] don't know $15 or something like that. I
+[12:08] was running from bank to bank and I for
+[12:11] some reason I couldn't get it out of
+[12:13] there. So I can really relate to that.
+[12:15] First I'm getting that I'm like is that
+[12:17] a joke? Like right what what the hell
+[12:21] did I just How can this be true? How can
+[12:23] you just write your name on paper and it
+[12:25] somebody can turn that in for money?
+[12:27] Yeah. But but the same thing is that's
+[12:30] actually might be an interesting thing
+[12:31] because um the same thing can be true
+[12:34] for for now the normal currency the
+[12:36] normal money that you're using and
+[12:39] someone in the future is like how how
+[12:41] did you how did you trust that? Everyone
+[12:43] can just print that like that that that
+[12:45] doesn't seem secure. you need to verify
+[12:47] that on the on the blockchain like how
+[12:49] the hell did you and that might be that
+[12:51] might be where we're going right when
+[12:52] you start to think about um the chaos
+[12:56] that an a that AI could create in the
+[12:58] wrong hands. I mean I mean the amount of
+[13:02] um cloning or fraudulent transactions
+[13:04] that that that could be that might be
+[13:07] coming could could you know I mean
+[13:09] that's one discussion I had um recently
+[13:13] with with a friend about how
+[13:16] much fraud there is right now in the
+[13:19] system because of
+[13:20] AI and if that gets levered up to where
+[13:23] you just cannot trust a transaction
+[13:27] um that that you can't trust that it'll
+[13:29] settle without it being pushed, right?
+[13:33] Cuz like we pull so much right now, like
+[13:35] we're doing a pull and we're we're
+[13:36] pulling these the credit cards are uh
+[13:39] extending credit and there's all this
+[13:41] delayed settlement in the system that uh
+[13:45] an individual right now and an an
+[13:48] individual leveraging AI can massively
+[13:50] take advantage of the system and get
+[13:54] like you could get goods delivered from
+[13:55] Amazon the next day. you could get your
+[13:57] Bitcoin instantly and reverse those
+[14:00] transactions, right? And then go set up
+[14:02] another account, another identity, blah
+[14:04] blah blah. So, so with that in mind, you
+[14:08] could see us getting to the point where
+[14:09] like if you're not signing with private
+[14:12] keys, we do not trust this payment. And
+[14:15] then what what does that mean for
+[14:16] adoption, right? that that that's one of
+[14:18] those things where like so much fraud
+[14:21] and so much corruption could lead to it
+[14:23] being like we will accept nothing but
+[14:27] Bitcoin. That that's that's a good
+[14:29] point. Do you think AI ultimately
+[14:32] enhances the the Bitcoin adoption? I
+[14:35] think it does. I think it does in a big
+[14:36] way. Yeah, we we have these
+[14:38] conversations all the time at work. Um,
+[14:41] you know, we we we were recently talking
+[14:42] about like what does an AI um
+[14:46] potentially hire humans to do some sort
+[14:49] of work uh on a task that needs to be
+[14:52] done in the physical world and
+[14:56] then, you know, pays them in Bitcoin and
+[14:59] they go to the Bitcoin ATM to turn that
+[15:01] into cash? or does a does a human go out
+[15:05] and do services for cash and bring it to
+[15:07] the ATM and convert it to Bitcoin to pay
+[15:09] the AI like it's fee or whatever it's
+[15:12] doing like who knows right I mean I
+[15:14] think there's going to be a really wild
+[15:17] interface between humans and AI going
+[15:19] forward and
+[15:22] um I think Bitcoin is the currency of
+[15:23] that space for sure
+[15:26] how do you like how do you KYC an AI
+[15:30] right you can't do it So you have to
+[15:33] have like you have to rely on p private
+[15:36] keys and that that AI controls its own
+[15:39] private keys and it can sign and push
+[15:42] out a
+[15:42] payment then that's how you
+[15:47] verified by private keys because we we
+[15:50] want to empower this robotic future
+[15:54] um then it has to we have to rely on
+[15:56] private public private key pairs. can't
+[15:58] rely on identity anymore because you can
+[16:01] fake identity with AI is so good. The
+[16:04] voice, the sound, everything. Yeah.
+[16:07] Right. So, I mean, you know, I know
+[16:09] strategy is working on something of this
+[16:12] type and lots of other projects have
+[16:13] worked on decentralized identity. Uh but
+[16:16] at the end of the day, right, it all the
+[16:18] simple way to look at it, it comes down
+[16:20] to like do you control the private key
+[16:23] and therefore you can push a payment and
+[16:26] then we're not going to worry about
+[16:27] who's on the other end and then people
+[16:29] will laugh at us from the future that we
+[16:32] accept that paper that you can literally
+[16:34] print out of a printer. Yeah, AI is
+[16:37] going to laugh at us for sure like you
+[16:39] crazy people.
+[16:41] AI, I think, is already laughing at us
+[16:43] that the questions that we pose to AI
+[16:45] are like, "Oh, like that's so obvious.
+[16:47] Come on, do better humans." Yeah,
+[16:49] exactly. That's good stuff. I actually
+[16:52] want to do that. Um, I I didn't get to
+[16:55] that, but I want to have a podcast like
+[16:58] that with with with an AI. Probably like
+[17:01] chat GPD is probably a good one. uh just
+[17:04] have a conversation because I've seen
+[17:05] some people do it when it came out and I
+[17:09] think now it's so much more advanced
+[17:11] that it actually could be an interesting
+[17:13] uh chat. And I know I've heard Jeff
+[17:15] Booth talk about um an AI brain that an
+[17:19] avatar that he's created of himself that
+[17:22] he sends to meetings. Um he's mentioned
+[17:25] this on a couple different podcasts. It
+[17:26] might be interesting to try and have a
+[17:28] podcast with his avatar.
+[17:30] Oh gosh, that would be so fun. It would
+[17:32] be because I had Jeff on I think two
+[17:34] times already. So it would be so fun to
+[17:37] Who knows maybe you are talking to his
+[17:39] avatar
+[17:41] then it would be very good one right if
+[17:44] you ask him and he says well you've
+[17:45] already done it
+[17:46] [Laughter]
+[17:48] Rob that would be pretty awesome. He's
+[17:50] like yeah like uh the third time let's
+[17:52] do it again.
+[17:55] It's but it's it's it's I mean I don't
+[17:58] know how much this has to do with
+[18:00] Bitcoin but it's a really interesting
+[18:02] question of how we move forward. It's
+[18:04] already now on Twitter or on any social
+[18:08] media app for that matter but I'm mostly
+[18:10] on on Twitter. When you see a
+[18:13] video, the first thing you're like is is
+[18:16] that if you see something crazy, you
+[18:19] first like is that
+[18:20] AI? You this you always have that kind
+[18:23] of suspicion that is that AI and usually
+[18:26] if it's AI, there's like community notes
+[18:28] coming up and like like this is AI
+[18:30] because of that and that but we just in
+[18:32] the beginning of that phase. Absolutely.
+[18:35] I got a story about that. So, um, we had
+[18:39] a, uh, like a week here where there was
+[18:43] orbs all over where I live. And so, you
+[18:48] would hear like Blackhawk helicopters
+[18:50] and you'd go outside, right? And you'd
+[18:51] see them following these orbs. So, we
+[18:55] shot video of it and I put it on my ex
+[18:59] account like cuz this was just crazy.
+[19:02] And it's like these two orbs, Blackhawk
+[19:05] helicopter, and they're just like
+[19:06] following each other around, you know?
+[19:09] So, I shot it. My friend shot it. Like,
+[19:12] we know it. We saw it. Like, we know it
+[19:14] wasn't AI. But I put it on X. And
+[19:18] comments are like, "Yeah, that's BS.
+[19:20] That's AI." I could see the orbs move
+[19:22] through the tree like this way. Like,
+[19:23] they're making all these points about
+[19:25] how it was fake video. And I was just
+[19:27] dying. I was like, "There's nothing you
+[19:29] can do." like we live in a post-trust
+[19:32] world. It doesn't matter um what what
+[19:35] you know, everybody's going to have
+[19:37] their own interpretation and think it's
+[19:39] a lie or a scam. So, so like like what
+[19:42] like what's the value of even trying to
+[19:44] convince anybody of anything? You have
+[19:46] to live like just in your own truth and
+[19:49] and find your own way. like it it's
+[19:51] really it's a it's a wild experience to
+[19:53] see people just uh blatantly uh think
+[19:57] that you're scamming them when you're
+[19:59] trying to do your best thing. And that's
+[20:01] happened, I'm sure, with you as well.
+[20:03] Like when you're when you're talking
+[20:04] about Bitcoin, there's some people that
+[20:06] just like as much as you feel and know
+[20:08] it's real and true, they they will never
+[20:12] accept it or they won't they think
+[20:14] you're trying to do something. They
+[20:17] think you're trying to scam them or
+[20:18] something, you know. Oh, yeah. It's it's
+[20:20] uh I get that all all it all the time.
+[20:24] Oh, you're just talking about Bitcoin
+[20:25] because you know pump the price and I
+[20:27] always take it as a compliment that
+[20:29] someone thinks I can pump the Bitcoin
+[20:31] price.
+[20:34] Exactly. It's like Yeah, of course. I I
+[20:38] say buy Bitcoin and like all of a sudden
+[20:40] we have plus 10%. Yeah. And then they
+[20:43] turn around and go, hey man, you know
+[20:44] anything about hex?
+[20:47] But it's an interesting thing. Um, you
+[20:50] said post trust world. So like basically
+[20:52] a trustless world. What do you think the
+[20:54] role of Bitcoin will be? I feel like
+[20:57] Bitcoin is the only thing you can trust
+[20:59] at point then, right? No, absolutely.
+[21:01] And I think once you understand that, I
+[21:04] think this is why a lot of people start
+[21:06] thinking in terms of blockchain. you
+[21:08] know, they go they understand Bitcoin,
+[21:11] they they look at the consensus
+[21:13] mechanism and they go, let's apply this
+[21:14] to every place where there's no trust or
+[21:16] we need more
+[21:18] trust. Um, which then of course leads to
+[21:21] them doing a lot of things that they
+[21:22] probably shouldn't do. But, um, yeah, I
+[21:26] think like I like we said before, when
+[21:28] you start thinking about AI, you start
+[21:30] thinking about fraud, you start thinking
+[21:31] about
+[21:33] um, can I trust this video? Can I trust
+[21:36] that this politician really said
+[21:38] something?
+[21:39] Right? We, you know, we're playing, we
+[21:43] have actively right now at Bif Federal,
+[21:45] we have a what we call a digital notary,
+[21:48] but it's it's basically so that you can
+[21:50] embed data into the blockchain, right?
+[21:54] So, it's it's a timestamp, a open time
+[21:57] stamp. It's all open source stuff.
+[21:59] But, you know, it allows you to say take
+[22:02] a video. Let's say you captured a video
+[22:04] of a politician doing something corrupt
+[22:06] and you wanted to embed that in the
+[22:08] Bitcoin blockchain so it's available
+[22:10] forever and it's timestamped and it
+[22:12] couldn't be taken down, you know? Um,
+[22:15] it's that kind of stuff, right? So if
+[22:18] we're as a species going through this
+[22:21] great awakening, right, where we're
+[22:23] we're we're figuring out that maybe, you
+[22:26] know, money was a lie, maybe our history
+[22:29] is a lie, maybe the where humanity came
+[22:32] from is a lie, this food system's a lie.
+[22:35] Like if if we're looking at this thing
+[22:37] now, we're waking up to all these lies.
+[22:40] There has to be some sort of mechanism
+[22:42] by which we can anchor on truth. And
+[22:46] bitcoin is is the first one and money
+[22:49] was the or you know bitcoin is the first
+[22:52] but it's also the the best protocol we
+[22:54] have right now for anchoring truth. So
+[22:56] money was the first use
+[22:57] case ID identity become could become a
+[23:01] second use case. Um you know logging uh
+[23:06] and
+[23:07] recording
+[23:08] timestamping stuff that we need to
+[23:10] preserve for the future could be a
+[23:13] second or a third use case. And I think
+[23:15] more more will come. Um you know Jason
+[23:19] Lowry is talking about using uh Bitcoin
+[23:22] as basically a cyber security
+[23:25] uh powerhouse or engine that is going to
+[23:28] protect data right from from being
+[23:30] altered in the future as well. So
+[23:33] there's there's a lot of interesting
+[23:35] things that are going to come from this
+[23:37] massive protocol being adopted globally.
+[23:40] Money is just the first. Um, it's kind
+[23:43] of it's it's kind of cool that Satoshi
+[23:46] applied it to money
+[23:48] because that's a great way to hack
+[23:50] people into the system. You know,
+[23:52] nothing like greed to get people to
+[23:55] adopt something. Nothing, you know,
+[23:57] especially if you're trying to pull them
+[23:58] out of fiat. I know when when I first
+[24:00] got into Bitcoin and and many many of
+[24:02] the other people that I've watched, we
+[24:04] get into it because it's like, oh my
+[24:05] god, we're we're going to make a ton of
+[24:07] money. And then over time it evolves
+[24:09] into like, oh my god, this is so much
+[24:11] more important than money. And and this
+[24:14] could really provide massive benefits to
+[24:17] humanity in all these different ways.
+[24:20] Not only from the the culture of having
+[24:22] a hard money, but then all the other
+[24:25] things like we're talking about here now
+[24:27] that that could be built on top of this
+[24:29] system. And so, um, that that I think is
+[24:34] just a a a natural outgrowth of this,
+[24:38] um, trust machine that I think is going
+[24:41] to become incredibly important to a
+[24:43] society that's waking up. Let's take a
+[24:45] break for a moment and appreciate the
+[24:47] beauty that Coin Vigilante has made with
+[24:50] the Bitcoin watches. Those watches are
+[24:53] the most amazing, the most elegant way
+[24:56] of showing that you are a true
+[24:59] Bitcoiner. and Coin Vigilante just
+[25:01] dropped a completely new and amazing
+[25:04] Genesis edition of their watch
+[25:07] collections. You have the date of the
+[25:09] first ever minded Bitcoin block in there
+[25:12] and of course also the block height and
+[25:15] which epoch we are currently in. I love
+[25:18] the level of detail they put in in this
+[25:21] masterpiece. Make sure to check out
+[25:23] those amazing coin vigilante time pieces
+[25:26] down in the descriptions. I love those
+[25:28] watches. so so much. And now if you have
+[25:32] Bitcoin, I really do hope that you don't
+[25:34] have it on exchange. But if you do have
+[25:36] it on exchange, I have two ways for you
+[25:38] to deal with that. The first way is you
+[25:41] put it on a hardware wallet. That's the
+[25:43] entry for you to get into the
+[25:46] self-custody game. I recommend BitBox
+[25:49] Bitcoin only edition for that. It's a
+[25:52] super simple and secure way. And if you
+[25:54] check out the link in the description,
+[25:56] you even get 5% off if you use the code
+[25:59] Robin. And the second way is the Bitcoin
+[26:02] way. The Bitcoin way is your all-in
+[26:05] partner in terms of how to get the most
+[26:08] out of your sovereignty. They will
+[26:11] personalize for you a self-custody setup
+[26:14] that is perfect for your individual
+[26:17] situation. They will show you how you
+[26:19] can secure your own devices. Securing
+[26:22] your Bitcoin is not enough. You also
+[26:24] have to keep all your devices secure.
+[26:26] One topic that is overlooked often is
+[26:29] the inheritance plan. What happens with
+[26:31] your Bitcoin once you are no longer
+[26:34] here? Do you have a plan for that in
+[26:37] place already? And last but not least,
+[26:39] if you're in a jurisdictions where you
+[26:41] don't feel safe, it's better to get a
+[26:43] plan B. For all that, head over to the
+[26:48] bitcoinway.com/roin to get a 30inut free
+[26:51] call. And just a quick side note, I will
+[26:54] be for the first time ever speaking at
+[26:57] the Bitcoin Prague event in June. It
+[26:59] will be absolutely legendary and I'm
+[27:02] really looking forward to seeing all of
+[27:04] you there. You can get your ticket in
+[27:06] the link down in the description of
+[27:09] Bitcoin Prague. And very important, use
+[27:11] code Robin to get 10% off your ticket.
+[27:15] I'm really looking forward seeing you
+[27:16] there. But isn't money the the the
+[27:19] biggest problem of like it's the most
+[27:22] fundamental problem because it touches
+[27:24] like all the other aspects? Yeah, I
+[27:26] agree. I would agree with that 100%.
+[27:29] Yeah, it's it's like it makes a lot of
+[27:30] sense to start with with with money. Um
+[27:35] because money is the the thing where we
+[27:38] store our financial but also our lives
+[27:41] energy in and solving this trust solves
+[27:45] already so many other things. So that
+[27:48] that's a that's a it's a great way to to
+[27:51] start it also. I'm I'm just thinking out
+[27:54] loud here. when we are having now
+[27:58] central
+[27:59] institutions and and we're putting a lot
+[28:02] of trust in them. This works is if you
+[28:05] cannot fake an central institution but
+[28:08] now you can fake anything. You might
+[28:12] have talked to I don't know uh there's a
+[28:15] bank institution and there's a guy that
+[28:17] you always talk to. Now all of the
+[28:19] sudden the same guy calls you at home
+[28:23] has the same voice than he has when you
+[28:26] in the bank and he asks you oh uh can
+[28:28] you please just like give me that data
+[28:30] and stuff like that and your money is
+[28:32] gone because you thought this is this
+[28:34] guy and if this comes more and more down
+[28:37] in society and this those things already
+[28:39] started and then will just get even even
+[28:42] more and more and even worse. So this
+[28:45] completely erodess
+[28:47] the trust into those central uh
+[28:50] authorities because you don't even know
+[28:52] if those central authorities are the
+[28:55] real ones or the fake ones. You have no
+[28:57] way of knowing it. So in a way those
+[29:00] things make us more decentralized and uh
+[29:04] make us more make us all more a little
+[29:07] bit more cipher punk if you know what I
+[29:09] mean. Yeah. Yeah. Absolutely. I I mean
+[29:12] that's already happened to clients of
+[29:15] mine that um an AI voice replica fooled
+[29:19] them into thinking their grandson was in
+[29:23] dire need and they lost
+[29:26] $120,000. It was shocking to hear that
+[29:30] story from them. So it's already being
+[29:32] done. And um so that that if if you live
+[29:38] I when I think about this and I start to
+[29:40] think about living in a world where you
+[29:42] cannot trust any source then
+[29:45] community becomes more
+[29:48] valuable. Interpersonal relationships
+[29:50] become more valuable. Bitcoin becomes
+[29:52] more valuable. Physical resources become
+[29:55] more
+[29:55] valuable. And I also believe that
+[29:58] spirituality and connection to source
+[30:03] or consciousness whatever however you
+[30:05] would like to describe that becomes
+[30:08] incredibly valuable.
+[30:10] So uh because that leads to higher
+[30:15] cognitive recognition of your intuition,
+[30:18] right? Like like that that connection
+[30:20] between intuition and your
+[30:22] your mental kind of focus or real world
+[30:28] uh logical interactions.
+[30:31] So, I think this is part of the process
+[30:34] that we're all going through is like how
+[30:36] how do we live in a highly technological
+[30:38] world where everything could be
+[30:40] faked and still does that either push
+[30:44] you over the
+[30:45] edge and you become not
+[30:49] human or does that elevate humanity in a
+[30:52] way where you you you rise above and
+[30:56] and evolve beyond and above and and and
+[30:59] technology maintains itself as a tool
+[31:02] that this higher level being can then
+[31:04] use to to bring things into
+[31:08] materium. So like I I and I I tend to be
+[31:12] positive and I tend to think and that
+[31:15] this future is going to be uh the
+[31:18] upswing.
+[31:19] Um, I like to I look at all the
+[31:22] negativity and I I understand it and I
+[31:25] fear it, but I feel like if we focus on
+[31:27] how to get to these other levels, we can
+[31:30] we can use technology as a tool to be
+[31:33] elevate our species. So, uh, I I I think
+[31:36] the post trust or posttruth world is
+[31:39] going to drive that division and you're
+[31:41] you're going to have to make your choice
+[31:44] which path you're going to go and I
+[31:46] think it's going to be a lot of work to
+[31:47] get there for a lot of people. I mean in
+[31:50] the past technology always advanced
+[31:53] human humanity um on on I mean of course
+[31:58] you can also look at it in a bad way but
+[32:01] mostly in the big inventions and
+[32:04] discoveries that we made starting from
+[32:06] the printing press to electricity and
+[32:08] all those
+[32:09] things advanced humanity brought
+[32:12] humanity closer to each other and gave
+[32:16] humanity more tools so we can do even
+[32:19] more things. One of like a a a
+[32:25] mid-range from the a guy from the middle
+[32:27] class right now is way richer than the
+[32:31] richest guy alive 200 years ago. He he
+[32:33] can do a lot more than the richest guy
+[32:36] 200 years ago, which is crazy to think
+[32:39] how much a guy in 2050 or 2140 or
+[32:46] something like that can do because he
+[32:50] has so much more resources uh in in his
+[32:54] or so many so much better so many better
+[32:58] tools and and and skills at his disposal
+[33:02] than someone that is now like at past we
+[33:05] always look at almost like they're like
+[33:08] grave people. Um but they they aren't
+[33:12] but we have so much better tools in our
+[33:15] if you just look back five years if if
+[33:18] you have Google versus if you have an AI
+[33:22] at your fingertips that makes a huge
+[33:24] difference in how fast you can find
+[33:26] things and how fast you can do things
+[33:28] and learn and learn. Wow. Yeah. So I I
+[33:32] do hope and I'm always optimistic uh
+[33:34] that all those
+[33:37] technology all those discoveries and
+[33:40] inventions that we are having now AI and
+[33:42] Bitcoin primarily will advance humanity
+[33:46] a lot and we like wow that this was
+[33:49] really profound and important for us.
+[33:50] All of the sudden we can advance uh
+[33:53] technology a lot faster and
+[33:56] better. And the only flip side to that
+[34:00] is the people
+[34:01] that get it very late. Yeah. Uh get left
+[34:05] behind. But even the last person in
+[34:09] Bitcoin will still have a better life
+[34:11] because of Bitcoin even though he's the
+[34:13] last person to actually adopt it. Yeah,
+[34:16] I agree.
+[34:18] I I guess I I I'm beginning to build
+[34:22] like this hopeful vision of AI because
+[34:25] Ive I've used it. My son has used it
+[34:28] enough to
+[34:29] see where it could have like major
+[34:32] impacts on things outside the computer
+[34:36] screen. And um we we've been using it
+[34:40] recently to work on um designing a boat
+[34:43] and and
+[34:44] and working on plans for for that.
+[34:49] And you start to think about uploading
+[34:52] those plans to a robot
+[34:55] that we could then upload instructions
+[34:57] and teach it how to
+[34:59] weld. And all of a sudden, right, you're
+[35:01] you're you become this manufacturing um
+[35:05] you have all this manufacturing
+[35:06] capability uh with mechanical devices
+[35:09] that are going to get cheaper and
+[35:11] cheaper and cheaper relative to Bitcoin.
+[35:12] Incredibly powerful. I mean, I I can I
+[35:15] can imagine doing all sorts of things
+[35:17] with a robot and an AI brain that um
+[35:21] would scale my capability to feed my
+[35:25] family, build the devices I want to
+[35:28] automate things around my home on the
+[35:32] farm. There's there's so many great
+[35:35] things that could be invented
+[35:38] um that are unique to your situation.
+[35:40] So, it's like I just see this future
+[35:42] where raw materials and basic
+[35:45] resources and Bitcoin and
+[35:49] AI become the tools for sort of
+[35:53] unlimited abundance or at least giving
+[35:55] people the ability to really be
+[35:57] sovereign should they choose it, right?
+[36:00] Because I mean, we've had to rely on so
+[36:03] many third parties for so many things.
+[36:06] If my AI is my doctor, is my engineer,
+[36:11] is my accountant, is
+[36:14] my business plan developer, you know,
+[36:18] um, you name it, right? I mean, that's
+[36:21] that's just scales the individual at a
+[36:23] at a phenomenal rate. Like, I think what
+[36:26] we're going to do is mind-blowing. And I
+[36:30] think, you know, if if you combine that
+[36:32] with an everinccreasing Bitcoin
+[36:33] purchasing power, that's true individual
+[36:37] sovereignty,
+[36:38] right? That's what I'm so excited about
+[36:41] in the future. You You want to build a
+[36:43] boat? Yes. A big big boat for the next
+[36:48] flood. Yeah. No, we we've already built
+[36:51] a little a little aluminum skiff. That
+[36:53] was his first project, and now we're
+[36:55] looking at something more substantial.
+[36:57] and um and AI is helping us with that.
+[37:01] It's it's super interesting because it
+[37:04] makes us think about the proof of work
+[37:08] or or let's say in general work because
+[37:12] if if there's robots and they have
+[37:17] brains, do humans even need to work
+[37:19] anymore? If if if a robot can just do
+[37:25] cook for us, clean for us, build things
+[37:29] for us, get us to space, and do all the
+[37:32] things that we're now doing, like why
+[37:37] would humans need to work? And then
+[37:39] also, how do we keep track of things?
+[37:42] How is entrepreneurship looking? and and
+[37:44] and and what importance has Bitcoin in a
+[37:48] world
+[37:49] where mo like 99% of the things are done
+[37:53] by robots that are set up once they they
+[37:56] can build themselves, they can manage
+[37:58] themselves. We like it's a crazy thing
+[38:02] to think about. Yeah, it it's really
+[38:05] exciting. I mean, you can obviously can
+[38:07] go down this rabbit hole like, well,
+[38:09] they're going to turn against us and
+[38:10] murder us and all that, but
+[38:13] um I'm not I'm not so sure that that's
+[38:16] going to be the case. But if you know if
+[38:18] if you want to take the positive route
+[38:21] and you you start to think about
+[38:24] alleviating all those burdens from your
+[38:26] life of like I I've got to work in order
+[38:29] to go to the store and get food and to
+[38:32] pay my medical bills and to put gas in
+[38:34] the car and
+[38:35] d if those costs shrink
+[38:38] dramatically because of AI while
+[38:40] simultaneously Bitcoin is growing in
+[38:42] purchasing power uh it's not going to
+[38:45] take a lot of Bitcoin to become
+[38:46] sovereign.
+[38:48] in in that future. So, and when I say
+[38:51] sovereign, I mean like exactly what you
+[38:53] said, like I my robot's doing that for
+[38:55] me. If your robots's doing that for you,
+[38:58] then then what are you spending your
+[39:00] time
+[39:01] doing? And this is where I think it
+[39:04] leads people to a more spiritual path,
+[39:08] whatever that looks like for you, right?
+[39:10] of, you know, the time and energy to sit
+[39:14] and think about why am I here? As
+[39:17] opposed to I got to get a cup of coffee
+[39:19] and I got to go to work and I got to go
+[39:21] go here and I got this meeting, I got
+[39:23] that meeting and then I, you know, I got
+[39:24] to get home and pay my bills and do my
+[39:26] taxes and blah blah blah blah blah. If
+[39:28] you can sit there and and that can be
+[39:30] taken care of for you and you can spend
+[39:31] your time on like why am I here? What's
+[39:33] my purpose? and what how do I make this
+[39:37] a better what am I going to learn from
+[39:39] this experience how can I make this a
+[39:41] better experience what you know these
+[39:43] are bigger questions that I think we're
+[39:46] all here to try and answer but we don't
+[39:50] get the time and we don't have the
+[39:51] energy to focus on it that we deserve
+[39:56] it also makes you think
+[39:57] about what if those
+[40:00] robots all use Bitcoin to communicate
+[40:03] value to each other. And what does it
+[40:08] mean if you have a control of 0.1
+[40:13] Bitcoin, one Bitcoin, 10 Bitcoin,
+[40:15] whatever you
+[40:17] have, because dividing 8 billion people
+[40:21] to 21 million Bitcoin is one thing, but
+[40:25] add to those 8 billion people 50 billion
+[40:28] robots that also want to have those
+[40:30] Bitcoin makes that Bitcoin a lot more
+[40:33] valuable all of a sudden. and is that
+[40:36] deflationary uh power is is even bigger.
+[40:39] I never thought about that. Uh
+[40:41] interesting. And what if they what if
+[40:43] they need to like hey we need to stream
+[40:45] sats and we need to do it in a more
+[40:46] secure way so that I can hire other AI
+[40:48] agents. So I and I don't think the code
+[40:51] is working properly. So I'm going to
+[40:54] adjust the lightning code myself with
+[40:57] these other AI agents so that we can
+[41:00] evolve the system to a point that we can
+[41:01] use it better. Like is going to
+[41:04] accelerate at a rapid rate. I mean
+[41:06] that's just like any one of these AI
+[41:08] rabbit holes whenever I get into this
+[41:10] discussion we're just constantly blown
+[41:11] away at how fast this stuff's going to
+[41:13] change the world and it's just getting
+[41:16] started. I mean what was it like when
+[41:18] did chat GBT come out? like 2020 like
+[41:20] during COVID and it was like oh yeah I
+[41:22] can I can write a better email or I can
+[41:24] and now we're using it for unbelievable
+[41:30] things combined with all the other
+[41:32] agents that are out there. It's it's
+[41:33] it's mind-blowing. It came out I think
+[41:36] later than that. I think 2022 only. Is
+[41:39] that what it was? Yeah. It's gone really
+[41:41] fast. Yeah. I just see uh initial
+[41:45] release date is November 30, 2022. There
+[41:48] you go. It's It's kind of a weird kind
+[41:52] of like during peak peak inflation in
+[41:54] the United States and then that gets
+[41:56] released and we've been going downhill
+[41:57] ever since. Yeah. It's um it also makes
+[42:01] inflation look better than it actually
+[42:03] is, right? Yes. Yeah. 100%. It's the
+[42:06] whole theory. I mean, we we talked
+[42:08] already about Jeff Poof and the AI agent
+[42:11] of Jeff Poof, the AI Jeff would now say,
+[42:14] "Yeah, we you you don't have to measure
+[42:16] from the zero. you have to measure from
+[42:18] the productivity level of humanity and
+[42:21] then you have the true inflation rate
+[42:23] which uh I think is a very true thing
+[42:26] and uh is is not often enough talked
+[42:29] about right and it's
+[42:32] it's like do they right you can you can
+[42:35] you can make the re the reasoning that
+[42:38] deflation through AI is going to allow
+[42:42] governments to print extraordinary
+[42:43] amounts of money and devalue the debt
+[42:46] and kick the can down the road.
+[42:51] The other uh another scenario would be
+[42:54] like if they if they don't print and we
+[42:56] get a we get this much deflation that's
+[42:59] a complete default of the debt and it
+[43:01] breaks the system. Like if they
+[43:03] miscalculate how much deflation is
+[43:06] coming and they don't print fast enough
+[43:08] or they don't print at all because some
+[43:12] powers that be uh are more interested in
+[43:15] trying to uh collapse humanity and for
+[43:20] more of a control structure, right? Like
+[43:22] in 1929
+[43:24] uh we didn't print. There was a central
+[43:27] bank. they didn't print and they got a
+[43:29] lot more control out of not printing. So
+[43:33] that that's another option, right? Is it
+[43:35] I mean we we hear a lot in the space
+[43:37] about they have to print, they have to
+[43:38] print. True. If they want to keep the
+[43:40] game
+[43:41] going, if there's powers of be that
+[43:44] don't necessarily want to keep the game
+[43:45] going, that want to put extreme amount
+[43:47] of pressure on humanity to try and seize
+[43:50] control, then the the move would be not
+[43:53] to print.
+[43:54] So, I think it's, you know, either way,
+[43:59] Bitcoin excels in purchasing power
+[44:02] against all other forms of currency. So,
+[44:07] um, but, you know, it's it's it's
+[44:10] interesting to just kind of think about
+[44:12] those different scenarios because
+[44:13] they're they're radically different and
+[44:15] I think the average Bitcoiner is only
+[44:18] thinking in terms of the the print
+[44:19] that's coming. It's the whole game
+[44:21] theory of the the person that embraces
+[44:25] new technology right now that would be
+[44:27] EI and Bitcoin will not only have will
+[44:32] not only be way more productive and have
+[44:35] get done a lot more but also have the
+[44:38] superior store of value to store that
+[44:40] financial energy properly and those will
+[44:43] be the new kings and queens of of the
+[44:45] world and those who are kind of saying
+[44:48] oh AI is is all bad. You should not do
+[44:51] it because they will they they will kill
+[44:54] us one day and no, we should not use
+[44:56] Bitcoin because I don't know it's
+[44:58] burning the for forest or whatever you
+[45:00] want to say about
+[45:01] Bitcoin. Those who will just get left
+[45:03] behind. So it I I have a lot of empathy
+[45:07] for for Bitcoin haters because they will
+[45:09] live in a in a world that won't be as
+[45:12] good for them. Uh it will be still be
+[45:14] better than now. So they will still
+[45:16] benefit from those technologies but they
+[45:18] will not benefit to the same extent as
+[45:21] those people who actually embrace it
+[45:22] early. And in both Bitcoin and and and
+[45:26] AI we extremely early. I think we are
+[45:29] just just just briefly seeing what's
+[45:31] actually possible with those
+[45:32] technologies, right? We're in that like
+[45:34] cat video to YouTube phase.
+[45:38] That that that is that is crazy. Um, how
+[45:41] would you actually describe of of where
+[45:43] we are in into the let's say there's a
+[45:46] point where we have hyper bitcoinization
+[45:48] and then there's like 2009. How would
+[45:50] you describe where we are currently? Um,
+[45:53] I I think we have quite a ways to go
+[45:55] before we get hyper bitcoinization.
+[45:59] Um, I
+[46:02] I guess we we have to define hyper
+[46:04] bitcoinization, right? if hyper
+[46:06] bitcoinization is is that it becomes the
+[46:09] predominant
+[46:11] uh medium of exchange and unit of
+[46:14] account and store of value. Um if that's
+[46:18] how we're going to define it then yeah I
+[46:20] think we have a long ways to go. If it's
+[46:22] just uh if we're just going to measure
+[46:24] it by store of value and it becoming
+[46:26] sort of a the treasury asset of
+[46:30] sovereigns and big corporations I think
+[46:32] we're we're pretty I think we're on the
+[46:34] precipice of that happening. So I think
+[46:36] as a as a dominating store value, I
+[46:38] think that's within the next couple of
+[46:41] cycles. As a medium of exchange, I I'm
+[46:46] I'm I'm thinking it's going to be more
+[46:50] in
+[46:51] the 15 to 25 years and then unit of
+[46:56] account where sovereigns are just
+[46:58] completely given up. You know, it's a
+[47:00] much longer term maybe 50 years out. we
+[47:03] already seeing kind of the first step
+[47:05] towards with nation states now into
+[47:08] Bitcoin with big corporations with bit
+[47:11] into Bitcoin with even like Black Rockck
+[47:13] uh into Bitcoin which all of that wasn't
+[47:17] the case just let's say three to four
+[47:20] years ago I mean Micro Strategy if you
+[47:23] count that as a big institution then you
+[47:25] have to go back four and a half years
+[47:27] ago how do you look at the rapid pace of
+[47:30] adoption for Bitcoin as a store of
+[47:32] video. Yeah, I I
+[47:34] I I'm obviously excited about it. I
+[47:38] think I think it the more
+[47:40] um uh entities and individuals adopted a
+[47:44] store value is incredibly exciting. I
+[47:47] it's going to be um it's the first step,
+[47:50] right, to all all of those people and
+[47:52] entities starting to think like us that
+[47:56] this could be a solution for other
+[47:57] things. So, it has to start with
+[47:59] ownership just like it did for us. It
+[48:01] starts with ownership and then from
+[48:03] there you'll start to think about
+[48:06] Bitcoin as you know the other potential
+[48:08] that Bitcoin has as a solution for
+[48:10] society. So does that you know if we can
+[48:12] get store value then we can start to
+[48:15] think about decentralized identity on
+[48:17] Bitcoin. We can start to think about
+[48:19] cyber security with Bitcoin. We can
+[48:21] start to think about all these other use
+[48:22] cases that are just going to uh embed it
+[48:25] even deeper into our system. And then of
+[48:28] course you'll get you know unit of
+[48:30] account and medium of exchange. So um
+[48:33] it's the first step. It's shocking how
+[48:36] fast it changed that that was you know
+[48:40] in just like wild. It's it seems like
+[48:44] but at the same time right I guess it's
+[48:46] like like talk is faster especially in
+[48:49] in at the institutional level talk about
+[48:52] adoption is move moves so much faster
+[48:54] than actual ownership. uh in a and and
+[48:59] then and then do they have ownership in
+[49:01] a sovereign way? Uh meaning do they hold
+[49:03] their own keys? Right? So there's
+[49:05] there's still a lot of education. It's
+[49:07] great that they're there and they're
+[49:09] going to start buying. Right? But we
+[49:11] have to move them now from like, oh,
+[49:13] I'll just buy the ETF because it's easy
+[49:15] to I'll buy real Bitcoin and I'll hold
+[49:17] my own keys and uh then how do we set up
+[49:20] a multi-IG for a government or an
+[49:22] institution? you know, all stuff that
+[49:25] we've we think is probably fairly
+[49:27] straightforward and and but for them is
+[49:30] is you just, you know, it's a big
+[49:32] learning curve, especially when you need
+[49:33] to convince a board or you need to
+[49:35] convince
+[49:37] um you know, a bank uh to help you with
+[49:40] these things. So, it the it's awesome
+[49:43] that it's there. I think the the true
+[49:46] like
+[49:48] um outcome of all this we'll see in the
+[49:51] next cycle. That will be like the
+[49:53] undercurrent lifting the next cycle and
+[49:56] we'll be talking about a whole new set
+[49:58] of things that are exciting to us. But
+[50:00] the undercurrent that's really going to
+[50:01] drive the next cycle is is probably what
+[50:04] we're seeing today.
+[50:06] Yeah, it's the those cycles are just
+[50:09] crazy when when you always look at the
+[50:12] end of a cycle what happened the whole
+[50:14] cycle like kind of unbelievable what
+[50:17] what just happened. Um really really
+[50:19] cool. We have one question that I ask
+[50:22] each and every one of my guests and the
+[50:23] question is what can we learn from you
+[50:25] besides Bitcoin that I guess if if you
+[50:29] make mistakes you get
+[50:30] smarter like don't be afraid of screwing
+[50:33] things up. It sucks, but pain is a is a
+[50:37] motivation to get better. Um, so I think
+[50:40] that's that's what I've learned through
+[50:41] my life, right? You you bang your head
+[50:43] against the wall enough times,
+[50:44] eventually you like maybe I should just
+[50:46] go around the wall. It's it's it's a
+[50:48] good way. Yeah. Like trying out a lot of
+[50:50] things and then learning from the
+[50:51] feedback you get. That's the only way of
+[50:56] how to learn properly. Even if you learn
+[50:59] from other people, uh that that might be
+[51:01] a good way also. But uh nothing beats
+[51:03] your own experience, right? Yeah. No, my
+[51:06] my son has got a great ability to learn
+[51:08] from other people's mistakes. I was not
+[51:11] born with that ability. I got to do it
+[51:13] myself. Yeah, me
+[51:14] neither. Uh really cool. Thank you so
+[51:17] much. Um we have in the podcast we had a
+[51:20] previous guest is asking a question for
+[51:21] the next guest without knowing who the
+[51:23] next guest actually is. And the previous
+[51:25] guest ask you the question. We you you
+[51:28] kind of already teased it a little bit.
+[51:30] Uh but how do you define a Bitcoin
+[51:33] standard? Okay. Uh for for me, a Bitcoin
+[51:36] standard is a full store value, medium
+[51:39] of account or unit of account, medium of
+[51:41] exchange, like full adoption. It's the
+[51:44] entire globe on the Bitcoin network. To
+[51:47] me, that's the Bitcoin standard. And um
+[51:51] so that's a journey. It's not a a flash
+[51:54] point. And it's going to it's going to
+[51:57] take a long time, but we have a protocol
+[51:59] that can last thousands and thousands of
+[52:01] years. So, I think we're going to get
+[52:03] there. Do you think or are isn't a
+[52:07] Bitcoin standard world
+[52:09] other government or other tokens
+[52:13] allowed? Like, is is it a world where
+[52:15] there's financial singularity, whereas
+[52:17] only Bitcoin or is Bitcoin just a
+[52:20] dominant in each category? Um I I see it
+[52:23] as the just in terms of money as the
+[52:27] store value medium of exchange unit of
+[52:29] account. So it's it's what it's the it's
+[52:32] what everything is priced in. It's what
+[52:34] everything uh is stored in. That doesn't
+[52:37] mean that you don't have a token for
+[52:39] identity or you don't have a a token
+[52:42] that represents your ownership of real
+[52:45] estate or the title to a car. Like there
+[52:47] could be other tokens but the value of
+[52:50] every token or the value of everything
+[52:53] would be priced in Bitcoin. That's a
+[52:54] world I want to live in Bitcoin as well.
+[52:56] Yeah, absolutely. Thank you so much Paul
+[52:58] for for for being on. Before I let you
+[53:00] go, where can people find you, ask you
+[53:02] questions and and reach out to you?
+[53:04] Sure. I'm I'm on X at
+[53:07] humble_hodle
+[53:09] 1111 and u otherwise you can go to
+[53:13] bitefederal.com and see the company
+[53:16] there and uh uh you can you could reach
+[53:19] out to me either through the company or
+[53:22] through X my you know I'll I'll take a
+[53:24] message. So thank you so much Paul. Also
+[53:26] thank you so much for everyone that is
+[53:28] watching and listening for joining us
+[53:29] today. As always I'll be back tomorrow
+[53:31] with another episode. Bye-bye.
+[53:35] [Music]

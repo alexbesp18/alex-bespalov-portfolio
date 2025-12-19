@@ -1,0 +1,1243 @@
+Title: Secure your Bitcoin now or lose them forever | Samuel Harjunpää
+Video ID: dJMeoFi9scQ
+URL: https://www.youtube.com/watch?v=dJMeoFi9scQ
+Date Saved: 2025-06-15 12:01:12
+--------------------------------------------------
+
+[00:00] we're used to getting robbed not having
+[00:02] self- custody is just not an option the
+[00:04] most hardcore self- custody you can
+[00:06] think of is is a brain wallets won't
+[00:09] work for
+[00:10] 99.99% of people you hit your head you
+[00:12] lose it you forget it always comes down
+[00:15] to having some sort of information some
+[00:18] sort of words that you have to keep for
+[00:20] yourself and protect with your life
+[00:23] because there's your life energy in if
+[00:24] you're in a sinking ship you don't want
+[00:25] the ship to sink like this because no
+[00:27] one has time to get out right you want
+[00:29] it to kind of SN slowly so that everyone
+[00:31] has time to get into the life
+[00:33] boats it's a crazy Journey Bitcoin I
+[00:36] think 2024 will be a really interesting
+[00:38] year and I think it will be really uh
+[00:41] important also that everybody's holding
+[00:44] their own keys and I think uh you're one
+[00:46] of the the best persons to talk to with
+[00:48] like self- custody with celo uh do I
+[00:51] pronounce celo right that's correct it's
+[00:54] perfect perfect every name is pronounced
+[00:56] how uh you pronounce it in your country
+[00:58] right yeah that's that's also right yeah
+[01:01] um to start the episode off off I would
+[01:05] say like let's start with why like why
+[01:09] is it so important uh to hold your own
+[01:12] Keys uh especially in 2024 and moving
+[01:17] forward sure well I really think it
+[01:19] comes down to like the core ethos of
+[01:23] Bitcoin like Bitcoin is a is a
+[01:26] decentralized monetary system
+[01:28] decentralized database for money of
+[01:31] course people use it for other things as
+[01:34] well but mainly it's a it's a
+[01:36] decentralized database for money and
+[01:39] decentralization like if we really like
+[01:42] dive deep into that world like what word
+[01:44] like what it means is you know there's
+[01:46] obviously no no central point of failure
+[01:49] no central point of control no central
+[01:52] point of anything
+[01:54] basically everyone participates in the
+[01:56] network as an individual obviously there
+[01:59] are levels to that like the purest
+[02:03] Bitcoin Utopia thinking is like everyone
+[02:07] go M your own silicone make your own
+[02:09] chips build their own Hardware wallets
+[02:11] you know of signing
+[02:13] device make make the software yourself
+[02:16] obviously that's not a
+[02:19] reality um but decentralization more
+[02:24] broadly I would say is you know not
+[02:26] putting or not giving a central
+[02:28] Authority
+[02:31] even like the possibility of of doing
+[02:34] something fraudulent because well the
+[02:36] the Bitcoin space knows better than I
+[02:39] think any other space in in finance
+[02:41] probably in the world that um trusting
+[02:44] your assets with with the custodian with
+[02:48] the central party that's it sooner or
+[02:51] later something bad will
+[02:54] happen and that's not to say that you
+[02:57] shouldn't ever use any
+[03:00] centralized service for
+[03:02] anything but it's more
+[03:05] like if you can why not you know take
+[03:10] self- custody because it's this asset
+[03:13] class allows for it and and it allows
+[03:14] for it very easily in contrast to for
+[03:17] example cash or gold like you don't want
+[03:21] to you you don't want to take out all
+[03:23] the money in your bank account and put
+[03:25] it under your mattress CU that's not
+[03:26] very convenient right you're basically
+[03:29] shutting out like 90% of your life or
+[03:33] 99% of the modern conveniences because
+[03:37] you know no more internet shopping for
+[03:38] you because you know you're not going to
+[03:41] be sending that cash through the mail
+[03:43] with gold as well such a big amount so
+[03:46] it's like it's not convenient with other
+[03:49] asset classes but but with
+[03:51] Bitcoin it is and you can really make it
+[03:54] convenient and you can make it fit your
+[03:56] own sort
+[03:58] of
+[04:00] your own security model I would say yeah
+[04:04] it's it's a crazy asset that we can have
+[04:08] it in our brain and just walk around
+[04:10] with it and uh nobody can manipulate it
+[04:14] nobody can stop you from using it that's
+[04:17] that's still one of the most
+[04:19] mind-blowing facts about Bitcoin that
+[04:22] the importance of that just came to me
+[04:25] while I was researching about Bitcoin
+[04:28] and then it bothers me so much watch
+[04:29] when people are like uh yeah I bought
+[04:34] Bitcoin and I have it on that exchange I
+[04:36] mean there there are a lot of things you
+[04:38] can do uh in Bitcoin like you can go the
+[04:40] extreme rout with completely no kyc
+[04:43] peerto peer uh you maybe have cash like
+[04:46] physical cash and then you buy from
+[04:48] other peers a Bitcoin in real life like
+[04:51] you can go to a extreme route but not
+[04:55] having self- custody is just not an
+[04:58] option at this point I think
+[05:00] even if you buy from some exchange even
+[05:02] buy from coinbase or some big exchange
+[05:04] where you have full KC and stuff like
+[05:05] that take it at least to self custody
+[05:09] you they know that you have the Bitcoin
+[05:12] but in an extreme case they cannot take
+[05:14] it from you they can say yeah you have
+[05:17] them please give it out to us but they
+[05:19] have to force you to give it to you like
+[05:21] and I'm still uh um bothered by this
+[05:25] whole thing that they are not in fear
+[05:28] that Bitcoin is on a sale on a
+[05:31] centralized exchange but they are in
+[05:33] fear and even some bitcoiners are in
+[05:36] fear to having their Bitcoin in self-
+[05:39] custody what do you think will it take
+[05:42] for for the majority of people to take
+[05:45] self- custody and take that fear away
+[05:49] and make it like an easy thing and I
+[05:51] think with Cel also you have like two
+[05:53] products that kind of work towards that
+[05:56] that future maybe you can elaborate on
+[05:58] on that
+[06:00] yeah so like I said that there are
+[06:02] different levels to self- custody right
+[06:04] so maybe like the most hardcore self-
+[06:08] custody you can think of is is a brain
+[06:12] wallet right it's
+[06:14] like very extreme won't work for 99. 99%
+[06:20] of people because it's it's just not
+[06:22] it's just not smart or convenient you
+[06:25] hit your head you lose it you forget it
+[06:27] like whatever happens you get too drunk
+[06:29] one night and you know wake up and you
+[06:32] don't remember it but it's like there
+[06:34] are different levels to it so really
+[06:37] what what you have to or what everyone
+[06:39] has to figure out is is what is my level
+[06:43] of self- custody like if I'm an if I'm
+[06:46] an immigrant fleeing like an oppressive
+[06:51] government through a border or whatever
+[06:55] you know probably I wouldn't want to
+[06:58] have my
+[07:00] Keys written down on anything or on me
+[07:02] that's probably when I would use a brain
+[07:04] wallet um but then again if if I if I
+[07:07] live in the Western World um I have a
+[07:10] home I have a house an apartment
+[07:13] whatever um I don't have kids you know
+[07:17] I'm I'm alone uh that's in that type of
+[07:20] situation you know just having your keys
+[07:24] written down stored in your bank vault
+[07:26] or maybe doing like a Shamir backup
+[07:28] where you split it in in in three
+[07:30] different locations is is actually very
+[07:33] easy like if you think about stuff that
+[07:36] you you have like that anyways like you
+[07:40] know people have paintings that are
+[07:42] worth a lot people have you know their
+[07:43] passports I I can't think of
+[07:45] a I've never lost my passport for
+[07:48] example and I carry that around when I
+[07:50] travel so it's like assigning assigning
+[07:53] a certain like value and meaning to that
+[07:56] like private key is very important
+[07:59] obviously that's that's the first step
+[08:01] the second step is how how do you like
+[08:03] store it the safest um and that's like I
+[08:07] said up to up to each
+[08:09] person themselves to decide like you
+[08:12] know you might want to sort in a bank
+[08:14] vault in your house just one just just
+[08:18] have your private key on one you know
+[08:21] object whether it's paper we we do a
+[08:23] stainless steel backup which is
+[08:25] obviously more
+[08:27] durable uh but you can St in on on one
+[08:31] object in one place if that's what you
+[08:34] want if you're not afraid of anyone you
+[08:38] know coming in knowing where it is
+[08:40] robbing you if if that's something
+[08:42] you're afraid of you might want to do
+[08:44] like a Shamir Shamir thing or if you
+[08:46] have kids you want to leave the Bitcoin
+[08:48] to you can you can do like a two out of
+[08:51] three multisig type of solution where
+[08:53] you have um you have your seed split up
+[08:57] on three different um three different
+[09:00] pieces of paper or metal or whatever you
+[09:02] decide to use and you might store one of
+[09:05] them in your bank vault at
+[09:08] home
+[09:09] um obviously no one can do anything with
+[09:12] it you can't move the funds with just
+[09:16] that key but then you could give like
+[09:18] for example a lawyer another another key
+[09:22] another copy of the key and tell the
+[09:24] lawyer like if I pass away give this to
+[09:25] my kids uh with my you know Testament my
+[09:30] state um you could put one in a bank
+[09:33] vault for example like if you're worried
+[09:35] about losing it
+[09:38] um there there are a bunch of things
+[09:40] that give friends or family
+[09:42] like it's it's really the difficulty
+[09:45] really comes from the fact that people
+[09:46] need to start thinking for themselves
+[09:48] right and that that brings me to like
+[09:51] the the other end of the spectrum where
+[09:53] you you can still do like self- custody
+[09:55] but have um have sort of a
+[10:00] kind of like a third party uh you know
+[10:02] The Ledger recover thing caused a lot of
+[10:04] controversy in the Bitcoin space which
+[10:07] is understandable it's mostly I'd say
+[10:09] it's like a PR mistake from Ledger doing
+[10:12] that you know not really reading the
+[10:15] crowd reading reading their customers um
+[10:18] because currently people in self-
+[10:19] custody are are like hardcore self-
+[10:22] custody maximalists like me and you
+[10:25] probably but but there's obviously going
+[10:27] to be like a a different to it right and
+[10:30] and what I think is important is is
+[10:32] separating like self- custody and Cold
+[10:34] Storage like you can have your keys in
+[10:37] Cold
+[10:38] Storage but it doesn't have to be self-
+[10:42] custodial so that's that's like a very
+[10:44] important um like distinction to make
+[10:47] because self- custody and Cold Storage
+[10:48] have have usually gone like hand inand
+[10:50] they've been basically synonyms but but
+[10:53] they're not really if you think about it
+[10:55] like you could take your Hardware
+[10:57] wallets take out the seed Fray
+[10:59] write it down in a piece of paper and
+[11:01] take the the piece of paper to a bank
+[11:04] vault right now it's not like now it's
+[11:07] not self custodial you you you let the
+[11:09] bank take care of it but you still have
+[11:11] your keys in Cold Storage on the
+[11:12] hardware wallets so that's what I mean
+[11:15] when when I say that you you have like
+[11:16] different levels to it and obviously at
+[11:20] some point um services like ler recover
+[11:24] similar
+[11:25] Services um will have users because
+[11:29] there are obviously people who are not
+[11:32] going to
+[11:34] dive you know head first into self
+[11:37] custody into into
+[11:39] Bitcoin um and and those type of people
+[11:43] you know they either do it on an
+[11:45] exchange or they they use something
+[11:50] something like the recovery
+[11:53] service um me personally I would never
+[11:55] use anything like that cuz I want to
+[11:59] be in control I want to I want to set up
+[12:01] my own system depending on my own
+[12:04] situation but but for some some people
+[12:07] situations that might be the best
+[12:09] solution and it's that's what free
+[12:12] markets are that's like what it's all
+[12:14] about people bringing out different
+[12:15] types of services um and competing
+[12:19] competing with them um offering
+[12:22] different solutions yeah I think also
+[12:24] that like like I hope I can imagine it
+[12:27] but uh maybe I'm I'm just too hopeful
+[12:30] and too real too optimistic on the
+[12:32] future but I think Key Management is
+[12:35] something that everybody has to learn
+[12:37] just as like how to write an email how
+[12:39] to how to set up a normal Google account
+[12:43] like those things now so normal for
+[12:46] everybody but just like 20 30 years ago
+[12:49] uh you could not even do it so like uh
+[12:52] we we are progressing and I think there
+[12:55] will be a lot of uh Tech that is being
+[13:00] developed in the space uh and probably
+[13:03] also um keeps the ecosystem um in intact
+[13:08] like there like for every person on
+[13:10] every level there are different kind of
+[13:12] TXS and different kind of security
+[13:14] levels as you said when you go on out of
+[13:18] a country that has an oppressive uh
+[13:20] regime and has like War maybe even you
+[13:23] don't want to have like one piece of
+[13:26] paper where there's like one and the
+[13:28] first and then there all the 24 words
+[13:30] and maybe there's like Bitcoin wallet
+[13:32] written on the top like make it really
+[13:35] obvious like just like destroy it
+[13:38] remember it and then write it down when
+[13:40] you're in the Target country like this
+[13:42] is this is still risk do you take
+[13:45] because you can fall and hit your head
+[13:47] and forget it and your your thing is
+[13:49] also way but it always comes down to
+[13:52] securing some some piece of information
+[13:56] like even if you have like a Google
+[13:58] account
+[13:59] uh or a bank account where somebody
+[14:02] hacks in you have a username you have a
+[14:04] password someone comes in they steal the
+[14:07] money the money is gone anyway so like
+[14:08] it always comes down to having uh some
+[14:13] sort of information some sort of words
+[14:17] that you have to keep uh for yourself
+[14:20] and and protect uh with your life
+[14:22] because there's your life energy in
+[14:24] there and I hope we come to the point
+[14:26] where everybody does that uh maybe about
+[14:29] you like how did you find your way in
+[14:32] Bitcoin and why are you now so
+[14:34] passionate that you even like found a
+[14:36] company in in the in the
+[14:39] ecosystem sure it's a it's a long
+[14:42] journey like I think everyone everyone
+[14:44] has a long journey into Bitcoin it's a
+[14:47] bumpy road for sure um but it's worth it
+[14:51] uh so
+[14:52] um I'm I'm this is what I usually say I
+[14:55] say I'm I'm of the generation that
+[14:57] doesn't really remember when they heard
+[14:59] about Bitcoin for the first
+[15:01] time um I I know that the first time I
+[15:05] really ran into Bitcoin um was in 2013
+[15:08] when uh Ross Alber got
+[15:12] arrested um I was watching the news I I
+[15:16] think or reading or reading the
+[15:17] newspaper maybe both but uh I I ran into
+[15:19] this silk CAD dark web
+[15:22] thing and um I got really uh interested
+[15:26] initially in the whole dark web Deep Web
+[15:30] uh thing you know there's an internet
+[15:31] the government can't control like people
+[15:34] selling all types of illegal stuff there
+[15:38] all kinds of crazy crazy stuff going on
+[15:42] and um I got very interested in it um
+[15:45] and I just wanted to figure out what it
+[15:48] what it was um so I I learned how to uh
+[15:52] you know get a get a tour
+[15:54] browser I'd find the marketplaces you
+[15:57] know SE cro 2.0 pop top pretty much
+[15:59] immediately after uh Sil CAD 1.0 got
+[16:02] shut down um and I found my way there
+[16:06] and uh I noticed that they were using
+[16:08] this uh crazy internet money called
+[16:12] Bitcoin uh to
+[16:14] transact uh this is a pretty typical
+[16:17] story of of people my age getting into
+[16:19] into Bitcoin through through the dark
+[16:22] web um but like I said I I was initially
+[16:25] not too interested in uh in Bitcoin
+[16:28] itself I was more interested in in the
+[16:30] dark web in
+[16:32] this kind kind of the thought of Bitcoin
+[16:34] like there's something on the Internet
+[16:36] that the government can't control like
+[16:38] governments can't control like it this
+[16:40] is like a almost like a a Libertarian
+[16:45] Utopia like a digital libertarian Utopia
+[16:48] that's that's on my computer or or
+[16:51] phone and um yeah so so I got I got
+[16:55] really really interested in that and and
+[16:58] I started sort of nerding out about
+[17:01] technology in general um and and about
+[17:05] these like Freedom Technologies more
+[17:07] broadly um then like the the final nail
+[17:11] in the coffin I'd say uh like when I
+[17:13] when I truly got
+[17:15] Bitcoin um was in
+[17:18] um I'd say
+[17:20] 2019 when I was uh I was living in
+[17:24] Argentina for a
+[17:25] year and as you can imagine that kind of
+[17:29] opens up your your eyes
+[17:32] to well um a multitude of different
+[17:35] scams but but mainly uh mainly the scam
+[17:39] around uh inflation money printing
+[17:42] central
+[17:43] banks so that's when I really really
+[17:46] like got it like I was interested in it
+[17:49] before for the for the technology for
+[17:52] the you
+[17:53] know this is pretty pretty uh cringe
+[17:58] thing to to say like I was in it for the
+[17:59] technology was but I was I was initially
+[18:01] like really just in it for for the like
+[18:04] the freedom aspect like this is this is
+[18:07] cool like no one can control this um
+[18:11] there are no taxes on it
+[18:13] like like it's it's pretty Rad but then
+[18:17] then I really started understanding the
+[18:20] like
+[18:21] U I would say more philosophical uh like
+[18:24] societal impacts it could have and
+[18:27] that's like when I
+[18:29] I became super passionate that's when I
+[18:32] really like realized this is this is a
+[18:34] huge
+[18:35] thing um and I I I understood the the
+[18:39] infrastructure like the the ins and outs
+[18:42] of how how Bitcoin
+[18:44] Works um so it was like I got that first
+[18:48] and then later on I got the the
+[18:50] philosophical societal aspects of it and
+[18:53] that's sort of how I got so passionate
+[18:56] what do you think will be the like the
+[18:58] societal change that will happen on a
+[19:01] full like if we zoom out like 50 years
+[19:05] and we are kind of getting really close
+[19:07] to like a Bitcoin standard you can see a
+[19:10] little bit of it like in El
+[19:12] Salvador uh but what will be the change
+[19:15] that will happen on on the world uh with
+[19:18] with Bitcoin as a basis with a
+[19:21] fundamental layer in
+[19:23] Bitcoin well I think the most
+[19:26] interesting interesting part of it
+[19:29] is well we're used to getting robbed at
+[19:32] this point we're used to prices going up
+[19:37] much faster than you know our salaries
+[19:41] go up but um a Bitcoin St it's basically
+[19:45] like more and more people falling into
+[19:48] like poverty every year basically of
+[19:50] course governments can change the
+[19:52] definition of poverty how much they like
+[19:54] you know but but still people are people
+[19:57] are getting poorer people can afford
+[20:00] less and less each
+[20:02] year and
+[20:04] um yeah it's it's not really good for
+[20:07] morale in general in in the population
+[20:10] it
+[20:11] really like uh it really starts
+[20:16] affecting the way people look at Society
+[20:20] in general like people become much more
+[20:23] depressed much more I would say not
+[20:27] hopeful about the future because they
+[20:30] feel like the future is going to be less
+[20:33] than what you have
+[20:35] now um obviously it's not not a bad
+[20:38] thing to live in the moment like enjoy
+[20:40] the moment but but people are not
+[20:43] thinking forward because it's it's
+[20:46] depressing right it's it feels like it's
+[20:49] going to be worse tomorrow than it is
+[20:53] today um so I I cuz ultimately like
+[20:57] Society is just just about people right
+[20:59] people form form the
+[21:01] society and uh the general feeling
+[21:04] amongst people is what what creates like
+[21:08] a prosperous Society or or like a not
+[21:11] prosperous Society so I believe that one
+[21:14] of the biggest things like setting aside
+[21:16] all the all the money things Finance
+[21:19] questions uh I I think the biggest
+[21:20] impact will be that that people will be
+[21:22] more hopeful about the future and more
+[21:26] optimistic and
+[21:28] um and they can feel themselves uh
+[21:31] progressing much more uh than they maybe
+[21:35] would be now
+[21:38] because it's it's not just money is just
+[21:42] a tool right so it's it's it's not like
+[21:45] just people getting extra money or being
+[21:47] able to buy extra stuff makes them
+[21:49] happier but people knowing that they
+[21:52] have
+[21:53] like more monetary freedom in the future
+[21:58] future than they have now that's it
+[22:00] lifts a huge weight off your shoulder
+[22:03] like I don't know if this is true but um
+[22:07] I think someone said that the number one
+[22:09] reason for divorce at least in the US is
+[22:13] finances
+[22:15] um and you know that that kind of tells
+[22:18] you something
+[22:19] about how how finances links to
+[22:25] happiness but again it's it's not about
+[22:27] like
+[22:28] having the money to buy like crazy stuff
+[22:31] it's like having the money
+[22:33] to to like be free and and and feel like
+[22:37] you're progressing that's that's I think
+[22:40] the biggest so in in in short I think I
+[22:42] think people will be happy much happier
+[22:44] on a Bitcoin standard I'm super excited
+[22:46] to announce that this podcast got the
+[22:49] first ever sponsor 21 Bitcoin is Bitcoin
+[22:54] only from day one and they teach and
+[22:56] preach self custody this is my goto
+[23:00] exchange when someone asks me oh where
+[23:02] can I buy my Bitcoin from this is the
+[23:04] easiest entry for bitcoiners and if you
+[23:08] want lower fees Plus at the same time
+[23:10] support this podcast use code Robin and
+[23:13] click the link in the description yeah
+[23:16] it's interesting like you said it like
+[23:18] Bitcoin in the end of the day it's just
+[23:20] money uh but when you when you're like
+[23:24] running a
+[23:26] marathon uh and uh running on a Bitcoin
+[23:29] standard is like you're running on a
+[23:30] solid Street and on a Fiat standard is
+[23:33] like you're still running but you're
+[23:35] running on Sand like you you you fall
+[23:38] down so much faster you you you have to
+[23:42] run so much more to get to the same
+[23:44] point as you would run on a normal solid
+[23:47] street with good shoes and in the sand
+[23:50] you're like just you're just trying to
+[23:52] keep up with the inflation and uh like
+[23:55] to to actually keep up with inflation
+[23:57] you don't even uh you really need to
+[23:59] step up your game every time you are
+[24:03] doing anything like this with you have
+[24:07] to get the salary basically like 50%
+[24:09] increased every year to really keep up
+[24:12] with the asset inflation with with house
+[24:15] prices with with all the good stuff I
+[24:17] think uh like the CPI numbers the
+[24:21] inflation numbers that we we have been
+[24:24] given they like with 5% 10% this is for
+[24:27] me all because when you look at
+[24:30] how much more expensive a nice house in
+[24:33] a nice neighborhood gets or how much
+[24:36] more expensive the uh food prices in
+[24:39] restaurants where you want to go with
+[24:41] your friends in there because it's a
+[24:43] nice restaurant like all the nice things
+[24:47] are getting more expensive uh um and way
+[24:51] more fast expensive than the the
+[24:55] banana like of course banana is is not
+[24:58] getting like oh now it's 10 now it's 50
+[25:01] like I think we get there but not as
+[25:05] fast as the the really good things like
+[25:07] it always depends when you when you live
+[25:10] in I think saor said it in the beginning
+[25:12] so good when you live in uh your parents
+[25:14] basement only watch Netflix uh and and
+[25:18] and and live that kind of a life you are
+[25:21] not bought by inflation like the Netflix
+[25:24] subscription will not be crazy in the
+[25:26] next years I guess
+[25:28] uh so you will keep up with inflation
+[25:31] but if you want anything good in life
+[25:33] you have to work a lot to keep up if
+[25:36] you're working in a Fiat standard and
+[25:38] this will completely change society if
+[25:41] people get the Hope back that they can
+[25:43] actually build on something solid so I
+[25:46] think you you said it really really good
+[25:49] maybe in the terms of building something
+[25:52] solid uh like what did motivate you to
+[25:55] to build celo to being a and Bitcoin
+[25:58] entrepreneur as I understand it is
+[26:00] really Bitcoin focused like I saw some
+[26:02] some videos and it's all on bitcoin
+[26:04] focused like what did motivate you to
+[26:07] start this off and like how far are you
+[26:09] are you still a onean show or how is
+[26:11] this the setup going no we're we're
+[26:15] multiple people I've been with my
+[26:17] co-founder R3 for two years um and we
+[26:21] have uh some Engineers also working uh
+[26:25] part-time with us to uh to build the
+[26:27] found Foundation uh we're
+[26:29] still we're currently getting into uh a
+[26:32] place where we really have
+[26:34] everything mapped out so to say mainly
+[26:37] regarding our Hardware wallet
+[26:39] clavis uh that's a that's obviously a a
+[26:43] big uh big project we have our our key
+[26:47] store yois which is at the end of the
+[26:50] day a pretty simple product uh but kind
+[26:53] of our entry into the
+[26:54] space um but what really uh got me
+[26:59] interested in it in it was
+[27:01] um well I first of all I felt like I
+[27:04] could contribute I felt like I could
+[27:05] bring something um I felt like there was
+[27:09] there was something I could contribute
+[27:10] with like I think that's where it where
+[27:14] it comes from
+[27:16] like I was I was thinking about like the
+[27:19] experience of using Bitcoin the
+[27:23] experience of of like the the the
+[27:26] general wallet space um and I kind of
+[27:30] came to the conclusion that you know
+[27:34] there's the wallets is for Bitcoin like
+[27:38] what the search engine and browser was
+[27:40] for the internet like like it's it's the
+[27:43] it's everything like without the
+[27:47] wallet there there is no Bitcoin without
+[27:49] a search engine a browser there's no
+[27:51] internet right it's like the the
+[27:53] Cornerstone of everything and I thought
+[27:56] that that there really isn't there isn't
+[27:59] like a wallet that in my opinion has has
+[28:02] cracked the
+[28:03] code and I felt like like I could bring
+[28:06] something uh different to the table
+[28:09] where where I could basically take a
+[28:12] swing at cracking the code and I think
+[28:14] like one one thing I I got focused on
+[28:18] was that that it's too like how would I
+[28:22] say segregated like you have hot wallets
+[28:24] you have cold wallets you have custodial
+[28:26] non-custodial
+[28:29] and um I thought there has to be like
+[28:31] some some golden Middle Road to
+[28:36] take
+[28:37] because you know this is this is very
+[28:41] confusing for regular people right it's
+[28:44] like you have you have it's
+[28:48] basically too many options kind of there
+[28:51] needs to be something that kind of
+[28:53] brings together everything like the best
+[28:55] of best of everything and sort of puts
+[28:59] it into one package right and um well
+[29:04] the first thing I had in mind is well
+[29:07] obviously Bas layer Bitcoin transactions
+[29:10] are not going to be what people are
+[29:12] going to be paying stuff with right um
+[29:17] like you're not going to go to the kiosk
+[29:19] to get a coffee with uh a base Bas layer
+[29:23] transaction so um the next next question
+[29:26] was like okay so what what is going to
+[29:29] be the medium through which you let's
+[29:31] say purchase like a regular coffee how's
+[29:33] that how's that user experience going to
+[29:36] be
+[29:36] like and um well the there are a bunch
+[29:40] of answers right it's not
+[29:43] like there's one thing uh but lightning
+[29:48] lightning is uh is a great thing in my
+[29:51] opinion lightning is it's it's fantastic
+[29:53] the infrastructure is it's great it's
+[29:55] it's ingenious um but the the problem I
+[29:59] see with lightning for like everyday
+[30:02] people is
+[30:04] that well first of
+[30:07] all you kind of need to set up the
+[30:11] infrastructure right like you need to
+[30:13] well you again you have two choices here
+[30:15] you can have self custodial lightning or
+[30:17] you can have like custodial lightning
+[30:19] and at the end of the day like if if the
+[30:22] lightning is going to be custodial then
+[30:25] what's the difference of just having it
+[30:27] on an
+[30:28] exchange right it's just that there's
+[30:30] really no like the only difference is
+[30:32] okay I can I can move lightning funds to
+[30:35] like a a non-custodial
+[30:37] lightning wallet through but but it's
+[30:39] still like an exchange can do that like
+[30:41] relay for
+[30:43] example
+[30:45] um has a lightning integration so it's
+[30:47] it's kind of like
+[30:49] a a question of okay so lightning works
+[30:53] if it's custodial
+[30:56] right and um and custodial
+[31:00] services like sooner or later something
+[31:02] bad
+[31:03] happens something bad I'm not saying
+[31:06] everything goes to hell like goes down
+[31:08] but sooner or later something bad
+[31:10] happens
+[31:11] so I was thinking there has to be like
+[31:14] there has to be a better better way like
+[31:16] a better system of doing this also
+[31:18] lightning transactions are cheap but um
+[31:23] still there's there's a
+[31:25] cost um
+[31:28] and also like separating onchain and and
+[31:31] lightning it's like so I have a
+[31:33] different app for my for my spending
+[31:36] then I have different app for my saving
+[31:37] or or then I have like a device for my
+[31:40] saving kind of gets confusing like you
+[31:43] kind of want to bring everything
+[31:45] together so so the infrastructure we're
+[31:47] going for is
+[31:51] basically you have um a hardware wallet
+[31:55] which serves as as your wallet just like
+[31:59] most people still carry a wallet
+[32:01] around um and now the first question
+[32:04] people usually have is why would I carry
+[32:06] my Hardware Wallets on me like that's
+[32:09] stupid right like why would I carry
+[32:11] everything with me and the answer to
+[32:14] that is like you don't you don't carry
+[32:16] everything in the hardware wallets
+[32:19] what's beautiful with Bitcoin is that
+[32:20] you can you can do a an HD hierarchical
+[32:24] deterministic wallet where you basically
+[32:27] from the
+[32:28] same seed phrase you can generate
+[32:31] multiple wallets
+[32:33] right and uh you can generate a savings
+[32:37] wallet so the infrastructure we're going
+[32:39] for is you generate a savings wallet and
+[32:40] you generate a spending
+[32:42] wallet um and the saving saving wallet's
+[32:45] private key is completely wiped off the
+[32:48] device after you generate it so you
+[32:50] generate the the Saving Private key and
+[32:52] you generate the addresses to it but
+[32:55] then you wipe the the saving PR private
+[32:57] key so on the hardware wallet you just
+[33:00] have your saving
+[33:03] addresses this is to avoid stuff like
+[33:05] clipboard hacking where you know
+[33:08] people uh people uh spam your your uh
+[33:12] clipboard with their
+[33:15] address um like if you if you uh send
+[33:18] send your friend for example hey this is
+[33:20] my Bitcoin address and someone gets in
+[33:22] between and and you send the wrong
+[33:24] address and they send the funds there um
+[33:26] so so that's like the point of having
+[33:29] even your addresses in the offline
+[33:32] environment um but
+[33:35] then you also want like a savings sorry
+[33:38] a spendings account where you can spend
+[33:40] from like Apple pay Google pay uh style
+[33:45] like very easy convenient and and a
+[33:49] thing I I always like wanted to do and I
+[33:52] never understood why it doesn't exist
+[33:54] well I do now uh but but I didn't
+[33:57] understand it before is why isn't there
+[34:00] a payment service where I can send money
+[34:04] for free anywhere in the world
+[34:09] instantly well obviously that that
+[34:11] exists with lightning now but it's it's
+[34:12] not exactly
+[34:13] free um all the time and it's it's a bit
+[34:18] cumbersome to set up um but then then I
+[34:21] started in finding out about about like
+[34:25] uh federations um fed thement stuff like
+[34:28] that and obviously improving Bitcoin
+[34:30] privacy is is also an important thing um
+[34:34] so we started thinking of this like
+[34:37] um sort of like a uh a
+[34:42] nonprofit payment Network run by the
+[34:46] Bitcoin Community like different Bitcoin
+[34:48] associations around the
+[34:50] world um who basically um run this type
+[34:54] of federation that's nonprofit so that
+[34:57] there's there are no transaction fees
+[35:00] whatsoever and uh you can transact
+[35:03] instantly for free anywhere in the world
+[35:06] uh so it's it's very much like
+[35:08] Fint uh but the difference is that
+[35:14] because uh Hardware Hardware
+[35:16] manufacturers obviously make their money
+[35:18] from
+[35:19] Hardware where software software makers
+[35:23] take transaction fees
+[35:25] because software it costs money to to
+[35:29] build and maintain software so you need
+[35:31] to take some transaction fees but we
+[35:34] thought you know if you could have like
+[35:38] a like a kind of like a global payment
+[35:41] Federation run by
+[35:43] nonprofits that are funded by Hardware
+[35:47] manufacturers who basically donate money
+[35:49] to them so they can run the software
+[35:52] independently uh and these are like
+[35:54] entities the Bitcoin Community selects
+[35:56] and
+[35:57] that are like run by um Bitcoin
+[36:02] Community people basically whoever
+[36:04] whoever the Bitcoin Community wants to
+[36:06] to run it um that that would be sort of
+[36:11] a a dream
+[36:13] infrastructure
+[36:15] because it's still like like the the
+[36:18] problem comes to like decentralization
+[36:21] right like obviously you want you want
+[36:24] Bas layer Bitcoin uh in custody for your
+[36:28] savings because there you don't you
+[36:30] don't want to take any counterparty risk
+[36:33] but the question is like when you want
+[36:35] spending money you you're going to when
+[36:38] you want money to move faster and
+[36:39] cheaper you're going to need to take on
+[36:42] some counterparty risk right it's like
+[36:45] you either do it self custodia lightning
+[36:47] where your counterparty risk is your own
+[36:49] node which is a a single point of
+[36:51] failure um or you do custodial lightning
+[36:55] where the the custodian as the
+[36:57] counterparty
+[36:59] risk or you do
+[37:01] something more in the direction of of
+[37:04] what I'm proposing here where you have
+[37:06] like a a maximally
+[37:08] decentralized kind of like a layer two
+[37:11] solution where you could have for
+[37:13] example
+[37:15] um starting off with like for example 15
+[37:19] Bitcoin associations around the world we
+[37:21] have a pretty active Bitcoin Association
+[37:23] in Finland it's obviously nonprofit
+[37:25] Grassroots movement
+[37:27] they run their lightning nodes um
+[37:29] provide uh lightning Services lightning
+[37:32] payment services to U businesses here in
+[37:35] Finland uh but but have those type of
+[37:37] Grassroots nonprofit uh players around
+[37:40] the world basically run
+[37:44] this run this um payment layer you know
+[37:51] that uh they can do faster transactions
+[37:53] and it's separate from the lightning
+[37:58] ler
+[38:00] well yes and no so it would kind of I
+[38:04] see lightning personally as like a um as
+[38:08] like a service provider settlement layer
+[38:12] in the long
+[38:13] run like for example you could have
+[38:15] these different federations like if if
+[38:17] you uh looked at like for example what
+[38:19] fedin does fedt basically the the system
+[38:23] is they have their own sort of
+[38:26] Federation
+[38:27] that has uh ecash like Bitcoin ecash
+[38:31] it's like a multisig a multisig on on
+[38:34] the Bitcoin base layer that holds x
+[38:36] amount of Bitcoin and then the
+[38:39] Federation issues the same amount of of
+[38:42] ecash tokens that are trans transferred
+[38:44] completely anonymously but there's like
+[38:48] a a peg to the Bitcoin in the multis so
+[38:51] they can't make any more Bitcoin so it's
+[38:53] transparent in that way um
+[38:57] but then like for example if if if one
+[38:59] Federation if you want you're part of
+[39:01] one Federation and your friend is a part
+[39:03] of another Federation you basically use
+[39:06] different wallet providers or whatever
+[39:08] and you want to send money from from one
+[39:10] Federation to another then lightning is
+[39:12] sort of like a like
+[39:15] a a bridge there so the federations have
+[39:18] a lightning Channel open towards each
+[39:20] other and they can settle funds through
+[39:22] the lightning
+[39:24] Channel fast and and very for for very
+[39:27] cheap so then it's that's kind of so
+[39:29] it's more like a layer on top of of of
+[39:32] lightning where when lightning will be
+[39:35] uh or lightning is has some challenges
+[39:39] as you said uh like and I think also
+[39:42] there will be layers above
+[39:44] lightning uh I mean uh when you look at
+[39:48] what relay is doing or what the other
+[39:51] exchanges are doing this is kind of also
+[39:53] layer above Bitcoin above lightning
+[39:55] whatever
+[39:57] uh so I do think if we are actually at
+[40:00] the point where uh we have I don't know
+[40:04] four billion people five billion people
+[40:07] transacting with Bitcoin on a daily
+[40:09] basis buying their coffee with it like
+[40:12] right now we don't have so much volume
+[40:15] like most Bitcoin has just hle on they
+[40:18] buy they move it to cold uh storage you
+[40:21] move the self custody and then they live
+[40:24] there forever or for years
+[40:27] uh but when we come to the point where
+[40:29] so much traffic is going on and
+[40:31] everybody is is buying and the circular
+[40:34] economy is is is Flowing uh I kind of
+[40:37] feel like we need a lot more development
+[40:40] on bitcoin and that's a that's an
+[40:41] amazing thing because Bitcoin is the
+[40:43] base layer nobody can manipulate it and
+[40:46] then people can build on top of that
+[40:48] layer layer two layer three layer 4 some
+[40:51] applications whatever and everybody can
+[40:54] do whatever they want like there can be
+[40:56] so many different solutions and in the
+[40:59] end of the day as in a free market the
+[41:02] uh the person can choose or do I go with
+[41:05] a custodial lightning wallet or do I go
+[41:08] with my normal exchange that has an
+[41:11] wallet integrated where I can spend it
+[41:13] or maybe I don't know X twiter is also
+[41:16] coming up with payments I think this or
+[41:17] next year maybe you can put some Bitcoin
+[41:21] in there and transact with everyone you
+[41:23] know on on Twitter uh that all good and
+[41:27] there will be so much more solutions the
+[41:29] important thing I think always is that
+[41:32] you have the option to self custody on a
+[41:35] base layer where nobody can with
+[41:37] your savings this this is the important
+[41:40] part and I am not as educated as I
+[41:44] should be on payment layers above
+[41:47] Bitcoin uh because for me ER this is
+[41:51] something that still has to be developed
+[41:53] and I'm not that kind of T of developer
+[41:57] I'm actually software developer uh was
+[41:59] right now I'm not developing anything
+[42:01] but I able to to do that uh but I'm not
+[42:05] that deep into that so I kind of always
+[42:09] hear Solutions and fedman and what you
+[42:12] saying is also very interesting uh with
+[42:15] having federations and like I don't know
+[42:18] 50 hundred different kind of local
+[42:21] places where they transact with it with
+[42:24] each other um I don't know if this would
+[42:27] be would be the future or something else
+[42:29] like there's so much going on and I
+[42:31] think the the important part is to
+[42:33] remember we are so freaking
+[42:35] early there will be so much coming out
+[42:38] uh there will there will come those
+[42:40] killer payment apps on bitcoin that will
+[42:43] start as a startup in eight years
+[42:47] we the founders are right now just uh in
+[42:51] in some school maybe even they're like
+[42:54] maybe it's now 17 years old like it's
+[42:56] it's it's crazy to think what what will
+[42:59] happen like we are not like when you
+[43:01] compare it to the internet we not even
+[43:02] in the year 2000 the Googles the apples
+[43:05] the Facebooks they're all coming on like
+[43:08] they they're just getting built and
+[43:10] that's an interesting thing to say yeah
+[43:13] so but you were always a laser focused
+[43:16] on bitcoin right you or did you had
+[43:18] experience with like shitcoin phase or
+[43:21] like
+[43:22] some I think everyone has uh or at least
+[43:25] most most bitcoiners I've talked to have
+[43:28] had some kind of a shitcoin phase right
+[43:31] my shitcoin phase wasn't
+[43:34] really um it it was never like a a super
+[43:40] like Yay this token is is better than
+[43:42] Bitcoin type of phase but it was more
+[43:45] like
+[43:46] um okay like I personally don't see like
+[43:51] what this adds on top of Bitcoin but if
+[43:55] if some people I I obviously still
+[43:57] believe in a free market so I'm like if
+[43:59] if some people think this is better than
+[44:02] Bitcoin then they're free to do so and I
+[44:06] still kind of think that but um um
+[44:10] initially I thought it more from like a
+[44:12] a business perspective like we we would
+[44:16] have more clients if we obviously
+[44:18] branched out
+[44:20] to shitcoins to provide support for
+[44:23] shitcoins um but but then I started
+[44:27] thinking of it more as a as a mission
+[44:30] like a moral Mission like I don't want
+[44:32] to associate myself with anything that
+[44:35] has no future right that that type of
+[44:37] thing like I want to I want to build
+[44:40] from the beginning on something that has
+[44:42] a future and it's a bit contradictory
+[44:46] because I um we we do have plans on
+[44:49] supporting like stable coins that are
+[44:51] built on top of
+[44:53] Bitcoin um but this I think is like
+[44:57] um I would say that this is this is more
+[45:01] in favor of Bitcoin than than people
+[45:04] usually
+[45:05] realize um
+[45:08] because yeah like you said we're we're
+[45:11] still so early like Bitcoin is Bitcoin
+[45:14] is nowhere close to being a currency
+[45:18] that you even would want to spend like
+[45:21] okay I spent some Bitcoin last night at
+[45:23] the Helsinki Bitcoin Meetup but that was
+[45:25] like s EUR or something for Price uh but
+[45:29] it's it's not like I want to spend
+[45:31] Bitcoin to live because I want to I want
+[45:34] to keep my Bitcoin right so it's like
+[45:37] obviously you can do spend and replace
+[45:39] like hey I have
+[45:41] Bitcoin and then if I buy something for
+[45:44] a th000 bucks then I just buy you know a
+[45:47] th000 bucks worth of bitcoin but that's
+[45:49] just that that becomes like maybe a bit
+[45:52] too complicated like why not just when
+[45:55] you get your money in Euros or whatever
+[45:57] why don't just spend that money that
+[45:59] month on living expenses and then put a
+[46:02] part the part of it that would have been
+[46:05] over into Bitcoin like it's just it's
+[46:07] just an unnecessary step for most people
+[46:09] because they receive their money in in
+[46:11] Fiat and then you know it's it's kind of
+[46:16] easier to just spend the part of the
+[46:18] Fiat you want to spend and put the rest
+[46:19] into Bitcoin then then to put everything
+[46:22] into Bitcoin and then you know spend the
+[46:25] bit coin and replace it at a later
+[46:28] date um and I still believe like
+[46:33] um because we're so early there's going
+[46:36] to
+[46:37] be probably like you said 10 20 30 40 50
+[46:43] years that a large part of the
+[46:46] population still wants dollars still
+[46:49] wants
+[46:50] Euros um but I I think the the key is to
+[46:54] start moving toward WS the Bitcoin
+[46:56] Direction slowly like you don't we don't
+[46:59] even want the Bitcoin Revolution to
+[47:01] happen like this because that's just
+[47:03] that's not that's not good it Bitcoin is
+[47:07] is still technically very early uh there
+[47:10] are still technically issues to solve
+[47:13] like we want it to happen gradually we
+[47:16] want it to happen slowly over time where
+[47:18] it's like a instead
+[47:20] of like a good metaphor I don't know who
+[47:23] said this maybe sailor uh but uh
+[47:26] like if you're in a sinking ship you
+[47:28] don't want the ship to sink like this
+[47:30] because no one has time to get out right
+[47:32] you want it to kind of sink slowly so
+[47:34] that everyone has time to get into the
+[47:36] lifeboats Lifeboat in this case
+[47:38] obviously is Bitcoin you don't want to
+[47:40] you don't want it to happen too rapidly
+[47:43] too too radically you want it to be like
+[47:45] a a slower transition and that's where I
+[47:47] believe like stable coins on top of
+[47:50] Bitcoin is a is a huge next step like
+[47:53] start moving people towards the Bitcoin
+[47:56] ecosystem towards Bitcoin products
+[47:59] basically putting them closer to bitcoin
+[48:01] lowering the barrier of people getting
+[48:03] into Bitcoin by also
+[48:07] moving like taking them away from the
+[48:09] the Fiat pure Fiat infrastructure like
+[48:12] Banks so like I was talking talking
+[48:14] about free instant transactions
+[48:17] anywhere I believe that's that's like a
+[48:20] a great incentive of um of moving people
+[48:25] to to a more Bitcoin uh Bitcoin uh
+[48:28] Centric uh Financial system um like for
+[48:31] example I was uh uh I was uh I don't
+[48:35] know if you've heard about the Apple
+[48:36] Vision Pro yeah yeah uh so I was uh I
+[48:40] was buying uh one of them with with my
+[48:42] friend in the states um I'm going to
+[48:45] bring it to to Finland to try out
+[48:48] because uh I'm I'm a Big Apple fan uh
+[48:52] but um so I was trying to send money to
+[48:54] my friend in the States um we were a bit
+[48:57] too late on the coordination you know
+[48:59] just a couple hours
+[49:01] before uh before purchasing it and
+[49:04] obviously we realized hey I I can't I
+[49:06] can't send money to you in the states
+[49:07] that fast luckily had a credit card but
+[49:10] um you know that those type of things
+[49:13] that they're they're just so so annoying
+[49:15] like people especially Our Generation
+[49:18] younger people they they just were used
+[49:21] to like stuff happening fast we we want
+[49:24] stuff to happen fast and we we don't
+[49:26] want we don't want all this hassle like
+[49:28] all these barriers like me sending money
+[49:30] I need an a number rooting number name
+[49:33] address like
+[49:35] this irrelevant like I don't want to do
+[49:37] I don't want to do all that and I don't
+[49:39] want to
+[49:40] pay one or two% per transaction to send
+[49:43] money to my friend in the states and I
+[49:44] don't want it to take two to five
+[49:46] business days I want it to be fast I
+[49:49] want it to be instant and I want it to
+[49:51] be free that's like the optimal case and
+[49:53] I can do it with Bitcoin sure but I
+[49:55] can't do it with dollars and dollars
+[49:58] Apple doesn't unfortunately Apple
+[49:59] doesn't accept Bitcoin yet so you kind
+[50:02] of need the dollar side so that's that's
+[50:05] like what I think is a is a big big next
+[50:08] step in the in the coming like 5 to 10
+[50:12] years three to 3 to five five to 10
+[50:14] years is starting to move the Fiat
+[50:17] infrastructure on
+[50:19] bitcoin um and then kind of letting it
+[50:22] melt on top of Bitcoin like I see you
+[50:24] know Fe bitcoiners usually say Fiat is
+[50:26] like a melting Ice
+[50:28] Cube um but but now the problem is that
+[50:31] the melting Ice Cube
+[50:32] is like okay let's say you have you have
+[50:35] two glasses of water um you you have the
+[50:39] traditional banking system is is one
+[50:41] glass and then Bitcoin is another now
+[50:44] the the melting Ice Cube which is Fiat
+[50:45] is in the
+[50:46] traditional traditional glass here and
+[50:49] it's going to melt and it's going to
+[50:51] produce water like that there's still
+[50:53] some economic value in it
+[50:56] um and there's still some like people
+[50:59] using it so do we want the The Ice Cube
+[51:02] to melt into the traditional system or
+[51:04] do we want it to melt into the Bitcoin
+[51:06] glass and and like grow Bitcoin at the
+[51:09] same time and I think that the second
+[51:11] option is is better you want it
+[51:14] to you want it to sort of melt in with
+[51:18] Bitcoin and help Bitcoin grow as well
+[51:21] yeah I think uh this this rooting for
+[51:25] for uh the Fiat system to collapse like
+[51:29] in the next two years
+[51:32] uh this is like I can imagine happening
+[51:36] fast like I can imagine the fear system
+[51:39] really
+[51:40] collapsing really fast if something
+[51:42] happens like if people all of this like
+[51:45] there can always be a Black Swamp and
+[51:47] the economics effects on that would be
+[51:51] tremendous the whole financial system
+[51:54] the whole breakdown of trust in
+[51:58] everything um let's let's let's make it
+[52:02] an a good Bridge from Fiat to bitcoin
+[52:06] and I think this would be uh way better
+[52:10] because um when everything breaks down
+[52:13] really fast it could be uh not a good
+[52:17] years I mean Bitcoin does not care like
+[52:20] it it's Bitcoin will succeed in the long
+[52:22] run I think even if the Fiat system
+[52:24] breaks down tomorrow
+[52:26] uh or the field break system breaks down
+[52:28] in 100 years um but I think a
+[52:33] slow uh peaceful Revolution going on
+[52:37] over multiple years and this also goes
+[52:39] back in Low Time preference uh we also
+[52:42] should have low time preference when it
+[52:45] comes to adopting Bitcoin in a sense uh
+[52:49] and that's why I also when when friends
+[52:52] or family come up to me I don't
+[52:54] understand this bit coin I don't like
+[52:56] and I'm like okay you will be in the
+[52:59] late majority it's okay for me if
+[53:01] everybody is in the early majority uh
+[53:04] then I cannot stack so many sets it's
+[53:08] like it's it's we we also need people
+[53:12] adopting Bitcoin in in 40 years uh maybe
+[53:16] maybe not that late but let's see how
+[53:18] the timing goes but uh it's okay for me
+[53:21] like I stopped uh convincing everybody
+[53:24] I'm just there everybody to to get
+[53:26] educated I have the podcast with five
+[53:29] episodes each week with interesting
+[53:31] guests with different perspectives uh
+[53:34] I'm always open like everybody in my
+[53:36] family everybody on on on X can just uh
+[53:40] text me call me whatever and say hey uh
+[53:43] can can I learn this about Bitcoin let's
+[53:45] jump on a call like I always do that
+[53:47] because I think we have a mission to
+[53:49] educate but I will not force anybody in
+[53:52] Bitcoin it's not helpful for Bitcoin
+[53:55] and we don't have any hectic or any
+[53:58] stress to do
+[54:00] so yeah so um we are coming slowly to
+[54:04] the the end of the podcast and we have
+[54:06] an interesting end routine in the
+[54:08] podcast where the previous guest asks a
+[54:10] question for the next guest uh and your
+[54:13] question from the previous guest is if
+[54:16] you had to sell half of your Bitcoin
+[54:20] what would you
+[54:22] buy h that's a tough question yes um I I
+[54:28] cannot even imagine selling half a
+[54:31] Bitcoin yeah I would probably at this
+[54:34] point I would I would invest it back
+[54:36] into into
+[54:38] Zelo because that's what like I I don't
+[54:41] see myself doing anything else than than
+[54:44] uh advancing Bitcoin at this point like
+[54:47] I don't I don't think
+[54:49] there's there's anything more
+[54:51] interesting than I could be doing like I
+[54:55] just can't like I don't know once you
+[54:58] once you see something so clearly like I
+[55:02] see
+[55:04] Bitcoin there's not really anything else
+[55:06] you want to do like that's what
+[55:09] you and I'm I'm sure you feel the same
+[55:11] way like once you once you get it you
+[55:15] can't let go if I if I would be uh
+[55:19] forced to sell my Bitcoin I would either
+[55:21] buy Bitcoin miners invest in some uh uh
+[55:25] um education or invest in yourself in
+[55:27] some way like the different ways
+[55:29] depending on which life stage you are or
+[55:32] investing in your uh business like maybe
+[55:35] I would just like take like a approach
+[55:37] where I buy some Bitcoin Miners and or
+[55:40] buy some ads for the podcast so more
+[55:43] people see Bitcoin education like there
+[55:46] are so much things uh I could do with
+[55:49] that money but my answer will always be
+[55:51] I will buy something in the Bitcoin
+[55:54] ecosystem
+[55:55] like something with Bitcoin as you said
+[55:57] with your own business it would be an
+[56:00] interesting good idea also and then uh
+[56:03] Samuel thank you for for being on and uh
+[56:06] I hope we can uh make a second round in
+[56:09] in some amount of time absolutely thank
+[56:11] you very much Robin it's been a
+[56:14] [Music]
+[56:17] pleasure

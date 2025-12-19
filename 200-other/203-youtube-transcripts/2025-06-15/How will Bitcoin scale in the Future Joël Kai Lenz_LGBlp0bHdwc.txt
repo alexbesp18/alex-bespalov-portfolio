@@ -1,0 +1,1800 @@
+Title: How will Bitcoin scale in the Future | Joël Kai Lenz
+Video ID: LGBlp0bHdwc
+URL: https://www.youtube.com/watch?v=LGBlp0bHdwc
+Date Saved: 2025-06-15 11:59:43
+--------------------------------------------------
+
+[00:00] there was a flight with easy ched for
+[00:01] 269 Bitcoin so at that point today it
+[00:04] would be a it probably be an entire
+[00:06] plane I could buy from that amount we
+[00:08] have this indestructible base layer and
+[00:10] every developer every company everybody
+[00:14] can now compete on Layer Two for the
+[00:16] best scaling Solutions we will have
+[00:18] stuff like Bitcoin Banks because you
+[00:19] know there will always be a part of
+[00:21] society that just doesn't want to care
+[00:23] about self custody even the haters even
+[00:25] the people that talk bad about Bitcoin
+[00:28] they are driving Bitcoin adoption is it
+[00:30] a super cycle I've got to go out and
+[00:32] say do you think is Bitcoin as a
+[00:35] revolution as Bitcoin as an idea
+[00:38] actually bigger than the idea of the
+[00:40] revolution of of internet or is it just
+[00:42] one of the parts in this digital
+[00:45] Revolution what do you think of like the
+[00:47] the size and the the the significance of
+[00:51] the Bitcoin
+[00:53] Revolution I would say it's a it's it's
+[00:56] a very big part of the digital
+[00:59] Revolution as you called it um is it
+[01:02] bigger than the internet that's a very
+[01:03] good question because we also have to
+[01:05] break down the internet into different
+[01:07] pieces
+[01:09] um I would say so if the internet is the
+[01:12] transmission of information and the
+[01:14] protocol to transmit speech at least
+[01:17] that's how I look at it Bitcoin
+[01:19] definitely is the currency for it and I
+[01:21] would say you need a currency for it to
+[01:23] survive so I'm going to say it's a bit
+[01:25] bigger than the internet just a tiny
+[01:26] little bit yeah it's it's interesting
+[01:29] this this thought experiment because you
+[01:31] can make an argument that uh both is
+[01:34] kind of interrelated because if you have
+[01:36] the transmission of of information uh on
+[01:39] the
+[01:41] internet Bitcoin also does the same
+[01:44] thing it's it's it's transferring
+[01:46] information it's like how many uh Sates
+[01:49] do you have how many Sates do I have and
+[01:51] we can transfer those Sates around it's
+[01:53] just information that we exchange in in
+[01:55] the end of the day it's just a public
+[01:56] Ledger uh and nothing more is is yeah so
+[02:01] it's an interesting question to to go
+[02:02] through but now let's let's start with
+[02:05] with your journey like why uh do you
+[02:07] work now for Bitcoin what drove you here
+[02:11] how did you get into this whole
+[02:14] thing uh it's a bit of a longer story uh
+[02:17] but I'll try to keep it as simple as and
+[02:20] short as possible so my background
+[02:22] actually is in the media world media and
+[02:25] specifically the tech world so I uh
+[02:28] originally I wanted to become a banker
+[02:31] um it also kind of aligns in within my
+[02:33] family my mom used to be a banker she
+[02:36] then went into um Consulting and in
+[02:38] finance um my dad was more on the
+[02:41] creative side of things he was an
+[02:42] interior designer and uh he was more the
+[02:44] artsy one in the family but there was
+[02:46] always this clearcut of like hey you you
+[02:48] kind of go into economics so I was very
+[02:50] much interested but I wasn't interested
+[02:52] in you know doing over leverage
+[02:55] derivatives trades with um sick weirdos
+[02:58] on Wall Street or or also family offices
+[03:00] I was more interested uh in actually
+[03:03] speaking to people getting to know the
+[03:04] world seeing the world um and I should
+[03:08] also quote that I used to since I was
+[03:10] six I think uh used to play golf because
+[03:13] there was a golf course right next to
+[03:15] where we lived and uh I asked my mom
+[03:18] during the summertime like I don't
+[03:19] really want to you know stay with
+[03:22] grandpa and grandma like can I go and
+[03:23] play golf and she was like yeah and
+[03:25] turned out I was quite good at it I went
+[03:27] went into the Swiss national squad and
+[03:29] you know all of these things and travel
+[03:31] the world from a very young age on
+[03:33] through the golf sport um luckily I got
+[03:36] a lot of like scholarships and these
+[03:37] things so it's also very privileged to
+[03:39] see a lot at a young age and yeah doing
+[03:43] that and sort of talking to the
+[03:45] different cultures I was like I don't
+[03:47] want to sit in a bank and you know uh
+[03:49] basically defraud people out of their
+[03:50] own money I want to I want to go out and
+[03:52] see the world so I decided to study um
+[03:56] media and economics it's a very specific
+[03:59] way of basically saying I wanted to
+[04:01] become a journalist and halfway through
+[04:04] those studies I also started freelancing
+[04:06] and you know this was in so I started
+[04:08] freelancing in
+[04:11] 2012 2013 and roughly around the same
+[04:15] time there was a period where uh the um
+[04:18] Occupy Wall Street protests happened in
+[04:20] London I wanted to go and see those I
+[04:22] was too young to book a flight because
+[04:23] you still needed a parental advisor or a
+[04:26] guide with you and I didn't really want
+[04:28] to ask my parents if I could book a
+[04:29] flight so I tried to look for Solutions
+[04:32] how can I book literally how can I buy
+[04:34] something anonymously online and the
+[04:36] first link that popped up was a guardian
+[04:38] article about uh Silk Road um no
+[04:42] actually that's not true it was yeah it
+[04:44] was about Silk Road it was sort of the
+[04:46] earlier days of Silk Road there was this
+[04:48] chat rumor going on that uh you know
+[04:51] it's it's this weird thing uh I sent it
+[04:53] to a friend he said yeah I use Bitcoin
+[04:55] as well um he doesn't work anymore today
+[04:58] he was a bit clever than I was and he
+[05:00] told me listen if you show up with 280
+[05:04] Swiss Franks I can show you where to buy
+[05:06] a Bitcoin at an ATM and I know an other
+[05:09] guy who's actually also going to these
+[05:11] occupy protests and if you want I can
+[05:13] ask him to join you so I don't have the
+[05:15] issues with getting a flight I did that
+[05:18] I bought the Bitcoin I installed the
+[05:20] wallet uh that he recommended and I
+[05:22] immediately sent those Bitcoins out uh
+[05:24] for anyone interested it was a flight
+[05:26] with easy chat for 269 Bitcoin so at
+[05:29] that point
+[05:30] today um it would be a it probably be an
+[05:32] entire plane I could buy from that
+[05:34] amount um and yeah from that point on I
+[05:37] started using Bitcoin but really as a a
+[05:40] tool to you know pay for stuff online
+[05:42] because I didn't have a credit card back
+[05:44] then the bank cards in Switzerland uh
+[05:47] used to be nowhere near as digitalized
+[05:50] as there are today so no debit cards or
+[05:52] these things and uh yeah I wanted to you
+[05:55] know buy stuff online and I wanted to
+[05:56] use money online without basically
+[05:58] asking for permission
+[06:00] and uh did that for a couple of years I
+[06:03] sort of stepped in and out of Bitcoin
+[06:04] you know I didn't really keep up with it
+[06:06] and then in 2017 I really got interested
+[06:09] um also because I was covering a lot of
+[06:11] consumer stories you know I was sitting
+[06:14] on the floor in Brussels when Mark
+[06:15] Zuckerberg announced that he's uh
+[06:17] basically not spying on people when he
+[06:19] was actually doing it and sort of all of
+[06:21] that influence crept into me and then
+[06:23] also exploring Bitcoin and going down
+[06:25] the rabbit hole in um early 2017 I think
+[06:28] it was also lead up to like the the the
+[06:31] big bull run back then um and yeah sort
+[06:34] of the first you know books and and
+[06:36] things that came out where you were
+[06:38] actually able to read upon Bitcoin and
+[06:39] you didn't have to spend hours on the
+[06:41] Bitcoin talk
+[06:43] forum and you did not finish your
+[06:45] studies no no no no I was a i it was
+[06:48] actually a professor of mine who went
+[06:51] you're earning as much as someone who's
+[06:52] getting out of University with a
+[06:54] master's degree at this point as a
+[06:55] freelancer
+[06:57] um you're young enough if you want go
+[06:59] out and explore the world and I was like
+[07:01] okay that's enough I have the approval
+[07:03] from my professor he may have said
+[07:04] something differently I can't remember
+[07:05] it entirely but I told my parents like
+[07:07] hey I don't want to do this anymore and
+[07:09] uh you know he said worst case I can
+[07:10] come back so that was sort of my take it
+[07:12] out but I would need to finish uh I
+[07:14] think two more sylvesters and then I at
+[07:16] least had a bachelor and obviously for
+[07:19] my opinion that's enough at that point
+[07:21] do you see the the I think a lot of
+[07:24] bitcoiners are actually homeschoolers
+[07:26] and they try to teach their kids
+[07:28] themselves they try to find alternative
+[07:30] ways to to get education uh in the
+[07:33] younger generation um do you see that
+[07:36] the education system is bad is the
+[07:39] education system uh not working uh did
+[07:42] it work for you uh did you like feel
+[07:45] like you you learned something that you
+[07:46] can now use in like an actual life did
+[07:49] it progress you or would you would you
+[07:51] see like there's improvements here and
+[07:54] there so I would say it's I mean this
+[07:58] education system as a whole has its uh
+[08:01] many issues let's call it um would I say
+[08:05] it's failed I wouldn't say so I always
+[08:07] had very good memories with school so I
+[08:09] went to you know Public Schools up until
+[08:11] 9th grade I think and then from that
+[08:14] point on forward it was like a sports
+[08:16] school where you basically did the um
+[08:18] the uh matura which is the uh abitur or
+[08:21] the uh it's probably a college degree in
+[08:23] in britland and or in uh in the
+[08:26] US and yeah I've always had very good
+[08:29] memory very fun memories I also grew up
+[08:31] in a very Multicultural uh School
+[08:33] District so that was also very fun you
+[08:35] know my my schoolmates were from
+[08:37] Thailand and Sri Lanka and Albania
+[08:40] Serbia these kind of things um some
+[08:43] Germans as well so that was always very
+[08:45] pleasant but in terms of what you
+[08:46] learned in school no that was obviously
+[08:49] you just wasted eight hours there and
+[08:50] you tried to find different ways but I
+[08:52] was a bit um I was always the kid that
+[08:53] was daydreaming and you know um not
+[08:55] really paying too much attention I was
+[08:57] luckily good enough to to get the job
+[08:59] done um I could have gotten it done a
+[09:01] bit better probably if I would have
+[09:02] focused but at this point I was already
+[09:04] interested in the internet you know this
+[09:06] this this whole new media world that was
+[09:09] emerging back then so I didn't really I
+[09:11] didn't really spend a lot of time um on
+[09:13] the school bench as we say I love that
+[09:16] you actually came exactly there where
+[09:18] you actually wanted to be I think you
+[09:19] said that you want to be a banker now
+[09:21] you work for a company that's onboarding
+[09:25] people uh into their own bank Bitcoin
+[09:30] so like in a sense you could say that
+[09:33] you are a banker but for that company
+[09:35] you're making uh uh news things you're
+[09:38] making journalist things you're making
+[09:41] um a lot of things that you usually do
+[09:43] when you're a journalist uh of course
+[09:45] like would you say you are a journalist
+[09:48] for
+[09:50] Relay H it's a good question I mean my
+[09:52] my official title is content manager and
+[09:54] I kind of like this uh because it sounds
+[09:56] a bit I mean I always make the joke if I
+[09:57] reach out to journalists I I kind of say
+[09:59] like you know oh I'm about the head of
+[10:00] content cuz I'm the only guy that
+[10:01] creates content so like I can say I'm
+[10:03] the guy in charge
+[10:06] um yeah
+[10:12] but
+[10:13] [Music]
+[10:17] um
+[10:22] okay um so yeah if I reach out to
+[10:26] journalists it's I'm always makeing the
+[10:27] joke that I'm head of content because I
+[10:29] always say like oh you know within our
+[10:31] marketing team we have loads of
+[10:32] different positions filled which is true
+[10:35] like our said does he also on your on
+[10:36] social and those are lovely Graphics um
+[10:40] and I sort of to the content side so
+[10:41] it's not too far off but the title is
+[10:43] content manager and um I'll stick to
+[10:45] that more but it is a lot of
+[10:47] journalistic approaches obviously um and
+[10:50] uh more or less what I was doing anyway
+[10:53] always had my phone always had a mic
+[10:54] with me as a journalist so needed to
+[10:56] record stuff as well and uh you know
+[10:58] write stories that people read at the
+[11:00] end of the day yeah and I also love your
+[11:03] story with like you bought with your
+[11:06] first what was a 200 300 Bitcoin a plane
+[11:09] ticket
+[11:11] which um leads me kind of to the next
+[11:14] question uh which what what changes do
+[11:16] you think will happen on a Bitcoin
+[11:17] standard because when we have now
+[11:19] bitcoiners and we have this really um I
+[11:22] think everybody knows it in the Bitcoin
+[11:24] Community with the 10,000 Bitcoin for
+[11:26] two pizzas I think it was um so
+[11:29] what do you think happens once we have
+[11:31] adopted the Bitcoin standard now of
+[11:33] course you spend crazy amounts of
+[11:35] Bitcoin once you do anything like even
+[11:37] now uh spending Bitcoin on something
+[11:40] will uh be uh crazy to see in like 10 20
+[11:44] years but if you see it uh when we
+[11:47] already fully adopted Bitcoin and
+[11:49] Bitcoin is not uh agreeing too much in
+[11:51] value but still agreeing in in value
+[11:54] because it's some money what do you
+[11:55] think is the major change that we live
+[11:57] through obviously we have lower time
+[11:59] preference but what are the the the
+[12:02] consequences uh you see happening and I
+[12:05] also love like I saw for the first time
+[12:07] ever in preparation of of this podcast
+[12:10] your substack uh and lot your articles
+[12:14] look through some of then and I think
+[12:16] always like people that write a lot
+[12:18] usually have really thoughtful things in
+[12:20] their head because they actually thought
+[12:22] about stuff before they wrote down so
+[12:24] like what do you think is like ha a
+[12:25] Bitcoin isation looking like the the
+[12:27] world on a Bitcoin standard looking like
+[12:29] like um what are the changes you you see
+[12:31] on a Bitcoin
+[12:33] standard I think I may have a little bit
+[12:36] of a contrarian view there I don't see a
+[12:39] entirely different world so I know a lot
+[12:40] of bitcoiners go like you know it's
+[12:42] going to be generational wealth like
+[12:44] there will be no Wars and these things
+[12:46] and then maybe this is a little bit of
+[12:47] journalist at me where I I just tend to
+[12:50] question a lot of stuff more um or just
+[12:52] always be very supicious about what's
+[12:54] going on and I definitely see a world
+[12:57] where I think we will have stuff like
+[12:59] Bitcoin Banks because you know there
+[13:01] will always be a part of society that
+[13:03] just doesn't want to care about self-
+[13:05] custody of these things which is a shame
+[13:07] I mean I work for a company where we
+[13:08] engage in self- custody and we urge
+[13:11] people to do this um but I think this is
+[13:13] always a spectrum where people end up
+[13:16] and at the first glance you go oh this
+[13:19] is actually not good like another
+[13:20] banking world but then you realize if
+[13:23] everything is built on top of Bitcoin or
+[13:24] if Bitcoin is the under um Ling
+[13:27] asset the bank at least work with a
+[13:30] healthy asset let's call it this way uh
+[13:32] is it possible to reh hypothecate on
+[13:34] bitcoin yes we've seen it with like the
+[13:35] likes of FTX and these things but they
+[13:38] got punished at the end of the day you
+[13:40] know they don't exist anymore and
+[13:43] knowing this and seeing what the
+[13:45] possibilities are I think this gives me
+[13:47] a bit more of a peace of mind um but I
+[13:50] do see a future where we will have more
+[13:53] possibilities I think to either you can
+[13:56] call it monetizing online content uh
+[13:58] through um you know false experiments
+[14:00] like value for value or these things uh
+[14:03] which I mean granted there are very
+[14:05] early and it takes a lot of also mindset
+[14:07] shift for people to adapt uh but the
+[14:10] option is there and it's simpler for me
+[14:12] to you know create a block and to
+[14:14] monetize it and not going through the
+[14:16] likes of stripe or PayPal or all of
+[14:18] these annoying financial institutions
+[14:21] that at the end of the day are just more
+[14:23] cumbersome work for you uh and having a
+[14:26] very simple setup so I see more World on
+[14:28] these kind of things if everyone is
+[14:30] going to lower their time preference
+[14:32] this is actually an interesting thought
+[14:35] experiment seeing how people live dayto
+[14:37] day I would say maybe a little bit but
+[14:40] not to the extreme extent as we see in
+[14:42] the Bitcoin Community right now uh but
+[14:45] you know who knows maybe also the
+[14:47] community itself is going through a
+[14:48] change there um so I think there will
+[14:51] there will also be a little bit of that
+[14:53] um okay I don't need to spend everything
+[14:55] immediately or over consuming these
+[14:57] things um but of course we'll always
+[14:59] always have these um these hot spots and
+[15:00] these Trends and things coming up but
+[15:02] generally I think it's going to be a
+[15:04] more simpler world where everyone can
+[15:07] agree on something whether they do
+[15:09] that's a different topic you know
+[15:11] speaking of Wars previously but uh let's
+[15:13] just be optimistic enough to say yeah it
+[15:15] shouldn't happened although I think
+[15:18] there is a possibility that it could
+[15:19] happen yeah I think the the few that
+[15:24] that a lot of people and a lot of
+[15:25] bitcoiners have that we have Bitcoin and
+[15:27] all of the sudden all the are fixed no
+[15:30] because in the end of the day it's just
+[15:31] money like if you're lazy as you
+[15:34] still don't get anything of course if
+[15:36] you're lazy as and you bought
+[15:38] Bitcoin 2011 you bought it with a nice
+[15:41] self cust resolution and now you have
+[15:44] like thousands of Bitcoin on your side
+[15:46] but but but this nothing Bitcoin did
+[15:50] there for you you just were were lucky
+[15:52] just lucky yeah so like this is like
+[15:54] exceptions to it um in the end of the
+[15:57] day it's still just money and people
+[15:59] that are um and the thing that changes
+[16:03] is you have everyone if everyone has
+[16:07] Bitcoin as their default currency as the
+[16:09] default uh money and then people have
+[16:12] something they can rely on like if they
+[16:14] work nicely they like can store it uh in
+[16:18] Bitcoin and then they're like oh it
+[16:20] agrees on value the focus gets shifted
+[16:23] away from or I have to be a financial
+[16:24] portfolio manager on the side I can just
+[16:29] focus on my work what I do but you still
+[16:31] have to do something like I also see
+[16:33] this sometimes in the Bitcoin Community
+[16:35] where I'm like oh I don't have to do so
+[16:38] much low time preference I I can like
+[16:41] like yes you can do that if you can
+[16:43] afford that uh but just because we have
+[16:45] low time preference doesn't mean you
+[16:47] have to be
+[16:48] lazy I I see this sometimes and it
+[16:51] annoys me a little bit uh but uh there
+[16:54] will be definitely I think changes
+[16:56] coming with money we also see this in
+[16:58] the history where uh money influences
+[17:01] Society but I don't think it's like oh
+[17:03] Bitcoin comes and all our problems are
+[17:05] solved where people are coming together
+[17:08] there are conflicts there are stuffs
+[17:10] happening uh and yeah people will have
+[17:12] have wars in in small families Wars but
+[17:16] also in country Wars uh this will still
+[17:19] happen uh and and even what you said
+[17:22] with with social media with monetization
+[17:25] uh it's interesting for me because um uh
+[17:28] even on YouTube I have uh two channel
+[17:30] members at the moment when this comes
+[17:32] out maybe more um and they are giving me
+[17:35] basically value for Value without
+[17:37] Bitcoin like YouTube does not use the
+[17:39] Bitcoin Network so I don't know if this
+[17:42] even is a Bitcoin thing I think Bitcoin
+[17:44] is more effective in streaming SS
+[17:47] because bit YouTube takes a big cut and
+[17:50] uh payment providers take a big cut but
+[17:53] in the end of the day value for value
+[17:56] and monetization of creators might be
+[17:59] just changing uh uh on its own without
+[18:03] Bitcoin playing its part all but saying
+[18:07] with say saying with that with Bitcoin
+[18:09] it will be more efficient because if I
+[18:11] get from Fountain and I get from
+[18:13] Fountain also streams and SS I get this
+[18:17] 100% there's like no um IM immediate I
+[18:21] think a small cut is with Fountain like
+[18:23] a think they have a 5% fee yeah they
+[18:25] have like a small fee but it's nothing
+[18:28] compared to to YouTube I got uh with if
+[18:31] you sent me a super thanks through
+[18:33] YouTube that's a 10 uh Euro super thans
+[18:37] I only get like five EUR from that
+[18:40] that's a big cut that's not 5% that's
+[18:44] 50% uh so that I think this uh just like
+[18:48] quick Outlook from that um coming to
+[18:51] that topic with lightning and you also
+[18:53] wrote about lightning a lot extensively
+[18:56] on on on your your substack uh do you
+[18:59] see as Lightning the main layer two
+[19:03] solution do you see a world where we can
+[19:05] be on other layer twoos and lightning is
+[19:07] not a thing uh how do you see the whole
+[19:10] scaling of Bitcoin and coming onto like
+[19:12] this payment layers and value for Value
+[19:15] because value for Value will never be on
+[19:17] a on the Bas layer of Bitcoin it would
+[19:19] be too expensive to set some sets over
+[19:23] how do you see this whole topic with
+[19:24] lightning and scaling
+[19:26] Bitcoin so if you would have asked me
+[19:28] three months ago I would have gone like
+[19:29] oh yeah it's definitely going to be the
+[19:31] scaling solution because
+[19:33] um actually you you dropped the f bump
+[19:35] so now I know that I could swear as well
+[19:37] which which might get Troublesome for
+[19:38] you but um yeah you know I was lazy as
+[19:42]  there to believe okay I've did my
+[19:44] diligence on how lightning works and
+[19:46] like understanding the the main um value
+[19:49] proposition and like yeah it will just
+[19:51] it will just function once you then
+[19:53] actually spend more time looking at how
+[19:55] these things work in detail and you have
+[19:57] use cases
+[19:59] you kind of go like hm interesting there
+[20:02] are a lot of these holes uh that are
+[20:05] just there whether there be in terms of
+[20:07] you know not having solved certain
+[20:08] technical difficulties or just just the
+[20:11] way lightning works because it's
+[20:12] complicated as and it's very hard
+[20:14] to find good developers that actually
+[20:16] understand it uh yeah they sort of
+[20:19] changed my value proposition on it a bit
+[20:21] as well in the last three months where
+[20:23] I'm going I think it's still the it's
+[20:27] the best idea to implement a solution
+[20:29] like this that you know is on top of
+[20:30] Bitcoin that settles
+[20:32] instantly but whether it be the go-to
+[20:35] solution the way lightning is built now
+[20:37] I very much doubt this just because um
+[20:41] if you want to run everything in the
+[20:42] cell sh way on Lightning it gets very
+[20:44] complicated quickly and um I think is
+[20:48] not get mentioned a l very dangerous as
+[20:50] well if you think about Force closer and
+[20:52] stuff of channels um and yeah you then
+[20:56] go into this world like okay because
+[20:57] it's a scaling solution like can maybe
+[20:58] trust a third party a bit more so we
+[21:01] have providers and these things and this
+[21:03] is where you then end up with a question
+[21:05] in my head where I go how much
+[21:07] decentralization do we need at every
+[21:09] layer of Bitcoin I want full
+[21:11] decentralization on the main layer but
+[21:14] you know again with the thought
+[21:15] principle of there will be Bitcoin banks
+[21:17] in these things how much of that
+[21:19] decentralization stays per per layer and
+[21:22] so I look at lightning currently as I
+[21:25] wouldn't say it's failed in a particular
+[21:27] sense that you go like oh you know we
+[21:29] should forget about it but it's been in
+[21:31] beta for like the last six seven years
+[21:33] at this point um we're in 2024 we could
+[21:36] safely say it started getting momentum
+[21:38] in 2018 2019 so six five years maybe um
+[21:43] and there needs to be changes although
+[21:45] I've been at a Meetup this week over
+[21:46] here in Vienna and I really much spoke
+[21:49] to a lot of the um the bolts exchange
+[21:52] guys I don't of you know them they do
+[21:53] the Liquid Lightning swaps and this was
+[21:56] interesting again another scaling
+[21:58] solution um more of a side chain with
+[22:01] liquid but they could use lightning as
+[22:03] as an integration tool and less than
+[22:05] actually a main like layer where you
+[22:07] build everything in so this sort of sent
+[22:11] me down a rabbit hole where I went okay
+[22:13] um I think the use case for lightning is
+[22:16] there the Simplicity is well if I say
+[22:18] Simplicity like it settles instantly and
+[22:20] it's quick like this is this is the
+[22:21] Simplicity I'm speaking about
+[22:24] um but I think it will shift to being
+[22:27] more of a transport protocol similar to
+[22:30] the internet to
+[22:32] tcpip and uh it will probably use a lot
+[22:35] of its advantages to in the future
+[22:38] potentially connect more scaling
+[22:40] Solutions and um it will I think not be
+[22:44] like the go-to thing where we get 8
+[22:47] billion people on at the current rate
+[22:49] there are a lot more smarter people out
+[22:51] there than me uh that must definitely I
+[22:52] mean I I produce content for a living
+[22:54] out I don't code or anything so like you
+[22:56] know there you go um I'm sure that they
+[22:59] will find Solutions but I I see it more
+[23:01] at a um sort of like a how could you
+[23:05] say pivotal Point currently where it's
+[23:07] either going to stay the way it is or it
+[23:10] will adapt and I'm leaning more to the
+[23:12] adapt side of things uh because
+[23:14] lightning is so open and you can use it
+[23:16] for many different things you can you
+[23:18] know pretty much program it the way you
+[23:19] want it to um I think we'll have
+[23:22] different use cases there yeah I think
+[23:24] the lightning has uh like the important
+[23:28] the note here we have this
+[23:30] indestructible base layer and every
+[23:33] developer every company every uh
+[23:36] everybody can now compete on Layer Two
+[23:39] for the best scaling Solutions and this
+[23:41] is the amazing thing because if
+[23:43] lightning fails it does not matter like
+[23:46] there will be something else on top of
+[23:48] Bitcoin that will succeed at some point
+[23:50] because we have this amazing uh uh
+[23:53] indestructible base layer where
+[23:54] everybody can just build on top of that
+[23:57] and I heard so much about fed about
+[23:59] liquid about lightning and I have kind
+[24:02] of this view I don't know too much about
+[24:04] the layer solution so I always try to
+[24:07] ask people to to get more information on
+[24:09] that side and I don't care too much
+[24:12] about it because in the end of the day
+[24:15] we have sound money we have Bitcoin and
+[24:18] uh if it's true that it will also be
+[24:21] sound money as medium of exchange and
+[24:22] unit of account there will be
+[24:26] uh models on top of that techniques on
+[24:28] top of that layers on top of that
+[24:30] because there is the incentive to do
+[24:32] that and just because there's the
+[24:34] incentive to do that um this is enough
+[24:37] for for me to say like we have this
+[24:39] layer and they will be built on top of
+[24:42] that and maybe as an interesting
+[24:45] experiment and conversation uh going
+[24:48] forward you also have been to Salvador
+[24:51] you also wrote about that uh and you
+[24:53] probably used lightning there uh do you
+[24:56] see how do you see the adoption they
+[24:58] growing when when did you go to El
+[25:00] Salvador was this like a few years ago
+[25:02] or was it
+[25:03] recently so um it was in November for
+[25:06] the adopting early November and
+[25:12] um how should I explain this I wouldn't
+[25:15] so it's a bit of a mixed feeling you
+[25:16] have there um from what I've heard uh
+[25:19] when I spoke to people on the ground
+[25:21] luckily I'm I'm fluent in Spanish so I
+[25:23] was able to you know speak their
+[25:24] language as well and get the the uh the
+[25:26] proper feedback let's call it cuz I
+[25:28] think there's always a language barrier
+[25:29] if they maybe need to speak English or
+[25:31] something and um you see an adoption in
+[25:35] certain places like Bitcoin Beach you
+[25:37] have Berlin and these kind of things but
+[25:39] I also paid I think I've wrote about
+[25:41] this in my blog post uh on the top
+[25:43] almost at the top of a volcano to a BTC
+[25:46] pay
+[25:47] server and I asked the guy like why do
+[25:49] you use BTC pay and he goes you know oh
+[25:51] I started out with um the cha wallet or
+[25:53] the the state sponsored wallet and they
+[25:54] was and I started looking around
+[25:57] then I just went down this rabbit hole
+[25:58] um but generally speaking you had a lot
+[26:00] of people you know using still custodial
+[26:02] services but then again after spending
+[26:04] two weeks there I realized that's okay
+[26:06] because they don't have the luxury of
+[26:08] doing proper self-
+[26:10] custody and uh I mean imagine that you
+[26:13] you living most of these people live in
+[26:15] self-built houses if they're part of the
+[26:17] lower class if you're part of the middle
+[26:19] class you maybe live in like a normal
+[26:21] house as we know it over here in Europe
+[26:23] but it's very much tiny it has cold
+[26:25] water H you know you're not you don't
+[26:27] have the standards we have here and um
+[26:30] yeah do you have the luxury to like run
+[26:32] your own Noe to set up everything and to
+[26:35] basically uh use Bitcoin in a fully
+[26:38] self-served way very much unlikely they
+[26:40] do have Amazon so I asked this like can
+[26:42] you actually order their parts and stuff
+[26:44] they i' like oh yeah that's not a
+[26:45] problem um but obviously this is only
+[26:47] possible to people who also have access
+[26:48] to bank accounts um so there are two
+[26:51] things that happened either way if they
+[26:53] find Bitcoin they going to use a
+[26:55] custodial because they maybe have 25 30
+[26:58] bucks monthly in Bitcoin in that codal
+[27:00] wallet and this is like everything to
+[27:02] them so it's simple for them to set up
+[27:04] and get going and you have great
+[27:05] companies on the ground like galloy that
+[27:07] actually also do a lot of
+[27:09] Education or they use cash so I pretty
+[27:12] much paid with cash or I paid um with
+[27:15] lightning and actually one on train
+[27:18] transaction it was my fault in the hotel
+[27:20] because he didn't set the wallet to
+[27:22] lightning at default so I spend a very
+[27:25] very high fee on on my three9 in but I
+[27:29] was okay he did a phenomenal job anyway
+[27:31] and um yeah so this is the default state
+[27:35] if you've been there though you do
+[27:36] realize these people are not used to
+[27:37] tourism they give 125% to make you happy
+[27:42] you know to help you out um one point I
+[27:45] even uh had an Uber that didn't find my
+[27:47] place and the guy just basically drove
+[27:49] me to the main city that's an hour
+[27:51] strive for him he just did it because
+[27:52] it's was like oh let me help you out um
+[27:55] so they're very very open very nice
+[27:57] people um they now don't live through
+[27:59] these horror times they used to live
+[28:01] before so the country is evolving but
+[28:04] it's it's definitely nowhere near you
+[28:06] know to a Bitcoin standard as we would
+[28:08] think about it but having spoken to the
+[28:10] people and again I've spoke to them in
+[28:12] their native language so it it wasn't
+[28:14] filtered or anything um they told me
+[28:17] that you know um they have adoption they
+[28:19] they see the value and uh also to those
+[28:22] who had custodial Services when I
+[28:24] explained to them that you can do self-
+[28:25] custody they were aware of it um and
+[28:28] they're just on their journey to it I
+[28:29] think this is what we sometimes need to
+[28:31] do better in the Bitcoin Community have
+[28:33] a little bit of
+[28:34] patience um have a little bit more time
+[28:37] to give people these these uh these you
+[28:40] know ups and downs we have all been
+[28:42] through you know either losing money or
+[28:43] like sending it to a wrong address or
+[28:45] you know having to figure out how self-
+[28:47] custody Works um so I think they'll get
+[28:49] there um but it's great to see if you
+[28:52] speak to these people you know they
+[28:53] really they really like and they're
+[28:55] proud of their country and that you come
+[28:56] to El Salvador because of B Point that's
+[28:58] also where they're super happy so that
+[29:00] was very much uh cool to see and um yeah
+[29:03] getting to use lightning almost at the
+[29:05] top of a volcano was also was also an
+[29:08] experience it's amazing I think uh salv
+[29:11] can be such a good role model and I
+[29:13] think this is also why so many
+[29:15] bitcoiners and Bitcoin Maxes are coming
+[29:18] there and trying to figure out how Sal
+[29:22] can be better I think you like Max
+[29:24] Kaiser and Stacy Herbert they uh getting
+[29:27] uh the live there right now Lena s kind
+[29:31] of moved there she's not not 100%
+[29:34] settled but I think she she kind of
+[29:35] settles down there and there are so many
+[29:38] more uh that are going
+[29:40] there to be fair I mean Max and Stacy
+[29:43] can probably live wherever they want um
+[29:46] yeah because um I am very much I'm not
+[29:48] skeptical of them as you know um like oh
+[29:51] they are like um Spooks or anything or
+[29:53] you hear these crazy theories sometimes
+[29:54] on bitcoin X um but you know in my
+[29:57] opinion it's easier if you move into
+[29:59] Bitcoin at a certain uh Pace or if you
+[30:02] have the opportunities because you know
+[30:04] you you had different advantages I mean
+[30:06] Max used to work on Wall Street he then
+[30:08] created his um weird trademark thing
+[30:11] with like the actor stocks and things
+[30:13] and he got on board very early with gold
+[30:15] and he did he did realize what Bitcoin
+[30:17] is at the dollar so Props to him um but
+[30:20] I think they if if uh if if there's a
+[30:22] better El Salvador popping up I'm sure
+[30:24] they could also move there pretty
+[30:25] quickly but it's good to see that they
+[30:27] under that they understand that you need
+[30:28] to be on the ground you need to support
+[30:31] for my taste there's a bit of too much
+[30:32] political sing um just again I don't
+[30:36] trust politicians and and I don't really
+[30:38] um I don't really want to know what goes
+[30:40] on behind you know closed doors in these
+[30:43] um offices or in these talks um
+[30:45] everywhere around the world whether that
+[30:46] be El Salvador the states or over here
+[30:48] in Austria as you know we have a fair
+[30:50] share of scandals here as well um but
+[30:53] yeah it's it's cool to see that they're
+[30:55] there and uh that they're also able to
+[30:57] you know sort of Hold the Flag up for
+[30:59] Bitcoin because um it is hard if if if
+[31:02] you speak to people outside of our
+[31:04] ecosystem and explain that El Salvador
+[31:06] is going through a once in a lifetime
+[31:08] change probably and I kind of go like
+[31:10] yeah I don't care it's this country in
+[31:11] Central America like okay they got a bit
+[31:14] more tourism why should I and if you
+[31:15] have people like Max who are very much
+[31:17] loud and you know they can attract a lot
+[31:19] of attention as well that at the end of
+[31:21] the day is a net benefit for Bitcoin
+[31:22] like most of the stuff the community
+[31:24] does yeah I think everything uh kind of
+[31:27] is on benefit for Bitcoin in the end of
+[31:29] the day because even haters I had uh in
+[31:32] jku in my University that I was for one
+[31:36] whole
+[31:37] semester did not do any uh any exams
+[31:42] there also so I was not really in
+[31:43] University but I heard some some
+[31:45] lectures and there was one lecture uh
+[31:48] and I don't want to call anyone out it
+[31:50] was just a random lect lecture and the
+[31:53] lecture was not about Bitcoin it was not
+[31:55] about anything related to bitcoin but he
+[31:58] always spent the first lecture talking
+[32:01] about Bitcoin and talking bad about
+[32:05] Bitcoin and this is interesting because
+[32:07] he did not had any um reason to do that
+[32:11] and I always take this example as a
+[32:13] hater who uh drives Bitcoin adoption to
+[32:17] the better because there will be uh
+[32:20] students in that room they be like why
+[32:22] is he talking about Bitcoin now let's
+[32:25] let's uh search about Bitcoin on YouTube
+[32:27] and then all of the they on a podcast
+[32:29] and all of the sudden they're falling
+[32:30] down that rabit because someone said
+[32:32] something bad about Bitcoin so even the
+[32:35] haters even the people that talk bad
+[32:37] about Bitcoin they are driving Bitcoin
+[32:40] adoption and so no matter if it's a
+[32:43] Bitcoin Maxi like Max Kaiser or it's
+[32:46] like a Bitcoin hater or everything in
+[32:49] between there they're all driving
+[32:50] Bitcoin adoption because they're talking
+[32:52] about it the the worst thing that can
+[32:54] happen to bitcoin that nobody cares
+[32:56] about it that's the worst thing it can
+[32:58] happen but I don't think it will happen
+[33:01] yeah having worked a long time in the
+[33:02] media and you know also still still
+[33:04] engaging with it you know there's
+[33:05] nothing as simple as bad or good PR
+[33:08] everything is PR at this point you know
+[33:10] so you accept the you just accept the
+[33:12] fate and um I don't know this is
+[33:14] something this is something with me
+[33:16] personally and I have friends who also
+[33:17] tell me this you know I can get into the
+[33:20] angriest discussion with waiters or or
+[33:23] um as I like to call them um Communists
+[33:25] at bars over here in Vienna if they see
+[33:27] a sticker on my laptop that shows uh you
+[33:29] know
+[33:30] Bitcoin and then that explained to me
+[33:32] that it's an energy waste and then you
+[33:34] know I just I'm basically a on
+[33:37] purpose and I go but isn't using too
+[33:39] much energy a good thing like shouldn't
+[33:41] we use more energy and you know then
+[33:43] there's the counterargument and I go
+[33:44] into a question again and sort of I just
+[33:46] start poking at people because I find it
+[33:48] fun at this point and I do troll um but
+[33:52] yeah at the end of the day it always
+[33:53] ends up that they basically go okay I
+[33:55] don't know the answer to this question
+[33:57] and kind of go well how can you make an
+[33:59] informed opinion about something you
+[34:00] don't understand so uh I think if you
+[34:03] always go to this journey whether they
+[34:05] are going to convert to believe it
+[34:07] Bitcoin or not it's like you say it
+[34:09] attracts people and it uh either shows
+[34:12] them the value prop of bit Bitcoin um or
+[34:15] just how stupid people are and I think
+[34:17] both both things are are a positive
+[34:19] thing I I think you have to go to the
+[34:22] fudo restaurant at some point in Vienna
+[34:24] when I move there that will be fine yeah
+[34:27] I mean
+[34:28] we could go we could go into the uh six
+[34:30] seven or eighth District you know
+[34:31] they're they're kind of woke and you
+[34:32] know they they're very much against
+[34:34] Bitcoin there believe me I Tred to
+[34:36] orange pill that's always fun but you
+[34:38] know um yeah I'm sure if we if we cross
+[34:41] a certain price point as we've always
+[34:43] had in the bull runs um also these
+[34:46] people will be at one point interested
+[34:48] because at this point it then gets too
+[34:49] good to be ignored and you may have to
+[34:52] you know leave your very much high point
+[34:55] of view and ethics of yourself behind to
+[34:57] maybe I'll invest a little bit uh
+[34:59] because most of them do they just don't
+[35:01] admit 21 Bitcoin is Bitcoin only from
+[35:04] day one and did teach and preach self-
+[35:07] custody this is my goto exchange when
+[35:10] someone asks me oh where can I buy my
+[35:12] Bitcoin from this is the easiest entry
+[35:15] for bitcoiners and if you want lower
+[35:18] fees Plus at the same time support this
+[35:21] podcast use code Robin and click the
+[35:23] link in the description and it's also an
+[35:26] interesting thing that's happening right
+[35:27] now the prices of an alltime high or
+[35:30] right around the alltime high depending
+[35:32] on what the price is when the interview
+[35:34] is coming out and what it is right now
+[35:37] uh I mean it could have even be like at
+[35:38] 100K because I'm the podcast is coming
+[35:41] out in two three weeks let's see uh what
+[35:44] happens um but I think the bus around
+[35:47] Bitcoin is still low I think uh there's
+[35:51] in the outside of the Bitcoin World
+[35:52] nobody's talking about Bitcoin uh the
+[35:56] people are not interested in it
+[35:58] uh and this makes me really bullish
+[36:00] because the price is still so high
+[36:02] obviously it's because of the Bitcoin
+[36:04] ETFs of the massive inflows uh do you
+[36:07] see a major bull market coming do you
+[36:10] see a major maybe super cycle coming
+[36:13] this this one because we have the
+[36:15] companies with Michael sailor and then
+[36:18] more uh companies we have the fastp rule
+[36:20] we have the ETFs we have so much things
+[36:23] going on and the Haring is like one
+[36:25] month away when this comes out the
+[36:27] having is really close by uh
+[36:30] so what do you see like uh happening in
+[36:33] the next few years months so uh is it a
+[36:38] super cycle I'm going to go out and say
+[36:39] no because every time we have a new
+[36:42] alltime high this is the first thing
+[36:43] people speak of like oh the super cycle
+[36:45] or you know we're going to I don't know
+[36:47] insert crazy number here um so I don't
+[36:49] think it is because what would be a
+[36:52] super cycle you could look at Bitcoin
+[36:54] from its Inception isn't it kind of
+[36:56] already the super cycle like eating we
+[36:58] spoke about the internet previously my
+[37:00] first question uh it's growing massively
+[37:03] faster than the internet has ever done
+[37:04] to this point so you could argue this is
+[37:07] super cycle in itself but I don't think
+[37:09] we're going to it in terms of price
+[37:13] um okay let's let's leave out if we go
+[37:15] into like if we going to Nuke ourselves
+[37:17] to death in the next coming years um
+[37:19] because apparently our leaders just like
+[37:21] to basically do this um if you look at
+[37:25] it from a purely economical standpoint
+[37:27] point we have a high interest rate
+[37:30] environment by the way to all the fers
+[37:32] who for some reason see this clip now uh
+[37:34] Bitcoin did better in the high interest
+[37:36] rate environment since it's since the
+[37:39] fat and all of the ECB and stuff started
+[37:41] to hike uh that it actually did in the
+[37:43] low interest rate um obviously in the
+[37:46] low interest rate it worked because of
+[37:47] the money printing now it sort of
+[37:49] decoupled and proved hey it we don't
+[37:51] give a honeyb don't care really at
+[37:53] this point if you increase the rates or
+[37:55] if you decrease the rates but just from
+[37:58] that standpoint on they have to decrease
+[38:00] they have to print more money at one
+[38:01] point we hear him say it all over the
+[38:04] the news now um I mean even
+[38:06] Christine lard should be in jail by this
+[38:09] point for whatever fraud she's
+[38:11] committing with the Euro and for
+[38:12] whatever fraud she's been committed as
+[38:14] she has committed in the past that she's
+[38:16] also been convicted of as an IMF leader
+[38:18] and in French politics um they all said
+[38:22] we have to one point ease bring some
+[38:24] ease and less pain into the system so if
+[38:26] more quid money is available again and
+[38:30] not just on the layer of central banks
+[38:32] and Commercial Banks but it gets into
+[38:34] let's call it the retail realm surely if
+[38:38] we look at the past there must be some
+[38:40] form of uh price increase again whether
+[38:44] that is up to like these crazy numbers
+[38:46] you here I think two days ago heard
+[38:48] someone say um it's going to 600k in
+[38:50] like couple of months or something um
+[38:54] because this and that happened you know
+[38:56] in last runs and stuff stuff uh I don't
+[38:59] know I I have no idea where it's going I
+[39:01] just know I think by the time this
+[39:03] podcast comes out if again no third
+[39:06] world war starts I think we're going to
+[39:08] be higher in terms of Fiat uh
+[39:10] denominated than what we are now um and
+[39:14] yeah if if if everything continues the
+[39:16] way they said that is going to do less
+[39:19] rates and uh more money printing we
+[39:22] should see um a higher alltime highs or
+[39:26] or just czy numbers in the next coming
+[39:28] months um but yeah you know we're all a
+[39:32] now because the price is up and we're
+[39:33] all we're all super hyped we we we'll
+[39:36] see if that sticks up um I don't see a
+[39:39] future where you should open a short
+[39:40] position now like some influences do um
+[39:44] but yeah just looking at these Basics
+[39:46] you should say it should it should hold
+[39:48] up and uh you know we can we can go for
+[39:51] a few roller coaster rides upwards
+[39:53] definitely and it's so so fascinating
+[39:55] for me because everybody has a different
+[39:57] the about the priz I had I just
+[40:00] published the episode with Javan from
+[40:03] the Bitcoin power law who tries to model
+[40:06] the the Bitcoin price with the power law
+[40:09] that's also happens in the nature and
+[40:11] stuff like that really interesting
+[40:13] episode I went over two hours within I
+[40:15] think two hours and 10 minutes uh in the
+[40:18] first three hours it seems that people
+[40:21] are really crazy about that episode and
+[40:22] really like it uh just from the
+[40:25] statistics and he has this like in 10
+[40:28] years in 20 33 we are at a million which
+[40:31] seems actually really reasonable that
+[40:34] this would bring us in this cycle to
+[40:36] 250,000 something like that seems like a
+[40:38] reasonable approach then there are
+[40:41] people like Peter tanworth I just
+[40:43] interviewed like two days ago no the
+[40:45] last interview like actually the last
+[40:47] interview before this episode The the
+[40:49] episode is with Peter dunworth so he he
+[40:52] is famous for saying that Bitcoin will
+[40:55] go to 7 billion US per coin which is
+[40:59] just an unbelievable number but it's
+[41:02] also interesting how he thinks it and
+[41:05] the interesting part is when you hear
+[41:07] those people talk how they come to the
+[41:09] price it's always um kind of logical but
+[41:13] then you step out of of those things and
+[41:15] you compare and you're like this doesn't
+[41:18] make sense so I always wonder I always
+[41:22] wondered this but like how much of it is
+[41:23] also social media Cloud you know uh
+[41:25] because we know what we need to say I
+[41:26] mean if we both now open our mouths we
+[41:28] add laser eyes and funny Graphics to a
+[41:30] thumbnail you know it will instantly do
+[41:32] better than um if we just do a normal
+[41:33] thumbnail like these kind of rules apply
+[41:36] um also in the Bitcoin community so I
+[41:38] kind of wonder how much of it is cloud
+[41:40] but um yeah you're right there is always
+[41:42] a model or way for them to justify the
+[41:46] price uh I can't remember who said it um
+[41:48] but all of your models are broken is one
+[41:51] of the more famous American bitcoiners
+[41:54] who's quoting this on conferences as
+[41:55] well so if I go by this is which I've
+[41:57] seen enough now in a lot of bull runs
+[42:00] maybe he's right maybe they're right you
+[42:02] know I don't know at this point but I
+[42:04] just know that over time because Bitcoin
+[42:06] is disinflationary currently and it will
+[42:09] be deflationary once the last Bitcoin is
+[42:11] mined
+[42:13] um my value that I hold in it now should
+[42:17] be worth more in the future and that for
+[42:19] me is enough to know um that yeah we're
+[42:21] on the right track and that's why we
+[42:23] just D in right because once we try to
+[42:26] trade the market and time the market we
+[42:29] getting in a territory where we just
+[42:31] cannot do it like we we don't know what
+[42:33] is happening and uh we only know that
+[42:36] Bitcoin is sound money and will increase
+[42:39] in value over time this is something I'm
+[42:41] fairly certain about obviously things
+[42:43] can happen obviously nothing is 100% but
+[42:46] I'm young enough and I'm risk averse
+[42:49] enough that I'm like I'm willing to bet
+[42:51] on this that Bitcoin will grow to this
+[42:53] levels and I think we will hit the 100K
+[42:56] I think we will hit the one million I
+[42:57] think we will hit also the 10 million
+[42:59] Mark I just don't know why and I just
+[43:02] don't know how no
+[43:05] sorry when when I wanted to say this
+[43:09] would be a good
+[43:12] clip I know we're g there I just don't
+[43:14] know why and how yeah yeah yeah but true
+[43:18] you know it applies with all the W's
+[43:20] like why should we go there I don't know
+[43:22] how should we go there I don't know when
+[43:24] I definitely don't know so like why
+[43:25] should we care but yeah it probably you
+[43:28] and I were roughly around the same age
+[43:30] um I think we don't need to worry about
+[43:32] it too much um I could see if I like had
+[43:35] kids now and thank God I don't because I
+[43:37] literally live off mate Red Bulls and
+[43:39] and a few Sushi things in my fridge so
+[43:41] I'm I'm not a good role model in that
+[43:42] sense but if you do have these
+[43:44] responsibilities I think you would look
+[43:46] at it a bit differently but then again
+[43:47] same rules apply right the value should
+[43:50] increase over time and that should be
+[43:51] good enough for you to know that you're
+[43:53] on the right track maybe you don't YOLO
+[43:55] into it like we do but you know life
+[43:57] life is there to enjoy it right
+[43:59] definitely definitely I have an
+[44:01] interesting question for you do you self
+[44:03] call would you would your self call
+[44:04] yourself would you call yourself a
+[44:07] Bitcoin
+[44:09] maximalist uh no I would I I used to I
+[44:11] used to call myself fun I also used to
+[44:14] be very toxic um just because everyone
+[44:16] used to be and you tried to be part of
+[44:18] the cool gang um I would call myself
+[44:21] more an optimist a Bitcoin Optimist this
+[44:23] is why I always like to say an
+[44:25] Enthusiast if you want to say some
+[44:27] um but I do acknowledge the fact and I
+[44:30] know a lot of toxic Maxis don't do this
+[44:33] there is other out there namely
+[44:36] stuff that will promote the cbdc
+[44:38] infrastructure and the fat coins and
+[44:39] these kind of things and they have
+[44:42] certain value propositions that are more
+[44:44] interesting to you know let's call it
+[44:46] the banking world or the insurance world
+[44:48] or just different businesses so I'm okay
+[44:52] with that I don't mind I think uh all of
+[44:54] these altcoins are a test that for
+[44:56] Bitcoin anyway and we do see this with
+[44:58] the most crazy like
+[45:00] ordinals I don't have an interest in
+[45:02] nfts I don't get art on the blockchain
+[45:05] but Bitcoin nfts essentially Aid up the
+[45:07] ETF at the um nftd markets on eth and
+[45:10] Solana and all of these weird other
+[45:12] tokens and they found the way into
+[45:13] Bitcoin if this leads to
+[45:15] hyperbitcoinization and these
+[45:17] experiments are there um that's okay I
+[45:20] think so um who am I to judge how people
+[45:22] want to spend their money for these
+[45:23] things but I would definitely not call
+[45:25] myself a maximalist just because
+[45:27] what is a maxim list you would you would
+[45:29] probably only need to live on bitcoin
+[45:31] and this means paying your rent your
+[45:33] goods in Bitcoin at least from my
+[45:34] understanding um I always like if Maxis
+[45:37] call out people for having other assets
+[45:39] like stocks or bonds and these kind of
+[45:41] things but um you know they then invest
+[45:43] into like stuff like tedar or usdc
+[45:45] because you don't need a stable coin to
+[45:47] buy your sets on an exchange um they
+[45:50] obviously have Bitcoin and they probably
+[45:51] also have Fiat because you still need to
+[45:53] pay in Fiat for some stuff in your daily
+[45:56] life unless you're willing to go routes
+[45:58] um so just from that standpoint
+[45:59] maximalist didn't fit anymore um and
+[46:02] Optimist or enthusias is I'm saying
+[46:04] Optimist in the community and Enthusiast
+[46:06] with like my friends um because they
+[46:08] know that I can be a if um if I
+[46:10] start the argument so this is sort of
+[46:12] the neutral way for me to go about it
+[46:15] that's interesting because uh Michael
+[46:17] saor made in madira the the presentation
+[46:21] that he went from being an investor and
+[46:23] he went for all the step and his last
+[46:25] step was like I'm a Bitcoin maximalist
+[46:28] but at the same time he says that he
+[46:31] does not see necessarily Bitcoin
+[46:33] becoming a media of exchange he uses the
+[46:35] Fiat dollar but then also he says on on
+[46:38] national TV that uh people that save in
+[46:42] uh Fiat are poor people I think
+[46:46] said something like that so I think
+[46:49] Bitcoin maximalist like it's it's it's a
+[46:52] term a lot of people scream about but
+[46:55] everybody seems to have a little bit of
+[46:57] a different definition in the end of the
+[46:58] day I'm just caring about is this person
+[47:01] a bitcoiner or not and Bitcoin has
+[47:04] nothing to do with how many Bitcoin you
+[47:06] have it has to do with the mindset uh do
+[47:09] you are you a self- sovereign mindset
+[47:11] are you mind uh mindset that has certain
+[47:14] values and I even see people that have
+[47:17] gold and and and stocks and real estate
+[47:20] also in their portfolio as bitcoiner
+[47:22] they are even bitcoiners with no Bitcoin
+[47:24] because they don't they didn't
+[47:25] understand Bitcoin till now but they the
+[47:27] Bitcoin mindset and they will just need
+[47:29] time to get to that mindset there a lot
+[47:31] of people out there uh in that but uh
+[47:36] yeah I mean I also you know I I'm also
+[47:39] um um okay I only have I still have my
+[47:42] stock portfolio because I was too lazy
+[47:44] to figure out how to transfer it from uh
+[47:47] one country to another you know with um
+[47:48] you have sort of different models in all
+[47:50] of these brokerage accounts luckily my
+[47:53] brokerage allows me to basically
+[47:55] transfer within them
+[47:57] um but yeah I still have some tech
+[47:59] stocks I still have some of these things
+[48:00] you know from back in the day um they're
+[48:03] doing at this point and ironically
+[48:05] all of them hold large cash reserves uh
+[48:08] and not a Bitcoin Treasury and yeah I
+[48:11] also own micro strategy stocks because I
+[48:13] do want to support their Bitcoin
+[48:15] strategy and the vision that they share
+[48:17] and it's sort of been the inofficial ETF
+[48:19] anyway I also own some shares into the
+[48:21] ETFs just because I thought you know uh
+[48:24] sort of trying to help Wall Street out
+[48:27] because you know it was it was a fun
+[48:28] thing to do um and I I went to the Vanek
+[48:31] ETFs because it had the hdle tier and I
+[48:33] thought like yeah that's cool um and
+[48:36] some shares into ibit but um this has
+[48:38] like no connection to me the way it does
+[48:41] if if I look at my proper Bitcoin stack
+[48:44] so am I a maxi now or not I don't really
+[48:48] care at that point but I think I keep
+[48:50] the torch up high to to get as many
+[48:51] people into Bitcoin and that's my goal
+[48:53] behind it right not to I don't know not
+[48:56] to be the 10,000 laser I guy on on
+[48:58] social media sorry for anyone listening
+[49:01] I hope you're I hope you're offended
+[49:02] because that's the idea behind uh having
+[49:04] an open discussion
+[49:05] right that's that's really cool um and
+[49:09] this brings me a little bit to the next
+[49:11] topic and we talked about marketing we
+[49:13] just talked about investing and for
+[49:16] investing in marketing and for all it's
+[49:19] working and we need startups we need
+[49:21] companies that do stuff just as relay
+[49:24] and Rel relay has VC money behind it and
+[49:28] I think uh it's it's always interesting
+[49:30] because we need more I think we need
+[49:33] more VC money in Bitcoin I mean in
+[49:36] Europe in general like I think we we
+[49:39] when we see the capital uh flowing in
+[49:41] America and then we see the capital
+[49:43] flowing in Europe it's just uh really
+[49:45] poor it's like we America way more
+[49:48] Capital that's why the Bitcoin ETF is
+[49:50] also a bigger thing when it's uh
+[49:52] happened in America than when it
+[49:53] happened in Canada or Europe uh so do do
+[49:57] you see um also this thing where we
+[49:59] don't have enough VC capital and do you
+[50:02] see a way for Europe for Bitcoin to ACR
+[50:06] more VC Capital just as I think Rea is
+[50:09] quite successful actually as a Bitcoin
+[50:10] company to get VC
+[50:12] Capital so I think my answer is going to
+[50:15] be in three parts first of all um this
+[50:18] is a shout out to I think Manu runs the
+[50:20] account from MV podcast uh he for some
+[50:23] reason you know called us out a few days
+[50:25] ago and I had to hold myself back at
+[50:28] this point because you know uh we did we
+[50:30] did the marketing team at relay like
+[50:32] we're pretty much fluent aret is a
+[50:33] social guy but if it's a German answer I
+[50:36] sort of have to answer and then we were
+[50:38] he attacked us there uh for having the
+[50:40] audacity to accept VC money uh because
+[50:43] somehow the VCS have an influence into
+[50:45] company company decisions which is true
+[50:47] at a certain point but you know um if
+[50:50] you run a company under the guidance of
+[50:52] venture capitalists who are also uh G
+[50:56] basic basically at the whim of their
+[50:58] liquidity partners and like the people
+[51:00] that actually provide the money for them
+[51:02] to invest you do realize that we all
+[51:04] align on the same goal and with uh relay
+[51:07] specifically now to quote us but also
+[51:08] with other Bitcoin companies they have
+[51:10] Bitcoin odcs or specific Tech VCS that
+[51:14] understand the value prop of Bitcoin
+[51:15] again saying value prop a lot of this
+[51:18] podcast I apologize uh looking back at
+[51:20] it now but um yeah to call these things
+[51:23] out I just go this is silly because it's
+[51:26] like you mentioned we have to go against
+[51:28] America from a European standpoint we
+[51:31] have to go against Tech I mean AI for
+[51:35] example in my opinion does a lot of good
+[51:38] but there's also a lot of crap that just
+[51:40] you know wraps a chat gbt rapper and
+[51:42] builds a shitty product and raises like
+[51:44] a hundred million dollars or companies
+[51:46] that are like 14 days old and they get a
+[51:48] $4.5 billion evaluation like imag these
+[51:51] kind of things we're way off from these
+[51:54] numbers in Bitcoin maybe also bit
+[51:57] because we kind of have this dickish
+[51:59] attitude towards uh Venture Capital um
+[52:02] so to have that thought experiment to go
+[52:04] back to um my um shouting out there on
+[52:08] the account I
+[52:09] mentioned it doesn't help it doesn't
+[52:11] help the ecosystem we need a short-term
+[52:14] solution to basically grow as fast as we
+[52:16] can even faster than what the Bitcoin
+[52:18] network does already um so that's where
+[52:20] you need this help that's why you get
+[52:22] Venture Capital Money in and second part
+[52:25] to your answer
+[52:27] yes relay has been raising well but
+[52:28] again compared to other tech companies
+[52:31] um I bet they're laugh They're laughing
+[52:33] at the amounts we raise because for us
+[52:35] it's a lot of money right we can do a
+[52:36] lot with it in the Bitcoin Community but
+[52:38] again for tech companies and if you put
+[52:40] it into perspective it's not a lot um so
+[52:42] we need more of that we also need to be
+[52:44] more proactive and the third part you
+[52:46] mentioned Europe versus USA definitely I
+[52:49] mean we have a lot of great venture
+[52:51] capitalist um Family offices we have a
+[52:54] lot of great uh Minds that you know had
+[52:56] multiple exits and founded their own
+[52:58] funds the issue is just our attitude
+[53:01] towards investing as a whole I mean we
+[53:03] are from the German speaking area of
+[53:05] Europe and what is it that you learn at
+[53:07] a young age you save you don't invest
+[53:10] and if you're smart enough in the past
+[53:12] before Bitcoin you were able to invest
+[53:14] into hard assets like gold um again all
+[53:17] of the Maxis it's a bit more than a pet
+[53:19] Shiny Rock in my opinion because gold
+[53:21] had its use cases and it still does if
+[53:23] you look at how it's been used um but
+[53:26] that's it like you didn't really you
+[53:28] didn't go out on the limp and you risked
+[53:30] stuff and Americans are just way more
+[53:32] used to this maybe also with their whole
+[53:34] history and the way things came about
+[53:36] and out of that they already have a
+[53:38] competitive Advantage because they're
+[53:40] hungrier to get done to innovate
+[53:43] new stuff and to go out there and we
+[53:45] just lack a bit in that attitude there
+[53:47] are certain countries in Europe that do
+[53:49] it better than others obviously but we
+[53:52] definitely need more of that money I
+[53:54] also think we need more failure in
+[53:56] Europe
+[53:57] um I always see people um you know being
+[53:58] scared that they get laid off or that
+[54:00] the company fails and failure is a good
+[54:02] thing you learn not what not to do right
+[54:05] and ideally if like people don't kill
+[54:07] themselves or if nothing major happens
+[54:09] you'll eventually don't do the mistake
+[54:11] again or if you do it again it's not
+[54:13] going to be as big as you did it
+[54:15] previously so you're constantly in that
+[54:17] forward motion instead of staying uh
+[54:20] passive um so yeah to
+[54:23] recap shut shut the up if you're on
+[54:25] social that you criticize people who
+[54:27] take on the risk to building these
+[54:29] products we need this help it needs to
+[54:31] grow faster and uh capital from the
+[54:33] outside is the fastest way of growing um
+[54:36] whether that be a v VC fund a Bitcoin
+[54:38] whale or you know just a crowd found you
+[54:40] do you need this to get there secondly
+[54:43] uh we need to get off our ass in Europe
+[54:45] because we need to we need to catch up
+[54:47] with the rest of the world and uh
+[54:49] thirdly if we do it's okay to fail we
+[54:52] just need to keep moving forward and I
+[54:54] think if we combine all of that you will
+[54:57] then in the future see the big
+[54:59] investment rounds into Bitcoin companies
+[55:01] um and uh yeah I can see a future where
+[55:04] one of the Bitcoin only the companies
+[55:05] specifically you know will be able to
+[55:07] raise like quarter of a billion maybe
+[55:09] half a billion because people will
+[55:11] finally understand oh we shouldn't waste
+[55:13] our time with like AI or um I don't know
+[55:17] what's latest again people are BL into
+[55:18] web three again because you know the the
+[55:20] tokens they still hold in their wallet
+[55:22] somehow are worth something now again so
+[55:24] they invest money into it again instead
+[55:26] of focusing or wasting time there uh
+[55:29] they get into Bitcoin they potentially
+[55:31] will write bigger checks and this is a
+[55:32] good thing like we need this money to
+[55:34] get there because eventually if
+[55:35] everything leads to bitcoin right it
+[55:37] doesn't matter if they give us Fiat now
+[55:39] or later it will turn into Bitcoin
+[55:42] anyway so uh why not use the opportunity
+[55:44] and accept it to get there
+[55:46] faster yeah and I don't know what the
+[55:49] thing is bad about Venture Capital it's
+[55:51] just people putting money in the company
+[55:53] and of course they have influence like
+[55:57] why should he not have uh and the same
+[56:00] way as Julian as the CEO has influence
+[56:03] over over relay the same way as everyone
+[56:06] involved in the even you as a as an
+[56:09] normal employee has influence over relay
+[56:12] everyone involved in the ecosystem has
+[56:14] of course influence over I can start a
+[56:16] 51% attack with my shares no I'm just
+[56:21] kidding like that's I think I think
+[56:23] that's nothing bad I don't know what
+[56:26] did not watch the episode I don't didn't
+[56:29] watch his his argument but uh I I'm I'm
+[56:33] I'm screaming about it that we need more
+[56:35] capital in in in Bitcoin and Venture
+[56:37] capitalists have a lot of capital uh and
+[56:39] if they deploy it to bitcoin instead of
+[56:41] some shitcoin project I'm
+[56:44] happy and if look look at what happened
+[56:48] with the ETFs the amount of capital that
+[56:50] flows into it and we all know it's not
+[56:52] real Bitcoin but guess what it helps if
+[56:55] the Boomers can can allocate
+[56:57] 100k from their trading account that
+[56:58] just sits there in Fiat anyway via phone
+[57:01] because the lazy to not log into a
+[57:02] web interface and they tell the broker
+[57:05] hey just buy some of these shares and
+[57:06] like I'm okay if it performs well this
+[57:08] is a big step we didn't have this before
+[57:11] and I've heard about Bitcoin ETF since
+[57:14] 201 13 14 when was the wiggle was one I
+[57:18] remember getting picked up in 2014 I
+[57:20] remember Pete Rizo actually writing
+[57:21] about it very early on and reading about
+[57:23] it and it's failing and you know all of
+[57:25] these things so we finally got there and
+[57:28] if we can do the same thing with
+[57:31] investor money um this is going to be a
+[57:33] net positive because we see what people
+[57:36] do with little to nobody in the Bitcoin
+[57:38] Community imagine what's possible if
+[57:40] they can actually spend money to get it
+[57:42] out to more
+[57:43] people definitely and we need more
+[57:45] Capital uh investment in Bitcoin we need
+[57:47] more people talking about Bitcoin we
+[57:49] need more podcast we need more
+[57:51] everything like uh I'm I'm encouraging
+[57:53] everybody to be welcome about stuff like
+[57:56] if we try to like oh they should not be
+[57:59] involved in in Bitcoin because this and
+[58:01] that like what the we are trying to
+[58:04] revolutionize money H we are trying to
+[58:07] welcome everybody in and you saying he
+[58:09] cannot be involved because what he
+[58:12] did it kind of leads me actually into
+[58:14] something um I'm really fed up about the
+[58:16] Bitcoin community and I think uh not to
+[58:19] put me at the same level as sailor um
+[58:21] I'm definitely not there um I mean
+[58:24] frankly no I mean frankly there may be
+[58:26] stuff I understand better than he does
+[58:29] mainly how to talk to people because um
+[58:31] he's actually if you if you see him at
+[58:32] the conference he's really funny if like
+[58:34] a lot of people get to him you just know
+[58:36] the guy either has autism or he just
+[58:37] doesn't like a lot of people uh because
+[58:39] he's he's like his nervous system breaks
+[58:41] down he doesn't know what to do at this
+[58:43] point he just takes his selfies he moves
+[58:44] on um he's sort of the grumpy dude um
+[58:47] but I I best he just wants to have his
+[58:49] pce and stuff that on a fun s side note
+[58:51] but what I'm really fed up with about
+[58:53] the ecosystem is we're sometimes very BL
+[58:56] mind to our own beliefs and what I mean
+[58:58] by this is oh you know stuff like we've
+[59:00] already won well what does winning look
+[59:02] like like I don't think so personally
+[59:05] are is everyone on Earth using Bitcoin
+[59:07] no so in that terms I think we don't
+[59:08] have we haven't one um or also things
+[59:11] like oh yeah it's for everyone but then
+[59:14] you have people who may have legit
+[59:16] criticism and I'm not talking about
+[59:17] energy or things but you know thought
+[59:20] experiments like uh um should we should
+[59:22] we stick to the 21 million I personally
+[59:24] think so we should or do we have a
+[59:27] flexible system that um has a consensus
+[59:30] change and it's written into code and we
+[59:32] can all still vote on these things and
+[59:34] people like this get ripped apart I'm
+[59:36] not saying that this is a good thing I
+[59:37] don't believe it would be but we at
+[59:40] least should have the open discussion
+[59:41] about it and sometimes this can be very
+[59:43] much guided you know by these online
+[59:45] voices because it is cool to be Pro or
+[59:48] against something having said that
+[59:50] though if you've never been to meetups
+[59:53] and you meet bitcoiners in real life go
+[59:55] do this because the more people you meet
+[59:57] in real life the more you realize oh um
+[60:00] people actually think a lot more alike
+[60:02] and they are more open to this talking
+[60:04] about these thoughts than what appears
+[60:06] on social media because guess what
+[60:08] everyone of us is a on social
+[60:10] because it is cool and it is that
+[60:12] dopamine that hits you early in the
+[60:13] morning or late at night if you need it
+[60:15] um but yeah if there is one thing I
+[60:17] would criticize it's exactly that we we
+[60:19] we need to be a bit more I think
+[60:21] critical and a bit more open-minded
+[60:24] really open-minded to all so hey except
+[60:26] if there is criticism and people are not
+[60:28] going to change their mind or something
+[60:30] that's fine but at least we're having
+[60:32] the
+[60:33] discussion 100% I like I couldn't even
+[60:36] agree more it's like really really cool
+[60:38] what you're saying and I think this is
+[60:40] um an refreshing Bitcoin conversation
+[60:43] today and I like where we are going with
+[60:45] it um but we are actually unfortunately
+[60:48] coming closer to the end before we
+[60:49] coming to the end routine which is an
+[60:52] amazing interesting question and it it
+[60:54] really ties back to what we just just
+[60:56] said and I'm really curious what you're
+[60:57] saying then uh before I want to ask you
+[61:00] something completely unrelated to
+[61:01] bitcoin you write a lot I saw your subst
+[61:04] you write uh for for a relay you write
+[61:06] for yourself uh you you do a lot with
+[61:09] with writing things down writing your
+[61:11] thoughts to and I think this helps you
+[61:15] form your um thoughts form your
+[61:18] arguments well in your head and I
+[61:20] unfortunately don't do it like I don't
+[61:23] do any writing I do a lot of speaking I
+[61:25] have uh I'm coming to a routine where I
+[61:27] have two podcasts a day one for myself
+[61:30] and one where I'm a guest appearing so
+[61:32] it's like I'm I'm really speaking a lot
+[61:34] and I know that I'm getting better in
+[61:36] speaking actually with that uh
+[61:38] experience but I but for people that uh
+[61:42] did not do any riding uh for themselves
+[61:45] like I'm not talking about riding with
+[61:47] their friends I'm not talking about
+[61:50] posting on Twitter I'm actually thinking
+[61:53] saying about like sitting down and
+[61:55] writing in comp prehensive article about
+[61:57] a topic and really thinking the this
+[62:00] thing through like this is a different
+[62:01] kind of writing uh I think you know what
+[62:03] I mean do you recommend to people to
+[62:06] start doing this what what changes or
+[62:08] what benefits do did you get from from
+[62:10] doing that and would you even encourage
+[62:13] me to to uh start writing
+[62:15] something yeah definitely um I'm just
+[62:18] trying to look for my backpack because I
+[62:22] can showed us with a more visual uh
+[62:24] quote which really help me because
+[62:27] there's two things to my writing so I'm
+[62:29] not a slow typer or anything I I can I
+[62:31] would say I could type pretty fast but
+[62:33] I'm horrible at grammar like thank God
+[62:35]  like grammarly and Mentor D that
+[62:38] these things exist um because uh you
+[62:40] know I don't know all of my journalist
+[62:43] friends we somehow are bad at grammar
+[62:44] there's always like one of these um I
+[62:46] call them like the comma Nazi because
+[62:48] you know they always know what like the
+[62:50] rules are and what they need to do and I
+[62:51] have a very good friend of mine she uh
+[62:53] she always actually comes up to me and
+[62:54] goes like ah you should from this
+[62:56] sentence differently um but what really
+[62:58] helps me is I think if you're right um
+[63:01] all you do is you're just expressing
+[63:02] your thoughts and our heads are messy
+[63:05] everyone has a different thought pattern
+[63:08] um I mean there's countless studies of
+[63:10] how different ways um our brains work
+[63:12] with like the left hemisphere the right
+[63:14] Hemisphere and these things but what
+[63:15] really helped me is basically you know
+[63:17] like you did in school um I can may put
+[63:20] this on camera just having these notes
+[63:22] and having these Doodles and having
+[63:23] these things in your everyday life this
+[63:26] is a notebook I started two weeks ago
+[63:28] and it's already almost full like one of
+[63:29] these little fill up ones and just
+[63:32] expressing what you're feeling um taking
+[63:34] notes wherever you can this doesn't mean
+[63:36] I document my entire life but sometimes
+[63:38] I have an idea and I pick out this
+[63:40] notebook and I write it down I doodle it
+[63:41] down whatever um and getting used to
+[63:44] really expressing your thoughts I like
+[63:46] to draw and write by hand other people
+[63:49] you know record their voice um they they
+[63:52] take photos screenshots of stuff
+[63:54] whatever it is trying to have an
+[63:56] expression and then having that data
+[63:59] there to either process it into an
+[64:01] article a video or just something um you
+[64:04] want to express I think this helps
+[64:06] immensely whether this makes you better
+[64:08] writer I don't know if I look at the
+[64:10] time spent as a journalist with my
+[64:12] editors and fighting for the way I want
+[64:15] to say a sentence or not um knowing I'm
+[64:17] I'm fully in the wrong probably because
+[64:19] the grammar doesn't hold up but I want
+[64:21] to express it my way and I want to add
+[64:23] my character um I think this is the
+[64:26] right way to go people engage if
+[64:28] something is authentic and this doesn't
+[64:30] have to be perfect because nothing is in
+[64:32] life um and I think the more you express
+[64:34] yourself in these kind of different ways
+[64:36] and you put something out there the more
+[64:38] you're also find your in the voice and
+[64:40] the more you're able to then publish
+[64:41] these articles videos whatever it might
+[64:43] be um and yeah who knows maybe you're
+[64:46] able to pick up writing on a daily basis
+[64:48] I write a lot on a daily basis I don't
+[64:50] publish a lot of my own writing I really
+[64:51] should get into this a bit more um but
+[64:54] yeah it it definitely helps to put stuff
+[64:57] out there express yourself in whatever
+[64:59] shape or form possible and um you know
+[65:02] get started hitting the keys or cutting
+[65:06] videos or whatever it might be just get
+[65:08] out there and express these things I
+[65:09] think this really helps to to get into
+[65:11] that groove of producing content
+[65:14] expressing your emotions or just um
+[65:16] having some time to yourself early in
+[65:18] the morning or late at night to uh sit
+[65:19] down and write yeah I think uh I think
+[65:23] uh especially writing video is like
+[65:27] there there's something to writing that
+[65:29] is special when you sit down you're
+[65:31] going over the sentence you're like how
+[65:33] can I form this better how can I
+[65:35] structure that argument better uh with
+[65:37] video it's really cool it evolves your
+[65:39] speaking skills a lot and it also
+[65:42] involves how you think of course uh but
+[65:45] I think you uh need also the writing
+[65:47] thing and the writing thing is something
+[65:49] that um is is missing a mindset I've
+[65:52] thought a lot about it I might start a
+[65:55] new letter with uh the seven biggest
+[65:59] lessons from my seven podcasts I did per
+[66:01] week uh with just like list it up uh
+[66:04] this is something that I might start if
+[66:06] I have a little bit more time because I
+[66:09] cannot handle the workload right now uh
+[66:11] but this is something I thought and I
+[66:14] might actually started it in April or
+[66:16] May so maybe even it's maybe I even
+[66:19] started it uh when when this comes out
+[66:21] let's see um we are having an end
+[66:23] routine in the podcast where the
+[66:24] previous guest is asking a question for
+[66:27] the next guest without knowing who is
+[66:29] the next guest uh and uh the question
+[66:33] for you is and it ties back to what we
+[66:35] talked about a little bit what changes
+[66:37] would you mandate to the Bitcoin Network
+[66:40] assuming you have total
+[66:42] control oh
+[66:44] wow uh so basically become God for a day
+[66:49] over the entire network that is a very
+[66:53] well that's a very good question I would
+[66:56] so Network includes everything that
+[66:59] includes main layer and obviously the
+[67:01] main layer has um uh has a connection to
+[67:04] all of these layers
+[67:07] top I would say finding a way to
+[67:11] solve the liquidity issue in lightning
+[67:14] simplifying it I don't know I and
+[67:17] hated on Lightning before but just with
+[67:19] the thought if if I could do it
+[67:21] overnight like this um meaning it would
+[67:25] be so so simple that everyone can just
+[67:27] get on Bitcoin in a self- sovereign way
+[67:30] let's call it depends if they get on the
+[67:32] main layer or into a scaling
+[67:34] solution this would be pretty cool
+[67:36] whatever that would be if it's inbound
+[67:38] outbound liquidity issues you you can
+[67:40] solve instantly or um all of these
+[67:43] different implementations working in
+[67:45] sync and like not breaking and all of
+[67:47] that stuff whatever it is just trying to
+[67:49] fix that most current need in these
+[67:52] scaling and in between Solutions I think
+[67:55] this would be the biggest benefit to
+[67:56] bitcoin um otherwise I could think of of
+[68:01] of of anything else at this point really
+[68:04] really cool um TR I love to have you on
+[68:06] it was such an amazing discussion I
+[68:08] think uh like over one hour now we
+[68:10] talked about Bitcoin life and so many
+[68:12] different things and uh thank you for
+[68:15] taking this time thank you all the
+[68:16] listeners for listening and watching in
+[68:19] um for people that now have question
+[68:21] about you have questions about content
+[68:24] want to ask you different things maybe
+[68:26] and want to reach out with you uh to you
+[68:29] um where can people get in touch with
+[68:31] you the best way what's the single uh
+[68:34] point where they can reach you okay uh
+[68:37] trigger warning for all of the um U oh
+[68:40] he's got a blue check mark in his
+[68:41] profile and stuff people uh I'm also on
+[68:44] U I'm also so I'm on Linkin I'll send
+[68:46] you the links to link below I'm on you
+[68:48] know Noster I am U if you're a threat if
+[68:51] you're part of like the cool hipster
+[68:52] gang but the easiest place to reach out
+[68:54] to me is on Twitter or X or whatever the
+[68:56]  it's called um and it's underscore
+[68:58] JK Ln Z or C depending where in the
+[69:01] world you're coming from uh my DMs are
+[69:04] open uh you can criticize me um we can
+[69:07] get into a Twitter fight but still meet
+[69:09] in person you know to have a beer uh so
+[69:11] yeah that's probably the best place to
+[69:12] reach out and uh if you're on any of the
+[69:15] art platforms also reach out I love to
+[69:17] connect everywhere the more Bitcoin we
+[69:19] need the the better thank you for TR for
+[69:22] being on thank you for taking the time
+[69:23] it was a pleasure
+[69:26] thank
+[69:30] you

@@ -1,0 +1,708 @@
+Title: The Game Theory FORCING Nation-States to Mine Bitcoin | Bitcoin 2025
+Video ID: aKmjiyUBrkY
+URL: https://www.youtube.com/watch?v=aKmjiyUBrkY
+Date Saved: 2025-06-16 16:58:11
+Channel: BitcoinMagazine
+--------------------------------------------------
+
+[00:00] So we had Vance today speak the VP of
+[00:05] the USA and he called Bitcoin a
+[00:10] strategic asset like the world is
+[00:12] listening that is the state of mining
+[00:14] now where sovereigns and vice presidents
+[00:17] are talking about Bitcoin. So a question
+[00:20] to you and you you can do a quick intro
+[00:22] to it right before you speak is what are
+[00:26] the strategic reasons for nation states
+[00:29] mining or for attracting hash rate to
+[00:33] their country?
+[00:35] Nice. Hi. Um, so like I think where we
+[00:39] can start off is
+[00:41] we all know that Bitcoin is like really
+[00:45] really scarce and it's going to manifest
+[00:50] even more so with big players coming
+[00:53] into space and purchasing and acquiring
+[00:57] trying to build reserves.
+[00:59] uh the scarcer it's going to get, the
+[01:03] more important hash rate will become. Uh
+[01:07] because obviously it's going to be one
+[01:10] of the ways to acquire Bitcoin in larger
+[01:14] quantities. uh strategy owns about what
+[01:19] was it 580,000
+[01:21] almost like 600 like you know it's and
+[01:25] there's approximately 1 million left to
+[01:27] be mined in the next 100 years
+[01:30] to give a little bit of perspective on
+[01:32] that. So mining and hash rate are you
+[01:36] know going to be the thing that
+[01:41] we'll be talking about in the next
+[01:42] couple of years I think.
+[01:46] So um bitcoin uh is something that uh
+[01:49] can define the sovereignity of a country
+[01:52] for sure and uh there are some scarce
+[01:56] resources in this kind of um ambient
+[01:59] because if we are considering block
+[02:01] space for example it's something uh that
+[02:05] uh is strategically important for for
+[02:07] estate uh because it's limited um there
+[02:10] is a kind of limited amount of
+[02:13] transaction in every block and there is
+[02:15] a limited amount of blocks. We have 144
+[02:18] blocks a day. And so it's important for
+[02:21] a nation state to try to be uh
+[02:24] strategically
+[02:26] one of the first that can handle this
+[02:29] part um in order to have the power to
+[02:33] handle some kind of transactions and not
+[02:36] stay apart uh from from this kind of
+[02:39] business. And so there is a limitation
+[02:42] for sure on block space and uh similar
+[02:45] um can be for the ash rate. Uh because
+[02:48] also mining is something really
+[02:50] important in order to have the control
+[02:53] then on bitcoin and all all this kind of
+[02:56] industry. Um and so um we are seeing
+[03:00] national states that are making
+[03:02] important investments um in this kind of
+[03:05] sector and are making Bitcoin reserves
+[03:08] um in order to try to handle this um
+[03:11] these kind of aspects that are limited.
+[03:15] Uh so I I think we skipped over intro so
+[03:17] I'll plug myself real quick and I think
+[03:18] we we should all do a round of intros
+[03:20] too. So I'm Kevin Zayn. I'm a SVP at
+[03:23] Foundry Digital. Uh we're a wholly owned
+[03:25] subsidiary of digital currency group and
+[03:28] uh we're best known for our software and
+[03:30] our services we provide in the mining uh
+[03:32] space. Uh in particular our mining pool.
+[03:34] Uh we're one of the largest mining pools
+[03:36] in the world. Uh but a lot of people
+[03:37] also don't know that we offer uh minor
+[03:39] management software firmware and uh site
+[03:43] operations where we'll actually go in
+[03:44] help you outsource uh people to manage
+[03:47] your operations on site as well. um to
+[03:49] but to answer the question like what
+[03:51] attracts nations into uh Bitcoin mining
+[03:54] and even their interest in block space I
+[03:56] think first they have to obviously know
+[03:58] what they're getting themselves into
+[04:00] right um the space moves incredibly
+[04:02] quickly the narratives change very fast
+[04:04] but the one thing they need to have
+[04:06] established before miners feel
+[04:07] comfortable coming in is rule of law
+[04:10] right because when you have established
+[04:12] frameworks and nowadays it's no longer
+[04:14] like small individual miners that going
+[04:16] to these various countries new locations
+[04:18] new regions
+[04:19] These are large public companies,
+[04:21] sovereign wealth funds, and they're
+[04:23] deploying hundreds of million if not
+[04:25] billions of dollars. And these uh these
+[04:27] projects, they take years to build up
+[04:29] and get started. So, you don't want
+[04:31] something to shift on you halfway
+[04:33] through your project, halfway through
+[04:34] your um your plans, right? Uh not only
+[04:37] do you have to figure out the right
+[04:38] vendors to work with, but even your
+[04:40] designs or your tax liabilities, right?
+[04:43] Whether it's VAT or how much you're
+[04:45] going to pay uh for your electricity,
+[04:47] etc. All this has to be kind of locked
+[04:49] down and without rule of law and without
+[04:51] kind of established frameworks, it's
+[04:54] very difficult for uh nation states to
+[04:56] get started uh mining locally.
+[05:00] Sorry, did you want to do a really quick
+[05:01] intro? Yeah, I'm Francesca Feloni uh CFO
+[05:05] and co-founder of Alps Blockchain. Uh we
+[05:07] are a mining company. Uh we have we have
+[05:10] operations around the world from South
+[05:12] America to Middle East to North America.
+[05:15] uh in particular we have um Oman as a
+[05:18] country and then Paraguay, Ecuador, US
+[05:20] and Europe where we started uh we will
+[05:24] reach uh 15 exile by December and so we
+[05:27] are growing a lot and our vision is to
+[05:30] try to connect the world of energy and
+[05:33] energy transition with the mining
+[05:35] activity.
+[05:37] Um for those of you who don't know me,
+[05:40] I'm Philip. I'm uh
+[05:43] the chief legal officer at Nice Hash.
+[05:45] Nice hash is a platform
+[05:48] uh providing a live hash rate
+[05:51] marketplace. Um
+[05:55] it behaves a lot like a pool but with a
+[05:58] lot of add-ons. So um check us out.
+[06:03] Can you guys talk about the connection?
+[06:06] Introduce yourself. Oh, sorry. Yes.
+[06:08] Hello. I'm Mags. I'm with PDRTI. We take
+[06:11] waste tires and we mine Bitcoin. I'm
+[06:13] also part of Vibes Capital Management.
+[06:15] You may have seen us on Twitter,
+[06:18] but I'm also actually I'm writing a book
+[06:20] on like nation state gate game theory
+[06:24] and geopolitics of Bitcoin mining. So,
+[06:25] this is like a cool panel and I'm
+[06:27] privileged to be on this panel with you
+[06:29] guys because I get the lowdown like so,
+[06:32] okay,
+[06:33] I'm a nation state. I'm gonna buy a
+[06:35] Bitcoin reserve. Does it matter if I
+[06:38] have a reserve? But I don't have hash
+[06:40] rate and I don't have block space
+[06:42] access. I don't think so. I think you
+[06:44] need those. But why don't you guys offer
+[06:47] your thoughts? Yeah, it's really
+[06:49] important to have it for sure. uh
+[06:51] because to handle also the block space,
+[06:54] you need to have some kind of computing
+[06:56] power. And so uh the mining activity is
+[07:00] kind of the base of this kind of um
+[07:02] blockchain technology. And so uh trying
+[07:06] to work also on the mining uh sector is
+[07:09] really important for nation states uh
+[07:11] because it helps handle the block space.
+[07:14] it helps handle uh like the transaction
+[07:18] um and so um you can decide uh how is
+[07:22] what is going to be approved on the
+[07:24] blockchain or not. Um it's uh really
+[07:28] important for monetary sovereignity
+[07:31] uh because uh again um mining is the key
+[07:35] uh of this kind of sector and so um it
+[07:38] it's a really strategic result and in
+[07:42] addition to that there is also the
+[07:45] electricity and so um part that is
+[07:48] really important because uh we have a
+[07:50] lot of examples of how mining can
+[07:53] benefit the energy transition and how it
+[07:55] can be strategic also for that part and
+[07:58] so uh also to for the development of a
+[08:01] country for that point of view it's
+[08:03] really important
+[08:06] I think
+[08:07] from a perspective of management of
+[08:10] natural resources it's also really
+[08:13] important for nation states to
+[08:14] understand what mining actually does and
+[08:18] how it what it can do so you have
+[08:22] natural resources being used up for
+[08:26] powering Bitcoin mining.
+[08:29] It's it's an activity that's that makes
+[08:32] it really easy to take that wealth and
+[08:34] project it thousands kilometers away to
+[08:37] an foreign entity.
+[08:39] I think it's going to go down that this
+[08:42] road that governments and states will
+[08:46] realize uh that this is something they
+[08:49] need to keep in mind and address in
+[08:51] certain ways. Uh I think we will see a
+[08:54] lot of legislation in the near future uh
+[08:58] coming down on this particular topic. Uh
+[09:04] it's been in the shades for long but I
+[09:08] think with all this allocation of
+[09:11] resources into this directions
+[09:15] it we will see a lot of protectionism.
+[09:18] Um I'm certain of it. That's actually a
+[09:21] really good take. I think it's really
+[09:23] interesting if you look at the country
+[09:25] of Bhutan, right? Only 800,000 people,
+[09:28] but they have a lot of excess power.
+[09:32] They don't have gold. They don't have
+[09:34] precious metals, but they are mining a
+[09:37] scarce digital resource and building up
+[09:40] a treasury. And they actually have been
+[09:41] spending it. They've spent maybe 400 500
+[09:45] million over the last couple of months.
+[09:46] And they're building an airport and a
+[09:48] city. So like Bitcoin mining is building
+[09:51] that country up and they by my estimate
+[09:54] 1.5 to 2% of hash rate will be in Bhutan
+[09:58] in the next uh couple of months. So like
+[10:02] that's pretty significant. US has
+[10:04] massive hash rate. Do you think there's
+[10:06] a certain uh percentage hash rate that
+[10:08] countries should aspire to?
+[10:12] Uh well going back to the previous
+[10:13] question of uh nation states getting
+[10:14] into whether they should have a reserve
+[10:17] or start mining. I think it's really
+[10:18] important for each of these different
+[10:20] countries to kind of play the hand that
+[10:21] they're dealt, right? We talked about
+[10:23] whether you have abundance of
+[10:24] electricity or you have a grid
+[10:26] framework, tax laws, etc. Like one of
+[10:28] the reasons why MetaPlanet really took
+[10:30] off in Japan, most people don't know
+[10:32] there's a 55% unrealized capital gains
+[10:35] on Bitcoin that you hold, right? And
+[10:37] that also applies to a lot of
+[10:38] businesses. So, it makes sense to have a
+[10:40] proxy where um you don't have the same
+[10:42] tax laws if it's uh investing in a
+[10:44] Bitcoin company or in a company itself,
+[10:46] right? Um, Japan doesn't have a lot of
+[10:48] electricity, so they probably won't get
+[10:50] into the Bitcoin mining game. Uh, now to
+[10:53] your question that you're asking about
+[10:55] uh, Bhutan uh, and what percentage of
+[10:57] hash rate makes sense. I think it's once
+[10:59] again how much power and how much
+[11:00] resources do you have, right? Um, it
+[11:02] probably doesn't make sense to build
+[11:04] power just for Bitcoin mining. But if
+[11:06] you have abundance, an overabundance,
+[11:08] you have cheap electricity that's
+[11:09] dormant or isn't being utilized or you
+[11:11] have uh, a grid that you need to
+[11:13] balance, Bitcoin mining is great for
+[11:15] that, right? Uh, I think this is what a
+[11:16] lot of a lot of the things that you were
+[11:18] doing at PR PRTI, which is um off-grid
+[11:20] mining, but also helping balance grids
+[11:22] for newly developed energy
+[11:24] infrastructure. Bitcoin mining is this
+[11:26] controllable load that you can shut off
+[11:28] within seconds, right? And that is a
+[11:31] very powerful tool for when you're
+[11:32] developing uh new energy infrastructure,
+[11:34] especially renewables. So I think it's
+[11:37] as much as it's like uh these companies
+[11:39] are leveraging Bitcoin to help their
+[11:41] financial prospects, it also helps them
+[11:43] uh establish stability for other
+[11:45] infrastructure they're building like the
+[11:46] bit uh the airport that Bhutan funded
+[11:48] with uh their Bitcoin and gains. But
+[11:50] also I think energy and power is so
+[11:52] related with uh kind of standard of
+[11:55] living and how well country is doing uh
+[11:57] how well they're able to industrialize
+[11:59] and Bitcoin mining can help lead that
+[12:01] charge. And I I've visited um Kenya
+[12:05] where gridless set up and they are
+[12:07] building out power in communities that
+[12:09] never had power before. subsaharan
+[12:11] Africa there's some places where 80% of
+[12:13] people are disconnected from power and
+[12:15] that is where I think like from you know
+[12:18] nation state it's being built from the
+[12:19] ground up but they're actually bringing
+[12:21] that country out of poverty like to the
+[12:24] energy line and then at the complete
+[12:26] opposite side you look at the US and
+[12:29] other nations that are building out AI
+[12:31] infrastructure and that the amount of
+[12:33] power that is predicted to grow I think
+[12:36] AI is supposed to hit about 10% of all
+[12:39] power demand in North America in 2030.
+[12:43] Um, so I'd like to advance today talked
+[12:45] about the importance of connecting
+[12:48] Bitcoin and AI. So I'd like you guys to
+[12:51] talk a little bit about that because you
+[12:53] know a lot of folks are thinking AI is
+[12:54] sort of where you know we'll we'll build
+[12:57] up sort of the next generation
+[12:58] productivity within countries. So what's
+[13:01] the connection that you guys see between
+[13:03] AI and you know national sovereignty and
+[13:06] energy security?
+[13:09] Well, I first off I I think there's when
+[13:12] we talk about AI today, it's like you
+[13:16] know it can be a lot of things. Uh on
+[13:19] the Bitcoin side coming from a let's say
+[13:22] compliance connected background uh I
+[13:25] think we will see a lot of application
+[13:26] in transaction monitoring preventing uh
+[13:29] so enforcing anti-moneyaundering rules.
+[13:32] So this is a field where for sure AI
+[13:36] will have its firm place. I know for a
+[13:39] fact that there is companies already out
+[13:41] there using AI in order to you know
+[13:46] facilitate or make it easier to monitor
+[13:49] machines to um
+[13:53] keep a hand on your in hardware and
+[13:55] infrastructure. So for now
+[14:01] it's going to involve
+[14:04] what I think is that the connection
+[14:07] between these two technologies is for
+[14:09] sure the infrastructure because uh
+[14:12] energy is the key for both uh AI and
+[14:15] mining. Um they are a completely
+[14:18] different kind of business model and
+[14:20] activity. Um and if we see the capex per
+[14:23] megawatt of mining is like really uh
+[14:27] lower than the the AI ones. So what can
+[14:31] be the synergy um is that um you can you
+[14:35] can have really good energy contracts
+[14:38] because of scale production uh thanks to
+[14:40] Bitcoin mining and use this kind of
+[14:43] energy contract to have really um
+[14:46] efficient operation uh for AI. And this
+[14:50] means that together uh there are many
+[14:53] companies that are building electrical
+[14:55] infrastructure. uh and this electrical
+[14:57] infrastructure is not only like the low
+[15:00] voltage part, it's also the substation
+[15:03] and the high voltage part that core us
+[15:06] is not such an important part. But if we
+[15:09] think about other kind of countries,
+[15:12] it's something that can be then
+[15:14] beneficial for all the country
+[15:15] development of like the grid and the
+[15:18] infrastructure because uh we as a
+[15:21] company but many other listed miners are
+[15:24] working on this kind of activity. Um and
+[15:28] um we see example of mining um that is
+[15:31] really beneficial for the electrical
+[15:33] infrastructure of like less advanced
+[15:37] countries. Um AI is something uh really
+[15:41] interested interesting for like bigger
+[15:44] companies. Um and because like
+[15:47] competition is really important. Um
+[15:50] while mining can be uh a really good uh
+[15:54] strategical um start in order to work on
+[15:57] the uh energy PPA for sure. And um this
+[16:01] is also a connection between like
+[16:04] private corporations and then national
+[16:06] states because we can see how private
+[16:09] activities you said the example of
+[16:11] Bhutan but there is Kenya we are doing
+[16:15] the same in Oman when we are we are
+[16:17] using like natural gas power plant to
+[16:20] then build uh renewable energy sources
+[16:23] and so we can see how private
+[16:25] corporation can benefit also the
+[16:27] development and energy transition of
+[16:29] national states.
+[16:31] So I'll just build off Francesca's point
+[16:33] which is the intersection of AI and
+[16:35] Bitcoin mining definitely is on the
+[16:37] power consumption and electricity right
+[16:40] uh but the usage is very different uh AI
+[16:42] not only is it more capex uh intensive
+[16:44] and more dense uh the uptime required
+[16:47] for AI is often 99.9% of the time they
+[16:50] don't have the luxury of being able to
+[16:52] shut down being able to turn off they
+[16:54] have fixed contracts and they have to
+[16:55] remain online at all times so let's take
+[16:57] Texas for example that's a very popular
+[16:59] destination for a lot of data centers, a
+[17:01] lot of Bitcoin miners. So, what they've
+[17:02] done down there to enjoy lower
+[17:05] electrical rates for their overall
+[17:06] deployment is they blend both HPC and AI
+[17:09] and Bitcoin mining. Uh what that allows
+[17:11] for them to do is they have anywhere
+[17:13] from 5 to 10% of their facility
+[17:15] dedicated for AI where they will never
+[17:17] turn that off. But for the remaining
+[17:18] 90%, they're able to participate in
+[17:21] demand response and curtailment. And
+[17:22] that allows them to significantly lower
+[17:25] their average electrical rate uh over
+[17:27] the course of the year because of that
+[17:28] flexibility. And I think that is really
+[17:31] wonderful synergy that a lot of
+[17:32] companies are starting to explore now.
+[17:34] And the other thing that's really
+[17:35] interesting is so especially in the US
+[17:37] where they built out these large giga
+[17:39] mines and they're converting some of
+[17:40] that infrastructure now to AI. In a way
+[17:43] it's kind of accelerated AI because that
+[17:45] infrastructure was already built out
+[17:47] ready for compute but now it's being
+[17:49] switched to AI. And then you look at
+[17:50] places like Europe, right, where
+[17:54] historically they've made certain policy
+[17:56] decisions around energy. They turned off
+[17:58] the nukes and power is really expensive
+[18:00] and in a way they're behind because
+[18:03] mining did not set up in the same way
+[18:05] that it did in the United States, in
+[18:07] Canada. And so in a way they've almost
+[18:10] shot themselves in the foot in my
+[18:12] opinion.
+[18:14] Um well you hit my nerve here because
+[18:18] I'm from Europe and um
+[18:22] uh not only in this sense so Europe has
+[18:27] had a lot of missteps with the maker
+[18:30] regulation. Yeah, uh European take on AI
+[18:35] in general is fundamentally wrong. I
+[18:38] guess like
+[18:41] it's an environment that makes it
+[18:44] virtually impossible for startups in
+[18:47] this in both fields. Yeah. Uh to come up
+[18:52] with new solution and to drive uh
+[18:55] advancement. So
+[18:58] for now I would say forgot about Europe.
+[19:00] Um
+[19:04] there are there are things like I think
+[19:06] uh you proved it that it still can be
+[19:09] done even in Europe uh with a lot of
+[19:13] knowledge with a lot of um let's say
+[19:17] out of the box thinking um but yeah it's
+[19:20] uh I would say the US right now with
+[19:24] this administration
+[19:26] is proving what a good policy maker can
+[19:30] provide. to the to the whole industry.
+[19:36] So when we started our mining activity,
+[19:39] uh we wanted to try to find a way to do
+[19:42] it in Italy and we have the example of
+[19:46] Italy being one of the most expensive
+[19:48] countries for mining in the world
+[19:51] because of the power rate that is really
+[19:53] high. Um we found out a way uh that is
+[19:57] connecting directly with the hydro power
+[19:59] plants but this is not applicable for AI
+[20:03] because of like uh what Kevin said the
+[20:05] uptime so mining can be flexible both
+[20:09] for the up time and internet connection
+[20:12] and so we have uh mining data center
+[20:14] like on the mountains with starlink uh
+[20:18] that's impossible for AI so what we are
+[20:21] seeing is that uh there are some
+[20:23] development ments of AI in Europe. Uh
+[20:27] many are in France because it's a
+[20:29] country that is producing a lot of
+[20:31] nuclear energy and so the average power
+[20:34] costs is lower than in other um
+[20:36] countries in in Europe. Um and also we
+[20:40] have to consider that for the AI the
+[20:43] electricity consumption is lower than
+[20:45] mining. So there are some kind of um AI
+[20:49] activities and AI data center that are
+[20:52] getting built uh because it's not so
+[20:54] fundamental to have a good power rate.
+[20:57] It's important to have a kind of
+[20:59] efficient sites and for many European
+[21:03] country they prefer to pay may uh like
+[21:06] um the computing power a little bit more
+[21:09] but have it in Europe instead of having
+[21:12] it in US for AI. So there are some kind
+[21:15] of developments for sure regulation is
+[21:18] is not helping as always unfortunately
+[21:21] in Europe because it takes me like uh
+[21:24] much more time than in other countries
+[21:27] and it's not so open uh mostly uh but
+[21:30] also we have example in northern Europe
+[21:34] uh like Sweden uh Finland where there
+[21:37] are some kind of mining activities with
+[21:40] like circular economic projects so that
+[21:43] like mining itself maybe is not so
+[21:45] profitable there but then there are some
+[21:48] projects of reuse of the hatch or like
+[21:51] other applications that can make also
+[21:53] the mining activity work but as always
+[21:57] doing things in Europe is like more
+[21:59] difficult than in other countries
+[22:01] because you need to be creative in
+[22:03] finding other ways
+[22:06] yeah so I I think we keep hammering the
+[22:08] same point which is energy consumption
+[22:09] power electrical availability right
+[22:11] there's a direct correlation if
+[22:13] causation between standard of living,
+[22:15] advancement, innovation, and the amount
+[22:17] of electricity you can produce in a
+[22:18] nation. And there's a reason why
+[22:20] historically there have been several uh
+[22:22] countries that really dominated Bitcoin
+[22:24] mining. Uh the US, more recently, Russia
+[22:27] and historically China. Um and even
+[22:29] today about 40% of all mining happens
+[22:31] within North America, about 30% anywhere
+[22:34] from 20 30% is in Russia. Uh and about
+[22:36] 10% still in China, and the rest is kind
+[22:39] of scattered across the world. But if
+[22:41] you look at all these large mining
+[22:43] facilities, the one similarity in
+[22:45] property they have and jurisdictions
+[22:46] they're in is that these countries all
+[22:48] had substantial massive electrical
+[22:51] infrastructure. Uh for the US, we used
+[22:53] to be a manufacturing powerhouse, right?
+[22:55] So a lot of the aluminum smelters,
+[22:57] lumber mills, uh paper factories, etc.
+[23:00] these have a lot of them have been
+[23:01] retrofitted for Bitcoin mining. These
+[23:03] are a lot of the brownfield sites you
+[23:04] see today that have large mining
+[23:06] imprints. Uh with China, obviously
+[23:08] they're manufacturing a lot. out they're
+[23:09] going really heavy renewables. Um that's
+[23:12] a lot of abundance electricity with
+[23:13] Russia. That's the former USSR days,
+[23:15] right? There was a lot of capacity that
+[23:17] was been dormant for a long time and
+[23:19] that's being utilized um for Bitcoin
+[23:22] mining and other other purposes as well.
+[23:24] The thing is it's really easy to turn
+[23:26] off power like they've done in Europe.
+[23:27] They really shot themselves in the foot,
+[23:29] but it's very very difficult to build
+[23:30] this power infrastructure that takes uh
+[23:33] years if not decades. So we're going to
+[23:35] change tax a little bit to the forward
+[23:37] future looking. So for those nation
+[23:40] states or sovereign wealth funds that
+[23:42] are interested to get getting into
+[23:44] mining, where do you sort of see it
+[23:47] going? Whether it's um if you think
+[23:50] about uh pools, for example, El Salvador
+[23:52] has its own pool. Are we thinking
+[23:54] they're going to be launching pools? Are
+[23:56] they going to be launching alliances
+[23:58] like the World Trade Organization? Are
+[24:00] they going to create their own kind of
+[24:02] alliance so that they have access to
+[24:04] block space? Do you think they'll be
+[24:05] buying hash rate instead of building
+[24:07] hash rate? Where do you guys think it's
+[24:09] going for the nation state level? I
+[24:12] think one thing is that um as I said it
+[24:17] before it's I think what's coming is a
+[24:21] big interest in managing and controlling
+[24:25] hash rate uh that is being produced with
+[24:28] resources uh in your territory.
+[24:32] uh local or state pools or at least
+[24:37] relays where this hash rate will
+[24:41] flow through if nothing else
+[24:45] is kind of my gut feeling. Um not that
+[24:52] I'm a big fan of it, but I think this is
+[24:54] how it's going to go down. The other
+[24:57] thing is how to get Bitcoin. So
+[25:01] partially definitely through taking part
+[25:04] of these process
+[25:07] uh partially acquisition of hash rate I
+[25:10] think is going to be a big big thing.
+[25:13] I'm a fan of it because we have a
+[25:15] marketplace for hash rate. So you know
+[25:18] uh but in general as I said I think this
+[25:23] is going to be a big big big topic in
+[25:25] the coming years. Okay.
+[25:28] uh I think it must be a kind of mix of
+[25:31] all these uh aspects because only having
+[25:35] the control on a measure pool uh means
+[25:38] that any way a minor can decide uh
+[25:41] whether to give the ash rate to your
+[25:43] pool or not. So you don't have the
+[25:46] control on ash rate at the end. um
+[25:49] building infrastructure is maybe the
+[25:51] safest way but uh it's kind of limited
+[25:56] on scale on like the available
+[25:58] electricity uh in the country. It takes
+[26:01] time. It takes a lot of investments
+[26:04] um a specific knowow. So maybe nation
+[26:08] states can work on having their mining
+[26:11] farm. That's important. But I don't feel
+[26:14] that there will be like really big scale
+[26:17] operations. Um
+[26:20] so it can be like a kind of mix of
+[26:23] having control on a pool um having
+[26:26] control on some ash rate and then having
+[26:28] some mining farms. so that they can kind
+[26:31] of balance uh the power um and have a
+[26:35] strategic kind of view on every aspect
+[26:38] of the mining activity. Yeah. Yeah. So,
+[26:41] I think the narrative has definitely
+[26:43] shifted away from running mining
+[26:44] operations uh in a in a nation to
+[26:47] acquire Bitcoin because I just pulled up
+[26:49] my phone and just double checked to make
+[26:50] sure I was right. Uh really there's only
+[26:52] about 1 million Bitcoin left to be mined
+[26:54] and that's going through 2140. Uh and
+[26:57] the reality is for nations if they want
+[26:59] to participate in Bitcoin, they can
+[27:01] certainly go out and buy more. That
+[27:02] would be much more efficient and direct
+[27:03] and trying to build up infrastructure to
+[27:05] mine. However, where it gets interesting
+[27:07] is block space and hash rate because
+[27:09] there's no network in the world that's
+[27:11] more secure than Bitcoin. And if you
+[27:13] want to inter uh if you want to
+[27:14] transact, if you want to build and
+[27:16] innovate on this Bitcoin layer, whether
+[27:18] it's onchain or uh offchain, the reality
+[27:22] is you need to have some uh plugin or
+[27:26] some access to block space that you know
+[27:28] you control that you know you can always
+[27:29] rely on to get your your initiatives
+[27:32] through, right? Uh and I think whether
+[27:34] it goes through forms of owning your own
+[27:36] hash rate and money on your own or
+[27:38] partnering with the pool, that becomes
+[27:39] very critical. We run one of the largest
+[27:41] pools in the world. Uh and oftentimes we
+[27:43] actually have nation states mind with us
+[27:45] right uh can't divulge who they are and
+[27:47] we ourselves are a very private company
+[27:49] as well foundry we don't disclose our
+[27:50] hash rate because oftentimes you don't
+[27:53] want to show your hand right you have uh
+[27:55] sovereign wealth funds in nation states
+[27:56] out there oftent times they have to
+[27:58] divulge how much MSTR how much Bitcoin
+[28:01] uh reserves they have but they don't
+[28:03] talk about what hash rate they're
+[28:05] running right and I think that is
+[28:06] actually very powerful for if you want
+[28:08] to actually innovate and build on the
+[28:10] Bitcoin protocol on this layer, it's
+[28:13] good to control hash rate. So you make
+[28:14] sure you have the safeguards uh and you
+[28:17] have the channels to actually run your
+[28:18] protocols. So to summarize, you need
+[28:21] hash rate because you need to hit the
+[28:23] blocks, but you need access to block
+[28:26] space to and and look, you mentioned
+[28:29] Russia earlier had had a certain like a
+[28:31] high number of hash rate. They've been
+[28:33] cut off from the global financial
+[28:35] system, right? The US and its allies
+[28:37] weaponize the financial system, cut them
+[28:39] off from Swift. If you have access to
+[28:41] blockchains and hash rate, you can
+[28:44] contract. Sorry, you can transact. Your
+[28:47] citizens can transact. So, I think these
+[28:50] two components are vital, you know,
+[28:52] going into the future. Alliances between
+[28:56] pools and and gaining access is a vital
+[28:58] component to national security and
+[29:01] economic sovereignty of a country.
+[29:03] Coming back to your earlier question
+[29:06] when you asked how much hash rate should
+[29:10] a nation state aim for? Well, I I think
+[29:13] that's where it comes down to like
+[29:16] having hash rate is basically the
+[29:18] ability to have a say in the in the
+[29:21] network like you're basically making
+[29:23] sure that transactions are validated. So
+[29:27] I think if that's not a strategic if
+[29:31] like asset or position to hold for a
+[29:36] nation state that then I don't know what
+[29:37] is. Yeah. Bob Bernett actually has a
+[29:40] really good number. He says that every
+[29:41] nation should aspire to have at least
+[29:44] the percentage GDP that they have of of
+[29:46] the world GDP. That's the amount of hash
+[29:48] rate. And I think that's actually a good
+[29:50] number to aim for. Well, thank you very
+[29:52] much. We are over time. Thank you for
+[29:54] listening and please give a round of
+[29:56] applause to our amazing panelists. Thank
+[29:58] you.
+[30:01] [Music]
+[30:24] [Music]
+[30:27] Heat. Heat.
+[30:29] [Music]

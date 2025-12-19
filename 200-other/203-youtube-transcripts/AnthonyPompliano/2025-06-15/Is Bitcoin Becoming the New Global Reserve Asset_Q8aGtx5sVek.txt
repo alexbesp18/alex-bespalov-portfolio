@@ -1,0 +1,1368 @@
+Title: Is Bitcoin Becoming the New Global Reserve Asset?
+Video ID: Q8aGtx5sVek
+URL: https://www.youtube.com/watch?v=Q8aGtx5sVek
+Date Saved: 2025-06-15 12:37:23
+Channel: AnthonyPompliano
+--------------------------------------------------
+
+[00:00] If the major economies are starting to
+[00:02] use BTC as a macro hedge and then not
+[00:04] just gold, that means we're we've
+[00:05] progressed way further than we ever
+[00:07] thought we were going to have um
+[00:09] progressed in the last 10 years and that
+[00:11] happened all over the last 2 years. Um
+[00:14] so BTC as a geopolitical asset I think
+[00:17] is really important. Why? Censorship
+[00:20] resistant, borderless neutral countries
+[00:22] that have inflation risk or political
+[00:23] instability, they're going to probably
+[00:24] think about it. It might actually create
+[00:26] more stability for their countries
+[00:27] because it's a hedge. And then for the
+[00:29] US, it's an edge. What's going on, guys?
+[00:32] Today, we've got an excellent episode
+[00:33] with Orjun Seti. He is the co-CEO of
+[00:35] Kraken and someone that I've known for a
+[00:37] long time. He's a fantastic investor and
+[00:39] someone who thinks very deeply about
+[00:41] Bitcoin, crypto, and the traditional
+[00:43] financial system. In this conversation,
+[00:45] we cover what's going on at the
+[00:46] intersection of traditional finance and
+[00:48] crypto, why open permissionless systems
+[00:50] are going to be the default, how things
+[00:52] like Bitcoin and tokenized stocks are
+[00:53] going to fit into that system, what it
+[00:55] means for individual professional
+[00:57] traders, and also how regulation and the
+[00:59] traditional players will all play into
+[01:01] the system. Arjun understands where the
+[01:03] world is going better than most people
+[01:04] that I know. And today, he lays out
+[01:06] exactly how the infrastructure will get
+[01:08] built and what it means for you sitting
+[01:09] at home. So I hope you enjoy my latest
+[01:11] conversation with Arjent Sethi or I
+[01:13] thought a great place to start the
+[01:14] conversation is uh Robin Hood is
+[01:16] considered a traditional brokerage. They
+[01:18] sell stocks but now they've added crypto
+[01:20] fast growing segment of their business.
+[01:21] Kraken, you guys are traditionally a
+[01:23] crypto business but now you guys are
+[01:25] adding US equities. It feels like
+[01:27] everything is just kind of converging in
+[01:29] the middle and whether you're an
+[01:30] exchange or some other provider of a
+[01:32] financial product, you're going to
+[01:33] operate with a foot in the traditional
+[01:35] world and a foot in the crypto world. Is
+[01:36] that how you see this playing out or is
+[01:38] there something else that we should be
+[01:39] aware of?
+[01:40] Look, I think one of the areas that
+[01:42] people kind of miss is like what does
+[01:45] the future of finance look like? And so
+[01:47] during the the 70s and ' 80s time frame,
+[01:49] you had Michael Milin talk about the
+[01:52] democratization of finance and like the
+[01:53] types of products that were built on top
+[01:55] of it. And so the the the future of
+[01:58] finance at the time was essentially US
+[02:00] world capital markets. If you think
+[02:02] about what's happening now is you're
+[02:04] hearing these themes and it's not just
+[02:06] today it's you know over the last 10
+[02:08] years we've been pushing these themes um
+[02:11] in in the you know traditional venture
+[02:13] Silicon Valley ecosystem we used to say
+[02:14] fintech but it was a closed economy
+[02:16] closed system closed experience um what
+[02:19] we're really talking about here today
+[02:21] what I sort of um profess more now than
+[02:24] I used to and you've been doing it for a
+[02:26] long time as well is like the future of
+[02:28] finance really is going to be
+[02:29] programmable permissionless and much
+[02:32] more increasingly decentralized. So
+[02:34] great, those are all like um great words
+[02:37] to use, but what you're already seeing
+[02:39] in what I call global liquidity markets
+[02:42] is that you're seeing a shift from
+[02:43] institutions being the gatekeepers to um
+[02:47] to the protocols.
+[02:49] Um and you're already seeing those uh
+[02:51] gatekeepers to protocols being the
+[02:53] rails. So crypto and and I also think
+[02:55] that crypto no longer is uh becoming
+[02:58] more and more commonplace at least with
+[03:00] folks like you and me or the folks that
+[03:01] we talk to given the multiple hats that
+[03:03] we wear um where it's just an asset
+[03:05] class right like when you start used you
+[03:07] used to think about equities and crypto
+[03:08] separately you used to think about
+[03:10] venture and private equity um public
+[03:13] public and private separately which is
+[03:14] fine u but I think when you when you
+[03:16] think about crypto it's not just an
+[03:18] asset class it's an infrastructure lay
+[03:20] layer for global capital markets global
+[03:23] liquidity I I think the second piece to
+[03:24] that is um is you know over the last two
+[03:28] to three years AI has started to
+[03:30] automate a lot more of this right so now
+[03:32] we can uh you don't you're no longer
+[03:34] requiring armies of analysts or ops
+[03:36] teams to think about what tokenization
+[03:38] means right like it's it's like right
+[03:39] from the beginning we can start thinking
+[03:41] about how to value it where does it get
+[03:43] created um how do you distribute it how
+[03:44] it's owned and so access from everything
+[03:47] from treasuries to talent in some cases
+[03:50] um but if I was to break it down into
+[03:52] themes around what we're all talking
+[03:54] about now is that you have crypto as an
+[03:55] infrastructure, AI and finance, DeFi and
+[03:57] tokenization, open systems, which I
+[04:00] think is really really important and
+[04:01] then the hybrid trust model between
+[04:04] traditional finance and what's happening
+[04:05] in DeFi. So what does that really mean?
+[04:07] Crypto infrastructure trading uh
+[04:10] powering payment systems, identity,
+[04:12] custody, credit, governance, AI and
+[04:14] finance, what does that mean? Smarter,
+[04:15] faster, leaner systems where one person
+[04:18] can do multiple things from risk to
+[04:19] research to customer experience. uh
+[04:21] define tokenization, what does that
+[04:23] really mean? Moving real world assets
+[04:25] and functions onchain, right? So,
+[04:26] private credit, private equity,
+[04:28] treasuries, traditional equities, public
+[04:29] equities, open systems, composability
+[04:32] and interoperability. I think that's
+[04:34] been left out for so long, which is I
+[04:36] don't need to be on a siloed platform.
+[04:38] The platform doesn't have to own my
+[04:39] customer experience. And then we can
+[04:42] really start talking about what's been
+[04:43] changing in the ecosystem around the
+[04:45] hybrid trust models, which is regulatory
+[04:46] clarity plus decentralized primitives
+[04:50] essentially.
+[04:51] will and what I've sort of focused my
+[04:53] day-to-day um thought process on is that
+[04:55] it becomes mainstream adoption. When you
+[04:58] look at how this infrastructure is
+[05:00] changing, it does feel like uh the
+[05:02] people have been very receptive to this.
+[05:04] Obviously, things like Bitcoin, stable
+[05:06] coins, etc. They have been uh uh kind of
+[05:08] first to use that. I think it's one of
+[05:10] the first technologies definitely in my
+[05:11] lifetime and and maybe in a long time
+[05:12] where the people adopted it before the
+[05:14] institutions and the nation states and
+[05:15] things like that. Uh but now it does
+[05:17] feel like the nation states are starting
+[05:18] to turn and say, "Hey, wait, this like
+[05:20] Bitcoin crypto thing." Uh there's value
+[05:22] there, right? And we saw this with the
+[05:24] Bitcoin ETFs. Now you see it with like
+[05:26] stable coins. You hear them talking
+[05:27] about the fact that they want these
+[05:28] people as customers or they'll let them
+[05:30] use their assets when they're lending
+[05:32] and and borrowing and things like that.
+[05:34] But it still feels like they want to do
+[05:36] things in their kind of gatekeeper
+[05:37] centralized way. It's just like they
+[05:39] look at the assets as like an input into
+[05:41] that system. Whereas what you're talking
+[05:43] about feels like an entirely new system
+[05:44] that's like built being built in
+[05:46] parallel. Is that how you kind of see
+[05:47] that the two different worlds, you know,
+[05:49] kind of interacting with these assets?
+[05:52] Look, if you if you take a look at the
+[05:54] internet and what happened there was
+[05:57] there was a community and the way in
+[06:00] which they thought about open protocols
+[06:02] and open source. And there was a set of
+[06:04] companies that said, "Okay, great. I'm
+[06:05] going to take some of these open sources
+[06:06] and create either closed communities or
+[06:08] closed gate systems. Um or I've already
+[06:11] got a gated system. So like how does the
+[06:12] internet help me augment what that looks
+[06:14] like? So you see that today by the way I
+[06:15] don't necessarily think it's a bad
+[06:16] thing. Um it's just that we're evolving
+[06:19] and so traditional internet where we're
+[06:21] evolving at a certain pace. I think
+[06:22] what's great about like the future of
+[06:24] finance and the crypto ecosystem is that
+[06:26] we can work at a much more compounding
+[06:27] rate. Um and we can do it much more uh
+[06:30] segmented um for where it makes the most
+[06:32] sense. So when I think about you know
+[06:34] with my hat on for for Kraken um is that
+[06:38] look the I think for for how we think
+[06:40] about the world is the end state for
+[06:42] Kraken is to become a financial OS of
+[06:44] the internet. I know that sounds fun,
+[06:45] you know, crazy. Um, but like you should
+[06:48] be able to think about what is a global
+[06:50] platform that powers everything from
+[06:52] trading, custody, payments, identity,
+[06:53] real world assets, and issuance look
+[06:55] like to not be gatekeepers, but to be
+[06:57] able to enable innovation, right? Like
+[06:58] AWS helped to enable a lot more
+[07:00] innovation. They weren't gatekeeping
+[07:02] along the way, you know, as opposed to
+[07:03] what, you know, IBM used to do in the
+[07:05] past. Um, and and another, you know, a
+[07:08] counter to that would be like, okay,
+[07:10] well, Facebook isn't just a social
+[07:11] network. They're they at in the
+[07:13] beginning at least they were helping to
+[07:15] enable what social networking could be
+[07:17] um with their social layer and identity
+[07:19] but they became much more closed
+[07:21] ecosystem and so and I would say it
+[07:22] didn't come into fruition. So when I
+[07:24] think about Kraken isn't just an
+[07:25] exchange. If we're just an exchange,
+[07:27] we're going to be a closed system. We're
+[07:29] continuing to build the same
+[07:31] infrastructure we built for ourselves to
+[07:32] make Kraken successful. Um so that you
+[07:34] can have an open programmable financial
+[07:36] system. I think that's really important
+[07:37] where it ends up being userowned that
+[07:40] maybe that's a hybrid over a period of
+[07:42] time. But then when you can think about
+[07:43] being globally accessible and natively
+[07:45] digital, that changes the way in which
+[07:47] you can build products. And so then
+[07:49] you're not building a platform, you're
+[07:50] able to build products on top of an
+[07:52] infrastructure. And then you can get a
+[07:53] different kind of network effect or
+[07:55] extensibility or user development
+[07:57] ecosystems which we haven't seen before
+[07:59] where the barrier of entry to build a
+[08:02] product should be small. It shouldn't be
+[08:04] that large. Um and you could say hey the
+[08:07] history repeats itself and it you know
+[08:08] these moes are created but ideally we
+[08:10] can get to a place where it's less and
+[08:12] less moes and it's more about can you
+[08:14] build uh products that are at an even
+[08:17] level playing field for you know what's
+[08:19] best for the customer at the end of the
+[08:20] day. Um, so you should be thinking about
+[08:23] multiasset, multi- rail. You should be
+[08:24] thinking about not just owning the
+[08:26] stack, but owning the experience for a
+[08:28] customer, but still making it
+[08:29] permissionless, which is I want to be
+[08:31] able to move. I want to be able to be
+[08:32] mobile. I want to be able to own my
+[08:34] asset the same way, which is probably
+[08:36] what attracted you to Bitcoin or the
+[08:37] Bitcoin paper is that like it's, you
+[08:39] know, synonymous to cash in terms of
+[08:41] like you owning it. It's yours. No one
+[08:43] can touch it. And so you don't have to
+[08:45] think about um a trade-off. you can
+[08:47] think about, you know, what can I do now
+[08:49] with my collateral? Um, and then what
+[08:52] are the systems that I use? And and of
+[08:53] course then you can move into, okay,
+[08:55] well, what does traditional finance type
+[08:57] products allow you to do that is trust
+[08:59] um trusted and compliant. Um, and you're
+[09:02] not thinking about trade-offs for
+[09:04] compliance, you're thinking about
+[09:05] advantages. One of the things that I've
+[09:07] heard people talk about that I think is
+[09:08] uh pretty interesting is this like
+[09:09] operating system for finance and having
+[09:11] it be this like open protocol that
+[09:13] anyone can kind of uh play with and and
+[09:15] uh plug into as you're describing here.
+[09:17] We've seen this model, right? We've seen
+[09:19] like the Apples of the world or the
+[09:20] Androids and some of them more open than
+[09:21] others and there's all these kind of
+[09:23] different ways to do it. But we've also
+[09:24] seen with like the app stores and so is
+[09:26] that kind of what these financial
+[09:27] institutions become is like they've
+[09:29] created their own app and they're
+[09:30] plugging it into a system but it doesn't
+[09:32] matter if I've got you know PayPal,
+[09:34] Venmo, Kraken or JP Morgan. I can go and
+[09:37] I can send these assets between all
+[09:38] these different products whether I'm
+[09:40] talking about currency, commodities, you
+[09:42] know, equities uh or or anything else.
+[09:46] Look, I think the beauty of the early
+[09:48] internet um was that there were so many
+[09:51] open protocols that could have been
+[09:52] used. Um and so we ended up choosing a
+[09:54] few and some were, you know, deemed
+[09:55] illegal during the mid to late '90s,
+[09:57] especially when it came to sending money
+[09:59] over the internet. Uh but but I think
+[10:02] your your analogy is apt in that look,
+[10:05] why is Venmo and
+[10:08] um you know, PayPal two separate
+[10:10] systems? Like why can't I use Venmo to
+[10:12] send something to PayPal? you can't even
+[10:14] though they're owned by the same company
+[10:15] today. Um same thing with Cash App or
+[10:18] any other protocol that's out there and
+[10:19] and and I would say like the the beauty
+[10:21] of what you've been able to see with
+[10:23] crypto is like you have you know across
+[10:25] all these changes that you start
+[10:26] thinking about interoperability and
+[10:28] composability. There is no reason. So
+[10:30] the best analogy for kind of what it
+[10:32] could look like is think about email
+[10:34] which is like you're focused on one
+[10:36] experience and that experience helps you
+[10:38] win um customer experience and that
+[10:41] allows you to be able to you know chat
+[10:43] with you know pmpp.com um and like
+[10:47] arjungmail.com or something like that
+[10:48] right and we're allowed to be able to
+[10:50] communicate with each other even though
+[10:51] we're on different platforms and and I
+[10:53] think that protocol level um
+[10:55] composability is really important so
+[10:57] when you start thinking about the bigger
+[10:58] ambition for for financial assets is you
+[11:02] know even the vision of what we have at
+[11:04] Kraken is like okay you got a single
+[11:05] platform to access every financial asset
+[11:07] but you don't have to be closed there
+[11:09] and homed there only where you can only
+[11:11] do things within what we do that
+[11:13] actually creates more friction so when
+[11:15] you think about crypto plus FX or
+[11:17] treasuries or real real world assets all
+[11:19] in one place on one exchange it
+[11:22] shouldn't be though that like you cannot
+[11:23] move it and some a lot of people say
+[11:25] well you know I can move Fidelity to
+[11:26] Vangard that's really hard you can move
+[11:28] from Morgan and Stanley Bank it's very
+[11:30] hard like I've done it and it's painful
+[11:32] and so that friction shouldn't be there
+[11:34] in the case so the the bigger ambition
+[11:36] for anyone including what we think about
+[11:38] is how do you make access permissionless
+[11:41] that means moving beyond just like
+[11:42] listing and custody but you're able to
+[11:45] move towards something creating more
+[11:46] open composable financial infrastructure
+[11:48] architecture where anyone can build
+[11:50] trade issue settle without needing um
+[11:52] some sort of approval from a central
+[11:54] authority and central authority doesn't
+[11:56] mean government central authority
+[11:57] sometimes just means the bank, right?
+[11:59] And I and I think that's what it means
+[12:01] to being able to unify scale with
+[12:02] decentralization.
+[12:04] Talk a little bit about you guys going
+[12:06] into US equities because I think that
+[12:07] there's a lot of people who realize like
+[12:09] the traditional financial folks of
+[12:10] course they want to have the crypto, you
+[12:12] know, ecosystem come to them. So you see
+[12:14] the Bitcoin ETFs, you see uh different
+[12:16] exchanges talking about maybe one day
+[12:17] they could offer the crypto spot assets.
+[12:20] Um we obviously have seen the futures
+[12:21] and all that kind of stuff, you know,
+[12:23] come out. Um, but I don't think people
+[12:25] really ever thought about or or saw that
+[12:27] it was going to be early where the
+[12:29] crypto players were going to start
+[12:30] adding the traditional assets uh and
+[12:32] maybe beat the traditional players to
+[12:34] kind of this merged world. Um, I always
+[12:37] use you guys as the example as a
+[12:39] traditional crypto exchange now adding
+[12:40] US equities like game on it feels like.
+[12:43] And so talk through maybe a little bit
+[12:44] what you guys are doing and kind of why
+[12:46] you're choosing to start with US
+[12:47] equities.
+[12:48] So this goes back a little bit in
+[12:50] history where look when people talk
+[12:53] about being internet native, mobile
+[12:55] native, cryptonative, AI native, but I
+[12:58] think what's really important is like
+[12:59] when you are first principles native
+[13:01] with a new paradigm shift. Um you're
+[13:04] starting to build what you think the
+[13:05] future may look like, but a lot of what
+[13:06] the future may look like is coming from
+[13:08] what I call past architecture, past
+[13:11] traditions and and past assets. So um
+[13:15] given my background, I spent so much
+[13:16] time in fintech um as an investor and
+[13:18] and built our own companies as well and
+[13:20] and I started a bank in Mexico called
+[13:22] Capitol. One of the biggest issues with
+[13:24] building those companies is because
+[13:26] we're building on traditional
+[13:27] infrastructure, it's it's actually
+[13:28] harder and harder for us to be able to
+[13:31] move and think about um how to build new
+[13:34] financial rails and financial
+[13:35] technologies cuz you've got this debt of
+[13:37] all of this investments that you've made
+[13:39] in the past. Um, and so you'll see
+[13:41] people talk about that actually, which
+[13:42] is like, well, we do this. It's like
+[13:44] it's cheap to be able to move money
+[13:46] around. Great. It's well with for your
+[13:48] own infrastructure. I think there was a
+[13:49] quote by one of the founders of Airwalks
+[13:52] where he said like, I don't understand
+[13:53] crypto. I don't understand why anyone
+[13:54] would want to use it because like my
+[13:56] products and the infrastructure we built
+[13:58] is allows you to be able to move, you
+[13:59] know, uh, uh, money, you know,
+[14:01] instantaneously. Great. Well, if you use
+[14:03] his platform, right? So, you got
+[14:06] to pay the gatekeeper. Um, the flip side
+[14:09] of it is, okay, great. Well, we're a
+[14:10] crypton native company. We built out the
+[14:12] rails and the infrastructure. Um, and so
+[14:14] what does it mean to be able to go and
+[14:16] get the traditional assets because
+[14:18] they've already spent a lot of time
+[14:19] building it and you know, rightfully so,
+[14:21] like we uh bought Ninja Trader. The the
+[14:24] the future of Ninja Trader is to be able
+[14:26] to tokenize all of those uh contracts um
+[14:28] and to be able to token whatever the
+[14:30] commodities are that people want to be
+[14:31] able to trade and how to think about
+[14:32] that collateral. So our first foray into
+[14:35] it is that like look, we support um uh
+[14:39] tokens and we support a lot of assets on
+[14:41] our exchange, but we need to be able to
+[14:43] support more than just um you know
+[14:45] cryptonative assets. We need to be able
+[14:46] to figure out how to make crypto sorry
+[14:49] traditional assets crypto native in
+[14:50] themselves. And so we announced
+[14:52] tokenized stocks when they called we
+[14:53] call them X stocks. Um and and I think
+[14:56] what we're really saying is like we're
+[14:57] hinting at a world where you can trade
+[14:59] any asset anytime from anywhere and the
+[15:01] real value isn't just faster access to
+[15:03] equities. The value is collapsing the
+[15:05] layers of friction. So what are those
+[15:07] friction points? Custody, settlement,
+[15:09] access, compliance, all abstracted into
+[15:12] code ideally. So for Kraken, it's a step
+[15:14] forward in order to have a unified
+[15:16] market structure where traditional and
+[15:17] crypto assets can coexist not just on
+[15:20] one single platform but across all the
+[15:22] multiple platforms that are out there.
+[15:23] Right? When I say permissionless, you
+[15:25] can use any other exchange. You can use
+[15:26] any other service provider. You should
+[15:28] be able to use any wallet. It doesn't
+[15:29] have to sit with me. But we want to be
+[15:31] able to help enable that. And so for the
+[15:34] world, what does that mean? It's
+[15:36] billions locked out of global markets
+[15:38] traditionally. So you you that means
+[15:40] they don't have that financial
+[15:41] inclusion. Um and programmable ownership
+[15:44] can be a reality. 24/7 liquidity in
+[15:46] collateral can be a reality. And you
+[15:48] have borderless access. So I think you
+[15:51] know like yes you need to get better at
+[15:53] smarter compliance yes you need to have
+[15:55] next generation user experience just
+[15:56] like other fintexs have but I just think
+[15:59] um making sure that you have access and
+[16:01] composability you know it's it's where
+[16:03] you can start thinking about what xox or
+[16:05] you know we recently bought ninja trader
+[16:08] how you plug that into defi and lending
+[16:10] and structured products etc like that
+[16:12] becomes the real in my opinion Trojan
+[16:14] horse for crypton native companies to
+[16:16] start thinking about bringing
+[16:17] traditional assets into a programmable
+[16:19] finance Once you're on chain, we get to
+[16:21] build more innovation on top of that,
+[16:22] which is what is more exciting rather
+[16:24] than thinking about the bridge that
+[16:26] we're trying to build. Now, how do you
+[16:28] think about in this like open
+[16:29] permissionless system? Uh I think the
+[16:31] critics we deal like, oh my god, they're
+[16:33] all going to trade, no one's going to
+[16:34] have any rules, there's not going to be
+[16:35] any regulation. How are we going to stop
+[16:36] the bad actors? Um obviously, I think
+[16:39] there's a whole critique of, you know,
+[16:41] does things like KYC actually stop the
+[16:43] bad actors and all that, but just put
+[16:44] that aside for a second. How do you see
+[16:46] what I would put as like innovative
+[16:48] technology interacting with or
+[16:50] intersecting with uh kind of an you know
+[16:52] one of the most regulated industries in
+[16:53] the world in terms of traditional
+[16:55] finance? Today's episode is brought to
+[16:57] you by Bitizenship. If you're a
+[16:59] Bitcoiner thinking about global mobility
+[17:01] and securing a true plan B, listen up.
+[17:04] Portugal is one of the most attractive
+[17:05] golden visa programs in the world. And
+[17:07] Bitizenship has built the ideal pathway
+[17:10] to get you there. They're behind the
+[17:12] first Bitcoin ecosystem golden visa
+[17:14] fund. It's a private equity fund that
+[17:16] purchases Bitcoin via a local company
+[17:18] that gives you exposure to Bitcoin while
+[17:20] qualifying you for the Golden Visa and
+[17:22] citizenship in just 5 years. Plus,
+[17:25] here's what makes this a no-brainer.
+[17:27] Bitizenship has the lowest fee structure
+[17:29] of any Golden Visa fund in Portugal. And
+[17:32] because their team handles everything
+[17:33] in-house, you skip the usual friction
+[17:35] and bloated fundraising costs of other
+[17:37] funds. So, if you're serious about
+[17:39] sovereign flexibility, now's the moment
+[17:41] to act. Go to bitisenship.com/pump
+[17:44] and book a free strategy call with their
+[17:46] team. Again, that's bitansenship.com/p.
+[17:50] Go check them out today. Look, the
+[17:54] when regulations were passed for any of
+[17:55] these um they usually work for good good
+[17:58] reason. And then what happens is design
+[18:00] pre-implementation ends up failing
+[18:02] somewhere. So when you when you think
+[18:04] about okay well does KYC AML work? Yes,
+[18:06] it works for a very specific set of
+[18:07] industries of like you know a movement
+[18:09] of money but it doesn't work for cash.
+[18:11] um it still doesn't work for you know
+[18:12] different uh nefarious activities even
+[18:14] in traditional banking. So I'll give you
+[18:15] an example. Um you have someone like
+[18:19] HSBC or any of the larger banks and
+[18:21] institutions that they work with someone
+[18:22] when when they find out that they've
+[18:24] done something wrong, it's usually that
+[18:26] they've been doing something wrong for 2
+[18:27] years, right? And you're talking about
+[18:28] billions and billions of dollars being
+[18:30] moved um in um uh and and then now they
+[18:33] have to go through an effort of
+[18:34] reporting it then doing more
+[18:35] investigation and obviously paying a
+[18:37] fine eventually. If you take a look at
+[18:39] the total, you know, amount of fines
+[18:41] that the large institutions pay because
+[18:43] they took so long to figure it out. I
+[18:45] mean, it's in the hundreds of billions
+[18:46] worldwide. It's it's large. I can't I
+[18:48] can't even fathom what it is. I used to
+[18:50] track it, but I stopped caring because
+[18:51] it's just too large. What happens in
+[18:53] crypto? One, you can start thinking
+[18:56] about smarter compliance rather than an
+[18:58] interpretation of compliance or manual
+[19:00] compliance. So there's no reason why KYC
+[19:02] and AML cannot move onchain and you
+[19:05] cannot while you cannot um enforce the
+[19:07] rules program programmatically right so
+[19:10] you make it permissionless but in order
+[19:11] to redeem in order to use in order to
+[19:13] use in collateral for different products
+[19:14] that are out there you can enforce these
+[19:17] programmatically and it actually makes
+[19:18] it easier not harder so imagine a world
+[19:21] where you let in more people and then
+[19:23] you can target rather than say like I'm
+[19:26] just going to not let everyone
+[19:27] participate in it you're talking about
+[19:28] billions of people left on the sidelines
+[19:30] worldwide, which is what crypto is now
+[19:32] supposed to help enable because you're
+[19:34] interpreting it manually like, you know,
+[19:36] post World War II where you need like an
+[19:38] army of a thousand people to figure it
+[19:39] out. You don't need to, you know, it's
+[19:41] getting easier and easier to do this
+[19:43] every single day. Um there's no reason
+[19:45] why we need to, you know, go back in
+[19:47] time and say like, well, this is the way
+[19:48] the the way in which the structure needs
+[19:50] to be created. And when you see these
+[19:53] assets um that are being tokenized,
+[19:55] there's like infrastructure and then
+[19:56] there's the players. How do you see the
+[19:58] issuers changing over time? Like
+[20:00] obviously somebody's building a company.
+[20:02] Uh maybe they want a token and they want
+[20:03] a publicly traded stock or maybe that's
+[20:05] just one thing, but like the issuer role
+[20:07] I think a lot of people don't really
+[20:09] talk about because they talk about like
+[20:10] the technology provider on the crypto
+[20:11] side, talk about the banking or you know
+[20:14] the the exchange or whatever in the
+[20:15] traditional world, but the issuer in a
+[20:17] weird way has choice and that choice
+[20:20] should actually lead to competition
+[20:22] between these two different systems to
+[20:23] like who gets the issuer, right? It's
+[20:24] like the next great company. Do they
+[20:27] choose to tokenize themselves or or go
+[20:29] through the traditional public markets?
+[20:30] I think right now the default is public
+[20:32] markets, but like maybe that changes
+[20:34] over time. I think what's really
+[20:38] fascinating is when you reduce the
+[20:40] friction across the board, you're giving
+[20:42] people ultimately more choice. And then
+[20:44] when you have more choice, there's more
+[20:46] innovation and products that are built
+[20:47] on behalf of that. So who's the client
+[20:50] at the end of the day? Let's call it,
+[20:51] you know, um a company in Europe. Now,
+[20:54] how do they get access to liquidity or
+[20:56] global liquidity or access to capital?
+[20:58] They got to go to their local exchange.
+[21:01] Well, can you name me which um exchange
+[21:04] that they're going to go to in Europe?
+[21:06] You can't anymore because it's just
+[21:08] getting smaller and smaller. So, they
+[21:10] want access to global liquidity. And so,
+[21:11] now everyone kind of looks like looks to
+[21:13] the US markets for global liquidity. Um,
+[21:15] now I think that's that can still be
+[21:16] okay, which is okay, great. Now, you've
+[21:18] got a a couple of exchanges that are
+[21:19] thinking about global liquid liquidity,
+[21:21] but they all interact with each other,
+[21:22] too. So it ends up not being zero sum.
+[21:25] And so as an issuer um you can decide
+[21:28] how you want to think about your onchain
+[21:30] strategies maybe a better way to put it
+[21:32] which is do you want to be an issuer
+[21:34] yourself? Do you want to work with
+[21:35] someone else? Do you want access to a
+[21:36] very specific set of global liquidity um
+[21:39] uh products? Is it a treasury? Um is
+[21:41] that credit? Um is that funds focused on
+[21:43] DeFi and Trafi? Is it like I just want
+[21:46] to issue a token that is my equity and
+[21:49] do I want to have access to for global
+[21:51] liquidity to be able to invest in my um
+[21:53] you know traditional security? I think
+[21:56] where people kind of get um mixed up is
+[21:58] that tokenization isn't about wrapping.
+[22:00] It's about rewiring what the back end of
+[22:03] global finance is going to look like.
+[22:04] Now is that going to happen today? Is
+[22:06] going to happen tomorrow? Is going to
+[22:07] happen like 10 years later? That's hard
+[22:09] to predict, but it's already starting to
+[22:12] make moves in that direction. And so I
+[22:14] just think it becomes more and more
+[22:15] natural where you're giving choice to
+[22:17] the issuer. And now the question ends up
+[22:19] being who is the issuer? Is it the
+[22:20] company? Is it the or is it like the
+[22:23] broker or is it the exchange? Like how's
+[22:25] that infrastructure going to come into
+[22:27] place? And so when you have this um
+[22:29] mishmash now between what I call pro
+[22:32] programmable onchain structure and
+[22:35] traditional private contracts, that's
+[22:38] where more and more innovation is going
+[22:39] to happen. Right? So like we're already
+[22:40] pushing this to try to figure out what
+[22:42] does that look like? Um but you know
+[22:44] it's going to be different in every
+[22:45] market and it's why you know I think
+[22:47] when you see the um macro realignment
+[22:51] then you're going to see what are the
+[22:52] types of products that you can have in
+[22:53] there and look the fact that Bitcoin and
+[22:55] Ethereum are basically the natural um
+[22:58] liquidity pipeline for everyone to come
+[23:00] in and then the stable coins is be the
+[23:02] next piece of those global liquidity
+[23:03] rails. we're just going to be able to be
+[23:05] much more unified in my opinion like as
+[23:07] in the financial layer and like in the
+[23:09] connective tissue and I and I think
+[23:11] that's where crypto is best served
+[23:13] versus where we are today in a
+[23:14] fragmented world with all of these
+[23:16] middlemen and uh friction points across
+[23:18] the board. I'm not saying any of these
+[23:19] things are bad. It's just it's kind of
+[23:21] where we are today. I think that there's
+[23:23] a very uh good lesson in circle and in
+[23:27] tether. Uh it seems like Tether's
+[23:29] strategy is to go to the emerging
+[23:31] markets and they're like, "Hey, the US
+[23:32] already has dollars. Like we're going to
+[23:34] go try to onboard a bunch of other
+[23:35] people." Circle is saying, "Hey, we're
+[23:37] going to be uh a regulated US-based
+[23:39] stable coin. We're going to go get
+[23:40] distribution through the Coinbases and
+[23:42] other exchanges in the world, and we
+[23:44] want to bring this digital dollar to
+[23:47] kind of regulated finance, etc." I don't
+[23:49] think either strategy is right or wrong.
+[23:51] I think they're just very different
+[23:52] strategies. When I think of things like
+[23:54] tokenized stocks and maybe other things
+[23:56] of a degree of sophistication, it feels
+[23:59] like the demand is probably already most
+[24:01] existent inside the United States or
+[24:03] kind of traditional western capital
+[24:04] markets, but to your point you mentioned
+[24:06] earlier, there's billions of people who
+[24:07] it's outside of the system and probably
+[24:09] would love to get access. How do you
+[24:11] think about, you know, which market to
+[24:12] attack or or like what is the sequence?
+[24:15] Uh because you probably can't serve
+[24:16] everybody all at once because there are
+[24:18] kind of different users with different
+[24:19] product needs.
+[24:22] Yeah. So there's multiple questions in
+[24:24] that. So I'll I'll try to I'll try to
+[24:27] tackle it one by one. Look, I think
+[24:29] maybe a good way to put it is the world
+[24:31] is merging multiasset and multiolateral
+[24:33] based markets. And so we're watching the
+[24:35] conversion of traditional finance and
+[24:37] crypto in real time. We just talked
+[24:38] about it. Um and so you have BTC, ETH,
+[24:41] stable coins, tokenized treasuries, and
+[24:43] equities. They all they all can and have
+[24:45] been serving collateral across um a set
+[24:48] of integrated financial systems. Um and
+[24:50] so what do we really care about at the
+[24:52] end of the day? We care about u market
+[24:54] stability. We care about price. We care
+[24:55] about utility. What assets can you
+[24:57] borrow against? How do you settle with?
+[25:00] Um how do you embed right frankly into
+[25:02] smart contracts? That's what we think
+[25:03] about in crypto. And then what's the
+[25:05] shift of store of value, which is what
+[25:07] we've been used to uh to infrastructure
+[25:09] of value. And I think that ends up being
+[25:11] probably more important around what we
+[25:12] want to be able to build. I think circle
+[25:14] and tether and all these other guys play
+[25:16] a very specific piece of it right which
+[25:18] is okay what does that plumbing allow
+[25:20] you to do is that a wrapper or not right
+[25:21] obviously you know there's always been
+[25:23] the great debates around algorithmic
+[25:25] versus you know back being backed one to
+[25:27] one depending on what that is I think
+[25:30] you go back to the basics what is
+[25:32] tokenization is an infrastructure again
+[25:33] not a wrapper it's a rearchitecture of
+[25:35] financial plumbing it removes friction
+[25:37] again custody settlement compliance
+[25:39] issuance that's kind of what striped it
+[25:41] did it for payments right and I think
+[25:42] that's what we can do for worldwide
+[25:44] capital markets. Real innovation isn't
+[25:46] the tokens, it's going to be the rails
+[25:47] they continue to run on. Um, so like
+[25:50] think instant settlement again, 24/7
+[25:53] programmable ownership, global access.
+[25:55] This becomes like the default. This
+[25:57] isn't the default in Argentina. This
+[25:59] isn't the default in Brazil. It's isn't
+[26:01] the default most of Latin America. It's
+[26:03] not the default in India. It's not the
+[26:04] default in most of the merging markets
+[26:07] or even the um, you know, markets that
+[26:10] we're just starting to think of like in
+[26:11] Africa. When you think about global
+[26:12] capital markets, um, you're only
+[26:14] thinking about a couple places. You're
+[26:16] thinking about Nigeria, Kenya, South
+[26:19] Africa, and a couple places I'm probably
+[26:21] missing. That's there's still a billion
+[26:23] people that are being um uh not
+[26:25] attributed. And so what what do they
+[26:27] want access to? It again, it goes back
+[26:28] to what I just mentioned is that
+[26:30] tokenization is just isn't a wrapper.
+[26:32] It's like a rearchitecture of the
+[26:33] financial plumbing. And so what do they
+[26:34] want access to? So they want access to
+[26:37] clear assets where they can have savings
+[26:40] and yield. So going back to your
+[26:41] question around Circle, Circle's a solid
+[26:43] company, right? What they're what
+[26:44] they've been building, I I kind of think
+[26:46] of it as a small to medium mid-market
+[26:48] and enterprise. And Circle within the US
+[26:50] had been focused on uh the upper stack
+[26:52] of mid-market and enterprise, which is
+[26:54] it's important um for those set of folks
+[26:57] that want to think about bridging the
+[26:58] gap between what they do in traditional
+[27:00] finance. Think Franklin Templeton, think
+[27:01] Black Rockck, those folks. Um which is
+[27:04] very different where from what I'd
+[27:06] consider like, you know, like a Stripe
+[27:07] or a Tether um or a Visa, right? like uh
+[27:09] really early on which is like okay small
+[27:11] to medium mid-market and how do you grow
+[27:13] bottoms up at a um and and think about
+[27:16] how to realize performance for who their
+[27:18] customers might be. I I think the thing
+[27:20] that I found most fascinating cuz I
+[27:21] travel the world a lot. It's like look,
+[27:24] you go to Latin America and you go to
+[27:26] their version of the farmers market.
+[27:28] It's not as cool as it is here in like
+[27:30] the Bay Area, but when you're going to
+[27:32] where people are buying things daily,
+[27:34] they are priced in USDT, right? They're
+[27:37] not priced in their local currency.
+[27:38] They're priced in USDT. And USDT is
+[27:41] buying US treasuries. The natural form
+[27:43] of what you're going to do if you're
+[27:45] buying, selling, storing, and saving in
+[27:48] USDT is thinking about investing in
+[27:50] USDT. And the most natural things you're
+[27:52] going to do is okay, where's global
+[27:54] liquidity and what are the um uh
+[27:56] traditional assets or safe assets or
+[27:58] compounding assets that you want to
+[28:00] invest into. And that and and I think
+[28:02] that's what's really great is like those
+[28:04] are most naturally companies and
+[28:05] products and innovation that's happening
+[28:06] in the United States. Um so around the
+[28:09] circle IPO, like it's it's great. It's
+[28:11] it's really early, solid company, solid
+[28:13] traction. I think USDC and the the the
+[28:16] likes of the stable coins around that
+[28:17] type of IPO narrative and optionality
+[28:19] are are really important. When you think
+[28:21] about the public markets, obviously
+[28:23] they've been very wellreceived there.
+[28:24] Stock price has done incredibly well. Um
+[28:27] I got to imagine that makes a bunch of
+[28:28] other crypto companies say like, well,
+[28:30] what if I get into the public market?
+[28:31] Um, do you think that we'll see kind of
+[28:33] this IPO, you know, backlog uh lead to
+[28:36] an explosion that everyone is talking
+[28:37] about or do you think that's overhyped
+[28:39] and actually there's not as many
+[28:40] companies trying to get into the public
+[28:41] market as people believe? If you take a
+[28:43] look at the do era, there's there's uh
+[28:45] market cyclicality. You take a look at
+[28:46] the dot era and what happened, you had
+[28:51] um, you know, products that didn't have
+[28:53] revenue but had a promise of possible
+[28:55] revenue fly um, in the public markets,
+[28:58] right? And people were investing behind
+[28:59] it. I think you see these uh narratives
+[29:01] all the time. You know what I call the
+[29:03] abundance and the scarcity of the story
+[29:05] and the abundance and scarcity of where
+[29:06] we are in the capital markets. I think
+[29:09] the public markets today and you can see
+[29:11] it like you can just see the capital
+[29:13] flows is uh they are investing into
+[29:16] anything and everything that has a
+[29:18] crypto narrative around it which I think
+[29:20] actually could be quite dangerous right
+[29:21] so ETFs IPOs um I think part of it is
+[29:25] that there's a story around legitimacy
+[29:28] and liquidity and there's a new investor
+[29:29] base um but at the same time there's you
+[29:33] know and and actually and and it's good
+[29:35] because they are pressuring the system
+[29:36] on the crypto side for better disclosure
+[29:38] clear regulation, more robust
+[29:40] infrastructure.
+[29:42] Um, but at at a certain point, I think
+[29:44] crypto has to stop being a side bet. Um,
+[29:47] in terms of how you think about the
+[29:48] global asset allocation model and it
+[29:50] goes back into what I think about, you
+[29:51] know, intrinsic value of what's actually
+[29:53] happening. So, how do you scrutinize
+[29:55] what's the maturity? What's the blending
+[29:56] of your asset classes between what I'd
+[29:59] say actually it shouldn't be a blend, it
+[30:00] should be cryptonative and then all the
+[30:02] assets underneath cryptonative. Um, and
+[30:04] so I think the public markets are good
+[30:07] for
+[30:10] just producing more and more of that
+[30:12] narrative, but I do think I get a little
+[30:13] worried in that um, you are in this
+[30:17] place where everything is being valued
+[30:19] from an options value perspective versus
+[30:21] intrinsic value. And I think you'll
+[30:22] always have an equilibrium just like
+[30:23] you've had in the past for certain types
+[30:25] of assets. And so when I think about
+[30:26] what we build and how we're thinking
+[30:28] about the public markets, public markets
+[30:30] are really more about, you know,
+[30:31] bringing accountability more than
+[30:32] anything else. And eventually um that
+[30:34] that'll come more and more into these
+[30:36] crypto companies that are not just hey I
+[30:38] want to be a crypto treasury and you
+[30:40] know for BTC ETH Salana etc but more
+[30:42] about like how do you build value rather
+[30:44] than just holding value. When um when
+[30:46] you think about the Kraken business
+[30:48] today my take is that you have uh some
+[30:51] retail some institutions and uh that
+[30:54] business is uh has evolved over time.
+[30:57] When I look at the public markets I see
+[30:59] retail institutions acting very
+[31:00] differently. It's like every dip
+[31:02] retail's buying hard. Institutions have
+[31:04] been sitting on the line with much less
+[31:06] equity exposure in the recovery this
+[31:08] year uh than maybe they otherwise would
+[31:09] have had, but retail has been a very big
+[31:11] participant there. We can see the data
+[31:13] points of like retail's ownership of uh
+[31:15] stocks is you know at all-time highs
+[31:17] etc. How do you all think about retail
+[31:20] versus institutions and like do you
+[31:21] focus on one or the other? Do you try to
+[31:23] serve both or is there you know any
+[31:25] delineation between those groups uh
+[31:27] given the business you guys are running
+[31:29] kind of where you think this uh finance
+[31:30] world is going?
+[31:33] Are you looking for a simple way to earn
+[31:34] Bitcoin rewards every single day? At
+[31:37] Simple Mining, we help people mine
+[31:38] Bitcoin even if you're brand new. We're
+[31:40] vertically integrated Bitcoin mining
+[31:42] company based in Cedar Falls, Iowa,
+[31:43] offering a premium white glove hosting
+[31:45] service that helps you maximize your
+[31:46] mining profitability. With over 500
+[31:49] clients worldwide, we manage over 15,000
+[31:51] machines across our sites. Our
+[31:53] facilities are staffed 7 days a week,
+[31:54] and we fix most on-site issues in under
+[31:56] 48 hours. In fact, we can repair more
+[31:59] than 2,000 hashports each month in our
+[32:00] dedicated repair center, ensuring your
+[32:02] miners run smoothly. Want to see it
+[32:04] firsthand? Tour our mining sites, either
+[32:06] in person or online, anytime. Plus, for
+[32:09] your first year of mining, we cover all
+[32:10] repairs, no questions asked. We bill you
+[32:12] for the exact time your miners are
+[32:14] running, and you can pause whenever you
+[32:15] want. Need to buy or sell? Our exclusive
+[32:18] minor marketplace gives you the freedom
+[32:19] to trade on your schedule. You'll even
+[32:21] have a custom dashboard to track your
+[32:22] minor stats in real time. And if you're
+[32:24] thinking about running your operation
+[32:25] like a business, our tax team can guide
+[32:26] you through the depreciation advantages.
+[32:29] Ready to grow your Bitcoin stack? Visit
+[32:30] simplemining.io.
+[32:34] Today's episode is brought to you by
+[32:36] Core. You can earn yield on your Bitcoin
+[32:38] by just holding your Bitcoin. It's
+[32:40] simple. Core, the leading Bitcoin
+[32:42] scaling solution, will reward you for
+[32:44] not selling your Bitcoin. It's not
+[32:46] magic. Here's how it works. Core is a
+[32:48] protocol secured by elected validators.
+[32:50] You can help elect validators and secure
+[32:52] the network by simply locking up your
+[32:53] Bitcoin on the Bitcoin blockchain. No
+[32:56] bridging, no lending, and just holding.
+[32:58] When your validator secures core, it
+[33:00] earns rewards fueled by network activity
+[33:02] and passes them back to US yield. With a
+[33:04] minimum lock up of just one day, when
+[33:06] the time lock ends, you get your Bitcoin
+[33:08] back untouched. Steal your keys, steal
+[33:11] your coins, now your yield. For even
+[33:13] higher rates, stake core alongside your
+[33:15] Bitcoin and multiply your yield. And if
+[33:17] you want to see what your Bitcoin is
+[33:19] securing, join millions of others in
+[33:20] exploring the largest Bitcoin DeFi
+[33:22] ecosystem. There are over a 100 live
+[33:24] apps in the network and the deepest
+[33:26] liquidity in all of Bitcoin DeFi. Get
+[33:29] off zero and start earning yield on even
+[33:31] just 1% of your Bitcoin by going to
+[33:33] stake.cordow.org/p.
+[33:36] Again, that's stake.cordow.org/p
+[33:40] or go click the link in the description.
+[33:42] How do you all think about retail versus
+[33:44] institutions and like do you focus on
+[33:46] one or the other? Do you try to serve
+[33:47] both or is there you know any
+[33:49] delineation between those groups uh
+[33:52] given the business you guys are running
+[33:53] kind of where you think this uh finance
+[33:55] world is going?
+[33:57] So the I mean the history of Kraken was
+[33:59] that um Ton and Jesse were the two
+[34:03] co-founders and they actually came from
+[34:04] gaming and if you if you go back in time
+[34:06] around gaming and and also they also
+[34:08] built it off of the cusp of the uh Mount
+[34:11] Gaus um event that had happened around
+[34:14] um it being hacked right and so their
+[34:16] premise was where can you build um a
+[34:20] place that's institutional grade secure
+[34:23] with deep liquidity regulatory
+[34:25] resilience what they which I think is
+[34:26] really important multiasset class like
+[34:28] this is how they were thinking right off
+[34:29] the bat and then leverage crypto rails
+[34:31] to be able to bring it to everyone um
+[34:33] and so the we we basically built an
+[34:35] institutional grade engine exchange um
+[34:38] for our clients. Now who are those
+[34:40] clients that care about uh who we serve
+[34:43] at um with depth and trust? It's
+[34:45] professional traders. And so if you go
+[34:47] back 20 years um actually even 30 years
+[34:50] now um professional traders was just
+[34:52] starting out right it's one of the
+[34:54] reasons why we bought Ninja Trader as
+[34:55] well is that in the in the mid200s um
+[34:58] you had people being getting access
+[35:00] obviously with the advent of the
+[35:01] internet to their own trading view to be
+[35:03] able to
+[35:05] u take a look at how they wanted to
+[35:06] trade their own assets and not having to
+[35:08] rely on the broker or the middleman.
+[35:10] Like we've seen this theme happen again
+[35:12] and again and again. you know, every
+[35:14] five or 10 years there's a new
+[35:15] generation of the types of products you
+[35:16] can have. Um, so there there were these
+[35:18] gateways and these platform
+[35:19] institutions. I think we we think of
+[35:23] ourselves as being able to help enable
+[35:25] more and more of that um independent
+[35:27] thinking which is like what does a
+[35:29] professional trader do? What do they
+[35:31] care about? Well, they care about all of
+[35:33] the assets, the all the ways in which
+[35:35] they want to trade, um, store, save, and
+[35:37] yield. Uh, but it's a it's at a
+[35:39] different level, right? So if you think
+[35:41] about some of the exchanges that are
+[35:42] there today, you even here in the US, I
+[35:44] think they've always been much even a
+[35:46] fintech company that um u gives you the
+[35:49] option to buy crypto, they're a consumer
+[35:51] gateway. Um but they all have to rely on
+[35:54] different um third party folks,
+[35:56] institutional grade engines like us in
+[35:58] some cases that serve both uh of that
+[36:01] depth and trust. And so I think a way to
+[36:04] I think a way to think about what we've
+[36:05] built is we've built a set of
+[36:07] microservices to be able to support our
+[36:09] core business today. And we're building
+[36:11] a new set of core services on top of the
+[36:14] microservices that we've had in the
+[36:15] past. And so when I when I talk about
+[36:17] what's happening in DeFi, what is the
+[36:19] hybridization, how do we make sure that
+[36:21] we have a hybridization trust platform,
+[36:24] that's really around what we're able to
+[36:26] build because we first focused on our
+[36:28] professional trading class and there are
+[36:30] typically our counterparties to anything
+[36:32] that we build. So when we think about
+[36:33] payments, when we think about um uh uh
+[36:37] uh DeFi products, when we think about uh
+[36:39] the next set of institutional grade or
+[36:41] retail products that we're going to
+[36:42] build, we're going to be building it off
+[36:44] of the back of our foundation that we
+[36:45] have. And I think that's what's really
+[36:46] important is that we don't sit on purely
+[36:48] retail. We don't sit purely on
+[36:50] institutional. We sit right in the
+[36:51] middle, which is professional traders
+[36:53] that want access to retail style
+[36:54] products, but they also want access to
+[36:56] institutional style products. And that's
+[36:58] why we're able to build um our you know
+[37:01] our multiasset access products at a at a
+[37:03] pretty fast clip. Right. So when we
+[37:04] think about the vertical ownership for
+[37:07] our professional traders, we do think
+[37:08] custody, settlement, trading, staking,
+[37:10] indexing all in one stack on behalf of
+[37:12] them. And and then from there, whatever
+[37:14] else they want to do to explore what
+[37:16] DeFi might there um provide them, but we
+[37:19] want to be able to make sure that we can
+[37:20] build um along the way with them as
+[37:23] they're evolving as well, especially in
+[37:25] the crypto ecosystem. My last question
+[37:27] for you is around nation state uh
+[37:28] participation. Obviously we've seen El
+[37:30] Salvador, Bhutan, you know, many other
+[37:32] countries uh participate, but usually
+[37:34] they're pretty small kind of uh
+[37:35] beneficiaries of the innovators dilemma.
+[37:37] Uh now we have this uh strategic bitcoin
+[37:40] reserve. You see many other countries
+[37:41] that are either their sovereign wealth
+[37:43] funds or their country themselves saying
+[37:45] we're going to set up a strategic
+[37:46] reserve. We're going to buy the Bitcoin
+[37:47] ETS. We're going to participate in
+[37:49] mining. You know, uh some of them
+[37:50] probably are going to end up doing
+[37:51] staking and you know many other various
+[37:53] activities. How do you see that cohort
+[37:56] playing into a lot of the stuff that
+[37:57] we've talked about here? Um, you know,
+[38:00] the US doesn't hold US equities on
+[38:02] behalf of the citizens or anything like
+[38:04] that. Uh, but it does feel like there's
+[38:06] a significant shift now where like the
+[38:08] countries are here. Uh, and that should
+[38:10] change things in the market pretty
+[38:11] drastically.
+[38:13] Look, I think in order so I think that
+[38:17] the way to sort of think about the
+[38:18] themes has been a what's happening
+[38:21] worldwide and then take a step back and
+[38:23] and say okay what's the regulatory
+[38:25] clarity you need for that type of what I
+[38:27] call market stability. So what did we
+[38:29] have in the US and the EU? We had FIT 21
+[38:32] um which is a variant of what could
+[38:33] become into law in the future when we're
+[38:35] thinking about commodities versus
+[38:36] securities the agency roles between the
+[38:38] SEC and the CFTC. And so we label those
+[38:41] today as market structure and the stable
+[38:43] coin bill. Um in Europe they had the
+[38:46] Miko roll out, right? And so it set a
+[38:47] baseline in my opinion for others to
+[38:50] follow rather than what you typically
+[38:51] see the US and then for others to follow
+[38:53] the US. Then on top of that um I I'd
+[38:56] actually say that the ETF approvals were
+[38:58] much more a force because you you were
+[39:00] seeing um a baseline being sent outside
+[39:02] the United States, right? So which as
+[39:04] you'd mentioned it actually just further
+[39:06] institutionalizes the space even more so
+[39:08] that they had Right. So that so I think
+[39:09] that clarity worldwide over a period of
+[39:12] time then unlocks more innovation and
+[39:15] the builders get ready and now there's a
+[39:17] green light for them to build not just
+[39:18] here in the United States but all over
+[39:19] the world. Um, but I think what's more
+[39:22] important to your question is that
+[39:23] tokenization goes real, right? So
+[39:24] onchain treasuries, credit funds used in
+[39:27] DeFi and Trafi. You're seeing Black
+[39:29] Rockck enter. You're seeing Frank
+[39:30] Franklin Templeton enter. You're now
+[39:32] seeing JP Morgan starting to think about
+[39:34] scaling up, right? Which is like
+[39:35] unfathomable two years ago. Um, and
+[39:38] they're all talking about programmable
+[39:40] compliance and new financial products
+[39:42] and how they're able to bridge that gap.
+[39:43] Um, I mentioned it before, right? Like
+[39:45] tokenization isn't just going to be
+[39:47] about wrapping. is going to be about um
+[39:48] how do you rewire this with the
+[39:50] traditional guys as well um you're
+[39:52] seeing a large amount of geopolitical
+[39:54] realignment I think this is really key
+[39:55] right so US elections central bank
+[39:57] shifts emerging market instability um
+[40:00] stable coins are becoming more and more
+[40:02] global liquidity rails not just here in
+[40:03] the United States and for the United
+[40:05] States but all over the world Bitcoin
+[40:08] has become more and more of a strength
+[40:09] as a neutral reserve inflation hedge
+[40:11] you've talked about this a lot right
+[40:13] like and I'm sure people thought you
+[40:14] were crazy 5 years ago when you're
+[40:16] talking about it now it becomes much
+[40:17] more common place and so again in this
+[40:19] fragmentation um you're seeing this
+[40:21] connective tissue happening and and I
+[40:23] think a lot of these countries are
+[40:24] recognizing it at a faster and faster
+[40:26] pace. So you said small nation states
+[40:28] but I also think about emerging markets
+[40:30] say like I spent a lot of time in India
+[40:32] and uh in the Southeast Asia corridor
+[40:34] they know people um are using crypto and
+[40:38] they know what crypto will mean moving
+[40:39] forward but the nation I would say the
+[40:41] nation state participation is still
+[40:42] pretty early and I would still say it's
+[40:44] uh skeptical. It's kind of how people
+[40:45] used to think about electricity as
+[40:47] nefarious like why would you want to
+[40:48] stay up at you know 11:00 at night? You
+[40:50] must be doing something wrong. I do
+[40:52] think that narrative still exists for
+[40:53] crypto and it's probably you it's up to
+[40:55] us and folks like us and companies to
+[40:57] continually talk about what this
+[40:59] actually means for multi-product
+[41:00] multiasset multiolateral but uh
+[41:03] strategic Bitcoin reserve is like the
+[41:05] the notion that people are talking about
+[41:07] today and and I think they're using and
+[41:10] I don't know if this is right or wrong
+[41:11] but they're using it in the same way
+[41:12] they think about oil reserves in the
+[41:13] past you know over the last hundred
+[41:15] years and so what are the oil reserves
+[41:17] for digital economies so as you
+[41:19] mentioned El Salvador has leaned in I do
+[41:21] also think adversarial states and I
+[41:23] don't know if this again if this is good
+[41:24] and bad they're all experimenting with
+[41:25] crypto rails right where they can do a
+[41:27] wraparound sanctions and make sure that
+[41:29] their economies can still be they can
+[41:31] weather the storm depending on what it
+[41:33] looks like between you know um uh
+[41:35] different nation states against each
+[41:37] other sovereign wealth funds we all know
+[41:39] this dipping into cryptonative VC and
+[41:41] infrastructure quietly I don't think
+[41:43] they're very loud about it but I think
+[41:44] the big move is going to continually be
+[41:46] when you have merged major economies
+[41:49] start using BTC as a macro hedge not
+[41:51] just gold. I think the more and more
+[41:53] that we see that it becomes more common
+[41:55] place. Central blanks exploring or
+[41:57] holding tokenized ETFs or tokenized FX
+[42:00] as a part of the reserve
+[42:01] diversification. I'm starting to hear
+[42:03] people talk about it. I haven't seen it
+[42:04] really happen. Um I think crypto is now
+[42:07] also becoming a part of the national
+[42:08] security conversation and energy
+[42:10] strategy which is mining surplus energy
+[42:13] etc. Um, so I think like look, I could
+[42:15] go on and on about this, but the but the
+[42:17] fact is that AI and crypto are the same
+[42:21] conversation in the same room. AI is
+[42:23] more sexy. Crypto is more like, okay,
+[42:24] well that's boring, but the I I always I
+[42:27] always go back to the major economies
+[42:29] are starting to use BTC as a macro hedge
+[42:32] and then not just gold. That means we're
+[42:33] we've progressed way further than we
+[42:35] ever thought we were going to have um
+[42:38] progressed in the last 10 years. And
+[42:39] that happened all over the last two
+[42:41] years. Um, so BTC as a geopolitical
+[42:44] asset I think is really important. Why?
+[42:47] Censorship resistant, borderless neutral
+[42:50] countries that have inflation risk or
+[42:51] political instability. They're going to
+[42:52] probably think about it. It might
+[42:54] actually create more stability for their
+[42:55] countries because it's a hedge. And then
+[42:57] for the US, it's an edge, right? And
+[42:59] they've already embraced it and and and
+[43:01] I think that's the piece that's going to
+[43:02] be really fascinating to watch in terms
+[43:04] of is it a fight, is it an enablement,
+[43:07] um, is it a collaboration? And so my
+[43:10] point of view to the team and what we
+[43:12] build is like look we've always seen
+[43:13] crypto as a long game. Um everyone is
+[43:16] entering it including the nation states
+[43:18] and everything we've built for uh opens
+[43:21] up you know the uh for an average
+[43:24] individual. It opens up for a small and
+[43:26] medium business opens up for a sovereign
+[43:28] nation. It opens up all of those folks
+[43:30] to be able to focus on what it means to
+[43:32] be permissionless programmable um and
+[43:34] and more importantly interoperable. I
+[43:37] think um it just feels like we now have
+[43:40] entered the second phase of uh of the
+[43:43] rise of all this technology. So, it's
+[43:44] super exciting. Um where can we send
+[43:46] people to find you or learn more about
+[43:47] Kraken if they want to uh start using
+[43:49] the product? Okay. Well, Kraken, just go
+[43:52] to Kraken.com. That's an easy one. Um in
+[43:54] any country that you're you're coming
+[43:56] from, it takes you to the to the local
+[43:59] page. Uh for me, Twitter, LinkedIn, I
+[44:01] think it's just Arjents. Um and it's
+[44:04] easy to find me. Amazing. Well, thank
+[44:06] you so much for taking the time to do
+[44:07] this. As always, impressed by everything
+[44:09] you guys are doing and wish you the best
+[44:10] of luck and we'll definitely do it again
+[44:11] in the future. Awesome.

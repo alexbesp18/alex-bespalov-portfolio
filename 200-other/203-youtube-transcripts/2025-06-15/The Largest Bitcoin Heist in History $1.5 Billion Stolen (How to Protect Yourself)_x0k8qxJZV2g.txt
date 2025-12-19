@@ -1,0 +1,1775 @@
+Title: The Largest Bitcoin Heist in History: $1.5 Billion Stolen (How to Protect Yourself)
+Video ID: x0k8qxJZV2g
+URL: https://www.youtube.com/watch?v=x0k8qxJZV2g
+Date Saved: 2025-06-15 11:38:02
+--------------------------------------------------
+
+[00:00] I've been actually able to recover a few
+[00:02] million dollars of assets for people who
+[00:05] either lost their assets in a way that
+[00:07] they did some kind of a self-inflicted
+[00:09] loss on themselves, messed up something
+[00:11] with their wallets or actually from
+[00:13] thefts. I think you may heard about the
+[00:15] bite hack which was like $1.5 billion
+[00:19] like equivalent of that in Ethereum and
+[00:21] it's called like the biggest money heist
+[00:23] in history. That's how Ethereum does
+[00:26] multi signature. They do it with smart
+[00:28] contracts. is different from how we do
+[00:30] multi signature on Bitcoin. Their CEO
+[00:32] said like our cold storage was attacked
+[00:34] like this and like every everybody in
+[00:36] the Bitcoin space was like saying dude
+[00:38] that's not cold storage. when you sign
+[00:40] transactions and as soon as you sign the
+[00:42] transaction, this transaction gets sent
+[00:44] on the internet. That's not cold story,
+[00:46] but like I have a lot of crazy stories
+[00:48] actually. It's not only the
+[00:49] impersonators or the scammers like the
+[00:52] biggest your stack becomes, you need to
+[00:55] put more and more like with more Bitcoin
+[00:58] comes more responsibility. here.
+[01:02] [Music]
+[01:05] For a few people that that might not not
+[01:07] know you, um, who are you and and and
+[01:09] why are you in bit in into Bitcoin?
+[01:12] Well, I've been in the Bitcoin space for
+[01:14] a really long time. I consider myself as
+[01:17] mostly a Bitcoiner. So, I've been like
+[01:20] building communities, building uh like
+[01:23] writing down a lot of resources,
+[01:26] um recording a lot of educatory material
+[01:29] on YouTube, uh podcasts. I've been doing
+[01:32] all sorts of stuff in the space for
+[01:34] mostly uh to be specific in the Middle
+[01:37] Eastern community and uh to be even more
+[01:41] specific mostly for the Iranian
+[01:43] community uh which uh which which is
+[01:46] like uh the community that I was
+[01:48] participating most of the time and uh
+[01:52] I've been in the space since 2017 a few
+[01:55] months before the August soft fork for
+[01:58] SegWit and that was one of the first
+[02:00] things that I actually fascinated me
+[02:02] about Bitcoin and how decentralized it
+[02:03] is and how it works and that just got me
+[02:06] in the space and I've been like uh since
+[02:09] I've been doing a lot of educator
+[02:10] material there was a lot of consulting
+[02:13] requests and I've been doing a lot of
+[02:15] consulting for uh like security privacy
+[02:19] and all sorts of like Bitcoin
+[02:21] solutions and I've been working on these
+[02:24] things security uh Bitcoin security and
+[02:29] research I've been working with a lot
+[02:31] open source tools and actually sometimes
+[02:34] even contributing to them to make them
+[02:37] like uh make the community grow even
+[02:40] more because they are like uh like one
+[02:43] of the most fascinating and amazing
+[02:45] things about Bitcoin actually. uh to see
+[02:48] people putting the time and effort to
+[02:50] write so so much of an excellent and
+[02:53] secure code and uh like as much as I can
+[02:57] I would always help them and try to uh
+[03:00] get more and more people on board to
+[03:03] using them especially uh like
+[03:05] considering the security precautions of
+[03:09] like like Bitcoin is worth a lot these
+[03:12] days. So, it's like uh I don't know the
+[03:15] price right now. It's $80,000. I don't
+[03:18] know $90,000 or something like that. So
+[03:21] few years ago we were always saying that
+[03:25] you got to learn more about Bitcoin
+[03:27] security and you have to secure your
+[03:29] Bitcoin setup because
+[03:31] uh you will need it since probably
+[03:34] Bitcoin will reach big numbers in the
+[03:37] future and you need to like uh start
+[03:41] this early just in case if Bitcoin's
+[03:45] price goes up and you cannot then afford
+[03:47] to lose your Bitcoin. And this is the
+[03:49] case right now these days. There's so
+[03:53] many great security solutions out there.
+[03:55] And uh I am happy to participate in the
+[03:59] community for building security products
+[04:02] and things like that and like consult
+[04:05] people on that. Yeah, it's super
+[04:06] interesting when we talk about self
+[04:08] custody and and the security solutions.
+[04:10] I always I always try to tell
+[04:14] people if Bitcoin would 10x tomorrow,
+[04:18] would you still be comfortable with your
+[04:20] self-custody setup? because I think most
+[04:22] people have not thought it through
+[04:25] really good and they have some big
+[04:29] security holes in their solutions and if
+[04:31] they would think about what if my I
+[04:35] don't know I let's say I hold 50,000 uh
+[04:38] uh euros in in Bitcoin what if it would
+[04:41] be 500,000 would you think differently
+[04:44] about your security solution most thing
+[04:46] most people probably think differently
+[04:48] then and would maybe invest a little bit
+[04:51] more time or or money uh in into doing a
+[04:54] really good security solution. So I
+[04:56] think I like the way of hey what if what
+[04:59] if that thing you're securing here is a
+[05:01] way more way more worth than than
+[05:04] previously. Um but before we get into uh
+[05:07] security and all
+[05:08] that I usually talk with either
+[05:11] Americans, Europeans, sometimes
+[05:14] Canadians and Australians. So we really
+[05:16] don't get a lot of insights in the
+[05:17] Middle Eastern community honestly. uh
+[05:19] the roose paper was on and then some
+[05:21] other people but like not too many.
+[05:24] What's going on currently Middle Eastern
+[05:27] community in Bitcoin? How do how does
+[05:29] grassroots movement look like? How does
+[05:31] the uh politics uh look at Bitcoin and
+[05:34] all that things? Yeah, that's that's
+[05:36] actually a rather big topic. So if I
+[05:40] want to start with a community, it would
+[05:42] be like it's it's very cool. It's kind
+[05:45] of different that the
+[05:47] the requirements for these communities
+[05:50] usually are different from others. So a
+[05:53] few years ago, we were always talking
+[05:56] about how
+[05:57] Bitcoin will be a better test if if it
+[06:02] is being utilized or if it is actually
+[06:06] something that matters.
+[06:08] uh it would be better in environments
+[06:11] like Middle East and especially places
+[06:13] that are like under heavy financial
+[06:15] restrictions and that's where like
+[06:17] sometimes Alex Glasing cames into the
+[06:19] picture when he talks about like check
+[06:22] about the the thing that he always says
+[06:24] like check your financial privilege
+[06:26] because there's so many places on earth
+[06:28] that they don't have the financial
+[06:30] privilege of the western communities and
+[06:32] the western uh people and that's the
+[06:35] case if you want to see it uh how
+[06:38] bitcoin
+[06:39] how important of a thing Bitcoin could
+[06:42] be. You could you should definitely take
+[06:44] a look at the at these uh places and see
+[06:48] like when people are facing a lot of
+[06:51] inflation, a lot of censorship uh and a
+[06:54] lot of like financial exclusion, what
+[06:57] would they be doing? And uh that that's
+[07:00] where Bitcoin is actually shining. And
+[07:02] like a lot of people look at Bitcoin in
+[07:06] the probably in the best way to look at
+[07:09] which is like uh Bitcoin could be
+[07:12] utilized as something that will give you
+[07:15] a lot more financial freedom. It could
+[07:18] um offer you a lot of the uh benefits
+[07:22] that uh you have not actually uh
+[07:26] experienced before. uh you could do
+[07:28] global transactions, send money abroad,
+[07:30] send money all over the world and uh
+[07:34] also store the value of your work and
+[07:38] your time and efforts you have put
+[07:40] because a lot of the local and national
+[07:43] currencies in some parts of Middle East
+[07:45] actually uh not all of them but uh are
+[07:49] are very subject to
+[07:50] inflation especially uh if we uh if we
+[07:54] uh refer to the Iranian community
+[07:56] because uh there is like a a crazy
+[08:00] amount of inflation there going on and
+[08:02] that's something where like Bitcoin is
+[08:05] really shining for people like they they
+[08:07] they really love it there but uh with
+[08:10] with like just like with all other
+[08:12] communities there's like uh there's a
+[08:16] lot of like crypto stuff and shitcoining
+[08:19] happening also there's a lot of like
+[08:21] scams hacks attacks all sorts of stuff
+[08:24] happening which is kind of usual the
+[08:26] usual case for everywhere. So it it is
+[08:29] to be expected. But uh this is like one
+[08:32] of the coolest thing about the Middle
+[08:33] Eastern part of like the Middle Eastern
+[08:36] audience of Bitcoin that's they
+[08:39] understand Bitcoin and they get it much
+[08:41] more than the Westerners. It's like yeah
+[08:43] this is cool. This is something that we
+[08:45] actually need and they use they use
+[08:48] Bitcoin. A lot of people have Bitcoin.
+[08:51] um they they have started like building
+[08:54] businesses like startups, companies,
+[08:57] things like that about Bitcoin and how
+[09:00] to use it. Uh they also use a lot of
+[09:03] stable coins which which is still the
+[09:06] case for many parts of the world again
+[09:08] but uh which is like you cannot ignore
+[09:11] the fact that stable coins are kind of
+[09:15] convenient to use for some people. So
+[09:18] they we like as much as we love to talk
+[09:20] about Bitcoin and consider the most
+[09:22] important thing which is it is like this
+[09:25] is something that we cannot ignore
+[09:27] actually this is something that happens.
+[09:29] So people do use stable coins and they
+[09:31] use they use them a lot and uh well in
+[09:35] the Iranian community to be more
+[09:37] specific to that part of the Middle
+[09:40] East will a lot of people just get their
+[09:44] hands on Bitcoin or actually any other
+[09:48] coin not only Bitcoin just for the fact
+[09:52] unfortunately on any other coin because
+[09:54] like they do like get like a lot of
+[09:57] coins get promoted to get rich quick
+[10:00] schemes. So people would consider that
+[10:02] if I buy this I may get rich
+[10:06] quickly and the case is that uh the
+[10:10] reason that there's a lot of attraction
+[10:13] and a lot of uh attention to
+[10:16] cryptocurrencies in a place like let's
+[10:19] say Iran. It would be due to the fact
+[10:23] that they have been suffering from
+[10:26] inflation for a really long time that
+[10:28] they have forgotten how a better asset
+[10:31] looks like. So whenever they see
+[10:35] something that holds value better than
+[10:39] their national currency, which is like
+[10:41] basically anything, it's like you could
+[10:44] you could take anything. Just just name
+[10:46] it and it's going to hold value better
+[10:48] than the national currency.
+[10:50] So they just get get on boarded. So it
+[10:54] doesn't matter. So inflation have driven
+[10:56] them to uh to invest their hardearned
+[11:01] money into something that could be
+[11:04] better than their fiat currency. And it
+[11:07] doesn't matter if it's Bitcoin, stable
+[11:08] coins, or shitcoins that may dump. Even
+[11:12] the shitcoins that may dump may prove
+[11:15] better than the fiat currency there. So
+[11:18] that's why a lot of people just just it
+[11:20] just you don't need to sell it to them.
+[11:22] It's like they understand it. If it's
+[11:24] not the fiat currency, it's probably
+[11:26] worth uh like holding your money in. So
+[11:29] that's the case with the Iranian
+[11:32] community and also the other communities
+[11:34] that deal with a lot of uh
+[11:37] inflation. But for uh like some other
+[11:40] parts like uh like in Dubai it's it's uh
+[11:44] it's there's a lot of people talking
+[11:46] about be talking about how big of a
+[11:49] crypto hub or actually uh yeah that's
+[11:53] what they say. So it's the crypto hub
+[11:54] they call it. But uh I've seen I'm
+[11:57] seeing like more and more and more
+[11:59] Bitcoiners coming to this part of the
+[12:01] region because like uh because how it's
+[12:05] much more friendlier than other parts of
+[12:07] the world uh towards Bitcoin and you
+[12:11] could like uh do uh business and it's
+[12:14] easier to set up a bitcoin business here
+[12:18] and all sorts of stuff like that similar
+[12:20] to it. So it is and also it is very uh
+[12:23] efficient on the tax side. So that's
+[12:26] what have made a lot of global and
+[12:29] western bitcoiners also uh actually
+[12:33] reach this part of the world and uh like
+[12:37] get involved more. So there's actually a
+[12:39] very cool bitcoin community in Dubai
+[12:42] too. So uh uh and a lot of those people
+[12:45] you have probably met before or you have
+[12:48] even had them on your podcast. So it is
+[12:50] a nice community that is growing here.
+[12:54] That's also something very interesting
+[12:56] about the community crypto actually the
+[12:58] Bitcoin community here uh in this region
+[13:00] of the world. Yeah. And you are where
+[13:04] are you in Dubai or I'm based in Dubai
+[13:07] right now. Yeah. Interesting. I also I
+[13:09] also love the fact that you said uh the
+[13:12] inflation drives people to basically
+[13:14] anything that holds value better which
+[13:16] is almost everything if inflation is
+[13:18] bad. And I've seen this over and over
+[13:22] again with Argentina, with all the
+[13:25] different places where you can basically
+[13:27] have or like Turkey where you have so so
+[13:29] so much such a bad
+[13:32] inflation where
+[13:34] people you drive them to be crazy. You
+[13:37] you drive them to meme coins that have
+[13:39] absolutely no value at all. And you're
+[13:42] like, "Oh, like, okay, I put money in
+[13:44] there. Oh, it it it made like a I don't
+[13:47] know 10x in in a short period of time.
+[13:50] That's I guess the the the level I have
+[13:52] to play with. And people forgot how to
+[13:55] save the the the they the unlearn how to
+[13:59] actually save money and just build a
+[14:01] future for themselves, which is very
+[14:03] very very sad to see. And and and
+[14:06] Bitcoin kind of wants to bring that
+[14:08] bring that back. And I hope we can
+[14:11] overcome uh that to a certain extent and
+[14:14] we can get back to saving and bitcoin
+[14:16] and and uh not the craziness and the
+[14:19] shitcoinery and the meme coins where
+[14:21] there's just no value and people just
+[14:23] speculate.
+[14:25] Yeah. So it is it is like that. And I
+[14:28] know a there's
+[14:30] like so this one is kind of difficult
+[14:34] probably to explain but so the amount of
+[14:37] Bitcoiners and
+[14:41] shitcoiners in in the western
+[14:44] communities maybe like let's say just
+[14:46] just throw a number. So let's just say
+[14:49] it's one to like one bitcoiner to every
+[14:53] nine
+[14:55] shitcoiners here. it would be more
+[14:58] bitcoiners because there's more people
+[15:02] who understand bitcoin. It's like uh
+[15:05] they it's like okay shitcoins that's
+[15:07] something that you could like do all
+[15:10] kind of kinds of activities like
+[15:12] gambling they do with it like they call
+[15:14] it trading but it's like basically
+[15:16] gambling. So they you could you could do
+[15:19] that with
+[15:20] it. But they do understand Bitcoin more
+[15:23] here because like
+[15:26] uh they get pushed towards it because
+[15:29] like uh you're going to have bit more
+[15:34] Bitcoiners learning about Bitcoin from
+[15:37] governments rather than from other
+[15:39] Bitcoiners and YouTubers and podcasters.
+[15:42] So it's like they hear about Bitcoin,
+[15:44] they see the value in it and they just
+[15:47] stick to it because it's very easy for
+[15:49] them to uh because they they were
+[15:51] actually waiting for something like
+[15:53] Bitcoin to just come across the path. So
+[15:56] that's how I could see it and it is like
+[16:00] there's a lot of like good Bitcoiners in
+[16:02] the space that are not actually known in
+[16:04] the in the global community communities
+[16:07] but they are actually doing a lot of
+[16:09] work. they're doing. So I call like
+[16:12] education as God's work.
+[16:14] and they're doing God's work here,
+[16:16] actually writing stuff, translating. Uh
+[16:20] actually that may this may be surprising
+[16:22] to you but there's so many open-source
+[16:26] content like publicly free available in
+[16:30] the like let's say the uranian bitcoin
+[16:34] community that you may be surprised and
+[16:37] like most of the books most of the
+[16:41] articles most of the good content in the
+[16:43] global community in the western
+[16:45] community mostly are translated and
+[16:50] provide it to everyone in the in the in
+[16:53] the Iranian community. Like I know of
+[16:56] one of the latest efforts is like some
+[16:58] of the people are actually uh
+[17:01] collaborating with each other to
+[17:02] translate Lin Alden's book and they're
+[17:06] actually uh releasing it chapter by
+[17:08] chapter obviously like this this they
+[17:11] they did get the consent from the
+[17:14] writer.
+[17:15] And there's all sorts of book like even
+[17:19] some p podcasts get translated and uh
+[17:22] published and sent out to other people
+[17:26] and there's a huge community just
+[17:29] uh waiting for these content and they
+[17:33] they they are hungry for more and more
+[17:35] content to be translated to their local
+[17:39] uh language and they just start reading
+[17:42] it and consuming this content. So it is
+[17:45] very cool that there's not much
+[17:48] sponsoring or payments or not much like
+[17:53] um actually funding that goes into this
+[17:56] kind of a content generation about
+[17:58] bitcoin in this part of the world is
+[18:00] actually there's zero so uh content
+[18:03] funding or uh things like that but it is
+[18:07] very very active and it is like thriving
+[18:11] there's so many people like translating
+[18:14] a lot of the bitcoiny books in the space
+[18:16] and you get surprised to see that. So it
+[18:19] is kind of cool.
+[18:21] Why why is there no content funding?
+[18:25] Because well that that's your own. So
+[18:27] you cannot like fund content
+[18:31] like easily for the Iranians that like
+[18:34] there's so many like sanction laws and
+[18:37] things like that. So you won't be seeing
+[18:40] uh a player in the space to fund the the
+[18:43] the production of content for the
+[18:46] Iranian community unless like the
+[18:50] content like gets produced like overseas
+[18:53] or something and then gets uh actually
+[18:57] distributed in the in in in in Iran. So
+[19:00] there's all sorts of limitations like
+[19:02] that and everybody just so they just
+[19:05] took the job on themselves and they're
+[19:07] doing it without like
+[19:09] uh waiting for someone to fund their
+[19:12] work. So but they're doing like a a
+[19:15] great job. So there's there's one
+[19:18] project that is called the that is
+[19:21] called Bitcoin D.M me and it's uh it's
+[19:25] the biggest
+[19:27] repository of Persian translated content
+[19:32] for
+[19:33] Bitcoin and it's like there's so many
+[19:36] books like the block size war like
+[19:39] inventing Bitcoin from Pritska there's
+[19:43] uh the the article from VJI there's few
+[19:47] episodes from Stfan's podcast there's
+[19:49] all sorts of books and uh guides on
+[19:52] lightning, on node management, on
+[19:55] security, on privacy. It is like very
+[19:58] very cool. And you see this is all an
+[20:01] open-source like collaborative effort
+[20:03] which is like sometimes uh the
+[20:05] collaborators are anonymous.
+[20:08] Ah super cool. Yeah. Just one I mean
+[20:10] because
+[20:12] um I I love like all probably all
+[20:15] educators and and content creators start
+[20:17] out with with not making money. there
+[20:20] this it's it's I rarely saw a project
+[20:23] where they got prefunded in the content
+[20:25] creation space but it's uh it's it's
+[20:29] it's hard to keep going if you have no
+[20:32] funding maybe it's in Bitcoin easier if
+[20:35] you have been in Bitcoin earlier so
+[20:36] Bitcoin itself kind of can fund you so
+[20:40] that that was just that's interesting
+[20:43] that that so there's basically the the
+[20:45] the the law is in the way so so legally
+[20:48] they they cannot get funded and there's
+[20:50] restrictions. Interesting. But it's
+[20:52] great that it's still there like that
+[20:54] that the the space is really good even
+[20:58] without the funding because obviously if
+[21:00] you see I mean even this podcast gets
+[21:02] funded and and and has sponsors and
+[21:04] partners otherwise I I wasn't I couldn't
+[21:07] just do it like I it's my full-time job
+[21:10] now and it's like uh if if I have no
+[21:12] funding at all I would still do it but
+[21:16] not every day. I would probably do it
+[21:18] like once a week, something like that.
+[21:20] Uh, so I couldn't do it uh with that
+[21:23] high of quality and that high of
+[21:26] quantity. So it definitely definitely
+[21:29] helps. But it's great to see that there
+[21:32] is a community that just just does it
+[21:34] because it's an important job to do uh
+[21:36] even if they have to find funds for
+[21:38] their lives somewhere else. Um, and it
+[21:41] and also you you wrote me that you
+[21:44] investigated scams a lot and there's so
+[21:47] many scams going on and I see just I'm
+[21:51] not investigating scams but I see so
+[21:54] many scams because my telegram gets
+[21:56] used, my Twitter gets used with
+[21:58] impersonating and and people sending me
+[22:01] all the screenshots when someone tries
+[22:03] with an impersonating account uh how
+[22:07] they get uh getting scammed.
+[22:10] And it's really crazy how good they they
+[22:13] get and how good they are with social
+[22:16] engineering. What kind of scams are you
+[22:18] investigating for for for Bitcoin
+[22:21] security?
+[22:23] Yeah. So that's actually uh one cool
+[22:26] part of the things that I've been doing
+[22:28] for a long time now. Uh I've been
+[22:30] actually So okay, you just you just made
+[22:34] that point so it's much easier for me to
+[22:37] explain now. you just said that people
+[22:39] do contact you about these things.
+[22:42] That's that that was also the reason for
+[22:45] me uh that I got I was like being
+[22:48] contacted like hundreds of times
+[22:51] uh for people who got hacked, scammed or
+[22:54] actually lost money even due to like
+[22:58] self-inflicted loss. So, you know, like
+[23:00] people losing their 24 words or like
+[23:04] messing up something on their wallet or
+[23:07] doing something like that. So, there
+[23:09] I've been receiving like thousands of
+[23:11] them probably over the years and I've
+[23:14] been in the space for a long time. So,
+[23:16] I've seen like at least probably 2 3,000
+[23:21] uh like messages and requests, and I've
+[23:25] been trying to respond to many of them.
+[23:28] Obviously, not all of them. That's kind
+[23:30] of impossible to do, but I've been
+[23:33] responding to a lot of them. And uh over
+[23:36] the years I gained the experience of how
+[23:38] like the scammers and the hackers
+[23:41] and other cases of like bad like
+[23:45] misfortunes or bad situations that could
+[23:47] happen to people. And uh since I was
+[23:51] receiving a lot of these uh messages and
+[23:54] requests, I started like telling people
+[23:57] about them and even producing some
+[23:59] content about it on my YouTube channel
+[24:01] at that time. And uh there was a lot of
+[24:04] interest in that a lot of people did uh
+[24:07] were audienced for that and I started
+[24:10] just digging more into these kind of
+[24:13] things. So um and I sometimes I even
+[24:16] like I had like I have a lot of crazy
+[24:20] stories actually. It's not only the
+[24:22] impersonators or the scammers or I don't
+[24:25] know nowadays like in the last 2 years
+[24:28] or or so there's also uh a very popular
+[24:32] method of scamming that is called like
+[24:34] pig butchering scam which is uh kind of
+[24:38] a very like odd and strange and uh wild
+[24:42] name which is uh sort of a sophisticated
+[24:47] uh these cold call requests sending
+[24:51] messages uh kind of a scam like people
+[24:54] send you a message they tell you are you
+[24:56] interested to invest but uh that's
+[24:58] that's kind of easy to detect nowadays
+[25:01] pig butchering is like this kind of a
+[25:02] scam but 2.0 tool is like the the the
+[25:06] better version. So it's like they send
+[25:08] you a message, they engage in
+[25:11] communication and conversation for a
+[25:13] long time with you to get your trust.
+[25:15] They even send you like voice messages,
+[25:18] pictures, they get on video calls with
+[25:21] you actually. So it's it's like you you
+[25:24] trust them. So it's like they gain your
+[25:26] trust and then they do the same scam and
+[25:28] then there's this platform you could
+[25:30] invest in it and now you have gained
+[25:32] their tr the victim's trust. So that's
+[25:34] what they do. Most of these scams are
+[25:37] operated as like big organized crime in
+[25:40] Southeast Asia mostly. So it's not
+[25:43] limited to that part of the world but
+[25:44] it's mostly operated
+[25:46] there which is kind of an interesting
+[25:49] topic on its own. You could like look it
+[25:51] up see it more. It's it's been happening
+[25:54] a lot quite uh quite a lot uh lately in
+[25:57] the last one or two years and uh there's
+[26:01] been all sorts of like crazy stuff that
+[26:03] I followed up. Uh I've been actually
+[26:06] able to recover a few million dollars of
+[26:09] assets for people who either lost their
+[26:12] assets in a way that they did some kind
+[26:14] of a self-inflicted loss on themselves,
+[26:16] messed up something with their wallets
+[26:19] or uh or actually from thefts. So
+[26:23] there's there has been like thieves that
+[26:25] I've been working like I've worked on
+[26:27] cases where I caught some thieves which
+[26:30] was like kind of cool and thrilling to
+[26:32] do uh to find that. And in order to do
+[26:35] that I actually utilize a lot of my
+[26:39] knowledge in like the Bitcoin
+[26:40] technicalities. It's like there's a lot
+[26:42] of transaction attributes. There's a lot
+[26:44] of um things on the Bitcoin network that
+[26:48] you could look at and study and analyze
+[26:51] and get to a result from. Like there's
+[26:55] so many attributes, there's so many
+[26:57] things
+[26:58] that it's it's like it's a basically a
+[27:01] financial network which is publicly
+[27:04] available. So you could consider like
+[27:06] you could think about all the things
+[27:08] that you could do is like um somebody
+[27:12] gets access to you like a colleague or
+[27:14] someone who is malicious and takes your
+[27:16] funds away uh tricks you maybe installs
+[27:21] a spyware a malware they get incent
+[27:24] incentivized because they know like you
+[27:25] have like probably few bitcoin that's
+[27:28] that's worth a lot so they get
+[27:30] incentivized they install something
+[27:32] malicious on your firmware when you're
+[27:34] on your lunch break uh on your computer
+[27:37] or something and then they take your
+[27:39] money away whenever they get the chance
+[27:42] to. But uh like it it is kind of
+[27:46] interesting to know that most of these
+[27:49] people could be easily caught because
+[27:51] they're not like very sophisticated and
+[27:54] advanced
+[27:56] uh like attackers. So they don't have
+[27:59] like the best knowledge in like uh
+[28:03] hiding and offiscating the funds. So it
+[28:06] is uh kind of interesting to follow up
+[28:09] on them and what they do with it. And
+[28:11] once you get a clue and you follow that
+[28:13] clue or lead it becomes to a lead. the
+[28:16] lead
+[28:17] becomes probably into some evidence and
+[28:20] the evidence could take that person to
+[28:23] court and like at that time the asset
+[28:25] becomes se get seized if if they if
+[28:29] they're willing to give give back the
+[28:31] assets and uh that was like one of the
+[28:34] most thrilling and interesting things
+[28:36] that I've been doing in the last few
+[28:38] years and I am always interested in such
+[28:40] things because it is like kind of
+[28:42] interesting for anyone it's like it's
+[28:44] like you're doing police and detective
+[28:47] work without needing to be able police
+[28:51] because all the data is out there
+[28:53] publicly available. Uh recently I've
+[28:57] been working mostly on following the bi
+[29:00] hackers. Uh I I I think you may heard
+[29:04] about the bibbit hack which was like
+[29:06] $1.5 billion dollar like equivalent of
+[29:10] that in Ethereum. Uh, and it's called
+[29:13] like the biggest money heist in history.
+[29:16] It's like it's very big. It's like
+[29:19] $1,500 million. So that's like that's a
+[29:23] lot of money for people who may not
+[29:25] grasp the sheer amount of that. And it
+[29:28] it is to be like it's affiliated with
+[29:31] DPRK affiliated hackers. And I've been
+[29:34] following on that doing all sorts of
+[29:36] research because these hackers now are
+[29:39] very organized in laundering the money.
+[29:41] And it is like it is kind of interesting
+[29:44] to try to find how they are structuring
+[29:47] and automating their money laundering
+[29:49] and to find out about like what they're
+[29:52] doing. Uh and in order to do that you
+[29:55] need to be aware of all sorts of
+[29:57] technical stuff about like Bitcoin
+[29:59] transactions, addresses, Bitcoin data
+[30:02] and build the data, analyze it, put some
+[30:06] like uh put put some uh methods for uh
+[30:12] uh tracing the the the money in in in
+[30:15] new ways that these uh attackers who got
+[30:19] away with the money now may want to
+[30:22] launder. under it. So there's all sorts
+[30:25] of interesting
+[30:27] stuff,
+[30:29] sorry, happening right now at this
+[30:31] moment that we're talking. They're very
+[30:32] prolific in their work and it's a lot of
+[30:35] money to launder. So it takes a lot of
+[30:37] time for them to do that and it is quite
+[30:42] an interesting research that I've been
+[30:44] doing in the last few weeks that I have
+[30:47] actually f did uh get a lot of findings
+[30:50] from which I may not be able to disclose
+[30:53] all of them. So just just for that like
+[30:56] the tip off principle so you won't tip
+[30:58] them off but uh there's a lot of f uh
+[31:02] findings and some of the bitcoin
+[31:04] businesses in the ecosystem I've been
+[31:06] communicating with them providing them
+[31:09] with uh the the the
+[31:12] the findings that are related to them.
+[31:16] So would they would know how to mitigate
+[31:18] this to stop their services from being
+[31:20] used by these hackers. So, it's it's
+[31:22] kind of thrilling and very adventurous
+[31:24] kind of a thing to do to follow on this
+[31:28] big money heist and see what they're
+[31:31] doing with the money and uh just get
+[31:33] some knowledge from it. Just get some
+[31:36] more experience, spread awareness about
+[31:39] it and things like that. I love it. You
+[31:42] are our Bitcoin detective now.
+[31:45] Yeah, I've been doing this for a long
+[31:47] time and I had a lot of success actually
+[31:50] recovering money before. So now it's
+[31:53] like in the last year or so I'm been I'm
+[31:56] I'm like upgrading my research and
+[31:58] investigation stuff to big players like
+[32:02] the organized kind of big teams that are
+[32:05] doing a lot of hacking which is like one
+[32:07] of them is the private hacker right now.
+[32:10] So, it's like, okay, the small cases are
+[32:13] easier nowadays for me. So, let's get to
+[32:15] the bigger ones and see what we can
+[32:17] find. Let's take a break for a moment
+[32:19] and appreciate the beauty that Coin
+[32:22] Vigilante has made with the Bitcoin
+[32:24] watches. Those watches are the most
+[32:27] amazing, the most elegant way of showing
+[32:30] that you are a true Bitcoiner. and Coin
+[32:33] Vigilante just dropped a completely new
+[32:36] and amazing Genesis edition of their
+[32:39] watch collections. You have the date of
+[32:42] the first ever minded Bitcoin block in
+[32:45] there and of course also the block
+[32:47] height and which epoch we are currently
+[32:50] in. I love the level of detail they put
+[32:53] in in this masterpiece. Make sure to
+[32:56] check out those amazing coin vigilante
+[32:58] time pieces down in the descriptions. I
+[33:01] love those watches. so so much. And now
+[33:04] if you have Bitcoin, I really do hope
+[33:07] that you don't have it on exchange. But
+[33:09] if you do have it on exchange, I have
+[33:11] two ways for you to deal with that. The
+[33:13] first way is you put it on a hardware
+[33:15] wallet. That's the entry for you to get
+[33:18] into the self-custody game. I recommend
+[33:21] Bitbox Bitcoin only edition for that.
+[33:24] It's a super simple and secure way. And
+[33:27] if you check out the link in the
+[33:29] description, you even get 5% off if you
+[33:32] use the code Robin. And the second way
+[33:34] is the Bitcoin way. The Bitcoin way is
+[33:37] your all-in partner in terms of how to
+[33:41] get the most out of your sovereignty.
+[33:43] They will personalize for you a
+[33:46] self-custody setup that is perfect for
+[33:48] your individual situation. They will
+[33:51] show you how you can secure your own
+[33:54] devices. Securing your Bitcoin is not
+[33:56] enough. You also have to keep all your
+[33:58] devices secure. One topic that is
+[34:00] overlooked often is the inheritance
+[34:03] plan. What happens with your Bitcoin
+[34:06] once you are no longer here? Do you have
+[34:08] a plan for that in place already? And
+[34:11] last but not least, if you're in a
+[34:13] jurisdictions where you don't feel safe,
+[34:15] it's better to get a plan B for all
+[34:18] that. Head over to the
+[34:21] bitcoinway.com/roin to get a 30inut free
+[34:24] call. And just a quick side note, I will
+[34:27] be for the first time ever speaking at
+[34:30] the Bitcoin Prague event in June. It
+[34:32] will be absolutely legendary and I'm
+[34:35] really looking forward to seeing all of
+[34:37] you there. You can get your ticket in
+[34:39] the link down in the description of
+[34:42] Bitcoin Prague. And very important, use
+[34:44] code Robin to get 10% off your ticket.
+[34:48] I'm really looking forward seeing you
+[34:49] there. Maybe um because I think most in
+[34:54] the Bitcoin space probably heard about
+[34:56] buy bit uh or read about in the news,
+[34:59] but uh as you investigate, it would be
+[35:01] really fun to to hear what actually
+[35:04] happened. Uh because it's so much money,
+[35:07] it's really hard to understand that just
+[35:09] like one group just got that
+[35:12] money. It's not his like, oh yeah, they
+[35:15] stole two bitcoin somewhere and stuff
+[35:17] like that. It's like it's a lot of
+[35:18] bitcoin. It's a lot of money. Uh how did
+[35:21] this happen? And and and what have you
+[35:23] gathered so far? Yeah. So what happened
+[35:27] uh
+[35:28] like in the
+[35:30] first forensic report that private
+[35:33] actually published with the
+[35:37] collaboration with a few forensic teams.
+[35:40] It was like the North Korean like they
+[35:43] call like DPRK North Korean affiliated
+[35:46] hackers. They call them Lazarus. They
+[35:48] call them trader traitor which is like
+[35:50] the subbrand of Lazarus. So it's kind of
+[35:52] difficult to pinpoint which name we
+[35:54] should be using but we let's call it the
+[35:58] bbit exploiter. So the bybit exploiter
+[36:01] have gained access to some like uh
+[36:05] servers or things like that that let's I
+[36:08] don't want to get very technical super
+[36:10] technical and it is not the most
+[36:11] important thing how exactly the
+[36:15] technicalities how they carried out the
+[36:17] attack. It's more important for us as
+[36:20] Bitcoiners, people in the space who use
+[36:22] Bitcoin to know how to protect against
+[36:24] the attacks
+[36:26] uh by sticking to some standards because
+[36:29] like this is what what I always tell
+[36:32] people there's a million ways of uh that
+[36:35] you may be be attacked also there's a
+[36:39] million other ways that have not been
+[36:41] yet
+[36:42] discovered and you cannot go over all
+[36:45] the million ways. So what you can do is
+[36:48] to stick to the very fewer standard and
+[36:51] best p practice work that you can do to
+[36:55] just mitigate all the millions of ways
+[36:58] that you could be attacked. So that's
+[37:00] what I talk about. So it's like they got
+[37:03] access to some servers. They did change
+[37:07] uh some of the things you see on the
+[37:09] screen. Uh so what bybit was using was a
+[37:14] multi- signature
+[37:16] wallet called safe
+[37:18] wallet on uh on Ethereum and that uh in
+[37:23] order to use that wallet uh few of the
+[37:27] executives on by bit including their CEO
+[37:30] and co-founder
+[37:31] uh needed
+[37:33] to approve transa approve signatures for
+[37:37] money to be spent and What they did the
+[37:41] the BB bit exploratory what they what
+[37:43] their team did was to show something
+[37:45] different on the screen and uh
+[37:48] the BBIT people thought that they're
+[37:52] moving something standard a routine work
+[37:56] procedure like they're moving uh some uh
+[37:59] amount of
+[38:00] Ethereum but they were signing a very uh
+[38:05] malicious transaction instead which was
+[38:08] a transaction to change the ownership of
+[38:11] that uh smart contract. Like that's how
+[38:14] uh Ethereum does multi- signature. They
+[38:17] do it with smart contracts. This is
+[38:19] different from how we do multi signature
+[38:22] on Bitcoin which is like quite different
+[38:24] and it's it's like it's offline. It's on
+[38:26] the computer. You do it uh finalize it
+[38:30] on the computer rather than on the on
+[38:32] the public blockchain with the smart
+[38:34] contract. So they took ownership which
+[38:37] is like kind of strange for us in the
+[38:39] Bitcoin uh ecosystem. Like why do you
+[38:42] mean what do you mean by taking
+[38:43] ownership of a multi- signature wallet?
+[38:46] Because like you could grant
+[38:49] permissions to anyone you want uh
+[38:52] actually and any quorum of signers to be
+[38:56] able to spend money. That's how like
+[38:58] safe wallet works. And why didn't they
+[39:02] detect it on their hardware wallets?
+[39:03] because they were using hardware
+[39:05] wallets. Actually, to be more specific,
+[39:08] I think most of them use ledgers. Here's
+[39:10] a ledger. And because like for smart
+[39:14] contract related transactions on
+[39:16] Ethereum, it shows a message called a
+[39:20] blind signature, blind signing process
+[39:23] because it's like a hash of a data you
+[39:26] sign. It's not the exact data. And the
+[39:30] the the the clueless wallet does not
+[39:34] know what he's signing and you cannot
+[39:36] understand what you're signing because
+[39:37] it just s shows some gibberish on the on
+[39:41] the wallet screen. And this is something
+[39:44] that we could like just take some good
+[39:47] hits on Ethereum for having uh that uh
+[39:51] like uh even Ledger says accept risk and
+[39:54] sign because it doesn't know what you're
+[39:56] signing because you cannot see what
+[39:57] you're signing on the on the ledger
+[40:00] screen and that's how it was happened.
+[40:02] So it was a different thing you see on
+[40:04] the screen. You're sending a normal
+[40:06] Ethereum transaction but it is actually
+[40:09] changing the ownership of the smart
+[40:11] contract.
+[40:12] and they approved it because they just
+[40:15] didn't have enough uh uh like standard
+[40:20] secure procedures uh because uh first
+[40:24] they needed to do cold storage probably
+[40:27] that's that's also something interesting
+[40:30] their CEO said like our cold storage was
+[40:33] attacked like this and like every
+[40:35] everybody in the Bitcoin space was like
+[40:36] saying dude that's not cold storage when
+[40:39] you when you when you sign transactions
+[40:41] and as soon as you sign the transaction,
+[40:43] this transaction gets sent on the
+[40:44] internet. That's that's not cold
+[40:46] storage. The cold storage happens on an
+[40:48] offline computer. So, they were like
+[40:51] signing
+[40:53] uh with uh online systems and signing
+[40:58] something that can they couldn't see on
+[41:00] this screen of ledger because it didn't
+[41:03] like that's how smart contracts and
+[41:04] ethereum work. So, you cannot understand
+[41:06] what you're signing actually on the
+[41:08] screen here. and the transaction was
+[41:10] relayed in the network and then the
+[41:12] hackers were able to take over all the
+[41:14] funds in that uh in that Ethereum uh
+[41:19] multi- signature wallet which was a lot
+[41:21] of money uh 1.5 billion and then they
+[41:24] started doing so I'm talking about
+[41:26] Ethereum but I was like talking about
+[41:28] like Bitcoin ecosystem stuff so the
+[41:31] hackers started the operations and they
+[41:35] have been moving a lot of money around a
+[41:37] lot of money with a lot of
+[41:40] transactions. There's like probably
+[41:43] 15,000 Bitcoin addresses associated with
+[41:47] this operation of money laundering at
+[41:49] this moment that we're speaking. And
+[41:51] it's like and this happened actually 2
+[41:54] months ago. So they have used only like
+[41:57] 15,000 bit Bitcoin addresses up to this
+[42:00] moment to just launder the money to just
+[42:02] move fast and uh so others won't catch
+[42:05] up to them like investigators,
+[42:07] researchers like me won't catch up to
+[42:09] them. And they're moving funds fast.
+[42:12] They're moving it to all sorts of
+[42:14] destinations. They do coin joins. They
+[42:16] do swaps. They do like crosschain
+[42:19] swapping. Like they go to Ethereum. They
+[42:21] go back from Ethereum to Bitcoin. They
+[42:23] go from Bitcoin to Solana. from Solana
+[42:25] to Bitcoin, they do all sorts of crazy
+[42:26] stuff and it's like they just don't want
+[42:29] you to be uh tracking them. So that's
+[42:32] how they they they increase the cost of
+[42:34] investigating and researching them this
+[42:37] way. And they've been doing this. They
+[42:39] have uh I could say probably
+[42:41] successfully laundered probably about
+[42:43] $und00 million up to this moment, but
+[42:45] this is don't quote me on that. Uh it's
+[42:48] like just observations, not hard fact.
+[42:52] And uh but there's a lot of a lot more
+[42:55] to be laundered and which I'm actually
+[42:57] keeping a track on. There's a lot of all
+[43:00] all other teams. It's not only me.
+[43:02] There's so many other teams that are uh
+[43:04] looking to this. Actually, there's a
+[43:06] bounty out there for this. So if you are
+[43:09] able to help confiscate or free some of
+[43:11] these funds, you got to get 10% of the
+[43:14] free frozen funds. So that's also a
+[43:17] motivation and incentive for people who
+[43:20] want to uh research more. And if there's
+[43:23] any researchers who are interested in
+[43:24] this, feel free to hit me up. We're
+[43:26] going to talk about this.
+[43:29] Yeah, 10% can be a lot of money in that
+[43:32] case. If there's what if there's a few
+[43:35] hundred millions now frozen, there is uh
+[43:38] probably like a billion left to to to
+[43:41] still discover and 10% of that. Uh I
+[43:44] mean obviously it will be very hard
+[43:46] because it seems like they're very
+[43:47] sophisticated. It's actually how long
+[43:50] have they been working on that before or
+[43:53] on that? Do you have any hints of like
+[43:56] how prepared they they doing that? how
+[44:00] long such a thing takes and how long
+[44:02] have they been observing
+[44:04] uh how they operate in by bit because
+[44:06] they need obviously information how how
+[44:09] they are doing things right yeah that's
+[44:12] something that there have been a lot of
+[44:14] criticism towards by bit that they have
+[44:16] not been the most transparent about we
+[44:19] are not completely sure how the whole
+[44:22] thing happened because by bit hasn't
+[44:24] publicly announced
+[44:26] uh many things about that so there's
+[44:29] like very few introductory reports from
+[44:31] forensic teams, but there's no uh like
+[44:34] complete reports that show when their
+[44:38] infiltration happened when how the
+[44:41] infiltration happened completely. We
+[44:43] don't know like the first the first day
+[44:47] that the attack the attack
+[44:49] happened even I was one of the people
+[44:52] who thought that okay this has to be
+[44:54] some kind of an insider job because like
+[44:57] okay how do you get access to so like so
+[45:00] many you need like you're you're
+[45:02] tricking a lot of signers like there's
+[45:06] five I don't know four cosigners that
+[45:08] you need to attack all at the same time
+[45:10] to be able to
+[45:12] uh actually trick all of them to approve
+[45:15] this transaction. So that's going to be
+[45:17] very difficult to
+[45:20] do. The only one who could get access to
+[45:23] many people in the same organization, it
+[45:26] would be like someone from the same
+[45:28] organization. So that's that was like
+[45:31] one of the few first thoughts that I
+[45:33] had. But like seeing how things are
+[45:35] going on and what's happening is like
+[45:38] it's probably not an insider
+[45:40] job and it's probably uh something that
+[45:44] Bit needs to talk more about and so we
+[45:46] could understand what exactly happened
+[45:49] and how they got some some of these
+[45:51] accesses from their usual MO which is
+[45:55] like modus opi which means like soph
+[45:58] like fancy way of saying like their mode
+[46:00] of operations. Uh they usually do all
+[46:03] sorts of social engineering attacks to
+[46:07] like get access to some of the systems
+[46:09] like they send emails affected like
+[46:12] malicious emails, links, things like
+[46:15] that to people who work in the in the in
+[46:17] the organization and then start building
+[46:20] their way up to uh get the accesses they
+[46:25] need.
+[46:27] So that's probably the thing that
+[46:30] happened like some of the colleagues or
+[46:34] employees there or some of the
+[46:35] executives got attacked by uh spear
+[46:39] fishing or some kind of a sophisticated
+[46:41] social engineering attack to have like
+[46:44] some kind of a malware or something like
+[46:47] that installed on their systems and then
+[46:49] they started the operation but it's like
+[46:52] I would be very interested to read uh a
+[46:54] lot of details about the tax if there's
+[46:57] these details if they get out. Super
+[46:59] interesting to to see that. Yeah. And
+[47:01] also um I think people have
+[47:05] celebrated that they have converted
+[47:07] things to Bitcoin but it was uh it was
+[47:10] just
+[47:11] about covering their tracks uh or or was
+[47:14] there also something like oh like we
+[47:16] wanted in the end of the day in in
+[47:18] Bitcoin or they just converting it to to
+[47:21] covering their track because I've read
+[47:24] some things after it happened no like
+[47:27] they are converting everything to
+[47:28] Bitcoin because they know it's a
+[47:30] shitcoin
+[47:31] It it it does have like I think I I also
+[47:35] think that it does have some sense in it
+[47:38] especially uh like if I if I was the
+[47:43] attacker and if I wanted to hold these
+[47:45] funds for a really long time until I can
+[47:49] launder it little by little over
+[47:51] time. I wouldn't like to hold that much
+[47:54] money on Ethereum
+[47:56] probably and I wouldn't like to like
+[47:58] this is also from an investment part of
+[48:00] things because like it's Ethereum it's
+[48:02] not going to you're going to lose money
+[48:04] probably if you hold Ethereum for a
+[48:06] really long time and it's also that uh I
+[48:11] probably would need better like privacy
+[48:15] tools and tool set and a lot of
+[48:17] liquidity at the same time and this will
+[48:21] be offered by Bitcoin better than
+[48:23] Ethereum. So, it's better to use Bitcoin
+[48:26] if you were the private
+[48:29] exploer. One also other cool interesting
+[48:32] thing about this
+[48:35] uh is that the private
+[48:38] exploer cannot easily launder
+[48:43] Ethereum and offramp it to cash
+[48:47] probably. So it's easier to offramp
+[48:49] bitcoin, sell bitcoin and get cash
+[48:52] because like at the end cash is king and
+[48:55] they will use cash at the end. And the
+[48:58] best tool actually to
+[49:01] uh uh like what what is the widest and
+[49:05] most common uh asset that is being
+[49:09] traded probably for cash all over the
+[49:11] world at this moment like crypto wise
+[49:15] it's probably Bitcoin and USDT. It's one
+[49:19] of these two or it's like either one of
+[49:22] them or or these are the top two. So
+[49:26] it's either Bitcoin or you swap Ethereum
+[49:30] to Bitcoin and then move Bitcoin around,
+[49:32] move it through coin join, move it
+[49:34] through different source of things. So
+[49:37] you would offiscate the track and then
+[49:38] go back to I don't know Ethereum or Tron
+[49:41] or something like that and make it USDT
+[49:43] because USDT can freeze the funds so
+[49:47] they won't cover that part. So they
+[49:50] won't be their funds won't be frozen and
+[49:53] then they swap the USDT easily for cash
+[49:56] because it is like widely
+[49:58] uh this this is kind of a wide widely
+[50:00] accepted things all over the world and
+[50:03] like in Southeast Asia in Middle East I
+[50:06] probably less in Europe or places like
+[50:09] that because like there's less cash
+[50:13] flow flow funds of cash in in probably
+[50:16] in Europe. I'm not very sure about that,
+[50:19] but it's much less than other parts of
+[50:21] the world. And that's how probably they
+[50:23] move it to cash. So, they prefer
+[50:27] probably USDT because there's like
+[50:29] everybody accepts us
+[50:32] everywhere. Okay. I just figured out
+[50:35] that probably people from USDT tether
+[50:38] won't like what I'm saying right now.
+[50:40] And uh but but it's okay. And
+[50:44] uh we know that I know for sure that
+[50:47] USDT and Tether are uh working so hard
+[50:51] to stop these kind of our operations and
+[50:53] they have been actually collaborating
+[50:55] with Bybit under and also with TRM labs
+[51:00] and
+[51:01] Tron under financial crime unit uh named
+[51:07] uh T3 which is like Tether
+[51:10] uh Tron and TRM and they've been like
+[51:14] freezing a lot of assets. So, they're
+[51:16] doing a good job at that front, but it's
+[51:18] like it doesn't like uh means that
+[51:21] they're this is not happening. It is
+[51:23] happening and they use USDT and you they
+[51:25] use Bitcoin because these two could be
+[51:28] easily like much easier than others
+[51:31] converted to cash. It's super
+[51:33] interesting because I think we can all
+[51:35] learn things from that. What have you
+[51:37] actually from investigating so many
+[51:39] different scams and also being really
+[51:42] really clever on on self custody and
+[51:44] security uh what have you learned so far
+[51:47] how people can better protect themsel
+[51:51] um when they already have self custody?
+[51:54] So obviously um if if you have an
+[51:58] exchange there's whole different attack
+[52:00] vectors and and it's it's probably
+[52:03] easier but uh if they have cold storage
+[52:06] if they have self custody cold storage
+[52:09] um where they sign transactions and
+[52:13] let's say someone is actually having the
+[52:15] the bad a good setup where they have
+[52:18] multi- signature. So someone has
+[52:19] actually put in the work has a multi-
+[52:22] signature setup. what have you learned
+[52:24] to to make those things even more secure
+[52:29] uh and and figure out how to not get
+[52:31] scammed and stuff like that? Yeah,
+[52:32] that's that's actually a very
+[52:34] interesting thing topic actually to
+[52:36] discuss and it is very important for
+[52:39] Bitcoiners. It's much less important for
+[52:42] shitcoiners. I don't think that you you
+[52:44] would have a lot of like shitcoin
+[52:45] audience because like you're a Bitcoiner
+[52:47] just like me and like I'm Hey, I'm
+[52:50] wearing Bitcoin orange right now.
+[52:52] So yeah, so uh shitcoiners do not care.
+[52:57] It's like they don't care about
+[52:58] security. Most of the tools that they
+[53:00] use is like the they're rubbish. Like I
+[53:02] I've been experimenting with a lot of
+[53:06] tools and software. So I I know for a
+[53:09] fact that they don't care because if
+[53:10] they cared, they would have better tools
+[53:13] on their hands, but they don't have to
+[53:15] good tools for security. But Bitcoiners,
+[53:18] come on. There's a lot of good tools out
+[53:21] there. There's multi- signature. There's
+[53:22] all sorts of stuff. There's all sorts of
+[53:25] good content about and also uh the like
+[53:29] security material that you can read
+[53:31] about and uh read and learn from. And
+[53:35] the first thing that I would say is like
+[53:37] to do this just just learn more about it
+[53:40] because you you're going to need it like
+[53:42] digital security not only bit your
+[53:45] Bitcoin security digital security as it
+[53:48] like as the uh the the uh how do you say
+[53:52] this like the the biggest bigger
+[53:55] umbrella term
+[53:56] here has become very very important in
+[54:00] the last 10 to 15 years and uh It's it's
+[54:04] not only because of your Bitcoin. If you
+[54:07] have Bitcoin now, you're it's inevitable
+[54:10] for you. It's it's like very very
+[54:12] important for you to do that as soon as
+[54:15] possible. But if you have uh like if you
+[54:19] even if you don't have Bitcoin or if you
+[54:21] have small amount of Bitcoin like
+[54:23] digital security is very important these
+[54:25] days. It's it's not it's it's it's a
+[54:28] hard fact right now. So you need to
+[54:30] learn and one of the first important
+[54:33] things that you need to learn about is
+[54:35] that security all comes to comes comes
+[54:38] down to uh how much security do you need
+[54:42] and uh in like you need to adjust all
+[54:45] the time. So if you want to protect like
+[54:47] let's say $100 of assets that's not
+[54:50] something that you need to
+[54:52] pay a big amount to secure it. You don't
+[54:57] need to put a lot of effort to secure
+[55:00] it, right? But as like the biggest your
+[55:04] stack becomes, you need to put more and
+[55:09] more like with more bitcoin comes more
+[55:11] responsibility here. So there's more
+[55:15] responsibility to protect your assets.
+[55:17] So the more bitcoin you have the more so
+[55:20] it's it's not only because like for some
+[55:23] people in the world if one bitcoin is
+[55:26] very very very valuable for some people
+[55:29] in the in other parts of the world like
+[55:32] 10 bitcoin would be less valuable for
+[55:34] them because it's just like uh that's
+[55:37] that's how how much they value the
+[55:39] assets they have. It all depends on how
+[55:43] much you value and if you value your
+[55:45] Bitcoin a lot, you need to pay like put
+[55:49] a lot of time, effort, resources into
+[55:52] learning about security. So this is the
+[55:54] first thing just consider learning and
+[55:57] the second thing would be to stick to
+[56:00] best practices. So this is like the like
+[56:03] I I just I did actually refer to this a
+[56:08] few minutes ago. who was like you need
+[56:10] to stick to the best practices because
+[56:12] you cannot learn about all the attacks
+[56:14] that could happen. It's like millions of
+[56:17] way right now and millions of way that
+[56:20] we are not aware yet. So they have like
+[56:23] the hackers have a lot of incentive.
+[56:25] They have a lot of time and they have a
+[56:27] lot of resource like there's a lot of
+[56:30] incentive in this. So you attack you
+[56:32] hack someone you get take the money it's
+[56:34] like millions of dollars in a second. So
+[56:37] there's a lot of incentive for them.
+[56:39] They're going to come up with new ways.
+[56:41] They're going to always find new ways to
+[56:43] do uh that just like how scammers come
+[56:46] up with new ways, just like how this
+[56:49] always happens. Like this is like
+[56:51] intuitive. This is like
+[56:53] obvious. But you need you cannot like
+[56:56] learn all the how to mitigate all of the
+[56:59] attacks. You need to stick to best
+[57:01] practices.
+[57:03] And during all the years that I was
+[57:05] involved with
+[57:06] Bitcoin, actually the most, this is very
+[57:11] interesting. This may be very
+[57:12] interesting for you, Robin. The most
+[57:15] common thing that happens to people and
+[57:17] lose Bitcoin is people do self-inflicted
+[57:21] loss. It's not getting hacked or
+[57:23] scammed. It's like people mess up
+[57:25] something about their own wallets. This
+[57:27] is this happens more than hacks. And
+[57:31] this just reminds us of how you're not
+[57:35] sticking like people are not sticking to
+[57:37] best practices and standards. Like
+[57:39] there's a reason there's some best
+[57:41] practices and standards. I've seen so
+[57:44] many people cut up their seedword,
+[57:47] scramble the
+[57:48] seedword, like do all sorts of
+[57:50] adventurous stuff with the seedwords. I
+[57:53] don't know, like add some kind of an
+[57:55] algorithm to it and mess up the number.
+[57:58] And this is like basically the one of
+[58:01] the first basic things not to
+[58:04] do in in in in for Bitcoin security.
+[58:08] Just don't don't touch the C. Don't
+[58:11] change anything about it. Just stick to
+[58:13] what the manual tells you to do. This is
+[58:17] like just just I'm just going to the
+[58:19] very basic ones. You see, it's like
+[58:22] these are the most important things. But
+[58:25] to get back to your question, if they
+[58:27] have learned and if they have did all
+[58:30] sorts of stuff like multi- signature and
+[58:32] things like that, that's actually like I
+[58:35] would say congratulations. This is like
+[58:37] very good uh amount of time and effort
+[58:40] you put into this. And that's very good,
+[58:42] very impressive. But you still if you if
+[58:46] if the amount of Bitcoin is big, you
+[58:49] still probably need uh and you're not
+[58:52] very comfortable, you you still you
+[58:55] probably still need to uh learn a bit
+[58:58] more about like how this thing works
+[59:00] actually the multi- signature probably a
+[59:02] little bit about how the math works
+[59:04] because like you're investing a lot,
+[59:06] you're putting a lot of time into like
+[59:08] setting up and multi- signature and
+[59:10] things like that. So, it's better to
+[59:12] learn a little bit more about it and
+[59:15] learn about all this bad things that
+[59:17] could go wrong and just mitigate those.
+[59:20] And I would then
+[59:23] also consider telling these people to
+[59:28] uh just go think outside of the box.
+[59:31] It's not only about your Bitcoin. It's
+[59:34] also about your private and sensitive
+[59:36] information to the world. like you
+[59:39] should probably run your own node. This
+[59:42] is one of the most important things to
+[59:43] keep your IPs private and your addresses
+[59:46] private to
+[59:47] yourself. And you should probably use
+[59:50] like good VPNs uh and like things that
+[59:55] would protect data from being
+[59:57] leaked more. And you should ver like
+[60:02] consider
+[60:04] uh um doing and reading more about OBSC
+[60:09] operational security more and more. You
+[60:11] shouldn't talk about your Bitcoin
+[60:13] publicly. You shouldn't let others know
+[60:16] like uh you have Bitcoin. I've seen like
+[60:19] most of the cases that I was able to
+[60:21] recover assets from were actually uh
+[60:25] people from their surroundings attacking
+[60:28] them. So it was like somebody like a
+[60:31] colleague, an employee or uh like a
+[60:35] friend. Sometimes friends are not
+[60:37] friends anymore, but they do look like
+[60:40] friends and all sorts of things like
+[60:42] that. Even family members like a nephew,
+[60:45] a niece. I've seen all sorts of stuff
+[60:48] like this. I even se seen like wives do
+[60:51] that. So So uh there's all sorts of
+[60:55] things that could go wrong. So
+[60:57] just keep your OBS sec just keep your
+[61:01] operational security. Don't talk about
+[61:03] it. Don't tweet about it. Don't post
+[61:04] addresses. Don't just just don't let the
+[61:08] world know about your
+[61:10] financial
+[61:12] information. And we actually do that
+[61:14] like with bank accounts. We usually
+[61:17] don't talk about like which bank we're
+[61:19] using. We usually don't talk about uh
+[61:22] what's our bank account number or
+[61:24] something. We usually don't tell people
+[61:27] how much balance do we have in our bank
+[61:30] accounts. So why stop do this for
+[61:33] Bitcoin too. So Bitcoin is not uh very
+[61:37] different from that. It's the same model
+[61:40] and you need to keep the information
+[61:42] about it private and also
+[61:46] uh you need to uh consider that Bitcoin
+[61:51] may be even more uh more of a lucrative
+[61:55] uh kind of an asset for people who think
+[61:58] of attacking or like hacking or scamming
+[62:01] because it's easier for the scammer and
+[62:04] the hacker to move the funds around and
+[62:07] try to offiscate the path. So you should
+[62:12] like consider operational security very
+[62:14] very uh good like it's like it's like
+[62:17] it's it's it's a it's just like very
+[62:22] obvious in the future we're going to
+[62:24] have much more attacks coming from the
+[62:26] surroundings because Bitcoin would gain
+[62:29] more and more value. I love the that you
+[62:33] put out the first point of
+[62:36] self-inflicted loss and I see people
+[62:38] building mazes for themselves that they
+[62:40] couldn't cannot figure out
+[62:42] later. Uh and it's very unfortunate but
+[62:46] also a good message that this is the
+[62:49] most uh common one how people lose their
+[62:52] bitcoin because then we can go back to
+[62:55] the basics because why do people build
+[62:57] mazes? I usually found that they are
+[63:00] scared that someone hacks them that
+[63:02] scared that someone finds the bitcoin
+[63:04] and like gets them and they are getting
+[63:06] hacked scammed
+[63:08] whatever and that's why they are
+[63:10] building scams so good that they not
+[63:13] even themselves can hack them. So, uh,
+[63:17] like G getting back to the basics and
+[63:20] not building a a maze for
+[63:23] yourself and doing self custody, doing
+[63:26] multi- signature
+[63:27] um, and and all those things and and
+[63:30] maybe have
+[63:31] like have like different layers if if
+[63:34] you one of the people that move Bitcoin
+[63:37] around a lot, have like a second wallet
+[63:39] where it's eas easily acceptable. Uh,
+[63:42] and then one where you have your
+[63:43] long-term savings in there and stuff
+[63:45] like that. had any feel actually um as a
+[63:48] question for you if you have um and and
+[63:53] I I think you also mentioned uh maybe
+[63:55] I'm imagining that that you worked in
+[63:58] the past with or now with high net worth
+[64:00] individuals. Do you recommend of having
+[64:04] many different uh self-custody setups uh
+[64:08] from a certain point onwards where you
+[64:09] just like have diversify on like oh I
+[64:12] have the multi- signature I have uh
+[64:15] different multi- signatures I have a
+[64:16] single say and all those different
+[64:18] wallets to further protect against
+[64:20] attacks.
+[64:22] Yeah, this is actually a very very good
+[64:24] question.
+[64:25] So what uh what people need to know is
+[64:30] that uh so one part of like me saying
+[64:33] that you need to learn more or getting
+[64:36] like receive education or and also
+[64:39] consulting it would be to just uh
+[64:43] evaluate if you need what you need for
+[64:45] your setup. So there's all sorts of
+[64:48] tools out there, great tools. Like I
+[64:51] have actually a lot of like hardware
+[64:54] walls just here sitting like I I do a
+[64:57] lot of testing all the time. And there's
+[64:59] so many good tools out there. There's
+[65:01] not no single thing that will rule them
+[65:03] all. And you need to see
+[65:08] which what works best for you and for
+[65:11] your situation. That's why you need to
+[65:13] learn constantly. So you say like okay I
+[65:16] I have a family office I need multiple
+[65:19] people to get access to multiple stuff.
+[65:21] So now you need to do some kind of a
+[65:24] multisync. So it's it's like you cannot
+[65:26] do single sync where there's some kind
+[65:29] of a collaborative custody or a shared
+[65:31] custody. So this is like I I am trying
+[65:34] to make the point that based on your uh
+[65:38] special and unique situation you may
+[65:42] come into like I have this experience of
+[65:47] consulting an
+[65:49] individual that was uh like he wanted to
+[65:53] do multisc but he wanted to do multisig
+[65:55] in a way that even he himself cannot
+[65:58] access his coins like easily if he wants
+[66:01] too. And I was like, "This is kind of
+[66:03] strange. Why do you need that?" He was
+[66:05] like, "I don't live in a very very safe
+[66:09] environment." So, I don't want like if
+[66:11] people find out I have Bitcoin, they
+[66:14] would like uh $5 wrench attack me into
+[66:18] giving them my Bitcoin. I would I would
+[66:20] like to not be able to give them my
+[66:23] Bitcoin. So this was like quite
+[66:25] interesting to see like some people do
+[66:27] require even more than just multi-
+[66:30] signature and like there's all sorts of
+[66:33] other stuff like for companies,
+[66:34] businesses, treasuries like inheritance
+[66:37] situations also. There's all sorts of
+[66:40] arbitration stuff that could happen that
+[66:43] you need you probably need solutions for
+[66:45] them for those ones too. So there's all
+[66:47] sorts of stuff that you could consider
+[66:50] based on your specific scenario. But you
+[66:53] if you're the average
+[66:55] Bitcoiner, I would say that yeah, it is
+[66:59] uh better to separate your hot wallet
+[67:01] from your cold storage. Cold storage, it
+[67:04] has the name on it. It's going to be
+[67:05] cold. It's not going to be accessed
+[67:08] often. And there's this thing about like
+[67:11] human beings generally that they prefer
+[67:15] the easy method. So if if you want to do
+[67:18] a very secure thing and if it's not
+[67:21] easy, they're not going to follow it.
+[67:24] They're going to ignore it. They're
+[67:25] going to forget about it. They're going
+[67:27] to stop using the the very secure method
+[67:30] that is not easy to uh use. So, let's
+[67:35] keep the not very easy method of cold
+[67:37] storage on its own and keep a hot wallet
+[67:41] like not a hot wallet actually like an
+[67:43] exchange or something, but let's keep a
+[67:45] wallet on your phone with significantly
+[67:48] less amount of Bitcoin on it just for
+[67:50] your daily spends probably or I don't
+[67:53] know whatever you do with your Bitcoin
+[67:55] and to spend it, you trade it, you do
+[67:57] what and use that one for that purposes
+[68:01] and hope that probably in the future
+[68:03] they will be Bitcoin vaults in the next
+[68:06] probably 5 years or so that would have
+[68:09] like staging areas and rate limiting
+[68:11] kind of wallets. So you would have a
+[68:13] cold storage that you maybe you feel
+[68:16] comfortable like accessing all the time
+[68:18] because if something bad happens to it,
+[68:20] there's going to be a staging area where
+[68:22] your Bitcoin stays and you could like
+[68:24] probably cancel the transaction. But
+[68:26] we're away from that right now at this
+[68:29] moment. We haven't we don't have the the
+[68:32] the Bitcoin
+[68:35] uh actually
+[68:38] uh capabilities and the abilities
+[68:41] enabled in Bitcoin right now like
+[68:44] probably in the future we will have such
+[68:46] stuff with like some kind of a covenant
+[68:49] proposal or something or offchain kind
+[68:52] of solution but right now at this moment
+[68:55] it's better to just separate the two
+[68:58] because Well, keep the This is actually
+[69:02] also this also does work with uh digital
+[69:06] security overall. So, I've seen a lot of
+[69:10] people to they don't use their usual
+[69:13] like the the the the card to the amount
+[69:16] the the the bank that they have the most
+[69:18] uh money on for online purchases or I
+[69:22] don't know uh suspicious or I I don't
+[69:26] know like less secure and less safe
+[69:29] untrusted places. So, they just use a
+[69:32] card. They just top up the card with a
+[69:36] less amount. So if something bad happens
+[69:38] to that card, so it won't uh they won't
+[69:41] lose a lot of money. So this is just the
+[69:43] same thing. So it does make sense, but
+[69:46] try to keep your hot wallet on your
+[69:48] phone kind of private and don't don't
+[69:51] let people know that you have Bitcoin.
+[69:54] Um kind of hard with a Bitcoin podcast.
+[70:00] Yeah, that that ship has sailed for both
+[70:03] of us because I've been publicly
+[70:06] speaking about Bitcoin for so long now.
+[70:08] So, yeah, I like to have a Bitcoin
+[70:11] podcast, but I don't I don't believe it
+[70:12] in myself. I don't have Bitcoin. I I I I
+[70:16] still keep my euros in my bank account.
+[70:19] So I maybe we could demotivate the
+[70:22] attackers by saying that we actually
+[70:25] have shitcoin so it's not worth
+[70:28] attacking so keep away from us.
+[70:30] Absolutely. Um really really really
+[70:33] cool. Um I have have a gazillion other
+[70:37] questions. Um but I think we covered the
+[70:39] basis and I think we covered a lot and I
+[70:42] think the by bit story was was really
+[70:43] interesting. And I have one question
+[70:45] that I ask each and every one of my
+[70:47] guests. uh uh on the podcast and the
+[70:49] question is what can we learn from you
+[70:51] besides Bitcoin? Oh well so that's
+[70:55] that's kind of an interesting question I
+[70:57] was not prepared for but this is kind of
+[71:00] cool. So uh I'm actually a very a very
+[71:05] passionate person about what I do. So
+[71:07] that's how that's what I would like tell
+[71:10] others. It's like uh be passionate about
+[71:13] what you do. Uh, always like just stick
+[71:16] to what you like to do. So, I've been
+[71:18] doing like Bitcoin stuff for a long time
+[71:21] just because like I love this. So, it's
+[71:24] like it's just so much fun to work on uh
+[71:28] Bitcoin stuff. So, it's like all sorts
+[71:30] of cool people, cool projects, cool
+[71:33] technologies happening and uh cool stuff
+[71:38] that could happen that makes me very
+[71:40] interested in that. And that's why I
+[71:43] wouldn't change this for anything else.
+[71:45] Like I wouldn't change anything about
+[71:46] what I do actually. That's because just
+[71:50] I I I love what I do and that's I that's
+[71:53] what I would like advise others to do.
+[71:55] Like stick to what you love to do. I
+[71:57] love that one. Uh we I think I don't
+[72:00] know if we ever had that. I think we had
+[72:03] work on some something you're passionate
+[72:05] about but I I love that one a lot. Um,
+[72:08] we have end in the podcast where the
+[72:10] previous guest is asking a question for
+[72:12] the next guest without knowing who the
+[72:13] next guest actually is. And the previous
+[72:15] guest asks you the question, do you
+[72:17] think we get to a Bitcoin standard
+[72:19] peacefully? Yeah, that's that's that's
+[72:22] cool.
+[72:23] No, it's not a peaceful
+[72:26] thing. So, that's that's what I think.
+[72:29] So, Bitcoin
+[72:31] is some kind of a political kind of a
+[72:34] movement. So in order to get to a lot of
+[72:38] people using Bitcoin, there's has to be
+[72:41] So this is the the the thing that I
+[72:43] think Eric Wasll also talks about. It's
+[72:47] Bitcoin is that that's what he calls it.
+[72:50] Bitcoin is darknet money. So uh it's
+[72:54] like it's that's that's what Bitcoin is.
+[72:57] It is here to be censorship resistant.
+[73:00] it is here to be uh unstoppable and
+[73:05] that's what probably let's say
+[73:08] governments won't like about Bitcoin and
+[73:11] uh we could like see that and uh we have
+[73:14] this trend in the last probably century
+[73:18] or so that governments want more and
+[73:21] more and more control into observing and
+[73:25] doing all sorts of
+[73:27] uh uh all sorts of uh surveillance and
+[73:32] control over people's money and
+[73:35] transactions and
+[73:37] businesses that Bitcoin is I I think
+[73:40] Bitcoin is a very good response to that
+[73:43] that you should like to to go against
+[73:47] that and uh well well that's the case
+[73:53] Bitcoin if if it wants to succeed it
+[73:55] needs to be
+[73:57] resilient this is like very obvious
+[73:59] obvious and it needs to be resilient
+[74:01] against this too and uh it's a constant.
+[74:06] So I I see like I I may look like a
+[74:09] dinosaur talking about this now in 2025
+[74:13] because in 2018
+[74:16] 17 we were always talking about like
+[74:19] like let's let's break this thing like
+[74:22] like let's make Bitcoin break like the
+[74:26] rules and the the structures that have
+[74:28] been put from before and uh but nowadays
+[74:33] it's not the the the the main narrative
+[74:37] is the main narrative is like number
+[74:39] goes up things like that and which I
+[74:42] don't like at all. It's like um although
+[74:45] I'm I have a I have a strong interest in
+[74:49] like following up data on the Bitcoin
+[74:52] network, I would love to see Bitcoin
+[74:54] becoming more private. I would love to
+[74:57] see Bitcoin thriving in a more hostile
+[75:00] environment. So that's how transactions
+[75:02] and businesses and deals and any kind of
+[75:07] financial interaction should be and was
+[75:10] for a long time. But now in the last
+[75:13] century or so governments have decided
+[75:15] that they want to control all all
+[75:18] aspects and they do KYC's they do all
+[75:22] sorts of like I don't know
+[75:25] verifications to what end it's like we
+[75:29] still see hacks happening we still see
+[75:31] scams happening we still see money
+[75:33] laundering happening ask me about it I
+[75:36] know I've been monitoring all sorts of
+[75:38] stuff like that so it is like it is
+[75:41] obvious obvious that it doesn't work. So
+[75:42] that's like KYC and things like that.
+[75:45] But what it does actually it puts us at
+[75:48] a
+[75:49] disadvantage us the users like if I want
+[75:52] to buy Bitcoin and I need to do KYC for
+[75:54] that it's not going to help anything.
+[75:57] it's going to make it worse for me
+[75:59] because I have provided my information
+[76:01] on a server on a website that may be
+[76:04] leaked later on and I may get
+[76:07] targeted and so I'm putting myself at a
+[76:10] huge disadvantage for what for nothing
+[76:12] actually. So, but the governments don't
+[76:15] think so. And I think that that's not
+[76:19] how transactions and financial systems
+[76:21] could should work. And I think that
+[76:24] Bitcoin will prove that at some point.
+[76:27] And it would not go very gentle into
+[76:29] that direction because there's going to
+[76:31] be all sorts of uh people resisting, all
+[76:37] sorts of agencies, other places
+[76:39] resisting the fact that Bitcoin may
+[76:41] become more private. Bitcoin may go more
+[76:45] uh like in the direction of being
+[76:48] darknet money rather than uh clear net
+[76:52] money like fiat. So that's what I think.
+[76:55] So I I think it's going to
+[76:57] be and but the thing is it's not going
+[77:01] to be the most difficult from Bitcoin's
+[77:05] techn technology side. So we just need
+[77:09] to just convince the right people to add
+[77:12] more private technology on Bitcoin.
+[77:14] That's what I think. I love that. Uh
+[77:17] absolutely. We we
+[77:19] need the number technology sometimes see
+[77:22] as a
+[77:23] distraction even though I know it's the
+[77:26] best marketing tool. It's what gets
+[77:28] people
+[77:29] in. But if people only care about that
+[77:32] and don't get the revolution behind it,
+[77:35] they are easily they're easily sellable.
+[77:38] They are easily no not sellable buyable.
+[77:41] They're easily manipulated. They because
+[77:44] if you are for number technology, you
+[77:47] love ETFs. You you love strategic
+[77:50] Bitcoin reserves. If you like freedom
+[77:53] grab technology, you're not in favor of
+[77:55] uh you might not been in favor of an
+[77:57] ETF. you might not be in favor even of
+[77:59] the strategic Bitcoin reserve because it
+[78:00] prolongs the life of governments and
+[78:03] yeah it's it's it's a it's a wild
+[78:07] discussion in in in Bitcoin I think and
+[78:10] uh we we we need we need enough freedom
+[78:13] fighters so uh Bitcoin doesn't get to be
+[78:18] a banker tool but uh a people's tool
+[78:23] exactly I I don't want to see Bitcoin
+[78:26] becoming something like what gold have
+[78:30] become right now at this moment. It's
+[78:32] just like you just can't move gold
+[78:35] anymore. It's just you you can't just
+[78:38] put gold bars in your back and go to
+[78:41] whatever you want although it is yours.
+[78:44] So there's going to be all sorts of
+[78:46] restrictions on that and even probably
+[78:49] some penalties and all sorts of things.
+[78:52] Just think about this for a moment and I
+[78:55] don't want to see this for
+[78:57] Bitcoin and Bitcoin I I what I think is
+[79:01] that Bitcoin will not become this
+[79:03] because the minute it becomes like that
+[79:05] or actually the more it becomes like
+[79:08] that the more it will
+[79:10] show as something that will
+[79:14] resist because there's going to be more
+[79:17] people because it's it's it's not the
+[79:19] it's not the same thing. It's the
+[79:21] internet. this digital space. It's
+[79:23] there's going to be places that you
+[79:25] could do all sorts of stuff to resist
+[79:29] this kind of things. It's not just like
+[79:31] airports and borders where they could
+[79:35] just put their hands on your body and
+[79:37] like inspect you and see if you have
+[79:39] gold bars with you. So, it's going to be
+[79:41] different and it's going to be resisting
+[79:43] and more hostile than what people think.
+[79:46] So, that's what what I think about it.
+[79:50] What a great note to to end the podcast
+[79:52] today.
+[79:54] Really cool. Uh thank you so much uh Sio
+[79:57] for for being on the podcast. Before I
+[79:58] let you go, where can people find you
+[79:59] and ask you questions? Oh yeah, I'm on
+[80:02] Twitter. I al I do have like a YouTube
+[80:05] channel podcast and but they're like
+[80:07] they're not very active anymore in the
+[80:09] last two years or so. I have a Twitter.
+[80:11] It's like Z I Y A underline S A D R.
+[80:16] That's how it is. You could probably
+[80:18] also find me on LinkedIn too. Nowadays,
+[80:21] sometimes I go to LinkedIn and uh
+[80:26] there's also yeah my Telegram. I have a
+[80:29] active Telegram channel with a lot of
+[80:31] members. Uh but it's mostly in Persian.
+[80:34] So you may not be interested in that,
+[80:37] but you just hit me up in Twitter.
+[80:40] That's the best place. Really cool.
+[80:41] Thank you so much for being on. Also,
+[80:42] thank you so much for everyone that is
+[80:44] watching and listening for joining us
+[80:45] today. As always, I'll be back tomorrow
+[80:48] with another episode. Bye-bye.
+[80:51] [Music]

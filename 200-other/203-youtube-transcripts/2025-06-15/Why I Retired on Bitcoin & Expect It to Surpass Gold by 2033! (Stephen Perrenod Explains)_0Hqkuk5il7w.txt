@@ -1,0 +1,1731 @@
+Title: Why I Retired on Bitcoin & Expect It to Surpass Gold by 2033! (Stephen Perrenod Explains)
+Video ID: 0Hqkuk5il7w
+URL: https://www.youtube.com/watch?v=0Hqkuk5il7w
+Date Saved: 2025-06-15 11:37:55
+--------------------------------------------------
+
+[00:00] You know, my life revolves around two
+[00:02] poles, the family and and Bitcoin. You
+[00:04] know, I had retired already and uh I
+[00:07] wanted to stay retired uh retired with
+[00:09] Bitcoin, but if it was only choosing
+[00:11] between Bitcoin and cash, it would be,
+[00:13] you know, 70 75% Bitcoin. You know, be
+[00:16] stoic, be chill, because the more chill
+[00:18] you are, the more Bitcoin you should
+[00:20] hold as a percentage of your liquid
+[00:23] capital or wealth. And I need something
+[00:25] that's going to perform. giving it to
+[00:27] Wall Street is give them the money and
+[00:30] they'll make sure that they have the
+[00:31] yachts and volatility coming down is is
+[00:34] also a good thing because it makes it
+[00:36] more acceptable to this, you know,
+[00:38] broader community, right? So, by 2033,
+[00:41] we can project that Bitcoin may surpass
+[00:45] uh the market cap of of gold.
+[00:49] [Music]
+[00:52] Hi, Stephen. How are you doing?
+[00:53] Everything fine on your end? Yeah,
+[00:55] great. Uh good to be with you again,
+[00:57] Robin. Looking forward to it. Was really
+[01:00] cool last time and thought let's do it
+[01:02] again. Uh you uh you prepared a a new
+[01:05] deck of of slides that is really
+[01:07] interesting and just as a small spoiler
+[01:09] alert, I saw the I think last second to
+[01:12] last uh slide or something like that
+[01:14] with the quote of Warren Buffett and I
+[01:16] love that quote so much. I always bring
+[01:18] it up with people when people tell me,
+[01:20] "Oh, you're over overly allocated to to
+[01:23] Bitcoin." Um but let's get into um what
+[01:26] what has kind of happened for you uh in
+[01:29] and bitcoin over the last I think around
+[01:32] one year that we have last recorded uh
+[01:35] with the strategic bitcoin reserve with
+[01:37] I think bitcoin hit the 100k between uh
+[01:40] the last recording uh what was kind of
+[01:43] noteworthy for you in that period of
+[01:45] time. Well, I think we had obviously we
+[01:48] had a runup around the election in the
+[01:50] US and you know that pushed us up to to
+[01:54] 108k and then later we hit 109k when it
+[01:58] retested and uh the you know the
+[02:02] liquidity was supportive at that time
+[02:04] and obviously the narrative was very
+[02:06] supportive and people became over
+[02:08] anxious I think about the bitcoin
+[02:10] strategic reserve which is going to
+[02:12] happen but I think requires some
+[02:15] legislation in congress. to be fully
+[02:17] implemented and I think the chances of
+[02:19] that going forward are good. We've got
+[02:21] the initial allocation of the 200,000
+[02:24] that you know comes from seized Bitcoin.
+[02:27] The liquidity situation was not fully
+[02:31] cooperative. the liquidity had fallen,
+[02:34] global liquidity uh had fallen in in Q4
+[02:38] and there tends to be about a one
+[02:39] quarter lag, something like 11 to 13
+[02:42] weeks if you follow the you know what
+[02:44] other people say and so that you know
+[02:48] was reflective in how prices behaved in
+[02:50] Q1 as well as the narrative coming off I
+[02:53] think but now we've seen a pickup in
+[02:55] global liquidity again and we're
+[02:58] starting to see a bit pick up in Bitcoin
+[03:00] prices uh Gold tends to lead Bitcoin and
+[03:04] gold is performing very well with all of
+[03:07] the
+[03:08] uncertainty around the the discussion
+[03:10] around tariffs and you know even talk of
+[03:13] of monetary crisis and you know what's
+[03:17] happening with yield spreads and so
+[03:20] forth. Um so there's a lot of
+[03:22] uncertainty and safe havens you know
+[03:26] respond to that and gold has responded
+[03:28] and we're seeing Bitcoin start to
+[03:29] respond. it tends to lag gold by, you
+[03:33] know, a similar kind of one quarter.
+[03:35] I'll talk about some of these lags in in
+[03:37] the presentation today. Really cool.
+[03:40] Yeah, have a ton of ton of questions
+[03:43] around that. Maybe I'll I'll save them
+[03:44] for later because it's super interesting
+[03:47] how Bitcoin just follows liquidity. I
+[03:49] mean, it also makes sense more money uh
+[03:51] drives up demand. Um but yeah, let's
+[03:54] let's get started with with with with
+[03:56] the presentation and let's get started
+[03:57] with with the things uh you have
+[03:59] prepared for. Okay, let me uh share
+[04:02] that. Okay, I've I've titled this the
+[04:04] power laws of Bitcoin. I think it's the
+[04:05] same title I used when we uh recorded
+[04:08] last time last year, but the subtitle is
+[04:11] different. It's power and persistence.
+[04:14] So I want to show some you know new
+[04:16] research that I've done in the interim
+[04:19] uh in particular around something called
+[04:22] the Hurst exponent that's spelled hur
+[04:25] rst and that is a way to measure the
+[04:28] persistence of price behavior. Uh the
+[04:30] overall agenda is first a kind of a
+[04:32] quick reminder about power laws and in
+[04:35] particular about the power law that
+[04:38] Bitcoin follows that Bitcoin prices
+[04:40] follow with respect to both the dollar
+[04:42] and to
+[04:43] gold and then I will mention uh some
+[04:46] survey research around the efficient
+[04:49] market
+[04:50] hypothesis and out of 25 different
+[04:53] papers you know the vast majority have
+[04:57] demonstrated that Bitcoin prices do not
+[05:00] adhere to efficient market as in
+[05:02] reversion to mean or you know Gaussian
+[05:05] and log normal behavior that's like a
+[05:07] random walk and then I'll get into
+[05:10] really the core of the presentation
+[05:12] around the Hurst exponent
+[05:14] analysis and how that demonstrates the
+[05:17] persistence of power law behavior and
+[05:20] also I'll talk about the distinction
+[05:22] between the core power law and the
+[05:25] bubble behavior that sits on top of this
+[05:29] power law core. The bubbles rise and
+[05:31] then fall, you know, back to the power
+[05:33] law. Also, I'll point out that bubbles
+[05:36] have getting smaller over the long term.
+[05:38] And so, I'll I'll show evidence for
+[05:40] that. If we have time at the end, I'll
+[05:42] talk about the Kelly criterion for
+[05:44] portfolio sizing. And, you know, how
+[05:47] much could you imagine allocating in
+[05:50] your portfolio to Bitcoin? Okay. Uh,
+[05:52] power laws are ubiquitous in the
+[05:54] universe. And this I just saw this uh
+[05:58] earlier this week or in the past week.
+[06:01] This is kind of a graph of everything.
+[06:04] It's it's got everything you could
+[06:05] imagine on it from fundamental particles
+[06:08] down in the lower left to you know atoms
+[06:11] up through bacteria, viruses, fleas,
+[06:14] humans, whales all the way up to the
+[06:16] sun, red giant stars,
+[06:18] uh that you can see in sort of that
+[06:20] middle pink
+[06:21] area. And then the blue area has u kind
+[06:25] of the least dense structures in the
+[06:28] universe which are our galaxies and our
+[06:32] galaxy clusters and superclusters in the
+[06:34] upper right all the way up to the Hubble
+[06:37] radius which is the scale of our
+[06:40] observable universe.
+[06:42] We've got this big line called black
+[06:44] holes. Kind of on the middle left,
+[06:46] you'll see black holes. And that's a has
+[06:48] a different slope to it than the
+[06:50] others, which is interesting. But this
+[06:53] whole thing is a a vast
+[06:55] landscape that's a kind of a Google by a
+[06:58] Google. There's over a Google, which is
+[07:00] 10 the 100th, you know, 100 factors of
+[07:02] 10 dynamic range on the y ais and very
+[07:06] nearly a Google on the x-axis. So that
+[07:08] the y-axis has
+[07:10] mass but in logarithmic terms and the
+[07:14] x-axis has the radius. Uh at the bottom
+[07:18] it shows it in centimeters and the top
+[07:21] it shows it in mega parex that
+[07:23] astronomers like but in either case
+[07:25] we're talking close to 100 orders of
+[07:28] magnitude. So it it's very
+[07:30] all-encompassing. But the important
+[07:32] thing here is that this is a log log
+[07:34] chart. So anything that's a straight
+[07:36] line is a power law relationship. So if
+[07:39] you go the size of things from atoms all
+[07:42] the way up through the sun, it sort of
+[07:45] fits in that band,
+[07:47] right, of a power law. And
+[07:51] it's, you know, that if you have a
+[07:53] constant density
+[07:55] uh mass times density time the radius
+[07:59] cubed, right?
+[08:01] It turns out that the average density of
+[08:04] the sun is not different from your
+[08:06] average density. It's within 40%. The
+[08:08] average density of a human is what? Is
+[08:10] water. It's a gram per cc. For the sun,
+[08:15] it's only 40% higher. It's 1.4 g per cc.
+[08:19] Much denser than the core, but on
+[08:20] average it's it's similar. So those
+[08:22] things all line up. And then you see the
+[08:24] black holes. They all line up with a
+[08:26] different power law, a very different
+[08:28] slope. And the reason is that under
+[08:31] general relativity, the radius of a
+[08:33] black hole is proportional to its mass.
+[08:35] So there's not this mass going is the
+[08:38] cube of the the radius kind of
+[08:40] relationship. It's directly
+[08:42] proportional. So those are two extreme
+[08:44] examples. Then that blue band is kind of
+[08:47] the lowest density stuff which is
+[08:51] galaxies and clusters and galaxy
+[08:52] clusters in the universe as a whole. And
+[08:55] that does follow also the R cube kind of
+[08:57] thing. And we have this critical density
+[09:00] that matches that. So that blue band or
+[09:02] sort of purplish is called omega m in
+[09:05] the legend. M being for
+[09:08] matter. And everything else is would be
+[09:11] dominated by radiation density. That's
+[09:13] all the pink. And then you have these
+[09:15] forbidden zones forbidden by gravity and
+[09:18] forbidden by limits of the quantum
+[09:20] certainty. But it's just to show how
+[09:22] ubiquitous you know power laws are in
+[09:25] nature. And it turns out of the four
+[09:28] fundamental forces of gravity,
+[09:30] electromagnetics, and the two nuclear
+[09:32] forces, they're all either pure power
+[09:34] laws or they have power laws as
+[09:37] components of the the overall laws. Then
+[09:39] I like this uh quote from Buckminister
+[09:44] Fuller who in
+[09:46] 1967 you know 58 years ago he said by
+[09:49] the year 2000 there will be a realistic
+[09:52] scientific accounting system.
+[09:54] Wealth is not gold, it's energy. And
+[09:57] wealth always increases. And I I tweeted
+[10:00] this out and I said that we have in
+[10:02] Bitcoin the first completely scientific
+[10:04] standard ledger, the first direct from
+[10:08] energy monetary system for enumerating
+[10:10] wealth. It appeared 42 years
+[10:13] after Buckminister Fuller's preion
+[10:17] statement. So the underlying the power
+[10:20] law for Bitcoin is the proofof work
+[10:22] implementation. And so we we take energy
+[10:24] which is power times time. We've got a
+[10:28] continuous 19 or 20 gawatt that's
+[10:31] feeding the millions of ASIC computers
+[10:34] and they're
+[10:35] collectively cooperating and competing
+[10:38] to produce 800 to a,000 exahashes per
+[10:41] second. This leads us to high
+[10:44] security and that provides the
+[10:47] foundation
+[10:48] for the power law behavior of Bitcoin
+[10:51] price. This is a basic thesis that
+[10:54] Giovani Santos Stasis first enumerated
+[10:57] in
+[10:58] 2014 that uh the value goes is
+[11:03] the square of the adoption. This comes
+[11:05] from Metcast law which is the behavior
+[11:07] of networks. We see this in the
+[11:10] internet. We see this in social networks
+[11:12] that roughly the value goes as a square
+[11:15] of the adoption or the size of the user
+[11:17] community. And for Bitcoin, the adoption
+[11:20] has grown as roughly the third power of
+[11:22] time. So when you combine the square of
+[11:25] the adoption with the third power of
+[11:27] time, you get price going is nearly the
+[11:30] sixth power of time. A really steep
+[11:32] parallel. Now you can show this in two
+[11:35] minutes. And I did this today
+[11:37] actually. Somebody tweeted out and it's
+[11:40] in the left hand. They tweeted out uh
+[11:43] all the prices on Easter. So in 2020 at
+[11:46] Easter it was
+[11:48] $5. This year it was $84,000 on Easter
+[11:52] day. Now Easter moves around, you know,
+[11:54] a couple of weeks, but roughly, you
+[11:56] know, these are your a year
+[11:58] apart. I asked Chad GPT, take those
+[12:02] four and then take the age using mid
+[12:05] April for these years and the zero point
+[12:09] has to be when Bitcoin started, which of
+[12:12] course is January 2009.
+[12:14] and do a parallel regression and it came
+[12:17] up with basically the right answer when
+[12:19] we throw a lot more data and do the
+[12:22] analysis. It found that the price goes
+[12:25] as the age of the 5.7 power nearly the
+[12:29] sixth power with a very high R squared
+[12:32] of 0.94. It and there's the graph. It
+[12:34] shows
+[12:35] it. It's only 14 data
+[12:38] points. This is a log log chart. And so
+[12:42] you've got the log of the price, you
+[12:44] know, varying from less than $10 to
+[12:46] nearly $100,000 over the interval. And
+[12:50] the age is also a logarithmic chart. You
+[12:52] can see the lines are getting closer
+[12:53] together as you go from four to six up
+[12:56] to 10 uh years. And it's really quite a
+[12:59] nice fit with a small amount of data
+[13:01] because the power law is persistent.
+[13:03] It's
+[13:04] strong. You can do this at home in a few
+[13:07] minutes. Take just pick any
+[13:10] date. Look up the Bitcoin price on that
+[13:13] random date, same date every year. Try
+[13:16] it yourself. Now, this is a much more
+[13:18] detailed analysis.
+[13:20] This is using weekly
+[13:22] prices and it starts in the middle of
+[13:25] 2010 and you know runs up to
+[13:29] date and this also looks at auto
+[13:32] reggression. People have sometimes said
+[13:34] well you know there's auto reggression
+[13:35] in Bitcoin. This one has been corrected
+[13:38] for second level autogra autocorrelation
+[13:43] uh which is one week and two week
+[13:45] autocorrelation because these are weekly
+[13:47] data
+[13:48] points and once you do that your Durban
+[13:51] Watson statistic which is the statistic
+[13:53] that tests for
+[13:55] autocorrelation is very close to two
+[13:57] which is what you want it to do to
+[13:59] eliminate the effect of
+[14:02] autocorrelation. And then this is being
+[14:05] quantile regression. We've run for a
+[14:08] number of different levels from the 0.05
+[14:11] quantile all the way up to the
+[14:13] 0.95. The median is the red line is the
+[14:16] 0.5. And then the equations for each of
+[14:19] these are
+[14:20] shown. And what you find is that below
+[14:22] the median you see a power law that's
+[14:25] got an index between 5.8 and 5.9.
+[14:29] above the median, it's a somewhat less
+[14:32] steep parallel between five and
+[14:35] 5.4. So here you're already seeing hints
+[14:38] of the difference between the core and
+[14:40] the bubble. Out of the seven
+[14:43] regressions, four of them are quite
+[14:45] bunched up. The red line is the median
+[14:47] and then there are three below. In fact,
+[14:50] two of them are right on top of each
+[14:51] other. So you can hardly discriminate
+[14:53] the orange and the blue, but they're
+[14:54] kind of all crunched up and you can see
+[14:56] that they act as the support line.
+[14:59] uh where Bitcoin after the bubbles comes
+[15:02] back to that support line and and finds
+[15:04] a pretty firm foundation that continues
+[15:06] all the way up. So that's the true core
+[15:10] power law and we've done more detailed
+[15:13] statistical analysis to show the
+[15:15] distinction between the two. But the
+[15:18] other hint you're getting is that the
+[15:20] bubbles are becoming smaller relatively
+[15:23] because these lines are kind of sloping
+[15:25] downward converging.
+[15:27] They're less steep parallel, you know, 5
+[15:29] to
+[15:30] 5.4 rather than the core 5.8 to 5.9.
+[15:34] Now, that was the dollar. This is for
+[15:35] gold. We see the same thing for gold.
+[15:38] That was a log log plot. Uh this is the
+[15:41] kind of plot you see more often, which
+[15:43] is a log linear plot. So, here we
+[15:45] have the log of the price, but measured
+[15:49] in gold ounces. And so, it's from less
+[15:52] than 1,000th of an ounce up to over 10
+[15:55] ounces. Now it's close to 30. It's in
+[15:58] the high
+[15:59] 20s. And the age of Bitcoin ranging from
+[16:02] 2 years to almost 16 years. And the
+[16:05] green curve is a parallel fit. Uh this
+[16:08] one has an index of
+[16:10] 5.4. Uh more detailed analysis with with
+[16:13] more data will show you 5.5, but
+[16:16] basically that's where you get your
+[16:17] around 5 a half. It also has a high R
+[16:21] squared. Gold is doing a little bit
+[16:23] better than the dollar. And that's why
+[16:25] the the power law is a little bit less
+[16:28] steep, but it's very strong relative
+[16:31] performance. If time increases by a
+[16:33] factor of two, Bitcoin measured in gold
+[16:36] ounces increases by a factor of
+[16:39] 42. And the projection is that you would
+[16:42] reach something like 400 ounces, which
+[16:44] is called a good delivery bar in the in
+[16:46] the world of, you know, gold bars
+[16:48] stacked up by central banks and and
+[16:51] government treasuries. and uh you know
+[16:55] uh very large hedge funds you would
+[16:59] reach that level by 2033 and that would
+[17:02] correspond
+[17:03] to the equivalent of 8 billion ounces of
+[17:07] gold which exceeds all the gold on earth
+[17:09] which is about 6 billion ounces. So by
+[17:12] 2033 we can project that bitcoin may
+[17:15] surpass uh the market cap of of gold
+[17:19] which is not that far away. Super
+[17:21] interesting. Also, yeah, I I love also
+[17:26] you you call it bubbles. Um I I usually
+[17:29] call it volatility uh of of the price. I
+[17:32] think that's what you mean the the the
+[17:34] upbursts of of a price that we had like
+[17:37] 2017 the the 2021
+[17:40] uh and with that going down over time
+[17:42] and it's clearly is showing over the
+[17:44] last 16 years that those bubbles are
+[17:47] going down. also the yearly growth rate
+[17:50] of of Bitcoin with with that is coming
+[17:52] down right uh to first order the yearly
+[17:55] growth rate is equal to the power law
+[17:57] index over the age now there's a
+[17:58] compounding and there are second order
+[18:00] terms in the expansion but uh so right
+[18:03] now it's about 42% is the trend for the
+[18:06] power law and it comes down you know a
+[18:10] couple of percent
+[18:12] uh each year in other words as the age
+[18:17] doubles from here instead of being 42%
+[18:20] it might be 20
+[18:22] 21%. And that would be at age 32 rather
+[18:25] than age
+[18:26] 16. That's still very high, right? So
+[18:28] for the next 20 years,
+[18:31] uh we're still going to be at least in
+[18:33] the high double digits and for most of
+[18:36] that we're time we're going to be over
+[18:39] 20%. And I think between now and 2045,
+[18:41] it's something like averaging 29%
+[18:45] compounded, but it's front weighted,
+[18:46] which we like. We like you being
+[18:49] weighted towards the front
+[18:51] end. The the biggest question I always
+[18:53] get with the power law, the power law in
+[18:56] US dollar, not the power law in in gold,
+[18:58] which is also the reason I like the one
+[19:01] in gold
+[19:02] more. What if we hit hyperinflation?
+[19:04] Like what if what if um the the the
+[19:08] supply is
+[19:09] just outgrowing a lot and and we hit uh
+[19:13] events that we already hit like how how
+[19:16] is the power looking in the Argentine
+[19:19] peso or the Turkish lera and stuff like
+[19:21] that, right? Well, we don't we don't
+[19:25] really bother with that because uh what
+[19:28] you're doing is you're measuring Bitcoin
+[19:29] against other investable assets, right?
+[19:32] So, do you can invest in something
+[19:36] that's denominated in fiat? Um, I
+[19:39] suppose you could look at the stock
+[19:42] market in Turkey and in the stock market
+[19:45] in Argentina. I haven't done that. They
+[19:48] do somewhat keep up with the inflation.
+[19:51] Uh so that might be one way to do the
+[19:54] comparison. But clearly if there's an
+[19:56] exponential decay in the underlying
+[20:00] uh denominator that there could be some
+[20:02] issue and this is why we want to compare
+[20:04] it to the other sort of hardest things
+[20:07] around. Uh gold being harder than the
+[20:10] dollar but the dollar
+[20:12] being at least until recently you know
+[20:14] one of the hardest currencies around.
+[20:17] So against the euro, the yen, you know,
+[20:20] it works well. Is it is it fair to say
+[20:22] that that the power law captures the
+[20:24] growth of the asset but not the
+[20:27] devaluation of the underlying other
+[20:30] asset like the US dollar. So it it
+[20:33] captures the the how Bitcoin is growing
+[20:36] in in value because there are more users
+[20:38] coming in. the users are are getting
+[20:40] more into Bitcoin and and and less the
+[20:44] the devaluation of of the un under
+[20:46] underlying uh uh asset like the US
+[20:50] dollar. You know the the devaluation of
+[20:52] the US dollar has averaged 7%. If you
+[20:55] talk about money
+[20:56] supply so roughly it's losing a factor
+[21:00] of two per decade. uh money supply
+[21:03] growth M2 over long periods of time
+[21:06] grows at about 7%. And it's not that
+[21:09] different from the
+[21:11] OECD M3 which is all of the 38 or so
+[21:16] developed countries in the OECD
+[21:18] organization that also grows at at
+[21:20] roughly that rate. Um you know 42% is a
+[21:25] lot larger than 7% and that's that's why
+[21:27] we don't see it uh very much at all.
+[21:32] And you you have you can do
+[21:34] regressions. I've done regressions
+[21:37] recently uh comparing including the a
+[21:40] term for M3. And what you find is that
+[21:47] uh for the parallel core it doesn't make
+[21:49] a difference. You seem you notice it in
+[21:51] the bubbles but you don't notice that in
+[21:54] the parallel core the waiting of those
+[21:55] terms just drops very close to zero.
+[21:57] Interesting. Makes sense.
+[22:00] Perfect. Okay. Um, EMH is the efficient
+[22:04] market hypothesis and that's the idea
+[22:07] that a stock market behaves like a
+[22:10] random walk. Now, that's a random walk
+[22:12] around exponential growth because on
+[22:14] average the US stock market grows at for
+[22:17] the S&P something like 10% on average
+[22:21] compounded a little bit higher for for
+[22:24] tech stocks for
+[22:26] NASDAQ. But then you know it economists
+[22:29] and financial professionals will often
+[22:32] model that as logn normal distribution
+[22:35] or gausian and say that there's
+[22:36] reversion to mean and over long periods
+[22:39] of time there is reversion to mean and
+[22:41] it it behaves like that exponential. Of
+[22:43] course you can have very severe events
+[22:46] that break log normal. You get these
+[22:49] black swans things go five six seven
+[22:51] sigma right when you have huge market
+[22:55] crashes. Eventually you do get
+[22:58] reversion. Bitcoin is not market
+[23:00] efficient at all. And somebody four
+[23:03] years ago did a literature review and
+[23:06] they found 25 different studies of
+[23:10] Bitcoin and there were some other
+[23:12] cryptos studied but always bitcoin was
+[23:14] part of it. There are many different
+[23:16] methods and this quote shows a list of
+[23:19] all the methods that have been used. Uh
+[23:23] personally I've used dtrended
+[23:24] fluctuation analysis. is the Hurst
+[23:26] exponent test which I'm going to present
+[23:29] to you the OS model which we've just
+[23:32] shown you along with QR quantitative the
+[23:36] augmented dicky filler test we've done
+[23:38] but right now I'm going to show you the
+[23:40] Hurst exponent test
+[23:43] now 20 again 20 of 25 studies said no
+[23:48] Bitcoin didn't does not follow this kind
+[23:51] of reversion to mean random walk but
+[23:53] they all missed the most significant
+[23:55] thing which is the power law theory
+[23:58] because what they did is they looked at
+[23:59] prices in correlation with other assets
+[24:02] and they just looked at price variation
+[24:04] from you know one day to the next or one
+[24:07] week to the next and they looked at
+[24:09] percentage changes or logarithmic
+[24:11] changes in the in the price. Normally
+[24:13] when you do these kinds of tests you
+[24:15] drend but they're just dtrending by that
+[24:18] sort of exponential typical rise that
+[24:21] you see in the into money supply or in
+[24:25] stocks. They're not dtrending by a paral
+[24:27] law. Now let's go on and look at Hurst
+[24:29] exponents and just a setup for what that
+[24:32] is. It was first published in
+[24:35] 1951 by a British hydraologist. He was
+[24:38] studying the long-term storage capacity
+[24:41] of Nile
+[24:42] River. But uh it's an interesting test
+[24:45] statistical technique and it's been used
+[24:47] in hydrarology and environmental
+[24:49] science. It's been used in physics and
+[24:52] complex systems analysis, neuroscience,
+[24:55] image processing, network, internet
+[24:57] traffic
+[24:58] analysis, social sciences and finance.
+[25:01] So you can see how it might be relevant
+[25:03] to Bitcoin where we have, you know, a
+[25:05] network, we have a social science
+[25:08] component, we have finance component,
+[25:10] and it's a power law. It's a little bit
+[25:13] different power law than what I've just
+[25:16] shown you, but I'll I'll show you the
+[25:17] definition. What you do is you take uh
+[25:21] the residuals. So you fit like a mean or
+[25:24] something some trend and then you take
+[25:27] the residuals from the
+[25:29] trend and then you you create these
+[25:31] windows of different size within your
+[25:33] overall data set. So you look at
+[25:35] portions of the data set and you look at
+[25:38] the maximal range.
+[25:41] In order to get that, you do all the
+[25:42] partial sums within your window and then
+[25:45] you find the max and the minimum from
+[25:47] all those partial sums. That's called R,
+[25:50] the range. You take the difference of
+[25:51] the max and the minimum. You take the
+[25:54] standard deviation within that window
+[25:57] size. And then what you find is that the
+[25:59] ratio of the range to the standard
+[26:02] deviation has a parallel behavior where
+[26:06] it depends on the size of the
+[26:08] window time and growth with some
+[26:11] exponent and it's sublinear growth. So
+[26:14] the hearse exponent is normally between
+[26:16] 0 and
+[26:17] one and if it's 0.5 it would be a random
+[26:20] walk and if it's less than 0.5 the
+[26:24] closer it is to zero it's mean reversion
+[26:26] behavior. this, you know,
+[26:29] um, kind of more quickly going back to
+[26:32] the mean than a random walk would. If
+[26:35] it's above 0.5, it's trending. And the
+[26:38] more above 0.5, the more it's trending.
+[26:42] So the idea is that there's some memory
+[26:43] in there and then it's an inefficient
+[26:46] market. Um so the next slide is a study
+[26:50] that
+[26:51] uh was done by by a different author was
+[26:55] published two years ago in the central
+[26:57] European economic
+[26:59] journal is Bitcoin and emerging
+[27:02] market and they used this method with
+[27:05] daily prices but they excluded weekends
+[27:08] because they were comparing Bitcoin to
+[27:10] emerging market stocks and the red line
+[27:13] is what they found for Bitcoin's
+[27:15] behavior. The blue is for the emerging
+[27:17] market. So they did find persistence. It
+[27:20] was always above 0.5. It never reached
+[27:24] 75. So they found that uh you know it's
+[27:28] not efficient. It does does have
+[27:30] persistence. But they use the usual
+[27:32] dtrending method which is just looking
+[27:35] at the ratio of the price from one day
+[27:38] to the
+[27:39] next and then taking the natural log of
+[27:42] that and and using that as the
+[27:44] definition of the residual. So this
+[27:46] ignores the fundamental parallel nature
+[27:49] of
+[27:49] Bitcoin. So I thought well I should redo
+[27:52] this understanding that there's a
+[27:55] parallel and I also used a much broader
+[27:58] interval. They they used about
+[28:02] uh well they've got eight years of data.
+[28:04] It's not bad. I used all the data in the
+[28:08] full price history when we had price
+[28:11] discovery
+[28:14] basically you know kicked off pretty
+[28:16] well which was the middle of 2010 all
+[28:19] the way through you know the end of 2024
+[28:21] and into 2025. So that's that's the full
+[28:24] price history. I looked at it both with
+[28:26] weekly intervals and with daily
+[28:29] intervals. But first I took out the
+[28:32] power law. So I did quantile regression.
+[28:34] I took the median level which is the 0.5
+[28:37] level. I drended using the power law and
+[28:40] then I took you know the log residuals
+[28:43] relative to that underlying
+[28:45] parallel and with both weekly and full
+[28:48] price history daily
+[28:51] uh we get around 0.9 or higher. And I
+[28:54] did this for both fiat and gold. So in
+[28:57] this
+[28:58] chart, the daily in fiat is green with a
+[29:03] D and a cross. And in gold, it's, you
+[29:06] know, gold color. And you can see it's
+[29:09] very close to one. It's 0.97 and 0.96
+[29:13] for fiat and for gold respectively with
+[29:16] over 5,000 data points.
+[29:19] And even with the weekly with 750 data
+[29:22] points, we got
+[29:25] 087.89 for fiat and gold
+[29:28] respectively. And this method requires a
+[29:30] lot of data. You want to have ideally
+[29:33] thousands of data points. So the the
+[29:35] daily one is we can put uh more
+[29:38] confidence in. This is very strong
+[29:41] persistence. You just you just don't see
+[29:43] this in financial data
+[29:45] uh with numbers so far above 75 which is
+[29:49] very clearly trending and and really
+[29:52] around 0.9 or
+[29:54] higher and to validate the whole method
+[29:58] you know I looked at spy I used an
+[30:01] exponential
+[30:02] dtrend and I used that DFA technique
+[30:05] that's mentioned uh in one of the
+[30:08] previous slides and the result for 10
+[30:10] years of spy I showed strong mean
+[30:13] reversion with H of only.18 which
+[30:16] wouldn't be on even on the chart here
+[30:17] because this chart starts at 0.05 which
+[30:19] is random so it would be off the bottom
+[30:22] of the chart. Okay. Then we wanted to
+[30:24] look at the time behavior. How does this
+[30:26] exhurst exponent evolve with
+[30:29] time? And now I've got uh a plot which
+[30:33] is log linear and it's showing the
+[30:35] linear age from age 2 to age 16.
+[30:39] And in order to get enough data, I had
+[30:41] to use hourly
+[30:43] data. And
+[30:45] also there's no
+[30:48] uh backward-looking correlation here or
+[30:52] analysis. What I did
+[30:55] is I kept repeating the quantile
+[30:58] regression. So it only included all the
+[31:00] data up to a given time. So you know if
+[31:03] I'm starting at at year two or three, I
+[31:05] only do the quantile regression for data
+[31:07] up to that time.
+[31:10] And then I calculate the hearse exponent
+[31:12] within a one-year window and then I step
+[31:14] by one quarter quarter of a year. So
+[31:17] I've got data points at each quarter of
+[31:19] a year. So those are you know you've got
+[31:22] the price is the blue
+[31:24] line and that's the axis on the right
+[31:27] hand side the y ais. The hurst exponent
+[31:30] is the left hand side y ais. You can see
+[31:33] it's all above 0.9 for the entire price
+[31:36] history.
+[31:38] uh with using these one-year windows. So
+[31:40] again, it's a very inefficient market or
+[31:44] really very
+[31:46] persistent power law style price
+[31:48] behavior because that's the underlying
+[31:50] assumption. The power law it's slowly
+[31:53] coming down from being, you know, around
+[31:56] one to around 0.95 now. And I've also
+[32:01] colorcoded it by whether we're in the
+[32:03] parallel core or in the bubble or in the
+[32:06] transition
+[32:07] zone. The parallel core is the lowest
+[32:11] 40% of the
+[32:13] residuals and the bubble is the top 40%
+[32:16] of the
+[32:17] residuals relative to the trend. And the
+[32:20] transition, which is marked in yellow,
+[32:23] is the middle 20%. And I repeated this
+[32:25] with even finer resolution. Again,
+[32:28] they're one-year windows, but I used 1/8
+[32:30] of a year time
+[32:32] step. And we see the same kind of
+[32:36] result. Um, and the other interesting
+[32:39] thing that you can see here is that uh
+[32:42] you see peaks in the Hurst
+[32:45] exponent. And those peaks are occurring
+[32:49] a year to a year and a about a year and
+[32:51] a quarter before the price peak. And
+[32:53] I've got arrows that are indicating
+[32:55] this. So, we've got three or four peaks
+[32:59] in the Hurst exponent and then the
+[33:01] arrows showing the price peaks in
+[33:05] Bitcoin, you know, a year and a quarter
+[33:07] later
+[33:08] roughly. And uh the last peak was
+[33:13] tentatively
+[33:15] uh sometime
+[33:17] in the middle of last
+[33:20] year and it hasn't gone on to you know
+[33:23] go above that since. If you reject that
+[33:26] forward, it it takes us really to the
+[33:28] end of
+[33:30] 2025 for a possible correlation with the
+[33:33] price peak in Bitcoin. I also took the
+[33:36] residuals and randomized them
+[33:38] all as a validation test and I got an H
+[33:42] of
+[33:43] 0.51. So it proves the methodology by
+[33:46] randomizing all the all these residuals
+[33:49] you got straight reversion
+[33:52] deed. This is a table of when the Hurst
+[33:55] peaks occurred
+[33:58] uh and the corresponding bubble. So for
+[34:01] the 2013 bubble, the peak was a year
+[34:03] earlier in June. The Bitcoin peak was
+[34:06] 2013 in December. 2017 it was a year
+[34:10] earlier in
+[34:12] September. And the Bitcoin peak again
+[34:14] was in December of
+[34:16] 2017. for
+[34:18] 2021. It was over a year earlier in mid
+[34:22] 2019. The Bitcoin peak is
+[34:25] 2021 April. Now, that's a double peak.
+[34:29] And my argument is that the first peak
+[34:31] is the true peak because it had the
+[34:33] largest residual away from the power
+[34:34] law. The second peak looks higher, but
+[34:37] the power law trend price was higher as
+[34:40] well. And so, in terms of residuals, it
+[34:42] was it was not higher. And then the
+[34:45] interval from the Hurst peak to the
+[34:47] Bitcoin peak is shown in
+[34:49] days. And the average of that is 546
+[34:52] days, which is a year and a half. And uh
+[34:55] the the most recent Hurst peak was in
+[34:57] June of 2024 at the beginning of that
+[35:00] month. So if you project the average
+[35:03] forward, it would be December of 2025.
+[35:05] Let's take a break for a moment and
+[35:07] appreciate the beauty that Coin
+[35:10] Vigilante has made with the Bitcoin
+[35:12] watches. Those watches are the most
+[35:15] amazing, the most elegant way of showing
+[35:18] that you are a true Bitcoiner. And Coin
+[35:21] Vigilante just dropped a completely new
+[35:24] and amazing Genesis edition of their
+[35:27] watch collections. You have the date of
+[35:30] the first ever minded Bitcoin block in
+[35:33] there. And of course, also the block
+[35:35] height and which epoch we are currently
+[35:38] in. I love the level of detail they put
+[35:41] in in this masterpiece. Make sure to
+[35:44] check out those amazing coin vigilante
+[35:46] time pieces down in the descriptions. I
+[35:49] love those watches so so much. And now
+[35:52] if you have Bitcoin, I really do hope
+[35:55] that you don't have it on exchange. But
+[35:57] if you do have it on exchange, I have
+[35:59] two ways for you to deal with that. The
+[36:01] first way is you put it on a hardware
+[36:03] wallet. That's the entry for you to get
+[36:06] into the self-custody game. I recommend
+[36:09] BitBox Bitcoin only edition. For that,
+[36:12] it's a super simple and secure way. And
+[36:15] if you check out the link in the
+[36:16] description, you even get 5% off if you
+[36:19] use the code Robin. And the second way
+[36:22] is the Bitcoin way. The Bitcoin way is
+[36:25] your all-in partner in terms of how to
+[36:28] get the most out of your sovereignty.
+[36:31] They will personalize for you a
+[36:34] self-custody setup that is perfect for
+[36:36] your individual situation. They will
+[36:39] show you how you can secure your own
+[36:42] devices. Securing your Bitcoin is not
+[36:44] enough. You also have to keep all your
+[36:46] devices secure. One topic that is
+[36:48] overlooked often is the inheritance
+[36:51] plan. What happens with your Bitcoin
+[36:54] once you are no longer here? Do you have
+[36:56] a plan for that in place already? And
+[36:59] last but not least, if you're in a
+[37:00] jurisdictions where you don't feel safe,
+[37:03] it's better to get a plan B. For all
+[37:05] that, head over to the
+[37:09] bitcoinway.com/roin to get a 30inut free
+[37:12] call. And just a quick side note, I will
+[37:15] be for the first time ever speaking at
+[37:17] the Bitcoin Prague event in June. It
+[37:20] will be absolutely legendary and I'm
+[37:23] really looking forward to seeing all of
+[37:25] you there. You can get your ticket in
+[37:27] the link down in the description of
+[37:30] Bitcoin Prague. And very important, use
+[37:32] code Robin to get 10% off your ticket.
+[37:36] I'm really looking forward seeing you
+[37:37] there. We'll see. The next slide is to
+[37:40] show more clearly these zones. A bubble
+[37:44] zone, accumulation zone, it's called
+[37:47] here. It's the core power law. And then
+[37:49] these transition zones.
+[37:53] uh these are weekly data
+[37:57] points. These residuals are normalized.
+[38:00] So I took uh cuz I was trying to kind of
+[38:03] normalize across the different bubbles
+[38:05] because the bubbles are going down. And
+[38:06] even with the normalization, you still
+[38:08] see kind of a downward
+[38:11] trend. But it's it's the the
+[38:14] residuals from the power law in
+[38:17] logarithmic terms
+[38:20] uh normalized to the
+[38:22] peaks. And you see the the power law
+[38:25] support in the core with the green
+[38:29] dots. You see the transitions with the
+[38:31] yellow dots. And then you see the bubble
+[38:33] areas in the red dots. And it's
+[38:36] remarkable that once it moves into a
+[38:39] bubble zone, it just stays there. It
+[38:40] doesn't go back and forth into the
+[38:42] yellow zone or the green zone. It just
+[38:44] stays there until the whole bubble has
+[38:47] played out and then it crosses into the
+[38:50] yellow transition zone. And then it goes
+[38:52] back to the core, what you might call
+[38:54] the accumulation zone, and then on to
+[38:57] the next transition zone, and then back
+[39:00] to another
+[39:01] peak, and then down. And then we had a a
+[39:04] kind of small bubble, kind of a fake out
+[39:07] that didn't sustain very well. And then
+[39:09] we went back through transition the
+[39:11] core. And then we go to the next one,
+[39:13] which is a double bubble. And that's
+[39:17] 2021. And then on the very right hand
+[39:19] side of the chart, you see a few red
+[39:23] dots. And that was uh what happened
+[39:26] around the election and and the
+[39:27] excitement around that and the strategic
+[39:29] Bitcoin reserve. and that did not
+[39:32] sustain as we know the the price came
+[39:34] back in in the transition zone where it
+[39:36] is
+[39:37] now. So there actually two charts here.
+[39:39] One is the fiat chart, the other is the
+[39:41] gold chart. They look very
+[39:44] similar, but it's worth noting that the
+[39:47] very right hand side of the gold chart,
+[39:49] it went into the transition zone. It
+[39:51] never went into the bubble zone. So we
+[39:54] did not get confirmation of this from
+[39:56] the gold chart. By the way, this
+[39:58] technique is called hidden markoff
+[39:59] modeling. And what it does is it kind of
+[40:02] uh tries to analyze which of the zones
+[40:06] it's in. And so it will tend to stay in
+[40:08] that zone a little longer than if you
+[40:11] just did a strict cut off and said,
+[40:12] "Okay, I'm going to take the upper 40%."
+[40:15] But it maps pretty well into just
+[40:17] saying, "Well, I'll just take the upper
+[40:18] 40%." They don't look all that too, you
+[40:21] know, all that very different. And this
+[40:23] technique is used in handwriting
+[40:25] recognition and speech analysis. It's
+[40:28] used in DNA sequencing and of course
+[40:30] it's used in financial time series
+[40:32] particularly to look for regime
+[40:34] switching between low volatility and
+[40:36] high volatility regimes. Certainly our
+[40:39] bubbles are high volatility regimes. And
+[40:41] here's what chat GPT
+[40:44] uh has as an interpretation of something
+[40:47] called the transition matrix which shows
+[40:49] how easily you move from one zone to the
+[40:52] other. It says the bubbles are highly
+[40:56] persistent. 98% chance that Bitcoin
+[40:58] would stay in the bubble once it's
+[41:00] there. A low probability of reverting to
+[41:03] mid, you know, as you go from one week
+[41:05] to the
+[41:06] next. Slow transitions rarely jump
+[41:09] between extreme
+[41:11] states and no direct high to low
+[41:13] transitions. It never moves from green
+[41:15] to red directly. It always goes through
+[41:17] these transition zones first. And that
+[41:19] suggests gradual cycles rather than
+[41:22] sudden crashes. And we know our bubbles
+[41:23] play out for longer than a year. They
+[41:26] tend to be almost a year up and a year
+[41:29] down. And then we've got these mid-
+[41:31] regimes as transition
+[41:33] zones. Bitcoin in the mid-range. State
+[41:35] one is more likely to stay there. And
+[41:38] when transitioning, it's slightly more
+[41:39] likely to fall back to low than surge
+[41:41] into high.
+[41:43] So momentum from mid to high is weak
+[41:46] which is kind of interesting on
+[41:47] liquidity analysis that I've done
+[41:49] separately but don't have time to show
+[41:52] here but it shows that liquidity growth
+[41:55] can kick off bubbles but it doesn't
+[41:57] sustain them. It takes more it takes
+[41:59] really momentum of players in the market
+[42:03] um coming in. My conclusion from all
+[42:06] this is that God candles aren't really a
+[42:08] thing. That you get, you know,
+[42:10] transitional behavior and that that
+[42:12] behavior follows through and the bubbles
+[42:14] go and eventually you get runaway and
+[42:17] you get some very big candles at the
+[42:19] end, but then those can collapse pretty
+[42:21] quickly. It's super interesting. So,
+[42:23] basically what I I got from that is that
+[42:26] we haven't really seen a bubble this
+[42:29] this time around. it was kind of a a
+[42:31] fake bubble, small a small smalish one
+[42:34] and that it's likely to come I mean
+[42:37] obviously that it's not 100% but it's
+[42:41] likely to come uh December 2025 so end
+[42:43] of 2025. This god has a super
+[42:46] interesting discussion of of a god
+[42:48] candle. I mean I think Samson Mau is
+[42:51] probably the one that uh popularized it
+[42:53] the most. I think uh this god kind of
+[42:56] like oh like we I think he even is is
+[42:59] famous for saying before we hit the 100k
+[43:02] he said oh no when when the ETFs ETFs
+[43:06] came he said if the ETFs come we will go
+[43:10] to a million very quickly obviously that
+[43:12] did not happen um and it was also very
+[43:15] unlikely but it's it's interesting how
+[43:18] there are people in Bitcoin that say oh
+[43:21] yeah like bit Bitcoin will have that
+[43:23] gradual moment moment and yes maybe
+[43:26] eventually in the US dollar it will
+[43:28] break to the upside if the US dollar
+[43:30] just disappears but then this then it
+[43:33] does not make sense to measure it in the
+[43:34] US dollar and then there are people oh
+[43:37] like we will hit that moment and all of
+[43:38] the sudden bitcoin will will grow which
+[43:41] does not make a whole lot of sense to me
+[43:44] because like what event has to happen
+[43:47] that everyone all of the sudden gets
+[43:49] bitcoin I I I've seen it in in my own
+[43:53] family. I evangelize since what is it
+[43:56] almost 5 years and the people closest to
+[43:59] me get it the best uh and they have
+[44:01] Bitcoin but the more I go outside
+[44:05] uh in in the and I have a really big
+[44:07] family the further I go outside in the
+[44:10] family even though I evangelize for some
+[44:13] five years and I really drop like hints
+[44:15] and and and this is that and this and
+[44:17] that they still don't like we maybe
+[44:20] upgraded our communications but we
+[44:23] didn't upgrade the human brain and we
+[44:25] need time to grasp it and I needed 3
+[44:27] years to go over that Bitcoin is a scam.
+[44:30] So I do like the gradual approach more
+[44:34] and it's interesting and it's good to
+[44:37] see data proof of that God candles
+[44:41] probably aren't the thing. Yes. Well,
+[44:43] you know, uh, moderate exponentials can
+[44:47] sustain over long periods of time, and
+[44:48] that applies to stock market and dollar
+[44:50] and so forth, but very rapid
+[44:53] exponentials cannot sustain. They're
+[44:55] sort of mathematically
+[44:58] unstable. And so, you know, in physics,
+[45:01] we see them mostly in decay,
+[45:04] um, not in rises. And so, when we get
+[45:08] this exponential runaway, it's got the
+[45:10] seeds of its own decay built in.
+[45:13] The power law is persistent. It goes on
+[45:16] and on and it can persist much better
+[45:18] than an exponential can and that's a
+[45:21] good thing. And volatility coming down
+[45:24] is is also a good thing because it makes
+[45:26] it more acceptable to this, you know,
+[45:29] broader community, right? Uh people are
+[45:31] afraid of Bitcoin because of its
+[45:34] volatility and it is coming down at uh
+[45:38] you know, not an insignificant rate.
+[45:40] It's actually dropping as a power law
+[45:42] almost as the inverse of of its age.
+[45:44] Okay. Um it turns out that as we know
+[45:49] Bitcoin has a lot of skew you know skew
+[45:51] to the upside right which we call the
+[45:53] right
+[45:54] tail. And it turns out that you cannot
+[45:57] fit it well with a single Gaussian. You
+[45:59] cannot fit it well with a gamma function
+[46:02] which would give you a right tail. But a
+[46:04] gamma function will not fit both the
+[46:07] left peak here and the gap in between
+[46:10] the two peaks here. But it a double
+[46:13] Gaussian will fit quite well. So the
+[46:17] green one is the power law core. That's
+[46:19] the first
+[46:21] Gaussian. It's got a mean that's
+[46:23] slightly below zero. These are the log
+[46:25] 10 of the residuals on the x- axis and
+[46:28] then the you know the frequency of the
+[46:31] observation on the y ais.
+[46:34] and it's much narrower, so it's got less
+[46:38] volatility, right? And then the red
+[46:40] line, the second Gaussian, is the one
+[46:42] that applies to the
+[46:44] bubbles and its mean is much higher.
+[46:47] It's 31, which is a factor of two
+[46:50] because it's log 10 and 10 the.3 is a
+[46:53] factor two above the zero line. And the
+[46:56] difference between these two, you know,
+[46:59] dash vertical lines is is 044 in the
+[47:02] log. That's a factor 2 and a half. So
+[47:04] that's a very significant price
+[47:06] difference. And the second Gaussian is
+[47:09] much wider. It's got a volatility that's
+[47:11] three times higher. A standard deviation
+[47:14] that's.3 in the log instead of
+[47:17] 0.1. The big one is for fiat. The small
+[47:20] one's for gold. You see it for gold as
+[47:22] well. For some reason, it chat didn't
+[47:25] draw the two curves the same way, but
+[47:27] it's it's two Gaussians again and very
+[47:31] good separation. Separation you see with
+[47:33] the two blue dashed lines, you know,
+[47:36] it's.5 there, which is a factor three in
+[47:40] price and almost equal weights in the
+[47:42] two. So, that's f further validation of
+[47:45] parallel core plus uh the bubbles. Now
+[47:50] if there's a parallel core what you can
+[47:52] do is you can redo your regressions
+[47:55] by removing half the data. So we take
+[47:59] just the first
+[48:01] Gaussian which was defined by doing a
+[48:04] quantile regression and then taking
+[48:06] residuals and using the median quantile
+[48:10] regression. And now we repeat the
+[48:12] regression on just half the data which
+[48:14] is the the data that was below the line
+[48:16] in the first one. And when we do that we
+[48:19] get very very tight
+[48:21] relationship. This extends over the full
+[48:24] history. And now this is regressions
+[48:27] both ordinary le square and the
+[48:29] different quantile levels. And the one
+[48:31] that's most interesting is 0.5 the
+[48:34] yellow line. But you can see
+[48:36] how you know how close they are. There's
+[48:39] almost no dispersion. And the R squares
+[48:42] are incredibly high. They're N98
+[48:45] and.997. And the mean power law index is
+[48:48] is somewhat higher than you get when you
+[48:50] regress all the data including the
+[48:52] bubbles. It's about
+[48:55] 5.9 with a very tight range of the
+[48:57] slopes for these seven different uh
+[49:00] quantile functions. So the the idea in
+[49:04] terms of a physics analogy is uh if you
+[49:08] think about fluid flow, you have laminer
+[49:10] flow and turbulent
+[49:11] flow and you have this in in your in
+[49:14] your heart uh and in the aorta that
+[49:16] comes out of your heart is the largest
+[49:19] vessel and you know from one heartbeat
+[49:23] to the next. It moves from laminar flow
+[49:25] into turbulent flow and it's
+[49:27] transitional and if you're fortunate it
+[49:29] doesn't get too turbulent. If it's too
+[49:31] turbulent, that's a sign that you've got
+[49:32] heart disease because you've got some
+[49:34] obstruction in your
+[49:36] aorta. But it does get more chaotic. Um,
+[49:40] so in laminer flow, it's stable and
+[49:42] ordered and that refers to the paral
+[49:46] trend. That's the core and the
+[49:48] transition zone. It's starting to, you
+[49:51] know, have some increased volatility,
+[49:53] but it's not fully turbulent.
+[49:56] And the you see the heartbeat uh the
+[49:59] vessel diagram there and turbulent flow
+[50:02] it's it's higher energy more
+[50:05] chaotic and you you're growing
+[50:07] exponentially above the power law. So
+[50:09] there's a correlation between laminer is
+[50:12] the green color yellow for transitional
+[50:15] red for
+[50:16] turbulent that's shown in terms of these
+[50:18] residuals with these sharp bubbles with
+[50:21] respect to medium. And then I've shown
+[50:23] the the one sigma plus or minus for the
+[50:27] each of those separate zones. So those
+[50:29] are the bands that you see. But it's
+[50:31] amazing how well separated there are.
+[50:33] The transition regions are are pretty
+[50:35] small and pretty sharp. Uh these are
+[50:39] zcores for the bubble phase which are
+[50:41] just the number of standard deviations.
+[50:43] So here I've thrown away the other data
+[50:44] and we're only looking at the
+[50:46] bubbles. And so they're mostly positive
+[50:49] zcores from 0 to three and then you know
+[50:53] down to 2 and 1/2 and then down to two
+[50:55] and then down to
+[50:58] 1.0. Uh so we are seeing that the
+[51:01] volatility has has clearly been
+[51:03] dropping. Uh the zero line is a big jump
+[51:07] in price already. It's it's a 2.75 times
+[51:10] higher than the core power law price.
+[51:12] And then we're seeing, you know, a
+[51:14] little bit of bubble that that happened
+[51:18] in earlier in in uh 2024 with the ETF
+[51:22] excitement that did not sustain. It's
+[51:25] it's also interesting that the rises are
+[51:27] a little bit sharper than the falls on
+[51:28] these. So the very sharp rise and it
+[51:30] takes longer for the reversion. People
+[51:34] are a little bit denial in the in the
+[51:36] bare market phase. This is another way
+[51:37] of looking at these um showing of the
+[51:41] linear deviation in percentage
+[51:43] terms which initially could be as high
+[51:46] as
+[51:47] 800%. And then you know 600 and then 400
+[51:50] and then down to 200% for the most
+[51:53] recent
+[51:54] bubbles and also showing the the full
+[51:58] bubble period is shaded. And we see that
+[52:00] the bubbles got a little
+[52:02] wider particularly in comparison to the
+[52:05] first bubble. And
+[52:08] uh this is showing the top 40%. So it's
+[52:11] the 0.6 quantile and above. And now what
+[52:14] we can do is we can look at how much
+[52:15] energy is in that
+[52:17] bubble. And I just define the energy as
+[52:19] the percentage. It's the integral under
+[52:22] the curve. So it's the energy
+[52:24] uh integrated over the time period of
+[52:27] the bubble. And then you take the
+[52:29] average of that over the bubble and you
+[52:33] define something called the
+[52:35] power. And if you look at the Bitcoin
+[52:38] power in percentage per
+[52:40] year and plot it against market
+[52:44] cap, it falls off as a power law. And
+[52:47] with a very high R squared. Now, we've
+[52:48] only got four data
+[52:50] points. It it's not a a steep power law.
+[52:53] It's it's a mild power law. So it falls
+[52:56] from in these units percent per year
+[52:59] from 300 down to
+[53:03] uh about
+[53:05] 80 projected to go to 60% by the year
+[53:10] 2031. As market cap though has grown you
+[53:13] know from a tenth of a
+[53:16] billion to you know
+[53:19] 1.6 1.7 trillion today.
+[53:24] And uh it's it turns out to be a
+[53:26] parallel to the 17th of the market cap
+[53:29] which is interesting and I'll explain
+[53:32] why. If we project this into the next
+[53:35] bubble we would say well maybe price
+[53:37] gets up to 200
+[53:39] 250,000 maximum. So it market cap might
+[53:44] be let's say 4 trillion. So that's
+[53:48] marked with the B. and uh you know will
+[53:52] that happen this year or next? We don't
+[53:53] quite know but it should fit that curve
+[53:55] recently. Now the other smaller plot is
+[53:59] the same idea but it's the Bitcoin
+[54:01] bubble power versus age. The same four
+[54:04] points but plotted against linear age.
+[54:08] And you can fit it with the reciprocal
+[54:10] or with a power law. The reciprocal has
+[54:13] this extra term which keeps it from
+[54:16] going to infinity at uh time zero.
+[54:21] But at longer times it's 1 / t. The
+[54:25] power law is slightly less steep. It's t
+[54:27] the minus.83. Both of them fit the data
+[54:30] pretty well. But the t to the minus.83
+[54:33] 83 matches
+[54:37] uh the 1 over7th power that we see in
+[54:41] the large chart because market cap goes
+[54:44] essentially is t to the 6 power
+[54:47] particularly now that the bitcoin supply
+[54:48] is barely changing. bubble power versus
+[54:51] market cap to the minus
+[54:53] 107, you know, is consistent with market
+[54:56] cap growing as the sixth power of time
+[54:59] and with the bubble power versus
+[55:02] age going as on this chart t the
+[55:06] minus.83. Now there's a reason why this
+[55:09] should be true. The average
+[55:11] power should be the reciprocal of the
+[55:13] age roughly.
+[55:16] uh price goes
+[55:18] as the kth power of time. K is about
+[55:22] 5.8. The first derivative normalized to
+[55:26] price itself is dp over p is just k * t
+[55:31] the k minus one divided by the power law
+[55:34] itself t the k. So the percentage change
+[55:37] in in price to first order is k over t
+[55:41] where k is this 5.8 8 which is the index
+[55:43] of the power law and t is the
+[55:45] age. So right now it's 5.8 divided by
+[55:48] 16.3 right and that gives you something
+[55:52] like 40%. Now the hypothesis is that for
+[55:56] the bubble power that it would be
+[55:57] proportional to the capital
+[55:59] inest but it turns out the capital inest
+[56:02] also has to be k over t. And the reason
+[56:06] is that the percentage price move is
+[56:09] equal to the market
+[56:10] multiple times the capital inest divided
+[56:13] by the number of coins. But the number
+[56:15] of coins is now more or less
+[56:18] fixed. And over long periods of time the
+[56:21] market multiple has been about 2 and a
+[56:23] half. It does change in the bubbles. It
+[56:25] goes up with FOMO and with momentum. The
+[56:29] market multiple does go up but over long
+[56:31] periods of time it's been measured to be
+[56:33] about 2 and a half. So if the number of
+[56:35] coins is roughly fixed, the capital of
+[56:38] injest should be a percentage of market
+[56:41] cap. And if the m market multiple is
+[56:44] roughly fixed, it should be proportional
+[56:46] to the price move which is proportional
+[56:48] to k overt. So the capital inest is also
+[56:51] proportional k
+[56:53] /t. And so that could drive the bubble
+[56:56] power. And so then the bubble power
+[56:58] should go as the roughly the inverse
+[57:01] of t inverse of the age. And that's what
+[57:06] we measure. Okay, this one is another
+[57:08] one that's saying no god
+[57:10] candle at least not in Q2. We're not
+[57:12] going to reach 250,000 this quarter.
+[57:16] Here we are already, you know, almost
+[57:18] onethird through
+[57:20] Q2. This is just the rolling 13week log
+[57:24] return. So this is how much can you get
+[57:27] in one quarter for Bitcoin price to go
+[57:30] up and in the last 7 years the highest
+[57:34] value you get is a factor three which is
+[57:38] 0.5 in the log
+[57:39] 10. So don't expect a factor of three
+[57:42] just in a single quarter. We we just
+[57:45] haven't you know seen it go above that
+[57:48] and and we know volatility is coming
+[57:49] down so we would not expect it to shoot
+[57:52] above that. So, if you're going to get
+[57:54] to 250,000, it's probably going to take
+[57:56] at least 6 months. All right, I'm going
+[57:58] to close
+[58:00] um with Kelly analysis. People may have
+[58:04] seen charts like this. Fidelity has a
+[58:07] very nice chart that had
+[58:10] uh 24 different asset classes. I think
+[58:14] this one has 16 asset classes, 10 years
+[58:17] of returns. About half of these asset
+[58:20] classes are
+[58:21] debt, different forms of debt, treasury
+[58:25] debt, mortgage back securities,
+[58:27] municipals, and so forth. And the rest
+[58:30] of course are stocks, you know, large
+[58:33] caps, small caps, international
+[58:35] equities, and then it's also got
+[58:37] Bitcoin. It's also got gold. It's also
+[58:40] got real estate, which is REITs. And as
+[58:43] those of us who live in the Bitcoin
+[58:45] world know, eight out of 10 years,
+[58:48] Bitcoin was the number one
+[58:51] asset. And we see that in the in the
+[58:53] dark blue right at the top. Eight out of
+[58:55] 10 years. One year Treasury debt. You
+[58:58] know, that was a terrible year. 2018,
+[59:00] Treasury debt returned 2%. Everything
+[59:02] else lost money pretty
+[59:04] much. And then in 2022,
+[59:08] uh, commodities did well. that was
+[59:11] probably a knock on effect from the
+[59:14] supply chain dislocations of of COVID
+[59:17] and then the you know the big liquidity
+[59:20] response to that. And we also know that
+[59:23] Bitcoin has bad years and had crashes in
+[59:27] 2018 and 2022 and it was the absolutely
+[59:30] worst
+[59:31] asset. And this is what's scaring away
+[59:34] your distant relatives and friends.
+[59:36] Robin is uh you know the the the big
+[59:40] crashes. But when we take it all into
+[59:42] account, we can do a Kelly analysis and
+[59:45] Bitcoin is still the superior asset
+[59:47] class. So I'll show you how we do this.
+[59:50] First of all, I threw away the eight
+[59:51] classes that have debt because none of
+[59:53] those, you know, return much. You know,
+[59:56] they're all singledigit percent. So
+[59:57] they're just not in the running. So we
+[60:00] have eight classes here. Bitcoin, broad
+[60:02] tax, small caps, large caps, real
+[60:04] estate, gold, commodities, international
+[60:07] equities. That's eight
+[60:09] classes. And in order to do a Kelly
+[60:12] analysis, the optimal Kelly fraction
+[60:15] that you want to allocate is given by
+[60:17] the equation in the upper
+[60:19] right. It's equal to this term P which
+[60:22] is the probability that you have a
+[60:24] winning
+[60:25] year relative to whatever you're
+[60:27] measuring against which could be you
+[60:30] know dollar could be euro could be gold
+[60:33] but here it's dollars and then you
+[60:36] subtract from your win rate you subtract
+[60:40] your loss rate which is 1 minus P. So if
+[60:43] you have an 80% win percentage as we did
+[60:46] with 8 out of 10 then for Bitcoin 1
+[60:48] minus P is 0.2
+[60:49] two and then you divide that by this
+[60:52] term B. Now B is all important because
+[60:55] it's the average win rate divided by the
+[60:59] average loss rate in absolute terms or
+[61:02] since losses are negative you use a
+[61:04] minus sign. So the average win over the
+[61:07] average loss you know correct it for the
+[61:09] minus sign and the loss or the absolute
+[61:11] value. So it becomes a positive number.
+[61:15] So what we've tabulated here is under P
+[61:19] for each asset
+[61:20] class the win rate which for Bitcoin was
+[61:23] 08 and even if you only take the five
+[61:26] years because you say volatility is
+[61:28] coming down and the win rate the average
+[61:31] return is less
+[61:33] uh it's still 08. Then you take the
+[61:36] average win which for Bitcoin was an
+[61:37] incredible 292% in percentage terms.
+[61:41] Everything else was pretty much in
+[61:43] double digits.
+[61:45] Bitcoin only five years it was 155%.
+[61:47] That was the
+[61:48] average. Of course the loss rates were
+[61:51] high an average of
+[61:54] minus70 or more recently you know still
+[61:57] high 5 years it was minus 68. Everything
+[62:01] else is double digits you know less than
+[62:03] 20% except for commodities a loss of
+[62:06] 23% of gold 8%. You take the ratio of W
+[62:10] to W over L. You throw away the minus
+[62:13] sign. And for Bitcoin, it's a factor of
+[62:15] four, which is great. So you're taking P
+[62:18] of 0.8
+[62:20] minus.2 / 4, which means 005 for that
+[62:25] second term, and the answer is 75. So
+[62:28] that says if you're choosing between
+[62:30] Bitcoin and cash and you're using very
+[62:33] importantly you're using a one-year
+[62:35] window for this analysis because you get
+[62:37] very different answers if you use daily,
+[62:40] weekly or quarterly or
+[62:42] monthly. But if you use a one-year
+[62:44] decision window, you get 75% allocation
+[62:47] to Bitcoin and 25% to cash. The next
+[62:50] best is broadte
+[62:53] 66 and then the next after that is large
+[62:56] caps which is similar to broadte
+[62:59] 52%
+[63:02] gold.36 commodities were negative so you
+[63:04] don't want to be in commodities and if
+[63:06] you took only 5 years of bitcoin you
+[63:08] still got
+[63:09] 7.71 so even with the returns coming
+[63:13] down the volatility came down as well
+[63:17] now you can correct for the risk-free
+[63:19] rate and I use 4%. So if you're getting
+[63:22] 4% or 5% in your treasury bills, you can
+[63:25] correct for that. And then the B ratios
+[63:28] come down a little bit. For for Bitcoin,
+[63:30] they barely come
+[63:32] down because it's so high. And the F
+[63:35] only comes down to 75. It's it's still
+[63:37] up there, but it makes it quite a
+[63:39] difference for some of the others. The
+[63:41] broadtech remains high at 6 as the
+[63:44] optimal fraction. Small caps went
+[63:47] negative once you corrected for the
+[63:48] risk-free rate. Real estate went
+[63:50] negative after you corrected for the
+[63:52] risk-free rate. Commodities went really
+[63:55] negative. You don't want to invest in
+[63:57] commodities long term. International
+[63:59] equities went negative. So unless we
+[64:01] get, you know, really severe crash of
+[64:04] the dollar, you you don't necessarily
+[64:06] want to be in those either. And Bitcoin
+[64:09] only five years of history, you still
+[64:10] got 7 now. So the top three assets here
+[64:15] were Bitcoin,
+[64:17] broadtech, and you could pick broadtech
+[64:20] or large caps. They're roughly similar.
+[64:22] So then I looked at, well, what was the
+[64:24] next best one after those? It was
+[64:26] gold. And if you took their ratios and
+[64:29] then normalized that, you said you
+[64:31] wanted to have three assets in the
+[64:32] portfolio and you had to normalize it so
+[64:34] you don't add up to more than 100%. then
+[64:38] it would be 52% Bitcoin, 42%
+[64:41] broadte, 6% gold. But if it was only
+[64:44] choosing between Bitcoin and cash, it
+[64:46] would be, you know, 70 75%
+[64:49] Bitcoin. Now, this one is just to show
+[64:52] you that if you do the analysis monthly,
+[64:54] quarterly, you know, shorter time
+[64:56] frames, you get quite different results.
+[65:00] So, the optimal F is the last row in
+[65:03] here. with a monthly analysis, it's it's
+[65:07] 24%.
+[65:08] Um, and I just took five years there
+[65:11] because I I you know, I didn't want to
+[65:14] overweight the high returns in the
+[65:16] earlier phases. Quarterly analysis, it's
+[65:19] 35%. And with Bitcoin, it's 77% if you
+[65:23] took all the data in this case. And if
+[65:26] you only took after 2018 for this
+[65:28] analysis, it was 56%.
+[65:31] But this I did earlier. So it only had
+[65:33] half the year of of 2024. So it's
+[65:36] slightly different
+[65:38] result. Okay. So but the other lesson
+[65:41] from this
+[65:43] is you know be stoic, be chill because
+[65:46] the more chill you are, the more Bitcoin
+[65:49] you should hold as a percentage of your
+[65:52] liquid capital or wealth. You can
+[65:54] justify holding higher and higher
+[65:56] percentages. So I'll end with the quote,
+[65:59] two quotes. Uh, diversification is
+[66:02] protection against ignorance. It makes
+[66:03] little sense if you know what you are
+[66:06] doing. Uh, Warren Buffett knows what
+[66:08] he's doing in stocks. He admits that he
+[66:11] doesn't know what he's doing in
+[66:14] technology. Uh, he certainly doesn't
+[66:16] know what he's doing when it comes to
+[66:18] Bitcoin. He should have sold everything
+[66:20] and gone to Bitcoin. But still this
+[66:22] quote will stand that if we believe we
+[66:26] know what we're doing and uh we have
+[66:29] some statistics to back us up. If we
+[66:32] believe the power law and the power law
+[66:34] is persistent as I've shown you with the
+[66:36] Hurst exponent and we just look at the
+[66:38] Kelly data which doesn't even assume a
+[66:40] power
+[66:41] law then uh maybe we convince ourselves
+[66:45] that we know what we're doing and
+[66:46] allocate a large percentage of our
+[66:48] wealth to
+[66:49] Bitcoin rather than to giving it to Wall
+[66:52] Street because giving it to Wall Street
+[66:55] is you know give them the money and
+[66:58] they'll make sure that they have the
+[67:00] yachts. that you don't get rich. That's
+[67:03] that's very true. I love that. Huh.
+[67:07] So, thank you very much for your
+[67:10] time. I'm going to stop sharing. I I
+[67:13] love
+[67:14] your how how you go about and explain
+[67:19] with
+[67:20] data why long-term being in
+[67:24] Bitcoin and being convinced of it and
+[67:27] also why you should study it to in order
+[67:30] to be convinced of it otherwise you will
+[67:32] never be convinced of it makes sense. I
+[67:35] I love that approach because it takes a
+[67:38] lot of
+[67:39] time. It took a lot of time for me to be
+[67:43] detached from the daily price movements
+[67:46] and now I only look at the price if I
+[67:50] see it on Twitter. I operate in Bitcoin.
+[67:54] I uh have cash flow in and out already
+[67:58] in Bitcoin for my my business.
+[68:02] So I I didn't touch a Bitcoin exchange
+[68:05] for I think like four five months now
+[68:08] because I get also income in Bitcoin and
+[68:11] then and the fear to Bitcoin split is so
+[68:14] nicely that I I don't have to exchange
+[68:16] one for the other. Actually right now I
+[68:19] that will probably change around this
+[68:21] year but this stoic approach of I'll
+[68:25] study Bitcoin very
+[68:27] deeply. I allocate accordingly to my
+[68:31] what leaf is and then I have a long time
+[68:34] horizon of 5 10 50 maybe if you're young
+[68:39] 50 years. So that that's that's great
+[68:43] and and I love that you can bring data
+[68:46] into that discussion because I always
+[68:48] just bring fundamentals and uh why I
+[68:52] believe Bitcoin is the future to the
+[68:54] discussion uh because I'm just not good
+[68:56] with with data uh as good as you
+[68:59] definitely not uh and I love that you
+[69:01] bring that that data data here and what
+[69:04] I also uh to I mean the the two main uh
+[69:08] things that people might want to know
+[69:10] about number go up technology is we we
+[69:14] might hit a quarter million uh this year
+[69:16] when we get in the bubble uh bubble um
+[69:20] uh area of of it and we're flipping gold
+[69:24] which is more importantly but not this
+[69:26] year but I think 2032 uh you said uh
+[69:30] which is I think the the real opponent
+[69:35] uh that that that will the end boss of
+[69:38] like if If someone askked me, oh like of
+[69:41] course
+[69:41] like if you just look at US dollar and
+[69:44] Bitcoin like obviously I want more
+[69:46] Bitcoin or any theater for that matter
+[69:49] but gold in Bitcoin and stocks in
+[69:51] Bitcoin and large caps in Bitcoin and
+[69:53] then all those things uh the comparison
+[69:56] is is way more interesting. So thank you
+[69:58] so much for taking the time and and and
+[70:00] and bringing data and science to to
+[70:04] Bitcoin. Yeah, it it's been my pleasure
+[70:07] and my view is gold is our friend. You
+[70:10] know, we watch gold, we see it going up
+[70:12] and we say great because we know that
+[70:14] long-term Bitcoin is parallel against
+[70:16] gold. So, absolutely, 100%. Um, I have
+[70:20] one question that I ask each and every
+[70:21] one of my guests and for returning
+[70:23] guests, I modified that question a
+[70:26] little bit. What have you learned since
+[70:29] you have last been on the show outside
+[70:31] of Bitcoin?
+[70:33] outside of
+[70:35] Bitcoin.
+[70:38] Um, everything I learn relates to
+[70:43] my two young
+[70:45] sons. So that's, you know, my life
+[70:48] revolves around two
+[70:50] poles, the family and and Bitcoin.
+[70:53] And uh you know that one of the reasons
+[70:58] I came to Bitcoin was that um I had
+[71:02] these children late in life
+[71:05] and you know I had retired already and
+[71:09] uh I wanted to stay retired
+[71:12] uh retired with Bitcoin and so it
+[71:16] was you know in the same way that Sailor
+[71:18] talks about how he had this huge
+[71:20] challenge with his company that he
+[71:23] couldn't beat the hurdle rate and they
+[71:25] couldn't compete with the large
+[71:27] companies. Well, I had my challenge
+[71:29] which was I have to raise these
+[71:31] children. I have to educate
+[71:33] them and I need something that's going
+[71:35] to perform and that really uh I was
+[71:40] already involved in Bitcoin but it
+[71:42] forced me to focus and study even
+[71:45] harder. What I've learned since then
+[71:48] from them is uh you know more recently
+[71:52] what sponges they are. The the the most
+[71:54] interesting one was when the
+[71:57] three-year-old learned about pi because
+[72:00] he saw it on the calculator and he
+[72:02] wanted to know more and he wanted to
+[72:04] write it. And so I've started teaching
+[72:08] him the Greek letters and he's just
+[72:09] absorbing them like a sponge. So he can
+[72:12] now read alpha, beta, gamma, delta,
+[72:15] epsilon, lambda, mu, pi, fi,
+[72:20] omega. And it's just uh incredible that
+[72:24] he's a has the interest in b able to do
+[72:27] that. And so I it's just um an example
+[72:33] of how, you know, my kids are teaching
+[72:37] me about how quickly they can learn and
+[72:40] what they're interested in. I love that.
+[72:44] How how old are they? Uh the older one
+[72:48] just turned eight and then this one is
+[72:50] is three. He'll be four fairly soon.
+[72:53] Amazing. I love it. I I played with kids
+[72:56] a lot uh yesterday when family
+[72:59] gatherings, but uh I'm I'm I still don't
+[73:02] have my
+[73:04] own. Uh really cool. We have uh an
+[73:07] endine as you know where the previous
+[73:09] guest is asking a question for the next
+[73:10] guest without knowing who the next guest
+[73:12] actually is and the previous guest asks
+[73:14] you an interesting question. Do you
+[73:17] think that Bitcoin is private enough?
+[73:20] And if not, will it become more private?
+[73:25] Yeah, I I think I think it will become a
+[73:28] little more private. Um but I think to
+[73:31] get maximum privacy
+[73:33] probably will involve trusted
+[73:37] custodians. Um the the solutions may
+[73:41] come from
+[73:42] that.
+[73:44] Um it's it's private enough if you're
+[73:48] careful
+[73:49] enough. And so the onus is on us to be
+[73:52] careful. And that can be careful with
+[73:56] your hardware wallet and the way you
+[74:00] back that up and the way you manage with
+[74:02] that or that can be careful enough to
+[74:05] find custodians or you know multi-IG
+[74:09] solutions that that you truly trust.
+[74:13] uh as far as the change in
+[74:17] privacy for the Bitcoin core that you
+[74:20] know the biggest challenge will will be
+[74:23] when it comes from quantum computing for
+[74:25] the
+[74:26] wallets that's probably 5 to 10 years
+[74:29] off with Shor's algorithm and there
+[74:32] already proposals to defend against that
+[74:35] but there will be a transition and and
+[74:37] people will have to work through that.
+[74:41] Yeah, that's there's a lot of
+[74:42] interesting things coming to Bitcoin, I
+[74:44] think. Um, and it won't be boring for
+[74:47] the next 5 to 10 years is is my personal
+[74:50] prediction. That's why I'll have a
+[74:51] podcast around the topic. Um, thank you
+[74:54] so much, uh, Stephen. Um, before I let
+[74:56] you go, where can people find you and
+[74:58] ask you questions if they and I
+[75:00] definitely know, uh, there will be
+[75:02] people with questions. Sure. Uh well on
+[75:05] this last slide that's showing uh
+[75:07] there's my Twixster ex Twitter handle
+[75:11] money or debt and then Substack is where
+[75:14] I put most of my
+[75:16] articles. So uh my namesubstack I love
+[75:23] really cool. Uh thank you so much
+[75:24] Stephen uh for for for coming on the
+[75:27] show. Also your your Twitter Twixster
+[75:30] will be on or in the description. So
+[75:32] people can just click on that and
+[75:34] directly come to your profile. So thank
+[75:35] you so much for taking the time and also
+[75:37] thank you so much for everyone that is
+[75:39] watching and listening for joining us
+[75:41] today. As always I'll be back tomorrow
+[75:43] with another episode. Bye-bye.
+[75:47] [Music]

@@ -1,0 +1,1668 @@
+Title: Owning 3.125 Bitcoin: The Mining Reward You Can Still Get!
+Video ID: FQ55-z3A354
+URL: https://www.youtube.com/watch?v=FQ55-z3A354
+Date Saved: 2025-06-15 11:40:32
+--------------------------------------------------
+
+[00:00] the person who found the block this time
+[00:02] appears to be using a bid ax Ultra which
+[00:04] is an old model it's like over a year
+[00:07] old and the cool thing about Bitcoin
+[00:09] mining is uh you can't fake it so you
+[00:11] can set up a pool where people
+[00:14] contribute their hash rate and the pool
+[00:16] can keep track of who sent how much hash
+[00:19] rate and there's no way to fake it it
+[00:21] still has the pool name but you're
+[00:23] you're not pooling anything like you're
+[00:24] you're completely self- Sovereign top to
+[00:27] bottom uh that in my mind is the the
+[00:29] best way to do it the first ever Public
+[00:32] Announcement of Bitcoin he said I've
+[00:35] generated a open-source peer-to-peer
+[00:38] online currency open source was in the
+[00:41] headline and I think that that's a very
+[00:43] important point for Bitcoin bid X is a
+[00:46] open-source Asic based Bitcoin miner is
+[00:50] much smaller it's 15 watts it's quiet
+[00:53] it's cool you know I've got some running
+[00:55] on the desk here next to me you probably
+[00:57] can't hear it they're super quiet it's
+[00:59] it's it's a different way of doing
+[01:01] things and in my opinion it's the right
+[01:03] way to do
+[01:04] [Music]
+[01:07] it then hi Scott how you doing
+[01:10] everything fine on your end everything
+[01:11] is doing good it's doing good it's been
+[01:13] a a crazy week so far and it's just
+[01:16] getting started but uh yeah you you told
+[01:18] me there's some uh like a second block
+[01:21] was found or something like that yes on
+[01:24] Monday uh a bidx uh found a block a
+[01:28] solar mind a block
+[01:30] which is the the second time it's
+[01:32] happened it happened uh last summer and
+[01:35] so it's been like 200 and so days uh but
+[01:40] it yeah it happened again it's it's
+[01:42] amazing it's really amazing to see it's
+[01:45] it's like uh the device costs what what
+[01:49] does the device cost1
+[01:51] EUR I mean there's no set price um kind
+[01:54] of the way bid ax works is anyone who
+[01:57] wants to make it and sell it can and
+[02:00] they also set the price so I think you
+[02:04] know uh they kind of seem to to fall in
+[02:07] the like
+[02:09] $150 category um some more some less
+[02:13] depending on what model you have the
+[02:16] person who found the block this time
+[02:18] appears to be using a Bida Ultra which
+[02:21] is an old model it's like over a year
+[02:24] old so I don't know what they originally
+[02:26] paid for it but now you could probably
+[02:28] get them for $100
+[02:30] interesting so they they had uh an an
+[02:34] bidex Pro paid like1 $150 for it and
+[02:38] electricity cost is I don't know like
+[02:40] doesn't need a lot of electricity this
+[02:42] those things right that's correct yeah
+[02:45] they they use 15 watts especially those
+[02:48] older ones were used less power so 15
+[02:51] watts that's like a you know an iPad
+[02:53] charger kind of thing uh depending on
+[02:56] what your electricity costs you you're
+[02:59] probably in
+[03:00] a couple dollars a month to run a bid ax
+[03:04] like that
+[03:06] 247 interesting and and so like if you
+[03:10] ran it for a year or even if he would
+[03:13] run it for like two three years uh let's
+[03:15] say like 10 bucks it's like 100 it's
+[03:19] like maximum cost like that and highly
+[03:22] uh like if if we really try to get the
+[03:25] cost as high as possible in our guessing
+[03:28] it might have give him like $300 or $400
+[03:32] for that bid X and now he found a a
+[03:35] block what is the blog reward free
+[03:38] Bitcoin
+[03:40] crazy yeah I mean this is an extremely
+[03:43] lucky case for a single bit a I think
+[03:46] this person was actually running six bit
+[03:47] axes but this is an extremely lucky case
+[03:50] you know most people will
+[03:52] run a bit a their entire life and not
+[03:55] solve a block I mean not to to uh be a
+[03:58] downer about it but you're are not good
+[04:00] it's a lottery so in this case they
+[04:03] certainly made a return on their
+[04:04] investment but that's not guaranteed of
+[04:07] course absolutely and I want to get into
+[04:09] maybe different strategies for home
+[04:11] Mining and solo mining IND there but I
+[04:13] think before we we do that we have to
+[04:16] clarify for people that might not know
+[04:18] what is a bid X and and why are you
+[04:20] passionate about it a bid X is a
+[04:25] open-source Asic based Bitcoin miner so
+[04:29] A6 are are the chips that are
+[04:32] specifically made to do Bitcoin mining
+[04:35] uh any Bitcoin miner that you come
+[04:37] across these days is based around A6 the
+[04:41] chips the bid ax is one of these it's uh
+[04:45] it's a lot smaller than your traditional
+[04:47] Bitcoin miner your traditional Bitcoin
+[04:48] minor I don't know if you can see them
+[04:50] behind me I've got a couple of them
+[04:51] stacked up but they are large they will
+[04:55] use 3 kilow uh of power to run which is
+[05:00] a lot right think
+[05:02] like you know hair dryers like multiple
+[05:05] hair dryers will will be up there
+[05:07] probably like four hair dryers five hair
+[05:09] dryers and then the other thing is
+[05:11] they're also as loud and as hot as that
+[05:14] many hair dryers because they are
+[05:16] dissipating all that electrical power as
+[05:18] heat and they have loud fans to cool
+[05:22] them they're not something you would
+[05:24] plug in in a residential setting um
+[05:27] unless you want to get a divorce so a
+[05:30] the bid ax is is smaller it is much
+[05:33] smaller it's 15 watts it's quiet it's
+[05:36] cool you know I've got some running on
+[05:38] the desk here next to me you probably
+[05:40] can't hear it they're super quiet the
+[05:43] catch is that they have much lower hash
+[05:46] rate
+[05:47] so your payout uh from Bitcoin mining is
+[05:51] going to be directly related to the hash
+[05:52] rate so these have much lower hash rate
+[05:55] much lower payout so much so that people
+[05:58] tend to do what's called Lottery mining
+[06:00] where they just mine they solo mine uh
+[06:04] and they don't share the rewards with
+[06:06] anyone in a pool and in that situation
+[06:09] you kind of get All or Nothing uh you
+[06:12] could but if you do win it's like the
+[06:14] lottery there's a huge payout you just
+[06:15] have really poor chances but the bid a
+[06:18] itself is probably more importantly is
+[06:21] an open- source
+[06:23] project this is important because
+[06:26] Bitcoin is intrinsically open source
+[06:29] that's one of the reasons I believe why
+[06:31] it is successful is because there isn't
+[06:34] um it's not proprietary there's not one
+[06:37] company behind it it's it's open anyone
+[06:39] can work on it it's an open
+[06:40] permissionless network so the bidx tries
+[06:43] to follow those ideals and be open and
+[06:46] permissionless and allow anyone to who
+[06:48] wants to to dig in and figure out how it
+[06:50] works whether they want to repair the
+[06:52] minor or build their own minor firmly
+[06:54] believe this is how we get ahead and we
+[06:57] do it in a decentralized way
+[07:00] uh I think open source is fundamentally
+[07:04] decentralized so that in that you know
+[07:06] in that vein the bid ax is it's not a
+[07:10] company it's an open- source project
+[07:12] like a lot of things in Bitcoin it's
+[07:13] just the source is out there uh people
+[07:17] can pick it up and make one for
+[07:20] themselves they can make a hundred and
+[07:21] sell them to their friends they can make
+[07:23] thousands and start a business selling
+[07:25] them it's an open source project uh and
+[07:29] it's has been pretty popular lately I
+[07:31] think well I know that we've had Asic
+[07:35] based Bitcoin miners for over a decade
+[07:39] but the Bida is the First open- Source
+[07:41] one ever which is kind of ridiculous but
+[07:45] that's that's how it's been
+[07:46] traditionally we're kind of shaking up
+[07:50] the mining industry in a like Grassroots
+[07:53] kind of way obviously with these low
+[07:55] hash rate miners we're not going to be
+[07:59] taking anything away from the big Mega
+[08:02] miners not anytime soon but it's a
+[08:04] Grassroots effort it's it's a a
+[08:06] revolution and people are starting
+[08:09] people are starting to do this it's
+[08:10] getting pretty popular we've seen
+[08:11] followon projects uh miners with higher
+[08:14] hash rate we've seen established
+[08:17] companies in the space starting to think
+[08:18] about oh maybe open source is important
+[08:21] yeah and it's it's been pretty popular
+[08:23] and a bidx the second bitx that we know
+[08:25] about uh solved to
+[08:27] block uh earlier this week which is
+[08:31] always a very exciting time it's very
+[08:33] motivating and I see I think we have
+[08:35] lots of people that uh kind of like oh
+[08:38] yeah maybe maybe this project is going
+[08:39] somewhere that's super interesting I
+[08:41] like it how did it actually come to life
+[08:43] like who started the that that bidex
+[08:46] project and and how did it come what is
+[08:47] kind of the original story of it well I
+[08:50] started it uh I I I call myself the bidx
+[08:54] instigator I started this project it uh
+[08:57] several years ago I
+[09:00] I wanted to have my own Asic Bitcoin
+[09:03] miner um I I'm an electrical engineer by
+[09:06] trade I've been working in this in the
+[09:08] electronics Industry for a long time not
+[09:10] in Bitcoin necessarily but I got I know
+[09:14] how to do this stuff and I started
+[09:16] getting into Bitcoin and Bitcoin mining
+[09:17] and I thought like oh this would be
+[09:19] great to make my own Miner just to
+[09:20] figure out how it works and screw around
+[09:22] with it so like several projects I've
+[09:24] worked on in the past I just went and
+[09:27] looked for open- Source plans like is
+[09:29] there something out there I can build
+[09:31] like just to kind of you know get my
+[09:33] hands dirty and and dive in and there
+[09:36] wasn't there wasn't anything there was
+[09:37] no Open Source Hardware available there
+[09:39] was some open- Source firmware but not
+[09:42] much and uh I was like okay all right
+[09:46] like I've done some reverse engineering
+[09:48] before uh reverse engineering is for
+[09:50] those who don't know is the process of
+[09:52] figuring out how something works when
+[09:55] you don't necessarily have any
+[09:56] documentation or anything like that and
+[09:58] so I've done some of this the hardware
+[09:59] field before so I got myself some ant
+[10:02] Miners and just started digging in to
+[10:05] figure out how they work it was long
+[10:07] process it's you know it's very tedious
+[10:09] there's a lot of backstory to learn
+[10:12] because you're you're trying to
+[10:14] investigate pretty
+[10:16] obscure um things like we just kind of
+[10:20] you know we can use an oscilloscope or a
+[10:22] logic analyzer to look at the signals on
+[10:24] a minor to try and figure out what
+[10:26] they're doing but to actually interpret
+[10:27] that and and and and understand what it
+[10:30] means I had to go way deep into the
+[10:33] weeds and figure out you know how
+[10:36] fundamentally does Bitcoin mining work
+[10:39] what you know what is the significance
+[10:41] of these signals that I'm
+[10:43] seeing kind of spent you know while I
+[10:45] was working my day job just spent a long
+[10:48] time fussing around with it eventually
+[10:50] started posting about it online on
+[10:52] bitcoin talk and met some collaborators
+[10:55] some other people who were like hey I'm
+[10:56] very interested in this as well I'm also
+[10:58] pretty skilled as far as electronics and
+[11:02] firmware goes and they wanted to help
+[11:04] out and so we dug in and and that's kind
+[11:07] of when it started working um there's a
+[11:10] lot of components to this and and I got
+[11:12] a lot of help from a lot of smart people
+[11:14] and the the group started to grow and
+[11:16] bidex started to grow
+[11:18] and beginning of
+[11:22] 2024 I got a grant uh and started
+[11:25] working on bidx full-time and around
+[11:28] that time
+[11:30] we the community started getting really
+[11:31] big lots of great contributors I think
+[11:34] that's partly because it's an open
+[11:36] source project and people want to help
+[11:40] and they can they don't need to ask
+[11:41] anyone for permission they can just jump
+[11:43] in and contribute so it it is a lot
+[11:46] bigger than just me now but I started it
+[11:49] couldn't have done it with all without
+[11:51] the help of many extremely talented
+[11:55] collaborators though that's super
+[11:57] interesting um and I maybe get now into
+[12:01] the strategies but but I also want to
+[12:03] get in the in the open source topic a
+[12:05] little later um there's this Lottery
+[12:09] aspect of it where you keep all the
+[12:12] rewards for yourself if you get
+[12:13] something uh and then there's like or
+[12:16] you share it with a other group of
+[12:18] people where your reward where you get
+[12:20] something back but it's not as much um
+[12:23] probably with like something like ocean
+[12:25] or something like that um uh those are
+[12:27] the two basic strategies you can with
+[12:29] your with your bidex from what I
+[12:31] understand right that's right that's
+[12:34] right exactly I mean those are the two
+[12:37] sort of most popular strategies that
+[12:40] have emerged you can do whatever you
+[12:42] want which is kind of cool that's what I
+[12:43] like about it but pooled Mining and solo
+[12:47] mining are kind of the the two go-to
+[12:50] strategies I would say and pooled Mining
+[12:54] works like you you go to Ocean and you
+[12:57] get like a small
+[13:00] uh uh lightning uh rewards from from
+[13:03] what I
+[13:04] understand pulled refers to kind of how
+[13:08] you deal with the rewards uh in a in a
+[13:12] pooled situation the term comes from
+[13:16] like a lottery pool I think you know and
+[13:19] in there might be a group that gets
+[13:21] together and like Hey we're all going to
+[13:22] buy lottery tickets and if any one of us
+[13:24] wins we're going to split the rewards
+[13:26] amongst all of us so we're kind of like
+[13:29] increasing our
+[13:30] chances um decreasing our risk
+[13:33] decreasing our payout but increasing our
+[13:35] chance so that's kind of how it works
+[13:38] with Bitcoin mining you say all right
+[13:39] we're all going to point our hash rate
+[13:42] towards a central
+[13:44] pool and then any rewards we get we're
+[13:47] going to then split that up amongst
+[13:49] everyone who contributed hash rate and
+[13:52] the cool thing about Bitcoin mining
+[13:55] is uh you can't fake it so you can set
+[13:59] up a pool where people contribute their
+[14:01] hash rate and the pool can keep track of
+[14:05] who sent how much hash rate and there's
+[14:07] no way to fake it and so then when they
+[14:09] get a reward they can just divide that
+[14:11] reward up amongst everyone based on how
+[14:14] much hash rate they contributed and
+[14:16] there's a bunch of different payout
+[14:17] schemes probably heard of things like
+[14:19] fpps PPS pplns ocean has something
+[14:23] called Tides those are just different
+[14:26] ways to divide up that reward and pay it
+[14:29] out um based on who contributed what so
+[14:32] that's that's like a a mining
+[14:34] pool now we have it gets really
+[14:38] confusing because some of the solo
+[14:39] mining uh setups are also called pools I
+[14:43] think that's just sort of a a historical
+[14:45] term that has carried over so we have CK
+[14:49] pool we have public pool those are Solo
+[14:53] mining which means that you're going it
+[14:56] alone you're not splitting your rewards
+[14:58] up amongst any anyone so you either get
+[15:03] all the reward you know you get lucky
+[15:05] and you get 100% of the reward for
+[15:08] yourself but if you don't get any
+[15:10] anything you get nothing if you don't if
+[15:13] you don't solve any blocks you get no
+[15:15] reward but they are still in in a pool
+[15:18] together with other miners this is the
+[15:20] this is the complicated part for
+[15:23] historical reasons they're called pools
+[15:25] um you know the the the difference here
+[15:27] is that with public pool and CK pool
+[15:30] there's a website where they host that
+[15:33] software it's a stratum server it's what
+[15:35] your minor connects
+[15:37] to uh both public pool and CK pool have
+[15:40] options where someone else on some other
+[15:43] server can run that they're running a
+[15:45] node they're constructing the block
+[15:47] templates they're giving work to your
+[15:48] minor and then they're taking the shares
+[15:51] and submitting them on your behalf but
+[15:53] they're not doing any uh div division
+[15:56] they're not dividing up the rewards
+[15:58] amongst anyone it's just you know each
+[16:00] person for their for themselves so that
+[16:02] that's that's called like a solo pool
+[16:04] which is you know again we we there's no
+[16:07] centralized body in Bitcoin so there's
+[16:09] also no one like coming up with these
+[16:11] terms they're just sort of developed you
+[16:14] know by whoever makes something and
+[16:16] whatever they call it which is confusing
+[16:18] for people but
+[16:21] uh that's that's kind of when you see
+[16:24] like a solo pool that that just means
+[16:26] traditionally that someone else is
+[16:28] hosting the stratum server for you now
+[16:32] you can go and get CK pool software solo
+[16:36] pool software uh public pool software
+[16:39] and run it yourself like you could set
+[16:41] up your own node like on your own PC you
+[16:44] could run that software on it and you
+[16:48] could Point your miners at your own node
+[16:51] now that is solo mining because you're
+[16:53] not splitting your rewards with
+[16:55] anyone
+[16:57] um is still has the pool name but you're
+[17:00] you're not pooling anything like you're
+[17:02] you're completely self- Sovereign top to
+[17:04] bottom uh that in my mind is the the
+[17:07] best way to do it people can obviously
+[17:09] do whatever they want but I think that
+[17:11] that's a that's a great way to do mining
+[17:14] it takes it takes some additional effort
+[17:17] to set that up and keep it running and
+[17:20] debug it when there's problems and
+[17:21] things like that so terminology you are
+[17:25] Solo solo mining I guess yes yeah I mean
+[17:29] I I spent a lot of time developing the
+[17:32] bid x uh including the the firmware that
+[17:36] connects to these pools so I I do all of
+[17:39] the above I I test out everything uh
+[17:42] just to make sure that it works we one
+[17:44] of the goals with the bidx is that we
+[17:47] don't we don't prescribe any particular
+[17:51] method we want people to make their own
+[17:53] decisions and mine however they want
+[17:56] whether that's solo whether that's
+[17:58] pooled mine whether that's you know
+[18:01] to you know ant poool which I wouldn't
+[18:05] recommend but if you want to you can I
+[18:08] think that that's really important for
+[18:10] decentralization you know if we have all
+[18:12] these minors out there and we have
+[18:15] different people controlling them all
+[18:17] they'll all make different decisions for
+[18:20] themselves as how they want to mine and
+[18:23] that's what's really important is
+[18:24] because they'll make hopefully different
+[18:27] decisions because they're different
+[18:28] people
+[18:29] and we'll get more uh we'll get more
+[18:32] decentralization just by the mere fact
+[18:34] that more people are in charge of how
+[18:38] the mining machines are working know
+[18:40] where like most bid xes are are pointed
+[18:44] towards we don't we don't the it's a
+[18:47] it's
+[18:48] a very decentralized project the the bid
+[18:53] ax itself does not phone home it doesn't
+[18:56] send any statistics to me or anyone else
+[19:00] um it it I I've been very adamant about
+[19:03] the fact that your Bida only connects to
+[19:07] the stratum server that you type in so
+[19:10] it only connects to the pool that you
+[19:11] type in we don't we don't query a Time
+[19:14] server we don't query a licenser
+[19:17] statistics like there there's an option
+[19:21] if you if you specifically enable it to
+[19:23] check for uh software updates but that
+[19:26] doesn't happen automatically
+[19:29] so no we we don't know anything I don't
+[19:32] know how many bid AES are out there I
+[19:34] don't know what they're
+[19:36] doing you know we have there's popular
+[19:41] pools like public pool and uh solo CK
+[19:45] pool and we can see statistics there and
+[19:49] so we can see that there's thousands of
+[19:51] bit xes connected to public pool but we
+[19:54] don't know you know what proportion of
+[19:56] the total number of bit xes that are out
+[19:59] there are doing that I have talked to
+[20:02] this the main the I have talked to the
+[20:05] larger manufacturers that I'm aware of
+[20:07] to try and get a rough estimate of how
+[20:09] many bit axes are out there I mean that
+[20:11] would be great to know we can't know for
+[20:14] sure because anyone can build them and
+[20:16] put them out there but I think we're in
+[20:18] the sort of like 25 to
+[20:20] 30,000 bit
+[20:22] axes sold that's my rough my rough guess
+[20:26] but I don't know what how they're all
+[20:28] mining like I said we we can tell that
+[20:30] there's something like I I forget the
+[20:32] current numbers we can tell that like
+[20:34] six or 7 thousand of them are connected
+[20:36] to public pool but that's you know
+[20:40] that's not even half of what I suspect
+[20:41] is out there that's that's the the the
+[20:44] beauty but also the the the interesting
+[20:49] part about open source uh it's like all
+[20:51] those great statistics uh like how many
+[20:53] did you sell like where are they pointed
+[20:56] towards and then you can optimize the
+[20:58] soft domain maybe for that a little bit
+[21:00] uh and so you you might develop
+[21:02] something in the software that actually
+[21:04] nobody's
+[21:05] using things like that it's it's a it's
+[21:08] a it's a very different model from
+[21:10] everything I've ever worked in before
+[21:12] and and I think a lot of other people
+[21:13] too is especially in Hardware just
+[21:16] having it
+[21:17] be uh decentralized and open it's really
+[21:21] a different Paradigm than how Hardware
+[21:24] is usually made which is like one
+[21:26] company designs it they don't tell
+[21:28] anyone it's made and they have a factory
+[21:30] that builds all of them and they can
+[21:31] keep pretty tight control over it all
+[21:34] but you know it's different I think like
+[21:38] Bitcoin itself it's it's a different way
+[21:41] of doing things and in my opinion it's
+[21:44] the right way to do it but yeah we
+[21:46] there's a couple things like that where
+[21:48] it's like it'd be really cool to know
+[21:51] how many are out there and how well
+[21:52] they're working but I won't uh I won't
+[21:55] compromise on that um
+[21:59] um control and anonymity that users can
+[22:05] have with bitx you probably have some
+[22:08] some mechanism uh or like people
+[22:10] reaching out to you for reporting like
+[22:13] user feedback and errors and and stuff
+[22:15] like that because uh
+[22:17] from I I was in software development uh
+[22:20] for a few years and I know that our
+[22:24] customers were always the ones where
+[22:27] where we like okay they they they saw
+[22:29] the mistakes and the small errors that
+[22:30] we just didn't test for and like oh like
+[22:33] that that's possible and it it was it
+[22:35] was super fun uh to get that user
+[22:38] feedback and error things and obviously
+[22:40] we had a centralized system uh but with
+[22:43] not having a centralized systems there's
+[22:45] like it's probably more complicated and
+[22:49] more uh to to get that user feedback and
+[22:51] to get the Aro
+[22:53] collection it really is we you know we
+[22:56] have the sort of offici
+[23:00] project is on GitHub GitHub has issues
+[23:03] so people can it's actually open anyone
+[23:05] can create an issue there and describe
+[23:08] their problem lots of people do that we
+[23:11] also have uh the osmu the open source
+[23:14] miners United it's a a a large group at
+[23:18] this point a Discord
+[23:20] server we got like 7,000 people in there
+[23:24] but that's a good place to talk about
+[23:27] issue get help
+[23:29] get you know talk about help with issues
+[23:31] and I can sort of
+[23:32] collect user sentiment you know how's it
+[23:36] going from there but again this is a a
+[23:39] big effort right someone has to like you
+[23:41] know be motivated enough to notice they
+[23:46] have a problem with their bidex join the
+[23:48] Discord post about it in a coherent way
+[23:51] and then you know keep doing that in
+[23:54] aggregate so that these problems can get
+[23:56] fixed you know that said we we have a
+[23:58] lot of people working on it probably
+[24:01] more people than you know a small
+[24:05] hardware company would have we have a
+[24:06] lot of talented Engineers that have got
+[24:08] eyes on this all the time and they have
+[24:11] they're up they're all around the world
+[24:12] so they're up all the time and uh we're
+[24:15] making a lot of progress on the
+[24:18] reliability and usability of both the
+[24:20] hardware and the firmware at a a crazy
+[24:23] Pace in fact I had to tell someone the
+[24:25] other day I was like okay guys let's
+[24:28] only have software updates you know Max
+[24:31] once a month because it was getting
+[24:33] crazy we we were just adding features so
+[24:35] fast which was great to see I don't
+[24:37] really want to slow anyone down but I
+[24:39] also don't want to like stress out Bida
+[24:42] users when they like see a firmware
+[24:44] update every week because it can be a
+[24:46] can be a challenge to
+[24:48] do um yeah there there's pros and cons
+[24:52] to this to this method but I think we're
+[24:54] doing pretty well for someone who's you
+[24:58] know to buying an iPhone or some other
+[25:03] iot device it can be a little strange
+[25:07] because you know where did you get it
+[25:09] from like there's there's scam sellers
+[25:12] out there there's there's knockoff bti
+[25:14] axes someone the other day was like my
+[25:17] bid ax isn't working at all and I was
+[25:18] like a man we're digging into it and
+[25:20] then finally we saw a picture of it and
+[25:22] it was not a bti AE at all I mean it was
+[25:25] clearly based on a bti AE but it wasn't
+[25:27] a bit AE someone had changed it and then
+[25:30] the person was like oh I got it on Teemu
+[25:33] you know that like super cheap stuff
+[25:36] from China they got it there for
+[25:37] presumably super cheap and it was
+[25:39] like well I'm sorry you don't have a bid
+[25:43] axe I don't know how that works I can't
+[25:45] really help
+[25:46] you uh so there's there's some pitfalls
+[25:50] kind of kind of
+[25:53] a wild wild system that I think some
+[25:56] people will like
+[25:58] other people will not like it what are
+[26:00] you going to do do you have like um like
+[26:03] a website or like on on GitHub where you
+[26:07] you list verified shops for for people
+[26:09] to like okay here can I actually buy it
+[26:12] yeah so the the website that I set up
+[26:14] for the project is Bid a.org and if you
+[26:17] go there you can get some general
+[26:19] information about the project including
+[26:20] links to the GitHub repositories that
+[26:23] have all the source code for the the
+[26:26] different components uh different models
+[26:28] and I also have a link of
+[26:31] sellers a link to a page of sellers that
+[26:34] I try and keep up to dat that that's
+[26:37] been an interesting thing I kind of set
+[26:40] that up originally when the project was
+[26:41] just starting and there was only a
+[26:43] couple sellers because it was really
+[26:44] hard people were always asking me like
+[26:46] where can I get a beted x and I you know
+[26:48] initially I was like will you just make
+[26:50] it and no one wanted to do that because
+[26:52] it's kind of hard so people were like
+[26:54] well where can I buy it so I set up a
+[26:56] web page on bitx .org that just listed
+[26:59] Sellers and sort of where in the world
+[27:01] they were and I had a couple rules on
+[27:04] there so in order to be on that list you
+[27:07] need to follow the open source
+[27:09] license there
+[27:12] is uh there's an open source license
+[27:14] that you you you have agreed to if
+[27:16] you're making and selling BD xes you
+[27:18] have agreed to this open source license
+[27:20] whether you know it or not so I wanted
+[27:22] sellers to follow that
+[27:24] license
+[27:25] um and I also had a couple addition
+[27:28] rules like I didn't want people to be
+[27:30] doing pre-sales for bid axes that
+[27:34] weren't finished yet I wanted to make
+[27:36] sure that sellers listed a link to the
+[27:39] source the exact source of the bid act
+[27:42] they're selling on on the web page so
+[27:45] that anyone who buys one is aware of the
+[27:48] fact that it's an open source project
+[27:50] and that they can get the source for it
+[27:53] if they want so those those are the
+[27:55] rules I think that uh yeah there you go
+[27:57] see if you click if you click on on buy
+[28:00] up in the right hand corner there uh
+[28:02] that goes to a list of sellers all
+[28:04] around the world and people get confused
+[28:07] and they think oh these are authorized
+[28:08] sellers like I have somehow verified
+[28:10] that they are um not going to scam you
+[28:14] that that's not true all I have done
+[28:17] is looked at their website to make sure
+[28:20] that they follow those couple rules that
+[28:22] they follow the open source license they
+[28:23] link to the source and that's it so you
+[28:25] have to be a little bit careful here
+[28:27] like I don't have the ability to
+[28:28] constantly monitor these sellers to make
+[28:31] sure that they're you know being
+[28:34] truthful or what their return policy is
+[28:36] or anything like that so you can get
+[28:38] burned but the idea is that you can sort
+[28:41] by where you live and hopefully find a
+[28:44] website that is near you and and get
+[28:49] some bid access and and it's a way to
+[28:52] pressure people into following the open
+[28:55] source license like I don't have a
+[28:56] budget for lawyers or anything anything
+[28:58] like this so if people break the open
+[28:59] source license there's not a whole lot I
+[29:01] can do but what I can do is not include
+[29:04] them on this list and I think that
+[29:07] sellers on here have told me that they
+[29:09] get a lot of traffic from this list so I
+[29:11] think there's a there is an incentive to
+[29:15] follow those rules those sort of
+[29:17] community best practices and get
+[29:19] included on this list let's take a break
+[29:21] for a moment and appreciate the puty
+[29:24] that coin vigilante has made with the
+[29:27] Bitcoin watch
+[29:28] those watches are the most amazing the
+[29:31] most elegent way of showing that you are
+[29:34] a true bitcoiner and coin vigilante just
+[29:37] dropped a completely new and amazing
+[29:40] Genesis edition of their watch
+[29:43] collections you have the date of the
+[29:45] first ever mined Bitcoin Block in there
+[29:48] and of course also the block height and
+[29:51] which EPO we are currently in I love the
+[29:54] level of detail they put in in this
+[29:57] masterpiece make sure to check out those
+[29:59] amazing coin vigilante time pieces down
+[30:03] in the descriptions I love those watches
+[30:05] so so much and now if you have Bitcoin I
+[30:09] really do hope that you don't have it on
+[30:11] Exchange but if you do have it on
+[30:13] Exchange I have two ways for you to deal
+[30:15] with that the first way is you put it on
+[30:17] a hardware wallet that's the entry for
+[30:20] you to get into the self custody game I
+[30:23] recommend bitbox Bitcoin only Edition
+[30:26] for that it's a super simple and secure
+[30:29] way and if you check out the link in the
+[30:31] description you even get 5% off if you
+[30:34] use the code Robin and the second way is
+[30:37] the Bitcoin way the Bitcoin way is your
+[30:41] Allin partner in terms of how to get the
+[30:44] most out of your sovereignty they will
+[30:47] personalize for you a self custody setup
+[30:50] that is perfect for your individual
+[30:53] situation they will show you how you can
+[30:55] secure your own devices securing your
+[30:58] Bitcoin is not enough you also have to
+[31:00] keep all your devices secure one topic
+[31:03] that is overlooked often is the
+[31:05] inheritance plan what happens with your
+[31:08] Bitcoin once you are no longer here do
+[31:11] you have a plan for that in place
+[31:13] already and last but not least if you're
+[31:15] in a jurisdictions where you don't feel
+[31:18] safe it's better to get a plan B for all
+[31:21] that head over do the Bitcoin way.com
+[31:24] robobin to get a 30 minute free C all
+[31:28] and just a quick side note I will be for
+[31:30] the first time ever speaking at the
+[31:33] Bitcoin Prague event in June it will be
+[31:36] absolutely legendary and I'm really
+[31:38] looking forward to seeing all of you
+[31:40] there you can get your ticket in the
+[31:42] link down in the description of Bitcoin
+[31:45] brag and very important use code Robin
+[31:48] to get 10% off your ticket I'm really
+[31:51] looking forward seeing you there
+[31:53] interesting yeah I mean there are like
+[31:55] I'm just checking because uh I'm I'm
+[31:57] Austria and so Austrian and Germany and
+[31:59] there's even like from Austria one
+[32:01] there's Germany one two whereas the
+[32:05] third one there third on there from
+[32:07] Switzerland one like there's a lot of uh
+[32:11] sellers like I'm I I was not suspecting
+[32:14] such a such a big list of of sellers
+[32:17] actually I maybe the the the 30,000 is
+[32:21] is
+[32:23] conservative well you know there those
+[32:26] sellers on there are
+[32:28] a whole wide range uh there's a couple
+[32:31] of people on there who probably are sold
+[32:34] out because they don't H make a lot of
+[32:37] bit axes they don't have them there's
+[32:38] others on there that are going to move a
+[32:40] lot of bit axes so you kind of have to
+[32:43] do your own research
+[32:44] there Germany though uh has a has a very
+[32:49] strong bid ax following I think you
+[32:51] interviewed uh my colleague W clue a
+[32:54] little while back he he's an early
+[32:56] contributor to to bid a he's a um a
+[33:00] founding member of
+[33:02] osmu and spends a lot of time working on
+[33:05] this stuff the guy is amazing super
+[33:07] smart lucky to have him but uh he
+[33:12] actually invited me out to and some
+[33:14] others uh from U out um about a year ago
+[33:19] and we went to a Meetup in Munich and
+[33:23] there was tons of people there yes
+[33:25] there's Wu that guy's a badass he should
+[33:27] definitely go check out his interview if
+[33:29] you
+[33:30] haven't uh there yeah there's there's a
+[33:32] great Bitcoin scene in Germany and uh as
+[33:37] a result I think a lot of them have
+[33:39] joined in on bid
+[33:41] ax and hopefully spreading that to uh
+[33:45] neighboring
+[33:47] countries in in the EU I mean we have we
+[33:50] have other other countries that there's
+[33:52] a uh Spain has uh a
+[33:55] couple like badass Bitcoin uh you know
+[34:01] Bitcoin related comp or bidx related
+[34:04] companies uh an early contributor is
+[34:06] based in Spain also so I think that's
+[34:08] just kind of how these things get
+[34:10] started that said if anyone wants to get
+[34:13] involved I highly recommend it we could
+[34:15] always use more sellers certainly um in
+[34:18] other countries that aren't listed on
+[34:20] the bid a.org website great to have bidx
+[34:24] sellers start up there you know one of
+[34:26] the problems is
+[34:28] is always with these things is shipping
+[34:31] cost uh import duties tariffs taxes
+[34:35] things like that from things coming from
+[34:37] different countries different sort of
+[34:38] economic zones is is really a challenge
+[34:41] so would love to have more people start
+[34:44] up more local um bidx manufacturing and
+[34:47] selling operation yeah maybe do you can
+[34:50] even like get it at the Meetup or
+[34:52] something like that if you have local
+[34:53] things like that I think that's a great
+[34:55] one also that is that is in fact I one
+[34:59] of my goals for this year is to get more
+[35:02] of that sort of in-person bid ax selling
+[35:05] because that's really big you know you
+[35:06] don't have to type your address into
+[35:08] some form and then invariably get it
+[35:11] stored in a database somewhere and maybe
+[35:14] put in your credit card number or
+[35:15] whatever I think in-person selling you
+[35:18] know for Bitcoin ideally is fantastic
+[35:21] and I would love to have people you know
+[35:23] just fill up their backpack with a few
+[35:25] and go to their local Meetup and get it
+[35:27] in the hand of people and you can help
+[35:28] them set it up right there that kind of
+[35:30] thing interesting is bidex your like
+[35:33] main or only project that you're
+[35:34] currently doing it is my main project uh
+[35:37] I'm working on uh this full-time under a
+[35:41] very generous Grant from open
+[35:43] SATs I also am working on some other
+[35:47] projects that aren't bidx but they are
+[35:50] open- Source Bitcoin mining Hardware
+[35:52] that's that's my my focus now uh I've
+[35:55] been working with the 250 6 Foundation
+[35:59] which was started out of uh Bitcoin Park
+[36:02] in Nashville it 26 Foundation aims to be
+[36:06] a uh a granting organization to sort of
+[36:10] stimulate and and um support people
+[36:14] working on open- Source Bitcoin mining
+[36:17] which as as soon as I heard they were
+[36:19] starting that I was like I want in This
+[36:21] Is My Jam so I I'm working on them with
+[36:24] them helping to set up this foundation
+[36:26] and I'm also the first Grant recipient
+[36:28] of the foundation for a project called
+[36:29] Ember one that I'm working on which is
+[36:33] it's a it's also an open source Bitcoin
+[36:35] minor it's a little bigger than the bid
+[36:36] ax it's it's bigger than the bid ax but
+[36:39] smaller than an ant minor it's a 100
+[36:41] watt uh Asic hash board and we're going
+[36:44] to do a couple different varieties with
+[36:46] different chips on there but uh if you
+[36:50] go to my uh GitHub there's tons of
+[36:53] different projects that are in various
+[36:55] stages of of completion so you can check
+[36:57] those out I I like to work on tools for
+[37:01] people who are hacking Bitcoin miners
+[37:04] I've got a
+[37:05] couple starts of projects there that are
+[37:07] control boards for ant miners data
+[37:10] cables Raspberry Pi hats things like
+[37:13] that
+[37:13] I in the process of of making the bid ax
+[37:17] I've learned a lot about how ant miners
+[37:20] work specifically and so I've created a
+[37:22] couple other tools in that
+[37:25] same uh same area yeah is that the right
+[37:29] one uh Scott bitx yep that well so if
+[37:34] you go to Just Scott that's my GitHub
+[37:36] and and all the various projects that
+[37:38] I'm working on will be there um I think
+[37:41] if you go to like repositories
+[37:44] anyways we have a lot of this stuff
+[37:47] that's bid ax related is getting moved
+[37:50] to a GitHub organization so it's not
+[37:53] just based on me and my GitHub account
+[37:57] so that's github.com
+[37:59] bidx org instead of Scott it's it's bidx
+[38:02] org all one word and that uh we're we're
+[38:06] slowly but surely migrating things over
+[38:09] here GitHub if you're an organization
+[38:11] they give you sort of more fine grain
+[38:13] control over multiple users and what
+[38:16] their permissions are and stuff like
+[38:17] that so here we've moved all of the bidx
+[38:19] hardware repositories over here and so
+[38:21] that's the bitx max gamma GT those are
+[38:25] different models um some other tools are
+[38:28] here ESP minor which is the firmware for
+[38:31] bit axes will be moved here in the near
+[38:34] future I like that really cool I I love
+[38:37] that project and it's a it's a really
+[38:40] good one um and the question that I
+[38:43] actually kind of want to have ADD in the
+[38:45] in the beginning but it was too
+[38:46] interesting so I kind of forgot it yeah
+[38:49] why is it so important to have Bitcoin
+[38:52] mining open source and bring
+[38:54] transparency in in this whole field of
+[38:57] Bitcoin mining uh it's very important
+[39:00] it's very important in my mind and I
+[39:02] think a lot of other people's
+[39:04] mind when Satoshi first announced
+[39:08] Bitcoin the first ever Public
+[39:11] Announcement of Bitcoin he said I've
+[39:15] generated a open- source peer-to-peer
+[39:18] uh online currency and so open source
+[39:22] was in the headline and I think that
+[39:23] that's a very important point for
+[39:26] Bitcoin I think had Satoshi not made
+[39:30] Bitcoin open source then we wouldn't be
+[39:33] here talking about it I think one of the
+[39:36] obviously there's a lot of other aspects
+[39:38] of Bitcoin that are very important but I
+[39:40] think open source is right there up with
+[39:42] you know fixed Supply proof of
+[39:45] work open source is right there because
+[39:48] what it does is it it
+[39:52] ures that the development is
+[39:55] decentralized meaning that it's not
+[39:58] controlled by one company it's not kept
+[40:01] in secret as an example like if you
+[40:04] wanted to work
+[40:05] on a project like Microsoft Windows like
+[40:10] you like I've got an idea for Microsoft
+[40:12] Windows you you have to get a job at
+[40:14] Microsoft like they don't publish the
+[40:15] source for that you have to go there get
+[40:17] a job and and all the you know you you
+[40:22] have to get a lot of permission from
+[40:24] different people to do that and even
+[40:26] then sort of what you can what you can
+[40:29] do is limited by all of the people at
+[40:33] Microsoft and the you know the board of
+[40:35] directors and all that good stuff so
+[40:38] it's open source anyone can jump in on
+[40:40] bitcoin and start working on it I mean
+[40:43] Satoshi disappeared like pretty early on
+[40:45] the project so if it wasn't open source
+[40:48] it probably would have just died right
+[40:50] there um but it wasn't the people who
+[40:54] were working with Satoshi early on could
+[40:57] take it and run with it we've we've all
+[40:58] heard the stories those names of of the
+[41:01] developers who took it and ran with it
+[41:04] and then it just starts spreading you
+[41:06] know it's it's that exponential growth
+[41:08] like one person gives it to gives it to
+[41:10] two people they give it to two people
+[41:12] and next thing you know there's a lot of
+[41:14] people working on it or at least looking
+[41:17] at it and considering it and thinking
+[41:19] about it it's open source is a
+[41:22] fundamental part of
+[41:23] Bitcoin I think that mining Bitcoin
+[41:27] mining is obviously a very important P
+[41:29] part of Bitcoin it's one of the the
+[41:32] three pillars of how Bitcoin works I
+[41:36] like to say that the three pillars of
+[41:38] Bitcoin are uh
+[41:40] nodes uh wallets that handle the
+[41:44] transactions and Mining which you know
+[41:47] people like to call it various different
+[41:48] things but it secures the network to
+[41:50] have this very important part of Bitcoin
+[41:53] Bitcoin mining be totally closed source
+[41:55] and proprietary is nuts like I don't
+[41:58] understand why anyone like thinks that's
+[42:01] acceptable you know think about these
+[42:03] these large Mega mining corporations
+[42:06] they are dealing millions of dollars a
+[42:09] month and yet they don't know how these
+[42:12] machines work there's just this other
+[42:14] company bitmain that makes the Lion
+[42:16] Share of Bitcoin miners that controls
+[42:18] how they work that to me is insane we
+[42:22] can't have this this Freedom money that
+[42:26] is
+[42:28] that has this you know very important
+[42:31] part of how it works be developed in
+[42:34] total secret we just don't know how it
+[42:36] works and in fact bitmain who makes I
+[42:38] don't know like 80% of the Bitcoin
+[42:40] mining machines out
+[42:42] there has has done sketchy stuff before
+[42:46] they have tried to put things into their
+[42:49] miners that we have found and you know
+[42:53] confirmed like this is sketchy uh Asic
+[42:56] boost ant
+[42:58] bleed there's you know and these are
+[43:00] just the things that we' found like what
+[43:02] what are they doing that we don't know
+[43:03] about it's it's no way to do this kind
+[43:06] of thing it's it's not
+[43:08] necessary um we need to get out of this
+[43:11] proprietary Bitcoin mining mindset and
+[43:14] and push towards open source I think
+[43:17] there's a real chance of it happening
+[43:18] too uh as as we move
+[43:21] forward one of the reasons why I think
+[43:24] Bitcoin mining became proprietary
+[43:26] because it wasn't always so tooshi mined
+[43:29] the first block and several after that
+[43:31] using open- Source software that he
+[43:34] published and then you know there was
+[43:37] that was CPU Mining and then there was
+[43:39] GPU and fpga Mining a lot of that was
+[43:41] also open source it became closed Source
+[43:44] in like 2012 or whenever it was when
+[43:48] Asic miners started coming
+[43:50] out it makes sense as6 are incredibly
+[43:53] expensive like millions and millions of
+[43:55] dollars just to think about developing
+[43:57] your own Asic chip so it makes sense
+[44:01] that they wanted to protect their
+[44:02] investment and not necessarily just kind
+[44:04] of share it with anyone right away but
+[44:06] we're well past that that was that was a
+[44:08] long time ago um in fact I think that if
+[44:14] it still costs millions of dollars it's
+[44:15] maybe even more expensive to develop
+[44:17] your own Asic but you can keep that a
+[44:21] secret and just sell chips to systems
+[44:26] builders who then um Can publish how
+[44:30] that system works open source and I
+[44:32] think that's the best of both worlds is
+[44:34] they can these people with these large
+[44:35] initial investments in Asic development
+[44:37] can keep that proprietary information
+[44:39] for themselves but make chips available
+[44:42] to the rest of us to build Miners and
+[44:45] then we can make sure that those miners
+[44:46] work in a way that's compatible with the
+[44:50] decentralization of of Bitcoin so open
+[44:55] source is important I think we'll I
+[44:56] think we'll get get there do you think
+[44:58] do you think that um a majority of
+[45:01] mining will be open source like is is
+[45:04] there like a future where we we get to
+[45:07] the importance of we we have open source
+[45:11] mining machines rather than the bit bit
+[45:15] main proti uh
+[45:17] systems oh I do
+[45:20] definitely absolutely I think there's a
+[45:21] number of reasons why we'll get there
+[45:23] right now the Bitcoin mining industry is
+[45:27] dominated by on grid miners who run
+[45:30] their machines in data centers and as a
+[45:34] result
+[45:36] 99.9% of the mining machines that are
+[45:40] developed are for that purpose you know
+[45:45] we have a couple different manufacturers
+[45:47] but for some reason all their machines
+[45:48] look exactly the same they're that sort
+[45:50] of like s19 form factor you know with
+[45:52] the two fans in front the powerly on the
+[45:54] side the control board on the top and
+[45:57] that's because we've just landed on how
+[46:00] these mining machines are run in data
+[46:01] centers connected you know large data
+[46:03] centers connected to a grid but I think
+[46:06] that mining strategy is going to phase
+[46:10] out um there's so many people doing it
+[46:13] it's it's a race to the bottom it's very
+[46:16] difficult to make money doing to
+[46:18] reliably make money doing that we see
+[46:20] lots of minor now who are pivoting to
+[46:23] shitcoins or maybe AI data centers and
+[46:27] they make a lot of money on on demand
+[46:30] response and things like that sort of
+[46:32] other things that aren't necessarily
+[46:33] Bitcoin mining and I think that's
+[46:36] because it's a really tough business you
+[46:38] know it was it was initially easy to
+[46:41] make money there and a lot of people
+[46:42] noticed that and all raced in and now
+[46:44] it's getting it's getting squeezed and
+[46:46] so I think mining will start to get more
+[46:49] creative it'll get pushed out to other
+[46:51] things where you have really cheap
+[46:53] energy because it's stranded energy or
+[46:55] it's renewable energy it's intermittent
+[46:58] like you've got some hydroelectric power
+[47:00] plant somewhere that's going to give you
+[47:03] free uh free Power you just have to put
+[47:07] your mining machines you know connected
+[47:08] to this like at the dam essentially and
+[47:11] you have to deal with the fact that the
+[47:13] water flow and therefore the power
+[47:14] output changes all the time heat reuse
+[47:17] is a huge one um the heat punks Tyler
+[47:20] Stevens some of those other guys have
+[47:22] been doing a lot of cool work in this
+[47:24] heat reuse thing where you know a
+[47:25] Bitcoin miner is a perfect base heater
+[47:28] my point here is that all of those
+[47:31] miners for sort of the new generation of
+[47:34] Bitcoin mining they don't look like
+[47:36] those machines they don't look like what
+[47:38] we have now and so I think we're going
+[47:40] to see is a diversification of the
+[47:44] hardware to go after these different
+[47:46] strategies and so there's room for new
+[47:47] players to come in and uh chip away at
+[47:53] bit
+[47:54] M's blead uh that they're their
+[47:57] essentially Monopoly on the the market
+[47:59] is
+[48:00] as as some of this stuff starts to open
+[48:02] up we're seeing that happen now there's
+[48:04] new Asic manufacturers coming on the
+[48:06] scene we're starting to see new machines
+[48:08] develop and I really think open source
+[48:12] can accelerate that process you know
+[48:15] putting this all out there means that
+[48:18] now someone who's just screwing around
+[48:21] in their garage on the weekend can make
+[48:24] a minor right they can they can do it
+[48:27] and this is how new Industries are
+[48:28] created like think of all the crazy cool
+[48:31] inventions that have changed the world
+[48:32] that have come out of people's
+[48:34] garages once we have Bitcoin mining
+[48:37] companies and Bitcoin mining Hardware
+[48:39] manufacturers and firmware manufacturers
+[48:41] coming out of the the garage so to
+[48:44] speak it's G to move fast it's GNA move
+[48:47] really fast I think I think that's
+[48:50] that's how this changes that's how open
+[48:53] source can help and it it's going to be
+[48:57] decentralizing by its very nature will
+[49:00] with that also the barrier to entry to
+[49:03] Bitcoin mining in general fall and and
+[49:05] more individuals again coming like in
+[49:09] the in the starting it was only
+[49:10] individuals doing there with like their
+[49:12] PCS and running the the Bitcoin notes
+[49:14] and running the Bitcoin miners yeah um
+[49:16] will will that Trend with that come back
+[49:18] a little bit absolutely absolutely and
+[49:22] I'm here for it too because I think
+[49:24] that's what's really exciting again I
+[49:26] don't want to to get a job at Microsoft
+[49:27] just to like work on this project idea I
+[49:29] have right I want to screw around with
+[49:31] it like it's never been a better time to
+[49:33] just get some tools and start building
+[49:36] something in your home lab right like
+[49:39] you can this stuff is available the
+[49:41] tools that you need to work on these
+[49:43] Technologies right the software world
+[49:45] there's so many amazing tools available
+[49:47] now you can just have chat GPT write you
+[49:50] up something like people can make an
+[49:52] amazing amount of progress at home if
+[49:55] they have the idea of what want to
+[49:57] do let's unlock that and let like a
+[50:00] million new projects Bloom super
+[50:03] interesting it's just like the idea of
+[50:08] of just we coming back to Bitcoin mining
+[50:12] being way more decentralized is
+[50:14] extremely exciting for me we have the
+[50:16] the full nodes it's decentralized we
+[50:19] have the overall Bitcoin Network which I
+[50:21] think is really resilient we have the
+[50:23] social aspect of it bitcoiners uh
+[50:26] defending Bitcoin on Twitter on on no on
+[50:29] on all the platforms like the social
+[50:32] Revolution behind it and I I think we
+[50:34] have to also get to to mining uh and
+[50:37] decentralize that even more we also need
+[50:39] more full node Runners we also need uh
+[50:42] just like yes decentralizing the whole
+[50:45] thing more and more and and really build
+[50:48] that crossroads movement uh that's where
+[50:51] I see
+[50:52] some some some bad things of like when
+[50:56] we focus too much on strategic Bitcoin
+[50:58] Reserve too much on ETFs and too much on
+[51:01] number go up technology because if you
+[51:03] just care about number go up technology
+[51:06] you don't care about big access and open
+[51:08] source and and and Miners and nodes
+[51:11] you're just like hey the number goes up
+[51:13] that that's the whole purpose of it and
+[51:15] I think that's a bad thing with
+[51:16] Bitcoin I I I agree I agree you know
+[51:20] there's that whole meme of
+[51:21] like like is this bad for Bitcoin no
+[51:25] like nothing's bad for Bitcoin
+[51:27] you know with number go up comes lots of
+[51:29] new people into into this world uh
+[51:33] hopefully some of them are you know the
+[51:36] next the next uh inventors of of the the
+[51:40] next best thing right like maybe a lot
+[51:42] of people just want to like make a quick
+[51:45] Buck or Traders or whatever but uh you
+[51:48] know with that is going to come more
+[51:50] Builders more awesome thinkers more
+[51:52] people creating rad podcasts more people
+[51:54] telling their their friends more people
+[51:56] setting their Grandma up with a hardware
+[51:58] wallet and a you know a Bitcoin miner
+[52:01] like more people going to Shops and and
+[52:05] saying like hey I W to I want to pay for
+[52:07] this in Bitcoin or even probably more
+[52:10] importantly is more people telling their
+[52:11] employers hey I want to get paid in
+[52:13] Bitcoin so with with all this stuff you
+[52:18] know with number go up and like d gen
+[52:21] Traders and all that stuff I think
+[52:24] comes more progress and more development
+[52:28] more widespread adoption which is what
+[52:31] we definitely need I just I want to make
+[52:33] sure that as adoption increases which
+[52:37] it's going to that we
+[52:40] remain you
+[52:43] know remain aware of why Bitcoin is so
+[52:47] special like what makes
+[52:50] Bitcoin sound money what makes Bitcoin
+[52:53] Freedom money and a big part of it is
+[52:57] this decentralization the fact that no
+[52:59] one is in control of
+[53:00] it like if you know Bitcoin is money
+[53:05] that is created out of thin air like a
+[53:07] lot of people are like bitcoin's just
+[53:10] made up money like that's not cool well
+[53:13] no it is cool if it is acceptable it is
+[53:17] worthwhile if there's strong
+[53:19] fundamentals behind it namely that it
+[53:21] can't be you know there's a supply cap
+[53:23] it can't be inflated it can't be just
+[53:25] created by anyone
+[53:28] so that comes from decentralization the
+[53:31] fact that there's these rules that are
+[53:33] enforced by anyone and everyone and
+[53:36] that's what makes it Freedom money so we
+[53:38] need to keep that in mind as this all
+[53:40] grows as people create new Services new
+[53:43] products new
+[53:46] anything is that Bitcoin is special
+[53:49] because it's decentralized we need to
+[53:51] like keep it that
+[53:54] way do where do you see the future role
+[53:59] of Bitcoin do you see it as as The One
+[54:01] and Only Money asset World Reserve
+[54:04] currency kind of a a deal or also or or
+[54:09] is it more of like a parallel economy
+[54:12] where where Bitcoin is existing next to
+[54:14] the TR digital Financial system I don't
+[54:16] really know I don't really know I'm kind
+[54:18] of bad at these predictions like these
+[54:20] sort of like awesome uh forward-looking
+[54:24] predictions for the future I I mean know
+[54:26] I would like to see it become the sort
+[54:28] of unitive account for the world I think
+[54:32] it has solid fundamentals and the world
+[54:34] would be better off if more people Ed
+[54:36] the money with solid fundamentals I I
+[54:38] you know I've heard about problems with
+[54:40] how often transactions can happen on
+[54:43] chain you know there isn't enough block
+[54:44] space for everyone's transactions so I
+[54:46] think we're going to need some other
+[54:49] systems along with it right that's what
+[54:51] layer twoos and all that and to be
+[54:53] honest I don't know what I'm talking
+[54:54] about in that regard but like
+[54:56] it seems like there's going to need to
+[54:58] be some other things with it if uh some
+[55:01] other protocols or systems that go along
+[55:03] with it if those follow the Bitcoin
+[55:05] fundamentals I think we'll still be in a
+[55:08] good place I think this is a fair
+[55:10] Assumption of like we uh the the
+[55:13] important part is to keep Bitcoin
+[55:15] decentralized and secure and everything
+[55:17] else will develop over time we we will
+[55:20] have amazing people that have amazing
+[55:22] layer TOS layer frees and and it will be
+[55:24] instant and great and you will be very
+[55:27] quick with changing it to onchain and it
+[55:29] will be inexpensive and all those things
+[55:32] um but we should never ever sacrifice
+[55:36] decentralization or security for that I
+[55:38] think that that if we sacrifice that we
+[55:41] sacrifice everything else also that
+[55:43] that's what people don't get yeah I
+[55:46] think that's right I think that's
+[55:47] exactly right I mean it's you know
+[55:52] there's Bitcoin is a hard money there's
+[55:54] a lot of these sort of set in Stone
+[55:56] rules about how it works but you know if
+[56:01] we
+[56:01] centralize on if it gets too centralized
+[56:05] like those rules can be changed right
+[56:06] they're just enforced by the network
+[56:09] um so yeah like you said like this this
+[56:12] decentralization is incredibly important
+[56:15] the like Bob Bernett says the ethos of
+[56:18] Bitcoin just when in doubt you can fall
+[56:21] back to the ethers of Bitcoin which is
+[56:24] not officially defined anywhere but I
+[56:28] think we're we're all aware of what the
+[56:29] Bitcoin ethos is we can we can we can go
+[56:33] with that I think we'll be all
+[56:35] right absolutely um one more thing that
+[56:38] I'm interested in um uh how has your
+[56:43] perspective on bitcoin changed over the
+[56:46] years while you are in it uh do do you
+[56:49] have do did you had a different feces in
+[56:52] the beginning than than now or is it
+[56:54] kind of the the same well when I first
+[56:57] heard about Bitcoin which was a long
+[56:59] time ago I think it was 20110 or
+[57:04] 11 I was like why do we need another
+[57:06] internet money I've got PayPal what what
+[57:09] is
+[57:10] this I then proceeded to get totally
+[57:13] rugged and deplatformed by PayPal which
+[57:15] was eye
+[57:17] openening and then I was like oh and
+[57:19] then it took me many years I
+[57:21] unfortunately was not an early adopter
+[57:23] of Bitcoin but it took me many years and
+[57:26] it's so it wasn't like my my thesis was
+[57:27] changing it was just kind of learning
+[57:30] more about what Bitcoin is and why
+[57:33] that's important uh and you know some of
+[57:36] that was learning through mistakes other
+[57:41] was uh other things were you know from
+[57:44] listening to awesome podcasts and
+[57:46] reading and learning a lot about it uh
+[57:49] specifically Mining and how it works
+[57:52] from like really diving in and learning
+[57:54] how to implement my own
+[57:57] uh
+[57:58] mining uh
+[58:00] system so yeah not not so much my thesis
+[58:03] is changing as it is developing as I I
+[58:05] learn more
+[58:07] and see and hear about and experience
+[58:10] more bad things from the Fiat
+[58:13] system yeah it's the the Fiat system is
+[58:16] is is the one that I I think that's the
+[58:19] real try people say number go up
+[58:21] technology is is driving us into Bitcoin
+[58:24] but I think it's more of number go down
+[58:27] from the Fiat system that is actually
+[58:28] the main marketing driver for Bitcoin
+[58:31] those guys are doing a really good job
+[58:32] at advertising for Bitcoin like everyone
+[58:35] who gets deplatformed or you know gets
+[58:38] restrictions placed on their bank
+[58:39] account or you know has to pay some fill
+[58:43] out some form to like finsen or you know
+[58:47] report their
+[58:48] like $100 venmo purchase everyone is
+[58:52] just just one more chip towards
+[58:54] realizing how important Bitcoin is
+[58:57] really cool um we have one question that
+[59:00] I asked each and every one of my guests
+[59:01] in the question is what can we learn
+[59:03] from you besides
+[59:05] Bitcoin oh interesting question what can
+[59:09] you learn from me besides Bitcoin
+[59:12] I let me think okay so you can build
+[59:17] Electronics this is this is a practical
+[59:19] thing I'm an engineer that's how I tend
+[59:21] to think but I know them for myself and
+[59:25] I've heard this from a lot
+[59:26] people Electronics seems very difficult
+[59:29] like it's very complicated you need to
+[59:31] know extreme amounts of math and it's
+[59:35] just that's for someone else to
+[59:37] understand that's not true you can do it
+[59:40] lots of people can do it it's not that
+[59:42] hard it's easier than ever to get in
+[59:45] start understanding how Electronics work
+[59:47] and start building your own there's
+[59:49] incredible services from PCB
+[59:51] manufacturers to assemblers to tools
+[59:53] that are available for cheap like
+[59:55] delivered over night from Amazon it's
+[59:57] it's an exciting field like lots of
+[59:58] software people get into it lots of just
+[60:01] hobbyists you know like Woodworkers
+[60:03] people who wouldn't necessarily have an
+[60:05] Electronics engineering background um
+[60:08] you can you can get a lot done without
+[60:10] any heavy math this is something cool
+[60:12] like it's a superpower to be able to
+[60:14] build your own electronic circuit and
+[60:16] PCB and everything from scratch so you
+[60:19] can do it there's a there's a huge
+[60:21] support network um you know even bigger
+[60:25] than bit coin like sort of the makers
+[60:29] hackaday Make magazine things like that
+[60:31] are really geared towards hobbyists
+[60:34] who want to get into this field and
+[60:37] start doing stuff and then you know if
+[60:39] you want to if you want to level up you
+[60:42] can get into bid axes or Bitcoin mining
+[60:45] which is in that same field and you can
+[60:48] do this uh as an example one of the
+[60:50] largest bid ax manufacturers that I'm
+[60:53] aware of had never soldered anything
+[60:57] before making his first bit a and now he
+[60:59] makes tens of thousands of them so
+[61:01] that's massive yeah you can do it if you
+[61:03] have the interest jump in yeah I think
+[61:06] that and also you learn a lot probably
+[61:08] like from like Bitcoin mining
+[61:11] electronics and all all all the rest of
+[61:13] it I like that uh think thinkering
+[61:16] around and and and learning new stuff
+[61:18] yeah yeah say [ __ ] around and find out
+[61:21] right it's like what's the worst gonna
+[61:23] happen you lose a few dollars you're not
+[61:24] gonna you know you're not gonna you're
+[61:27] not going to hurt yourself as long as
+[61:28] you don't put your fingers in the outlet
+[61:31] like screw around screw around and and
+[61:34] build some stuff and uh you might
+[61:37] just find a new hobby or a new
+[61:40] career I I actually went in a school
+[61:43] well and software development but um in
+[61:46] that school it was uh you had to also
+[61:49] learn the basics of electronics uh so
+[61:52] wait maybe I can even show this way oh
+[61:54] yeah show tell let's go
+[61:56] this one okay I made I made myself in
+[62:00] school what that looks like a power
+[62:02] strip what's going on there tell me
+[62:03] about yeah like I made that uh from like
+[62:06] the inside of it and connecting it and
+[62:08] stuff like that really yeah like I had
+[62:10] to learn that like this is cool in in
+[62:13] Austrian schools there's a school form
+[62:16] it's called HDL okay uh and it's
+[62:19] basically you get your math you get your
+[62:22] physics you get all the the normal stuff
+[62:24] uh but the focus on if the people get
+[62:29] out of school they can actually do a job
+[62:31] because if you have normal school
+[62:32] without like an actual skill you best
+[62:36] thing you can do is being an assistant
+[62:37] or something like that or go to
+[62:39] university and they focus on getting
+[62:41] people ready also to to have some job so
+[62:45] electri uh electrical engineer um
+[62:48] software developer like something like
+[62:50] that uh and I went into I think it's the
+[62:54] second biggest school in in whole of of
+[62:55] Austria and I did the software
+[62:57] development but it's mandatory to all to
+[63:00] also do the basics from all the other
+[63:03] fields of engineering so I was um do
+[63:07] working with metals and trying to get
+[63:09] small sculptures and small like pieces
+[63:12] out of there mechanics we we we did the
+[63:15] basics in the in the in in the
+[63:18] engineering lab and also this uh
+[63:21] connecting like wires in in in the house
+[63:24] and if something doesn't work you you
+[63:26] can connect it we also learned uh the
+[63:30] there's like 10 rules or 12 rules I
+[63:32] don't maybe it's an austan thing but
+[63:33] it's probably like an electrion
+[63:35] electronic F field thing uh I think it
+[63:39] was 10 or 12 or eight rules that you
+[63:41] have to follow before doing anything
+[63:43] with
+[63:44] electricity like a safety kind of thing
+[63:47] a safety kind of thing so I have the
+[63:49] basics but
+[63:51] uh just to be be cautious I I I usually
+[63:55] ask my dad because he actually learned
+[63:57] it but but I I like that I know the
+[64:01] basics and if if there's something wrong
+[64:03] in the house it's it's it's I at least I
+[64:06] have an idea of things you know like uh
+[64:08] and if if there's a electrical engineer
+[64:12] coming to my house and fixing something
+[64:14] and I talk to him I I know at least a
+[64:17] little bit like I know at least a little
+[64:20] bit if he's completely screwing me over
+[64:22] and something like that that's always
+[64:24] nice to know that is always nice to know
+[64:27] I uh I get a lot of the confusion
+[64:30] sometime
+[64:31] between electrician an electrical
+[64:34] engineer you know electrician is the
+[64:36] person who does the wiring in your house
+[64:39] uh and doesn't necessarily have an
+[64:40] advanced degree you know there there's a
+[64:42] lot of skills associated with it but uh
+[64:45] the electrical engineer
+[64:48] is is different right you you could be
+[64:50] an electrical engineer who studies high
+[64:53] voltage stuff in which case you might
+[64:55] issue in for an electrician but I think
+[64:57] an electrician is an expert at
+[65:00] understanding uh the the codes the you
+[65:04] know the safety codes about how
+[65:07] electrical systems are put together
+[65:10] whereas in my field there was no there
+[65:12] was there's no like there is no code or
+[65:15] official safety uh thing right you know
+[65:19] we we learned how you can hurt yourself
+[65:21] and how best not to but a lot of that
+[65:23] stuff you kind of have to learn at your
+[65:25] job or or if you're starting your own
+[65:27] company sort of on your own but the good
+[65:30] news
+[65:30] is there's more access to that
+[65:34] information than ever before you can
+[65:36] learn incredibly fast
+[65:39] online and
+[65:41] uh yeah I don't know it's it's probably
+[65:43] also helpful to have a dad who can tell
+[65:46] you like don't don't put your fingers on
+[65:48] there like that's gonna hurt so uh yeah
+[65:52] and it was fun to it was fun to learn
+[65:55] those things things it does more
+[65:57] electrician things I think in in the end
+[66:00] and uh how is it called in English Soul
+[66:04] soldering uh and soing yeah yeah exactly
+[66:08] I don't know I rarely talk about those
+[66:11] things in
+[66:12] English uh and uh it was also we had
+[66:15] those those boards where we connected
+[66:18] LEDs with like buttons and and like
+[66:20] electricity like were you just push it
+[66:22] in yeah like we just pushed the pins in
+[66:25] like wide board where like
+[66:27] open yeah those were really fun also to
+[66:30] do in school and uh it was those things
+[66:34] where I was not good at but I I really
+[66:38] liked just the tinkering uh of it and
+[66:41] and just trying it off like oh like I
+[66:43] connect those two like oh now the LED
+[66:45] actually shines up it's like oh nice
+[66:48] fascinating it's cool right like you see
+[66:50] that happen you're like you know like
+[66:53] achievement unlocked like this is you
+[66:55] can you can uh extrapolate from there
+[66:57] it's like this is how the world works so
+[67:00] cool I don't know I obviously was very
+[67:02] into it as well absolutely really cool
+[67:05] um but let's uh we have an end in the
+[67:08] podcast where the previous guest is
+[67:09] asking a question for the next guest
+[67:11] without uh the the the the he knowing
+[67:15] the next who the next gu actually is uh
+[67:18] and it's a totally different question
+[67:21] than than we we talk now but maybe it's
+[67:24] interesting to hear what what you think
+[67:25] think about that um why is Bitcoin so
+[67:29] tightly correlated with with tech stocks
+[67:31] and and will this ever break well I
+[67:33] think tech stocks dominate the entire
+[67:36] stock market so I guess we could we
+[67:40] could say that the the entire stock
+[67:42] market is very tightly correlated with
+[67:45] tech stocks it does seem like bitcoin
+[67:47] price and the stock market are pretty
+[67:50] tightly
+[67:51] correlated I don't know why why is why
+[67:53] is that like I guess it's just people
+[67:57] feel like if their Investments or maybe
+[68:01] even if just the market in general is
+[68:02] going up they feel more comfortable
+[68:05] investing more in Bitcoin like they
+[68:08] think like oh everything's good I I'm
+[68:10] not going to need to just save this
+[68:13] money uh for any day I think that's
+[68:17] individuals maybe individuals don't
+[68:19] really control the stock market uh or
+[68:21] the Bitcoin price in general so maybe
+[68:23] it's larger institutional investors for
+[68:25] both right they think okay we can get
+[68:27] into this traditionally riskier asset
+[68:30] that is Bitcoin now because everything's
+[68:34] doing good like it's uh and then when
+[68:36] there's blood in the streets they're
+[68:37] like oh that risky Bitcoin thing let's
+[68:40] get rid of that and get into something
+[68:42] more
+[68:43] stable that's my guess I'm a I'm a
+[68:46] terrible
+[68:47] investor but you picked the wrong s the
+[68:49] the right asset right you don't have to
+[68:51] be a good investor you're just toling
+[68:53] Bitcoin I I
+[68:56] my like first ever Bitcoin purchase I
+[68:59] think the price was like it was less
+[69:00] than
+[69:02] $300 and I was like oh well that this
+[69:05] looks interesting maybe I should buy
+[69:06] some and so I'm like well I'll I'll just
+[69:09] get a half of a Bitcoin like you know I
+[69:13] was like this this seems cool I'll I'll
+[69:16] just like buy like a very little amount
+[69:20] of it it's like not very uh uh not very
+[69:25] wise investor I guess
+[69:27] so I I came I I mean I came for the for
+[69:31] the tech as cliche as it is I came for
+[69:33] the tech I really think the Bitcoin
+[69:34] technology is beautiful I'm I'm like a
+[69:37] terrible investor very cautious and do
+[69:40] you know the the meme I'm mean I'm in it
+[69:43] for the technology meme yeah right it's
+[69:47] like some sort of tech M where you don't
+[69:48] actually care about it or I don't know
+[69:50] what does that mean uh I will it it's
+[69:54] it's very prop
+[69:56] at least I I see it I mean nowadays I
+[69:59] don't see it that much anymore but it's
+[70:01] that guy uh with like the gold chain and
+[70:04] the Bitcoin thing like I'm in it for the
+[70:07] technology I I am in it for the
+[70:11] technology but also number go up helps
+[70:13] so I'm in it for both let's just let's
+[70:17] go there yeah absolutely I I think I
+[70:20] don't have any gold chains maybe I
+[70:21] should get some gold
+[70:23] chains yeah uh let me know like if you
+[70:26] in the next podcast you come with gold
+[70:28] chains uh that that would be fun yeah
+[70:31] it's like one of those like uh I won't
+[70:33] tell anyone but there will be signs
+[70:35] right like be like oh bidx solved a
+[70:38] block I wonder who it was and I show up
+[70:40] with these just like solid gold
+[70:43] chains that's the third the third bit X
+[70:45] that sold the BL and and you with a gold
+[70:48] chain it's like I don't know who it was
+[70:50] I have no idea there will be
+[70:53] signs really cool thank you so much uh
+[70:55] Scott for being on Before I Let You Go
+[70:58] um where can people find you ask you
+[70:59] questions and reach out to you check out
+[71:02] the Bida project website bid a.org I've
+[71:04] got links to uh my Twitter and other uh
+[71:10] all the source code and osmu I spent a
+[71:12] lot of my time on the OSU Discord so
+[71:14] there's a link on there I spent a lot of
+[71:16] time on Twitter you can find me on there
+[71:19] Noster all all those links are on there
+[71:21] bit x.org that's the
+[71:23] spot perfect thank so much uh scottt for
+[71:26] for being on also thank you so much for
+[71:28] everyone that is watching and listening
+[71:30] for joining us today as always I'll be
+[71:32] back tomorrow with another episode
+[71:34] thanks for having me it's been fun
+[71:37] [Music]

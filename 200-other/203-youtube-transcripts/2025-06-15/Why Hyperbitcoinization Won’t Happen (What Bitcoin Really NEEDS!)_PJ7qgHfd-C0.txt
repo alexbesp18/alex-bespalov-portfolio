@@ -1,0 +1,1809 @@
+Title: Why Hyperbitcoinization Won’t Happen (What Bitcoin Really NEEDS!)
+Video ID: PJ7qgHfd-C0
+URL: https://www.youtube.com/watch?v=PJ7qgHfd-C0
+Date Saved: 2025-06-15 11:41:10
+--------------------------------------------------
+
+[00:00] I really did believe in
+[00:01] hyperbitcoinization that this thing was
+[00:02] going to be gravity that sucked all
+[00:04] value into it you know Infinity over 21
+[00:07] million these kinds of numberg go up
+[00:09] ideas I don't think that's realistic
+[00:11] anymore all those caveats in there are
+[00:13] true like you can't just say lightning
+[00:15] is strictly better um it's cheaper and
+[00:17] everybody should use it and there's no
+[00:19] trade-offs there's tons of trade-offs
+[00:21] honestly the only political or White
+[00:23] Market Behavior I can justify is
+[00:25] fighting for Bitcoin rights in other
+[00:27] words putting it into law that I can
+[00:30] have a Bitcoin wallet that I can you
+[00:33] know sell anything I want you know sell
+[00:35] for Bitcoin instead of for dollars or
+[00:38] things that I'm allowed explicitly
+[00:40] allowed to do instead of rules about how
+[00:44] I can do things it's meant to be a black
+[00:47] market money which means operating
+[00:48] without permission and the government
+[00:50] there is to enforce you know laws
+[00:52] permissions um and to enforce them with
+[00:55] violence so like Bitcoin can't do
+[00:57] anything about violence so we have to be
+[01:00] careful with the power that we entrust
+[01:01] in the government and how they interplay
+[01:04] with
+[01:05] [Music]
+[01:08] Bitcoin before we get started with the
+[01:10] Bitcoin topics uh a quick overview like
+[01:13] what are you doing in Bitcoin and and
+[01:15] and what is for you the the most
+[01:16] important aspect of of Bitcoin um so
+[01:19] I've been in Bitcoin since late 2012 so
+[01:23] I don't know 12 13 years um the most
+[01:28] important thing I do is synonym our
+[01:31] company um and basically what I what I
+[01:33] try to do both as a bitcoiner and as CEO
+[01:36] at synonym
+[01:38] is separate all of the kind of
+[01:41] and narratives and claims into you know
+[01:45] more realistic um perspectives and
+[01:49] understanding of both Bitcoin to then be
+[01:51] able to have more interesting things the
+[01:54] least interesting to us to build um at
+[01:57] our company synonym by process of elim a
+[02:00] of the things that don't make
+[02:01] sense you so you you're building uh
+[02:05] solutions for Bitcoin or what what is it
+[02:08] done so the vision of synonym is we're
+[02:11] building something that we call the
+[02:12] atomic economy which is just a concept
+[02:15] and it's most similar to the concept
+[02:17] that maybe some of your audience has
+[02:19] heard as far as the concept of
+[02:20] hyperbitcoinization this idea of a
+[02:23] future where like everybody only uses
+[02:25] Bitcoin and everybody pays for
+[02:27] everything in Bitcoin and Bitcoin is the
+[02:29] only money
+[02:30] um that's the kind of extreme you know
+[02:32] short version of the idea of
+[02:34] hyperbitcoinization well Atomic economy
+[02:36] is a more abstract idea that's related
+[02:39] and simply just what is a way that we
+[02:41] could actually design a society
+[02:44] intentionally and tools that people
+[02:46] would use to replace the systems that
+[02:49] currently oppress us not just the money
+[02:51] and Banks but also you know big state
+[02:54] and big Tech so we try to basically you
+[02:57] know create an ecosystem of software and
+[03:00] open protocols that people can use to
+[03:03] replace big Tech big state and big
+[03:06] Banks so in a sense it's uh almost like
+[03:09] a parallel economy that you're trying to
+[03:11] do exactly yes really cool I like that
+[03:15] um how do you look then at it seems like
+[03:19] the the current system wants to
+[03:21] integrate Bitcoin and not like the other
+[03:23] way around how do you look at
+[03:25] governments big corporations big tech
+[03:28] and and all those things uh trying to uh
+[03:31] incorporate and in in integrate Bitcoin
+[03:34] in in their lives like the ETFs are so
+[03:36] popular and stuff like that well it just
+[03:39] depends on what the context of the
+[03:41] conversation is right like a you can't
+[03:44] fault a bank for trying to do Bank
+[03:46] things or a a Wall Street investor for
+[03:49] trying to do Wall Street investor things
+[03:50] or an ETF company for doing ETF things
+[03:53] Etc so I'm not saying anybody should or
+[03:56] should not be able to do these kinds of
+[03:58] things it's what they do but I don't
+[04:00] consider um Legacy Finance adoption of
+[04:04] Bitcoin to be scaling of Bitcoin in any
+[04:08] sort of you know practical sense I
+[04:10] consider it to be you know a scaling of
+[04:13] banking or you know into you know new
+[04:15] products and and new technologies and so
+[04:18] when we talk about scaling specifically
+[04:20] when it comes to bitcoin I don't include
+[04:23] you know things like custodial growth or
+[04:26] state growth um State growth
+[04:29] particularly is one that's divisive
+[04:31] because the state is like the worst
+[04:33] enemy of Bitcoin and seeing people
+[04:36] Embrace politicians and the states
+[04:39] consider things like a a strategic
+[04:42] Bitcoin Reserve or special regulations
+[04:45] for Bitcoin I think that some bitcoiners
+[04:47] may find that those things are less
+[04:50] desirable than they thought they would
+[04:51] be yeah especially now with the shitcoin
+[04:55] Strategic Reserve that they're doing
+[04:57] right like you're not going to qu
+[04:58] they're politicians they're they're
+[05:00] there to Pander to the people that are
+[05:02] the most powerful near them they're not
+[05:04] there necessarily to like make you rich
+[05:07] and so you know if that's what you think
+[05:09] is going to happen that somebody's going
+[05:10] to make you rich then you have the wrong
+[05:12] idea about it it's it's it's a weird
+[05:14] concept uh of
+[05:16] cheering for governments to be more
+[05:19] powerful with adopting Bitcoin uh and I
+[05:23] it's all almost like a good thing that
+[05:25] they're also doing coining uh so so
+[05:28] don't they don't accumulate too many
+[05:29] Bitcoins uh so the government doesn't
+[05:32] get to good of that yeah I see what you
+[05:34] mean I don't know that I would word it
+[05:36] that way but I do see what you mean and
+[05:38] just that I I think that delaying
+[05:40] government involvement and just ignoring
+[05:43] government as much as you can is one of
+[05:45] the better strategies only because the
+[05:48] government is just antithetical to
+[05:50] bitcoin it's it's meant to be a black
+[05:52] market money which means operating
+[05:54] without permission and the government
+[05:56] there is to enforce you know laws
+[05:58] permissions um and to enforce them with
+[06:00] violence so like Bitcoin can't do
+[06:03] anything about violence so we have to be
+[06:05] careful with the power that we entrust
+[06:07] in the government and how they interplay
+[06:09] with Bitcoin do you think we we will
+[06:12] come to a state where this like black
+[06:15] market this Bitcoin hyper Bitcoin say
+[06:19] hyper bized system will be the only one
+[06:22] uh where we kind of get get rid of the
+[06:24] other
+[06:25] one no um I think that that's kind of a
+[06:28] naive idea I used to subscribe to the
+[06:31] idea myself in the early years of
+[06:33] Bitcoin where I really did believe in
+[06:35] hyperbitcoinization that this thing was
+[06:37] going to be the gravity that sucked all
+[06:39] value into it you know Infinity over 21
+[06:42] million these kinds of numberg go up
+[06:44] ideas I don't think that's realistic
+[06:47] anymore I think that people you know
+[06:50] treat Bitcoin like another option for
+[06:52] money another option for you know uh
+[06:55] speculation another option for quote
+[06:57] unquote store of value medium Exchange
+[06:59] currency whatever you want to call it um
+[07:02] it can be any of those things to any of
+[07:04] those people none of those things to
+[07:05] most people whatever um so I think that
+[07:08] there's always going to be like
+[07:10] competition across monies and places to
+[07:12] put your money and speculate so and it's
+[07:16] an advantage like we want competition it
+[07:18] it's a natural thing to have competition
+[07:21] like the first thing that would happen
+[07:22] in a world where only Bitcoin existed is
+[07:24] somebody would invent another
+[07:26] alternative like you know what I mean
+[07:27] somebody would say oh you like Bitcoin
+[07:29] well you could do this instead and then
+[07:31] there would be an alternative so you
+[07:33] can't really like force the vision of
+[07:36] hyperbitcoinization so much as maybe uh
+[07:40] modernize the idea of Bitcoin maximalism
+[07:43] to be maximizing as many users doing as
+[07:46] many transactions as possible in in
+[07:49] Bitcoin and that's all you can really do
+[07:52] this is going to be a limit though
+[07:53] because Bitcoin doesn't scale very well
+[07:56] interesting and and I want to get into
+[07:57] the the scaling of of also because I
+[08:00] think it's really interesting but first
+[08:01] like staying on on on that topic a
+[08:03] little bit how would you how would you
+[08:06] determine if Bitcoin was successful uh
+[08:09] in the future a lot of people say like
+[08:11] oh like Bitcoin needs to be the money or
+[08:13] like or Bitcoin needs to be at that
+[08:16] adoption rate like how do we determine
+[08:18] in the future if if Bitcoin is
+[08:20] successful well I mean what is
+[08:23] successful is subjective right like you
+[08:25] define what the qualifications are they
+[08:29] need to be met to whether you you define
+[08:31] something as a success right it's your
+[08:33] own outcome so you define whether it's
+[08:35] successful I personally Define it it
+[08:38] isn't something that we're all going to
+[08:39] be able to look at and say yep we were
+[08:41] all right it's successful I mean you can
+[08:44] kind of do that in the sense that the
+[08:45] price keeps going up over you know a
+[08:47] 15year span and such but you know what
+[08:50] it whether it's successful is simply
+[08:53] whether or not it solved the problem
+[08:54] that you intended when you got involved
+[08:57] um if you owned Bitcoin to get rich it
+[08:59] made you rich then it was successful if
+[09:01] you owned Bitcoin to be able to
+[09:03] circumvent you know border limitations
+[09:07] with money in banking and it works for
+[09:09] you on that day then it's successful you
+[09:11] know if you're trying to evade some sort
+[09:13] of censorship whatever it may be it's
+[09:16] successful but if it doesn't live up to
+[09:18] those things in your specific situation
+[09:21] then it's not like if you end up getting
+[09:23] caught because of you know onchain
+[09:25] privacy isn't that great or you end up
+[09:27] getting or or your real life privacy
+[09:28] isn't that great or you end up buying
+[09:31] the top and selling the bottom because
+[09:33] you have no choice because of personal
+[09:35] finances then it didn't work for you and
+[09:37] so you know it's okay to be realistic
+[09:40] about all of this the the idea is just
+[09:43] simply that Bitcoin does have a limited
+[09:45] amount Bitcoin is sens Su resistant and
+[09:48] so if you want to focus on some of these
+[09:50] qualities and bet in the speculate on
+[09:52] the future that this will turn out that
+[09:54] the way you hope go for it um so far
+[09:57] it's working out you know in certain
+[09:59] ways better than others and maybe it
+[10:01] will continue to do that that's super
+[10:03] interesting of of of defining the
+[10:06] success uh on an individual basis
+[10:09] because someone can hardle Bitcoin for
+[10:12] 10 years and have great success by never
+[10:14] selling and and and having kind of the
+[10:17] vision that they had in the beginning
+[10:19] played out and someone had maybe the
+[10:21] same vision uh but they they
+[10:25] continuously sold it at the the wrong
+[10:27] times uh so they didn't
+[10:29] connected Bitcoin with success uh so
+[10:32] that's really interesting of like it's
+[10:34] an individual basis and it's really hard
+[10:37] to also for me to find I mean the price
+[10:40] is one aspect of it uh to to Define one
+[10:44] major metric of like okay how how big is
+[10:47] Bitcoin now and the price is kind of an
+[10:50] interesting one but they also more like
+[10:51] how many notes do we have how big is the
+[10:54] mining hash rate uh how how many wallets
+[10:58] with more like I don't know like
+[11:00] thousands of toes out there and stuff
+[11:02] like
+[11:03] that do you have any metric that you
+[11:05] look at of of kind of tracking the
+[11:07] adoption of of of Bitcoin the rate of
+[11:10] adoption well I can see that for all
+[11:14] qualities the price is probably the best
+[11:16] metric we have um because if the price
+[11:18] is healthy then it's because that
+[11:21] there's a demand for it right like it's
+[11:23] just supply and demand so as long as
+[11:25] we're meeting you know supply and demand
+[11:27] and demand is increasing you know then
+[11:29] the price will continue to go up so it's
+[11:31] a pretty good metric other things are
+[11:33] much more difficult and unreliable to
+[11:35] measure like we have some data that we
+[11:37] can look at but you have to really infer
+[11:39] a lot like you have all the blockchain
+[11:41] data you can start looking at you know
+[11:43] you know how much people are spending on
+[11:45] fees how big the transactions they're
+[11:47] sending are but you don't know whether
+[11:49] people are just mixing their own coins
+[11:51] or sending things to themselves like you
+[11:54] don't know a lot about the context of
+[11:57] the the transaction so to measure that
+[11:59] Health through blockchain data isn't
+[12:01] that useful you could try to measure it
+[12:03] by the mining difficulty and the hash
+[12:05] power going up but the problem with that
+[12:07] is that there can be too much hash power
+[12:10] there can be more hash power than the
+[12:12] market can bear and so you can have a a
+[12:15] correction if too many miners speculate
+[12:17] that they can make money mining Bitcoin
+[12:19] and so that's not a perfect measure
+[12:21] either like it's not just a positive
+[12:23] some thing where the more hash power you
+[12:25] get the better um and doesn't mean that
+[12:27] you can keep it so every kind of way
+[12:30] that you could look at Bitcoin and and
+[12:31] it statistics there's all these caveats
+[12:33] and nuances to it um and I wanted to
+[12:36] make a follow-up point to your earlier
+[12:38] topic which is that one thing that's
+[12:40] hard for bitcoiners to understand or or
+[12:42] agree with is that there's no price in
+[12:46] Bitcoin like there's no enforcement of
+[12:48] the price there's no liquidity in
+[12:50] Bitcoin there aren't even actually
+[12:52] transactions in Bitcoin there's just you
+[12:54] move the Bitcoin to one other address
+[12:55] there's no peer-to-peer like you get
+[12:58] this I get that there's no trade you
+[13:00] know what I mean and so there's no
+[13:02] guarantee that Bitcoin you'll be able to
+[13:04] sell Bitcoin for the price that you need
+[13:06] to sell it for when you need to sell it
+[13:08] and so even though we can speculate and
+[13:11] say oh it looks like Bitcoin continues
+[13:13] to go up and up and up over time
+[13:15] especially on the long term that that's
+[13:18] just speculation like it could have a
+[13:21] fiveyear sideways Behavior or a 10year
+[13:25] you know getting getting stuck under
+[13:27] $100,000 like you have noidea idea what
+[13:29] it's going to do it's all based off of a
+[13:32] sentiment of the people that own it and
+[13:34] the people that are interested in own it
+[13:35] and the actual supply and demand that's
+[13:37] the the ultimate free market Bitcoin and
+[13:40] it represents it kind of kind of
+[13:43] perfectly and it's and it's great to to
+[13:45] have that I feel like yeah I mean I
+[13:47] don't know that so I think it's a free
+[13:50] money and for lack of a better term in
+[13:52] other words it's it's a market issued
+[13:54] money and so thus it is a good component
+[13:57] of a free market but having free markets
+[14:00] is very difficult still um we can have
+[14:02] to some degree free markets that are
+[14:05] digital like where you have like black
+[14:07] markets on on uh tour and things like
+[14:10] this but in like the real world in meat
+[14:13] space like you can't really run a
+[14:14] business without being beholden to
+[14:17] various laws and regulations and
+[14:20] limitations being forced to censor in
+[14:22] various ways and so there there's
+[14:24] definitely a limit to this as well as to
+[14:26] how we how much we can claim we have a
+[14:28] free market and that's very much what
+[14:29] we're trying to build with the atomic
+[14:31] economy idea it's basically saying with
+[14:34] all of the current Technologies and
+[14:35] things that we could design what would
+[14:37] be the optimal free market in digital
+[14:40] system that we could have a peer-to-peer
+[14:42] open market that's at least in the
+[14:44] digital sense it's interesting it's also
+[14:47] um like what does it mean to have a free
+[14:50] market like like it uh if there's a
+[14:53] system that's open but there are still
+[14:55] taxes is that a free market like how how
+[14:58] would you define free market is one that
+[15:00] doesn't require intervention so like if
+[15:03] if the government is governing the
+[15:05] market it's not free um and so the free
+[15:08] market is basically a market so a free
+[15:11] market isn't a place without rules a
+[15:13] free market is a place where only the
+[15:14] people involved agree on the rules and
+[15:17] then a white Market is one where you
+[15:19] have this third party that's involved in
+[15:21] everything and so that's that's the
+[15:23] difference and so when you have a black
+[15:24] market you and the person you're trading
+[15:26] with make the rules um and when you have
+[15:29] a white Market the host makes the
+[15:31] rules that makes a lot of sense um do
+[15:35] you see Bitcoin already as as money for
+[15:39] for for that uh black market for that
+[15:42] parallel economy is that already there
+[15:45] needs to happen needs there to be happen
+[15:47] a lot more um it could be better in the
+[15:51] sense that while Bitcoin is inherently
+[15:54] private on its own in other words
+[15:55] there's no metadata about its users in
+[15:57] there there's not even financial data
+[15:59] right because the amounts are just you
+[16:01] don't know what people are doing when
+[16:03] they when they make a Bitcoin
+[16:04] transaction they could be sending an nft
+[16:06] they could be selling a utxo as an
+[16:09] exclusive club membership and they just
+[16:11] don't tell you how they're using that
+[16:13] Bitcoin transaction so there's not a lot
+[16:15] that you can infer necessarily it's it's
+[16:17] literally just like moving moving things
+[16:19] around and you don't know 100% what's
+[16:21] going on um let's come to to the scaling
+[16:24] part of of of Bitcoin uh as you with I'm
+[16:29] also working in in that as I think um
+[16:32] how do we scale Bitcoin without losing
+[16:35] the decentralization and being aware of
+[16:39] the convenience that people seek usually
+[16:42] um I will say my my answers are probably
+[16:44] different than most people um and not
+[16:47] exactly popular but as far as how to
+[16:49] scale Bitcoin just there's a few ways to
+[16:51] look at it one just by design it
+[16:54] literally does not scale in other words
+[16:56] every single node has to run do the same
+[16:59] amount of work there's no way to gain an
+[17:01] efficiency by adding more nodes um so
+[17:04] there's no efficiency gains that could
+[17:05] be had in scaling with onchain Bitcoin
+[17:08] now you can start to make these sort of
+[17:11] like pseudo Credit Systems or pseudo
+[17:13] Trust Systems or these kind of games on
+[17:15] layers like lightning and things like
+[17:17] this where you have two people sharing
+[17:19] you know a utxo and trying to you know
+[17:22] enforce the rules of that um but it's
+[17:26] becoming clear that some of these things
+[17:28] have lot of limitations and so my idea
+[17:31] of scaling is that you have to try to
+[17:35] find a sweet spot you have to try to say
+[17:37] okay yes any amount of increase in cost
+[17:42] is exclusive and any amount of exclusion
+[17:44] is centralization and so if the fees for
+[17:48] sending a Bitcoin transaction for
+[17:49] example keep going up then Bitcoin will
+[17:52] keep becoming more centralized because
+[17:54] you're you're continually excluding the
+[17:56] lower class of users by the higher the
+[17:59] price goes up the same is true um if
+[18:02] there's the cost to running a node to be
+[18:04] able to use Bitcoin in a self- sovereign
+[18:06] self- Sovereign way verify the
+[18:08] transactions you're receiving a real
+[18:09] Bitcoin um if the cost run a node goes
+[18:12] up you can be excluded and so what we
+[18:14] have to try to do is keep our our finger
+[18:18] on the pulse of Technology what are what
+[18:20] are the trends and costs in Hardware you
+[18:24] know hard drive space uh connectivity
+[18:27] how how fast our net works you know what
+[18:29] what type of issues are people having
+[18:31] with you know downloading data from the
+[18:33] blockchain and initial block downloads
+[18:35] and this kind of thing propagating data
+[18:38] um you know what kind of latency are we
+[18:39] having to propagate new blocks across
+[18:41] the network and identifying where the
+[18:44] safe spots are and so that way when
+[18:47] blocks are full for too long we can make
+[18:51] good arguments about whether or not to
+[18:53] increase block size um and whether there
+[18:55] are safe ways to do that without without
+[18:57] a hard Fork you know like like we did
+[18:59] with segue for example but generally we
+[19:03] need any types of changes like this to
+[19:05] be Market driven not engineer driven we
+[19:07] needed to be where like it's just
+[19:09] emergent that everybody is like
+[19:12] everybody wants bigger blocks when that
+[19:14] when that is the culture of things then
+[19:16] you can do it we're nowhere near that
+[19:18] right now most people are scared to even
+[19:20] talk about the idea never mind actually
+[19:23] research how to do it and propose it as
+[19:25] a softwork and the blocks aren't full
+[19:27] right now anyway so how are you going to
+[19:29] convince anyone like it's just silly
+[19:32] right the you can't really take risks so
+[19:34] I would say you have to I think it's
+[19:37] worth you know revisiting the idea of
+[19:40] onchain scaling within a sweet spot but
+[19:44] knowing that there's a limit to that
+[19:46] that eventually we hit a limit or we
+[19:47] come too close to limits and we start
+[19:50] excluding people because of the cost of
+[19:52] running a node or the the latency of the
+[19:55] networks Etc and so there's only like a
+[19:58] sweet spot we can hit and then we've
+[20:00] done the best we can do and we have to
+[20:02] wait till technology advances further
+[20:04] and even if we get networks to be like
+[20:06] the speed of light which would be the
+[20:08] ultimate limit that's still a scaling
+[20:10] limit there because the distance and the
+[20:12] size of the Earth you know what I mean
+[20:13] that the time it takes for the speed of
+[20:15] light to travel across the Earth there's
+[20:17] your your minimum latency for
+[20:19] propagating a block so you have a lot of
+[20:22] actual technical limitations to scaling
+[20:24] but I do think that there's more that
+[20:26] could be done in the future with onchain
+[20:28] scaling and I also think that there's
+[20:31] less reason to be overly confident in
+[20:34] layered scaling there's a lot in there
+[20:37] uh but layout is layout scaling still
+[20:41] part of the solution uh depends how you
+[20:43] look at it like for example what
+[20:45] lightning does is it incorporates a
+[20:47] little bit of trust and a little bit of
+[20:49] self- enforcement like you have to
+[20:51] defend your channel the Bitcoin
+[20:52] blockchain doesn't do it for you um and
+[20:55] it trades basically it trades this trust
+[20:58] dynamic
+[20:59] so you can have now the capability of uh
+[21:03] doing many transactions offchain with
+[21:05] one direct pier and you can also now
+[21:08] indirectly do this with other peers that
+[21:10] they're connected to but the main
+[21:12] advantage the core advantage of it is
+[21:14] simply if you plan to do many
+[21:16] transactions with one direct party you
+[21:19] know and you know that you're going to
+[21:20] do those
+[21:21] transactions and you trust them enough
+[21:24] to have a lightning Channel with them
+[21:26] then you could save a decent amount of
+[21:28] money by doing that instead of on chain
+[21:31] transactions but there's some C all
+[21:33] those caveats in there are true like you
+[21:35] can't just say lightning is strictly
+[21:37] better um it's cheaper and everybody
+[21:39] should use it and there's no trade-offs
+[21:40] there's tons of trade-offs there's a lot
+[21:42] of complexity there's a lot of there's
+[21:43] chances that your channel will close
+[21:45] when you don't want it to there's
+[21:46] chances that you won't be able to afford
+[21:48] the enforcement transaction because when
+[21:50] you do have a clo a force close the fees
+[21:53] are too high or the fees are higher than
+[21:55] the value you have in the channel
+[21:57] there's all kinds of weird dynamics that
+[21:58] can happen but um I do think lightning
+[22:01] will always have a place at minimum with
+[22:03] busino business transactions so B2B you
+[22:07] know transacting in Bitcoin is something
+[22:09] that could be done instead of credit
+[22:11] terms in sort of normal normal credit
+[22:13] terms where like I buy something from
+[22:15] your business and then every 30 days we
+[22:17] settle and I actually pay for it you
+[22:19] know what I mean instead of doing that
+[22:21] you can dynamically settle with
+[22:23] lightning and not have to worry about
+[22:25] this like delay and so there's these
+[22:27] there these Gam means that definitely
+[22:29] exchanges will have large businesses
+[22:32] that you know accept Bitcoin you know
+[22:34] any type of merchant that is significant
+[22:36] and doing business in Bitcoin with other
+[22:38] businesses will definitely get an
+[22:39] advantage out of lightning but that
+[22:41] doesn't take us to millions of users you
+[22:44] know what I mean that doesn't help us
+[22:46] get to billions of users it just helps
+[22:49] us have businesses which is probably
+[22:52] more like in the thousands or at best
+[22:54] tens of thousands that would be involved
+[22:57] in this kind of thing it gives them an
+[22:59] option so there is some scaling there
+[23:01] but it is a trust tradeoff it's not just
+[23:04] a pure thing and it's it's interesting
+[23:08] how do you look at at smaller
+[23:10] transactions of like okay we have that
+[23:13] parallel economy and I just want to buy
+[23:15] like a very small thing meaning being a
+[23:18] coffee or like a small digital thing
+[23:20] like something that is very
+[23:21] inexpensive
+[23:23] um would like those kind of use cases
+[23:26] would then make more sense on on layer
+[23:29] Technologies of like having because you
+[23:32] don't need that much trust and you can
+[23:33] park small amounts of of money in that's
+[23:36] it that that way I kind of see of like
+[23:39] the layer Solutions I have a lightning
+[23:41] wallet where I I don't know keep a 100
+[23:44] or something like that in there uh to
+[23:46] pay every now and then for a restaurant
+[23:49] a bill or something like that um not a
+[23:52] lot of them accept it but uh those that
+[23:55] do it's an really good experience um but
+[23:58] it's all custodial and I I I use i w
+[24:01] that was my question and and I use
+[24:04] wallet of Satoshi for that because I
+[24:07] don't uh currently it's like how even if
+[24:11] they rock me I don't really care like
+[24:13] it's I see it as like my wallet that I
+[24:16] have in in my pocket uh someone can come
+[24:18] up to me and and steal it and I would
+[24:20] probably not even do something because
+[24:22] there's nothing valuable in there and
+[24:23] like before they they shoot me or put a
+[24:27] knife in my gut I just let them take it
+[24:30] um but where I never want to have the
+[24:33] majority of my money there my majority
+[24:35] of money should be on on the main layer
+[24:38] so that's why I'm really interested in
+[24:39] like um how will we deal with that and
+[24:43] as you said like the main layer has
+[24:45] limitations um even if we increase the
+[24:48] block size there's only like so much we
+[24:49] can increase and if we are really like
+[24:52] Bitcoin is successful but if if a lot of
+[24:55] people use Bitcoin we we probably run
+[24:57] into limitations of like doing the big
+[25:00] and important transactions on on on
+[25:03] chain and maybe then coffee transactions
+[25:06] on on on second layers or third layers
+[25:08] or whatever we can do well there's some
+[25:11] Nuance here I I think that what we found
+[25:14] and what I've learned is that when you
+[25:17] start getting to really small
+[25:18] transactions and really high frequency
+[25:21] you end up having to compare all
+[25:24] solutions and so for example it's not
+[25:27] just whether or not people can use
+[25:28] lightning right in other words whether
+[25:31] lightning is even cheaper than using
+[25:32] onchain Bitcoin it's whether or not
+[25:35] making that coffee transaction is easier
+[25:37] and cheaper with a credit card or with
+[25:39] wallet of Satoshi instead of running
+[25:41] your own Lo lightning node you know what
+[25:42] I mean these so this is what what these
+[25:45] things these Solutions are competing
+[25:47] against and right now what we see in the
+[25:50] world is that the more quantity the more
+[25:53] high frequency the smaller the
+[25:55] transaction the more trust is typically
+[25:57] involved in the transaction and so if
+[26:01] the way to accomplish scale of micro
+[26:05] payments is trust then Bitcoin isn't
+[26:08] part of that solution right because
+[26:10] Bitcoin is meant to be used in a
+[26:11] trustless way and so if you're using
+[26:13] Bitcoin and trusted
+[26:15] situations why like you could use
+[26:18] anything um and you could trust with
+[26:20] anything why trust with something
+[26:21] extremely valuable for example your
+[26:23] wallet of Satoshi account why not just
+[26:26] give them $50 instead of Bitcoin you
+[26:29] know what I mean like if you have $50
+[26:31] because that's you're less worried about
+[26:33] losing the $50 than you are the Bitcoin
+[26:36] um but in the end I think you do need
+[26:39] trust to do these things because they
+[26:42] they simply can't scale something
+[26:44] especially Bitcoin to be used for every
+[26:47] day every single tiny little transaction
+[26:50] it will just never happen and it won't
+[26:52] happen on Lightning either because it's
+[26:54] limited by on chain in other words the
+[26:57] cost to make a lightning channel the
+[26:58] cost to close a lightning Channel what
+[27:00] the costs of your lightning Channel
+[27:02] closing by mistake the cost of locking
+[27:05] up Bitcoin in those channels to provide
+[27:07] liquidity to you and what will that
+[27:09] eventual market rate be for locking up
+[27:11] that Bitcoin and putting it at risk in a
+[27:13] hot wallet and then you're comparing all
+[27:15] those Dynamics to well I could just use
+[27:17] wallet of Satoshi or I could just use my
+[27:19] credit card or I could just use my bank
+[27:22] and as long as you can still do those
+[27:24] things you will and your bank isn't very
+[27:26] interested in censoring your cost
+[27:28] transactions right they're interested in
+[27:30] censoring larger ones or more
+[27:32] significant ones for different types of
+[27:34] things and so most people most of the
+[27:36] time are going to do just fine using
+[27:39] trusted solutions for micro payments so
+[27:42] do we want Bitcoin for coffee probably
+[27:45] not do we want Bitcoin for as many
+[27:47] transactions as many as people as
+[27:49] possible yes and so another thing to
+[27:52] think about is what will people use like
+[27:54] I already mentioned they will consider
+[27:56] all the solutions and so another thing
+[27:58] Nuance in here is let's say they really
+[28:01] do want to use Bitcoin they don't want
+[28:03] to use bank they don't want to use uh
+[28:06] you know a custodial solution what they
+[28:09] might find is what you might ask is okay
+[28:11] why do they want a blockchain so bad and
+[28:13] will those people when they can't afford
+[28:15] Bitcoin when Bitcoin doesn't scale to
+[28:17] meet their needs will they not just use
+[28:19] a worse blockchain and there's and maybe
+[28:21] we'll have like a ladder of blockchains
+[28:24] where it's like Bitcoin is the top it's
+[28:25] the most secure it's the most reliable
+[28:27] it's it's the most stable store of value
+[28:29] and growing even and then everything
+[28:31] below it is like a spectrum of how close
+[28:34] does it come to bitcoin security
+[28:36] censorship resistance and speculative
+[28:39] value it's also like um for for the
+[28:43] smaller transactions of like cofes and
+[28:46] stuff like that um I mean bitcoiners
+[28:49] that kind of live on a Bitcoin standard
+[28:51] or like they uh have already income in
+[28:55] Bitcoin like myself uh I think Jack m is
+[28:58] also famous for for doing that and some
+[29:00] others uh they just have a credit card
+[29:03] and pay once a month the credit card off
+[29:05] with with Bitcoin and and therefore they
+[29:07] have like one Bitcoin transaction a
+[29:09] month but do the smaller transactions
+[29:13] and inact with the feat system right
+[29:15] like channel right like they once a
+[29:18] month they top it up or they make a
+[29:19] channel and then when the channel runs
+[29:21] out they top it up again it it's just a
+[29:24] method of applying trust to be able to
+[29:26] make things more affordable and
+[29:29] faster yeah it's an interesting
+[29:31] comparison of because it's like not it's
+[29:33] not Bitcoin scaling yeah it's not
+[29:35] Bitcoin SC I mean I mean in a sense uh
+[29:38] you still use you don't really use
+[29:40] Bitcoin that that's true like you you um
+[29:43] it helps you spend your Bitcoin in an
+[29:46] indirect way it's not really scaling
+[29:48] it's Bank scaling in the end right like
+[29:51] that's that's a tricky part when you
+[29:52] have when you get into conversations
+[29:53] with bitcoiners about the design of
+[29:56] Bitcoin Etc is when you talk about
+[29:58] scaling they often like change the
+[30:00] definition of what they're scaling to
+[30:02] suit the current you know topic and
+[30:05] they'll just keep changing the
+[30:06] definition like are we talking about
+[30:08] scaling on chain are we talking about
+[30:10] scaling the amount of people that hold
+[30:12] Bitcoin with their own Keys the amount
+[30:14] of people that use nodes the amount of
+[30:15] people that use lightning the amount of
+[30:16] people that use Banks you know at some
+[30:19] point you make a leap and you're not
+[30:20] talking about Bitcoin anymore
+[30:22] right yeah that that's true like uh even
+[30:26] even lightning um
+[30:28] it's like you if we can build a lot of
+[30:32] transactions on Lightning we didn't
+[30:35] scale Bitcoin in in a definitional sense
+[30:38] we we we allowed more transactions uh on
+[30:43] on lightning and we're using Bitcoin so
+[30:45] it's it's less it's more about using
+[30:48] more about scaling the use case of
+[30:50] Bitcoin and less about scaling Bitcoin
+[30:52] in itself when we go to the definitions
+[30:54] is that what kind going lightning isn't
+[30:57] a nice sweet spot out there nice gray
+[30:59] area like where at least lightning is
+[31:01] made out of Bitcoin transactions right
+[31:03] like every lightning transaction is
+[31:05] literally a Bitcoin transaction that
+[31:07] could be sent on chain if the user
+[31:09] wanted to and so it is really Bitcoin
+[31:12] it's just all unconfirmed transactions
+[31:15] which most people don't consider to be
+[31:17] real until they're confirmed right and
+[31:20] so this still trust involved there's
+[31:22] still uncertainty involved there's still
+[31:24] self- enforcement required Etc but it's
+[31:28] just that that Dynamic again of using
+[31:30] trust to try to accomplish you know more
+[31:33] efficient you know use of Bitcoin
+[31:35] lightning is an interesting design also
+[31:37] Arc as well which is kind of similar um
+[31:40] in that it actually uses Bitcoin
+[31:42] transactions whereas almost every other
+[31:45] layer proposal um for scaling isn't that
+[31:48] it's like using a separate blockchain
+[31:50] like for example liquid which you know
+[31:52] when you when you try to categorize it
+[31:54] it isn't that much different than
+[31:55] looking at an altcoin it's just saying
+[31:57] it's a separate blockchain you convert
+[31:59] your Bitcoin into the units of that
+[32:01] blockchain and now you trust these
+[32:03] middlemen to redeem your bit your real
+[32:06] Bitcoin for their blockchain tokens
+[32:09] someday and so that's not really scaling
+[32:12] either right it's scaling liquid when
+[32:14] you use it because every transaction on
+[32:16] liquid will never happen on bitcoin
+[32:18] let's take a break for a moment and
+[32:20] appreciate the beauty that coin
+[32:22] vigilante has made with the Bitcoin
+[32:25] watches those watches are the most aming
+[32:27] amazing the most elegent way of showing
+[32:30] that you are a true bitcoiner and coin
+[32:33] vigilante just dropped a completely new
+[32:36] and amazing Genesis edition of their
+[32:39] watch collections you have the date of
+[32:42] the first ever Min Bitcoin Block in
+[32:45] there and of course also the block
+[32:47] height and which Epoch we are currently
+[32:50] in I love the level of detail they put
+[32:53] in in this masterpiece make sure to
+[32:56] check out those amazing coin vigilante
+[32:59] time pieces down in the descriptions I
+[33:01] love those watches so so much and now if
+[33:04] you have Bitcoin I really do hope that
+[33:07] you don't have it on Exchange but if you
+[33:09] do have it on Exchange I have two ways
+[33:11] for you to deal with that the first way
+[33:14] is you put it on a hardware wallet
+[33:16] that's the entry for you to get into the
+[33:19] self- custody game I recommend bitbox
+[33:22] Bitcoin only Edition for that it's a
+[33:25] super simple and secure way and if you
+[33:28] check out the link in the description
+[33:30] you even get 5% off if you use the code
+[33:33] Robin and the second way is the Bitcoin
+[33:36] way the Bitcoin way is your Allin
+[33:39] partner in terms of how to get the most
+[33:42] out of your sovereignty they will
+[33:44] personalize for you a self custody setup
+[33:47] that is perfect for your individual
+[33:50] situation they will show you how you can
+[33:53] secure your own devices securing your
+[33:55] Bitcoin is not enough you also have to
+[33:58] keep all your devices secure one topic
+[34:00] that is overlooked often is the
+[34:02] inheritance plan what happens with your
+[34:05] Bitcoin once you are no longer here do
+[34:08] you have a plan for that in place
+[34:10] already and last but not least if you're
+[34:12] in jurisdictions where you don't feel
+[34:15] safe it's better to get a plan B for all
+[34:18] that head over to the Bitcoin way.com
+[34:22] robobin to get a 30 minute free call and
+[34:25] just a quick side note I will will be
+[34:28] for the first time ever speaking at the
+[34:30] Bitcoin Prague event in June it will be
+[34:33] absolutely legendary and I'm really
+[34:35] looking forward to seeing all of you
+[34:38] there you can get your ticket in the
+[34:40] link down in the description of Bitcoin
+[34:42] brag and very important use code Robin
+[34:45] to get 10% off your ticket I'm really
+[34:48] looking forward seeing you there do you
+[34:50] think will get a majority of uh of of of
+[34:55] people on Earth to to use Bitcoin
+[34:59] no um I think you get the majority of
+[35:01] per people on Earth to know that it's
+[35:03] there and know that it's an option for
+[35:05] them if they need it and and as time
+[35:07] moves on people will you know get a
+[35:09] better understanding a better
+[35:10] instinctive understanding of what it's
+[35:12] for and when to use it and why but it
+[35:15] simply can't be used by everybody and
+[35:18] just by like we see how it's playing out
+[35:21] you know what I mean we watched that as
+[35:22] soon as Bitcoin was invented it caused
+[35:25] more monies than ever to exist not L
+[35:28] right like Bitcoin hyperbitcoinization
+[35:29] didn't happen we got hypers shitcoin
+[35:31] iation you know what I mean it just we
+[35:33] just got more and more altcoins and so I
+[35:36] think that we should look at reality and
+[35:38] see how things have scaled how things
+[35:43] have you know what where successes have
+[35:44] come we saw we see a lot of success with
+[35:47] tether and I think there's a lot of
+[35:49] reasons for that as well and tether is
+[35:51] covering a lot of the kind of areas that
+[35:53] some bitcoiners wish Bitcoin would scale
+[35:55] into like micro payment
+[35:58] you know peer-to-peer Commerce this kind
+[35:59] of thing so we we have to accept and we
+[36:03] should try to understand why all these
+[36:04] things became true not make up stories
+[36:07] as to why they shouldn't be true it's
+[36:09] like um I mean the the Dilemma of like
+[36:13] you you cannot have the most
+[36:15] decentralized and robust system and
+[36:19] paying uh a coffee with it so like the
+[36:23] like you can have one or the other
+[36:25] basically and we we can integrate system
+[36:27] so the the one system works really fine
+[36:30] with the other one but we we cannot
+[36:31] really scale uh the the decentralized
+[36:35] system to also work in the most uh
+[36:38] scaled way possible is that what you're
+[36:41] kind of going to yeah like when you're
+[36:43] trying to work in distributed systems
+[36:45] you're always going to have a limitation
+[36:47] for the the overall scope of the system
+[36:49] you can't have a global peer-to-peer
+[36:52] entirely system like it just doesn't
+[36:54] work you end up needing to aggregate and
+[36:57] index and coordinate and you have all
+[37:00] these different network behaviors that
+[37:02] you have to make happen in order for the
+[37:04] use cases that people actually use
+[37:05] networks for to be possible and you just
+[37:08] can't you just can't scale Bitcoin in
+[37:10] that way thing yeah um are you
+[37:16] um there's a lot of the community that
+[37:18] focuses now on on price that focus on
+[37:21] like ETF on micro strategy on like black
+[37:24] rock on like Bitcoin or shitcoin
+[37:27] research of strategy um are we too
+[37:30] focused on just the the the price going
+[37:34] going up and and and not enough on the
+[37:37] actual technology and and actual making
+[37:40] Bitcoin a viable money uh maybe um again
+[37:44] too much is subjective right so I don't
+[37:46] know what is too much in my opinion too
+[37:49] many people care too much about that to
+[37:51] a degree where they accept a lot a lot
+[37:54] of their own ignorance in other words
+[37:56] they listen for the things they want to
+[37:58] hear and then they learn weird
+[38:01] understandings of Bitcoin and they try
+[38:02] to build on those weird understandings
+[38:04] and they end up having a pretty
+[38:06] malformed you know vision of Bitcoin
+[38:09] that just only fits the idea of number
+[38:12] go up and it's just isn't that simple
+[38:14] and it isn't that true so I do think
+[38:16] that there's a bit too much focus on
+[38:18] that especially the idea of White Market
+[38:20] Bitcoin and other words stuff in ETFs
+[38:23] stuff involved with the government um
+[38:26] these things are are not going to work
+[38:28] out well for people because in the end
+[38:30] the the true core value of Bitcoin is in
+[38:32] censorship resistance and when it comes
+[38:35] time to to lever that and use that
+[38:38] censorship resistance the government's
+[38:40] going to counter and react the opposite
+[38:42] way they're not going to be like oh yeah
+[38:44] this is great you know we love uh having
+[38:47] a strategic Bitcoin Reserve where all
+[38:48] the bitcoiners just tell us to off
+[38:50] and do what they want like that's not
+[38:53] gonna be compatible and they're gonna
+[38:55] end up trying to control Bitcoin or you
+[38:57] know Define how you can or can't use it
+[39:00] trying to make sure everybody every
+[39:02] business entity out there is censoring
+[39:04] to their liking miners lightning nodes
+[39:07] whatever it may be what you know the
+[39:09] more successful it becomes the more
+[39:11] they'll behave that way and so I think
+[39:13] we should be focusing more on how we can
+[39:18] avoid that how we can avoid you know
+[39:20] government being able to influence
+[39:22] bitcoin's protocol influence its design
+[39:25] influence how people use it influence
+[39:27] the the rights and laws around it um
+[39:31] honestly the only political like or
+[39:34] White Market Behavior I can justify is
+[39:37] fighting for Bitcoin rights um in other
+[39:40] words putting it into law that I can
+[39:42] have a Bitcoin wallet that I can you
+[39:45] know sell anything I want you know sell
+[39:48] for Bitcoin instead of for dollars or
+[39:51] things that I'm allowed explicitly
+[39:54] allowed to do instead of rules about how
+[39:57] I can do things you know what I mean or
+[39:59] whether I can do things these
+[40:01] regulations basically like we don't need
+[40:04] more regulations we really don't all of
+[40:06] the crimes that have been committed
+[40:08] around Securities and finance have been
+[40:11] documented and dealt with and the
+[40:13] Bitcoin ones aren't that new they're
+[40:15] just a combination of existing you know
+[40:17] crimes and so we don't need regulatory
+[40:20] Clarity what we need is Bitcoin rights I
+[40:22] have seen a little bit of that which I
+[40:24] like but not nearly enough it's mostly
+[40:26] about trying to find ways is to get the
+[40:27] government to pump our
+[40:29] bags yeah is that maybe even like a
+[40:32] threat to bitcoin um if the the
+[40:35] community is too focused on that and
+[40:37] imple implementing change on bitcoin
+[40:40] always requires consensus and PR uh
+[40:43] thing of like if we are too focused on
+[40:46] that it might uh lead to to something
+[40:48] that we don't don't want with with black
+[40:50] crog and governments and big
+[40:51] institutions get behind that definitely
+[40:55] um you know like there's a a bud an
+[40:57] invisible budget for every idea and
+[41:00] every industry and every you know
+[41:03] project and when you're mental budget
+[41:06] you know your attention your your actual
+[41:09] budget you know how you invest money in
+[41:11] startups and businesses and things like
+[41:13] this when it starts getting distorted
+[41:15] over to Legacy Financial interests
+[41:17] political interests you know making
+[41:20] politicians interested educating
+[41:22] politicians educating you know uh
+[41:25] Congress and when you start biasing
+[41:27] yourself towards that you're biasing
+[41:29] yourself to government dependence and so
+[41:32] the more we bias as a culture as our
+[41:35] money we become those things and so if
+[41:38] we were to have a culture that was more
+[41:40] biased towards privacy CIP resistance
+[41:44] you know free markets voluntarism you
+[41:48] know all these kinds of Concepts then
+[41:50] people would be investing in different
+[41:52] types of businesses they'd be building
+[41:53] different things they'd be you know
+[41:55] different types of people working on the
+[41:57] protocol and yeah I think our culture
+[41:59] will definitely affect what Bitcoin is
+[42:01] because Bitcoin is people it's not just
+[42:03] some sort of like magical you know law
+[42:06] of physics that was invented it's just
+[42:08] people running running computers and if
+[42:11] those people decide to think differently
+[42:13] and behave differently and they do it as
+[42:14] a group things will change and so we we
+[42:17] do have to be mindful about where we put
+[42:19] our kind of mental and financial
+[42:23] budgets very true absolutely um uh
+[42:28] fun one do you is is a KC Bitcoin the
+[42:32] same as a non KC Bitcoin depends who you
+[42:34] ask right like Bitcoin doesn't decide
+[42:37] the cool thing about Bitcoin is because
+[42:39] it being sensor persistance it doesn't
+[42:41] decide what's okay right but your
+[42:44] counterparty has every right to decide
+[42:46] what's okay in other words Bitcoin is
+[42:48] perfect for a free market and when we
+[42:50] Define free markets earlier it's just
+[42:52] when you and your counterparty agree on
+[42:54] the rules well if your counterparty says
+[42:56] you have to show me your ID in order to
+[42:59] pay in Bitcoin then that's the only way
+[43:01] you're going to do business with that
+[43:02] part counterparty whether he says it
+[43:04] because the government told him to or
+[43:06] because he needs that information to
+[43:08] feel like he can trust you and so you
+[43:11] know you can't stop that your
+[43:14] counterparty can censor you or deny
+[43:16] doing business with you and if you
+[43:19] become somebody that nobody wants to do
+[43:20] business with for some reason other than
+[43:22] the government said then nobody will do
+[43:24] business with you regardless of your
+[43:26] Bitcoin so
+[43:28] yeah I do hope that that non KC Bitcoin
+[43:33] are are allowed in the wide Market than
+[43:36] in the future but it seems like now it
+[43:38] seems like they they mostly can um you
+[43:41] do have like some people getting flagged
+[43:43] when they're doing coin joins or when
+[43:46] you know when you are touching an an
+[43:48] ofac listed address like there are
+[43:51] there's still some kind of censorship
+[43:52] and things that get flagged in that way
+[43:55] but for the most part there's not a lot
+[43:57] of like really angling out anything
+[44:01] that's not White Market Bitcoin um it's
+[44:03] getting worse though things like the
+[44:05] flight Rule MAA regulations these kinds
+[44:07] of things get get us closer and closer
+[44:10] and closer to White Market being Bitcoin
+[44:13] being the only sanctioned Bitcoin and
+[44:15] black market being portrayed as criminal
+[44:18] um and remember Black Market doesn't
+[44:20] mean criminal it just means not
+[44:23] following the law and so just because
+[44:26] you don't consider the regulations or
+[44:28] laws when you use Bitcoin doesn't
+[44:30] necessarily mean that you're doing
+[44:32] something bad it doesn't even mean
+[44:33] you're breaking the law it just means
+[44:35] you're doing it without consulting the
+[44:37] law without worrying about or
+[44:39] considering the law yeah there's this uh
+[44:41] difference between doing the right thing
+[44:44] and doing the legal thing like there is
+[44:47] yeah there often is a big
+[44:49] difference does doesn't doesn't need to
+[44:52] be the the same thing I shouldn't be too
+[44:54] negative like all of that said like most
+[44:56] laws exist for good reasons most of our
+[44:59] most of the intent of humanity to get
+[45:01] other humans to behave is a natural and
+[45:05] organic and and meaningful or moral
+[45:08] intent but we do get lost in this all
+[45:11] this negotiating of telling other people
+[45:12] what they should or shouldn't do yeah
+[45:15] and and I get really frustrated when
+[45:18] people try to explain like oh like we we
+[45:22] we have to do it that way because that's
+[45:25] the law and I'm like okay but
+[45:27] why not go to First principles and ask
+[45:29] ourself it's that the is that the right
+[45:32] thing to do like is is is is that a good
+[45:35] thing to do well it depends on the
+[45:36] context right like if it's just a
+[45:37] personal thing between two people you're
+[45:40] a little more free to get away with just
+[45:42] making your own rules but when you're a
+[45:44] business you don't have as much freedom
+[45:46] because now you have more scrutiny you
+[45:48] have more reporting depending on the
+[45:50] country you're in it will you know make
+[45:52] could be worse or better but in the end
+[45:54] like as a business you have a physical
+[45:56] location they can find you they can hold
+[45:58] you accountable they can hold all of
+[46:00] your shareholders accountable and so you
+[46:02] become more part of the state the bigger
+[46:05] your business is the more money your
+[46:06] business makes you know these kinds of
+[46:08] things yeah you kind of have to be uh
+[46:12] aware of where you start your
+[46:14] business could make a different it's a
+[46:17] big thing now I don't think there's any
+[46:19] startup anymore that at least well
+[46:22] American mens tend to be American
+[46:23] Centric and they're just default to
+[46:25] opening their startup in America but
+[46:27] startups outside of the US definitely
+[46:30] are like think you know asking their
+[46:32] lawyer where should we form this
+[46:33] business and because most of these
+[46:35] businesses are like mostly remote or
+[46:37] totally remote and so they can operate
+[46:40] out of anywhere and yes for the most
+[46:43] part many Bitcoin and crypto uh
+[46:46] businesses are strategically choosing
+[46:48] where to register their business based
+[46:50] on
+[46:51] regulations where would you open a
+[46:53] Bitcoin business currently do you have
+[46:55] like favorite locations where you look
+[46:57] for that no I'll say that it's not my
+[47:00] job to strategize and worry about that
+[47:02] it's lawyers jobs and our lawyers uh
+[47:06] initially had us in British Virgin
+[47:08] Islands BVI um and recently moved us to
+[47:11] El Salvador so yeah welcome
+[47:16] to I mean we we don't work from there
+[47:19] but yes our business is based out of
+[47:20] there and just so the audience
+[47:23] understands um our conon our our company
+[47:26] synonym is uh majority owned by tether
+[47:30] and so tether you know has been working
+[47:32] more with El Salvador and is moving some
+[47:34] of their companies to El Salvador so
+[47:36] it's part of a wider strategic choice I
+[47:38] think so I wasn't really too involved
+[47:41] within it and I and I don't really care
+[47:43] where the business is located as long as
+[47:44] it's you know not worse than where we
+[47:47] were before um so yeah I I I think it's
+[47:50] interesting and I hope it'll turn into
+[47:52] something you know of a benefit for us
+[47:54] at some point really cool how do you
+[47:57] look at uh El Salvador uh where you're
+[48:00] already visiting uh yourself also I've
+[48:03] been there three times all three to
+[48:05] speak at conferences um I hadn't been
+[48:08] there in two years until recently I went
+[48:10] in January for the plan B conference
+[48:13] um I I was I I was in Bitcoin through
+[48:16] the whole thing right like I remember
+[48:18] when you know Jack MERS went on stage
+[48:20] announcing that El Salvador was making
+[48:22] it Illegal Tender it was just like one
+[48:23] of the biggest news moments for
+[48:25] bitcoiners
+[48:27] um you know for bitcoiners that you know
+[48:30] have Bitcoin ethos you could say it was
+[48:32] a big moment you know like a lot of
+[48:34] people were really proud of that and
+[48:36] really happy to see that happening um I
+[48:38] think as it played out we saw that you
+[48:41] know El Salvador's Bitcoin appetite was
+[48:44] bigger than they could actually digest
+[48:47] and so getting you know adoption through
+[48:50] getting Cho working getting Merchants to
+[48:52] use it getting Bitcoin off the ground
+[48:54] there it looked like it was going to
+[48:57] hold for a while but it kind of slipped
+[48:59] and now with the IMF dealings it looks
+[49:01] like it's going to totally slip um so I
+[49:04] don't really know what the future of
+[49:06] Bitcoin is in El Salvador I think there
+[49:07] is still a special future there for it
+[49:10] but it's obviously been dampened by
+[49:13] their need for money from I mean it
+[49:16] probably takes like they they Tred it
+[49:17] from Top town and Bitcoin is not uh uh
+[49:21] not made for that I I feel like it's
+[49:23] like a Grassroots movement uh and need
+[49:26] to be more extreme though like they
+[49:28] would have had to like not use dollars
+[49:30] and say use Bitcoin or have some sort of
+[49:33] more much deeper plan for integrating it
+[49:36] into the system and making it more
+[49:38] natural but I don't it's too much work
+[49:41] it's too hard a government is like not
+[49:43] really good at anything you know like
+[49:45] they're not agile they're not
+[49:46] intelligent well they're not they're not
+[49:49] agile let's just put it that way and so
+[49:51] pulling something like this off was was
+[49:53] destined to be unlikely and then they
+[49:56] doubled down you know they wanted to do
+[49:58] Bitcoin City and volcano Mining and they
+[50:00] were just going to do all the dreams
+[50:03] obviously they were never going to live
+[50:04] up to that scope and so they had to they
+[50:07] had to pull back um and now with the IMF
+[50:09] stuff I think it's just even worse so I
+[50:11] think there'll still be conferences
+[50:13] there I think this still be Bitcoin
+[50:14] Beach communities and this kind of thing
+[50:16] there I just think it's going to be a
+[50:17] much longer term you know adoption and
+[50:20] interest but the the IMF uh from what
+[50:24] IOD was basically
+[50:27] they they don't enforce it anymore or is
+[50:30] there more to that deal like they what I
+[50:33] understand like they they don't enforce
+[50:35] that Bitcoin is accepted anymore which
+[50:39] for my understanding they never really
+[50:41] did I mean they had the law but like
+[50:44] most don't have accept it anyways did
+[50:47] you see the latest news today or
+[50:49] yesterday with the oh no probably not so
+[50:53] in general what the IMF was trying to do
+[50:55] with defining the deal was as politely
+[50:59] and as as gray you know gray area worded
+[51:03] as possible tell El Salvador that they
+[51:06] just can't do Bitcoin stuff anymore in
+[51:08] other words don't they they don't want
+[51:09] them to be having a Cho you know trying
+[51:12] to get people to adopt it they don't
+[51:14] want to have them tweeting about how
+[51:16] great it is and and buying it and
+[51:19] tweeting all of their Bitcoin buys they
+[51:21] would just what they were trying to do
+[51:22] is get all of that to stop they don't
+[51:24] want a country supporting coin that way
+[51:27] and especially one that they can hold
+[51:29] leverage over with their loaning and
+[51:31] such and so the most recent update that
+[51:34] came out to the requirements is they're
+[51:36] explicitly telling them to stop buying
+[51:38] Bitcoin um and so initially it was more
+[51:42] I think they just wanted to get rid of
+[51:43] the legal tender aspect because I think
+[51:46] that was causing some complications in
+[51:48] other conversations about what legal
+[51:51] tender is and whether Bitcoin you know
+[51:53] is money whether it should be taxed you
+[51:55] know these kinds of things
+[51:57] um and they didn't want to have you know
+[51:59] that example out in the wild and so they
+[52:00] wanted to squash that and now that they
+[52:03] say that that that didn't stop El
+[52:05] Salvador from being you know a Bitcoin
+[52:08] evangelist they want to also stop the
+[52:11] Bitcoin buying and they're trying
+[52:13] they're telling El Salvador that
+[52:14] basically to continue to get the loan
+[52:15] payments they have to be make the only
+[52:18] way that they acquire Bitcoin be through
+[52:20] confiscation in legal matters in other
+[52:22] words when somebody is a hacker gets
+[52:24] caught or a thief gets caught whatever
+[52:27] then they can have that they can hold
+[52:28] that Bitcoin but they can't buy it
+[52:30] anymore it's fun when uh America buys it
+[52:33] but then the IMF
+[52:35] tells well America hasn't bought it yet
+[52:38] technically um so the IMF might not be
+[52:41] happy with them either I don't really
+[52:42] know the Dynamics between us and IMF but
+[52:45] the Strategic Bitcoin Reserve doesn't
+[52:47] exist yet it's just uh it's just a pump
+[52:50] narrative at the moment it's like the
+[52:52] opposite of like when China China bans
+[52:54] Bitcoin it's like Trump buys Bitcoin
+[52:57] like no like we we just saw they
+[52:59] announced it they botched the
+[53:01] announcement and then it it with totally
+[53:04] Rec you know went back to the lower
+[53:05] price again so it was just a total
+[53:07] speculative move and we don't know maybe
+[53:10] Trump and some people around him are
+[53:12] interested in manipulating the Bitcoin
+[53:14] price and not don't really care too much
+[53:16] about you know making it an American you
+[53:20] know dream in the the crypto capital of
+[53:23] the world you know I just um uh because
+[53:27] I think I saw it on on on on the feet
+[53:29] and I want to pull it but pull it up
+[53:31] because maybe you have more information
+[53:33] on on that because uh is that Na's
+[53:36] reaction to to to the IMF of like
+[53:41] because now 16 hours ago literally he
+[53:44] posted that was right before that was
+[53:46] right before the IMF announcements so oh
+[53:49] that was right before interesting it
+[53:50] either came out last night or this
+[53:52] morning where they were where the
+[53:53] details came out I think it was today
+[53:55] actually um but I wasn't following it
+[53:57] closely enough to see when it actually
+[53:59] was released but everybody's talking
+[54:00] about it right now on X interesting
+[54:03] interesting yeah um in ever since I have
+[54:08] the the podcast I get my news from from
+[54:10] the guests more more or less uh which is
+[54:14] uh yeah
+[54:18] calming my news at this point it's like
+[54:20] I wake up in the morning and read my
+[54:21] newspaper which is just basically
+[54:22] reading my feed yeah it's it's
+[54:24] definitely better than newspaper
+[54:27] I I I also do that but I try to get off
+[54:32] as much as as possible but yeah that
+[54:34] that's super interesting uh when when we
+[54:36] have a Salvador they they basically try
+[54:38] to escape that that that Fiat system but
+[54:43] it it's it's hard they they have a lot
+[54:47] of um mechanisms to to capture salvad
+[54:51] salv still has the dollar like they they
+[54:53] still transact with the dollar almost
+[54:55] every actions uh the most the most
+[54:58] volume and the most transactions from
+[55:00] Salvador is in in US Dollars and I was
+[55:02] there in November uh where the law that
+[55:05] they have to enforce Bitcoin was still
+[55:08] there and I couldn't pay a lot with
+[55:12] Bitcoin mostly just around the
+[55:13] conferences but if you go outside and
+[55:15] just go on your own and go somewhere
+[55:17] they don't accept it and uh it's funny I
+[55:21] I went to the volcano in s Salvador and
+[55:24] I was like hey can I pay Bitcoin here
+[55:25] and they're like no you can only pay
+[55:27] with physical cash and I was like I
+[55:28] don't have physical cash and they're
+[55:29] like ah you can just go in there for
+[55:31] free and I was like it was the entry fee
+[55:33] for like $2 and I was like okay but can
+[55:35] I gift you Bitcoins like I still want to
+[55:38] pay you they're like no like you don't
+[55:41] give it even take it as a gift uh but
+[55:44] yeah like there's a lot of work to be
+[55:46] done if you really want to be in a
+[55:48] Bitcoin standard it probably takes way
+[55:49] longer than anyone
+[55:51] anticipated I don't think there's any
+[55:53] reason to force it you know I think that
+[55:55] like I said earlier like all they I
+[55:57] think that making it legal tender was
+[55:59] good they were giving people a right
+[56:00] they were saying you know I think the
+[56:02] way legal tender works as a concept is
+[56:04] it just means that if you make a
+[56:06] contract with someone that you are
+[56:08] forced to accept Bitcoin as one of the
+[56:10] payment methods um and so you know when
+[56:13] you when you're at a merchant buying a
+[56:14] coffee it's an implied contract but for
+[56:17] real for real contracts it's interesting
+[56:20] to say okay if I want to denominate this
+[56:22] contract in Bitcoin I can and nobody can
+[56:24] stop me um
+[56:26] yeah I I think it was nice to have that
+[56:28] gain but in the end like it didn't play
+[56:31] out I would say it's easy as a bitcoiner
+[56:34] to be unhappy and say oh this narrative
+[56:37] is not there to pump my bags the way it
+[56:38] used to be um or the dream of a country
+[56:42] you know being on the Bitcoin standard
+[56:44] is not working out but I also think we
+[56:47] have to be reasonable and think the odds
+[56:49] are pretty high that BK made a rational
+[56:51] decision you know what I mean he
+[56:53] probably looked at it and said well I
+[56:55] can be I can make all of Bitcoin Twitter
+[56:58] happy or I can make all of the El
+[57:00] Salvadorian people have a better life
+[57:02] and he probably made the decision he
+[57:04] thought was best you know in All Odds
+[57:07] it's just that bitcoiners are
+[57:08] disappointed with that and that's life
+[57:10] you know like I I think the odds are
+[57:12] pretty high that that was the best
+[57:14] option for him in El Salvador and that's
+[57:17] that's the way it's going to be um I
+[57:19] don't know maybe he could have gotten
+[57:20] the money from tether or something and
+[57:24] but what is what options you know if he
+[57:27] has Grand plans for his country and he
+[57:28] really wants to turn it around and make
+[57:30] it into a relevant thing and increase
+[57:33] the the standard of living for for all
+[57:35] of his people maybe the IMF deal was the
+[57:38] best option you know I I think people
+[57:41] also they they assumed it's like all
+[57:44] like they are now doing legal tender
+[57:46] they're buying Bitcoin there will be a
+[57:48] Bitcoin country in five years uh like
+[57:50] even without the IMF news that takes way
+[57:53] longer like even if the IMF deal wasn't
+[57:55] there at all it's it's still reality
+[57:58] that most people don't transact in in in
+[58:01] Bitcoin in El Salvador today and also
+[58:04] not in November or December so things
+[58:07] things take longer than than than the
+[58:10] hype R things like the Bitcoin City plan
+[58:14] they had like that's something you talk
+[58:15] about doing over decades not five years
+[58:18] you know absolutely um I have one
+[58:20] question that I ask each and every one
+[58:22] of my guests and the question is what
+[58:23] can we learn from you besides Bitcoin
+[58:26] depends on the topic um I I've lived a
+[58:29] uh interesting and very varied life so
+[58:33] I've been uh various types of designer
+[58:36] illustrator artist I've been uh in the
+[58:39] music industry I used to run a record
+[58:40] label I was in a punk band um I am very
+[58:45] interested in topics related to bitcoin
+[58:47] like the actual economics of how it
+[58:50] works um yeah I mean I I can talk on a
+[58:54] lot of topics but I try to avoid you
+[58:56] know talking too much about topics I
+[58:58] don't have a lot of experience in so
+[59:00] yeah I would say you know I'm happy to
+[59:03] to explain anything that I any
+[59:05] experience that I have or anything that
+[59:06] I've learned um on other in other areas
+[59:10] but probably design or like you know
+[59:14] peer-to-peer system architecture these
+[59:16] things with that my current biggest
+[59:18] interests um yeah I don't know I've been
+[59:21] using AI a lot I'm working on a side
+[59:25] project making uh using AI to make
+[59:28] different kinds of fashion um so yeah
+[59:31] just random things AI is a game changer
+[59:35] it's like the the podcast wouldn't even
+[59:37] be here without it at this
+[59:40] point um there are three different
+[59:42] things the first thing uh is just a
+[59:45] research of the guest um I before I used
+[59:48] AI I I I needed like 20 25 minutes to to
+[59:54] figure out what the guest is about like
+[59:55] just just like watching a little bit of
+[59:57] video like doing those things um now I
+[60:00] have a process where basically in in in
+[60:02] like five to 15 minutes um I get like
+[60:07] two three EXT information about the
+[60:09] guest so I just put it in jbd have a a
+[60:13] custom gdbd and I put in transcripts of
+[60:18] recent video podcast he has done uh and
+[60:21] it's literally just takes me 3 four
+[60:23] minutes to gather the data and put it in
+[60:25] the custom G
+[60:26] and then I get um basically oneid of
+[60:31] like okay those interesting topics he
+[60:33] usually touches on those are his five
+[60:36] most controversial topics uh that he
+[60:38] usually talks those are five interesting
+[60:40] question that he really talks about but
+[60:42] could be interesting to talk about so uh
+[60:45] just like um uh figuring out in what
+[60:49] direction it might go uh and it dur my
+[60:54] time of preparing for podcast from like
+[60:56] half an hour to like now like 10 maybe
+[60:59] 15 minutes depending on the guest uh I
+[61:02] take for for doing that then uh with
+[61:05] recording it uh it's in Riverside they
+[61:08] do transcript they do summaries they do
+[61:10] the the timestamps and all those things
+[61:12] um automatically so I just like have to
+[61:15] copy and paste it uh and and then in
+[61:18] post- production uh now I have two
+[61:21] employees that do the post production
+[61:23] but uh like a week ago l actually I did
+[61:26] it myself still uh and there I I use uh
+[61:30] AI to figure out okay what are
+[61:32] interesting sound bites of the podcast
+[61:34] to put a trailer in front of or like a
+[61:37] introduction in front of the podcast to
+[61:38] make it more interesting uh even for
+[61:41] thumbnail and title design I have custom
+[61:43] gbds of like okay here's the
+[61:46] introduction here's the transcript what
+[61:48] could be an interesting thumbnail give
+[61:50] me five variations just to get some
+[61:52] ideas going uh and there are many more
+[61:55] small ways where I use it um but I think
+[61:58] those are like the bigger ones and I
+[62:01] said it that without it it wouldn't be
+[62:04] the podcast possible because I do I did
+[62:06] a daily Bitcoin podcast like every day
+[62:09] an interview like that with a different
+[62:10] person uh and just TimeWise it wouldn't
+[62:13] have been possible because I was alone
+[62:15] and there was no post production and
+[62:16] there's like clips and all the things
+[62:18] that you have to do uh so now ai was
+[62:21] making me way more efficient so I could
+[62:23] actually do it in the time needed uh to
+[62:26] do that uh otherwise I probably only
+[62:28] could have done maybe three or four
+[62:29] podcasts or maybe five if could but
+[62:32] definitely not seven with a San mind
+[62:35] also making the quality good no that's
+[62:38] interesting it it sounds exactly like
+[62:40] what you should be doing you know like
+[62:43] uh I'm using AI pretty much every and to
+[62:45] use it to do things like make a like for
+[62:47] you like a script of questions based off
+[62:49] of a bunch of data and based off of a
+[62:51] specific context like that's that's
+[62:53] really interesting I I feel bad for
+[62:56] people that aren't using AI um because
+[62:58] it's just like you're it's already at a
+[63:01] stage where you're not really
+[63:02] competitive if you're not using it and
+[63:04] it definitely like can be an unlocker
+[63:07] you know like when there when you have a
+[63:08] Blocker on something like you don't want
+[63:10] to write that blog post or you don't
+[63:12] want to edit that video or you just
+[63:15] don't want to have to figure something
+[63:17] out you don't want to read that white
+[63:18] paper whatever it may be like you can
+[63:21] you can make your your job much more
+[63:23] digestible um one interesting thing
+[63:26] lately I realized is I don't remember
+[63:28] it's I think brandolini's principle um
+[63:31] the one where it takes 10 times more
+[63:34] work to refute than to create
+[63:36] it and I pointed out to uh Eric voso
+[63:39] last week that that's not true anymore
+[63:42] because with AI we can refute
+[63:44] with AI so I can just take the whole
+[63:45] conversation put it in the AI and say
+[63:48] write a reply to this guy and refute
+[63:49] everything stupid he said and then it
+[63:51] will write it for me and then now he has
+[63:53] to read my and so it's a nice
+[63:56]  defense system um and and I and
+[63:59] I've been using it that way too go I
+[64:02] have something uh that I I when
+[64:05] something in a software that I use I
+[64:07] don't like or like there's a bug that
+[64:10] that costs me money or time uh I was
+[64:13] always too lazy to write a complaint
+[64:15] email now I have jet gbd and say like
+[64:18] hey this spck happened because of that I
+[64:20] have a delay uh and I just like hey
+[64:23] write a long email one that ask for a
+[64:26] refund uh and actually I have a really
+[64:30] high rate of getting a small refund
+[64:31] usually not the full one of course but
+[64:34] like a small one and it's just like
+[64:36] giving a small task literally takes like
+[64:38] one minute to put it in jity get the
+[64:40] output send the email and then like five
+[64:44] hours later oh sorry that that happened
+[64:46] here $20 of refund and I'm like that
+[64:49] cost me like a minute to do and it's a
+[64:53] small refund I mean it's not a not I'm
+[64:56] not making money with that but uh just a
+[64:59] just a sheer of Mount of like you can
+[65:01] put something in and it makes things for
+[65:02] you also like responding to emails I um
+[65:07] I caught myself using it more and more
+[65:10] of of like I just put in the email put
+[65:14] it in my my folder of of email responses
+[65:17] that I have uh and then let the response
+[65:20] be generated and and put the response
+[65:23] there and just read over it and usually
+[65:25] I change a little bit but also put the
+[65:27] change in there so they learn from it uh
+[65:30] and lately I I don't change a lot like
+[65:33] they they nail how I write email like
+[65:35] jgd nails how I write emails and yeah it
+[65:39] sounds good like I I wouldn't change a
+[65:41] word and just send it I was like that
+[65:43] email was completely written by jbd and
+[65:46] it's good it's probably better than me
+[65:49] one thing I do it with it is like I'll
+[65:51] ask I'll use AI to either make what I've
+[65:53] written sound more or less like me and
+[65:57] so like I I I've spent some time with
+[65:59] like with it explaining like how I write
+[66:01] what I like about how I write this kind
+[66:03] of thing but also I know that I can be
+[66:06] you know a little aggressive or
+[66:09] offensive to people so once in a while
+[66:11] when I'm like okay I I really want to
+[66:13] say all this but I don't want to offend
+[66:15] this person I'll say you know say this
+[66:18] in a simpler way and be more
+[66:20] professional and polite and then I'll
+[66:21] have it rewrite what I was goingon to
+[66:23] say or the opposite I'll say you know I
+[66:25] really want to like take down something
+[66:27] or like you know make an idea totally
+[66:30] refute an idea and dunk on it and kill
+[66:32] it and I'll be and I'll and I'll have it
+[66:34] help me write something and I'll be like
+[66:35] this is just not me enough it needs to
+[66:38] be more witty more cutting more
+[66:40] surgically precise like and then I'll
+[66:43] have it rewrite it until oh gosh that's
+[66:45] so funny uh literally today I I did the
+[66:48] same thing uh the landlord of
+[66:51] mine hope he doesn't watch but maybe he
+[66:54] watches uh he he sent me in a text
+[66:58] WhatsApp message and I was like oh that
+[67:00] that that that really get gets me going
+[67:03] like it really it made me angry and then
+[67:06] I was writing all the things and like ah
+[67:08] it's probably not a good idea to send it
+[67:10] like
+[67:10] that I took the text put it in chat and
+[67:13] said like make it friendly and a little
+[67:16] bit more professional so he doesn't kick
+[67:17] me out
+[67:19] tomorrow uh and and it's like oh yeah it
+[67:22] actually reads nice like it's almost
+[67:23] like a compliment it says the same thing
+[67:25] thing but it almost complement the other
+[67:28] one so and it's I do feel bad for the PE
+[67:32] like the same way with Bitcoin I do feel
+[67:34] bad for people that don't use uh Bitcoin
+[67:36] or AI on all those great technologies
+[67:39] that enhance your life so great like I
+[67:43] like why don't you do that it doesn't
+[67:46] matter what you do if you're a designer
+[67:47] an artist a
+[67:49] programmer uh a business developer
+[67:52] whatever you do there's some way the AI
+[67:54] could be enhancing what doing and and
+[67:56] you kind of have to now because there
+[67:57] are other people that are doing that and
+[67:59] you won't be able to compete yeah and
+[68:01] some people still argue if if it's a
+[68:03] good thing or not a good thing and other
+[68:05] people just use it to uh um make make
+[68:09] life easier really cool thank you so
+[68:11] much um we have end routine in the
+[68:13] podcast where the previous guest is
+[68:14] asking a question for the next guest
+[68:16] without knowing who the next guest
+[68:17] actually is um the question from the
+[68:19] previous guest is uh one that actually
+[68:21] came I think like two three times
+[68:23] already for the tin question
+[68:26] um if you couldn't if if you couldn't
+[68:28] invest in Bitcoin or in a Bitcoin
+[68:30] related asset or company where would you
+[68:33] invest
+[68:34] in probably a startup um I would
+[68:37] probably start another business and you
+[68:40] know try to leverage whatever savings I
+[68:42] had that way to make profit by producing
+[68:45] something that's probably more risky
+[68:48] than uh then my answer should be but
+[68:51] that's the first thing that comes to
+[68:52] mind is yeah i' probably just take the
+[68:54] money and invest it into to a business
+[68:56] venture um otherwise maybe some real
+[68:58] estate just because I don't own any
+[69:00] property right now and it's been a
+[69:02] relatively practical safe way to you
+[69:05] know store your value for a long time
+[69:07] absolutely and RK is going up um only if
+[69:11] you denominate in Bitcoin then it's
+[69:13] crashing
+[69:15] down really cool thank you so much John
+[69:17] for for for being uh on my podcast
+[69:20] before I let you go where can people
+[69:21] find you ask your questions and reach
+[69:22] out to you sure yeah I'll just take a
+[69:25] quick minute to because we didn't talk
+[69:27] too much about our products and business
+[69:29] so I'll just mention a couple of those
+[69:31] um so the name of the company is synonym
+[69:33] um if you want to learn about the
+[69:34] company or what jobs we have open that
+[69:36] kind of thing you can go to
+[69:38] synonym.to do2 um we also have a mobile
+[69:43] app called bitkit which is onchain
+[69:46] Bitcoin and lightning it has a lightning
+[69:48] node in the app so it's all entirely
+[69:51] self- custodial um you can learn more
+[69:54] about that at bitkit . to um we also
+[69:57] have block tank uh which is block
+[70:00] tank.to which is a place where you can
+[70:02] buy lightning channels and it also
+[70:04] Powers the lightning Channel purchases
+[70:05] in bit kit um and then finally we have
+[70:08] Pub Key which is kind of two aspects to
+[70:11] that Pub Key protocol Pub Key core um
+[70:14] and then the pub key app uh this is
+[70:16] basically a new web protocol that we
+[70:19] made where you can use Keys as a domain
+[70:21] name like public keys and then from that
+[70:24] derivative now you don't don't have to
+[70:26] be censored or trusting I can in regular
+[70:29] DNS you can use DNS that's based off of
+[70:32] your own key and using a the largest
+[70:35] most essentialized Network in the world
+[70:37] to resolve that key to a website or or
+[70:40] location in the internet um Mainline DHT
+[70:43] which is the network that powers
+[70:45] Torrance um and so we basically store
+[70:47] your key signed DNS records in there um
+[70:52] so if you're interested in building in
+[70:53] peer-to-peer web Tech you can check
+[70:55] pubkey core um that's at Pub key.org um
+[70:59] and then at Pub key. apppp you can see a
+[71:01] preview of an app that we're building to
+[71:03] kind of interface with this whole new
+[71:05] web Paradigm um and all of these things
+[71:08] are kind of uh it works in progress that
+[71:12] we intend to all integrate with each
+[71:14] other to create this kind of atomic
+[71:16] economy that we described earlier um and
+[71:18] if you want to find me um I'm Bitcoin
+[71:21] error log on Twitter and on telegram um
+[71:25] and I do many interviews and say many
+[71:28] provocative things if you're
+[71:30] interested ah I think you'll say really
+[71:32] reasonable things honestly it's I think
+[71:35] so too but some people
+[71:37] don't uh maybe I think on Twitter it's
+[71:40] it's people like
+[71:43] to be aggressive more it's like this
+[71:46] meme of like two people on on Twitter
+[71:48] they're like and then like in real life
+[71:50] they're like puppies to each other uh so
+[71:53] I I think it's it's more about Twitter
+[71:56] and less about you yeah I think that
+[71:59] social media really is like a
+[72:01] Marketplace of ideas and they're all
+[72:02] competing and being mutated by people so
+[72:05] people get you know defensive and
+[72:07] aggressive because every little thing is
+[72:09] competing with every little thing and so
+[72:11] it's it's just a real dopamine hit and
+[72:14] everybody's just stuck there absolutely
+[72:17] by the way but on py when you talked
+[72:20] about I always have to think about the
+[72:22] bar in New York City I never was there
+[72:24] but uh I really want to go there someday
+[72:27] yeah really cool um thank you so much
+[72:30] John for being on also thank you so much
+[72:31] for everyone that is watching and
+[72:32] listening for joining us today as always
+[72:35] I'll be back tomorrow with another
+[72:36] episode bye-bye
+[72:38] [Music]

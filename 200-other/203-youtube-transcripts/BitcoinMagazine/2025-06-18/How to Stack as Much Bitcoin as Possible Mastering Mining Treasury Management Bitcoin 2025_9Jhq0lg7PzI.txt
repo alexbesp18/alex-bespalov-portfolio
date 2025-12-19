@@ -1,0 +1,657 @@
+Title: How to Stack as Much Bitcoin as Possible: Mastering Mining Treasury Management | Bitcoin 2025
+Video ID: 9Jhq0lg7PzI
+URL: https://www.youtube.com/watch?v=9Jhq0lg7PzI
+Date Saved: 2025-06-18 22:07:46
+Channel: BitcoinMagazine
+--------------------------------------------------
+
+[00:00] We are still rolling with more Bitcoin
+[00:02] mining content. Mastering treasury
+[00:04] management. I'm joined by three
+[00:07] gentlemen I actually just saw the other
+[00:08] week. If you guys want to take a seat,
+[00:10] Jeff Lucas of Bit Farms is Oh, look at
+[00:12] that. We matched up the pictures
+[00:13] perfectly. On my right, Drew Armstrong
+[00:16] of Cathedral and Salicon of Mara. Uh
+[00:19] this topic has been on the minds of most
+[00:22] people in Bitcoin mining over the last
+[00:25] 12 months especially with Micro Strategy
+[00:28] MSTR uh ripping in the markets. A lot of
+[00:31] Bitcoin miners have been way more
+[00:33] interested in figuring out treasury
+[00:35] management strategies to increase their
+[00:38] Bitcoin per share and more than that
+[00:40] also to survive as Bitcoin miners. It's
+[00:43] a hard industry. I think these three
+[00:45] guys can tell you a little bit about
+[00:46] that. And if you're going to survive in
+[00:47] Bitcoin mining, you need a solid
+[00:50] treasury playbook. So, we're going to
+[00:52] dig into it quickly. We'll do some
+[00:54] introductions uh and then we'll roll
+[00:56] into some topics. Off to you first, sir.
+[01:01] Well, Mara is a well-known house
+[01:03] household name in this conference at
+[01:05] least. We're the largest Bitcoin miner
+[01:07] in the world with 57 xahash in under our
+[01:11] capacity. We operate in uh four
+[01:14] continents with 16 data centers and our
+[01:17] story has evolved over a period of time.
+[01:19] Uh we were not the largest and we have
+[01:22] grown over this period of time uh and
+[01:24] deployed capital responsibly. We we have
+[01:26] the lowest cost of electricity per coin
+[01:29] when it when we come and when we look at
+[01:31] this sector and uh and we're very
+[01:33] excited about our mining business. So we
+[01:35] happen to know Bitcoin a little bit if
+[01:38] you like and we produce about 700 to 900
+[01:42] Bitcoin a month and we hold all that
+[01:45] Bitcoin on our balance sheet. The reason
+[01:48] is we love Bitcoin. Uh Bitcoin as an
+[01:50] asset class has been out of the last 15
+[01:53] years 11 years it has been the best rate
+[01:56] of return asset class. It has beaten
+[01:59] other traditional asset classes like S&P
+[02:02] 500, you name it, REITs, um you know,
+[02:06] look at other commodities, oil, natural
+[02:08] gas, and and you know, it continues to
+[02:10] produce great rate of return and it is
+[02:13] at the all-time high last couple of
+[02:15] days. So, we're very excited about that.
+[02:17] Having said that, we are also the second
+[02:19] largest holder of Bitcoin worldwide.
+[02:22] 50,000 coins approximately on our
+[02:24] balance sheet. It didn't happen in a
+[02:26] vacuum. We produce Bitcoin and hold it
+[02:29] while we also go out and
+[02:30] opportunistically buy Bitcoin from the
+[02:33] open market. We don't have to do that
+[02:35] like other treasury companies, but we do
+[02:38] that as the as the opportunity arises
+[02:40] and that has produced great rate of
+[02:42] returns for us and we're super excited
+[02:44] about that. Drew, over to you. Yeah. Uh,
+[02:48] so I'm the president and COO of
+[02:49] Cathedral Bitcoin. We're a publicly
+[02:51] traded company on the TSXV. uh and I I
+[02:55] think we have we share the same bullish
+[02:57] outlook on Bitcoin uh as MEA but we go
+[03:00] about uh that view in a different way.
+[03:03] We develop infrastructure uh with the
+[03:05] goal of increasing our Bitcoin holdings
+[03:07] on a per share basis. So I think from
+[03:09] from our point of view we focus on
+[03:11] developing rack space because we really
+[03:13] think that power and rack space is the
+[03:15] scarce commodity and is the biggest
+[03:16] bottleneck to uh call it scaling compute
+[03:20] of various forms. And then we seek to
+[03:24] hold our retained earnings in Bitcoin
+[03:26] because, you know, as Salman said,
+[03:27] Bitcoin has done very well, but also
+[03:29] we're of the view that Bitcoin will
+[03:31] continue to emerge as a a global reserve
+[03:33] currency. Uh, and we think that this is
+[03:36] really still the early innings of
+[03:37] Bitcoin's uh adoption globally. Um, but
+[03:41] yes, our view is basically long
+[03:42] Rackspace, long Bitcoin. Jeff, sure. and
+[03:46] Bit Farms. Bit Farms has been mining
+[03:48] Bitcoin, one of the most long-standing
+[03:50] miners here since 2017. We've got about
+[03:52] 20 Xahash, about 500 megawatts currently
+[03:55] under management with a pipeline for a
+[03:56] gig and a half here. We've actually made
+[03:58] a bit of a pivot recently here. We've
+[04:01] recognized that our thesis here is how
+[04:03] do we manage our megawatts to maximize
+[04:05] our valuation? And so, we've actually
+[04:07] shifted or supplemented our activities
+[04:08] now by going more into HBC and AI. And
+[04:11] the thesis is pretty straightforward
+[04:13] here. When you look at valuations, the
+[04:15] Bitcoin miners, you see multiples of
+[04:17] anywhere from maybe two to five times.
+[04:20] You look at HBC and AI, it's north of
+[04:22] 20. So for us, we're realizing a lot
+[04:24] more value here by pivoting, being more
+[04:26] active and focusing on what's happening
+[04:28] on the HPC side. All that being said, we
+[04:31] are very active, however, in our Bitcoin
+[04:33] management and our hollow management
+[04:34] here. Well, we use a principle called
+[04:36] capital efficiency. So rather than just
+[04:38] building up the Bitcoin here, we utilize
+[04:41] that Bitcoin to fund our growth far more
+[04:43] cheaply than equity and doing the ATM
+[04:45] here, but also engage in some
+[04:47] derivatives activity here to get that
+[04:49] same performance, but we do that
+[04:50] synthetically
+[04:52] and it works great for us.
+[04:55] And I'll introduce myself really
+[04:56] quickly. I'm Will Fox, co-host of the
+[04:57] Mining Pod. I have very little if any
+[04:59] Bitcoin compared to these guys. Uh but I
+[05:02] do get the pleasure of interviewing them
+[05:04] every once in a while. Salomon, I'm
+[05:05] going to throw it back to you. Uh Mara
+[05:07] made headlines a few weeks ago when you
+[05:09] guys started putting the gas onto the
+[05:12] fire of a Bitcoin uh strategy, the
+[05:14] accumulation strategy. You guys
+[05:15] announced a very large ATM and the
+[05:17] intent and purchase to continue to
+[05:19] purchase more and more Bitcoin. Lining
+[05:22] up with our topic here, mastering
+[05:23] treasury management. How do you guys see
+[05:25] actively uh selling shares and
+[05:28] purchasing Bitcoin uh acrewing value to
+[05:31] MARA? That's a great question. And so
+[05:34] when I I want to step back a little bit
+[05:36] from a strategic perspective, when you
+[05:38] think about us, we are primarily an
+[05:41] energy technology company that is
+[05:43] focused on Bitcoin mining and we are
+[05:46] good at it. We do it very well
+[05:48] worldwide. We accumulate Bitcoin by
+[05:50] doing that. I call this a twin
+[05:52] turbocharge strategy. by twin turbo. If
+[05:56] you drive a car, you know, when you
+[05:58] drive a twin turbo car, it's very
+[06:00] difficult to go back to a car that does
+[06:03] not have twin turbo engine. It's slower.
+[06:06] It's not as active as you would see a
+[06:09] twin turbocharged engine. Mara is not
+[06:11] for everybody. If you like driving fast
+[06:13] cars, you want to accumulate Bitcoin
+[06:16] really quickly by mining at one/ird of
+[06:19] the cost of the price of Bitcoin in the
+[06:22] open market
+[06:23] while also going out and acquiring
+[06:25] Bitcoin from the open market as the as
+[06:28] the as the opportunity arises.
+[06:31] That is the piece where you would want
+[06:33] to hold hold Mara stock because we are
+[06:35] going twin turbo charge strategy by
+[06:38] tackling both mining operations
+[06:41] accumulating bitcoin through that but
+[06:43] also acquiring bitcoin in the open
+[06:44] market. Now to go back to your question,
+[06:48] look, we have multiple sources of
+[06:49] capital, not just the ATM, but ATM is
+[06:52] has been the source of primary source of
+[06:55] capital in this sector primarily because
+[06:57] this sector was debanked over these
+[06:59] years. As you know, SEC did not like
+[07:02] this sector previously. Uh the the
+[07:05] regulations were not favorable to this
+[07:07] sector. So generally speaking, banks
+[07:10] stayed away and traditional investors
+[07:12] stayed away from this sector. So
+[07:13] primarily this main source of capital
+[07:16] for this sector was ATM and it still
+[07:18] continues to be a major source of
+[07:21] capital. Now having said that 40% of our
+[07:24] source of capital last year was ATM the
+[07:26] rest was other sources and we like to
+[07:29] mix and match. We like to see what is
+[07:31] the best source of our capital. It's a
+[07:33] capital allocation question. How can we
+[07:35] go out and invest and get the best rate
+[07:39] of returns for our investors?
+[07:42] the money that our investors have given
+[07:44] to us as fiduciaries. How can we
+[07:46] maximize that rate of return? Is that
+[07:48] through the Bitcoin mining side based on
+[07:51] the the future curve that we think is
+[07:54] going to be the Bitcoin price and the
+[07:56] hash price with the global hash rate or
+[07:59] does it make sense because there's a lot
+[08:01] of tailwind uh with the with the
+[08:03] political push with the strategic
+[08:05] Bitcoin reserve with the Blackrock and
+[08:08] Fidelity and others and the ETF launches
+[08:11] and the sovereign world the the
+[08:13] sovereigns coming out and talking about
+[08:15] holding Bitcoin as strategic reserve.
+[08:17] curve or maybe the sovereigns thinking
+[08:20] about they don't know much about Bitcoin
+[08:21] but they want to use mining as an energy
+[08:25] arbitrage they have excess power and
+[08:28] they want to put that power to use so
+[08:30] multiple sources when you combine that
+[08:33] together and you look at our cost of
+[08:34] capital what is the best way of
+[08:37] utilizing our capital and deploy that
+[08:40] and create the most rate of return for
+[08:42] our stockholders so for example we did
+[08:44] 0% coupon $2 billion last year and we
+[08:49] went out and primarily bought Bitcoin
+[08:52] while we were also producing Bitcoin or
+[08:54] holding on our balance sheet. So, it's a
+[08:56] combination of different sources of
+[08:58] capital. It's a capital allocation
+[09:00] question. It's a timing of the market.
+[09:02] It's dependent dependent on the
+[09:04] macroeconomic conditions and all of that
+[09:06] comes into play when we think about how
+[09:08] do we go about and source Bitcoin for
+[09:10] our shareholders. Yeah, I love this
+[09:13] topic here because the treasury
+[09:15] management part of Bitcoin mining is
+[09:16] almost more important than anything
+[09:18] else. The ability to survive across
+[09:20] cycles and on stage we have so many
+[09:22] different ways of doing it. So you kind
+[09:23] of talked about the financial side of
+[09:24] things. You know Maro being such a large
+[09:26] market cap has access to different
+[09:28] sources of financing than others and
+[09:30] then down the line you guys already
+[09:31] mentioned some some things. So Drew uh
+[09:33] long rack space let's get into that next
+[09:35] and then Jeff finish off with AIHPC.
+[09:38] Sure, you guys are long rack space and
+[09:40] you guys uh build purpose fit
+[09:43] constructions for Bitcoin mining and
+[09:44] sell those on the open market for others
+[09:46] and then you also obviously have your
+[09:48] own self mining operations. So tell me
+[09:50] about that way of accumulating Bitcoin.
+[09:53] Yeah, so we were on a similar panel uh I
+[09:56] guess three of the four of us were on a
+[09:57] similar panel a couple weeks ago at
+[09:58] Consensus and I told Salman then that I
+[10:00] was going to steal his twin turbo
+[10:02] strategy analogy. I think for us the
+[10:04] twin turbos are again developing this
+[10:07] these data centers. these fit for
+[10:08] purpose data centers. Um, and then
+[10:10] obviously also accumulating Bitcoin. And
+[10:12] the reason why we like to develop this
+[10:14] rack space and lease it out as opposed
+[10:16] to buying AS6 is because we think AS6
+[10:19] are a trade to put on but not a good way
+[10:22] to predictably compound capital. And so
+[10:24] for us, we think that developing these
+[10:26] data centers and leasing them out has a
+[10:28] better risk adjusted return uh versus
+[10:30] buying A6. And you know, I think that's
+[10:32] for a few reasons, but also we think
+[10:34] there's a strategic benefit to to own
+[10:37] the rights to power as well because you
+[10:39] then also have a call option on future
+[10:41] types of compute like AIHBC uh that that
+[10:44] might be able to monetize that power in
+[10:46] a different way. So we we uh develop
+[10:49] these data centers, lease them out.
+[10:51] Historically, our uh capex per megawatt
+[10:54] has been around 170,000 per megawatt.
+[10:57] And uh you know, even if you add some
+[10:59] sort of CYA adjustment to that, we're
+[11:01] still uh you you can conceivably earn a
+[11:04] 50 to 100% cash flow yield, which means
+[11:06] uh you know, up to a one-year payback,
+[11:08] uh perhaps a little longer, but we think
+[11:10] that that's a really good risk adjusted
+[11:12] return. And then to maximize our sort of
+[11:14] upside exposure and to express our
+[11:16] belief in Bitcoin, we'll save those
+[11:17] retained earnings in Bitcoin. And uh I
+[11:21] will say in in September of last year,
+[11:22] we put out a Bitcoin treasury strategy
+[11:25] memo. Uh this was at the time the the
+[11:27] Bitcoin Treasury play was a little less
+[11:29] in vogue than it is now. I feel like
+[11:31] we've seen about half a dozen in the
+[11:33] last month or two. Uh but you know at
+[11:34] the time we we sort of expressed that
+[11:36] that was what we're going to try to do
+[11:37] as well but not always through dilution.
+[11:40] Since then we've not taken on any
+[11:41] dilution but uh we we have increased our
+[11:44] sats per share uh by around 16 to 17%
+[11:47] and on an annualized basis that's around
+[11:49] a 26% u sats per share yield or bitcoin
+[11:53] yield is what some of the other treasury
+[11:54] strategies are calling. So for us again
+[11:56] we think that developing this rack space
+[11:58] and then accumulating Bitcoin uh through
+[12:00] our retained earnings is a great way to
+[12:03] uh one have better riskadjusted returns
+[12:05] on sort of a project investment basis
+[12:07] but then also increasing our Bitcoin
+[12:09] holdings because you know on a long
+[12:10] enough time horizon we are incredibly
+[12:12] bullish on Bitcoin. It may go down in
+[12:14] the short term, but we think that we're
+[12:16] really looking at, you know, uh a uh
+[12:18] innovation in a world changing asset.
+[12:21] And I think we're really witnessing one
+[12:22] of the great wealth transfers in human
+[12:24] history for those who have the the
+[12:26] foresight to start accumulating Bitcoin.
+[12:27] Now, uh you know, I think in the future
+[12:29] we might opportunistically raise capital
+[12:31] at the right terms so that we can uh uh
+[12:34] put some accelerants on that and
+[12:35] accumulate Bitcoin even more, but we
+[12:38] might also use that capital to develop
+[12:40] new data centers. And I think having
+[12:41] those two levers for growth makes it
+[12:43] easiest for us to always be
+[12:44] opportunistic and never forced into
+[12:46] growing in just one direction because I
+[12:48] think it is something we saw uh you know
+[12:50] in the last five years a lot of folks
+[12:52] were so focused on hash rate growth for
+[12:53] its own sake. Uh you know and I'm not
+[12:55] saying the gentleman on on this panel
+[12:57] were were among them but I think many
+[12:59] miners were stuck on an ASICH hamster
+[13:01] wheel where the only way to grow was to
+[13:03] buy new AS6 even if at the time it
+[13:05] wasn't a great investment. So that's
+[13:06] really the main thing we're trying to
+[13:08] avoid with our twin tur turbo strategy
+[13:10] of long rack space long bitcoin. So our
+[13:13] our decision actually to go into HBCI
+[13:15] was driven by something very similar
+[13:17] principles to what Drew spoke to and
+[13:19] what they call in the banking world ray
+[13:20] rock which is indeed riskadjusted return
+[13:23] on invested capital. For us that ray
+[13:25] rock is far superior in HBC and it is in
+[13:28] Bitcoin mining. First of all, as we all
+[13:30] know, the technology curve for
+[13:32] increasingly new miners that are more
+[13:34] efficient here, it's very, very
+[13:35] expensive. And the question is, does it
+[13:36] a company ever return or achieve a
+[13:39] return on that continuing investment?
+[13:41] We're focused right now with HBCI on the
+[13:44] Empy
+[13:46] lot of what the miners are doing because
+[13:48] how many of them actually have
+[13:49] consistent earnings going forward? We
+[13:51] find that there's a fundamental demand
+[13:53] in HBCAI that's going to drive to
+[13:55] actually a more consistent earning
+[13:57] stream going forward here and a better
+[13:58] use of capital. So for us it's really
+[14:01] twofold of getting involved with HBC.
+[14:03] One, you've got this very profound
+[14:04] demand here. Look at studies have shown
+[14:07] that the expectation is by 2030 $5
+[14:11] trillion will be invested in HPCAI and
+[14:14] that the power requirements will go to
+[14:16] about 156 gawatt. Now with that thought
+[14:19] in mind bear keep in mind here that
+[14:21] mining right now uses under 20 gawatt.
+[14:24] So the potential there is immense but
+[14:26] very importantly here with that ray rock
+[14:28] here with the earning stability and the
+[14:30] profound demand of HPCAI we can finance
+[14:33] that with debt. We've always been very
+[14:35] focused on minimizing our dilution not
+[14:38] tapping aggressively into our ATM. In
+[14:40] Bitcoin mining you need to use equity.
+[14:42] The volatility the variability really
+[14:45] mandates actually doing equity
+[14:46] financing. The beauty of HBCAI is that
+[14:49] we can use debt financing. So for our
+[14:51] financing of our HBC data centers here,
+[14:54] we're using debt. We're paying maybe 8
+[14:56] to 10% as the cost of capital here. And
+[14:58] on top of that, as I mentioned before,
+[15:00] you get maybe a 4x valuation in the 20s
+[15:03] versus the 3 to five that's actually in
+[15:06] place here, you know, within Bitcoin
+[15:07] miners. Now, we actually value our H our
+[15:10] Bitcoin very much as well. And we use
+[15:12] this premise of the capital efficiency.
+[15:15] We rely very heavily on the derivatives
+[15:17] markets and we've used them very very
+[15:18] effectively here to get returns at
+[15:21] parallel actually holding the Bitcoin
+[15:22] without having to put our precious
+[15:24] capital into the Bitcoin holdings going
+[15:26] forward. It's worked out very very well
+[15:28] for us. It allows us to employ leverage.
+[15:30] It allows us to employ what's called
+[15:32] convexity in terms of our options and
+[15:34] futures trading here. It brings a very
+[15:36] attractive return overall.
+[15:38] Okay, we got about eight minutes left
+[15:40] here and there's tons of questions to go
+[15:42] to. So, we're going to do a snake draft
+[15:43] and go back this way. So, Jeff, I'm
+[15:46] going to throw it back to you. When we
+[15:48] talk about the convertible bond market,
+[15:49] that's been a very interesting source of
+[15:52] allocation over the last 6 months. Kind
+[15:54] of slowed down a little bit. Uh people
+[15:55] have been looking more to ATMs or even
+[15:58] debt structures. We've seen a lot of
+[15:59] debt with Coinbase recently where you're
+[16:01] putting your Bitcoin up and then you're
+[16:02] able to pull uh some sort of debt
+[16:04] function out of it. How are you looking
+[16:05] at that market? Um when it pertains to
+[16:08] Bit Farms, when is it the right time to
+[16:10] call that sort of capital? uh and and
+[16:12] why would you do so in an AI HPC setting
+[16:15] right now versus when you were
+[16:17] historically looking at Bitcoin mining?
+[16:20] So first of all for us it's far more
+[16:22] attractive actually to do straight debt
+[16:24] than it is to do convertibles here. You
+[16:26] have that equity element. It's much more
+[16:27] expensive there. So for us it just makes
+[16:29] a lot of sense here. But it's also very
+[16:31] important to understand. I think if
+[16:33] you're one of the largest players like
+[16:34] Mara you can get pretty opportune
+[16:36] pricing with your convertible notes and
+[16:37] convertible debentures. However, when
+[16:39] you're a midsize minor and you really
+[16:41] need to understand what is the all-in
+[16:43] cost of convertible debt. By way of
+[16:45] example here, you may have to actually
+[16:47] uh engage in a what they call synthetic
+[16:49] borrow that can be expensive. They have
+[16:51] to have put in place a buyback provision
+[16:53] which can cost several hundred million
+[16:55] dollars. You have a provision called a
+[16:57] cap call which allows you to convert at
+[16:59] a higher level than a state. All those
+[17:01] things take away from however much you
+[17:03] borrow. You still got to repay that
+[17:04] principle down the road here. So when
+[17:06] you factor in all the cost of doing
+[17:09] venture, you realize that actual cost of
+[17:11] capital is much higher than would be
+[17:13] seen at face value for us. We feel we
+[17:15] can get a much better return and a much
+[17:17] lower cost of capital by really engaging
+[17:19] straight debt. Love it. Okay, Drew, over
+[17:22] to you. Uh I want to just continue
+[17:24] hitting on that rack space idea. Like
+[17:27] when you come to the point of like being
+[17:29] a smaller minor, you know, you guys
+[17:30] don't have as much hash rate. How do you
+[17:32] value that Bitcoin huddle? And I'm a
+[17:35] Bitcoin bull. I think it's going to a
+[17:36] million. Is it just about increasing the
+[17:39] Bitcoin on the balance sheet per
+[17:40] employee or some other metric or are you
+[17:43] guys trying to race and use this rack
+[17:45] space model to get to where some of your
+[17:47] peers are 10 15 20 50 xahash? Yeah. So I
+[17:52] think for us uh again it comes down to
+[17:54] just sort of being opportunistic but our
+[17:56] goal on a long time on on the long term
+[17:58] is to increase our sats per share. Uh
+[18:00] and so you know that might mean that
+[18:02] Bitcoin balance goes down uh for a
+[18:04] period of time if we think there's a
+[18:05] really attractive opportunity to grow uh
+[18:07] you know grow our rack space grow our
+[18:09] power footprint. Uh but again you know
+[18:11] we think in the long term Bitcoin is
+[18:13] going to be one of the best performing
+[18:14] assets of human history as it's already
+[18:15] been uh over the last uh 16 years here.
+[18:18] So you know I think for us it really
+[18:20] comes down to being opportunistic. Uh
+[18:22] and because we're a smaller minor you
+[18:24] know I think as of uh today before we
+[18:26] got on here our market cap is something
+[18:28] to the tune of $48 million. uh you know
+[18:30] we're we're we're much smaller than the
+[18:31] two gentlemen I'm with on stage. As a
+[18:33] result, I think we really just think
+[18:34] about things in a return on invested
+[18:36] capital point of view and it forces us
+[18:38] to be really disciplined about thinking
+[18:39] how we grow and how we deploy capital
+[18:41] and focuses us to be uh forces us to be
+[18:43] quite lean which I think is important.
+[18:45] So you know we consider also
+[18:46] non-dilutive ways of growing using
+[18:48] things like Bitcoin backed debt. I think
+[18:50] Bitcoin backed debt you know many things
+[18:51] Jeff said is spoton. I think in
+[18:53] particular, you know, Bitcoin backed
+[18:55] debt is really the most mispriced risk
+[18:57] in the world. But one thing that many
+[18:58] many folks are going to need to remember
+[19:00] is that rehypotheation and the low
+[19:02] coupon that comes with it also
+[19:04] introduces its own risk. Uh but you
+[19:06] know, I think to to the exact question,
+[19:08] I think with uh the long rack space,
+[19:10] long Bitcoin thesis really comes down to
+[19:12] being opportunistic and going where the
+[19:14] best opportunity is, which is nice
+[19:16] because then we don't only have one way
+[19:18] to grow. Uh which is something I think
+[19:20] has plagued miners in the past. And it's
+[19:22] not just about accumulating Bitcoin. So
+[19:24] Salman, I want to throw this question to
+[19:25] you as we're we're getting close to
+[19:27] time. We have a few minutes left. It's
+[19:29] not just about accumulating, but using
+[19:30] that Bitcoin. So you guys have a
+[19:32] headline as of last week where you're
+[19:34] putting some Bitcoin out with two prime
+[19:36] to get some yield on top of it. Tell us
+[19:37] a little bit about that debt structure
+[19:39] or at least that structure that you guys
+[19:41] are putting that yield out. Someone's
+[19:43] using that Bitcoin in a productive basis
+[19:44] and you guys get to benefit from it. Uh
+[19:48] why do you do it? Who are you using for
+[19:50] these sort of services? and what's the
+[19:52] long-term benefit for Mara and Mara
+[19:54] shareholders.
+[19:56] So before I answer that, I want to step
+[19:57] back a little bit and
+[20:00] ask the audience here by raise of hands,
+[20:02] how much how many of you like Bitcoin?
+[20:06] There you go. Vast majority of us,
+[20:08] right? Would you want to huddle Bitcoin
+[20:10] or not?
+[20:12] Okay, that's great. So the reason I
+[20:15] asked this question is you have to first
+[20:18] define why are we hodling, right? Why
+[20:21] are we keeping this on our balance
+[20:22] sheet? Because this is a once-
+[20:25] ina-lifetime unique opportunity to
+[20:27] invest in an asset class that in my
+[20:30] lifetime I've never seen before. And I
+[20:32] come from traditional as traditional
+[20:34] finance background as it can be. Oil and
+[20:37] gas, renewable energy technology
+[20:39] background and advisory in the past.
+[20:41] Right? When you think about Bitcoin as a
+[20:44] category, you want to hold that and see
+[20:48] the appreciation of value on the balance
+[20:50] sheet. But while you're doing that,
+[20:52] there's opportunity to place that
+[20:54] Bitcoin and earn a yield on it. Or just
+[20:57] think about it, not a great example, but
+[20:59] a fiat example. If you have cash sitting
+[21:02] on your bank account, you don't want
+[21:04] that cash to be sitting idle and not
+[21:07] creating value for you. you want to
+[21:09] place that in treasuries or other places
+[21:12] where you can earn some yield on it,
+[21:14] right? So the same concept although not
+[21:17] a great example, we all don't like fiat,
+[21:19] we like Bitcoin. You take that to
+[21:22] Bitcoin as an example, you want to
+[21:25] create some kind of a rate of return
+[21:27] while you're waiting for the Bitcoin
+[21:29] price to go up. When we made the
+[21:31] decision last year to hold all all our
+[21:33] Bitcoin on the balance sheet, Bitcoin
+[21:35] was priced at $45,000 per coin. Today,
+[21:38] it's touching $110, $111,000 per coin.
+[21:42] Think about the thesis of the rate of
+[21:44] return for our investors. So we like the
+[21:46] capital appreciation but then while
+[21:48] we're doing that we want to place
+[21:51] responsibly because this is our
+[21:54] hardearned money that we want to place
+[21:58] with people that we trust
+[22:01] that when we need that bitcoin back
+[22:03] those people will be available to return
+[22:05] that bitcoin back and twime is one of
+[22:08] them that we announced fairly recently.
+[22:10] We've worked with true prime before and
+[22:12] we've worked with almost everyone in
+[22:14] this industry but um we take the bitcoin
+[22:18] and place them in uh in in treasury
+[22:21] management if you like and this topic by
+[22:24] itself can take half an hour to discuss
+[22:25] I know we have just a minute left but
+[22:28] the the concept is that we expect to
+[22:30] create a rate of return let's say mid
+[22:33] mid to high singledigit rate of return
+[22:37] on an asset which is already giving us
+[22:40] 150% rate of return on a capital
+[22:42] appreciation basis on a year-to-year
+[22:44] basis. So, what that does is it helps us
+[22:47] pay for our expenses. It sweetens the
+[22:50] deal for us for holding the Bitcoin for
+[22:53] a longer duration of time on the balance
+[22:55] sheet and continue to see the
+[22:57] appreciation from a long-term
+[22:58] perspective. So, we're excited about
+[23:00] that, but yet as a public company, we
+[23:03] are careful around whom do we place that
+[23:06] bitcoin with and what is the risk that
+[23:08] we take in in placing that bet. So,
+[23:11] that's that's a summary of it. That's
+[23:13] perfect. And that is time. Put your
+[23:15] hands together for these three
+[23:16] gentlemen. Jeff, Drew, Salman, thank you
+[23:18] so much for joining. That was mastering
+[23:20] treasury management. How to accumulate
+[23:22] as much Bitcoin as possible. We're going
+[23:25] to jump off stage, but don't go anywhere
+[23:27] because we have an amazing panel up
+[23:29] next. Something uh about heat reuse.
+[23:32] It's kind of a big topic of Bitcoin
+[23:34] mining these days, right, Drew? So,
+[23:36] don't go anywhere.
+[23:38] [Music]
+[23:49] Heat.
+[23:50] [Music]
+[24:01] [Music]
+[24:04] Heat.
+[24:06] [Music]

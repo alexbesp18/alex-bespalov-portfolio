@@ -1,0 +1,1191 @@
+Title: 279. Bitcoin and Tether: Las Vegas Keynote
+Video ID: pZvy0JRz9GE
+URL: https://www.youtube.com/watch?v=pZvy0JRz9GE
+Date Saved: 2025-06-28 20:46:52
+Channel: Saifedean
+--------------------------------------------------
+
+[00:03] [Music]
+[00:06] Thank you. Thank you everybody for
+[00:07] coming out and thank you to the
+[00:08] organizers for having me. It's a
+[00:09] pleasure and an honor to be here today.
+[00:11] I'm going to be talking about Bitcoin
+[00:13] and the dollar in particular about
+[00:15] Tether and a lot of people think that
+[00:17] Tether is going to be something that is
+[00:19] very bullish to the dollar and and you
+[00:22] know to be fair they found a whole new
+[00:24] generation of bag holders around the
+[00:26] world to buy the uh Treasury Shitcoin.
+[00:29] So you would think that that would
+[00:30] generally be bullish, but I'd like to
+[00:31] take a closer look at it and see how
+[00:33] bullish it actually is. So let us run
+[00:36] some numbers. Let's assume for as a
+[00:40] thought experiment, let's assume that
+[00:41] Tether grows 100fold over the next 10
+[00:44] years. That's a compound annual growth
+[00:46] rate of 60% per year. So it gets to
+[00:49] about a 20 trillion market cap by 2035.
+[00:53] And now assume that they continue to put
+[00:55] about 80% of their uh treasury and their
+[00:59] backing of their uh notes into uh all
+[01:04] maturities of US bonds. Currently
+[01:06] they're only buying short maturities but
+[01:07] assume they start buying across the
+[01:09] curve across the yield curve. And uh to
+[01:12] try and estimate the impact that this
+[01:14] would have on the budget I've looked at
+[01:16] the literature on the impact of
+[01:18] purchases of bonds on the yields. So
+[01:20] there's a lot of studies that have been
+[01:22] done on what was the impact of QE you
+[01:24] know when say if you buy 10% of the debt
+[01:26] and you put it into uh what the impact
+[01:29] would be on yields. So I think generally
+[01:32] the literature says every 10% of the
+[01:35] debt if you buy 10% of the debt you can
+[01:37] bring yields down by uh 2 to 5%. But I'm
+[01:42] going to assume 1%. I'm going to just
+[01:45] have a maximum um most optimistic
+[01:49] scenario in all of our assumptions here
+[01:51] to try and see how this was would work
+[01:52] out. So you buy 10% of the debt and you
+[01:56] bring the yield down by 1%. So if we
+[01:58] assume this is the case and then we
+[02:01] project the impact on the US budget.
+[02:04] Well, currently the debt is about $37
+[02:06] trillion. The budget deficit is about $2
+[02:08] trillion. And so if we assume that the
+[02:12] budget deficit, the debt and the
+[02:13] liabilities continue to rise at the same
+[02:15] rate over the next 10 years as they did
+[02:18] over the last 10 years, we could project
+[02:20] it into the next 10 years. And you know,
+[02:23] this is a extremely conservative um
+[02:25] assumption because it's assuming that
+[02:28] the next 10 years are going to be as
+[02:29] inflationary as the previous 10. And I
+[02:32] don't think that that is a warranted
+[02:33] assumption, but we're going to go ahead
+[02:34] with it anyway. Um, I think there's been
+[02:36] a new normal since CO and I think this
+[02:39] new administration confirms that the
+[02:41] budget is going to just continue on the
+[02:43] new normal level of spending that
+[02:44] happened after CO and it's going to be
+[02:46] different from what was taking place
+[02:49] before CO which was relatively very uh
+[02:52] fiscally and monetarily responsible
+[02:54] compared to what's been happening since
+[02:55] then. So, you know, looking now we see
+[02:59] that Doge is seemingly not going to
+[03:01] work. They're not going to be managing
+[03:03] to bring down the budget by anything
+[03:05] more than, you know, rounding errors.
+[03:07] There's a bunch of wars coming up
+[03:08] likely. Israel wants more land and, you
+[03:11] know, they like more war. It's been a
+[03:13] while since the US has fought a major
+[03:15] war for um so likely there's going to be
+[03:18] another one. So if you project those
+[03:19] things, likely the budget is going to
+[03:21] get a lot worse over the next 10 years,
+[03:23] plus also the tariffs um and the impact
+[03:26] that they'll have. So if we run these
+[03:28] projections we'll see that basically by
+[03:32] buying a lot of treasuries growing at
+[03:34] 60% per year as we see in this table
+[03:37] here we grow the treasuries of tether by
+[03:40] 60% per year and we see that this is
+[03:43] going to bring yields down right that's
+[03:45] the way in which buying treasuries helps
+[03:47] the US government in a practical sense
+[03:50] the more treasuries tether buys the
+[03:52] lower the yields become so we try and
+[03:54] calculate this and try and projected uh
+[03:57] onto 10 years from now and basically the
+[04:00] most optimistic scenario according to
+[04:03] these assumptions that I've just
+[04:04] presented which are all basically airing
+[04:05] on the side of becoming more and more
+[04:07] optimistic it reduces the debt by about
+[04:10] $3.7 trillion or 5.4% 4%
+[04:14] of the debt over 10 years. This is I
+[04:17] think maybe the most optimistic scenario
+[04:19] you could probably present for the
+[04:22] impact that tether could have on the US
+[04:24] public debt. And in conclusion,
+[04:27] basically nothing stops this train as
+[04:29] Lyn Alden always says and not even
+[04:32] Tether uh Tether cannot fix what a
+[04:34] century of fiat democracy ruined.
+[04:37] There's been a century of inflation, a
+[04:38] century of debt, a century of
+[04:39] liabilities piled up, and you're not
+[04:41] just going to find an enormous number of
+[04:44] bag holders that are going to be able to
+[04:46] buy this. Um, ultimately, I think
+[04:50] another point that is often ignored here
+[04:53] is that a lot of the new demand, a lot
+[04:55] of the demand that is coming for Tether
+[04:56] is displaced demand. A lot of it is
+[04:59] coming from people who are giving up on
+[05:02] financial instruments that would have
+[05:04] demanded treasuries otherwise. In other
+[05:07] words, when u when a currency collapses
+[05:09] and people in that country start using
+[05:11] tether, they're decreasing the demand
+[05:14] for treasuries by the central bank of
+[05:16] the government whose currency has
+[05:18] collapsed. So, it's not entirely new
+[05:21] demand. And even if it were entirely new
+[05:23] demand, even if we assume that 80% of
+[05:25] it, as we did in the previous example,
+[05:27] we still see that the impact on the uh
+[05:30] debt situation in the US is not likely
+[05:32] to be significant. It's not likely to
+[05:34] make a significant difference because
+[05:36] the amount of budget deficit is enormous
+[05:39] and it's continuing to grow and the debt
+[05:41] and the interest are continuing to grow
+[05:43] and it won't touch the entitlements. it
+[05:46] won't touch the defense spending and so
+[05:48] therefore all of this new extra demand
+[05:50] is not really going to make a big
+[05:52] difference. It's ultimately no way to
+[05:56] escape the inevitable fate of default
+[06:00] devaluation or default by devaluation
+[06:02] which are essentially all more or less
+[06:04] the same thing that a lot of people who
+[06:06] are owed a lot of liabilities are going
+[06:08] to find out that they're not going to
+[06:10] get what they want from them. So this is
+[06:13] ultimately what I think is u more
+[06:15] likely. Yes, it can help the uh fiscal
+[06:19] position of the US government that more
+[06:22] and more people are buying tether but I
+[06:23] don't think it will make that big of a
+[06:24] difference. But where does that leave
+[06:26] tether? I think there's an interesting
+[06:27] question here to ask which is what is
+[06:30] the impact that is going to have on
+[06:32] tether given that their reserves are
+[06:34] being devalued or that they might
+[06:36] default on. So devaluation is not a big
+[06:38] problem for Tether because their
+[06:40] liabilities devalue as well. When the
+[06:42] dollar goes down, the value of their
+[06:45] liabilities and their asset goes down.
+[06:47] So that's not a big problem. The bigger
+[06:48] risk for them, of course, is default.
+[06:50] Default is the main risk. And in
+[06:52] particular, you know, uh could be that
+[06:54] the US government defaults specifically
+[06:55] on Tether's bonds. Um, specifically
+[06:58] after they buy a lot of bonds, the US
+[07:00] government could just say, "Oh, well,
+[07:01] somebody was involved in some criminal
+[07:03] transaction with Tether. Therefore, all
+[07:05] of your bonds are cancelled." They've
+[07:07] done it with Russia. Maybe they'll do it
+[07:09] with Tether again at some point. Now,
+[07:10] Tether are smartly hedging against this
+[07:13] and protecting themselves from this by
+[07:15] doing the smart thing that everybody
+[07:16] should be doing, which is buying
+[07:18] Bitcoin. It's the smartest thing that
+[07:20] anybody could do. So, currently, Tether
+[07:22] has over 100,000 bitcoins, which is
+[07:24] worth more than $10 billion. and their
+[07:27] US dollar denominated reserves and
+[07:29] treasuries are around 120 billion. So
+[07:31] currently they've got more than 10 times
+[07:33] as much fiat as they do Bitcoin.
+[07:36] However, if there's one thing we know
+[07:39] about Bitcoin, it's that it has number
+[07:41] go up technology. And if there's one
+[07:42] thing we know about the dollar, it's
+[07:44] that it has number go down technology.
+[07:47] Now, one thing keeps going up, the other
+[07:49] thing keeps going down. Inevitably, the
+[07:52] thing that goes up is going to overtake
+[07:54] the things that go down. And so whether
+[07:57] through default, devaluation, or both,
+[08:00] Tether's Bitcoin reserves will likely
+[08:02] eventually overtake its US dollar
+[08:04] reserves, the ways in which we get there
+[08:07] might be different. But as long as
+[08:08] Tether keeps buying more and more
+[08:10] Bitcoin, which they seem not to be
+[08:13] stopping, and which seems to be a very
+[08:15] wise thing for them to do because it's
+[08:17] the only way to protect themselves from
+[08:18] devaluation of the dollar and default on
+[08:21] treasuries. As long as they keep doing
+[08:23] that, the value of their Bitcoin
+[08:25] reserves is going to continue to go up
+[08:26] and likely it's going to overtake their
+[08:29] US dollar reserves. Now, at this point,
+[08:32] something that the Tether uh fudsters
+[08:34] have said would happen might actually
+[08:36] finally happen. You know, we've always
+[08:38] heard the Tether is going to break the
+[08:40] um peg and maybe it will happen in this
+[08:43] situation because ultimately the real
+[08:45] risk for Tether. The riskiest part of
+[08:47] their business is the Treasury bonds.
+[08:49] Treasury bonds, which are usually
+[08:50] presented as the safe haven, are
+[08:52] actually the main risk for Tether. And
+[08:55] so over time, as their bonds devalue, as
+[08:58] their dollars devalue, their bitcoins
+[09:00] appreciate. And so therefore, they will
+[09:02] be able to break the uh the backing of
+[09:06] Tether with the dollar, but they would
+[09:09] break the peg upwards. In other words,
+[09:11] it would be possible for them at some
+[09:13] point to revalue Tether upwards. And so
+[09:16] they make it so that one tether is
+[09:17] redeemable for $12.
+[09:20] And then they could keep doing that
+[09:21] further and further. They keep revaluing
+[09:23] it upwards as the dollar drops. So
+[09:25] tether becomes relatively stable coin
+[09:28] while the dollar keeps devaluing. If
+[09:30] they offered the world a dollar plus 2%
+[09:32] per year or 1% per year that would that
+[09:36] would be more attractive than the dollar
+[09:38] for a lot of people. And so therefore we
+[09:40] enter into this cycle where tether can
+[09:42] increase its valuation which is going to
+[09:44] increase demand for tether at the
+[09:46] expense of the dollar which is going to
+[09:48] then increase the amount of tether
+[09:50] purchases of bitcoin which is going to
+[09:52] drive up the bitcoin price further. And
+[09:55] the key thing here is that even though
+[09:57] Tether puts only a small percentage of
+[09:58] its reserves in Bitcoin, because Bitcoin
+[10:01] is so much smaller than the US debt
+[10:03] market, that impact on the Bitcoin
+[10:06] market is a lot more significant than
+[10:08] the impact that they have with the
+[10:10] majority of the reserves going into the
+[10:13] debt uh the US government debt. So the
+[10:16] US government has got some $37 trillion
+[10:18] in debt, which is enormous. Bitcoin is
+[10:20] only 2 trillion. So a tiny amount of
+[10:22] money going into Bitcoin causes it to go
+[10:25] up a lot more than the same amount of
+[10:27] money going into the bond market. So
+[10:29] Bitcoin price appreciates the more that
+[10:31] Tether buys. That causes the Tether
+[10:33] reserves to appreciate and that then
+[10:36] helps them revalue their currency
+[10:38] further and further and further. And
+[10:40] eventually what we see is because of the
+[10:43] way the fact that because of the fact
+[10:44] that Tether is accumulating Bitcoin
+[10:46] reserves, it can effectively grow its
+[10:49] way out of being a bitcoin of being a
+[10:52] dollar stable coin into becoming a
+[10:55] stable coin that backs that is backed by
+[10:57] Bitcoin. it can eventually redominate
+[11:00] redenominate itself on in bitcoin terms
+[11:04] eventually making it so that it just
+[11:06] becomes another mechanism for the
+[11:08] scaling of bitcoin. I think the key
+[11:12] point to keep in mind is that the
+[11:15] ability of Tether to prop up the debt
+[11:17] market is extremely small because the
+[11:20] debt market is so enormous and the world
+[11:22] is already saturated with dollars and
+[11:25] there's just not that much possibility
+[11:27] for new dollar demand because the vast
+[11:29] majority of financial uh sector u assets
+[11:33] are essentially dollarbacked assets. On
+[11:36] the other hand, the Bitcoin market is
+[11:37] very small and so small demands into
+[11:39] Bitcoin will go up and over time they're
+[11:42] likely to maintain their value a lot
+[11:44] better than their dollar reserves are
+[11:45] going to do. So what we're having emerge
+[11:48] right now is essentially rather than
+[11:50] being a way to boost the dollar. I think
+[11:54] Tetar is a good way to transition away
+[11:57] from the dollar because by putting some
+[11:59] of their reserves into Bitcoin, they're
+[12:02] allowing the world to access the dollar
+[12:04] now, but they're allowing the world
+[12:06] access to Bitcoin as well. Now, add in
+[12:08] the fact that by getting people to think
+[12:12] about money in a digital way, by getting
+[12:13] people to think about money in terms of
+[12:16] uh private keys and uh public addresses,
+[12:19] Tether is helping people think about
+[12:21] Bitcoin. So the bottom line is that even
+[12:25] the most bullish scenario for the US
+[12:27] dollar, even the most imaginable way in
+[12:30] which the US dollar's
+[12:33] uh fate can be improved is finding an
+[12:36] enormous amount of bag holders all over
+[12:39] the world to buy US dollar treasury
+[12:41] shitcoins. And yet even that scenario is
+[12:45] a lot more bullish for Bitcoin than it
+[12:47] is for the US dollar. Ultimately, even a
+[12:50] lot of buying of treasuries is likely
+[12:54] going to be a lot more bullish for
+[12:55] Bitcoin. It's going to make a lot more
+[12:57] of a difference for Bitcoin because of
+[12:59] the fact that Tether is accumulating
+[13:01] Bitcoin reserves because it's smart for
+[13:02] them to accumulate Bitcoin reserves
+[13:04] because this the best way for them to
+[13:05] protect against the devaluation and the
+[13:08] likely default that might happen. So, I
+[13:12] don't really see this as being a um
+[13:15] something that's going to boost the
+[13:17] dollar. I don't think it can make enough
+[13:18] of a difference in the dollar. And on
+[13:20] the contrary, I think it's going to be
+[13:23] more and more bullish for Bitcoin. The
+[13:26] Bitcoin Standard Podcast is brought to
+[13:27] you by the safehouse.com, my independent
+[13:30] publisher and bookshop, selling the best
+[13:31] Bitcoin books in high-quality cloth hard
+[13:33] covers built to last for generations.
+[13:35] Most books these days are pretty fiat.
+[13:37] They're flimsy and they fall apart
+[13:38] quickly. And I did not want that for my
+[13:40] books. So, I set up the safe house,
+[13:42] especially to provide you with
+[13:43] beautiful, long-lasting classic cloth
+[13:45] hard covers you can proudly pass down
+[13:47] for generations. You can get copies of
+[13:49] my three books, The Bitcoin Standard,
+[13:50] The Fiat Standard, and Principles of
+[13:52] Economics. And you can also get copies
+[13:53] of Lyn Alden's Broken Money, Parker
+[13:55] Lewis' Gradually Then Suddenly, and
+[13:57] Matthew Lishiaak's Fiat Food, to which I
+[13:59] contributed a few chapters. We now offer
+[14:02] bulk discounts, so you can buy books for
+[14:03] yourself and for the friends and family
+[14:05] you'd like to learn about Bitcoin. Buy
+[14:07] any two books for $50, any five books or
+[14:09] more for $20 per book. And for more than
+[14:12] 50 books, it's only $15 per book. Go to
+[14:14] the safehouse.com, the sifhouse.com,
+[14:18] where you can get all of these books in
+[14:20] highquality cloth hard covers delivered
+[14:22] worldwide, and get 10% off for paying
+[14:25] with Bitcoin.
+[14:27] The Bitcoin Standard podcast is brought
+[14:29] to you by the Daylight Computer. I love
+[14:31] to work early in the morning and late at
+[14:32] night or in the sun outdoors, but
+[14:34] regular computer screens are terrible at
+[14:36] these times, and they strain your eyes.
+[14:39] For years, I've wanted a paper-like
+[14:40] electronic screen on a simple computer I
+[14:43] could use to write. I tried several
+[14:45] models, but none were very good. Now,
+[14:48] finally, Daylight have delivered a
+[14:50] fantastic full function tablet with a
+[14:52] paper-like screen that's easy on your
+[14:54] eyes and great for outdoor use. I've
+[14:57] been using the daylight computer to
+[14:58] write my next book and it is absolutely
+[15:01] fantastic and it has led me to invest in
+[15:03] this company myself. Check out my
+[15:06] interview with Anjan Kata in episode
+[15:08] 249.
+[15:10] So great to see you. This is our first
+[15:12] in-person interview. I can't believe it.
+[15:13] Thank you for coming on the show.
+ Thank
+[15:15] you for having me, Natalie. Always a
+[15:16] pleasure to be talking to you.
+ It's been
+[15:18] a while. You've been busy writing
+[15:20] another book. So I want to talk to you
+[15:22] about the gold standard. But first, how
+[15:23] are you finding this conference this
+[15:25] year? cuz you've been to what, four or
+[15:26] five of them?
+ Uh, I think this is my
+[15:29] third or fourth. I I've lost count.
+[15:32] Honestly, they're all such a big
+[15:33] whirlwind of events going on. They all
+[15:36] blend into one big giant days of Bitcoin
+[15:38] awesomeness.
+ Yeah. So, tell me about
+[15:41] this book. Um, because you have Bitcoin
+[15:43] Standard, then Fiat Standard, you have
+[15:44] now other authors under your umbrella.
+[15:46] You had Principles of Economics, which
+[15:48] was amazing, and now the gold standard.
+[15:50] You're going deep. I mean, what have you
+[15:52] not written about that you really wanted
+[15:54] to dive into with this?
+ Well, exactly.
+[15:56] So, I, you know, I've covered the real
+[15:58] world, so I had to invent a fake world
+[16:00] to write about it now because there's
+[16:01] nothing left to write about the real
+[16:02] world, I guess. No, it's not true.
+[16:05] Obviously, there's more to write about
+[16:06] the real world, but I'd always wondered
+[16:08] about what the world would have looked
+[16:10] like without fiat money. Once you take
+[16:12] the fiat bill and you start thinking
+[16:14] about fiat and how fiat affects
+[16:15] everything,
+[16:17] it's really one of the most
+[16:18] disconcerting realizations of just how
+[16:21] much uh damage it has done to our world
+[16:24] and how different our world would be
+[16:26] without it. And once you start thinking
+[16:29] about that, it's just almost consuming.
+[16:31] You you keep thinking about what this
+[16:33] means and what the implications are. And
+[16:36] frankly, the implications are enormous.
+[16:38] So uh I've always had this idea in my
+[16:41] mind of trying to think about what the
+[16:43] world would have looked like without
+[16:44] fiat and because you know in economics a
+[16:46] big part of economics is to think about
+[16:47] the counterfactual.
+[16:49] When you're making a choice in economics
+[16:51] in human action you don't get to do a
+[16:54] choice in a lab setting in isolation.
+[16:56] Everything has an opportunity cost. Time
+[16:58] is ticking. Life is irreversible and
+[17:01] time just keeps moving on. And so
+[17:04] therefore, you're always thinking about
+[17:06] what might have been, what could have
+[17:08] been. And you need to always think about
+[17:09] it. And once you start conceptualizing
+[17:12] the concept of opportunity cost and what
+[17:14] could have been and the alternatives in
+[17:16] your mind, that's when you start
+[17:18] thinking properly in the economic sense.
+[17:20] And so thinking about the question of
+[17:22] fiat from that perspective
+[17:24] inevitably leads you to think about what
+[17:26] the world could have looked like.
+ So
+[17:28] it's a hypothetical.
+ Yes. Book.
+ It's a
+[17:30] fiction book.
+ It's a fiction book. Oh
+[17:32] wow. I didn't realize that. I thought
+[17:33] you were like digging deep on the gold
+[17:35] standard with stuff covered before.
+ No,
+[17:38] I thought about doing that. I mean,
+[17:40] initially that was the kind of natural
+[17:43] consequence cuz I wrote Bitcoin fiat.
+[17:45] So, you would have gone back wrote and
+[17:47] written uh about the um history of gold
+[17:50] as money and how the gold standard
+[17:52] function and so on. But honestly, there
+[17:55] are a lot of books written on gold and
+[17:57] uh I don't really particularly have much
+[17:59] to add particularly as it's you know
+[18:01] kind of it's kind of a dead technology
+[18:03] at this point. It's it's been out of
+[18:04] commission for a while and a lot of it a
+[18:06] lot has been written already about it.
+[18:08] But what I did have in mind was the idea
+[18:10] for the counterfactual and I started
+[18:12] working on the counterfactual and then
+[18:13] it occurred to me that okay I should
+[18:15] just name it the gold standard and then
+[18:16] complete the trilogy.
+ Interesting. Okay.
+[18:19] But I mean, you say it's a dead
+[18:20] technology, but central banks have been
+[18:22] buying up gold. Gold is in the headlines
+[18:24] every single day. Some people are
+[18:26] talking about the US potentially moving
+[18:28] back to a neutral reserve asset being
+[18:31] gold, not not Bitcoin yet. Um, what do
+[18:34] you think about all of that and how how
+[18:36] the monetary system in real time is
+[18:38] actually changing?
+ I doubt it. I doubt
+[18:40] that we're going to get a move to gold.
+[18:43] I think um governments just don't like
+[18:45] gold. They're heavily propagandized
+[18:47] against gold. and they heavily
+[18:49] propagandize their populations against
+[18:51] gold. So um I mean yeah it would be
+[18:54] obviously an improvement over the dollar
+[18:56] if we were to have an truly neutral
+[18:58] international monetary system that uh
+[19:01] could not be produced by any one
+[19:02] particular government.
+[19:05] But it doesn't look like it's happening.
+[19:07] And um all these BRICS countries, they
+[19:09] keep talking about it or they keep
+[19:10] making noises about it or really it's
+[19:12] mostly westerners who um you know gold
+[19:16] bugs who just keep projecting their
+[19:20] dreams and wishes upon uh the bricks and
+[19:22] just imagine either they're going to
+[19:23] pull this off but they are not going to
+[19:25] pull it off. The dollar is a is the
+[19:27] biggest most liquid market. It's the
+[19:29] easiest one to use and you don't have a
+[19:32] liquid market infrastructure.
+[19:35] You don't have market infrastructure to
+[19:37] make gold liquid on an international
+[19:38] scale. That's what's ultimately missing.
+[19:40] So, there isn't a market for the
+[19:42] clearance of gold. And that's a
+[19:43] practical thing that needs to be built
+[19:45] and it's not something that you can just
+[19:47] mandate with a press release. You want
+[19:49] to have a very uh um fluid, smooth,
+[19:55] functional, cheap, reliable mechanism
+[19:57] for moving gold from one country to the
+[19:59] other. And these countries need to be
+[20:01] building these systems. And they can be
+[20:03] built easily and they can be built
+[20:04] cheaply, but um they're not building
+[20:08] them. So I don't think it's happening.
+[20:11] And I think if they start thinking about
+[20:13] building them practically, if they start
+[20:14] really thinking about gold in a
+[20:16] practical sense, all that's going to
+[20:17] happen is they're going to then truly
+[20:19] understand the value of Bitcoin.
+ So you
+[20:21] don't think that they could potentially
+[20:22] revalue the gold that the US currently
+[20:25] has to today's market prices to maybe do
+[20:29] an accounting trick essentially to
+[20:31] address the deficit or no?
+ No, no, it
+[20:34] doesn't make difference. I mean the uh
+[20:36] items on the asset side of the US
+[20:39] government balance sheet are essentially
+[20:43] um worthless. It doesn't matter how much
+[20:46] assets they have. They just have a money
+[20:48] printer and that's the only asset they
+[20:49] need. So it doesn't matter they can
+[20:51] value the bit they can value the gold or
+[20:53] the bitcoin at $1 each or a trillion
+[20:55] dollar each. It's all u
+[20:59] it it's all baloney on their balance
+[21:01] sheet. ultimately they've got the money
+[21:03] printer and as long as the money printer
+[21:04] works then they don't need assets.
+[21:07] What is the biggest headwind facing
+[21:09] Bitcoin right now? Because we do have a
+[21:10] lot of um positive momentum when it
+[21:12] comes to the regulatory and the the
+[21:14] political forces, but we're still I mean
+[21:17] some people are disappointed that we
+[21:18] haven't hit like 200,000 and that the
+[21:20] early majority is really not there. So
+[21:22] what's preventing that for Bitcoin?
+[21:25] Yeah, it's a good question. Um, I don't
+[21:28] really think there is uh any one
+[21:30] particular thing that stands out as a
+[21:32] headwind because it's hard to identify a
+[21:34] headwind on the fastest thing that has
+[21:36] ever existed. Uh, we've never had any
+[21:39] financial asset move as fast as Bitcoin
+[21:41] has. So, uh, you know, I think the
+[21:45] question is what are all the
+[21:47] turbochargers that are pushing it so
+[21:49] quickly? Uh, that's a more appropriate
+[21:52] question. So, but on the other hand, you
+[21:54] can kind of think, yeah, I mean, once
+[21:56] once you get into Bitcoin and once you
+[21:57] get it, there's that immediate feeling
+[22:00] that, oh this is going to do a
+[22:02] 1,000x over the next week because
+[22:04] everybody's going to find out because if
+[22:06] I can get it, then everybody's going to
+[22:07] get it and everybody's going to do it.
+[22:10] And so that doesn't happen. You know,
+[22:12] every noob comes in, they get over
+[22:13] excited, and then they learn to lower
+[22:16] their time preference and start, you
+[22:18] know, planting the garden of the Bitcoin
+[22:23] world that they want to see rather than
+[22:25] just expecting it all to materialize
+[22:27] within a few uh minutes or hours or days
+[22:31] or weeks. So, um, if I were to think of
+[22:35] something, I just think, um, sadly
+[22:38] people just aren't that bright. And, uh,
+[22:41] people are heavily propagandized to
+[22:44] believe in government as the source of
+[22:46] money. And they're heavily propagandized
+[22:48] to believe that, uh, government dictates
+[22:50] what money is. And, uh, they um, you
+[22:54] know, people love their chains and
+[22:56] people get grow used to their chains.
+[22:58] And they cannot conceive of a world
+[23:00] without their chains. and they'd rather
+[23:02] laugh at the person who's telling them
+[23:04] that they could get rid of their chains
+[23:05] than to try and actually move and
+[23:07] realize that their chains are actually
+[23:09] in their mind because it's really
+[23:11] actually very straightforward to get rid
+[23:12] of your chains. Since Bitcoin has been
+[23:14] invented, that's it. You know, you've
+[23:15] got the key. You can just unlock them
+[23:16] and move on with your life. But
+ well,
+[23:20] it's so crazy to see the complacency um
+[23:22] even in Wall Street. I mean this is the
+[23:24] best performing asset of the last decade
+[23:26] and there are still firms that are so
+[23:28] terrified to allocate to Bitcoin or
+[23:30] their charters prevent them from
+[23:31] allocating to Bitcoin. Everyone is like
+[23:33] terrified looking for permission from
+[23:35] places like Larry Frink and Black
+[23:36] Rockck. What What is your take on sort
+[23:38] of the institutionalization of Bitcoin
+[23:40] and do you think it's a good thing?
+[23:43] Um yeah, I mean it's a um I mean there's
+[23:47] no good and bad in in Bitcoin. It's a
+[23:50] it's
+ inevitable. Yeah, it's inevitable
+[23:52] and also it's it's not up to me to
+[23:54] decide what other people do with their
+[23:56] Bitcoin. So, um I can't really think of
+[23:58] it in a sense of whether I
+[24:02] can think of it as good or bad per se.
+[24:06] You know, I have my own personal
+[24:08] opinions, which is I'd rather not have
+[24:10] uh Wall Street banks be buying Bitcoin
+[24:13] as a matter of personal preference. I'd
+[24:15] rather a lot of other people around the
+[24:17] world manage to get all of these cheap
+[24:19] sub 100k
+[24:22] uh bitcoins, but at the you know, I
+[24:25] can't uh I can't decide who buys
+[24:27] bitcoin.
+ What do you think about the
+[24:28] corporate treasuries? I mean, because
+[24:30] there's so many popping up and I I'm a
+[24:32] little worried about the next bare
+[24:33] market because I don't I don't think
+[24:35] that all of them can survive and maybe
+[24:36] some might take on too much leverage and
+[24:38] that could be worrisome.
+ Yeah. Yeah. I
+[24:41] mean, uh, all the leverage is just
+[24:42] building up just in time for, uh, the
+[24:44] top and the, uh, bust. I mean, I I just
+[24:50] hope my message out there to everybody
+[24:52] who's into this business is Bitcoin has
+[24:54] done negative 70 and negative 80% before
+[24:57] and it can do it again. If your business
+[25:00] model can't handle a negative 80%
+[25:03] Bitcoin draw down,
+[25:06] rework your business model right now
+[25:08] because you know I think we're getting
+[25:10] toward the uh we're getting toward the
+[25:12] very shaky ground of the top and the
+[25:16] fall from it. Historically our top
+ I
+[25:18] think so I mean historically this is
+[25:20] usually the time when we get the top
+[25:22] between one year and 18 months after the
+[25:24] having
+ we're actually underperforming
+[25:27] the last havinging cycles like we we
+[25:29] should be up higher in terms of the
+[25:30] price.
+ Well yeah if you measure from the
+[25:33] time of the having but the difference is
+[25:34] that usually the bull market would have
+[25:37] started just before the having but now
+[25:40] we had a significant bull market well
+[25:41] before the having. So that's why it
+[25:43] looks like we're underperforming since
+[25:44] the having. But you know since the
+[25:46] bottom we were up from what was it 15K
+[25:50] to 109.
+[25:52] That's not inconsiderable. 110 I think
+[25:54] we hit is the highest. We're at 11 I
+[25:56] think.
+ 112. Yeah
+ 112. Yeah I think 112
+[25:58] was the highest. So 115 to sorry 15 to
+[26:02] 112. That's uh sevenfold. Uh
+ so you
+[26:06] don't think we're going to like 200k
+[26:08] this year?
+ No we might. But I think um I
+[26:12] think there's a good chance we go over
+[26:13] 200k,
+[26:15] but I think we're getting to that point
+[26:16] where uh it's going to be very volatile
+[26:19] both ways. We likely, you know, we're
+[26:21] going to get to that uh flat uh not
+[26:24] flat, sorry, that that vertical side uh
+[26:26] that vertical part of the curve where
+[26:27] the where it goes up a lot.
+ Blowoff top.
+[26:30] Yes, the blowoff top where goes up a lot
+[26:31] and then it uh crashes. I mean
+ yeah we
+[26:35] didn't get it last time because we kind
+[26:36] of had two and then there was the China
+[26:38] minor ban in the middle
+ but
+[26:40] realistically still
+ it was uh 12 to 18
+[26:44] months after the having where the top
+[26:47] happened.
+ So the macro side I mean don't
+[26:49] you think there's like a big print
+[26:51] that's incoming because there's going to
+[26:52] be enough tremors in the financial
+[26:54] markets and the treasury market that
+[26:55] they're going to have to come in and
+[26:56] liqufy and that's going to be great for
+[26:58] Bitcoin
+ maybe. Maybe. But you know
+[27:01] people have been saying that for a very
+[27:02] long time. People have been expecting
+[27:03] that for a long time. It may happen. But
+[27:06] uh ultimately I generally still fall
+[27:10] back on my thesis that Bitcoin marches
+[27:12] to its own drum beat. And yes, I think
+[27:14] the liquidity stuff matters a lot, but
+[27:16] it matters a lot more in the short term.
+[27:18] And I guess it matters in kind of uh
+[27:22] also in terms of drawing the long-term
+[27:24] magnitudes probably it matters. But uh
+[27:27] I think I think ultimately it's uh it's
+[27:30] it it marches to its own drum beat.
+ So
+[27:32] you obviously wrote the Bitcoin Standard
+[27:35] um Safe and you know that that book
+[27:37] really changed my life. It has changed
+[27:39] the lives of a lot of people. A lot of
+[27:41] them came here to see you. Thank you.
+[27:43] Get you to sign the book. You've sold a
+[27:46] million copies, right? I mean that's
+[27:47] quite an accomplishment because you're
+[27:49] self-published. You were basically the
+[27:51] first big Bitcoin book out there. What
+[27:53] does it feel like to have sold a million
+[27:56] copies around the world? That's
+[27:57] incredible.
+ Yeah, it feels great. Um,
+[28:00] definitely uh not what I had expected. I
+[28:03] was writing a book about Bitcoin because
+[28:05] I felt I needed to write it because
+[28:06] otherwise I was just arguing with people
+[28:08] on Facebook all the time and because I
+[28:09] needed to keep my job as an academic and
+[28:12] uh it uh it definitely blew up far
+[28:14] further than I expected.
+ How are we
+[28:16] going to get the early majority really
+[28:18] on boarded?
+[28:21] You know, I'm going to start uh I I'm
+[28:23] going to start working on a curriculum
+[28:25] for children, for school children.
+ Oh,
+[28:27] that's great.
+ I'm going to work on a
+[28:28] Bitcoin guide similar to the Bitcoin
+[28:30] standard, but simplified so that a 14,
+[28:34] 12 year old can read it and enjoy it and
+[28:37] learn the most important ideas from it
+[28:38] and learn. Yeah,
+ money and Bitcoin
+[28:41] that's so needed.
+ Yeah,
+ I think it is
+[28:43] needed. And I think, you know, the
+[28:44] Bitcoin stand is a little too heavy for,
+[28:48] you know, I mean, I I know some
+[28:49] 12-year-olds and four year olds who have
+[28:51] read it, but I think,
+ yeah,
+ for the
+[28:53] average 12-year-old, it's probably a
+[28:54] little too heavy. And also, you know, a
+[28:56] little too elaborate. They don't need to
+[28:58] know a lot about the details.
+ For sure.
+[29:01] And they just need to know the key and
+[29:03] uh important ideas and how they apply in
+[29:05] their life.
+ You've been in the space for
+[29:07] so long now. Can you just share kind of
+[29:09] how you've seen the evolution of the
+[29:11] Bitcoin culture, the ecosystem? I mean,
+[29:13] now now we're embraced by the White
+[29:15] House.
+ We're at this conference with
+[29:17] 30,000 people. I mean, what what's it
+[29:19] been like to see the growth?
+[29:22] It's been surreal. I mean, I think I I I
+[29:24] did not expect governments and
+[29:25] corporations to come in so early. I
+[29:27] would have expected if I if you were to
+[29:29] ask me say seven, eight, nine years ago
+[29:32] what I would expect for the year 2025, I
+[29:36] would say I probably would have expected
+[29:38] a lot more uh broad grassroots adoption.
+[29:42] more and more random normal people in
+[29:46] the US and Venezuela and Lebanon and
+[29:48] China and Germany and all over the world
+[29:52] buying small amounts of Bitcoin and
+[29:53] stacking over time and uh not enough or
+[29:58] not a lot of banks, finance, Wall
+[30:01] Street, these things. I I I would have
+[30:06] expected it to be that way, but it seems
+[30:08] to have gone the other way. Um, we're
+[30:10] getting the concentrated adoption where,
+[30:13] you know, large money uh is buying in
+[30:16] quantities. People like Sailor,
+[30:18] corporations, banks, Black Rockck. Um,
+[30:21] it's really wild. The Bitcoin Standard
+[30:23] podcast is brought to you by Coin Kite.
+[30:25] Coin Kite are my favorite makers of
+[30:27] Bitcoin hardware. They produced the
+[30:29] legendary open dime, the first Bitcoin
+[30:31] bearer asset, as well as the reliable
+[30:33] cold card hardware wallet, the excellent
+[30:35] stainless steel seed plates for storing
+[30:37] your seed phrases, and the block clock.
+[30:40] Now, Coin Kite have produced the SATS
+[30:42] card, a card the size of a credit card,
+[30:44] which can store Bitcoin and works great
+[30:46] as a gift. Coin Kite have just produced
+[30:49] a limited edition gorgeous Bitcoin
+[30:51] standard SATS card, which carries the
+[30:53] Bitcoin Standard logo, and you can get
+[30:55] it from cokite.shop/bitcoin
+[30:56] shop/bitcoinstandard.
+[30:58] Use the code Bitcoin Standard to get 5%
+[31:01] off your purchase. This podcast is also
+[31:03] brought to you by the Bitcoin Way, your
+[31:05] professional Bitcoin IT team, offering
+[31:07] you personalized, secure, and
+[31:09] comprehensive solutions for every step
+[31:11] along your Bitcoin journey. The Bitcoin
+[31:14] way offer live concierge service to
+[31:16] guide you with your Bitcoin cold
+[31:18] storage, running your node, privacy,
+[31:20] best practices, inheritance planning,
+[31:22] corporate strategy, and multisig
+[31:24] solutions. They don't touch your coins.
+[31:27] They guide you through the process of
+[31:28] acquiring your coins and securing them.
+[31:31] If you'd like to make your setup safer
+[31:32] and more reliable, book a consult with
+[31:35] them and see what they have to suggest.
+[31:37] If you want to give someone the gift of
+[31:39] Bitcoin, get them this professional
+[31:41] service that will ensure they start off
+[31:43] knowing exactly how to manage their
+[31:45] coins and not lose them. Go to the
+[31:47] bitcoinway.com
+[31:49] and start bitcoining more confidently.
+[31:52] Do you think that wealth concentration
+[31:54] will decrease under a Bitcoin standard?
+[31:58] Um, I mean, obviously there's always
+[32:01] inequality, but do you think it's going
+[32:02] to be as concentrated in terms of wealth
+[32:05] as it is today? Because really, we don't
+[32:07] have a meritocracy, right? Like it's all
+[32:08] flown to people closest to the issuers.
+[32:11] Could that change? The thing is I I
+[32:13] think the term inequality mathematically
+[32:15] there are many different ways of
+[32:16] measuring it and uh I don't think any of
+[32:20] them is valid in a sense because um I
+[32:23] mean yeah you can use the genie
+[32:24] coefficient you can say measure the
+[32:26] ratio between the top 10% and the bottom
+[32:28] 10%. Each one of them gives a different
+[32:31] emphasis to the question but there's no
+[32:33] correct way of analyzing the question or
+[32:36] uh objective way of analyzing the
+[32:38] question because
+[32:41] it's just it it plays out in many
+[32:43] different ways that can have very
+[32:44] different implications in many different
+[32:45] ways and so it's not uh it's not obvious
+[32:49] which one would be the best um measure
+[32:53] for this but in a sense I don't honestly
+[32:57] think it matters. So the question of
+[32:59] will Bitcoin be more unequal or not,
+[33:02] it's difficult to answer it because it
+[33:04] could be more unequal in the sense that
+[33:08] there's a small little.1%
+[33:10] who control an enormous chunk of the
+[33:13] Bitcoin, but outside of that.1% the rest
+[33:16] of society might be more similar and uh
+[33:19] or less unequal, let's say, and of of a
+[33:22] similar income profile
+[33:24] better than in fiat. So which one is
+[33:26] more unequal in this regard if you just
+[33:28] ignore the.1% if you include it. So it's
+[33:31] difficult to estimate something like
+[33:33] this. It's difficult to predict it. But
+[33:35] even if we were able to predict it, it's
+[33:37] difficult to compare those two different
+[33:40] uh distributions of income to be able to
+[33:42] come up with which one would be more
+[33:44] equal or unequal. And for me ultimately
+[33:47] it doesn't really matter because I don't
+[33:48] think this is an interesting question
+[33:50] intellectually, politically or morally.
+[33:53] I don't think this is a good thing for
+[33:55] anybody to be doing just trying to think
+[33:58] about how much money they have in
+[34:00] compared to other people and uh you know
+[34:03] I think it's um it's something that uh
+[34:07] you see in children and it's something
+[34:08] that well raised children are raised to
+[34:12] stop doing at at a certain point
+[34:14] sometime when you're seven between seven
+[34:16] and 14 I would imagine is the time when
+[34:18] you need to be taught to stop comparing
+[34:21] yourself to others Stop fixating on the
+[34:24] toys that other kids have. Focus on your
+[34:26] own toys. Focus on enjoying yourself
+[34:28] with your own toys. And if you learn
+[34:31] that, then it doesn't matter what toys
+[34:33] you have, you will be happy.
+ That's an
+[34:34] interesting.
+ And if you don't learn
+[34:36] that, it doesn't matter how many toys
+[34:38] you have, you will be unhappy. You will
+[34:40] always be looking at the other kid who
+[34:41] has the toy that you don't have. And no
+[34:43] matter how much your parents buy you
+[34:44] toys, if you keep looking at other toys,
+[34:46] there will always be kids with toys that
+[34:48] you don't have. And so you'll always be
+[34:50] miserable. On the other hand, if you are
+[34:53] happy with what you have, if you're able
+[34:55] to focus on what you have or making the
+[34:56] most of what you have, you could get an
+[34:58] empty box and you'll be very happy with
+[35:00] all the toys that you can make out of
+[35:01] it.
+ That's an interesting way to to put
+[35:03] it. Okay. Um, one of the things I'm
+[35:06] grateful to you for teaching me is
+[35:08] actually the fact that we don't need an
+[35:10] inflationary monetary supply that really
+[35:12] any amount of money will do as long as
+[35:14] it's divisible. Um, can you touch on
+[35:17] that just a little bit because I even
+[35:18] recently had Judy Shelton on the show
+[35:20] and one of the things that was hard for
+[35:22] her about Bitcoin is that absolute
+[35:24] finite scarcity and she kind of compared
+[35:27] it to dividing was actually was like
+[35:29] issuing more shares of stock and I was
+[35:30] like no no no no because you're not
+[35:32] diluting anyone you're just dividing
+[35:34] right and then some people came back to
+[35:35] me and said no Bitcoin's not infinitely
+[35:37] divisible and I was assuming on
+[35:40] secondary layers it actually is that's
+[35:41] what I've read so can you comment a
+[35:43] little bit bit about that like why is a
+[35:45] finite scarce amount of money good for
+[35:48] society and is Bitcoin infinitely
+[35:50] divisible? Can it meet all the needs of
+[35:52] society no matter how large the economy
+[35:54] grows?
+ So the first question really is
+[35:57] the most important question in economics
+[35:58] I would say and I it was really the
+[36:02] moment where it clicked for me. I I
+[36:04] would say this was the moment where
+[36:05] Bitcoin clicked even though Bitcoin
+[36:07] hadn't been invented yet but it was the
+[36:09] moment where I became a Bitcoiner even
+[36:10] before Bitcoin. It was when I was
+[36:12] reading a paper by Mario Rothbart called
+[36:15] the Austrian theory of money. It's a
+[36:18] short paper, something like 20 30 pages
+[36:19] or so, but it really might be the best
+[36:23] summary of money from Austrian economics
+[36:26] perspective, which for me is basically
+[36:28] the best treatment of money. Full stop.
+[36:31] So it's a great great article and he
+[36:33] goes over the main ideas in mises and in
+[36:36] the Austrian tradition and he concludes
+[36:38] with saying any supply of money is
+[36:41] enough because money is acquired for its
+[36:44] purchasing power not its quantity not
+[36:47] its objective uses. So it's one thing
+[36:50] it's unique. Mises calls it a sui
+[36:52] generous good. It's a good unlike
+[36:54] others. There's no good like money. With
+[36:56] every other good you derive some
+[36:58] benefit, some utility from the good
+[37:02] itself in whichever form or shape it
+[37:04] takes. Whereas with money, the good
+[37:07] itself, its physical manifestation is
+[37:11] almost immaterial to its um ability to
+[37:14] fulfill its function. What matters is
+[37:17] its ability to um is its purchasing
+[37:20] power. How much you can exchange it for.
+[37:22] So money is something that you acquire
+[37:24] for exchange. It's a medium of exchange.
+[37:26] You acquire it for only so that you can
+[37:28] exchange it. So therefore, what matters
+[37:30] is how you exchange it and how much you
+[37:34] can exchange it for. And so therefore,
+[37:36] you don't need to increase the quantity
+[37:39] of money. you can just increase the
+[37:41] purchasing power of the existing money
+[37:43] for meeting the demand for money for
+[37:46] more goods for more people. So any
+[37:48] quantity of money can be enough because
+[37:50] you can always just pump more purchasing
+[37:53] power into it. That's ultimately the key
+[37:56] idea and that's how it fundamentally
+[37:58] works in that um if the demand for any
+[38:02] good increases the demand is increasing
+[38:05] for the good itself for its ability to
+[38:06] perform its function. So if you want
+[38:08] water, if you want a car, if you want a
+[38:10] table, you know, people want those
+[38:11] tables and they need them to do those
+[38:13] functions. But as um
+[38:17] as the demand for them increases, you
+[38:19] need to produce more. So then you need
+[38:20] to, you know, generate more. But with
+[38:23] money, you don't need to generate more
+[38:25] because all you need to do is just have
+[38:28] the purchasing power rise. And so as the
+[38:31] demand increases, then purchasing the
+[38:35] market value increases. And so any
+[38:37] quantity of demand can be met as the
+[38:39] value of the currency appreciates over
+[38:41] time.
+ Don't you need to be able to
+[38:42] divide it too? It helps when you have 8
+[38:44] billion bodies around the world, right?
+[38:45] And Bitcoin's fractionary. So
+ yeah.
+[38:48] Well, I mean to be fair, you know, um I
+[38:52] guess there is some kind of physical
+[38:53] limit at a certain point that shows up
+[38:56] when the coin uh when the physical money
+[38:59] or or when the form of money is no
+[39:00] longer divisible in a way that is
+[39:02] convenient for most transactions. So we
+[39:04] saw that happen with gold. The reason
+[39:05] that silver maintained a monetary role
+[39:08] was because in small denominations you
+[39:10] couldn't really cut gold into very small
+[39:12] fine pieces and go silver had usually a
+[39:15] value that was about a 12th to a 15eenth
+[39:18] of gold's value. So it meant that you
+[39:20] needed a 12th of the weight. So you
+[39:22] could make easy uh denominations smaller
+[39:25] and you could easily see them and
+[39:27] understand what they were.
+[39:30] But then after um gold took over, you
+[39:33] know, part of the reason why gold was
+[39:35] centralized was because it uh you know,
+[39:38] for smaller denominations, you needed
+[39:40] papers or uh uh fiat coins, essentially
+[39:43] coins that were made out of cheap metals
+[39:45] that were redeemable for uh precious
+[39:48] metals. So essentially, part of the
+[39:51] reason why we ended up with uh using
+[39:54] money substitutes rather than money is
+[39:56] because of the inability of gold to
+[39:57] scale downward. you couldn't just uh
+[40:00] effortlessly break a 1 oz piece of gold
+[40:03] into 10 ounces or 12 uh pieces of uh a
+[40:07] 12th of an ounce and so therefore it's
+[40:10] less u
+[40:12] less divisible. So yeah, I think there
+[40:15] um with Bitcoin this is kind of a uh a
+[40:19] uh a potential uh hurdle problem down
+[40:23] the road which is a certain point a
+[40:26] satoshi becomes too valuable. So
+[40:29] currently $1 is a thousand satoshi's
+[40:32] when bitcoin when we hit $1 million one
+[40:35] satoshi will be one cent. So at that
+[40:38] point you know well at this point you
+[40:41] know nobody really uses a scent. They're
+[40:42] going to put cents out of a commission
+[40:44] in the US.
+ Yeah. The penny.
+ Yeah. The
+[40:45] penny is going to be out of use. And so
+[40:48] by the time Bitcoin hits a 100, sorry,
+[40:50] by the time Bitcoin hits a million,
+[40:51] pennies are going to be less worth less
+[40:54] and less. So when Satoshi's hit a penny,
+[40:57] there still we we it's not going to be a
+[41:00] problem. But when Satoshi's hit a dime,
+[41:03] you know, maybe by the time they hit a
+[41:04] dime, even that won't be a problem. But
+[41:06] maybe when Satoshi hits a dollar, then
+[41:08] yeah, that's going to be a problem at
+[41:10] that point. So then you know I I I've
+[41:14] heard different things from different
+[41:16] people. So I don't really know. Uh some
+[41:18] people say it's something that can be
+[41:20] implemented on chain. It can be revised.
+[41:23] Others say it can be implemented on
+[41:25] second layer solutions that you can uh
+[41:27] that's my friend
+ add basically a decimal
+[41:29] point and start adding more zeros.
+[41:32] I do not know but you know by the time
+[41:36] we get to one bit once Satoshi is $1, um
+[41:40] I'm going to be ready to confront such a
+[41:42] question.
+ All right, my last question
+[41:44] for you is what is maybe a dream that
+[41:48] Bitcoin has allowed you to have come
+[41:51] true?
+[41:54] Well, I mean uh I mean the most
+[41:56] important dream obviously is my family.
+[41:58] um having the ability to take care of my
+[42:00] family and provide for them and um to
+[42:03] work my uh job as a writer and writing
+[42:07] things that I want, teaching things that
+[42:08] I like and also provide for my family,
+[42:10] doing the things that I love to do and
+[42:13] things that I uh think are valued by
+[42:16] others. I think it's just uh a blessing
+[42:18] that I uh I'm extremely grateful for on
+[42:21] every day and uh something that I don't
+[42:23] take for granted. I think it's it's a
+[42:25] true blessing. Well, we're blessed to
+[42:27] have your mind in the space. Thank you
+[42:29] so much, Safe. I'm glad we got to do
+[42:30] this.
+ We're blessed to have you,
+[42:31] Natalie. Thank you so much.
+ I'm going to
+[42:32] get myself a copy of the Gold Standard.
+[42:35] Thank you.
+[42:36] [Music]
+[42:42] [Music]
+[42:52] [Music]

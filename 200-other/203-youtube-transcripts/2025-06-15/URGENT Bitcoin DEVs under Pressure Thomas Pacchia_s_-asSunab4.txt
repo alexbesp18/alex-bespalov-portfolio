@@ -1,0 +1,1612 @@
+Title: URGENT: Bitcoin DEVs under Pressure | Thomas Pacchia
+Video ID: s_-asSunab4
+URL: https://www.youtube.com/watch?v=s_-asSunab4
+Date Saved: 2025-06-15 11:57:04
+--------------------------------------------------
+
+[00:00] we see a wh scale attack on open source
+[00:02] software developers in Bitcoin happening
+[00:05] now they're competing against in nation
+[00:07] states people or are able to solve the
+[00:09] overall equation of mining economics in
+[00:12] different ways which is what makes it
+[00:13] one of the most Cutthroat Soul crushing
+[00:15] businesses on the planet most mining
+[00:18] operations are not in a position where
+[00:20] they're able to stack meaningful amounts
+[00:22] of Bitcoin was there anything that
+[00:24] surprised you from that Haring we need
+[00:26] to give Bitcoin a little bit of
+[00:28] breathing room give the developers
+[00:29] breathing room to innovate and continue
+[00:31] to bring better products and services I
+[00:33] see if future everybody uses Bitcoin
+[00:35] because it is actually the base layer of
+[00:36] our financial system we also wanted to
+[00:38] provide a real sense of community for
+[00:41] bitcoiners did you always wanted to to
+[00:43] have a bar is this like something that
+[00:46] you always had in mind or was this
+[00:47] coming out like randomly gez I guess I
+[00:50] guess a mix of of both I've always
+[00:52] really enjoyed um specifically like New
+[00:55] York City like pubs and taverns we call
+[00:58] them dive bars here um and it's also one
+[01:01] of the best ways to uh uh to travel is
+[01:04] to find something that's not just sort
+[01:06] of like a um a magnet for tourists or
+[01:09] people that are just passing through if
+[01:11] you can find something that is
+[01:12] hyperlocal it's uh uh just like that
+[01:15] normal Pub Tavern you know bar is um a
+[01:20] really great way to get a much better
+[01:21] sense of a local culture uh local
+[01:23] Cuisine the way that they drink the way
+[01:25] that they talk and interact with each
+[01:27] other that like Cadence um you know I
+[01:30] think a lot of the um a lot of the Guard
+[01:33] comes down right especially in in
+[01:36] heavily trafficked like touristy areas
+[01:38] like if you go you know even to like
+[01:40] Rome or Paris I mean these are um like P
+[01:44] like uh sort of Premier tourist
+[01:47] destinations and you can get one sort of
+[01:49] view into a local area that way and New
+[01:52] York City is like this as well you're
+[01:54] going to get a very very different vibe
+[01:55] in a Time Square than you will just go
+[01:58] into sort of um a local familyowned
+[02:00] neighborhood Tavern um so that's always
+[02:03] been of interest but I never had any
+[02:05] background in Hospitality um in fact
+[02:07] most of the founding team didn't have
+[02:09] background in Hospitality my wife and I
+[02:11] and a group of friends in covid um you
+[02:14] know I think it became
+[02:16] painfully uh apparent just how important
+[02:19] these places are um a lot of them in New
+[02:22] York City were closing um you know these
+[02:24] these taverns specifically in New York
+[02:26] City are are family run um and when
+[02:30] something like covid hits uh combined
+[02:32] with inflation and you know rent going
+[02:36] through the roof it's really hard to
+[02:38] operate a Hospitality business uh in
+[02:40] that sort of you know uh uh economic uh
+[02:44] environment so this was a passion
+[02:46] project in that sense our uh my wife and
+[02:48] I lived a couple blocks away from the
+[02:50] bar that was previously where pubkey um
+[02:53] is now uh so we had been coming to this
+[02:56] spot um for for many years and it was
+[02:59] you know near and dear to our heart but
+[03:01] the other thing that was happening in Co
+[03:02] was a lot of bitcoiners uh were leaving
+[03:05] New York City for other cities right
+[03:07] Austin and Nashville definitely being
+[03:09] two of uh the biggest ones Miami as well
+[03:13] um so what we saw was a bit of a
+[03:15] hollowing out of the Bitcoin Community
+[03:17] through covid and we had this idea to
+[03:20] create you know a space uh for people
+[03:23] that could really cultivate uh and
+[03:26] support and help grow that community
+[03:28] that was getting uh fair amount of
+[03:30] attrition just because of you know what
+[03:32] was happening through the pandemic so we
+[03:34] started the project in 2021 um and it
+[03:37] takes a long time when you're dealing
+[03:39] with you know renting a commercial lease
+[03:41] in the city uh dealing with um you know
+[03:44] acquiring a liquor license getting the
+[03:46] approvals all that stuff and then
+[03:48] construction and standing up in actual
+[03:50] restaurant uh operation is is a
+[03:53] tremendous amount of work um so it
+[03:55] started in 2021 and we finally opened
+[03:58] our doors in October of
+[04:00] 2022 and you know we've been we've been
+[04:03] fortunate to you know one thing about
+[04:05] bitcoiners are they're tremendously
+[04:07] loyal and passionate so we've had a lot
+[04:09] of help from the community to help fill
+[04:11] in some of the blind spots that we had
+[04:13] particularly around hospitality and some
+[04:15] other elements of what we hope to
+[04:17] accomplish here um but it it really is a
+[04:20] um an expansive project we're trying to
+[04:22] pull in you know obviously the
+[04:24] foundation is that that Kitchen and Bar
+[04:27] the The Tavern the local community
+[04:30] um and I would say about 75 to 80% of
+[04:33] our customers are still not bitcoiners
+[04:36] but we also wanted to provide uh a real
+[04:38] sense of community for bitcoiners and
+[04:40] the way that we express that is through
+[04:42] our you know weekly Bitcoin programming
+[04:45] which is at least once a week usually on
+[04:46] Thursdays but now it's at the point
+[04:48] where we have at least two or three uh
+[04:51] Bitcoin programming events on a weekly
+[04:53] basis and almost all of these very few
+[04:57] exceptions almost all of them have been
+[04:58] free and open to the public look um and
+[05:01] we like to capture as much of that as we
+[05:03] can you know uh digitally for
+[05:04] dissemination on YouTube Spotify things
+[05:07] like that um so that people that cannot
+[05:09] be in the room are still able to
+[05:11] participate in that Community Building
+[05:13] um so it started as you know a passion
+[05:16] project and it's grown into you know
+[05:17] full-fledged business over over you know
+[05:20] the last I don't know two years at this
+[05:22] point coming up on two
+[05:24] years yeah and and I feel like Community
+[05:27] is such an important aspect
+[05:30] uh just just a quick question like why I
+[05:32] I noticed that even from from Austria
+[05:35] because uh people made videos about it
+[05:38] leaving New York City for Miami for
+[05:40] Austin for Nashville like it was all
+[05:42] over social media it was something that
+[05:44] was known internationally but I never
+[05:46] understood like why were people living
+[05:49] New York City I think Washington was
+[05:51] also like one place people left I feel
+[05:53] like but maybe I'm wrong why why New
+[05:57] York city was it like taxes was was it
+[06:00] policies was it what
+[06:02] problems for sure I think that that that
+[06:05] the taxes and the policies particularly
+[06:08] um uh uh as it pertains to running a
+[06:11] Bitcoin business in New York City when
+[06:13] you're dealing with the bit license
+[06:14] that's definitely a a pretty expensive
+[06:17] barrier um but just on like a human
+[06:20] level like the cost of live the cost of
+[06:22] living in New York City is quite high
+[06:25] and one of the reasons why New York City
+[06:27] is such a special place is because you
+[06:28] have um just an abundance of um
+[06:32] experiences opportunities bars and
+[06:34] restaurants you know Theater comedy
+[06:37] music venues Sports everything so you
+[06:40] know covid was a a rather um extreme
+[06:44] event that takes a lot of the you know
+[06:47] uh reason why people love New York City
+[06:50] away if you don't if if you see the the
+[06:52] closure of a lot of businesses that
+[06:55] provide that amazing diversity of
+[06:57] experiences and opportunities then the
+[06:59] cost of living becomes a little bit more
+[07:01] and more expensive it takes an emotional
+[07:03] toll it takes Financial toll on um on
+[07:07] individuals it's different if you know
+[07:09] young and single and you know uh uh uh
+[07:13] you you you're able to sort of navigate
+[07:16] that in a slightly different way but as
+[07:18] people start to have families I think
+[07:19] that those financial pressures become a
+[07:22] little bit more um taxing uh and you
+[07:26] feel the loss of uh the experience and
+[07:29] opport opportunity even more severely in
+[07:31] that in that event um covid is is pretty
+[07:35] much gone I mean you don't really see
+[07:37] people in masks or you know talking
+[07:39] about it but I think the business
+[07:42] hangover uh is still is still lasting a
+[07:45] little bit in certain neighborhoods New
+[07:47] York City is mostly back um but there
+[07:50] are certain neighborhoods that you can
+[07:52] still see a bit of a covid hangover uh
+[07:56] lots of people I think that we're going
+[07:57] to have um a very very long effect of
+[08:01] people wanting to work remotely not go
+[08:03] to an office 5 days a week and what that
+[08:05] means is you know entire neighborhoods
+[08:08] that are really built around you know um
+[08:10] office economies like Midtown where you
+[08:13] have these gigantic Office Buildings the
+[08:15] bars and restaurants there are seeing
+[08:16] fewer people that are there during the
+[08:18] week um so they're a little bit better
+[08:21] and we're seeing people go back to the
+[08:23] office Tuesday Wednesday Thursday but
+[08:25] Monday and Friday is still a bit
+[08:27] negotiable people can work from home
+[08:29] they can focus on their family they can
+[08:31] you know not have to deal with the daily
+[08:33] commute you know three days a week is
+[08:35] better than five days a week so the the
+[08:38] the commercial ramifications of that
+[08:41] societal change are still apparent in
+[08:43] certain areas but other areas of menh
+[08:45] Hatten are back and we're starting to
+[08:46] see a lot more bars restaurants other
+[08:49] things um um open up finally but it took
+[08:52] it took a fair amount of time yeah and I
+[08:55] feel like as you said it before Co
+[08:57] showed us so good that it's so important
+[09:00] to have Community to have places to hang
+[09:02] out and and I mean I also respect
+[09:05] bitcoiners that don't want to get talkx
+[09:08] at all and they just want to stay
+[09:10] isolated and don't want to go anywhere
+[09:12] close to like a Bitcoin area and but I
+[09:15] feel like if if you kind of can convince
+[09:18] yourself to do it like there are so many
+[09:20] different ways there's like the orange
+[09:21] pill app there's like local Bitcoin
+[09:23] meetups there are Bitcoin conferences
+[09:25] there are like as pupy Bitcoin barel
+[09:28] local restaurants where you can go
+[09:29] there's so many different ways to get in
+[09:31] touch with bitcoiners and uh especially
+[09:34] uh for a community that is uh driven
+[09:37] through so many highs and lows uh it it
+[09:40] can really help to just engage with with
+[09:43] real people in real life and just have
+[09:45] conversation at least for me it has a
+[09:47] had a big impact like before I met any
+[09:50] bitcoiners online um I met any
+[09:53] bitcoiners offline it was completely
+[09:56] different for me it had a different
+[09:58] impact on live I took it really more
+[10:00] seriously at the podcast and way more
+[10:03] stuff on that but I feel like that's
+[10:05] that's really important to have
+[10:06] communities or a lot of projects like
+[10:08] the PO key thank you um that means a lot
+[10:11] and um you know I think that there is a
+[10:14] a big difference or there's there's a
+[10:16] need that that we try to to fill orange
+[10:19] pill app you know um the online
+[10:21] communities Twitter it's great to talk
+[10:25] to like-minded people um and you know
+[10:28] there's also argument ments amongst
+[10:30] like-minded people I like to say that
+[10:32] like a flame war on Twitter that lasts
+[10:34] months could be solved over a beer or
+[10:36] two uh at a bar um and it also makes I
+[10:40] think bitcoiners as a broader Community
+[10:42] much more accessible and relatable um if
+[10:45] somebody's interested in Bitcoin um
+[10:48] sometimes I think that conferences can
+[10:49] be a bad experience because they're
+[10:51] quite expensive you have to travel for
+[10:53] them you have you know a flight a hotel
+[10:56] you go to the conference and the
+[10:57] conference can be quite overwhelming if
+[10:58] you're if you're you know just getting
+[11:00] into Bitcoin I think that some people
+[11:03] experience sort of a a painful awareness
+[11:05] that they're not invited to you know the
+[11:08] dinners or the parties or like the high
+[11:10] signal like in crowd events you're sort
+[11:13] of thrust into a large Expo um where
+[11:17] there's a sea of of booths there's lots
+[11:19] of marketing there's talks that a lot of
+[11:21] people have can already access right a
+[11:23] lot of the the content at conferences
+[11:26] sometimes there's announcements but you
+[11:29] know the stuff that that that that the
+[11:31] conversations that happen on panels and
+[11:32] things like that I don't think are are
+[11:35] what people are really looking for uh
+[11:37] when they're going to their first
+[11:38] Bitcoin conference they're looking for
+[11:40] community and that that's something
+[11:42] entirely different it's it's hard to
+[11:43] achieve that sense of community over the
+[11:45] course of three days for a newcomer but
+[11:48] you know if you have a location like a
+[11:50] pubkey or a standing Bitcoin Meetup
+[11:52] right even even if it's a monthly Meetup
+[11:55] um you're able to actually have that you
+[11:58] know human touch that that in-person
+[12:00] Dynamic where you can have a real
+[12:02] conversation there can be you know
+[12:05] vulnerability uh expressed in a in a in
+[12:07] a in a slightly you know more confident
+[12:10] way where you can actually you know not
+[12:11] be afraid of asking dumb questions on
+[12:13] Twitter and just getting like dogpiled
+[12:15] by people that are saying that's a
+[12:16] really dumb question uh over a beer like
+[12:20] you're you're almost both sides are
+[12:21] forced to uh engage effectively with one
+[12:26] another yeah definit definitely and and
+[12:29] the conference as you said can be really
+[12:31] overwhelming I mean i l it last year for
+[12:34] example in prag where I think like 6,000
+[12:36] people were there it's way smaller than
+[12:38] for example a Nashville conference where
+[12:40] I don't know 20 30,000 or like really a
+[12:43] lot of more people were there um but
+[12:45] still it's a lot of people um what was
+[12:49] good for me because I I I saw a lot of
+[12:51] energy the energy was was really nice
+[12:54] there the talks as you said they're all
+[12:56] online anyway so unless you're in the
+[12:59] VIP area where there's not shared like
+[13:02] online then you can get something and
+[13:04] but it's also not nothing to surprise
+[13:07] like there's no no really new things the
+[13:09] only really good thing is like you have
+[13:11] one place where all of the companies are
+[13:14] you have a nice overview I really
+[13:16] enjoyed going from Booth to boo and
+[13:18] talking with the people talking what
+[13:19] they're doing like but but maybe that's
+[13:21] just me it was I I really like the
+[13:23] overview and the seeing all the
+[13:25] companies what do they do here and who
+[13:28] is here who is not here and stuff like
+[13:30] that but maybe that's just the same way
+[13:33] I spend most of my time you know going
+[13:35] from Booth to booth and seeing familiar
+[13:37] faces and and new ones can collect uh
+[13:40] whatever whatever marketing swag that
+[13:42] they have lots of stickers for my
+[13:44] daughters things like that that's that's
+[13:46] where I spend my time at conferences
+[13:48] yeah also I'm I'm a lot of times in the
+[13:50] boo area
+[13:52] actually uh I feel like in brag I only
+[13:55] yeah I only saw the Michael sailor uh
+[13:58] presentation ARR rest I was on the poof
+[14:00] for three days straight yeah but um uh
+[14:05] coming back to the bar I I saw it only
+[14:08] on Twitter I was I'm not wasn't sure is
+[14:10] was the auction of the Bitcoin sign in
+[14:12] The Bu Key Bar yeah so um the Bitcoin
+[14:16] sign guys names Christian lalis um
+[14:19] auctioned the original sign um he used
+[14:23] we didn't do we didn't facilitate the
+[14:24] auction or anything like that he used um
+[14:27] scarcity um to facilitate actual auction
+[14:30] itself um but on the last day when the
+[14:32] countdown was um uh uh was initiated
+[14:36] there's this like Hot Zone where the new
+[14:39] highest bid you know triggers a five uh
+[14:42] a five minute clock for any other
+[14:44] competing bids so we had a small group
+[14:46] of people and in just like a really uh
+[14:49] amazingly special um turn of Fate um you
+[14:53] know the the the the gentleman that won
+[14:56] the auction is a New Yorker and he came
+[14:58] to pubkey and he was live bidding you
+[15:00] know from pubkey um which was super
+[15:02] exciting it went for um a great number
+[15:05] well deserved by Chris I think the the
+[15:08] Bitcoin sign is probably the most iconic
+[15:10] Bitcoin meme um so that's really a
+[15:13] Bitcoin artifact in in many ways um so
+[15:16] that was a that was a very special event
+[15:18] and that happened you know right after
+[15:20] the having um we had a big you know nft
+[15:24] NC was in New York so all of the Bitcoin
+[15:27] and ordinal activity you know really
+[15:30] migrated to pubkey in one one form or
+[15:33] another um so April was a pretty intense
+[15:36] month for us um I I I was I was happy to
+[15:39] see you know the calendar turned to May
+[15:42] uh uh eventually because we worked
+[15:44] pretty hard here at py to accomplish all
+[15:45] these events but even in may we have a
+[15:47] ton of stuff as well with pizza day
+[15:49] coming up we're we're screening um the
+[15:51] New York premiere of um uh my trust in
+[15:55] you was broken um and uh we we we always
+[15:59] have you know something going on here
+[16:01] but that that Bitcoin sign auction was
+[16:04] um probably one of the top highlights uh
+[16:07] since we've opened the doors and and it
+[16:10] was fascinating for me I I just quickly
+[16:11] saw it and I was like oh it's
+[16:13] interesting and and I took the photo and
+[16:16] and reposted it and it was C crazy it
+[16:20] was going really uh long and people were
+[16:23] having basically three different kinds
+[16:25] of opinions the first was like oh it's
+[16:27] never worth that keep the Bitcoin the
+[16:29] the second was like oh it's an such an
+[16:31] iconic thing you have to have it if you
+[16:33] have the possibility to buy it then you
+[16:34] have to have it the third one like yeah
+[16:36] it's free market if obviously it's it's
+[16:39] worth that if if someone is willing to
+[16:41] pay the price what was your opinion on
+[16:43] on on the auction is like I I mean like
+[16:46] it's it's probably the most iconic meme
+[16:48] like I I shared it myself so many times
+[16:51] before the auction before I even knew
+[16:54] about the auction so I I feel like when
+[16:57] a meme deserves that then it's that Meme
+[17:00] uh but like what's your opinion on on on
+[17:03] the the the whole debate on is it worth
+[17:06] it is it worth is it was the sign worth
+[17:10] worth the price that uh it went for uh
+[17:13] yeah exact I mean uh there's always this
+[17:16] free market answer where like of course
+[17:17] when someone pays for it then it's worth
+[17:19] it uh but there's always this this
+[17:21] long-term them thing like do do you
+[17:23] think the sign will outperform Bitcoin
+[17:25] in like 50 years assumingly that the
+[17:27] sign is still there and it doesn't get
+[17:28] burn water or something like that I
+[17:31] don't know it'll be interesting to see
+[17:33] um if there is a sale how it does in in
+[17:36] in Bitcoin terms as opposed to like
+[17:38] dollar terms um you know it might not be
+[17:41] it'll be look um it's anybody's guess I
+[17:46] think it'll be a little bit harder for
+[17:47] it to continue to appreciate in Bitcoin
+[17:49] terms um uh maybe a little bit easier in
+[17:52] dollar terms um but I'm not surprised
+[17:56] that it went for the number it did
+[17:59] because of how iconic and how special it
+[18:01] actually is like it's not the legal pad
+[18:04] that was scribbled it's what it's what
+[18:05] it represents and what it's what you
+[18:08] know um that artifact is so there's
+[18:11] always going to be collectors whether
+[18:13] it's somebody's you know somebody's
+[18:15] buying Babe Ruth's you know uh baseball
+[18:18] glove or bat or or something like that
+[18:21] um collectors want a sense of um you
+[18:25] know ownership over a moment in time and
+[18:27] history um and if Bitcoin continues to
+[18:30] be a thing uh and does what I you know
+[18:33] think it can do what many other
+[18:34] bitcoiners think it can do then it's
+[18:37] hard to it's hard to imagine an artifact
+[18:40] of more importance than that legal pad
+[18:43] um the moment in time when you had um uh
+[18:48] uh the chair of the Federal Reserve
+[18:50] talking about you know whether or not
+[18:52] the FED will ever face an audit Bitcoin
+[18:54] on the precipice of a major major run um
+[18:58] it it was really coming into its own and
+[19:01] I think a lot of what was happening in
+[19:03] the global financial markets really sort
+[19:06] of um was starting to highlight
+[19:08] bitcoin's importance and all of that um
+[19:11] so I'm kind of hardpressed to think of
+[19:13] other Bitcoin artifacts maybe maybe the
+[19:15] um um uh the newspaper that you know
+[19:19] Satoshi quoted Chancellor on the brink
+[19:22] um there are a lot of copies of that
+[19:23] there's only one of the um the sign
+[19:25] itself maybe the cassious coins um you
+[19:29] know but this is this is definitely up
+[19:31] there and if you look at like the the
+[19:34] importance and the global reach and the
+[19:35] value of the Bitcoin Network I think
+[19:37] collectors are always going to look to
+[19:40] you know these tangible artifacts of uh
+[19:42] historical import to um to Value um but
+[19:48] again I think it'll be really
+[19:49] interesting to see how um how it's
+[19:52] valued in the future uh in Bitcoin terms
+[19:55] and in dollar terms yeah I mean this is
+[19:57] kind of the the shift we we have to make
+[20:00] I mean I always kind of try to do it uh
+[20:04] and think of like when I start to
+[20:08] purchase something bigger or start to
+[20:10] think of like oh is it a good investment
+[20:12] or is it good that I can get something
+[20:14] out of it um when you think in dollars
+[20:17] it's always kind of a good decision like
+[20:19] not a lot of things are worse than the
+[20:22] dollars of course there are things that
+[20:24] dollars out of Fe currencies and stuff
+[20:25] like that but uh there are not like for
+[20:28] example houses a house will always
+[20:30] appreciate in dollar terms but I think
+[20:33] it will always depreciate uh in in in
+[20:35] Bitcoin terms because Bitcoin is just a
+[20:37] way better form of storing Financial
+[20:39] energy over long term and you saw it
+[20:41] over the last 10 years and I think you
+[20:42] will see it in the next 10 years uh but
+[20:45] in toer terms of course it goes up
+[20:47] because yeah if you print so much money
+[20:49] it's it's kind of kind of there's
+[20:51] there's a really interesting
+[20:52] psychological component to that um if
+[20:55] you think about the Silk Road um bags of
+[20:57] drugs yielded a fair amount of Bitcoin
+[21:00] right in in notional Bitcoin terms that
+[21:02] like you know they're not worth that at
+[21:04] all anymore um and maybe if Christian
+[21:07] had sold the Bitcoin sign um years
+[21:10] earlier depending on what the market was
+[21:12] doing that might have yielded more
+[21:13] Bitcoin um for the transaction um so I
+[21:17] wonder if we should all be selling
+[21:18] everything for Bitcoin now uh or in
+[21:21] dollar terms and converting it
+[21:23] immediately to capture as much Bitcoin
+[21:25] as possible um because I think that
+[21:27] there is a very uh
+[21:29] plausible scenario where that Bitcoin
+[21:31] sign is not going for the same amount of
+[21:32] notional Bitcoin in the near future for
+[21:35] the next sale or maybe this collector is
+[21:37] going to hold on to it forever we don't
+[21:38] we don't we don't know what's what um uh
+[21:41] what he values uh in terms of ownership
+[21:44] of that artifact going
+[21:46] forward might be that he just like
+[21:48] really likes that moment and he want to
+[21:50] just us to own that moment and take it
+[21:52] with him forever like or his bathroom or
+[21:55] something so he can see it every day
+[21:59] definitely but let's get into my actual
+[22:01] questions that I had for
+[22:03] you um uh as you are involved a lot of
+[22:07] of Bitcoin mining um and I never covered
+[22:09] that topic as much as I should cover it
+[22:13] um Bitcoin mining is evolving I feel
+[22:15] like when you come to the old old days
+[22:18] where you can mine with a bit with a
+[22:20] computer uh then graphic cards then we
+[22:22] with the A6 now and uh it becomes more
+[22:25] more like a specialized business I feel
+[22:27] like um is is there is there like when
+[22:29] we look at the long run of Bitcoin
+[22:32] mining and like the game theory beh
+[22:34] behind Bitcoin mining um is there any um
+[22:38] threats to it where it gets too
+[22:40] centralized I mean we saw it 2017 that
+[22:43] the Bitcoin miners are not like in
+[22:45] control like we know that uh the Bitcoin
+[22:49] miners just when you can concentrate
+[22:50] your Bitcoin minus it's not as as uh
+[22:54] yeah as a big of a threat but is is it a
+[22:58] problem that Bitcoin manage is kind of a
+[23:00] threat and can like small products like
+[23:03] a Bitcoin heater or like having Bitcoin
+[23:06] minor connect to your solar roof and
+[23:08] will it be decentralized in the future
+[23:10] is that do you think of of that on this
+[23:12] like how do you see it evolving in the
+[23:14] next like 50 years yeah I think there
+[23:17] will be an EB and flow um to sort of uh
+[23:21] large scale um you know public miners
+[23:25] with these massive data centers um there
+[23:28] is interesting dynamic between these
+[23:29] public miners who are are mining for uh
+[23:32] increasing shareholder value always
+[23:35] denominated in local currency right they
+[23:37] they want to see the dollar value of
+[23:39] these of these um companies and
+[23:41] organizations go up um these companies
+[23:44] and organizations are competing against
+[23:46] hobbyists they're competing against in
+[23:48] nation states um people in other or
+[23:52] anywhere in the world that have you know
+[23:54] much cheaper electricity or able to
+[23:56] steal electricity or or um are able to
+[23:59] solve uh the overall equation of of
+[24:02] mining economics in different ways which
+[24:05] is what makes it one of the most
+[24:06] Cutthroat Soul crushing businesses on
+[24:08] the planet and I think that there will
+[24:10] always be an EB and flow between
+[24:13] centralization and
+[24:14] decentralization I I'm not terribly
+[24:16] concerned about that because I I
+[24:18] actually think that the incentives are
+[24:20] are really elegantly balanced um it's
+[24:23] it's a it's a really beautiful protocol
+[24:24] the way that it's um um um designed I
+[24:28] think that the um concern when we talk
+[24:31] about centralization and Mining is it
+[24:33] for me is is more at the pool level than
+[24:35] at individual miners because individual
+[24:38] miners can effectively you know set up
+[24:41] some rakes if they have access to some
+[24:43] as6 they have electricity not all miners
+[24:46] mine for uh US dollar profits some are
+[24:50] mining just to capture an amount of
+[24:52] Bitcoin some are mining to get access to
+[24:56] a Global Financial Network that is not
+[24:58] sort of censored and controlled in the
+[25:00] same way that let's say the Swift
+[25:01] Network or the correspondent banking
+[25:03] network is and I think that that will
+[25:05] always always exist in some capacity but
+[25:08] when we look at um mining pools which
+[25:10] are effectively um a a swap product uh
+[25:15] between the pool and an individual minor
+[25:17] trading variant and smoothing out sort
+[25:20] of um the uh the revenue streams uh
+[25:23] that's where we could see uh a little
+[25:26] bit of a concern uh around around
+[25:29] whether it's a regulatory threat or um a
+[25:32] threat that comes from uh a particular
+[25:34] company running a large pool themselves
+[25:37] um to to potentially um manipulate
+[25:39] things or or or get away from um uh
+[25:42] Bitcoin the way it it it ought to
+[25:44] operate um but in terms of largescale
+[25:48] miners uh one of the best examples that
+[25:51] we had was the the capacity in China
+[25:54] just after covid was tremendous and then
+[25:57] there's the Chinese band
+[25:59] um a lot of that equipment you know uh
+[26:01] goes to other jurisdictions we saw a lot
+[26:03] of it go to Texas elsewhere in the
+[26:05] United States South America um a lot of
+[26:08] it you know over into uh Kazakhstan
+[26:11] usbekistan
+[26:12] um it'll always sort of find its level
+[26:16] uh and I think miners will always find
+[26:18] uh the most uh favorable uh conditions
+[26:22] not just from a power uh price
+[26:25] perspective but also you know other
+[26:27] things that are in the mix terms of you
+[26:29] know regulatory climate um you know
+[26:31] operating concerns things like that um
+[26:34] now there's a lot of concentration in
+[26:36] Texas in the US um but what we've seen
+[26:39] in China since is I think a lot of hash
+[26:43] rate has been plugged back in there it's
+[26:44] hard to tell exactly how much but um you
+[26:47] get these sort of cockroach uh
+[26:50] operations that are able to pop back up
+[26:53] uh even in places where there is um I
+[26:56] would say more um regulatory hostility
+[27:00] um uh than elsewhere or than previously
+[27:02] before so it's always evolving and I
+[27:04] think that you know just after the
+[27:06] having we're going to see some of that
+[27:09] some of those catalysts a little bit
+[27:11] more um you know there is always an
+[27:14] inventory flush there was always pain as
+[27:17] the supply side economics change even
+[27:20] though we know about it I I I'm not um
+[27:23] uh totally um subscribe to efficient
+[27:26] market hypothesis particularly in the
+[27:28] mining uh industry um so I think a lot
+[27:32] of the ramifications of the having are
+[27:33] still yet to play out that historically
+[27:36] has taken you know a couple of quarters
+[27:39] um to actually see uh consolidation
+[27:42] occur in the in the in the mining
+[27:44] industry um but I think you know we'll
+[27:47] we'll continue to see um an ebb and flow
+[27:51] from centralization to decentralization
+[27:53] on the miner level um a little bit more
+[27:55] of a concern around the uh mining pool
+[27:57] level
+[27:59] what do you mean with uh the
+[28:01] ramification of the Bitcoin Haring like
+[28:05] what what what does the Bitcoin Haring
+[28:07] has as an impact after after it
+[28:10] happened yeah so you know miners uh all
+[28:13] miners are operating in local currency
+[28:15] to buy equipment to buy electricity to
+[28:18] pay for labor to maintain data centers
+[28:20] all of that stuff so everything on the
+[28:22] cost side for miners is denominated in
+[28:24] the local currency let's just say
+[28:26] dollars here in the US um the revenue
+[28:28] side of the equation is denominated in
+[28:30] Bitcoin they receive Bitcoin for the you
+[28:33] know hash rate production they're able
+[28:34] to put out there um so there's always uh
+[28:38] an inherent imbalance that needs to be
+[28:40] dealt with for any mining operation
+[28:43] embedded in hash rate you have a lot of
+[28:44] volatility risks you have the market
+[28:46] price of Bitcoin um you have difficulty
+[28:49] adjustments you have variance which we
+[28:51] talked about a little bit earlier you
+[28:52] have you know transaction fee volatility
+[28:55] right now um when you have uh sort of
+[28:59] difficulty or having right there's less
+[29:01] Bitcoin that all miners are competing
+[29:03] for so there's Le less available Revenue
+[29:06] we haven't seen the price the market
+[29:08] price of Bitcoin double to offset that
+[29:12] um we saw a spike in transaction fees
+[29:14] which was very short-lived and you know
+[29:16] may not be sustainable enough to totally
+[29:18] offset that so if a mining operation has
+[29:21] a business where it says this is my you
+[29:23] know cost side of the equation and I I'm
+[29:26] I'm sustainable at these levels but then
+[29:28] on the revenue side that gets slashed by
+[29:31] 50% there is a very difficult
+[29:34] recalibration I would say for for most
+[29:36] minors there are some miners that are
+[29:37] large enough um they were able to build
+[29:41] um you know a robust enough um uh uh
+[29:44] treasury like War chess to deal with
+[29:46] this and to continue to expand um but I
+[29:48] think that that calibration that
+[29:50] market-wide uh uh recalibration is is
+[29:53] still playing out so it's interesting in
+[29:55] mind because uh they they might Bitcoin
+[29:58] and they always have the they also have
+[30:00] the possibility basically to also have
+[30:02] uh to stack more Bitcoin in the short
+[30:05] term when they think it's like a bare
+[30:07] Market they like profit from that if
+[30:10] there's a bull market I mean I have like
+[30:12] I don't operate a m I have no clue about
+[30:14] mining on a a detail level I was just
+[30:16] like now thinking uh is is there are
+[30:18] some this those those strategies where
+[30:20] like okay if the price seems low
+[30:23] compared to the usual foure cycle where
+[30:26] you stack a little bit more and then
+[30:28] uh when when there's a bull market
+[30:30] coming then you try to like prepare for
+[30:32] the upcoming bare Market I guess this is
+[30:35] like usual Financial stuff like as as
+[30:37] all all all companies even outside of
+[30:39] Bitcoin mining too yeah look that's a
+[30:42] great question so there that that's like
+[30:44] on the treasury management side of
+[30:46] things let let's assume they they're
+[30:47] able to cover all their costs um and now
+[30:51] they're sitting with an amount of
+[30:52] Bitcoin um what miners are also uh
+[30:56] painfully aware of most miners are
+[30:58] painfully aware of if um if a mining
+[31:01] operation's hash rate production is not
+[31:04] growing at the rate the overall network
+[31:07] is growing they're effectively being
+[31:09] diluted so they have to grow at or above
+[31:12] the rate of change for cumulative hash
+[31:15] rate um uh uh for the entire network to
+[31:19] protect against solution and also to
+[31:21] become more and more competitive to
+[31:22] capture more of that that um that share
+[31:25] of Bitcoin that's being released if
+[31:27] they're if they're in that deluded state
+[31:30] if they are not growing at the same rate
+[31:32] of you know the the overall Network
+[31:34] growth they're being diluted and that's
+[31:36] a losing situation they can do it for a
+[31:39] period of time there are ways to deal
+[31:41] with it uh through you know treasury
+[31:43] management hedging and stuff like that
+[31:45] but then you're starting to get into
+[31:46] sophisticated Financial products and not
+[31:48] everybody has that capabilities in house
+[31:51] and it it doesn't always offset some of
+[31:53] the risks um because that that ends up
+[31:56] being a very very complicated
+[31:59] complicated way to to approach things so
+[32:02] they capture a certain amount of Bitcoin
+[32:04] they're able to pay all their costs
+[32:06] which are you know dollar denominated
+[32:08] whatever they're left with a certain
+[32:10] amount of Bitcoin then they effectively
+[32:11] have to decide all right we want to keep
+[32:13] as much Bitcoin as possible but we do
+[32:14] have to keep growing so it's a
+[32:16] reinvestment in the operation to protect
+[32:18] against solution um and then you know
+[32:21] when they when they you know set that
+[32:23] let's say you know costs are 50% and we
+[32:26] we need to grow at another 20 % so let's
+[32:28] just say there's 30% profit you know do
+[32:32] we hold on to that in Bitcoin uh and
+[32:35] hope that we see a part of the cycle
+[32:36] where that is going to appreciate um or
+[32:40] do we want to lock this in uh in US
+[32:43] dollars to pay in case we have a bad
+[32:44] month or you know um something at the
+[32:47] facility breaks down and we need more
+[32:49] more investment to fix things um taxes
+[32:53] whatever uh can pop up um you know some
+[32:56] mining operations just like any other
+[32:58] company if treasury management catches
+[33:01] you at the wrong time uh let's say let's
+[33:04] say Bitcoin is is down 40% in that
+[33:07] period and you have a large tax bill you
+[33:08] weren't expecting where there's a fire
+[33:10] at the data center that you need to
+[33:12] repair um or or or something like that
+[33:14] happens it becomes a very very delicate
+[33:16] dance which is why I think you know most
+[33:19] mining operations are not in a position
+[33:23] where they're able to stack meaningful
+[33:25] amounts of Bitcoin um you know it would
+[33:28] be nice to see them all but I think that
+[33:30] they are natural forced sellers for the
+[33:33] vast majority of Bitcoin that they mine
+[33:35] um and that's probably going to continue
+[33:38] and there are edge cases right so like a
+[33:40] um a home Miner a hobbyist they say this
+[33:43] is just the cost of of my hobby I'll pay
+[33:47] electricity I'll pay for new equipment I
+[33:50] don't care if I'm being diluted it's
+[33:51] nice to get Bitcoin those hobbyists are
+[33:55] definitely more likely
+[33:58] um to be stacking the Bitcoin that they
+[34:00] receive um and it's also being received
+[34:03] in a way uh outside of exchanges in a in
+[34:06] a in a no kyc fashion so you know some
+[34:09] would say that there is more value
+[34:11] attached to that um I think that there
+[34:13] is you know a counterargument to that um
+[34:15] but if people believe that that has
+[34:17] value it has value same as you know a
+[34:19] legal notepad that somebody scribble buy
+[34:21] Bitcoin on but um yeah there are a lot
+[34:24] of there are a lot of Dynamics bit coin
+[34:26] mining is is definitely one of the most
+[34:28] complicated and fascinating brutal
+[34:31] Industries on the planet if you are
+[34:33] listening to this podcast you might be
+[34:35] wondering what is actually the setup
+[34:37] look like of Robin or how can I improve
+[34:40] my Bitcoin setup and there's two things
+[34:42] you have to buy Bitcoin from the right
+[34:44] source and you have to store Bitcoin the
+[34:46] right way let's focus on the first thing
+[34:48] how to buy Bitcoin it's simple have a
+[34:51] Bitcoin only exchange don't deal with
+[34:53] the shitcoin exchanges don't deal with
+[34:55] an exchange that has an own token or
+[34:57] something like that be on a Bitcoin only
+[34:59] exchange I use 21 Bitcoin 21 Bitcoin is
+[35:02] for me the best partner for that and now
+[35:06] where do you store Bitcoin Bitcoin
+[35:08] should be stored on a hardware wallet on
+[35:10] a self custody solution where you
+[35:13] yourself hold your keys and it should be
+[35:16] a cold wallet so that's my Simple
+[35:19] Solutions that's a bitbox you just put
+[35:22] your Bitcoin on there back up your seat
+[35:24] fras and you are better than 95 % of all
+[35:28] Bitcoin holders if you have more than a
+[35:31] th000 EUR in Bitcoin it's a absolutely
+[35:33] must have one last thing before we get
+[35:36] back to the video I'm really passionate
+[35:38] about meeting other bitcoiners and
+[35:40] there's an amazing opportunity in middle
+[35:42] of Europe in June the Bitcoin BR
+[35:45] conference it's the best and biggest
+[35:48] Bitcoin only conference in whole of
+[35:51] Europe for all Americans please visit
+[35:53] Europe and visit this place in June for
+[35:56] all europees it's a must go go anyways
+[35:58] you're so close to the Bitcoin PR
+[36:00] conference you basically have to come I
+[36:02] will do interviews there and I would
+[36:04] love to meet you all there use code
+[36:07] Robin for all my sponsors to get
+[36:10] discounts and use the links down in the
+[36:12] description what what also is
+[36:14] fascinating for me in the Bitcoin uh
+[36:16] mining hash rate while while they
+[36:19] because when I came into Bitcoin my
+[36:21] conclusion was like oh the hash rate is
+[36:23] uh depending on the Bitcoin price but it
+[36:26] seems like it's not uh because the
+[36:29] mining hash rate has been up up up it's
+[36:32] alltime high even when the Bitcoin price
+[36:34] was was down like 50 60% of the alltime
+[36:37] high uh and the hash rate kept hitting
+[36:40] alltime highs uh is that because as you
+[36:43] described that the miners to not be
+[36:47] deluded has to keep up with the growing
+[36:49] network if everyone tries always to grow
+[36:52] and new people come in and new companies
+[36:54] come in and try also to mine because
+[36:56] it's a new exciting uh um business and
+[36:59] industry to be in uh is that the the
+[37:02] sole reason why it keeps growing even
+[37:04] though the price like is not keeping up
+[37:06] sometimes this is a this is this is an
+[37:08] old question that I don't think anybody
+[37:10] has really like zeroed in on a final
+[37:12] answer for it's whether like price does
+[37:14] price follow hash rate or does hash rate
+[37:16] follow price um and I think it depends
+[37:19] in certain circumstances you can make
+[37:21] the argument one way in circumstances
+[37:24] you can make it the other way um you
+[37:26] have a lot of like energy companies that
+[37:28] see an Arbitrage through mining Bitcoin
+[37:31] um if you have enough people that uh
+[37:34] observe some of the elegant solutions
+[37:37] that um a mining company is able to um
+[37:41] uh take advantage of then more likely
+[37:44] than not you're going to have some
+[37:45] people in that organization around that
+[37:47] organization see value in Bitcoin itself
+[37:50] and they're going to want to have some
+[37:51] they're going to soak up more Supply um
+[37:54] there's a bit of a dance between the the
+[37:56] the two um and it really depends on when
+[37:59] uh in terms of the the relationship
+[38:01] between um price and hash rate and how
+[38:03] that progresses um L I think I think a
+[38:07] lot of it right now has been sort of uh
+[38:10] mostly driven by any energy uh Arbitrage
+[38:15] opportunities um and uh finding business
+[38:19] models that work in certain locations
+[38:21] and then other people recognizing that
+[38:23] and say like hey I have a similar
+[38:25] situation and I can buy some of these
+[38:27] rigs set up a data center um and you
+[38:30] know make money off of let's say a
+[38:32] wasted or stranded energy asset or an
+[38:35] energy asset that's heavily subsidized
+[38:38] by the government um there are many such
+[38:40] cases there's there's a lot of um of
+[38:43] different ways to look at
+[38:44] it absolutely and uh last questions on
+[38:48] the Bitcoin mining was there anything
+[38:50] that surprised you from that having
+[38:53] anything that was unnatural uh that was
+[38:56] maybe not in in previous uh hings I
+[38:59] think the the one thing that I noticed
+[39:01] that we hit the all-time high before the
+[39:03] Haring but it's just us dollar price
+[39:05] action that I think never happened
+[39:07] before was there anything that surprised
+[39:09] you with this Haring or was it uh pretty
+[39:12] much like all the other
+[39:13] hings yeah so the all-time high uh I
+[39:16] think that we can say with decent
+[39:18] confidence that had to do with the ETFs
+[39:20] being approved in January um and large
+[39:24] large uh financial institutions offering
+[39:26] products um and opening up a whole new
+[39:29] cohort of institutional investors
+[39:31] Pension funds endowments you know
+[39:33] Sovereign wealth funds we're able to get
+[39:36] access to bitcoin uh bitcoin's price
+[39:40] volatility uh and exposure that way has
+[39:42] driven a lot of
+[39:44] demand um you know post having I mean it
+[39:48] went off the way it was supposed
+[39:50] to um you know the blocks confirmed and
+[39:53] all that um there was a tremendous
+[39:55] amount of activity in the first block
+[39:57] and then a couple of the subsequent ones
+[39:59] you know I'm not the biggest fan of
+[40:02] ordinal for ordinal sake and a lot of
+[40:04] this you know brc2 and Rune activity I
+[40:07] did think it was going to be a little
+[40:08] bit more sustained than it was it really
+[40:10] sort of shot up to you know
+[40:12] catastrophically high levels
+[40:14] particularly that first block was like
+[40:16] 40 Bitcoin of transaction fees or
+[40:18] something like that um uh in that range
+[40:22] uh and then it really fell off a cliff
+[40:24] um and it looks like runes are really
+[40:25] struggling to to gather momentum and
+[40:27] confidence to get back to where they
+[40:29] were just leading up to the having maybe
+[40:32] it comes back I don't think anything
+[40:33] ever dies now GameStop and AMC are doing
+[40:36] super well again uh so I'm sure runes
+[40:38] will have another crack at it um but um
+[40:42] I guess you know the ETF an all-time
+[40:45] high wasn't as much of a Sur of a
+[40:47] surprise you had lots of very strong
+[40:49] narratives going to the having um and
+[40:52] then if you switch to just transaction
+[40:54] fee um uh volatility
+[40:57] that was not as much of a surprise
+[41:00] because you know runes were definitely
+[41:02] something hyped going into it uh if
+[41:04] anything I'm surprised that that um uh
+[41:07] fell off as quickly and dramatically as
+[41:09] it did and we haven't seen transaction
+[41:11] fees come come come back to it ordinals
+[41:14] really like if you just look at you know
+[41:17] transaction fees ordinals have really
+[41:19] produced like two Eiffel
+[41:21] Towers uh in in that chart there was
+[41:23] like the initial you know frenzy uh
+[41:26] around this time last year um when
+[41:30] ordinals you know first you know broke
+[41:31] onto the scene and then uh right around
+[41:34] the having again uh uh around runes but
+[41:38] outside of that there hasn't been really
+[41:41] sustained um organic growth uh uh at
+[41:45] least reflected in the transaction fee
+[41:48] Market maybe that maybe you could make
+[41:50] the argument that you know that growth
+[41:51] is happening elsewhere and you have to
+[41:53] look at it uh a little bit differently
+[41:55] but just by going by Cold Hard on on
+[41:57] chain metrics um you know that the the
+[42:00] fall off was a bit of a surprise to me
+[42:03] yeah definitely it's it's fascinating
+[42:05] the D Dynamics on on on the the
+[42:08] blockchain on on the Bitcoin blockchain
+[42:11] um you you also sent me before for the
+[42:14] preparation a little bit about yourself
+[42:16] and you were saying like you're a
+[42:17] recovering lawyer uh which I found
+[42:20] interesting and funny um do you think
+[42:23] our legal system in general is is a fair
+[42:26] one do you do feel like it's it's it's
+[42:29] uh doing what it is supposed to
+[42:32] do um that's a that that's a hard
+[42:36] question um is it fair no I don't think
+[42:39] it's I don't think it's fair um and I
+[42:41] think it's really dependent on what
+[42:43] sector you look at I think um at least
+[42:47] in the US uh it's certainly the one that
+[42:50] we have and it's evolved this way over
+[42:52] time for a reason it definitely benefits
+[42:56] um I would say corporations large
+[42:58] corporations more than it does you know
+[43:00] entrepreneurs startups small small
+[43:02] business owners things like that um if
+[43:04] you look at uh um specific segments of
+[43:09] the legal system um one of the one of
+[43:12] the crowning achievements in the
+[43:14] American legal system was bankruptcy law
+[43:17] particularly in the 70s 80s 90s um and
+[43:20] that was meant to provide structure for
+[43:23] orderly liquidation of failed companies
+[43:26] to the benefit of creditor s and also to
+[43:28] the benefit of uh those going through
+[43:29] bankruptcy by slowing things down taking
+[43:32] a snapshot and um having a process in
+[43:35] place for an orderly liquidation or
+[43:37] restructuring that was a that was a
+[43:39] great system which I think has largely
+[43:42] um been bastardized in the last couple
+[43:44] of um decades going back to the Leman
+[43:47] crisis and uh ge bailouts and things
+[43:50] like that um corporate interests and and
+[43:52] and shareholder interests and really you
+[43:55] know uh the the folks that are um uh uh
+[44:00] really driving the process itself the
+[44:03] lawyers the accountants the Consultants
+[44:05] are becoming you know fantastically
+[44:07] wealthy through this process um and I I
+[44:10] pick on that one because of FTX right so
+[44:13] FTX um creditors people uh who had funds
+[44:17] at FTX and and and lost those funds um I
+[44:22] I don't know if these are the exact
+[44:23] figures I believe it's in the range of
+[44:25] like 1.3 billion but legal fees alone
+[44:28] have already outstripped that so when
+[44:30] you see um when you see that like
+[44:33] creditors are going to be made whole
+[44:36] they're not like the dollar value they
+[44:38] lost out on the crypto that they held a
+[44:40] lot of that crypto if it's Bitcoin and
+[44:42] salana uh definitely not ethereum that's
+[44:44] not really doing anything but Bitcoin
+[44:46] and salana have done quite well and
+[44:48] they're not seeing that price increase
+[44:49] they got frozen in time and they are
+[44:52] going to be you know made whole on that
+[44:54] snapshot but that that really is not
+[44:57] reflective of the whole situation so I
+[44:59] think you know just using that as an
+[45:02] example and then if we look at a lot of
+[45:03] the uh approach elsewhere um you know I
+[45:08] believe the tornado uh developers uh
+[45:11] were convicted earlier this morning um
+[45:14] we see you know a whol scale attack on
+[45:16] open- Source software developers you
+[45:19] know in Bitcoin and throughout the
+[45:20] broader crypto space happening now um
+[45:24] this is special special interests that
+[45:25] are driving a lot of these really harsh
+[45:28] regulatory um uh impediments to the
+[45:32] industry um so I mean I'm I'm I'm
+[45:34] certainly biased in in in some regard um
+[45:38] but I don't think it's I don't think
+[45:39] it's a fair system I think it's
+[45:41] definitely got away from some of the
+[45:43] like core tenants of um of what the
+[45:46] legal system is supposed to provide you
+[45:48] know citizens there's a question that I
+[45:50] like it it comes up a lot of the times
+[45:52] in in in uh my podcast because I think a
+[45:55] lot about it how the world of Politics
+[45:59] the world of the legal system the world
+[46:01] of of yeah our world in general actually
+[46:04] evolves when this Bitcoin thing as we
+[46:08] all believe will actually work out and
+[46:10] it will be like a base layer monetary
+[46:13] system I mean all bitcoiners have kind
+[46:15] of like different versions of how this
+[46:17] can look and there are bitcoiners on my
+[46:21] podcast show that says like the US
+[46:22] Dollars and fear system will always be
+[46:24] be then there are bitcoins on there that
+[46:27] uh think that in the next three years
+[46:29] the Fiat system the complete fat system
+[46:30] will die I think both a little bit
+[46:33] extremist but there there's like from
+[46:35] from various ranges uh in in the broader
+[46:38] sense I also feel like there's a current
+[46:40] war on freedom privacy open source all
+[46:43] those those things that are kind of
+[46:44] interrelated to each other um how how
+[46:48] how do you see that like is like first
+[46:50] of all probably you agree with me that
+[46:52] there's like war going on against
+[46:54] Freedom privacy in open source um and
+[46:57] then when a growing Bitcoin economy
+[46:59] comes in there where a lot of bitcoiners
+[47:02] actually
+[47:03] um fight for those freedom and privacy
+[47:07] uh rights a lot and they also value that
+[47:10] a lot and I feel like also bitcoiners
+[47:12] that come in Bitcoin often gets Orange
+[47:15] buil in a privacy sense for example I
+[47:17] was before absolutely not concerned
+[47:20] about it now I'm getting more and more
+[47:22] concerned about it uh and and in that
+[47:24] sense like how do you see this playing
+[47:26] out in the long run when Bitcoin this
+[47:29] this mindset of Bitcoin but also the
+[47:31] asset Bitcoin uh gets more and more
+[47:34] involved in the
+[47:35] world um you
+[47:37] know uh freedoms and privacy are are
+[47:41] largely uh a myth at this point I think
+[47:44] that there's been so much of um of a
+[47:47] Crackdown on that for so long I I feel
+[47:49] like open source software is a tool to
+[47:52] reclaim some of those it's it's it's one
+[47:54] it's one weapon that um is under attack
+[47:56] now for obvious reasons um but you know
+[47:59] I think that we lost so much ground in
+[48:02] terms of you know self- sovereignty as
+[48:05] individuals um and you know right to
+[48:08] privacy as individuals and you know I
+[48:10] say this as an American through an
+[48:12] American perspective it's very different
+[48:13] for people you know in other parts of
+[48:15] the world um um but you know I think
+[48:19] that there has been a concered effort to
+[48:22] erode a lot of those um those uh rights
+[48:26] that Americans uh probably take for
+[48:28] granted over the last couple of decades
+[48:30] maybe you know longer than you know 911
+[48:34] certainly you know into the 90s and 80s
+[48:36] as well um it's going to be very
+[48:38] difficult to get it back the cool thing
+[48:39] about open source software is uh once
+[48:42] it's out there it's out there um and you
+[48:45] know these tools are becoming you know
+[48:47] stronger in a way um to the point where
+[48:50] they have to make examples of
+[48:51] individuals that develop it um but you
+[48:54] know with the tools there's always
+[48:56] another wave of innovators and and
+[48:59] people who want to you know um uh
+[49:01] continue to push back at some of the
+[49:03] erosion of these rights I think we're
+[49:06] going to see in the next you know
+[49:09] however many years it's going to be a
+[49:10] cat and mouse game um where there will
+[49:13] be you know leaps forward for privacy
+[49:16] preserving Technologies and then you
+[49:18] know leaps forward for you know
+[49:20] government enforcement and surveillance
+[49:22] to um counteract some of those um
+[49:26] privacy PR preserving mechanisms um it's
+[49:29] an unfortunate situation I think it's
+[49:31] through education and through
+[49:33] highlighting the benefits of uh a
+[49:36] Financial Freedom uh and um Financial
+[49:39] self- sovereignty and privacy rights um
+[49:42] that were able to shine a little bit of
+[49:43] a light because I think most Americans
+[49:45] most most people would agree that that's
+[49:47] a that that's something that you know
+[49:49] ought to be um protected we do we do a
+[49:52] lot of work at pubkey with the human
+[49:54] rights Foundation focusing on a lot of
+[49:56] the inititive
+[49:57] uh in this area um and one of my
+[49:59] favorite ones to point to is an activist
+[50:02] her name is um Royal Mao and she us
+[50:04] she's been using Bitcoin since
+[50:07] 2012 um to fund uh women's education in
+[50:11] Afghanistan so in Afghanistan women are
+[50:13] not allowed to have their own bank
+[50:15] accounts they have um heavily restricted
+[50:17] access to their own you know finances
+[50:20] they have to go through um a patriarch
+[50:22] or you know uh another uh uh male in
+[50:25] their life um to access these things um
+[50:28] but Bitcoin provides uh um uh a Lifeboat
+[50:34] really for people to have some
+[50:36] sovereignty uh and take matters into
+[50:38] their into their own hands so if you
+[50:40] explain to people uh uh at least in
+[50:44] America if you're explaining Bitcoin
+[50:45] through the lens of Elizabeth Warren who
+[50:47] was saying this is for you know sex
+[50:49] trafficking and money launderers and
+[50:51] drug dealers you know that's something
+[50:54] that may resonate with her base but if
+[50:57] you were to explain that exact same
+[50:58] story about funding you know uh girls
+[51:01] education in Afghanistan and why this is
+[51:03] an important um uh tool that enables and
+[51:07] facilitates that then the whole concept
+[51:10] of you know money laundering becomes
+[51:12] quite um complicated but also uh uh is a
+[51:17] little bit more illuminated in some
+[51:19] ways I feel like uh the Western World
+[51:22] especially the elites and like even to a
+[51:25] certain extent the middle class is
+[51:28] sometimes too arrogant to understand uh
+[51:30] Bitcoin they they live in a in a in a in
+[51:33] a western World bubble uh where they
+[51:36] don't see the use cases like it it
+[51:39] really like gives me angry in my heart
+[51:42] when when I get like a comment on
+[51:43] YouTube or X or something like that but
+[51:46] it's like oh but what's the use case of
+[51:48] Bitcoin I'm like open your eyes
+[51:51] please like just just look a little bit
+[51:54] outside of your Twitter
+[51:57] uh bubble and and see where actually
+[51:59] people are struggling and what what what
+[52:00] Bitcoin actually can do for for the
+[52:02] world and and for uh people that don't
+[52:05] have uh with with the birth uh a bank
+[52:08] account and access to credit and all the
+[52:10] financial instruments that because Fe I
+[52:13] me this is quite known with all the
+[52:15] listeners here but the closer you are to
+[52:17] the money printer the the better it is
+[52:20] for you and when someone is really far
+[52:22] off uh they they they see the the use
+[52:25] case of Bitcoin and some someone is
+[52:27] really close to the money printer of
+[52:28] course they don't see the use case of
+[52:30] Bitcoin that much or they don't want to
+[52:32] see the use case of Bitcoin in cases of
+[52:35] of of like Jamie Dar and and people like
+[52:37] that yeah look I mean you know in the
+[52:40] case of Jamie Darman I think that he
+[52:41] does see it and he does get it he's just
+[52:43] you know biased in a different way for
+[52:46] for you know his business is about you
+[52:48] know regulatory Moes and control and
+[52:50] oversight surveillance things like that
+[52:52] um so that makes sense it's the people
+[52:54] it's the people that you know would
+[52:57] would get it if they put in the time and
+[52:59] the effort and it's really difficult to
+[53:01] give them a book on bitcoin show them a
+[53:03] podcast come to the conference and not
+[53:06] to you know make this about um pubkey
+[53:08] but one of the things that we try to do
+[53:10] we we have a joke it's like giving a dog
+[53:13] a medicine you you hide the pill in you
+[53:15] hide the pill in like peanut butter or
+[53:17] cheese or something like that if they're
+[53:18] not going to take the medicine on their
+[53:19] own um you got to kind of put the orange
+[53:22] pill in peanut butter or beer or
+[53:24] something uh and hopefully people can
+[53:26] start to see through repetition um it
+[53:29] doesn't happen at once it's not one
+[53:31] conversation it's not one book in most
+[53:33] cases because most people don't want to
+[53:35] hear you know something that they
+[53:37] something that makes them uncomfortable
+[53:39] and like Bitcoin is not is not a
+[53:41] comfortable thing it opens up uh your
+[53:44] eyes to lots of um injustices in the
+[53:47] world that have been happening over the
+[53:49] course of centuries and are like
+[53:52] systemic uh and deeply entrenched um and
+[53:55] a lot of people just don't want to fight
+[53:56]  think about that um you know
+[53:58] it's that character in The Matrix where
+[54:00] just wants the fake stake um and that
+[54:04] that has to be something that I think
+[54:05] bitcoiners are comfortable with like
+[54:07] understanding that Bitcoin is not for
+[54:09] everybody it's for anyone uh is a really
+[54:12] important thing because not not
+[54:14] everybody is going to be able to get
+[54:16] there um uh at least not in our lifetime
+[54:19] I I think I mean it's I feel like um I
+[54:24] always make the comparison with the
+[54:26] dcpip protocol where everybody uses the
+[54:29] dcpip protocol in some sense uh but how
+[54:33] many people can actually understand it
+[54:35] like how many people can actually uh in
+[54:38] in in in a good way explain what it does
+[54:41] uh and and and why it's important and
+[54:44] what's the history of it and I feel like
+[54:45] with with Bitcoin it will be a similar
+[54:48] route I mean far off in the future but
+[54:51] uh I see if future where everybody uses
+[54:54] Bitcoin because it is actually the base
+[54:55] layer of off Financial system uh and
+[54:58] then there is layer two layer three
+[54:59] layer whatever uh and there like a lot
+[55:02] of questions on how this scaling goes
+[55:04] and and how exactly this this will point
+[55:07] out but it's somehow we will do it I
+[55:09] feel like um and people will use it
+[55:12] without even knowing it uh and it will
+[55:15] be normal like sending an email and
+[55:17] there also like uh people that ask me oh
+[55:20] you're doing a daily Bitcoin podcast and
+[55:22] I have now 123 like one two three
+[55:25] today's episode actually actually uh and
+[55:28] they ask me like oh how how long will
+[55:30] you do it and I'm like as long as it is
+[55:32] interesting like Bitcoin will be
+[55:34] probably interesting for the next like
+[55:36] five 10 20 years but at some point
+[55:38] Bitcoin will be so present in all our
+[55:40] lives that I will be bored with it like
+[55:43] it will be like talking about uh email
+[55:45] or the HTP HTTP
+[55:48] https protocol or something like like
+[55:50] that's that's always there but you don't
+[55:54] look at it specifically because like
+[55:55] it's they like air to PR or something
+[55:58] like that I don't want to have a podcast
+[55:59] about emails like yeah look but but
+[56:03] that's a really that's a really great
+[56:04] analogy and but just to touch on uh on
+[56:07] one thing there was a very big fight um
+[56:10] in the you know uh early Internet
+[56:12] Protocol days um around embedding
+[56:16] privacy preserving mechanisms in the
+[56:19] Internet Protocol and particularly
+[56:21] around TCP over IP and there was a
+[56:23] decision made to like not have some of
+[56:26] these privacy preserving mechanisms you
+[56:28] know it it it it's it's like looking at
+[56:31] core development and what we're PRI
+[56:33] prioritizing there's there's there's no
+[56:36] um there's no adding of features or
+[56:38] functionality without tradeoffs and and
+[56:41] that's what is has been so um
+[56:44] complicated and difficult for people to
+[56:45] understand in the Bitcoin core
+[56:47] development process there's only
+[56:48] tradeoffs at the end of the day um
+[56:50] privacy is an important one um but it
+[56:53] comes with you
+[56:55] know trade-offs not to be a broken
+[56:57] record um and and that same argument and
+[57:01] fight happened uh in the early days of
+[57:03] the develop of developing uh the
+[57:05] internet um protocol and just to go back
+[57:08] to you know your your podcast and and
+[57:10] really for all of these things has to be
+[57:13] interesting and fun and consistent like
+[57:15] if you stop having fun you should stop
+[57:17] doing the podcast or at least take a
+[57:18] break but as long as it's fun it gives
+[57:21] you energy and it gives other people
+[57:22] energy um then definitely keep going
+[57:26] yeah I always say like um it it's
+[57:29] sometimes like this days of like when
+[57:31] you do it every day there are days where
+[57:34] you feel more motivated to do it and
+[57:36] sometimes like where you feel less
+[57:37] motivated to do it in the first place
+[57:39] the interesting thing is like always
+[57:41] when you come out of the conversation
+[57:43] it's always like a high because it was
+[57:46] always like there's a new person you you
+[57:49] learn something new with every guy girl
+[57:52] I had in the podcast there's always
+[57:53] something new in there it gets of course
+[57:56] less and less because when you have so
+[57:57] many Bitcoins on you you hear a lot of
+[58:00] the same thing but you always hear also
+[58:02] something new uh and and yeah my my main
+[58:06] my main thing is like I try to make it
+[58:08] interesting for me because then it
+[58:12] probably has a good chance to be also
+[58:13] interesting for The Listener uh because
+[58:15] I listen to all of my podcast of course
+[58:18] because I'm in the conversation uh and
+[58:20] if I get bored there is probably a high
+[58:23] likelihood that someone that listens
+[58:25] very regular to my show that they are
+[58:28] also getting bought from it so I try to
+[58:30] keep it interesting for me at least uh
+[58:33] because I can only guess what the fewer
+[58:37] wants trust me I got
+[58:40] it uh perfect then uh for the end
+[58:42] routine and this is what uh is actually
+[58:45] kind of like set in stone at this this
+[58:48] time the end routine before we come to
+[58:50] the actual end routine uh I have one
+[58:52] more question what are you currently
+[58:54] extremely passionate about that we did
+[58:57] not cover in the podcast like I'm always
+[58:59] really fascinated with bitcoiners they
+[59:00] have so many different things in their
+[59:02] life and they are learning about new
+[59:04] things every day uh so I like want to to
+[59:07] get uh like a side that we we don't uh
+[59:11] hear usually about or is there something
+[59:13] that we did not touch in the podcast
+[59:15] that you are really passionate about or
+[59:16] learning deep about H
+[59:20] well building building the community in
+[59:23] New York building the community back in
+[59:25] New York didn't completely die I I
+[59:27] always have to give a shout out to um uh
+[59:30] New York bit devs and the team that has
+[59:32] kept um the Socratic seminar and bit
+[59:34] devs moving the folks at chain code Labs
+[59:37] there's a lot of good bitcoiners in New
+[59:38] York but um we put a much more public
+[59:42] face on that here and that gave me a
+[59:44] tremendous amount of energy uh and I
+[59:46] really love doing it um I'm very excited
+[59:49] to to bring that to other communities
+[59:51] other cities um as you know py continues
+[59:54] to grow um where really looking forward
+[59:56] to that and people people are asking us
+[59:58] to come to their city which is you know
+[60:01] something that um is is heartwarming but
+[60:04] also just a lot of responsibility I
+[60:06] think that you know bitcoiners are
+[60:07] looking for Community everywhere and not
+[60:09] everybody's in New York so to the extent
+[60:11] that we can help you know communities
+[60:14] whether it's a pub key or a different
+[60:15] Community build that's something I'm
+[60:17] really excited about because that's much
+[60:18] more visibility and I think going into
+[60:21] election election season here we're
+[60:23] seeing you know politician
+[60:26] be a little bit more cautious with how
+[60:28] they speak about Bitcoin I think that
+[60:30] there is a forming voter block that's
+[60:33] going to be become more and more
+[60:35] important as we go um I have not been
+[60:38] active in a political sense uh for ever
+[60:43] uh really um but it is really
+[60:46] interesting to see how these communities
+[60:48] are starting to um engage with
+[60:52] politicians on a hyperlocal level and
+[60:55] we're starting to see that bubble up to
+[60:57] National you know Federal International
+[60:59] levels as well um and I hope that that
+[61:02] momentum continues I think that we we
+[61:04] need to we need to to um you know give
+[61:08] Bitcoin a little bit of breathing room
+[61:09] give the developers breathing room to
+[61:10] innovate and continue to bring better
+[61:12] products and services uh to the global
+[61:15] Community um it's a lot of work um for
+[61:18] sure and you know I'm excited to be a
+[61:21] small part of it and I'm excited to see
+[61:22] other people um um really get energy and
+[61:26] um uh want to you know get themselves
+[61:28] into the mix as
+[61:30] well I I'm also really Envy about that
+[61:33] uh in American politics Bitcoin is a
+[61:36] topic in Austrian politics because
+[61:38] Austria also has election and you also
+[61:40] has election I did not hear anything
+[61:42] about
+[61:44] Bitcoin I'm really envy that in in
+[61:47] America at least the politicians are
+[61:48] forced to speak about it I heard
+[61:50] something that Trump talked about it I
+[61:53] did not hear anything from Biden to this
+[61:54] day but I'm also really big in
+[61:57] administration is extremely extremely
+[61:59] hostile towards it they don't talk about
+[62:01] it that much but what they what they do
+[62:04] they've been very very hostile and look
+[62:06] maybe it's a good thing uh Bitcoin is
+[62:08] not the biggest problem in America that
+[62:10] politicians should be talking about this
+[62:11] is like an easy thing for them to focus
+[62:13] on because they don't want to they don't
+[62:15] want to focus on other parts of the
+[62:17] house that are on fire um so it
+[62:20] it's much easier for them to talk about
+[62:22] you know Tablo items which you know
+[62:24] Bitcoin kind of is right now bcoin is
+[62:26] still tiny and um you know we it would
+[62:30] be nice if politicians focused on
+[62:32] infrastructure and other systemic issues
+[62:34] um but you know if they're going to
+[62:36] battle out Bitcoin I hope that you know
+[62:38] we land on the right side of it and they
+[62:39] just sort of like leave us alone and
+[62:41] allow developers to
+[62:43] develop yeah I was uh I usually really
+[62:46] don't listen to politics but I listen to
+[62:48] the um leading candidates debate the
+[62:51] first leading candidates debate in in
+[62:53] Austria for the EU uh election in in
+[62:56] June I think it is um and I was so
+[62:59] disappointed with the topics because the
+[63:01] topics all kind of related only to the
+[63:05] Ukraine crisis with Ukraine and and
+[63:07] Russia and I was like of course it's a
+[63:10] topic and of course people are
+[63:12] interested in that but it's not the only
+[63:14] thing we can also talk about other stuff
+[63:16] I feel like yeah yeah process the whole
+[63:21] process can be you know quite
+[63:23] depressing I look forward to it all
+[63:26] you know being over uh in November um
+[63:30] but you know then there's always you
+[63:32] know another problem just around the
+[63:34] corner there there's always something
+[63:35] going on in politics um now to the
+[63:38] actual end routine where the previous
+[63:39] guest is asking um a question for the
+[63:42] next guest without knowing who the next
+[63:44] guest actually is I I love this this end
+[63:47] routine because it always brings up
+[63:48] something interesting uh the question
+[63:50] for you is what has to happen for you to
+[63:53] leave your country like in that sense
+[63:55] America
+[63:56] [Laughter]
+[63:59] um jeez uh well what has to
+[64:05] happen well I guess there's good and bad
+[64:07] in that right like better opportunities
+[64:09] elsewhere or a lack of opportunities
+[64:11] here are the the the broad Strokes um if
+[64:17] if bitcoiners become villainized to a
+[64:19] certain extent and it and it prevents
+[64:21] you know OPP opportunity and you know
+[64:24] the right to um uh enjoy enjoy life as
+[64:27] an American then that would be probably
+[64:29] the negative aspect that drives me out
+[64:32] um the positive aspect is I mean I don't
+[64:35] know maybe I get a great job opportunity
+[64:37] in Fiji or something and uh we're going
+[64:39] we're gon to go open up pubkey
+[64:42] Fiji I I would definitely come to that
+[64:45] at some
+[64:46] point uh Thomas it was a a pleasure
+[64:50] talking with you and interviewing you uh
+[64:52] and getting your insights um when people
+[64:54] want to reach out to you ask you
+[64:56] questions uh like follow you uh where
+[64:59] can where can people find most of your
+[65:02] stuff yeah uh so I'm um I'm t pakia on
+[65:06] Twitter it's my first initial last name
+[65:08] t Pac c c h a um you can follow me DM me
+[65:12] on Twitter um also Pub keor NYC is our
+[65:16] main account for for pubkey um and uh we
+[65:20] have an open telegram channel for pubkey
+[65:22] as well for people to to to hop into
+[65:24] we're we're pretty accessible there um
+[65:27] it's community so uh we we generally
+[65:29] respond to everybody um even people that
+[65:33] haveth uh in their handle we we'll get
+[65:35] to them eventually might take a couple
+[65:37] more days uh than normal but um yeah
+[65:41] we're always around come have a beer
+[65:42] with us it be it'll be a pleasure to buy
+[65:44] you an orange pill when you're in New
+[65:46] York City perfect and uh thank you
+[65:48] Thomas for being on cool thank you thank
+[65:51] you
+[65:53] [Music]

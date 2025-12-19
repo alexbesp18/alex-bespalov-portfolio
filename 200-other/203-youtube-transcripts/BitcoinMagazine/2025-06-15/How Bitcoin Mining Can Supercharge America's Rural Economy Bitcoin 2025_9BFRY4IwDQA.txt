@@ -1,0 +1,829 @@
+Title: How Bitcoin Mining Can Supercharge America's Rural Economy | Bitcoin 2025
+Video ID: 9BFRY4IwDQA
+URL: https://www.youtube.com/watch?v=9BFRY4IwDQA
+Date Saved: 2025-06-15 12:36:23
+Channel: BitcoinMagazine
+--------------------------------------------------
+
+[00:00] Alrighty. Well, you know, we're all here
+[00:02] for a lot of many reasons. Um, number go
+[00:05] up is always fun. Seeing all our friends
+[00:06] is another. Uh, but to kick off the
+[00:09] mining stage here in Vegas, I'm really
+[00:12] excited to talk about revitalizing our
+[00:14] rural communities. And I don't think
+[00:16] there could be two uh leaders in our
+[00:18] industry that could really really
+[00:20] represent those examples than the
+[00:21] gentlemen that we have here on stage.
+[00:23] And so while I see a many familiar faces
+[00:26] here, a lot of industry colleagues, I
+[00:28] hope I see some people that maybe are
+[00:29] new to the industry and what they can
+[00:31] take away from this conversation is how
+[00:34] Bitcoin mining really connects to, you
+[00:36] know, the the America that their uncle
+[00:38] lives in or that their cousins live in,
+[00:40] right? So that's really what this
+[00:41] conversation is about. My name is Mara
+[00:43] Gutierrez. I work with Giga Energy. I'm
+[00:45] their cat herder. Do all the business
+[00:47] development across electrical
+[00:48] infrastructure. And really excited to be
+[00:50] here with Russ and Matt. I'll let them
+[00:52] introduce themselves and their companies
+[00:54] and then we'll dive right into it.
+[00:56] Gentlemen,
+[00:58] hi guys. I'm uh Russell K. I'm the chief
+[01:00] development officer at Core Scientific
+[01:02] and I've been at Core from the
+[01:03] beginning. Uh Core operates sites in
+[01:06] North Carolina, Georgia, Kentucky,
+[01:09] Texas, Oklahoma, and North Dakota. Uh we
+[01:12] do a bit of Bitcoin mining. Have been
+[01:14] doing that for a while. And then we also
+[01:15] have um a lot of AI and HBC data centers
+[01:18] in some of those states as well. and I'm
+[01:20] excited to talk about this one, Matt,
+[01:21] and talk about some of the real
+[01:22] revitalization that's happened at some
+[01:23] of our sites around the country. Thank
+[01:25] you. Um my name is Matt Schultz. I'm the
+[01:28] uh executive chairman and co-founder at
+[01:30] CleanSpark. Um we're the largest hash
+[01:34] rate provider in North America in the
+[01:36] United States and the second largest
+[01:38] publicly traded Bitcoin mining company
+[01:40] overall. Uh we operate 32 data centers
+[01:43] in Mississippi, Georgia, Tennessee, and
+[01:45] most recently Wyoming. uh and we've uh
+[01:49] given some guidance to achieve about 50
+[01:51] xahash of processing power by this uh
+[01:54] this summer. So excited to be here.
+[01:56] Looking forward to the chat. Excellent.
+[01:58] No, thank you gentlemen. So, as you've
+[02:00] heard some of those states, those are
+[02:02] states that maybe are, you know, might
+[02:04] have flown over to get here, right? Um
+[02:06] that, you know, you might associate with
+[02:08] energy production, whether that's wind,
+[02:10] solar, oil, and gas. And um and that's
+[02:13] where, you know, we are building the
+[02:15] hash rate here in the United States. Um,
+[02:17] you know, to really kind of kick off
+[02:18] this conversation, we're going to really
+[02:20] explore how mining enters these
+[02:22] communities. We're going to explore how
+[02:24] we're working with them, how everybody
+[02:26] can really benefit, and then we'll look
+[02:27] out to the future after. Um, now Russ, I
+[02:31] I'll kick off the conversation with you
+[02:33] and we can pass it around to Matt as
+[02:34] well. When uh what does that first board
+[02:37] meeting look like when you mention the
+[02:40] word Bitcoin to um you know, a community
+[02:42] board meeting?
+[02:44] So, interesting enough, it's it's very
+[02:46] different now. Uh, in 2017, I want to
+[02:48] specifically talk about like our Marble
+[02:50] data center, which is our first large
+[02:52] scale data center. In 2017, when we
+[02:54] bought that property, no one even knew
+[02:56] what it was, which is probably a good
+[02:57] thing because we were able to actually
+[02:59] get in there and and build rapport with
+[03:01] the community and get open. Uh, when,
+[03:04] you know, China closed down Bitcoin
+[03:06] mining, there's a big rush of Bitcoin
+[03:07] mining in the States. I think it got a
+[03:09] lot harder because uh unlike with
+[03:11] CleanSpark and with Core Scientific, we
+[03:13] have worked
+[03:15] diligently to be good community
+[03:17] partners. There was some that had not.
+[03:18] So that really changed the the
+[03:20] conversations. So now when we go into a
+[03:22] community and talk about Bitcoin mining,
+[03:24] you you have to you have to go in there
+[03:26] and and talk about the negatives. That's
+[03:28] that's the kind of questions you get
+[03:29] because people think about only the
+[03:30] negatives. Interesting enough though, if
+[03:32] you go to any of our communities where
+[03:33] we operate now and we want expanded
+[03:35] power to expand, we've worked so hard to
+[03:38] develop good relationships with the
+[03:40] communities that they offer they offer
+[03:41] us additional power, they offer
+[03:42] additional expansion opportunities. So,
+[03:44] you know, the town councils that really
+[03:45] make a lot of these decisions uh the the
+[03:48] loud uh citizens uh they can really make
+[03:51] a difference. In Cherokee County and
+[03:52] North Carolina, there was another minor
+[03:54] down the road that was really um keep
+[03:57] saying really, they had a lot of noise
+[03:58] pollution and we did not. and it's hard
+[04:01] not to get lumped into the same bucket.
+[04:04] But interesting enough, that little town
+[04:05] because we had been there so long was
+[04:07] able to distinguish between our
+[04:08] operations and those other operations.
+[04:10] So, I like to say it's it's changed over
+[04:12] the years, but it's it's a conversation
+[04:13] you have to have because there's a lot
+[04:14] of negative connotations that come with
+[04:16] Bitcoin mining, at least in states right
+[04:17] now. Sure. Yeah. I So, CleanSpark has
+[04:21] always had the philosophy that we have a
+[04:24] front door approach. Um, a lot of
+[04:26] Bitcoin mining companies have a bit of a
+[04:29] negative reputation because um, oftent
+[04:32] times utility contracts and agreements
+[04:35] are negotiated behind closed doors. And
+[04:38] we we've taken a a completely different
+[04:40] approach. And our our kind of our
+[04:43] methodology is that there are many of
+[04:46] these small communities that when the
+[04:49] utility grid was laid out four, five,
+[04:51] six decades ago, they had industrial
+[04:54] opportunities there. there was mining,
+[04:55] there was manufacturing and and as we
+[04:58] know a lot of that industry in our
+[04:59] country has been offshored. So we look
+[05:02] at these small towns much the same as um
+[05:05] like Radiator Springs on the movie Cars,
+[05:08] right? The freeway comes by and the town
+[05:10] gets forgotten. Well, it's much the same
+[05:12] in a lot of these communities that when
+[05:14] they laid out the grid, they had pockets
+[05:16] of power available um and and then the
+[05:19] industry didn't consume them. So we
+[05:21] become really the ideal partner for
+[05:23] these communities. In most instances, we
+[05:27] negotiate a a a fee that we buy power
+[05:30] from the city who is our utility. We pay
+[05:33] their cost and we allow them to make a
+[05:35] margin on that cost. So now the cities
+[05:37] are deriving revenue from otherwise
+[05:39] stranded assets.
+[05:41] That starts to build up when you go
+[05:43] from, you know, 1 megawatt to 200
+[05:46] megawatts. Now it's meaningful. And in a
+[05:49] lot of the places we do business, the
+[05:51] sales tax stays in those communities
+[05:54] where it's generated. So, not only are
+[05:57] we allowing these cities to buy power
+[05:59] under the Costco model, they're they're
+[06:01] buying more energy, so it drives the
+[06:03] price down, but on top of that, the the
+[06:06] revenues generated from that and then
+[06:07] the sales tax stay in the communities
+[06:10] and improve the infrastructure. So, bike
+[06:13] paths and walking trails and splash
+[06:15] pads. And you know, last quick point,
+[06:18] one one of the little communities that
+[06:19] we do business in, the the sales tax
+[06:23] generated on our power bill created such
+[06:26] a surplus that they had to find other
+[06:29] places to allocate that. So they
+[06:31] allocated it to property taxes in the
+[06:34] community. So when you think about
+[06:36] Bitcoin mining and a negative impact,
+[06:38] we're we go into these communities, we
+[06:40] lower the energy price, we employ a ton
+[06:42] of people, we educate the workforce, we
+[06:45] improve the community, and now we're
+[06:46] actually pushing down property taxes in
+[06:49] those jurisdictions. So we don't have a
+[06:51] bunch of guys out looking for megawws.
+[06:53] Ours is the inverse. We get a lot of
+[06:55] inbound inquiries saying, "Hey, what do
+[06:58] I have to do to get you to send Scott
+[06:59] over here and build one of those in my
+[07:01] town?" Yeah. I'll add and he made such a
+[07:04] good point. Three of our our largest
+[07:06] sites, one in North Carolina, one in
+[07:08] Dalton, Georgia, one in Denton, Texas.
+[07:10] The the power utility company there is a
+[07:12] local co-op. So, their generation comes
+[07:13] from Southern Company or it comes from
+[07:15] TVA or it comes in the case of Texas.
+[07:16] It's just on the Urkott grid, but we
+[07:18] actually pay a override fee to that
+[07:21] local co-op. And it's amazing how much
+[07:23] of the budget we are like in the town of
+[07:25] in Cherokee County. You can drive around
+[07:27] the community and it's a co-op. So, one,
+[07:28] so it's co-op. I live in a co-op. I
+[07:30] don't know if anybody else does, but you
+[07:31] get a check every couple years because
+[07:33] if there's any leftover monies in the
+[07:34] co-op, it goes back to you because so
+[07:35] because the owners are the are the town
+[07:37] citizens themselves. So the co-op folks
+[07:39] in Cherokee County get a rebate in
+[07:42] Dalton where the the town actually owns
+[07:44] the utility. So uh I think we have a
+[07:47] little over 400 megawatts there now.
+[07:48] Like that's a huge piece of that budget
+[07:50] for that town. And in Denton, Texas, uh
+[07:53] is the same situation he just talked
+[07:54] about. You know, we started out uh two
+[07:56] or 30 hund megawatts there. We're now up
+[07:57] over 400 megawatts there. And we're a
+[07:59] we're a third or a quart somewhere
+[08:01] between a third and a quarter of the
+[08:03] entire town budget. And it it's a huge
+[08:05] it's a huge difference for these little
+[08:07] towns. Uh and and as Matt said, what it
+[08:09] means is in each of those towns, at
+[08:10] least in all three of those actually, we
+[08:12] actually increase capacity with nothing
+[08:15] more than a conversation. And and we
+[08:17] like going back to the same same place
+[08:18] because we already have infrastructure
+[08:19] there. We already have clients there.
+[08:21] Excuse me. We already have staff there.
+[08:23] in these towns when they see the
+[08:24] positive impact on their uh budgets and
+[08:27] they see the positive impact on their
+[08:28] infrastructure. Like in the co-ops, they
+[08:30] actually are putting in new transmission
+[08:31] line, putting in new substations,
+[08:32] putting in new transformers, all that
+[08:34] stuff makes their whole grid more
+[08:35] efficient. They actually like us there.
+[08:37] They really do. It's amazing opportunity
+[08:39] for us to expand our business because of
+[08:41] that. No, no, no. I I appreciate that,
+[08:43] gentlemen. And we'll we'll pin the
+[08:44] utility part of this conversation. We'll
+[08:46] come back around there. Always, I'm
+[08:48] sure, very curious for the audience. Um,
+[08:50] I'd love to really like double click
+[08:51] into um the the human and the the the
+[08:54] people side of this um here. You know, I
+[08:57] you know, I come from an oil and gas
+[08:59] family very much uh remember when the
+[09:01] booms and the busts, you know, had
+[09:02] cousins kind of with nothing to do when
+[09:04] oil goes south of 45. Um these are these
+[09:07] same communities here. Um you know, I'
+[09:10] I'd love to kind of hear your thoughts
+[09:12] on kind of somewhat of a dual challenge.
+[09:14] number one finding enough people to um
+[09:17] kind of partake in your guys' large
+[09:18] scale developments, right? You guys have
+[09:20] both several hundred megawws that are
+[09:21] being built in these um um places and
+[09:24] also um how do you you know attract
+[09:26] those people as well. So how how can you
+[09:28] get them to stay and how do you um you
+[09:31] know perhaps you know if they're coming
+[09:32] out of high school how can that you prep
+[09:34] them up to succeed as well? Don't know
+[09:36] if you guys have any comments there in
+[09:37] regarding to kind of the the human
+[09:39] capital that is in these communities.
+[09:41] you know, a lot of these small towns,
+[09:43] you know, I grew up in a in a small
+[09:45] town, Lander, Wyoming, and it the town
+[09:48] was decimated when US Steel closed down
+[09:50] a facility there. And and many of these
+[09:52] communities are the same way. And so
+[09:54] when the jobs go away, what happens is
+[09:56] kids graduate from high school and they
+[09:57] have no choice but to leave. And when
+[10:00] you bring these kind of opportunities
+[10:02] into rural America, you get an
+[10:03] opportunity for folks to go get an
+[10:06] education, but then come back and be,
+[10:08] you know, support the family. I was, you
+[10:10] know, we were talking backstage,
+[10:12] uh, Washington, Georgia. Kind of a cool
+[10:15] little facility that we have there. The
+[10:17] town was named after the president of
+[10:19] the country when it was organized. So,
+[10:21] it was it was founded in 1780. Um, and
+[10:24] and and most of the the town is aging
+[10:27] out and and it doesn't have a lot of
+[10:30] there's not a lot of energy and
+[10:31] enthusiasm. And when we went in there
+[10:34] and and committed to build, the town had
+[10:37] 7 megawatts of power. We now operate 86
+[10:40] megawatts of power in this little town.
+[10:42] Um, just to give you an idea of history,
+[10:44] like we when when we signed the
+[10:47] agreements for our our with the economic
+[10:49] development director, the the historical
+[10:52] plaque in their town hall indicates that
+[10:54] that building still exists where the
+[10:56] documents were signed that abolished the
+[10:58] Confederacy. So these towns are they
+[11:01] they know history, they know feast, and
+[11:04] they know famine. And so to bring
+[11:06] high-paying jobs, Bitcoin mining
+[11:09] opportunities, um, mining technicians,
+[11:12] but then we add another layer because we
+[11:14] do repairs on all of our all of our
+[11:17] servers in house. So now we're training
+[11:19] people how to do repairs all the way
+[11:22] down to the chip set in some of these
+[11:24] remote rural towns. We create
+[11:26] high-paying jobs. We attract people to
+[11:29] come back home to support their original
+[11:31] communities. And that reputation kind of
+[11:34] precedes us. So when it comes time to go
+[11:36] to the next town and you know we both
+[11:38] operate in Dalton and and and both
+[11:40] companies have kind of a a reputation
+[11:43] for being um employeefriendly you know
+[11:46] creating opportunities to grow and
+[11:49] advance and be part of a you know a
+[11:51] high-tech workforce in a place that
+[11:53] really time forgot for a period of time.
+[11:56] Yeah. And he he hit on a couple things I
+[11:58] want to highlight. highpaying tech jobs
+[12:00] in rural America. Politicians talk about
+[12:02] that all the time, but we're actually
+[12:04] doing it in the data center world. Uh
+[12:06] we're doing it in Bitcoin mining. We're
+[12:07] doing it in AI. Let's I hate to keep
+[12:09] going on it, but it's the coolest little
+[12:10] thing. Marble, North Carolina has 300
+[12:12] people live there. And there was a
+[12:14] thread factory there that had been
+[12:16] closed. It was built in the 60s. It had
+[12:17] been closed down uh in the 80s and it
+[12:20] was closed throughout for 10 or 15
+[12:21] years. We come in and in 2017 we turned
+[12:24] into a Bitcoin mining operation and in
+[12:26] January of 18 we actually mined the
+[12:28] first Bitcoin there on large scale
+[12:30] piece. We've since emptied it out as a
+[12:33] Bitcoin miner and now it's filling up
+[12:35] with 70 megawatts of GB200s guys. We
+[12:38] we're building a $700 million data
+[12:41] center in a town of 300 people and we've
+[12:45] retrained the workforce there. So, we
+[12:46] took folks that were coming out of high
+[12:48] school and we trained them to be data
+[12:49] center technicians on AS6 and now
+[12:51] they're being trained to work on the
+[12:53] most sophisticated AI compute on the
+[12:55] planet. Think about that. The AI compute
+[12:57] is $50 million a megawatt and we're
+[12:59] deploying 70 megawatts worth there. So,
+[13:02] these little towns uh highpaying jobs in
+[13:05] rural America and and the folk the folks
+[13:07] that work in these towns, they love it.
+[13:09] the the the town fathers and the town
+[13:11] the town elders they love the fact that
+[13:12] the kids coming out of high school and
+[13:14] in some cases college they can come back
+[13:16] to the town they grew up in people love
+[13:18] doing that most time they can't because
+[13:19] there's no the right kind of jobs are
+[13:21] not there so in in the instances like
+[13:24] like Matt's talking about in their sites
+[13:25] and some of our sites we're in these
+[13:27] tiny towns but we're giving opportunity
+[13:29] we're giving kids opportunity both high
+[13:31] school and college to come back to their
+[13:32] hometown and stay and really make a
+[13:35] difference and I'll tell you what when
+[13:37] you start talking about a small rural
+[13:38] southern town as someone making six
+[13:40] figures. That's a lot of expendable
+[13:42] income. And what that happens is if you
+[13:43] go and you see you go into downtown, you
+[13:45] go to downtown Murphy, there's a bunch
+[13:47] of restaurants there that are thriving
+[13:49] because just the 40 or 50 people we add
+[13:52] to the payroll, but they all are making
+[13:54] three times what the medium family
+[13:56] income is in the area. That's expendable
+[13:58] income. And you guys follow economics,
+[14:00] that's just a cycle. It's it all that
+[14:01] money gets cycled around in that little
+[14:03] community. So, it has a huge impact, a
+[14:04] very real impact to these local
+[14:06] communities. And that's why they like us
+[14:08] there. No, I I appreciate that,
+[14:11] gentlemen. It's um you know, it's you
+[14:12] know, one person starts to go spend,
+[14:14] then somebody else opens up a
+[14:16] restaurant, then you know, their cousin
+[14:17] then opens up a restaurant, and then now
+[14:19] uh you know, the main street looks very
+[14:21] different than it did a couple years
+[14:22] ago. You know, that's something that,
+[14:24] you know, you don't have to be able to
+[14:26] uh sign a transaction on the Bitcoin
+[14:28] network, though we all should know how
+[14:29] to do that. Um you know, to really
+[14:31] understand the impact of that in that
+[14:33] regard. Um, you know, let's take a
+[14:35] moment to talk about, you know, lessons
+[14:37] that, you know, some of our peers can
+[14:39] take from your guys' experience. You
+[14:40] know, we may have some developers in the
+[14:42] and or or some fellow miners in the
+[14:44] audience. Um, you know, what what are
+[14:46] things that we can learn from and and do
+[14:49] right when we're, you know, going into a
+[14:51] county for the first time? You know, you
+[14:53] guys mentioned that, you know, a a
+[14:55] utility that you have a good
+[14:56] relationship is happy to allocate you
+[14:58] more capacity. Sounds to me that if
+[15:00] you're a good neighbor, you're, you
+[15:02] know, they're they're going to continue
+[15:03] to welcome you there. Um, you know,
+[15:05] would love to hear some examples of what
+[15:07] are some things that we can avoid, um,
+[15:09] you know, going forward or some lessons
+[15:11] that we can take from. You know, I I
+[15:13] think in in CleanSpark's case, we as
+[15:16] when we go into build something, um,
+[15:19] Sandersville, Georgia, uh, we have 230
+[15:22] megawatts of power there in a town of
+[15:25] 10,000 people. And so when we go in to
+[15:28] build a facility, we have a team of guys
+[15:31] that go in and work with the community
+[15:33] leaders with the economic development
+[15:35] directors. So we task Scott Garrison's
+[15:37] our COO and he gets tasked to go into
+[15:40] these towns. He's a relationship guy. I
+[15:42] mean, he was he he loves to golf. So
+[15:44] Scott will go meet all the people, take
+[15:46] him out golfing, explaining what we do,
+[15:49] and then we build a plan. But what's
+[15:51] really critical is when we build out
+[15:53] these massive facilities and like what
+[15:55] Russ is talking about, we use all local
+[15:57] trades. We don't import that. So whether
+[16:00] it's the excavation team or the
+[16:02] electricians or the, you know, the guys
+[16:04] that go vertical with construction,
+[16:06] utilizing those local trades kind of
+[16:08] spreads out that economic benefit and it
+[16:11] really enders you to these communities.
+[16:13] Nobody wants you to come to their little
+[16:15] town and bring in your own crew, make a
+[16:16] mess, and then blast off. We we we
+[16:19] actually monetize these towns on
+[16:21] multiple different levels and it creates
+[16:24] relationships that you know the
+[16:25] excavator in one town may know somebody
+[16:28] at a utility in another town and talk
+[16:30] about the positive experience that
+[16:32] they've had with us. So while we you
+[16:34] know obviously we've done a lot of
+[16:36] branding here to kind of familiarize the
+[16:38] Bitcoin community with CleanSpark but
+[16:40] but what really has drawn us into many
+[16:43] of these small communities is is really
+[16:45] word of mouth just based on those
+[16:47] experiences. So for us, it's a front
+[16:49] door approach. It's being open and
+[16:51] honest and transparent. It's about
+[16:53] inviting the the community leaders,
+[16:55] economic development directors to visit
+[16:57] existing sites so you know what you're
+[17:00] going to get, not just a rendering. You
+[17:01] know what it sounds like. You know what
+[17:03] it feels like. You know what the you
+[17:04] know the inputs and the outputs are. You
+[17:06] get to meet with the employees and
+[17:09] understand what their experience is
+[17:10] like. And and then what happens is they
+[17:13] they have a realistic expectation of
+[17:15] what it's going to look like in their
+[17:17] community. And when we do that and we're
+[17:19] consistent and we keep our word, then it
+[17:21] just spreads. And we've got
+[17:23] opportunities that have continued to
+[17:24] grow. I mean, it started in Georgia, it
+[17:26] spread to Tennessee, and now Wyoming,
+[17:28] the opportunities there are are endless.
+[17:31] You know, you got the ninth largest
+[17:33] state by land mass, but dead last on
+[17:36] population. So, you've got all these
+[17:38] opportunities to monetize power and
+[17:40] benefit these communities, and it's
+[17:42] really starting to gain some traction.
+[17:45] I would add too, if you're just getting
+[17:47] into this, you need to be completely
+[17:49] open book with the local town and the
+[17:51] local uh utility company, if if there's
+[17:54] some economic incentive they have going
+[17:56] on that only makes mining work because
+[17:57] of that economic incentive. If it's
+[17:59] costing them money, then it doesn't work
+[18:01] long term. So, you have to go in
+[18:03] completely open book on what the
+[18:05] economics of your business is and what
+[18:07] the impact your business is going to
+[18:08] have. So, if you're using power 100% of
+[18:10] the time, you need to say, "Look, I'm
+[18:11] using power 100% of the time. I'm
+[18:13] turning on 100 megawatts in May. If if
+[18:15] it changes, you have to let them know
+[18:17] because these little local communities,
+[18:18] as long as you go in there open book and
+[18:20] and you go in the front door and not try
+[18:22] to come in the back door under the
+[18:23] porch, then it's going to establish the
+[18:25] good long-term relationship because you
+[18:27] have to make it win-win. I'll give you
+[18:29] example like in in Marble, you know, we
+[18:32] buy direct our generations direct from
+[18:33] TVA, but we pay them onetenth of a penny
+[18:36] override to ride on the local
+[18:38] transportation. That's a very easy thing
+[18:40] for the local co-op to figure out what
+[18:41] their what their what their revenue is,
+[18:43] right? They don't actually have risk of
+[18:45] the generation. We're working with one
+[18:46] of the largest utilities in America
+[18:48] utilities in America to figure out what
+[18:49] the generation is and figure out what
+[18:50] the curtailment is so that the local
+[18:52] local co-op doesn't have to worry about
+[18:54] the fact that if the nuke plant uh that
+[18:56] TVA has to take down for maintenance,
+[18:58] they call on us to do a curtailment for
+[18:59] 12 hours. That's with us and TVA. But we
+[19:02] we we work with the the local co-op and
+[19:04] they know exactly what their what their
+[19:05] piece is. So, you don't want to you
+[19:08] don't want to try to take advantage of
+[19:09] some uh rebate or some kind of tax
+[19:13] program or something that's local
+[19:14] without explaining the impact you're
+[19:17] going to have on on the utility grid and
+[19:20] the local community because otherwise
+[19:22] your relationship's good for a year or
+[19:23] two, maybe even just a winter time and
+[19:26] or a summer time depending on what what
+[19:28] environment you're in. And as soon as it
+[19:29] hits the fan with that utility because
+[19:32] you weren't able to perform like you
+[19:33] thought you were or you performed
+[19:34] differently than way they thought you
+[19:35] were then the relationship can sour. And
+[19:38] once it sour it's very hard to to solve
+[19:41] those problems. So go in there
+[19:43] completely open book and understand your
+[19:45] business. Also if you're just getting
+[19:47] into this start off small. Don't go in
+[19:49] and try to bowl the ocean. Go in there
+[19:50] and get your one or two megawatts up and
+[19:52] running and make sure you do it right
+[19:53] first. uh because because if you go in
+[19:56] there trying to bowl the ocean and you
+[19:57] never bo the ocean before, you could
+[19:58] really mess things up and it'll ruin
+[19:59] your relationship with that town or that
+[20:01] local utility. And and you know, another
+[20:03] layer to that when you talked about the
+[20:05] interruptible load. Bitcoin really is
+[20:08] the perfect partner for a grid. It
+[20:10] allows the utility to overbuild capacity
+[20:13] without having to worry about energy
+[20:14] storage or running that power to ground
+[20:16] because we'll buy it whenever it's
+[20:18] available and then we can make the
+[20:20] economic decision to discontinue to buy
+[20:23] when prices go up or difficulty is up or
+[20:26] down. So, but but a a third kind of
+[20:30] benefit is that we build more robust
+[20:33] infrastructure in these small towns. And
+[20:36] so when there's an event like for
+[20:38] example everybody saw what happened with
+[20:40] hurricane Helen a couple years ago
+[20:42] Washington Georgia there the the main 7
+[20:45] megawatt substation in that town was
+[20:47] taken out by a hurricane. So now the
+[20:49] hospital the schools all these critical
+[20:51] loads are interrupted. Well we built
+[20:53] more robust infrastructure and
+[20:55] substations. We we had the opportunity
+[20:58] and the ability to quickly curtail that
+[21:00] load and to push the power back. So it
+[21:02] was literally a blink and many towns
+[21:04] throughout the southeastern United
+[21:06] States were without power for an
+[21:08] extended period of time. Noticeably
+[21:10] different or exempt from that list were
+[21:12] the communities with Bitcoin miners
+[21:14] because Bitcoin miners can shut down.
+[21:16] That power goes back to where it's most
+[21:18] critically needed and and they can
+[21:20] continue operations and we gradually
+[21:22] ramp back up our production as the
+[21:24] infrastructure was repaired and brought
+[21:26] back online. So when that happens,
+[21:28] people in the community see it, have
+[21:30] that experience, know that it's a
+[21:31] trusted partner, and it really does
+[21:33] advance relationships. No, I think
+[21:35] that's a great example of a real life
+[21:38] benefit, right, of having these flexible
+[21:40] loads um near your community. Um you
+[21:42] know, I'd love to kind of look forward
+[21:44] into the future. Um Russ, you mentioned,
+[21:46] you know, having um you know, the town
+[21:48] of 300 people. Um you know, now starting
+[21:51] to, you know, you know, build and and
+[21:53] and work with like the the most cutting
+[21:55] edge GPUs that exist. Um you know, do do
+[21:59] these young people, men and women,
+[22:01] understand that they're powering all of
+[22:03] Silicon Valley right now? Yeah, it's
+[22:06] pretty interesting. Uh and they and they
+[22:08] do. And it's pretty fun because you guys
+[22:11] know this Core Scientific, we're
+[22:12] converting a lot of our Bitcoin mining.
+[22:13] We still have Bitcoin mining in West
+[22:14] Texas and Kentucky, but we're converting
+[22:15] a lot of our Bitcoin mining sites into
+[22:17] AI sites. And two things happen there.
+[22:20] One, just like I mentioned, you have to
+[22:21] go in there with a front door. A a base
+[22:23] load for AI is very different from the
+[22:25] base load of Bitcoin mining. All those
+[22:26] good things that he just talked about
+[22:27] with Bitcoin mining as far as your power
+[22:29] base and you can tell it, you can't do
+[22:30] that with an AI load. The flip side
+[22:32] though is true when you have a
+[22:33] conversation with a co-op and you say,
+[22:35] "I know I've been paying you two or
+[22:36] three cents, but I can pay you a and
+[22:39] I'll do it in two years." that gives
+[22:41] them enough time to say, "Wait a
+[22:42] minute." Okay, let's figure this out.
+[22:44] So, again, you have to go in there with
+[22:46] a front door. But to answer your
+[22:47] question, yes, and and interesting
+[22:48] enough uh the the kids are enjoying it.
+[22:52] And I say they're kids because they're a
+[22:54] lot younger than I am, but like it's it
+[22:56] we really it's amazing to think that a
+[22:58] textile factory became a Bitcoin miner
+[23:01] and now it's going to be an AI
+[23:02] supercomputer for, you know, Google and
+[23:04] Open AI and all those kind of things. Or
+[23:05] in Denton is it's is well known, guys.
+[23:07] OpenAI. The first Stargate project for
+[23:09] OpenAI is actually our Denton site. I
+[23:11] think other people are talking about
+[23:12] other sites, but we actually turned on 8
+[23:13] megawatts this month and we turned on
+[23:14] only 40 megawatts next month. Sam
+[23:16] Alman's training his next uh models
+[23:18] there. So like that site there was a was
+[23:22] empty. It was a GA gas plant then became
+[23:23] a Bitcoin miner and now it's going to
+[23:25] become at the end of this year the
+[23:26] largest supercomputer on the planet.
+[23:28] It'll have 262 megawatts of GB200s
+[23:30] running. I can't tell you how amazing
+[23:32] that is. Uh but it's the exact same uh
+[23:35] data center technicians that come out of
+[23:36] the colleges there in Denton that train
+[23:38] to be data center repair technicians on
+[23:40] the on the repair boards ASIC repair
+[23:42] boards that are now going to be data
+[23:44] center technicians working in those AI
+[23:45] supercomputer centers. Now there there's
+[23:47] different training has to happen but
+[23:49] they go through that training and they
+[23:50] love it. I mean they absolutely enjoy
+[23:51] it. No I appreciate that. Um Matt, you
+[23:54] know, on the on the Bitcoin lens,
+[23:56] looking into the future, you know,
+[23:58] you're mentioning TVA, Wyoming, um lots
+[24:01] of, you know, other data centers are
+[24:03] looking to these places. How are you
+[24:05] looking to kind of engage with the
+[24:06] utilities? Do they come to you because
+[24:08] you're a flexible load because you've
+[24:10] put the proof of work to build out to
+[24:11] several hundred megawatts. Um are you
+[24:13] somewhat of like a resource when you
+[24:15] know ex uh AI developer wants to come
+[24:18] and put some certain proposal in front
+[24:19] of them? Um you know, are you somewhat
+[24:21] of a partner to them now? um a after
+[24:23] building so much. Yeah. So, we're a
+[24:26] different proposition than what Russ is
+[24:28] talking about. There there are
+[24:30] communities that have stranded power
+[24:32] that they're looking to monetize today.
+[24:34] Um Cheyenne, Wyoming is a good example.
+[24:37] We were bidding for 85 megawatts of
+[24:40] power there and the the utility
+[24:43] ultimately had the decision, do I go
+[24:44] with Clean Spark or do I go some other
+[24:46] way? And the other customer happened to
+[24:49] be a hyperscaler.
+[24:51] The challenge is that a hyperscaler from
+[24:54] the time they scrape the dirt and start
+[24:56] to go vertical, it may be 3 years before
+[25:00] the community is monetizing those
+[25:01] megawatts. So even if it's at a premium,
+[25:05] oftent times the incentive for a
+[25:07] community and in our case in Cheyenne
+[25:09] was we're going to pick the Bitcoin
+[25:11] miner and we signed an agreement in July
+[25:14] and by December we were buying those
+[25:16] megawws and and creating a material
+[25:19] impact on the revenue profile at
+[25:21] community. So we're seeing these
+[25:23] continued invitations. Not that there's
+[25:25] not massive opportunities for um the AI
+[25:29] side, but we look at many of the many of
+[25:32] the small towns that we're being invited
+[25:34] in. They they have these pockets of
+[25:36] power, but maybe they're two or three or
+[25:38] 400 miles from a major metropolitan
+[25:40] area. So, in an AI application, latency
+[25:44] becomes a challenge. So, it's less
+[25:46] appealing other than for edge compute.
+[25:48] And then they can't demand that 8 or 10
+[25:51] cents that Russ is talking about. So
+[25:53] there's there's a perfect opportunity
+[25:55] for collaboration um for Bitcoin miners
+[25:58] to work together with um AI, but we
+[26:02] we've remained and I think we're the
+[26:04] only remaining pure play Bitcoin miner
+[26:07] because of the fact that by increasing
+[26:10] our efficiency, focusing on really key
+[26:12] metrics, we can afford to pay a bit more
+[26:15] for power than most other miners can
+[26:18] because we have higher uptime and
+[26:20] greater efficiency. So, it becomes more
+[26:23] of a win-win with the communities and
+[26:25] and as a result, the demand is less. We
+[26:27] don't we don't have, you know, a
+[26:29] checklist of if we're going to come
+[26:30] here, we need, you know, reliability uh
+[26:33] uptime to the, you know, fifth decimal
+[26:35] point. We're we're a much more flexible
+[26:37] partner. And so, we're seeing continued
+[26:40] pull through um for demand for Bitcoin
+[26:42] mining in areas that that may be
+[26:45] adjacent to high performance compute and
+[26:48] also may be not a good candidate for
+[26:50] HPC. Oh, no. Just for one thing. Yeah,
+[26:53] go ahead. Just because it's interesting.
+[26:54] Yeah. Uh he mentioned something that's
+[26:56] super important too, like when the
+[26:57] hyperscaler or big AI company's coming
+[26:59] in, it's years. I mean, it's a lot
+[27:01] different data center build. One of the
+[27:03] reasons we were able to get some of our
+[27:04] communities to give us more power and
+[27:06] and work with us is because we're still
+[27:08] Bitcoin mining all the way up until the
+[27:09] time we turn on the AI GPUs. Dalton's a
+[27:11] good example of that. We're Bitcoin. So,
+[27:13] we're building the data center adjacent
+[27:15] to the Bitcoin mining site. It's right
+[27:17] beside it. But we're actually working
+[27:18] with utility to say, "Look, we're going
+[27:20] to Bitcoin mine all the way up." Because
+[27:22] that's super important. I just told you
+[27:23] we're in these long-term relationship
+[27:24] with these communities. If we go in and
+[27:26] turn off their entire revenue stream, it
+[27:28] would decimate a little town. So, in
+[27:30] every single instance, uh, we tried to
+[27:31] work with the community, say, "Look,
+[27:32] we're going to Bitcoin mine all the way
+[27:34] up until the very last minute when we
+[27:35] could flip it over because we have such
+[27:37] an impact on the on the budgets." Yeah.
+[27:39] And every megawatt hour counts for these
+[27:41] communities, right? Whether it's
+[27:42] Bitcoin, whether it's other
+[27:43] applications, just having that that that
+[27:45] acknowledgement is super important. Um
+[27:48] gentlemen, we're coming up here on time.
+[27:49] I really want to thank you for your
+[27:51] discussion and participation today. You
+[27:53] know, key takeaways for me, it's this is
+[27:55] a relationship. It's a partnership,
+[27:56] right? This is not transactional. Uh be
+[27:58] open book, right? And you know, really
+[28:01] emphasize the positives, right? Uh
+[28:02] technology, jobs, tax base. This is why
+[28:05] we're here. Um everybody, please give a
+[28:07] round of applause to Russ and Matt.
+[28:11] [Music]
+[28:30] Wat.
+[28:34] [Music]

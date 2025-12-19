@@ -1,0 +1,1563 @@
+Title: I Studied Every Major Tech Revolution and Bitcoin Is Repeating History
+Video ID: elsimO_9TG8
+URL: https://www.youtube.com/watch?v=elsimO_9TG8
+Date Saved: 2025-06-15 12:35:38
+Channel: RobinSeyr
+--------------------------------------------------
+
+[00:00] This always happens with any disruptive
+[00:02] technology. And part of my research was
+[00:04] researching what has happened
+[00:06] historically to other disruptive
+[00:07] technologies through history. And so I
+[00:09] studied the bicycle, the radio, the
+[00:12] internet, the automobile. And I found a
+[00:14] very recurring pattern. They've shown
+[00:16] evidence where it stabilizes grids,
+[00:18] where it's mitigating methane, where
+[00:20] it's decarbonizing heat by using clean
+[00:24] electrical exhaust heat from Bitcoin
+[00:26] mining rather than fossil fuel driven
+[00:28] heat. Not a single media outlet took up
+[00:31] the study. In theory, yes, but in
+[00:33] practice, stable coins are highly
+[00:35] centralized, so it's much easier for
+[00:38] regimes such as Nigeria to clamp down on
+[00:40] stable coins, um, as they did. I have to
+[00:42] deal with a lot of, let's just say,
+[00:44] uneducated takes on Bitcoin a lot of the
+[00:46] time. And it's very easy to get
+[00:48] frustrated, exasperated, angry even. But
+[00:51] the moment you've done so, you've
+[00:53] actually lost the most important form of
+[00:55] sovereignty, which is sovereignty over
+[00:57] your own
+[00:58] [Music]
+[01:01] mind. You're one of the uh most
+[01:04] important figures when it comes to like
+[01:06] uh fighting the environmental f
+[01:07] especially when in 2021 uh that we that
+[01:10] we had. Um now it's seems to be a little
+[01:13] bit more silent around that that topic
+[01:15] from from outside of the the Bitcoin
+[01:17] world and and it's shifting really to
+[01:18] the to the positive side. But for the
+[01:21] few people that might not know you or
+[01:23] unfamiliar with with what you're doing,
+[01:25] can you give us a quick overview of like
+[01:27] who you are, what you're doing, and why
+[01:28] you're excited about Bitcoin? So, I'm a
+[01:30] late come into Bitcoin. I really only
+[01:33] got involved in
+[01:36] 2022. I was a climate tech investor at
+[01:38] the time and I started to ask the
+[01:42] question about how much impact our fund
+[01:44] was having and concluded it wasn't very
+[01:47] much. Uh so we went looking around for
+[01:49] other technologies that could have a
+[01:51] deeper climate climate impact and much
+[01:54] to our surprise we found that Bitcoin
+[01:56] mining could have a really positive
+[01:58] climate impact. But that was not my
+[01:59] impression when I first looked at it. Uh
+[02:02] because like a lot of people I looked at
+[02:04] it and thought it uses too much energy.
+[02:06] And it's not doing anything useful other
+[02:09] than a speculative asset. it.
+[02:11] Thankfully, I uh paused and took a deep
+[02:14] breath and decided to do some research
+[02:16] and challenge my initial reflexive
+[02:18] negative impression of it. uh and as a
+[02:22] result I found some counterintuitive
+[02:23] truths and ready for my own edification
+[02:27] started uh researching it more deeply
+[02:30] but shared the research results of what
+[02:31] I've been finding and much to my
+[02:33] surprise I found a whole whole community
+[02:34] of Bitcoiners who I think had been
+[02:38] maligned for a long time particularly
+[02:40] the Bitcoin mining community who were
+[02:42] very grateful that someone from the
+[02:44] outside I mean I'm not on the outside
+[02:46] now but I was at the time was doing uh
+[02:49] independent research looking at the true
+[02:51] environmental impact in a datadriven way
+[02:54] and coming up with some very different
+[02:56] conclusions to a lot of the mainstream
+[02:58] narratives at the time which were based
+[03:00] on to be frank some pretty shoddy
+[03:02] studies and
+[03:04] assumptions. How yeah it's it's super
+[03:06] interesting. There was this famous um I
+[03:09] I forgot how it was called um but
+[03:11] basically there was a study that forgot
+[03:13] to include the difficulty adjustment and
+[03:15] they just made the assumptions without
+[03:17] the difficulty adjustment in mind where
+[03:18] I'm like that's just lazy if you if you
+[03:20] don't even include that or you have an
+[03:22] agenda.
+[03:23] Yeah, one one or the two. It's always
+[03:25] one of those two. Usually it's it's just
+[03:27] lack of knowledge, but I would say in
+[03:29] maybe one out of five cases there is an
+[03:31] agenda. Uh but all you need is one
+[03:33] person with a gender and then a whole
+[03:35] lot of people who don't do the research
+[03:37] who assume that original piece of
+[03:39] research was good quality where it
+[03:40] wasn't and that's how you get
+[03:41] misinformation spreading becoming very
+[03:43] prevalent which is exactly what
+[03:45] happened. How did you come over that? If
+[03:47] you have the impression that that
+[03:49] Bitcoin is bad for environment and
+[03:51] you're like okay looking at that how did
+[03:53] you overcome that? like what what
+[03:55] datadriven things that you see that
+[03:57] you're like, "Okay, that that actually
+[03:58] is not true and it actually is the the
+[04:00] the counterintuitive thing." Yeah, I've
+[04:03] been wrong about things a lot in my
+[04:06] life. Uh and a lot of the times I've got
+[04:09] it wrong is when I had an initial
+[04:11] impression and I formed a judgment. So,
+[04:13] I think just over time and having made a
+[04:15] lot of mistakes, I've learned uh that
+[04:18] sometimes our initial impressions about
+[04:21] things are are not accurate. Some things
+[04:25] have counterintuitive truths. I'll give
+[04:27] you an analogy. So imagine can imagine
+[04:30] if you're at the time of the Capernac
+[04:33] revolution and this crazy person is
+[04:37] claiming that the earth revolves around
+[04:40] the sun. And you say, well, that's
+[04:42] obviously nonsense. I can I've got my
+[04:44] own senses. I can see visually uh
+[04:48] clearly that it's rising in the east
+[04:49] every morning and it makes a circuit and
+[04:51] it sets in the west. So clearly it's
+[04:52] revolving around u the sun is revolving
+[04:55] around the earth because our senses tell
+[04:57] us this. Um but the counterintuitive
+[05:00] truth of course that we discovered or
+[05:02] rediscovered was that there are two
+[05:04] revolutions. Uh it's revolving around
+[05:06] the sun at the same time as it's
+[05:08] revolving on its axis therefore creating
+[05:10] the illusion that the sun revolves
+[05:11] around the earth. So some things in life
+[05:14] are counterintuitive and it's only on
+[05:16] deeper investigation that that
+[05:18] counterintuitive truth emerges and
+[05:20] sometimes they're not. Sometimes you do
+[05:21] that at deeper analysis and you find
+[05:23] out, well, my initial impression was
+[05:24] right. But you have to suspend that
+[05:26] disbelief. And uh, as I say, I've been
+[05:29] wrong about things a few times. And so,
+[05:32] I've just learned over time uh not
+[05:37] to place too much credence on an initial
+[05:40] appraisal of anything. Um, and so my
+[05:44] tendency these days, if I haven't looked
+[05:46] into something deeply, uh, I'll just I
+[05:48] won't make a judgment on it. Uh for that
+[05:51] reason I don't make a whole lot of
+[05:52] people ask me on my opinion a whole
+[05:54] bunch of things and most of the time
+[05:56] answer is I don't know because my
+[05:58] opinion isn't informed. I haven't looked
+[06:00] into it deeply. Uh but when I have then
+[06:03] I'm happy to say well this opinion is
+[06:05] informed uh by some data and I'm happy
+[06:07] to share it. So I think it's just a
+[06:10] radical process of um of uh self
+[06:13] scrutiny
+[06:15] uh and and learning through mistakes
+[06:16] over time. And if we can be good at
+[06:19] learning from our own mistakes and
+[06:21] acknowledging when we make them, uh,
+[06:23] then I like to think that it makes us
+[06:25] more curious people who are at least
+[06:28] less likely to repeat the same
+[06:31] mistakes. I I I love that we and it's so
+[06:34] hard because we have to
+[06:36] normalize saying I don't know. And
+[06:39] people sometimes even get upset if you
+[06:41] say I don't know because they think
+[06:43] you're on the opposite side and you
+[06:44] don't want to upset them or whatever is
+[06:46] going on. Like if if you for example in
+[06:48] the beginning of the Ukraine war I I had
+[06:51] no clue about that. I did not look
+[06:53] anything up like nothing at all. And
+[06:55] people like oh like what was your stand
+[06:57] on on the Ukraine war? And I'm like no
+[07:00] clue like haven't looked at anything. Um
+[07:03] and and they thought like oh like I use
+[07:05] some Russian like no like I I really
+[07:08] just like never looked at it. And uh I
+[07:11] don't know. It's it's this this saying
+[07:13] like I don't know. I haven't formed an
+[07:15] opinion on that is is seeming not to be
+[07:19] something that most people are
+[07:21] comfortable doing like it's something
+[07:22] unnormal.
+[07:24] Yeah. Knowledge of ignorance is also
+[07:26] knowledge. And so knowing where you have
+[07:29] gaps in your understanding is a really a
+[07:31] a precondition to being able to avoid
+[07:34] more mistakes, avoid unnecessary
+[07:36] judgment, avoid getting into arguments
+[07:38] that are unnecessary. uh but also in the
+[07:40] context of the work that I do as a coach
+[07:42] for example it it's absolutely critical
+[07:45] but so if you're CEO of a company you
+[07:48] have to know yourself and you have to
+[07:49] know your gaps and your areas where you
+[07:51] don't know stuff really well because
+[07:53] then you can recruit people who know the
+[07:55] stuff that you don't know it was exactly
+[07:57] the same when I formed CH4 Capital
+[07:59] that's our infrastructure investment
+[08:00] fund which is doing Bitcoin mining
+[08:03] specializing in using landfall gas as
+[08:06] the power source to turn it into
+[08:07] electricity use it to mine Bitcoin and
+[08:09] remote places. Um, do you think I knew
+[08:11] about landfills? Do you think I knew
+[08:13] about carbon credits? Do you think I
+[08:14] knew about Bitcoin mining at any deep
+[08:16] degree? And I certainly didn't know
+[08:17] about infrastructure financing. So,
+[08:19] there really four pretty major areas
+[08:21] that I didn't know. But knowing that I
+[08:23] didn't know it, uh, meant that I could
+[08:26] embark on the task of saying, well,
+[08:29] there's two paths. Either I learn about
+[08:31] it, that's going to be long and hard, or
+[08:33] better, I find people who know the stuff
+[08:36] that I don't know. And that's normally a
+[08:39] lot shorter and easier. Um, and and
+[08:41] that's what I did. And we formed a
+[08:42] company who now have those incredible
+[08:45] skills plugged. And and my job is not to
+[08:49] be the expert on anything. Uh, but to
+[08:51] know the people who are and to know when
+[08:53] to ask which person the right question.
+[08:56] There was an anecdote about Henry Ford
+[08:58] which really inspired me and also made
+[09:01] me laugh. Apparently, there was a time
+[09:03] when the US government was trying to
+[09:05] break up Ford Corporation for being too
+[09:07] monopolistic. And so, there was a big uh
+[09:10] antitrust inquiry and Henry Ford had his
+[09:14] three top advisers and he was being
+[09:17] scrutinized by some US Senate committee,
+[09:19] I imagine, and they were asking all
+[09:20] these questions and Henry Ford wasn't
+[09:22] answering a single one. He had his three
+[09:25] top experts and he just deferred to one.
+[09:27] John, Charlie,
+[09:29] Fred, and those were pretty much the
+[09:31] only three words he said were the three
+[09:33] names. And after about 10 minutes of
+[09:35] this, this US
+[09:37] senator got quite iate and said, "Excuse
+[09:41] me, Mr. Ford, I don't mean to be
+[09:42] forward, but do you actually know
+[09:44] anything about
+[09:45] anything?" And to which Henry Ford said,
+[09:49] "Sir, it is not my job to be the expert.
+[09:52] it is my job to know the people who are
+[09:55] and ask them the right question. And I
+[09:57] always remember that and I thought
+[09:58] that's really good advice because to try
+[10:00] to be the expert on everything, you're
+[10:02] going to uh crash and burn. And Bitcoin
+[10:05] is a
+[10:07] uh not just a monetary system, but it's
+[10:10] really a I think a Troy Cross describes
+[10:14] it as a an epistemological humility test
+[10:18] because you have to acknowledge that
+[10:19] there's so much about it that you just
+[10:21] don't know. And if you pretend you know
+[10:25] or you pretend to yourself that you know
+[10:26] about it, um you'll be found out pretty
+[10:29] soon. And so continuing to be curious in
+[10:33] Bitcoin, not just in Bitcoin, but in
+[10:35] anything, but Bitcoin is a good test
+[10:36] case is really important in terms of uh
+[10:40] being able to further your
+[10:41] understanding, deepen your
+[10:42] understanding, and make a contribution.
+[10:45] Yeah, it's it's it's like I've I've now
+[10:48] over 500 my 56th podcast and only on
+[10:51] Bitcoin like Bitcoin only and I still
+[10:53] have every week something like oh like I
+[10:55] never thought about that perspective or
+[10:57] that I didn't know about that Bitcoin
+[10:59] like when does the point come when
+[11:01] there's like no new things coming I
+[11:03] don't know probably never coming new
+[11:05] things coming yeah knowledge is infinite
+[11:07] and even within a very very very small
+[11:09] subsector of knowledge you're
+[11:10] discovering that even that's infinite
+[11:12] and even if you could know everything uh
+[11:15] then the next minute it would be
+[11:16] different because the world would have
+[11:18] changed. Absolutely. Uh real quick, I
+[11:21] didn't know know that you were coaching.
+[11:22] Uh who are you coaching and and what is
+[11:24] what is that uh doing? Oh, that's
+[11:26] something I've done for a little while
+[11:28] now. So my background was with
+[11:29] technology companies and then after
+[11:31] stepping down from when I'd founded
+[11:33] I really worked out that the biggest gap
+[11:37] in the whole technology ecosystem
+[11:40] was the ecosystem does a pretty good job
+[11:43] in training you in the business side uh
+[11:46] and training you on the product side and
+[11:49] the hyperscaling side. That's pretty
+[11:51] good. Um but where it's not so great is
+[11:54] really scaling the human side. And
+[11:57] sometimes we forget that it's humans
+[11:59] that build companies. It's humans that
+[12:01] build products. It's humans that create
+[12:03] business models and uh the reason for
+[12:06] business models being successful or not.
+[12:09] And so we don't optimize the potential
+[12:11] of the humans both as individuals but
+[12:15] also the communication and connections
+[12:18] between them. Uh then we're failing to
+[12:21] optimize the most important thing in the
+[12:23] success of a technology company. So I
+[12:26] spent about a decade specializing in
+[12:28] training founders um in a bunch of
+[12:31] things that I felt were incredibly
+[12:33] important based on my own experience as
+[12:35] a founder and then branched out and
+[12:37] started working with other leaders uh
+[12:39] more generally and uh you recently I've
+[12:42] been working with some Bitcoiners um who
+[12:44] are founding new ventures u some
+[12:47] exciting stuff that I can't say too much
+[12:49] about right now um but very exciting
+[12:51] stuff um and again working on the same
+[12:54] thing working on the combination of the
+[12:56] skill set, the
+[12:57] mindset, a little bit on the strategy
+[13:00] and tactics, but that's that's not as
+[13:02] important. Um, if you're an athlete, if
+[13:05] you're in a football team and you want
+[13:08] to win, um, you having the right game
+[13:10] day strategy is important. Uh, but
+[13:13] having a whole bunch of people who have
+[13:15] the skills to be able to execute that
+[13:17] strategy is 99% of what's important. So,
+[13:21] so I focus on the stuff about the actual
+[13:23] ability to execute upon a strategy. Um,
+[13:26] the having the right mindset, the right
+[13:28] skill set, the right behaviors, the
+[13:30] right things you're doing, the actions
+[13:31] you're taking on a day-to-day basis.
+[13:34] Super interesting. I did not know that
+[13:36] about about that uh about you that at
+[13:39] all. Um, one thing uh I've I've uh
+[13:43] wondered with with the environmental
+[13:46] things uh to to come back to that a
+[13:48] little bit. Um when we look at uh the
+[13:52] the numbers that usually people portray
+[13:54] in the mainstream media and now it's
+[13:56] getting a little less like that um
+[13:58] they're like oh like looking at
+[13:59] transaction um costs and they're looking
+[14:02] at what energy is consumed per
+[14:04] transaction or and then they scale it
+[14:06] up. Um what data did you focus on when
+[14:09] you first kind of focused on like if if
+[14:12] Bitcoin is actually bad or good for the
+[14:14] environment and what impact does it had?
+[14:16] like what did you see like where Bitcoin
+[14:20] is in the environmental impact?
+[14:23] Well, the first thing I noticed and this
+[14:25] wasn't me noticing it for the first
+[14:26] time. Many people had noticed it before
+[14:28] and commented on it before is that
+[14:29] Bitcoin's energy use doesn't come from
+[14:31] its transactions. Uh so this was a
+[14:33] madeup metric and to give an idea of how
+[14:35] you can make up a metric um let's
+[14:38] imagine that you have a car and through
+[14:42] the course of a year you like to play
+[14:43] your radio in the car. Okay, so you can
+[14:47] work out how many emissions your car is
+[14:50] creating per year if it's a
+[14:52] petrol-driven car. You can work out how
+[14:54] many songs you're playing during a year.
+[14:56] Therefore, based on this, you can work
+[14:58] out the emissions per song that you play
+[15:01] on the
+[15:02] radio. Right now, you can see the flaw
+[15:07] in that. It is very obvious that playing
+[15:10] more songs on the radio doesn't cause
+[15:12] you to emit more emissions in your car.
+[15:16] and and that's obvious and and you smile
+[15:18] because everyone knows that. However,
+[15:22] with everyone knows how radios work,
+[15:24] everyone knows how cars work and
+[15:26] everyone knows that the two are
+[15:27] independent. Uh but not everyone
+[15:29] understands how Bitcoin works. And so
+[15:32] because people don't understand that the
+[15:34] way the transactions work, that's like
+[15:36] playing songs on the radio. And the way
+[15:38] that mining's working, that's like
+[15:40] driving your car. Um when you say
+[15:43] Bitcoin energy use per transaction,
+[15:45] people don't go, "What? That's stupid.
+[15:47] That's crazy." Uh because into that
+[15:49] knowledge gap, uh then all sorts of
+[15:51] perversions of of logic and of
+[15:54] statistics are possible. And so it's a
+[15:56] completely madeup statistic. Now, we can
+[15:59] smile at it. Uh but the ironic thing is
+[16:01] that that's misinformation is very
+[16:04] pervasive. And so right now in the EU,
+[16:06] the EU is trying to regulate based on
+[16:09] energy use per transactions, a
+[16:12] completely madeup, speurious metric. Um,
+[16:16] and you don't have to take my word for
+[16:17] it. This has been debunked four times in
+[16:19] peer-reviewed literature. Anyone who
+[16:20] knows anything about Bitcoin mining will
+[16:22] tell you the whole thing, the same
+[16:24] story. And of course, we know that
+[16:25] through the Lightning Network, you can
+[16:26] have uh millions, if not billions of
+[16:29] transactions, and it doesn't add a
+[16:31] single bean to energy consumption. And
+[16:34] so that's the first thing that I
+[16:35] discovered. But the second thing is that
+[16:38] we've kind of got into this pattern of
+[16:40] thinking energy consumption bad less
+[16:44] energy consumption
+[16:45] good. Uh which is just not so because
+[16:49] not all forms of energy consumption are
+[16:51] the same. So just in the same way
+[16:54] imagine if you were overweight you're
+[16:56] not. You look in good shape but imagine
+[16:57] if you were and you went to a health
+[16:58] practitioner said hey I want to lose
+[17:01] weight. And the health practitioner
+[17:02] says, "Well, that's simple. Eat less
+[17:04] food." Now, it's not great advice. And
+[17:08] the reason it's not great advice is it's
+[17:10] not that for one thing, food's only one
+[17:12] component, but put that to one side. U
+[17:14] the type of food you eat, I'm sure you'd
+[17:17] agree, is more important than the
+[17:19] quantity. So, if you're eating a large
+[17:21] quantity of lettuce each day, it's
+[17:24] actually taking more energy to consume
+[17:25] that lettuce than that than the energy
+[17:28] you get from the lettuce. So in other
+[17:29] words, the more lettuce you eat, the
+[17:31] more weight you will lose. Um, so you
+[17:33] don't need to decrease your lettuce
+[17:35] consumption. You don't need to decrease
+[17:37] your consumption of of fruit or
+[17:40] vegetables. Um, you may want to decrease
+[17:44] your consumption of other forms such as
+[17:45] chocolate cake. So in the same way when
+[17:48] it comes to consumption of so food's
+[17:51] just a form of energy and not all energy
+[17:53] sources are the same. They have
+[17:54] different impacts. And similarly with
+[17:56] energy on the grid, not all forms of
+[17:59] energy consumption are the same. If you
+[18:02] have a very inflexible type of energy
+[18:04] consumer such as an AI data center, uh
+[18:07] in fact that's worse than inflexible
+[18:09] because it's not only inflexible, but
+[18:10] it's energy pattern spikes
+[18:13] unpredictably. Uh which makes it very
+[18:15] hard for a grid operator to
+[18:17] counterbalance. And it also means that
+[18:19] because they have very high energy
+[18:23] requirements and they can't be down,
+[18:26] then you tend to have to back it up with
+[18:29] base load sources of electricity which
+[18:31] is going to be hydro, nuclear or fossil
+[18:33] fuel. And if you don't live in a place
+[18:36] which has a lot of rain or gravity
+[18:38] combined, you won't have hydro. And if
+[18:40] you don't live in a place which has had
+[18:41] a lot of investment in nuclear energy,
+[18:43] you won't have nuclear, which means your
+[18:44] options are limited. So it basically
+[18:46] means fossil
+[18:48] fuel and there's been a lot of studies
+[18:50] that have been done that show that more
+[18:52] AI data centers means more fossil
+[18:55] fuel-based energy generation is
+[18:57] necessary on the grid. So AI data
+[19:00] centers that's kind of like your
+[19:01] chocolate cake as an energy consumption.
+[19:03] Uh Bitcoin mining that's more like your
+[19:05] fresh fruit and vegetable. That's
+[19:07] exactly the thing you want more of. Uh
+[19:09] and again we have a lot of peer-reviewed
+[19:10] studies that back this up. the more
+[19:12] consumption you have coming from
+[19:14] flexible users of energy and there is no
+[19:17] more flexible user of energy than
+[19:20] Bitcoin mining. Sean Connell calls them
+[19:23] the Rolls-Royce of uh flexible load. Of
+[19:26] course, you can shut them off and and
+[19:28] back on again uh in less than 500
+[19:31] milliseconds. Uh they can be shut off
+[19:34] for days and they can deliver that power
+[19:38] back at a very modular level. you can
+[19:41] shut off exactly the amount that you
+[19:43] want uh to balance grids which is
+[19:45] tremendously valuable. And when you have
+[19:48] more flexible energy consumption on a
+[19:51] grid, the more you have that means two
+[19:53] things. Number one, it means you can
+[19:55] reduce the need for gas PA plants, which
+[19:58] is these plants you have that just sit
+[20:00] and idle all year just for that one peak
+[20:03] event where they need to fire up and
+[20:05] supply more energy. So you can actually
+[20:06] get rid of them. And that's exactly what
+[20:07] happened in Texas. uh they didn't need
+[20:09] to make a an $18 billion investment in
+[20:12] gas PA plants to counterbalance their
+[20:14] proliferation of solar and windbased
+[20:16] energy. They use Bitcoin mining instead.
+[20:19] So that's the first
+[20:20] thing. Second thing is that you can
+[20:22] build out your grid using more renewable
+[20:25] energy because you have this load
+[20:26] balancer. So if the sun goes behind a
+[20:28] cloud, the wind stops blowing, you can
+[20:31] instantly ramp down power consumption.
+[20:34] And people say, well, you know, you can
+[20:35] use batteries to do that. Well, you you
+[20:36] can to an extent, but batteries can only
+[20:38] discharge for so long. They like to be
+[20:40] discharged the same day. And often
+[20:42] battery operators don't have an economic
+[20:44] incentive um to do it until the price is
+[20:48] really high. In other words, until
+[20:49] there's already an emergency, whereas
+[20:51] Bitcoin mining companies are much more
+[20:53] price sensitive. So the moment wholesale
+[20:55] electricity price moves up even a
+[20:56] fraction, which is a reflection that
+[20:58] demand is increased, they will power
+[20:59] down instantly. So they tend to exercise
+[21:03] their delivery of power back to the
+[21:05] grid. uh much sooner. And the other
+[21:07] thing is that sometimes people say,
+[21:09] well, that's all very well. They can
+[21:11] stop using energy. Is that really their
+[21:12] only function? Well, no, it's not. Uh
+[21:15] because there's more variable renewable
+[21:17] energy on the grid in the first place
+[21:19] because they have incentivized the
+[21:21] buildout of renewable energy. How? Uh
+[21:25] two ways. As I mentioned, by
+[21:27] counterbalancing its intermittency, but
+[21:28] also being by being a first customer. So
+[21:31] in other words, a solar operator, a wind
+[21:33] operator, before they even get grid
+[21:34] interconnected, they can have a Bitcoin
+[21:37] mining company colloccated even before
+[21:39] they're grid interconnected, paying them
+[21:41] money, which means they're more
+[21:43] economically viable. And because they're
+[21:45] more economically viable, um they're
+[21:47] more likely to get financed. And because
+[21:48] they're likely to get financed, then
+[21:50] it's a going proposition, which will get
+[21:52] grid interconnected. And also because
+[21:54] they get profitable sooner, that
+[21:56] renewable generator can do what any
+[21:58] prudent business operator does, and
+[22:00] that's plow their profits back into
+[22:02] expanding their renewable operation. And
+[22:05] that's exactly what has been happening
+[22:07] at scale. And this is no longer theory.
+[22:09] We hypothesized about this, but now
+[22:11] we've seen evidence of this um around
+[22:14] the world. It's one of the reasons that
+[22:16] TCO in Japan, uh Japan's largest utility
+[22:20] is using Bitcoin mining. It's the reason
+[22:22] that Deutsch Telecom is using Bitcoin
+[22:23] mining. It's the reason that Kango,
+[22:25] who's got into renewable energy, has got
+[22:27] into Bitcoin mining. And it's the reason
+[22:29] that Urkot is been using more than 3 GW
+[22:33] of Bitcoin mining. Uh, and the reason
+[22:35] that it's been able to increase their
+[22:37] variable renewable energy from 80 gawatt
+[22:39] up to 140 gawatt within 3 and a half
+[22:41] years. Um, we got 20 scientific papers
+[22:45] that back up its numerous climate
+[22:46] benefits. We got seven independent
+[22:49] studies that do that as well. now. So,
+[22:51] the narrative really has shifted. Um,
+[22:53] when I was first researching this, I
+[22:56] suspected these things were true, but I
+[22:57] couldn't really see a lot of evidence in
+[22:59] terms of case studies and documented
+[23:00] studies uh that were showing it. And so,
+[23:04] people said, "Well, that sounds like
+[23:05] greenwash." Well, we know now it's not.
+[23:07] It's uh it's happening. It's happening
+[23:09] at scale and it's happening in many
+[23:12] jurisdictions around the world and it's
+[23:14] only increasing.
+[23:15] So, not only is Bitcoin mining not an
+[23:18] environmental problem, we've actually
+[23:19] realized that it's a key part of many
+[23:22] environmental solutions.
+[23:25] That's super interesting. I love how you
+[23:28] make it super easy to understand also
+[23:30] all those things. Why do you think and
+[23:32] the narrative completely shifted in in
+[23:34] in in my view it's it's it's light and
+[23:37] day from let's say 2021 where I think
+[23:41] the peak of it was like El Musk saying
+[23:43] he stops the payments because it's it's
+[23:45] it's so um uh bad for the environment
+[23:49] after he bought Bitcoin like 2 weeks
+[23:51] later or something like that. Uh that
+[23:53] was kind of peak of the environment uh
+[23:56] but then then it just continued from
+[23:57] there. Um, and since, I don't know,
+[24:00] since Black Row came in the game or like
+[24:03] since the last like one one and a half
+[24:04] years, you don't hear a lot of that in
+[24:06] the mainstream media. Uh, you sometimes
+[24:08] hear it with with with uh I I sometimes
+[24:11] hear it in my uh friend environment
+[24:14] outside of of Bitcoin, but very rarely,
+[24:17] honestly. Um, why do you think the
+[24:19] narratives actually have shifted? Is it
+[24:21] just because now we have evidence of
+[24:23] everything and it's like really hard to
+[24:24] argue against the evidence or is like
+[24:27] Black Rockck and like maybe bigger
+[24:29] players like that coming in the game
+[24:30] also helping maybe like with America.
+[24:33] Yeah, it's not Black Rockck. Um the the
+[24:35] change started to take place before so
+[24:38] Black Rockck's ETF that was what um
+[24:41] early Q1 2024. that the shift really
+[24:45] started to happen in Q4
+[24:49] 2022 and then Q1 2023 really gained pace
+[24:53] and we can actually track this. There's
+[24:54] a great organization called uh Bitcoin
+[24:57] perceptions that's tracked the change in
+[24:59] the narrative so we can pinpoint exactly
+[25:01] when the reporting changed. Uh the the
+[25:03] big hit piece in the New York Times was
+[25:05] really the last major piece of FUD. And
+[25:08] I think what happened after that was a
+[25:10] few things. So one thing you got to
+[25:12] understand is is that this always
+[25:14] happens with any disruptive
+[25:16] technology. Uh and part of my research
+[25:19] was researching what has happened
+[25:21] historically to other disruptive
+[25:22] technologies through history. And so I
+[25:25] studied the bicycle, the
+[25:28] radio, the internet, the automobile, a
+[25:31] whole range of other technologies that
+[25:33] disintermediated not one but multiple
+[25:36] different industries. And I found a very
+[25:39] recurring pattern which is for the first
+[25:42] 15 years or so, the media reception is
+[25:45] extremely strong,
+[25:48] unbalanced,
+[25:49] non-evidence-based, often relying on
+[25:52] authority figures uh who are espousing
+[25:56] an opinion which is not empirically
+[25:58] validated. And then that becomes the
+[26:02] common perception. And if we look back
+[26:04] through history, we can see some
+[26:06] laughable instances of what people
+[26:08] claimed um about different technology.
+[26:11] So the radio for example when that first
+[26:12] came in, so that disintermediated live
+[26:14] entertainment, the telegraph, the print
+[26:17] media, and records. So four major
+[26:21] industries. Now, do you think those four
+[26:23] major industries just kind of stood back
+[26:24] and said, "Well, here's the radio now,
+[26:26] so we'll kind of go out to pasture and
+[26:28] we'll accept lesser revenues." Of course
+[26:29] they didn't. They wanted to enjoy their
+[26:31] incumbency. So they used every tool at
+[26:33] their disposal to attempt to put out
+[26:36] misinformation about the radio which was
+[26:38] widely circulated through the media. And
+[26:40] so we got stories such as radio
+[26:43] responsible for jailbreaks, radio
+[26:46] responsible for birds dying, responsible
+[26:48] for snowstorms, uh responsible for
+[26:50] antisocial behavior, responsible for
+[26:52] suicides. These are actual news
+[26:54] headlines we can point to. There's a
+[26:55] site, if you don't believe me, look at
+[26:57] the uh the pessimist.org, I think it's
+[26:59] called, which has documented a long list
+[27:02] of how people have responded to
+[27:03] different disruptive technologies
+[27:05] through time. So, Bitcoin's um you know,
+[27:07] ridiculous headlines such as uses a
+[27:09] swimming pool of water per transaction.
+[27:11] Um you know, we'll look back at them in
+[27:13] a few years time, some people looking
+[27:14] back at them now and already laughing.
+[27:16] Uh it's like, how do we get it so wrong?
+[27:19] Again, have we've learned nothing
+[27:20] through history? So irrespective of what
+[27:24] your opinion is of the media and how
+[27:27] reliable you think it is, we can all
+[27:29] agree based on historical evidence that
+[27:32] when it comes to reporting on disruptive
+[27:35] technologies for the first 10 to 15
+[27:37] years, it's very
+[27:39] unreliable because it's that combination
+[27:42] of
+[27:43] um disintermediating multiple different
+[27:47] industries plus the general human
+[27:51] psychological tendency
+[27:53] to treat something which is unknown and
+[27:56] not well understood with suspicion. And
+[27:59] that's just something about human nature
+[28:00] which is there for survival reasons.
+[28:02] It's not going to change. But it takes
+[28:04] time to understand nent technologies.
+[28:07] And it takes more than a decade for the
+[28:09] media to even start to stop misreporting
+[28:13] let alone correctly reporting. So that's
+[28:15] a big part of it. And the other part is
+[28:18] simply that unfortunately um positive
+[28:20] news stories don't make such good
+[28:22] headlines. Um the Cambridge report came
+[28:24] out a few weeks ago saying that hey
+[28:27] Bitcoin mining and by the way to put
+[28:29] this in context Cambridge's report on
+[28:31] Bitcoin mining is widely regarded by
+[28:33] policy makers and regulators the world
+[28:36] over as the gold standard of Bitcoin
+[28:38] mining. It's independent data driven. Um
+[28:41] they go through rigorous scientific
+[28:42] methods. They've been out of date for
+[28:44] about 3 years. Um, but they've finally
+[28:47] updated their data and what this shows
+[28:51] is that Bitcoin mining is 52% backed by
+[28:54] sustainable energy. They've shown
+[28:56] evidence where it stabilizes grids,
+[28:59] where it's mitigating methane, where
+[29:01] it's decarbonizing heat by using clean
+[29:06] electrical exhaust heat from Bitcoin
+[29:08] mining rather than fossil fuel driven
+[29:10] heat. Not a
+[29:11] single media outlet took up the study.
+[29:15] Not one. When the Cambridge report, the
+[29:17] same report back in 2021 was showing
+[29:20] that it was only 37% fossil fuel uh
+[29:23] rather 37% renewable
+[29:26] energy. Every major news outlet was
+[29:29] picking up those reports. So there's
+[29:31] also just a tendency in the media the
+[29:34] world over that negative news sells
+[29:36] better. Um so that creates this
+[29:39] phenomenon where you don't have positive
+[29:42] reporting at large. You have some and
+[29:44] there have been some good positive
+[29:46] reports in the media but they just been
+[29:48] a vacuum uh where it's just it's Bitcoin
+[29:50] and energy is just not a topic that's
+[29:52] widely reported on because you don't get
+[29:54] the same u sensational headlines anymore
+[29:57] that you used to. It's it's opening new
+[30:00] fossil fuel plants which it never did.
+[30:03] Um, it's giving life to fossil fuel
+[30:05] industry, which it never
+[30:07] did. It's taking renewable energy away
+[30:10] from other people. You could be using
+[30:11] it, which it never did because it's a
+[30:13] non-rival user of energy. Um, we're just
+[30:16] not seeing that sort of headline
+[30:18] anymore. Let's take a break for a moment
+[30:20] and appreciate the beauty that Coin
+[30:23] Vigilante has made with the Bitcoin
+[30:25] watches. Those watches are the most
+[30:28] amazing, the most eleigent way of
+[30:30] showing that you are a true Bitcoiner.
+[30:33] And Coin Vigilante just dropped a
+[30:36] completely new and amazing Genesis
+[30:38] edition of their watch collections. You
+[30:41] have the date of the first ever minded
+[30:44] Bitcoin block in there. And of course,
+[30:47] also the block height and which epoch we
+[30:50] are currently in. I love the level of
+[30:53] detail they put in in this masterpiece.
+[30:56] Make sure to check out those amazing
+[30:58] coin vigilante time pieces down in the
+[31:01] descriptions. I love those watches so so
+[31:04] much. And now, if you have Bitcoin, I
+[31:07] really do hope that you don't have it on
+[31:09] exchange. But if you do have it on
+[31:11] exchange, I have two ways for you to
+[31:12] deal with that. The first way is you put
+[31:15] it on a hardware wallet. That's the
+[31:17] entry for you to get into the
+[31:19] self-custody game. I recommend BitBox
+[31:23] Bitcoin only edition for that. It's a
+[31:25] super simple and secure way. And if you
+[31:28] check out the link in the description,
+[31:30] you even get 5% off if you use the code
+[31:33] Robin. And the second way is the Bitcoin
+[31:36] way. The Bitcoin way is your all-in
+[31:39] partner in terms of how to get the most
+[31:42] out of your sovereignty. They will
+[31:45] personalize for you a self-custody setup
+[31:48] that is perfect for your individual
+[31:51] situation. They will show you how you
+[31:53] can secure your own devices. Securing
+[31:56] your Bitcoin is not enough. You also
+[31:58] have to keep all your devices secure.
+[32:00] One topic that is overlooked often is
+[32:02] the inheritance plan. What happens with
+[32:05] your Bitcoin once you are no longer
+[32:08] here? Do you have a plan for that in
+[32:11] place already? And last but not least,
+[32:13] if you're in a jurisdictions where you
+[32:15] don't feel safe, it's better to get a
+[32:17] plan B. For all that, head over to the
+[32:22] bitcoinway.com/roin to get a 30 minute
+[32:25] free call. And just a quick side note, I
+[32:28] will be for the first time ever speaking
+[32:30] at the Bitcoin Prague event in June. It
+[32:33] will be absolutely legendary and I'm
+[32:36] really looking forward to seeing all of
+[32:38] you there. You can get your ticket in
+[32:40] the link down in the description of
+[32:42] Bitcoin Prague. And very important, use
+[32:45] code Robin to get 10% off your ticket.
+[32:48] I'm really looking forward seeing you
+[32:50] there. It's super fascinating. It's like
+[32:53] it's because um I also try to write
+[32:56] headlines with a podcast. Um and I've
+[33:00] seen
+[33:02] uh especially Bitcoin mining is is
+[33:04] always usually a flop. It's it's really
+[33:06] hard to sell Bitcoin mining also to
+[33:08] Bitcoiners as an exciting topic. Uh
+[33:11] mostly number technology or something
+[33:13] that points indirectly to number
+[33:15] technology obviously is the the thing
+[33:17] most are are clicking on. Um and it's
+[33:21] it's that sensationalism that is kind of
+[33:25] hard to to get through. So So like on
+[33:27] the one hand we always complain about
+[33:29] that. We're like, hey, we want to find a
+[33:31] signal and we want to find things, but
+[33:33] then we're all humans and we click on
+[33:35] the things that like, oh, like, oh,
+[33:36] shock and and things. And I think like
+[33:38] if you are these things, we we can't
+[33:40] fight that. We just acknowledge that
+[33:42] certain things are true about human
+[33:43] beings and that's unlikely to change.
+[33:45] And we just look at it and say, okay,
+[33:47] well, that's that's the way things are
+[33:48] and um let's not waste energy trying to
+[33:51] uh you know, rewire the way that humans
+[33:54] have functioned over um hundreds of
+[33:56] thousands or millions of years of
+[33:58] evolution. um let's just work within
+[34:00] those constraints, understand what they
+[34:02] are and seek about trying to re-educate
+[34:04] people.
+[34:05] I I I like that approach a lot. Um how
+[34:08] do you think Bitcoin because has such a
+[34:11] unique properties for Bitcoin mining has
+[34:14] such unique properties for the energy
+[34:15] market. How do you think it will impact
+[34:17] the overall energy markets long term?
+[34:21] Uh now this is a fascinating
+[34:23] topic because coming back to your point
+[34:26] around uh why should people be
+[34:28] interested in Bitcoin mining? Energy and
+[34:30] finance two pretty major systems and in
+[34:34] order to have uh a functioning society.
+[34:38] We need money that's not broken and we
+[34:40] need energy that's not broken. And right
+[34:42] now both are broken. Our financial
+[34:43] systems are broken but also our energy
+[34:45] systems are broken. I think a lot of
+[34:48] people understand the bit that money is
+[34:50] broken, but fewer people in Bitcoin
+[34:52] understand that energy is broken and
+[34:54] understand the consequences of that.
+[34:56] With me, it was the other way around
+[34:58] because I came into Bitcoin mining
+[34:59] first. I understood that energy was
+[35:00] broken. And then by association with a
+[35:02] lot of other Bitcoiners, I was like,
+[35:03] "Hang on, what does this Bitcoin thing
+[35:05] do anyway?" And that came a good year
+[35:08] after my foray into Bitcoin mining. And
+[35:10] then I was like, "Hey, this system's
+[35:11] also broken. Bitcoin solves a problem
+[35:13] here."
+[35:15] But coming back to how it's going to
+[35:16] change energy markets and why is energy
+[35:18] broken at the moment. Uh there's really
+[35:21] five things. Bitcoin's highly
+[35:24] centralized, fossilized, subsidized,
+[35:27] uh politicized, and wasteful. I'm not
+[35:30] going to go through all of them in
+[35:31] detail, but let's just pick on one or
+[35:32] two. When I say fossilized, I don't mean
+[35:34] that it's fossil fuel dependent,
+[35:36] although it largely is. I mean grid
+[35:38] infrastructure is fossilized. It's
+[35:40] really old. It's really broken. And you
+[35:42] and I right now, uh, which part of the
+[35:44] world are you in right now? Uh, Austria,
+[35:47] Vienna. You're in Austria. I'm in Costa
+[35:49] Rica. Now, we're able to communicate
+[35:51] without wires. This is occurring
+[35:53] wirelessly. So, I can exchange an idea,
+[35:56] a thought, uh, a soundwave, and it
+[35:58] reaches
+[35:59] you. Now, I can't do that with energy. I
+[36:03] can't send you energy wirelessly. I
+[36:05] can't say, "Hey, here's um, 52 kwatt
+[36:08] hours of energy." And maybe in the
+[36:10] future I'll be able to, but not right
+[36:11] now. So energy requires wires to move
+[36:15] around. And so it's like the landline
+[36:18] system was before we had cell
+[36:21] phones. If a landline gets cut, it's not
+[36:24] going to work. If there's too much
+[36:25] congestion on the network, it doesn't
+[36:26] get through. The the network gets
+[36:27] overloaded. And so around the world, you
+[36:30] have these really aging bits of wired
+[36:32] infrastructure delivering energy around.
+[36:35] tremendously inefficient, tremendously
+[36:38] congested, very
+[36:40] old, large transmission losses as it
+[36:43] transports energy
+[36:45] around. Uh, and unfortunately, the way
+[36:49] that governments have encouraged
+[36:52] renewable energy onto the grids through
+[36:54] subsidies has been creating the wrong
+[36:56] incentives. because the subsidy and the
+[36:58] incentive has not been to deliver energy
+[37:01] to people who use it, but to simply
+[37:04] build
+[37:05] stuff. So, okay, that's great. If I'm
+[37:08] going to get a big subsidy of building a
+[37:09] solar generation, I can build it
+[37:11] somewhere. And where am I going to build
+[37:12] it? Where land's cheapest. So, I
+[37:13] maximize my returns. Now, what happens?
+[37:16] Now, I look at where I built it, where
+[37:18] the land is cheap. Now, why is land
+[37:19] cheap there? Because no one's there. So,
+[37:21] where are the people? Well, not where my
+[37:23] solar plant was, because otherwise the
+[37:25] land would have been expensive. So
+[37:26] they're somewhere else. Okay. Well, how
+[37:28] do I get my solar energy from where the
+[37:30] land was cheap to where the people live
+[37:32] or through the wires through the grid?
+[37:34] But the grid's fossilized. The grid's
+[37:35] old. The grid needs a substation
+[37:37] upgrade. And so you have this problem
+[37:39] around the world where subsidies have
+[37:41] caused people to build these big
+[37:43] renewable energy projects where people
+[37:46] cannot access that electricity, they
+[37:48] cannot benefit, where it gets congested
+[37:50] on the highway of energy transmission
+[37:53] through the grid. massive problem. And
+[37:56] so then what's happened? Then you've had
+[37:58] this backlash where people said, "Well,
+[38:00] renewable energy is bad. It's wasteful.
+[38:02] It's you it creates white elephants. Uh
+[38:05] it's putting power prices up because the
+[38:07] grid operator has to pay to cail that
+[38:10] renewable operator and we have to use
+[38:12] the backup energy anyway. We should have
+[38:14] just had more um gas or whatever."
+[38:18] Now, those arguments are partially true,
+[38:22] but they're not true at a root cause
+[38:24] because there's nothing that's not a
+[38:25] problem with renewable energy. That's a
+[38:27] problem with how renewable energy
+[38:29] generation has been subsidized and the
+[38:31] type of uh locations that it's created
+[38:34] for renewable energy without any thought
+[38:36] about upgrading the grid. So, Bitcoin
+[38:39] mining comes along and it and this is
+[38:41] exactly what happened in Texas. Same
+[38:42] thing. All the cheap land and the best
+[38:47] wind and the best
+[38:49] sun, West Texas. All the people live in
+[38:52] East Texas. Aging grid, most of it got
+[38:55] curtailed. Backlash was starting to
+[38:58] occur. Bitcoin miners came in and they
+[39:00] said, "We will take that excess energy
+[39:02] that no one else can use. We will
+[39:04] colllocate in West Texas." What then
+[39:07] happened is it meant that suddenly those
+[39:09] renewable facilities that were in the
+[39:11] process of getting a backlash against
+[39:13] them suddenly they became profitable.
+[39:15] They became useful. They didn't have to
+[39:16] tell their load. They didn't create grid
+[39:18] congestion problems anymore. In fact,
+[39:21] because they helped to attract Bitcoin
+[39:24] mining operations to them, you now had a
+[39:26] benefit which was this amazing load
+[39:28] balancing capability and that allowed
+[39:31] more renewable generation to be built.
+[39:34] Uh so at the point where it would have
+[39:36] started to taper off, it's been able to
+[39:40] continue and accelerate and proliferate.
+[39:42] So it's fundamentally changing energy
+[39:44] markets. I say it's politicized because
+[39:47] you tend to get these debates and you
+[39:49] see this a lot uh where a centerright
+[39:52] administration will come in, they'll
+[39:54] abandon all the clean energy projects,
+[39:56] they'll abandon the subsidies and
+[39:58] they'll say we're going to drill baby
+[40:00] drill, right? And that people are happy
+[40:03] because then you get supposedly cheaper
+[40:05] energy and supposedly energy security.
+[40:08] And then there's a change and people
+[40:11] say, well, that's creating that's
+[40:13] contributing to climate change. It's
+[40:15] actually more expensive that sort of
+[40:16] energy the renewables. We're going to go
+[40:18] back to renewables. But they do it in
+[40:19] the wrong way. Build them in the wrong
+[40:21] places. Give massive subsidies. Use
+[40:23] central bank money printing to subsidize
+[40:25] them. And so you get this backlash. But
+[40:27] then Bitcoin says, "Well, hang on. You
+[40:28] can have cheap energy. You can have
+[40:29] energy security. and you can have a
+[40:31] decarbonized grid all at the same time,
+[40:33] but you're only only going to have
+[40:35] three. You're only going to have what
+[40:36] the political left and right want
+[40:37] together if you use Bitcoin mining to
+[40:41] counterbalance the variability of this
+[40:43] renewable energy sources. Uh, and that
+[40:46] way you actually get cheaper energy
+[40:48] because yes, renewable energy is cheaper
+[40:50] than fossil fuel, but that's only true
+[40:52] when it's being used. It's actually more
+[40:54] expensive if it's sitting there idle in
+[40:56] the middle of some desert um not
+[40:58] transporting its electrons to people.
+[41:00] Then it's more expensive. So Bitcoin
+[41:03] allows renewable energy to deliver on
+[41:04] its promise to be cheaper. That's good
+[41:06] because it means more energy
+[41:08] affordability. Um it means that you
+[41:10] always have energy supply, so that's
+[41:12] good for energy security. And it means
+[41:14] that you can continue to decarbonize a
+[41:16] grid, so that's good for
+[41:17] decarbonization. So it hits all three.
+[41:20] And so irrespective of what your
+[41:21] priorities are and what you care about
+[41:23] with energy, um, Bitcoin really is the
+[41:26] enabler which stops us from this
+[41:29] backwards and forwards divisive
+[41:31] politicization of energy to be able to
+[41:33] look at it much more rationally and say,
+[41:35] well, we can have everything. We don't
+[41:37] have to make these
+[41:39] sacrifices. Um, and that's incredible
+[41:42] because it's going to result in more
+[41:43] energy abundance, more energy
+[41:45] affordability,
+[41:47] uh, and cleaner energy for everyone.
+[41:49] wondering like like why Bitcoin is so
+[41:53] renewable and other industries kind of
+[41:54] lack that and if other industries have a
+[41:59] disadvantage in that they are not
+[42:01] location agnostic. So if you're a a
+[42:04] steel factory or an aluminium smelter
+[42:07] you can't just colllocate a small
+[42:10] operation next to a solar farm. So you
+[42:12] will have had that built many years in
+[42:15] advance and you're basically limited.
+[42:17] you can only use whatever the grid
+[42:19] happens to be using. So, same with the
+[42:21] banking sector. If you're the banking
+[42:23] sector, uh you can only have as much
+[42:26] clean energy as the electrical sources
+[42:28] you're using, which is the grid that
+[42:30] you're using. So, if you're in Paraguay,
+[42:32] then yeah, you'll be 100% renewable. If
+[42:34] you're in New Zealand, you'll be 83%
+[42:36] renewable. If you're in Kazakhstan,
+[42:38] you'll
+[42:39] be 89% fossil fuel. Uh if you're in the
+[42:44] US, you'll be about 40% renewable. So,
+[42:47] you're limited by what the grid is
+[42:49] using, but as Bitcoin mining companies,
+[42:52] you don't have to be on the grid. You
+[42:53] can be off the grid. And most of these
+[42:55] off-grid operations favor the cheapest
+[42:57] form of energy, which generally, not
+[42:59] always, but generally is sustainably
+[43:01] sourced. So, that's what's enabled
+[43:03] Bitcoin to be using way more. It's not
+[43:06] that they're trying to do the right
+[43:07] thing by the environment. They're trying
+[43:09] to do the right thing economically by
+[43:10] themselves, which is to source cheap
+[43:12] energy, which just happens
+[43:14] coincidentally most of the time to be
+[43:15] sustainable. Uh but because of this
+[43:18] wonderful confluence, um it's driven it
+[43:20] to be accidentally uh much more
+[43:23] sustainable energy base than any other
+[43:25] industry in the world, any other major
+[43:28] industry certainly.
+[43:30] Is the same true for AI computing or
+[43:32] like any sort of cloud computing that is
+[43:35] also location independent?
+[43:37] Well, that's location independent.
+[43:39] However, it needs a much more constant
+[43:44] source of electricity because it's not
+[43:46] flexible load for the most part. Now,
+[43:48] it's becoming more flexible and certain
+[43:50] types of AI such as training AI is more
+[43:53] flexible, but inference AI isn't. Um,
+[43:56] and it's not completely location
+[43:57] agnostic because you still need a really
+[43:59] good internet connection. You still have
+[44:00] latency issues. So, it's not as location
+[44:03] agnostic. it's not as modular and it
+[44:07] needs a much more steady flow of energy.
+[44:09] So you can't, for example, uh put a big
+[44:12] Amazon um data center on a landfill or
+[44:15] in an oil field or on a renewable energy
+[44:19] generation farm or on a solar farm
+[44:21] because it's just not going to deliver
+[44:23] that consistency of supply. Uh but
+[44:25] Bitcoin mining companies, you can. So
+[44:28] the the equation is quite different.
+[44:29] Interesting. Having said that, you what
+[44:31] you can do is you can use Bitcoin
+[44:34] mining. And here's the key thing. The
+[44:37] key difference between an AI data center
+[44:39] and Bitcoin mining, yes, of course,
+[44:41] there's var there's differences because
+[44:43] one's more location agnostic, but the
+[44:45] real difference is actually economic.
+[44:47] The real difference is that a Bitcoin
+[44:49] mining
+[44:50] company, 80% roughly of your operational
+[44:54] budget is spent on
+[44:55] electricity. AI data center, you're
+[44:57] lucky if it's 30%. So the economic
+[45:00] incentive for an AI data center to
+[45:02] source cheap electricity is much much
+[45:04] less than it is for a Bitcoin mining
+[45:06] company. So that's why Bitcoin mining
+[45:08] companies will be prepared to invest all
+[45:10] this capex to chase cheap electricity
+[45:13] which may come from an oil field or from
+[45:14] a landfill. Whereas an AI data center is
+[45:16] not going to do that to start
+[45:18] with and then the question comes well
+[45:20] hang on a minute but Kruo Energy they do
+[45:22] have AI data centers that are operating
+[45:24] on oil fields and that's the whole
+[45:26] point. they had to do Bitcoin mining
+[45:28] first. So, Bitcoin mining comes along,
+[45:31] they invest the capex, they act as the
+[45:33] catalyst that catalyzes the building out
+[45:36] of the the gas collection systems and
+[45:39] the generators, which is capital
+[45:41] intensive. And then once they've done
+[45:43] that and they've fully amortized,
+[45:45] they've made their profit, then you can
+[45:46] say, well, what else could we be doing
+[45:48] with this? Well, we can move these
+[45:49] Bitcoin mining rigs onto the next
+[45:52] project, the next oil, the next
+[45:53] landfill, and we can put in an AI data
+[45:55] center now. Or we can have AI data
+[45:58] centers in Bitcoin mining in parallel.
+[46:00] And rather than having to have two
+[46:02] generators for AI data centers because
+[46:05] we need a fully redundant generator, um
+[46:07] we'll be using the redundant generator
+[46:09] for Bitcoin mining whenever it's not
+[46:11] being used. But when it's needed, then
+[46:13] we'll prioritize it for backup for AI.
+[46:16] So there's all sorts of either synergies
+[46:18] or catalytic actions where Bitcoin
+[46:20] mining comes in first and then helps
+[46:22] other users of energy come in second.
+[46:24] that would not have happened without
+[46:26] that catalyst. So you're seeing um AI
+[46:29] and Bitcoin actually having some
+[46:32] synergies and not being competition to
+[46:34] each other of like uh fields of where
+[46:38] where they can do it. Tremendously
+[46:40] synergistic potential. It's not to say
+[46:43] that sometimes they won't compete to get
+[46:45] the same energy.
+[46:46] Um, but I think what's likely to happen
+[46:49] is that you're going to see AI data
+[46:51] centers start to become Bitcoin mining
+[46:54] companies because if you, and this
+[46:56] happened recently, this happened in
+[46:58] Ireland where a large AI hyperscaler
+[47:01] wanted to get a contract with the grid
+[47:03] operator. They were turned down. And not
+[47:05] cuz the grid operator didn't want the
+[47:07] money, but they looked at how much money
+[47:10] they'd earned. And then they looked at
+[47:11] how much it would cost them to upgrade
+[47:13] the grid to be able to deliver that base
+[47:16] load power and it was going to cost a
+[47:19] lot. And then they looked at what their
+[47:22] decarbonization goals were and they
+[47:23] realized the AI data center would
+[47:25] actually stand in the way of them being
+[47:27] able to deliver. And so they said no.
+[47:28] However, what AI data centers are now
+[47:31] looking at is if they use even just 3%
+[47:34] of their power for Bitcoin mining,
+[47:36] suddenly that entire energy consumer is
+[47:39] reclassified as a flexible load consumer
+[47:41] because now it can power up and power
+[47:43] down. And that little bit of flexibility
+[47:46] means that the cost to upgrade the grid
+[47:49] is not nearly as much and possibly
+[47:51] there's no cost at all. Number one. And
+[47:54] number two, it means that the grid
+[47:56] operator is able to build out the grid
+[47:58] using more variable renewable
+[48:00] energy. And that's enabled simply
+[48:02] because that AI hyperscaler is using a
+[48:04] very small amount of Bitcoin mining as
+[48:07] part of its overall load, which means it
+[48:10] can win more contracts, but also means
+[48:11] that when it has energy that otherwise
+[48:13] it wouldn't be using, it can use it for
+[48:15] something productive. Interesting. I
+[48:17] love the I love the connection between
+[48:20] AI and Bitcoin. It's it's two such uh
+[48:22] amazing revolutions going on that will
+[48:25] change the world in so such an uh
+[48:27] impactful way. How do you see the AI
+[48:29] actually impacting Bitcoin if at all in
+[48:32] in some way? I think just the ways that
+[48:34] Michael Sailor has already outlined uh
+[48:37] and that people will use AI in order to
+[48:39] make inquiries about how you structure
+[48:41] your Bitcoin treasuries and how you
+[48:43] design new products so you can acquire
+[48:45] more Bitcoin. Now probably it's already
+[48:47] having impact to trading algorithms. So
+[48:50] there will be a two-way impact.
+[48:52] Interesting. Um the last topic uh that I
+[48:55] want to get into today is kind of the
+[48:57] social benefits of of Bitcoin and what
+[49:00] are kind of the impacts that that
+[49:02] Bitcoin has on us outside of number
+[49:06] technology uh or like Bitcoin mining
+[49:08] with grid balancing but what does what
+[49:10] what is the impact that you're seeing
+[49:12] that Bitcoin has on on society on a
+[49:15] social level? So when I first looked at
+[49:17] Bitcoin, my impression was uses too much
+[49:20] energy, useless apart from speculative
+[49:22] asset. Turns out I was wrong on both
+[49:24] takes. And the reason I was wrong on the
+[49:26] second take about it not having any
+[49:28] use was not that it didn't have any use,
+[49:30] but it didn't have any use that was
+[49:32] being reported in media outlets that I
+[49:36] was reading because a lot of that use
+[49:39] was in areas which the Western media
+[49:42] doesn't generally cover such as Nigeria
+[49:45] or Argentina or
+[49:47] Afghanistan. Uh but if you're in one of
+[49:51] those areas where you are
+[49:55] unbanked, 1.6 million 6 billion people
+[49:58] worldwide are, or is living under high
+[50:02] or hyperinflation as quarter of a
+[50:03] billion people are, or if you're living
+[50:07] in an autocratic regime or
+[50:08] semi-automatic regime as 5 billion
+[50:11] people are, then the use case for
+[50:14] Bitcoin is even more pronounced than it
+[50:16] is in the West. Now, it's not to say it
+[50:18] doesn't have utility in the west, too.
+[50:19] It absolutely does. Uh, I'd be unable to
+[50:22] collaborate with a writer in Kenya with
+[50:26] my newsletter if we weren't able to
+[50:27] transact in Bitcoin and I wasn't able to
+[50:29] pay him effectively because try doing
+[50:31] that uh translating US dollars or uh
+[50:35] Costa Rican colonis
+[50:37] into shillings in Kenya. Uh, when you're
+[50:41] talking about small regular payments,
+[50:43] it's a nightmare and you pay such a lot
+[50:45] in remittances. So it removed that
+[50:47] friction. So it has tremendous utility
+[50:49] in the west. But in the developing world
+[50:52] socalled uh it's often survival. If you
+[50:56] want to protest against a corrupt
+[50:58] government and not have your campaigns
+[51:02] uh funds frozen, then Bitcoin's an
+[51:05] answer. If you are in Afghanistan and
+[51:08] you want to be able to pay women or you
+[51:12] are a woman, you want to set up a
+[51:13] business uh where 80% of women are
+[51:15] unbanked and you have state level
+[51:17] discrimination against women saying you
+[51:19] cannot open a bank account without your
+[51:20] husband's
+[51:22] permission then it allows you to bypass
+[51:25] that state level um gender
+[51:28] discrimination. And if you're in Nigeria
+[51:31] and you're seeing political unrest,
+[51:33] you're seeing high inflation, high fuel
+[51:35] costs, you're seeing the currency value
+[51:38] um against the US dollar just
+[51:41] tank within 2 years and you want to
+[51:44] preserve
+[51:45] wealth, then again, Bitcoin provides you
+[51:48] a means to do that. And then a lot of
+[51:50] people say, well, hang on, don't stable
+[51:52] coins do the same thing? Um in theory,
+[51:55] yes, but in practice, stable coins are
+[51:58] highly centralized. So, it's much easier
+[52:00] for regimes such as Nigeria to clamp
+[52:02] down on stable coins um as they did to
+[52:05] have regulations which say that if
+[52:07] you're a stable coin trader, we're going
+[52:09] to sue you if you're unlicensed. Uh but
+[52:12] then make it almost impossible for
+[52:13] anyone to get a license. So, you're
+[52:15] effectively suing everyone. You're just
+[52:16] making it very frictionfilled to trade
+[52:18] stable coins and then you attack the
+[52:21] exchanges. Uh whereas Bitcoin doesn't
+[52:23] require exchanges in order to be able to
+[52:26] transfer Bitcoin from person to person.
+[52:28] is peer-to-peer. So because of this
+[52:30] decentralized architecture, whilst a lot
+[52:33] of authoritarian regimes want to cail
+[52:35] its use, they're much more readily able
+[52:37] to do that with stable coins. There's
+[52:39] always someone you can ring up and
+[52:40] pressure. There's a CEO of the company.
+[52:42] Um there's all sorts of instruments by
+[52:45] which you can still seize and freeze
+[52:47] there. There's no CEO of Bitcoin. You
+[52:49] can say, "Hey, we want to seize this
+[52:51] person's transactions." Uh and that's
+[52:53] the beauty of it. It is dictator proof.
+[52:55] So we've known this for a while. The
+[52:57] Human Rights Foundation has been saying
+[52:58] this for a while. Alex Gladstein has
+[53:00] been a champion of this message for a
+[53:02] while. And so part of my work has been
+[53:05] to say, well, to what extent is this
+[53:06] happening? And taking some of the my
+[53:09] approach, which is to quantify things,
+[53:12] saying, well, how often is this
+[53:13] happening? How many people are we
+[53:15] talking about who are able to preserve
+[53:18] their wealth who weren't before because
+[53:20] of Bitcoin? How many people in
+[53:22] Afghanistan have been able to receive
+[53:25] payments as women or set up bank
+[53:28] accounts being your own bank using
+[53:30] Bitcoin who weren't previously? How many
+[53:32] people who were refugees have been able
+[53:34] to flee from one country to another and
+[53:37] they couldn't take cash across borders.
+[53:39] They couldn't take gold across borders,
+[53:40] but they could take Bitcoin across
+[53:42] borders. And how many people are we
+[53:44] talking about who've been positively
+[53:46] affected, who've been able to set up
+[53:47] their lives from scratch? So, these are
+[53:49] the sorts of questions that I'm starting
+[53:51] to dig into now. Uh, and it's important
+[53:54] that we do because otherwise these
+[53:56] stories can get dismissed as one-off
+[53:58] anecdotes. Uh, but what we're starting
+[54:00] to find is these are not just one-off
+[54:01] anecdotes. through every anecdote, every
+[54:04] story of every war refugee who flees
+[54:07] across the border from Ukraine sets up
+[54:09] in Hungary who had
+[54:12] $3,000, $2,000, $4,000 in Bitcoin and
+[54:16] was able to reestablish their lives.
+[54:18] We're finding that there may be hundreds
+[54:19] and thousands of other people whose
+[54:21] stories are untold. So part of the work
+[54:24] I'm doing is to start to quantify how
+[54:26] many people we talking about who are
+[54:28] already being benefited at an
+[54:30] existential level because of the
+[54:32] existence of Bitcoin. It's an really
+[54:34] interesting one. You you're just at the
+[54:36] starting point of that or you already
+[54:37] have some some numbers.
+[54:40] Well, I can give you kind of a a sneak
+[54:42] preview. Um, when it comes to refugees,
+[54:44] the early indications, we're talking
+[54:46] more than 100,000 people already who
+[54:48] have been able to move across borders
+[54:50] who because of the existence of Bitcoin
+[54:53] have not had to reestablish their lives
+[54:54] with nothing financially, but have had
+[54:57] something and would not have been able
+[54:59] to do this with stable coins, gold or
+[55:01] cash of that. I also love um the word
+[55:04] you said dictate the proof. It's it's
+[55:08] it's a space term and it's a great term.
+[55:10] I can't take credit for that but it's
+[55:12] that's exactly what Bitcoin is. That's
+[55:15] amazing. Um I have one question that I
+[55:17] asked each and every one of my guests
+[55:18] and the question is what can we learn
+[55:20] from you besides Bitcoin?
+[55:24] One thing that I I always try to be a
+[55:28] good example of
+[55:29] myself and that and don't always
+[55:32] succeed. Uh but I try
+[55:35] is as you can imagine I have to deal
+[55:39] with a lot of let's just say uneducated
+[55:41] takes on Bitcoin a lot of the time and
+[55:44] it's very easy to get frustrated,
+[55:46] exasperated, angry
+[55:48] even. But the moment you've done so,
+[55:52] you've actually lost the most important
+[55:54] form of sovereignty, which is
+[55:55] sovereignty over your own mind. And so
+[55:57] by example, I always attempt, even if
+[56:01] I'm responding to something which is
+[56:04] nonsense,
+[56:05] um, to direct the critique at the logic,
+[56:10] not the person, and to make sure that I
+[56:13] myself am in a calm state of mind when
+[56:15] I'm doing so. And I find by doing that
+[56:17] that some people will actually engage
+[56:20] with me, some people will change their
+[56:22] minds. Uh but at least it allows a
+[56:26] conversation rather than a debate. And I
+[56:29] think that's been partly why uh a lot of
+[56:33] the rebuttals that I've had have been
+[56:35] effective has been not getting caught up
+[56:38] in debates, not making it personal,
+[56:41] sticking to the
+[56:42] data, staying emotionally detached as
+[56:46] much as possible, and having respect
+[56:49] that I'm talking to just another human
+[56:51] being who's wrong on this point. I've
+[56:54] been wrong, too. And there but for the
+[56:57] grace of God go I. I love that like not
+[57:00] attacking the person but uh debating the
+[57:03] or arguing about the the thing the logic
+[57:06] the the the object that we actually do
+[57:08] and it's I think a lot of in a lot of
+[57:10] debate it's too quickly just about
+[57:14] personal attacks all of the sudden and
+[57:16] not about the actual thing. So debates
+[57:19] are really it's more about entertaining
+[57:21] at this point and less about uh actually
+[57:24] getting to know a topic. I I like a good
+[57:28] debate, but it's it's really hard to
+[57:29] find really good debates where you
+[57:31] actually learn something and not just
+[57:33] getting entertained to root for a person
+[57:35] or something like that.
+[57:37] Yeah, it's kind of intellectual MMA in
+[57:39] many cases, isn't it? Yeah, that's
+[57:42] that's a good good comparison. Um, I
+[57:46] have an entertaining podcast where the
+[57:48] previous guest is asking a question for
+[57:49] the next guest without knowing who the
+[57:51] next guest actually is. And the enter
+[57:53] and the question for you is, "What's the
+[57:55] one thing you wish you knew when you
+[57:58] first got into Bitcoin that you would
+[58:00] like to tell your former self that's not
+[58:02] related to buying more Bitcoin?"
+[58:06] You you've you've correctly anticipated
+[58:08] the answer most people will give if you
+[58:10] don't add that caveat. Um, you know,
+[58:13] there's actually nothing. Um
+[58:15] because whilst there's some things I
+[58:17] could say, some mistakes I might have
+[58:19] made, some assumptions I might have
+[58:21] made, you know, it's all been a process
+[58:23] of learning and and I don't regret any
+[58:26] of it. Um this whole journey, it's led
+[58:29] me to leave New Zealand to live in Costa
+[58:32] Rica uh for Bitcoin mining. It's it's
+[58:36] completely left a complete pivot in what
+[58:40] I've done in my life. But I think if I'd
+[58:42] known that from scratch, it might have
+[58:43] freaked me out and caused me not to go
+[58:45] down that path. So I'm kind of happy
+[58:47] that I didn't know. So in the theme of
+[58:50] uh sometimes knowledge of ignorance is
+[58:53] knowledge. There's some things you're
+[58:55] not supposed to know. So I don't think
+[58:56] I'd change anything. That's beautiful.
+[58:58] Letting the journey unfold how the
+[59:00] journey is supposed to be unfolded. Uh
+[59:02] really cool. Thank you so much uh Daniel
+[59:04] for for for being such a great guest
+[59:07] today. Um before uh I I let you go,
+[59:10] where can people find you, ask you
+[59:11] questions and reach out to you? Yeah, X
+[59:14] remains probably the best way at
+[59:18] DSbatton. And we have a fund CH4 Capital
+[59:22] which is going to be doing some more
+[59:23] methane mitigation on landfills. Um
+[59:26] that's ch4
+[59:28] capital.com. Those would probably be the
+[59:30] best two places.
+[59:32] Thank you so much for taking the time
+[59:33] and also thank you so much for everyone
+[59:35] that is watching and listening for
+[59:36] joining us today. As always, I'll be
+[59:38] back tomorrow with another episode.
+[59:40] Bye-bye.
+[59:42] [Music]

@@ -1,0 +1,1680 @@
+Title: 274. Zawda: Rising from Lebanon's ashes
+Video ID: ns3Qp5uSnyE
+URL: https://www.youtube.com/watch?v=ns3Qp5uSnyE
+Date Saved: 2025-06-15 12:38:04
+Channel: Saifedean
+--------------------------------------------------
+
+[00:02] [Music]
+[00:05] Hello, welcome to the Bitcoin Statup
+[00:06] podcast. Our guest today is Odai Kamal.
+[00:08] Odai is the founder of Zoda, a Bitcoin
+[00:11] startup for the Middle East region that
+[00:13] offers collaborative custody and
+[00:15] Bitcoinbacked loans. Zoda is part of the
+[00:18] first cohort of the Bitcoin focused Wolf
+[00:20] Accelerator and received additional
+[00:21] backing from Axium Capital. Ardai
+[00:24] started Zoda from his own ordeal in 2019
+[00:27] when the Lebanese banking crisis hit and
+[00:30] capital controls uh hit as well and they
+[00:34] lost something like 75% of his life
+[00:36] savings forcing him to start thinking
+[00:38] about Bitcoin seriously. So I thought it
+[00:40] would be a great idea to host day and
+[00:42] see how out of this uh out of the fire
+[00:46] of the Lebanese catastrophe emerged the
+[00:49] phoenix of his startup day. Thank you
+[00:53] for joining us. Good to be here safe and
+[00:56] good to see you.
+[00:58] Likewise. So I guess let's uh before we
+[01:00] discuss the details of Zelda, let's
+[01:02] begin with the backstory. Tell us about
+[01:05] how fiat u ruined you and how you got
+[01:09] radicalized into this
+[01:11] uh bitcoin world. Uh right. So uh I had
+[01:16] known about bitcoin for since 2012. My
+[01:19] uh flatmate in grad school was somebody
+[01:22] called Johnny Leaven. He's now the CEO
+[01:24] of Ch analysis. But I remember very
+[01:27] distinctly when we were joining kind of
+[01:30] grad school. He had told me that he was
+[01:32] working on a thesis for something called
+[01:34] like this digital money thing. That's
+[01:36] October 2012 and just didn't even think
+[01:39] twice about it. Uh that was the very
+[01:42] first time I heard about Bitcoin. And
+[01:44] then over the years different topics and
+[01:46] through the cycles I heard about it. But
+[01:48] it wasn't until 2019 when the experience
+[01:53] that I went through in Lebanon, which I
+[01:55] can unpack, that's where I really had to
+[01:57] ask myself like what does it take for
+[01:59] you to not only preserve your wealth,
+[02:01] but to become this sovereign individual
+[02:02] that can uh control money, that can
+[02:05] preserve the value of your money, that
+[02:07] can transport it across uh both time and
+[02:09] space. Uh, and it was really about three
+[02:13] or four months after the crisis in
+[02:14] Lebanon happened in October 2019 that I
+[02:17] decided to withdraw whatever I could at
+[02:19] the time and deployed it into Bitcoin
+[02:22] because the stock market for me just
+[02:24] stopped to make sense with all the
+[02:27] capital that was coming in. So, it felt
+[02:28] and that's that was my initial kind of
+[02:30] like investment into it and I started
+[02:31] dollar cost averaging every day during
+[02:34] that was when in 2019.
+[02:38] Yeah, October 2019 was when the crisis
+[02:41] in Lebanon happened. U later that month
+[02:43] like we couldn't like the banks were
+[02:45] closed. There was protest on the
+[02:46] streets. Uh people were trying to like
+[02:49] there was a there's there was a run on
+[02:50] the banks like you'd sit down. I had
+[02:52] just moved to Egypt. Uh I had just been
+[02:54] married. But my parents uh like my
+[02:57] extended family would just go and sit in
+[02:59] long lines waiting to withdraw $200 from
+[03:01] their account. That was the allowed cap.
+[03:04] At the same time, and we're finding out
+[03:05] more now, you had this controlling class
+[03:08] of the banks that were wiring all this
+[03:09] money abroad about something like nine
+[03:12] billion dollars that just like left the
+[03:14] system uh during that period. So, it was
+[03:16] a very interesting contrast. We were
+[03:17] seeing it while the uprising was
+[03:19] happening. And as I did all all these
+[03:21] trips up until COVID hit in March,
+[03:23] Lebanon, uh I would just go and sit and
+[03:26] try to withdraw as much money as I
+[03:28] could. And for me, like even like the
+[03:30] small amount that we take, you'd had
+[03:32] exchanges convert it to SDT, put it on
+[03:34] Binance, and buy Bitcoin with it. But
+[03:35] how how much could you get out at that
+[03:37] point?
+[03:40] The initially like the the biggest loss
+[03:42] happened very quickly because the LRA
+[03:44] went from uh $1 worth 1500 liters to
+[03:47] 3,000 within the first 10 days of the
+[03:49] uprising. That's a 50% loss. No, I
+[03:52] remember I went there in January 2020
+[03:54] and it was still at around
+[03:56] 2,2,500. It hadn't even hit 50% yet.
+[04:01] Probably the first three months. Yeah.
+[04:03] Right now feel like a blur. But I would
+[04:06] say like the 50% loss happened very
+[04:08] quickly and then what from 3,000 it just
+[04:11] kept increasing over time. So for me it
+[04:14] was uh trying to withdraw initially the
+[04:17] $300 but then you had something called
+[04:20] the sheke bonare or the the banker's
+[04:22] check that would be validated by the
+[04:24] central bank saying let's say a has
+[04:26] $50,000 in his uh uh bank balance. You
+[04:31] would take these and you could kind of
+[04:32] like barter with them. They became kind
+[04:33] of what they call their lul and we would
+[04:37] would just use these as whatever value
+[04:39] the market would give you. So maybe you
+[04:41] had $50,000 in your bank account and the
+[04:44] check would say it was $50,000, but the
+[04:46] actual value of that money at the time,
+[04:48] let's say was in January $35,000 or
+[04:51] $38,000 and that value kept decreasing.
+[04:54] So I uh was initially just like taking
+[04:57] money out of the ATM or from the uh the
+[04:59] cashier but started issuing these
+[05:01] bankers check in 2020 and trading them
+[05:04] on the black market, exchanging them
+[05:06] with other Lebanese traders and then
+[05:08] they give you cash for that amount and
+[05:09] then you can exchange that cash. So I
+[05:10] had liquidated most of my uh accounts by
+[05:14] June 2020. Okay. And so overall, how
+[05:16] much do you think you lost compared to
+[05:18] the face value in June 2019?
+[05:23] uh 75% easily. Really that's interesting
+[05:26] because I remember I think initially at
+[05:29] that point you could withdraw all the
+[05:31] money if you would take it in the
+[05:33] official exchange rate. In other words,
+[05:35] if you would accept that your dollar
+[05:38] sorry not the official Yeah, you would
+[05:40] Yes, you're right at 1.5. Yeah, you'd
+[05:43] get it at 1,500. So if you had say
+[05:45] $10,000, you could get 15 million
+[05:49] Lebanese la, which on the black market
+[05:52] would get you significantly less than
+[05:53] the
+[05:55] $10,000, but still that was better than
+[05:58] what was going what you would be able to
+[06:00] get for it the next week and the next
+[06:01] month and the next year. So I remember,
+[06:03] you know, this was the time when I quit
+[06:04] my university job and then I got my uh
+[06:08] end of uh service payment in January
+[06:11] 2020. So, I went to Lebanon to pick it
+[06:13] up and uh then well, I couldn't pick it
+[06:16] up at that time. It needed more time.
+[06:18] Then I had my sister-in-law and one of
+[06:19] my friends go pick up the check, deposit
+[06:22] it in my bank account, and then
+[06:24] immediately withdraw it in cash at the
+[06:26] face value of the cash. So, the bank
+[06:29] essentially gave us the Lebanese lra uh
+[06:33] equivalent of the dollars, but then so
+[06:35] that was effectively a 40% loss at that
+[06:37] time. I remember it. So, I took a 40%
+[06:40] loss on it, but then I bought Bitcoin
+[06:41] with it and the 40% basically came back
+[06:43] in a couple of weeks and then, you know,
+[06:46] January 2020, uh, that point I think
+[06:49] Bitcoin was around 8,000. So, it's up
+[06:52] 10x since then, which is, uh, you know,
+[06:56] more than made up for all of the, uh,
+[06:58] problems. But by you know by January and
+[07:01] this is the reason why I think I mean
+[07:03] you can't obviously it's horrible what
+[07:05] has happened and it's terrible but at
+[07:07] some level you can't feel too sorry
+[07:09] about the people who lost their money in
+[07:10] a sense because you know you first of
+[07:14] all if you had money at that point
+[07:17] you've likely earned a lot of it from
+[07:19] interest. So anybody who had a million
+[07:21] dollars in July 2019, many of them, you
+[07:24] know, may have maybe half of that money
+[07:26] was just interest accumulated over the
+[07:28] last 5 years. So you started with a
+[07:30] small sum, but people were earning 10
+[07:32] and 15% interest. So, you know, if you
+[07:36] put in $100,000, you waited 10 years and
+[07:38] then it was half a million dollars and
+[07:40] then you could withdraw it from the bank
+[07:43] taking a 10, 20, 30% haircut, I think
+[07:46] you'd be pretty unreasonable and greedy
+[07:49] not to do that. Like, you've already
+[07:50] increased your dollars significantly.
+[07:53] You can withdraw them with a little bit
+[07:54] of a loss and um you'd still come out
+[07:58] ahead. I I'd say maybe for most people
+[08:02] they could still come out ahead up until
+[08:03] a few months into
+[08:05] this. But everybody was just uh when you
+[08:09] try and tell that to people, everybody's
+[08:10] just so insisting that no, no, no, no,
+[08:12] they're going to come back. They're
+[08:13] going to find a way. They're going to
+[08:16] Everybody had this insane belief in the
+[08:18] idea that there are politicians out
+[08:20] there that have a magic solution for
+[08:22] this and all that needs to happen is
+[08:24] just that they need to sit down and
+[08:26] figure it out and then all the money
+[08:28] will come back because they don't really
+[08:30] see that it's just a big giant uh Ponzi
+[08:33] fake money and there's no bringing it
+[08:36] back. Yeah. Yeah. I got the gist of it
+[08:37] and I heard the last five seconds. So um
+[08:40] the first part when you were talking
+[08:42] about the different people who got all
+[08:44] their money over the years if you had
+[08:46] like a million dollars and you were
+[08:48] earning like let's say somewhere between
+[08:50] in the in the later years like five to
+[08:52] six to 7% interest but if you had put
+[08:54] that money there like since the early
+[08:55] 2000s I think the interest rates were
+[08:57] crazy crazy on the dollar even after the
+[08:59] civil war. I think there was that class
+[09:01] of people and there were people who were
+[09:03] kind of like really abusing that system.
+[09:05] Uh I really think it's but it's hard to
+[09:08] kind of like just put that as a u
+[09:11] blanket kind of like sin because it it
+[09:13] is a society so societal banking
+[09:15] collapse that we're talking about. It's
+[09:17] you're talking about a nation of let's
+[09:19] say like 5 million people and I'll I'll
+[09:22] start with like my example and then we
+[09:23] can expand from there. Like I am
+[09:25] Lebanese born in Lebanon. uh like any
+[09:27] typical Lebanese diaspora, I had lived
+[09:29] abroad and uh would send my money back
+[09:32] home both to kind of help family or just
+[09:34] to kind of put it in savings. And at the
+[09:36] back of my head, the biggest fear that I
+[09:38] had, I was very riskaverse the whole
+[09:39] time. Not very financially literate, but
+[09:41] very riskaverse. The whole point for me
+[09:43] was like, hey, I just made some money.
+[09:45] Now I have some measure of value with
+[09:47] me. How do I preserve that? And when
+[09:49] you're working kind of abroad in
+[09:51] different countries, the biggest fear
+[09:52] that I would have is that, oh, I'm going
+[09:54] to lose my residency. I'm going to be
+[09:55] fired from that job and I lose access to
+[09:57] all these services in the country. I've
+[09:59] worked in US, in the UK, uh in
+[10:02] Australia, in the UAE, in the Gulf. For
+[10:04] me, I was like, let's just put this back
+[10:07] in, uh, in Lebanon, and me thinking I'm
+[10:09] being smart, let's just put them in
+[10:10] different bank accounts, keep them in US
+[10:12] dollars, and not invest them. That was
+[10:14] that was my thinking around it. what
+[10:17] ended up happening and and I think a lot
+[10:19] of other people that were part of that
+[10:20] diaspora that were expats that were
+[10:22] sending money back home were were doing
+[10:24] some of that. It wasn't necessarily the
+[10:27] interest rate that was driving it. For
+[10:28] me it was mostly kind of like a risk
+[10:30] that to say like hey it's it's going to
+[10:31] be safe there. What you kind of like
+[10:33] miss out on is just like reading between
+[10:35] the lines like what does fiat do and
+[10:37] how's that money sitting there because
+[10:39] like you know very well the money in the
+[10:41] bank is not yours. The minute you
+[10:43] deposit money in those Lebanese banks,
+[10:45] they probably like leveraged it or sold
+[10:46] it. And what was happening was that a
+[10:48] huge Ponty scheme that kept escalating
+[10:51] and building up over 25 years. People
+[10:53] would transfer money, they use those as
+[10:55] money to pay out the interest for the
+[10:56] people that have those six to seven
+[10:58] figure balances and then uh they keep
+[11:01] waiting on and they keep raising the
+[11:02] interest rate to attract more and more
+[11:04] funding. I think the whole pile just
+[11:06] came falling down when they announced
+[11:07] that with SAP tax in uh October. but
+[11:11] really think like there was different
+[11:12] cases and different individuals that had
+[11:14] to deal with it. The Bitcoin Standard
+[11:16] podcast is brought to you by the safe
+[11:17] house.com, my independent publisher and
+[11:19] bookshop, selling the best Bitcoin books
+[11:21] in high-quality cloth hard covers built
+[11:23] to last for generations. Most books
+[11:25] these days are pretty fiat. They're
+[11:26] flimsy and they fall apart quickly, and
+[11:28] I did not want that for my books. So, I
+[11:30] set up the Safe House especially to
+[11:32] provide you with beautiful, long-lasting
+[11:33] classic cloth hard covers you can
+[11:35] proudly pass down for generations. You
+[11:37] can get copies of my three books, The
+[11:39] Bitcoin Standard, The Fiat Standard, and
+[11:40] Principles of Economics. And you can
+[11:42] also get copies of Lyn Alden's Broken
+[11:44] Money, Parker Lewis's Gradly Then
+[11:46] Suddenly, and Matthew Lysiaak's Fiat
+[11:48] Food, to which I contributed a few
+[11:49] chapters. We now offer bulk discounts,
+[11:52] so you can buy books for yourself and
+[11:53] for the friends and family you'd like to
+[11:54] learn about Bitcoin. Buy any two books
+[11:57] for $50, any five books or more for $20
+[11:59] per book, and for more than 50 books,
+[12:01] it's only $15 per book. Go to the
+[12:04] safehouse.com the
+[12:06] sifhouse.com where you can get all of
+[12:08] these books in highquality cloth hard
+[12:10] covers delivered worldwide and get 10%
+[12:13] off for paying with
+[12:15] Bitcoin. The Bitcoin Standard podcast is
+[12:18] brought to you by the Daylight Computer.
+[12:20] I love to work early in the morning and
+[12:21] late at night or in the sun outdoors,
+[12:23] but regular computer screens are
+[12:25] terrible at these times and they strain
+[12:27] your eyes. For years, I've wanted a
+[12:29] paper-like electronic screen on a simple
+[12:31] computer I could use to write. I tried
+[12:34] several models, but none were very good.
+[12:36] Now, finally, Daylight have delivered a
+[12:39] fantastic full function tablet with a
+[12:41] paper-like screen that's easy on your
+[12:44] eyes and great for outdoor use. I've
+[12:46] been using the Daylight computer to
+[12:48] write my next book, and it is absolutely
+[12:50] fantastic, and it has led me to invest
+[12:52] in this company myself. Check out my
+[12:55] interview with Anjan Kata in episode
+[12:57] 249.
+[12:59] Yeah, I I I obviously agree. I mean,
+[13:01] this is um it's still terrible and a lot
+[13:04] of people weren't doing this because of
+[13:06] u you know looking to earn a lot of
+[13:08] money on interest but still they could
+[13:11] have gotten their money out up until
+[13:13] maybe the first 6 months of this crisis.
+[13:15] Yeah. I mean remember in it was in July
+[13:18] that there was that there was started to
+[13:20] be a black market exchange rate. In July
+[13:24] 2019 the LRA broke the peg that it had
+[13:28] been fixed to for about 28 years or so
+[13:32] where it was 1,500 L and then it's there
+[13:34] was a black market rate initially was
+[13:36] 1550 then 1570 and then it just kept
+[13:39] going up and for me that was the sign
+[13:41] that you should have just got announced.
+[13:42] You you shouldn't have been trusting any
+[13:44] of the banks. But um it's remarkable how
+[13:47] few people wanted to do that because
+[13:49] they gotten so addicted to having their
+[13:51] money in the bank and to this uh the
+[13:53] incredible Ponzi. I mean it's it really
+[13:55] is like a Ponzi. And when you speak to
+[13:57] Lebanese people who had their money in
+[13:59] the banks, a lot of them they sound like
+[14:01] the shitcoiners. you know, they when the
+[14:03]  corners tell you about, oh, but uh
+[14:05] my corner has announced a road map
+[14:07] and they're going to implement the
+[14:09] surge, merge, splurge, whatever the hell
+[14:11] they call it, and they're going to do
+[14:13] this and this and that, and it's going
+[14:14] to pump my bags. And there's just this
+[14:16] incredible faith in the ability of the
+[14:20] masters of their money to make them
+[14:22] whole. And it's just for me, this is
+[14:26] this is how they get you. You know, this
+[14:27] is
+[14:28] uh the the the the mouse gets caught in
+[14:32] the mousetrap because it thinks the
+[14:33] cheese is free and you fall for the
+[14:35] shitcoins and you fall for the banking
+[14:37] system and you fall for the fiat scams
+[14:39] because you think that you are going to
+[14:41] use these scams to your own advantage.
+[14:43] So you think, okay, this shitcoin is
+[14:44] silly, but I can buy it cheap and I can
+[14:47] sell it before it crashes or I can get
+[14:50] my money in the bank and I can get it
+[14:52] out before it crashes. And then people
+[14:54] just become so wedded. I think this is
+[14:56] an interesting part of the psychology
+[14:57] that they even though they might think
+[14:59] that okay I get that this is a scam I
+[15:02] get that this is sustainable but they
+[15:04] get so wedded to the gains that they
+[15:06] make from it that they can't imagine uh
+[15:09] stopping. It's like telling an addict to
+[15:11] stop taking their drug. There's always
+[15:13] just okay maybe I should stop but you
+[15:15] know not now. Now I need the next hit.
+[15:17] Now I need the next hit. And it's always
+[15:20] now and there's always a next hit that
+[15:21] you need to take. So it's um it's it's
+[15:25] it's it's very sad and uh I mean it's
+[15:28] it's also I think there is the there's
+[15:30] the analogy of the the powerful
+[15:32] narrative here of individual and again
+[15:34] when you don't have the transparency
+[15:36] when you don't have the accountability
+[15:37] when you don't have the rule of law look
+[15:39] at this I mean you can you can talk
+[15:40] about it in a uh kind of bitcoin
+[15:43] shitcoin kind of analogy talk about it
+[15:45] in terms of like the political order of
+[15:47] how like Lebanon crumbled with that. If
+[15:49] you talk about it in like previous
+[15:51] financial collapses like Enron being the
+[15:53] classical case, uh it's the idea of like
+[15:55] you have those people in those positions
+[15:57] of authority that we're sitting there
+[15:59] the case of Lebanon, the governor of the
+[16:01] central bank had this famous phrase that
+[16:04] says the LRA is going to be
+[16:07] okay. And for both most people like
+[16:09] that's good enough. If the governor of
+[16:11] the central bank of the country that I
+[16:12] live in who's independent from the uh
+[16:18] from the rest of the ministers and the
+[16:19] rest of the government and has his own
+[16:20] like if that's supposedly going to give
+[16:22] me that peace of mind then all right
+[16:24] I'll I'll trust whatever this guy's
+[16:25] saying even the government itself being
+[16:27] too slow to act or having like the
+[16:28] banking
+[16:29] association coming there and just
+[16:31] reinforcing that message. It's really
+[16:33] hard if you're not someone who can see
+[16:35] through the matrix and who can
+[16:36] understand that to really take that
+[16:37] decision because you have those
+[16:39] individuals who are in positions of
+[16:41] power who do control the the uh the
+[16:45] gates and who are pretty much preventing
+[16:47] you from accessing the funds but they're
+[16:49] just communicating a very wrong message
+[16:51] for you. So up until you can either be a
+[16:53] critical thinker or kind of see through
+[16:55] that
+[16:56] see through those cracks, that's like
+[16:58] what 90 95% of people are going to like
+[17:01] end up listening to them. Yeah. One of
+[17:04] my one of the saddest moments for me
+[17:06] about the whole Lebanese debacle was I
+[17:08] think it was in
+[17:09] 2021. So this was already maybe two
+[17:11] years into this. The leader had already
+[17:13] been destroyed and I was invited to give
+[17:15] a talk over Zoom. This was
+[17:17] uh COVID days. So not a lot of uh
+[17:21] in-person talks happening. So I was
+[17:23] invited to give a talk over Zoom and I
+[17:25] spoke to a group of Lebanese people at
+[17:27] some Lebanese
+[17:28] organization. And one of the ladies that
+[17:31] was attending her question after I sat
+[17:33] there and explained Bitcoin explained
+[17:35] the reasons why it works and the supply
+[17:37] is fixed and there's no way that anybody
+[17:39] can change the supply and the central
+[17:41] banks are always printing money and you
+[17:42] can see that as it happens in Lebanon.
+[17:45] And the question she asked me truly blew
+[17:47] my mind. And I thought it was just an ex
+[17:49] an an an extreme example of why these
+[17:52] disasters happen. After everything I
+[17:54] said, after everything she'd went
+[17:55] through, she said, "But without a
+[17:57] central bank, who can guarantee the
+[17:59] value of
+[18:00] Bitcoin?" And how do you answer that?
+[18:03] You have a central bank. And there you
+[18:05] go. Look what happened. The central bank
+[18:06] has destroyed the value of your currency
+[18:08] by
+[18:09] 90%. And during that time, Bitcoin is up
+[18:11] 10fold. And here we are four years
+[18:14] later. The Lebanese leader is down
+[18:17] another 90% or maybe another 70% in 97 I
+[18:21] think total is the final tally so far.
+[18:25] And Bitcoin is up another 10x or
+[18:26] something maybe or another 5x. Yeah. And
+[18:30] it just keeps going up without a central
+[18:32] bank. And the ones and all the
+[18:34] currencies that have central banks keep
+[18:35] going down. Yet, it's incredible that
+[18:38] the brainwashed matrix mind simply
+[18:41] cannot fathom the idea that this
+[18:44] currency can work without Ariad Salami
+[18:46] in charge. You know, there needs to be a
+[18:47] central bank governor. He needs to get
+[18:49] on TV and he needs to tell
+[18:50] us everything's going to be all right.
+[18:53] And then when he says everything's going
+[18:54] to be all right, we can rest assured
+[18:56] that it's going to be all right. So,
+[18:58] even when you're presenting them with an
+[18:59] alternative that doesn't have Salami,
+[19:01] they still can't get it. In their mind,
+[19:03] it needs to have a central bank
+[19:04] governor. There needs to be a Ben
+[19:05] Bernani there. There needs to be a Jay
+[19:07] Powell. There needs to be somebody in
+[19:09] charge to make me feel like there's
+[19:11] someone that I can count on. And it's
+[19:15] just such a such an incredible mental
+[19:18] jump to be able to realize, oh, wait,
+[19:22] those guys aren't actually in charge.
+[19:24] They can't help me. They're not coming
+[19:26] to save me, and I need to look out for
+[19:28] myself. It's the first step you need to
+[19:30] take, but most people are simply
+[19:31] incapable of taking it. And it's so sad.
+[19:34] Yeah. And um I think uh the idea that we
+[19:38] need to have someone there just assuring
+[19:41] us there's a a very similar question and
+[19:44] luckily like humanity doesn't depend on
+[19:45] the individual experience. Humanity and
+[19:47] Bitcoin will just keep advancing
+[19:49] regardless of all of our individual
+[19:50] experiences long after we're gone. uh
+[19:52] but there was a very similar to debacle
+[19:54] that I remember reading it in a book in
+[19:56] the early 1990s when the internet was uh
+[20:01] starting to kind of become more widely
+[20:03] adopted and there was someone who was
+[20:06] saying that story who said he went to a
+[20:08] conference in France and he was about he
+[20:10] was a software engineer so he came up on
+[20:13] stage and did this presentation what is
+[20:15] the internet how does it work how does
+[20:16] it give you access to all these
+[20:18] different resources and then the first
+[20:19] question he gets from the audience was
+[20:22] who is the CEO of the
+[20:24] internet? Can I go find that person?
+[20:26] Like I need to tell him like oh bring
+[20:27] the internet to France or bring the
+[20:29] internet to Europe. Like there is that
+[20:31] idea. Probably it's evolutionary.
+[20:33] Probably it's biases or brainwashing a
+[20:35] combination. We need someone that we can
+[20:38] hold accountable that can appease our
+[20:40] minds and tell us no guys don't worry.
+[20:43] Like I'm someone who knows better than
+[20:44] you. I'm someone who can inform you. I'm
+[20:47] someone who can like put you at ease.
+[20:48] because it's uh it helps kind of like
+[20:51] calm the mind a bit to know that I'm the
+[20:53] one who doesn't understand something and
+[20:55] someone else is coming and telling me
+[20:56] like they can they can do that. That
+[20:57] that kind of removes the responsibility
+[20:59] on me.
+[21:01] Yeah. And this is also a problem for me
+[21:03] as a Bitcoiner because people don't get
+[21:05] the idea that when I'm trying to tell
+[21:06] them about Bitcoin, they can't grasp the
+[21:08] idea that I'm not the CEO of Bitcoin or
+[21:10] that I don't work for the CEO of Bitcoin
+[21:12] that I'm not selling you my bitcoins
+[21:14] that this isn't my own thing and I'm not
+[21:16] guaranteeing it for you and you don't
+[21:18] need to trust me for it to work. You
+[21:19] need to go and understand how the actual
+[21:21] thing works and it's completely
+[21:22] independent of me. If I die tomorrow,
+[21:24] Bitcoin is going to continue to take
+[21:26] along. But people are just that they
+[21:30] need someone in charge. They need to
+[21:32] have somebody in charge and they need to
+[21:34] attribute everything to somebody. It
+[21:36] just so much easier psychologically, I
+[21:39] think. But it's very depressing because
+[21:40] it makes you very very gullible and very
+[21:44] ripe for scamming. Oh yes. Yeah. The
+[21:47] best narrative wins. And I think it's
+[21:49] been across like history. We've seen it
+[21:51] time and again in different iterations.
+[21:53] Um Bitcoin kind of being one of them.
+[21:56] Yeah, but the good thing about Bitcoin,
+[21:58] of course, is that we don't need to
+[21:59] convince these people. They just
+[22:01] continue to suffer and the people who
+[22:04] choose Bitcoin continue to thrive. And
+[22:06] it's just it's so amazing because it's
+[22:08] really freeing when you don't need to
+[22:09] convince people about something because
+[22:12] that's it. This is the reality. Bitcoin
+[22:14] is going to win not because it's going
+[22:15] to win a popularity context, not because
+[22:18] we're going to have a an an election and
+[22:19] then the voter is the voters are going
+[22:21] to decide we want to implement the
+[22:23] Bitcoin system. It's going to win
+[22:25] because people who choose Bitcoin are
+[22:26] going to grow their wealth and people
+[22:28] who don't choose Bitcoin are going to
+[22:29] lose their wealth. You keep playing that
+[22:31] out long enough. Yeah. The the best
+[22:34] indicator for me when we're close to a
+[22:36] market top is when I start getting
+[22:37] messages again of like what how much
+[22:39] money should I buy into Bitcoin or into
+[22:42] like once those messages there's always
+[22:44] kind of an uptick that happens before
+[22:45] some kind of a market peak. And that for
+[22:48] me that's that's when I say like okay
+[22:49] like it seems like everyone's interested
+[22:51] in it again. So, um, I've always kind of
+[22:54] had the same answer for the past, let's
+[22:56] say, six years, which is invest as much
+[22:58] as you're willing to not lose sleep
+[22:59] over. Like that's I think where they
+[23:02] should internally put that benchmark for
+[23:03] them because I don't want to be the one
+[23:05] who they come to and say like, "Hey,
+[23:07] I've lost like 5% uh on Bitcoin you told
+[23:09] me about two months ago." Like I just
+[23:11] say put as much and forget about it.
+[23:13] Just like leave it and put enough that
+[23:16] you don't that you won't lose sleep over
+[23:18] it because at the end of the day like we
+[23:19] all have different risk appetites. Some
+[23:21] people are willing to tolerate those
+[23:22] like swings. Some people are just saying
+[23:24] like, "Hey, I'm putting this as a spec,
+[23:26] I still consider this a speculative
+[23:27] asset. The rest like putting stuff for
+[23:29] me, not in Egyptian pounds, not in euros
+[23:31] and dollars, that's good enough. Putting
+[23:33] stuff to gold, that's good enough. So
+[23:34] for me, Bitcoin is just kind of an
+[23:36] asset, a small like asset that I'm going
+[23:39] to bet on on the side. And to each their
+[23:41] own.
+[23:42] Yeah. I say something similar, which is
+[23:44] buy whatever you think you can hold for
+[23:46] five years and just keep adding to it.
+[23:48] all the money that you don't need in the
+[23:50] next 5 years that you won't have to sell
+[23:53] over the next few months or few years.
+[23:56] Yes, that's money you can keep in
+[23:58] Bitcoin and then just keep adding to it.
+[24:00] Um, but if you want to be aggressive,
+[24:03] uh, you know, I
+[24:04] recommend increasing your income as much
+[24:06] as you can, decreasing your income as
+[24:08] much as you can, putting everything in
+[24:10] Bitcoin and waiting five years and just
+[24:12] being very convicted about it to the
+[24:15] point where doesn't matter what's going
+[24:16] to happen, you're going to
+[24:18] As long as you're cash flow positive,
+[24:20] you can afford that conviction. As long
+[24:22] as you spend less than you earn, then
+[24:24] you can just keep living, you know, on
+[24:27] living on the bare minimum for 5 years.
+[24:29] I think you could really change your
+[24:30] life if you do that. I if you run the
+[24:32] numbers on pretty much any any kind of
+[24:34] income or any kind of wealth if you do
+[24:36] this, you know, five year hodling and or
+[24:39] five year
+[24:40] stacking, it ends up being pretty uh
+[24:43] pretty serious and significant
+[24:45] life-changing money. But that actually
+[24:48] was one of the first lessons we learned
+[24:49] with Zelda. Um the whole idea of like
+[24:52] how much money you preserve and how to
+[24:53] keep it. And we can like also why we're
+[24:55] doing the bit like the multi-year
+[24:58] Bitcoin back loans. But it's this idea
+[24:59] of having a low time
+[25:02] preference with Zoda which is the
+[25:04] company that like founded three years
+[25:06] ago when we decided to do something
+[25:08] about increasing Bitcoin adoption in the
+[25:11] region. The first idea that came was
+[25:13] like okay I managed to take my money out
+[25:15] now. Let's see how and I've helped like
+[25:17] some family and friends do the same
+[25:19] thing. How does this turn into a
+[25:20] business or how can I help others do it?
+[25:22] The very very first idea was let's do
+[25:25] something like the lightning network in
+[25:26] the region. So you can facilitate
+[25:27] transactions and transfers from one part
+[25:30] of the country or or across the Middle
+[25:32] East more easily for businesses kind of
+[25:33] like a western union but on the
+[25:35] lightning network. The lesson learned
+[25:37] there was that before you use something
+[25:38] as a medium of exchange people need to
+[25:40] believe it as a store of value. So the
+[25:42] conversation with clients are like okay
+[25:43] before I start transferring SATs I need
+[25:45] to like buy Bitcoin. So you got to like
+[25:47] bring them on board what is Bitcoin and
+[25:49] let me buy Bitcoin before I can transfer
+[25:50] it uh as a medium of exchange. Uh the
+[25:54] the thing we ended up going with when we
+[25:56] got into the accelerator in New York was
+[25:59] a bitcoin savings plan. I think you and
+[26:02] I when we first met that was the idea
+[26:04] that we had demoed uh in in the US and
+[26:08] now we were going to like go and find
+[26:10] clients for it. What you notice is that
+[26:13] again there's the US, there's Europe and
+[26:15] there's the rest of the world. Uh you
+[26:17] have all these different level all these
+[26:18] different economies. One of the
+[26:20] conversations we were having is if I
+[26:22] want to convince you to put part of your
+[26:23] savings into Bitcoin, it makes sense
+[26:26] when some you're a middle- class fellow,
+[26:28] you're earning a stable salary, you're
+[26:30] able to put somewhere between like one
+[26:34] 10 20% of your salary away every month
+[26:36] into something like Bitcoin and have and
+[26:38] and still kind of live a good life. the
+[26:41] the conversations we were having with
+[26:42] clients and with users here was that
+[26:44] hey, I'm earning $500 in local currency
+[26:47] that's devaluating and that's barely
+[26:49] enough for me to be able to feed my
+[26:51] family, send my kids to school, uh pay
+[26:53] my rent, pay my mortgage. So, the kind
+[26:56] of like the fact that you're asking me
+[26:58] to put on top of that another 5% just to
+[27:00] invest him on the side was was kind of
+[27:02] like very lost on them because maybe in
+[27:05] uh uh the US the average salary might be
+[27:07] somewhere between let's say 15 $25,000.
+[27:10] not sure today after inflation uh here
+[27:13] in the in Egypt where I live it's more
+[27:15] close to like 500 $4 to
+[27:17] $500 in uh other parts of the Middle
+[27:20] East you can find that as well. So how
+[27:22] do you start finding ways for people to
+[27:25] believe in that asset class and how do
+[27:27] you start bringing them on board which
+[27:28] is why we went through those different
+[27:30] iterations to come to the model that we
+[27:31] have today. The Bitcoin Standard podcast
+[27:33] is brought to you by Coin Kite. Coin
+[27:36] Kite are my favorite makers of Bitcoin
+[27:38] hardware. They produced the legendary
+[27:39] open dime, the first Bitcoin bearer
+[27:41] asset, as well as the reliable cold card
+[27:44] hardware wallet, the excellent stainless
+[27:45] steel seed plates for storing your seed
+[27:48] phrases, and the block clock. Now, Coin
+[27:50] Kite have produced the SATS card, a card
+[27:53] the size of a credit card, which can
+[27:55] store Bitcoin and works great as a gift.
+[27:58] Coin Kite have just produced a limited
+[27:59] edition gorgeous Bitcoin standard SATS
+[28:02] card, which carries the Bitcoin Standard
+[28:04] logo, and you can get it from
+[28:05] cokite.shop/bitcoin.
+[28:07] shop/bitcoinstandard. Use the code
+[28:09] Bitcoin Standard to get 5% off your
+[28:11] purchase. This podcast is also brought
+[28:13] to you by the Bitcoin Way, your
+[28:15] professional Bitcoin IT team, offering
+[28:17] you personalized, secure, and
+[28:19] comprehensive solutions for every step
+[28:21] along your Bitcoin journey. The Bitcoin
+[28:24] way offer live concierge service to
+[28:26] guide you with your Bitcoin cold
+[28:27] storage, running your node, privacy best
+[28:30] practices, inheritance planning,
+[28:32] corporate strategy, and multisig
+[28:34] solutions. They don't touch your coins.
+[28:37] They guide you through the process of
+[28:38] acquiring your coins and securing them.
+[28:40] If you'd like to make your setup safer
+[28:42] and more reliable, book a consult with
+[28:45] them and see what they have to suggest.
+[28:47] If you want to give someone the gift of
+[28:49] Bitcoin, get them this professional
+[28:50] service that will ensure they start off
+[28:53] knowing exactly how to manage their
+[28:54] coins and not lose them. Go to the
+[28:57] bitcoinway.com and start bitcoining more
+[29:01] confidently. Yeah. So, what was well-
+[29:05] Before I get I should say yeah I
+[29:07] definitely agree. I think this is this
+[29:09] explains so much of the failures of so
+[29:12] many of the business models that a lot
+[29:13] of Bitcoin companies have had which
+[29:16] basically think of Bitcoin as being a
+[29:18] replacement for credit cards and Visa
+[29:20] and Mastercard and Western Union. And
+[29:23] the idea here is well you can move
+[29:25] Bitcoin quickly. So therefore people who
+[29:27] are having trouble moving money around
+[29:29] then they can just move use Bitcoin. And
+[29:31] of course there's a first problem which
+[29:33] is that onchain Bitcoin is not that fast
+[29:35] actually there's 10 minutes at least
+[29:37] what not at least but usually there's an
+[29:39] average of 10 minutes to get one
+[29:40] confirmation and it can take much longer
+[29:42] sometimes so it's not very conducive for
+[29:45] consumer payments but I think the even
+[29:46] if you do solve for that and lightning
+[29:48] does solve for that you have a massive
+[29:51] problem which is if the um pair and the
+[29:55] receiver both don't hold Bitcoin then
+[29:59] all you're doing is just adding uh
+[30:01] enormous amount of exchange uh rate
+[30:04] slippage in both transactions. So, if I
+[30:06] need to send you
+[30:07] $1,000 and your business operates on
+[30:10] dollars and your cash balance is in
+[30:12] dollars and my cash balance is in
+[30:14] dollars, then I need to convert my
+[30:16] dollars to Bitcoin and then you need to
+[30:17] convert the Bitcoin to dollars. In those
+[30:20] two transfers, we've likely eaten up all
+[30:22] of the benefits from
+[30:24] um whatever savings Bitcoin allows us to
+[30:27] do. It ends up being the case in most of
+[30:29] these cases that even for international
+[30:32] uh
+[30:33] remittances, usually international
+[30:35] remittances are being handled by Western
+[30:38] Union offices or things like that that
+[30:40] handle them at scale. And so they're
+[30:42] able to give you a pretty decent u
+[30:46] markup when they send you the money
+[30:48] across borders because you're not the
+[30:50] only one. There are a lot of people in
+[30:52] your country uh selling sending to the
+[30:54] other country and a lot of people in the
+[30:55] other country sending here. So all of
+[30:57] these get tallied and netted out by the
+[31:00] Western Union and then each office
+[31:02] receives or gets paid a little bit of
+[31:04] money and so it ends up being a lot more
+[31:07] economical because you don't have to go
+[31:09] through two foreign exchange
+[31:10] transactions at the front end and the
+[31:13] back end of the transaction. So what
+[31:15] needs to happen for people to be using
+[31:16] the transactions in Bitcoin is not some
+[31:19] technical thing that needs to be added
+[31:20] to Bitcoin because Lightning already
+[31:22] works. It's for more people to be
+[31:24] holding cash balances in Bitcoin. If you
+[31:26] and I both have Bitcoin, then I can send
+[31:29] you some of my Bitcoin and you can add
+[31:31] to your Bitcoin stash. And then in that
+[31:33] case, we don't need to convert in and
+[31:35] out of dollars. And so therefore, then
+[31:37] Bitcoin becomes a truly compelling way
+[31:39] of sending money abroad or of sending
+[31:42] money or or of paying for your coffee,
+[31:44] paying for a sandwich, whatever it is,
+[31:47] then it becomes possible. Then you see
+[31:49] how powerful lightning is because it's
+[31:51] going to be a few cents or less than a
+[31:53] cent even for me to move sums of money
+[31:56] from me to you and you keep them in
+[31:58] Bitcoin. I keep them in Bitcoin and the
+[32:01] transaction fees are in are very tiny.
+[32:04] And this angers a lot of people who um
+[32:07] it's it's such a horrible example of
+[32:09] what Mises calls the anti- capitalist
+[32:11] mentality where they can't understand
+[32:13] this point because they don't understand
+[32:14] economics. They don't understand money.
+[32:16] They think of money as being a
+[32:18] government uh toy that government
+[32:21] invents to allow us to play with one
+[32:23] another. They don't understand that
+[32:24] money emerges out of people holding it
+[32:26] as cash balance and that whatever has
+[32:28] the hard the most cash cash balances
+[32:31] ends up being money by default. And so
+[32:33] they think of this as oh you just want
+[32:36] Bitcoin to get rich. People just you
+[32:38] just want Bitcoin people to hold Bitcoin
+[32:39] so that they could get rich. As if a
+[32:43] it's my call to decide what people can
+[32:45] and cannot do with Bitcoin and B as if
+[32:48] being rich is a bad thing. like, oh no,
+[32:50] he wants all Bitcoin users to stop being
+[32:52] poor. How awful. What happens if there
+[32:56] are no poor people left? You know, how
+[32:58] are we going to grift as leftists and
+[33:01] socialists and Marxists who want to live
+[33:03] off of pretending to be
+[33:06] we're terrible at forecasting as humans.
+[33:08] We're terrible at predicting what's
+[33:10] going to come next. I mean, look at look
+[33:12] at Blade Runner the when it was done in
+[33:14] 1982. It was set in 2019.
+[33:17] And in 2019, the way it was showing you
+[33:19] like these futuristic skyscrapers and
+[33:21] what it was supposed to look like uh but
+[33:23] then you still had these old devices
+[33:25] like they hadn't they they overshot on
+[33:27] one side but they on the hardware on the
+[33:29] hardware side but they undersshot on the
+[33:30] software side which I have to credit
+[33:32] like that was from Lyn Alden's last
+[33:34] newsletter. She was like using that
+[33:35] analogy but I think it works very well
+[33:38] because you uh you can really see that
+[33:40] we can kind of like put like the Jetsons
+[33:42] when they were like done and how they
+[33:43] they kind of looked at the year60. Same
+[33:46] thing can be said with like Bitcoin like
+[33:48] hardcore Bitcoiners where want to say
+[33:49] like oh like we need to make Bitcoin as
+[33:51] the only store of value and medium of
+[33:53] exchange that people use as well. There
+[33:54] needs to be this adoption scurve and we
+[33:58] are kind of like a mighty force and we
+[34:00] are growing every day but still we're in
+[34:03] the still store of value scurve once
+[34:05] we've kind of completed through that and
+[34:06] once we've kind of gone through this and
+[34:07] there's enough nation states and
+[34:09] institutions holding it as a store of
+[34:10] value then and like people start uh
+[34:13] denominating stuff in bitcoin then you
+[34:15] can say all right let's exchange like uh
+[34:17] I need to like get a coaching session
+[34:20] from you and like how much is it in sats
+[34:22] and we can start having that baring and
+[34:24] exchange system. But up until then, we
+[34:26] just got to like wait for this to
+[34:27] happen. Neither you and I can predict
+[34:29] exactly when, but it will happen one
+[34:31] day.
+[34:33] Yeah. And you know, uh to to show how it
+[34:37] actually is happening, I you know, all
+[34:39] of these people who can be critical of
+[34:41] me for emphasizing the role of Bitcoin
+[34:43] as a way to stop getting poor and
+[34:46] selfish uh the selfish use case of
+[34:49] Bitcoin. I don't think any of them has u
+[34:53] conducted as many commerce transactions
+[34:54] in Bitcoin than I do. My website accepts
+[34:57] Bitcoin and I get about a third of my
+[34:59] revenue I think from Bitcoin roughly
+[35:01] speaking. I don't have updated data but
+[35:03] somewhere in that range. So about a
+[35:05] third of the money that comes into my
+[35:06] website comes in Bitcoin and then all of
+[35:08] the salaries that I pay everybody who
+[35:10] works for me gets paid in Bitcoin. I
+[35:11] don't pay anybody in anything else. So
+[35:13] every month I'm
+[35:14] conducting hundreds of transactions
+[35:17] basically receiving and sending uh
+[35:19] bitcoin but I only do that because I
+[35:22] have developed a bitcoin cash balance.
+[35:25] My cash balance is primarily bitcoin and
+[35:27] because of that I'm able to take the
+[35:29] foreign exchange risk of the changing in
+[35:33] value of bitcoin because it doesn't
+[35:35] matter to me because my money is in
+[35:36] bitcoin anyway. If I didn't have
+[35:38] bitcoin, if bitcoin was less than 1% of
+[35:40] my portfolio, this wouldn't make sense.
+[35:41] the business wouldn't work. It wouldn't
+[35:43] shut down. I'd always be having to sell
+[35:46] uh I'd always find myself having to sell
+[35:48] dollars in order to buy Bitcoin in order
+[35:50] to pay people or having to sell Bitcoin
+[35:53] uh to make dollars to pay um to to to
+[35:57] pay bills or something like that. But
+[35:58] only when you develop a cash balance and
+[36:00] then I hire people only who have Bitcoin
+[36:02] because they want to get because I don't
+[36:04] want to have to deal with fiat payments.
+[36:06] Then you know I all everybody who works
+[36:07] with me uses Bitcoin as well. So,
+[36:10] everybody's got Bitcoin cash balances
+[36:11] and that makes life easy. So, if you
+[36:14] want Bitcoin payments adoption, you want
+[36:16] more Bitcoin cash balances. Sorry,
+[36:20] there's no escaping it. Yeah, that's how
+[36:22] people have to do it. U and I think up
+[36:24] until that comes, we'll have to wait.
+[36:27] Yeah, we keep stacking cheap sats
+[36:28] basically and that's the opportunity.
+[36:31] It's I think also a lot of the uh
+[36:33] bitterness on this issue sadly comes
+[36:36] from the fact that it's not just an
+[36:38] ideological or intellectual mistake that
+[36:41] you make and then oh maybe I realized I
+[36:44] was wrong. But if you've approached
+[36:45] Bitcoin as a masterard replacement and
+[36:48] you spent the last 5 years or 10 years
+[36:50] as in some cases talking about the need
+[36:52] for Bitcoin to be a masterard
+[36:55] replacement,
+[36:57] well, you likely didn't buy a lot of
+[37:00] Bitcoin. And so that we have a lot of
+[37:02] people who spend a lot of time working
+[37:04] on Bitcoin adoption, Bitcoin technology
+[37:06] or programming solutions for Bitcoin
+[37:09] because they think of Bitcoin as this
+[37:10] kind of uh payment network, but they
+[37:12] don't think of it as an asset. And so
+[37:14] they never accumulated assets. Yeah. And
+[37:18] that turns out to be a very expensive
+[37:19] mistake because if you had driven an
+[37:21] Uber during those 10 years instead of
+[37:24] trying to evangelize Bitcoin and then
+[37:27] stacked SATs, you'd probably be in a
+[37:29] much better place today. Both in terms
+[37:32] of financial wealth, but also perhaps
+[37:35] more importantly, both in terms of your
+[37:37] ability to spread Bitcoin payments. If
+[37:39] you wanted to spread Bitcoin payments,
+[37:41] you should have stacked SATs so that you
+[37:42] would have a big cash balance in Bitcoin
+[37:45] and then you can buy things with Bitcoin
+[37:46] and then you can hire people for Bitcoin
+[37:48] and then you can sell things for
+[37:49] Bitcoin. That's how you would actually
+[37:51] do it. But staying broke and staying in
+[37:54] fiat and holding your cash balance in
+[37:56] fiat is hurting you and hurting Bitcoin
+[37:59] payments adoption. Yeah. And uh I think
+[38:02] let launching a startup in this space in
+[38:04] that part of the world like that's
+[38:05] that's a whole like different experience
+[38:06] trying to just convince people about
+[38:10] what this is again like there's the
+[38:12] narrative of like there's Bitcoin and
+[38:13] there's the others shitcoins there is
+[38:16] kind of like digital assets as a space
+[38:18] there's startups as an like you just got
+[38:20] to go through all like you got to peel
+[38:22] the layer of the onion and you really
+[38:23] kind of got to look for your early
+[38:26] adopters and right now really the early
+[38:28] adopters are the ones that have cash
+[38:30] balances in Bitcoin. for us. They're the
+[38:32] ones who because me like I we we even at
+[38:35] one point we were trying to get a
+[38:36] license in Egypt. We knew someone in the
+[38:38] central bank and we sat down with them
+[38:41] that was in December
+[38:43] 2023. So Egypt was, if you remember,
+[38:46] going through a massive kind of like FX
+[38:49] crisis. The uh official rate of the
+[38:52] Egyptian pound was 30. On the black
+[38:54] market, it was it went up to 75.
+[38:57] And I remember I was like loving this
+[38:58] because I was just exchanging my uh
+[39:00] bitcoins doing it at 75 a dollar to to
+[39:03] 75 pounds and then getting that getting
+[39:05] that arbitrage opportunity. But we sat
+[39:08] down and we said we have a solution. We
+[39:09] can try to help kind of like let Egypt
+[39:12] solve this FX crisis by either mining
+[39:15] Bitcoin by adopting Bitcoin making it
+[39:17] legal tender like we can just help you
+[39:18] eliminate that black market. And we are
+[39:20] showing them some numbers and doing some
+[39:22] simulations for them which allowed them
+[39:23] if they invested part of their treasury,
+[39:25] they could be generating something like
+[39:26] $30 million from mining Bitcoin uh per
+[39:29] month uh in Egypt. And Egypt kind of has
+[39:31] like a lot of sunshine, a lot of like
+[39:33] strong wind, so they can use like
+[39:34] renewable energy to mine Bitcoin there.
+[39:36] I had no idea at the same time they were
+[39:39] having these parallel discussions to
+[39:40] sell this piece of land in the north for
+[39:42] $ 35 billion. Like this is this is what
+[39:44] they were talking about and this is how
+[39:45] big of a hole they had to plug. So we're
+[39:48] very like politely pushed away and said
+[39:50] like this is not a priority for us now.
+[39:52] We're just going to sell up big piece of
+[39:54] land from the country or give it away to
+[39:56] the Emiratis and then get $35 billion
+[39:58] for it. So I think like that that just
+[40:01] shows you like where different
+[40:03] institutions where different governments
+[40:04] are when it comes to that. Uh and we
+[40:07] ended up just kind of switching to
+[40:08] Bahrain where we're getting our license
+[40:11] right now. They're the ones who have
+[40:13] actual like uh regulation and compliance
+[40:15] and also they were the first one in the
+[40:16] region to to do it. So we got a good
+[40:19] intro to someone at the central bank
+[40:20] there and we've been working with them
+[40:22] to get that license.
+[40:24] Yeah.
+[40:26] So h how did you um how did you evolve
+[40:30] with the business? You you moved to
+[40:32] Egypt but the business business has not
+[40:33] been based in Egypt, right? You're based
+[40:35] in Dubai, right? Our clients are uh
+[40:38] Egyptians at this stage like but they
+[40:39] have accounts in Dubai. So we were kind
+[40:41] of like the use case was how can we help
+[40:43] people that already hold Bitcoin custody
+[40:45] it is that the
+[40:48] current the current solution or the
+[40:50] current uh product that we offer is
+[40:53] anyone who owns at least the equivalent
+[40:55] of 100k Bitcoin or one Bitcoin is is
+[40:59] kind of a potential client for us. The
+[41:01] reason that is is we're trying to create
+[41:02] a middle ground between self custody and
+[41:05] putting on exchanges. If you have a
+[41:07] small amount of your net worth on
+[41:08] exchanges, classical exchanges, not the
+[41:10] ones that like pull you, I think you're
+[41:13] relatively okay pending some kind of a
+[41:14] black swan event, you take your own risk
+[41:16] if you're on Binance and other exchanges
+[41:18] of that size. Uh if you're in self-
+[41:21] custody, you're also kind of like
+[41:22] responsible, you're technically savvy,
+[41:24] you know how to do it with what we're
+[41:26] trying to offer is the classical multiix
+[41:28] setup that you see with a lot of other
+[41:30] uh companies in this space. And it's the
+[41:33] idea here is just eliminate the single
+[41:34] point of failure. If uh I'm uh
+[41:37] self-custodying and someone comes to me
+[41:38] today or or I die in like an accident
+[41:41] and I haven't kind of put in the right
+[41:42] measures in place or my family doesn't
+[41:45] know how to access that bitcoin, it's
+[41:46] gone forever. With multi-stick custody,
+[41:49] we're trying to put in several solutions
+[41:50] that allow to make the bitcoin
+[41:52] recoverable because the biggest issue
+[41:54] you kind of like care about is like it's
+[41:56] if it's digital money like how do I get
+[41:58] it? How do I know it exists? How can I
+[42:00] access it and know that it's going to be
+[42:01] there? if uh if your company goes under
+[42:04] what happens if uh if I like lose access
+[42:06] to the internet what happens so the
+[42:08] whole idea is like on one side we're
+[42:10] being compliant and following the
+[42:12] regulations of a central bank in the
+[42:14] region whatever they tell us and
+[42:15] whatever they want us to do like we're
+[42:17] we're being compliant with that on the
+[42:18] other we're trying to build these
+[42:20] redundancies so you don't have to go
+[42:21] through what I personally went through
+[42:23] through what every Lebanese went through
+[42:25] what other people in the region are
+[42:26] experiencing as well from Turkey to
+[42:27] Egypt to other count to other countries
+[42:30] just become come in control of your
+[42:32] funds and understand that if Bitcoin is
+[42:35] going to be that store of value for you,
+[42:36] you don't have to take the risks that
+[42:38] come with uh for example putting on an
+[42:40] exchange and exchange going down or not
+[42:42] being technically savvy enough to do
+[42:44] self- custody.
+[42:47] Uhhuh. And how's how's the uptake been
+[42:50] so far or how do you find the uh appeal
+[42:54] among people in this region?
+[42:57] Slow. Uh it's it's a bit different u
+[43:01] selling here than it is selling to
+[43:03] countries that have probably a more
+[43:07] established or stable fiat currency. For
+[43:10] us, it's right now if anyone wants to
+[43:12] invest something outside of the local
+[43:14] currency in most countries in the
+[43:16] region, you're looking at three to four
+[43:18] major asset classes. You're looking at
+[43:20] real estate, you're looking at gold,
+[43:22] you're looking at the US dollar, uh and
+[43:24] you're looking potentially at equities.
+[43:27] And all of these usually track the kind
+[43:28] of debasement of those local currencies.
+[43:30] So uh in the case of uh Egypt for
+[43:33] example, the real estate market has like
+[43:35] quintupled almost since the devaluation
+[43:37] of the pound. Uh in Lebanon, you had
+[43:40] this whole flight to uh different asset
+[43:42] classes like people were buying luxury
+[43:44] cars, they were buying boats, like
+[43:45] anything just to not put it in local
+[43:47] currency or the dollars that are stuck
+[43:49] in the bank. for us kind of like we're
+[43:51] just trying to say, okay, the first user
+[43:54] or the early adopter for us is someone
+[43:55] who already holds Bitcoin, someone who
+[43:57] already believes in the value of
+[43:58] Bitcoin. That's a very small market to
+[44:00] start with and because we kind of like
+[44:02] pegged it at like one bitcoin or 100k
+[44:04] because if you have like less than 100k,
+[44:06] it's not worth paying the fees for us.
+[44:07] Just put it on an exchange. If you know
+[44:08] how to do self custody, just do it. The
+[44:11] benefit we have is that as Bitcoin's
+[44:12] value increase, our market keeps
+[44:14] expanding. So when like one bitcoin now
+[44:16] is 100k, in 10 years time, how much is
+[44:18] one bitcoin going to be worth? or how
+[44:20] much is like 0.1 bitcoin if it goes by
+[44:21] 10x then anyone who owns 0.1 bitcoin
+[44:23] will be a good uh part of our target
+[44:26] markets but this is where we're starting
+[44:28] at and this is the kind of benchmark
+[44:29] that we're building the thing that we're
+[44:31] and and that's not going to
+[44:33] be large enough to build a uh a business
+[44:36] with or a scalable business for the
+[44:39] region which is why we've added the
+[44:40] second layer to it after kind of again
+[44:43] having those conversations which is you
+[44:45] have your bitcoin so has been holding
+[44:47] bitcoin for five years uh Uh, and that
+[44:49] Bitcoin has 10xed. I feel very excited.
+[44:52] I feel I want to go spend it on
+[44:53] something and deposit on a house. I want
+[44:55] to do something with it because I feel
+[44:57] like I've earned the return now and I
+[44:59] can cash some of it out. I feel both now
+[45:03] for individuals and businesses. There is
+[45:05] this other ideas like keep your
+[45:07] bitcoins. If you really believe in it
+[45:08] and you buy into the philosophy, we're
+[45:10] here to offer you a loan at a
+[45:13] competitive rate that will allow you
+[45:16] just to use the fiat liquidity to do
+[45:19] what you need. And we're only doing that
+[45:21] now for businesses rather than
+[45:22] individuals because with businesses the
+[45:24] kind of like emotional angle like the
+[45:25] emotional volatility is less. With an
+[45:27] individual you can say I want to buy
+[45:29] that and I it's my money I'll go and do
+[45:30] it. with a business when you've put it
+[45:32] as part of your treasury, you need to
+[45:34] have like more uh bal like you need to
+[45:36] have checks and balances about when you
+[45:38] want to sell that bitcoin. So the idea
+[45:39] for us is that as a business, you've put
+[45:41] Bitcoin on your balance sheet, part of
+[45:43] your treasury now. It's increased in
+[45:45] value. You have business expenses. You
+[45:48] need some liquidity for it. We could
+[45:50] facilitate that for you. Again, we're
+[45:52] starting very small. We're doing
+[45:54] somewhere between$10 to $20,000 in loan.
+[45:57] But our target market here is not the
+[45:59] asset managers, not the oil companies.
+[46:01] It's the 20 or so million small
+[46:03] businesses in the region that have no
+[46:04] access to capital. So, it's a way of
+[46:07] incentivizing them, saying like as a
+[46:08] business, whatever you earn, put it in
+[46:10] Bitcoin, build a Bitcoin stash from
+[46:11] there, take a loan against it, and we
+[46:13] will structure these loans in a way that
+[46:15] doesn't put you
+[46:17] uh doesn't put us in a way that we're
+[46:19] cannibalizing it. We're not going to be
+[46:20] charging you 18% on those loans. This is
+[46:22] not a way for you to save on capital
+[46:24] gains tax. Uh this is a way for you to
+[46:26] just be able to follow through on your
+[46:29] business. We want to encourage like
+[46:30] entrepreneurship. We want to support the
+[46:31] small business but also to preserve your
+[46:33] Bitcoin purchasing power. Healthcare is
+[46:36] one of the biggest problems in fiat
+[46:37] world and health insurance in
+[46:38] particular. In my work and on this
+[46:40] podcast, we've discussed at length the
+[46:43] many ways in which modern medicine and
+[46:44] insurance fail. And I'm very proud to be
+[46:47] presenting my listeners with an
+[46:48] excellent Bitcoin-based alternative.
+[46:51] Crowd Health is a crowdfunding model for
+[46:53] health problems and one that can save
+[46:56] you enormously compared to the broken
+[46:58] insurance model. I've hosted the founder
+[47:00] Andy Skoon over twice to discuss crowd
+[47:02] health and everyone I've recommended to
+[47:04] join them has been very satisfied. For
+[47:07] $175 for an individual or
+[47:10] $575 for a family of four or more,
+[47:13] you'll get access to a community of
+[47:14] people who are willing to help out in
+[47:16] the event of an emergency. Let Crowd
+[47:18] Health help you with your health care
+[47:20] needs. Get started today for just $99
+[47:23] per month for your first three months by
+[47:25] using code safe sif at
+[47:29] joincrowthealth.com. Crowdhealth is not
+[47:32] insurance. Learn more at
+[47:35] joincrowthealth.com and use the code
+[47:37] safe s a
+[47:40] f. Yeah, I think the case is pretty
+[47:42] compelling from a financial perspective.
+[47:44] as Michael Seder puts it, ultimately
+[47:46] Bitcoin appreciates higher per year than
+[47:50] the vast majority of interest rates that
+[47:52] you can get.
+[47:54] So if you're going to borrow, it's, you
+[47:58] know, you look at the interest rates
+[47:59] that you could have been offered over
+[48:00] the last 10 years and you compare them
+[48:01] to the appreciation of Bitcoin and you
+[48:04] find that you would have come out ahead
+[48:05] no matter what interest rate you would
+[48:07] have gotten pretty much as long as you
+[48:10] had the ability to withstand a 12 to
+[48:15] 18month brutal bare market. If you're
+[48:18] still cash flow positive to be
+[48:19] continuing to make payments during that
+[48:21] period, then you know you just stick it
+[48:24] out through that period and you come out
+[48:25] ahead on top uh on the other end because
+[48:29] the appreciation bitcoin is just too
+[48:31] large and this is the case against
+[48:33] selling bitcoin. But of course there are
+[48:37] other u counter arguments primarily the
+[48:40] idea that uh you're uh risking your
+[48:44] bitcoin now you know when you sell it
+[48:46] all right it's gone you have the money
+[48:47] that you can spend on other things but
+[48:50] uh when you lend it you're paying an
+[48:53] interest and then there's the risk that
+[48:55] the lender defaults
+[48:57] uh the borrower defaults and then you
+[49:00] are in trouble. Um, so what are your uh
+[49:04] what are your thoughts on that and how
+[49:05] do you guys try and keep clients
+[49:07] bitcoins safe? What do you do with the
+[49:09] bitcoins?
+[49:11] So it builds on the multi setup. So it's
+[49:14] two out of three which means that you
+[49:15] need two signatures to access the
+[49:17] bitcoin and when you want to move into
+[49:19] uh bitcoin back loans you have a third
+[49:21] party that comes in. So the third party
+[49:23] has one of the keys, zoda has the key
+[49:25] and the borrower has one of the keys.
+[49:27] You need two to unlock the funds. That's
+[49:29] number one. So there the keys are
+[49:31] spread. Number two is we're setting a
+[49:34] low LTV loan to value
+[49:36] ratio. We've looked at kind of like the
+[49:39] fluctuation volatility of Bitcoin over
+[49:41] the past 3 to four years. And if you put
+[49:45] an LTV of 40% what we what you can say
+[49:48] is that when was the last time that
+[49:50] Bitcoin dipped 60%. And over how long?
+[49:53] Because that's what's usually going to
+[49:54] lead to liquidation and margin call. it
+[49:56] is you can say a kind of leverage but
+[49:58] like when you lower the LTV it's a bit
+[50:01] different so when did bitcoin move from
+[50:03] like 100 to 40k and how fast that
+[50:06] happened and the last instance you can
+[50:08] look at that was the the dip that
+[50:10] happened between when Luna uh crashed
+[50:13] and when FTX crashed that was about a
+[50:16] period of like five months when bitcoin
+[50:17] like really went that 60% decrease in
+[50:20] value so you have enough time what I'm
+[50:23] trying to say is to replenish your
+[50:26] collateral to add to it. And that that's
+[50:28] what's going to help us prevent a margin
+[50:30] call is that like if it get if it kind
+[50:31] of dips, let's say to 75%, if it dips to
+[50:34] 60%, 55, you're going to be getting
+[50:36] notifications. And if those things are
+[50:38] happening concurrently, we know that
+[50:40] you'll you'll have enough time based on
+[50:42] Bitcoin's price history to be able to
+[50:44] replenish that collateral. Uh that's
+[50:46] number two. Uh number three is I think
+[50:49] the grace period between when you want
+[50:50] to pay back those uh the interest. So
+[50:52] the interest usually is fixed. So we uh
+[50:55] do it like for 12 months and then you
+[50:57] can renew your loan. It's not you're not
+[50:59] like kind
+[51:00] of an Islamic law like you're not just
+[51:02] charging interest on the time. You're
+[51:04] just saying if you want to take out a
+[51:05] loan uh for $10,000 with your Bitcoin
+[51:08] with like $20,000 of Bitcoin and we're
+[51:11] going to charge you 8% on it. So 10.8
+[51:13] it's going to be 10.8 for that year. It
+[51:15] doesn't matter like how much time goes.
+[51:17] And then you can replenish that alone
+[51:18] and add more uh time to it if you want
+[51:21] to take it over several years. So for
+[51:24] us, we just kind of like try to keep it
+[51:25] fixed like that and then you'll have
+[51:27] about three days to pay back the
+[51:28] interest on your loan every month. That
+[51:31] gives you kind of a bit of a wiggle
+[51:32] room. But yeah, we're learning from it.
+[51:34] We're launching it and uh we're
+[51:36] collaborating with different partners
+[51:37] that have done that. I know that this
+[51:40] model has worked well in the US with
+[51:42] Unchained. They've uh done Bitcoin back
+[51:45] loans. I know that Leen is doing it in
+[51:47] Canada. There the use case is very
+[51:50] different. there. It's kind of like a
+[51:52] tax advantage for us. It's like let's
+[51:54] charge a lower interest rate in the US
+[51:56] and give it to you in US dollars and
+[51:58] then we can help you uh get liquidity
+[52:00] and convert that convert that liquidity
+[52:02] into a local currency that can help you
+[52:05] sustain your business.
+[52:08] Fantastic. And do you see yourself
+[52:10] expanding into other kinds of products
+[52:11] in the region or do you just focus on
+[52:13] these for now?
+[52:15] want to see like again like with any
+[52:17] startup we want to just be focused uh up
+[52:20] until we don't see enough traction. So
+[52:21] we've had some let's say pre- product
+[52:24] market fit traction on that it's not
+[52:26] kind of like we're not having the phone
+[52:27] ring every day on it but because it's uh
+[52:31] because of the nature of like who I am
+[52:33] of how I'm running the business uh
+[52:35] because of the nature of Bitcoin like we
+[52:36] want to honor low time preference. So
+[52:37] for us it's not like let's grow as fast
+[52:39] as possible at any cost. The idea here
+[52:41] is like let's grow sustainably with the
+[52:43] right partners. And that's why I told at
+[52:45] the beginning like the very first people
+[52:46] we want to start with are not people
+[52:47] that own like shitcoins. We want people
+[52:49] that own bitcoin that believe in the
+[52:50] value of bitcoin. It's a small market
+[52:52] but it's a it's a market that keeps
+[52:54] expanding every day as bitcoin's value
+[52:55] appreciates. So we will just keep
+[52:57] growing with that market. Now if the
+[53:00] loans start accelerating like we're only
+[53:03] doing only $50,000 in loan now. If you
+[53:06] can start 10xing that and 100xing that,
+[53:09] this is where I think the business can
+[53:10] have show a lot of problems. And this is
+[53:12] where we're getting most of the kind of
+[53:13] interest from small businesses to say
+[53:14] like, "All right, I'm interested in that
+[53:17] potential option and the the interest
+[53:18] rate that you're charging because if I'm
+[53:20] going to be paying 26% in the local
+[53:22] currency and you're charging me 8% in US
+[53:24] dollars, that to me sounds like both too
+[53:27] good to be true, but also it's it's
+[53:28] something I'm willing to explore." So we
+[53:30] would be kind of going and working with
+[53:32] those businesses up until we found we
+[53:34] find no traction or uh bad feedback from
+[53:38] the from the users. This is when we can
+[53:39] say let's explore something else. But
+[53:41] for now this is the one that's from our
+[53:43] third pivot that's working the most.
+[53:47] And uh where do you see your operations
+[53:50] um in the Middle East? Um any particular
+[53:53] countries you're keen to expand on or
+[53:55] any countries you can't expand
+[53:58] into? Again, we want to get the license
+[54:00] from Bahin as soon as possible. It's
+[54:02] something we've been working on for the
+[54:03] past 9 months. This gives us an onore
+[54:06] license. An onore license allows you to
+[54:08] onboard anyone from around the world.
+[54:10] Our focus is obviously going to be on
+[54:12] the region, but with the onore license,
+[54:13] as long as you complete your KYC, your
+[54:16] KYB, you'll be able to become a user of
+[54:19] Zelda. Our priority is kind of you can
+[54:21] divide the Middle East in two. You have
+[54:23] the Gulf and you have the Levant and
+[54:25] North Africa. So with the Gulf, our
+[54:28] focus there is going to be working with
+[54:30] Bitcoin holders and small businesses
+[54:32] around custodying in Bitcoin and taking
+[54:34] loans against it. There you have more
+[54:36] stable local currencies. You have a lot
+[54:38] of funding. You have a lot of potential
+[54:40] for growth. So the small businesses
+[54:42] there have the support from their
+[54:44] government to be able to advance and we
+[54:46] want to be there and partner with local
+[54:47] banks uh people that have a lending
+[54:49] license to be able to do that. This is
+[54:51] kind of how we would enter that market.
+[54:53] uh for the for North Africa and the
+[54:54] Levant is a very different use case
+[54:56] where you don't necessarily have the
+[54:57] regulations and the framework. So we're
+[54:59] working theres through friends and
+[55:01] family connections and network to able
+[55:03] to help them uh access Bitcoin. So they
+[55:06] have like a lot of local currency that
+[55:08] they want to convert to Bitcoin. So
+[55:09] we're helping kind of like onramp them
+[55:11] into that, but also we're giving them
+[55:12] the chance to just take out loans and
+[55:14] use it in the local market. So Egypt
+[55:16] being a big enough market, that's kind
+[55:17] of where we're focusing. But I think
+[55:19] we're just going to have this
+[55:20] two-pronged approach for now between the
+[55:22] two and see where it takes us over the
+[55:24] next six months. Fantastic. Do you have
+[55:27] any thoughts on um uh government
+[55:29] adoption of Bitcoin in the region? Have
+[55:31] you heard of any uh rumors or any uh
+[55:35] alpha you can share with us? I know for
+[55:37] I remember a couple of months ago
+[55:39] Mubadala, which is one of the largest
+[55:40] sovereign wealth funds in the world, Abu
+[55:42] Dhabi, one of Abu Dhabi's sovereign
+[55:44] wealth funds. They announced that
+[55:45] they're buying uh Bitcoin ETFs. I also
+[55:48] know that this hasn't been announced
+[55:50] publicly, but I know it from people who
+[55:51] work in the bank in the sovereign wealth
+[55:54] fund, ADQ, which is another one of the
+[55:56] Abu Dhabi sovereign wealth funds.
+[55:58] They've been mining Bitcoin since
+[56:00] perfect timing since November 2022. It's
+[56:04] around Bitcoin was at the bottom bottom
+[56:07] at around 16,000 and they've mined all
+[56:10] the way up until where we are now. So,
+[56:13] that's clearly worked out very well for
+[56:14] them. But, you know, it was a uh it was
+[56:19] a way to monetize stranded energy and to
+[56:21] get rid of all the excess gas. It wasn't
+[56:23] specifically a Bitcoin play. So, we're
+[56:26] not sure how I'm not sure how much
+[56:28] they're going to be holding from that or
+[56:29] if they're just going to be selling it.
+[56:31] But, at least uh you know, I think uh I
+[56:33] think if you mine it and you make money
+[56:35] and then you see how much is it
+[56:36] appreciates, that'll help you understand
+[56:38] that uh hodddling is the real uh money
+[56:41] here. I think even if you make money
+[56:43] with mining, you make money in fiat
+[56:45] terms, most miners, you'd be better off
+[56:47] just buying the Bitcoin straight ahead
+[56:49] and not worrying about the operation of
+[56:51] the mining business. So hopefully this
+[56:54] uh you know they run the numbers and
+[56:55] they figure out yeah maybe we should
+[56:57] have just held they're doing it at a
+[56:58] small enough scale. I know for like uh
+[56:59] Abu Dhabi it's like you can see it
+[57:01] because Marathon Digital Assets is um
+[57:03] the company they're working with. So you
+[57:04] can see it on their dashboard how much
+[57:06] uh the hash rate that's being done in
+[57:09] Abu Dhabi. Uh the other country that I
+[57:12] know has uh publicly done it but I don't
+[57:14] know how I don't know details. They
+[57:16] probably just created facilitated the
+[57:18] framework for bitcoin adoption mining is
+[57:20] because they have a lot of like natural
+[57:22] energy. So they've been encouraging a
+[57:24] lot of miners to come and set up shop
+[57:26] there. But uh I actually can say you
+[57:29] something here like we are working on a
+[57:32] collaboration with uh a partner in
+[57:35] Lebanon to try to get again it's a we're
+[57:38] overshooting here but we're trying to
+[57:40] convince the central bank to uh invest
+[57:43] part of it treasury in Bitcoin. The way
+[57:46] we're doing this is we're using the
+[57:47] analogy of gold. So Lebanon has one of
+[57:49] the largest per capita gold reserves in
+[57:51] the world. Uh it's one of the top 20 uh
+[57:54] countries. So that's like for a country
+[57:56] that tiny and that poor to have that
+[57:58] much gold reserves that's all uh stuck
+[58:01] somewhere between London and New York
+[58:02] and there's a lot of and Switzerland and
+[58:04] there's a lot of laws about how you can
+[58:05] extract it which is good because that
+[58:07] meant like they couldn't liquidate all
+[58:08] of that during the crisis in 2019 but
+[58:11] basically that gold was bought through
+[58:12] some foresight by the central bank in
+[58:14] the 1960s and they kept accumulating it
+[58:17] to the point where now it's worth
+[58:19] something like 30 or 36 billion.
+[58:23] uh the central bank's balance sheet
+[58:25] today is $10 billion. Our proposal is if
+[58:28] you take from that $10 billion, let's
+[58:30] say 10 to 15%, so one to one to 1.5
+[58:33] billion any invested in Bitcoin today,
+[58:36] we based on Bitcoin's past price can
+[58:39] tell you that within five to six years,
+[58:41] you'd be able to make all the depositors
+[58:43] that have less than $100,000 stuck in
+[58:45] their account whole. So that could be
+[58:47] kind of a good PR strategy or it's a
+[58:48] good strategy by the central bank, by
+[58:50] the new government, by the by the new
+[58:52] administration to say here's a solution
+[58:55] within a time frame that is reasonable
+[58:58] to give back the small depositors their
+[59:00] money back. If that happens, I think
+[59:02] that would be kind of like I'd be very
+[59:04] happy to kind of have brought value back
+[59:06] and help kind of like the country just
+[59:08] recover some of its assets. Obviously,
+[59:10] it's very political and obviously
+[59:12] sometimes these countries have bigger
+[59:13] fish to fry, but we're pushing and if
+[59:15] that happens, I'm sure I'll let you
+[59:16] know.
+[59:18] Yeah. Excellent. Um, anything else you
+[59:21] want to share with us? Uh, nothing. I
+[59:24] think we're going to be on zoda.me so
+[59:27] anyone can subscribe. We are waiting for
+[59:29] our license from Bahin, but we'll be uh
+[59:33] publishing a lot more in the coming
+[59:34] weeks. So, just keep an eye out. Thank
+[59:36] you.
+[59:38] Awesome. Well, I wish you best of luck,
+[59:40] O. It's uh it's an important job. We
+[59:42] need to orange pill this region, and I'm
+[59:44] glad you're uh getting your hands dirty
+[59:45] doing it. Thank you. Thank you. Safe.
+[59:48] It's been a pleasure being with you.
+[59:50] All right. Take care. Take care. Bye.
+[59:54] [Music]
+[59:59] [Music]
+[60:10] [Music]

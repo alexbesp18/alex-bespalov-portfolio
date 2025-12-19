@@ -1,0 +1,1034 @@
+Title: Why every social platform will adopt Bitcoin | Nick Malster
+Video ID: Dj2TI2Ev0Vc
+URL: https://www.youtube.com/watch?v=Dj2TI2Ev0Vc
+Date Saved: 2025-06-15 12:01:53
+--------------------------------------------------
+
+[00:00] seeing the number of Satoshi is a much
+[00:02] better signal than the number of likes
+[00:04] because it is a true signal of value
+[00:06] only if you really like something and
+[00:08] you're going to send some SATs like my
+[00:10] thoughts on nosta is that it's very
+[00:12] difficult to you know challenge the
+[00:14] network effect that an app like Twitter
+[00:16] has right because of its scale because
+[00:17] of the size of the community and you
+[00:19] know the Habit creation that's formed
+[00:20] with millions of users around the world
+[00:22] where do you see content creators
+[00:24] getting the money in like 10 years value
+[00:26] for value is going to be a very popular
+[00:28] way for creators to man Iz that's a
+[00:30] great thing because it really encourages
+[00:32] podcasters to optimize for creating
+[00:34] value for their biggest fans and that
+[00:36] value will be returned we think of
+[00:38] Fountain as a bit of a trojan horse for
+[00:40] Bitcoin of course it's powered by
+[00:41] Bitcoin the experience is you know made
+[00:43] possible because of Bitcoin what would
+[00:45] YouTube be worth without Mr Beast what
+[00:47] would spotify's position in podcasting
+[00:49] be without Joe
+[00:51] Rogan what did you do before the before
+[00:55] you entered the whole space with Bitcoin
+[00:57] and the fountain
+[00:58] app yeah uh so before I started Fountain
+[01:02] I was working in advertising in London
+[01:04] so I started out in different creative
+[01:08] digital design agencies um did that for
+[01:11] a number of years that was a lot of fun
+[01:13] you know working in an agency you get a
+[01:15] lot of experience to different things
+[01:17] working with different people high
+[01:19] pressure environments um and yeah but I
+[01:22] got I got to the point with it really
+[01:24] where you know it was it was it was hard
+[01:27] work and I basically burnt out and and I
+[01:30] kind of said to myself you know what
+[01:32] maybe you should work client side
+[01:34] instead of working in agencies so that's
+[01:36] what I did I went to to Nike and I
+[01:38] worked there for three years uh working
+[01:40] in brand marketing which was a great
+[01:42] experience you know Nike is a amazing
+[01:45] company I love sport so it was the right
+[01:47] place for me to be um to be honest most
+[01:49] of my time there was during the lockdown
+[01:51] so it was a little bit limiting but it
+[01:54] was it was in that time really where I
+[01:56] had you know particularly in lockdown
+[01:57] had a bit more time to think about what
+[01:59] ultim it is I wanted to do and I always
+[02:02] wanted to start my own business and and
+[02:04] be an entrepreneur so that was a great
+[02:06] opportunity to to start exploring that I
+[02:09] think it's funny that in the co time a
+[02:12] lot of people uh started thinking and
+[02:14] started pursuing their dreams even
+[02:16] though we were in complete lockdown
+[02:18] because I did that myself I started my
+[02:21] social media back then um and how did
+[02:24] you find uh Bitcoin then after
+[02:27] that yeah so I was I was aware of
+[02:29] Bitcoin for a long time you know I had
+[02:31] people close to me telling me about it
+[02:33] and uh yeah I guess I just wasn't really
+[02:36] curious enough to um to to explore it
+[02:39] further at that point and it was it was
+[02:42] in 2020 maybe 2021 when you know price
+[02:47] of Bitcoin was going up interest was
+[02:48] going up in in Bitcoin itself and yeah
+[02:53] it kind of It kind of um crossed over
+[02:55] with the with the beginning of Fountain
+[02:57] really uh we started Fountain it wasn't
+[02:59] always the podcast app it didn't always
+[03:01] have Bitcoin integrated but it was
+[03:04] really a case of right place right time
+[03:06] you know we saw what was happening with
+[03:07] podcasting 2.0 the new specification
+[03:10] that allowed you to to send you know
+[03:12] micro payments in in Bitcoin and yeah
+[03:15] that's where I started and from then on
+[03:17] you know it was really uh well it was I
+[03:20] started really by reading the Bitcoin
+[03:22] standard that's obviously a lot of uh a
+[03:25] lot of bitcoiners have the same
+[03:26] experience but that was that was mine
+[03:28] also and um from there just started to
+[03:31] listen to bitcoin podcasts but I think
+[03:33] most importantly you know actually
+[03:35] working in Bitcoin having a Bitcoin
+[03:38] product which is what we quickly uh
+[03:40] arrived at with Fountain that's the best
+[03:42] experience you can get because your
+[03:44] hands on you're talking to bitcoiners
+[03:46] every day um and you kind of grow to
+[03:50] understand how the Bitcoin thinks and um
+[03:54] yeah your your mind expands from there I
+[03:55] guess yeah in the beginning you said on
+[03:58] another podcast I think it was like a
+[04:00] voice messaging can send voice memos to
+[04:05] each other Fountain right how did it
+[04:07] start yeah it was it was uh nothing to
+[04:09] do with podcasting it was um it was just
+[04:11] a way to record short uh voice messages
+[04:14] and share them with your followers but
+[04:16] we we struggled really because we we uh
+[04:19] yeah at this stage we were very early
+[04:20] just exploring the idea um but we didn't
+[04:23] have anyone to make content found it
+[04:24] very difficult to persuade people to
+[04:26] make content for us which is why we
+[04:28] decided to launch a podcast instead
+[04:30] because we can just bring all the
+[04:31] content in that exists already and then
+[04:33] just kind of create new tools to uh to
+[04:36] to share that and and support it and and
+[04:39] also discover content that's relevant to
+[04:41] you and why was then Bitcoin integrated
+[04:44] in in
+[04:46] Fountain yeah so like I said it was a
+[04:48] case of right place right time um we saw
+[04:51] what Adam Curry was doing with
+[04:52] podcasting 2.0 um just a a a brief
+[04:55] background on podcasting 2.0 it's
+[04:58] essentially a um a movement that's uh
+[05:02] really designed to um you know firstly
+[05:06] protect um the the aspect of free speech
+[05:09] in podcasting by having a decentralized
+[05:11] index of podcasts so an index which the
+[05:14] likes of apple or Spotify or any other
+[05:16] kind of major player in the podcasting
+[05:19] industrial complex can't mess with and
+[05:21] remove content because it doesn't meet
+[05:23] their requirement so that was the the
+[05:25] first part of the project and then the
+[05:27] second part was really about creating
+[05:29] new um I suppose language for developers
+[05:32] to build uh new features and tools on
+[05:35] top of the RSS feed in a way that was
+[05:36] compatible across every different app
+[05:39] and one of those features was value for
+[05:41] Value um you know value for value is not
+[05:44] a new idea in fact it was Adam Curry
+[05:47] many years ago along with John Dvorak
+[05:49] who I suppose pioneered it in podcasting
+[05:52] with their Show No Agenda so previously
+[05:54] they were taking checks in the post they
+[05:57] were taking donations through payer pal
+[06:00] the show was always 100% audience funded
+[06:03] and the the audience kind of in
+[06:05] instinctively knew that to keep the
+[06:08] content coming and uh you know to keep
+[06:10] the the quality of the content good to
+[06:12] support the show was necessary um Adam
+[06:15] and John obviously did a lot of
+[06:16] messaging around that to to listeners to
+[06:18] to let them know but this really caught
+[06:21] our attention because uh you know we
+[06:24] identified that initially as a as a
+[06:26] problem that we could solve for
+[06:27] podcasters you know an easy way for you
+[06:30] to get paid by your fans and it
+[06:32] definitely serves that purpose still
+[06:34] today um and it's continually improving
+[06:37] as a um I suppose an income or Revenue
+[06:40] Source but I think that it was after
+[06:43] playing around with value forv value
+[06:45] payments a little bit more that we
+[06:46] really discovered their true potential
+[06:49] we realized that you know firstly not
+[06:53] every listener wants to pay for
+[06:55] something that is already free right so
+[06:59] we had to think about how what is what
+[07:01] is really in this for the listener you
+[07:03] know there's obviously um listeners out
+[07:06] there who who want to support the things
+[07:08] they love because they want to see them
+[07:09] succeed but you know it's not the whole
+[07:12] of your audience but really and I think
+[07:14] this you know relates to you and your
+[07:16] podcast as well you know the listeners
+[07:18] who do really care and you know are
+[07:20] really true fans would do anything to
+[07:23] help you succeed and grow the podcast
+[07:25] and expand the community and bring it to
+[07:27] New listeners and so we decided to
+[07:30] actually make the boosts public and a
+[07:32] boost is just a a comment with a payment
+[07:34] attached right so you're sending a
+[07:36] payment from one lightning address to
+[07:38] another and we made those comments
+[07:40] public so that you could actually use
+[07:43] the Boost as a discovery tool and based
+[07:46] on you know the existing infrastructure
+[07:48] we had with the early version of the app
+[07:50] where you could follow other people we
+[07:51] had that same functionality in Fountain
+[07:53] as well so if I'm following you Robin I
+[07:56] can see when you boost a podcast that
+[07:58] for me is an amazing signal that uh
+[08:00] helps me understand the value of the
+[08:03] thing I'm seeing you know seeing the
+[08:05] number of Satoshi is a much better
+[08:07] signal than the number of likes because
+[08:09] it is a true signal of value only if you
+[08:12] really like something and you're going
+[08:13] to send some STS um and then from there
+[08:16] we just kind of realized that value for
+[08:18] value is is really much more of a
+[08:20] community it's not just a you know one
+[08:22] directional payment from from listener
+[08:24] to podcaster it's um about surfacing
+[08:27] those payments across a community to
+[08:29] Drive Discovery uh and ultimately create
+[08:32] a a better experience for podcasters and
+[08:34] I think that is a a bigger problem than
+[08:37] the problem we were trying to solve
+[08:38] initially for podcasters which is
+[08:40] there's so many podcasts out there
+[08:42] there's not enough time to listen to
+[08:43] them all like how can I see the podcasts
+[08:47] that are really valuable to the people
+[08:49] um that I follow to decide what to
+[08:51] listen to next yeah and I think it also
+[08:55] erodes the problem of like Bots because
+[08:57] you can maybe found a bot machine but if
+[09:01] you have to pay like five sets for
+[09:04] millions of bots it becomes really
+[09:06] really fast really expensive like there
+[09:09] are a lot of things uh in like I was in
+[09:13] the early days also with the the Nostra
+[09:16] apps and other apps and right now I'm
+[09:18] more on like fountain on Twitter and not
+[09:21] a lot on on Nostra and other apps that
+[09:24] are value for value and I would love to
+[09:27] have all the apps like also Twitter like
+[09:29] integrate the like button but maybe like
+[09:31] an additional button where I can like
+[09:34] tip satosi with a few clicks that would
+[09:36] be such an amazing experience uh but
+[09:40] it's not there and I think that would be
+[09:42] an amazing future but I don't know if we
+[09:45] we we come there because it's like you
+[09:47] have to pay for it and and Nostra how do
+[09:50] you see Nostra and and the Twitter thing
+[09:53] like I found find myself always coming
+[09:55] back to Twitter always finding the
+[09:57] content more on Twitter and and less on
+[10:00] Nostra uh or do you have stats for like
+[10:04] Fountain versus other podcast platforms
+[10:07] like Spotify and and YouTube do you see
+[10:09] like how long are people on the fountain
+[10:11] La uh like do you have any stats you can
+[10:14] you can
+[10:16] share well I think just firstly like my
+[10:19] thoughts on nosta is that you know it's
+[10:21] it's very difficult to um you know
+[10:24] challenge the network effect that an app
+[10:26] like Twitter has right because of its
+[10:27] scale because of the size of the
+[10:29] community and um you know the Habit
+[10:31] creation that's formed with millions of
+[10:33] users around the world um that being
+[10:35] said though it does um it does offer a
+[10:39] great alternative way to talk to people
+[10:41] and I think what nosta has that Twitter
+[10:44] doesn't have is the interoperability you
+[10:46] know to be able to you know which
+[10:48] regardless of which Noster client you're
+[10:49] using to be able to hold those
+[10:51] conversations across different apps and
+[10:54] that's something that we're really
+[10:55] excited to leverage with Fountain as
+[10:57] well um because we obviously see
+[11:00] podcasters post their latest episodes on
+[11:02] Twitter there's a certain amount of
+[11:04] conversation there but it's not really
+[11:07] optimized towards the listening
+[11:09] experience you know because you have
+[11:10] this balance of okay I'm watching a
+[11:13] YouTube video but I also want to look at
+[11:14] the comments and actually I don't
+[11:16] necessarily want to be listening to a
+[11:18] full podcast on Twitter I want to just
+[11:20] be using a podcast app how can I have
+[11:22] The Best of Both Worlds where I can
+[11:24] consume the podcast on the go in the car
+[11:26] when I'm walking but then also see all
+[11:28] the engagement the activity with with
+[11:30] the community there and so quite soon
+[11:33] we're going to be um launching the next
+[11:36] iteration of our nosta integration
+[11:38] whereby um you know if someone sends a
+[11:41] boost on Fountain that will automate
+[11:44] automatically propagate as an activity
+[11:46] event in nosta so you know if you're on
+[11:50] nosta you would see the booth sent from
+[11:52] Fountain you could actually reply to it
+[11:54] from nosta and your reply would then
+[11:57] populate in Fountain so you can actually
+[11:59] have conversations not only between
+[12:01] Noster apps but also um other products
+[12:04] and services like Fountain and I expect
+[12:07] other you know lightning enabled um you
+[12:10] know mobile applications to to start to
+[12:12] look at a similar thing because that
+[12:14] solves the problem of like cross app
+[12:16] comments how can we talk to each other
+[12:18] uh across these different apps um and
+[12:21] then yeah as for stats for listening
+[12:25] um yeah I think that you know typically
+[12:29] for for your standard podcast you know
+[12:32] it's a pretty much 50/50% 50/50 split on
+[12:35] listeners on Spotify and listeners on
+[12:38] Apple podcasts of course there's a few
+[12:40] other smaller independent podcast apps
+[12:43] there um and and we're really trying to
+[12:45] break that because you know we just
+[12:48] don't think these apps are really
+[12:49] optimized towards you know a modern
+[12:51] podcasting experience um you know that's
+[12:54] enabled through the features that
+[12:55] podcasting 2.0 U gives us so things like
+[13:00] chapters transcripts and by the way
+[13:02] these are also built in an interoperable
+[13:04] way as well so as a podcaster you know
+[13:07] if you're uploading chapters or
+[13:08] transcripts or anything else to your
+[13:10] hosting platform when you publish your
+[13:12] podcast you know that um listeners on
+[13:15] any app are going to be able to interact
+[13:16] with those features in the same way
+[13:18] that's not true of things like Spotify
+[13:20] and apple podcasts you know they have
+[13:21] their own proprietary tools don't work
+[13:23] in that interoperable way so yeah we see
+[13:27] podcasters who really get behind
+[13:28] Fountain you know seeing as much as 30
+[13:31] or 40% of their listeners on Fountain
+[13:33] and I think ultimately that's the best
+[13:35] place for their listeners to be you know
+[13:37] I often see podcasters post on Twitter
+[13:40] or nosta saying hey latest episode of my
+[13:43] podcast is available um here are the
+[13:45] links to like listen to it on Apple and
+[13:48] Spotify and I always wonder like you
+[13:50] know people people know instinctively
+[13:53] that when a new episode's out it's going
+[13:55] to be on those apps so you don't need to
+[13:57] tell them and send them the link but
+[13:59] really if you're directing your
+[14:00] listeners to Fountain um that is much
+[14:02] more beneficial for you and I'm not just
+[14:04] talking about monetization either like I
+[14:06] said Fountain is a tool for you know
+[14:09] audience growth and engagement as much
+[14:11] as it is for monetization too and I
+[14:13] think our Theory really focuses on you
+[14:16] know as a podcaster your biggest fans
+[14:19] would do anything to kind of help you
+[14:21] grow and succeed like I said and
+[14:23] Fountain it you know gives you the tools
+[14:24] to be able to do that so directing
+[14:26] people to Fountain really maximize is
+[14:29] your exposure to to new audiences and uh
+[14:32] you know allows those conversations with
+[14:34] listeners to happen that's a great point
+[14:37] and uh I mean I can share my statistics
+[14:40] uh 50% of my lists are actually on
+[14:42] Fountain uh if I exclude uh Twitter and
+[14:46] exclude YouTube like I also upload the
+[14:49] video version of on on Twitter and and
+[14:52] and YouTube but on just the podcasting
+[14:56] apps like most of them come actually
+[14:57] from from found I think this also a
+[15:00] reason because of the the Bitcoin focus
+[15:02] of my my podcast and it's it's it's
+[15:06] still really small M like I have like
+[15:08] maybe 50 plays per episode in in total
+[15:11] just on the podcast adding platforms and
+[15:13] on Twitter like 500 thousand because I
+[15:16] have just my main account is there but
+[15:18] uh it's it's it's great to see that
+[15:20] there is growth there and then you can
+[15:22] just start posting I did not promote it
+[15:25] at all and it still gets fused like it
+[15:28] people find it on Fountain without me
+[15:31] ever directing anyone from any other app
+[15:34] to Fountain that's like it's like really
+[15:36] organic and natural growth inside of the
+[15:39] fountain La without
+[15:41] anything uh I have to do better on the
+[15:44] clip side I have to create Clips I I
+[15:46] want to also get people to listen on
+[15:49] Fountain as you said but till now like
+[15:51] my first month basically I did not do
+[15:54] anything and I still have organic growth
+[15:55] there it's like it's a it's really cool
+[15:57] an app
+[15:59] um maybe another question where do you
+[16:02] see in general monetization in like 10
+[16:05] years for Content creators I I have
+[16:08] there are a lot of different
+[16:10] possibilities for Content creators to
+[16:12] make money there's ad share revenue from
+[16:14] Twitter and YouTube there is brand deals
+[16:17] there is value for Value uh there are so
+[16:20] many different possibilities now where
+[16:22] do you see uh content creators getting
+[16:25] their money in like 10
+[16:27] years yeah yeah it's a good question I
+[16:29] think that what we see now is a range of
+[16:32] different options available for not just
+[16:34] podcasters but content creators more
+[16:37] broadly to you know get paid for their
+[16:39] work and I think that will still be the
+[16:42] case in 10 years time you know it's
+[16:43] important that creators do have options
+[16:46] because um you know certain creators are
+[16:49] comfortable with certain things and some
+[16:50] aren't and also some creators will have
+[16:52] the opportunity to monetize through
+[16:54] certain channels and some won't an
+[16:56] example of that would be you know ad
+[16:58] advertising if you don't have a
+[17:00] significant audience you're not going to
+[17:02] make any significant Revenue through
+[17:04] advertising because the cpms are so low
+[17:07] right average CPM for for podcasts is
+[17:10] like between 20 and $30 so you need a
+[17:13] thousand listeners to to to get that
+[17:15] money and that's that's you know it's
+[17:17] very difficult um and yeah same thing as
+[17:22] well for like you know more sponsored ad
+[17:23] reads as well you know you have to be
+[17:25] able to go to potential clients
+[17:27] customers and say hey look at this
+[17:28] audience I have look at the traction I
+[17:30] have the engagement is amazing there's a
+[17:32] perfect fit between your brand and the
+[17:34] audience that I have and I have you know
+[17:37] however many downloads per week and you
+[17:39] know that's that's quite a a significant
+[17:42] goal for for someone in their early
+[17:43] stages to get to um it's really
+[17:46] interesting to see what's happened with
+[17:48] you know the the bigger deals in in
+[17:51] particularly podcasting in the last year
+[17:53] or two um you know Spotify as we know
+[17:56] have been throwing lots of money at the
+[17:58] content creators um to you know create
+[18:02] content exclusively exclusively for
+[18:04] their platform and it's going to be
+[18:07] really interesting to see when Joe
+[18:08] Rogan's deal which I believe is actually
+[18:10] up for uh renewal or renegotiation this
+[18:13] year you know are there any metrics that
+[18:16] come out which really expose whether his
+[18:19] you know audience has actually grown
+[18:20] through the deal that he's done with
+[18:22] Spotify um I'd say that it probably has
+[18:25] but it won't have grown I think at the
+[18:26] same scale as it was growing before uh
+[18:29] when he didn't you know he wasn't tied
+[18:30] to a single
+[18:32] platform um so yeah that that's really
+[18:35] interesting and you can see as well that
+[18:36] Spotify have really um dialed back on
+[18:38] their investment into those type of
+[18:40] deals just because so many of them have
+[18:42] you know failed really badly um so yeah
+[18:47] and I I do believe that you know value
+[18:50] for value is is going to be um a very
+[18:53] popular way for creators to monetize and
+[18:56] I think the great thing about that is
+[18:58] it's it's accessible for anyone you know
+[19:00] you don't have to have a large audience
+[19:02] to be making money and people often ask
+[19:05] like you know how many what percent of
+[19:07] your listeners actually are going to
+[19:09] support and I think Adam Curry's got
+[19:10] some interesting stats here he reckons
+[19:12] it's around 4% of your total listeners
+[19:14] will support you um which doesn't sound
+[19:17] like a lot but you know it's it comes
+[19:20] back to you know there's no ceiling on
+[19:23] how much you can send to a podcaster
+[19:25] it's not like buy me a coffee where you
+[19:27] can set hey look it's $5 or $10 or it's
+[19:31] patreon where it's like hey I've got a
+[19:32] monthly subscription it's like $10 for
+[19:35] this $20 for that you know it's
+[19:37] completely optional and it's Limitless
+[19:39] so I think that that's a great thing
+[19:42] because it really encourages podcasters
+[19:44] to optimize for creating value for their
+[19:46] biggest fans and that value will be
+[19:48] returned as long as you ask in the right
+[19:50] way and you do it
+[19:52] consistently um and I I do believe also
+[19:55] that value for Value will be integrated
+[19:56] in in many other different types of um
+[19:59] products and mobile applications Beyond
+[20:01] podcasting as well you know we're
+[20:02] already seeing that with with writing
+[20:05] with video um there's so many different
+[20:07] areas it can be applied in I also
+[20:10] believe that we're going to see a lot of
+[20:11] democratization in value for Value in
+[20:13] the next few years you know when we
+[20:15] started uh you know you had to have
+[20:18] Bitcoin you had to have SATs in a
+[20:19] lightning wallet in order to be able to
+[20:21] partake in this economy uh you know we
+[20:23] introduced you know the listen to earn
+[20:25] idea ultimately to uh give people some
+[20:28] sets give people some liquidity to start
+[20:31] um supporting a podcast and have that
+[20:33] experience of it particularly for those
+[20:35] you know who are newcomers uh who don't
+[20:37] have any Bitcoin experience and I think
+[20:40] the fountain app you see today of course
+[20:42] like sats are still the standard where
+[20:44] you look across the app all the payments
+[20:46] are Den denominated in Satoshi we are
+[20:49] slowly changing that um we we believe
+[20:52] that Fountain will always be powered by
+[20:54] Bitcoin like we're not going to
+[20:55] compromise on that because Bitcoin like
+[20:58] lightning allows us to do things with
+[20:59] money that traditional Fiat money can't
+[21:01] do such as streaming payments you know
+[21:03] micro payments um being able to split
+[21:06] payments to multiple recipients all of
+[21:08] these things you cannot do with a credit
+[21:10] card you cannot do with PayPal um the
+[21:13] the question is how do we open that
+[21:15] experience up to as many kind of like
+[21:18] you know new bitcoiners or non-b
+[21:20] bitcoiners as possible by making it
+[21:22] really easy to be on boarded into this
+[21:24] ecosystem so that all you need is to
+[21:26] like tap the side of your phone to
+[21:28] deposit uh from your bank account or
+[21:30] from Apple pay you know into your
+[21:32] fountain wallet and start supporting I'm
+[21:35] super excited to announce that this
+[21:37] podcast just got the first ever sponsor
+[21:41] I just started the podcast out like
+[21:43] three months ago and now we have 21
+[21:46] Bitcoin as a partner for this podcast 21
+[21:51] Bitcoin is Bitcoin only from day one and
+[21:54] they teach and preach self custody this
+[21:57] is this is my goto exchange when someone
+[22:01] asks me oh where can I buy my Bitcoin
+[22:04] from this is the easiest entry for
+[22:07] bitcoiners and if you want lower fees
+[22:10] Plus at the same time support this
+[22:12] podcast use code Robin and click the
+[22:15] link in the
+[22:17] description interesting so you will keep
+[22:21] the default value Sates or will it be
+[22:25] some other U default unit of account and
+[22:29] you can choose whether you come whether
+[22:31] it's coming from a Bitcoin wallet or
+[22:33] it's coming from an an field
+[22:36] wallet well yeah that that Still Remains
+[22:39] to be seen you know that that part of
+[22:41] the work has not been done yet in an
+[22:43] ideal world upon you know First
+[22:45] downloading Fountain you can just choose
+[22:47] whether I want to see payments uh or see
+[22:49] currencies in Satoshi in dollars and
+[22:51] pounds and euros and Yen whatever you
+[22:54] choose But ultimately on the back end
+[22:56] those payments are still going to be
+[22:57] powered by bit bit
+[22:59] coin that that's uh interesting what
+[23:02] like maybe you can share like what role
+[23:05] uh did you see by now Fountain playing
+[23:08] in Orange pilling uh people because uh I
+[23:12] think most people that find a fountain
+[23:16] are bitcoiners but probably not all of
+[23:19] them probably some found Fountain
+[23:21] without having uh the Bitcoin head going
+[23:24] on in in the fountain do you see
+[23:26] podcasters from
+[23:28] not the Bitcoin World also being on
+[23:30] Fountain and becoming friendlier to
+[23:32] bitcoin or how do you do you have some
+[23:35] stories or experience to share in that
+[23:38] regard yeah for sure I think that in the
+[23:40] early days of Fountain you know going
+[23:42] back two years or so um we saw you know
+[23:46] the idea of value for Value spread
+[23:49] organically because it was being passed
+[23:50] on from the podcast to The Listener um
+[23:53] and it started I'd say mostly with
+[23:56] podcasts which were about Bitcoin right
+[23:58] because the hosts were already
+[24:00] passionate they were already believers
+[24:02] they did not need to be convinced and
+[24:03] they were excited about the application
+[24:05] of this new technology and wanted to
+[24:06] share it with other people um we have
+[24:08] seen that change over time I think that
+[24:11] the most important thing is that you
+[24:14] know we're not we're not necessarily
+[24:16] relying on podcasters or listeners to
+[24:20] orange pill other people on bitcoin
+[24:22] right because you can actually orange
+[24:24] pill someone based on hey there's a much
+[24:26] better podcast app you could be using um
+[24:29] or you know hey there's a podcast app
+[24:31] where the things that you do whether it
+[24:33] be listening to podcasts creating Clips
+[24:36] creating playlists you can get rewarded
+[24:39] for those things and I think those those
+[24:41] promises are things that resonate with
+[24:43] people who aren't bitcoiners so it's
+[24:45] almost like I suppose we we think of
+[24:48] Bitcoin as a as as a or Fountain as a
+[24:50] bit of a trojan horse for Bitcoin you
+[24:52] know um we're we're not primarily
+[24:55] marketing ourselves as a Bitcoin app
+[24:58] um of course it's powered by Bitcoin the
+[25:00] experience is you know made possible
+[25:02] because of Bitcoin but the way that
+[25:04] people discover Fountain is is is not
+[25:06] necessarily for that reason it's for the
+[25:08] things I said you know a better app a
+[25:10] way to be rewarded for your your time
+[25:12] fairly um so yeah that's been really
+[25:15] cool to see and I think you know in the
+[25:17] particularly in the last year or so
+[25:18] we've seen a lot more podcasters um I
+[25:21] suppose join Fountain and start getting
+[25:23] behind it as a platform that aren't in
+[25:26] the Bitcoin space and initially we saw
+[25:28] this in let's call it Bitcoin adjacent
+[25:31] categories things like Finance
+[25:34] technology trading um you know there's a
+[25:37] lot of those types of podcasts which are
+[25:39] you know popular on Fountain but I think
+[25:42] we're also seeing that spill over into
+[25:44] to other categories as well like you
+[25:46] know Sports and gaming you know in a
+[25:48] sense those are categories that are also
+[25:50] connected to uh to Bitcoin in some way
+[25:53] because there you know of the cultural
+[25:55] spillover of Bitcoin into those um those
+[25:58] genres and categories um but yeah that
+[26:01] we're definitely seeing seeing more of
+[26:03] that yeah I mean in some way everything
+[26:06] is uh kind of connected to bitcoin if
+[26:08] it's true money and it will like I have
+[26:11] on my BIOS standing that I will not stop
+[26:15] tweeting about Bitcoin till it's the
+[26:17] base layer of our financial system so
+[26:19] then it will touch just everything and I
+[26:22] think also this uh having satous for
+[26:26] listening and creating clips and then
+[26:28] all the experience on Fountain could be
+[26:29] a way to
+[26:31] incentivizing Breaking the Habits Like I
+[26:34] think there are people that like oh I
+[26:35] listen to all my podcast only on YouTube
+[26:37] I listen to all my podcast only on
+[26:39] Spotify they are doing it for years and
+[26:42] they're so used to it and breaking that
+[26:44] habit needs some sort of incentive there
+[26:47] like if if either they are having a bad
+[26:50] experience with the platform and YouTube
+[26:52] and Spotify I think they are doing a an
+[26:56] hard job of not giving them a reason to
+[26:58] leave their platform and with a bad
+[27:01] experience uh so they need some
+[27:03] incentive to leave it and I think
+[27:06] getting paid for listening even if it's
+[27:09] just a few sets and this few sets can be
+[27:11] worth a lot a lot of money in like 10
+[27:14] years and 20 years of time uh can break
+[27:18] this network effect of of this uh big uh
+[27:21] Network apps and podcasting
+[27:24] apps um yeah I just on that I'd say as
+[27:27] well that people people I think resonate
+[27:31] with the idea that um you know the big
+[27:33] tech companies are essentially you know
+[27:36] buying and trading our attention without
+[27:39] our permission you know through the the
+[27:42] advertising uh businesses that are built
+[27:44] on platforms like Twitter and Tik Tok
+[27:46] and Facebook you know you know our
+[27:48] attention is bought and sold and we
+[27:50] we're not party to that at all you know
+[27:52] we just we're kind of we're just given
+[27:55] the ads um we're expected to to I guess
+[27:58] put up with them you know we're even
+[28:00] asked on Twitter to to pay to not see
+[28:02] the ads which is I think going to be
+[28:04] more common across more Platforms in the
+[28:06] future and I think that's just not the
+[28:07] way it should work you know I understand
+[28:10] that you know advertising is kind of
+[28:12] like a necessary evil for um for
+[28:14] creators to get paid and some of these
+[28:15] platforms to get paid but it shouldn't
+[28:17] come at the expense of The Listener and
+[28:19] I think listeners are or users more
+[28:21] broadly are are frustrated with this and
+[28:23] you know they see the opportunity to you
+[28:25] know use a podcast app like Fountain
+[28:28] which you know we openly say you know we
+[28:31] you know we value your time you know the
+[28:33] more time you spend listening on
+[28:34] Fountain contributing to the community
+[28:37] by you know sharing clips and playlists
+[28:39] and things like that providing value for
+[28:41] other listeners you should be rewarded
+[28:43] for that yeah I hope we're going in the
+[28:46] kind of the future Direction where it's
+[28:49] uh Centric to the users where um the
+[28:53] atttention is not sold as you said and
+[28:55] that we are having a value for Value
+[28:58] economy plus maybe uh brands are making
+[29:01] directly deals with the content creators
+[29:04] that suit like for example Bitcoin
+[29:06] podcast with a Bitcoin Hardware wallet
+[29:08] like uh like that's just is with YouTube
+[29:11] and also Twitter and also other
+[29:13] platforms you just throw ads around the
+[29:16] platform that uh is kind of suiting and
+[29:19] kind of not suiting depending on how how
+[29:21] much data they are gathering and it's
+[29:24] like just trading the data trading the
+[29:26] attention and uh I think it's great if
+[29:28] you have value for Value economy um on
+[29:33] the future of content creators I have
+[29:35] one more question for you uh I heard it
+[29:38] the other day a snippet where they
+[29:39] saying like oh it was the first wave
+[29:41] with Microsoft and Apple for building
+[29:44] the platforms the hardware to to make it
+[29:46] possible Then There came the the apps on
+[29:48] top of it and it was what the the me
+[29:50] next big wave of of companies like
+[29:53] Facebook Twitter and all the big social
+[29:56] media apps and and Tik Tok and now the
+[29:59] the next stage is where content creators
+[30:02] are in the center because if you have
+[30:04] all the pl um the the outlet where do
+[30:08] content creators how does the future for
+[30:10] Content creators look like in the ne
+[30:12] next 10 20 years can they be the next
+[30:15] Googles and Facebook because I see for
+[30:18] example Mr Beast like having an amazing
+[30:21] great audience beating Netflix with
+[30:24] viewership numbers having an amazing
+[30:27] economy and Empire around him I mean he
+[30:30] is just one example and there like Joe
+[30:32] Rog basically is also one one example as
+[30:34] you mentioned before where content
+[30:36] creators are more and more in the center
+[30:38] of those economies and uh they are
+[30:41] getting to be all of the sudden billion
+[30:43] dollar companies just creating content
+[30:46] how do you see that coming the next
+[30:49] years yeah it's a good question I think
+[30:53] you know an interesting question to
+[30:54] think about is what would you be be
+[30:57] worth without Mr Beast you know what
+[31:00] would spotify's position in podcasting
+[31:02] be without Joe Rogan um like you said
+[31:05] these businesses have put these creators
+[31:07] at the at the heart of their business to
+[31:10] um to to drive growth and and to
+[31:13] increase their revenues and they're
+[31:15] going to have to continue to do that um
+[31:18] but the stakes are getting so much
+[31:19] higher you know I think creators
+[31:21] intuitively know at least the ones on
+[31:23] the larger scale that actually they are
+[31:24] important and they do have sway over
+[31:26] these um kind of policies or kind of
+[31:29] features or the way that these apps work
+[31:32] and you know that's good in a sense
+[31:34] because it it kind of forces these
+[31:36] bigger platforms to be more creative
+[31:38] focused and I think in being more
+[31:40] creative focused that hopefully means
+[31:42] that they are um you know relying more
+[31:45] on creators for their income instead of
+[31:48] advertisers but advertisers are part of
+[31:50] this ecosystem as well they're part of
+[31:51] the formula um so yeah it very difficult
+[31:55] to say um you know I think that I think
+[32:00] that value for Value uh is a is a remedy
+[32:03] for this um I do think that value for
+[32:06] Value maybe uh takes a bit of time to to
+[32:09] build the momentum that it needs to be
+[32:11] able to challenge some of these bigger
+[32:12] platforms and persuade some of the
+[32:14] bigger creators to come over um but I
+[32:17] think ultimately you know it's it's not
+[32:20] a this one or the other one choice you
+[32:22] know I think that that's what we're
+[32:25] seeing at the moment is creators are
+[32:26] existing across multiple platforms at
+[32:29] least the ones you know without these
+[32:31] kind of exclusivity deals are using
+[32:33] multiple platforms and they need to
+[32:34] right because they can they can drive
+[32:36] reach and they can drive engagement in
+[32:38] different ways across different channels
+[32:40] um so yeah it's you know going deciding
+[32:44] to you know put value for value at the
+[32:46] heart of your strategy as a Creator is
+[32:48] you know you're not compromising and
+[32:49] you're not limiting yourself anywhere
+[32:50] else you're just giving yourself another
+[32:52] uh Avenue another opportunity to to grow
+[32:54] and to learn and it's also like the idea
+[32:59] of having a standard A single standard
+[33:02] in between and having apps built on that
+[33:05] standard and can like being able to
+[33:08] follow a Creator wherever you want just
+[33:12] having the best client for your
+[33:14] experience but the creator has Nostra as
+[33:17] the single source of like the protocol
+[33:19] layer and can contribute there and can
+[33:23] spread it everywhere that's an amazing
+[33:25] thing also as a
+[33:28] as a perspective from a content creator
+[33:30] because I have tools that allow me to
+[33:32] spread my content all over and sometimes
+[33:35] those tool fail those tools are
+[33:37] expensive it would be just way better if
+[33:40] there's like one protocol one layer one
+[33:43] uh one way to upload it and then it
+[33:45] spread all over and the best client wins
+[33:48] the the people over uh that would be
+[33:50] basically the idea that uh I would love
+[33:53] the most um in that sense what what is
+[33:57] next for like Fountain and uh for the
+[34:01] the great economy on
+[34:03] Fountain I think that you know the the
+[34:07] top priority for Fountain always has to
+[34:09] be focusing on doing the the basics
+[34:11] brilliantly well um you know we we have
+[34:13] to deliver the fundamentals we can't get
+[34:16] ahead of ourselves and um you know kind
+[34:19] of get lost in all these new Innovative
+[34:21] new features if we can't do the basics
+[34:23] right so that's always going to be
+[34:24] number one um I think secondly what I
+[34:27] mentioned before about you know making
+[34:30] value for Value more democratic more
+[34:32] accessible for people um almost you know
+[34:34] like debitcoin ising it on the front end
+[34:38] um so that uh you know it does resonate
+[34:40] with a larger audience is great um
+[34:42] that's something we're going to continue
+[34:43] to do once the you know once the
+[34:46] technology is there for us to do it in a
+[34:47] compliant way um the other thing too is
+[34:51] um yeah just really focusing on that
+[34:54] goal of like how can we help podcaster
+[34:57] and creators more broadly grow
+[34:59] organically um by getting them to really
+[35:02] power their content um through their
+[35:04] Community through their fans um so
+[35:07] building more tools and features that
+[35:09] allow that organic growth to happen um
+[35:12] and I think the last thing as well is
+[35:14] looking at how value for Value can be
+[35:16] applied to uh other uh mediums so you
+[35:20] know we've not been quiet about Our
+[35:22] intention to go into audio books um I
+[35:24] think that audio books are you know an
+[35:27] area where it's kind of uh ripe for
+[35:31] Innovation uh if you look at what
+[35:33] audible is doing what other kind of
+[35:35] audiobook um apps providers are doing is
+[35:39] quite limiting um again they have like a
+[35:42] very utilitarian purpose where you go
+[35:45] onto audible you buy your audiobook you
+[35:47] listen to it and then you close the app
+[35:49] there's no kind of Engagement there's no
+[35:52] social sharing there's no community and
+[35:55] there's just kind of I guess no Spirit
+[35:57] at all to it and we want to change that
+[36:00] we've kind of already started that
+[36:02] process with podcasting and we're seeing
+[36:03] that start to happen now podcasting is
+[36:06] like you know started to come alive
+[36:08] through through what we're doing or at
+[36:09] least we hope so and yeah we want to
+[36:11] apply that to audio books and
+[36:13] potentially other mediums in the future
+[36:14] too a that's great uh before we go uh to
+[36:18] our end routine um what's your take on
+[36:20] Bitcoin in like the next few years uh do
+[36:23] how do you see the Bitcoin ETF playing
+[36:25] into the role do you see uh Bitcoin
+[36:29] adoption growing do you see any uh uh
+[36:33] countries following El Salvador what's
+[36:36] your general take on the future of
+[36:38] Bitcoin in like the near-term five
+[36:42] years yeah so I think that the the ECF
+[36:45] is is you know it's a good thing for
+[36:47] Bitcoin um I think we maybe over
+[36:50] anticipated the shortterm impact of the
+[36:52] ETF particularly when looking at price
+[36:54] but obviously price is not everything
+[36:57] um I think as well like as we kind of
+[36:59] come towards the harving in uh you know
+[37:01] spring this year we should also see that
+[37:04] kind of upward price momentum but again
+[37:06] price is not everything I think actually
+[37:07] the best advert for Bitcoin is is
+[37:10] adoption of Bitcoin by nation states
+[37:12] like El Salvador so I think if there's
+[37:14] other you know countries who are going
+[37:16] to follow their lead um you know that is
+[37:19] brilliant for really uh authenticating
+[37:22] Bitcoin um in in a way that price can't
+[37:25] or an ETF can't right
+[37:27] um so yeah that that's my hope that's
+[37:29] what I hope to see and there are
+[37:31] obviously economies around the world who
+[37:33] are in desperate need for Bitcoin we
+[37:34] know that very well um so yeah that that
+[37:38] would be my hope um but yeah I think you
+[37:41] know more broadly you know thinking
+[37:43] about you know adoption of Bitcoin
+[37:45] lightning this is also something that we
+[37:47] hope to see uh spread rapidly and of
+[37:50] course you know um you know nation
+[37:53] states adopting Bitcoin as a standard
+[37:55] has a massive impact on adoption of
+[37:57] lightning too you know we've seen that
+[37:58] in El Salvador if you look at like the
+[38:00] number of like transactions or like
+[38:02] adoptions on uh adoption of uh lightning
+[38:05] wallets and the volume of payments uh in
+[38:07] that time it it spiked massively and um
+[38:11] you know that's that's definitely a
+[38:12] great thing um and I I also just think
+[38:14] that you know hopefully there are going
+[38:16] to be more big companies that build
+[38:19] Bitcoin into their strategy um I'm
+[38:21] personally a massive fan of what cash
+[38:23] app are doing because they ultimately
+[38:24] have you know a money app which is you
+[38:27] know is really built on bitcoin but uh
+[38:30] you know is is not necessarily um you
+[38:33] know you might not think that you might
+[38:35] be using cash app but not as you know
+[38:37] not using it for its Bitcoin properties
+[38:39] at all but you know you also have the
+[38:41] option to kind of make payments um over
+[38:43] the Bitcoin lightning Network you know
+[38:45] which is amazing there's layers to that
+[38:47] product that I think people will
+[38:49] discover over time and uh yeah I hope we
+[38:52] see more of that in in the world of tech
+[38:55] oh great um we have an end routine in
+[38:59] the podcast where the previous guest
+[39:00] asked a question for the next guest uh
+[39:03] and it's it's it's an interesting one I
+[39:06] could not even uh answer it myself
+[39:10] uh what what would make the central
+[39:13] banks sell gold and buy Bitcoin yeah
+[39:17] it's a big question um it's a big
+[39:21] question yeah I don't know it's very
+[39:24] difficult one to answer I think um
+[39:28] um yeah I'm kind of stuck on that I mean
+[39:31] the the bigger thing is also when when
+[39:34] when central banks realize oh
+[39:37] Bitcoin is so coming that they realize
+[39:40] they have to sell gold and and have to
+[39:42] buy Bitcoin it's kind of are they really
+[39:44] giving up control because why do we need
+[39:46] a central bank if if we have a Bitcoin
+[39:50] standard in that sense it's also an
+[39:52] interesting question as it's the the
+[39:55] background is it comes from a previous
+[39:57] guest and but that time the the episode
+[39:59] will already be out and he is also big
+[40:03] gold guy like he's a gold and Bitcoin
+[40:07] and we had some some debates and I asked
+[40:10] him in the end what would what would
+[40:12] make you go Bitcoin only and sell all
+[40:15] your gold and he said if central banks
+[40:18] uh start selling gold in buying Bitcoin
+[40:22] uh and then he gave the questions to to
+[40:24] the next guest like what
+[40:27] what needs to happen in order to for
+[40:29] that to to to to happen but I like
+[40:32] that's that's an interesting question to
+[40:34] think about but in in in some sense if
+[40:38] Bitcoin is really s money it will come
+[40:40] eventually I think but yeah let's
+[40:43] see um where can people find you the
+[40:46] best uh where can people get in touch
+[40:48] with
+[40:49] you yeah so you know if you're if you're
+[40:53] not listening on Fountain already you
+[40:54] can download fountain on IOS and Android
+[40:57] through the app stores uh you can find
+[40:59] us on fountain. FM to learn more uh you
+[41:01] can also follow us Fountain fora on
+[41:04] Twitter um you can also follow me
+[41:07] personally Nick molster on Twitter um
+[41:10] and yeah give Fountain to go if you're
+[41:12] not using it already um get in touch and
+[41:14] let us know what you think yeah it's
+[41:16] definitely worth uh trying out and also
+[41:18] putting the podcast on there it's an
+[41:21] great experience thank you Nick thanks
+[41:24] having me Robin
+[41:27] [Music]

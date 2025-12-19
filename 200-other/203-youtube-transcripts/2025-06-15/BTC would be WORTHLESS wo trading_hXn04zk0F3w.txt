@@ -1,0 +1,1031 @@
+Title: BTC would be WORTHLESS w/o trading
+Video ID: hXn04zk0F3w
+URL: https://www.youtube.com/watch?v=hXn04zk0F3w
+Date Saved: 2025-06-15 11:57:26
+--------------------------------------------------
+
+[00:00] for every functional economy you need
+[00:02] trading without Traders you don't have
+[00:04] any price Discovery you don't have any
+[00:05] exchange of assets your Bitcoins will be
+[00:08] completely worthless because you will
+[00:09] never be able to sell them it's a
+[00:11] Bitcoin only product this was very
+[00:13] important for us no one is really trying
+[00:14] to remove this risk when trading are you
+[00:17] a bitcoiner or not the time where money
+[00:19] was just raining everywhere you need to
+[00:21] be really really careful with not
+[00:23] breaking anything on bitcoin what are
+[00:26] DLCs today we cover a topic that I
+[00:29] usually uh like a never covered actually
+[00:32] at
+[00:32] dlc's uh and probably that's the reason
+[00:36] why because I am a hler like I don't
+[00:39] trade I don't do anything like that so
+[00:42] it's a a topic that's a little bit far
+[00:44] off uh my personal realm but I thought
+[00:46] like it's still an interesting topic and
+[00:48] it's still like a Bitcoin Topic in in
+[00:50] general and my goal with the podcast is
+[00:52] like to have the widest range of Bitcoin
+[00:54] guests on the podcast so I also have to
+[00:57] invite people that are maybe a little
+[00:59] bit outside of my personal uh experience
+[01:02] so let's get started with the question
+[01:04] like what are dlc's and pretend that
+[01:08] that I'm 5 years old and I don't
+[01:10] understand
+[01:10] anything good well to explain DCS for a
+[01:14] 5-year-old I guess you must be a really
+[01:16] smart 5-year-old but let's go one step
+[01:19] back because you you addressed an
+[01:20] interesting topic about hling Bitcoin
+[01:23] and I I went to a talk from Yuri I
+[01:27] forgot his surname I'm sorry cyer Punk
+[01:31] um he gave a talk about derivatives
+[01:33] trading at Bitcoin de heck days at BTC
+[01:37] PR last year and he started with a bold
+[01:39] statement and said trading is
+[01:43] [ __ ] and I think many bitcoiners
+[01:47] particularly holders are related
+[01:50] relating to that they say no I'm not
+[01:52] trading I'm I'm hling but the thing is
+[01:54] that for every functional economy you
+[01:56] need trading without Traders you don't
+[01:59] have any price Discovery you don't have
+[02:01] any exchange of assets your Bitcoins
+[02:04] would be completely worthless because
+[02:06] you will never be able to sell them so
+[02:08] you really really need the trading part
+[02:12] and
+[02:13] um anyway maybe we go into that a little
+[02:16] bit later to answer your question what
+[02:18] is a DLC a DLC is nothing else than a a
+[02:22] technology which enables you to build
+[02:24] contracts on bitcoin and they are
+[02:26] enforcable on bitcoin so for your
+[02:28] 5-year-old
+[02:30] if you um have a toy and the other one
+[02:33] has a candy and you want to exchange
+[02:36] that you say Hey you can play with my
+[02:38] toy if you give me your candy usually
+[02:41] what happens is you take the candy and
+[02:42] then run away and you never never hand
+[02:46] over the toy but with a DLC with that
+[02:49] contract you can ensure that the rules
+[02:51] you set out in the first place are
+[02:53] really executed so that you hand over
+[02:56] your toy and you get the candy at the
+[02:57] same time or Nothing at All gets
+[03:00] exchanged and how does this get ured is
+[03:03] there like a third party involved that
+[03:05] handles that or is it on the Bitcoin
+[03:07] blockchain like how does this
+[03:10] work yeah exactly so there is a third
+[03:13] party involved but it's an independent
+[03:14] third party and that says that um it's a
+[03:19] bit hard to relate to the example we
+[03:21] just had but it just says that an event
+[03:23] happened or it didn't happen uh let's
+[03:26] just say for this example that you
+[03:27] cannot eat that candy
+[03:32] without okay having a hard time coming
+[03:35] up aable example I cannot eat that candy
+[03:38] without knowing a certain piece of
+[03:40] information and the Oracle which is your
+[03:43] kindergarten uh teacher she will just
+[03:47] say all right um this event happened you
+[03:50] have the candy you can eat it now and
+[03:52] the other party can use the toy and only
+[03:55] if she does that it's actually usable so
+[03:58] in a more technical sense send um a
+[04:01] signature which you need to be able to
+[04:04] use whatever you
+[04:06] receive and with that you like let's
+[04:09] just make myself an example so I fully
+[04:12] understood it like let's make like two
+[04:15] uh people in the school they're like uh
+[04:18] let's bet five candies each uh if it
+[04:20] tomorrow rains and then they go to the
+[04:23] uh teacher they give both the five
+[04:25] candies to the teacher to the
+[04:26] Independent party and then when tomorrow
+[04:29] it actually rains the one says it rains
+[04:31] the one says it does not rain and then
+[04:33] the one that uh said it will rain uh
+[04:36] actually gets the 10 candies uh of both
+[04:39] of them and both don't have the
+[04:42] possibility to back out because the
+[04:43] candies are already with the teachers
+[04:45] with the third party uh side is that did
+[04:48] I understand it right no it's exactly
+[04:51] not that way so this independent third
+[04:54] party doesn't have any knowledge nor
+[04:57] access to your funds so if if the two
+[05:01] kids are betting about if it's going to
+[05:03] rain tomorrow what they do is they lock
+[05:05] up both their candies somewhere and they
+[05:08] say all right we can only take it if the
+[05:10] teacher says it actually rained or it
+[05:12] did not rain and the teacher actually
+[05:15] doesn't even know about the two parties
+[05:17] betting it because it's somewhere in the
+[05:20] drawer and they need they need the
+[05:22] secret from the teacher so there is no
+[05:25] no other third party really involved in
+[05:28] that um in that bet
+[05:30] maybe you can do a very very simple a
+[05:32] little bit more complex for a 5-year-old
+[05:34] but a more realistic example is a coin
+[05:36] flip where you say all right you Robin
+[05:39] say hats I say tail we lock up our money
+[05:42] in this multi where only the two of us
+[05:44] have access to it and only both of us
+[05:47] can either spend the money or none of us
+[05:50] and then what we do is we create two
+[05:53] transactions from it which are not yet
+[05:56] spendable um one transaction says you
+[05:58] get all the funds um or the other
+[06:00] transaction says I get all the funds
+[06:02] depending on whether it's heads or tail
+[06:05] and then there is an oracle which is a
+[06:08] third party service and all it does is
+[06:10] it 247 asserts to coin flips maybe
+[06:14] there's a a coin flip every hour or
+[06:16] every minute and it just says all right
+[06:18] coin was hats coin was tail and it
+[06:20] publishes signatures and then what we do
+[06:23] is we can unilateral so completely
+[06:26] independent from each other take that
+[06:28] signature to event and put it into our
+[06:32] in one of those transactions which then
+[06:34] becomes valid and then we can spend
+[06:36] it that's makes a lot more sense now for
+[06:39] me thank you for giving this example uh
+[06:42] and I think we have now a a basic
+[06:45] understanding on dlc's is U let's get
+[06:47] because you triggered uh you you
+[06:49] mentioned it before like uh trading and
+[06:51] a lot of Bitcoin hodlers actually say
+[06:53] that there's this uh thing where like
+[06:55] trading and then it gets [ __ ]
+[06:57] because you can reble the this I think a
+[07:00] really famous meme in in the Bitcoin
+[07:02] Community um maybe there's like a little
+[07:04] bit of a also disconnect between like
+[07:07] day trading short-term trading and just
+[07:10] like trading in general because what I'm
+[07:13] doing in in with a podcast we can also
+[07:16] say like it's a kind of a trading
+[07:18] because I give uh uh value with a
+[07:21] podcast in a video form and the others
+[07:23] give me time with the time they might
+[07:25] spend something on the sponsors or on
+[07:27] the YouTube links that way I could
+[07:29] indect direct money for that like
+[07:31] everything we are doing is kind of a
+[07:32] trade in life everything is somewhere a
+[07:35] trade if I give someone time I give
+[07:37] someone money with with no trade
+[07:40] obviously we don't have an economy
+[07:42] because everybody is not doing anything
+[07:44] with each other so that's 100% uh right
+[07:48] um but like I think lot of the people
+[07:50] are like okay I just want to have my
+[07:53] Bitcoin and maybe exchange it for later
+[07:55] like just buy something with it which is
+[07:58] also a trade uh but it's like not a not
+[08:00] a shortterm trade like oh that's bet
+[08:03] like 50% of the netw worth on some
+[08:05] outcome tomorrow or something like that
+[08:07] um let's get a little bit in that topic
+[08:09] what do you think of of of that or like
+[08:11] do you also see the discon the the
+[08:14] difference between short-term day
+[08:15] trading and long-term
+[08:17] trading yeah there's totally a
+[08:19] difference and I think the the related
+[08:23] terminologies are trading versus
+[08:25] investing obviously you can then say
+[08:27] does shortterm trading or day trading
+[08:29] and long-term trading um I guess most
+[08:33] hodlers are more on the investing side
+[08:35] of things they invest in Bitcoin and
+[08:36] they hold it for a long time and sell it
+[08:39] or if even ever going to sell it or
+[08:41] borrow against it in the future um and
+[08:44] then there are the day traders who try
+[08:46] to make money out of um the the Bitcoin
+[08:51] volatility then so there are those who
+[08:54] really like to take risk they think they
+[08:56] know how the price moves and just take
+[08:58] some money
+[09:00] um but there are also the conservative
+[09:01] ones who' like to protect themselves and
+[09:04] those are most of the time overlooked
+[09:06] and I think they are very very
+[09:08] interesting because for example a a
+[09:10] business like a
+[09:12] minor it has to pay for electricity and
+[09:15] it has to pay for the machines and maybe
+[09:18] employees but the Bitcoin price is
+[09:20] volatile and they cannot immediately
+[09:23] spend those Bitcoins or they don't
+[09:25] immediately have the rewards so what
+[09:27] they should do is they to take the
+[09:30] Bitcoin they have and hch it get a
+[09:32] downside protection against the bit the
+[09:35] US dollar price so that they can pay for
+[09:39] the um the upcoming bills and that's
+[09:43] that's basically nothing else than
+[09:45] shorting Bitcoin with a leverage of one
+[09:48] or maybe even more a higher leverage but
+[09:51] you're shorting Bitcoin to be to get a
+[09:53] downside protection until a certain
+[09:56] price yeah and this is I think there are
+[09:59] a lot of things you you can do I was
+[10:02] before Bitcoin I was actually in the
+[10:04] stock market and I mess around a little
+[10:07] bit with shorts and long positions with
+[10:10] with stop things and stuff like that I
+[10:11] was not successful with it because I did
+[10:14] understand it also fully just to very
+[10:17] transparent uh and for myself it's just
+[10:19] like like for me it's like I'm I'm
+[10:21] saving in Bitcoin I see as my savings
+[10:24] account and then we try to just provide
+[10:26] value and get money from from that side
+[10:27] but obviously there are a lot of use
+[10:29] cases for that because there was no use
+[10:31] case for it obviously then nobody would
+[10:33] do it uh long term um for the dlc's what
+[10:37] like um what do you see as like the most
+[10:40] broad use cases that people will do with
+[10:43] it like what are the like the the
+[10:46] mainstream use obviously nothing in
+[10:48] Bitcoin is mainstream because Bitcoin
+[10:49] itself is is not mainstream but inside
+[10:52] of the Bitcoin Community inside of the
+[10:54] DLC uh Community what what are the like
+[10:57] the the biggest use cases uh
+[11:01] that that's a good question um I guess
+[11:05] if you go really really abstract the
+[11:07] biggest use case is betting betting on
+[11:10] anything it could be um sports betting
+[11:13] it could be betting on the event like
+[11:16] prediction markets uh could be political
+[11:18] events betting uh but it could also be
+[11:21] betting on financial products and that's
+[11:23] basically what trading is and if I think
+[11:27] there are only two main companies out
+[11:30] there who are building on Doc's right
+[11:32] now and that is atomic Finance who's
+[11:34] building covered C options and now also
+[11:37] put options um and usus we build
+[11:39] derivatives trading so in atomic Finance
+[11:43] use case they offer users to generate a
+[11:46] yield on top of the Bitcoin um while in
+[11:49] our case we enable users to trade
+[11:52] Bitcoins without having to leave the
+[11:54] save Haven of
+[11:56] Bitcoin so if you are to to go back back
+[11:59] to your questions I think the most
+[12:00] common use cases to use dlc's today are
+[12:03] trading and it's either yield producing
+[12:05] products or derivatives tradings with
+[12:07] our
+[12:08] tools amazing and uh because you imagine
+[12:11] it now like what is actually der
+[12:14] derivative trading I have a hard time
+[12:16] saying that as an Austrian uh and and
+[12:19] what is the company uh you're doing is
+[12:22] like one 10 10 One Finance right this as
+[12:25] you have it on the T-shirt
+[12:26] also yeah well thanks for pronouncing it
+[12:30] correctly most people say 1011 or
+[12:35] 10101 it wasn't the best choice um 10
+[12:38] 101 the the number is the binary number
+[12:42] for 21 as in 21 million Bitcoin and we
+[12:47] picked that name because non-custodial
+[12:49] is for us the most important thing and
+[12:53] we want to solve the problem of removing
+[12:55] counterparty risk of
+[12:57] trading and when we started that must
+[13:01] have been like I think two years ago um
+[13:03] there was no other asset on bitcoin I
+[13:04] mean there was counterparty but besides
+[13:07] that there's no possibility to have any
+[13:09] other assets on bitcoin besides Bitcoin
+[13:11] so if you wanted to build trading
+[13:13] Solutions you have to build
+[13:16] derivatives and a derivative is a
+[13:18] financial product which as the name
+[13:21] already implies derives the value from
+[13:25] or the price from a certain product so
+[13:27] in our case we have a Bitcoin USD
+[13:32] derivatives which derives the price from
+[13:35] the Bitcoin to USD spot trading
+[13:39] and differently said you can bet on the
+[13:42] Bitcoin price against US dollars but
+[13:45] it's settled in Bitcoin so if the if you
+[13:47] say um I want to go long against Bitcoin
+[13:50] you bet the Bitcoin price goes up and if
+[13:52] the price goes up you get more Bitcoin
+[13:55] same as if you say um you go price goes
+[13:58] up but the price goes down you lose in
+[14:00] Bitcoin terms and what we do concretely
+[14:04] is we build a non-custodial trading
+[14:06] solution for users so that means that
+[14:09] you can trade out of your wallet without
+[14:11] having to trust your counterparty so you
+[14:13] don't have to send your hard earned
+[14:15] money to an exchange or um to an
+[14:19] escrow uh or in another multi it's
+[14:23] literally just you and your
+[14:25] counterparty and that's
+[14:28] it is that one step closer to we coming
+[14:32] to the world where everything is built
+[14:34] on bitcoin like there's like the base
+[14:36] layer of Bitcoin and we're trying to
+[14:37] like just uh build the financial system
+[14:40] now as you say s custodial on bitcoin
+[14:43] DLCs on bitcoin is this just one more
+[14:46] part of building the traditional Finance
+[14:49] systems also on bitcoin yeah totally
+[14:52] that's our very long-term Vision to have
+[14:55] a financial economy without a
+[14:57] centralized Authority and you can build
+[15:00] the whole stock market on top of Bitcoin
+[15:02] so that you can trade your Tesla your
+[15:04] Apple shares and settle that in
+[15:08] Bitcoin is is that of like um I often
+[15:11] talk about like Bitcoin will be the Bas
+[15:13] layer of everything uh and 50% of all
+[15:16] the interactions we are doing because
+[15:18] 50% of every interaction is money and if
+[15:21] Bitcoin becomes actually Global Reserve
+[15:23] currency Reserve money then it will be
+[15:25] 50% of everything we are doing um but
+[15:29] when we now coming to the stock market
+[15:31] where we like have a huge system already
+[15:33] built where the SEC and everything is
+[15:36] involved like there's a there's a huge
+[15:38] market for exactly that will that also
+[15:42] come on bitcoin somehow tokenized uh on
+[15:46] bitcoin or can some of the traditional
+[15:49] system be still there but we're building
+[15:53] Bitcoin just as money as an a hybrid
+[15:56] system how do you see like the future of
+[15:58] of Bitcoin like maybe a little bit long
+[16:00] term uh and uh displaying
+[16:03] out that is a really good question it's
+[16:05] not another the question is what is
+[16:07] bitcoin is Bitcoin the asset or is
+[16:10] Bitcoin the blockchain and I'm referring
+[16:14] to when I say Bitcoin is actually both
+[16:17] Bitcoin is an asset and it's a
+[16:18] blockchain and the blockchain is a
+[16:20] settlement layer so what you can do in
+[16:22] the the most Bitcoin maximal way is you
+[16:25] settle only Bitcoin transactions where
+[16:28] the value you trans ER is Bitcoin and
+[16:30] there are certain security assumptions
+[16:32] if you would settle something else
+[16:34] that's why there the hardcore Bitcoin
+[16:36] maximalists would say we don't want any
+[16:39] token but basically you could settle
+[16:41] anything and we have seen the the recent
+[16:45] weeks the the runes and ordinal and
+[16:48] other nfts which are also just settled
+[16:51] on bitcoin I think this will come more
+[16:53] and more um block space is expensive so
+[16:56] there will be certain ways to abstract
+[16:58] it move it on to layer two but Bitcoin
+[17:01] is the the most secure decentralized
+[17:05] settlement layer and I see no reason why
+[17:08] we wouldn't settle anything else than
+[17:10] just Bitcoin transactions like why
+[17:12] wouldn't we have a public record of our
+[17:15] properties in there or why wouldn't we
+[17:17] have our um company shares the stock
+[17:20] market onto it I think it just really
+[17:22] makees sense to have it really on there
+[17:24] maybe not everything on the main chain
+[17:27] that might be too much um but but on
+[17:29] another layer on top of it yeah I mean
+[17:32] this will the free market will take care
+[17:33] of it because main chain will be really
+[17:36] expensive at one point uh and not every
+[17:39] application will be able to even do that
+[17:41] economically on the main chain because
+[17:43] now of course you can do it because the
+[17:45] the costs are like bearable but uh like
+[17:49] try to figure out everything put it on
+[17:51] the main chain and the fees are going
+[17:54] high up and uh people will be priced out
+[17:56] I don't know how many people and
+[17:59] institution can transact on a monthly
+[18:01] basis with each other maybe like 10
+[18:03] million uh realistically that's it's
+[18:06] hard to figure out the number how many
+[18:08] institutions and people can actually do
+[18:09] it because at some point you will have
+[18:11] the lower end user and he will be priced
+[18:14] up as someone new coming in and
+[18:16] outbidding him and then they have to
+[18:18] move up the the ladder then there's also
+[18:20] utxo management uh coming in because
+[18:23] when you have small UT takes over all of
+[18:24] the sudden might be possible that in the
+[18:27] future you don't you cannot move your
+[18:29] Bitcoin anymore but that's a whole
+[18:31] another topic
+[18:34] should uh let's let's focus on on on
+[18:37] bitcoin uh like Ju Just to be clear like
+[18:40] this is only a Bitcoin product like you
+[18:42] don't do anything with altcoins or is
+[18:45] the altcoin uh aspect to
+[18:47] it no it's a it's a Bitcoin only product
+[18:51] and as this was very important for us we
+[18:54] did in the past so we we started with
+[18:56] cross chain Atomic swaps and enabled
+[18:59] users to trade without counterparty risk
+[19:01] from one chain into the other but we
+[19:04] learned that most bitcoiners they don't
+[19:06] want to leave just Safe Haven they want
+[19:08] to increase the Bitcoin Holdings while
+[19:10] trading certain assets like for example
+[19:14] um trade the ethereum Bitcoin pair which
+[19:16] is also quite volatile um but you don't
+[19:20] they don't want to hold ethereum because
+[19:22] it's a whole different um risk
+[19:25] assumption to whole ethereum which might
+[19:28] or might not Fork again or do whatever
+[19:31] they do so we said no we need to build
+[19:34] something on top of Bitcoin where you
+[19:37] are in your in your safe haven and yeah
+[19:40] derivatives are the the only way so we
+[19:43] are a Bitcoin only product build on
+[19:45] bitcoin for bitcoiner how would how's
+[19:47] this um this Pampers guy in in German TV
+[19:52] from bitcoiners inspired for bitcoiners
+[19:54] created you know what I'm refer it
+[19:57] to uh I think and know like uh for uh
+[20:01] for babies from babies inspired for
+[20:04] babies cre that's saying in
+[20:08] chairman that's a nice one yeah if you
+[20:11] are listening to this podcast you might
+[20:13] be wondering what is actually the setup
+[20:15] look like of Robin or how can I improve
+[20:18] my Bitcoin setup and there's two things
+[20:20] you have to buy Bitcoin from the right
+[20:22] source and you have to store Bitcoin the
+[20:24] right way let's focus on the first thing
+[20:26] how to buy Bitcoin it's simple a Bitcoin
+[20:29] only exchange don't deal with the
+[20:31] shitcoin exchanges don't deal with an
+[20:33] exchange that has an own token or
+[20:35] something like that be on a Bitcoin only
+[20:37] exchange I use 21 Bitcoin 21 Bitcoin is
+[20:40] for me the best partner for that and now
+[20:44] where do you store Bitcoin Bitcoin
+[20:46] should be stored on a hardware wallet on
+[20:48] a self custody solution where you
+[20:51] yourself hold your keys and it should be
+[20:54] a cold wallet so that's my Simple
+[20:57] Solutions that's a bitbox you just put
+[21:00] your Bitcoin on there back up your seed
+[21:02] fras and you are better than 95% of all
+[21:06] Bitcoin hodlers if you have more than a
+[21:09] th000 in Bitcoin it's an absolutely must
+[21:12] have one last thing before we get back
+[21:14] to the video I'm really passionate about
+[21:16] meeting other bitcoiners and there's an
+[21:18] amazing opportunity in middle of Europe
+[21:21] in June the Bitcoin BR conference it's
+[21:24] the best and biggest Bitcoin only
+[21:27] conference in whole of Europe for all
+[21:29] Americans please visit Europe and visit
+[21:32] this place in June for all europees it's
+[21:34] a must go anyways you are so close to
+[21:37] the Bitcoin PR conference you basically
+[21:39] have to come I will do interviews there
+[21:42] and I would love to meet you all there
+[21:44] use code Robin for all my sponsors to
+[21:47] get discounts and use the links down in
+[21:50] the description why did you actually
+[21:51] choose to to work B like how did you
+[21:53] come into the the Bitcoins uh sphere I
+[21:56] think you listen to the Steven ver
+[21:59] podcast you did I think it was early on
+[22:02] 2014 or something like that
+[22:04] even yeah so I got into Bitcoin I heard
+[22:08] about it quite earlier I not claiming
+[22:10] that I understood anything until like
+[22:12] maybe 2017 or so um but I lost money at
+[22:16] Mount G and that really branded me I I I
+[22:21] remember that it was like um so what do
+[22:25] I do now who do I call where do I get my
+[22:29] money back I was just just gone and I
+[22:32] mean it it was honestly my own fault
+[22:34] because I kind of understood this
+[22:37] non-cost aspect of Bitcoin already but I
+[22:40] wanted to trade at the same time so
+[22:43] similar to you I have a bit of a trading
+[22:45] background and it's just natural to keep
+[22:47] your money somewhere on an exchange or a
+[22:50] bank or somewhere where you want to
+[22:53] trade and it's just gone so I thought
+[22:56] that this is just a big scam um I'm not
+[22:59] going to use it and but I got then back
+[23:02] into it and said no one is really trying
+[23:05] to solve that problem no one is really
+[23:07] trying to remove this risk when trading
+[23:11] and I think this is one of the most
+[23:13] important problems to solve because if
+[23:16] you believe in Bitcoin and if you
+[23:18] believe in non- custodian of Bitcoin you
+[23:21] should also trade non-custodial you
+[23:24] should not trade custodial and every
+[23:28] everyone who says the market for
+[23:30] noncustodial is too small I'm going to
+[23:32] be like are you a bitcoiner or not if
+[23:35] you believe in Bitcoin then there is
+[23:37] only non-custodial trading everything
+[23:39] else is you're trading I you don't trade
+[23:42] Bitcoins and I think that say huge
+[23:45] business opportunity huge market and
+[23:48] it's still a hardly solved
+[23:50] problem yeah and I think we like we had
+[23:53] Bitcoin really early and then products
+[23:56] and services and companies on top of
+[23:58] Bitcoin here really early on uh because
+[24:02] all for first you have to solve the
+[24:04] protocol and and get this protocol in in
+[24:07] people's head and then you can uh make
+[24:10] other things just quick question I heard
+[24:12] from mon Cox that people are getting
+[24:14] their money slowly back but I don't know
+[24:17] I never researched deeply but maybe
+[24:19] because you had exposure do you know
+[24:21] more about it do do you get your money
+[24:23] back some of it yeah so you could are
+[24:26] you you're getting some parts in a Fiat
+[24:29] and some parts in Bitcoin don't exactly
+[24:32] ask me how much what the exchange rate
+[24:34] was so it's not not good um but the I
+[24:38] think they started paying it out already
+[24:40] or it is um on the go right
+[24:43] now I haven't r i yet so yeah yeah I
+[24:47] think it's but I heard it like half a
+[24:50] year ago that they are paying it back
+[24:52] which be which is interesting because
+[24:54] this were like forced
+[24:56] todlers but obviously only get a small
+[24:59] percentage back or like this maybe you
+[25:01] don't get anything back let's see how it
+[25:04] all uh playar longterm um what do you
+[25:07] think you also get Bitcoin Bitcoin cash
+[25:09] back sorry you also get Bitcoin cash
+[25:15] back yes it's interesting but like
+[25:20] Bitcoin C was not M go before Bitcoin
+[25:23] cash wait yeah but since you since you
+[25:27] hold Bitcoin at the time of the fork
+[25:30] they basically doubled the coins and you
+[25:33] have a a claim on this Bitcoin cash how
+[25:37] did you live through uh the the whole
+[25:39] Bitcoin cash scene like you were there
+[25:43] uh in 2017 uh and you hold held Bitcoin
+[25:46] in that time how was that uh a period of
+[25:49] time for for you in the Bitcoin
+[25:51] sphere that was an amazing time it was
+[25:54] the time where money was just raining
+[25:57] everywhere to air drops and iOS and
+[26:01] forks and Bitcoin cash and Bitcoin SV
+[26:04] and Bitcoin gold and Bitcoin private and
+[26:08] know what else and the hard part was you
+[26:11] just have to dump it as fast as possible
+[26:13] otherwise the price is going to
+[26:15] crash but it was definitely an exciting
+[26:18] time it was fun do you foresee that we
+[26:21] get such a bull market again I feel like
+[26:24] the 2021 bull market was not as crazy
+[26:26] like we did not have the crazy of of
+[26:29] 2017 uh 2021 was a little bit more
+[26:32] calmer like I don't know it was not that
+[26:35] uh exciting there was not this massive
+[26:37] up swing in price all of of course Tesla
+[26:40] El musk there was some drama in there
+[26:42] there was some some nice things in there
+[26:44] and there was late at Celsius so there
+[26:47] there was some stories in there of
+[26:48] course it was not boring it's never
+[26:50] really boring in Bitcoin but the
+[26:52] craziness of 2017 I feel like there was
+[26:55] not that massive thing do we do do you
+[26:58] think we get that in that bull run was
+[27:00] that like a little bit cut off of the
+[27:02] last bull run because uh there was like
+[27:04] this China thing and and so
+[27:06] on no I think the answer is
+[27:09] regulations like 2015 2016 no one had an
+[27:14] idea what is legal what is not legal and
+[27:17] then when 2016 when the Ico started and
+[27:20] 2017 when it peaked there was already
+[27:23] rumor that these are unregulated
+[27:26] securities and you had to be very care
+[27:28] ful and how you you name those this
+[27:30] token and what you promis but it was
+[27:33] still the wide west and people did just
+[27:36] whatever they want then um later on we
+[27:39] had what do they call it exchange issued
+[27:44] tokens or something exchange issued
+[27:48] offering token offering or something so
+[27:51] was not an Ico where you had to buy in
+[27:53] but the tokens were dis distributed and
+[27:56] you had airdrops and all kind of things
+[27:57] so the they always try to get around
+[28:00] just the the regulations but it's
+[28:03] getting harder and harder and it's or
+[28:05] it's getting more clear on what is legal
+[28:07] and what is not legal and that probably
+[28:09] slowed down the the 2021 bull market but
+[28:13] it was different like 2021 was the The
+[28:16] Lending and the yield farming where you
+[28:20] it was also possible to get money from
+[28:22] everywhere and people just tried to add
+[28:25] decentralization on anything thing let's
+[28:29] just put it in a smart contract and call
+[28:31] it a decentralized thing uh but we hold
+[28:33] the private keys and we can upgrade
+[28:36] it h
+[28:38] yeah I think the next bull market will
+[28:41] be l2s on top of
+[28:44] Bitcoin we saw the hype already in
+[28:47] recent weeks with um
+[28:49] op CVM and bit VM and then um Citroen or
+[28:55] whatever there are different l2s who are
+[28:58] trying to build some ckp verifiers based
+[29:02] um layer tws on top of
+[29:05] Bitcoin they will all try to create
+[29:08] their own side chains have their own
+[29:10] tokens
+[29:11] and same same idea as an Ico again get a
+[29:15] token and dump it on
+[29:17] retail is there is there uh for you uh
+[29:21] the one of the most promising Layer Two
+[29:23] is is lightning or you see some other
+[29:25] Solutions uh coming up like go there are
+[29:28] a lot of problems with lightning some
+[29:30] other like others more some think like
+[29:32] lightning will be the clue that has more
+[29:35] of the highways where the other layer
+[29:38] twos or layer threes are connected with
+[29:40] each other like how do you see the the
+[29:42] scaling Solutions than the the
+[29:45] Bitcoin yeah I guess we need to agree on
+[29:48] what is a layer two and I I'm of the
+[29:52] opinion that and Layer Two needs to you
+[29:55] need to have the possibility to
+[29:56] unilaterally exit it meaning you need to
+[29:59] be able to get in and out of that L2
+[30:02] without having to ask for permission and
+[30:06] everything else
+[30:08] is something else it could be I mean
+[30:12] it's it's liquid and L2 I don't know to
+[30:16] some degree I think you can get in um
+[30:19] without having to ask for permission but
+[30:21] if you want to get out without
+[30:23] permissions you need to do an atomic
+[30:25] swap otherwise you have to go through
+[30:27] the functionary or the
+[30:29] validators and they need to sign uh the
+[30:32] transaction and release the
+[30:34] money these promised l2s um they for
+[30:39] example those who build on bit VM they I
+[30:42] think they are optimistic in the sense
+[30:44] of you can get in and out um but you
+[30:47] still have some form of um what is it
+[30:50] called a sequencer or something so you
+[30:52] still have some centralized party on top
+[30:53] of it which needs to ensure that the
+[30:55] whole thing functions most most of those
+[30:59] l2s they need certain op codes uh maybe
+[31:03] opcat the most simple one um or some
+[31:06] transaction covant up codes and I think
+[31:09] if we get those up codes we can build
+[31:12] completely different stuff I would I
+[31:14] think the last thing I would do is build
+[31:15] a L2 in the sense of ethereum l2s where
+[31:18] you have an evm complete side chain
+[31:21] which is a whole new blockchain because
+[31:23] you have all kind of different problems
+[31:26] like for starter EV m is in my opinion
+[31:29] completely broken and insecure I mean
+[31:31] it's been around now since 10 years but
+[31:34] it's still it's JavaScript and I don't
+[31:36] want to write Financial product in
+[31:39] JavaScript um but on the other hand you
+[31:42] you have another blockchain on top of it
+[31:45] so you need to produce blocks and then
+[31:46] you need to build some consensus
+[31:48] algorithm on top of it uh maybe add
+[31:51] proof of work on top of it was like this
+[31:54] does not scale that's not an proper L2
+[31:58] so why don't we use some more complex
+[32:00] opcodes to build something on top of
+[32:03] Bitcoin and I think that's where um CVM
+[32:05] wants to get into with recursive
+[32:09] transaction Covenant where
+[32:11] you basically enable arbitary executions
+[32:15] on top of Bitcoin similar to bit
+[32:18] VM and you were also a coder I think if
+[32:22] I get got it right like you were in
+[32:24] software development or you still
+[32:25] developing software oh yeah yeah oh you
+[32:29] might hear it how I talk yes I'm
+[32:31] definitely a quarter at hard care so I'm
+[32:34] I'm coding active here every day it's
+[32:37] it's fascinating for me because I have a
+[32:39] hard time uh talking with software I I'm
+[32:44] also software develop like I came from
+[32:46] that scene now I'm not doing it anymore
+[32:48] I did it like for three and a half years
+[32:50] like full-time on in a company uh back
+[32:53] end and front end uh so I know it but
+[32:56] I'm not good in it that's why I stopped
+[32:59] it I'm just not the the the best coder
+[33:02] uh um but for me it was always
+[33:04] interesting when I talk with coders they
+[33:07] often have a hard time understanding
+[33:09] Bitcoin there are a lot of things that a
+[33:12] coder does not
+[33:14] initially understand about Bitcoin like
+[33:16] first of all of course the whole um
+[33:18] Finance side of it like we don't you
+[33:20] have to understand money also to
+[33:22] understand Bitcoin and not just the
+[33:24] technical stuff in it but also that
+[33:26] Bitcoin is not not moving as fast like
+[33:29] it's a coder they has like one or two
+[33:31] week Sprint where they're like
+[33:32] developing new stuff it's always new
+[33:34] features fixed bu fixing and stuff like
+[33:37] that but in Bitcoin you have a working
+[33:40] systems and you don't want to touch it
+[33:41] too
+[33:43] much if you if you touch too much the
+[33:45] base layer you might have you might
+[33:47] break it um how was it for you to get
+[33:49] into Bitcoin with the coding mind that
+[33:52] was just helping you or was it maybe
+[33:53] even uh bad for
+[33:55] you no I can totally relate to that um I
+[33:59] got into bitco from a technical
+[34:01] perspective and I appreciated the
+[34:04] distributed system side of Bitcoin
+[34:07] because I was studying distributed
+[34:08] system Technologies and I thought that W
+[34:11] so all of this stuff what we learning
+[34:13] right now from bit bantine fa tolerance
+[34:16] to peer-to-peer
+[34:18] messaging that can be used in a tool
+[34:21] which is basically money I mean I don't
+[34:23] understand money but the technology was
+[34:25] really cool and so I definitely got from
+[34:29] the technical side of things in there
+[34:31] and I don't want to but I think I have
+[34:34] to admit that I during 2016 2017 I
+[34:38] looked to the ethereum side and was like
+[34:40] these guys are moving really fast and
+[34:42] they're building so much stuff that is
+[34:44] cool but it took me a while to realize
+[34:47] that you don't want to move fast you
+[34:48] want to be safe you want to be secure
+[34:51] because Bitcoin is just
+[34:54] more and if you accidentally break it
+[34:58] then we don't have another chance like
+[35:00] if we need to Fork Bitcoin because we
+[35:03] broke it then the biggest promise of
+[35:05] Bitcoin is broken we changed something
+[35:09] and so we need to be really really
+[35:11] careful with not breaking anything on
+[35:13] bitcoin and really really careful with
+[35:14] adding stuff on bitcoin which could make
+[35:17] the whole the base use case could change
+[35:21] the base use case so is there any
+[35:26] yeah uh is there any if you like if you
+[35:28] would be the god of Bitcoin is there
+[35:30] anything you would actually change or is
+[35:32] is uh is there is it perfect as it is
+[35:35] like would you integrate anything in the
+[35:37] the base layer protocol that you're like
+[35:39] okay we we should have this small update
+[35:41] or this big update in in
+[35:44] Bitcoin well I would love to have some
+[35:46] form of transaction covenants with some
+[35:50] form of transaction Covenant may be
+[35:52] offcat or um CTV or I don't know what
+[35:56] the others are out there
+[35:58] we can build quite a bit and we actually
+[36:00] were building on top of liquid for some
+[36:02] time where we built some some form of
+[36:06] non-custodial lending where you put up
+[36:08] Bitcoin as a collateral and then you get
+[36:10] a stab coin as a loan back and all of
+[36:14] this without without counterparty risk
+[36:17] without having to ask for permissions
+[36:19] and this was done with opcat and object
+[36:22] s from stack and if you get this on top
+[36:25] of Bitcoin I mean things will be quite
+[36:28] pricey because you need to put a little
+[36:32] bit more data on chain but you can build
+[36:34] so many more use
+[36:36] cases yeah I had an discussion with
+[36:40] Wicket I think two three episodes ago
+[36:43] where we talked about uh utxo management
+[36:46] uh where we need when we want to scale
+[36:49] utxos and self custodial on main chain
+[36:52] uh we need to have some way of sharing
+[36:55] utos maybe even with like 100 people or
+[36:58] 200 people or thousand people uh and uh
+[37:02] that needs to to have the seems to be
+[37:06] the consensus that something might
+[37:09] change in the future and this is might
+[37:11] be necessary to actually scale Bitcoin
+[37:14] uh but I I'm always careful with with
+[37:18] promoting uh change on
+[37:20] bitcoin yeah but uh it seems to be this
+[37:23] CTV I heard a lot that people really
+[37:26] like it uh uh and yeah let's let's see
+[37:28] what happens uh and uh I think Bitcoin
+[37:32] is so strong and especially 2017 I proed
+[37:36] that point where the whole industry
+[37:38] basically was against Bitcoin and was
+[37:40] for Bitcoin cash with the miners and a
+[37:42] lot of uh famous voices also in Bitcoin
+[37:45] back then uh and still the users the
+[37:48] nodes decided otherwise and Bitcoin uh
+[37:51] LIF on as it seems because the free
+[37:53] market decides what actually has value
+[37:55] and what not so it's an an interesting
+[37:58] interesting um in this video just us be
+[38:01] and observe it and and be an player in
+[38:04] the the
+[38:05] sphere um you have uh also probably
+[38:09] moved to Australia at some point uh
+[38:12] because you said that we are now in in
+[38:13] Australia and and you come from Austria
+[38:16] uh I think uh and for me it's
+[38:19] interesting when we look at the whole
+[38:21] world and why people move uh and for me
+[38:25] it's like a lot of Bitcoins are now
+[38:26] moving to El Salvador um maybe like like
+[38:30] what's your thoughts on El Salvador and
+[38:32] then like why Australia probably this
+[38:35] was before as I was Bitcoin
+[38:37] country yeah I mean Australia was a a
+[38:41] very personal choice I came here in 2012
+[38:45] during un doing my studies as in an
+[38:47] exchange semester and I just love love
+[38:51] this this big island it's just beautiful
+[38:53] I love the Outback the the middle of
+[38:55] nowhere the nothing
+[38:57] um but we actually wanted to leave
+[39:01] Australia last year or we left Australia
+[39:03] last year and we explored Latin America
+[39:06] and I was also in El
+[39:07] Salvador and I could feel that there is
+[39:11] there is a certain movement in El
+[39:13] Salvador it's it feels it's definitely
+[39:17] feels safe but I think the jump from a
+[39:21] very very developed country like
+[39:23] Australia or Austria to El Salvador is a
+[39:27] very big one and you might underestimate
+[39:31] that it's going to take a few years if
+[39:33] not even a generation or two before El
+[39:36] Salvador is deemed to be a really secure
+[39:39] country and the corruptness from you you
+[39:42] can't just remove it tomorrow by
+[39:45] exchanging the top of the leader I mean
+[39:47] isn't he currently um watching his own
+[39:52] team um suing them for corruptness or
+[39:54] something so it's it's doesn't change
+[39:58] until tomorrow the feeling the passion
+[40:00] was really cool it feels like a very
+[40:02] young startup where everyone is pushing
+[40:05] in the same direction they believe in
+[40:06] the same thing but at the same time it's
+[40:08] so fragile and you just don't know where
+[40:12] it's going to end so if you're an yeah
+[40:15] early investor it might be good to
+[40:17] invest in there and see if you can take
+[40:19] something from the upside but um a bit
+[40:22] more
+[40:23] careful I mean as alvados uh started
+[40:26] from the bottom right was literally one
+[40:28] of the worst countries to be in uh and
+[40:31] uh they had a lot of problems before
+[40:33] that and now this try to move up and uh
+[40:37] there's a lot of question marks and also
+[40:40] long-term viability because they have to
+[40:42] prove also that the things that they are
+[40:44] now moving in the right direction can
+[40:46] move long term in the right direction
+[40:48] like it's easy to steer the country for
+[40:51] short term it's really hard to to steer
+[40:53] the massive Direction in from a country
+[40:55] in a in a completely different
+[40:58] uh Direction that's it's really cool uh
+[41:00] to to see and to observe uh and I want
+[41:03] to visit there this year uh because I
+[41:06] had like 10 people I think already on
+[41:08] that were in El Salvador or moved to El
+[41:12] Salvador and it's a fascinating to see
+[41:15] kind of everybody has the same feelings
+[41:17] about it it's like a a country
+[41:20] startup hear that a lot uh from salador
+[41:23] and yeah but uh let's come closer to the
+[41:26] end of the podcast uh before we get to
+[41:29] the end of the end routine of the
+[41:31] podcast what are you currently really
+[41:33] passionate about or studying because I
+[41:35] think like bitcoiners are really
+[41:37] interesting people they are like uh
+[41:39] studying and learning uh every day
+[41:41] something new or they trying to get some
+[41:44] something uh um a new topic um besides
+[41:49] Bitcoin besides the topics we touched on
+[41:51] today is there anything you're really
+[41:52] passionate about uh
+[41:56] currently uh
+[41:59] barbecuing I bought myself a a kamato CH
+[42:03] a smoker which is like this gigantic
+[42:06] Beast I don't know if you have seen
+[42:07] these things they look like a big red
+[42:10] egg and you can cook everything on it
+[42:14] from your steak to your roast to your
+[42:19] brisket but you can also make pizza and
+[42:22] bread and desserts and it's it's a whole
+[42:25] science to look into that
+[42:28] I I mean I'm currently trying to
+[42:29] optimize my Stakes still early
+[42:32] there but that's that's that's a that's
+[42:35] a whole skill to optimize
+[42:37] for H really really cool uh perfect then
+[42:40] let's come to the end routine where the
+[42:42] previous guest is asking a question for
+[42:44] the next guest uh and it's a question
+[42:46] that we a little bit touched on uh but
+[42:49] maybe there's some some new thing in
+[42:51] there uh is there anything that will be
+[42:54] significantly different uh in this new
+[42:56] bitco cycle than the last one yeah um I
+[43:01] think we going to see big money trying
+[43:04] to influence developers Bitcoin
+[43:07] developers so we I mean we have seen I
+[43:10] think they pulled back um some some ETFs
+[43:14] who said they going to fund um so
+[43:16] Bitcoin developers and then I think it's
+[43:19] Michael sailor said don't do it maybe
+[43:21] they pulled it back I'm not sure but we
+[43:24] we get the urge to change something in
+[43:26] Bitcoin and with money you can influence
+[43:29] people and I think it will be hard to
+[43:32] see whether people are driven by Passion
+[43:35] and think it's the right thing to do or
+[43:38] because they're driven by money and in
+[43:40] the past it was definitely more the cyer
+[43:43] punk movement but we are now in a stage
+[43:46] where big money is being moved and big
+[43:49] people are depending on this there might
+[43:53] be the move of trying to change stuff
+[43:56] just because they
+[43:57] they have the money definitely and it's
+[44:00] it's an interesting uh field to be in um
+[44:03] before we end uh where can people find
+[44:05] you in the best way uh and especially
+[44:07] like is there anything you want to add
+[44:09] to to today's
+[44:10] podcast yeah totally I mean I I always
+[44:13] have to shill our own product please
+[44:16] give 101 one 10 101 a try if you want to
+[44:19] trade if you want to bet on the Bitcoin
+[44:21] price 101 you can find under
+[44:24] 10101 Finance
+[44:27] myself you can find on all major social
+[44:30] networks on that bonom also on Noster
+[44:33] not going to read my public key but with
+[44:36] bonad you will find me on Noster as well
+[44:40] um yeah it was fun fun being with you
+[44:43] thank
+[44:44] you uh thank you for for taking a time
+[44:47] it was a pleasure talking with you and I
+[44:48] think it was a a topic a new topic that
+[44:51] we never covered on on on bitcoin with
+[44:53] the dlc's and yeah I'm looking forward
+[44:56] to the feedback and uh as always uh
+[44:58] thank you for your time it also a
+[44:59] pleasure thank you
+[45:01] [Music]

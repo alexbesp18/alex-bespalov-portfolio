@@ -1,0 +1,2008 @@
+Title: Fabian Weber: Bitcoin Mining is Driving Adoption to NEW HIGHS!
+Video ID: 32Gjs5fxf4g
+URL: https://www.youtube.com/watch?v=32Gjs5fxf4g
+Date Saved: 2025-06-15 11:45:33
+--------------------------------------------------
+
+[00:00] I can really imagine that we will see $1
+[00:01] million next year with all this demand
+[00:04] lining up coming to this small amount of
+[00:06] Bitcoin left Bitcoin mining is a perfect
+[00:08] fit for all the challenges that we are
+[00:10] waiting here for you know in Europe now
+[00:12] we see the Swiss Parliament introducing
+[00:15] a bill for a strategic Bitcoin Reserve
+[00:17] OTC desks they cont trct the volume that
+[00:20] they have from China and it has been
+[00:23] tripling since 2021 Bitcoin is only
+[00:26] going up not just in price but also in
+[00:28] adoption in businesses that are evolving
+[00:31] in jobs that are being created so I
+[00:33] think there will be a lot of chances to
+[00:35] get a foot into this industry it would
+[00:37] be good if we can onboard as much people
+[00:39] as possible before all the Bitcoin going
+[00:41] into big
+[00:43] [Music]
+[00:47] institutions it's really interesting uh
+[00:49] to talk about Bitcoin mining energy and
+[00:52] especially in Europe uh I think
+[00:54] currently the most mining is going on in
+[00:57] uh in in America if if I'm uh I'm not
+[01:00] mistaken ever since uh China exited
+[01:04] it how would you say is the current land
+[01:08] skp of Bitcoin mining uh maybe with a
+[01:10] little bit of focus of of Europe but
+[01:12] also like in general how would you
+[01:14] describe it right now yeah so I think
+[01:17] everybody just remembers in 2021 or at
+[01:21] least everybody who's in the space for a
+[01:23] couple of years we remembers the Bitcoin
+[01:26] mining ban in China in
+[01:28] 2021 so
+[01:30] if you look at the hash rate chart go on
+[01:33] the global hash rate chart you can see
+[01:35] this um downtrend during these months
+[01:39] and since then I have to say that the
+[01:40] mining landscape has pretty changed you
+[01:42] already mentioned Robin that um us is
+[01:45] supposed to be the biggest minus of
+[01:47] course we can't say for sure where all
+[01:49] the hash rate is coming from but um as
+[01:53] data show right now and also
+[01:55] regulational wise we think that us is
+[01:58] definitely the biggest minor with
+[02:00] approximately 20 up to 40% of the hash
+[02:03] rate coming out of the US um especially
+[02:05] Texas or west Texas is a mining Hub um
+[02:09] this has to do with the fact that aircut
+[02:12] the local grid operator in Texas has
+[02:15] embraced the Comm Mining and is using
+[02:16] Bitcoin mining as a tool for um for
+[02:19] demand response which basically means if
+[02:21] a lot of energy is in the grid miners
+[02:24] can scale on their operations and if two
+[02:27] less energies available in the grid
+[02:29] miners sh of the operations and get paid
+[02:31] for it and now with Donald Trump in in
+[02:35] in as elected designated President we
+[02:38] see that um miners are getting more
+[02:40] bullish on uh in the US um but we also
+[02:43] see a lot of different countries
+[02:46] evolving in the Bitcoin mining industry
+[02:49] um I think everybody that has been yeah
+[02:52] researching mining a little bit has um
+[02:55] has heard about Ethiopia um Ethiopia has
+[02:58] a big Dam right now um where they
+[03:01] produce a lot of overc capacities um so
+[03:05] a lot of our customers at terahash are
+[03:07] actually um considering investing into
+[03:10] Ethiopia um my
+[03:13] personal opinion about Ethiopia is a
+[03:15] little bit I would say it's a two-sided
+[03:18] metal so um so saying um because you
+[03:22] have infrastructural problems there I
+[03:24] mean basically what you need as a minor
+[03:26] is internet and electricity right and we
+[03:29] all know that um but I mean don't get me
+[03:34] wrong the electricity is there in
+[03:35] Ethiopia um but the infrastructure so
+[03:39] the the flow of the electricity is not
+[03:42] that easy there this these are
+[03:44] infrastructural problems like you know
+[03:46] um outages um maybe internet is not
+[03:49] working so I personally consider it
+[03:53] consider it's still a not perfect um
+[03:56] mining environment but it's evolving as
+[03:58] electricity is also pretty cheap we had
+[04:01] Paraguay before in South America um
+[04:05] which is basically or was a mining Hub
+[04:07] and is still kind of a mining up um but
+[04:10] what happened is basically that um the
+[04:12] local grid operator um increased
+[04:15] electricity prices about 15% which made
+[04:19] the mining business already not
+[04:20] profitable for for for many operations
+[04:23] so they all moved over to Ethiopia some
+[04:26] went to Brazil um I heard that Argentina
+[04:29] evolving um as well right now they just
+[04:32] recently opened up um their their doors
+[04:35] for AI data centers and of course as
+[04:38] well for Bitcoin under
+[04:40] melee and yeah now of course um Europe
+[04:44] Europe is a special case for mining as
+[04:46] normally the mining industry always
+[04:48] worked like yeah just plug in your Min
+[04:50] and through the wall plug and start
+[04:52] mining if you got cheap electricity
+[04:55] right um but here in Europe we have
+[04:57] other circumstances our electricity is
+[04:59] known to be higher so me personally and
+[05:03] I'm sitting next to Munich right now
+[05:05] just for for the audiences to to know
+[05:08] that and I pay between 30 and 40 cents
+[05:12] Euro cents per kilowatt hour I don't
+[05:14] know what about you in Austria and next
+[05:16] to Vienna I think is almost the same
+[05:18] right maybe 25 um to 35 cents per
+[05:21] kilowatt hour which makes mining highly
+[05:24] unprofitable you can't set up a
+[05:25] operation a mining operation with these
+[05:28] costs and so we have to come up with
+[05:30] other Solutions here right um and you
+[05:33] probably have seen um that we have these
+[05:37] integrated or we are promoting these
+[05:38] integrated mining Solutions um where we
+[05:41] basically are not Solly mining with the
+[05:44] miners but also reusing the heat that
+[05:47] are produced by the Bitcoin Miners And
+[05:50] if possible we are also participating in
+[05:52] demand response programs like um I
+[05:54] mentioned before in Texas where we get
+[05:56] paid for shutting down our
+[05:58] operations and this whole concept is
+[06:01] pretty new um what do I mean by that I
+[06:04] mean um a Time Horizon of three to four
+[06:08] years probably when all the narratives
+[06:10] came up and now we are pretty happy that
+[06:13] we see first um facilities evolving here
+[06:16] in Germany um where our Focus lies of
+[06:19] course um but also in other European
+[06:21] countries for instance we just launched
+[06:23] our our newest project in Finland our
+[06:26] Genesis site where we are now heating a
+[06:28] whole city um with the waste heat of our
+[06:31] bitco mining operation and there we are
+[06:34] working with the Local District heating
+[06:36] company to do that and yeah to just give
+[06:40] a quick outlook on the future of Bitcoin
+[06:42] mining in Europe I think there is no
+[06:44] other way than integrating it um into
+[06:47] our grids into our energy infrastructure
+[06:50] into the existing energy infrastructure
+[06:52] but I think Bitcoin mining is a perfect
+[06:55] fit for all the challenges that we are
+[06:57] waiting here for you know in Europe and
+[07:00] I can personally imagine that yeah you
+[07:04] know the Europeans the Germans the
+[07:06] engineers um that they find pretty
+[07:09] pretty good use cases for for Bitcoin
+[07:11] mining as we are providing flexibility
+[07:15] right this is basically our service we
+[07:16] are providing flexibility and switching
+[07:18] on and switching off our our Miners And
+[07:22] I think there will be a lot of demand
+[07:23] for that in the future so I'm personally
+[07:26] really bullish on Europe I consider it
+[07:28] the safest envir environment for
+[07:31] mining um regulational Wise
+[07:34] infrastructural Wise um the point is now
+[07:38] many Watchers of us probably will say oh
+[07:41] wow how can somebody say that Europe is
+[07:43] going to be the best place for mining
+[07:46] yes I agree we had this kind of um green
+[07:49] and left politics before in the EU
+[07:53] Parliament but all of this changed um in
+[07:56] the last um EU elections we had a slight
+[07:59] right shift in the EU elections and they
+[08:02] basically really don't care about you
+[08:05] know all this narrative about oh Bitcoin
+[08:08] wastes too much too much energy Bitcoin
+[08:11] is money just for drug dealers and Sil
+[08:13] Road users and all this the narratives
+[08:16] they are outdated and basically they are
+[08:19] following a more I would say less a fair
+[08:22] approach which basically means that we
+[08:24] are not having any any fears or doubts
+[08:28] about um
+[08:30] yeah a anti- Bitcoin regulation or anti-
+[08:33] Bitcoin mining regulation and on the
+[08:35] meantime we installed or at least my
+[08:38] colleague Rachel um where I'm streaming
+[08:40] this podcast out of her office right now
+[08:43] as you maybe can see founder of lim
+[08:44] Ranch and also um founding member of um
+[08:49] ibia the European Bitcoin energy
+[08:51] Association um which allows us basically
+[08:55] to do work in Brussels um to be on the
+[08:58] table with the related entities to
+[09:01] advocate for a positive Bitcoin mining
+[09:03] regulation in Europe that's interesting
+[09:06] that
+[09:07] uh uh you consider Europe to be safer uh
+[09:11] than the US for uh Bitcoin mining
+[09:14] especially now with the Trump coming
+[09:15] into the scene and and and saying oh
+[09:17] let's M all the Bitcoin in In America
+[09:19] which obviously is absurd but uh it's
+[09:21] kind of the saying like we we want all
+[09:23] the energy there we want all the Bitcoin
+[09:25] miners there and his speech also at
+[09:28] Bitcoin Nashville I think it was
+[09:30] uh was really scooted towards that I
+[09:31] think that's one of the small highlights
+[09:34] of of the speech where he talked about
+[09:35] energy uh and where we talked about
+[09:37] Bitcoin mining uh which was really
+[09:39] interesting to see uh but we also see
+[09:42] over the past couple of like 20 years
+[09:45] where the European Union usually like is
+[09:48] a little bit slower but catches up to
+[09:50] what American does it's it's almost like
+[09:54] we we're just following a few years
+[09:56] behind um how how do you see
+[10:00] uh in general that that going forward
+[10:02] with with EU uh going uh a little bit
+[10:06] more right with the EU going a little
+[10:08] bit more uh towards Bitcoin is that
+[10:11] actually now changing uh where we maybe
+[10:13] have a next EU president that also talks
+[10:17] about Bitcoin maybe the next U election
+[10:19] Bitcoin is then already a topic where we
+[10:21] just think like four years behind the US
+[10:24] where us has this year already the topic
+[10:26] EU this year it was not a real topic I I
+[10:29] didn't find EU uh elections there was
+[10:32] Bitcoin any Topic at all I feel like
+[10:34] there was just like yeah it's no no
+[10:37] topic is that changing is that do you
+[10:40] see something there so let me first
+[10:42] catch up with our previous Point again
+[10:45] so basically you're right I mean the US
+[10:48] is doing Pro mining regulation right now
+[10:50] they are doing or developing Pro Bitcoin
+[10:52] regulation right now um but I also see
+[10:56] you know when I talk about the best for
+[10:59] Bitcoin mining I just don't see only
+[11:03] regulation I also see
+[11:04] infrastructure and um you know there are
+[11:09] I mean there have been these pictures of
+[11:11] um I don't know which state it basically
+[11:13] was of Bitcoin miners that had problems
+[11:16] in the winter um because Winter's got
+[11:19] unexpected cold and we have the same on
+[11:22] the Summers um but here in Europe um we
+[11:25] have a pretty good grid right we have a
+[11:27] pretty good infrastructure here here and
+[11:31] I think that this can play a key role
+[11:34] here um on the meantime another Factor
+[11:37] why I think and this is long term not
+[11:39] just right now right now I agree um the
+[11:42] US is the safe heaven um for become
+[11:44] Mining and I personally also hope it
+[11:47] will be because I think they have this
+[11:49] more you know I would say liberal Spirit
+[11:54] um where you can basically develop nice
+[11:56] business Concepts where you can do
+[11:58] business just um just where you are here
+[12:01] everything is a little bit more
+[12:03] complicated we have to really integrate
+[12:04] the mining which forces us basically to
+[12:08] use hydr cooled machines um which is
+[12:11] basically water cooling and also these
+[12:14] are is a little bit a different approach
+[12:17] right um because um capex capital
+[12:22] expenditure so The Upfront investment is
+[12:25] a little bit higher um but you don't
+[12:28] have so many parts that can be basically
+[12:31] be broken that can break um like it's
+[12:35] the case with air cooled machines um so
+[12:39] I think that miners will more and more
+[12:41] Embrace Europe and I'm talking about you
+[12:44] know three years five years in the
+[12:46] future but as soon as everything gets um
+[12:50] a little bit clearer also regulational
+[12:51] wise I consider personally Europe as one
+[12:54] of the spots to be um beside the US um I
+[12:59] personally am also convinced about China
+[13:02] that they are basically mining already
+[13:05] and they are doing it for a long time I
+[13:07] have been in the Sichuan region um where
+[13:11] where I used to see all the big dams all
+[13:14] the energy infrastructure I I got
+[13:17] invited to see a power plant a Hydro
+[13:19] power plant from the inside which I I
+[13:22] think produced around 60 megawatt or
+[13:24] something um it's insane how much energy
+[13:27] they have there this is basically the
+[13:29] the center of China for energy
+[13:30] production where they distributed all
+[13:32] over over
+[13:34] China and the guys my guides they just
+[13:37] told me that they are pretty convinced
+[13:38] that mining is still going on um
+[13:41] secretly um in in certain circles it's
+[13:45] kind of treated like an Open Secret so I
+[13:48] think China is a good good spot to mind
+[13:51] as well for Chinese companies of course
+[13:53] they won't let um us-based companies in
+[13:57] um so I think there are a couple good
+[13:59] spots in the future and as soon as we
+[14:02] got everything a little bit more clear
+[14:03] here as soon as we have the evidences
+[14:05] about Europe I think we have we are
+[14:06] really good spot to be and your second
+[14:09] question
+[14:11] or yeah politics um of course Bitcoin
+[14:15] didn't play any any kind of role in the
+[14:18] EU elections back in the days I mean I
+[14:20] think it was five or six months ago
+[14:23] right the
+[14:24] elections um but now with Bitcoin
+[14:28] entering new bull run right since it um
+[14:31] touched 100K I mean today is alltime
+[14:34] high day uh we had a lot of these days
+[14:36] in the last couple of weeks
+[14:38] right
+[14:40] um I see more and more interest coming
+[14:44] in from all potential sites
+[14:47] um I see it we are a Bitcoin only
+[14:50] company right we are um building Energy
+[14:53] Solutions but we are also kind of um we
+[14:57] also kind of perceiv received as the
+[15:00] Bitcoin company in Germany so we get a
+[15:03] lot of inquiries not just about mining
+[15:05] but about several topics about lightning
+[15:08] um about payments about you know
+[15:10] Hardware wallets like the people they at
+[15:13] least need someone to talk to and I can
+[15:16] definitely tell you that I observed that
+[15:18] inquiries went went up since the Bull
+[15:21] Run um now we see the Swiss Parliament
+[15:25] um at least introducing a bill for a
+[15:28] strategic Bitcoin Reserve um done by by
+[15:31] Samuel kulman as I'm not um
+[15:34] misinformed we also had the honor at the
+[15:37] beginning of the year to give a workshop
+[15:40] or at least um a company a speech in
+[15:43] front of the German Parliament the
+[15:45] bundestag together with other um big
+[15:48] names in the in the Bitcoin space in
+[15:51] Germany um I heard that Poland is
+[15:55] talking or discussing a a potential bit
+[15:58] uh Bitcoin strategic Reserve um I think
+[16:01] the president candidate there is saying
+[16:05] if he gets elected he'll introduce this
+[16:07] kind of strategic Bitcoin reserve on the
+[16:11] meantime um we see in Denmark um
+[16:16] introducing a bill for you know
+[16:18] realizing or unrealized g capital gain
+[16:21] taxes I think up to 40 something percent
+[16:25] which is crazy just
+[16:27] imagine just by part participating in in
+[16:30] Bitcoin and we all know it's number go
+[16:33] up forever technology just by
+[16:35] participating you are forced to pay
+[16:37] taxes um on unrealist gains um this is
+[16:41] really like a nightmare for me as a as a
+[16:45] as a yeah Freedom loving individual as a
+[16:49] bitcoiner and seeing how how certain
+[16:52] states are discussing this kind of
+[16:54] Taxation for Bitcoin uh we had Italy
+[16:57] introducing a bill for 42% on capital
+[17:00] gains taxes but I heard that they um
+[17:04] stepped back from this they could not
+[17:06] set it up um so I think it's still a
+[17:11] two-sided um or you have two two two uh
+[17:15] two directions in in European politics
+[17:18] but overall I think what matters
+[17:21] is is the is the European politics and
+[17:26] we saw this right shift and before we
+[17:29] were pretty how can I say concerned
+[17:31] about politics but since then it
+[17:34] actually plays no big role for in our
+[17:36] business anymore I mean there is always
+[17:38] this risk of Regulation but now with the
+[17:41] US um coming up with big plans and I
+[17:45] mean politicians may seem
+[17:48] um busy sometimes uh but of course they
+[17:52] see what's going on on financial markets
+[17:54] they see what's going on um in Bitcoin
+[17:57] and they of of course see how how game
+[18:00] theory is playing out and I think at a
+[18:02] certain point um that also German
+[18:06] politicians want to participate on the
+[18:08] upside of Bitcoin um want to at least
+[18:11] see game theory or participate in the
+[18:13] game theory even if we just uh really
+[18:15] famously sold 50,000
+[18:17] Bitcoin um but I think that this
+[18:22] regulational um train of you know don't
+[18:27] embracing the technology is getting
+[18:29] slower slower and slower like Max Kaiser
+[18:32] said before he always said um we will
+[18:35] never see a big amount of States um
+[18:38] forbidding Bitcoin because it makes no
+[18:40] sense for them we will see embracing
+[18:42] them and at least maybe subsidizing them
+[18:45] absolutely I think those
+[18:47] taxes uh there are a lot of socialist
+[18:50] guys that just want to speak up and and
+[18:53] propose things uh and we always have to
+[18:55] wait if it actually comes into law and
+[18:58] we see
+[18:59] that it usually doesn't come into law I
+[19:01] think unrealized C gains is something
+[19:03] like that uh I think even cameel Harris
+[19:06] was discussing it or like mentioning it
+[19:08] I don't know uh if it was just like in
+[19:10] the air or if she actually said it I
+[19:12] don't know uh but it never comes there
+[19:15] because obviously it's a really bad idea
+[19:18] like yes you will you cannot tax
+[19:21] something that hasn't been sold because
+[19:24] the person holding that doesn't even
+[19:25] have the money so you basically force
+[19:27] him to sell his assets every year he
+[19:31] will not do that he will just move to
+[19:32] another count so that that that that
+[19:35] topic is uh on such a high level uh so
+[19:39] obviously a bad idea that I I don't I
+[19:42] don't I don't even want to give it any
+[19:44] air time uh but there are some really
+[19:47] interesting points like the a lot of
+[19:49] interesting points that that you
+[19:50] mentioned first is like China I think
+[19:52] China is super interesting I also talked
+[19:55] with some people with OTC tasks because
+[19:58] ch
+[19:59] doesn't officially allow those those
+[20:02] Bitcoin buys and stuff like that but the
+[20:04] OTC desks they can track to certain
+[20:06] extend the volume that they have from
+[20:09] China and uh it has been tripling since
+[20:15] 20121 uh so they report really high
+[20:18] numbers out of China where people buy
+[20:21] Bitcoin in China just not so officially
+[20:24] and it seems to be the same story with
+[20:27] China for the people that maybe are
+[20:30] newer to the space China Bitcoin mining
+[20:33] in China was really big like I think
+[20:35] they owned a huge amount of miners
+[20:38] before 2021 then there was a big exit uh
+[20:42] and I I would say there's probably still
+[20:45] like a 10% of the network there as as we
+[20:48] all know we we don't know the official
+[20:49] numbers we there's no official numbers
+[20:51] of where Bitcoin mining is uh but it
+[20:54] seems like rough estimates points
+[20:56] towards that uh and I think that could
+[20:59] be true but yeah there's no no no fixed
+[21:02] number um maybe as an interesting
+[21:05] question uh because you also deploy
+[21:07] those those uh projects and you did that
+[21:10] in Ethiopia in Finland um what are the
+[21:13] factors that come into play when you
+[21:15] look at new places to mine Bitcoin like
+[21:18] what are the the things that you look
+[21:21] for you mentioned infrastructure
+[21:22] regulations what what are the things
+[21:24] that you like okay let's let's go back
+[21:26] uh to do this list and what I also
+[21:29] thought is isn't every place where there
+[21:32] are huge data centers also a good place
+[21:34] to just mine Bitcoin there because the
+[21:36] data centers basically have the same
+[21:39] kind of requirements like we have to
+[21:42] find cheap electricity where it's
+[21:44] reliable and uh it doesn't matter where
+[21:47] it is because we just need an internet
+[21:49] connection so first of all um I think we
+[21:54] both agree that the data center industry
+[21:56] is a pretty good one right now to work
+[21:59] in um doesn't matter if you're in AI or
+[22:03] Bitcoin
+[22:04] mining with a continuing digitalization
+[22:07] we need more and more computing power
+[22:09] and we all remember these days like two
+[22:12] years ago when just jet GPT came up and
+[22:15] every second prompt just got denied
+[22:17] because there was no computing power
+[22:19] available um to to process your
+[22:22] prompt and this is getting better and
+[22:24] better and this is because um companies
+[22:27] entities um or yeah at least the
+[22:30] business is increasing in this
+[22:33] industry and we see more and more um
+[22:37] people or businesses embracing it as
+[22:40] well and just to make something clear
+[22:43] again so I have only experience with
+[22:47] mining in Ethiopia and South America um
+[22:52] because we run self mining operations
+[22:55] there um basically we host with other
+[22:58] guys right we host with someone else um
+[23:00] who's basically doing the work there so
+[23:02] the how the business model normally
+[23:04] works is you pay someone to import the
+[23:07] miners the computers and to set them up
+[23:10] and to run them for you because we have
+[23:12] no um experience in Ethiopia how to at
+[23:16] least deploy miners we are not will to
+[23:18] set up a team that is going there to to
+[23:21] take care of the
+[23:22] maintenance and to take care of the
+[23:24] repairs to handle everything so we pay a
+[23:26] flat fee um it's like eight cents per
+[23:30] kilowatt hour that someone takes care of
+[23:33] this for us and we decided um that we
+[23:37] want to expand our self- mining
+[23:39] operations All Around the World in this
+[23:42] style as this is a crucial pillar in our
+[23:45] revenue streams for the company so every
+[23:47] month terahash is doing x amount of um
+[23:51] Revenue by yourself Mining and this is
+[23:55] just one Revenue stream um the other
+[23:57] Revenue stream is really
+[23:59] by our model where we are basically
+[24:02] operat by ourselves this is the case in
+[24:05] Finland now uh where we are operating
+[24:07] this one megawatt Genesis um Data Center
+[24:12] and there we get basically paid from
+[24:15] investors um to run their machines um
+[24:19] this is the second Revenue stream and
+[24:21] the third Revenue stream is of course um
+[24:23] Consulting and setting up um facilities
+[24:27] here in Germany
+[24:29] helping and finding how basically
+[24:32] interested parties um like District
+[24:35] heating companies energy companies can
+[24:37] Implement mining in their in their
+[24:41] businesses
+[24:42] and sorry what was your question again I
+[24:46] originally asked of like where how what
+[24:49] are the factors in involved in like what
+[24:51] is the best place yes so typically I I
+[24:55] already mentioned it um before um we I
+[24:58] mean the overall criteria are internet
+[25:02] and electricity this is the most
+[25:04] important you don't need a strong
+[25:06] internet connection you don't need
+[25:07] fiberglass um I always say it's enough
+[25:10] to basically run one stalling and you
+[25:13] can um at least run two or three
+[25:15] containers of miners with one stalling
+[25:18] that is enough I have seen this in
+[25:20] Canada in the US where people just
+[25:22] basically run their containers somewhere
+[25:24] in the desert next to an old um oil
+[25:27] field and and have no grid connection or
+[25:30] no no no fiberglass and they just
+[25:32] install the stalling and then I mean it
+[25:36] also depends especially on your
+[25:39] electricity rate so how much do you have
+[25:41] to pay for the
+[25:43] electricity um I would say that Opex so
+[25:48] the operational expenditures um the
+[25:50] costs per per kilowatt hour makes at
+[25:54] least 80% of your business um so or at
+[25:59] least electricity costs make 80% of the
+[26:02] cost of your business and the rest is
+[26:04] like maintenance um Administration all
+[26:06] this stuff but 80% of your business
+[26:09] costs are related to energy costs so
+[26:12] these um are playing a key
+[26:14] factor and I know that many people have
+[26:18] no yeah no clue about what what um price
+[26:23] per kilowatt hour is mining still
+[26:25] profitable um of course it depends on on
+[26:28] the side between um beer markets and
+[26:30] bull markets um bull markets is highly
+[26:33] profitable if I break it down per
+[26:35] kilowatt hour you can make with the
+[26:38] newest machines something between 20 to
+[26:40] 25 cents per kilowatt hour in the bull
+[26:43] market and in the Beer Market you're
+[26:46] close to five maybe four cents depending
+[26:48] on your equipment um so in general we
+[26:52] see the industry around I would say
+[26:55] public miners have an average around
+[26:57] seven cents
+[26:58] um smaller miners that are more flexible
+[27:01] in moving that don't have to satisfy
+[27:03] shareholders that can more or less um or
+[27:06] that are more or less a little bit you
+[27:08] know more dynamic in in in adapting to
+[27:11] new um circumstances I would say they
+[27:15] are operating between three and a half
+[27:18] and six to seven cents and then of
+[27:22] course you have this high risk High
+[27:24] return um operations um which are
+[27:27] basically too much risk for for a lot of
+[27:30] people they get busted all the time and
+[27:33] uh what I mean with that is when you
+[27:35] basically send your container over to
+[27:37] Venezuela where you have a anti- Bitcoin
+[27:39] State and um yeah they are seizing
+[27:43] mining containers regularly but you
+[27:45] basically get electricity for one cents
+[27:48] half a cent or
+[27:49] something and um so electricity rate is
+[27:53] a key factor for for for choosing the
+[27:55] right mining operation or mining site
+[27:59] um and what's pretty interesting so how
+[28:01] we choose our um or how we look at the
+[28:05] the yeah the choosing of mining sites is
+[28:09] basically um how can we integrate mining
+[28:12] there are there several hours where they
+[28:14] always have excess energy is electricity
+[28:17] needed 24/7 is there maybe heat needed
+[28:20] 24/7 that we can sell to at least lower
+[28:23] our price um what do I mean with that is
+[28:26] basically you pay let's let's say x
+[28:29] amount of cents per kilowatt hour for
+[28:31] electricity rate um and you get x amount
+[28:36] um of cents per kilowatt hour sold heat
+[28:40] and if you do the counting between those
+[28:42] big uh those both numbers you can
+[28:45] basically say okay I can lower my
+[28:46] electricity rates maybe to to a
+[28:49] profitable range inside a profitable
+[28:51] range um and this is mostly the case in
+[28:56] in countries where you have a
+[28:59] yeah a specific infrastructure that
+[29:01] allows for that um we already talked
+[29:04] about more Dynamic electricity
+[29:07] generation in Europe this is because of
+[29:09] this is because of the Renewables right
+[29:12] um we build out a lot of solar a lot of
+[29:14] wind and if the wind is blowing we got a
+[29:17] lot of electricity if the sun is shining
+[29:19] we got a lot of electricity if the Sun
+[29:21] is not shining we have less electricity
+[29:24] so our production curve and electricity
+[29:26] is more
+[29:28] Dynamic um so on the other side we need
+[29:30] a more Dynamic um consumer but it also
+[29:34] means that PPA which stands for power
+[29:37] purchase agreements which is basically
+[29:39] what we as private people have um like
+[29:42] long-term energy contracts hey you
+[29:45] signed this contract for five years you
+[29:47] have a fixed rate for um 30 cents per
+[29:50] kilowatt hour um these are so-called
+[29:53] ppas and now we are seeing more and more
+[29:55] that companies have to join the spot
+[29:57] markets for energy so they have to
+[29:59] manage their um how they buy electricity
+[30:03] basically and this is something which
+[30:06] makes it obviously more
+[30:09] complicated um because the electricity
+[30:11] Market is pretty volatile but it makes
+[30:14] it also pretty interesting as if you
+[30:17] have a good trading department and you
+[30:19] know how everything works you can really
+[30:21] achieve good achieve good prices um
+[30:24] electricity prices um so yeah on one
+[30:27] hand it's a challenge on the other hand
+[30:29] it's um it's a benefit and for this you
+[30:32] need of course a proper regulational
+[30:35] setup um to doing this trading and this
+[30:38] is mostly the case I mean Finland is the
+[30:40] perfect example um they have low taxes
+[30:42] or transmission grid fees they have a
+[30:45] really liberalized um energy markets
+[30:49] where you can at least um do good of
+[30:51] this um buy stuff where you can buy
+[30:55] electricity um if you know what you're
+[30:57] doing in a good in a good way and they
+[31:00] have um this open interest in exploring
+[31:03] with Bitcoin mining um but now we also
+[31:06] see tendencies in Germany unfortunately
+[31:08] I don't know about um Austria but I
+[31:11] heard about some really interesting
+[31:12] going ongoing projects in Austria as
+[31:14] well for grid
+[31:16] stabilization that our transmission grid
+[31:19] fees in Germany are about to become
+[31:22] flexible which basically means um that
+[31:26] in peak times when a lot of
+[31:28] electricity um is in the grid that
+[31:32] so-called grid prioritizing assets like
+[31:36] Bitcoin mining that you can just turn on
+[31:38] to consume over capacities get a better
+[31:41] rate of transmission grid fee than other
+[31:43] assets that um are basically um
+[31:46] delivering still to the Grid at the same
+[31:48] time if there's not a lot of um energy
+[31:50] in the grid um transmission fees uh
+[31:53] transmission grid fees will will spike
+[31:55] in price so we are getting a more I
+[31:59] would say yeah we are now coming closer
+[32:02] to Market mechanisms um a little bit
+[32:04] away from just saying hey our fix our
+[32:07] fixed transmission grid fee is 7% or
+[32:09] seven cents to a more I would say called
+[32:12] free market mechanism where it says okay
+[32:15] in case that there are overc capacities
+[32:17] transmission fees transmission grid fees
+[32:20] will get lower and um in case that
+[32:22] there's not a lot of energy available um
+[32:25] taking or sucking energy out of the grid
+[32:27] will get more expensive so that
+[32:29] incentives play a bigger role than just
+[32:32] um than just regulation I partnered up
+[32:35] with coin vigilante this is the most
+[32:38] beautiful Bitcoin time piece that I ever
+[32:41] saw created by anyone look at that
+[32:44] beauty I love it so much coin vigilante
+[32:47] made in perfect Bitcoin watch that's the
+[32:50] perfect subtle elent way to go out there
+[32:53] and show that you are a bitcoiner and
+[32:56] that watch brand is Bitcoin only and
+[32:59] coin vigilante just dropped a completely
+[33:02] new and amazing Genesis edition of their
+[33:05] watch collections you have the date of
+[33:08] the first ever mined Bitcoin Block in
+[33:11] there and of course also the block
+[33:13] height and which EPO we are currently in
+[33:17] I love the level of detail they put in
+[33:20] in this masterpiece and make sure to
+[33:22] check out those amazing coin vigilante
+[33:25] time pieces down in the descriptions I
+[33:28] love those watches so so much if you
+[33:31] watch or listen to my podcast on a
+[33:33] regular basis I guess you already bought
+[33:36] some Bitcoin and now the most important
+[33:38] step is to keep the Bitcoin keep them
+[33:41] secure in a hardware wallet my personal
+[33:44] recommendation for Hardware wallet is
+[33:46] the bitbox it's super secure it's simple
+[33:48] to set up it's also perfect gift for a
+[33:51] friend who has still the Bitcoin on an
+[33:54] exchange and you can get a 5% discount
+[33:57] with the code Robin at the checkout
+[33:59] visit bitbox do Swiss robobin to get
+[34:03] your bitbox and the next step is to
+[34:06] really level up your sovereignty as an
+[34:08] individual you have to have the most
+[34:10] secure self- custody setup you have to
+[34:13] secure your own devices you have to
+[34:16] protect your privacy you have to set up
+[34:19] an inheritance plan and depending on
+[34:21] where you live you even want to have a
+[34:24] plan B a citizenship where you can move
+[34:26] in case some something goes really
+[34:28] really wrong and through all those steps
+[34:30] the Bitcoin way is guiding you through
+[34:33] step by step and if you visit the
+[34:35] bitcoin.com
+[34:38] partners robobin you even get a 30
+[34:40] minute free call to find out how you can
+[34:43] level up your sovereignty that's a good
+[34:46] point and uh I talked with how is it
+[34:49] called I think Max from 21 energy uh
+[34:53] about that on the podcast just a a few
+[34:56] weeks maybe a month ago something like
+[34:57] that
+[34:58] they actually do that in Austria also
+[35:00] with a container and they're basically
+[35:02] getting paid to be ready to take on
+[35:06] electricity that is too much in the in
+[35:09] the grid right now and they are running
+[35:11] it maybe 30 minutes maybe 20 minutes a
+[35:14] day but they're getting paid on the off
+[35:17] time which is a great deal uh it makes
+[35:20] it's profitable for for mining Bitcoin
+[35:22] and it helps Austrian crit uh to be more
+[35:26] stable uh and I think there are some
+[35:28] there are some advantages that are just
+[35:30] a no-brainer to Bitcoin
+[35:32] mining outside of being securing the the
+[35:37] most amazing money ever but just the
+[35:39] fact that you can stabilize the grid uh
+[35:41] just the fact that you can lower
+[35:43] electricity cost in certain areas uh and
+[35:46] you can use it for for heat uh reuse
+[35:50] there are amazing projects like that
+[35:52] also uh so Bitcoin mining seems to be if
+[35:56] you really look closer uh for everyone
+[35:59] that is in the energy sector or wants to
+[36:02] be in the energy sector really a
+[36:04] no-brainer and what what annoys me the
+[36:07] most as we talked before about uh
+[36:11] politics and now about energy that mix
+[36:13] up is does not uh is not nice for me
+[36:17] it's like th those politicians that
+[36:19] should be for green energy that should
+[36:21] be for um how can we make the uh energy
+[36:25] more renewable how can we make all those
+[36:27] things they against Bitcoin I mean the
+[36:29] energy F of of Bitcoin I don't know I
+[36:32] don't hear a lot of it of it anymore I
+[36:34] think since this year especially since
+[36:36] black R came into space since like a lot
+[36:38] of things came into space it's just not
+[36:41] a uh not a topic of discussion anymore
+[36:44] but there still like it it needs a
+[36:45] little bit time to to probably blow off
+[36:49] even more uh but it's it's super
+[36:52] interesting how useful Bitcoin mining is
+[36:56] outside of the thing that it actually
+[36:59] does like securing
+[37:01] Bitcoin even outside it's just like an
+[37:03] amazing uh tool for that so yeah I'm
+[37:07] just like I'm really amazed the more and
+[37:08] more I look into it and I'm I'm getting
+[37:11] to be a Bitcoin mining fan and and maybe
+[37:13] I have to look into 2025 a little bit
+[37:16] more and uh educate myself even more in
+[37:19] that space because till now I just like
+[37:21] ignored that uh space of Bitcoin too
+[37:24] much yeah that's that's a good point
+[37:27] what you just say right said right now
+[37:30] um I I don't know since when are you in
+[37:32] in Bitcoin Robin uh I'm approaching my
+[37:36] uh the my fifth year so like I'm now
+[37:38] four and a half years I think into
+[37:41] Bitcoin so from my point of view you're
+[37:44] an OG I joined the space in
+[37:47] 21 I joined the space in
+[37:49] 21 and I grew up with this Narrative of
+[37:53] Bitcoin is using too much energy when I
+[37:56] talk with people um at the beginning of
+[37:59] my journey I mean we all know how it is
+[38:01] as soon as you got orange pilled you
+[38:03] start to talk to people and say hey I
+[38:04] found the solution for everything um
+[38:07] Bitcoin is doing this Bitcoin is fixing
+[38:09] that um where I actually also lost a lot
+[38:13] of people on bitcoin that's that's also
+[38:15] part of the TR um understandably right
+[38:18] um but this narrative was always around
+[38:22] or it it just evolved during that time
+[38:25] and there was a recent article or a
+[38:28] recent um Graphics that showed where all
+[38:31] of this fut is actually coming from and
+[38:34] it's basically from a guy um I think he
+[38:36] works for the European Central Bank uh
+[38:39] which is called Alex Def and he was
+[38:42] setting up all this narrative Bitcoin is
+[38:44] using so much energy like Sweden or you
+[38:48] can you know all of of this um trash
+[38:51] without looking into the benefits that
+[38:54] energy usage is actually not something
+[38:57] bad
+[38:58] um that you have a correlation between
+[39:00] wealth and um the ability to use energy
+[39:03] for you as humans right I always point
+[39:06] back to the to the to the point where
+[39:09] humans manag to to to control fire right
+[39:12] suddenly we were able to to to see in
+[39:15] the dark we were able to cook our food
+[39:17] which extended our
+[39:19] lifespan and um this was just the one of
+[39:22] the first examples how we managed to to
+[39:25] to get control over energy and it's the
+[39:28] same like with industrialization
+[39:29] suddenly we we're much more productive
+[39:32] and I think that energy consumption in
+[39:34] general is a good thing it always
+[39:36] depends um from which source is this
+[39:38] energy
+[39:39] coming and this has been completely out
+[39:42] of context um so far I know or as far as
+[39:46] I
+[39:47] know um something between 50 to 60% or
+[39:53] 70% um and it's an increasing number is
+[39:57] coming out of Renewables um the main
+[40:00] driver behind bitcoin's energy is is um
+[40:03] Hydro energy um as it's cheap as it's
+[40:06] 247 available and we see a more and more
+[40:11] increasing adoption of Renewables like
+[40:13] wind and solar um and it's the only it's
+[40:17] the only industry that is basically um
+[40:19] searching its way through own incentives
+[40:22] into this uh renewable sector as this is
+[40:24] the cheapest available energy right um
+[40:28] coal gets more and more expensive um as
+[40:31] it say fined
+[40:33] commodity um we had this um stories in
+[40:36] Kazakhstan where you paid basically like
+[40:38] two cents or something per kilowatt hour
+[40:41] um which was out of coal but this was
+[40:43] just because it was subsidized by the
+[40:45] state um in the free market miners have
+[40:49] the incentive to look for the cheapest
+[40:50] energy sources and they are tapping more
+[40:53] and more into renewable sources where
+[40:55] nobody else can basically use the energy
+[40:57] I have been into Paraguay like one year
+[41:00] ago and suddenly I just saw a data
+[41:03] center in the middle of the
+[41:06] Jungle and I think um and this brings me
+[41:10] back to your question um the data center
+[41:14] industry basically is is is growing and
+[41:18] you have to make a big difference
+[41:20] between conventional data centers what
+[41:22] do I mean with that I mean I mean we are
+[41:25] all always the um the ex ones with our
+[41:28] Bitcoin mining container right um we can
+[41:30] set it up really quick we don't have
+[41:34] that much costs and infrastructure we
+[41:36] basically just need the cooling um we
+[41:39] don't need a
+[41:40] fiberglass um internet connection so we
+[41:43] are more like the way quick and dirty we
+[41:47] can do um tap into into sources that are
+[41:50] available immediately we can send our
+[41:52] container to start uh and we are able to
+[41:55] interrupt our operations this is really
+[41:57] important important this is one of the
+[41:58] main differences between Bitcoin mining
+[42:01] data centers and conventional data
+[42:03] centers like AI Netflix Amazon um you
+[42:06] name it because you have um users on the
+[42:10] servers right just imagine Robin um
+[42:12] after a long day of work you're sitting
+[42:14] on your couch you're laying on your
+[42:15] couch um having your drink just wanted
+[42:17] to watch a little bit of Netflix or you
+[42:19] want to stream um a match and then
+[42:23] suddenly servers turn down and you can't
+[42:26] see your match right right um so the
+[42:28] costs or the opportunity costs are
+[42:30] pretty high here for these data center
+[42:32] op
+[42:33] operators and basically they all get
+[42:36] paid for providing a 100% up time um
+[42:41] which is not the case with us we get
+[42:43] paid for providing flexibility in in in
+[42:45] switching on and switching off our data
+[42:48] centers and another big difference is
+[42:51] and this is just you know for different
+[42:54] investor profiles I would say um AI data
+[42:58] centers or conventional data centers
+[43:01] they have a
+[43:02] higher is it called
+[43:04] Tire um Tire level which basically is
+[43:08] how
+[43:09] redundant does infrastructure needs to
+[43:11] be how safe it needs to be against um
+[43:14] outages how important are the operations
+[43:17] that are going on there so they have a
+[43:20] higher level of these which basically
+[43:22] leads to a much more higher capex
+[43:25] investment and and gener speaking um we
+[43:30] see
+[43:31] Tendencies for yeah you can just briefly
+[43:35] roughly calculate for one megawatt of
+[43:36] bitco mining which is basically one one
+[43:38] container you can calculate something
+[43:41] between 600 up to 1
+[43:44] million, um$ 600,000 up to $1
+[43:48] million and in the AI it's more
+[43:51] something like 10 times that investment
+[43:53] so one megawatt costs around um six up
+[43:58] to 10 maybe up to 15
+[44:00] millionar and but of course your returns
+[44:03] per kilowatt hour are also higher than
+[44:05] in Bitcoin mining Bitcoin mining is
+[44:07] really competitive it's Cutting Edge um
+[44:11] so these are I would say the main
+[44:13] differences between between Bitcoin
+[44:15] mining and conventional data centers
+[44:18] that's super interesting I never thought
+[44:19] about that because yeah Bitcoin miners
+[44:23] um you don't have a reputation cost to
+[44:26] it like if if your Netflix movie all of
+[44:29] the sudden is not streaming you're
+[44:31] hitting on Netflix you're paying for
+[44:32] something that you could get
+[44:35] illegal St might be better than than the
+[44:38] the than the legal stuff that you pay
+[44:40] for um so obviously you don't want that
+[44:43] you you pay for the convenience and the
+[44:45] service for Bitcoin miners yes of course
+[44:48] it's better if it has 100% up time but
+[44:50] if it's 99% up time you only lose 1% uh
+[44:55] if uh if uh if if a Netflix subscription
+[44:58] is down 1% it might be down on the wrong
+[45:01] 1% it has and it has like a 10% impact
+[45:03] or like a 15% impact which is a really
+[45:06] interesting thing that I never thought
+[45:07] about it's also you mentioned it before
+[45:09] a little bit um starlink probably is a
+[45:13] real game changer for for Bitcoin miners
+[45:16] to have available internet basically
+[45:19] everywhere where you go like there's
+[45:21] like can if you have a clear point to
+[45:24] the sky you you have internet if I
+[45:27] understood it correct I don't have a
+[45:29] styling till now but I really want to
+[45:31] get one I'm in a contract with Austrian
+[45:33] company and if that runs out I probably
+[45:36] get a styling because then I can just
+[45:38] take that internet with me all around
+[45:41] the world so that that that probably is
+[45:43] a really interesting uh was a good good
+[45:46] one it's it's it's just you know one
+[45:49] part of or
+[45:51] one piece of the puzzle to decentralize
+[45:54] mining more and more and
+[45:57] this is also a point I wanted to make
+[46:01] um regarding to your point you or to the
+[46:04] topic you you talked before that you
+[46:06] have to educate yourself a bit into bom
+[46:09] mining um I mentioned already a couple
+[46:13] of times that it is getting a highly
+[46:16] specialized industry right um so the
+[46:20] times where people are mining on the
+[46:22] laptops or at least um yeah just running
+[46:26] one Miner um for for creating or for
+[46:29] mining reasons uh mostly over and this
+[46:34] is a personal how can I say it's
+[46:36] personally really important for me that
+[46:38] people are well educated in mining that
+[46:40] they understand what they are doing and
+[46:42] from my perspective um it's kind of
+[46:45] misleading if you think about to invest
+[46:48] into two or three Miners and run them
+[46:51] somewhere in the data center um
+[46:54] overseas um because actually I mean I'm
+[46:58] now coming from a German
+[47:00] perspective the reason is this um as
+[47:02] soon as you are deploying just one minor
+[47:06] and I'm not talking about the nerd Miner
+[47:08] From Nerd Miner de I'm talking about a
+[47:11] real minor
+[47:13] right um as soon as you're deploying one
+[47:15] minor you actually have to um run a
+[47:19] company for that as you are being
+[47:22] considered as doing business you have to
+[47:25] run a business for this and and what
+[47:28] business brings is um the obligation to
+[47:31] do taxes to do all of these kind of
+[47:35] stuff right and this is something where
+[47:38] not a lot of um mining providers service
+[47:42] providers talk about as it's basically
+[47:44] not a problem right um what happens with
+[47:47] the taxes of the customers um but I
+[47:50] think um or at least yeah to do the to
+[47:54] do the um accounting for just one Miner
+[47:58] will take fixed costs of around
+[48:01] $1,500 a year even if you don't have a
+[48:04] lot of revenues there um but it's just
+[48:07] like the normal thing you can I mean a
+[48:10] holding also consumes like one and a
+[48:11] half k um for for accounting and this is
+[48:15] just money you won't get in with M with
+[48:18] mining just with one machine so it makes
+[48:21] basically no sense to just from a from
+[48:23] an investment perspective um to just buy
+[48:26] one machine uh two machines five
+[48:29] machines and let them
+[48:31] run um I think the market will change
+[48:33] here as well um as we see a big retail
+[48:36] market right now um but and honestly we
+[48:41] thought about doing this as well because
+[48:43] we are bitcoiners from hard right and we
+[48:46] want to do mining accessible for
+[48:49] everyone um but it's just not profitable
+[48:53] and I think as bitcoiners we also know
+[48:55] how important it is that at at least
+[48:57] business is running profitable and this
+[48:59] is why we decided for our approach our
+[49:02] company um our investors that we are
+[49:04] just dealing with institutional
+[49:06] investors um that it is basically you
+[49:09] know um kind of fun for everyone and
+[49:12] that nobody is at least disappointed
+[49:15] because as soon as you have disappointed
+[49:17] clients everything everything starts to
+[49:19] be a little bit
+[49:21] um yeah um not that nice um we have less
+[49:26] clients that's another big Advantage for
+[49:29] us um just imagine you have to fill up
+[49:31] one data center with one megawatt with
+[49:33] 300 different clients and instead of
+[49:37] maybe two or three clients makes a big
+[49:40] difference so yeah if you're considering
+[49:43] maybe I mean I get a lot of in uh
+[49:46] messages on LinkedIn um or or via email
+[49:49] if they can just run one machine with us
+[49:53] and I always tell them think properly um
+[49:56] bring them my arguments I present them
+[49:58] my arguments and most of them then
+[50:00] decide against a Bitcoin mining
+[50:02] investment I mean you also have a lot of
+[50:04] upsides right you have a constant cash
+[50:07] flow um you diversify a little bit um I
+[50:11] met a lot of people that say hey I have
+[50:13] a lot of Bitcoin and now I want to
+[50:15] diversify in case the on- Rams get gets
+[50:18] closed like I don't know exchange or
+[50:20] whatever I still have my access to my
+[50:23] Bitcoin so there when I talk with
+[50:26] different investors 10 different
+[50:27] investors means 10 different um ideas or
+[50:31] reasons why they want to invest into
+[50:33] Mining and um yeah just just uh this
+[50:38] little s uh information for you that you
+[50:41] you should think properly mining is a
+[50:43] real industry um mining is real business
+[50:46] it's highly competitive and I think you
+[50:50] can pretty fast run into a risk of not
+[50:54] investing yeah not investing um properly
+[50:59] when you just set up with one or two
+[51:01] miners which is an interesting topic
+[51:04] because uh mining is such a uh important
+[51:08] thing for Bitcoin and we we need it to
+[51:11] be as decentralized as possible and we
+[51:14] now have basically three four Bitcoin
+[51:17] mining pools that uh have the majority
+[51:21] of the the the network um ocean is
+[51:24] trying to do interesting stuff on that
+[51:26] front um there is not too many Hardware
+[51:30] providers uh and they are also not uh
+[51:33] being as as transparent as they might
+[51:36] could be uh so like there are a lot of
+[51:39] interesting uh discussions around uh
+[51:42] that that topic I not an expert on that
+[51:47] I just see uh there's like that could be
+[51:50] problems arising do you see
+[51:53] any do you have any bad feelings around
+[51:56] my
+[51:57] where you see like oh maybe it's not
+[52:00] decentralized enough like for me it is
+[52:03] like there's never a 100%
+[52:06] decentralization um and Bitcoin is by
+[52:09] far the most decentralized of all
+[52:12] Technologies like those facts are just
+[52:14] just true for me um but I think we can
+[52:17] always work towards getting more
+[52:19] decentralized game more secure getting
+[52:21] more robust of a network especially if
+[52:23] we unload more and more people on the
+[52:25] network uh how do you look at Bitcoin
+[52:28] mining from a perspective of uh Bitcoin
+[52:31] Network Health standpoint and Mining
+[52:34] being one of the yeah three major
+[52:37] pillars of like Bitcoin hodlers of uh
+[52:40] full note Runners and stuff like that um
+[52:42] how do you look at that yeah it's pretty
+[52:44] interesting I think um the best way to
+[52:47] describe it is in the words of my old
+[52:51] friend Bob Bernett um which I met back
+[52:53] in the days in Prague um CEO of Barefoot
+[52:56] mining co-founder of ocean pool beside
+[52:59] um Luke the Shire I probably
+[53:03] mispronounced it and Ja
+[53:05] dors and he always said that it's really
+[53:09] important that we have a healthy mix of
+[53:11] you know mining facilities in in the
+[53:15] ecosystem and what he means is basically
+[53:17] the size of the mining systems or um
+[53:21] mining facilities um back in the days
+[53:25] like one year ago I have been to Texas
+[53:28] um to get inside knowledge into the
+[53:31] market and me and my colleague we we we
+[53:36] just passed at the Rock fac facility of
+[53:39] Riot platforms which is one public
+[53:42] traded minor um traded at the NASDAQ I
+[53:46] guess and they are now setting up their
+[53:50] corana facility which has a total
+[53:53] capacity of 1
+[53:55] gaw um just for comparison one gwatt is
+[53:59] what you know nuclear power plants can
+[54:01] do so they are basically installing or
+[54:04] setting up their facility um that is
+[54:07] roughly consuming the energy of one
+[54:09] nuclear power plant and they are public
+[54:12] on grid right um so if you would now
+[54:16] imagine that these um these facilities
+[54:19] we call them elepant as they are pretty
+[54:21] you know strong and big but easy to hunt
+[54:25] basically um and as soon as America or a
+[54:30] state would decide to turn down
+[54:33] electricity for these minus what would
+[54:35] happen then if we only have these
+[54:37] elephants in the
+[54:38] ecosystem we would see a significant
+[54:41] drop in hash rate right and if we still
+[54:44] would have um 2,000 blocks to go until
+[54:48] the difficulty adjustment um but see at
+[54:52] least um I don't know a 50% drop in hash
+[54:55] rate this could take months or years
+[54:58] until we reach the new difficulty
+[55:00] adjustment which um could really at
+[55:03] least harm the network and um so I can
+[55:07] see this um this Vector but I think it's
+[55:10] getting better and better we can see a
+[55:13] trend that a lot of so-called horses are
+[55:17] coming up they are midsize um they are
+[55:20] basically seable but they're not that
+[55:22] easy to hunt they are more flexible
+[55:24] right and my Bob refers to that
+[55:27] facilities I think something between 500
+[55:30] kilowatts or several hundred kilowatts
+[55:32] which is basically 20 to 50 miners up to
+[55:37] I think um something like five five
+[55:41] megawatts or something and these are
+[55:44] more flexible these facilities are
+[55:46] mostly um build it in
+[55:49] containers um many of them especially in
+[55:52] Canada and um Texas or America are not
+[55:56] on grid they are off grid so they have
+[55:59] no public grid connection they are not
+[56:00] affected by actions that are going on
+[56:02] the grid um so they can continue
+[56:06] producing Bitcoin um or at least
+[56:09] continue um their mining operations even
+[56:12] if the grid is going
+[56:14] down and um then at last we have the
+[56:18] rabbits so-called rabbits and these are
+[56:22] practically um impossible to hunt right
+[56:25] um You can maybe catch one or two but
+[56:28] you can't get all the rabbits and um
+[56:31] these are basically single miners right
+[56:33] they have one or two miners maybe at
+[56:35] home heating their homes um maybe
+[56:37] someone is just um fanatic enthusiastic
+[56:41] about mining running one minor and um
+[56:45] these are the people you can't catch
+[56:46] these are the miners you can't basically
+[56:48] catch as you don't know where's mining
+[56:50] where who's actually running just one
+[56:52] minor these can be all the holes around
+[56:54] us we wouldn't know it right and I think
+[56:57] um for a healthy mining ecosystem we
+[57:00] really need a proper mix of these
+[57:03] different um types of mining facilities
+[57:06] and I think this is going forward so we
+[57:09] are building our or we focused on horses
+[57:13] basically um 21 energy
+[57:16] maximilan the guy the CEO of 21 energy
+[57:20] you mentioned before is selling um they
+[57:23] are selling their heaters right where
+[57:25] they have one two three minus inside so
+[57:28] I would put them more in the category of
+[57:30] of the rabbits um even if I know that
+[57:32] they're working on really nice products
+[57:34] coming up um that are a little bit
+[57:36] bigger um and we also see a healthy I
+[57:41] think growth or strategies in the public
+[57:43] traded miners um which is basically
+[57:46] really interesting we all know Bitcoin
+[57:48] is all about Game Theory
+[57:50] right and public traded miners in
+[57:53] general have the highest costs of
+[57:54] production which basically means
+[57:56] um they have the highest cost of
+[57:59] electricity and you know also how it is
+[58:02] as a bitcoiner sometimes you start to
+[58:04] philosophi about potential scenarios um
+[58:08] about certain certain
+[58:11] plans and we are seeing now that big
+[58:13] miners like Mara or I think Riot was the
+[58:17] recent one are playing the micro
+[58:20] strategy game they are starting to issue
+[58:23] senior convertible notes for a 0%
+[58:26] interest and buying Bitcoin with that um
+[58:30] instead of only focusing on mining so
+[58:32] they are basically open up a new
+[58:34] business field and yeah the game theory
+[58:38] behind this is as well they have
+[58:40] shareholders and they somehow have to
+[58:41] satisfied the shareholders and their
+[58:43] shareholders normally they they don't
+[58:46] care how they get satisfied is it if
+[58:48] it's really Bitcoin mining or if it's
+[58:50] just like buying Bitcoin mining and
+[58:52] having higher returns per
+[58:53] share and um maybe we'll see some some
+[58:58] public traded companies you know opting
+[59:00] out their original business operational
+[59:03] mining to the Michael sailor um business
+[59:07] model um this is just a a side thought
+[59:10] from myself um I don't know if this is
+[59:12] going to happen it was just funny I had
+[59:14] this thought or I came up with this
+[59:16] thought like uh two months ago and
+[59:18] suddenly Mara is issuing the senior
+[59:19] convertible notes buying
+[59:22] Bitcoin and um another big vector I
+[59:26] think this is honestly like the biggest
+[59:28] bottleneck are the
+[59:30] pools um you have 50% of the Bitcoin
+[59:34] Network controlled by two pools roughly
+[59:38] 50% and these are End Pool and Foundry
+[59:41] one is us one is Chinese and
+[59:45] um then you have the the remaining 50%
+[59:50] maybe divided into six seven eight pools
+[59:54] and the rest is basically playing no
+[59:55] role
+[59:57] and the problem here is that you don't
+[59:59] know what's going on behind the curtain
+[60:01] these pools are basically companies they
+[60:03] are not open source so we don't really
+[60:06] know what's going on um they have their
+[60:09] systems like fpps which stands for a
+[60:12] full pay per share which is basically
+[60:14] one mechanism how miners get
+[60:17] compensated um but we actually as a
+[60:20] minor we can't compare different pools
+[60:23] pretty good um who's paying more who's L
+[60:26] as machines are going down sometimes um
+[60:29] we have technical issues in providing
+[60:31] our hash rate to the pools whatever and
+[60:34] I personally see it as a bottleneck
+[60:36] because we already had these cases where
+[60:39] rep pool censored transactions I think
+[60:41] it was one of the big pools um I don't
+[60:43] know if it was the Russian one via BTC
+[60:47] um the Chinese one end pool or the the
+[60:49] the American Foundry um but basically
+[60:53] they have a lot of power right and as
+[60:56] right now or as the industry is working
+[60:59] right now pools have the authority to
+[61:02] give the miners to provide the miners
+[61:05] the template that they should look for a
+[61:08] V for a valid hash right so they provide
+[61:10] all the transactions they choose the
+[61:12] transactions that the miners have
+[61:14] to um that the miners have to um
+[61:19] execute and in order to to prevent
+[61:23] future problems with the
+[61:25] decentralization and especially sensor
+[61:27] resistance of Bitcoin I think such
+[61:30] projects like ocean um deserve a lot of
+[61:34] um at least public attraction or um yeah
+[61:40] deserved um public attraction because
+[61:42] they are fully open source um they they
+[61:46] they do good stuff for miners we get um
+[61:49] we get fresh fresh Bitcoin directly from
+[61:51] the blockchain when we work with the
+[61:53] normal pool um we provide our hash rate
+[61:57] and the pool is sending us Bitcoin that
+[62:00] they had before so we don't know where
+[62:02] the Bitcoins are basically coming from
+[62:04] are they have they been used in ille
+[62:06] illegal um transactions in criminals
+[62:10] whatever and with ocean it's different
+[62:12] you get the coinbase or you get your
+[62:14] share of the coinbase transaction which
+[62:16] is basically the transaction um
+[62:19] triggered as soon as a valid block has
+[62:22] been found the big problem here is um um
+[62:26] how do you enter a pretty big system
+[62:30] with a pool that is new and has almost
+[62:33] no hash rate right um because who is
+[62:36] joining a pool that is doing no revenues
+[62:40] um so this is always the the
+[62:42] problem and I think ocean is now running
+[62:46] with around four exra hashes um which is
+[62:51] not nothing but it's also not that big
+[62:53] right uh we have almost 800 EXA hashes
+[62:56] in the in the Bitcoin mining ecosystem
+[62:59] right now so we still have a long way to
+[63:01] go there but we are fully supporting
+[63:04] this approach um we are running a first
+[63:07] um test phase with our machines we
+[63:09] pointed 50 Peter hases to to to Ocean to
+[63:13] see how everything is going and I have
+[63:16] to say I like this open transparent um
+[63:19] approach and I think it's crucial for
+[63:22] all um at least miners but ALS so
+[63:25] Bitcoin is to at least be aware of this
+[63:28] potential um Vector
+[63:33] because I think there's also a lot of
+[63:36] misunderstanding in the space because we
+[63:38] always argument with yeah if one pool is
+[63:40] um doing will'll change over to
+[63:42] another pool but we saw this a lot of
+[63:44] times and actually nobody's changing
+[63:46] their pools um so I understand the I
+[63:51] understand the theory behind it but um
+[63:55] yeah
+[63:56] in in in in Practical terms it just
+[63:58] looks different and it's still a big
+[64:00] problem so I really hope that we'll see
+[64:03] a lot of work going into
+[64:04] decentralization of pools in the future
+[64:07] in open source pools um that we can
+[64:10] really tackle this problem which I see
+[64:12] personally as one of of a critical
+[64:17] problems in in in Bitcoin we need more
+[64:20] pools and not just the ones that we we
+[64:23] jump into really exactly yeah basically
+[64:26] there are a lot of pools I mean there
+[64:27] are really a lot of pools you can look
+[64:29] them up but the problem is how do you
+[64:31] get to a critical mass of hash r or
+[64:35] users um that it's you know that it's um
+[64:39] that you're running profitable as soon
+[64:40] as you join the pool because if you just
+[64:42] find one block um every three years the
+[64:45] pool is not working profitable which
+[64:47] basically means um no miners joining the
+[64:49] pool right exactly um I think I just was
+[64:54] like uh so people have some something to
+[64:56] look at for the people that don't have
+[64:58] the visual I just pulled up from mol.
+[65:01] space at the mining dashboard uh the
+[65:04] pool distribution and there we can see
+[65:06] Foundry USA has uh 3 uh 2% 33% actually
+[65:12] uh we have and poool with 20% and then
+[65:14] via PTC with around
+[65:17] 15% uh and then so on and so forth and
+[65:20] there are a lot of like uh in in the uh
+[65:23] 25% of of of the the whole hash rate
+[65:26] comes from a lot of smaller pools uh but
+[65:29] like if you look at the big ones Foundry
+[65:31] and pool and VI PTC uh they are like
+[65:35] really huge and the even the just the uh
+[65:38] biggest two alone have together uh let's
+[65:43] say what is it they have
+[65:45] 50 yeah like 53% that's that's that's
+[65:49] huge uh and and that's basically the the
+[65:52] problem that we are talking about I'm
+[65:54] always a visual guy so I was was like
+[65:56] let's let's pull up the visual uh for
+[65:58] for that yeah it's great I mean you can
+[66:00] get all the information on mol. space
+[66:03] right um for mining lightning or normal
+[66:05] Bitcoin transactions and um it helped me
+[66:09] also a lot when I was joining this
+[66:10] industry two years or ago to really
+[66:14] understand how everything works so if
+[66:16] somebody's really interested in in in
+[66:19] mining I think this is a side where
+[66:22] which I always bring up when we educate
+[66:23] people or institutions about about
+[66:25] mining absolutely me mol. space uh a
+[66:29] great great yes a great site I I make a
+[66:33] lot of advertisement for that even
+[66:34] though they don't pay me for that but
+[66:36] it's such a great yes exactly I mean it
+[66:39] basically supports your business as well
+[66:40] because you can present everything in an
+[66:43] easy fast uh and good way right to your
+[66:46] listeners or viewers that's very true it
+[66:48] would be uh it would be headache if I
+[66:50] have to do it myself yes yes yes I see
+[66:53] my note and just trying to figure the
+[66:55] visuals and and doing it on a website
+[66:58] they are making great uh great things um
+[67:01] one thing that you mentioned is the
+[67:03] Finland thing and I want to get it
+[67:05] earlier in but uh it was so interesting
+[67:07] to get down this Rabbit Hole
+[67:09] um what are you seeing there as like the
+[67:12] positive impacts of that project and
+[67:14] what is that project because I think
+[67:16] it's really interesting to talk on on a
+[67:18] high level what can Bitcoin mining bring
+[67:20] but you uh have insights in some uh real
+[67:23] world examples and maybe you can give us
+[67:25] from Finland or maybe if there's like a
+[67:26] better project for that uh some insights
+[67:29] uh what do you see actually uh in the
+[67:32] real world what are the impacts and the
+[67:35] positive advantages of of Bitcoin mining
+[67:37] and integrating in a
+[67:38] project so basically um of course it
+[67:44] sensiti sensitives people um about their
+[67:49] perception of Bitcoin
+[67:51] right um because they finally see oh
+[67:55] it's still getting warm here and um the
+[67:58] seed is coming out of a data center or
+[68:00] whatever
+[68:02] and how we set everything up was more
+[68:04] like okay um we have this problem or at
+[68:09] least um our partner has a problem he
+[68:11] has to produce the Heat and for this he
+[68:14] has to burn um fossils right this is
+[68:18] basically how you how you generate heat
+[68:21] um in today's facilities and we CH just
+[68:25] came up with the idea of selling him the
+[68:27] heat for a good price and um running
+[68:32] this data center on green energy so we
+[68:34] are also providing him with a
+[68:36] solution um for you know upcoming EU
+[68:40] regulation until I guess
+[68:42] 2030 where he has to
+[68:45] decarbonize his heat
+[68:48] production and since we started this
+[68:50] project we see a increasing interested
+[68:55] interest
+[68:56] in these kind of projects um public
+[69:00] companies um are more and more putting
+[69:03] money into this projects and we have a
+[69:09] lot of potential for next year in this
+[69:12] sector as it's a win-win-win situation
+[69:15] for everyone for our investors for us
+[69:17] and our partner
+[69:20] and you probably can hear a little bit
+[69:23] that I don't go too deep into details as
+[69:26] it's um or as this not just depends on
+[69:28] me but also on our partners and but I
+[69:32] can just say that um everything is open
+[69:35] up you know or is more opening up um
+[69:41] interest is starting to Surge and um
+[69:46] this industry gets more attractive as we
+[69:49] have special chips in our mining
+[69:52] facilities that can provide this heat
+[69:54] temperature which um other computers or
+[69:58] data centers like AI cannot
+[70:00] provide um so yeah from a business point
+[70:05] I would say it was a first really really
+[70:07] good P pilot project it's not even a
+[70:09] pilot anymore it's really like a proof
+[70:12] of concept and and it shows it's really
+[70:15] working on an European level um we have
+[70:18] the best up time from all facilities I
+[70:20] ever saw um so we have 100% up time no
+[70:25] no machines um are doing any or causing
+[70:28] any problems accepted that on
+[70:31] arrivals and now we are optimizing our
+[70:35] investment structures so how can we
+[70:37] onboard investors for future projects
+[70:41] and um this will take a bit of time U
+[70:44] we're working on that um we will finish
+[70:47] this setup in January and then we are
+[70:50] pretty ready to go to to approach the
+[70:52] new projects um I think you'll see a lot
+[70:56] of how can I say not advertisement but
+[71:00] um at least we will communicate when we
+[71:01] search for partners um institutional
+[71:04] Partners um to get more and more foot
+[71:07] into the door um or at least to bring
+[71:10] Bitcoin mining or enhance the landscape
+[71:12] in
+[71:13] Finland and yeah I think um this is the
+[71:18] this is the situation right now um
+[71:20] regulational wise we already talked
+[71:22] about that um no big issues um we are
+[71:26] getting everything a little bit more
+[71:28] slim the investing process and then we
+[71:31] are ready to go and approach to new
+[71:34] projects really cool perfect and I have
+[71:37] one question that uh I asked each and
+[71:39] every one of my guests is what can we
+[71:41] learn from you besides Bitcoin I think
+[71:44] it's always about and this has a lot um
+[71:48] to do with my personal development I'm
+[71:50] 26 years old oh no I recently turned 27
+[71:53] I'm 27 years old I always I'm always one
+[71:57] of the youngest um players on the table
+[71:59] when it's about Bitcoin mining right um
+[72:03] might it be in in China in in the US in
+[72:05] Canada wherever and I never saw myself
+[72:09] there I always wanted it I tried to
+[72:12] attract this stuff um but I never saw
+[72:14] myself there um but at least I took here
+[72:18] and there I took a little bit risk and I
+[72:21] was a little bit lucky and since then I
+[72:25] can really feel that a lot of stuff
+[72:26] changes in my personal life as well and
+[72:30] I try to I try to meet everyone and
+[72:33] every situation with kind of an open
+[72:35] mind um because I know that every
+[72:38] situation has its benefits it just
+[72:40] depends on the point of view and I think
+[72:44] this is something I would love to see
+[72:47] people more and more doing um being more
+[72:49] open to all kind of stuff and also
+[72:53] attracting realiz that they can attract
+[72:57] things by having the right let's say
+[73:00] energy around them
+[73:02] right very true yeah and I it's
+[73:05] interesting because when I came into the
+[73:07] space I thought I'm like someone in the
+[73:10] middle range and now I actually see that
+[73:15] I'm one of the youngest guys uh you just
+[73:17] turned 20 uh 7 I just turned 26 and not
+[73:21] just but like in September I turned 26
+[73:24] uh so so it's uh it's interesting to see
+[73:28] how mature uh the the Bitcoin Community
+[73:31] already is uh and it's it's more of a
+[73:35] maybe even like a problem that like
+[73:36] under 20 year olds or under 25 year olds
+[73:40] um don't have that financial problem yet
+[73:44] too much uh so they like yeah like with
+[73:48] the with the little money that I
+[73:51] have I can gamble in some altcoins and
+[73:54] cryptos schemes uh and because I don't
+[73:58] have to be responsible and it's only
+[74:01] when people become responsible that they
+[74:04] turn to assets that actually make sense
+[74:07] like Bitcoin uh and I saw that a lot of
+[74:10] times when I see people that are only
+[74:13] into crypto and not into Bitcoin uh they
+[74:16] are usually younger they are usually
+[74:19] um a little bit less responsible like
+[74:22] they usually don't have family they
+[74:24] usually don't have things to take care
+[74:26] of uh and and then they let's let's AE
+[74:30] into Doge like then it's of course it's
+[74:33] easy uh if you don't uh if you have
+[74:36] little money to play and uh nothing to
+[74:38] lose uh and no responsible you don't
+[74:41] have to put food for another person on
+[74:42] the table or stuff like that maybe you
+[74:44] don't even have to put food on your own
+[74:47] table so that then it's easy to gamble
+[74:50] uh and this what I kind of see in
+[74:51] Bitcoin where we are a little bit more
+[74:53] the mature crowd uh uh and we we are
+[74:56] really integrating that now in the whole
+[74:58] financial system and uh it's it's
+[75:01] sometimes I feel a little off because
+[75:04] I'm So Young uh but yeah 26 it's I'm I'm
+[75:07] I'm getting there I'm soon getting the
+[75:09] 30 years old my my beard is is growing
+[75:11] so I'm I'm getting I'm soon soon be a
+[75:14] little bit
+[75:15] older yeah it's interesting what you
+[75:18] what you just
+[75:19] say and um we got a lot of applications
+[75:24] right um every
+[75:26] months and most of them are I would say
+[75:30] something between 20 and 30 so there's a
+[75:33] huge potential for companies as well um
+[75:38] as soon if they as as soon as they apply
+[75:41] for approach a Bitcoin strategy in their
+[75:44] company that they can attract um really
+[75:48] how can I say good um Human
+[75:51] Resources um this is what I see
+[75:54] personally and sometimes I'm like oh
+[75:56]  this guy is more qualified for the
+[75:58] job than I am
+[75:59] so um you got a lot of good people in
+[76:02] there but in general um you're
+[76:04] completely right this industry is more
+[76:07] about um people between 30 to 50 I would
+[76:10] say um but it's going to be more and
+[76:14] more for the younger people but it's
+[76:15] still just more like that that um if you
+[76:17] want to set up a company you need
+[76:19] Capital right and in today's um time
+[76:24] which 20- year-old got like a 100K 200k
+[76:27] 400k to set up a company which is
+[76:30] basically um going into mining right um
+[76:34] this is something which is more for the
+[76:38] older generation I would say but I can
+[76:41] see a lot of pressure and a lot of
+[76:43] interest of young people to to develop
+[76:46] skills in that um sections to at least
+[76:49] rush into the Bitcoin industry to work
+[76:51] in the Bitcoin industry because I mean I
+[76:54] I I saw this video where you actually
+[76:56] described a little bit what how you came
+[76:58] to that podcast right that you that we
+[77:01] are recording right now and you just
+[77:03] said oh yeah it was at Niko's podcast
+[77:07] um and and you just said yeah I I had
+[77:11] this wish to work for Bitcoin and then I
+[77:14] just tried to to set something up and I
+[77:17] was lucky as well a little bit maybe the
+[77:19] algorithm just um played out well for me
+[77:23] and you came up with this new form right
+[77:25] you just do it which is crazy I mean
+[77:29] crazy crazy you just upload every day
+[77:31] right and um I can imagine you have a
+[77:34] big backlog but I can also imagine it
+[77:36] consumes a lot of time but this is
+[77:39] actually your Niche and I think there's
+[77:41] a lot of potential business potential
+[77:43] not just in mining in content Creation
+[77:45] in
+[77:46] education and um yeah to all people that
+[77:50] are still desperately searching for
+[77:52] their job um in in the Bitcoin mining
+[77:55] industry just stick to it um don't lose
+[77:58] your hope I think it will come um just
+[78:01] give us a little bit of time advocating
+[78:03] for young people in the space and um
+[78:07] bringing this industry um ahead that we
+[78:10] need more people um we can see this
+[78:12] already at our company that we are now
+[78:15] in the process of setting up um a search
+[78:18] um for for new people because we are
+[78:21] growing um so it's good and yeah just
+[78:25] stay
+[78:27] positive there there's two things that I
+[78:30] always say I always try to make make a
+[78:33] gross because when you want to work in
+[78:34] Bitcoin you basically have two things
+[78:36] you can go towards the one thing is
+[78:40] being an educator and that edu being an
+[78:43] educator can be very prad you can
+[78:45] actually be a teacher with me Prim
+[78:47] Bitcoin you can be a content creator uh
+[78:50] you can be podcast host you can be a Tik
+[78:52] tocker whatever but you can also be a
+[78:56] salesperson that has P2P clients with a
+[78:59] big exchange that's also an educator he
+[79:02] has a lot of the times the the the
+[79:05] responsibility to educate people on
+[79:07] bitcoin and take some fear away and
+[79:09] stuff like that I imagine you also being
+[79:11] an educator a lot of the times when you
+[79:13] speak with clients uh so even sales I
+[79:16] would consider to be an educator and
+[79:19] then you have the other uh side of it
+[79:21] where you have the developers no matter
+[79:24] if that's like a Bitcoin
+[79:26] mining uh site that you have to develop
+[79:29] or like develop code for so some
+[79:32] application or something like that where
+[79:34] you actually do something technical or
+[79:36] you do you try to to set something up
+[79:39] those are the two things that you
+[79:41] basically can do of course there are
+[79:42] other jobs
+[79:44] like you you you can be an an middle
+[79:48] manager somewhere you can be in CFO for
+[79:52] a company you can be uh Chief security
+[79:55] officer in a in a Bitcoin
+[79:57] company that's also really necessary I
+[80:00] would not directly consider a Bitcoin
+[80:02] job but it's a job in Bitcoin uh but
+[80:07] yeah that that's that's where where I
+[80:09] always go go towards like if if you if
+[80:11] you're trying to figure out how to
+[80:13] contribute to the Bitcoin Community try
+[80:15] to figure out like what you actually
+[80:16] want to do and maybe you already do
+[80:20] something uh and you contribute that
+[80:23] let's keep with that example of CFO
+[80:24] maybe you're a CFO of a great company
+[80:26] and you're doing an amazing job maybe
+[80:28] there's a great com Bitcoin company that
+[80:31] still needs an amazing CFO and maybe for
+[80:35] you as a bitcoiner it's more fun to work
+[80:37] for a Bitcoin company versus than other
+[80:40] company I mean in the end of the day
+[80:41] you're dealing with numbers and your job
+[80:44] probably doesn't change a lot but it's
+[80:46] it makes a difference uh for for what
+[80:47] you're working for so I always encourage
+[80:50] uh if you can go towards Bitcoin because
+[80:53] we're in that small five to 10 year
+[80:56] window where a new thing is completely
+[81:01] created out
+[81:02] of just like created a new industry
+[81:05] where previously there was nothing uh
+[81:08] and that's something really really um
+[81:11] yeah aspiring to do at some point
+[81:14] Bitcoin will be boring at some point
+[81:16] Bitcoin will be not as uh uh amazing of
+[81:20] an uh exciting of an an industry and
+[81:24] then yeah there will be less Educators
+[81:26] there will be uh less content creators I
+[81:29] probably will not talk about Bitcoin
+[81:30] when it's boring there's there will
+[81:32] probably be some other topic then uh but
+[81:35] till then it's a lot of fun and you
+[81:37] should be involved as much as possible
+[81:40] completely right I agree and I just
+[81:42] recently you know since um The Bull Run
+[81:45] started like one month ago I mean since
+[81:48] yeah since the Trump election right and
+[81:52] I really got addictive again to Bitcoin
+[81:55] content I mean I'm basically you know
+[81:56] I'm a Bitcoin nerd and I consume every
+[82:00] evening about two to three hours of
+[82:02] Market updates um all on YouTube um
+[82:07] what's going on
+[82:09] and someone just said isn't it
+[82:12] incredible we are just witnessing these
+[82:15] times um where we see the monetization
+[82:18] of an asset we see an asset coming from
+[82:21] zero being one of the most valuable
+[82:24] assets
+[82:25] um in the world if not the most valuable
+[82:27] Assets in the world which I personally
+[82:29] believe and this is has not been the the
+[82:32] case for me this has not been the case
+[82:35] for my mom this has not been Thea this
+[82:38] this has not been the case for my
+[82:40] grandmother you know assets have been
+[82:42] there for a long long time stocks Gold
+[82:46] Silver and now we are really witnessing
+[82:48] how money flows into this asset and how
+[82:50] it's growing and this is really
+[82:53] something unique and and it's the same
+[82:55] with this industry we see this
+[82:57] completely new industry evolving um and
+[83:01] I think there's a lot of space um for
+[83:03] this industry and we're like with
+[83:05] Bitcoin in the 197 like in 97 or
+[83:09] something um which I personally believe
+[83:12] we are now more in maybe 2001 2002
+[83:16] um yeah during the internet or the
+[83:19] beginnings of the internet there has
+[83:20] always been that one guy in the company
+[83:23] that has to sit on table put a modem
+[83:25] there and doing some experiments and
+[83:28] trying to get to the internet for the
+[83:30] company right and I think we will see
+[83:33] more and more people um in companies um
+[83:37] at least pushing their company for a
+[83:39] Bitcoin strategy and also see um Human
+[83:44] Resources hiring people that someone at
+[83:47] least can take off this uh care of this
+[83:49] uh Bitcoin strategy as you need someone
+[83:51] who's absolutely dedicated to it
+[83:55] um and yeah I think this will come it's
+[83:58] just the natural way how things go in
+[84:00] the ecosystem of Bitcoin and that's
+[84:03] basically the beauty of it because to
+[84:05] its you know easiness how it's set up I
+[84:08] mean not just on a technical basis but I
+[84:10] mean the whole concept of Bitcoin is
+[84:12] pretty easy and it's um how can I say
+[84:16] once you're understood it never changes
+[84:19] right and this lets us kind of assume or
+[84:24] predict where things are going and I
+[84:27] think we both are pretty convinced that
+[84:29] Bitcoin is only going up not just in
+[84:32] price but also in adoption in businesses
+[84:35] that are evolving in jobs that are being
+[84:37] created so I think there will be a lot
+[84:39] of chance chances to to to get a foot
+[84:42] into this industry absolutely and I
+[84:45] fully agree with that thank you so much
+[84:47] uh F been for being on Before I Let You
+[84:50] Go oh we have the end routine still so
+[84:52] before I let you go two things
+[84:55] uh the end rtin where the previous guest
+[84:57] is asking a question for the next guest
+[84:59] without knowing who the next guest
+[85:00] actually is and the question from the
+[85:02] previous guest is a billion people flow
+[85:04] into Bitcoin tomorrow what happens over
+[85:06] the next couple of years he basically
+[85:08] wanted to uh go in the in the fs towards
+[85:13] what happens in a situation when a lot
+[85:17] of freaking people all of the sudden try
+[85:19] to join the Bitcoin Network um what will
+[85:22] that do for the Bitcoin Network and the
+[85:24] the Bitcoin industry over the next like
+[85:26] two three years and we have like a first
+[85:29] of all yeah so first of all I consider
+[85:33] it it personally pretty important that
+[85:36] we get as much as possible individual
+[85:41] person persons into Bitcoin before it
+[85:45] got sucked up by all the big
+[85:47] institutions um from a capital
+[85:49] perspective I think it's almost like one
+[85:52] billion people would join tomorrow
+[85:54] already so of course the first thing we
+[85:57] are going to
+[85:58] see um is the
+[86:00] price uh price will Spike immediately it
+[86:04] is spiking right now and I think it will
+[86:06] go
+[86:07] over 20k end of the
+[86:10] year and when people ask me about the
+[86:13] price um for next year I mean just like
+[86:16] normal friends I I tell them you know
+[86:18] you probably think I'm stupid but I can
+[86:20] really imagine that we will see $1
+[86:22] million next year um all this demand
+[86:25] lining up um coming to this really
+[86:28] really pretty pretty um small amount of
+[86:30] Bitcoin left uh something around 1
+[86:32] million
+[86:34] right and I think it would be good if we
+[86:37] can onboard as much people as possible
+[86:39] before all the Bitcoin goes um going to
+[86:43] to the big
+[86:44] institutions um what else would happen I
+[86:47] think um this will have a spillover
+[86:49] effect because we all know that as soon
+[86:51] as bitcoiners get get excited with
+[86:54] Bitcoin but they are starting to talk um
+[86:58] uh about Bitcoin all day long so other
+[87:00] people will get orange pil so this would
+[87:03] cause a NeverEnding wave of bitcoiners
+[87:05] to
+[87:07] cure and lastly I think um it would give
+[87:12] Bitcoin a legitimization right um
+[87:15] because many people want it many people
+[87:17] are holding it um it would from a mining
+[87:21] perspective for my businesses would be
+[87:23] probably pretty good because transaction
+[87:25] transaction fees would um would search
+[87:28] as all people are trying to get their
+[87:30] Bitcoin into self-
+[87:32] custody um um so yeah I answer this
+[87:37] question now more from a technical point
+[87:39] of view than than a philosophical point
+[87:41] of view I hope that's that's all right
+[87:44] yeah absolutely I there is I think
+[87:47] there's so much happening if that I
+[87:49] think first of all I think I don't think
+[87:51] that's happening uh um I mean it will
+[87:54] happen that a billion people flow into
+[87:56] Bitcoin but at a stage where there has
+[87:59] been already a few billion people in
+[88:02] Bitcoin uh where it's not like oh like
+[88:05] now let's say the number is 150 million
+[88:08] people or 200 million people are in
+[88:09] Bitcoin depending on what metrics you're
+[88:11] looking at we will not be tomorrow at 1
+[88:16] billion uh people and 150 million uh so
+[88:20] I think it's very unrealistic that we
+[88:22] get there but if that actually happens I
+[88:24] think the the the the fee will rise
+[88:28] massively the price will rise massively
+[88:31] uh all the industries all the fuse on
+[88:35] all the videos like everything will just
+[88:37] Spike immediately um would be super
+[88:41] interesting uh and
+[88:43] know something like that happens I
+[88:45] probably just open up a 48 hour live
+[88:48] stream yes exactly just like document
+[88:52] everything that's happening and and
+[88:53] don't sleep for a few the best life of
+[88:56] your life because I cannot sleep anymore
+[89:00] uh happens sometimes this day I also
+[89:03] slept really badly because I was too
+[89:06] excited uh for for Bitcoin uh but yeah
+[89:09] it's it's uh it would be a massive event
+[89:11] thank you so much faban for being on
+[89:13] Before I Let You Go um where can people
+[89:15] find you ask your questions and read
+[89:17] more about you so I had my my Twitter
+[89:21] before but actually turned out that we
+[89:24] are more in the conventional space so I
+[89:27] would ask you to hit me up on LinkedIn
+[89:29] Fabian Weber I think as soon as you are
+[89:31] already connected with some bitcoiners
+[89:33] on LinkedIn you will find me pretty fast
+[89:35] um you can find our company um on
+[89:39] terahash do space in the internet we
+[89:42] have a German uh internet page web page
+[89:44] we have an English web page where we
+[89:46] Define or at least um give explanations
+[89:49] about everything we do what our plans
+[89:51] are and at least you can also find find
+[89:54] me on a lot of
+[89:55] conferences um I don't know where most
+[89:57] of your audience is from uh Robin I gu
+[90:02] from uh the the US um but Ian I didn't
+[90:06] show it for a long time uh but yeah
+[90:09] America the number one UK Canada it's
+[90:13] English speaking so where were the most
+[90:15] English speaking people is my podcast
+[90:17] also hi
+[90:19] Gat nice to meet you hi good night
+[90:24] yes there we are there there we are it
+[90:27] happens sometimes because I have a
+[90:29] podcast with G in half an hour and I'm
+[90:32] still
+[90:34] not sometimes it's like that right nice
+[90:36] to meet you
+[90:38] g conversation no no worries we we're
+[90:41] already wrapping up uh it happened one
+[90:44] time before yeah but I'm wondering why
+[90:47] it's not happening more often actually
+[90:49] because I have sometimes really like an
+[90:51] a podcast is ending and like five
+[90:53] minutes later I'm on but yeah we've get
+[90:55] I still I hope I have still a half an
+[90:56] hour time I hope I'm not
+[91:00] late it is what it is so long story
+[91:03] short just hit me up on LinkedIn just um
+[91:06] see our web page or let's connect on a
+[91:10] on a conference on in March there's the
+[91:13] big mining disrupt conference in Miami
+[91:15] in Florida I'll be there so let's
+[91:18] connect I'm excited to answer all the
+[91:20] questions followups or whatever thank
+[91:23] you so so much fa for being on also
+[91:25] thank you so much for everyone that's
+[91:26] watching and listening for joining us
+[91:28] today as always I'll be back tomorrow
+[91:31] with another episode and you already see
+[91:33] the guest for
+[91:34] tomorrow some probably in the screen
+[91:37] come on I should do this all the time
+[91:39] then people can see the next guest and
+[91:40] like who is here like let's let's let's
+[91:43] him have fun but yeah thank you so much
+[91:45] bye bye thanks for having me bye
+[91:48] [Music]
