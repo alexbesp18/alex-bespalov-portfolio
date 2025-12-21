@@ -59,7 +59,7 @@ jobs:
             "grok": {
               "api_key": "${{ secrets.GROK_API_KEY }}",
               "model": "grok-4-1-fast-reasoning",
-              "summarization_enabled": false,
+              "summarization_enabled": true,
               "max_summary_tokens": 400
             },
             "defeatbeta": {
