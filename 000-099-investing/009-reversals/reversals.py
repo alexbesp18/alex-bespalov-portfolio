@@ -24,8 +24,29 @@ logger = logging.getLogger("REVERSALS")
 
 def load_watchlist(path):
     """Load watchlist from JSON file."""
-    with open(path, 'r') as f:
-        return json.load(f)
+    if os.path.exists(path):
+        with open(path, 'r') as f:
+            return json.load(f)
+    return {}
+
+
+def get_cached_tickers(cache_dir):
+    """
+    Get tickers from 007-ticker-analysis cache (today's files).
+    Default source when no custom JSON config is provided.
+    """
+    today = datetime.now().strftime('%Y-%m-%d')
+    tickers = []
+    
+    if os.path.exists(cache_dir):
+        for f in os.listdir(cache_dir):
+            if f.endswith(f"_{today}.json"):
+                # Extract ticker from filename like "NVDA_2024-12-21.json"
+                ticker = f.replace(f"_{today}.json", "")
+                if ticker:
+                    tickers.append(ticker)
+    
+    return sorted(set(tickers))
 
 
 def main():
@@ -56,6 +77,9 @@ def main():
     # Load Config
     base_dir = os.path.dirname(os.path.abspath(__file__))
     watchlist = load_watchlist(os.path.join(base_dir, "config/watchlist.json"))
+    
+    # Default cache location (007-ticker-analysis)
+    cache_dir = os.path.join(base_dir, "..", "007-ticker-analysis", "data", "twelve_data")
 
     # State (prevents repeated alerts)
     state_path = os.path.join(base_dir, "data", "state.json")
@@ -69,8 +93,20 @@ def main():
     archive = archive_manager.load()
     
     # Extract default triggers and tickers
+    # Priority: 1) JSON config if has tickers, 2) cached data from 007-ticker-analysis
     default_triggers = watchlist.get('default_triggers', [])
-    tickers = watchlist.get('tickers', [])
+    config_tickers = watchlist.get('tickers', [])
+    
+    if config_tickers:
+        # Use JSON config (custom override)
+        tickers = config_tickers
+        logger.info(f"Using JSON config: {len(tickers)} tickers")
+    else:
+        # Default: use cached tickers from 007-ticker-analysis
+        cached_symbols = get_cached_tickers(cache_dir)
+        # Convert to format expected by the rest of the code
+        tickers = [{'symbol': s, 'theme': 'Cached'} for s in cached_symbols]
+        logger.info(f"Using cached tickers from 007-ticker-analysis: {len(tickers)} tickers")
 
     # Initialize Components
     td_api_key = os.environ.get("TWELVE_DATA_API_KEY")

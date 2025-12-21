@@ -43,6 +43,24 @@ def save_json(path: Path, data: dict):
     path.write_text(json.dumps(data, indent=2))
 
 
+def get_cached_tickers(cache_dir: Path) -> list:
+    """
+    Get tickers from 007-ticker-analysis cache (today's files).
+    This is the default source when no custom JSON config is provided.
+    """
+    today = datetime.now().strftime('%Y-%m-%d')
+    tickers = []
+    
+    if cache_dir.exists():
+        for f in cache_dir.glob(f"*_{today}.json"):
+            # Extract ticker from filename like "NVDA_2024-12-21.json"
+            ticker = f.stem.replace(f"_{today}", "")
+            if ticker:
+                tickers.append(ticker)
+    
+    return sorted(set(tickers))
+
+
 def main():
     load_dotenv()
     
@@ -61,7 +79,7 @@ def main():
         success = handle_action(args.action, config_dir)
         sys.exit(0 if success else 1)
     
-    # Load config files
+    # Load config files (optional overrides)
     portfolio = load_json(config_dir / "portfolio.json")
     watchlist = load_json(config_dir / "watchlist.json")
     actioned = load_json(config_dir / "actioned.json")
@@ -69,6 +87,9 @@ def main():
     # Load state files
     last_run = load_json(state_dir / "last_run.json")
     cooldowns = load_json(state_dir / "cooldowns.json")
+    
+    # Default: use cached tickers from 007-ticker-analysis
+    cache_dir = base_dir.parent / "007-ticker-analysis" / "data" / "twelve_data"
     
     # Get API keys
     td_api_key = os.environ.get("TWELVE_DATA_API_KEY")
@@ -106,13 +127,23 @@ def main():
         return
     
     # Main run: fetch, compute, evaluate
-    all_tickers = (
-        portfolio.get('tickers', []) + 
-        watchlist.get('tickers', [])
-    )
+    # Priority: 1) JSON config if has tickers, 2) cached data from 007-ticker-analysis
+    portfolio_tickers = portfolio.get('tickers', [])
+    watchlist_tickers = watchlist.get('tickers', [])
+    
+    if portfolio_tickers or watchlist_tickers:
+        # Use JSON config (custom override)
+        all_tickers = portfolio_tickers + watchlist_tickers
+        logger.info(f"Using JSON config: {len(portfolio_tickers)} portfolio + {len(watchlist_tickers)} watchlist")
+    else:
+        # Default: use cached tickers from 007-ticker-analysis
+        all_tickers = get_cached_tickers(cache_dir)
+        # All cached tickers go to watchlist by default (no portfolio/watchlist distinction)
+        watchlist_tickers = all_tickers
+        logger.info(f"Using cached tickers from 007-ticker-analysis: {len(all_tickers)} tickers")
     
     if not all_tickers:
-        logger.warning("No tickers configured. Check portfolio.json and watchlist.json")
+        logger.warning("No tickers found. Check 007-ticker-analysis cache or add portfolio.json/watchlist.json")
         return
     
     logger.info(f"Starting scan for {len(all_tickers)} tickers...")
@@ -147,7 +178,7 @@ def main():
         new_state[ticker] = flags
         
         # Determine list type
-        list_type = 'portfolio' if ticker in portfolio.get('tickers', []) else 'watchlist'
+        list_type = 'portfolio' if ticker in portfolio_tickers else 'watchlist'
         
         # Get last run signals for deduplication
         last_signals_for_ticker = [
