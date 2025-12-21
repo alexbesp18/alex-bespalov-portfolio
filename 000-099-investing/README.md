@@ -13,7 +13,7 @@ A collection of production-ready investment analysis tools demonstrating **ML/AI
 > **[003-investment-agent](./003-investment-agent/)** — 3-step LLM pipeline that processes earnings transcripts and podcasts to extract investment themes, identify companies, and filter for high-conviction picks.
 
 ### Real-Time Trading Alerts with Technical Triggers
-> **[008-alerts](./008-alerts/)** — Automated daily scanner for 80+ tickers with configurable buy/sell triggers based on technical indicators, with email notifications via SendGrid.
+> **[008-alerts](./008-alerts/)** — Automated daily scanner for 200+ tickers with configurable buy/sell triggers based on technical indicators, with email notifications via Resend.
 
 ---
 
@@ -68,7 +68,7 @@ flowchart LR
 |---------|-------------|------------|
 | **[007-ticker-analysis](./007-ticker-analysis/)** | Primary data pipeline with caching and Google Sheets integration | Twelve Data API, gspread, pandas |
 | **[000-shared-core](./000-shared-core/)** | Centralized library with 77 unit tests | pytest, tenacity, type hints |
-| **[008-alerts](./008-alerts/)** | Automated trading alert system | SendGrid, GitHub Actions, cron |
+| **[008-alerts](./008-alerts/)** | Automated trading alert system | Resend, GitHub Actions, cron |
 
 ### Quantitative Analysis
 
@@ -117,6 +117,61 @@ cd ../008-alerts && python main.py --dry-run      # < 2 seconds
 cd ../009-reversals && python reversals.py --dry-run  # < 2 seconds
 cd ../010-oversold && python oversold.py --all       # < 5 seconds
 ```
+
+---
+
+## Custom Ticker Configuration (Optional)
+
+By default, `008-alerts`, `009-reversals`, and `010-oversold` use **cached data from `007-ticker-analysis`** (populated from your Google Sheet). This means no extra config is needed for daily runs.
+
+To use a **custom ticker list** instead, create JSON files in the project's `config/` directory:
+
+### 008-alerts
+
+```json
+// config/portfolio.json — Tickers you own (triggers SELL alerts)
+{
+  "tickers": ["NVDA", "AAPL", "TSLA", "MSFT"]
+}
+
+// config/watchlist.json — Tickers you're watching (triggers BUY alerts)
+{
+  "tickers": ["AMD", "PLTR", "RKLB"]
+}
+```
+
+### 009-reversals
+
+```json
+// config/watchlist.json
+{
+  "default_triggers": ["rsi_oversold", "macd_bullish_cross"],
+  "tickers": [
+    {"symbol": "NVDA", "theme": "AI Infrastructure"},
+    {"symbol": "TSLA", "theme": "EV/Energy"}
+  ]
+}
+```
+
+### 010-oversold
+
+Create files in `config/watchlists/`:
+
+```json
+// config/watchlists/ai.json
+{
+  "name": "AI Stocks",
+  "tickers": ["NVDA", "AMD", "AVGO", "MRVL"]
+}
+
+// config/watchlists/energy.json
+{
+  "name": "Energy",
+  "tickers": ["VST", "CEG", "NRG"]
+}
+```
+
+Then run with: `python oversold.py --watchlist ai,energy`
 
 ---
 
