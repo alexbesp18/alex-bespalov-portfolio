@@ -1,15 +1,15 @@
-name: Reversal Candidates
+name: Stock Alerts
 
 on:
   repository_dispatch:
     types: [cache-refreshed]
   workflow_dispatch:  # Manual trigger
   schedule:
-    # Backup trigger: 5:05 PM ET = 22:05 UTC
-    - cron: '5 22 * * 1-5'
+    # Backup trigger: 5:00 PM ET = 22:00 UTC
+    - cron: '0 22 * * 1-5'
 
 jobs:
-  run-reversals:
+  run-alerts:
     runs-on: ubuntu-latest
     
     steps:
@@ -24,27 +24,27 @@ jobs:
       
       - name: Install shared-core
         run: |
-          cd 000-shared-core
+          cd 000-099-investing/000-shared-core
           pip install -e .
       
-      - name: Install 009-reversals dependencies
+      - name: Install 008-alerts dependencies
         run: |
-          cd 009-reversals
+          cd 000-099-investing/008-alerts
           pip install -r requirements.txt
       
-      - name: Run reversals scanner
+      - name: Run alerts scanner
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: |
-          cd 009-reversals
-          python reversals.py
+          cd 000-099-investing/008-alerts
+          python main.py
       
       - name: Save state
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: reversals-state-${{ github.run_id }}
-          path: 009-reversals/state/
+          name: alerts-state-${{ github.run_id }}
+          path: 000-099-investing/008-alerts/state/
           retention-days: 7
 

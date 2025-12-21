@@ -1,15 +1,15 @@
-name: Stock Alerts
+name: Oversold Opportunities
 
 on:
   repository_dispatch:
     types: [cache-refreshed]
   workflow_dispatch:  # Manual trigger
   schedule:
-    # Backup trigger: 5:00 PM ET = 22:00 UTC
-    - cron: '0 22 * * 1-5'
+    # Backup trigger: 5:10 PM ET = 22:10 UTC
+    - cron: '10 22 * * 1-5'
 
 jobs:
-  run-alerts:
+  run-oversold:
     runs-on: ubuntu-latest
     
     steps:
@@ -24,27 +24,28 @@ jobs:
       
       - name: Install shared-core
         run: |
-          cd 000-shared-core
+          cd 000-099-investing/000-shared-core
           pip install -e .
       
-      - name: Install 008-alerts dependencies
+      - name: Install 010-oversold dependencies
         run: |
-          cd 008-alerts
+          cd 000-099-investing/010-oversold
           pip install -r requirements.txt
       
-      - name: Run alerts scanner
+      - name: Run oversold scanner
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: |
-          cd 008-alerts
-          python main.py
+          cd 000-099-investing/010-oversold
+          python oversold.py --all --top 20 --email
       
-      - name: Save state
+      - name: Save output
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: alerts-state-${{ github.run_id }}
-          path: 008-alerts/state/
+          name: oversold-output-${{ github.run_id }}
+          path: 000-099-investing/010-oversold/output/
           retention-days: 7
+          if-no-files-found: ignore
 
