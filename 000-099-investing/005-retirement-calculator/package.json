@@ -1,0 +1,57 @@
+{
+  "name": "retirement-calculator",
+  "version": "1.0.0",
+  "description": "A React-based retirement planning calculator that models inflation impact, calculates required returns, and helps plan contribution strategies",
+  "author": "Alex Bespalov",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexbesp18/retirement-calculator.git"
+  },
+  "keywords": [
+    "retirement",
+    "calculator",
+    "inflation",
+    "financial-planning",
+    "investment",
+    "react"
+  ],
+  "dependencies": {
+    "lucide-react": "^0.525.0",
+    "prop-types": "^15.8.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^3.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "test:ci": "react-scripts test --watchAll=false --coverage",
+    "eject": "react-scripts eject",
+    "lint": "eslint src/"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
