@@ -69,8 +69,8 @@ python -m backfill.main
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| `GDRIVE_API_KEY_JSON` | Service Account JSON content or file path | (Required) |
-| `GSHEET_ID` | Google Spreadsheet ID (from URL) | (Required) |
+| `PH_GDRIVE_API_KEY_JSON` | Service Account JSON content or file path | (Required) |
+| `PH_GSHEET_ID` | Google Spreadsheet ID (from URL) | (Required) |
 | `GSHEET_NAME` | Spreadsheet name (fallback) | "Product Hunt Rankings" |
 | `GSHEET_TAB` | Tab name to write to | "Weekly Top 10" |
 | `LOG_LEVEL` | Logging verbosity | "INFO" |

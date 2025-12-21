@@ -11,6 +11,7 @@ COPY src/ ./src/
 COPY backfill/ ./backfill/
 
 # Set environment variables (override at runtime)
+# Note: PH_GDRIVE_API_KEY_JSON and PH_GSHEET_ID must be provided at runtime
 ENV LOG_LEVEL=INFO
 ENV GSHEET_NAME="Product Hunt Rankings"
 ENV GSHEET_TAB="Weekly Top 10"
