@@ -41,27 +41,33 @@ def get_week_start_date(year: int, week: int) -> str:
     return target_monday.strftime("%Y-%m-%d")
 
 
+def get_iso_weeks_in_year(year: int) -> int:
+    """Return the number of ISO weeks in a given year (52 or 53)."""
+    # Dec 28 is always in the last ISO week of the year
+    return datetime.date(year, 12, 28).isocalendar()[1]
+
+
 def backfill(weeks_back: int = WEEKS_BACK) -> None:
     """
     Fetch historical data for the last N weeks.
-    
+
     Args:
         weeks_back: Number of weeks to go back (from config)
     """
     today = datetime.date.today()
     current_year = today.year
     current_week = today.isocalendar()[1]
-    
+
     logger.info(f"Starting backfill for {weeks_back} weeks (current: {current_year}/W{current_week})")
-    
+
     for i in range(weeks_back, 0, -1):  # Go from oldest to newest
         target_week = current_week - i
         target_year = current_year
-        
-        # Handle year boundary
-        if target_week <= 0:
+
+        # Handle year boundary correctly (accounts for 52 or 53 week years)
+        while target_week <= 0:
             target_year -= 1
-            target_week += 52
+            target_week += get_iso_weeks_in_year(target_year)
         
         url = get_week_url(target_year, target_week)
         week_date = get_week_start_date(target_year, target_week)

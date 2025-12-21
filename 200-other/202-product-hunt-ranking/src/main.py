@@ -9,7 +9,8 @@ from typing import List, Dict, Optional, Any
 
 import gspread
 from google.oauth2.service_account import Credentials
-from tenacity import retry, stop_after_attempt, wait_exponential
+from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
+import gspread.exceptions
 
 from src.config import settings
 from src.utils.parsing import parse_products
@@ -53,6 +54,17 @@ def fetch_html(url: str) -> str:
     with urllib.request.urlopen(req, timeout=20) as response:
         result: str = response.read().decode('utf-8')
         return result
+
+@retry(
+    stop=stop_after_attempt(3),
+    wait=wait_exponential(multiplier=1, min=2, max=30),
+    retry=retry_if_exception_type(gspread.exceptions.APIError),
+    reraise=True
+)
+def _append_rows_with_retry(sheet: Any, rows: List[List[Any]]) -> None:
+    """Append rows to sheet with retry logic for transient API errors."""
+    sheet.append_rows(rows)
+
 
 def save_to_gsheet(products: List[Product], date_override: Optional[str] = None) -> None:
     """Saves the list of products to Google Sheets.
@@ -124,8 +136,8 @@ def save_to_gsheet(products: List[Product], date_override: Optional[str] = None)
                 p.upvotes,
                 str(p.url)
             ])
-            
-        sheet.append_rows(rows_to_add)
+
+        _append_rows_with_retry(sheet, rows_to_add)
         logger.info(f"Appended {len(rows_to_add)} rows.")
         
         # Sort data by Date (desc) then Rank (asc) - excluding header row

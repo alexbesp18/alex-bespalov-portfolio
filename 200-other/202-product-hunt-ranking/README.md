@@ -18,7 +18,7 @@ A robust Python tool for tracking and archiving Product Hunt's weekly top produc
 
 ## Project Structure
 ```
-product_hunt_ranking/
+202-product-hunt-ranking/
 ├── src/
 │   ├── main.py           # Entry point & Google Sheets integration
 │   ├── config.py         # Settings (env vars)
@@ -46,7 +46,7 @@ product_hunt_ranking/
 ### Installation
 ```bash
 git clone https://github.com/alexbesp18/alex-bespalov-portfolio.git
-cd alex-bespalov-portfolio/product_hunt_ranking
+cd alex-bespalov-portfolio/200-other/202-product-hunt-ranking
 pip install -r requirements.txt
 cp .env.example .env
 # Edit .env with your Google Sheet ID and credentials path

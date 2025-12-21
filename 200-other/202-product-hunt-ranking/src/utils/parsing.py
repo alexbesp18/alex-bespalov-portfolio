@@ -1,11 +1,12 @@
-import re
 import logging
-from typing import List, Dict, Set, Optional
+import re
+from typing import List, Set
+
 from bs4 import BeautifulSoup
 
-logger = logging.getLogger(__name__)
-
 from src.models import Product
+
+logger = logging.getLogger(__name__)
 
 def parse_products(html_content: str, limit: int = 10) -> List[Product]:
     """
