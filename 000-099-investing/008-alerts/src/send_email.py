@@ -1,5 +1,5 @@
 """
-send_email.py — Email formatting and delivery via SendGrid.
+send_email.py — Email formatting and delivery via Resend.
 
 Supports:
 - Main email (4pm): Full signals with click-to-action links
@@ -12,8 +12,7 @@ from datetime import datetime
 from typing import Dict, List, Any, Optional
 from urllib.parse import urlencode
 
-from sendgrid import SendGridAPIClient
-from sendgrid.helpers.mail import Mail
+import requests
 
 logger = logging.getLogger(__name__)
 
@@ -126,34 +125,51 @@ def format_reminder_email(
 
 
 class EmailSender:
-    """SendGrid email sender."""
+    """Resend email sender."""
     
-    def __init__(self, api_key: str, from_email: str, to_email: str):
+    def __init__(self, api_key: str, from_email: str, to_emails: str | List[str]):
         self.api_key = api_key
         self.from_email = from_email
-        self.to_email = to_email
+        # Support both single email and list of emails
+        if isinstance(to_emails, str):
+            self.to_emails = [to_emails] if to_emails else []
+        else:
+            self.to_emails = to_emails or []
     
     def send(self, subject: str, html_content: str) -> bool:
-        """Send email via SendGrid."""
+        """Send email via Resend."""
         if not self.api_key:
-            logger.warning("No SendGrid API Key. Logging email content instead.")
+            logger.warning("No Resend API Key. Logging email content instead.")
             logger.info(f"Subject: {subject}")
             logger.info(f"Body preview: {html_content[:500]}...")
             return False
         
-        message = Mail(
-            from_email=self.from_email,
-            to_emails=self.to_email,
-            subject=subject,
-            html_content=html_content,
-        )
+        if not self.to_emails:
+            logger.warning("No recipients specified. Skipping email.")
+            return False
+        
+        headers = {
+            "Authorization": f"Bearer {self.api_key}",
+            "Content-Type": "application/json"
+        }
+        
+        payload = {
+            "from": self.from_email,
+            "to": self.to_emails,
+            "subject": subject,
+            "html": html_content,
+        }
         
         try:
-            sg = SendGridAPIClient(self.api_key)
-            response = sg.send(message)
-            logger.info(f"Email sent! Status: {response.status_code}")
+            response = requests.post(
+                "https://api.resend.com/emails",
+                headers=headers,
+                json=payload
+            )
+            response.raise_for_status()
+            logger.info(f"Email sent via Resend! Status: {response.status_code}")
             return True
-        except Exception as e:
+        except requests.exceptions.RequestException as e:
             logger.error(f"Failed to send email: {e}")
             return False
 

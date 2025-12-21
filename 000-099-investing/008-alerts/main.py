@@ -72,16 +72,17 @@ def main():
     
     # Get API keys
     td_api_key = os.environ.get("TWELVE_DATA_API_KEY")
-    sg_api_key = os.environ.get("SENDGRID_API_KEY") 
-    email_to = os.environ.get("NOTIFICATION_EMAIL")
-    email_from = os.environ.get("SENDER_EMAIL", email_to)
+    resend_api_key = os.environ.get("RESEND_API_KEY")
+    email_from = os.environ.get("SENDER_EMAIL", "alexb@novaconsultpro.com")
+    email_to = os.environ.get("NOTIFICATION_EMAILS", "ab00477@icloud.com,alexbespalovtx@gmail.com")
+    email_recipients = [e.strip() for e in email_to.split(",") if e.strip()]
     
     if not td_api_key:
         logger.error("TWELVE_DATA_API_KEY not set")
         sys.exit(1)
     
     # Initialize email sender
-    email_sender = EmailSender(sg_api_key, email_from, email_to)
+    email_sender = EmailSender(resend_api_key, email_from, email_recipients)
     
     # Reminder mode: send based on saved state
     if args.reminder:
