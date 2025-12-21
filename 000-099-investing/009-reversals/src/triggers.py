@@ -1,0 +1,347 @@
+import logging
+from typing import Dict, List, Any, Optional
+import pandas as pd
+
+logger = logging.getLogger(__name__)
+
+class TriggerEngine:
+    """
+    Config-driven trigger evaluation engine.
+    Evaluates triggers defined in watchlist.json against market data.
+    """
+    
+    def __init__(self, default_triggers: Optional[List[Dict]] = None):
+        """
+        Initialize with optional default triggers that apply to all tickers.
+        """
+        self.default_triggers = default_triggers or []
+    
+    def evaluate(
+        self,
+        symbol: str,
+        df: pd.DataFrame,
+        score: float,
+        ticker_triggers: Optional[List[Dict]] = None,
+        matrix: Optional[Dict[str, Any]] = None,
+    ) -> List[Dict[str, Any]]:
+        """
+        Evaluates triggers for a single symbol.
+        
+        Args:
+            symbol: Ticker symbol
+            df: DataFrame with OHLCV and indicators
+            score: Bullish score (0-10)
+            ticker_triggers: Custom triggers for this ticker (overrides defaults if provided)
+        
+        Returns:
+            List of triggered dicts:
+              {
+                "symbol": "AAPL",
+                "action": "BUY",
+                "type": "score_above",
+                "message": "BUY: Strong bullish score (Score 7.5 >= 7)",
+                "trigger_key": "AAPL_score_above_BUY_7"
+              }
+        """
+        if df is None or len(df) < 2:
+            return []
+        
+        # Use ticker-specific triggers if provided, otherwise use defaults
+        triggers_to_eval = ticker_triggers if ticker_triggers else self.default_triggers
+        
+        if not triggers_to_eval:
+            return []
+        
+        results = []
+        curr = df.iloc[-1]
+        prev = df.iloc[-2]
+        
+        for trigger in triggers_to_eval:
+            evaluated = self._evaluate_trigger(symbol, trigger, curr, prev, df, score, matrix=matrix)
+            if evaluated:
+                results.append(evaluated)
+        
+        return results
+    
+    def _trigger_key(self, symbol: str, trigger: Dict[str, Any]) -> str:
+        """
+        Stable-ish identifier for dedupe/suppression across runs.
+        Must not depend on current price/score values.
+        """
+        t_type = trigger.get("type", "unknown")
+        action = trigger.get("action", "WATCH")
+
+        parts: List[str] = [symbol, t_type, action]
+
+        if t_type in ("score_above", "score_below", "price_above", "price_below"):
+            parts.append(str(trigger.get("value")))
+        elif t_type in ("price_crosses_above_ma", "price_crosses_below_ma", "price_above_ma", "price_below_ma"):
+            parts.append(str(trigger.get("ma")))
+        elif t_type == "ma_cross":
+            parts.extend([str(trigger.get("fast")), str(trigger.get("slow")), str(trigger.get("direction", "bullish"))])
+        elif t_type in ("stoch_oversold", "stoch_overbought", "rsi_oversold", "rsi_overbought"):
+            parts.append(str(trigger.get("threshold")))
+        elif t_type == "volume_spike":
+            parts.append(str(trigger.get("multiplier")))
+        elif t_type == "price_within_pct_of_ma":
+            parts.extend([str(trigger.get("ma")), str(trigger.get("pct"))])
+
+        # sanitize (email-safe / file-safe / json-safe)
+        safe = []
+        for p in parts:
+            p = (p or "").strip()
+            p = p.replace(" ", "")
+            p = p.replace("/", "_")
+            p = p.replace(":", "_")
+            p = p.replace("__", "_")
+            if p:
+                safe.append(p)
+        return "_".join(safe)
+
+    def _evaluate_trigger(
+        self,
+        symbol: str,
+        trigger: Dict,
+        curr: pd.Series,
+        prev: pd.Series,
+        df: pd.DataFrame,
+        score: float,
+        matrix: Optional[Dict[str, Any]] = None,
+    ) -> Optional[Dict[str, Any]]:
+        """
+        Evaluate a single trigger configuration.
+        Returns dict if triggered, None otherwise.
+        """
+        t_type = trigger.get('type')
+        action = trigger.get('action', 'WATCH')
+        note = trigger.get('note', '')
+        cooldown_days = int(trigger.get("cooldown_days", 0) or 0)
+
+        # Optional matrix gate: require certain 0/1 flags to match.
+        requires_matrix = trigger.get("requires_matrix") or {}
+        if requires_matrix:
+            if not matrix:
+                return None
+            for k, expected in requires_matrix.items():
+                if matrix.get(k) != expected:
+                    return None
+        
+        triggered = False
+        detail = ""
+        
+        try:
+            if t_type == 'score_above':
+                value = trigger['value']
+                if score >= value:
+                    triggered = True
+                    detail = f"Score {score} >= {value}"
+            
+            elif t_type == 'score_below':
+                value = trigger['value']
+                if score <= value:
+                    triggered = True
+                    detail = f"Score {score} <= {value}"
+            
+            elif t_type == 'price_above':
+                value = trigger['value']
+                if curr['close'] > value:
+                    triggered = True
+                    detail = f"Price ${round(curr['close'], 2)} > ${value}"
+            
+            elif t_type == 'price_below':
+                value = trigger['value']
+                if curr['close'] < value:
+                    triggered = True
+                    detail = f"Price ${round(curr['close'], 2)} < ${value}"
+            
+            elif t_type == 'price_crosses_above_ma':
+                ma = trigger['ma']
+                if ma in curr.index and ma in prev.index:
+                    if prev['close'] <= prev[ma] and curr['close'] > curr[ma]:
+                        triggered = True
+                        detail = f"Price crossed above {ma}"
+            
+            elif t_type == 'price_crosses_below_ma':
+                ma = trigger['ma']
+                if ma in curr.index and ma in prev.index:
+                    if prev['close'] >= prev[ma] and curr['close'] < curr[ma]:
+                        triggered = True
+                        detail = f"Price crossed below {ma}"
+            
+            elif t_type == 'price_above_ma':
+                ma = trigger['ma']
+                if ma in curr.index:
+                    if curr['close'] > curr[ma]:
+                        triggered = True
+                        detail = f"Price > {ma}"
+            
+            elif t_type == 'price_below_ma':
+                ma = trigger['ma']
+                if ma in curr.index:
+                    if curr['close'] < curr[ma]:
+                        triggered = True
+                        detail = f"Price < {ma}"
+            
+            elif t_type == 'ma_cross':
+                fast = trigger['fast']
+                slow = trigger['slow']
+                direction = trigger.get('direction', 'bullish')
+                
+                if all(col in curr.index for col in [fast, slow]):
+                    if direction == 'bullish':
+                        # Golden Cross: fast crosses above slow
+                        if prev[fast] <= prev[slow] and curr[fast] > curr[slow]:
+                            triggered = True
+                            detail = f"Golden Cross ({fast} > {slow})"
+                    else:
+                        # Death Cross: fast crosses below slow
+                        if prev[fast] >= prev[slow] and curr[fast] < curr[slow]:
+                            triggered = True
+                            detail = f"Death Cross ({fast} < {slow})"
+            
+            elif t_type == 'stoch_oversold':
+                threshold = trigger.get('threshold', 20)
+                if 'STOCH_K' in curr.index:
+                    if curr['STOCH_K'] < threshold and score >= 5:
+                        triggered = True
+                        detail = f"Stoch_K {round(curr['STOCH_K'], 1)} < {threshold}"
+            
+            elif t_type == 'stoch_overbought':
+                threshold = trigger.get('threshold', 80)
+                if 'STOCH_K' in curr.index:
+                    if curr['STOCH_K'] > threshold:
+                        triggered = True
+                        detail = f"Stoch_K {round(curr['STOCH_K'], 1)} > {threshold}"
+            
+            elif t_type == 'rsi_oversold':
+                threshold = trigger.get('threshold', 30)
+                if 'RSI' in curr.index:
+                    if curr['RSI'] < threshold:
+                        triggered = True
+                        detail = f"RSI {round(curr['RSI'], 1)} < {threshold}"
+            
+            elif t_type == 'rsi_overbought':
+                threshold = trigger.get('threshold', 70)
+                if 'RSI' in curr.index:
+                    if curr['RSI'] > threshold:
+                        triggered = True
+                        detail = f"RSI {round(curr['RSI'], 1)} > {threshold}"
+            
+            elif t_type == 'volume_spike':
+                multiplier = trigger.get('multiplier', 2.0)
+                vol_ma = df['volume'].rolling(50).mean().iloc[-1]
+                if vol_ma > 0:
+                    vol_ratio = curr['volume'] / vol_ma
+                    if vol_ratio >= multiplier:
+                        triggered = True
+                        detail = f"Volume {round(vol_ratio, 1)}x avg"
+            
+            elif t_type == 'price_within_pct_of_ma':
+                ma = trigger['ma']
+                pct = trigger.get('pct', 2)
+                if ma in curr.index and curr[ma] > 0:
+                    distance = abs(curr['close'] - curr[ma]) / curr[ma] * 100
+                    if distance <= pct:
+                        triggered = True
+                        detail = f"Price within {round(distance, 1)}% of {ma}"
+            
+            # === REVERSAL TRIGGERS ===
+            
+            elif t_type == 'upside_reversal_score':
+                # Triggers when upside reversal score is high
+                threshold = trigger.get('threshold', 7)
+                if matrix and matrix.get('upside_rev_score', 0) >= threshold:
+                    triggered = True
+                    detail = f"Upside Rev Score {matrix.get('upside_rev_score')} >= {threshold}"
+            
+            elif t_type == 'downside_reversal_score':
+                # Triggers when downside reversal score is high
+                threshold = trigger.get('threshold', 7)
+                if matrix and matrix.get('downside_rev_score', 0) >= threshold:
+                    triggered = True
+                    detail = f"Downside Rev Score {matrix.get('downside_rev_score')} >= {threshold}"
+            
+            elif t_type == 'macd_histogram_flip_positive':
+                # MACD histogram flipped from negative to positive (bullish)
+                if 'MACD_HIST' in curr.index and 'MACD_HIST' in prev.index:
+                    if prev['MACD_HIST'] < 0 and curr['MACD_HIST'] >= 0:
+                        triggered = True
+                        detail = f"MACD histogram flipped positive"
+            
+            elif t_type == 'macd_histogram_flip_negative':
+                # MACD histogram flipped from positive to negative (bearish)
+                if 'MACD_HIST' in curr.index and 'MACD_HIST' in prev.index:
+                    if prev['MACD_HIST'] > 0 and curr['MACD_HIST'] <= 0:
+                        triggered = True
+                        detail = f"MACD histogram flipped negative"
+            
+            elif t_type == 'rsi_bounce_oversold':
+                # RSI crossed back above threshold from oversold
+                threshold = trigger.get('threshold', 30)
+                if 'RSI' in curr.index and 'RSI' in prev.index:
+                    if prev['RSI'] < threshold and curr['RSI'] >= threshold:
+                        triggered = True
+                        detail = f"RSI bounced from oversold (crossed {threshold})"
+            
+            elif t_type == 'rsi_drop_overbought':
+                # RSI dropped below threshold from overbought
+                threshold = trigger.get('threshold', 70)
+                if 'RSI' in curr.index and 'RSI' in prev.index:
+                    if prev['RSI'] > threshold and curr['RSI'] <= threshold:
+                        triggered = True
+                        detail = f"RSI dropped from overbought (crossed {threshold})"
+            
+            elif t_type == 'stoch_bullish_cross':
+                # Stochastic bullish cross while oversold
+                threshold = trigger.get('threshold', 20)
+                if all(k in curr.index for k in ['STOCH_K', 'STOCH_D']):
+                    if curr['STOCH_K'] < threshold:
+                        if prev['STOCH_K'] < prev['STOCH_D'] and curr['STOCH_K'] > curr['STOCH_D']:
+                            triggered = True
+                            detail = f"Stoch bullish cross while < {threshold}"
+            
+            elif t_type == 'stoch_bearish_cross':
+                # Stochastic bearish cross while overbought
+                threshold = trigger.get('threshold', 80)
+                if all(k in curr.index for k in ['STOCH_K', 'STOCH_D']):
+                    if curr['STOCH_K'] > threshold:
+                        if prev['STOCH_K'] > prev['STOCH_D'] and curr['STOCH_K'] < curr['STOCH_D']:
+                            triggered = True
+                            detail = f"Stoch bearish cross while > {threshold}"
+            
+            elif t_type == 'golden_cross':
+                # 50 SMA crosses above 200 SMA
+                if all(k in curr.index for k in ['SMA_50', 'SMA_200']):
+                    if prev['SMA_50'] <= prev['SMA_200'] and curr['SMA_50'] > curr['SMA_200']:
+                        triggered = True
+                        detail = "Golden Cross (SMA50 > SMA200)"
+            
+            elif t_type == 'death_cross':
+                # 50 SMA crosses below 200 SMA
+                if all(k in curr.index for k in ['SMA_50', 'SMA_200']):
+                    if prev['SMA_50'] >= prev['SMA_200'] and curr['SMA_50'] < curr['SMA_200']:
+                        triggered = True
+                        detail = "Death Cross (SMA50 < SMA200)"
+            
+            else:
+                logger.warning(f"Unknown trigger type: {t_type}")
+                return None
+        
+        except Exception as e:
+            logger.warning(f"Error evaluating trigger {t_type}: {e}")
+            return None
+        
+        if triggered:
+            message = f"{action}: {note} ({detail})" if note else f"{action}: {detail}"
+            return {
+                "symbol": symbol,
+                "action": action,
+                "type": t_type,
+                "note": note,
+                "detail": detail,
+                "message": message,
+                "trigger_key": self._trigger_key(symbol, trigger),
+                "cooldown_days": cooldown_days,
+            }
+        
+        return None

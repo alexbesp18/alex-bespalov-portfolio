@@ -19,8 +19,11 @@ class Settings(BaseSettings):
     # Logging
     log_level: str = "INFO"
 
+    # API Configuration
+    twelve_data_api_key: str = ""  # Set via TWELVE_DATA_API_KEY env var
+    
     # API Rate Limiting
-    api_delay_seconds: float = 0.1
+    api_delay_seconds: float = 0.5
 
     # Retry Configuration
     max_retry_attempts: int = 3
