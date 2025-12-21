@@ -27,7 +27,7 @@ dependencies = [
     "google-auth-oauthlib>=1.0.0",
     
     # Transcripts
-    "defeatbeta-api>=0.1.0",
+    "defeatbeta-api>=0.0.20",
 ]
 
 [project.optional-dependencies]
