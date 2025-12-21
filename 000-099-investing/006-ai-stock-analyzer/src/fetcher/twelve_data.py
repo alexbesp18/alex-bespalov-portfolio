@@ -13,7 +13,7 @@ import numpy as np
 import pandas as pd
 import requests
 
-from src.analysis.calculator import TechnicalCalculator
+from shared_core import TechnicalCalculator
 
 logger = logging.getLogger(__name__)
 
