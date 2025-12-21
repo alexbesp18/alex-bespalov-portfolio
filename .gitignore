@@ -17,9 +17,10 @@ google-credentials.json
 !package.json
 !package-lock.json
 !tsconfig.json
-!**/config/portfolio.json
-!**/config/watchlist.json
-!**/config/actioned.json
+# Alert config files are optional overrides (use cache by default)
+# !**/config/portfolio.json
+# !**/config/watchlist.json
+# !**/config/actioned.json
 
 # ============================================================================
 # 🗑️ PYTHON CACHE & BUILD FILES
