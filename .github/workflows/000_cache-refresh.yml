@@ -3,19 +3,18 @@ name: Daily Cache Refresh
 on:
   schedule:
     # 4:30 PM ET = 21:30 UTC (EST) or 20:30 UTC (EDT)
-    # Using 21:30 for winter, adjust if needed
     - cron: '30 21 * * 1-5'  # Weekdays only
   workflow_dispatch:  # Manual trigger
 
 jobs:
   refresh-cache:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,10 +32,15 @@ jobs:
           cd 000-099-investing/007-ticker-analysis
           pip install -r requirements.txt
       
+      - name: Create data directory
+        run: |
+          mkdir -p 000-099-investing/007-ticker-analysis/data/twelve_data
+          mkdir -p 000-099-investing/007-ticker-analysis/data/transcripts
+      
       - name: Create config.json from secrets
         run: |
           cd 000-099-investing/007-ticker-analysis
-          cat > config.json << 'EOF'
+          cat > config.json << EOF
           {
             "google_sheets": {
               "credentials_file": "google_service_account.json",
@@ -71,27 +75,28 @@ jobs:
           cd 000-099-investing/007-ticker-analysis
           echo '${{ secrets.GDRIVE_API_KEY_JSON }}' > google_service_account.json
       
-      - name: Run cache refresh
+      - name: Run cache refresh (technicals only)
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
         run: |
           cd 000-099-investing/007-ticker-analysis
-          python run_all.py --cache-only 2>&1 || python sheet_data_loader.py --tech-only 2>&1 || echo "Cache refresh completed with warnings"
-      
-      - name: Commit cache files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add 000-099-investing/007-ticker-analysis/data/ || true
-          git diff --staged --quiet || git commit -m "chore: daily cache refresh $(date +%Y-%m-%d)"
-          git push || echo "No changes to push"
-      
-      - name: Trigger downstream workflows
-        uses: peter-evans/repository-dispatch@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          event-type: cache-refreshed
-          client-payload: '{"date": "${{ github.run_id }}"}'
+          python run_all.py --technicals-only --verbose 2>&1 || echo "Cache refresh completed with warnings"
+
+  # Run alerts after cache refresh
+  trigger-alerts:
+    needs: refresh-cache
+    uses: ./.github/workflows/000_alerts.yml
+    secrets: inherit
+
+  trigger-reversals:
+    needs: refresh-cache
+    uses: ./.github/workflows/000_reversals.yml
+    secrets: inherit
+
+  trigger-oversold:
+    needs: refresh-cache
+    uses: ./.github/workflows/000_oversold.yml
+    secrets: inherit
 
   # Notify on failure
   notify-failure:
@@ -112,4 +117,3 @@ jobs:
               "subject": "Cache Refresh Failed - '"$(date +%b\ %d)"'",
               "html": "<h2>Daily Cache Refresh Failed</h2><p>Check GitHub Actions for details.</p>"
             }'
-
