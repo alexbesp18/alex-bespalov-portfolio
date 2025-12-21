@@ -81,27 +81,142 @@ jobs:
         run: |
           cd 000-099-investing/007-ticker-analysis
           python run_all.py --technicals-only --verbose 2>&1 || echo "Cache refresh completed with warnings"
+      
+      - name: List cached files
+        run: |
+          echo "=== Cached files ==="
+          ls -la 000-099-investing/007-ticker-analysis/data/twelve_data/ | head -20
+          echo "Total files: $(ls 000-099-investing/007-ticker-analysis/data/twelve_data/ | wc -l)"
+      
+      - name: Upload cache artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ticker-cache
+          path: 000-099-investing/007-ticker-analysis/data/
+          retention-days: 1
 
   # Run alerts after cache refresh
-  trigger-alerts:
+  run-alerts:
     needs: refresh-cache
-    uses: ./.github/workflows/000_alerts.yml
-    secrets: inherit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Download cache artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: ticker-cache
+          path: 000-099-investing/007-ticker-analysis/data/
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+      
+      - name: Install 008-alerts dependencies
+        run: |
+          cd 000-099-investing/008-alerts
+          pip install -r requirements.txt
+      
+      - name: List cache (debug)
+        run: |
+          echo "=== Cache files ==="
+          ls -la 000-099-investing/007-ticker-analysis/data/twelve_data/ | head -10
+          echo "Total: $(ls 000-099-investing/007-ticker-analysis/data/twelve_data/ | wc -l) files"
+      
+      - name: Run alerts scanner
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: |
+          cd 000-099-investing/008-alerts
+          python main.py
 
-  trigger-reversals:
+  run-reversals:
     needs: refresh-cache
-    uses: ./.github/workflows/000_reversals.yml
-    secrets: inherit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Download cache artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: ticker-cache
+          path: 000-099-investing/007-ticker-analysis/data/
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+      
+      - name: Install 009-reversals dependencies
+        run: |
+          cd 000-099-investing/009-reversals
+          pip install -r requirements.txt
+      
+      - name: Run reversals scanner
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: |
+          cd 000-099-investing/009-reversals
+          python reversals.py
 
-  trigger-oversold:
+  run-oversold:
     needs: refresh-cache
-    uses: ./.github/workflows/000_oversold.yml
-    secrets: inherit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Download cache artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: ticker-cache
+          path: 000-099-investing/007-ticker-analysis/data/
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+      
+      - name: Install 010-oversold dependencies
+        run: |
+          cd 000-099-investing/010-oversold
+          pip install -r requirements.txt
+      
+      - name: Run oversold scanner
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: |
+          cd 000-099-investing/010-oversold
+          python oversold.py --all --top 20 --email
 
   # Notify on failure
   notify-failure:
     runs-on: ubuntu-latest
-    needs: refresh-cache
+    needs: [refresh-cache, run-alerts, run-reversals, run-oversold]
     if: failure()
     steps:
       - name: Send failure notification
@@ -114,6 +229,6 @@ jobs:
             -d '{
               "from": "alexb@novaconsultpro.com",
               "to": ["ab00477@icloud.com", "alexbespalovtx@gmail.com"],
-              "subject": "Cache Refresh Failed - '"$(date +%b\ %d)"'",
-              "html": "<h2>Daily Cache Refresh Failed</h2><p>Check GitHub Actions for details.</p>"
+              "subject": "Workflow Failed - '"$(date +%b\ %d)"'",
+              "html": "<h2>Daily Workflow Failed</h2><p>Check GitHub Actions for details.</p>"
             }'
