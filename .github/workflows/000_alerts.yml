@@ -1,8 +1,7 @@
 name: Stock Alerts
 
 on:
-  repository_dispatch:
-    types: [cache-refreshed]
+  workflow_call:  # Called by cache-refresh
   workflow_dispatch:  # Manual trigger
   schedule:
     # Backup trigger: 5:00 PM ET = 22:00 UTC

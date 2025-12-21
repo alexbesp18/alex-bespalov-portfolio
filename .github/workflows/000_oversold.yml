@@ -1,8 +1,7 @@
 name: Oversold Opportunities
 
 on:
-  repository_dispatch:
-    types: [cache-refreshed]
+  workflow_call:  # Called by cache-refresh
   workflow_dispatch:  # Manual trigger
   schedule:
     # Backup trigger: 5:10 PM ET = 22:10 UTC
