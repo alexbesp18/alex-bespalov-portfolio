@@ -129,16 +129,37 @@ class OutputFormatter:
 # WATCHLIST MANAGEMENT
 # =============================================================================
 
+def get_cached_tickers(cache_dir: Path) -> List[str]:
+    """
+    Get tickers from 007-ticker-analysis cache (today's files).
+    Default source when no custom JSON config is provided.
+    """
+    from datetime import datetime
+    today = datetime.now().strftime('%Y-%m-%d')
+    tickers = []
+    
+    if cache_dir.exists():
+        for f in cache_dir.glob(f"*_{today}.json"):
+            # Extract ticker from filename like "NVDA_2024-12-21.json"
+            ticker = f.stem.replace(f"_{today}", "")
+            if ticker:
+                tickers.append(ticker)
+    
+    return sorted(set(tickers))
+
+
 class WatchlistManager:
     """Manages loading and combining watchlists from JSON files."""
     
-    def __init__(self, watchlist_dir: Path) -> None:
+    def __init__(self, watchlist_dir: Path, cache_dir: Optional[Path] = None) -> None:
         """Initialize with the watchlist directory path.
         
         Args:
             watchlist_dir: Path to directory containing watchlist JSON files.
+            cache_dir: Optional path to 007-ticker-analysis cache for fallback.
         """
         self.watchlist_dir = watchlist_dir
+        self.cache_dir = cache_dir
     
     def list_available(self) -> List[str]:
         """List all available watchlist names (without .json extension).
@@ -149,6 +170,12 @@ class WatchlistManager:
         if not self.watchlist_dir.exists():
             return []
         return [f.stem for f in self.watchlist_dir.glob("*.json")]
+    
+    def get_cached_tickers(self) -> List[str]:
+        """Get tickers from cache as fallback."""
+        if self.cache_dir:
+            return get_cached_tickers(self.cache_dir)
+        return []
     
     def load(self, name: str) -> Watchlist:
         """Load a single watchlist by name.
@@ -355,25 +382,39 @@ def main() -> int:
     # Setup paths
     base_dir = Path(__file__).parent.resolve()
     watchlist_dir = base_dir / "config" / "watchlists"
+    cache_dir = base_dir.parent / "007-ticker-analysis" / "data" / "twelve_data"
     
     # Load watchlists
-    manager = WatchlistManager(watchlist_dir)
+    manager = WatchlistManager(watchlist_dir, cache_dir)
     
     if args.all:
         watchlist_names = manager.list_available()
         if not watchlist_names:
-            logger.error(f"No watchlists found in {watchlist_dir}")
-            return 1
+            # Fallback: use cached tickers from 007-ticker-analysis
+            tickers = manager.get_cached_tickers()
+            if tickers:
+                logger.info(f"Using cached tickers from 007-ticker-analysis: {len(tickers)} tickers")
+            else:
+                logger.error(f"No watchlists found in {watchlist_dir} and no cached data")
+                return 1
+        else:
+            logger.info(f"Loading watchlists: {watchlist_names}")
+            combined = manager.load_multiple(watchlist_names)
+            tickers = combined["all_tickers"]
     else:
         watchlist_names = [n.strip() for n in args.watchlist.split(",")]
-    
-    logger.info(f"Loading watchlists: {watchlist_names}")
-    combined = manager.load_multiple(watchlist_names)
-    tickers = combined["all_tickers"]
+        logger.info(f"Loading watchlists: {watchlist_names}")
+        combined = manager.load_multiple(watchlist_names)
+        tickers = combined["all_tickers"]
     
     if not tickers:
-        logger.error("No tickers found in selected watchlists")
-        return 1
+        # Final fallback: try cache
+        tickers = manager.get_cached_tickers()
+        if tickers:
+            logger.info(f"Watchlists empty, using cached tickers: {len(tickers)} tickers")
+        else:
+            logger.error("No tickers found in selected watchlists or cache")
+            return 1
     
     # Check API key
     api_key = os.environ.get("TWELVE_DATA_API_KEY")
