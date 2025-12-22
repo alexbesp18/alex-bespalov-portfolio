@@ -36,7 +36,7 @@ class CacheAwareFetcher:
     Checks shared cache first, falls back to API on cache miss.
     Handles pandas DataFrame column-oriented JSON format from cache.
     """
-    
+
     def __init__(
         self,
         api_key: str,
@@ -58,7 +58,7 @@ class CacheAwareFetcher:
         self.rate_limit_delay = rate_limit_delay
         self.output_size = output_size
         self.today = datetime.date.today().isoformat()
-        
+
         # Auto-detect cache directory if not provided
         if cache_dir is None:
             # Try common relative paths from consumer projects
@@ -71,13 +71,13 @@ class CacheAwareFetcher:
                 if path.exists():
                     cache_dir = path.resolve()
                     break
-        
+
         self.cache_dir = cache_dir
         if self.cache_dir and self.cache_dir.exists():
             logger.debug(f"Cache directory: {self.cache_dir}")
         else:
             logger.warning(f"Cache directory not found: {cache_dir}")
-    
+
     def _parse_cached_json(self, data: Dict[str, Any], symbol: str) -> Optional[Dict[str, Any]]:
         """
         Parse column-oriented DataFrame JSON into API-like format.
@@ -90,25 +90,25 @@ class CacheAwareFetcher:
         """
         if not isinstance(data, dict):
             return None
-        
+
         # Check for required columns
         if "datetime" not in data or "close" not in data:
             return None
-        
+
         datetime_col = data.get("datetime", {})
         open_col = data.get("open", {})
         high_col = data.get("high", {})
         low_col = data.get("low", {})
         close_col = data.get("close", {})
         volume_col = data.get("volume", {})
-        
+
         values = []
         for idx in sorted(datetime_col.keys(), key=int):
             dt_val = datetime_col.get(idx, "")
             # Handle both "2024-01-01" and "2024-01-01T00:00:00.000" formats
             if isinstance(dt_val, str) and len(dt_val) >= 10:
                 dt_val = dt_val[:10]
-            
+
             values.append({
                 "datetime": dt_val,
                 "open": str(open_col.get(idx, "")),
@@ -117,13 +117,13 @@ class CacheAwareFetcher:
                 "close": str(close_col.get(idx, "")),
                 "volume": str(int(float(volume_col.get(idx, 0)))) if volume_col.get(idx) else "0"
             })
-        
+
         return {
             "values": values,
             "status": "ok",
             "meta": {"symbol": symbol, "source": "cache"}
         }
-    
+
     def get_cached_data(self, symbol: str) -> Optional[Dict[str, Any]]:
         """
         Check shared cache for today's data.
@@ -136,26 +136,26 @@ class CacheAwareFetcher:
         """
         if not self.cache_dir or not self.cache_dir.exists():
             return None
-        
+
         cache_file = self.cache_dir / f"{symbol}_{self.today}.json"
-        
+
         if not cache_file.exists():
             return None
-        
+
         try:
             with open(cache_file, 'r') as f:
                 raw_data = json.load(f)
-            
+
             result = self._parse_cached_json(raw_data, symbol)
             if result and result.get("values"):
                 logger.info(f"📁 Using cached data for {symbol} ({len(result['values'])} rows)")
                 return result
-                
+
         except Exception as e:
             logger.warning(f"Cache read error for {symbol}: {e}")
-        
+
         return None
-    
+
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
     def _fetch_from_api(self, symbol: str) -> Optional[Dict[str, Any]]:
         """
@@ -174,32 +174,32 @@ class CacheAwareFetcher:
             "outputsize": self.output_size,
             "apikey": self.api_key
         }
-        
+
         try:
             response = requests.get(url, params=params, timeout=30)
             response.raise_for_status()
             data = response.json()
-            
+
             if "status" in data and data["status"] == "error":
                 logger.error(f"API error for {symbol}: {data.get('message', 'Unknown')}")
                 return None
-            
+
             if "values" not in data:
                 logger.warning(f"No values in API response for {symbol}")
                 return None
-            
+
             # Add source metadata
             if "meta" not in data:
                 data["meta"] = {}
             data["meta"]["source"] = "api"
-            
+
             logger.info(f"🌐 Fetched from API: {symbol} ({len(data['values'])} rows)")
             return data
-            
+
         except requests.exceptions.RequestException as e:
             logger.error(f"Network error fetching {symbol}: {e}")
             raise
-    
+
     def fetch(self, symbol: str) -> Optional[Dict[str, Any]]:
         """
         Fetch data for a single ticker (cache-first, API fallback).
@@ -214,10 +214,10 @@ class CacheAwareFetcher:
         cached = self.get_cached_data(symbol)
         if cached:
             return cached
-        
+
         # Fall back to API
         return self._fetch_from_api(symbol)
-    
+
     def fetch_batch(self, symbols: List[str]) -> Dict[str, Optional[Dict[str, Any]]]:
         """
         Fetch data for multiple tickers with rate limiting.
@@ -234,33 +234,33 @@ class CacheAwareFetcher:
         total = len(symbols)
         api_calls = 0
         cache_hits = 0
-        
+
         for i, symbol in enumerate(symbols):
             logger.info(f"Fetching {symbol} ({i+1}/{total})...")
-            
+
             # Check cache first (no rate limit needed)
             cached = self.get_cached_data(symbol)
             if cached:
                 results[symbol] = cached
                 cache_hits += 1
                 continue
-            
+
             # API call needed
             try:
                 results[symbol] = self._fetch_from_api(symbol)
                 api_calls += 1
-                
+
                 # Rate limit for API calls (skip for last ticker)
                 if i < total - 1:
                     time.sleep(self.rate_limit_delay)
-                    
+
             except Exception as e:
                 logger.error(f"Failed to fetch {symbol}: {e}")
                 results[symbol] = None
-        
+
         logger.info(f"Completed: {cache_hits} from cache, {api_calls} from API")
         return results
-    
+
     def is_cached(self, symbol: str) -> bool:
         """Check if ticker has today's cache without loading data."""
         if not self.cache_dir or not self.cache_dir.exists():

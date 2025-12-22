@@ -11,54 +11,38 @@ Usage:
 
 import os
 import sys
-import json
-import logging
 import argparse
 from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
 
+# Use shared_core utilities
+from shared_core import (
+    setup_logging,
+    get_cached_tickers,
+    safe_read_json,
+    safe_write_json,
+)
+from shared_core.triggers.conditions import update_cooldowns
+
 from src.fetch_prices import PriceFetcher
 from src.compute_flags import process_ticker_data, compute_flags
-from src.evaluate_triggers import evaluate_ticker, update_cooldowns
+from src.evaluate_triggers import evaluate_ticker
 from src.send_email import EmailSender, format_main_email, format_reminder_email
 from src.handle_action import handle_action
 
 # Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
-logger = logging.getLogger("TRADING_ALERTS")
+logger = setup_logging("TRADING_ALERTS")
 
 
 def load_json(path: Path) -> dict:
-    if path.exists():
-        return json.loads(path.read_text())
-    return {}
+    """Load JSON from path using shared_core utility."""
+    return safe_read_json(str(path)) or {}
 
 
 def save_json(path: Path, data: dict):
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data, indent=2))
-
-
-def get_cached_tickers(cache_dir: Path) -> list:
-    """
-    Get tickers from 007-ticker-analysis cache (today's files).
-    This is the default source when no custom JSON config is provided.
-    """
-    today = datetime.now().strftime('%Y-%m-%d')
-    tickers = []
-    
-    if cache_dir.exists():
-        for f in cache_dir.glob(f"*_{today}.json"):
-            # Extract ticker from filename like "NVDA_2024-12-21.json"
-            ticker = f.stem.replace(f"_{today}", "")
-            if ticker:
-                tickers.append(ticker)
-    
-    return sorted(set(tickers))
+    """Save JSON to path using shared_core utility."""
+    safe_write_json(str(path), data)
 
 
 def main():
@@ -88,7 +72,7 @@ def main():
     last_run = load_json(state_dir / "last_run.json")
     cooldowns = load_json(state_dir / "cooldowns.json")
     
-    # Default: use cached tickers from 007-ticker-analysis
+    # Default: use cached tickers from 007-ticker-analysis  
     cache_dir = base_dir.parent / "007-ticker-analysis" / "data" / "twelve_data"
     
     # Get API keys
@@ -136,8 +120,8 @@ def main():
         all_tickers = portfolio_tickers + watchlist_tickers
         logger.info(f"Using JSON config: {len(portfolio_tickers)} portfolio + {len(watchlist_tickers)} watchlist")
     else:
-        # Default: use cached tickers from 007-ticker-analysis
-        all_tickers = get_cached_tickers(cache_dir)
+        # Default: use cached tickers from 007-ticker-analysis (shared_core utility)
+        all_tickers = get_cached_tickers(str(cache_dir))
         # All cached tickers go to watchlist by default (no portfolio/watchlist distinction)
         watchlist_tickers = all_tickers
         logger.info(f"Using cached tickers from 007-ticker-analysis: {len(all_tickers)} tickers")

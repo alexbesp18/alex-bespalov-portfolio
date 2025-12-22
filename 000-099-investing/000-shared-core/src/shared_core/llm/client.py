@@ -1,7 +1,7 @@
 """Unified LLM client with retry logic and multi-provider support."""
 
 import logging
-from typing import Any, Dict, Optional
+from typing import Any, Dict
 
 from tenacity import (
     retry,
@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 class LLMClient:
     """Unified LLM client supporting multiple providers with retry logic."""
-    
+
     def __init__(self, provider: str, api_key: str, provider_settings: Dict[str, Any]):
         """Initialize LLM client for a specific provider.
         
@@ -32,10 +32,10 @@ class LLMClient:
         self.client: Any = None
         self.model_name: str = ""
         self.max_tokens: int = provider_settings.get("max_tokens", 64000)
-        
+
         self._initialize_client()
         self._sanitize_caps()
-    
+
     def _initialize_client(self) -> None:
         """Initialize the appropriate API client."""
         if not self.api_key:
@@ -45,12 +45,12 @@ class LLMClient:
             from anthropic import Anthropic
             self.client = Anthropic(api_key=self.api_key)
             self.model_name = self._get_model_mapping("claude", self.provider_settings.get("model", ""))
-            
+
         elif self.provider == "openai":
             from openai import OpenAI
             self.client = OpenAI(api_key=self.api_key)
             self.model_name = self._get_model_mapping("openai", self.provider_settings.get("model", ""))
-            
+
         elif self.provider == "grok":
             from openai import OpenAI
             self.client = OpenAI(
@@ -58,20 +58,20 @@ class LLMClient:
                 base_url="https://api.x.ai/v1"
             )
             self.model_name = self._get_model_mapping("grok", self.provider_settings.get("model", ""))
-            
+
         elif self.provider == "gemini":
             import google.generativeai as genai
             genai.configure(api_key=self.api_key)
             self.client = genai
             self.model_name = self._get_model_mapping("gemini", self.provider_settings.get("model", ""))
-            
+
         else:
             raise ValueError(f"Unknown provider: {self.provider}")
-            
+
         # Update max_tokens from settings if present
         if "max_tokens" in self.provider_settings:
             self.max_tokens = self.provider_settings["max_tokens"]
-    
+
     def _get_model_mapping(self, provider: str, model_key: str) -> str:
         """Map config model names to actual API model strings.
         
@@ -104,7 +104,7 @@ class LLMClient:
             }
         }
         return mappings.get(provider, {}).get(model_key, model_key)
-    
+
     def _sanitize_caps(self) -> None:
         """Normalize caps and budgets to avoid common API errors."""
         try:
@@ -119,7 +119,7 @@ class LLMClient:
                 self.max_tokens = min(self.max_tokens or 0, 128000)
         except Exception as e:
             logger.warning(f"Error sanitizing caps: {e}")
-    
+
     @retry(
         stop=stop_after_attempt(3),
         wait=wait_exponential(multiplier=1, min=4, max=60),
@@ -140,9 +140,9 @@ class LLMClient:
         """
         if max_tokens is None:
             max_tokens = self.max_tokens
-        
+
         logger.debug(f"Calling {self.provider} model {self.model_name} with {max_tokens} max tokens")
-        
+
         try:
             if self.provider == "claude":
                 return self._call_claude(prompt, system_message, max_tokens, stream)
@@ -157,7 +157,7 @@ class LLMClient:
         except Exception as e:
             logger.error(f"LLM call failed: {e}", exc_info=True)
             raise RuntimeError(f"{self.provider} call failed: {e}") from e
-    
+
     def _call_claude(self, prompt: str, system_message: str | None, max_tokens: int, stream: bool) -> str:
         """Call Claude API."""
         thinking_arg = None
@@ -171,17 +171,17 @@ class LLMClient:
                     thinking_arg = {"type": "enabled", "budget_tokens": think_budget}
             except Exception:
                 thinking_arg = None
-        
+
         kwargs = {
             "model": self.model_name,
             "max_tokens": max_tokens,
             "messages": [{"role": "user", "content": prompt}],
             "thinking": thinking_arg if thinking_arg else None
         }
-        
+
         if system_message:
             kwargs["system"] = system_message
-            
+
         if stream and max_tokens > 16000:
             response_text = ""
             try:
@@ -191,23 +191,23 @@ class LLMClient:
                 return response_text
             except Exception:
                 pass
-        
+
         kwargs["timeout"] = 600.0
         response = self.client.messages.create(**kwargs)
         return "".join([blk.text for blk in response.content if getattr(blk, "text", None)])
-    
+
     def _call_openai(self, prompt: str, system_message: str | None, max_tokens: int) -> str:
         """Call OpenAI Responses API."""
         use_web = self.provider_settings.get("web_search", {}).get("enabled", False)
         reasoning_effort = self.provider_settings.get("reasoning_effort", "medium")
-        
+
         messages = []
         if system_message:
             messages.append({"role": "system", "content": system_message})
         messages.append({"role": "user", "content": prompt})
-        
+
         tools = [{"type": "web_search"}] if use_web else None
-        
+
         resp = self.client.responses.create(
             model=self.model_name,
             input=messages,
@@ -216,21 +216,21 @@ class LLMClient:
             tools=tools
         )
         return getattr(resp, "output_text", None) or self._responses_text_fallback(resp)
-    
+
     def _call_grok(self, prompt: str, system_message: str | None, max_tokens: int) -> str:
         """Call xAI Grok API."""
         messages = []
         if system_message:
             messages.append({"role": "system", "content": system_message})
         messages.append({"role": "user", "content": prompt})
-        
+
         resp = self.client.chat.completions.create(
             model=self.model_name,
             messages=messages,
             max_tokens=max_tokens
         )
         return resp.choices[0].message.content
-    
+
     def _call_gemini(self, prompt: str, system_message: str | None, max_tokens: int) -> str:
         """Call Google Gemini API."""
         # Gemini uses 'system_instruction' in GenerativeModel init or generate_content
@@ -239,19 +239,19 @@ class LLMClient:
         # but we reuse self.client.GenerativeModel.
         # Alternatively, prepend simple system prompt to text often works well for Gemini if API doesn't support it dynamically per call easily on old SDKs.
         # Latest SDK supports system_instruction at model creation.
-        
+
         model_kwargs = {}
         if system_message:
             model_kwargs["system_instruction"] = system_message
-            
+
         model = self.client.GenerativeModel(self.model_name, **model_kwargs)
-        
+
         use_web = self.provider_settings.get("web_search", {}).get("enabled", False)
         gen_cfg = {
             "max_output_tokens": max_tokens,
             "temperature": self.provider_settings.get("temperature", 0.7)
         }
-        
+
         if use_web:
             try:
                 response = model.generate_content(
@@ -263,10 +263,10 @@ class LLMClient:
                 response = model.generate_content(prompt, generation_config=gen_cfg)
         else:
             response = model.generate_content(prompt, generation_config=gen_cfg)
-        
+
         return getattr(response, "text", None) or self._gemini_text_fallback(response)
 
-    
+
     @staticmethod
     def _responses_text_fallback(resp: Any) -> str:
         """Fallback to collect text from Responses API structured output."""
@@ -281,7 +281,7 @@ class LLMClient:
         except Exception:
             pass
         return ""
-    
+
     @staticmethod
     def _gemini_text_fallback(response: Any) -> str:
         """Fallback to collect text from Gemini responses."""

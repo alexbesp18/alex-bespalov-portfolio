@@ -1,52 +1,32 @@
 import os
-import json
-import logging
 import argparse
-from datetime import datetime, timedelta, timezone
+from datetime import datetime
 from dotenv import load_dotenv
-from zoneinfo import ZoneInfo
+
+# Use shared_core utilities
+from shared_core import (
+    setup_logging,
+    get_cached_tickers,
+    check_time_guard,
+    safe_read_json,
+    StateManager,
+    ArchiveManager,
+    Digest,
+)
 
 from src.fetcher import TwelveDataFetcher
 from src.calculator import TechnicalCalculator
 from src.reversal_calculator import ReversalCalculator
 from src.triggers import TriggerEngine
 from src.notifier import Notifier
-from src.state_manager import StateManager, Digest
-from src.archiver import ArchiveManager
 
-# Configure Logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
-logger = logging.getLogger("REVERSALS")
+# Configure Logging using shared_core
+logger = setup_logging("REVERSALS")
 
 
 def load_watchlist(path):
-    """Load watchlist from JSON file."""
-    if os.path.exists(path):
-        with open(path, 'r') as f:
-            return json.load(f)
-    return {}
-
-
-def get_cached_tickers(cache_dir):
-    """
-    Get tickers from 007-ticker-analysis cache (today's files).
-    Default source when no custom JSON config is provided.
-    """
-    today = datetime.now().strftime('%Y-%m-%d')
-    tickers = []
-    
-    if os.path.exists(cache_dir):
-        for f in os.listdir(cache_dir):
-            if f.endswith(f"_{today}.json"):
-                # Extract ticker from filename like "NVDA_2024-12-21.json"
-                ticker = f.replace(f"_{today}.json", "")
-                if ticker:
-                    tickers.append(ticker)
-    
-    return sorted(set(tickers))
+    """Load watchlist from JSON file using shared_core utility."""
+    return safe_read_json(path) or {}
 
 
 def main():
@@ -61,18 +41,10 @@ def main():
     parser.add_argument("--expected-tz", type=str, default="America/Chicago", help="IANA timezone name used with --expected-local-hour")
     args = parser.parse_args()
 
-    # Optional time guard (useful when cron runs multiple times to handle DST)
+    # Optional time guard using shared_core utility
     if args.expected_local_hour is not None:
-        try:
-            local_now = datetime.now(ZoneInfo(args.expected_tz))
-            if local_now.hour != args.expected_local_hour:
-                logger.info(
-                    f"Time guard: local hour is {local_now.hour} in {args.expected_tz}; "
-                    f"expected {args.expected_local_hour}. Skipping."
-                )
-                return
-        except Exception as e:
-            logger.warning(f"Time guard failed (tz={args.expected_tz}): {e}. Continuing without guard.")
+        if not check_time_guard(args.expected_local_hour, args.expected_tz):
+            return
 
     # Load Config
     base_dir = os.path.dirname(os.path.abspath(__file__))

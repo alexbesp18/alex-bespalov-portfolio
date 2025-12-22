@@ -23,7 +23,7 @@ class TranscriptClient:
     Earnings transcript fetcher with daily caching.
     Uses defeatbeta-api to fetch transcripts.
     """
-    
+
     def __init__(self, cache: DataCache, min_chars: int = 600,
                  earliest_year_offset: int = 1, verbose: bool = False):
         """
@@ -39,12 +39,12 @@ class TranscriptClient:
         self.min_chars = min_chars
         self.earliest_year = dt.date.today().year - earliest_year_offset
         self.verbose = verbose
-    
+
     @staticmethod
     def is_available() -> bool:
         """Check if defeatbeta-api is installed."""
         return DEFEATBETA_AVAILABLE
-    
+
     def _normalize_text(self, obj: Any) -> str:
         """Convert various transcript formats to plain text."""
         if obj is None:
@@ -70,7 +70,7 @@ class TranscriptClient:
             except Exception:
                 return str(obj)
         return str(obj)
-    
+
     def _fetch_from_api(self, ticker: str) -> Optional[Dict[str, Any]]:
         """
         Fetch the latest transcript from defeatbeta API.
@@ -80,55 +80,55 @@ class TranscriptClient:
         """
         if not DEFEATBETA_AVAILABLE:
             return {'Ticker': ticker, 'Status': "ERROR: defeatbeta not installed"}
-        
+
         if self.verbose:
             print(f"    📝 Fetching transcript for {ticker} from defeatbeta...")
-        
+
         try:
             tkr = Ticker(ticker)
             tr = tkr.earning_call_transcripts()
             df_list = tr.get_transcripts_list()
-            
+
             try:
                 df = pd.DataFrame(df_list)
             except Exception:
                 df = df_list if isinstance(df_list, pd.DataFrame) else pd.DataFrame(df_list)
-            
+
             if df.empty:
                 if self.verbose:
-                    print(f"    ⚠️  No transcripts found")
+                    print("    ⚠️  No transcripts found")
                 return {'Ticker': ticker, 'Status': 'NO_DATA', 'Period': 'N/A'}
-            
+
             # Filter by year
             if 'fiscal_year' in df.columns:
                 df = df[df['fiscal_year'].astype(int) >= self.earliest_year]
-            
+
             if df.empty:
                 if self.verbose:
                     print(f"    ⚠️  No recent transcripts (>= {self.earliest_year})")
                 return {'Ticker': ticker, 'Status': 'NO_DATA', 'Period': 'N/A'}
-            
+
             # Sort by date
             sort_cols = [c for c in ['report_date', 'fiscal_year', 'fiscal_quarter'] if c in df.columns]
             if sort_cols:
                 df = df.sort_values(sort_cols, ascending=[False] * len(sort_cols))
-            
+
             # Get the latest transcript
             row = df.iloc[0]
             y = int(row.get('fiscal_year', 0))
             q = int(row.get('fiscal_quarter', 0))
             report_date = str(row.get('report_date', 'N/A'))
             period = f"{y}Q{q}"
-            
+
             # Fetch full transcript
             tx = tr.get_transcript(y, q)
-            
+
             # Extract text
             try:
                 tdf = pd.DataFrame(tx)
             except Exception:
                 tdf = tx if isinstance(tx, pd.DataFrame) else pd.DataFrame(tx)
-            
+
             if not tdf.empty and 'content' in tdf.columns:
                 text = "\n".join(str(x) for x in tdf['content'].tolist())
             elif isinstance(tx, dict):
@@ -137,10 +137,10 @@ class TranscriptClient:
                 text = self._normalize_text(tx)
             else:
                 text = ""
-            
+
             text = (text or "").strip()
             char_count = len(text)
-            
+
             if char_count < self.min_chars:
                 if self.verbose:
                     print(f"    ⚠️  Transcript too short: {char_count} chars")
@@ -152,10 +152,10 @@ class TranscriptClient:
                     'Status': f'NO_DATA (only {char_count} chars)',
                     'Full_Text': ''
                 }
-            
+
             if self.verbose:
                 print(f"    ✅ {ticker} {period}: {char_count:,} chars")
-            
+
             return {
                 'Ticker': ticker,
                 'Period': period,
@@ -164,12 +164,12 @@ class TranscriptClient:
                 'Status': 'OK',
                 'Full_Text': text
             }
-            
+
         except Exception as e:
             if self.verbose:
                 print(f"    ❌ Error: {e}")
             return {'Ticker': ticker, 'Status': f"ERROR: {str(e)[:50]}"}
-    
+
     def fetch_transcript(self, ticker: str, 
                          force_refresh: bool = False) -> Optional[Dict[str, Any]]:
         """
@@ -183,7 +183,7 @@ class TranscriptClient:
             Dict with transcript metadata and text
         """
         ticker = ticker.upper()
-        
+
         # Check cache first (unless forcing refresh)
         if not force_refresh:
             cached = self.cache.get_transcript(ticker)
@@ -191,18 +191,18 @@ class TranscriptClient:
                 if self.verbose:
                     print(f"    ✅ Using cached transcript for {ticker}")
                 return cached
-        
+
         # Fetch from API
         result = self._fetch_from_api(ticker)
-        
+
         if result is None:
             return {'Ticker': ticker, 'Status': 'ERROR: Failed to fetch transcript'}
-        
+
         # Save to cache (include full text for potential re-analysis)
         self.cache.save_transcript(ticker, result)
-        
+
         return result
-    
+
     def get_tickers_needing_refresh(self, tickers: List[str]) -> List[str]:
         """
         Determine which tickers need fresh transcript data.
@@ -214,17 +214,17 @@ class TranscriptClient:
             List of ticker symbols needing API refresh
         """
         needs_refresh = []
-        
+
         for ticker in tickers:
             cached = self.cache.get_transcript(ticker)
             if cached is None:
                 needs_refresh.append(ticker)
-        
+
         if self.verbose and needs_refresh:
             print(f"   📝 {len(needs_refresh)} tickers without cached transcripts")
-        
+
         return needs_refresh
-    
+
     def calculate_days_since_earnings(self, earnings_date: str) -> Optional[int]:
         """
         Calculate days since earnings date.
@@ -237,7 +237,7 @@ class TranscriptClient:
         """
         if not earnings_date or earnings_date == 'N/A':
             return None
-        
+
         try:
             date = dt.datetime.strptime(earnings_date, '%Y-%m-%d').date()
             return (dt.date.today() - date).days

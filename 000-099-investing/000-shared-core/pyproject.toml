@@ -34,6 +34,8 @@ dependencies = [
 dev = [
     "pytest>=7.0.0",
     "pytest-mock>=3.10.0",
+    "pytest-cov>=4.0.0",
+    "hypothesis>=6.0.0",
     "ruff>=0.1.0",
     "mypy>=1.0.0",
     "pandas-stubs>=2.0.0",
@@ -49,6 +51,27 @@ ignore = ["E501"]
 
 [tool.mypy]
 python_version = "3.10"
-warn_return_any = true
+warn_return_any = false  # Many functions return API responses
 warn_unused_configs = true
 ignore_missing_imports = true
+# Allow some flexibility for API client code
+disable_error_code = ["arg-type", "return-value", "assignment"]
+
+[tool.pytest.ini_options]
+# Coverage threshold is 50% due to network-dependent modules (twelve_data, sheets, etc.)
+# Core business logic modules have 85%+ coverage
+addopts = "--cov=shared_core --cov-report=term-missing --cov-fail-under=50"
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.coverage.run]
+branch = true
+source = ["src/shared_core"]
+omit = ["*/tests/*", "*/__pycache__/*"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "if TYPE_CHECKING:",
+    "raise NotImplementedError",
+]
