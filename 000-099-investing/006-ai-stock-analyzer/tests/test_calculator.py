@@ -1,10 +1,10 @@
-"""Tests for TechnicalCalculator."""
+"""Tests for TechnicalCalculator from shared_core."""
 
 import numpy as np
 import pandas as pd
 import pytest
 
-from src.analysis.calculator import TechnicalCalculator
+from shared_core.market_data.technical import TechnicalCalculator
 
 
 class TestMovingAverages:
