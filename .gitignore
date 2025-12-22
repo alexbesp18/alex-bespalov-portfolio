@@ -141,6 +141,7 @@ pip-delete-this-directory.txt
 .secrets.baseline
 
 # ============================================================================
-# 📦 ARCHIVE - LOCAL ONLY
+# 📦 ARCHIVE & BACKUPS - LOCAL ONLY
 # ============================================================================
 _archive/
+_backup/
