@@ -1,0 +1,34 @@
+# PodcastAlpha - Tracked YouTube Channels
+#
+# Channels listed here will be automatically checked for new videos
+# every 24 hours via GitHub Actions.
+#
+# Each channel config:
+#   - name: Display name for logging
+#   - url: YouTube channel URL (/@handle, /channel/ID, or /c/name format)
+#   - enabled: Set to false to pause monitoring
+#   - check_last_n: How many recent videos to check (default: 5)
+#   - options: Processing options for new videos from this channel
+
+channels:
+  - name: "Peter Diamandis"
+    url: "https://www.youtube.com/@peterdiamandis"
+    enabled: true
+    check_last_n: 5
+    options:
+      enrich_ideas: true
+      all_lenses: true
+      podcaster_automation: false
+      # skip_topics: false
+      # skip_ideas: false
+      # skip_investment: false
+
+# Add more channels as needed:
+# - name: "Another Channel"
+#   url: "https://www.youtube.com/@channelhandle"
+#   enabled: true
+#   check_last_n: 3
+#   options:
+#     enrich_ideas: false
+#     all_lenses: false
+

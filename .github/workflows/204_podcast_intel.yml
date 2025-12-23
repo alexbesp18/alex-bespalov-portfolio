@@ -1,0 +1,179 @@
+# 204 - PodcastAlpha: Automated Channel Monitoring & Video Processing
+#
+# This workflow:
+# 1. Checks tracked channels (channels.yaml) for new videos
+# 2. Adds new videos to queue.yaml
+# 3. Processes the queue through the analysis pipeline
+# 4. Sends per-video email notifications
+# 5. Commits outputs to repo
+#
+# Required Secrets:
+#   - OPENROUTER_API_KEY: For LLM API calls
+#   - RESEND_API_KEY: For email notifications
+#
+# Schedule: Daily at 6 AM UTC
+
+name: 204 Podcast Intelligence
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  
+  workflow_dispatch:
+    inputs:
+      skip_channel_check:
+        description: 'Skip channel check (process existing queue only)'
+        required: false
+        type: boolean
+        default: false
+      video_url:
+        description: 'YouTube URL to process (bypasses queue)'
+        required: false
+        type: string
+      enrich_ideas:
+        description: 'Run full business enrichment'
+        required: false
+        type: boolean
+        default: true
+      all_lenses:
+        description: 'Run all investor lenses'
+        required: false
+        type: boolean
+        default: true
+      limit:
+        description: 'Max videos to process (0 = all)'
+        required: false
+        type: number
+        default: 3
+
+env:
+  OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+  RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+  PROJECT_DIR: ./200-other/204-transcripts-to-intelligence
+
+jobs:
+  check-channels:
+    name: Check Channels
+    runs-on: ubuntu-latest
+    if: ${{ !inputs.skip_channel_check && !inputs.video_url }}
+    outputs:
+      new_videos: ${{ steps.monitor.outputs.new_videos }}
+    
+    defaults:
+      run:
+        working-directory: ./200-other/204-transcripts-to-intelligence
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: './200-other/204-transcripts-to-intelligence/requirements.txt'
+      
+      - name: Install dependencies
+        run: pip install pyyaml yt-dlp
+      
+      - name: Check channels for new videos
+        id: monitor
+        run: |
+          python scripts/channel_monitor.py 2>&1 | tee channel_check.log
+          NEW_VIDEOS=$(grep "New videos found:" channel_check.log | awk '{print $NF}' || echo "0")
+          echo "new_videos=$NEW_VIDEOS" >> $GITHUB_OUTPUT
+          echo "Found $NEW_VIDEOS new videos"
+      
+      - name: Commit queue updates
+        if: steps.monitor.outputs.new_videos != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add queue.yaml
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(204): add new videos from channel check"
+            git push
+          fi
+
+  process:
+    name: Process Videos
+    runs-on: ubuntu-latest
+    needs: [check-channels]
+    if: always() && (needs.check-channels.outputs.new_videos != '0' || inputs.video_url || inputs.skip_channel_check)
+    outputs:
+      processed: ${{ steps.process.outputs.processed }}
+      cost: ${{ steps.process.outputs.cost }}
+    
+    defaults:
+      run:
+        working-directory: ./200-other/204-transcripts-to-intelligence
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Pull latest changes
+        run: git pull origin ${{ github.ref_name }} || true
+        working-directory: .
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: './200-other/204-transcripts-to-intelligence/requirements.txt'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Process single video (manual trigger)
+        if: inputs.video_url
+        run: |
+          args="--url '${{ inputs.video_url }}'"
+          [ "${{ inputs.enrich_ideas }}" = "true" ] && args="$args --enrich-ideas"
+          [ "${{ inputs.all_lenses }}" = "true" ] && args="$args --all-lenses"
+          eval "python scripts/process_queue.py $args"
+      
+      - name: Process queue
+        id: process
+        if: "!inputs.video_url"
+        run: |
+          limit="${{ inputs.limit || '3' }}"
+          if [ "$limit" = "0" ]; then
+            python scripts/process_queue.py 2>&1 | tee processing.log
+          else
+            python scripts/process_queue.py --limit "$limit" 2>&1 | tee processing.log
+          fi
+          
+          if grep -q "Queue Processing Complete" processing.log; then
+            PROCESSED=$(grep "Processed:" processing.log | awk '{print $2}')
+            COST=$(grep "Total Cost:" processing.log | awk '{print $3}')
+            echo "processed=$PROCESSED" >> $GITHUB_OUTPUT
+            echo "cost=$COST" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/outputs/ queue.yaml || true
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(204): process videos $(date +%Y-%m-%d)"
+            git push
+          fi
+        working-directory: .
+      
+      - name: Upload outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: podcast-intel-${{ github.run_number }}
+          path: ./200-other/204-transcripts-to-intelligence/data/outputs/
+          retention-days: 30

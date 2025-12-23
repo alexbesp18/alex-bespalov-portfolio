@@ -1,0 +1,45 @@
+# PodcastAlpha Video Processing Queue
+# 
+# Add videos to this file to be processed by the GitHub Actions workflow.
+# Videos are processed in order (high priority first, then normal).
+#
+# Format:
+#   videos:
+#     - url: YouTube URL or video ID
+#       priority: high/normal/low (default: normal)
+#       options:
+#         enrich_ideas: true/false (run full business enrichment)
+#         all_lenses: true/false (run all investor lenses)
+#         lenses: [list of specific lenses]
+#         podcaster_automation: true/false (run podcaster automation analysis)
+#         skip_topics: true/false
+#         skip_ideas: true/false
+#         skip_investment: true/false
+
+videos:
+  # Example entries (commented out):
+  #
+  # - url: "https://youtube.com/watch?v=VIDEO_ID"
+  #   priority: high
+  #   options:
+  #     enrich_ideas: true
+  #     all_lenses: true
+  #     podcaster_automation: true
+  #
+  # - url: "VIDEO_ID_2"
+  #   priority: normal
+  #   options:
+  #     lenses:
+  #       - gavin_baker
+  #       - karpathy
+  #
+  # - url: "VIDEO_ID_3"
+  #   # Uses all defaults (no enrichment, no lenses)
+
+# Processed videos are moved to the 'processed' section automatically
+processed:
+  - url: "https://www.youtube.com/watch?v=NHAzpG95ptI"
+    processed_at: "2025-12-23T09:50:54"
+    status: success
+    title: "2026 Predictions: AI Automates Knowledge Work, Autonomous Robots & AI CEO Billionaires"
+
