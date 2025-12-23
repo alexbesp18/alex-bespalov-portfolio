@@ -1,0 +1,47 @@
+# PodcastAlpha Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core
+python-dotenv>=1.0.0
+pyyaml>=6.0.1           # YAML parsing for prompt frontmatter
+pydantic>=2.0.0         # Data validation
+pydantic-settings>=2.0.0  # Settings management from env vars
+python-frontmatter>=1.0.0  # Parse YAML frontmatter in prompts
+requests>=2.31.0        # HTTP client for notifications
+structlog>=24.1.0       # Structured logging (optional, gracefully degraded)
+
+# YouTube/Video
+yt-dlp>=2024.1.0
+youtube-transcript-api>=0.6.2
+
+# Transcription
+openai>=1.12.0          # For Whisper API
+# faster-whisper>=0.10.0  # Optional: local Whisper - free, no API needed
+                         # Requires: pip install faster-whisper
+                         # GPU acceleration: requires CUDA or Apple Metal
+
+# LLM Analysis
+anthropic>=0.18.0
+
+# Database
+supabase>=2.3.0
+
+# Stock Validation
+yfinance>=0.2.36
+
+# Text Processing
+rapidfuzz>=3.6.0        # Fuzzy string matching for quote validation
+
+# CLI
+argparse                # Built-in, but listed for clarity
+
+# Browser Automation (optional, for fallback transcription)
+# playwright>=1.40.0    # Uncomment if needed
+
+# Development & Testing
+pytest>=8.0.0
+pytest-cov>=4.1.0       # Coverage reporting
+pytest-mock>=3.12.0     # Mocking utilities
+responses>=0.25.0       # Mock HTTP responses
+ruff>=0.2.0             # Linting
+mypy>=1.8.0             # Type checking
