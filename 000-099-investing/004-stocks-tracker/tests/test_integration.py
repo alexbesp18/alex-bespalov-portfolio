@@ -4,7 +4,7 @@ Integration tests for Stock Tracker application.
 These tests verify that components work together correctly.
 Note: These tests use mocking to avoid actual API calls.
 """
-from unittest.mock import patch
+from unittest.mock import patch, MagicMock
 
 import pandas as pd
 import pytest
@@ -16,22 +16,23 @@ from src.calculator import StockCalculator
 class TestIntegration:
     """Integration tests for API client and calculator."""
 
-    @patch("src.api_client.yf.download")
-    @patch("src.api_client.time.sleep")
-    def test_end_to_end_workflow(self, mock_sleep, mock_download):
+    @patch.object(StockDataClient, '_get_client')
+    def test_end_to_end_workflow(self, mock_get_client):
         """Test complete workflow from API fetch to metric calculation."""
-        # Mock API response
+        # Mock TwelveDataClient response
+        mock_client = MagicMock()
         mock_data = pd.DataFrame(
             {
-                "Open": [100.0, 102.0, 101.0],
-                "High": [102.0, 103.0, 102.5],
-                "Low": [99.0, 101.0, 100.5],
-                "Close": [101.0, 102.5, 101.5],
-                "Volume": [1000000, 1100000, 1050000],
+                "open": [100.0, 102.0, 101.0],
+                "high": [102.0, 103.0, 102.5],
+                "low": [99.0, 101.0, 100.5],
+                "close": [101.0, 102.5, 101.5],
+                "volume": [1000000, 1100000, 1050000],
             },
             index=pd.date_range("2023-01-01", periods=3),
         )
-        mock_download.return_value = mock_data
+        mock_client.get_dataframe.return_value = mock_data
+        mock_get_client.return_value = mock_client
 
         # Fetch data
         hist_data = StockDataClient.get_historical_data("AAPL", "1 year")
@@ -47,10 +48,12 @@ class TestIntegration:
         assert metrics["start_price"] == 101.0
         assert metrics["current_price"] == 101.5
 
-    @patch("src.api_client.yf.download")
-    def test_integration_with_empty_data(self, mock_download):
+    @patch.object(StockDataClient, '_get_client')
+    def test_integration_with_empty_data(self, mock_get_client):
         """Test integration when API returns empty data."""
-        mock_download.return_value = pd.DataFrame()
+        mock_client = MagicMock()
+        mock_client.get_dataframe.return_value = pd.DataFrame()
+        mock_get_client.return_value = mock_client
 
         hist_data = StockDataClient.get_historical_data("INVALID", "1 year")
         assert hist_data is None
@@ -59,14 +62,16 @@ class TestIntegration:
         metrics = StockCalculator.calculate_metrics(hist_data)
         assert metrics is None
 
-    @patch("src.api_client.yf.download")
-    def test_integration_with_single_data_point(self, mock_download):
+    @patch.object(StockDataClient, '_get_client')
+    def test_integration_with_single_data_point(self, mock_get_client):
         """Test integration with insufficient data points."""
         # Single row DataFrame
+        mock_client = MagicMock()
         mock_data = pd.DataFrame(
-            {"Close": [100.0]}, index=[pd.Timestamp("2023-01-01")]
+            {"close": [100.0]}, index=[pd.Timestamp("2023-01-01")]
         )
-        mock_download.return_value = mock_data
+        mock_client.get_dataframe.return_value = mock_data
+        mock_get_client.return_value = mock_client
 
         hist_data = StockDataClient.get_historical_data("AAPL", "1 year")
         assert hist_data is not None
@@ -92,4 +97,3 @@ class TestIntegration:
         assert "MSFT" in output
         assert "Microsoft" in output
         assert "3.33" in output or "+3.33" in output
-

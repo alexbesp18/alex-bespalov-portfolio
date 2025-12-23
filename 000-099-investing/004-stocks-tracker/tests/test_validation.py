@@ -1,7 +1,7 @@
 """
 Tests for input validation in API client and calculator.
 """
-from unittest.mock import patch
+from unittest.mock import patch, MagicMock
 
 import pandas as pd
 import pytest
@@ -38,22 +38,28 @@ class TestInputValidation:
         result = StockDataClient.get_historical_data(long_symbol, "1 year")
         assert result is None
 
-    def test_invalid_duration(self):
+    @patch.object(StockDataClient, '_get_client')
+    def test_invalid_duration(self, mock_get_client):
         """Test that invalid duration defaults to '1 year'."""
-        with patch("src.api_client.StockDataClient._fetch_historical_data_internal") as mock_fetch:
-            mock_fetch.return_value = pd.DataFrame({"Close": [100.0, 101.0]})
-            result = StockDataClient.get_historical_data("AAPL", "invalid duration")
-            # Should still attempt to fetch with default duration
-            assert mock_fetch.called
+        mock_client = MagicMock()
+        mock_client.get_dataframe.return_value = pd.DataFrame({"close": [100.0, 101.0]})
+        mock_get_client.return_value = mock_client
+        
+        result = StockDataClient.get_historical_data("AAPL", "invalid duration")
+        # Should still attempt to fetch with default duration
+        assert mock_client.get_dataframe.called
 
-    def test_valid_symbol_normalized(self):
+    @patch.object(StockDataClient, '_get_client')
+    def test_valid_symbol_normalized(self, mock_get_client):
         """Test that symbol is normalized to uppercase."""
-        with patch("src.api_client.StockDataClient._fetch_historical_data_internal") as mock_fetch:
-            mock_fetch.return_value = pd.DataFrame({"Close": [100.0, 101.0]})
-            StockDataClient.get_historical_data("aapl", "1 year")
-            # Check that symbol was normalized to uppercase
-            call_args = mock_fetch.call_args
-            assert call_args[0][0] == "AAPL"
+        mock_client = MagicMock()
+        mock_client.get_dataframe.return_value = pd.DataFrame({"close": [100.0, 101.0]})
+        mock_get_client.return_value = mock_client
+        
+        StockDataClient.get_historical_data("aapl", "1 year")
+        # Check that get_dataframe was called with uppercase symbol
+        call_args = mock_client.get_dataframe.call_args
+        assert call_args[0][0] == "AAPL"
 
     def test_get_current_price_invalid_symbol(self):
         """Test get_current_price with invalid symbol."""
@@ -86,4 +92,3 @@ class TestConstants:
         """Test calculator constants."""
         assert CLOSE_COLUMN == "Close"
         assert MIN_DATA_POINTS_REQUIRED >= 2
-
