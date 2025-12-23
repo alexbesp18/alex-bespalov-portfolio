@@ -58,6 +58,7 @@ jobs:
     if: ${{ !inputs.skip_channel_check && !inputs.video_url }}
     outputs:
       new_videos: ${{ steps.monitor.outputs.new_videos }}
+      pending_videos: ${{ steps.monitor.outputs.pending_videos }}
     
     defaults:
       run:
@@ -86,6 +87,11 @@ jobs:
           NEW_VIDEOS=$(grep "New videos found:" channel_check.log | awk '{print $NF}' || echo "0")
           echo "new_videos=$NEW_VIDEOS" >> $GITHUB_OUTPUT
           echo "Found $NEW_VIDEOS new videos"
+          
+          # Also check if queue has pending videos
+          PENDING=$(python -c "import yaml; q=yaml.safe_load(open('queue.yaml')); print(len(q.get('videos') or []))" 2>/dev/null || echo "0")
+          echo "pending_videos=$PENDING" >> $GITHUB_OUTPUT
+          echo "Pending in queue: $PENDING"
       
       - name: Commit queue updates
         if: steps.monitor.outputs.new_videos != '0'
@@ -102,7 +108,8 @@ jobs:
     name: Process Videos
     runs-on: ubuntu-latest
     needs: [check-channels]
-    if: always() && (needs.check-channels.outputs.new_videos != '0' || inputs.video_url || inputs.skip_channel_check)
+    # Run if: new videos found, OR pending videos in queue, OR manual URL, OR skip_channel_check
+    if: always() && (needs.check-channels.outputs.new_videos != '0' || needs.check-channels.outputs.pending_videos != '0' || inputs.video_url || inputs.skip_channel_check)
     outputs:
       processed: ${{ steps.process.outputs.processed }}
       cost: ${{ steps.process.outputs.cost }}

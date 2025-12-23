@@ -53,9 +53,10 @@ def load_queue() -> Dict[str, Any]:
     with open(QUEUE_FILE) as f:
         data = yaml.safe_load(f) or {}
     
+    # Use `or []` to handle null/None values in YAML
     return {
-        "videos": data.get("videos", []),
-        "processed": data.get("processed", []),
+        "videos": data.get("videos") or [],
+        "processed": data.get("processed") or [],
     }
 
 
