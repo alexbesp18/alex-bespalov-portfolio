@@ -16,25 +16,14 @@
 #         skip_ideas: true/false
 #         skip_investment: true/false
 
-videos:
-  # Example entries (commented out):
-  #
+videos: []
+  # Add videos here in format:
   # - url: "https://youtube.com/watch?v=VIDEO_ID"
   #   priority: high
   #   options:
   #     enrich_ideas: true
   #     all_lenses: true
   #     podcaster_automation: true
-  #
-  # - url: "VIDEO_ID_2"
-  #   priority: normal
-  #   options:
-  #     lenses:
-  #       - gavin_baker
-  #       - karpathy
-  #
-  # - url: "VIDEO_ID_3"
-  #   # Uses all defaults (no enrichment, no lenses)
 
 # Processed videos are moved to the 'processed' section automatically
 processed:
