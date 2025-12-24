@@ -43,7 +43,7 @@ from shared_core.models import (
 # Project-specific models (for backward compatibility, alias to shared_core)
 from .models import OversoldScore, TickerResult, Watchlist, ScanConfig, OutputFormat
 from .oversold_scorer import OversoldScorer
-from .calculator import TechnicalCalculator as OversoldTechnicalCalculator
+from .calculator import TechnicalCalculator  # Override shared_core version
 from .fetcher import TwelveDataFetcher
 
 __all__ = [
@@ -68,6 +68,5 @@ __all__ = [
     "ScanConfig",
     "OutputFormat",
     "OversoldScorer",
-    "OversoldTechnicalCalculator",
     "TwelveDataFetcher",
 ]
