@@ -34,51 +34,28 @@ jobs:
           restore-keys: |
             ticker-cache-
 
-      - name: Check if cache is complete
-        id: cache-check
-        run: |
-          if [ -d "${{ env.CACHE_PATH }}/twelve_data" ]; then
-            FILE_COUNT=$(ls ${{ env.CACHE_PATH }}/twelve_data/*.json 2>/dev/null | wc -l)
-            echo "Found $FILE_COUNT cached files"
-            if [ "$FILE_COUNT" -gt 200 ]; then
-              echo "skip_refresh=true" >> $GITHUB_OUTPUT
-              echo "✅ Cache is complete ($FILE_COUNT files), skipping refresh"
-            else
-              echo "skip_refresh=false" >> $GITHUB_OUTPUT
-              echo "⚠️ Cache incomplete ($FILE_COUNT files), will refresh"
-            fi
-          else
-            echo "skip_refresh=false" >> $GITHUB_OUTPUT
-            echo "📁 No cache found, will refresh"
-          fi
-
       - name: Set up Python
-        if: steps.cache-check.outputs.skip_refresh != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
 
       - name: Install shared-core
-        if: steps.cache-check.outputs.skip_refresh != 'true'
         run: |
           cd 000-099-investing/000-shared-core
           pip install -e .
 
       - name: Install 007-ticker-analysis dependencies
-        if: steps.cache-check.outputs.skip_refresh != 'true'
         run: |
           cd 000-099-investing/007-ticker-analysis
           pip install -r requirements.txt
 
       - name: Create data directory
-        if: steps.cache-check.outputs.skip_refresh != 'true'
         run: |
           mkdir -p 000-099-investing/007-ticker-analysis/data/twelve_data
           mkdir -p 000-099-investing/007-ticker-analysis/data/transcripts
 
       - name: Create config.json from secrets
-        if: steps.cache-check.outputs.skip_refresh != 'true'
         run: |
           cd 000-099-investing/007-ticker-analysis
           cat > config.json << EOF
@@ -112,13 +89,11 @@ jobs:
           EOF
 
       - name: Set up Google credentials
-        if: steps.cache-check.outputs.skip_refresh != 'true'
         run: |
           cd 000-099-investing/007-ticker-analysis
           echo '${{ secrets.GDRIVE_API_KEY_JSON }}' > google_service_account.json
 
       - name: Run cache refresh (technicals only)
-        if: steps.cache-check.outputs.skip_refresh != 'true'
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
         run: |
@@ -132,7 +107,6 @@ jobs:
           echo "Total files: $(ls ${{ env.CACHE_PATH }}/twelve_data/ | wc -l)"
 
       - name: Save ticker cache
-        if: steps.cache-check.outputs.skip_refresh != 'true'
         uses: actions/cache/save@v4
         with:
           path: ${{ env.CACHE_PATH }}
