@@ -17,18 +17,18 @@ def detect_divergence_enhanced(
 ) -> DivergenceResult:
     """
     Enhanced divergence detection using actual swing points.
-    
+
     Bullish divergence: Price makes lower low, indicator makes higher low
     Bearish divergence: Price makes higher high, indicator makes lower high
-    
+
     Args:
         df: DataFrame with price and indicator data
         lookback: Number of bars to analyze
         indicator: Indicator column name ("RSI" or "OBV")
-        
+
     Returns:
         DivergenceResult with type, strength, and description
-        
+
     Example:
         >>> div = detect_divergence_enhanced(df, lookback=14, indicator="RSI")
         >>> if div.type == DivergenceType.BULLISH:
@@ -96,13 +96,13 @@ def detect_combined_divergence(
 ) -> DivergenceResult:
     """
     Check both RSI and OBV for divergence.
-    
+
     Returns stronger signal if both agree (1.5x confluence bonus).
-    
+
     Args:
         df: DataFrame with RSI and OBV columns
         lookback: Number of bars to analyze
-        
+
     Returns:
         DivergenceResult with combined strength if both agree
     """
@@ -140,11 +140,11 @@ def detect_rsi_divergence(
 ) -> str:
     """
     Simple RSI divergence detection.
-    
+
     Args:
         df: DataFrame with 'close' and 'RSI' columns
         lookback: Number of bars to analyze
-        
+
     Returns:
         'bullish', 'bearish', or 'none'
     """
@@ -172,11 +172,11 @@ def detect_obv_divergence(
 ) -> str:
     """
     Simple OBV divergence detection.
-    
+
     Args:
         df: DataFrame with 'close' and 'OBV' columns
         lookback: Number of bars to analyze
-        
+
     Returns:
         'bullish', 'bearish', or 'none'
     """

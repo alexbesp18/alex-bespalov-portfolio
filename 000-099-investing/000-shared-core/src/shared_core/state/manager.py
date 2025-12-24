@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 class StateManager:
     """
     Minimal persistence layer to prevent repeated alerts and support reminders.
-    
+
     State file structure:
     {
         "version": 1,
@@ -40,7 +40,7 @@ class StateManager:
         "last_digest": { ... },
         "last_reminder": { "digest_id": "...", "sent_at": "..." }
     }
-    
+
     Attributes:
         state_path: Path to the state JSON file
     """
@@ -50,7 +50,7 @@ class StateManager:
     def __init__(self, state_path: str):
         """
         Initialize StateManager.
-        
+
         Args:
             state_path: Path to state JSON file (will be created if missing)
         """
@@ -59,7 +59,7 @@ class StateManager:
     def load(self) -> Dict[str, Any]:
         """
         Load state from disk.
-        
+
         Returns:
             State dictionary with all required keys populated
         """
@@ -77,7 +77,7 @@ class StateManager:
     def save(self, state: Dict[str, Any]) -> None:
         """
         Persist state to disk.
-        
+
         Args:
             state: State dictionary to save
         """
@@ -87,10 +87,10 @@ class StateManager:
     def get_last_run_trigger_keys(self, state: Dict[str, Any]) -> List[str]:
         """
         Get trigger keys from the last run.
-        
+
         Args:
             state: Current state dictionary
-            
+
         Returns:
             List of trigger keys that fired in the last run
         """
@@ -101,7 +101,7 @@ class StateManager:
     def set_last_run(self, state: Dict[str, Any], trigger_keys: List[str]) -> None:
         """
         Record trigger keys from current run.
-        
+
         Args:
             state: Current state dictionary (modified in place)
             trigger_keys: List of trigger keys that fired
@@ -116,7 +116,7 @@ class StateManager:
     ) -> None:
         """
         Update seen triggers with new trigger events.
-        
+
         Args:
             state: Current state dictionary (modified in place)
             triggered: List of trigger dicts with keys:
@@ -146,7 +146,7 @@ class StateManager:
     def set_last_digest(self, state: Dict[str, Any], digest: Digest) -> None:
         """
         Store digest snapshot for reminder emails.
-        
+
         Args:
             state: Current state dictionary (modified in place)
             digest: Digest object to store
@@ -156,10 +156,10 @@ class StateManager:
     def get_last_digest(self, state: Dict[str, Any]) -> Digest | None:
         """
         Retrieve last digest if available.
-        
+
         Args:
             state: Current state dictionary
-            
+
         Returns:
             Digest object or None
         """
@@ -171,7 +171,7 @@ class StateManager:
     def mark_reminder_sent(self, state: Dict[str, Any], digest_id: str) -> None:
         """
         Mark that a reminder was sent for a digest.
-        
+
         Args:
             state: Current state dictionary (modified in place)
             digest_id: ID of the digest that was reminded
@@ -181,15 +181,15 @@ class StateManager:
     def should_send_reminder(self, state: Dict[str, Any]) -> bool:
         """
         Determine if a reminder email should be sent.
-        
+
         Rules:
         - Must have a last_digest with results
         - Digest must not be stale (>36 hours old)
         - Reminder must not have been sent for this digest yet
-        
+
         Args:
             state: Current state dictionary
-            
+
         Returns:
             True if reminder should be sent
         """

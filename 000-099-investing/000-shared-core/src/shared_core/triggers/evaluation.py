@@ -15,7 +15,7 @@ from .conditions import check_conditions, is_in_cooldown, is_suppressed
 class TriggerResult:
     """
     Result from trigger evaluation.
-    
+
     Attributes:
         ticker: Stock symbol
         signal: Signal name (e.g., "BUY_PULLBACK")
@@ -56,7 +56,7 @@ def evaluate_ticker(
 ) -> List[TriggerResult]:
     """
     Evaluate all signals for a ticker.
-    
+
     Args:
         ticker: Stock symbol
         flags: Dict of current indicator flags and values
@@ -64,10 +64,10 @@ def evaluate_ticker(
         cooldowns: Current cooldowns dict
         actioned: Actioned/suppressed config
         last_run_signals: Signal keys from last run (for deduplication)
-        
+
     Returns:
         List of TriggerResult for all triggered signals
-        
+
     Example:
         >>> flags = {'above_SMA200': True, 'rsi': 45, 'score': 8}
         >>> results = evaluate_ticker('NVDA', flags, 'watchlist', {}, {})
@@ -124,9 +124,9 @@ def evaluate_ticker_custom(
 ) -> List[TriggerResult]:
     """
     Evaluate custom signal definitions for a ticker.
-    
+
     Same as evaluate_ticker but with custom signal definitions.
-    
+
     Args:
         ticker: Stock symbol
         flags: Dict of current indicator flags
@@ -134,7 +134,7 @@ def evaluate_ticker_custom(
         cooldowns: Current cooldowns dict
         actioned: Actioned/suppressed config
         last_run_signals: Signal keys from last run
-        
+
     Returns:
         List of TriggerResult for all triggered signals
     """

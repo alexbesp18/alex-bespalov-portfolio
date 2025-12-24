@@ -8,7 +8,7 @@ This module provides a centralized fetcher that:
 
 Usage:
     from shared_core.market_data.cached_fetcher import CacheAwareFetcher
-    
+
     fetcher = CacheAwareFetcher(api_key="...", cache_dir=Path("../008-ticker-analysis/data/twelve_data"))
     data = fetcher.fetch("AAPL")  # Returns API-format dict with 'values'
 """
@@ -32,7 +32,7 @@ DEFAULT_DELAY = 60 / DEFAULT_RATE_LIMIT  # 7.5 seconds between calls
 class CacheAwareFetcher:
     """
     Unified cache-aware fetcher for Twelve Data API.
-    
+
     Checks shared cache first, falls back to API on cache miss.
     Handles pandas DataFrame column-oriented JSON format from cache.
     """
@@ -46,7 +46,7 @@ class CacheAwareFetcher:
     ):
         """
         Initialize the cache-aware fetcher.
-        
+
         Args:
             api_key: Twelve Data API key
             cache_dir: Path to cache directory (default: auto-detect from project structure)
@@ -81,10 +81,10 @@ class CacheAwareFetcher:
     def _parse_cached_json(self, data: Dict[str, Any], symbol: str) -> Optional[Dict[str, Any]]:
         """
         Parse column-oriented DataFrame JSON into API-like format.
-        
+
         Cache format (pandas to_json with orient='columns'):
             {"datetime": {"0": "2024-01-01", ...}, "open": {"0": 100.0, ...}, ...}
-        
+
         Returns API-like format:
             {"values": [{"datetime": "2024-01-01", "open": "100.0", ...}, ...], ...}
         """
@@ -127,10 +127,10 @@ class CacheAwareFetcher:
     def get_cached_data(self, symbol: str) -> Optional[Dict[str, Any]]:
         """
         Check shared cache for today's data.
-        
+
         Args:
             symbol: Ticker symbol (e.g., "AAPL")
-            
+
         Returns:
             API-format dict with 'values' if cached, None otherwise
         """
@@ -160,10 +160,10 @@ class CacheAwareFetcher:
     def _fetch_from_api(self, symbol: str) -> Optional[Dict[str, Any]]:
         """
         Fetch data from Twelve Data API.
-        
+
         Args:
             symbol: Ticker symbol
-            
+
         Returns:
             API response dict with 'values' key, or None on error
         """
@@ -203,10 +203,10 @@ class CacheAwareFetcher:
     def fetch(self, symbol: str) -> Optional[Dict[str, Any]]:
         """
         Fetch data for a single ticker (cache-first, API fallback).
-        
+
         Args:
             symbol: Ticker symbol
-            
+
         Returns:
             Dict with 'values' key containing OHLCV data, or None on error
         """
@@ -221,12 +221,12 @@ class CacheAwareFetcher:
     def fetch_batch(self, symbols: List[str]) -> Dict[str, Optional[Dict[str, Any]]]:
         """
         Fetch data for multiple tickers with rate limiting.
-        
+
         Only applies rate limiting for API calls (not cached data).
-        
+
         Args:
             symbols: List of ticker symbols
-            
+
         Returns:
             Dict mapping symbol -> data dict (or None if failed)
         """

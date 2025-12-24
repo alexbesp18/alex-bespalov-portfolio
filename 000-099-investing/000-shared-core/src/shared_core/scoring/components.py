@@ -18,12 +18,12 @@ from .models import DivergenceType, DivergenceResult
 def score_rsi(rsi: float, direction: str = "up") -> float:
     """
     Score RSI value for reversal potential.
-    
+
     Args:
         rsi: RSI value (0-100)
         direction: "up" for upside reversal (oversold is good),
                    "down" for downside reversal (overbought is good)
-    
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -55,12 +55,12 @@ def score_rsi(rsi: float, direction: str = "up") -> float:
 def score_rsi_oversold(rsi: float) -> float:
     """
     Score RSI for oversold condition detection.
-    
+
     Lower RSI indicates more oversold condition, resulting in higher score.
-    
+
     Args:
         rsi: RSI value (0-100)
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -95,13 +95,13 @@ def score_stochastic(
 ) -> float:
     """
     Score Stochastic oscillator with crossover detection.
-    
+
     Args:
         k: Current %K value (0-100)
         d: Current %D value (0-100)
         prev_k: Previous %K value (for crossover detection)
         direction: "up" for upside reversal, "down" for downside reversal
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -110,9 +110,9 @@ def score_stochastic(
 
     if direction == "up":
         bullish_cross = (
-            prev_k is not None 
-            and not pd.isna(prev_k) 
-            and prev_k < d 
+            prev_k is not None
+            and not pd.isna(prev_k)
+            and prev_k < d
             and k > d
         )
         if k < 20 and bullish_cross:
@@ -125,9 +125,9 @@ def score_stochastic(
             return 2.0
     else:
         bearish_cross = (
-            prev_k is not None 
-            and not pd.isna(prev_k) 
-            and prev_k > d 
+            prev_k is not None
+            and not pd.isna(prev_k)
+            and prev_k > d
             and k < d
         )
         if k > 80 and bearish_cross:
@@ -143,12 +143,12 @@ def score_stochastic(
 def score_stochastic_oversold(stoch_k: float) -> float:
     """
     Score Stochastic %K for oversold condition.
-    
+
     Lower %K indicates more oversold condition.
-    
+
     Args:
         stoch_k: Stochastic %K value (0-100)
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -180,12 +180,12 @@ def score_macd_histogram(
 ) -> float:
     """
     Score MACD histogram for momentum.
-    
+
     Args:
         hist: Current MACD histogram value
         prev_hist: Previous MACD histogram value
         direction: "up" for upside reversal, "down" for downside reversal
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -227,14 +227,14 @@ def score_price_vs_sma200(
 ) -> float:
     """
     Score price position relative to 200-day SMA.
-    
+
     Args:
         close: Current closing price
         sma200: Current 200-day SMA
         prev_close: Previous closing price
         prev_sma200: Previous 200-day SMA
         direction: "up" for upside reversal, "down" for downside reversal
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -245,11 +245,11 @@ def score_price_vs_sma200(
 
     if direction == "up":
         crossed_above = (
-            prev_close is not None 
+            prev_close is not None
             and not pd.isna(prev_close)
             and prev_sma200 is not None
             and not pd.isna(prev_sma200)
-            and prev_close < prev_sma200 
+            and prev_close < prev_sma200
             and close > sma200
         )
         if crossed_above:
@@ -262,11 +262,11 @@ def score_price_vs_sma200(
             return 2.0
     else:
         crossed_below = (
-            prev_close is not None 
+            prev_close is not None
             and not pd.isna(prev_close)
             and prev_sma200 is not None
             and not pd.isna(prev_sma200)
-            and prev_close > prev_sma200 
+            and prev_close > prev_sma200
             and close < sma200
         )
         if crossed_below:
@@ -286,10 +286,10 @@ def score_price_vs_sma200(
 def score_volume_spike(volume_ratio: float) -> float:
     """
     Score volume relative to average.
-    
+
     Args:
         volume_ratio: Current volume / average volume
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -304,11 +304,11 @@ def score_volume_spike(volume_ratio: float) -> float:
 def get_volume_ratio(df: pd.DataFrame, period: int = 20) -> float:
     """
     Calculate current volume / average volume ratio.
-    
+
     Args:
         df: DataFrame with 'volume' column
         period: Lookback period for average
-        
+
     Returns:
         Volume ratio (>1 = above average)
     """
@@ -327,16 +327,16 @@ def get_volume_ratio(df: pd.DataFrame, period: int = 20) -> float:
 def get_volume_multiplier(df: pd.DataFrame, threshold: float = 1.2) -> float:
     """
     Soft volume gate: returns multiplier for score adjustment.
-    
+
     - Volume >= 2.0x avg: 1.1x bonus
     - Volume >= 1.2x avg: 1.0x (neutral)
     - Volume >= 0.8x avg: 0.9x mild penalty
     - Volume < 0.8x avg: 0.75x penalty (low conviction)
-    
+
     Args:
         df: DataFrame with 'volume' column
         threshold: Minimum ratio for neutral score
-        
+
     Returns:
         Multiplier (0.75-1.1)
     """
@@ -359,14 +359,14 @@ def get_volume_multiplier(df: pd.DataFrame, threshold: float = 1.2) -> float:
 def score_williams_r(williams_r: float, direction: str = "up") -> float:
     """
     Score Williams %R value.
-    
+
     Williams %R ranges from -100 to 0.
     Below -80 = oversold, above -20 = overbought.
-    
+
     Args:
         williams_r: Williams %R value (-100 to 0)
         direction: "up" for upside reversal, "down" for downside reversal
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -394,10 +394,10 @@ def score_williams_r(williams_r: float, direction: str = "up") -> float:
 def score_williams_r_oversold(williams_r: float) -> float:
     """
     Score Williams %R for oversold condition.
-    
+
     Args:
         williams_r: Williams %R value (-100 to 0)
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -428,11 +428,11 @@ def score_divergence(
 ) -> float:
     """
     Score divergence alignment with expected direction.
-    
+
     Args:
         divergence: Detected divergence result
         expected_type: Expected divergence type (BULLISH or BEARISH)
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -449,11 +449,11 @@ def score_divergence(
 def score_consecutive_days(df: pd.DataFrame, direction: str = "red") -> float:
     """
     Score based on consecutive red/green days.
-    
+
     Args:
         df: DataFrame with 'close' column
         direction: "red" (down) or "green" (up)
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -490,10 +490,10 @@ def score_consecutive_days(df: pd.DataFrame, direction: str = "red") -> float:
 def score_consecutive_red(df: pd.DataFrame) -> float:
     """
     Score based on consecutive down days for oversold detection.
-    
+
     Args:
         df: DataFrame with 'close' column
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -535,14 +535,14 @@ def score_bollinger_position(
 ) -> float:
     """
     Score price position relative to Bollinger Bands.
-    
+
     Price below lower band indicates potential oversold condition.
-    
+
     Args:
         close: Current closing price
         bb_lower: Lower Bollinger Band value
         bb_middle: Middle Bollinger Band (SMA20)
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -583,13 +583,13 @@ def score_bollinger_position(
 def score_sma200_distance(close: float, sma200: float) -> float:
     """
     Score how far price is below SMA200.
-    
+
     Deeper below the 200-day moving average indicates more oversold.
-    
+
     Args:
         close: Current closing price
         sma200: 200-day simple moving average
-        
+
     Returns:
         Score from 1.0 to 10.0
     """
@@ -620,16 +620,16 @@ def score_sma200_distance(close: float, sma200: float) -> float:
 def get_adx_multiplier(adx_value: float, signal_type: str = "reversal") -> float:
     """
     ADX-based regime modifier.
-    
+
     For REVERSAL signals (mean reversion):
         - ADX < 20: Weak trend, mean reversion favored → 1.1x boost
         - ADX 20-30: Moderate trend → 1.0x (neutral)
         - ADX > 30: Strong trend, fighting momentum → 0.85x penalty
-    
+
     Args:
         adx_value: Current ADX value
         signal_type: "reversal" or "trend"
-        
+
     Returns:
         Multiplier (0.85-1.1)
     """

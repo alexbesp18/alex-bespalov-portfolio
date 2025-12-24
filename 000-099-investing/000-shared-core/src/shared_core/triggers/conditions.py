@@ -17,19 +17,19 @@ def check_conditions(
 ) -> bool:
     """
     Check if all conditions are met.
-    
+
     Condition types:
     - Boolean flags: exact match (e.g., 'above_SMA200': True)
     - rsi_min/rsi_max: RSI range check
     - score_min/score_max: Score range check
-    
+
     Args:
         flags: Dict of current flag values
         conditions: Dict of conditions to check
-        
+
     Returns:
         True if ALL conditions are met
-        
+
     Example:
         >>> flags = {'above_SMA200': True, 'rsi': 45, 'score': 7}
         >>> conditions = {'above_SMA200': True, 'rsi_min': 40, 'score_min': 6}
@@ -67,12 +67,12 @@ def is_in_cooldown(
 ) -> bool:
     """
     Check if a signal is in cooldown period.
-    
+
     Args:
         signal_key: Unique signal identifier (e.g., "NVDA:BUY_PULLBACK")
         cooldowns: Dict mapping signal_key -> expiry ISO timestamp
         cooldown_days: Cooldown duration from signal config
-        
+
     Returns:
         True if signal should be suppressed due to cooldown
     """
@@ -97,12 +97,12 @@ def is_suppressed(
 ) -> bool:
     """
     Check if a signal is suppressed via actioned.json.
-    
+
     Args:
         ticker: Stock symbol
         signal_name: Signal type name
         actioned: Actioned config dict with 'suppressed' list
-        
+
     Returns:
         True if signal should be suppressed
     """
@@ -131,11 +131,11 @@ def update_cooldowns(
 ) -> Dict[str, str]:
     """
     Update cooldowns for triggered signals.
-    
+
     Args:
         cooldowns: Current cooldowns dict (modified in place)
         triggered_signals: List of triggered signal dicts with 'signal_key' and 'cooldown_days'
-        
+
     Returns:
         Updated cooldowns dict
     """
@@ -154,11 +154,11 @@ def is_duplicate(
 ) -> bool:
     """
     Check if signal was already triggered in the last run.
-    
+
     Args:
         signal_key: Signal identifier to check
         last_run_signals: List of signal keys from last run
-        
+
     Returns:
         True if this is a duplicate
     """

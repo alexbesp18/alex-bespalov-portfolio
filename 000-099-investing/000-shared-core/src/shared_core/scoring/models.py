@@ -20,7 +20,7 @@ class DivergenceType(Enum):
 class DivergenceResult:
     """
     Result from divergence detection.
-    
+
     Attributes:
         type: Type of divergence (NONE, BULLISH, BEARISH)
         strength: Magnitude of the divergence (higher = stronger signal)
@@ -50,7 +50,7 @@ class DivergenceResult:
 class ReversalScore:
     """
     Result from reversal scoring calculation.
-    
+
     Attributes:
         raw_score: Score before multipliers (1-10 scale)
         final_score: Score after volume and ADX multipliers
@@ -83,7 +83,7 @@ class ReversalScore:
 class OversoldScore:
     """
     Result from oversold scoring calculation.
-    
+
     Attributes:
         final_score: Composite oversold score (1-10, higher = more oversold)
         components: Individual indicator scores before weighting
@@ -107,7 +107,7 @@ class OversoldScore:
 class BullishScore:
     """
     Result from bullish scoring calculation.
-    
+
     Attributes:
         final_score: Composite bullish score (1-10, higher = more bullish)
         components: Individual indicator scores before weighting

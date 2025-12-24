@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 class EmailConfig:
     """
     Email configuration.
-    
+
     Attributes:
         api_key: Resend API key
         from_address: Sender email address
@@ -32,7 +32,7 @@ class EmailConfig:
     def from_env(cls) -> Optional["EmailConfig"]:
         """
         Create config from environment variables.
-        
+
         Environment variables:
         - RESEND_API_KEY
         - EMAIL_FROM
@@ -62,9 +62,9 @@ class EmailConfig:
 class ResendEmailClient:
     """
     Email client using Resend API.
-    
+
     Supports both new and legacy Resend library versions.
-    
+
     Example:
         >>> config = EmailConfig.from_env()
         >>> client = ResendEmailClient(config)
@@ -77,7 +77,7 @@ class ResendEmailClient:
     def __init__(self, config: EmailConfig):
         """
         Initialize with email configuration.
-        
+
         Args:
             config: EmailConfig with API key and addresses
         """
@@ -108,13 +108,13 @@ class ResendEmailClient:
     ) -> bool:
         """
         Send an email.
-        
+
         Args:
             subject: Email subject line
             html: HTML body content
             to: Recipient list (defaults to config.to_addresses)
             dry_run: If True, log but don't send
-            
+
         Returns:
             True if email sent successfully
         """
@@ -163,13 +163,13 @@ class ResendEmailClient:
     ) -> bool:
         """
         Send a plain text email.
-        
+
         Args:
             subject: Email subject line
             text: Plain text body
             to: Recipient list
             dry_run: If True, log but don't send
-            
+
         Returns:
             True if email sent successfully
         """
@@ -181,7 +181,7 @@ class ResendEmailClient:
 def make_resend_client_from_env() -> Optional[ResendEmailClient]:
     """
     Create a ResendEmailClient from environment variables.
-    
+
     Returns:
         ResendEmailClient if configured, None otherwise
     """

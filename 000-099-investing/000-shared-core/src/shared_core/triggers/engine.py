@@ -14,10 +14,10 @@ logger = logging.getLogger(__name__)
 class TriggerEngine:
     """
     Config-driven trigger evaluation engine.
-    
+
     Evaluates triggers defined in watchlist.json against market data.
     Supports various trigger types: score-based, price-based, MA crosses, etc.
-    
+
     Attributes:
         default_triggers: List of default triggers applied to all tickers
     """
@@ -25,7 +25,7 @@ class TriggerEngine:
     def __init__(self, default_triggers: Optional[List[Dict]] = None):
         """
         Initialize with optional default triggers.
-        
+
         Args:
             default_triggers: Default triggers that apply to all tickers
         """
@@ -41,14 +41,14 @@ class TriggerEngine:
     ) -> List[Dict[str, Any]]:
         """
         Evaluate triggers for a single symbol.
-        
+
         Args:
             symbol: Ticker symbol
             df: DataFrame with OHLCV and indicators
             score: Bullish score (0-10)
             ticker_triggers: Custom triggers for this ticker (overrides defaults)
             matrix: Optional matrix flags for conditional triggers
-            
+
         Returns:
             List of triggered dicts with: symbol, action, type, message, trigger_key
         """
