@@ -58,6 +58,9 @@ __all__ = [
     'TriggerResult',
     'check_conditions',
     'evaluate_ticker',
+    'PORTFOLIO_SIGNALS',
+    'WATCHLIST_SIGNALS',
+    'ALL_SIGNALS',
     # Notifications
     'ResendEmailClient',
     'format_html_table',
@@ -176,6 +179,15 @@ def __getattr__(name):
     elif name == 'evaluate_ticker':
         from .triggers.evaluation import evaluate_ticker
         return evaluate_ticker
+    elif name == 'PORTFOLIO_SIGNALS':
+        from .triggers.definitions import PORTFOLIO_SIGNALS
+        return PORTFOLIO_SIGNALS
+    elif name == 'WATCHLIST_SIGNALS':
+        from .triggers.definitions import WATCHLIST_SIGNALS
+        return WATCHLIST_SIGNALS
+    elif name == 'ALL_SIGNALS':
+        from .triggers.definitions import ALL_SIGNALS
+        return ALL_SIGNALS
     # Notifications
     elif name == 'ResendEmailClient':
         from .notifications.resend_client import ResendEmailClient

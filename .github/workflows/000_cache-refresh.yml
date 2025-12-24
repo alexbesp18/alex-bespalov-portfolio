@@ -6,38 +6,79 @@ on:
     - cron: '30 21 * * 1-5'  # Weekdays only
   workflow_dispatch:  # Manual trigger
 
+env:
+  CACHE_PATH: 000-099-investing/007-ticker-analysis/data
+
 jobs:
   refresh-cache:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+    outputs:
+      cache-hit: ${{ steps.cache-restore.outputs.cache-hit }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
+      - name: Get today's date for cache key
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Restore ticker cache
+        id: cache-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.date }}
+          restore-keys: |
+            ticker-cache-
+
+      - name: Check if cache is complete
+        id: cache-check
+        run: |
+          if [ -d "${{ env.CACHE_PATH }}/twelve_data" ]; then
+            FILE_COUNT=$(ls ${{ env.CACHE_PATH }}/twelve_data/*.json 2>/dev/null | wc -l)
+            echo "Found $FILE_COUNT cached files"
+            if [ "$FILE_COUNT" -gt 200 ]; then
+              echo "skip_refresh=true" >> $GITHUB_OUTPUT
+              echo "✅ Cache is complete ($FILE_COUNT files), skipping refresh"
+            else
+              echo "skip_refresh=false" >> $GITHUB_OUTPUT
+              echo "⚠️ Cache incomplete ($FILE_COUNT files), will refresh"
+            fi
+          else
+            echo "skip_refresh=false" >> $GITHUB_OUTPUT
+            echo "📁 No cache found, will refresh"
+          fi
+
       - name: Set up Python
+        if: steps.cache-check.outputs.skip_refresh != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
-      
+
       - name: Install shared-core
+        if: steps.cache-check.outputs.skip_refresh != 'true'
         run: |
           cd 000-099-investing/000-shared-core
           pip install -e .
-      
+
       - name: Install 007-ticker-analysis dependencies
+        if: steps.cache-check.outputs.skip_refresh != 'true'
         run: |
           cd 000-099-investing/007-ticker-analysis
           pip install -r requirements.txt
-      
+
       - name: Create data directory
+        if: steps.cache-check.outputs.skip_refresh != 'true'
         run: |
           mkdir -p 000-099-investing/007-ticker-analysis/data/twelve_data
           mkdir -p 000-099-investing/007-ticker-analysis/data/transcripts
-      
+
       - name: Create config.json from secrets
+        if: steps.cache-check.outputs.skip_refresh != 'true'
         run: |
           cd 000-099-investing/007-ticker-analysis
           cat > config.json << EOF
@@ -69,31 +110,33 @@ jobs:
             }
           }
           EOF
-      
+
       - name: Set up Google credentials
+        if: steps.cache-check.outputs.skip_refresh != 'true'
         run: |
           cd 000-099-investing/007-ticker-analysis
           echo '${{ secrets.GDRIVE_API_KEY_JSON }}' > google_service_account.json
-      
+
       - name: Run cache refresh (technicals only)
+        if: steps.cache-check.outputs.skip_refresh != 'true'
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
         run: |
           cd 000-099-investing/007-ticker-analysis
           python run_all.py --technicals-only --verbose 2>&1 || echo "Cache refresh completed with warnings"
-      
+
       - name: List cached files
         run: |
           echo "=== Cached files ==="
-          ls -la 000-099-investing/007-ticker-analysis/data/twelve_data/ | head -20
-          echo "Total files: $(ls 000-099-investing/007-ticker-analysis/data/twelve_data/ | wc -l)"
-      
-      - name: Upload cache artifact
-        uses: actions/upload-artifact@v4
+          ls -la ${{ env.CACHE_PATH }}/twelve_data/ | head -20
+          echo "Total files: $(ls ${{ env.CACHE_PATH }}/twelve_data/ | wc -l)"
+
+      - name: Save ticker cache
+        if: steps.cache-check.outputs.skip_refresh != 'true'
+        uses: actions/cache/save@v4
         with:
-          name: ticker-cache
-          path: 000-099-investing/007-ticker-analysis/data/
-          retention-days: 1
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.date }}
 
   # Run alerts after cache refresh
   run-alerts:
@@ -102,35 +145,42 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
-      - name: Download cache artifact
-        uses: actions/download-artifact@v4
+
+      - name: Get today's date for cache key
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Restore ticker cache
+        uses: actions/cache/restore@v4
         with:
-          name: ticker-cache
-          path: 000-099-investing/007-ticker-analysis/data/
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.date }}
+          restore-keys: |
+            ticker-cache-
+          fail-on-cache-miss: true
       
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
-      
+
       - name: Install shared-core
         run: |
           cd 000-099-investing/000-shared-core
           pip install -e .
-      
+
       - name: Install 008-alerts dependencies
         run: |
           cd 000-099-investing/008-alerts
           pip install -r requirements.txt
-      
+
       - name: List cache (debug)
         run: |
           echo "=== Cache files ==="
-          ls -la 000-099-investing/007-ticker-analysis/data/twelve_data/ | head -10
-          echo "Total: $(ls 000-099-investing/007-ticker-analysis/data/twelve_data/ | wc -l) files"
-      
+          ls -la ${{ env.CACHE_PATH }}/twelve_data/ | head -10
+          echo "Total: $(ls ${{ env.CACHE_PATH }}/twelve_data/ | wc -l) files"
+
       - name: Run alerts scanner
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
@@ -145,29 +195,36 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
-      - name: Download cache artifact
-        uses: actions/download-artifact@v4
+
+      - name: Get today's date for cache key
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Restore ticker cache
+        uses: actions/cache/restore@v4
         with:
-          name: ticker-cache
-          path: 000-099-investing/007-ticker-analysis/data/
-      
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.date }}
+          restore-keys: |
+            ticker-cache-
+          fail-on-cache-miss: true
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
-      
+
       - name: Install shared-core
         run: |
           cd 000-099-investing/000-shared-core
           pip install -e .
-      
+
       - name: Install 009-reversals dependencies
         run: |
           cd 000-099-investing/009-reversals
           pip install -r requirements.txt
-      
+
       - name: Run reversals scanner
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
@@ -182,29 +239,36 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
-      - name: Download cache artifact
-        uses: actions/download-artifact@v4
+
+      - name: Get today's date for cache key
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Restore ticker cache
+        uses: actions/cache/restore@v4
         with:
-          name: ticker-cache
-          path: 000-099-investing/007-ticker-analysis/data/
-      
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.date }}
+          restore-keys: |
+            ticker-cache-
+          fail-on-cache-miss: true
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
-      
+
       - name: Install shared-core
         run: |
           cd 000-099-investing/000-shared-core
           pip install -e .
-      
+
       - name: Install 010-oversold dependencies
         run: |
           cd 000-099-investing/010-oversold
           pip install -r requirements.txt
-      
+
       - name: Run oversold scanner
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
