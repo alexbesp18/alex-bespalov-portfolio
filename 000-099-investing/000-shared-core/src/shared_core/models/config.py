@@ -19,7 +19,7 @@ class OutputFormat(Enum):
 class ScanConfig:
     """
     Configuration for a scanner run.
-    
+
     Attributes:
         tickers: List of ticker symbols to scan
         output_format: Output format (table, json, csv, html)

@@ -17,16 +17,16 @@ def setup_logging(
 ) -> logging.Logger:
     """
     Configure and return a logger with consistent formatting.
-    
+
     Args:
         name: Logger name (appears in log output)
         verbose: If True, set level to DEBUG; otherwise INFO
         log_file: Optional path to log file (in addition to console)
         format_string: Custom format string. Defaults to timestamped format.
-        
+
     Returns:
         Configured logger instance.
-        
+
     Example:
         >>> logger = setup_logging("ALERTS", verbose=True)
         >>> logger.info("Starting scan...")
@@ -65,10 +65,10 @@ def setup_logging(
 def get_logger(name: str) -> logging.Logger:
     """
     Get an existing logger by name.
-    
+
     Args:
         name: Logger name
-        
+
     Returns:
         Logger instance (may need setup_logging called first for formatting)
     """

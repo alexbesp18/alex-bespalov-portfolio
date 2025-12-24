@@ -24,7 +24,7 @@ def _utc_now() -> datetime:
 class ArchiveEntry:
     """
     Record of an actioned/archived alert.
-    
+
     Attributes:
         symbol: Ticker symbol (e.g., "NVDA")
         trigger_key: Stable trigger identifier for matching
@@ -63,7 +63,7 @@ class ArchiveEntry:
 class ArchiveManager:
     """
     Manager for archived/actioned alerts.
-    
+
     Archive file structure:
     {
         "version": 1,
@@ -77,7 +77,7 @@ class ArchiveManager:
             }
         ]
     }
-    
+
     Attributes:
         archive_path: Path to the archive JSON file
     """
@@ -87,7 +87,7 @@ class ArchiveManager:
     def __init__(self, archive_path: str):
         """
         Initialize ArchiveManager.
-        
+
         Args:
             archive_path: Path to archive JSON file (created if missing)
         """
@@ -96,7 +96,7 @@ class ArchiveManager:
     def load(self) -> Dict[str, Any]:
         """
         Load archive from disk.
-        
+
         Returns:
             Archive dictionary with all required keys
         """
@@ -110,7 +110,7 @@ class ArchiveManager:
     def save(self, data: Dict[str, Any]) -> None:
         """
         Persist archive to disk.
-        
+
         Args:
             data: Archive dictionary to save
         """
@@ -125,12 +125,12 @@ class ArchiveManager:
     ) -> bool:
         """
         Check if a trigger is currently suppressed.
-        
+
         Args:
             archive: Archive dictionary
             trigger_key: Trigger key to check
             now: Current time (defaults to UTC now)
-            
+
         Returns:
             True if trigger should be suppressed
         """
@@ -153,9 +153,9 @@ class ArchiveManager:
     ) -> None:
         """
         Archive a trigger to suppress it for a period.
-        
+
         If the trigger already exists, extends the suppression window.
-        
+
         Args:
             archive: Archive dictionary (modified in place)
             symbol: Ticker symbol
@@ -190,10 +190,10 @@ class ArchiveManager:
     def get_archived_triggers(self, archive: Dict[str, Any]) -> List[ArchiveEntry]:
         """
         Get all archived triggers.
-        
+
         Args:
             archive: Archive dictionary
-            
+
         Returns:
             List of ArchiveEntry objects
         """
@@ -209,11 +209,11 @@ class ArchiveManager:
     ) -> int:
         """
         Remove expired archive entries.
-        
+
         Args:
             archive: Archive dictionary (modified in place)
             now: Current time (defaults to UTC now)
-            
+
         Returns:
             Number of entries removed
         """

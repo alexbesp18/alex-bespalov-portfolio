@@ -22,20 +22,20 @@ class SheetManager:
         'Ticker', 'Bullish_Score', 'Price', 'Change%', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist',
         'ADX', 'Trend', 'SMA_20', 'SMA_50', 'SMA_200', 'BB_Upper', 'BB_Lower',
         'ATR', 'Stoch_K', 'Stoch_D', 'VWAP', 'OBV_Trend', 'Volatility',
-        'Divergence', 'Volume_Rel', '52W_High', '52W_Low', 'Status', 'Updated', 
+        'Divergence', 'Volume_Rel', '52W_High', '52W_Low', 'Status', 'Updated',
         'Bullish_Reason', 'Tech_Summary'
     ]
 
     # Column order for transcripts
     TRANSCRIPT_COLUMNS = [
-        'Ticker', 'Period', 'Earnings_Date', 'Char_Count', 
+        'Ticker', 'Period', 'Earnings_Date', 'Char_Count',
         'Key_Metrics', 'Guidance', 'Tone', 'Summary', 'Status', 'Updated', 'Days_Since_Earnings'
     ]
 
     def __init__(self, credentials_file: str, spreadsheet_name: str, verbose: bool = False):
         """
         Initialize Sheet manager.
-        
+
         Args:
             credentials_file: Path to Google service account JSON
             spreadsheet_name: Name of the spreadsheet to open
@@ -81,12 +81,12 @@ class SheetManager:
     def get_tickers(self, tab_name: str, column: str = 'A', start_row: int = 2) -> List[str]:
         """
         Read tickers from specified tab and column.
-        
+
         Args:
             tab_name: Name of the sheet tab
             column: Column letter containing tickers
             start_row: First row with data (default 2 = skip header)
-            
+
         Returns:
             List of ticker symbols (uppercase, cleaned)
         """
@@ -108,7 +108,7 @@ class SheetManager:
 
         return tickers
 
-    def get_existing_tickers(self, tab_name: str, column: str = 'A', 
+    def get_existing_tickers(self, tab_name: str, column: str = 'A',
                              start_row: int = 2) -> List[str]:
         """Read tickers from specified tab to see what's already there."""
         try:
@@ -119,7 +119,7 @@ class SheetManager:
     def get_existing_tech_data(self, tab_name: str) -> Dict[str, Dict[str, Any]]:
         """
         Read all existing tech data from the specified tab.
-        
+
         Returns:
             Dict mapping ticker -> {Price: float, row_number: int, ...}
         """
@@ -169,7 +169,7 @@ class SheetManager:
     def write_tech_data(self, tab_name: str, data: List[Dict], append: bool = False):
         """
         Write technical data to specified tab (simple overwrite or append).
-        
+
         Args:
             tab_name: Name of the sheet tab
             data: List of dicts with tech indicator values
@@ -206,10 +206,10 @@ class SheetManager:
                                            existing_data: Dict[str, Dict]):
         """
         Write technical data with row replacement support.
-        
+
         - For tickers that exist: update the specific row
         - For new tickers: append to the end
-        
+
         Args:
             tab_name: Name of the sheet tab
             data: List of dicts with tech indicator values
@@ -267,7 +267,7 @@ class SheetManager:
     def write_transcripts(self, tab_name: str, data: List[Dict], append: bool = False):
         """
         Write transcript data to specified tab.
-        
+
         Args:
             tab_name: Name of the sheet tab
             data: List of dicts with transcript data
@@ -318,10 +318,10 @@ class SheetManager:
                 {
                     "addConditionalFormatRule": {
                         "rule": {
-                            "ranges": [{"sheetId": sheet.id, "startColumnIndex": 10, 
+                            "ranges": [{"sheetId": sheet.id, "startColumnIndex": 10,
                                        "endColumnIndex": 11, "startRowIndex": 1}],
                             "booleanRule": {
-                                "condition": {"type": "NUMBER_GREATER", 
+                                "condition": {"type": "NUMBER_GREATER",
                                             "values": [{"userEnteredValue": "180"}]},
                                 "format": {
                                     "backgroundColor": {"red": 1, "green": 0.8, "blue": 0.8},
@@ -335,10 +335,10 @@ class SheetManager:
                 {
                     "addConditionalFormatRule": {
                         "rule": {
-                            "ranges": [{"sheetId": sheet.id, "startColumnIndex": 10, 
+                            "ranges": [{"sheetId": sheet.id, "startColumnIndex": 10,
                                        "endColumnIndex": 11, "startRowIndex": 1}],
                             "booleanRule": {
-                                "condition": {"type": "NUMBER_GREATER", 
+                                "condition": {"type": "NUMBER_GREATER",
                                             "values": [{"userEnteredValue": "90"}]},
                                 "format": {
                                     "backgroundColor": {"red": 1, "green": 1, "blue": 0.8},

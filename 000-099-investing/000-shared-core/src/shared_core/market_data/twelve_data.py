@@ -21,12 +21,12 @@ class TwelveDataClient:
     - Full technical indicator calculation
     """
 
-    def __init__(self, api_key: str, cache: Optional[DataCache] = None, 
-                 output_size: int = 365, rate_limit_sleep: float = 0.5, 
+    def __init__(self, api_key: str, cache: Optional[DataCache] = None,
+                 output_size: int = 365, rate_limit_sleep: float = 0.5,
                  verbose: bool = False):
         """
         Initialize Twelve Data client.
-        
+
         Args:
             api_key: Twelve Data API key
             cache: Optional DataCache instance for storing/retrieving data
@@ -45,12 +45,12 @@ class TwelveDataClient:
     def get_tickers_needing_refresh(self, tickers: List[str]) -> List[str]:
         """
         Determine which tickers need fresh API data.
-        
+
         Simple logic: if no cache exists for today, ticker needs refresh.
-        
+
         Args:
             tickers: List of all tickers to evaluate
-            
+
         Returns:
             List of ticker symbols needing API refresh
         """
@@ -82,7 +82,7 @@ class TwelveDataClient:
     def fetch_raw(self, ticker: str) -> Optional[pd.DataFrame]:
         """
         Fetch raw OHLCV data from Twelve Data API.
-        
+
         Returns:
             DataFrame with datetime, open, high, low, close, volume columns
             or None on error
@@ -142,7 +142,7 @@ class TwelveDataClient:
     def _calculate_indicators(self, ticker: str, df: pd.DataFrame) -> Dict[str, Any]:
         """
         Calculate all technical indicators from OHLCV data.
-        
+
         Returns:
             Dict with all indicator values ready for sheet output
         """
@@ -217,16 +217,16 @@ class TwelveDataClient:
             'Updated': dt.datetime.now().strftime('%Y-%m-%d %H:%M')
         }
 
-    def fetch_and_calculate(self, ticker: str, 
+    def fetch_and_calculate(self, ticker: str,
                             force_refresh: bool = False) -> Optional[Dict[str, Any]]:
         """
         Fetch data and calculate all indicators for a ticker.
         Uses cache unless force_refresh is True.
-        
+
         Args:
             ticker: Stock ticker symbol
             force_refresh: Bypass cache and fetch fresh data
-            
+
         Returns:
             Dict with all indicator values, or error dict on failure
         """
@@ -261,11 +261,11 @@ class TwelveDataClient:
     def get_dataframe(self, ticker: str, force_refresh: bool = False) -> Optional[pd.DataFrame]:
         """
         Get OHLCV DataFrame for a ticker (with caching).
-        
+
         Args:
             ticker: Stock ticker symbol
             force_refresh: Bypass cache and fetch fresh data
-            
+
         Returns:
             DataFrame with OHLCV data, or None on failure
         """

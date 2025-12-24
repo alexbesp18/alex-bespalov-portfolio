@@ -28,7 +28,7 @@ class TranscriptClient:
                  earliest_year_offset: int = 1, verbose: bool = False):
         """
         Initialize transcript client.
-        
+
         Args:
             cache: DataCache instance for storing/retrieving data
             min_chars: Minimum transcript length to accept
@@ -74,7 +74,7 @@ class TranscriptClient:
     def _fetch_from_api(self, ticker: str) -> Optional[Dict[str, Any]]:
         """
         Fetch the latest transcript from defeatbeta API.
-        
+
         Returns:
             Dict with transcript metadata and full text, or None on error
         """
@@ -170,15 +170,15 @@ class TranscriptClient:
                 print(f"    ❌ Error: {e}")
             return {'Ticker': ticker, 'Status': f"ERROR: {str(e)[:50]}"}
 
-    def fetch_transcript(self, ticker: str, 
+    def fetch_transcript(self, ticker: str,
                          force_refresh: bool = False) -> Optional[Dict[str, Any]]:
         """
         Fetch transcript for a ticker, using cache if available.
-        
+
         Args:
             ticker: Stock ticker symbol
             force_refresh: Bypass cache and fetch fresh data
-            
+
         Returns:
             Dict with transcript metadata and text
         """
@@ -206,10 +206,10 @@ class TranscriptClient:
     def get_tickers_needing_refresh(self, tickers: List[str]) -> List[str]:
         """
         Determine which tickers need fresh transcript data.
-        
+
         Args:
             tickers: List of all tickers to evaluate
-            
+
         Returns:
             List of ticker symbols needing API refresh
         """
@@ -228,10 +228,10 @@ class TranscriptClient:
     def calculate_days_since_earnings(self, earnings_date: str) -> Optional[int]:
         """
         Calculate days since earnings date.
-        
+
         Args:
             earnings_date: Date string in YYYY-MM-DD format
-            
+
         Returns:
             Number of days, or None if date is invalid
         """

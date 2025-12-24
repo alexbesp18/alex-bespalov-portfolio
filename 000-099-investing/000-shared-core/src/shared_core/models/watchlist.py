@@ -12,7 +12,7 @@ from typing import Any, Dict, List, Optional
 class WatchlistEntry:
     """
     A single ticker entry in a watchlist.
-    
+
     Attributes:
         symbol: Ticker symbol
         list_type: Type of list (portfolio, watchlist, etc.)
@@ -48,7 +48,7 @@ class WatchlistEntry:
 class Watchlist:
     """
     Collection of ticker entries with configuration.
-    
+
     Attributes:
         entries: List of WatchlistEntry objects
         default_triggers: Default triggers applied to all tickers
@@ -102,7 +102,7 @@ class Watchlist:
     def from_json_file(cls, path: str) -> "Watchlist":
         """
         Load watchlist from JSON file.
-        
+
         Supports two formats:
         1. New format: {"entries": [...], "default_triggers": [...]}
         2. Legacy format: {"portfolio": [...], "watchlist": [...]}

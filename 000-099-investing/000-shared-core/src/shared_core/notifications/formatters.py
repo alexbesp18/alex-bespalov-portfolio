@@ -29,15 +29,15 @@ def format_html_table(
 ) -> str:
     """
     Create an HTML table with consistent styling.
-    
+
     Args:
         headers: List of column header strings
         rows: List of row data (each row is a list of cell values)
         style: Optional style overrides
-        
+
     Returns:
         HTML table string
-        
+
     Example:
         >>> html = format_html_table(
         ...     ["Ticker", "Action", "Score"],
@@ -84,12 +84,12 @@ def format_html_section(
 ) -> str:
     """
     Create a styled HTML section with a header and list of items.
-    
+
     Args:
         title: Section title
         items: List of items to display
         color: Color key from COLORS dict (buy, sell, watch, info)
-        
+
     Returns:
         HTML section string
     """
@@ -115,12 +115,12 @@ def format_html_list(
 ) -> str:
     """
     Format a list of items as HTML.
-    
+
     Args:
         items: List of item dicts
-        format_func: Optional function to format each item. 
+        format_func: Optional function to format each item.
                      If None, uses str(item).
-        
+
     Returns:
         HTML unordered list
     """
@@ -143,15 +143,15 @@ def format_action_link(
 ) -> str:
     """
     Create an action link for a signal.
-    
+
     Creates a link to create a GitHub issue or perform another action.
-    
+
     Args:
         ticker: Stock symbol
         action: Action type (BUY, SELL, etc.)
         base_url: Base URL for the action endpoint
         action_type: Type of action link to create
-        
+
     Returns:
         HTML anchor link
     """
@@ -170,15 +170,15 @@ def format_subject(
 ) -> str:
     """
     Generate email subject line from signals.
-    
+
     Args:
         signals: List of signal dicts with 'action' key
         mode: Email mode ("alert", "reminder", "digest")
         date: Date for subject (defaults to today)
-        
+
     Returns:
         Email subject string
-        
+
     Example:
         >>> format_subject([{"action": "BUY"}, {"action": "SELL"}], "alert")
         "📊 Trading Alert: 1 BUY, 1 SELL (Dec 21)"
@@ -215,12 +215,12 @@ def make_basic_html_email(
 ) -> str:
     """
     Wrap content in a basic HTML email template.
-    
+
     Args:
         title: Email title (shown in header)
         body_html: Main HTML content
         footer: Optional footer text
-        
+
     Returns:
         Complete HTML document
     """

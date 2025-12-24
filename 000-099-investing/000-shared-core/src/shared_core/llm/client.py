@@ -19,7 +19,7 @@ class LLMClient:
 
     def __init__(self, provider: str, api_key: str, provider_settings: Dict[str, Any]):
         """Initialize LLM client for a specific provider.
-        
+
         Args:
             provider: Provider name (claude, openai, grok, gemini)
             api_key: API key for the provider
@@ -74,11 +74,11 @@ class LLMClient:
 
     def _get_model_mapping(self, provider: str, model_key: str) -> str:
         """Map config model names to actual API model strings.
-        
+
         Args:
             provider: Provider name
             model_key: Model key from config
-            
+
         Returns:
             Actual API model string
         """
@@ -128,13 +128,13 @@ class LLMClient:
     )
     def call_llm(self, prompt: str, system_message: str | None = None, max_tokens: int | None = None, stream: bool = False) -> str:
         """Call LLM with automatic retry on failure.
-        
+
         Args:
             prompt: Input prompt
             system_message: Optional system instruction
             max_tokens: Maximum tokens to generate
             stream: Whether to stream the response
-            
+
         Returns:
             LLM response text
         """
@@ -235,7 +235,7 @@ class LLMClient:
         """Call Google Gemini API."""
         # Gemini uses 'system_instruction' in GenerativeModel init or generate_content
         # Creating a new model or updating it is one way.
-        # Simple way: passing system_instruction to GenerativeModel constructor if we could, 
+        # Simple way: passing system_instruction to GenerativeModel constructor if we could,
         # but we reuse self.client.GenerativeModel.
         # Alternatively, prepend simple system prompt to text often works well for Gemini if API doesn't support it dynamically per call easily on old SDKs.
         # Latest SDK supports system_instruction at model creation.

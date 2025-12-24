@@ -10,7 +10,7 @@ from typing import Any, Dict, List, Optional
 class TickerResult:
     """
     Result from scanning a single ticker.
-    
+
     Attributes:
         symbol: Ticker symbol
         close: Latest closing price
@@ -66,7 +66,7 @@ class TickerResult:
 class ScanResult:
     """
     Result from a full scan operation.
-    
+
     Attributes:
         tickers: List of TickerResult objects
         buy_signals: Tickers with BUY action

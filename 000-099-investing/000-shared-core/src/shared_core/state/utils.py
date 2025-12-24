@@ -26,14 +26,14 @@ def utc_now() -> datetime:
 def parse_iso_datetime(value: str) -> Optional[datetime]:
     """
     Parse an ISO 8601 datetime string to datetime object.
-    
+
     Handles:
     - Trailing 'Z' suffix
     - Missing timezone (assumes UTC)
-    
+
     Args:
         value: ISO datetime string
-        
+
     Returns:
         datetime object with UTC timezone, or None if parsing fails
     """
@@ -54,10 +54,10 @@ def parse_iso_datetime(value: str) -> Optional[datetime]:
 def safe_read_json(path: str) -> Optional[Dict[str, Any]]:
     """
     Safely read JSON from a file.
-    
+
     Args:
         path: Path to JSON file
-        
+
     Returns:
         Parsed JSON as dict, or None if file doesn't exist or parsing fails
     """
@@ -74,10 +74,10 @@ def safe_read_json(path: str) -> Optional[Dict[str, Any]]:
 def safe_write_json(path: str, data: Dict[str, Any]) -> None:
     """
     Safely write JSON to a file with atomic replace.
-    
+
     Uses a temporary file and os.replace() to ensure atomicity.
     Creates parent directories if they don't exist.
-    
+
     Args:
         path: Target file path
         data: Dictionary to serialize as JSON

@@ -14,7 +14,7 @@ class Digest:
     """
     Persisted snapshot of what we emailed at the main run.
     Used by the next-day reminder email without re-fetching market data.
-    
+
     Attributes:
         digest_id: Unique identifier, typically date string (e.g., "2025-12-14")
         sent_at: ISO timestamp (UTC) when the digest was sent

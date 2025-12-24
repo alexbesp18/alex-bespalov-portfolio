@@ -14,7 +14,7 @@ import pandas as pd
 class DataCache:
     """
     Manages local JSON cache for API data.
-    
+
     Cache structure:
         data/
         ├── twelve_data/
@@ -26,7 +26,7 @@ class DataCache:
     def __init__(self, cache_dir: Path, verbose: bool = False):
         """
         Initialize cache manager.
-        
+
         Args:
             cache_dir: Root directory for cache (e.g., project/data/)
             verbose: Print cache operations
@@ -58,10 +58,10 @@ class DataCache:
     def get_twelve_data(self, ticker: str) -> Optional[pd.DataFrame]:
         """
         Get cached time series data for today.
-        
+
         Args:
             ticker: Stock ticker symbol
-            
+
         Returns:
             DataFrame with OHLCV data if cached today, else None
         """
@@ -85,7 +85,7 @@ class DataCache:
     def save_twelve_data(self, ticker: str, df: pd.DataFrame) -> None:
         """
         Save time series data to cache with today's date.
-        
+
         Args:
             ticker: Stock ticker symbol
             df: DataFrame with OHLCV data
@@ -107,10 +107,10 @@ class DataCache:
     def get_transcript(self, ticker: str) -> Optional[Dict[str, Any]]:
         """
         Get cached transcript data for today.
-        
+
         Args:
             ticker: Stock ticker symbol
-            
+
         Returns:
             Dict with transcript metadata and text if cached, else None
         """
@@ -135,7 +135,7 @@ class DataCache:
     def save_transcript(self, ticker: str, data: Dict[str, Any]) -> None:
         """
         Save transcript data to cache.
-        
+
         Args:
             ticker: Stock ticker symbol
             data: Dict with transcript metadata and text
@@ -158,10 +158,10 @@ class DataCache:
     def list_cached_tickers(self, data_type: str = 'twelve_data') -> List[str]:
         """
         List all tickers with cache files for today.
-        
+
         Args:
             data_type: 'twelve_data' or 'transcripts'
-            
+
         Returns:
             List of ticker symbols
         """
@@ -182,10 +182,10 @@ class DataCache:
     def clear_old_cache(self, days: int = 7) -> int:
         """
         Remove cache files older than N days.
-        
+
         Args:
             days: Delete files older than this many days
-            
+
         Returns:
             Number of files deleted
         """
@@ -213,7 +213,7 @@ class DataCache:
     def clear_all_cache(self) -> int:
         """
         Remove all cache files.
-        
+
         Returns:
             Number of files deleted
         """
@@ -232,7 +232,7 @@ class DataCache:
     def get_cache_stats(self) -> Dict[str, Any]:
         """
         Get statistics about the cache.
-        
+
         Returns:
             Dict with cache statistics
         """

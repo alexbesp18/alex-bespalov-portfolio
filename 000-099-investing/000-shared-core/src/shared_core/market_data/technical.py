@@ -30,11 +30,11 @@ class TechnicalCalculator:
     def rsi(close_prices: pd.Series, period: int = 14) -> pd.Series:
         """
         Relative Strength Index.
-        
+
         Args:
             close_prices: Series of closing prices
             period: RSI period (default 14)
-            
+
         Returns:
             Series of RSI values (0-100)
         """
@@ -46,11 +46,11 @@ class TechnicalCalculator:
         return rsi
 
     @staticmethod
-    def macd(close_prices: pd.Series, fast: int = 12, slow: int = 26, 
+    def macd(close_prices: pd.Series, fast: int = 12, slow: int = 26,
              signal: int = 9) -> Tuple[pd.Series, pd.Series, pd.Series]:
         """
         Moving Average Convergence Divergence.
-        
+
         Returns:
             Tuple of (macd_line, signal_line, histogram)
         """
@@ -62,11 +62,11 @@ class TechnicalCalculator:
         return macd_line, signal_line, histogram
 
     @staticmethod
-    def bollinger_bands(close_prices: pd.Series, period: int = 20, 
+    def bollinger_bands(close_prices: pd.Series, period: int = 20,
                         num_std: float = 2.0) -> Tuple[pd.Series, pd.Series, pd.Series]:
         """
         Bollinger Bands.
-        
+
         Returns:
             Tuple of (upper_band, middle_band, lower_band)
         """
@@ -80,7 +80,7 @@ class TechnicalCalculator:
     def atr(df: pd.DataFrame, period: int = 14) -> pd.Series:
         """
         Average True Range.
-        
+
         Args:
             df: DataFrame with 'high', 'low', 'close' columns
             period: ATR period (default 14)
@@ -93,11 +93,11 @@ class TechnicalCalculator:
         return tr.rolling(window=period).mean()
 
     @staticmethod
-    def stochastic(df: pd.DataFrame, k_period: int = 14, 
+    def stochastic(df: pd.DataFrame, k_period: int = 14,
                    d_period: int = 3) -> Tuple[pd.Series, pd.Series]:
         """
         Stochastic Oscillator.
-        
+
         Returns:
             Tuple of (%K, %D)
         """
@@ -111,11 +111,11 @@ class TechnicalCalculator:
     def adx(df: pd.DataFrame, period: int = 14) -> float:
         """
         Average Directional Index.
-        
+
         Args:
             df: DataFrame with 'high', 'low', 'close' columns
             period: ADX period (default 14)
-            
+
         Returns:
             Current ADX value (float)
         """
@@ -142,11 +142,11 @@ class TechnicalCalculator:
     def adx_series(df: pd.DataFrame, period: int = 14) -> pd.Series:
         """
         Average Directional Index as a full Series.
-        
+
         Args:
             df: DataFrame with 'high', 'low', 'close' columns
             period: ADX period (default 14)
-            
+
         Returns:
             Series of ADX values
         """
@@ -172,7 +172,7 @@ class TechnicalCalculator:
     def obv(df: pd.DataFrame) -> pd.Series:
         """
         On-Balance Volume.
-        
+
         Args:
             df: DataFrame with 'close' and 'volume' columns
         """
@@ -182,11 +182,11 @@ class TechnicalCalculator:
     def vwap(df: pd.DataFrame, period: int = 20) -> float:
         """
         Volume Weighted Average Price (over recent period).
-        
+
         Args:
             df: DataFrame with 'close' and 'volume' columns
             period: Number of bars to include
-            
+
         Returns:
             VWAP value (float)
         """
@@ -212,11 +212,11 @@ class TechnicalCalculator:
         return ((close - close.shift(period)) / close.shift(period)) * 100
 
     @staticmethod
-    def classify_trend(current_price: float, sma_20: float, sma_50: float, 
+    def classify_trend(current_price: float, sma_20: float, sma_50: float,
                        sma_200: float, macd_hist: float) -> str:
         """
         Classify the current trend based on price and moving averages.
-        
+
         Returns:
             One of: 'STRONG_UPTREND', 'UPTREND', 'SIDEWAYS', 'DOWNTREND', 'STRONG_DOWNTREND'
         """
@@ -235,7 +235,7 @@ class TechnicalCalculator:
     def classify_obv_trend(obv_series: pd.Series) -> str:
         """
         Classify OBV trend.
-        
+
         Returns:
             One of: 'UP', 'DOWN', 'SIDEWAYS'
         """
@@ -251,7 +251,7 @@ class TechnicalCalculator:
     def detect_divergence(df: pd.DataFrame, rsi_series: pd.Series) -> str:
         """
         Detect RSI divergence.
-        
+
         Returns:
             One of: 'BULLISH', 'BEARISH', 'NONE'
         """
@@ -270,7 +270,7 @@ class TechnicalCalculator:
     def detect_rsi_divergence(df: pd.DataFrame, lookback: int = 14) -> str:
         """
         Detects RSI divergence over the lookback period.
-        
+
         Returns: 'bullish', 'bearish', or 'none'
         """
         if len(df) < lookback + 5:
@@ -294,7 +294,7 @@ class TechnicalCalculator:
     def detect_obv_divergence(df: pd.DataFrame, lookback: int = 14) -> str:
         """
         Detects OBV divergence over the lookback period.
-        
+
         Returns: 'bullish', 'bearish', or 'none'
         """
         if len(df) < lookback + 5 or 'OBV' not in df.columns:
@@ -318,7 +318,7 @@ class TechnicalCalculator:
     def count_consecutive_direction(df: pd.DataFrame, lookback: int = 10) -> dict:
         """
         Counts consecutive up/down days.
-        
+
         Returns: {'consecutive_down': int, 'consecutive_up': int}
         """
         if len(df) < 2:
@@ -351,7 +351,7 @@ class TechnicalCalculator:
     def classify_volatility(atr_series: pd.Series, lookback: int = 90) -> str:
         """
         Classify current volatility regime.
-        
+
         Returns:
             One of: 'LOW', 'NORMAL', 'HIGH', 'EXTREME'
         """
@@ -378,7 +378,7 @@ class TechnicalCalculator:
                                      long_window: int = 90) -> dict:
         """
         Calculate support and resistance levels.
-        
+
         Returns:
             Dict with support and resistance levels
         """
