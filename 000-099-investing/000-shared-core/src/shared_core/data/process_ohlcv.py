@@ -5,7 +5,6 @@ Converts raw API responses to DataFrames with calculated indicators.
 """
 
 import pandas as pd
-import numpy as np
 from typing import Any, Dict, Optional
 
 # Import TechnicalCalculator for indicator calculations
