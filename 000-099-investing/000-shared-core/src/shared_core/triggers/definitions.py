@@ -110,3 +110,9 @@ WATCHLIST_SIGNALS: Dict[str, Dict[str, Any]] = {
     },
 }
 
+# All signals combined - for running all alerts on all tickers
+ALL_SIGNALS: Dict[str, Dict[str, Any]] = {
+    **PORTFOLIO_SIGNALS,
+    **WATCHLIST_SIGNALS,
+}
+

@@ -47,173 +47,155 @@ def save_json(path: Path, data: dict):
 
 def main():
     load_dotenv()
-    
+
     parser = argparse.ArgumentParser(description="Trading Alert System")
     parser.add_argument("--dry-run", action="store_true", help="Don't send email")
     parser.add_argument("--reminder", action="store_true", help="Send reminder email only")
     parser.add_argument("--action", type=str, help="Process actioned issue: ACTIONED:TICKER:SIGNAL")
     args = parser.parse_args()
-    
+
     base_dir = Path(__file__).parent
     config_dir = base_dir / "config"
     state_dir = base_dir / "state"
-    
+
     # Handle action mode
     if args.action:
         success = handle_action(args.action, config_dir)
         sys.exit(0 if success else 1)
-    
-    # Load config files (optional overrides)
+
+    # Load config files
+    # portfolio.json: Optional override - tickers here use PORTFOLIO_SIGNALS only
+    # actioned.json: Suppressed signals
     portfolio = load_json(config_dir / "portfolio.json")
-    watchlist = load_json(config_dir / "watchlist.json")
     actioned = load_json(config_dir / "actioned.json")
-    
+
     # Load state files
     last_run = load_json(state_dir / "last_run.json")
     cooldowns = load_json(state_dir / "cooldowns.json")
-    
-    # Default: use cached tickers from 007-ticker-analysis  
+
+    # Default: use cached tickers from 007-ticker-analysis
     cache_dir = base_dir.parent / "007-ticker-analysis" / "data" / "twelve_data"
-    
+
     # Get API keys
     td_api_key = os.environ.get("TWELVE_DATA_API_KEY")
     resend_api_key = os.environ.get("RESEND_API_KEY")
     email_from = os.environ.get("SENDER_EMAIL", "alexb@novaconsultpro.com")
     email_to = os.environ.get("NOTIFICATION_EMAILS", "ab00477@icloud.com,alexbespalovtx@gmail.com")
     email_recipients = [e.strip() for e in email_to.split(",") if e.strip()]
-    
+
     if not td_api_key:
         logger.error("TWELVE_DATA_API_KEY not set")
         sys.exit(1)
-    
+
     # Initialize email sender
     email_sender = EmailSender(resend_api_key, email_from, email_recipients)
-    
+
     # Reminder mode: send based on saved state
     if args.reminder:
-        last_signals = last_run.get('signals', {})
-        portfolio_signals = last_signals.get('portfolio', [])
-        watchlist_signals = last_signals.get('watchlist', [])
-        
-        if not portfolio_signals and not watchlist_signals:
+        last_signals = last_run.get('signals', [])
+
+        if not last_signals:
             logger.info("No signals from last run. Skipping reminder.")
             return
-        
+
         date_str = last_run.get('date', datetime.now().strftime('%Y-%m-%d'))
-        body = format_reminder_email(portfolio_signals, watchlist_signals, date_str)
+        body = format_reminder_email(last_signals, date_str)
         subject = f"Reminder — Trading Signals from {date_str}"
-        
+
         if args.dry_run:
             logger.info("Dry Run - Reminder Email:")
             logger.info(body)
         else:
             email_sender.send(subject, body)
         return
-    
+
     # Main run: fetch, compute, evaluate
-    # Priority: 1) JSON config if has tickers, 2) cached data from 007-ticker-analysis
-    portfolio_tickers = portfolio.get('tickers', [])
-    watchlist_tickers = watchlist.get('tickers', [])
-    
-    if portfolio_tickers or watchlist_tickers:
-        # Use JSON config (custom override)
-        all_tickers = portfolio_tickers + watchlist_tickers
-        logger.info(f"Using JSON config: {len(portfolio_tickers)} portfolio + {len(watchlist_tickers)} watchlist")
-    else:
-        # Default: use cached tickers from 007-ticker-analysis (shared_core utility)
-        all_tickers = get_cached_tickers(str(cache_dir))
-        # All cached tickers go to watchlist by default (no portfolio/watchlist distinction)
-        watchlist_tickers = all_tickers
-        logger.info(f"Using cached tickers from 007-ticker-analysis: {len(all_tickers)} tickers")
-    
+    # Get all tickers from cache
+    all_tickers = get_cached_tickers(str(cache_dir))
+
     if not all_tickers:
-        logger.warning("No tickers found. Check 007-ticker-analysis cache or add portfolio.json/watchlist.json")
+        logger.warning("No tickers found in cache. Check 007-ticker-analysis cache.")
         return
-    
-    logger.info(f"Starting scan for {len(all_tickers)} tickers...")
-    
+
+    # Portfolio tickers (optional override) - these get PORTFOLIO_SIGNALS only
+    portfolio_tickers = set(portfolio.get('tickers', []))
+
+    if portfolio_tickers:
+        logger.info(f"Portfolio override: {len(portfolio_tickers)} tickers with portfolio-only signals")
+
+    logger.info(f"Starting scan for {len(all_tickers)} tickers (all signals on all by default)...")
+
     # Fetch price data
     fetcher = PriceFetcher(td_api_key)
     raw_data = fetcher.fetch_all_tickers(all_tickers)
-    
+
     # Process each ticker
-    portfolio_signals = []
-    watchlist_signals = []
+    all_signals = []
     no_signal_tickers = []
     new_state = {}
-    
+
     for ticker in all_tickers:
         data = raw_data.get(ticker)
         if not data:
             logger.warning(f"No data for {ticker}")
             continue
-        
+
         # Process data
         df = process_ticker_data(data)
         if df is None:
             logger.warning(f"Could not process data for {ticker}")
             continue
-        
+
         # Get previous state for event detection
         prev_state = last_run.get('flags', {}).get(ticker)
-        
+
         # Compute flags
         flags = compute_flags(df, prev_state)
         new_state[ticker] = flags
-        
-        # Determine list type
-        list_type = 'portfolio' if ticker in portfolio_tickers else 'watchlist'
-        
+
+        # Determine signal mode:
+        # - 'portfolio' if explicitly in portfolio.json (PORTFOLIO_SIGNALS only)
+        # - 'all' otherwise (ALL_SIGNALS - both buy and sell)
+        list_type = 'portfolio' if ticker in portfolio_tickers else 'all'
+
         # Get last run signals for deduplication
         last_signals_for_ticker = [
-            s['signal_key'] 
-            for s in last_run.get('signals', {}).get(list_type, [])
+            s['signal_key']
+            for s in last_run.get('signals', [])
             if s.get('ticker') == ticker
         ]
-        
+
         # Evaluate triggers
         signals = evaluate_ticker(
             ticker, flags, list_type, cooldowns, actioned, last_signals_for_ticker
         )
-        
+
         if signals:
-            if list_type == 'portfolio':
-                portfolio_signals.extend(signals)
-            else:
-                watchlist_signals.extend(signals)
+            all_signals.extend(signals)
             logger.info(f"Signals for {ticker}: {[s['signal'] for s in signals]}")
         else:
             no_signal_tickers.append(ticker)
-    
+
     # Update cooldowns
-    all_signals = portfolio_signals + watchlist_signals
     cooldowns = update_cooldowns(cooldowns, all_signals)
     save_json(state_dir / "cooldowns.json", cooldowns)
-    
+
     # Save state for next run
     save_json(state_dir / "last_run.json", {
         'date': datetime.now().strftime('%Y-%m-%d'),
         'flags': new_state,
-        'signals': {
-            'portfolio': portfolio_signals,
-            'watchlist': watchlist_signals,
-        }
+        'signals': all_signals,
     })
-    
+
     # Send email if there are signals
-    if portfolio_signals or watchlist_signals:
+    if all_signals:
         date_str = datetime.now().strftime('%Y-%m-%d')
-        body = format_main_email(
-            portfolio_signals, 
-            watchlist_signals, 
-            no_signal_tickers,
-            date_str
-        )
-        
-        sell_count = len([s for s in portfolio_signals if s['action'] == 'SELL'])
+        body = format_main_email(all_signals, no_signal_tickers, date_str)
+
+        sell_count = len([s for s in all_signals if s['action'] == 'SELL'])
         buy_count = len([s for s in all_signals if s['action'] == 'BUY'])
-        subject = f"Trading Signals — {date_str}"
-        
+        subject = f"Trading Signals — {date_str} ({buy_count} BUY, {sell_count} SELL)"
+
         if args.dry_run:
             logger.info("Dry Run - Main Email:")
             logger.info(body)
