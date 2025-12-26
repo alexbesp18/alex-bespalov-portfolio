@@ -6,9 +6,9 @@ from typing import List, Dict, Any, Optional
 
 logger = logging.getLogger(__name__)
 
-# Email configuration
-FROM_EMAIL = "alexb@novaconsultpro.com"
-TO_EMAILS = ["ab00477@icloud.com", "alexbespalovtx@gmail.com"]
+# Email configuration - defaults for local dev, override via environment
+FROM_EMAIL = os.environ.get("SENDER_EMAIL", "alerts@example.com")
+TO_EMAILS = os.environ.get("NOTIFICATION_EMAILS", "").split(",") if os.environ.get("NOTIFICATION_EMAILS") else []
 
 
 class Notifier:

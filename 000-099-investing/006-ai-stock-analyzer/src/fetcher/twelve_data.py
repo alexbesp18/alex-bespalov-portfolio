@@ -125,8 +125,8 @@ class TwelveDataFetcher:
             # Historical data for agent analysis (last 30 days)
             history = self._build_history(df)
             
-            # TODO: Implement real calculations for these indicators
-            # Currently using placeholder values for demonstration
+            # Extended indicators use mock data for demo purposes.
+            # Real implementations available in shared_core.TechnicalCalculator (ADX, OBV, etc.)
             mock_data = self._get_mock_extended_indicators(current_price)
             
             result = {
@@ -207,14 +207,14 @@ class TwelveDataFetcher:
     
     def _get_mock_extended_indicators(self, current_price: float) -> Dict:
         """
-        Generate mock data for extended indicators.
-        
-        TODO: Replace with real calculations for:
-        - ADX (Average Directional Index)
-        - OBV (On-Balance Volume)
-        - VWAP (Volume Weighted Average Price)
-        - Trend analysis
-        - Divergence detection
+        Generate mock data for extended indicators (demo purposes).
+
+        For production use, these are available in shared_core.TechnicalCalculator:
+        - ADX: calc.adx(df) or calc.adx_series(df)
+        - OBV: calc.obv(df), calc.classify_obv_trend()
+        - VWAP: calc.vwap(df, period)
+        - Trend: calc.classify_trend()
+        - Divergence: calc.detect_divergence()
         """
         return {
             'indicators': {

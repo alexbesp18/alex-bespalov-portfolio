@@ -159,6 +159,8 @@ jobs:
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
         run: |
           cd 000-099-investing/008-alerts
           python main.py
@@ -203,6 +205,8 @@ jobs:
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
         run: |
           cd 000-099-investing/009-reversals
           python reversals.py
@@ -247,6 +251,8 @@ jobs:
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
         run: |
           cd 000-099-investing/010-oversold
           python oversold.py --all --top 20 --email
@@ -260,13 +266,15 @@ jobs:
       - name: Send failure notification
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
         run: |
           curl -X POST https://api.resend.com/emails \
             -H "Authorization: Bearer $RESEND_API_KEY" \
             -H "Content-Type: application/json" \
             -d '{
-              "from": "alexb@novaconsultpro.com",
-              "to": ["ab00477@icloud.com", "alexbespalovtx@gmail.com"],
+              "from": "'"$SENDER_EMAIL"'",
+              "to": '"$(echo $NOTIFICATION_EMAILS | jq -R 'split(",") | map(select(length > 0))')"',
               "subject": "Workflow Failed - '"$(date +%b\ %d)"'",
               "html": "<h2>Daily Workflow Failed</h2><p>Check GitHub Actions for details.</p>"
             }'
