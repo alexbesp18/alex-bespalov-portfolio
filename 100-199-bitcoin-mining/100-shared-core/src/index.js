@@ -27,6 +27,9 @@ export * from './export/index.js';
 // Validation
 export * from './validation/index.js';
 
+// UI Utilities (presentation layer)
+export * from './ui/index.js';
+
 // React Hooks
 export * from './hooks/index.js';
 

@@ -7,14 +7,12 @@ const fs = require('fs');
 const path = require('path');
 
 const projects = [
-  '101-bitcoin-mining-calculator',
-  '102-bitcoin-mining-electricity-calculator', 
-  '103-btc-loan-calculator',
-  '104-miner-price-tracker',
-  '105-miner-acquisition-calculator',
-  '106-hosted-mining-portfolio',
-  '107-crypto-calculators-landing',
-  '109-portfolio-analyzer'
+  '101-mining-profitability-calculator',
+  '102-btc-loan-calculator',
+  '103-miner-price-tracker',
+  '104-portfolio-analyzer',
+  '105-landing-page'
+  // Note: 106-miner-price-scraper is Python-based, not Node.js
 ];
 
 console.log('🔍 Verifying shared-core linkage in all projects...\n');
@@ -48,11 +46,14 @@ for (const project of projects) {
     }
     
     // Try to require the shared-core from the project
+    // Note: We only test constants module because hooks require React
     try {
-      const sharedCore = require(path.join(nodeModulesLink, 'dist', 'index.js'));
-      
-      // Quick sanity check
-      if (sharedCore.BLOCK_REWARD && sharedCore.formatCurrency && sharedCore.MINER_DATABASE) {
+      const constants = require(path.join(nodeModulesLink, 'dist', 'constants', 'index.js'));
+      const data = require(path.join(nodeModulesLink, 'dist', 'data', 'index.js'));
+      const formatters = require(path.join(nodeModulesLink, 'dist', 'formatters', 'index.js'));
+
+      // Quick sanity check on non-React exports
+      if (constants.BLOCK_REWARD && formatters.formatCurrency && data.MINER_DATABASE) {
         console.log(`✅ ${project}: Linked and working`);
         passed++;
       } else {
