@@ -280,6 +280,9 @@ class OversoldScanner:
             # Calculate oversold score
             score_result = self.scorer.score(df)
             
+            # Merge components with raw_values for email display (pct_from_high, etc.)
+            merged_components = {**score_result.components, **score_result.raw_values}
+            
             results.append(TickerResult(
                 ticker=ticker,
                 score=score_result.final_score,
@@ -287,7 +290,7 @@ class OversoldScanner:
                 williams_r=score_result.raw_values.get("williams_r", 0),
                 stoch_k=score_result.raw_values.get("stoch_k", 0),
                 price=score_result.raw_values.get("close", 0),
-                components=score_result.components,
+                components=merged_components,
             ))
         
         # Sort by score (descending — higher = more oversold)
