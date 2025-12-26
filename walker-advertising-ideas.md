@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Based on analysis of your portfolio capabilities and comprehensive research into publicly available data sources, here are **12 high-value, actionable ideas** for Walker Advertising. Each idea leverages external public data (no Walker internal data required) combined with proven technical patterns from your portfolio.
+Based on analysis of your portfolio capabilities and comprehensive research into publicly available data sources, here are **13 high-value, actionable ideas** for Walker Advertising. Each idea leverages external public data (no Walker internal data required) combined with proven technical patterns from your portfolio.
 
 ---
 
@@ -38,7 +38,55 @@ Based on analysis of your portfolio capabilities and comprehensive research into
 | **Yelp** | Business reviews | API (limited) | Rate limited |
 | **Outscraper/Apify** | Unlimited Google reviews | Scraping service | $0.002-0.01/review |
 
-### Tier 4: Content & Trend Data
+### Tier 4: Short-Form Video Intelligence (TikTok, Reels, Shorts) ⭐ NEW
+
+| Source | What's Available | Access Method | Cost |
+|--------|-----------------|---------------|------|
+| **TikTok** | Videos, transcripts, comments, hashtags, engagement | Apify TikTok Scraper | $5/1K videos |
+| **TikTok #LawTok** | 950M+ views, legal content creators | Hashtag scraper | $5/1K |
+| **Instagram Reels** | Captions, transcripts, comments, engagement | Apify Reel Scraper | ~$5/1K |
+| **YouTube Shorts** | Transcripts, comments, engagement | youtube-transcript-api | FREE |
+| **Facebook Reels** | Video content, engagement | Ad Library + scrapers | Varies |
+
+**Why This Matters for Legal Marketing:**
+- Gen Z + Millennials now need legal services (employment, family, PI, criminal)
+- #LawTok has 950M+ views - massive engaged audience
+- Law firms are UNDER-represented on TikTok vs other platforms
+- Short-form video drives highest engagement rates
+
+**Top Legal TikTok Creators to Monitor:**
+| Creator | Followers | Specialty | Intel Value |
+|---------|-----------|-----------|-------------|
+| Mike Mandell | 7M | PI, criminal | Viral hooks, emotional appeals |
+| Erika Kullberg | 21M | Consumer rights | "Hidden rights" messaging |
+| Caesar Chukwuma | 8.9M | Criminal, PI | Hypothetical scenarios |
+| Tom Kherker | 715K | Personal injury | Deep-dive educational |
+| Ali Awad | 500K+ | PI (multilingual) | Spanish market messaging |
+
+**Extractable Data via Apify:**
+```json
+{
+  "video_transcript": "If you were in a car accident...",
+  "hashtags": ["#lawtok", "#personalinjury", "#lawyer"],
+  "views": 2400000,
+  "likes": 189000,
+  "comments": 4200,
+  "shares": 12000,
+  "audio_track": "original sound",
+  "hook_text": "POV: You just got rear-ended",
+  "cta": "Follow for more legal tips",
+  "posting_time": "2025-12-20T14:30:00Z"
+}
+```
+
+**Use Cases:**
+1. **Viral Hook Analysis** - What opening lines get millions of views?
+2. **Comment Mining** - What legal questions do people actually ask?
+3. **Competitor Content Tracking** - What are other law firms posting?
+4. **Trend Detection** - What legal topics are going viral right now?
+5. **Creative Inspiration** - Adapt successful formats for Walker clients
+
+### Tier 5: Content & Trend Data
 
 | Source | Data Available | Access | Cost |
 |--------|---------------|--------|------|
@@ -47,7 +95,7 @@ Based on analysis of your portfolio capabilities and comprehensive research into
 | **Legal News RSS** | Law360, Reuters, ABA Journal, 80+ feeds | RSS | Free (some paywalled) |
 | **Reddit** | r/legaladvice, r/personalinjury discussions | PRAW API | Free (<100 req/min) |
 
-### Tier 5: Class Action & Settlement Tracking
+### Tier 6: Class Action & Settlement Tracking
 
 | Source | Data Available | Access |
 |--------|---------------|--------|
@@ -56,7 +104,7 @@ Based on analysis of your portfolio capabilities and comprehensive research into
 | **NAAG Multistate Database** | State AG settlements since 1980s | Public database |
 | **Consumer Action** | Notable class actions, claim deadlines | Public listing |
 
-### Tier 6: Growth & Hiring Intelligence
+### Tier 7: Growth & Hiring Intelligence
 
 | Source | Data Available | Access | Notes |
 |--------|---------------|--------|-------|
@@ -66,7 +114,7 @@ Based on analysis of your portfolio capabilities and comprehensive research into
 
 ---
 
-## Part 2: The 12 Strategic Ideas
+## Part 2: The 13 Strategic Ideas
 
 ---
 
@@ -501,27 +549,138 @@ churn_signals = {
 
 ---
 
+### IDEA 13: TikTok/Reels Legal Content Intelligence Engine ⭐ NEW
+**Portfolio Pattern:** 203-YouTube Transcripts + 204-Transcripts-to-Intelligence
+
+**Concept:** Scrape, transcribe, and analyze short-form legal video content across TikTok, Instagram Reels, and YouTube Shorts to extract marketing intelligence.
+
+**Data Pipeline:**
+```
+┌─────────────────────────────────────────────────────────┐
+│  INGESTION (Apify Scrapers)                             │
+├─────────────────────────────────────────────────────────┤
+│  • TikTok: #lawtok, #personalinjury, #lawyer hashtags   │
+│  • TikTok: Top legal creator accounts                   │
+│  • Instagram: Lawyer Reels by hashtag                   │
+│  • YouTube Shorts: Legal content channels               │
+└─────────────────────────────────────────────────────────┘
+                           ↓
+┌─────────────────────────────────────────────────────────┐
+│  EXTRACTION                                             │
+├─────────────────────────────────────────────────────────┤
+│  • Video transcripts (captions or Whisper)              │
+│  • Engagement metrics (views, likes, shares, comments)  │
+│  • Comment text (what questions do people ask?)         │
+│  • Hashtags and audio tracks used                       │
+│  • Posting times and frequency                          │
+└─────────────────────────────────────────────────────────┘
+                           ↓
+┌─────────────────────────────────────────────────────────┐
+│  LLM ANALYSIS                                           │
+├─────────────────────────────────────────────────────────┤
+│  • Hook analysis: "What opening lines go viral?"        │
+│  • Topic extraction: "What legal issues trend?"         │
+│  • Sentiment: "What emotional triggers work?"           │
+│  • CTA patterns: "What drives action?"                  │
+│  • Format analysis: "POV vs talking head vs skit?"      │
+└─────────────────────────────────────────────────────────┘
+                           ↓
+┌─────────────────────────────────────────────────────────┐
+│  OUTPUT                                                 │
+├─────────────────────────────────────────────────────────┤
+│  • Weekly "What's Working" creative brief               │
+│  • Viral hook library (sortable by practice area)       │
+│  • Comment-derived FAQ database                         │
+│  • Competitor content calendar                          │
+│  • Trend alerts for emerging topics                     │
+└─────────────────────────────────────────────────────────┘
+```
+
+**Key Metrics to Track:**
+```python
+content_metrics = {
+    "viral_coefficient": views / followers,  # How much reach beyond base
+    "engagement_rate": (likes + comments + shares) / views,
+    "comment_sentiment": positive / (positive + negative),
+    "question_density": questions_in_comments / total_comments,
+    "hook_type": "POV" | "Question" | "Statistic" | "Story",
+    "practice_area": "PI" | "Criminal" | "Family" | "Employment",
+}
+```
+
+**Example Weekly Output:**
+```
+LAWTOK INTELLIGENCE BRIEF - Week of Dec 23, 2025
+════════════════════════════════════════════════════════
+
+🔥 VIRAL HOOKS THIS WEEK:
+1. "POV: You just got rear-ended and the other driver is blaming YOU"
+   - 4.2M views, 12% engagement
+   - Practice: Auto accident
+
+2. "If your employer does THIS, you might be owed thousands"
+   - 2.8M views, 8% engagement
+   - Practice: Employment law
+
+3. "3 things insurance companies pray you don't know"
+   - 1.9M views, 15% engagement
+   - Practice: Insurance bad faith
+
+📊 TRENDING TOPICS:
+- Ozempic lawsuits (+340% mentions)
+- Gig worker rights (+120%)
+- Wrongful termination (+85%)
+
+❓ TOP QUESTIONS FROM COMMENTS:
+1. "Does this apply in [state]?" (geo-targeting opportunity)
+2. "What if I signed something?" (waiver content idea)
+3. "How long do I have to file?" (SOL content idea)
+
+🎯 CREATIVE RECOMMENDATIONS:
+- POV format outperforming talking head by 3x
+- Videos under 30 seconds getting 2x completion rate
+- "Insurance company secrets" angle highest engagement
+```
+
+**Implementation:**
+1. Set up Apify scrapers for TikTok + Instagram + YouTube Shorts
+2. Store raw data in Supabase
+3. Daily LLM analysis batch job
+4. Weekly digest via Resend email
+5. Searchable hook/content library in React dashboard
+
+**Cost Estimate:**
+- Apify: ~$50/month (10K videos/month)
+- LLM analysis: ~$30/month
+- Supabase: Free tier
+- **Total: ~$80/month**
+
+**Value:** Know exactly what legal content resonates with consumers. Inform Walker's creative strategy and client content recommendations.
+
+---
+
 ## Part 3: Implementation Roadmap
 
 ### Phase 1: Quick Wins (1-2 weeks each)
 1. **Multi-LLM Ad Copy Engine** - Reuse existing LLM infrastructure
 2. **Google Review Alerts** - Simple scraping + email
 3. **Competitor Ad Scraper** - Facebook Ad Library is free
+4. **TikTok/Reels Intelligence** ⭐ - Apify + existing transcript pipeline
 
 ### Phase 2: Core Infrastructure (2-4 weeks each)
-4. **Mass Tort Radar** - Combine government APIs
-5. **Practice Area Dashboard** - Build on Streamlit/React patterns
-6. **YouTube Content Intelligence** - Extend existing transcript pipeline
+5. **Mass Tort Radar** - Combine government APIs
+6. **Practice Area Dashboard** - Build on Streamlit/React patterns
+7. **YouTube Content Intelligence** - Extend existing transcript pipeline
 
 ### Phase 3: Advanced Systems (4-8 weeks each)
-7. **Verdict Intelligence Pipeline** - Full 5-module system
-8. **Oversold Market Screener** - Complex scoring model
-9. **Law Firm Audit Bot** - PDF generation + multi-source
+8. **Verdict Intelligence Pipeline** - Full 5-module system
+9. **Oversold Market Screener** - Complex scoring model
+10. **Law Firm Audit Bot** - PDF generation + multi-source
 
 ### Phase 4: AI Enhancement
-10. **Lead Scoring Consensus** - Requires lead data integration
-11. **Incident Data Pipeline** - Government API aggregation
-12. **Client Health System** - Requires CRM integration
+11. **Lead Scoring Consensus** - Requires lead data integration
+12. **Incident Data Pipeline** - Government API aggregation
+13. **Client Health System** - Requires CRM integration
 
 ---
 
@@ -538,7 +697,7 @@ churn_signals = {
 - Streamlit dashboards
 
 **Need to Add:**
-- Outscraper/Apify account (Google Reviews)
+- Apify account (TikTok, Instagram Reels, Google Reviews)
 - SerpAPI account (Google Ads Transparency)
 - SpyFu/SEMrush API (optional, for CPL data)
 - CourtListener API key
@@ -547,7 +706,7 @@ churn_signals = {
 **Estimated Monthly Costs:**
 | Service | Cost |
 |---------|------|
-| Outscraper | $50-100 |
+| Apify (TikTok + Reels + Reviews) | $50-100 |
 | SerpAPI | $50-100 |
 | LLM APIs | $100-300 |
 | Supabase | Free-$25 |
@@ -586,3 +745,10 @@ churn_signals = {
 - Law360: https://www.law360.com/Law360-RSS-Feeds.pdf
 - ABA Journal: https://www.abajournal.com/stay_connected/item/rss_feeds
 - US Courts: https://www.uscourts.gov/rss-feeds
+
+### Short-Form Video (TikTok, Reels, Shorts)
+- Apify TikTok Scraper: https://apify.com/clockworks/tiktok-scraper
+- Apify TikTok Hashtag Scraper: https://apify.com/clockworks/tiktok-hashtag-scraper
+- Apify TikTok Comments Scraper: https://apify.com/clockworks/tiktok-comments-scraper
+- Apify Instagram Reel Scraper: https://apify.com/apify/instagram-reel-scraper
+- YouTube Transcript API (Python): https://pypi.org/project/youtube-transcript-api/
