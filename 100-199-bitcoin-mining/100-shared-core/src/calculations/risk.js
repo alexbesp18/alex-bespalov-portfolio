@@ -229,7 +229,7 @@ export const calculateConcentrationRisk = (allocation) => {
 
 /**
  * Calculate quick insights from profit matrix
- * 
+ *
  * @param {Array} profitMatrix - Array of miner profit results
  * @param {Array} miners - Array of miner objects
  * @param {number} [referenceRate=0.05] - Reference electricity rate
@@ -239,35 +239,35 @@ export const calculateQuickInsights = (profitMatrix, miners, referenceRate = 0.0
   if (!profitMatrix || profitMatrix.length === 0 || !miners || miners.length === 0) {
     return null;
   }
-  
+
   // Find most profitable at reference rate
   const bestProfitMiner = profitMatrix.reduce((best, current) => {
     const currentResult = current.results?.find(r => r.rate === referenceRate);
     const bestResult = best.results?.find(r => r.rate === referenceRate);
-    
+
     if (!currentResult) return best;
     if (!bestResult) return current;
-    
+
     return currentResult.netProfit > bestResult.netProfit ? current : best;
   }, profitMatrix[0]);
-  
+
   // Find most efficient
-  const mostEfficient = miners.reduce((best, current) => 
+  const mostEfficient = miners.reduce((best, current) =>
     (current.efficiency || Infinity) < (best.efficiency || Infinity) ? current : best
   , miners[0]);
-  
+
   // Calculate average breakeven electricity rate
   const breakevenRates = profitMatrix.map(row => {
     const profitable = row.results?.filter(r => r.netProfit > 0) || [];
     return profitable.length > 0 ? profitable[profitable.length - 1].rate : null;
   }).filter(rate => rate !== null);
-  
-  const avgBreakeven = breakevenRates.length > 0 
+
+  const avgBreakeven = breakevenRates.length > 0
     ? breakevenRates.reduce((sum, rate) => sum + rate, 0) / breakevenRates.length
     : 0;
-  
+
   const bestResult = bestProfitMiner.results?.find(r => r.rate === referenceRate);
-  
+
   return {
     mostProfitable: bestProfitMiner.miner?.name || 'Unknown',
     mostProfitableROI: bestResult?.roi || 0,
@@ -278,52 +278,8 @@ export const calculateQuickInsights = (profitMatrix, miners, referenceRate = 0.0
   };
 };
 
-/**
- * Get cell color class based on value and metric
- * 
- * @param {number} value - The value to color-code
- * @param {string} metric - The metric type ('roi', 'profit', etc.)
- * @returns {string} Tailwind CSS class name
- */
-export const getCellColor = (value, metric) => {
-  if (metric === 'roi') {
-    if (value > 50) return 'bg-green-300';
-    if (value > 25) return 'bg-green-200';
-    if (value > 10) return 'bg-green-100';
-    if (value > 0) return 'bg-green-50';
-    if (value > -25) return 'bg-red-50';
-    if (value > -50) return 'bg-red-100';
-    return 'bg-red-200';
-  } else {
-    if (value > 20000) return 'bg-green-300';
-    if (value > 10000) return 'bg-green-200';
-    if (value > 5000) return 'bg-green-100';
-    if (value > 0) return 'bg-green-50';
-    if (value > -5000) return 'bg-red-50';
-    if (value > -10000) return 'bg-red-100';
-    return 'bg-red-200';
-  }
-};
-
-/**
- * Get display value based on metric type
- * 
- * @param {Object} result - Result object with various profit metrics
- * @param {string} metric - Metric to display
- * @param {boolean} [isTwoYear=false] - Whether this is a 2-year result
- * @returns {number} The value to display
- */
-export const getDisplayValue = (result, metric, isTwoYear = false) => {
-  switch (metric) {
-    case 'operationalProfit':
-      return result.operationalProfit || 0;
-    case 'afterTaxProfit':
-      return result.afterTaxProfit || 0;
-    case 'roi':
-      return isTwoYear ? (result.annualizedRoi || 0) : (result.roi || 0);
-    case 'netProfit':
-    default:
-      return result.netProfit || 0;
-  }
-};
+// Re-export UI functions for backwards compatibility
+// These are presentation-layer utilities that live in ../ui/display.js
+// but are re-exported here to avoid breaking existing imports
+export { getCellColor, getDisplayValue } from '../ui/display.js';
 
