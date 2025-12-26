@@ -13,9 +13,10 @@ import requests
 
 logger = logging.getLogger(__name__)
 
-# Default configuration (can be overridden via env vars)
-FROM_EMAIL = os.environ.get("FROM_EMAIL", "alexb@novaconsultpro.com")
-TO_EMAILS = os.environ.get("TO_EMAILS", "ab00477@icloud.com,alexbespalovtx@gmail.com").split(",")
+# Default configuration - override via env vars
+FROM_EMAIL = os.environ.get("SENDER_EMAIL") or os.environ.get("FROM_EMAIL", "")
+TO_EMAILS_RAW = os.environ.get("NOTIFICATION_EMAILS") or os.environ.get("TO_EMAILS", "")
+TO_EMAILS = [e.strip() for e in TO_EMAILS_RAW.split(",") if e.strip()]
 
 
 class ResendEmailSender:

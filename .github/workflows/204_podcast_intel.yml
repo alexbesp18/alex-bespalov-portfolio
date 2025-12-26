@@ -49,6 +49,8 @@ on:
 env:
   OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
   RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+  SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+  NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
   PROJECT_DIR: ./200-other/204-transcripts-to-intelligence
 
 jobs:
