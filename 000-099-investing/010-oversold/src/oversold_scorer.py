@@ -96,15 +96,22 @@ class OversoldScorer:
         
         curr = df.iloc[-1]
         
+        # Calculate 52-week high and % off high
+        high_52w = float(df['high'].max()) if 'high' in df.columns else 0
+        close_price = float(curr.get("close", 0) or 0)
+        pct_from_high = ((high_52w - close_price) / high_52w * 100) if high_52w > 0 else 0
+        
         # Extract raw values with safe defaults
         raw = {
             "rsi": float(curr.get("RSI", 50) or 50),
             "williams_r": float(curr.get("WILLIAMS_R", -50) or -50),
             "stoch_k": float(curr.get("STOCH_K", 50) or 50),
-            "close": float(curr.get("close", 0) or 0),
+            "close": close_price,
             "bb_lower": float(curr.get("BB_LOWER", 0) or 0),
             "bb_middle": float(curr.get("BB_MIDDLE", 0) or 0),
             "sma200": float(curr.get("SMA_200", 0) or 0),
+            "high_52w": high_52w,
+            "pct_from_high": pct_from_high,
         }
         
         # Calculate component scores

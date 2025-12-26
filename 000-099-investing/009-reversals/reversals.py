@@ -206,15 +206,38 @@ def main():
         reversal_analysis = reversal_calc.get_full_reversal_analysis(df, symbol)
         upside_rev_score = reversal_analysis['upside_reversal_score']
         downside_rev_score = reversal_analysis['downside_reversal_score']
-        reversal_triggers = reversal_analysis['upside_triggers'] + reversal_analysis['downside_triggers']
+        reversal_triggers_raw = reversal_analysis['upside_triggers'] + reversal_analysis['downside_triggers']
         
         # Add reversal data to matrix
         matrix['upside_rev_score'] = upside_rev_score
         matrix['downside_rev_score'] = downside_rev_score
         matrix['reversal_signal'] = reversal_analysis['signal']
         
-        # Evaluate Triggers (original + reversal)
+        # Evaluate config-based Triggers
         triggers = trigger_engine.evaluate(symbol, df, score, ticker_triggers, matrix=matrix)
+        
+        # Convert reversal_triggers to standard trigger format and merge
+        for rt in reversal_triggers_raw:
+            trigger_id = rt.get('id', 'REV-UNKNOWN')
+            trigger_name = rt.get('name', 'Reversal Signal')
+            priority = rt.get('priority', 'MEDIUM')
+            
+            # Determine action based on trigger type
+            if trigger_id.startswith('REV-UP'):
+                action = 'BUY'
+                signal_type = 'UPSIDE_REVERSAL'
+            else:
+                action = 'SELL'
+                signal_type = 'DOWNSIDE_REVERSAL'
+            
+            triggers.append({
+                'symbol': symbol,
+                'action': action,
+                'type': signal_type,
+                'message': f"{action}: {trigger_name} ({trigger_id})",
+                'trigger_key': f"{symbol}_{trigger_id}",
+                'cooldown_days': 7,  # Default cooldown for reversal signals
+            })
 
         # Track triggers for state + compute "new" triggers only (no repeat spam)
         if triggers:
