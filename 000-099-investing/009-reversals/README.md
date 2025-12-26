@@ -67,7 +67,7 @@ python reversals.py --archive NVDA
 - shared_core.CacheAwareFetcher
 - shared_core.TechnicalCalculator
 - pandas, numpy
-- SendGrid (notifications)
+- Resend (notifications)
 
 ## Running Tests
 

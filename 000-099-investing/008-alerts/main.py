@@ -79,8 +79,8 @@ def main():
     # Get API keys
     td_api_key = os.environ.get("TWELVE_DATA_API_KEY")
     resend_api_key = os.environ.get("RESEND_API_KEY")
-    email_from = os.environ.get("SENDER_EMAIL", "alexb@novaconsultpro.com")
-    email_to = os.environ.get("NOTIFICATION_EMAILS", "ab00477@icloud.com,alexbespalovtx@gmail.com")
+    email_from = os.environ.get("SENDER_EMAIL")
+    email_to = os.environ.get("NOTIFICATION_EMAILS", "")
     email_recipients = [e.strip() for e in email_to.split(",") if e.strip()]
 
     if not td_api_key:

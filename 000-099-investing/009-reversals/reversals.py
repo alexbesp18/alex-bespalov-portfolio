@@ -82,9 +82,10 @@ def main():
 
     # Initialize Components
     td_api_key = os.environ.get("TWELVE_DATA_API_KEY")
-    sg_api_key = os.environ.get("SENDGRID_API_KEY")
-    email_to = os.environ.get("NOTIFICATION_EMAIL")
-    email_from = os.environ.get("SENDER_EMAIL", email_to)
+    resend_api_key = os.environ.get("RESEND_API_KEY")
+    email_from = os.environ.get("SENDER_EMAIL")
+    email_to_str = os.environ.get("NOTIFICATION_EMAILS", "")
+    email_to = [e.strip() for e in email_to_str.split(",") if e.strip()]
 
     # Archive mode: mark last-digest triggers as executed/suppressed.
     if args.archive:
@@ -128,7 +129,7 @@ def main():
 
     # Reminder mode: send based on the last digest, without fetching market data.
     if args.reminder:
-        notifier = Notifier(sg_api_key, email_from, email_to)
+        notifier = Notifier(resend_api_key, email_from, email_to)
         if not state_manager.should_send_reminder(state):
             logger.info("Reminder: no recent digest with triggers to remind on. Skipping.")
             return
@@ -156,7 +157,7 @@ def main():
     calculator = TechnicalCalculator()
     reversal_calc = ReversalCalculator()
     trigger_engine = TriggerEngine(default_triggers)
-    notifier = Notifier(sg_api_key, email_from, email_to)
+    notifier = Notifier(resend_api_key, email_from, email_to)
 
     symbols = [t['symbol'] for t in tickers]
     logger.info(f"Starting scan for {len(symbols)} tickers...")

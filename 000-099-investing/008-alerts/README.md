@@ -8,7 +8,7 @@ Automated daily scanner for 80+ AI infrastructure and tech tickers with configur
 - **Configurable Triggers** — Score-based, price-cross-MA, RSI extremes, volume spikes
 - **Portfolio vs Watchlist** — Different alert types for owned positions vs watchlist
 - **Cooldown System** — Prevents alert fatigue with configurable suppression periods
-- **Email Notifications** — SendGrid integration with actionable links
+- **Email Notifications** — Resend integration with actionable links
 
 ## Architecture
 
@@ -24,7 +24,7 @@ Automated daily scanner for 80+ AI infrastructure and tech tickers with configur
 │   ├── calculator.py    # Technical indicators (extends shared_core)
 │   ├── compute_flags.py # Bullish score (0-10)
 │   ├── evaluate_triggers.py  # Trigger logic
-│   └── notifier.py      # SendGrid email
+│   └── notifier.py      # Resend email
 └── tests/               # 13 unit tests
 ```
 
@@ -69,7 +69,7 @@ RSI: 54.8, Score: 9.0, Close: $131.12
 
 - Python 3.10+
 - shared_core.CacheAwareFetcher (cache-first data fetching)
-- SendGrid API (email)
+- Resend API (email)
 - GitHub Actions (scheduling)
 - tenacity (retry logic)
 
