@@ -353,27 +353,52 @@ def archive_daily_indicators(
         for r in results:
             # Check if it's a dict (matrix data) or an object (TickerResult)
             if isinstance(r, dict):
-                # Matrix data from 009-reversals: {symbol, _rsi, _price, score, upside_rev_score, ...}
+                # Dict data from all scanners: {symbol, close, rsi, stoch_k, macd, ...}
                 symbol = r.get('symbol', '')
-                # Matrix uses _price and _rsi prefixed keys
-                close = r.get('_price') or r.get('close', 0.0)
-                rsi = r.get('_rsi') or r.get('rsi')
+                # Support both _price (legacy) and close (standard)
+                close = r.get('close') or r.get('_price', 0.0)
+                # Support both _rsi (legacy) and rsi (standard)
+                rsi = r.get('rsi') or r.get('_rsi')
 
-                # Get reversal scores specifically
+                # Determine score fields based on score_type
+                score_value = r.get('score')
                 upside_rev = r.get('upside_rev_score')
-                bullish = r.get('score')  # bullish score from calculator
-
-                # For reversal score, use upside (buy) score
-                reversal_score_val = upside_rev if score_type == "reversal" else None
+                bullish_score = r.get('bullish_score') or (score_value if score_type == "bullish" else None)
+                reversal_score = upside_rev if score_type == "reversal" else None
+                oversold_score = r.get('oversold_score') or (score_value if score_type == "oversold" else None)
 
                 snapshot = IndicatorSnapshot(
                     date=date_str,
                     symbol=symbol,
                     close=close,
+                    # Momentum
                     rsi=rsi,
-                    bullish_score=bullish if score_type == "bullish" else None,
-                    reversal_score=reversal_score_val,
-                    oversold_score=None,
+                    stoch_k=r.get('stoch_k'),
+                    stoch_d=r.get('stoch_d'),
+                    williams_r=r.get('williams_r'),
+                    roc=r.get('roc'),
+                    # Trend
+                    macd=r.get('macd'),
+                    macd_signal=r.get('macd_signal'),
+                    macd_hist=r.get('macd_hist'),
+                    adx=r.get('adx'),
+                    # Moving averages
+                    sma_20=r.get('sma_20'),
+                    sma_50=r.get('sma_50'),
+                    sma_200=r.get('sma_200'),
+                    # Volatility
+                    bb_upper=r.get('bb_upper'),
+                    bb_lower=r.get('bb_lower'),
+                    bb_position=r.get('bb_position'),
+                    atr=r.get('atr'),
+                    # Volume
+                    volume=r.get('volume'),
+                    volume_ratio=r.get('volume_ratio'),
+                    obv=r.get('obv'),
+                    # Scores
+                    bullish_score=bullish_score,
+                    reversal_score=reversal_score,
+                    oversold_score=oversold_score,
                 )
                 snapshots.append(snapshot)
             else:

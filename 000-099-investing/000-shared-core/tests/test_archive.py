@@ -180,6 +180,38 @@ class TestArchiveDailyIndicators:
         result = archive_daily_indicators(results, score_type="reversal")
         assert result == 0
 
+    def test_list_dict_with_all_indicators(self):
+        """Test parsing list of dicts with full indicator data."""
+        results = [
+            {
+                "symbol": "AAPL",
+                "close": 150.0,
+                "rsi": 45.0,
+                "stoch_k": 30.0,
+                "stoch_d": 35.0,
+                "williams_r": -60.0,
+                "roc": 2.5,
+                "macd": 1.5,
+                "macd_signal": 1.2,
+                "macd_hist": 0.3,
+                "adx": 25.0,
+                "sma_20": 148.0,
+                "sma_50": 145.0,
+                "sma_200": 140.0,
+                "bb_upper": 155.0,
+                "bb_lower": 145.0,
+                "bb_position": 0.5,
+                "atr": 3.0,
+                "volume": 1000000,
+                "volume_ratio": 1.2,
+                "obv": 5000000,
+                "bullish_score": 7.5,
+            },
+        ]
+        # Should not raise, returns 0 when not configured
+        result = archive_daily_indicators(results, score_type="bullish")
+        assert result == 0
+
 
 class TestGetHistoricalData:
     """Tests for the get_historical_data convenience function."""
