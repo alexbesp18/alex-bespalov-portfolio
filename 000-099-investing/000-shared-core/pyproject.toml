@@ -28,6 +28,9 @@ dependencies = [
     
     # Transcripts
     "defeatbeta-api>=0.0.20",
+
+    # Database
+    "supabase>=2.0.0",
 ]
 
 [project.optional-dependencies]

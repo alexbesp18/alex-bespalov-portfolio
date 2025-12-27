@@ -12,6 +12,7 @@ from shared_core import (
     StateManager,
     ArchiveManager,
     Digest,
+    archive_daily_indicators,
 )
 
 from src.fetcher import TwelveDataFetcher
@@ -298,6 +299,14 @@ def main():
     # Update state regardless of whether we email
     state_manager.update_seen_triggers(state, triggered_items_for_state)
     state_manager.set_last_run(state, trigger_keys_fired_today)
+
+    # Archive to Supabase (non-blocking)
+    try:
+        archived = archive_daily_indicators(all_matrix_data, score_type="reversal")
+        if archived > 0:
+            logger.info(f"Archived {archived} indicators to Supabase")
+    except Exception as e:
+        logger.warning(f"Failed to archive to Supabase: {e}")
 
     # Notify (only on NEW triggers to prevent alert fatigue)
     if results:
