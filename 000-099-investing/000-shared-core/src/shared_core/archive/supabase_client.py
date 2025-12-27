@@ -328,14 +328,17 @@ def archive_daily_indicators(
         Number of records archived
     """
     if not results:
+        logger.info("archive_daily_indicators: No results to archive")
         return 0
 
     archiver = _get_archiver()
+    logger.info(f"archive_daily_indicators: archiver.is_configured={archiver.is_configured}")
     if not archiver.is_configured:
-        logger.debug("Supabase not configured, skipping archive")
+        logger.warning("Supabase not configured, skipping archive. Check SUPABASE_URL and SUPABASE_SERVICE_KEY env vars.")
         return 0
 
     date_str = (scan_date or date.today()).isoformat()
+    logger.info(f"archive_daily_indicators: Processing {len(results)} results for date {date_str}")
     snapshots = []
 
     for r in results:
@@ -402,6 +405,7 @@ def archive_daily_indicators(
         )
         snapshots.append(snapshot)
 
+    logger.info(f"archive_daily_indicators: Created {len(snapshots)} snapshots, calling archive_snapshots")
     return archiver.archive_snapshots(snapshots)
 
 
