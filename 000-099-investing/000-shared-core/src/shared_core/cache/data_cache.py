@@ -6,9 +6,12 @@ Each file is stamped with the fetch date to enable daily refresh logic.
 
 import json
 import datetime
+import logging
 from pathlib import Path
 from typing import Optional, Dict, Any, List
 import pandas as pd
+
+logger = logging.getLogger(__name__)
 
 
 class DataCache:
@@ -77,7 +80,13 @@ class DataCache:
             if self.verbose:
                 print(f"    📁 Cache hit: {ticker} ({len(df)} bars)")
             return df
-        except Exception as e:
+        except (json.JSONDecodeError, ValueError) as e:
+            logger.warning(f"Cache parse error for {ticker}: {e}")
+            if self.verbose:
+                print(f"    📁 Cache error: {ticker} ({e})")
+            return None
+        except OSError as e:
+            logger.warning(f"Cache read error for {ticker}: {e}")
             if self.verbose:
                 print(f"    📁 Cache error: {ticker} ({e})")
             return None
@@ -96,7 +105,12 @@ class DataCache:
             df.to_json(path, date_format='iso')
             if self.verbose:
                 print(f"    💾 Cached: {ticker} ({len(df)} bars)")
-        except Exception as e:
+        except OSError as e:
+            logger.error(f"Cache write failed for {ticker}: {e}")
+            if self.verbose:
+                print(f"    ⚠️  Cache save failed: {ticker} ({e})")
+        except (TypeError, ValueError) as e:
+            logger.error(f"Cache serialization failed for {ticker}: {e}")
             if self.verbose:
                 print(f"    ⚠️  Cache save failed: {ticker} ({e})")
 
@@ -127,7 +141,13 @@ class DataCache:
             if self.verbose:
                 print(f"    📁 Transcript cache hit: {ticker} ({data.get('Period', 'N/A')})")
             return data
-        except Exception as e:
+        except json.JSONDecodeError as e:
+            logger.warning(f"Transcript cache parse error for {ticker}: {e}")
+            if self.verbose:
+                print(f"    📁 Transcript cache error: {ticker} ({e})")
+            return None
+        except OSError as e:
+            logger.warning(f"Transcript cache read error for {ticker}: {e}")
             if self.verbose:
                 print(f"    📁 Transcript cache error: {ticker} ({e})")
             return None
@@ -147,7 +167,12 @@ class DataCache:
                 json.dump(data, f, indent=2, default=str)
             if self.verbose:
                 print(f"    💾 Transcript cached: {ticker}")
-        except Exception as e:
+        except OSError as e:
+            logger.error(f"Transcript cache write failed for {ticker}: {e}")
+            if self.verbose:
+                print(f"    ⚠️  Transcript cache save failed: {ticker} ({e})")
+        except (TypeError, ValueError) as e:
+            logger.error(f"Transcript serialization failed for {ticker}: {e}")
             if self.verbose:
                 print(f"    ⚠️  Transcript cache save failed: {ticker} ({e})")
 

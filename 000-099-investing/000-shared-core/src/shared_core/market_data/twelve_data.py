@@ -134,9 +134,13 @@ class TwelveDataClient:
             if self.verbose:
                 print(f"    ❌ Request timeout for {ticker}")
             return None
-        except Exception as e:
+        except requests.exceptions.RequestException as e:
             if self.verbose:
-                print(f"    ❌ Error fetching {ticker}: {str(e)[:50]}")
+                print(f"    ❌ Network error fetching {ticker}: {str(e)[:50]}")
+            return None
+        except (ValueError, KeyError, TypeError) as e:
+            if self.verbose:
+                print(f"    ❌ Data error fetching {ticker}: {str(e)[:50]}")
             return None
 
     def _calculate_indicators(self, ticker: str, df: pd.DataFrame) -> Dict[str, Any]:

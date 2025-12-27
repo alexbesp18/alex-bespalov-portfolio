@@ -151,8 +151,12 @@ class CacheAwareFetcher:
                 logger.info(f"📁 Using cached data for {symbol} ({len(result['values'])} rows)")
                 return result
 
-        except Exception as e:
-            logger.warning(f"Cache read error for {symbol}: {e}")
+        except json.JSONDecodeError as e:
+            logger.warning(f"Cache JSON parse error for {symbol}: {e}")
+        except OSError as e:
+            logger.warning(f"Cache file read error for {symbol}: {e}")
+        except (KeyError, TypeError) as e:
+            logger.warning(f"Cache data structure error for {symbol}: {e}")
 
         return None
 
@@ -254,8 +258,11 @@ class CacheAwareFetcher:
                 if i < total - 1:
                     time.sleep(self.rate_limit_delay)
 
-            except Exception as e:
-                logger.error(f"Failed to fetch {symbol}: {e}")
+            except requests.exceptions.RequestException as e:
+                logger.error(f"Network error fetching {symbol}: {e}")
+                results[symbol] = None
+            except (ValueError, KeyError, TypeError) as e:
+                logger.error(f"Data error fetching {symbol}: {e}")
                 results[symbol] = None
 
         logger.info(f"Completed: {cache_hits} from cache, {api_calls} from API")

@@ -244,8 +244,11 @@ class TriggerEngine:
                 logger.warning(f"Unknown trigger type: {t_type}")
                 return None
 
-        except Exception as e:
-            logger.warning(f"Error evaluating trigger {t_type}: {e}")
+        except KeyError as e:
+            logger.warning(f"Missing required field in trigger {t_type}: {e}")
+            return None
+        except (TypeError, ValueError) as e:
+            logger.warning(f"Invalid value in trigger {t_type}: {e}")
             return None
 
         if triggered:

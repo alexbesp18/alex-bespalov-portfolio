@@ -117,7 +117,7 @@ class LLMClient:
             if self.provider == "grok":
                 # Grok-4 uses a combined context window around 256k, keep output conservative
                 self.max_tokens = min(self.max_tokens or 0, 128000)
-        except Exception as e:
+        except (TypeError, ValueError, KeyError) as e:
             logger.warning(f"Error sanitizing caps: {e}")
 
     @retry(
@@ -169,7 +169,7 @@ class LLMClient:
                 )
                 if think_budget > 0:
                     thinking_arg = {"type": "enabled", "budget_tokens": think_budget}
-            except Exception:
+            except (TypeError, ValueError, KeyError):
                 thinking_arg = None
 
         kwargs = {
@@ -189,8 +189,8 @@ class LLMClient:
                     for text in stream_response.text_stream:
                         response_text += text
                 return response_text
-            except Exception:
-                pass
+            except (AttributeError, TypeError, RuntimeError) as e:
+                logger.debug(f"Streaming failed, falling back to non-streaming: {e}")
 
         kwargs["timeout"] = 600.0
         response = self.client.messages.create(**kwargs)
@@ -259,7 +259,8 @@ class LLMClient:
                     tools=["google_search"],
                     generation_config=gen_cfg,
                 )
-            except Exception:
+            except (TypeError, ValueError, AttributeError) as e:
+                logger.debug(f"Web search tool not available, falling back: {e}")
                 response = model.generate_content(prompt, generation_config=gen_cfg)
         else:
             response = model.generate_content(prompt, generation_config=gen_cfg)
@@ -278,7 +279,7 @@ class LLMClient:
                         txt = item.get("content", "")
                         parts.append(txt if isinstance(txt, str) else "")
                 return "\n".join([p for p in parts if p])
-        except Exception:
+        except (AttributeError, TypeError, KeyError):
             pass
         return ""
 
@@ -294,6 +295,6 @@ class LLMClient:
                             if hasattr(p, "text"):
                                 parts.append(p.text)
                 return "\n".join(parts)
-        except Exception:
+        except (AttributeError, TypeError):
             pass
         return ""
