@@ -202,6 +202,29 @@ def main():
         matrix['symbol'] = symbol
         matrix['theme'] = theme
         matrix['score'] = score
+
+        # Add full indicator data for Supabase archiving
+        curr = df.iloc[-1]
+        matrix['close'] = float(curr['close'])
+        matrix['rsi'] = float(curr.get('RSI')) if curr.get('RSI') is not None else None
+        matrix['stoch_k'] = float(curr.get('STOCH_K')) if curr.get('STOCH_K') is not None else None
+        matrix['stoch_d'] = float(curr.get('STOCH_D')) if curr.get('STOCH_D') is not None else None
+        matrix['williams_r'] = float(curr.get('WILLIAMS_R')) if curr.get('WILLIAMS_R') is not None else None
+        matrix['roc'] = float(curr.get('ROC')) if curr.get('ROC') is not None else None
+        matrix['macd'] = float(curr.get('MACD')) if curr.get('MACD') is not None else None
+        matrix['macd_signal'] = float(curr.get('MACD_SIGNAL')) if curr.get('MACD_SIGNAL') is not None else None
+        matrix['macd_hist'] = float(curr.get('MACD_HIST')) if curr.get('MACD_HIST') is not None else None
+        matrix['adx'] = float(curr.get('ADX')) if curr.get('ADX') is not None else None
+        matrix['sma_20'] = float(curr.get('SMA_20')) if curr.get('SMA_20') is not None else None
+        matrix['sma_50'] = float(curr.get('SMA_50')) if curr.get('SMA_50') is not None else None
+        matrix['sma_200'] = float(curr.get('SMA_200')) if curr.get('SMA_200') is not None else None
+        matrix['bb_upper'] = float(curr.get('BB_UPPER')) if curr.get('BB_UPPER') is not None else None
+        matrix['bb_lower'] = float(curr.get('BB_LOWER')) if curr.get('BB_LOWER') is not None else None
+        matrix['bb_position'] = float((curr['close'] - curr.get('BB_LOWER', 0)) / (curr.get('BB_UPPER', 1) - curr.get('BB_LOWER', 0))) if curr.get('BB_UPPER') and curr.get('BB_LOWER') and curr.get('BB_UPPER') != curr.get('BB_LOWER') else None
+        matrix['atr'] = float(curr.get('ATR')) if curr.get('ATR') is not None else None
+        matrix['volume'] = int(curr.get('volume')) if curr.get('volume') is not None else None
+        matrix['obv'] = int(curr.get('OBV')) if curr.get('OBV') is not None else None
+
         all_matrix_data.append(matrix)
         
         # Calculate Reversal Analysis

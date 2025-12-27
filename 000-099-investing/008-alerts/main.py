@@ -134,6 +134,7 @@ def main():
     all_signals = []
     no_signal_tickers = []
     new_state = {}
+    archive_data = []  # Full indicator data for Supabase
 
     for ticker in all_tickers:
         data = raw_data.get(ticker)
@@ -153,6 +154,28 @@ def main():
         # Compute flags
         flags = compute_flags(df, prev_state)
         new_state[ticker] = flags
+
+        # Collect full indicator data for archiving
+        curr = df.iloc[-1]
+        archive_data.append({
+            'symbol': ticker,
+            'close': float(curr['close']),
+            'rsi': float(curr.get('rsi')) if curr.get('rsi') is not None else None,
+            'stoch_k': None,  # Not computed in 008-alerts
+            'stoch_d': None,
+            'williams_r': None,
+            'roc': None,
+            'macd': float(curr.get('macd')) if curr.get('macd') is not None else None,
+            'macd_signal': float(curr.get('macd_signal')) if curr.get('macd_signal') is not None else None,
+            'macd_hist': float(curr.get('macd_hist')) if curr.get('macd_hist') is not None else None,
+            'adx': None,
+            'sma_20': float(curr.get('sma20')) if curr.get('sma20') is not None else None,
+            'sma_50': float(curr.get('sma50')) if curr.get('sma50') is not None else None,
+            'sma_200': float(curr.get('sma200')) if curr.get('sma200') is not None else None,
+            'volume': int(curr.get('volume')) if curr.get('volume') is not None else None,
+            'volume_ratio': float(curr.get('volume_ratio')) if curr.get('volume_ratio') is not None else None,
+            'bullish_score': flags.get('score'),
+        })
 
         # Determine signal mode:
         # - 'portfolio' if explicitly in portfolio.json (PORTFOLIO_SIGNALS only)
@@ -190,7 +213,7 @@ def main():
 
     # Archive to Supabase (non-blocking)
     try:
-        archived = archive_daily_indicators(new_state, score_type="bullish")
+        archived = archive_daily_indicators(archive_data, score_type="bullish")
         if archived > 0:
             logger.info(f"Archived {archived} indicators to Supabase")
     except Exception as e:

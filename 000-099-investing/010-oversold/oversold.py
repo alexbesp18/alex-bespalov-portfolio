@@ -265,7 +265,8 @@ class OversoldScanner:
         
         # Process each ticker
         results: List[TickerResult] = []
-        
+        archive_data = []  # Full indicator data for Supabase
+
         for ticker in tickers:
             data_ts = raw_data.get(ticker)
             if not data_ts:
@@ -293,6 +294,32 @@ class OversoldScanner:
                 price=score_result.raw_values.get("close", 0),
                 components=merged_components,
             ))
+
+            # Collect full indicator data for Supabase archiving
+            curr = df.iloc[-1]
+            archive_data.append({
+                'symbol': ticker,
+                'close': float(curr['close']),
+                'rsi': float(curr.get('RSI')) if curr.get('RSI') is not None else None,
+                'stoch_k': float(curr.get('STOCH_K')) if curr.get('STOCH_K') is not None else None,
+                'stoch_d': float(curr.get('STOCH_D')) if curr.get('STOCH_D') is not None else None,
+                'williams_r': float(curr.get('WILLIAMS_R')) if curr.get('WILLIAMS_R') is not None else None,
+                'roc': float(curr.get('ROC')) if curr.get('ROC') is not None else None,
+                'macd': float(curr.get('MACD')) if curr.get('MACD') is not None else None,
+                'macd_signal': float(curr.get('MACD_SIGNAL')) if curr.get('MACD_SIGNAL') is not None else None,
+                'macd_hist': float(curr.get('MACD_HIST')) if curr.get('MACD_HIST') is not None else None,
+                'adx': float(curr.get('ADX')) if curr.get('ADX') is not None else None,
+                'sma_20': float(curr.get('SMA_20')) if curr.get('SMA_20') is not None else None,
+                'sma_50': float(curr.get('SMA_50')) if curr.get('SMA_50') is not None else None,
+                'sma_200': float(curr.get('SMA_200')) if curr.get('SMA_200') is not None else None,
+                'bb_upper': float(curr.get('BB_UPPER')) if curr.get('BB_UPPER') is not None else None,
+                'bb_lower': float(curr.get('BB_LOWER')) if curr.get('BB_LOWER') is not None else None,
+                'bb_position': float((curr['close'] - curr.get('BB_LOWER', 0)) / (curr.get('BB_UPPER', 1) - curr.get('BB_LOWER', 0))) if curr.get('BB_UPPER') and curr.get('BB_LOWER') and curr.get('BB_UPPER') != curr.get('BB_LOWER') else None,
+                'atr': float(curr.get('ATR')) if curr.get('ATR') is not None else None,
+                'volume': int(curr.get('volume')) if curr.get('volume') is not None else None,
+                'obv': int(curr.get('OBV')) if curr.get('OBV') is not None else None,
+                'oversold_score': score_result.final_score,
+            })
         
         # Sort by score (descending — higher = more oversold)
         results.sort(key=lambda x: x.score, reverse=True)
@@ -301,7 +328,7 @@ class OversoldScanner:
 
         # Archive to Supabase (non-blocking)
         try:
-            archived = archive_daily_indicators(results, score_type="oversold")
+            archived = archive_daily_indicators(archive_data, score_type="oversold")
             if archived > 0:
                 self.logger.info(f"Archived {archived} indicators to Supabase")
         except Exception as e:
