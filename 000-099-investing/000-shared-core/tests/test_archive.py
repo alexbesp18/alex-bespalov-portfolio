@@ -82,12 +82,11 @@ class TestIndicatorSnapshot:
             bullish_score=7.5,
             reversal_score=6.0,
             oversold_score=5.0,
-            action="BUY",
         )
         d = snapshot.to_dict()
         assert d["williams_r"] == -60.0
         assert d["adx"] == 25.0
-        assert d["action"] == "BUY"
+        assert d["oversold_score"] == 5.0
 
 
 class TestSupabaseArchiver:
