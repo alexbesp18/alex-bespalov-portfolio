@@ -6,12 +6,40 @@ backtesting, and pattern recognition.
 """
 
 import logging
+import math
 import os
 from dataclasses import dataclass
 from datetime import date
 from typing import Any, Dict, List, Optional
 
 logger = logging.getLogger(__name__)
+
+
+_sanitize_count = 0  # Track how many values were sanitized
+
+
+def _sanitize_float(value: Any) -> Any:
+    """
+    Sanitize float values for JSON serialization.
+
+    Replaces inf, -inf, and NaN with None since JSON doesn't support these.
+    """
+    global _sanitize_count
+    if value is None:
+        return None
+    if isinstance(value, float):
+        if math.isnan(value) or math.isinf(value):
+            _sanitize_count += 1
+            return None
+    return value
+
+
+def _reset_sanitize_count() -> int:
+    """Reset and return the sanitize count."""
+    global _sanitize_count
+    count = _sanitize_count
+    _sanitize_count = 0
+    return count
 
 
 @dataclass
@@ -51,33 +79,36 @@ class IndicatorSnapshot:
     action: Optional[str] = None
 
     def to_dict(self) -> Dict[str, Any]:
-        """Convert to dictionary for Supabase insert."""
+        """Convert to dictionary for Supabase insert.
+
+        Sanitizes float values to replace inf/nan with None for JSON compatibility.
+        """
         return {
             "date": self.date,
             "symbol": self.symbol,
-            "close": self.close,
-            "rsi": self.rsi,
-            "stoch_k": self.stoch_k,
-            "stoch_d": self.stoch_d,
-            "williams_r": self.williams_r,
-            "roc": self.roc,
-            "macd": self.macd,
-            "macd_signal": self.macd_signal,
-            "macd_hist": self.macd_hist,
-            "adx": self.adx,
-            "sma_20": self.sma_20,
-            "sma_50": self.sma_50,
-            "sma_200": self.sma_200,
-            "bb_upper": self.bb_upper,
-            "bb_lower": self.bb_lower,
-            "bb_position": self.bb_position,
-            "atr": self.atr,
-            "volume": self.volume,
-            "volume_ratio": self.volume_ratio,
-            "obv": self.obv,
-            "bullish_score": self.bullish_score,
-            "reversal_score": self.reversal_score,
-            "oversold_score": self.oversold_score,
+            "close": _sanitize_float(self.close),
+            "rsi": _sanitize_float(self.rsi),
+            "stoch_k": _sanitize_float(self.stoch_k),
+            "stoch_d": _sanitize_float(self.stoch_d),
+            "williams_r": _sanitize_float(self.williams_r),
+            "roc": _sanitize_float(self.roc),
+            "macd": _sanitize_float(self.macd),
+            "macd_signal": _sanitize_float(self.macd_signal),
+            "macd_hist": _sanitize_float(self.macd_hist),
+            "adx": _sanitize_float(self.adx),
+            "sma_20": _sanitize_float(self.sma_20),
+            "sma_50": _sanitize_float(self.sma_50),
+            "sma_200": _sanitize_float(self.sma_200),
+            "bb_upper": _sanitize_float(self.bb_upper),
+            "bb_lower": _sanitize_float(self.bb_lower),
+            "bb_position": _sanitize_float(self.bb_position),
+            "atr": _sanitize_float(self.atr),
+            "volume": self.volume,  # int, not float
+            "volume_ratio": _sanitize_float(self.volume_ratio),
+            "obv": self.obv,  # int, not float
+            "bullish_score": _sanitize_float(self.bullish_score),
+            "reversal_score": _sanitize_float(self.reversal_score),
+            "oversold_score": _sanitize_float(self.oversold_score),
             "action": self.action,
         }
 
@@ -157,7 +188,11 @@ class SupabaseArchiver:
             logger.debug("Supabase not configured, skipping archive")
             return 0
 
+        _reset_sanitize_count()  # Reset before converting
         records = [s.to_dict() for s in snapshots]
+        sanitized = _reset_sanitize_count()
+        if sanitized > 0:
+            logger.info(f"DEBUG: Sanitized {sanitized} inf/nan values to None for JSON compatibility")
 
         try:
             # Upsert in batches of 500 to avoid payload limits
