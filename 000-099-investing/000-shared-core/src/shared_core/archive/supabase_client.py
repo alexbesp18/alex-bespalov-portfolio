@@ -347,6 +347,38 @@ class SupabaseArchiver:
             logger.error(f"Failed to fetch latest scores: {e}")
             return []
 
+    def delete_date(self, target_date: str) -> int:
+        """
+        Delete all daily indicator records for a specific date.
+
+        Useful for re-runs to ensure clean data (though upsert handles this too).
+
+        Args:
+            target_date: Date string in YYYY-MM-DD format
+
+        Returns:
+            Number of records deleted
+        """
+        if not self.is_configured:
+            return 0
+
+        try:
+            result = (
+                self.client
+                .table("daily_indicators")
+                .delete()
+                .eq("date", target_date)
+                .execute()
+            )
+
+            deleted = len(result.data) if result.data else 0
+            logger.info(f"Deleted {deleted} daily records for {target_date}")
+            return deleted
+
+        except Exception as e:
+            logger.error(f"Failed to delete data for {target_date}: {e}")
+            return 0
+
 
 # Module-level convenience functions
 
@@ -505,3 +537,21 @@ def get_historical_data(
     """
     archiver = _get_archiver()
     return archiver.get_history(symbol, limit=days)
+
+
+def delete_daily_data(target_date: Optional[date] = None) -> int:
+    """
+    Delete all daily indicator records for a specific date.
+
+    Useful for re-runs when you want to clear existing data first.
+    Note: upsert already handles this, so this is optional.
+
+    Args:
+        target_date: Date to delete (defaults to today)
+
+    Returns:
+        Number of records deleted
+    """
+    archiver = _get_archiver()
+    date_str = (target_date or date.today()).isoformat()
+    return archiver.delete_date(date_str)
