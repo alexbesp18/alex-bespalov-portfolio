@@ -71,6 +71,14 @@ __all__ = [
     'Watchlist',
     'ScanConfig',
     'OutputFormat',
+    # Validators
+    'ValidationError',
+    'validate_ticker',
+    'validate_tickers',
+    'validate_date',
+    'validate_api_key',
+    'validate_positive_number',
+    'validate_range',
 ]
 
 
@@ -214,4 +222,26 @@ def __getattr__(name):
     elif name == 'OutputFormat':
         from .models.config import OutputFormat
         return OutputFormat
+    # Validators
+    elif name == 'ValidationError':
+        from .validators import ValidationError
+        return ValidationError
+    elif name == 'validate_ticker':
+        from .validators import validate_ticker
+        return validate_ticker
+    elif name == 'validate_tickers':
+        from .validators import validate_tickers
+        return validate_tickers
+    elif name == 'validate_date':
+        from .validators import validate_date
+        return validate_date
+    elif name == 'validate_api_key':
+        from .validators import validate_api_key
+        return validate_api_key
+    elif name == 'validate_positive_number':
+        from .validators import validate_positive_number
+        return validate_positive_number
+    elif name == 'validate_range':
+        from .validators import validate_range
+        return validate_range
     raise AttributeError(f"module 'shared_core' has no attribute '{name}'")

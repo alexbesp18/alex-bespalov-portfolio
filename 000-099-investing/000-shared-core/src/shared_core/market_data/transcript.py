@@ -6,6 +6,7 @@ Fetches the latest earnings call transcript for each ticker.
 import json
 import datetime as dt
 import pandas as pd
+import requests
 from typing import Dict, List, Optional, Any
 
 from ..cache.data_cache import DataCache
@@ -67,7 +68,7 @@ class TranscriptClient:
                     return self._normalize_text(obj[k])
             try:
                 return json.dumps(obj, ensure_ascii=False, indent=2)
-            except Exception:
+            except (TypeError, ValueError):
                 return str(obj)
         return str(obj)
 
@@ -91,7 +92,7 @@ class TranscriptClient:
 
             try:
                 df = pd.DataFrame(df_list)
-            except Exception:
+            except (ValueError, TypeError):
                 df = df_list if isinstance(df_list, pd.DataFrame) else pd.DataFrame(df_list)
 
             if df.empty:
@@ -126,7 +127,7 @@ class TranscriptClient:
             # Extract text
             try:
                 tdf = pd.DataFrame(tx)
-            except Exception:
+            except (ValueError, TypeError):
                 tdf = tx if isinstance(tx, pd.DataFrame) else pd.DataFrame(tx)
 
             if not tdf.empty and 'content' in tdf.columns:
@@ -165,9 +166,13 @@ class TranscriptClient:
                 'Full_Text': text
             }
 
-        except Exception as e:
+        except (AttributeError, KeyError, ValueError, TypeError) as e:
             if self.verbose:
                 print(f"    ❌ Error: {e}")
+            return {'Ticker': ticker, 'Status': f"ERROR: {str(e)[:50]}"}
+        except requests.exceptions.RequestException as e:
+            if self.verbose:
+                print(f"    ❌ Network error: {e}")
             return {'Ticker': ticker, 'Status': f"ERROR: {str(e)[:50]}"}
 
     def fetch_transcript(self, ticker: str,
@@ -241,6 +246,6 @@ class TranscriptClient:
         try:
             date = dt.datetime.strptime(earnings_date, '%Y-%m-%d').date()
             return (dt.date.today() - date).days
-        except Exception:
+        except (ValueError, TypeError):
             return None
 

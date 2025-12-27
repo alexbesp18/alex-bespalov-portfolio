@@ -150,8 +150,11 @@ class ResendEmailClient:
             logger.info(f"Email sent: {subject}")
             return True
 
-        except Exception as e:
+        except (RuntimeError, ValueError, TypeError) as e:
             logger.error(f"Failed to send email: {e}")
+            return False
+        except ImportError as e:
+            logger.error(f"Resend library error: {e}")
             return False
 
     def send_plain(

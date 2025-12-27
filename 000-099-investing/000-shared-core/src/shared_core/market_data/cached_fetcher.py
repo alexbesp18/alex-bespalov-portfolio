@@ -22,11 +22,9 @@ from pathlib import Path
 from typing import Dict, List, Any, Optional
 from tenacity import retry, stop_after_attempt, wait_exponential
 
-logger = logging.getLogger(__name__)
+from shared_core.config.constants import RATE_LIMITS, CACHE_CONFIG
 
-# Default rate limit for Twelve Data free tier
-DEFAULT_RATE_LIMIT = 8  # requests per minute
-DEFAULT_DELAY = 60 / DEFAULT_RATE_LIMIT  # 7.5 seconds between calls
+logger = logging.getLogger(__name__)
 
 
 class CacheAwareFetcher:
@@ -41,8 +39,8 @@ class CacheAwareFetcher:
         self,
         api_key: str,
         cache_dir: Optional[Path] = None,
-        rate_limit_delay: float = DEFAULT_DELAY,
-        output_size: int = 365,
+        rate_limit_delay: float = RATE_LIMITS.TWELVE_DATA_DEFAULT_DELAY,
+        output_size: int = CACHE_CONFIG.DEFAULT_OUTPUT_SIZE,
     ):
         """
         Initialize the cache-aware fetcher.
@@ -151,8 +149,12 @@ class CacheAwareFetcher:
                 logger.info(f"📁 Using cached data for {symbol} ({len(result['values'])} rows)")
                 return result
 
-        except Exception as e:
-            logger.warning(f"Cache read error for {symbol}: {e}")
+        except json.JSONDecodeError as e:
+            logger.warning(f"Cache JSON parse error for {symbol}: {e}")
+        except OSError as e:
+            logger.warning(f"Cache file read error for {symbol}: {e}")
+        except (KeyError, TypeError) as e:
+            logger.warning(f"Cache data structure error for {symbol}: {e}")
 
         return None
 
@@ -254,8 +256,11 @@ class CacheAwareFetcher:
                 if i < total - 1:
                     time.sleep(self.rate_limit_delay)
 
-            except Exception as e:
-                logger.error(f"Failed to fetch {symbol}: {e}")
+            except requests.exceptions.RequestException as e:
+                logger.error(f"Network error fetching {symbol}: {e}")
+                results[symbol] = None
+            except (ValueError, KeyError, TypeError) as e:
+                logger.error(f"Data error fetching {symbol}: {e}")
                 results[symbol] = None
 
         logger.info(f"Completed: {cache_hits} from cache, {api_calls} from API")

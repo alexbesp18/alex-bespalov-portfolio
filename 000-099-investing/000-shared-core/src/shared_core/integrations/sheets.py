@@ -3,10 +3,13 @@ Google Sheets manager with row replacement support.
 Handles reading tickers and writing data back to sheets.
 """
 
+import logging
 from typing import Dict, List, Any
 
 import gspread
 from google.oauth2.service_account import Credentials
+
+logger = logging.getLogger(__name__)
 
 
 class SheetManager:
@@ -130,7 +133,13 @@ class SheetManager:
 
         try:
             records = sheet.get_all_records()
-        except Exception as e:
+        except gspread.exceptions.APIError as e:
+            logger.warning(f"Google Sheets API error reading data: {e}")
+            if self.verbose:
+                print(f"    ⚠️  Error reading existing data: {e}")
+            return {}
+        except (ValueError, KeyError) as e:
+            logger.warning(f"Error parsing sheet data: {e}")
             if self.verbose:
                 print(f"    ⚠️  Error reading existing data: {e}")
             return {}
@@ -355,7 +364,12 @@ class SheetManager:
             if self.verbose:
                 print(f"   🎨 Applied conditional formatting to {tab_name}")
 
-        except Exception as e:
+        except gspread.exceptions.APIError as e:
+            logger.warning(f"Google Sheets API error applying formatting: {e}")
+            if self.verbose:
+                print(f"   ⚠️  Could not apply formatting: {e}")
+        except (ValueError, KeyError) as e:
+            logger.warning(f"Error in formatting request: {e}")
             if self.verbose:
                 print(f"   ⚠️  Could not apply formatting: {e}")
 

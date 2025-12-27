@@ -56,7 +56,7 @@ def check_time_guard(
             return False
         return True
 
-    except Exception as e:
+    except (ValueError, KeyError, OSError) as e:
         logger.warning(f"Time guard check failed (tz={timezone_name}): {e}. Allowing execution.")
         return True
 
@@ -86,6 +86,6 @@ def is_market_hours(timezone_name: str = "America/New_York") -> bool:
 
         return market_open <= now <= market_close
 
-    except Exception:
+    except (ValueError, KeyError, OSError):
         return False
 

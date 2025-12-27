@@ -47,7 +47,8 @@ def parse_iso_datetime(value: str) -> Optional[datetime]:
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt
-    except Exception:
+    except (ValueError, TypeError) as e:
+        logger.debug(f"Failed to parse ISO datetime '{value}': {e}")
         return None
 
 
@@ -66,8 +67,11 @@ def safe_read_json(path: str) -> Optional[Dict[str, Any]]:
             return None
         with open(path, "r") as f:
             return json.load(f)
-    except Exception as e:
-        logger.warning(f"Failed to read JSON at {path}: {e}")
+    except json.JSONDecodeError as e:
+        logger.warning(f"Failed to parse JSON at {path}: {e}")
+        return None
+    except OSError as e:
+        logger.warning(f"Failed to read file at {path}: {e}")
         return None
 
 
