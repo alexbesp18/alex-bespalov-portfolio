@@ -161,6 +161,8 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: |
           cd 000-099-investing/008-alerts
           python main.py
@@ -207,6 +209,8 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: |
           cd 000-099-investing/009-reversals
           python reversals.py
@@ -253,6 +257,8 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: |
           cd 000-099-investing/010-oversold
           python oversold.py --all --top 20 --email

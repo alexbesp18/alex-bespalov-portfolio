@@ -31,6 +31,7 @@ from src import (
     Watchlist,
     OutputFormat,
 )
+from shared_core import archive_daily_indicators
 
 
 # =============================================================================
@@ -295,8 +296,17 @@ class OversoldScanner:
         
         # Sort by score (descending — higher = more oversold)
         results.sort(key=lambda x: x.score, reverse=True)
-        
+
         self.logger.info(f"Scan complete. Processed {len(results)} tickers.")
+
+        # Archive to Supabase (non-blocking)
+        try:
+            archived = archive_daily_indicators(results, score_type="oversold")
+            if archived > 0:
+                self.logger.info(f"Archived {archived} indicators to Supabase")
+        except Exception as e:
+            self.logger.warning(f"Failed to archive to Supabase: {e}")
+
         return results
 
 
