@@ -10,6 +10,13 @@ Usage:
     python scripts/channel_monitor.py --dry-run    # Show what would be added
 """
 
+# Load .env file if present
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  # dotenv not required for channel monitor
+
 import argparse
 import json
 import logging

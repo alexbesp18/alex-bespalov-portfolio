@@ -48,6 +48,7 @@ on:
 
 env:
   OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # For Whisper transcription fallback
   RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
   SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
   NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
@@ -145,11 +146,18 @@ jobs:
       
       - name: Process single video (manual trigger)
         if: inputs.video_url
+        continue-on-error: true  # Don't fail workflow if video has no transcript
         run: |
           args="--url '${{ inputs.video_url }}'"
           [ "${{ inputs.enrich_ideas }}" = "true" ] && args="$args --enrich-ideas"
           [ "${{ inputs.all_lenses }}" = "true" ] && args="$args --all-lenses"
-          eval "python scripts/process_queue.py $args"
+          eval "python scripts/process_queue.py $args" 2>&1 | tee processing.log
+          
+          # Check if it was a transcript error (less critical than other errors)
+          if grep -q "transcription strategies failed" processing.log; then
+            echo "⚠️ Video has no available transcript (captions may be disabled)"
+            echo "video_skipped=true" >> $GITHUB_OUTPUT
+          fi
       
       - name: Process queue
         id: process

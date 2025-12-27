@@ -15,6 +15,10 @@ Usage:
 import argparse
 import logging
 import os
+
+# Load .env file if present
+from dotenv import load_dotenv
+load_dotenv()
 import sys
 import tempfile
 import unicodedata
@@ -121,9 +125,10 @@ def load_queue() -> Dict[str, Any]:
     with open(QUEUE_FILE, "r") as f:
         data = yaml.safe_load(f) or {}
     
+    # Use `or []` to handle null/None values in YAML
     return {
-        "videos": data.get("videos", []),
-        "processed": data.get("processed", []),
+        "videos": data.get("videos") or [],
+        "processed": data.get("processed") or [],
     }
 
 
