@@ -140,7 +140,7 @@ class WhisperAPIStrategy(TranscriptionStrategy):
         with tempfile.TemporaryDirectory() as tmpdir:
             audio_path = Path(tmpdir) / "audio"
             
-            # Download audio as MP3
+            # Download audio as MP3 with bot-detection bypass options
             ydl_opts = {
                 "format": "bestaudio/best",
                 "postprocessors": [{
@@ -151,6 +151,17 @@ class WhisperAPIStrategy(TranscriptionStrategy):
                 "outtmpl": str(audio_path),
                 "quiet": True,
                 "no_warnings": True,
+                # Bot detection bypass options
+                "extractor_args": {
+                    "youtube": {
+                        "player_client": ["android", "web"],  # Try Android client first
+                    }
+                },
+                "http_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                },
+                "sleep_interval": 1,  # Small delay between requests
+                "max_sleep_interval": 3,
             }
             
             logger.info(f"Downloading audio for {video_id}...")

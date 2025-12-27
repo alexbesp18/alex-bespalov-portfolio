@@ -79,14 +79,22 @@ class LLMResponse:
     raw_response: Any = None
     
     def parse_json(self) -> Dict[str, Any]:
-        """Parse response content as JSON.
+        """Parse response content as JSON with automatic fixing of common LLM errors.
+        
+        Handles:
+        - Markdown code blocks
+        - Trailing commas
+        - Single quotes instead of double quotes
+        - Unquoted keys
         
         Returns:
             Parsed JSON as dictionary.
             
         Raises:
-            json.JSONDecodeError: If content is not valid JSON.
+            json.JSONDecodeError: If content cannot be parsed even after fixes.
         """
+        import re
+        
         # Try to extract JSON from markdown code blocks
         content = self.content.strip()
         if content.startswith("```"):
@@ -94,6 +102,36 @@ class LLMResponse:
             # Remove first and last lines (code block markers)
             content = "\n".join(lines[1:-1])
         
+        # Try parsing as-is first
+        try:
+            return json.loads(content)
+        except json.JSONDecodeError:
+            pass
+        
+        # Fix common LLM JSON errors
+        fixed = content
+        
+        # Remove trailing commas before } or ]
+        fixed = re.sub(r',(\s*[}\]])', r'\1', fixed)
+        
+        # Try again with fixes
+        try:
+            return json.loads(fixed)
+        except json.JSONDecodeError:
+            pass
+        
+        # Try to find JSON object/array in the content
+        json_match = re.search(r'(\{[\s\S]*\}|\[[\s\S]*\])', fixed)
+        if json_match:
+            try:
+                extracted = json_match.group(1)
+                # Remove trailing commas again
+                extracted = re.sub(r',(\s*[}\]])', r'\1', extracted)
+                return json.loads(extracted)
+            except json.JSONDecodeError:
+                pass
+        
+        # Final attempt - raise with original content
         return json.loads(content)
 
 

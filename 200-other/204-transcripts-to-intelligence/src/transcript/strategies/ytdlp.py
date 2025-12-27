@@ -51,6 +51,18 @@ class YtdlpStrategy(TranscriptionStrategy):
     method = TranscriptionMethod.YTDLP
     priority = 2  # Try second
     
+    # Bot detection bypass options for yt-dlp
+    YDL_BOT_BYPASS = {
+        "extractor_args": {
+            "youtube": {
+                "player_client": ["android", "web"],  # Try Android client first
+            }
+        },
+        "http_headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        },
+    }
+    
     def is_available(self, video_id: str) -> bool:
         """
         Check if yt-dlp can extract subtitles for this video.
@@ -72,6 +84,7 @@ class YtdlpStrategy(TranscriptionStrategy):
                 "writeautomaticsub": True,
                 "quiet": True,
                 "no_warnings": True,
+                **self.YDL_BOT_BYPASS,
             }
             
             with yt_dlp.YoutubeDL(ydl_opts) as ydl:
@@ -120,6 +133,7 @@ class YtdlpStrategy(TranscriptionStrategy):
                 "outtmpl": output_template,
                 "quiet": True,
                 "no_warnings": True,
+                **self.YDL_BOT_BYPASS,
             }
             
             try:
