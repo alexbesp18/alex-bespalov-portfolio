@@ -77,6 +77,9 @@ class IndicatorSnapshot:
     reversal_score: Optional[float] = None
     oversold_score: Optional[float] = None
     action: Optional[str] = None
+    # AI Analysis (from Grok)
+    bullish_reason: Optional[str] = None
+    tech_summary: Optional[str] = None
 
     def to_dict(self) -> Dict[str, Any]:
         """Convert to dictionary for Supabase insert.
@@ -116,6 +119,8 @@ class IndicatorSnapshot:
             ("reversal_score", _sanitize_float(self.reversal_score)),
             ("oversold_score", _sanitize_float(self.oversold_score)),
             ("action", self.action),
+            ("bullish_reason", self.bullish_reason),
+            ("tech_summary", self.tech_summary),
         ]
 
         for key, value in fields:
@@ -473,6 +478,10 @@ def archive_daily_indicators(
             bullish_score=bullish_score,
             reversal_score=reversal_score,
             oversold_score=oversold_score,
+            action=r.get('action'),
+            # AI Analysis
+            bullish_reason=r.get('bullish_reason'),
+            tech_summary=r.get('tech_summary'),
         )
         snapshots.append(snapshot)
 
