@@ -11,6 +11,7 @@ from .supabase_client import (
     SupabaseArchiver,
     archive_daily_indicators,
     get_historical_data,
+    delete_daily_data,
 )
 
 from .aggregator import (
@@ -23,6 +24,7 @@ __all__ = [
     'SupabaseArchiver',
     'archive_daily_indicators',
     'get_historical_data',
+    'delete_daily_data',
     # Monthly aggregation
     'MonthlyAggregator',
     'run_monthly_aggregation',

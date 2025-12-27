@@ -17,31 +17,27 @@ logger = logging.getLogger(__name__)
 @dataclass
 class MonthlyAggregate:
     """Monthly summary statistics for one ticker."""
-    month: str  # YYYY-MM format
+    month: str  # YYYY-MM-01 format (first day of month)
     symbol: str
     # Price stats
     open_price: float
     close_price: float
     high_price: float
     low_price: float
-    avg_price: float
-    # Indicator averages
+    monthly_return: Optional[float] = None  # Percentage return for the month
+    # RSI stats
     avg_rsi: Optional[float] = None
     min_rsi: Optional[float] = None
     max_rsi: Optional[float] = None
-    avg_stoch_k: Optional[float] = None
-    avg_williams_r: Optional[float] = None
-    avg_macd: Optional[float] = None
-    avg_adx: Optional[float] = None
+    days_oversold: int = 0  # Days with RSI < 30
+    days_overbought: int = 0  # Days with RSI > 70
     # Score stats
     avg_bullish_score: Optional[float] = None
-    max_bullish_score: Optional[float] = None
     avg_reversal_score: Optional[float] = None
-    max_reversal_score: Optional[float] = None
     avg_oversold_score: Optional[float] = None
-    max_oversold_score: Optional[float] = None
-    # Metadata
-    trading_days: int = 0
+    # Signal counts
+    buy_signals: int = 0
+    sell_signals: int = 0
 
     def to_dict(self) -> Dict[str, Any]:
         """Convert to dictionary for Supabase insert."""
@@ -52,21 +48,17 @@ class MonthlyAggregate:
             "close_price": self.close_price,
             "high_price": self.high_price,
             "low_price": self.low_price,
-            "avg_price": self.avg_price,
+            "monthly_return": self.monthly_return,
             "avg_rsi": self.avg_rsi,
             "min_rsi": self.min_rsi,
             "max_rsi": self.max_rsi,
-            "avg_stoch_k": self.avg_stoch_k,
-            "avg_williams_r": self.avg_williams_r,
-            "avg_macd": self.avg_macd,
-            "avg_adx": self.avg_adx,
+            "days_oversold": self.days_oversold,
+            "days_overbought": self.days_overbought,
             "avg_bullish_score": self.avg_bullish_score,
-            "max_bullish_score": self.max_bullish_score,
             "avg_reversal_score": self.avg_reversal_score,
-            "max_reversal_score": self.max_reversal_score,
             "avg_oversold_score": self.avg_oversold_score,
-            "max_oversold_score": self.max_oversold_score,
-            "trading_days": self.trading_days,
+            "buy_signals": self.buy_signals,
+            "sell_signals": self.sell_signals,
         }
 
 
@@ -263,48 +255,59 @@ class MonthlyAggregator:
 
         def safe_avg(values: List) -> Optional[float]:
             valid = [v for v in values if v is not None]
-            return sum(valid) / len(valid) if valid else None
+            return round(sum(valid) / len(valid), 2) if valid else None
 
         def safe_min(values: List) -> Optional[float]:
             valid = [v for v in values if v is not None]
-            return min(valid) if valid else None
+            return round(min(valid), 2) if valid else None
 
         def safe_max(values: List) -> Optional[float]:
             valid = [v for v in values if v is not None]
-            return max(valid) if valid else None
+            return round(max(valid), 2) if valid else None
 
         # Extract indicator values
         rsi_vals = [r.get('rsi') for r in rows]
-        stoch_vals = [r.get('stoch_k') for r in rows]
-        williams_vals = [r.get('williams_r') for r in rows]
-        macd_vals = [r.get('macd') for r in rows]
-        adx_vals = [r.get('adx') for r in rows]
         bullish_vals = [r.get('bullish_score') for r in rows]
         reversal_vals = [r.get('reversal_score') for r in rows]
         oversold_vals = [r.get('oversold_score') for r in rows]
+        actions = [r.get('action') for r in rows if r.get('action')]
+
+        # Calculate RSI-based counts
+        days_oversold = sum(1 for rsi in rsi_vals if rsi is not None and rsi < 30)
+        days_overbought = sum(1 for rsi in rsi_vals if rsi is not None and rsi > 70)
+
+        # Count buy/sell signals
+        buy_signals = sum(1 for a in actions if a and 'BUY' in a.upper())
+        sell_signals = sum(1 for a in actions if a and 'SELL' in a.upper())
+
+        # Calculate monthly return
+        open_price = closes[0] if closes else 0
+        close_price = closes[-1] if closes else 0
+        monthly_return = None
+        if open_price and open_price > 0:
+            monthly_return = round(((close_price - open_price) / open_price) * 100, 4)
+
+        # Month format should be YYYY-MM-01 for the table
+        month_date = f"{month}-01"
 
         return MonthlyAggregate(
-            month=month,
+            month=month_date,
             symbol=symbol,
-            open_price=closes[0] if closes else 0,
-            close_price=closes[-1] if closes else 0,
-            high_price=safe_max(closes) or 0,
-            low_price=safe_min(closes) or 0,
-            avg_price=safe_avg(closes) or 0,
+            open_price=round(open_price, 4) if open_price else 0,
+            close_price=round(close_price, 4) if close_price else 0,
+            high_price=round(safe_max(closes) or 0, 4),
+            low_price=round(safe_min(closes) or 0, 4),
+            monthly_return=monthly_return,
             avg_rsi=safe_avg(rsi_vals),
             min_rsi=safe_min(rsi_vals),
             max_rsi=safe_max(rsi_vals),
-            avg_stoch_k=safe_avg(stoch_vals),
-            avg_williams_r=safe_avg(williams_vals),
-            avg_macd=safe_avg(macd_vals),
-            avg_adx=safe_avg(adx_vals),
+            days_oversold=days_oversold,
+            days_overbought=days_overbought,
             avg_bullish_score=safe_avg(bullish_vals),
-            max_bullish_score=safe_max(bullish_vals),
             avg_reversal_score=safe_avg(reversal_vals),
-            max_reversal_score=safe_max(reversal_vals),
             avg_oversold_score=safe_avg(oversold_vals),
-            max_oversold_score=safe_max(oversold_vals),
-            trading_days=len(rows),
+            buy_signals=buy_signals,
+            sell_signals=sell_signals,
         )
 
     def cleanup_old_daily(self, month: str) -> int:

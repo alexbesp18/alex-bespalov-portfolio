@@ -77,40 +77,57 @@ class IndicatorSnapshot:
     reversal_score: Optional[float] = None
     oversold_score: Optional[float] = None
     action: Optional[str] = None
+    # AI Analysis (from Grok)
+    bullish_reason: Optional[str] = None
+    tech_summary: Optional[str] = None
 
     def to_dict(self) -> Dict[str, Any]:
         """Convert to dictionary for Supabase insert.
 
         Sanitizes float values to replace inf/nan with None for JSON compatibility.
+        Only includes non-None values to avoid overwriting existing data on upsert.
         """
-        return {
+        result = {
             "date": self.date,
             "symbol": self.symbol,
-            "close": _sanitize_float(self.close),
-            "rsi": _sanitize_float(self.rsi),
-            "stoch_k": _sanitize_float(self.stoch_k),
-            "stoch_d": _sanitize_float(self.stoch_d),
-            "williams_r": _sanitize_float(self.williams_r),
-            "roc": _sanitize_float(self.roc),
-            "macd": _sanitize_float(self.macd),
-            "macd_signal": _sanitize_float(self.macd_signal),
-            "macd_hist": _sanitize_float(self.macd_hist),
-            "adx": _sanitize_float(self.adx),
-            "sma_20": _sanitize_float(self.sma_20),
-            "sma_50": _sanitize_float(self.sma_50),
-            "sma_200": _sanitize_float(self.sma_200),
-            "bb_upper": _sanitize_float(self.bb_upper),
-            "bb_lower": _sanitize_float(self.bb_lower),
-            "bb_position": _sanitize_float(self.bb_position),
-            "atr": _sanitize_float(self.atr),
-            "volume": self.volume,  # int, not float
-            "volume_ratio": _sanitize_float(self.volume_ratio),
-            "obv": self.obv,  # int, not float
-            "bullish_score": _sanitize_float(self.bullish_score),
-            "reversal_score": _sanitize_float(self.reversal_score),
-            "oversold_score": _sanitize_float(self.oversold_score),
-            "action": self.action,
         }
+
+        # Only include fields that have values (not None)
+        # This prevents overwriting existing data when another scanner upserts
+        fields = [
+            ("close", _sanitize_float(self.close)),
+            ("rsi", _sanitize_float(self.rsi)),
+            ("stoch_k", _sanitize_float(self.stoch_k)),
+            ("stoch_d", _sanitize_float(self.stoch_d)),
+            ("williams_r", _sanitize_float(self.williams_r)),
+            ("roc", _sanitize_float(self.roc)),
+            ("macd", _sanitize_float(self.macd)),
+            ("macd_signal", _sanitize_float(self.macd_signal)),
+            ("macd_hist", _sanitize_float(self.macd_hist)),
+            ("adx", _sanitize_float(self.adx)),
+            ("sma_20", _sanitize_float(self.sma_20)),
+            ("sma_50", _sanitize_float(self.sma_50)),
+            ("sma_200", _sanitize_float(self.sma_200)),
+            ("bb_upper", _sanitize_float(self.bb_upper)),
+            ("bb_lower", _sanitize_float(self.bb_lower)),
+            ("bb_position", _sanitize_float(self.bb_position)),
+            ("atr", _sanitize_float(self.atr)),
+            ("volume", self.volume),
+            ("volume_ratio", _sanitize_float(self.volume_ratio)),
+            ("obv", self.obv),
+            ("bullish_score", _sanitize_float(self.bullish_score)),
+            ("reversal_score", _sanitize_float(self.reversal_score)),
+            ("oversold_score", _sanitize_float(self.oversold_score)),
+            ("action", self.action),
+            ("bullish_reason", self.bullish_reason),
+            ("tech_summary", self.tech_summary),
+        ]
+
+        for key, value in fields:
+            if value is not None:
+                result[key] = value
+
+        return result
 
 
 class SupabaseArchiver:
@@ -330,6 +347,38 @@ class SupabaseArchiver:
             logger.error(f"Failed to fetch latest scores: {e}")
             return []
 
+    def delete_date(self, target_date: str) -> int:
+        """
+        Delete all daily indicator records for a specific date.
+
+        Useful for re-runs to ensure clean data (though upsert handles this too).
+
+        Args:
+            target_date: Date string in YYYY-MM-DD format
+
+        Returns:
+            Number of records deleted
+        """
+        if not self.is_configured:
+            return 0
+
+        try:
+            result = (
+                self.client
+                .table("daily_indicators")
+                .delete()
+                .eq("date", target_date)
+                .execute()
+            )
+
+            deleted = len(result.data) if result.data else 0
+            logger.info(f"Deleted {deleted} daily records for {target_date}")
+            return deleted
+
+        except Exception as e:
+            logger.error(f"Failed to delete data for {target_date}: {e}")
+            return 0
+
 
 # Module-level convenience functions
 
@@ -461,6 +510,10 @@ def archive_daily_indicators(
             bullish_score=bullish_score,
             reversal_score=reversal_score,
             oversold_score=oversold_score,
+            action=r.get('action'),
+            # AI Analysis
+            bullish_reason=r.get('bullish_reason'),
+            tech_summary=r.get('tech_summary'),
         )
         snapshots.append(snapshot)
 
@@ -484,3 +537,21 @@ def get_historical_data(
     """
     archiver = _get_archiver()
     return archiver.get_history(symbol, limit=days)
+
+
+def delete_daily_data(target_date: Optional[date] = None) -> int:
+    """
+    Delete all daily indicator records for a specific date.
+
+    Useful for re-runs when you want to clear existing data first.
+    Note: upsert already handles this, so this is optional.
+
+    Args:
+        target_date: Date to delete (defaults to today)
+
+    Returns:
+        Number of records deleted
+    """
+    archiver = _get_archiver()
+    date_str = (target_date or date.today()).isoformat()
+    return archiver.delete_date(date_str)

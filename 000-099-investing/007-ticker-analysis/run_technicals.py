@@ -212,7 +212,7 @@ def main():
     if not config.dry_run:
         print(f"\n💾 WRITING TO GOOGLE SHEETS")
         print("-" * 40)
-        
+
         if config.clean or not existing_data:
             sheet_manager.write_tech_data(
                 config.google_sheets.tech_data_tab,
@@ -225,6 +225,51 @@ def main():
                 tech_results,
                 existing_data
             )
+
+        # Archive to Supabase (with Grok analysis)
+        print(f"\n💾 ARCHIVING TO SUPABASE")
+        print("-" * 40)
+        try:
+            from shared_core.archive import archive_daily_indicators
+
+            # Map tech_results to archive format
+            archive_data = []
+            for r in tech_results:
+                if r.get('Status') != 'OK':
+                    continue
+                archive_data.append({
+                    'symbol': r.get('Ticker'),
+                    'close': r.get('Close'),
+                    'rsi': r.get('RSI'),
+                    'macd': r.get('MACD'),
+                    'macd_signal': r.get('MACD_Signal'),
+                    'macd_hist': r.get('MACD_Hist'),
+                    'sma_20': r.get('SMA_20'),
+                    'sma_50': r.get('SMA_50'),
+                    'sma_200': r.get('SMA_200'),
+                    'adx': r.get('ADX'),
+                    'atr': r.get('ATR'),
+                    'bb_upper': r.get('BB_Upper'),
+                    'bb_lower': r.get('BB_Lower'),
+                    'volume': r.get('Volume'),
+                    'obv': r.get('OBV'),
+                    'stoch_k': r.get('Stoch_K'),
+                    'stoch_d': r.get('Stoch_D'),
+                    # Grok analysis
+                    'bullish_score': r.get('Bullish_Score'),
+                    'bullish_reason': r.get('Bullish_Reason'),
+                    'tech_summary': r.get('Tech_Summary'),
+                })
+
+            if archive_data:
+                archived = archive_daily_indicators(archive_data, score_type="bullish")
+                print(f"   ✅ Archived {archived} records to Supabase")
+            else:
+                print(f"   ⚠️  No valid data to archive")
+        except ImportError:
+            print(f"   ⚠️  shared_core not installed, skipping Supabase archive")
+        except Exception as e:
+            print(f"   ⚠️  Supabase archive failed: {e}")
     
     # Summary
     print(f"\n" + "=" * 60)
