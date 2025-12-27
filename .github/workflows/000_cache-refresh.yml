@@ -155,6 +155,23 @@ jobs:
           ls -la ${{ env.CACHE_PATH }}/twelve_data/ | head -10
           echo "Total: $(ls ${{ env.CACHE_PATH }}/twelve_data/ | wc -l) files"
 
+      - name: Debug - Check Supabase env vars
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          echo "=== Supabase Environment Debug ==="
+          if [ -n "$SUPABASE_URL" ]; then
+            echo "SUPABASE_URL: SET (length: ${#SUPABASE_URL})"
+          else
+            echo "SUPABASE_URL: NOT SET"
+          fi
+          if [ -n "$SUPABASE_SERVICE_KEY" ]; then
+            echo "SUPABASE_SERVICE_KEY: SET (length: ${#SUPABASE_SERVICE_KEY})"
+          else
+            echo "SUPABASE_SERVICE_KEY: NOT SET"
+          fi
+
       - name: Run alerts scanner
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}

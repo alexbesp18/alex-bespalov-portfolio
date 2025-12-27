@@ -164,19 +164,36 @@ class SupabaseArchiver:
             batch_size = 500
             total_upserted = 0
 
+            # Debug: Log sample record structure
+            if records:
+                sample = records[0]
+                logger.info(f"DEBUG: Sample record keys: {list(sample.keys())}")
+                logger.info(f"DEBUG: Sample record - symbol={sample.get('symbol')}, date={sample.get('date')}, close={sample.get('close')}")
+
             for i in range(0, len(records), batch_size):
                 batch = records[i:i + batch_size]
-                self.client.table("daily_indicators").upsert(
+                logger.info(f"DEBUG: Upserting batch {i // batch_size + 1} with {len(batch)} records to 'daily_indicators'")
+
+                response = self.client.table("daily_indicators").upsert(
                     batch, on_conflict="date,symbol"
                 ).execute()
+
+                # Debug: Log response details
+                logger.info(f"DEBUG: Upsert response - data count: {len(response.data) if response.data else 0}")
+                if hasattr(response, 'count'):
+                    logger.info(f"DEBUG: Response count attribute: {response.count}")
+
                 total_upserted += len(batch)
-                logger.debug(f"Upserted batch {i // batch_size + 1}: {len(batch)} records")
+                logger.info(f"Upserted batch {i // batch_size + 1}: {len(batch)} records")
 
             logger.info(f"Archived {total_upserted} indicator snapshots to Supabase")
             return total_upserted
 
         except Exception as e:
             logger.error(f"Failed to archive to Supabase: {e}")
+            logger.error(f"DEBUG: Exception type: {type(e).__name__}")
+            import traceback
+            logger.error(f"DEBUG: Full traceback:\n{traceback.format_exc()}")
             raise
 
     def get_history(
@@ -332,7 +349,14 @@ def archive_daily_indicators(
         return 0
 
     archiver = _get_archiver()
+
+    # Debug: Check env vars presence (not values)
+    url_present = bool(os.environ.get("SUPABASE_URL"))
+    key_present = bool(os.environ.get("SUPABASE_SERVICE_KEY"))
+    logger.info(f"DEBUG: SUPABASE_URL present: {url_present}, SUPABASE_SERVICE_KEY present: {key_present}")
+    logger.info(f"DEBUG: archiver.url set: {bool(archiver.url)}, archiver.key set: {bool(archiver.key)}")
     logger.info(f"archive_daily_indicators: archiver.is_configured={archiver.is_configured}")
+
     if not archiver.is_configured:
         logger.warning("Supabase not configured, skipping archive. Check SUPABASE_URL and SUPABASE_SERVICE_KEY env vars.")
         return 0
