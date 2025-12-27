@@ -16,6 +16,9 @@ google-auth>=2.22.0
 # Optional: earnings transcripts
 # defeatbeta-api  # Install separately if needed
 
+# Supabase (for historical indicator archival)
+supabase>=2.0.0
+
 # Testing
 pytest>=7.0.0
 pytest-mock>=3.10.0

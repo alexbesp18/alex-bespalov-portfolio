@@ -1,0 +1,65 @@
+name: Monthly Data Aggregation
+
+on:
+  schedule:
+    # Run on 1st of each month at 6 AM UTC (1 AM ET)
+    - cron: '0 6 1 * *'
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Run monthly aggregation
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          python -c "
+from shared_core import run_monthly_aggregation
+import logging
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+print('Running monthly aggregation...')
+stats = run_monthly_aggregation(cleanup=True)
+print(f'Aggregation complete:')
+print(f'  Months processed: {stats[\"months\"]}')
+print(f'  Aggregates created: {stats[\"aggregates\"]}')
+print(f'  Daily records cleaned: {stats[\"deleted\"]}')
+"
+
+  notify-failure:
+    runs-on: ubuntu-latest
+    needs: [aggregate]
+    if: failure()
+    steps:
+      - name: Send failure notification
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+        run: |
+          curl -X POST https://api.resend.com/emails \
+            -H "Authorization: Bearer $RESEND_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "from": "'"$SENDER_EMAIL"'",
+              "to": '"$(echo $NOTIFICATION_EMAILS | jq -R 'split(",") | map(select(length > 0))')"',
+              "subject": "Monthly Aggregation Failed - '"$(date +%b\ %Y)"'",
+              "html": "<h2>Monthly Aggregation Failed</h2><p>Check GitHub Actions for details.</p>"
+            }'

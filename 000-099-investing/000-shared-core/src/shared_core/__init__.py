@@ -79,6 +79,12 @@ __all__ = [
     'validate_api_key',
     'validate_positive_number',
     'validate_range',
+    # Archive
+    'SupabaseArchiver',
+    'archive_daily_indicators',
+    'get_historical_data',
+    'MonthlyAggregator',
+    'run_monthly_aggregation',
 ]
 
 
@@ -244,4 +250,20 @@ def __getattr__(name):
     elif name == 'validate_range':
         from .validators import validate_range
         return validate_range
+    # Archive
+    elif name == 'SupabaseArchiver':
+        from .archive.supabase_client import SupabaseArchiver
+        return SupabaseArchiver
+    elif name == 'archive_daily_indicators':
+        from .archive.supabase_client import archive_daily_indicators
+        return archive_daily_indicators
+    elif name == 'get_historical_data':
+        from .archive.supabase_client import get_historical_data
+        return get_historical_data
+    elif name == 'MonthlyAggregator':
+        from .archive.aggregator import MonthlyAggregator
+        return MonthlyAggregator
+    elif name == 'run_monthly_aggregation':
+        from .archive.aggregator import run_monthly_aggregation
+        return run_monthly_aggregation
     raise AttributeError(f"module 'shared_core' has no attribute '{name}'")

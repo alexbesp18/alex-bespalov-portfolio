@@ -32,6 +32,13 @@ from src import (
     OutputFormat,
 )
 
+# Optional: Supabase archival (only if configured)
+try:
+    from shared_core import archive_daily_indicators
+    HAS_ARCHIVE = True
+except ImportError:
+    HAS_ARCHIVE = False
+
 
 # =============================================================================
 # LOGGING CONFIGURATION
@@ -428,7 +435,16 @@ def main() -> int:
     # Run scan
     scanner = OversoldScanner(api_key, logger)
     results = scanner.scan(tickers)
-    
+
+    # Archive all results to Supabase (if configured)
+    if HAS_ARCHIVE and results:
+        try:
+            archived = archive_daily_indicators(results, score_type="oversold")
+            if archived:
+                logger.info(f"Archived {archived} indicator snapshots to Supabase")
+        except Exception as e:
+            logger.debug(f"Supabase archive skipped: {e}")
+
     # Limit to top N
     top_results = results[:args.top]
     

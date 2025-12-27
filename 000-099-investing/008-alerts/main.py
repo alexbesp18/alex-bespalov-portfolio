@@ -22,6 +22,7 @@ from shared_core import (
     get_cached_tickers,
     safe_read_json,
     safe_write_json,
+    archive_daily_indicators,
 )
 from shared_core.triggers.conditions import update_cooldowns
 
@@ -186,6 +187,14 @@ def main():
         'flags': new_state,
         'signals': all_signals,
     })
+
+    # Archive indicators to Supabase (non-blocking, logs errors)
+    try:
+        archived = archive_daily_indicators(new_state, score_type="bullish")
+        if archived:
+            logger.info(f"Archived {archived} indicator snapshots to Supabase")
+    except Exception as e:
+        logger.warning(f"Failed to archive to Supabase (non-fatal): {e}")
 
     # Send email if there are signals
     if all_signals:
