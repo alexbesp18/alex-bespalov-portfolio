@@ -82,35 +82,47 @@ class IndicatorSnapshot:
         """Convert to dictionary for Supabase insert.
 
         Sanitizes float values to replace inf/nan with None for JSON compatibility.
+        Only includes non-None values to avoid overwriting existing data on upsert.
         """
-        return {
+        result = {
             "date": self.date,
             "symbol": self.symbol,
-            "close": _sanitize_float(self.close),
-            "rsi": _sanitize_float(self.rsi),
-            "stoch_k": _sanitize_float(self.stoch_k),
-            "stoch_d": _sanitize_float(self.stoch_d),
-            "williams_r": _sanitize_float(self.williams_r),
-            "roc": _sanitize_float(self.roc),
-            "macd": _sanitize_float(self.macd),
-            "macd_signal": _sanitize_float(self.macd_signal),
-            "macd_hist": _sanitize_float(self.macd_hist),
-            "adx": _sanitize_float(self.adx),
-            "sma_20": _sanitize_float(self.sma_20),
-            "sma_50": _sanitize_float(self.sma_50),
-            "sma_200": _sanitize_float(self.sma_200),
-            "bb_upper": _sanitize_float(self.bb_upper),
-            "bb_lower": _sanitize_float(self.bb_lower),
-            "bb_position": _sanitize_float(self.bb_position),
-            "atr": _sanitize_float(self.atr),
-            "volume": self.volume,  # int, not float
-            "volume_ratio": _sanitize_float(self.volume_ratio),
-            "obv": self.obv,  # int, not float
-            "bullish_score": _sanitize_float(self.bullish_score),
-            "reversal_score": _sanitize_float(self.reversal_score),
-            "oversold_score": _sanitize_float(self.oversold_score),
-            "action": self.action,
         }
+
+        # Only include fields that have values (not None)
+        # This prevents overwriting existing data when another scanner upserts
+        fields = [
+            ("close", _sanitize_float(self.close)),
+            ("rsi", _sanitize_float(self.rsi)),
+            ("stoch_k", _sanitize_float(self.stoch_k)),
+            ("stoch_d", _sanitize_float(self.stoch_d)),
+            ("williams_r", _sanitize_float(self.williams_r)),
+            ("roc", _sanitize_float(self.roc)),
+            ("macd", _sanitize_float(self.macd)),
+            ("macd_signal", _sanitize_float(self.macd_signal)),
+            ("macd_hist", _sanitize_float(self.macd_hist)),
+            ("adx", _sanitize_float(self.adx)),
+            ("sma_20", _sanitize_float(self.sma_20)),
+            ("sma_50", _sanitize_float(self.sma_50)),
+            ("sma_200", _sanitize_float(self.sma_200)),
+            ("bb_upper", _sanitize_float(self.bb_upper)),
+            ("bb_lower", _sanitize_float(self.bb_lower)),
+            ("bb_position", _sanitize_float(self.bb_position)),
+            ("atr", _sanitize_float(self.atr)),
+            ("volume", self.volume),
+            ("volume_ratio", _sanitize_float(self.volume_ratio)),
+            ("obv", self.obv),
+            ("bullish_score", _sanitize_float(self.bullish_score)),
+            ("reversal_score", _sanitize_float(self.reversal_score)),
+            ("oversold_score", _sanitize_float(self.oversold_score)),
+            ("action", self.action),
+        ]
+
+        for key, value in fields:
+            if value is not None:
+                result[key] = value
+
+        return result
 
 
 class SupabaseArchiver:
