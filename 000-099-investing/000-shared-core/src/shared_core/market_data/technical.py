@@ -9,6 +9,13 @@ import pandas as pd
 import numpy as np
 from typing import Tuple
 
+from shared_core.config.constants import (
+    TREND_THRESHOLDS,
+    RSI_THRESHOLDS,
+    VOLATILITY_THRESHOLDS,
+    DEFAULT_PERIODS,
+)
+
 
 class TechnicalCalculator:
     """
@@ -220,11 +227,14 @@ class TechnicalCalculator:
         Returns:
             One of: 'STRONG_UPTREND', 'UPTREND', 'SIDEWAYS', 'DOWNTREND', 'STRONG_DOWNTREND'
         """
-        if current_price > sma_200 * 1.10 and macd_hist > 0 and sma_20 > sma_50 > sma_200:
+        strong_up = TREND_THRESHOLDS.STRONG_UPTREND_MULTIPLIER
+        strong_down = TREND_THRESHOLDS.STRONG_DOWNTREND_MULTIPLIER
+
+        if current_price > sma_200 * strong_up and macd_hist > 0 and sma_20 > sma_50 > sma_200:
             return 'STRONG_UPTREND'
         elif current_price > sma_200 and sma_20 > sma_50:
             return 'UPTREND'
-        elif current_price < sma_200 * 0.90 and macd_hist < 0 and sma_20 < sma_50 < sma_200:
+        elif current_price < sma_200 * strong_down and macd_hist < 0 and sma_20 < sma_50 < sma_200:
             return 'STRONG_DOWNTREND'
         elif current_price < sma_200 and sma_20 < sma_50:
             return 'DOWNTREND'
@@ -239,10 +249,10 @@ class TechnicalCalculator:
         Returns:
             One of: 'UP', 'DOWN', 'SIDEWAYS'
         """
-        obv_sma = obv_series.rolling(20).mean()
-        if obv_series.iloc[-1] > obv_sma.iloc[-1] * 1.02:
+        obv_sma = obv_series.rolling(DEFAULT_PERIODS.OBV_SMA).mean()
+        if obv_series.iloc[-1] > obv_sma.iloc[-1] * TREND_THRESHOLDS.OBV_UP_MULTIPLIER:
             return 'UP'
-        elif obv_series.iloc[-1] < obv_sma.iloc[-1] * 0.98:
+        elif obv_series.iloc[-1] < obv_sma.iloc[-1] * TREND_THRESHOLDS.OBV_DOWN_MULTIPLIER:
             return 'DOWN'
         else:
             return 'SIDEWAYS'
@@ -255,13 +265,13 @@ class TechnicalCalculator:
         Returns:
             One of: 'BULLISH', 'BEARISH', 'NONE'
         """
-        price_trend = df['close'].tail(20).diff().sum()
-        rsi_trend = rsi_series.tail(20).diff().sum()
+        price_trend = df['close'].tail(DEFAULT_PERIODS.SMA_SHORT).diff().sum()
+        rsi_trend = rsi_series.tail(DEFAULT_PERIODS.SMA_SHORT).diff().sum()
         rsi_current = float(rsi_series.iloc[-1]) if not pd.isna(rsi_series.iloc[-1]) else 50.0
 
-        if price_trend < 0 and rsi_trend > 0 and rsi_current < 40:
+        if price_trend < 0 and rsi_trend > 0 and rsi_current < RSI_THRESHOLDS.BULLISH_DIVERGENCE_MAX:
             return 'BULLISH'
-        elif price_trend > 0 and rsi_trend < 0 and rsi_current > 60:
+        elif price_trend > 0 and rsi_trend < 0 and rsi_current > RSI_THRESHOLDS.BEARISH_DIVERGENCE_MIN:
             return 'BEARISH'
         else:
             return 'NONE'
@@ -364,11 +374,11 @@ class TechnicalCalculator:
         else:
             atr_pct = 0.5
 
-        if atr_pct < 0.25:
+        if atr_pct < VOLATILITY_THRESHOLDS.LOW_PERCENTILE:
             return 'LOW'
-        elif atr_pct < 0.5:
+        elif atr_pct < VOLATILITY_THRESHOLDS.NORMAL_PERCENTILE:
             return 'NORMAL'
-        elif atr_pct < 0.75:
+        elif atr_pct < VOLATILITY_THRESHOLDS.HIGH_PERCENTILE:
             return 'HIGH'
         else:
             return 'EXTREME'

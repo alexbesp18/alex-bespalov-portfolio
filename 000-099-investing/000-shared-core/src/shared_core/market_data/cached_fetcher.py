@@ -22,11 +22,9 @@ from pathlib import Path
 from typing import Dict, List, Any, Optional
 from tenacity import retry, stop_after_attempt, wait_exponential
 
-logger = logging.getLogger(__name__)
+from shared_core.config.constants import RATE_LIMITS, CACHE_CONFIG
 
-# Default rate limit for Twelve Data free tier
-DEFAULT_RATE_LIMIT = 8  # requests per minute
-DEFAULT_DELAY = 60 / DEFAULT_RATE_LIMIT  # 7.5 seconds between calls
+logger = logging.getLogger(__name__)
 
 
 class CacheAwareFetcher:
@@ -41,8 +39,8 @@ class CacheAwareFetcher:
         self,
         api_key: str,
         cache_dir: Optional[Path] = None,
-        rate_limit_delay: float = DEFAULT_DELAY,
-        output_size: int = 365,
+        rate_limit_delay: float = RATE_LIMITS.TWELVE_DATA_DEFAULT_DELAY,
+        output_size: int = CACHE_CONFIG.DEFAULT_OUTPUT_SIZE,
     ):
         """
         Initialize the cache-aware fetcher.
