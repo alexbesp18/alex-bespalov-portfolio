@@ -51,7 +51,8 @@ class TestIndicatorSnapshot:
         assert result["rsi"] == 45.0
         assert result["stoch_k"] == 30.0
         assert result["bullish_score"] == 7.5
-        assert result["macd"] is None
+        # None values are excluded from sparse dict to avoid overwriting
+        assert "macd" not in result
 
     def test_all_fields(self):
         """Test snapshot with all fields populated."""
@@ -227,39 +228,49 @@ class TestMonthlyAggregate:
     def test_basic_creation(self):
         """Test creating a basic aggregate."""
         agg = MonthlyAggregate(
-            month="2024-01",
+            month="2024-01-01",
             symbol="AAPL",
             open_price=140.0,
             close_price=150.0,
             high_price=155.0,
             low_price=138.0,
-            avg_price=145.0,
-            trading_days=21,
+            monthly_return=7.14,
+            days_oversold=3,
+            days_overbought=5,
         )
-        assert agg.month == "2024-01"
+        assert agg.month == "2024-01-01"
         assert agg.symbol == "AAPL"
-        assert agg.trading_days == 21
+        assert agg.monthly_return == 7.14
+        assert agg.days_oversold == 3
+        assert agg.days_overbought == 5
 
     def test_to_dict(self):
         """Test conversion to dictionary."""
         agg = MonthlyAggregate(
-            month="2024-01",
+            month="2024-01-01",
             symbol="AAPL",
             open_price=140.0,
             close_price=150.0,
             high_price=155.0,
             low_price=138.0,
-            avg_price=145.0,
+            monthly_return=7.14,
             avg_rsi=50.0,
-            max_bullish_score=8.5,
-            trading_days=21,
+            avg_bullish_score=8.5,
+            days_oversold=2,
+            days_overbought=4,
+            buy_signals=3,
+            sell_signals=1,
         )
         result = agg.to_dict()
-        assert result["month"] == "2024-01"
+        assert result["month"] == "2024-01-01"
         assert result["symbol"] == "AAPL"
         assert result["avg_rsi"] == 50.0
-        assert result["max_bullish_score"] == 8.5
-        assert result["trading_days"] == 21
+        assert result["avg_bullish_score"] == 8.5
+        assert result["monthly_return"] == 7.14
+        assert result["days_oversold"] == 2
+        assert result["days_overbought"] == 4
+        assert result["buy_signals"] == 3
+        assert result["sell_signals"] == 1
 
 
 class TestMonthlyAggregator:
@@ -331,26 +342,29 @@ class TestCreateAggregate:
         )
 
         rows = [
-            {"date": "2024-01-02", "close": 140.0, "rsi": 45.0, "bullish_score": 7.0},
-            {"date": "2024-01-03", "close": 145.0, "rsi": 50.0, "bullish_score": 7.5},
-            {"date": "2024-01-04", "close": 150.0, "rsi": 55.0, "bullish_score": 8.0},
+            {"date": "2024-01-02", "close": 140.0, "rsi": 25.0, "bullish_score": 7.0, "action": "BUY"},
+            {"date": "2024-01-03", "close": 145.0, "rsi": 50.0, "bullish_score": 7.5, "action": "HOLD"},
+            {"date": "2024-01-04", "close": 150.0, "rsi": 75.0, "bullish_score": 8.0, "action": "SELL"},
         ]
 
         agg = aggregator._create_aggregate("2024-01", "AAPL", rows)
 
-        assert agg.month == "2024-01"
+        assert agg.month == "2024-01-01"  # YYYY-MM-01 format
         assert agg.symbol == "AAPL"
         assert agg.open_price == 140.0
         assert agg.close_price == 150.0
         assert agg.high_price == 150.0
         assert agg.low_price == 140.0
-        assert agg.avg_price == 145.0
         assert agg.avg_rsi == 50.0
-        assert agg.min_rsi == 45.0
-        assert agg.max_rsi == 55.0
+        assert agg.min_rsi == 25.0
+        assert agg.max_rsi == 75.0
         assert agg.avg_bullish_score == 7.5
-        assert agg.max_bullish_score == 8.0
-        assert agg.trading_days == 3
+        assert agg.days_oversold == 1  # RSI 25 < 30
+        assert agg.days_overbought == 1  # RSI 75 > 70
+        assert agg.buy_signals == 1
+        assert agg.sell_signals == 1
+        # Monthly return: (150 - 140) / 140 * 100 = 7.1429
+        assert agg.monthly_return == 7.1429
 
     def test_create_aggregate_with_none_values(self):
         """Test creating aggregate handles None values gracefully."""
@@ -368,6 +382,8 @@ class TestCreateAggregate:
 
         assert agg.avg_rsi == 50.0  # Only one non-None value
         assert agg.avg_bullish_score is None  # All None
+        assert agg.days_oversold == 0  # None RSI values don't count
+        assert agg.days_overbought == 0
 
 
 class TestModuleExports:
