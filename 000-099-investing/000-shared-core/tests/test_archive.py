@@ -144,11 +144,6 @@ class TestArchiveDailyIndicators:
         result = archive_daily_indicators([])
         assert result == 0
 
-    def test_empty_dict_results(self):
-        """Test with empty dict returns 0."""
-        result = archive_daily_indicators({})
-        assert result == 0
-
     @patch.dict('os.environ', {'SUPABASE_URL': '', 'SUPABASE_SERVICE_KEY': ''})
     def test_not_configured_returns_zero(self):
         """Test returns 0 when Supabase not configured."""
@@ -156,17 +151,17 @@ class TestArchiveDailyIndicators:
         import shared_core.archive.supabase_client as mod
         mod._archiver = None
 
-        results = {"AAPL": {"close": 150.0, "rsi": 45.0}}
+        results = [{"symbol": "AAPL", "close": 150.0, "rsi": 45.0}]
         result = archive_daily_indicators(results)
         assert result == 0
 
-    def test_dict_format_parsing(self):
-        """Test parsing dict format (from 008-alerts)."""
+    def test_list_format_parsing(self):
+        """Test parsing list of dicts format (standard for all scanners)."""
         # This tests the parsing logic without actual Supabase connection
-        results = {
-            "AAPL": {"close": 150.0, "rsi": 45.0, "score": 7.5},
-            "GOOGL": {"close": 140.0, "rsi": 35.0, "score": 8.0},
-        }
+        results = [
+            {"symbol": "AAPL", "close": 150.0, "rsi": 45.0, "bullish_score": 7.5},
+            {"symbol": "GOOGL", "close": 140.0, "rsi": 35.0, "bullish_score": 8.0},
+        ]
         # Should not raise, returns 0 when not configured
         result = archive_daily_indicators(results, score_type="bullish")
         assert result == 0

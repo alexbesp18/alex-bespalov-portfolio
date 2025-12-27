@@ -106,7 +106,7 @@ class SupabaseArchiver:
         self._client = None
 
         if not self.url or not self.key:
-            logger.warning(
+            logger.debug(
                 "Supabase credentials not configured. "
                 "Set SUPABASE_URL and SUPABASE_SERVICE_KEY environment variables."
             )
@@ -150,11 +150,11 @@ class SupabaseArchiver:
             Number of records upserted
         """
         if not snapshots:
-            logger.info("No snapshots to archive")
+            logger.debug("No snapshots to archive")
             return 0
 
         if not self.is_configured:
-            logger.warning("Supabase not configured, skipping archive")
+            logger.debug("Supabase not configured, skipping archive")
             return 0
 
         records = [s.to_dict() for s in snapshots]
@@ -199,7 +199,7 @@ class SupabaseArchiver:
             List of indicator records
         """
         if not self.is_configured:
-            logger.warning("Supabase not configured")
+            logger.debug("Supabase not configured")
             return []
 
         try:
@@ -293,21 +293,36 @@ def _get_archiver() -> SupabaseArchiver:
 
 
 def archive_daily_indicators(
-    results,
+    results: List[Dict[str, Any]],
     scan_date: Optional[date] = None,
     score_type: str = "bullish",
 ) -> int:
     """
     Archive indicator data to Supabase.
 
-    Accepts either:
-    - List of TickerResult objects (from 009-reversals, 010-oversold)
-    - Dict of {symbol: flags_dict} (from 008-alerts)
+    All scanners (008-alerts, 009-reversals, 010-oversold) pass a list of dicts
+    with standardized field names. Each dict should contain:
+
+    Required:
+        - symbol: Ticker symbol (str)
+        - close: Closing price (float)
+
+    Optional indicators (pass whatever the scanner computes):
+        - rsi, stoch_k, stoch_d, williams_r, roc
+        - macd, macd_signal, macd_hist, adx
+        - sma_20, sma_50, sma_200
+        - bb_upper, bb_lower, bb_position, atr
+        - volume, volume_ratio, obv
+
+    Optional scores (one per scanner type):
+        - bullish_score (008-alerts)
+        - reversal_score or upside_rev_score (009-reversals)
+        - oversold_score (010-oversold)
 
     Args:
-        results: List of TickerResult objects OR dict of {symbol: flags}
+        results: List of dicts with indicator data
         scan_date: Date of the scan (defaults to today)
-        score_type: Type of score in results ("bullish", "reversal", "oversold")
+        score_type: Type of scanner ("bullish", "reversal", "oversold")
 
     Returns:
         Number of records archived
@@ -321,146 +336,71 @@ def archive_daily_indicators(
         return 0
 
     date_str = (scan_date or date.today()).isoformat()
-
     snapshots = []
 
-    # Handle dict format from 008-alerts: {symbol: flags_dict}
-    if isinstance(results, dict):
-        for symbol, flags in results.items():
-            if not isinstance(flags, dict):
-                continue
+    for r in results:
+        if not isinstance(r, dict):
+            logger.warning(f"Skipping non-dict result: {type(r)}")
+            continue
 
-            # Determine score type
-            score_value = flags.get('score')
-            bullish_score = score_value if score_type == "bullish" else None
-            reversal_score = score_value if score_type == "reversal" else None
-            oversold_score = score_value if score_type == "oversold" else None
+        symbol = r.get('symbol', '')
+        if not symbol:
+            continue
 
-            snapshot = IndicatorSnapshot(
-                date=date_str,
-                symbol=symbol,
-                close=flags.get('close', 0.0),
-                rsi=flags.get('rsi'),
-                sma_50=flags.get('sma50'),
-                sma_200=flags.get('sma200'),
-                bullish_score=bullish_score,
-                reversal_score=reversal_score,
-                oversold_score=oversold_score,
-            )
-            snapshots.append(snapshot)
-    else:
-        # Handle list format from 009-reversals (list of dicts) or 010-oversold (list of objects)
-        for r in results:
-            # Check if it's a dict (matrix data) or an object (TickerResult)
-            if isinstance(r, dict):
-                # Dict data from all scanners: {symbol, close, rsi, stoch_k, macd, ...}
-                symbol = r.get('symbol', '')
-                # Support both _price (legacy) and close (standard)
-                close = r.get('close') or r.get('_price', 0.0)
-                # Support both _rsi (legacy) and rsi (standard)
-                rsi = r.get('rsi') or r.get('_rsi')
+        # Get close price (support legacy _price key)
+        close = r.get('close') or r.get('_price', 0.0)
 
-                # Determine score fields based on score_type
-                score_value = r.get('score')
-                upside_rev = r.get('upside_rev_score')
-                bullish_score = r.get('bullish_score') or (score_value if score_type == "bullish" else None)
-                reversal_score = upside_rev if score_type == "reversal" else None
-                oversold_score = r.get('oversold_score') or (score_value if score_type == "oversold" else None)
+        # Get RSI (support legacy _rsi key)
+        rsi = r.get('rsi') or r.get('_rsi')
 
-                snapshot = IndicatorSnapshot(
-                    date=date_str,
-                    symbol=symbol,
-                    close=close,
-                    # Momentum
-                    rsi=rsi,
-                    stoch_k=r.get('stoch_k'),
-                    stoch_d=r.get('stoch_d'),
-                    williams_r=r.get('williams_r'),
-                    roc=r.get('roc'),
-                    # Trend
-                    macd=r.get('macd'),
-                    macd_signal=r.get('macd_signal'),
-                    macd_hist=r.get('macd_hist'),
-                    adx=r.get('adx'),
-                    # Moving averages
-                    sma_20=r.get('sma_20'),
-                    sma_50=r.get('sma_50'),
-                    sma_200=r.get('sma_200'),
-                    # Volatility
-                    bb_upper=r.get('bb_upper'),
-                    bb_lower=r.get('bb_lower'),
-                    bb_position=r.get('bb_position'),
-                    atr=r.get('atr'),
-                    # Volume
-                    volume=r.get('volume'),
-                    volume_ratio=r.get('volume_ratio'),
-                    obv=r.get('obv'),
-                    # Scores
-                    bullish_score=bullish_score,
-                    reversal_score=reversal_score,
-                    oversold_score=oversold_score,
-                )
-                snapshots.append(snapshot)
-            else:
-                # Object format (TickerResult) from 010-oversold or other projects
-                # Handle both 'symbol' and 'ticker' attribute names
-                symbol = getattr(r, 'symbol', None) or getattr(r, 'ticker', '')
-                # Handle both 'close' and 'price' attribute names
-                close = getattr(r, 'close', None) or getattr(r, 'price', 0.0)
+        # Determine score based on score_type
+        # Each scanner passes its own score field
+        bullish_score = None
+        reversal_score = None
+        oversold_score = None
 
-                # Try to get indicator values from object attributes first,
-                # then from flags/metadata dicts
-                flags = getattr(r, 'flags', {}) or {}
-                metadata = getattr(r, 'metadata', {}) or {}
-                components = getattr(r, 'components', {}) or {}
+        if score_type == "bullish":
+            bullish_score = r.get('bullish_score') or r.get('score')
+        elif score_type == "reversal":
+            # 009-reversals passes upside_rev_score for reversal score
+            reversal_score = r.get('upside_rev_score') or r.get('reversal_score')
+        elif score_type == "oversold":
+            oversold_score = r.get('oversold_score') or r.get('score')
 
-                # Determine which score field to populate
-                score_value = getattr(r, 'score', None)
-                bullish_score = score_value if score_type == "bullish" else None
-                reversal_score = score_value if score_type == "reversal" else None
-                oversold_score = score_value if score_type == "oversold" else None
-
-                # Get indicator values - check object attributes first, then dicts
-                rsi = getattr(r, 'rsi', None) or flags.get('rsi') or metadata.get('rsi')
-                stoch_k = getattr(r, 'stoch_k', None) or flags.get('stoch_k') or metadata.get('stoch_k')
-                stoch_d = getattr(r, 'stoch_d', None) or flags.get('stoch_d') or metadata.get('stoch_d')
-                williams_r = getattr(r, 'williams_r', None) or flags.get('williams_r') or metadata.get('williams_r')
-
-                snapshot = IndicatorSnapshot(
-                    date=date_str,
-                    symbol=symbol,
-                    close=close,
-                    # Momentum
-                    rsi=rsi,
-                    stoch_k=stoch_k,
-                    stoch_d=stoch_d,
-                    williams_r=williams_r,
-                    roc=flags.get('roc') or metadata.get('roc'),
-                    # Trend
-                    macd=flags.get('macd') or metadata.get('macd'),
-                    macd_signal=flags.get('macd_signal') or metadata.get('macd_signal'),
-                    macd_hist=flags.get('macd_hist') or metadata.get('macd_hist'),
-                    adx=flags.get('adx') or metadata.get('adx'),
-                    # Moving averages
-                    sma_20=flags.get('sma_20') or metadata.get('sma_20'),
-                    sma_50=flags.get('sma_50') or metadata.get('sma_50'),
-                    sma_200=flags.get('sma_200') or metadata.get('sma_200'),
-                    # Volatility
-                    bb_upper=flags.get('bb_upper') or metadata.get('bb_upper'),
-                    bb_lower=flags.get('bb_lower') or metadata.get('bb_lower'),
-                    bb_position=flags.get('bb_position') or metadata.get('bb_position') or components.get('bb_position'),
-                    atr=flags.get('atr') or metadata.get('atr'),
-                    # Volume
-                    volume=flags.get('volume') or metadata.get('volume'),
-                    volume_ratio=flags.get('volume_ratio') or metadata.get('volume_ratio'),
-                    obv=flags.get('obv') or metadata.get('obv'),
-                    # Scores
-                    bullish_score=bullish_score,
-                    reversal_score=reversal_score,
-                    oversold_score=oversold_score,
-                    action=getattr(r, 'action', None),
-                )
-                snapshots.append(snapshot)
+        snapshot = IndicatorSnapshot(
+            date=date_str,
+            symbol=symbol,
+            close=close,
+            # Momentum
+            rsi=rsi,
+            stoch_k=r.get('stoch_k'),
+            stoch_d=r.get('stoch_d'),
+            williams_r=r.get('williams_r'),
+            roc=r.get('roc'),
+            # Trend
+            macd=r.get('macd'),
+            macd_signal=r.get('macd_signal'),
+            macd_hist=r.get('macd_hist'),
+            adx=r.get('adx'),
+            # Moving averages
+            sma_20=r.get('sma_20'),
+            sma_50=r.get('sma_50'),
+            sma_200=r.get('sma_200'),
+            # Volatility
+            bb_upper=r.get('bb_upper'),
+            bb_lower=r.get('bb_lower'),
+            bb_position=r.get('bb_position'),
+            atr=r.get('atr'),
+            # Volume
+            volume=r.get('volume'),
+            volume_ratio=r.get('volume_ratio'),
+            obv=r.get('obv'),
+            # Scores
+            bullish_score=bullish_score,
+            reversal_score=reversal_score,
+            oversold_score=oversold_score,
+        )
+        snapshots.append(snapshot)
 
     return archiver.archive_snapshots(snapshots)
 
