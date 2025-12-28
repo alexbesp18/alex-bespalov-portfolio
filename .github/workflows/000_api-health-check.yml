@@ -1,0 +1,115 @@
+name: API Health Check
+
+on:
+  workflow_dispatch:  # Manual trigger only
+
+jobs:
+  check-google-sheets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install gspread google-auth
+
+      - name: Test Google Sheets API
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+        run: |
+          python << 'EOF'
+          import json
+          import os
+          import sys
+          from google.oauth2.service_account import Credentials
+          import gspread
+
+          print("=" * 60)
+          print("GOOGLE SHEETS API HEALTH CHECK")
+          print("=" * 60)
+
+          # Check credentials exist
+          creds_json = os.environ.get('GOOGLE_CREDENTIALS')
+          if not creds_json:
+              print("❌ GOOGLE_CREDENTIALS secret not set")
+              sys.exit(1)
+          print("✅ Credentials found")
+
+          try:
+              # Parse credentials
+              creds_dict = json.loads(creds_json)
+              scopes = [
+                  'https://www.googleapis.com/auth/spreadsheets',
+                  'https://www.googleapis.com/auth/drive.readonly'
+              ]
+              creds = Credentials.from_service_account_info(creds_dict, scopes=scopes)
+              print("✅ Credentials parsed successfully")
+
+              # Connect to API
+              client = gspread.authorize(creds)
+              print("✅ Authorized with Google API")
+
+              # Try to list spreadsheets (lightweight call)
+              sheets = client.openall()
+              print(f"✅ API responding - found {len(sheets)} accessible sheets")
+
+              print("\n" + "=" * 60)
+              print("🟢 GOOGLE SHEETS API: HEALTHY")
+              print("=" * 60)
+
+          except gspread.exceptions.APIError as e:
+              print(f"\n❌ API Error: {e}")
+              print("\n" + "=" * 60)
+              print("🔴 GOOGLE SHEETS API: DOWN OR RATE LIMITED")
+              print("=" * 60)
+              sys.exit(1)
+
+          except Exception as e:
+              print(f"\n❌ Unexpected error: {type(e).__name__}: {e}")
+              sys.exit(1)
+          EOF
+
+  check-twelve-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test Twelve Data API
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+        run: |
+          echo "=" | tr -d '\n' && printf '=%.0s' {1..59} && echo
+          echo "TWELVE DATA API HEALTH CHECK"
+          echo "=" | tr -d '\n' && printf '=%.0s' {1..59} && echo
+
+          if [ -z "$TWELVE_DATA_API_KEY" ]; then
+            echo "❌ TWELVE_DATA_API_KEY secret not set"
+            exit 1
+          fi
+          echo "✅ API key found"
+
+          # Simple API test - get AAPL quote
+          RESPONSE=$(curl -s "https://api.twelvedata.com/quote?symbol=AAPL&apikey=$TWELVE_DATA_API_KEY")
+
+          if echo "$RESPONSE" | grep -q '"code"'; then
+            echo "❌ API Error: $RESPONSE"
+            echo ""
+            echo "============================================================"
+            echo "🔴 TWELVE DATA API: ERROR"
+            echo "============================================================"
+            exit 1
+          fi
+
+          if echo "$RESPONSE" | grep -q '"symbol":"AAPL"'; then
+            echo "✅ API responding with valid data"
+            echo ""
+            echo "============================================================"
+            echo "🟢 TWELVE DATA API: HEALTHY"
+            echo "============================================================"
+          else
+            echo "⚠️ Unexpected response: $RESPONSE"
+            exit 1
+          fi
