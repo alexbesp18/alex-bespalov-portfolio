@@ -132,20 +132,44 @@ class OutputFormatter:
 
 def get_cached_tickers(cache_dir: Path) -> List[str]:
     """
-    Get tickers from 007-ticker-analysis cache (today's files).
-    Default source when no custom JSON config is provided.
+    Get tickers from 007-ticker-analysis cache.
+    Tries today first, then falls back to most recent date available.
     """
     from datetime import datetime
+    import re
+
+    if not cache_dir.exists():
+        return []
+
+    # Try today's files first
     today = datetime.now().strftime('%Y-%m-%d')
     tickers = []
-    
-    if cache_dir.exists():
-        for f in cache_dir.glob(f"*_{today}.json"):
-            # Extract ticker from filename like "NVDA_2024-12-21.json"
-            ticker = f.stem.replace(f"_{today}", "")
-            if ticker:
-                tickers.append(ticker)
-    
+    for f in cache_dir.glob(f"*_{today}.json"):
+        ticker = f.stem.replace(f"_{today}", "")
+        if ticker:
+            tickers.append(ticker)
+
+    if tickers:
+        return sorted(set(tickers))
+
+    # Fallback: find most recent date in cache
+    date_pattern = re.compile(r'_(\d{4}-\d{2}-\d{2})\.json$')
+    dates = set()
+    for f in cache_dir.glob("*_????-??-??.json"):
+        match = date_pattern.search(f.name)
+        if match:
+            dates.add(match.group(1))
+
+    if not dates:
+        return []
+
+    # Use most recent date
+    latest_date = max(dates)
+    for f in cache_dir.glob(f"*_{latest_date}.json"):
+        ticker = f.stem.replace(f"_{latest_date}", "")
+        if ticker:
+            tickers.append(ticker)
+
     return sorted(set(tickers))
 
 

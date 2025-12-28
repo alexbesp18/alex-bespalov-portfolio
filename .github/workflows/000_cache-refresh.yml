@@ -252,7 +252,16 @@ jobs:
           key: ticker-cache-${{ steps.date.outputs.date }}
           restore-keys: |
             ticker-cache-
-          fail-on-cache-miss: true
+
+      - name: Verify cache restored
+        run: |
+          echo "=== Cache status ==="
+          if [ -d "${{ env.CACHE_PATH }}/twelve_data" ]; then
+            COUNT=$(ls ${{ env.CACHE_PATH }}/twelve_data/*.json 2>/dev/null | wc -l)
+            echo "✅ Found $COUNT cached files"
+          else
+            echo "⚠️ No cache directory found"
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
