@@ -6,7 +6,7 @@ Scans historical data, detects signals, and calculates forward returns.
 
 import pandas as pd
 import numpy as np
-from datetime import date, timedelta
+from datetime import date
 from typing import List, Dict, Optional, Tuple
 from dataclasses import dataclass
 

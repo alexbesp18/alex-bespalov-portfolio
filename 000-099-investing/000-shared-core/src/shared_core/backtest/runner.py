@@ -11,8 +11,7 @@ Usage:
 import argparse
 import os
 import sys
-import glob
-from datetime import date, timedelta
+from datetime import date
 from pathlib import Path
 from typing import List, Dict, Optional
 
@@ -243,7 +242,7 @@ def run_backtest_cli(
         return
 
     print(f"Loaded {len(ticker_data)} tickers with sufficient data.")
-    print(f"Running backtest...")
+    print("Running backtest...")
 
     engine = BacktestEngine(verbose=verbose)
     result = engine.run_backtest(
