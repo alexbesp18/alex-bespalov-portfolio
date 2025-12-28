@@ -102,7 +102,7 @@ def load_config(config_path: str, **runtime_kwargs) -> AppConfig:
     td = data['twelve_data']
     twelve_data = TwelveDataConfig(
         api_key=td['api_key'],
-        output_size=td.get('output_size', 365),
+        output_size=td.get('output_size', 1000),
         rate_limit_sleep=td.get('rate_limit_sleep', 0.5),
     )
     
@@ -152,7 +152,7 @@ def get_config_template() -> str:
   },
   "twelve_data": {
     "api_key": "YOUR_TWELVE_DATA_API_KEY",
-    "output_size": 365,
+    "output_size": 1000,
     "rate_limit_sleep": 0.5
   },
   "grok": {
