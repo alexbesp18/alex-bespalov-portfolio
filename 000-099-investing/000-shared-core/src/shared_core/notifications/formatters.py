@@ -7,7 +7,6 @@ Provides consistent styling for email alerts across all projects.
 from datetime import datetime
 from typing import Any, Callable, Dict, List, Optional
 
-
 # Default color scheme
 COLORS = {
     "buy": "#27ae60",       # Green

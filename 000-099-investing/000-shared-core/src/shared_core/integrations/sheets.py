@@ -41,9 +41,9 @@ class SheetManager:
         'Ticker', 'Price', 'Change%', 'Updated',
         # Short-term (5)
         'ST_RSI_7', 'ST_Stoch_K', 'ST_MACD_Hist', 'ST_Price_vs_EMA10', 'ST_Vol_Ratio_5d',
-        # Mid-term (9)
-        'MT_RSI_14', 'MT_MACD_Hist', 'MT_Price_vs_SMA50', 'MT_ADX', 'MT_Divergence',
-        'MT_Vol_Trend_20d', 'MT_Reversal_Score', 'MT_Entry_Score', 'MT_Conviction',
+        # Mid-term (10) - added MT_Stoch_14
+        'MT_RSI_14', 'MT_Stoch_14', 'MT_MACD_Hist', 'MT_Price_vs_SMA50', 'MT_ADX',
+        'MT_Divergence', 'MT_Vol_Trend_20d', 'MT_Reversal_Score', 'MT_Entry_Score', 'MT_Conviction',
         # Long-term (10)
         'LT_RSI_21', 'LT_MACD_Hist', 'LT_Price_vs_SMA200', 'LT_SMA50_vs_SMA200', 'LT_ADX_21',
         'LT_OBV_Trend_50d', 'LT_52W_Position', 'LT_Trend', 'LT_Months_in_Trend', 'LT_Score',

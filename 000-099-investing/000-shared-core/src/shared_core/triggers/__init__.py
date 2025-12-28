@@ -8,7 +8,6 @@ Provides:
 - Signal definitions
 """
 
-from .engine import TriggerEngine
 from .conditions import (
     check_conditions,
     is_in_cooldown,
@@ -16,13 +15,14 @@ from .conditions import (
     update_cooldowns,
 )
 from .definitions import (
+    ALL_SIGNALS,
     PORTFOLIO_SIGNALS,
     WATCHLIST_SIGNALS,
-    ALL_SIGNALS,
 )
+from .engine import TriggerEngine
 from .evaluation import (
-    evaluate_ticker,
     TriggerResult,
+    evaluate_ticker,
 )
 
 __all__ = [

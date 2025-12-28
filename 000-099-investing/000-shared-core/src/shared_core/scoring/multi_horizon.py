@@ -180,6 +180,10 @@ class MultiHorizonCalculator:
         rsi_series = self.calc.rsi(df['close'], cfg.rsi_period)
         mt_rsi = self._safe_float(rsi_series.iloc[-1], 50.0)
 
+        # Stochastic (added for completeness)
+        stoch_k, stoch_d = self.calc.stochastic(df, cfg.stoch_k, cfg.stoch_d)
+        mt_stoch_k = self._safe_float(stoch_k.iloc[-1], 50.0)
+
         # MACD
         macd_line, signal_line, histogram = self.calc.macd(
             df['close'], cfg.macd_fast, cfg.macd_slow, cfg.macd_signal
@@ -194,8 +198,8 @@ class MultiHorizonCalculator:
         # ADX
         mt_adx = self.calc.adx(df, cfg.adx_period)
 
-        # Divergence (RSI + OBV combined)
-        mt_divergence = self._detect_combined_divergence(df, cfg.divergence_lookback)
+        # Divergence (RSI + OBV combined) - uses swing low detection
+        mt_divergence = self._detect_swing_divergence(df, cfg.divergence_lookback)
 
         # Volume trend (OBV slope)
         obv = self.calc.obv(df)
@@ -212,6 +216,7 @@ class MultiHorizonCalculator:
 
         return {
             'MT_RSI_14': round(mt_rsi, 1),
+            'MT_Stoch_14': round(mt_stoch_k, 1),
             'MT_MACD_Hist': round(mt_macd_hist, 4),
             'MT_Price_vs_SMA50': f"{mt_price_vs_sma50:+.2f}%",
             'MT_ADX': round(mt_adx, 1),
@@ -284,7 +289,7 @@ class MultiHorizonCalculator:
         }
 
     def _detect_combined_divergence(self, df: pd.DataFrame, lookback: int) -> str:
-        """Detect combined RSI + OBV divergence."""
+        """Detect combined RSI + OBV divergence (simple start-to-end comparison)."""
         if len(df) < lookback + 5:
             return "NONE"
 
@@ -320,13 +325,93 @@ class MultiHorizonCalculator:
             return "BEARISH"
         return "NONE"
 
+    def _detect_swing_divergence(self, df: pd.DataFrame, lookback: int) -> str:
+        """
+        Detect divergence using swing lows/highs instead of start-to-end.
+
+        This catches V-shaped moves where price makes a lower low but
+        RSI/OBV makes a higher low (bullish divergence).
+        """
+        if len(df) < lookback + 5:
+            return "NONE"
+
+        recent = df.iloc[-lookback:]
+        rsi = self.calc.rsi(df['close'], 14)
+        obv = self.calc.obv(df)
+
+        # Simple swing detection: find the lowest low in first half vs second half
+        half = lookback // 2
+        first_half = recent.iloc[:half]
+        second_half = recent.iloc[half:]
+
+        # Price lows
+        first_price_low_idx = first_half['close'].idxmin()
+        second_price_low_idx = second_half['close'].idxmin()
+        first_price_low = float(first_half['close'].min())
+        second_price_low = float(second_half['close'].min())
+        current_price = float(df['close'].iloc[-1])
+
+        # Get RSI at those swing points
+        first_rsi = self._safe_float(rsi.loc[first_price_low_idx] if first_price_low_idx in rsi.index else 50, 50)
+        second_rsi = self._safe_float(rsi.loc[second_price_low_idx] if second_price_low_idx in rsi.index else 50, 50)
+        current_rsi = self._safe_float(rsi.iloc[-1], 50)
+
+        # Get OBV at those swing points
+        first_obv = self._safe_float(obv.loc[first_price_low_idx] if first_price_low_idx in obv.index else 0, 0)
+        second_obv = self._safe_float(obv.loc[second_price_low_idx] if second_price_low_idx in obv.index else 0, 0)
+
+        # Bullish divergence: price makes lower low, but RSI/OBV makes higher low
+        price_lower_low = second_price_low < first_price_low
+        rsi_higher_low = second_rsi > first_rsi
+        obv_higher_low = second_obv > first_obv
+
+        # Also check current vs recent low (for ongoing divergence)
+        price_at_or_near_low = current_price <= second_price_low * 1.02  # Within 2% of low
+        current_rsi_higher = current_rsi > second_rsi
+
+        bullish_swing_rsi = price_lower_low and rsi_higher_low
+        bullish_swing_obv = price_lower_low and obv_higher_low
+        bullish_current = price_at_or_near_low and current_rsi_higher and current_rsi < 40
+
+        # Find swing highs for bearish divergence
+        first_price_high = float(first_half['close'].max())
+        second_price_high = float(second_half['close'].max())
+        first_high_idx = first_half['close'].idxmax()
+        second_high_idx = second_half['close'].idxmax()
+
+        first_rsi_high = self._safe_float(rsi.loc[first_high_idx] if first_high_idx in rsi.index else 50, 50)
+        second_rsi_high = self._safe_float(rsi.loc[second_high_idx] if second_high_idx in rsi.index else 50, 50)
+
+        price_higher_high = second_price_high > first_price_high
+        rsi_lower_high = second_rsi_high < first_rsi_high
+
+        bearish_swing_rsi = price_higher_high and rsi_lower_high
+
+        # Combine signals
+        if bullish_swing_rsi and bullish_swing_obv:
+            return "STRONG_BULLISH"
+        elif bullish_swing_rsi or bullish_swing_obv or bullish_current:
+            return "BULLISH"
+        elif bearish_swing_rsi:
+            return "BEARISH"
+
+        # Fall back to simple detection for edge cases
+        return self._detect_combined_divergence(df, lookback)
+
     def _classify_obv_trend(self, obv: pd.Series, period: int) -> str:
         """Classify OBV trend over period."""
         if len(obv) < period:
             return "NEUTRAL"
 
-        obv_start = float(obv.iloc[-period])
-        obv_end = float(obv.iloc[-1])
+        obv_start = obv.iloc[-period]
+        obv_end = obv.iloc[-1]
+
+        # Handle NaN values
+        if pd.isna(obv_start) or pd.isna(obv_end):
+            return "NEUTRAL"
+
+        obv_start = float(obv_start)
+        obv_end = float(obv_end)
 
         if obv_start == 0:
             return "NEUTRAL"
@@ -610,6 +695,7 @@ class MultiHorizonCalculator:
             'ST_Vol_Ratio_5d': '1.0x',
             # Mid-term
             'MT_RSI_14': 50.0,
+            'MT_Stoch_14': 50.0,
             'MT_MACD_Hist': 0.0,
             'MT_Price_vs_SMA50': '+0.00%',
             'MT_ADX': 20.0,

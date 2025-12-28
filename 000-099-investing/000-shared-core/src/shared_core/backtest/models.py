@@ -4,8 +4,8 @@ Data models for backtesting.
 
 from dataclasses import dataclass, field
 from datetime import date
-from typing import Dict, List, Optional
 from enum import Enum
+from typing import Dict, List, Optional
 
 
 class SignalType(Enum):

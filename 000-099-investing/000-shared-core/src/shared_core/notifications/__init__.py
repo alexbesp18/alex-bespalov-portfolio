@@ -7,15 +7,15 @@ Provides:
 - Template helpers
 """
 
-from .resend_client import ResendEmailClient, EmailConfig
 from .formatters import (
-    format_html_table,
-    format_html_section,
-    format_html_list,
     format_action_link,
+    format_html_list,
+    format_html_section,
+    format_html_table,
     format_subject,
     make_basic_html_email,
 )
+from .resend_client import EmailConfig, ResendEmailClient
 
 __all__ = [
     # Client

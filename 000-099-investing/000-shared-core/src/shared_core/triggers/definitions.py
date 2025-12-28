@@ -10,7 +10,7 @@ Key Changes:
 - Tightened RSI ranges
 """
 
-from typing import Dict, Any
+from typing import Any, Dict
 
 # Portfolio signals - for stocks you already own
 PORTFOLIO_SIGNALS: Dict[str, Dict[str, Any]] = {

@@ -5,8 +5,9 @@ Generates a dictionary of binary (0/1) flags for easy filtering
 and dashboard display.
 """
 
+from typing import Any, Dict
+
 import pandas as pd
-from typing import Dict, Any
 
 from ..market_data.technical import TechnicalCalculator
 

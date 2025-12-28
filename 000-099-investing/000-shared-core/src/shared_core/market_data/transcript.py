@@ -3,11 +3,12 @@ Earnings transcript client using defeatbeta-api with caching.
 Fetches the latest earnings call transcript for each ticker.
 """
 
-import json
 import datetime as dt
+import json
+from typing import Any, Dict, List, Optional
+
 import pandas as pd
 import requests
-from typing import Dict, List, Optional, Any
 
 from ..cache.data_cache import DataCache
 

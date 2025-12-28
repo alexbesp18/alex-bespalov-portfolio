@@ -13,16 +13,17 @@ Usage:
     data = fetcher.fetch("AAPL")  # Returns API-format dict with 'values'
 """
 
-import json
-import time
 import datetime
+import json
 import logging
-import requests
+import time
 from pathlib import Path
-from typing import Dict, List, Any, Optional
+from typing import Any, Dict, List, Optional
+
+import requests
 from tenacity import retry, stop_after_attempt, wait_exponential
 
-from shared_core.config.constants import RATE_LIMITS, CACHE_CONFIG
+from shared_core.config.constants import CACHE_CONFIG, RATE_LIMITS
 
 logger = logging.getLogger(__name__)
 

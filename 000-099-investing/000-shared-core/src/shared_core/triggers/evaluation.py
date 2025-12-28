@@ -7,8 +7,8 @@ Evaluates all signals for a ticker and returns matching triggers.
 from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional
 
-from .definitions import PORTFOLIO_SIGNALS, WATCHLIST_SIGNALS
 from .conditions import check_conditions, is_in_cooldown, is_suppressed
+from .definitions import PORTFOLIO_SIGNALS, WATCHLIST_SIGNALS
 
 
 @dataclass

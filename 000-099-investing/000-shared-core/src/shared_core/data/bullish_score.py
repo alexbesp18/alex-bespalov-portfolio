@@ -4,11 +4,12 @@ Bullish score calculation.
 Computes a 1-10 bullish score based on trend, momentum, and volume indicators.
 """
 
-import pandas as pd
 from typing import Dict, Tuple
 
-from ..scoring.weights import BULLISH_WEIGHTS
+import pandas as pd
+
 from ..scoring.models import BullishScore
+from ..scoring.weights import BULLISH_WEIGHTS
 
 
 def calculate_bullish_score(df: pd.DataFrame) -> Tuple[float, Dict[str, float]]:

@@ -4,18 +4,23 @@ Backtest Engine — Core backtesting logic for reversal signals.
 Scans historical data, detects signals, and calculates forward returns.
 """
 
-import pandas as pd
-import numpy as np
-from datetime import date
-from typing import List, Dict, Optional, Tuple
 from dataclasses import dataclass
+from datetime import date
+from typing import Dict, List, Optional, Tuple
 
-from .models import (
-    SignalEvent, SignalType, ConvictionLevel,
-    BacktestResult, HorizonMetrics, HORIZON_DAYS
-)
+import numpy as np
+import pandas as pd
+
 from ..divergence.divergence import detect_combined_divergence
 from ..scoring.models import DivergenceType
+from .models import (
+    HORIZON_DAYS,
+    BacktestResult,
+    ConvictionLevel,
+    HorizonMetrics,
+    SignalEvent,
+    SignalType,
+)
 
 
 @dataclass

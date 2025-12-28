@@ -5,9 +5,9 @@ from typing import Any, Dict
 
 from tenacity import (
     retry,
+    retry_if_exception_type,
     stop_after_attempt,
     wait_exponential,
-    retry_if_exception_type,
 )
 
 # Use standard logging, let consumer configure handlers
