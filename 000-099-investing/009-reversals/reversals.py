@@ -231,35 +231,49 @@ def main():
         reversal_analysis = reversal_calc.get_full_reversal_analysis(df, symbol)
         upside_rev_score = reversal_analysis['upside_reversal_score']
         downside_rev_score = reversal_analysis['downside_reversal_score']
+        upside_conviction = reversal_analysis.get('upside_conviction', 'NONE')
+        downside_conviction = reversal_analysis.get('downside_conviction', 'NONE')
         reversal_triggers_raw = reversal_analysis['upside_triggers'] + reversal_analysis['downside_triggers']
-        
+
         # Add reversal data to matrix
         matrix['upside_rev_score'] = upside_rev_score
         matrix['downside_rev_score'] = downside_rev_score
+        matrix['upside_conviction'] = upside_conviction
+        matrix['downside_conviction'] = downside_conviction
         matrix['reversal_signal'] = reversal_analysis['signal']
-        
+
         # Evaluate config-based Triggers
         triggers = trigger_engine.evaluate(symbol, df, score, ticker_triggers, matrix=matrix)
-        
+
         # Convert reversal_triggers to standard trigger format and merge
+        # IMPORTANT: Only include HIGH conviction signals for actionable alerts
         for rt in reversal_triggers_raw:
             trigger_id = rt.get('id', 'REV-UNKNOWN')
             trigger_name = rt.get('name', 'Reversal Signal')
             priority = rt.get('priority', 'MEDIUM')
-            
+
             # Determine action based on trigger type
             if trigger_id.startswith('REV-UP'):
                 action = 'BUY'
                 signal_type = 'UPSIDE_REVERSAL'
+                conviction = upside_conviction
             else:
                 action = 'SELL'
                 signal_type = 'DOWNSIDE_REVERSAL'
-            
+                conviction = downside_conviction
+
+            # CRITICAL: Only include HIGH conviction signals in alerts
+            # LOW and NONE are noise, MEDIUM is developing (could be watchlist in future)
+            if conviction != 'HIGH':
+                logger.debug(f"Skipping {symbol} {trigger_id} - conviction {conviction} (not HIGH)")
+                continue
+
             triggers.append({
                 'symbol': symbol,
                 'action': action,
                 'type': signal_type,
-                'message': f"{action}: {trigger_name} ({trigger_id})",
+                'conviction': conviction,
+                'message': f"{action}: {trigger_name} ({trigger_id}) [🔥HIGH]",
                 'trigger_key': f"{symbol}_{trigger_id}",
                 'cooldown_days': 7,  # Default cooldown for reversal signals
             })

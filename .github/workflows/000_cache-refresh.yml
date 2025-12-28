@@ -71,7 +71,7 @@ jobs:
             },
             "twelve_data": {
               "api_key": "${{ secrets.TWELVE_DATA_API_KEY }}",
-              "output_size": 365,
+              "output_size": 1000,
               "rate_limit_sleep": 8.0
             },
             "grok": {
