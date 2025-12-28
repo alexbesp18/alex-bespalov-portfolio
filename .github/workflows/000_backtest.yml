@@ -137,11 +137,18 @@ jobs:
 
           # Build command
           CMD="python -m shared_core.backtest.runner"
-          CMD="$CMD --tickers ${{ steps.tickers.outputs.tickers }}"
           CMD="$CMD --signal-type ${{ github.event.inputs.signal_type }}"
           CMD="$CMD --cache-dir 007-ticker-analysis/data"
           CMD="$CMD --output-csv backtest_results.csv"
           CMD="$CMD --verbose"
+
+          # Add tickers if provided (otherwise runner will use all cached)
+          TICKERS="${{ steps.tickers.outputs.tickers }}"
+          if [ -n "$TICKERS" ]; then
+            CMD="$CMD --tickers $TICKERS"
+          else
+            CMD="$CMD --all-cached"
+          fi
 
           # Add conviction filter if not 'all'
           if [ "${{ github.event.inputs.conviction_filter }}" != "all" ]; then

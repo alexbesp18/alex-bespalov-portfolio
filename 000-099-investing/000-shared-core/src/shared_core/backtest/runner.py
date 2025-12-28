@@ -334,6 +334,12 @@ def main():
         help='Verbose output'
     )
 
+    parser.add_argument(
+        '--all-cached',
+        action='store_true',
+        help='Use all tickers from cache directory'
+    )
+
     args = parser.parse_args()
 
     # Get tickers
@@ -343,8 +349,14 @@ def main():
     elif args.ticker_file:
         with open(args.ticker_file) as f:
             tickers = [line.strip().upper() for line in f if line.strip()]
+    elif args.all_cached:
+        tickers = get_all_cached_tickers(args.cache_dir)
+        if not tickers:
+            print(f"Error: No cached tickers found in {args.cache_dir}")
+            sys.exit(1)
+        print(f"Found {len(tickers)} cached tickers")
     else:
-        print("Error: Must specify --tickers or --ticker-file")
+        print("Error: Must specify --tickers, --ticker-file, or --all-cached")
         sys.exit(1)
 
     # Parse signal type
