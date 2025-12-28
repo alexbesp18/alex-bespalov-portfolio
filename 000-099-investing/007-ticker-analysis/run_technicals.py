@@ -17,6 +17,7 @@ Usage:
 """
 
 import argparse
+import datetime as dt
 import sys
 import time
 from pathlib import Path
@@ -28,6 +29,13 @@ from core import (
     GrokAnalyzer,
     SheetManager,
 )
+
+# Multi-horizon analysis
+try:
+    from shared_core.scoring.multi_horizon import MultiHorizonCalculator
+    MULTI_HORIZON_AVAILABLE = True
+except ImportError:
+    MULTI_HORIZON_AVAILABLE = False
 
 
 def parse_args():
@@ -65,7 +73,7 @@ def main():
     
     if not config_path.exists():
         print(f"❌ Config file not found: {args.config}")
-        print(f"   Create config.json or specify path with --config")
+        print("   Create config.json or specify path with --config")
         sys.exit(1)
     
     # Load configuration
@@ -140,10 +148,10 @@ def main():
     tickers_to_process = []
     
     if config.clean:
-        print(f"   🧹 CLEAN RUN: Will overwrite all data")
+        print("   🧹 CLEAN RUN: Will overwrite all data")
         tickers_to_process = tickers
     elif config.force_refresh:
-        print(f"   🔄 FORCE REFRESH: Ignoring cache")
+        print("   🔄 FORCE REFRESH: Ignoring cache")
         tickers_to_process = tickers
     else:
         # Get existing data for price comparison
@@ -178,39 +186,62 @@ def main():
     
     print(f"\n🚀 Processing {len(tickers_to_process)} tickers...")
     
+    # Initialize multi-horizon calculator if available
+    multi_horizon_calc = MultiHorizonCalculator() if MULTI_HORIZON_AVAILABLE else None
+    if multi_horizon_calc:
+        print("\n✅ Multi-horizon analysis enabled")
+
     # Fetch and process
-    print(f"\n📊 FETCHING TECHNICAL DATA")
+    print("\n📊 FETCHING TECHNICAL DATA")
     print("-" * 40)
-    
+
     tech_results = []
+    multi_horizon_results = []
+
     for i, ticker in enumerate(tickers_to_process):
         is_cached = cache.get_twelve_data(ticker) is not None
         label = "📁 CACHED" if is_cached and not config.force_refresh else "🌐 FETCH"
         print(f"[{i+1}/{len(tickers_to_process)}] {label} {ticker}")
-        
+
         result = twelve_data.fetch_and_calculate(
-            ticker, 
+            ticker,
             force_refresh=config.force_refresh
         )
-        
+
         if result and result.get('Status') == 'OK':
-            # Add Grok analysis
+            # Add Grok analysis (original single-horizon)
             if grok:
                 ai_analysis = grok.analyze_technicals(ticker, result)
                 result.update(ai_analysis)
                 time.sleep(0.3)  # Rate limit Grok calls
-            
+
             tech_results.append(result)
+
+            # Calculate multi-horizon indicators
+            if multi_horizon_calc:
+                df = cache.get_twelve_data(ticker)
+                if df is not None and len(df) >= 50:
+                    mh_result = multi_horizon_calc.calculate_all(df)
+                    mh_result['Ticker'] = ticker
+                    mh_result['Updated'] = dt.datetime.now().strftime('%Y-%m-%d %H:%M')
+
+                    # Add Grok multi-horizon analysis
+                    if grok:
+                        ai_mh = grok.analyze_multi_horizon(ticker, mh_result)
+                        mh_result.update(ai_mh)
+                        time.sleep(0.3)  # Rate limit
+
+                    multi_horizon_results.append(mh_result)
         elif result:
             tech_results.append(result)  # Include errors
-        
+
         # Rate limit between API calls (only if we actually called API)
         if not is_cached or config.force_refresh:
             time.sleep(config.twelve_data.rate_limit_sleep)
     
     # Write results
     if not config.dry_run:
-        print(f"\n💾 WRITING TO GOOGLE SHEETS")
+        print("\n💾 WRITING TO GOOGLE SHEETS")
         print("-" * 40)
 
         if config.clean or not existing_data:
@@ -226,8 +257,18 @@ def main():
                 existing_data
             )
 
+        # Write multi-horizon data to tech_analysis_clean tab
+        if multi_horizon_results:
+            print("\n📊 WRITING MULTI-HORIZON DATA")
+            print("-" * 40)
+            sheet_manager.write_multi_horizon_data(
+                'tech_analysis_clean',
+                multi_horizon_results
+            )
+            print(f"   ✅ Wrote {len(multi_horizon_results)} rows to 'tech_analysis_clean'")
+
         # Archive to Supabase (with Grok analysis)
-        print(f"\n💾 ARCHIVING TO SUPABASE")
+        print("\n💾 ARCHIVING TO SUPABASE")
         print("-" * 40)
         try:
             from shared_core.archive import archive_daily_indicators
@@ -265,24 +306,29 @@ def main():
                 archived = archive_daily_indicators(archive_data, score_type="bullish")
                 print(f"   ✅ Archived {archived} records to Supabase")
             else:
-                print(f"   ⚠️  No valid data to archive")
+                print("   ⚠️  No valid data to archive")
         except ImportError:
-            print(f"   ⚠️  shared_core not installed, skipping Supabase archive")
+            print("   ⚠️  shared_core not installed, skipping Supabase archive")
         except Exception as e:
             print(f"   ⚠️  Supabase archive failed: {e}")
     
     # Summary
-    print(f"\n" + "=" * 60)
+    print("\n" + "=" * 60)
     print("COMPLETE")
     print("=" * 60)
-    
+
     tech_ok = sum(1 for r in tech_results if r.get('Status') == 'OK')
     print(f"Technical data: {tech_ok}/{len(tickers_to_process)} successful")
-    
+
+    if multi_horizon_results:
+        print(f"Multi-horizon data: {len(multi_horizon_results)} tickers analyzed")
+
     if config.dry_run:
         print("\n⚠️  DRY RUN - No data was written to sheets")
     else:
         print(f"\n✅ Data written to tab: '{config.google_sheets.tech_data_tab}'")
+        if multi_horizon_results:
+            print("✅ Multi-horizon data written to tab: 'tech_analysis_clean'")
 
 
 if __name__ == "__main__":

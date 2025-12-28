@@ -4,7 +4,7 @@ Handles reading tickers and writing data back to sheets.
 """
 
 import logging
-from typing import Dict, List, Any
+from typing import Any, Dict, List
 
 import gspread
 from google.oauth2.service_account import Credentials
@@ -33,6 +33,23 @@ class SheetManager:
     TRANSCRIPT_COLUMNS = [
         'Ticker', 'Period', 'Earnings_Date', 'Char_Count',
         'Key_Metrics', 'Guidance', 'Tone', 'Summary', 'Status', 'Updated', 'Days_Since_Earnings'
+    ]
+
+    # Column order for multi-horizon technical analysis (tech_analysis_clean)
+    MULTI_HORIZON_COLUMNS = [
+        # Base (4)
+        'Ticker', 'Price', 'Change%', 'Updated',
+        # Short-term (5)
+        'ST_RSI_7', 'ST_Stoch_K', 'ST_MACD_Hist', 'ST_Price_vs_EMA10', 'ST_Vol_Ratio_5d',
+        # Mid-term (9)
+        'MT_RSI_14', 'MT_MACD_Hist', 'MT_Price_vs_SMA50', 'MT_ADX', 'MT_Divergence',
+        'MT_Vol_Trend_20d', 'MT_Reversal_Score', 'MT_Entry_Score', 'MT_Conviction',
+        # Long-term (10)
+        'LT_RSI_21', 'LT_MACD_Hist', 'LT_Price_vs_SMA200', 'LT_SMA50_vs_SMA200', 'LT_ADX_21',
+        'LT_OBV_Trend_50d', 'LT_52W_Position', 'LT_Trend', 'LT_Months_in_Trend', 'LT_Score',
+        # AI Analysis (6)
+        'AI_ST_Outlook', 'AI_MT_Entry_Score', 'AI_MT_Outlook', 'AI_LT_Outlook',
+        'AI_Risk_Level', 'AI_Key_Levels',
     ]
 
     def __init__(self, credentials_file: str, spreadsheet_name: str, verbose: bool = False):
@@ -268,6 +285,76 @@ class SheetManager:
             sheet.append_rows(rows_to_append)
             if self.verbose:
                 print(f"   ✅ Appended {len(rows_to_append)} new rows to {tab_name}")
+
+    # =========================================================================
+    # MULTI-HORIZON TECH DATA WRITING (tech_analysis_clean)
+    # =========================================================================
+
+    def write_multi_horizon_data(self, tab_name: str, data: List[Dict]):
+        """
+        Write multi-horizon technical analysis to specified tab.
+
+        Creates the tab if it doesn't exist. Always overwrites all data.
+
+        Args:
+            tab_name: Name of the sheet tab (e.g., 'tech_analysis_clean')
+            data: List of dicts with multi-horizon indicator values
+        """
+        if not data:
+            return
+
+        try:
+            sheet = self.spreadsheet.worksheet(tab_name)
+        except gspread.WorksheetNotFound:
+            # Create with enough columns for all data
+            sheet = self.spreadsheet.add_worksheet(
+                title=tab_name,
+                rows=max(500, len(data) + 10),
+                cols=len(self.MULTI_HORIZON_COLUMNS) + 5
+            )
+
+        rows = [self.MULTI_HORIZON_COLUMNS]
+
+        for d in data:
+            row = [d.get(col, '') for col in self.MULTI_HORIZON_COLUMNS]
+            rows.append(row)
+
+        sheet.clear()
+        sheet.update(rows, 'A1')
+
+        if self.verbose:
+            print(f"   ✅ Wrote {len(data)} rows to {tab_name} (multi-horizon)")
+
+    def get_existing_multi_horizon_data(self, tab_name: str) -> Dict[str, Dict]:
+        """
+        Get existing multi-horizon data from sheet for row replacement.
+
+        Returns:
+            Dict mapping ticker to {row_number: int, data: dict}
+        """
+        try:
+            sheet = self.spreadsheet.worksheet(tab_name)
+            rows = sheet.get_all_values()
+        except gspread.WorksheetNotFound:
+            return {}
+
+        if len(rows) < 2:
+            return {}
+
+        headers = rows[0]
+        ticker_idx = headers.index('Ticker') if 'Ticker' in headers else 0
+
+        result = {}
+        for i, row in enumerate(rows[1:], start=2):
+            if len(row) > ticker_idx:
+                ticker = row[ticker_idx].upper()
+                if ticker:
+                    result[ticker] = {
+                        'row_number': i,
+                        'data': dict(zip(headers, row))
+                    }
+
+        return result
 
     # =========================================================================
     # TRANSCRIPT WRITING
