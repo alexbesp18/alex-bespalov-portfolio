@@ -22,7 +22,7 @@ class TwelveDataClient:
     """
 
     def __init__(self, api_key: str, cache: Optional[DataCache] = None,
-                 output_size: int = 365, rate_limit_sleep: float = 0.5,
+                 output_size: int = 1000, rate_limit_sleep: float = 0.5,
                  verbose: bool = False):
         """
         Initialize Twelve Data client.
@@ -30,7 +30,7 @@ class TwelveDataClient:
         Args:
             api_key: Twelve Data API key
             cache: Optional DataCache instance for storing/retrieving data
-            output_size: Number of daily bars to fetch (default 365)
+            output_size: Number of daily bars to fetch (default 1000, ~4 years)
             rate_limit_sleep: Seconds to wait between API calls
             verbose: Print detailed progress
         """

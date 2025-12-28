@@ -54,9 +54,10 @@ def score_rsi(rsi: float, direction: str = "up") -> float:
 
 def score_rsi_oversold(rsi: float) -> float:
     """
-    Score RSI for oversold condition detection.
+    Score RSI for oversold condition detection — TIGHTENED.
 
     Lower RSI indicates more oversold condition, resulting in higher score.
+    Removed loose thresholds (35, 40, 50) that diluted signal quality.
 
     Args:
         rsi: RSI value (0-100)
@@ -67,20 +68,18 @@ def score_rsi_oversold(rsi: float) -> float:
     if pd.isna(rsi):
         return 0.0
 
+    # Tightened thresholds - only truly oversold gets high scores
     thresholds = [
-        (15, 10.0),
-        (20, 9.0),
-        (25, 8.0),
-        (30, 6.0),
-        (35, 4.5),
-        (40, 3.0),
-        (50, 2.0),
+        (15, 10.0),  # Extreme oversold
+        (20, 9.0),   # Very oversold
+        (25, 7.0),   # Oversold (tightened from 8.0)
+        (30, 5.0),   # Approaching oversold (tightened from 6.0)
     ]
 
     for threshold, score in thresholds:
         if rsi < threshold:
             return score
-    return 1.0
+    return 1.0  # Not oversold
 
 
 # =============================================================================
@@ -142,9 +141,10 @@ def score_stochastic(
 
 def score_stochastic_oversold(stoch_k: float) -> float:
     """
-    Score Stochastic %K for oversold condition.
+    Score Stochastic %K for oversold condition — TIGHTENED.
 
     Lower %K indicates more oversold condition.
+    Removed loose threshold (30) that diluted signal quality.
 
     Args:
         stoch_k: Stochastic %K value (0-100)
@@ -155,18 +155,18 @@ def score_stochastic_oversold(stoch_k: float) -> float:
     if pd.isna(stoch_k):
         return 0.0
 
+    # Tightened thresholds - standard oversold is < 20
     thresholds = [
-        (5, 10.0),
-        (10, 9.0),
-        (15, 7.0),
-        (20, 5.0),
-        (30, 3.0),
+        (5, 10.0),   # Extreme oversold
+        (10, 9.0),   # Very oversold
+        (15, 7.0),   # Oversold
+        (20, 5.0),   # Approaching oversold
     ]
 
     for threshold, score in thresholds:
         if stoch_k < threshold:
             return score
-    return 1.0
+    return 1.0  # Not oversold
 
 
 # =============================================================================
@@ -489,7 +489,9 @@ def score_consecutive_days(df: pd.DataFrame, direction: str = "red") -> float:
 
 def score_consecutive_red(df: pd.DataFrame) -> float:
     """
-    Score based on consecutive down days for oversold detection.
+    Score based on consecutive down days for oversold detection — TIGHTENED.
+
+    Removed loose thresholds (2-3 days) that are common market noise.
 
     Args:
         df: DataFrame with 'close' column
@@ -509,19 +511,18 @@ def score_consecutive_red(df: pd.DataFrame) -> float:
         else:
             break
 
+    # Tightened thresholds - 3 days is noise, need 5+ for signal
     thresholds = [
-        (7, 10.0),
-        (6, 9.0),
-        (5, 7.0),
-        (4, 5.0),
-        (3, 3.0),
-        (2, 2.0),
+        (8, 10.0),   # Extreme selloff
+        (7, 9.0),    # Very extended
+        (6, 7.0),    # Extended
+        (5, 5.0),    # Notable
     ]
 
     for threshold, score in thresholds:
         if count >= threshold:
             return score
-    return 1.0
+    return 1.0  # Less than 5 days = noise
 
 
 # =============================================================================

@@ -1,6 +1,14 @@
-# Reversal Tracker — Signal Logic Reference
+# Reversal Tracker — Signal Logic Reference (v3)
 
 A comprehensive guide to all technical indicators and trigger logic used in the reversal detection system.
+
+**v3 Changes:**
+- Removed short-term indicators (Stochastic, Williams %R, Consecutive Days)
+- Focus on Mid-term (weeks) and Long-term (months) signals only
+- Harsher volume gate (0.5x penalty for low volume)
+- Harsher ADX penalty (0.5x for ADX > 40)
+- Added Conviction Levels (HIGH/MEDIUM/LOW)
+- Tightened RSI thresholds (< 25 for max score)
 
 ---
 
@@ -8,42 +16,36 @@ A comprehensive guide to all technical indicators and trigger logic used in the 
 1. [Technical Indicators](#technical-indicators)
 2. [Upside Reversal Score](#upside-reversal-score)
 3. [Downside Reversal Score](#downside-reversal-score)
-4. [Trigger Rules](#trigger-rules)
-5. [Cooldown System](#cooldown-system)
+4. [Conviction Levels](#conviction-levels)
+5. [Trigger Rules](#trigger-rules)
+6. [Multipliers](#multipliers)
 
 ---
 
 ## Technical Indicators
 
-### Trend Indicators
+### Mid-Term Indicators (Weeks)
 | Indicator | Calculation | Purpose |
 |-----------|-------------|---------|
-| **SMA 20** | 20-day simple moving average | Short-term trend |
-| **SMA 50** | 50-day simple moving average | Medium-term trend |
+| **SMA 50** | 50-day simple moving average | Mid-term trend |
+| **MACD Line** | 12/26 EMA difference | Mid-term momentum |
+| **MACD Signal** | 9-period EMA of MACD Line | Signal crossovers |
+| **MACD Histogram** | MACD Line - Signal Line | Momentum direction |
+
+### Long-Term Indicators (Months)
+| Indicator | Calculation | Purpose |
+|-----------|-------------|---------|
 | **SMA 200** | 200-day simple moving average | Long-term trend |
+| **Golden Cross** | SMA50 crosses above SMA200 | Major bullish signal |
+| **Death Cross** | SMA50 crosses below SMA200 | Major bearish signal |
 
-### Momentum Indicators
-| Indicator | Calculation | Interpretation |
-|-----------|-------------|----------------|
-| **RSI (14)** | 14-period Relative Strength Index | <30 = oversold, >70 = overbought |
-| **MACD** | 12/26/9 EMA crossover | Line, Signal, Histogram |
-| **MACD Histogram** | MACD Line - Signal Line | Positive = bullish momentum |
-| **Stochastic %K/%D** | 14-period with 3-period smoothing | <20 = oversold, >80 = overbought |
-| **Williams %R** | 14-period | <-80 = oversold, >-20 = overbought |
-| **ROC** | 14-period Rate of Change | Extreme negative = mean reversion candidate |
-
-### Volatility Indicators
+### Context Indicators
 | Indicator | Calculation | Purpose |
 |-----------|-------------|---------|
-| **Bollinger Bands** | 20-period SMA ± 2 std dev | Volatility squeeze/expansion |
-| **BB Width** | (Upper - Lower) / Middle * 100 | Volatility measurement |
-| **ATR** | 14-period Average True Range | Stop-loss sizing, volatility |
-
-### Volume Indicators
-| Indicator | Calculation | Purpose |
-|-----------|-------------|---------|
-| **OBV** | Cumulative volume flow | Accumulation/distribution |
-| **Volume Ratio** | Current volume / 20-day avg | Spike detection (>2x = significant) |
+| **RSI (14)** | 14-period Relative Strength Index | Momentum context |
+| **ADX** | Average Directional Index | Trend strength |
+| **Volume Ratio** | Current volume / 20-day avg | Confirmation |
+| **OBV** | Cumulative volume flow | Divergence detection |
 
 ---
 
@@ -53,23 +55,26 @@ A comprehensive guide to all technical indicators and trigger logic used in the 
 
 **Score Range:** 1-10 (higher = stronger upside reversal signal)
 
-### Weighting
+### Weighting (v3 — Mid/Long Term Focus)
 
-| Factor | Weight | 10 Points | 7 Points | 5 Points | 2 Points |
-|--------|--------|-----------|----------|----------|----------|
-| **RSI Position** | 25% | RSI <25 | RSI 25-35 | RSI 35-50 | RSI >50 |
-| **Stochastic** | 20% | %K <20 + bullish cross | %K <20 | %K 20-30 | %K >50 |
-| **MACD Histogram** | 15% | Neg→Pos flip | — | Narrowing negative | Widening negative |
-| **Price vs SMA200** | 15% | Just crossed above | Above | Within 3% below | >10% below |
-| **Volume Spike** | 10% | >2x avg on UP day | — | 1.5x avg | Normal |
-| **Divergence** | 10% | RSI or OBV bullish div | — | — | None detected |
-| **Consecutive Reds** | 5% | 5+ red days | — | 3-4 red days | <3 red days |
+| Factor | Weight | 10 Points | 7 Points | 4 Points | 1 Point |
+|--------|--------|-----------|----------|----------|---------|
+| **RSI** | 15% | RSI < 25 | RSI < 30 | RSI < 35 | RSI >= 35 |
+| **MACD Crossover** | 15% | Fresh bullish cross | Above signal | Narrowing | Below signal |
+| **MACD Histogram** | 10% | Neg→Pos flip | Positive | Narrowing neg | Widening neg |
+| **Price vs SMA50** | 15% | Crossed above | Above | Within 3% below | Well below |
+| **Price vs SMA200** | 20% | Crossed above | Above | Within 5% below | Well below |
+| **Volume Spike** | 15% | >= 2.0x avg | >= 1.5x | >= 1.2x | < 1.0x |
+| **Divergence** | 10% | RSI+OBV bullish | RSI bullish | — | None |
 
-### Divergence Detection
-
-**Bullish Divergence:** Price makes lower low, but RSI/OBV makes higher low.
-- Lookback: 14 days
-- Indicates: Selling pressure exhausted, potential bounce
+### Key Differences from v2
+- Removed: Stochastic (too short-term)
+- Removed: Williams %R (redundant with RSI)
+- Removed: Consecutive Red Days (noise)
+- Added: MACD Line Crossover (mid-term signal)
+- Added: Price vs SMA50 (mid-term trend)
+- Increased: Volume weight (10% → 15%)
+- Increased: SMA200 weight (15% → 20%)
 
 ---
 
@@ -79,126 +84,137 @@ A comprehensive guide to all technical indicators and trigger logic used in the 
 
 **Score Range:** 1-10 (higher = stronger downside reversal signal)
 
-### Weighting
+### Weighting (v3 — Mid/Long Term Focus)
 
-| Factor | Weight | 10 Points | 7 Points | 5 Points | 2 Points |
-|--------|--------|-----------|----------|----------|----------|
-| **RSI Position** | 25% | RSI >75 | RSI 65-75 | RSI 50-65 | RSI <50 |
-| **Stochastic** | 20% | %K >80 + bearish cross | %K >80 | %K 70-80 | %K <50 |
-| **MACD Histogram** | 15% | Pos→Neg flip | — | Narrowing positive | Widening positive |
-| **Price vs SMA200** | 15% | Just crossed below | >20% above (extended) | 10-20% above | Below |
-| **Volume Spike** | 10% | >2x avg on DOWN day | — | 1.5x avg | Normal |
-| **Divergence** | 10% | RSI or OBV bearish div | — | — | None detected |
-| **Consecutive Greens** | 5% | 5+ green days | — | 3-4 green days | <3 green days |
+| Factor | Weight | 10 Points | 7 Points | 4 Points | 1 Point |
+|--------|--------|-----------|----------|----------|---------|
+| **RSI** | 15% | RSI > 75 | RSI > 70 | RSI > 65 | RSI <= 65 |
+| **MACD Crossover** | 15% | Fresh bearish cross | Below signal | Narrowing | Above signal |
+| **MACD Histogram** | 10% | Pos→Neg flip | Negative | Narrowing pos | Widening pos |
+| **Price vs SMA50** | 15% | Crossed below | > 15% above | > 5% above | Near/below |
+| **Price vs SMA200** | 20% | Crossed below | > 20% above | > 10% above | Near/below |
+| **Volume Spike** | 15% | >= 2.0x avg | >= 1.5x | >= 1.2x | < 1.0x |
+| **Divergence** | 10% | RSI+OBV bearish | RSI bearish | — | None |
 
-### Divergence Detection
+---
 
-**Bearish Divergence:** Price makes higher high, but RSI/OBV makes lower high.
-- Lookback: 14 days
-- Indicates: Buying pressure exhausted, distribution underway
+## Conviction Levels
+
+**NEW in v3:** Signals are classified by conviction level for actionability.
+
+| Level | Requirements | Action |
+|-------|--------------|--------|
+| **HIGH** | Score >= 8.0 AND Volume >= 1.2x AND ADX < 35 | **BUY/SELL NOW** |
+| **MEDIUM** | Score >= 7.0 AND Volume >= 1.0x | Developing — watch closely |
+| **LOW** | Score >= 6.0 | Not actionable |
+| **NONE** | Below thresholds | Ignore |
+
+### Alert Behavior
+- **Default mode:** Only HIGH conviction signals generate alerts
+- **Developing mode:** Show MEDIUM+ for manual review
+- HIGH conviction = actionable immediately
+- MEDIUM conviction = something is brewing, check manually
+
+---
+
+## Multipliers
+
+### Volume Multiplier (HARSH)
+
+Volume confirmation is critical. Low volume reversals are traps.
+
+| Volume Ratio | Multiplier | Effect |
+|--------------|------------|--------|
+| >= 2.0x avg | 1.2x | +20% bonus (strong confirmation) |
+| >= 1.5x avg | 1.1x | +10% bonus (good volume) |
+| >= 1.0x avg | 1.0x | Neutral |
+| >= 0.8x avg | 0.7x | -30% penalty (weak) |
+| < 0.8x avg | 0.5x | -50% penalty (halve score) |
+
+### ADX Multiplier (HARSH)
+
+Don't fight strong trends. Mean reversion works best in ranging markets.
+
+| ADX Value | Multiplier | Interpretation |
+|-----------|------------|----------------|
+| ADX < 20 | 1.15x | Range-bound = mean reversion boost |
+| ADX 20-30 | 1.0x | Moderate trend = neutral |
+| ADX 30-40 | 0.7x | Strong trend = -30% penalty |
+| ADX > 40 | 0.5x | Very strong trend = -50% penalty |
 
 ---
 
 ## Trigger Rules
 
-### High Priority Triggers
+### HIGH Conviction Signals (Actionable)
 
-| ID | Type | Condition | Action | Cooldown |
-|----|------|-----------|--------|----------|
-| `upside_reversal_score` | Reversal | Score ≥ 7 | BUY | 7 days |
-| `downside_reversal_score` | Reversal | Score ≥ 7 | SELL | 7 days |
-| `golden_cross` | MA Cross | SMA50 crosses above SMA200 | BUY | 30 days |
-| `death_cross` | MA Cross | SMA50 crosses below SMA200 | SELL | 30 days |
-| `price_crosses_above_ma` | Trend | Price crosses above SMA200 | BUY | 14 days |
-| `price_crosses_below_ma` | Trend | Price crosses below SMA200 | SELL | 14 days |
+| ID | Condition | Action | Cooldown |
+|----|-----------|--------|----------|
+| `UPSIDE_REVERSAL_HIGH` | Score >= 8, Volume >= 1.2x, ADX < 35 | BUY NOW | 7 days |
+| `DOWNSIDE_REVERSAL_HIGH` | Score >= 8, Volume >= 1.2x, ADX < 35 | SELL NOW | 7 days |
 
-### Medium Priority Triggers
+### Event-Based Triggers
 
-| ID | Type | Condition | Action | Cooldown |
-|----|------|-----------|--------|----------|
-| `rsi_bounce_oversold` | Momentum | RSI crosses above 30 from below | BUY | 5 days |
-| `rsi_drop_overbought` | Momentum | RSI crosses below 70 from above | SELL | 5 days |
-| `stoch_bullish_cross` | Momentum | %K crosses above %D while both <20 | BUY | 5 days |
-| `stoch_bearish_cross` | Momentum | %K crosses below %D while both >80 | SELL | 5 days |
+| ID | Condition | Action | Cooldown |
+|----|-----------|--------|----------|
+| `BUY_REVERSAL` | Crosses above SMA200, Score >= 8, Volume >= 1.2x | BUY | 0 days |
+| `BUY_OVERSOLD_BOUNCE` | RSI crosses above 30, Above SMA50, Score >= 7 | BUY | 0 days |
+| `SELL_WARNING` | Crosses below SMA200, Score <= 5 | SELL | 0 days |
 
-### Watch Triggers
+### Pattern Triggers
 
-| ID | Type | Condition | Action | Cooldown |
-|----|------|-----------|--------|----------|
-| `macd_histogram_flip_positive` | Momentum | Histogram turns positive | WATCH | 3 days |
-| `macd_histogram_flip_negative` | Momentum | Histogram turns negative | WATCH | 3 days |
+| ID | Condition | Action | Cooldown |
+|----|-----------|--------|----------|
+| `GOLDEN_CROSS` | SMA50 crosses above SMA200 | BUY | 30 days |
+| `DEATH_CROSS` | SMA50 crosses below SMA200 | SELL | 30 days |
 
 ---
 
-## Cooldown System
+## Divergence Detection
 
-Cooldowns prevent alert fatigue by suppressing repeated triggers.
+**Lookback:** 20 days (increased from 14 for mid-term focus)
 
-### How It Works
-1. When a trigger fires, it's recorded with a timestamp
-2. If the same trigger fires again within the cooldown period, it's suppressed
-3. Cooldown resets after expiration
+**Bullish Divergence:** Price makes lower low, RSI/OBV makes higher low.
+- Indicates selling pressure exhausted
+- Confluence bonus if both RSI and OBV show divergence (1.5x)
 
-### Recommended Cooldowns
-
-| Trigger Category | Cooldown | Rationale |
-|------------------|----------|-----------|
-| **Reversal Scores** | 7 days | Allow recovery/continuation time |
-| **Golden/Death Cross** | 30 days | Rare events, don't spam |
-| **SMA200 Crosses** | 14 days | Moderate frequency |
-| **RSI Bounces/Drops** | 5 days | Can oscillate frequently |
-| **MACD Flips** | 3 days | Early warning, frequent |
+**Bearish Divergence:** Price makes higher high, RSI/OBV makes lower high.
+- Indicates buying pressure exhausted
+- Confluence bonus if both RSI and OBV show divergence (1.5x)
 
 ---
 
-## Signal Priority Hierarchy
+## Score Calculation Example
 
-When multiple signals fire, they're categorized:
+**AAPL Upside Reversal Check:**
 
-1. **🟢 UPSIDE REVERSAL** — High conviction buy signals
-2. **🔴 DOWNSIDE REVERSAL** — High conviction sell signals  
-3. **BUY** — Standard buy triggers
-4. **SELL** — Standard sell triggers
-5. **WATCH** — Early warning, no immediate action
-
----
-
-## Customization
-
-### Adding Ticker-Specific Triggers
-
-In `config/watchlist.json`, override defaults per ticker:
-
-```json
-{
-  "symbol": "NVDA",
-  "theme": "AI/GPU",
-  "triggers": [
-    {"type": "price_below", "value": 120, "action": "BUY", "note": "Key support"},
-    {"type": "rsi_oversold", "threshold": 25, "action": "BUY"}
-  ]
-}
 ```
+Components:
+  RSI (28)           → 7.0/10  × 15% = 1.05
+  MACD Crossover     → 10.0/10 × 15% = 1.50  (fresh bullish cross)
+  MACD Histogram     → 10.0/10 × 10% = 1.00  (just flipped positive)
+  Price vs SMA50     → 7.0/10  × 15% = 1.05  (above SMA50)
+  Price vs SMA200    → 10.0/10 × 20% = 2.00  (just crossed above)
+  Volume (1.8x)      → 7.0/10  × 15% = 1.05
+  Divergence         → 7.5/10  × 10% = 0.75  (bullish RSI divergence)
+                                       -----
+  Raw Score:                           8.40
 
-### Adjusting Default Thresholds
+Multipliers:
+  Volume (1.8x avg)  → 1.1x
+  ADX (22)           → 1.0x
 
-Modify `default_triggers` in `watchlist.json`:
+Final Score: 8.40 × 1.1 × 1.0 = 9.24/10
 
-```json
-{
-  "type": "upside_reversal_score",
-  "threshold": 8,  // Stricter than default 7
-  "action": "BUY",
-  "cooldown_days": 10
-}
+Conviction: HIGH (Score >= 8.0, Volume >= 1.2x, ADX < 35)
+Action: BUY NOW
 ```
 
 ---
 
-## Future Enhancements
+## Historical Data
 
-- [ ] Multi-timeframe confluence (weekly + daily alignment)
-- [ ] Sector rotation signals
-- [ ] Earnings date proximity filter
-- [ ] Volume profile analysis
-- [ ] Support/resistance level detection
+- **Data source:** Twelve Data API
+- **Default lookback:** 1000 days (~4 years)
+- **API credits:** 1 credit per ticker regardless of lookback
+- **Backtest capability:** Full support for 3+ year backtesting
