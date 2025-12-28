@@ -65,7 +65,7 @@ class GrokAnalyzer:
             
             if response.status_code == 429:
                 if self.verbose:
-                    print(f"    ⚠️  Rate limited")
+                    print("    ⚠️  Rate limited")
                 return None
             
             if response.status_code != 200:
@@ -89,7 +89,7 @@ class GrokAnalyzer:
             
         except requests.exceptions.Timeout:
             if self.verbose:
-                print(f"    ❌ Request timeout")
+                print("    ❌ Request timeout")
             return None
         except Exception as e:
             if self.verbose:
@@ -184,9 +184,105 @@ Be specific with actual price levels from the data. Don't hedge - take a stance.
             }
     
     # =========================================================================
+    # MULTI-HORIZON ANALYSIS (3 time frames)
+    # =========================================================================
+
+    def analyze_multi_horizon(self, ticker: str, indicators: Dict[str, Any]) -> Dict[str, Any]:
+        """
+        Analyze technical indicators across THREE time horizons.
+
+        Args:
+            ticker: Stock ticker symbol
+            indicators: Dict with ST_*, MT_*, LT_* prefixed indicators
+
+        Returns:
+            Dict with AI_ST_Outlook, AI_MT_Outlook, AI_LT_Outlook,
+            AI_Risk_Level, AI_Key_Levels
+        """
+        if self.verbose:
+            print(f"    🤖 Multi-horizon analysis for {ticker} with Grok...")
+
+        # Format indicators for the prompt
+        indicator_str = "\n".join([
+            f"{k}: {v}" for k, v in indicators.items()
+            if k not in ('Ticker', 'Status', 'Updated') and not k.startswith('AI_')
+        ])
+
+        prompt = f"""You are a veteran technical analyst. Analyze these indicators for {ticker} across THREE time horizons for a mid-term investor (primary focus: 2-month holds).
+
+INDICATORS BY TIME HORIZON:
+{indicator_str}
+
+TIME HORIZON DEFINITIONS:
+- SHORT-TERM (ST_*): 1-2 weeks. Is there an immediate entry opportunity or risk?
+- MID-TERM (MT_*): 1-3 months. PRIMARY FOCUS. Is this a good 2-month hold entry?
+- LONG-TERM (LT_*): 3-12 months. Does the macro trend support holding?
+
+Provide your analysis in this exact JSON format:
+
+{{
+  "ST_Outlook": "<1 sentence: immediate momentum, entry timing this week>",
+  "MT_Entry_Score": <integer 1-10>,
+  "MT_Outlook": "<2-3 sentences: entry quality for 2-month hold, key levels, primary risk>",
+  "LT_Outlook": "<1 sentence: macro trend health, whether it supports holding>",
+  "Risk_Level": "<LOW|MEDIUM|HIGH>",
+  "Key_Levels": "<Support: $X, Resistance: $Y>"
+}}
+
+SCORING GUIDE FOR MT_Entry_Score:
+9-10: Excellent entry - Strong uptrend + pullback to support + volume confirmation + positive divergence
+7-8: Good entry - Healthy trend + reasonable entry point + some confirmation signals
+5-6: Neutral - Mixed signals, consider waiting for clarity or smaller position
+3-4: Poor entry - Weak trend, bad timing, or elevated risk
+1-2: Avoid - Downtrend, broken support, high risk of further decline
+
+RISK_LEVEL GUIDE:
+LOW: Strong trend, clear support, positive momentum, low volatility
+MEDIUM: Mixed signals, some concerns but manageable with proper position sizing
+HIGH: Weak trend, broken support, negative divergence, or high volatility
+
+Be specific with price levels. Take a clear stance - don't hedge."""
+
+        content = self._call_api(prompt, temperature=0.3, json_response=True)
+
+        if not content:
+            return self._empty_multi_horizon()
+
+        try:
+            result = json.loads(content)
+
+            if self.verbose:
+                print(f"    ✅ Multi-horizon analysis complete: MT_Score={result.get('MT_Entry_Score')}")
+
+            return {
+                'AI_ST_Outlook': (result.get('ST_Outlook', '') or '')[:300],
+                'AI_MT_Entry_Score': result.get('MT_Entry_Score', 5),
+                'AI_MT_Outlook': (result.get('MT_Outlook', '') or '')[:500],
+                'AI_LT_Outlook': (result.get('LT_Outlook', '') or '')[:300],
+                'AI_Risk_Level': result.get('Risk_Level', 'MEDIUM'),
+                'AI_Key_Levels': (result.get('Key_Levels', '') or '')[:100],
+            }
+
+        except json.JSONDecodeError as e:
+            if self.verbose:
+                print(f"    ❌ JSON parse error: {e}")
+            return self._empty_multi_horizon()
+
+    def _empty_multi_horizon(self) -> Dict[str, Any]:
+        """Return empty multi-horizon result."""
+        return {
+            'AI_ST_Outlook': 'Analysis unavailable',
+            'AI_MT_Entry_Score': '',
+            'AI_MT_Outlook': 'Analysis unavailable',
+            'AI_LT_Outlook': 'Analysis unavailable',
+            'AI_Risk_Level': '',
+            'AI_Key_Levels': '',
+        }
+
+    # =========================================================================
     # TRANSCRIPT SUMMARIZATION
     # =========================================================================
-    
+
     def summarize_transcript(self, ticker: str, period: str, text: str) -> Dict[str, Any]:
         """
         Summarize an earnings transcript.

@@ -7,16 +7,15 @@ Tiered storage system:
 - Tier 3 (Monthly): 90+ days - Compressed monthly aggregates
 """
 
-from .supabase_client import (
-    SupabaseArchiver,
-    archive_daily_indicators,
-    get_historical_data,
-    delete_daily_data,
-)
-
 from .aggregator import (
     MonthlyAggregator,
     run_monthly_aggregation,
+)
+from .supabase_client import (
+    SupabaseArchiver,
+    archive_daily_indicators,
+    delete_daily_data,
+    get_historical_data,
 )
 
 __all__ = [

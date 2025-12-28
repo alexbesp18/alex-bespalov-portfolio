@@ -8,15 +8,15 @@ Provides:
 - bollinger_bands_with_width: Bollinger Bands with bandwidth
 """
 
-from .process_ohlcv import (
-    process_ohlcv_data,
-    add_standard_indicators,
-    bollinger_bands_with_width,
-)
-from .flags_matrix import calculate_matrix, filter_by_flags
 from .bullish_score import (
     calculate_bullish_score,
     calculate_bullish_score_detailed,
+)
+from .flags_matrix import calculate_matrix, filter_by_flags
+from .process_ohlcv import (
+    add_standard_indicators,
+    bollinger_bands_with_width,
+    process_ohlcv_data,
 )
 
 __all__ = [

@@ -5,8 +5,9 @@ Identifies local minima (swing lows) and maxima (swing highs)
 in price and indicator series.
 """
 
-import pandas as pd
 from typing import Dict
+
+import pandas as pd
 
 
 def find_swing_lows(series: pd.Series) -> pd.Series:

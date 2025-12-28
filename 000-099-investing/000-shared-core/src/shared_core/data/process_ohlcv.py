@@ -4,8 +4,9 @@ OHLCV data processing utilities.
 Converts raw API responses to DataFrames with calculated indicators.
 """
 
-import pandas as pd
 from typing import Any, Dict, Optional
+
+import pandas as pd
 
 # Import TechnicalCalculator for indicator calculations
 from ..market_data.technical import TechnicalCalculator

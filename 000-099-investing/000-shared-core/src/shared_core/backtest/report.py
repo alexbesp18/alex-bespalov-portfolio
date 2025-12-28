@@ -6,10 +6,7 @@ Generates human-readable and structured reports from backtest results.
 
 from typing import List, Optional
 
-from .models import (
-    BacktestResult, SignalEvent, HorizonMetrics,
-    ConvictionLevel
-)
+from .models import BacktestResult, ConvictionLevel, HorizonMetrics, SignalEvent
 
 
 def generate_backtest_report(result: BacktestResult, detailed: bool = False) -> str:

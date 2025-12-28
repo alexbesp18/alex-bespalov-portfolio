@@ -6,8 +6,8 @@ Detects price/indicator divergences that may signal trend reversals.
 
 import pandas as pd
 
-from ..scoring.models import DivergenceType, DivergenceResult
-from .swing_points import find_swing_lows, find_swing_highs
+from ..scoring.models import DivergenceResult, DivergenceType
+from .swing_points import find_swing_highs, find_swing_lows
 
 
 def detect_divergence_enhanced(

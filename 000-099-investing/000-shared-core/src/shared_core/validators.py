@@ -6,8 +6,8 @@ dates, and API keys. Raises ValueError with descriptive messages
 on invalid input.
 """
 
-import re
 import logging
+import re
 from datetime import datetime
 from typing import List, Optional
 

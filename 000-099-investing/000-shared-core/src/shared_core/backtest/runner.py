@@ -13,7 +13,7 @@ import os
 import sys
 from datetime import date
 from pathlib import Path
-from typing import List, Dict, Optional
+from typing import Dict, List, Optional
 
 import pandas as pd
 
@@ -21,7 +21,7 @@ import pandas as pd
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from .engine import BacktestEngine
-from .models import SignalType, ConvictionLevel
+from .models import ConvictionLevel, SignalType
 from .report import generate_backtest_report, generate_csv_report
 
 
@@ -130,8 +130,8 @@ def load_ticker_data(
 
     Uses cached data if available, otherwise fetches from API.
     """
-    from ..market_data.twelve_data import TwelveDataClient
     from ..cache.data_cache import DataCache
+    from ..market_data.twelve_data import TwelveDataClient
 
     # Try loading from cache first
     if cache_dir:

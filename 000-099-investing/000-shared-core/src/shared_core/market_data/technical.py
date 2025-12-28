@@ -5,15 +5,16 @@ Pure math functions operating on pandas DataFrames/Series.
 Unified calculator for all investing projects in 000-099-investing.
 """
 
-import pandas as pd
-import numpy as np
 from typing import Tuple
 
+import numpy as np
+import pandas as pd
+
 from shared_core.config.constants import (
-    TREND_THRESHOLDS,
-    RSI_THRESHOLDS,
-    VOLATILITY_THRESHOLDS,
     DEFAULT_PERIODS,
+    RSI_THRESHOLDS,
+    TREND_THRESHOLDS,
+    VOLATILITY_THRESHOLDS,
 )
 
 

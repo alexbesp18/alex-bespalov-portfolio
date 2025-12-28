@@ -6,9 +6,10 @@ Unified client for all investing projects in 000-099-investing.
 """
 
 import datetime as dt
-import requests
+from typing import Any, Dict, List, Optional
+
 import pandas as pd
-from typing import Dict, List, Optional, Any
+import requests
 
 from ..cache.data_cache import DataCache
 from .technical import TechnicalCalculator
