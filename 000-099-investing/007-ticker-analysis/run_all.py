@@ -33,6 +33,13 @@ from core import (
     SheetManager,
 )
 
+# Multi-horizon analysis (short/medium/long term)
+try:
+    from shared_core.scoring.multi_horizon import MultiHorizonCalculator
+    MULTI_HORIZON_AVAILABLE = True
+except ImportError:
+    MULTI_HORIZON_AVAILABLE = False
+
 
 def parse_args():
     parser = argparse.ArgumentParser(
@@ -147,7 +154,12 @@ def main():
         max_tokens=config.grok.max_summary_tokens,
         verbose=config.verbose,
     ) if config.grok.summarization_enabled else None
-    
+
+    # Multi-horizon calculator for short/medium/long term analysis
+    multi_horizon_calc = MultiHorizonCalculator() if MULTI_HORIZON_AVAILABLE else None
+    if multi_horizon_calc and run_technicals:
+        print("   ✅ Multi-horizon analysis enabled")
+
     sheet_manager = SheetManager(
         credentials_file=str(script_dir / config.google_sheets.credentials_file),
         spreadsheet_name=config.google_sheets.spreadsheet_name,
@@ -238,8 +250,10 @@ def main():
     # =========================================================================
     # TECHNICALS
     # =========================================================================
-    
+
     tech_results = []
+    multi_horizon_results = []
+
     if run_technicals and tickers_for_tech:
         print(f"\n📊 FETCHING TECHNICAL DATA")
         print("-" * 40)
@@ -257,9 +271,26 @@ def main():
                     result.update(ai_analysis)
                     time.sleep(0.3)
                 tech_results.append(result)
+
+                # Calculate multi-horizon indicators (short/med/long term)
+                if multi_horizon_calc:
+                    df = cache.get_twelve_data(ticker)
+                    if df is not None and len(df) >= 50:
+                        mh_result = multi_horizon_calc.calculate_all(df)
+                        mh_result['Ticker'] = ticker
+                        mh_result['Updated'] = dt.datetime.now().strftime('%Y-%m-%d %H:%M')
+
+                        # Add Grok multi-horizon analysis if available
+                        if grok:
+                            ai_mh = grok.analyze_multi_horizon(ticker, mh_result)
+                            mh_result.update(ai_mh)
+                            time.sleep(0.3)
+
+                        multi_horizon_results.append(mh_result)
+
             elif result:
                 tech_results.append(result)
-            
+
             if not is_cached or config.force_refresh:
                 time.sleep(config.twelve_data.rate_limit_sleep)
     
@@ -314,7 +345,17 @@ def main():
                 sheet_manager.write_tech_data_with_replacements(
                     config.google_sheets.tech_data_tab, tech_results, existing_tech_data
                 )
-        
+
+        # Write multi-horizon data to tech_analysis_clean tab
+        if multi_horizon_results:
+            print(f"\n📊 WRITING MULTI-HORIZON DATA")
+            print("-" * 40)
+            sheet_manager.write_multi_horizon_data(
+                'tech_analysis_clean',
+                multi_horizon_results
+            )
+            print(f"   ✅ Wrote {len(multi_horizon_results)} rows to 'tech_analysis_clean'")
+
         if transcript_results:
             should_append = len(existing_transcript_tickers) > 0 and not config.clean
             sheet_manager.write_transcripts(
@@ -329,21 +370,26 @@ def main():
     if tech_results:
         tech_ok = sum(1 for r in tech_results if r.get('Status') == 'OK')
         print(f"Technical data: {tech_ok}/{len(tickers_for_tech)} successful")
-    
+
+    if multi_horizon_results:
+        print(f"Multi-horizon:  {len(multi_horizon_results)} tickers analyzed")
+
     if transcript_results:
         trans_ok = sum(1 for r in transcript_results if r.get('Status') == 'OK')
         print(f"Transcripts:    {trans_ok}/{len(tickers_for_trans)} successful")
-    
+
     if config.dry_run:
         print("\n⚠️  DRY RUN - No data was written to sheets")
     else:
         tabs = []
         if tech_results:
             tabs.append(f"'{config.google_sheets.tech_data_tab}'")
+        if multi_horizon_results:
+            tabs.append("'tech_analysis_clean'")
         if transcript_results:
             tabs.append(f"'{config.google_sheets.transcripts_tab}'")
         if tabs:
-            print(f"\n✅ Data written to: {' and '.join(tabs)}")
+            print(f"\n✅ Data written to: {', '.join(tabs)}")
 
 
 if __name__ == "__main__":
