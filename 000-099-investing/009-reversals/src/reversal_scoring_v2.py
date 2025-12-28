@@ -76,7 +76,8 @@ def get_volume_multiplier(df: pd.DataFrame) -> Tuple[float, float]:
     current_volume = df['volume'].iloc[-1]
     avg_volume = df['volume'].rolling(window=20).mean().iloc[-1]
 
-    if pd.isna(avg_volume) or avg_volume == 0:
+    # Handle missing volume data - default to neutral
+    if pd.isna(current_volume) or pd.isna(avg_volume) or avg_volume == 0:
         return 1.0, 1.0
 
     ratio = current_volume / avg_volume
@@ -101,7 +102,8 @@ def get_volume_ratio(df: pd.DataFrame) -> float:
     current_volume = df['volume'].iloc[-1]
     avg_volume = df['volume'].rolling(window=20).mean().iloc[-1]
 
-    if pd.isna(avg_volume) or avg_volume == 0:
+    # Handle missing volume data - default to neutral
+    if pd.isna(current_volume) or pd.isna(avg_volume) or avg_volume == 0:
         return 1.0
 
     return current_volume / avg_volume

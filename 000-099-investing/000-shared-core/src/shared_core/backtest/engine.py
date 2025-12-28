@@ -14,6 +14,8 @@ from .models import (
     SignalEvent, SignalType, ConvictionLevel,
     BacktestResult, HorizonMetrics, HORIZON_DAYS
 )
+from ..divergence.divergence import detect_combined_divergence
+from ..scoring.models import DivergenceType
 
 
 @dataclass
@@ -244,25 +246,28 @@ class BacktestEngine:
         close = current['close']
         prev_close = prev['close']
 
-        # Volume ratio
+        # Volume ratio (with NaN handling)
         if 'volume' in df.columns:
             current_volume = df['volume'].iloc[-1]
             avg_volume = df['volume'].rolling(window=20).mean().iloc[-1]
-            volume_ratio = current_volume / avg_volume if avg_volume > 0 else 1.0
+            if pd.isna(current_volume) or pd.isna(avg_volume) or avg_volume == 0:
+                volume_ratio = 1.0
+            else:
+                volume_ratio = current_volume / avg_volume
         else:
             volume_ratio = 1.0
 
         # Score components based on signal type
         if signal_type == SignalType.UPSIDE_REVERSAL:
             components = self._score_upside_components(
-                rsi, macd, macd_signal, macd_hist,
+                df, rsi, macd, macd_signal, macd_hist,
                 prev_macd, prev_macd_signal, prev_macd_hist,
                 close, sma50, prev_close, prev_sma50,
                 sma200, prev_sma200, volume_ratio
             )
         else:
             components = self._score_downside_components(
-                rsi, macd, macd_signal, macd_hist,
+                df, rsi, macd, macd_signal, macd_hist,
                 prev_macd, prev_macd_signal, prev_macd_hist,
                 close, sma50, prev_close, prev_sma50,
                 sma200, prev_sma200, volume_ratio
@@ -293,7 +298,7 @@ class BacktestEngine:
         return (round(final_score, 2), conviction, round(volume_ratio, 2), round(adx if not pd.isna(adx) else 25, 1))
 
     def _score_upside_components(
-        self, rsi, macd, macd_signal, macd_hist,
+        self, df: pd.DataFrame, rsi, macd, macd_signal, macd_hist,
         prev_macd, prev_macd_signal, prev_macd_hist,
         close, sma50, prev_close, prev_sma50,
         sma200, prev_sma200, volume_ratio
@@ -388,13 +393,21 @@ class BacktestEngine:
         else:
             components['volume'] = 1.0
 
-        # Divergence (simplified - would need more complex logic)
-        components['divergence'] = 1.0  # Default, can enhance later
+        # Divergence detection (using combined RSI + OBV)
+        try:
+            divergence = detect_combined_divergence(df, lookback=20)
+            if divergence.type == DivergenceType.BULLISH:
+                # Bullish divergence is good for upside reversal
+                components['divergence'] = min(10.0, 7.0 + (divergence.strength / 10.0))
+            else:
+                components['divergence'] = 1.0
+        except Exception:
+            components['divergence'] = 1.0
 
         return components
 
     def _score_downside_components(
-        self, rsi, macd, macd_signal, macd_hist,
+        self, df: pd.DataFrame, rsi, macd, macd_signal, macd_hist,
         prev_macd, prev_macd_signal, prev_macd_hist,
         close, sma50, prev_close, prev_sma50,
         sma200, prev_sma200, volume_ratio
@@ -487,8 +500,16 @@ class BacktestEngine:
         else:
             components['volume'] = 1.0
 
-        # Divergence
-        components['divergence'] = 1.0
+        # Divergence detection (using combined RSI + OBV)
+        try:
+            divergence = detect_combined_divergence(df, lookback=20)
+            if divergence.type == DivergenceType.BEARISH:
+                # Bearish divergence is good for downside reversal
+                components['divergence'] = min(10.0, 7.0 + (divergence.strength / 10.0))
+            else:
+                components['divergence'] = 1.0
+        except Exception:
+            components['divergence'] = 1.0
 
         return components
 
