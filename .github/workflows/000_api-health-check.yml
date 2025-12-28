@@ -20,7 +20,7 @@ jobs:
 
       - name: Test Google Sheets API
         env:
-          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+          GOOGLE_CREDENTIALS: ${{ secrets.GDRIVE_API_KEY_JSON }}
         run: |
           python << 'EOF'
           import json
