@@ -12,6 +12,7 @@ from .reversal_scoring_v2 import (
     calculate_downside_reversal_score_v2,
     detect_combined_divergence,
     DivergenceType,
+    ConvictionLevel,
     format_score_report,
 )
 
@@ -38,16 +39,19 @@ class ReversalCalculator:
         Returns: (score, breakdown_dict)
         """
         result = calculate_upside_reversal_score_v2(df)
-        
+
         # Convert ReversalScore dataclass to legacy tuple format
         breakdown = {
             **result.components,
             'volume_multiplier': result.volume_multiplier,
+            'volume_ratio': result.volume_ratio,
             'adx_multiplier': result.adx_multiplier,
+            'adx_value': result.adx_value,
             'divergence_type': result.divergence.description if result.divergence else 'None',
             'raw_score': result.raw_score,
+            'conviction': result.conviction.value,  # Expose conviction level
         }
-        
+
         return result.final_score, breakdown
     
     def calculate_downside_reversal_score(self, df: pd.DataFrame) -> tuple:
@@ -63,16 +67,19 @@ class ReversalCalculator:
         Returns: (score, breakdown_dict)
         """
         result = calculate_downside_reversal_score_v2(df)
-        
+
         # Convert ReversalScore dataclass to legacy tuple format
         breakdown = {
             **result.components,
             'volume_multiplier': result.volume_multiplier,
+            'volume_ratio': result.volume_ratio,
             'adx_multiplier': result.adx_multiplier,
+            'adx_value': result.adx_value,
             'divergence_type': result.divergence.description if result.divergence else 'None',
             'raw_score': result.raw_score,
+            'conviction': result.conviction.value,  # Expose conviction level
         }
-        
+
         return result.final_score, breakdown
     
     def detect_reversal_triggers(self, df: pd.DataFrame) -> dict:
@@ -172,12 +179,17 @@ class ReversalCalculator:
     def get_full_reversal_analysis(self, df: pd.DataFrame, symbol: str = '') -> dict:
         """
         Returns complete reversal analysis for a ticker.
+        Includes conviction levels for filtering actionable signals.
         """
         upside_score, upside_breakdown = self.calculate_upside_reversal_score(df)
         downside_score, downside_breakdown = self.calculate_downside_reversal_score(df)
         triggers = self.detect_reversal_triggers(df)
-        
-        # Determine primary signal
+
+        # Get conviction levels from breakdowns
+        upside_conviction = upside_breakdown.get('conviction', 'NONE')
+        downside_conviction = downside_breakdown.get('conviction', 'NONE')
+
+        # Determine primary signal (now with conviction awareness)
         if upside_score >= 7 and len(triggers['upside']) > 0:
             signal = 'UPSIDE_REVERSAL'
         elif downside_score >= 7 and len(triggers['downside']) > 0:
@@ -188,14 +200,16 @@ class ReversalCalculator:
             signal = 'DOWNSIDE_WATCH'
         else:
             signal = 'NEUTRAL'
-        
+
         return {
             'symbol': symbol,
             'price': df.iloc[-1]['close'] if df is not None and len(df) > 0 else 0,
             'signal': signal,
             'upside_reversal_score': upside_score,
+            'upside_conviction': upside_conviction,  # NEW: conviction level
             'upside_breakdown': upside_breakdown,
             'downside_reversal_score': downside_score,
+            'downside_conviction': downside_conviction,  # NEW: conviction level
             'downside_breakdown': downside_breakdown,
             'upside_triggers': triggers['upside'],
             'downside_triggers': triggers['downside'],
