@@ -5,11 +5,10 @@ Generates human-readable and structured reports from backtest results.
 """
 
 from typing import List, Optional
-from datetime import date
 
 from .models import (
     BacktestResult, SignalEvent, HorizonMetrics,
-    ConvictionLevel, SignalType
+    ConvictionLevel
 )
 
 
