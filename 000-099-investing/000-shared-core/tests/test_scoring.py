@@ -75,13 +75,13 @@ class TestScoreRsiOversold:
     """Tests for score_rsi_oversold function."""
     
     @pytest.mark.parametrize("rsi,expected", [
-        (10, 10.0),  # Extremely oversold
-        (18, 9.0),   # Very oversold
-        (23, 8.0),   # Quite oversold
-        (28, 6.0),   # Oversold
-        (33, 4.5),   # Mildly oversold
-        (38, 3.0),   # Slightly oversold
-        (48, 2.0),   # Near neutral
+        (10, 10.0),  # Extreme oversold (< 15)
+        (18, 9.0),   # Very oversold (< 20)
+        (23, 7.0),   # Oversold (< 25) - tightened
+        (28, 5.0),   # Approaching oversold (< 30) - tightened
+        (33, 1.0),   # Not oversold (>= 30) - tightened
+        (38, 1.0),   # Not oversold (>= 30) - tightened
+        (48, 1.0),   # Not oversold (>= 30) - tightened
         (60, 1.0),   # Not oversold
     ])
     def test_score_rsi_oversold_thresholds(self, rsi, expected):
@@ -122,12 +122,12 @@ class TestScoreStochasticOversold:
     """Tests for score_stochastic_oversold function."""
     
     @pytest.mark.parametrize("stoch_k,expected", [
-        (3, 10.0),
-        (8, 9.0),
-        (13, 7.0),
-        (18, 5.0),
-        (25, 3.0),
-        (40, 1.0),
+        (3, 10.0),   # Extreme oversold (< 5)
+        (8, 9.0),    # Very oversold (< 10)
+        (13, 7.0),   # Oversold (< 15)
+        (18, 5.0),   # Approaching oversold (< 20)
+        (25, 1.0),   # Not oversold (>= 20) - tightened
+        (40, 1.0),   # Not oversold
     ])
     def test_thresholds(self, stoch_k, expected):
         result = score_stochastic_oversold(stoch_k)
