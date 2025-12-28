@@ -110,6 +110,20 @@ Cache enables <2s execution for consumer projects.
 | Format | ruff format (100 char) | Prettier (100 char) |
 | Version | 3.10+ | React 19, Node 18+ |
 
+## Environment Variables
+
+Projects use `.env` files (see `.env.example` in each project). Key variables:
+
+| Variable | Used By | Purpose |
+|----------|---------|---------|
+| `TWELVE_DATA_API_KEY` | 007, 008, 009, 010 | Market data API |
+| `ANTHROPIC_API_KEY` | 003, 006 | Claude LLM |
+| `OPENAI_API_KEY` | 003, 006 | GPT-4 LLM |
+| `XAI_API_KEY` | 003, 006 | Grok LLM |
+| `GOOGLE_API_KEY` | 003, 006 | Gemini LLM |
+| `RESEND_API_KEY` | 008, 009, 010 | Email notifications |
+| `SUPABASE_URL/KEY` | 000-shared-core | Alert state persistence |
+
 ## Conventions
 
 - Shared libraries are project #X0 (000-shared-core, 100-shared-core)
