@@ -1,0 +1,23 @@
+# Core
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Scraping
+beautifulsoup4==4.12.0
+tenacity==8.2.3
+requests>=2.31.0
+
+# Database
+supabase>=2.0.0
+
+# Testing
+pytest==7.4.0
+pytest-mock==3.12.0
+pytest-cov==4.1.0
+mypy==1.8.0
+
+# Dev
+ruff==0.1.6
+types-beautifulsoup4==4.12.0.7
+types-requests==2.31.0.10
