@@ -1,0 +1,162 @@
+# ============================================================================
+# 🤖 AI ASSISTANT FILES
+# ============================================================================
+CLAUDE.md
+
+# ============================================================================
+# 🔒 CRITICAL - API KEYS & CREDENTIALS
+# ============================================================================
+config.json
+*.env
+.env
+.env.local
+.env.*.local
+
+# Google Service Account (multiple possible names)
+service-account.json
+credentials.json
+google-credentials.json
+*-credentials.json
+*.json
+!config.json.example
+!package.json
+!package-lock.json
+!tsconfig.json
+# Alert config files are optional overrides (use cache by default)
+# !**/config/portfolio.json
+# !**/config/watchlist.json
+# !**/config/actioned.json
+
+# ============================================================================
+# 🗑️ PYTHON CACHE & BUILD FILES
+# ============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ============================================================================
+# 📊 DATA & OUTPUT FILES
+# ============================================================================
+stock_reports/
+*.csv
+*.xlsx
+*.xls
+data/
+!**/src/**/data/
+outputs/
+results/
+reports/
+*.pkl
+*.pickle
+
+# ============================================================================
+# 📦 NODE.JS
+# ============================================================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ============================================================================
+# 🐍 VIRTUAL ENVIRONMENTS
+# ============================================================================
+venv/
+env/
+ENV/
+.venv/
+virtualenv/
+pipenv/
+poetry.lock
+
+# ============================================================================
+# 💻 IDE & EDITOR FILES
+# ============================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# ============================================================================
+# 📓 JUPYTER NOTEBOOKS
+# ============================================================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ============================================================================
+# 🖥️ OPERATING SYSTEM FILES
+# ============================================================================
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ============================================================================
+# 🧪 TESTING & COVERAGE
+# ============================================================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# ============================================================================
+# 📝 LOGS & DEBUGGING
+# ============================================================================
+*.log
+logs/
+*.log.*
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ============================================================================
+# 🔐 SECURITY SCANS
+# ============================================================================
+.snyk
+.secrets.baseline
+
+# ============================================================================
+# 📦 ARCHIVE & BACKUPS - LOCAL ONLY
+# ============================================================================
+_archive/
+_backup/
+walker-advertising-ai/
