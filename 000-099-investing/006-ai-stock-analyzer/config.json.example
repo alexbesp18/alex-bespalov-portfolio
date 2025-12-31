@@ -1,0 +1,21 @@
+{
+  "api_keys": {
+    "anthropic": "sk-ant-your-key-here",
+    "openai": "sk-your-key-here",
+    "google": "your-google-ai-key-here",
+    "twelve_data": "your-twelvedata-key-here"
+  },
+  "google_sheet_url": "your-google-sheet-url-here",
+  "claude_settings": {
+    "enabled": true,
+    "model": "sonnet-4.5"
+  },
+  "openai_settings": {
+    "enabled": true,
+    "model": "gpt-5"
+  },
+  "gemini_settings": {
+    "enabled": true,
+    "model": "gemini-2.5-pro"
+  }
+}

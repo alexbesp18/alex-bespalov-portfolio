@@ -1,0 +1,199 @@
+// ============================================================================
+// GROK 4.1 – RETAIL HYPE SCORER v9.0 (REAL DATA + TRANSCRIPTS + WEB SEARCH)
+// ============================================================================
+//
+// SETUP INSTRUCTIONS:
+// 1. Copy this file to hype_scorer_v9.gs
+// 2. Replace 'YOUR_XAI_API_KEY' with your actual xAI API key
+// 3. The .gs file is gitignored to protect your API key
+//
+// WHAT'S NEW IN v9.0:
+// - Reads pre-fetched TECHNICAL DATA from "Tech_Data" tab
+// - Reads pre-fetched TRANSCRIPT SUMMARIES from "Transcripts" tab
+// - Enriched prompts include REAL indicator values (not just web search)
+// - Grok focuses web search on SOCIAL/SENTIMENT data only
+// - Data freshness indicator shows when data was last fetched
+//
+// WORKFLOW:
+// 1. Run Python script: python sheet_data_loader.py
+// 2. Run this scorer from Sheets menu: 🚀 Hype Scorer v9.0 → Score All
+//
+// COLUMNS:
+//   A = Ticker    B = Category    C = Subcategory    D = Focus    E = Notes
+//   F = Score     G = Type        H = Drivers        I = Risk
+//   J = Beta      K = EarningsDate   L = EarningsScore   M = EarningsSummary
+//   N = Timestamp    O = Validation   P = DataSource
+// ============================================================================
+
+const CONFIG = {
+  MODEL: 'grok-4-1-fast-reasoning',
+  API_KEY: 'YOUR_XAI_API_KEY',  // <-- REPLACE WITH YOUR ACTUAL KEY
+  BASE_URL: 'https://api.x.ai/v1/chat/completions',
+  SLEEP_MS: 5000,
+  MAX_RUNTIME_MS: 5.5 * 60 * 1000,
+  MAX_RETRIES: 2,
+
+  // Column configuration (main sheet)
+  COL_TICKER: 1,            // A
+  COL_SCORE: 6,             // F
+  COL_TYPE: 7,              // G
+  COL_DRIVERS: 8,           // H
+  COL_RISK: 9,              // I
+  COL_BETA: 10,             // J
+  COL_EARNINGS_DATE: 11,    // K
+  COL_EARNINGS_SCORE: 12,   // L
+  COL_EARNINGS_SUMMARY: 13, // M
+  COL_TIMESTAMP: 14,        // N
+  COL_VALIDATION: 15,       // O
+  COL_DATA_SOURCE: 16,      // P (NEW: shows data freshness)
+
+  // Helper tab names
+  TECH_DATA_TAB: 'Tech_Data',
+  TRANSCRIPTS_TAB: 'Transcripts',
+  
+  // Data freshness threshold (hours)
+  DATA_FRESHNESS_HOURS: 24
+};
+
+// ============================================================================
+// DATA LOOKUP FUNCTIONS (NEW in v9.0)
+// ============================================================================
+
+/**
+ * Load all tech data from Tech_Data tab into a lookup map
+ * @returns {Object} Map of ticker -> technical data object
+ */
+function loadTechDataMap() {
+  const ss = SpreadsheetApp.getActiveSpreadsheet();
+  const sheet = ss.getSheetByName(CONFIG.TECH_DATA_TAB);
+  
+  if (!sheet) {
+    Logger.log('⚠️ Tech_Data tab not found. Run Python loader first.');
+    return {};
+  }
+  
+  const data = sheet.getDataRange().getValues();
+  if (data.length < 2) {
+    Logger.log('⚠️ Tech_Data tab is empty.');
+    return {};
+  }
+  
+  const headers = data[0];
+  const map = {};
+  
+  for (let i = 1; i < data.length; i++) {
+    const row = data[i];
+    const ticker = String(row[0] || '').toUpperCase().trim();
+    if (!ticker) continue;
+    
+    const obj = {};
+    headers.forEach((h, idx) => {
+      obj[h] = row[idx];
+    });
+    map[ticker] = obj;
+  }
+  
+  Logger.log(`✓ Loaded tech data for ${Object.keys(map).length} tickers`);
+  return map;
+}
+
+/**
+ * Load all transcript data from Transcripts tab into a lookup map
+ * @returns {Object} Map of ticker -> transcript data object
+ */
+function loadTranscriptsMap() {
+  const ss = SpreadsheetApp.getActiveSpreadsheet();
+  const sheet = ss.getSheetByName(CONFIG.TRANSCRIPTS_TAB);
+  
+  if (!sheet) {
+    Logger.log('⚠️ Transcripts tab not found. Run Python loader first.');
+    return {};
+  }
+  
+  const data = sheet.getDataRange().getValues();
+  if (data.length < 2) {
+    Logger.log('⚠️ Transcripts tab is empty.');
+    return {};
+  }
+  
+  const headers = data[0];
+  const map = {};
+  
+  for (let i = 1; i < data.length; i++) {
+    const row = data[i];
+    const ticker = String(row[0] || '').toUpperCase().trim();
+    if (!ticker) continue;
+    
+    const obj = {};
+    headers.forEach((h, idx) => {
+      obj[h] = row[idx];
+    });
+    map[ticker] = obj;
+  }
+  
+  Logger.log(`✓ Loaded transcripts for ${Object.keys(map).length} tickers`);
+  return map;
+}
+
+/**
+ * Check if data is fresh (within threshold hours)
+ * @param {string} updatedStr - Date string from Updated column
+ * @returns {boolean} True if data is fresh
+ */
+function isDataFresh(updatedStr) {
+  if (!updatedStr) return false;
+  
+  try {
+    const updated = new Date(updatedStr);
+    const now = new Date();
+    const hoursDiff = (now - updated) / (1000 * 60 * 60);
+    return hoursDiff <= CONFIG.DATA_FRESHNESS_HOURS;
+  } catch (e) {
+    return false;
+  }
+}
+
+/**
+ * Format data freshness for display
+ * @param {Object} techData - Tech data object
+ * @param {Object} transcriptData - Transcript data object
+ * @returns {string} Freshness indicator
+ */
+function formatDataSource(techData, transcriptData) {
+  const parts = [];
+  
+  if (techData && techData.Status === 'OK') {
+    const fresh = isDataFresh(techData.Updated);
+    parts.push(`Tech:${fresh ? '✓' : '⚠️'}${techData.Updated || 'N/A'}`);
+  } else {
+    parts.push('Tech:❌');
+  }
+  
+  if (transcriptData && transcriptData.Status === 'OK') {
+    parts.push(`Earn:${transcriptData.Period || 'N/A'}`);
+  } else if (transcriptData && transcriptData.Status === 'NO_DATA') {
+    parts.push('Earn:N/A');
+  } else {
+    parts.push('Earn:❌');
+  }
+  
+  return parts.join(' | ');
+}
+
+// ============================================================================
+// REST OF THE FILE IS IDENTICAL TO hype_scorer_v9.gs
+// See the full implementation in hype_scorer_v9.gs after copying this template
+// ============================================================================
+
+// NOTE: The full implementation includes:
+// - buildEnrichedPrompt()
+// - scoreTickerWithRetry()
+// - callGrokWithRetry() / callGrok()
+// - GROK_HYPE_SCORER() - main scoring function
+// - TEST_HYPE_SCORER() - test mode
+// - VALIDATE_HYPE_SCORES() - validation pass
+// - Helper functions (sortByScore, getDailyRequestCount, etc.)
+// - Menu setup (onOpen)
+//
+// Copy the full hype_scorer_v9.gs file and replace API_KEY with your key.
+

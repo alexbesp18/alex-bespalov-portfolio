@@ -1,0 +1,35 @@
+# Google Service Account Credentials (KEEP SECRET!)
+google_service_account.json
+
+# Google Apps Script with API keys (use .example template)
+hype_scorer_v9.gs
+
+# Cache data (regenerated daily)
+data/
+
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+loader.log
+
+# Config files with sensitive data (optional - you may want to commit a template)
+# sheet_loader_config.json
+

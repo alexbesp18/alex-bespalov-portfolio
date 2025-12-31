@@ -1,0 +1,19 @@
+# Shared core module (install from 000-shared-core)
+# pip install -e ../000-shared-core
+# Note: This project requires yfinance for options chain data (calls, puts, strikes)
+# which Twelve Data does not provide. shared_core is available for OHLCV price data.
+
+# Core dependencies
+wxpython==4.2.1
+yfinance==0.2.28
+pydantic==2.5.0
+pydantic-settings==2.1.0
+tenacity==8.2.3
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.28.0
+
+# Development dependencies
+pytest==7.4.0
+pytest-asyncio==0.21.0
+ruff==0.1.6
