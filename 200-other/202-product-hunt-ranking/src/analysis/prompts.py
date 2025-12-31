@@ -91,7 +91,7 @@ Return a JSON object with a "products" array containing one object per product, 
       "tech_stack": ["<inferred technologies>"],
       "innovation_score": <1-10>,
       "market_fit_score": <1-10>,
-      "one_liner": "<10-15 word summary of what it does and why it matters>",
+      "what_it_does": "<2-3 sentences explaining what this tool actually does in plain English. Be objective and factual - no marketing speak, no hype, no 'revolutionizes' or 'empowers'. Just explain it like you're telling a friend what the product is.>",
       "key_differentiator": "<what makes this stand out from competitors>",
       "comparable_products": ["<similar product 1>", "<similar product 2>"],
       "stage": "<MVP|Growth|Established|Pivot>",
@@ -104,7 +104,7 @@ Return a JSON object with a "products" array containing one object per product, 
 }}
 
 DEEP ANALYSIS GUIDELINES:
-- one_liner: Crisp value prop, not marketing fluff
+- what_it_does: Plain English explanation - no marketing buzzwords, just facts
 - key_differentiator: What's genuinely novel vs. existing solutions
 - comparable_products: Name actual competitors or similar tools
 - stage: MVP (just launched), Growth (gaining traction), Established (proven), Pivot (changing direction)

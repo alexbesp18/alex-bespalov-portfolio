@@ -234,7 +234,7 @@ class PHGrokAnalyzer:
                             # Extract deep insights into maker_info
                             maker_info = {}
                             for key in [
-                                "one_liner",
+                                "what_it_does",
                                 "key_differentiator",
                                 "comparable_products",
                                 "stage",
