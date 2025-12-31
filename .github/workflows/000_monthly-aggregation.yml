@@ -1,0 +1,36 @@
+name: Monthly Indicator Aggregation
+
+on:
+  schedule:
+    # Run on 1st of each month at 6:00 AM UTC
+    - cron: '0 6 1 * *'
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Run monthly aggregation
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          python -c "
+          from shared_core.archive import run_monthly_aggregation
+          result = run_monthly_aggregation(cleanup=True)
+          print(f'Aggregation complete: {result}')
+          "

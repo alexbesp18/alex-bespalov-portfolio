@@ -1,0 +1,314 @@
+name: Daily Cache Refresh
+
+on:
+  schedule:
+    # 4:30 PM ET = 21:30 UTC (EST) or 20:30 UTC (EDT)
+    - cron: '30 21 * * 1-5'  # Weekdays only
+  workflow_dispatch:  # Manual trigger
+
+env:
+  CACHE_PATH: 000-099-investing/007-ticker-analysis/data
+
+jobs:
+  refresh-cache:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      cache-hit: ${{ steps.cache-restore.outputs.cache-hit }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get today's date for cache key
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Restore ticker cache
+        id: cache-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.date }}
+          restore-keys: |
+            ticker-cache-
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Install 007-ticker-analysis dependencies
+        run: |
+          cd 000-099-investing/007-ticker-analysis
+          pip install -r requirements.txt
+
+      - name: Create data directory
+        run: |
+          mkdir -p 000-099-investing/007-ticker-analysis/data/twelve_data
+          mkdir -p 000-099-investing/007-ticker-analysis/data/transcripts
+
+      - name: Create config.json from secrets
+        run: |
+          cd 000-099-investing/007-ticker-analysis
+          cat > config.json << EOF
+          {
+            "google_sheets": {
+              "credentials_file": "google_service_account.json",
+              "spreadsheet_name": "${{ secrets.GSHEET_NAME }}",
+              "main_tab": "Sheet1",
+              "ticker_column": "A",
+              "start_row": 2,
+              "tech_data_tab": "Tech_Data",
+              "transcripts_tab": "Transcripts"
+            },
+            "twelve_data": {
+              "api_key": "${{ secrets.TWELVE_DATA_API_KEY }}",
+              "output_size": 1000,
+              "rate_limit_sleep": 8.0
+            },
+            "grok": {
+              "api_key": "${{ secrets.GROK_API_KEY }}",
+              "model": "grok-4-1-fast-reasoning",
+              "summarization_enabled": true,
+              "max_summary_tokens": 400
+            },
+            "defeatbeta": {
+              "quarters_to_fetch": 1,
+              "min_chars": 600,
+              "earliest_year_offset": 1
+            }
+          }
+          EOF
+
+      - name: Set up Google credentials
+        run: |
+          cd 000-099-investing/007-ticker-analysis
+          echo '${{ secrets.GDRIVE_API_KEY_JSON }}' > google_service_account.json
+
+      - name: Run cache refresh (technicals only)
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          cd 000-099-investing/007-ticker-analysis
+          python run_all.py --technicals-only --verbose 2>&1 || echo "Cache refresh completed with warnings"
+
+      - name: List cached files
+        run: |
+          echo "=== Cached files ==="
+          ls -la ${{ env.CACHE_PATH }}/twelve_data/ | head -20
+          echo "Total files: $(ls ${{ env.CACHE_PATH }}/twelve_data/ | wc -l)"
+
+      - name: Save ticker cache
+        uses: actions/cache/save@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.date }}
+
+  # Run alerts after cache refresh
+  run-alerts:
+    needs: refresh-cache
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get today's date for cache key
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Restore ticker cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.date }}
+          restore-keys: |
+            ticker-cache-
+          fail-on-cache-miss: true
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Install 008-alerts dependencies
+        run: |
+          cd 000-099-investing/008-alerts
+          pip install -r requirements.txt
+
+      - name: List cache (debug)
+        run: |
+          echo "=== Cache files ==="
+          ls -la ${{ env.CACHE_PATH }}/twelve_data/ | head -10
+          echo "Total: $(ls ${{ env.CACHE_PATH }}/twelve_data/ | wc -l) files"
+
+      - name: Debug - Check Supabase env vars
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          echo "=== Supabase Environment Debug ==="
+          if [ -n "$SUPABASE_URL" ]; then
+            echo "SUPABASE_URL: SET (length: ${#SUPABASE_URL})"
+          else
+            echo "SUPABASE_URL: NOT SET"
+          fi
+          if [ -n "$SUPABASE_SERVICE_KEY" ]; then
+            echo "SUPABASE_SERVICE_KEY: SET (length: ${#SUPABASE_SERVICE_KEY})"
+          else
+            echo "SUPABASE_SERVICE_KEY: NOT SET"
+          fi
+
+      - name: Run alerts scanner
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          cd 000-099-investing/008-alerts
+          python main.py
+
+  run-reversals:
+    needs: refresh-cache
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get today's date for cache key
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Restore ticker cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.date }}
+          restore-keys: |
+            ticker-cache-
+          fail-on-cache-miss: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Install 009-reversals dependencies
+        run: |
+          cd 000-099-investing/009-reversals
+          pip install -r requirements.txt
+
+      - name: Run reversals scanner
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          cd 000-099-investing/009-reversals
+          python reversals.py
+
+  run-oversold:
+    needs: refresh-cache
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get today's date for cache key
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Restore ticker cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.date }}
+          restore-keys: |
+            ticker-cache-
+
+      - name: Verify cache restored
+        run: |
+          echo "=== Cache status ==="
+          if [ -d "${{ env.CACHE_PATH }}/twelve_data" ]; then
+            COUNT=$(ls ${{ env.CACHE_PATH }}/twelve_data/*.json 2>/dev/null | wc -l)
+            echo "✅ Found $COUNT cached files"
+          else
+            echo "⚠️ No cache directory found"
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Install 010-oversold dependencies
+        run: |
+          cd 000-099-investing/010-oversold
+          pip install -r requirements.txt
+
+      - name: Run oversold scanner
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          cd 000-099-investing/010-oversold
+          python oversold.py --all --top 20 --email
+
+  # Notify on failure
+  notify-failure:
+    runs-on: ubuntu-latest
+    needs: [refresh-cache, run-alerts, run-reversals, run-oversold]
+    if: failure()
+    steps:
+      - name: Send failure notification
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+        run: |
+          curl -X POST https://api.resend.com/emails \
+            -H "Authorization: Bearer $RESEND_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "from": "'"$SENDER_EMAIL"'",
+              "to": '"$(echo $NOTIFICATION_EMAILS | jq -R 'split(",") | map(select(length > 0))')"',
+              "subject": "Workflow Failed - '"$(date +%b\ %d)"'",
+              "html": "<h2>Daily Workflow Failed</h2><p>Check GitHub Actions for details.</p>"
+            }'

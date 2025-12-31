@@ -1,0 +1,205 @@
+name: Backtest Reversal Signals
+
+on:
+  workflow_dispatch:
+    inputs:
+      tickers:
+        description: 'Comma-separated tickers (leave empty for all cached tickers)'
+        required: false
+        default: ''
+      signal_type:
+        description: 'Signal type to backtest'
+        required: true
+        default: 'upside'
+        type: choice
+        options:
+          - upside
+          - downside
+      conviction_filter:
+        description: 'Minimum conviction level'
+        required: false
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - high
+          - medium
+      start_date:
+        description: 'Start date (YYYY-MM-DD, leave empty for all available)'
+        required: false
+        default: ''
+      end_date:
+        description: 'End date (YYYY-MM-DD, leave empty for 6 months ago)'
+        required: false
+        default: ''
+
+env:
+  CACHE_PATH: 000-099-investing/007-ticker-analysis/data
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get cache date
+        id: date
+        run: |
+          # Try today's cache first, then yesterday's
+          echo "today=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          echo "yesterday=$(date -d 'yesterday' +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Restore ticker cache (today)
+        id: cache-today
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.today }}
+
+      - name: Restore ticker cache (yesterday fallback)
+        if: steps.cache-today.outputs.cache-hit != 'true'
+        id: cache-yesterday
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: ticker-cache-${{ steps.date.outputs.yesterday }}
+          restore-keys: |
+            ticker-cache-
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Check cache status
+        id: cache-check
+        run: |
+          if [ -d "${{ env.CACHE_PATH }}/twelve_data" ]; then
+            COUNT=$(ls ${{ env.CACHE_PATH }}/twelve_data/*.parquet 2>/dev/null | wc -l)
+            echo "cached_tickers=$COUNT" >> $GITHUB_OUTPUT
+            echo "✅ Found $COUNT cached tickers"
+            ls ${{ env.CACHE_PATH }}/twelve_data/*.parquet 2>/dev/null | head -10
+          else
+            echo "cached_tickers=0" >> $GITHUB_OUTPUT
+            echo "⚠️ No cache found - will fetch fresh data"
+          fi
+
+      - name: Determine tickers to backtest
+        id: tickers
+        run: |
+          if [ -n "${{ github.event.inputs.tickers }}" ]; then
+            # Use provided tickers
+            echo "tickers=${{ github.event.inputs.tickers }}" >> $GITHUB_OUTPUT
+            echo "source=user_input" >> $GITHUB_OUTPUT
+          elif [ -d "${{ env.CACHE_PATH }}/twelve_data" ]; then
+            # Use all cached tickers
+            TICKERS=$(ls ${{ env.CACHE_PATH }}/twelve_data/*.parquet 2>/dev/null | xargs -I {} basename {} .parquet | tr '\n' ',' | sed 's/,$//')
+            echo "tickers=$TICKERS" >> $GITHUB_OUTPUT
+            echo "source=cache" >> $GITHUB_OUTPUT
+          else
+            # Default list if no cache
+            echo "tickers=AAPL,MSFT,GOOGL,AMZN,NVDA,META,TSLA,JPM,V,UNH" >> $GITHUB_OUTPUT
+            echo "source=default" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Display backtest configuration
+        run: |
+          echo "========================================"
+          echo "BACKTEST CONFIGURATION"
+          echo "========================================"
+          echo "Signal Type:      ${{ github.event.inputs.signal_type }}"
+          echo "Conviction Filter: ${{ github.event.inputs.conviction_filter }}"
+          echo "Ticker Source:    ${{ steps.tickers.outputs.source }}"
+          echo "Start Date:       ${{ github.event.inputs.start_date || 'All available' }}"
+          echo "End Date:         ${{ github.event.inputs.end_date || '6 months ago (for forward data)' }}"
+          echo ""
+          echo "Tickers:"
+          echo "${{ steps.tickers.outputs.tickers }}" | tr ',' '\n' | head -20
+          TICKER_COUNT=$(echo "${{ steps.tickers.outputs.tickers }}" | tr ',' '\n' | wc -l)
+          echo ""
+          echo "Total: $TICKER_COUNT tickers"
+          echo "========================================"
+
+      - name: Run backtest
+        id: backtest
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          PYTHONPATH: 000-099-investing/000-shared-core/src
+        run: |
+          cd 000-099-investing
+
+          # Build command
+          CMD="python -m shared_core.backtest.runner"
+          CMD="$CMD --signal-type ${{ github.event.inputs.signal_type }}"
+          CMD="$CMD --cache-dir 007-ticker-analysis/data"
+          CMD="$CMD --output-csv backtest_results.csv"
+          CMD="$CMD --verbose"
+
+          # Add tickers if provided (otherwise runner will use all cached)
+          TICKERS="${{ steps.tickers.outputs.tickers }}"
+          if [ -n "$TICKERS" ]; then
+            CMD="$CMD --tickers $TICKERS"
+          else
+            CMD="$CMD --all-cached"
+          fi
+
+          # Add conviction filter if not 'all'
+          if [ "${{ github.event.inputs.conviction_filter }}" != "all" ]; then
+            CMD="$CMD --conviction ${{ github.event.inputs.conviction_filter }}"
+          fi
+
+          # Add date filters if provided
+          if [ -n "${{ github.event.inputs.start_date }}" ]; then
+            CMD="$CMD --start-date ${{ github.event.inputs.start_date }}"
+          fi
+
+          if [ -n "${{ github.event.inputs.end_date }}" ]; then
+            CMD="$CMD --end-date ${{ github.event.inputs.end_date }}"
+          fi
+
+          echo "Running: $CMD"
+          echo ""
+
+          $CMD 2>&1 | tee backtest_output.txt
+
+          # Save output for artifact
+          mv backtest_results.csv ../backtest_results.csv 2>/dev/null || true
+          mv backtest_output.txt ../backtest_output.txt
+
+      - name: Upload backtest results
+        uses: actions/upload-artifact@v4
+        with:
+          name: backtest-results-${{ github.run_number }}
+          path: |
+            backtest_results.csv
+            backtest_output.txt
+          retention-days: 30
+
+      - name: Summary
+        run: |
+          echo "## Backtest Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Signal Type:** ${{ github.event.inputs.signal_type }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Conviction Filter:** ${{ github.event.inputs.conviction_filter }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f "backtest_output.txt" ]; then
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            # Extract key metrics from output
+            grep -A 100 "OVERALL PERFORMANCE" backtest_output.txt | head -20 >> $GITHUB_STEP_SUMMARY || true
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            grep -A 20 "KEY INSIGHTS" backtest_output.txt >> $GITHUB_STEP_SUMMARY || true
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "📊 Full results available in the artifacts." >> $GITHUB_STEP_SUMMARY

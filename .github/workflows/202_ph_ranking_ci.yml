@@ -1,0 +1,48 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '200-other/202-product-hunt-ranking/**'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '200-other/202-product-hunt-ranking/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./200-other/202-product-hunt-ranking
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11"]
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ matrix.python-version }}
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install mypy pytest-mock
+        
+    - name: Lint with Ruff
+      run: |
+        ruff check --select=E9,F63,F7,F82 --target-version=py310 src/ tests/
+        ruff check --exit-zero src/ tests/
+        
+    - name: Type check with Mypy
+      run: |
+        mypy src/
+        
+    - name: Test with pytest
+      run: |
+        pytest
