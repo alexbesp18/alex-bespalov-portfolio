@@ -1,12 +1,14 @@
 """Pydantic models for database records."""
 
 from datetime import date, datetime
-from typing import List, Optional, Dict, Any
+from typing import Any
+
 from pydantic import BaseModel, Field
 
 
 class PHProduct(BaseModel):
     """Raw scraped product data (matches existing Product model)."""
+
     week_date: date
     week_number: int
     year: int
@@ -19,30 +21,32 @@ class PHProduct(BaseModel):
 
 class GrokEnrichment(BaseModel):
     """Grok-generated enrichment fields."""
-    category: Optional[str] = None
-    subcategory: Optional[str] = None
-    target_audience: Optional[str] = None
-    tech_stack: Optional[List[str]] = None
-    maker_info: Optional[Dict[str, Any]] = None
-    pricing_model: Optional[str] = None
-    innovation_score: Optional[float] = Field(default=None, ge=0, le=10)
-    market_fit_score: Optional[float] = Field(default=None, ge=0, le=10)
+
+    category: str | None = None
+    subcategory: str | None = None
+    target_audience: str | None = None
+    tech_stack: list[str] | None = None
+    maker_info: dict[str, Any] | None = None
+    pricing_model: str | None = None
+    innovation_score: float | None = Field(default=None, ge=0, le=10)
+    market_fit_score: float | None = Field(default=None, ge=0, le=10)
 
 
 class EnrichedProduct(PHProduct):
     """Product with Grok enrichment."""
-    category: Optional[str] = None
-    subcategory: Optional[str] = None
-    target_audience: Optional[str] = None
-    tech_stack: Optional[List[str]] = None
-    maker_info: Optional[Dict[str, Any]] = None
-    pricing_model: Optional[str] = None
-    innovation_score: Optional[float] = None
-    market_fit_score: Optional[float] = None
-    scraped_at: Optional[datetime] = None
-    analyzed_at: Optional[datetime] = None
 
-    def to_db_dict(self) -> Dict[str, Any]:
+    category: str | None = None
+    subcategory: str | None = None
+    target_audience: str | None = None
+    tech_stack: list[str] | None = None
+    maker_info: dict[str, Any] | None = None
+    pricing_model: str | None = None
+    innovation_score: float | None = None
+    market_fit_score: float | None = None
+    scraped_at: datetime | None = None
+    analyzed_at: datetime | None = None
+
+    def to_db_dict(self) -> dict[str, Any]:
         """Convert to dictionary for Supabase upsert."""
         data = {
             "week_date": self.week_date.isoformat(),
@@ -78,17 +82,18 @@ class EnrichedProduct(PHProduct):
 
 class PHWeeklyInsights(BaseModel):
     """Weekly AI-generated insights."""
+
     week_date: date
     year: int
     week_number: int
-    top_trends: List[str] = Field(default_factory=list)
+    top_trends: list[str] = Field(default_factory=list)
     notable_launches: str = ""
-    category_breakdown: Dict[str, int] = Field(default_factory=dict)
+    category_breakdown: dict[str, int] = Field(default_factory=dict)
     avg_upvotes: float = 0.0
     sentiment: str = "Neutral"
     full_analysis: str = ""
 
-    def to_db_dict(self) -> Dict[str, Any]:
+    def to_db_dict(self) -> dict[str, Any]:
         """Convert to dictionary for Supabase upsert."""
         return {
             "week_date": self.week_date.isoformat(),

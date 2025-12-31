@@ -9,17 +9,16 @@ Usage:
 """
 
 import datetime
-import time
 import logging
-from typing import List
+import time
 
-from src.main import run_pipeline
-from src.config import settings as app_settings
 from backfill.config.settings import WEEKS_BACK
+from src.config import settings as app_settings
+from src.main import run_pipeline
 
 logging.basicConfig(
     level=getattr(logging, app_settings.log_level.upper(), logging.INFO),
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
 )
 logger = logging.getLogger(__name__)
 
@@ -42,7 +41,9 @@ def backfill(weeks_back: int = WEEKS_BACK, skip_existing: bool = True) -> None:
     current_year = today.year
     current_week = today.isocalendar()[1]
 
-    logger.info(f"Starting backfill for {weeks_back} weeks (current: {current_year}/W{current_week})")
+    logger.info(
+        f"Starting backfill for {weeks_back} weeks (current: {current_year}/W{current_week})"
+    )
 
     success_count = 0
     skip_count = 0
@@ -61,9 +62,7 @@ def backfill(weeks_back: int = WEEKS_BACK, skip_existing: bool = True) -> None:
 
         try:
             success = run_pipeline(
-                year=target_year,
-                week=target_week,
-                skip_if_exists=skip_existing
+                year=target_year, week=target_week, skip_if_exists=skip_existing
             )
 
             if success:
@@ -78,7 +77,9 @@ def backfill(weeks_back: int = WEEKS_BACK, skip_existing: bool = True) -> None:
         # Rate limiting: be nice to Product Hunt servers and Grok API
         time.sleep(3)
 
-    logger.info(f"Backfill complete! Success: {success_count}, Skipped: {skip_count}, Failed: {fail_count}")
+    logger.info(
+        f"Backfill complete! Success: {success_count}, Skipped: {skip_count}, Failed: {fail_count}"
+    )
 
 
 if __name__ == "__main__":

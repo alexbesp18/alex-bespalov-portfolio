@@ -1,11 +1,12 @@
 """Tests for database module."""
 
 import datetime
-from unittest.mock import Mock, patch, MagicMock
+from unittest.mock import Mock, patch
+
 import pytest
 
+from src.db.models import EnrichedProduct, GrokEnrichment, PHWeeklyInsights
 from src.db.supabase_client import PHSupabaseClient
-from src.db.models import PHProduct, EnrichedProduct, PHWeeklyInsights, GrokEnrichment
 
 
 class TestEnrichedProduct:
@@ -21,7 +22,7 @@ class TestEnrichedProduct:
             name="Test Product",
             description="A test product",
             upvotes=500,
-            url="https://example.com"
+            url="https://example.com",
         )
 
         assert product.rank == 1
@@ -43,7 +44,7 @@ class TestEnrichedProduct:
             subcategory="AI Assistant",
             target_audience="Developers",
             innovation_score=8.5,
-            market_fit_score=7.0
+            market_fit_score=7.0,
         )
 
         assert product.category == "AI"
@@ -59,7 +60,7 @@ class TestEnrichedProduct:
             name="Test",
             description="",
             upvotes=0,
-            url="https://example.com"
+            url="https://example.com",
         )
 
         db_dict = product.to_db_dict()
@@ -86,7 +87,7 @@ class TestEnrichedProduct:
             pricing_model="Freemium",
             innovation_score=8.0,
             market_fit_score=7.0,
-            analyzed_at=datetime.datetime(2025, 1, 6, 12, 0, 0)
+            analyzed_at=datetime.datetime(2025, 1, 6, 12, 0, 0),
         )
 
         db_dict = product.to_db_dict()
@@ -111,7 +112,7 @@ class TestPHWeeklyInsights:
             category_breakdown={"AI": 5, "SaaS": 3},
             avg_upvotes=450.5,
             sentiment="Bullish",
-            full_analysis='{"key": "value"}'
+            full_analysis='{"key": "value"}',
         )
 
         assert len(insights.top_trends) == 2
@@ -126,7 +127,7 @@ class TestPHWeeklyInsights:
             top_trends=["Trend 1"],
             category_breakdown={"AI": 3},
             avg_upvotes=300.0,
-            sentiment="Neutral"
+            sentiment="Neutral",
         )
 
         db_dict = insights.to_db_dict()
@@ -154,7 +155,7 @@ class TestGrokEnrichment:
             tech_stack=["Python"],
             pricing_model="Free",
             innovation_score=9.0,
-            market_fit_score=8.0
+            market_fit_score=8.0,
         )
 
         assert enrichment.category == "AI"
@@ -173,10 +174,7 @@ class TestPHSupabaseClient:
     @pytest.fixture
     def client(self):
         """Create client instance."""
-        return PHSupabaseClient(
-            url="https://test.supabase.co",
-            key="test-key"
-        )
+        return PHSupabaseClient(url="https://test.supabase.co", key="test-key")
 
     def test_init(self, client):
         """Test client initialization."""
@@ -184,7 +182,7 @@ class TestPHSupabaseClient:
         assert client.key == "test-key"
         assert client._client is None  # Lazy loaded
 
-    @patch('src.db.supabase_client.create_client')
+    @patch("src.db.supabase_client.create_client")
     def test_lazy_client_creation(self, mock_create, client):
         """Test that Supabase client is lazily created."""
         mock_supabase = Mock()
@@ -193,12 +191,9 @@ class TestPHSupabaseClient:
         # Access client property
         _ = client.client
 
-        mock_create.assert_called_once_with(
-            "https://test.supabase.co",
-            "test-key"
-        )
+        mock_create.assert_called_once_with("https://test.supabase.co", "test-key")
 
-    @patch('src.db.supabase_client.create_client')
+    @patch("src.db.supabase_client.create_client")
     def test_save_products_empty(self, mock_create, client):
         """Test saving empty product list."""
         result = client.save_products([])
@@ -206,7 +201,7 @@ class TestPHSupabaseClient:
         assert result == 0
         mock_create.assert_not_called()
 
-    @patch('src.db.supabase_client.create_client')
+    @patch("src.db.supabase_client.create_client")
     def test_save_products(self, mock_create, client):
         """Test saving products."""
         mock_supabase = Mock()
@@ -226,7 +221,7 @@ class TestPHSupabaseClient:
                 name="Test",
                 description="",
                 upvotes=100,
-                url="https://example.com"
+                url="https://example.com",
             )
         ]
 
@@ -235,12 +230,14 @@ class TestPHSupabaseClient:
         assert result == 1
         mock_table.upsert.assert_called_once()
 
-    @patch('src.db.supabase_client.create_client')
+    @patch("src.db.supabase_client.create_client")
     def test_week_exists(self, mock_create, client):
         """Test checking if week exists."""
         mock_supabase = Mock()
         mock_table = Mock()
-        mock_table.select.return_value.eq.return_value.limit.return_value.execute.return_value.data = [{"rank": 1}]
+        mock_table.select.return_value.eq.return_value.limit.return_value.execute.return_value.data = [
+            {"rank": 1}
+        ]
         mock_schema = Mock()
         mock_schema.table.return_value = mock_table
         mock_supabase.schema.return_value = mock_schema
@@ -250,12 +247,16 @@ class TestPHSupabaseClient:
 
         assert result is True
 
-    @patch('src.db.supabase_client.create_client')
+    @patch("src.db.supabase_client.create_client")
     def test_week_not_exists(self, mock_create, client):
         """Test checking if week does not exist."""
         mock_supabase = Mock()
         mock_table = Mock()
-        mock_table.select.return_value.eq.return_value.limit.return_value.execute.return_value.data = []
+        mock_result = Mock()
+        mock_result.data = []
+        mock_table.select.return_value.eq.return_value.limit.return_value.execute.return_value = (
+            mock_result
+        )
         mock_schema = Mock()
         mock_schema.table.return_value = mock_table
         mock_supabase.schema.return_value = mock_schema

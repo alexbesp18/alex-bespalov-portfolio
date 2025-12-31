@@ -2,17 +2,18 @@
 
 import datetime
 import json
-from unittest.mock import Mock, patch, MagicMock
+from unittest.mock import Mock, patch
+
 import pytest
 
 from src.analysis.grok_analyzer import PHGrokAnalyzer
 from src.analysis.prompts import (
+    BATCH_CATEGORIZATION_PROMPT,
     PRODUCT_CATEGORIZATION_PROMPT,
     WEEKLY_INSIGHTS_PROMPT,
-    BATCH_CATEGORIZATION_PROMPT,
 )
-from src.models import Product
 from src.db.models import EnrichedProduct, GrokEnrichment
+from src.models import Product
 
 
 class TestPHGrokAnalyzer:
@@ -31,7 +32,7 @@ class TestPHGrokAnalyzer:
             name="AI Assistant",
             description="An AI-powered productivity tool",
             url="https://producthunt.com/posts/ai-assistant",
-            upvotes=500
+            upvotes=500,
         )
 
     def test_init(self, analyzer):
@@ -40,7 +41,7 @@ class TestPHGrokAnalyzer:
         assert analyzer.model == "grok-4-1-fast-reasoning"
         assert analyzer.base_url == "https://api.x.ai/v1/chat/completions"
 
-    @patch('src.analysis.grok_analyzer.requests.post')
+    @patch("src.analysis.grok_analyzer.requests.post")
     def test_call_api_success(self, mock_post, analyzer):
         """Test successful API call."""
         mock_response = Mock()
@@ -55,7 +56,7 @@ class TestPHGrokAnalyzer:
         assert result == '{"category": "AI"}'
         mock_post.assert_called_once()
 
-    @patch('src.analysis.grok_analyzer.requests.post')
+    @patch("src.analysis.grok_analyzer.requests.post")
     def test_call_api_rate_limited(self, mock_post, analyzer):
         """Test API rate limiting handling."""
         mock_response = Mock()
@@ -66,7 +67,7 @@ class TestPHGrokAnalyzer:
 
         assert result is None
 
-    @patch('src.analysis.grok_analyzer.requests.post')
+    @patch("src.analysis.grok_analyzer.requests.post")
     def test_call_api_error(self, mock_post, analyzer):
         """Test API error handling."""
         mock_response = Mock()
@@ -78,7 +79,7 @@ class TestPHGrokAnalyzer:
 
         assert result is None
 
-    @patch('src.analysis.grok_analyzer.requests.post')
+    @patch("src.analysis.grok_analyzer.requests.post")
     def test_call_api_strips_markdown(self, mock_post, analyzer):
         """Test that markdown code blocks are stripped."""
         mock_response = Mock()
@@ -92,18 +93,20 @@ class TestPHGrokAnalyzer:
 
         assert result == '{"category": "AI"}'
 
-    @patch.object(PHGrokAnalyzer, '_call_api')
+    @patch.object(PHGrokAnalyzer, "_call_api")
     def test_categorize_product(self, mock_api, analyzer, sample_product):
         """Test product categorization."""
-        mock_api.return_value = json.dumps({
-            "category": "AI",
-            "subcategory": "AI Assistant",
-            "target_audience": "Developers",
-            "pricing_model": "Freemium",
-            "tech_stack": ["AI/ML", "Python"],
-            "innovation_score": 8,
-            "market_fit_score": 7
-        })
+        mock_api.return_value = json.dumps(
+            {
+                "category": "AI",
+                "subcategory": "AI Assistant",
+                "target_audience": "Developers",
+                "pricing_model": "Freemium",
+                "tech_stack": ["AI/ML", "Python"],
+                "innovation_score": 8,
+                "market_fit_score": 7,
+            }
+        )
 
         result = analyzer.categorize_product(sample_product)
 
@@ -111,7 +114,7 @@ class TestPHGrokAnalyzer:
         assert result.category == "AI"
         assert result.innovation_score == 8
 
-    @patch.object(PHGrokAnalyzer, '_call_api')
+    @patch.object(PHGrokAnalyzer, "_call_api")
     def test_categorize_product_api_failure(self, mock_api, analyzer, sample_product):
         """Test product categorization when API fails."""
         mock_api.return_value = None
@@ -121,37 +124,36 @@ class TestPHGrokAnalyzer:
         assert isinstance(result, GrokEnrichment)
         assert result.category is None
 
-    @patch.object(PHGrokAnalyzer, '_call_api')
+    @patch.object(PHGrokAnalyzer, "_call_api")
     def test_enrich_products_batch(self, mock_api, analyzer, sample_product):
         """Test batch product enrichment."""
-        mock_api.return_value = json.dumps([
-            {
-                "rank": 1,
-                "category": "AI",
-                "subcategory": "AI Assistant",
-                "target_audience": "Developers",
-                "pricing_model": "Freemium",
-                "tech_stack": ["AI/ML"],
-                "innovation_score": 8,
-                "market_fit_score": 7
-            }
-        ])
+        mock_api.return_value = json.dumps(
+            [
+                {
+                    "rank": 1,
+                    "category": "AI",
+                    "subcategory": "AI Assistant",
+                    "target_audience": "Developers",
+                    "pricing_model": "Freemium",
+                    "tech_stack": ["AI/ML"],
+                    "innovation_score": 8,
+                    "market_fit_score": 7,
+                }
+            ]
+        )
 
         products = [sample_product]
         week_date = datetime.date(2025, 1, 6)
 
         result = analyzer.enrich_products_batch(
-            products=products,
-            week_date=week_date,
-            week_number=2,
-            year=2025
+            products=products, week_date=week_date, week_number=2, year=2025
         )
 
         assert len(result) == 1
         assert isinstance(result[0], EnrichedProduct)
         assert result[0].category == "AI"
 
-    @patch.object(PHGrokAnalyzer, '_call_api')
+    @patch.object(PHGrokAnalyzer, "_call_api")
     def test_enrich_products_batch_fallback(self, mock_api, analyzer, sample_product):
         """Test batch enrichment fallback when API fails."""
         mock_api.return_value = None
@@ -160,10 +162,7 @@ class TestPHGrokAnalyzer:
         week_date = datetime.date(2025, 1, 6)
 
         result = analyzer.enrich_products_batch(
-            products=products,
-            week_date=week_date,
-            week_number=2,
-            year=2025
+            products=products, week_date=week_date, week_number=2, year=2025
         )
 
         # Should return products without enrichment
@@ -171,16 +170,18 @@ class TestPHGrokAnalyzer:
         assert result[0].name == sample_product.name
         assert result[0].category is None
 
-    @patch.object(PHGrokAnalyzer, '_call_api')
+    @patch.object(PHGrokAnalyzer, "_call_api")
     def test_generate_weekly_insights(self, mock_api, analyzer):
         """Test weekly insights generation."""
-        mock_api.return_value = json.dumps({
-            "top_trends": ["AI dominance", "Developer tools rise"],
-            "notable_launches": "Several AI products launched this week.",
-            "category_breakdown": {"AI": 5, "SaaS": 3},
-            "sentiment": "Bullish",
-            "key_observation": "AI products continue to dominate."
-        })
+        mock_api.return_value = json.dumps(
+            {
+                "top_trends": ["AI dominance", "Developer tools rise"],
+                "notable_launches": "Several AI products launched this week.",
+                "category_breakdown": {"AI": 5, "SaaS": 3},
+                "sentiment": "Bullish",
+                "key_observation": "AI products continue to dominate.",
+            }
+        )
 
         products = [
             EnrichedProduct(
@@ -192,7 +193,7 @@ class TestPHGrokAnalyzer:
                 description="Test",
                 upvotes=100,
                 url="https://example.com",
-                category="AI"
+                category="AI",
             )
         ]
 
@@ -200,7 +201,7 @@ class TestPHGrokAnalyzer:
             products=products,
             week_date=datetime.date(2025, 1, 6),
             week_number=2,
-            year=2025
+            year=2025,
         )
 
         assert result.sentiment == "Bullish"
@@ -216,7 +217,7 @@ class TestPrompts:
             name="Test Product",
             description="A test description",
             url="https://example.com",
-            upvotes=100
+            upvotes=100,
         )
 
         assert "Test Product" in formatted
@@ -226,8 +227,7 @@ class TestPrompts:
     def test_batch_categorization_prompt_format(self):
         """Test that batch categorization prompt formats correctly."""
         formatted = BATCH_CATEGORIZATION_PROMPT.format(
-            count=3,
-            products_list="[1] Product 1\n[2] Product 2"
+            count=3, products_list="[1] Product 1\n[2] Product 2"
         )
 
         assert "3" in formatted
@@ -236,9 +236,7 @@ class TestPrompts:
     def test_weekly_insights_prompt_format(self):
         """Test that weekly insights prompt formats correctly."""
         formatted = WEEKLY_INSIGHTS_PROMPT.format(
-            week_number=10,
-            year=2025,
-            products_json='[{"name": "Test"}]'
+            week_number=10, year=2025, products_json='[{"name": "Test"}]'
         )
 
         assert "Week 10" in formatted

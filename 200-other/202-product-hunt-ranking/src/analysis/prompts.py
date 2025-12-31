@@ -73,25 +73,54 @@ Sentiment Guide:
 - Bearish: Weak launches, low innovation, oversaturated categories"""
 
 
-BATCH_CATEGORIZATION_PROMPT = """Categorize these {count} Product Hunt products in a single response.
+BATCH_CATEGORIZATION_PROMPT = """Analyze these {count} Product Hunt products with deep insights.
 
 PRODUCTS:
 {products_list}
 
-Return a JSON array with one object per product, in the same order:
+Return a JSON object with a "products" array containing one object per product, in the same order:
 
-[
-  {{
-    "rank": 1,
-    "category": "<AI|SaaS|Developer Tools|Design|Productivity|Marketing|Finance|Health|Education|E-commerce|Social|Hardware|Gaming|Other>",
-    "subcategory": "<specific type>",
-    "target_audience": "<Developers|Designers|Marketers|Founders|Teams|Consumers|Enterprise|Creators>",
-    "pricing_model": "<Free|Freemium|Paid|Enterprise|Open Source>",
-    "tech_stack": ["<tech1>", "<tech2>"],
-    "innovation_score": <1-10>,
-    "market_fit_score": <1-10>
-  }},
-  ...
-]
+{{
+  "products": [
+    {{
+      "rank": 1,
+      "category": "<AI|SaaS|Developer Tools|Design|Productivity|Marketing|Finance|Health|Education|E-commerce|Social|Hardware|Gaming|Other>",
+      "subcategory": "<specific type, e.g., 'AI Image Generator', 'Code Assistant'>",
+      "target_audience": "<Developers|Designers|Marketers|Founders|Teams|Consumers|Enterprise|Creators>",
+      "pricing_model": "<Free|Freemium|Paid|Enterprise|Open Source>",
+      "tech_stack": ["<inferred technologies>"],
+      "innovation_score": <1-10>,
+      "market_fit_score": <1-10>,
+      "one_liner": "<10-15 word summary of what it does and why it matters>",
+      "key_differentiator": "<what makes this stand out from competitors>",
+      "comparable_products": ["<similar product 1>", "<similar product 2>"],
+      "stage": "<MVP|Growth|Established|Pivot>",
+      "moat": "<network effects|tech|brand|data|switching costs|none>",
+      "red_flags": ["<potential issues if any>"],
+      "bullish_signals": ["<positive indicators>"]
+    }},
+    ...
+  ]
+}}
 
-Be concise but accurate. Use the product's description and name to infer details."""
+DEEP ANALYSIS GUIDELINES:
+- one_liner: Crisp value prop, not marketing fluff
+- key_differentiator: What's genuinely novel vs. existing solutions
+- comparable_products: Name actual competitors or similar tools
+- stage: MVP (just launched), Growth (gaining traction), Established (proven), Pivot (changing direction)
+- moat: Sustainable competitive advantage (be skeptical - most have none)
+- red_flags: Overpromising, crowded market, unclear value, bad timing, etc.
+- bullish_signals: Strong traction, novel tech, clear pain point, good timing
+
+SCORING:
+- innovation_score 9-10: Genuinely novel, first-mover advantage
+- innovation_score 7-8: Interesting twist on existing concept
+- innovation_score 5-6: Solid execution, nothing new
+- innovation_score 1-4: Me-too, clone
+
+- market_fit_score 9-10: Obvious pain point, strong demand signals
+- market_fit_score 7-8: Clear audience, good value prop
+- market_fit_score 5-6: Unclear differentiation
+- market_fit_score 1-4: Solution looking for problem
+
+Be brutally honest. High upvotes don't equal innovation."""

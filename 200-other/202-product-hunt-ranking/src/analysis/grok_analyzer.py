@@ -2,17 +2,18 @@
 
 import json
 import logging
-import requests
-from datetime import datetime
-from typing import Dict, Any, Optional, List
+from datetime import datetime, timezone
+from typing import Any
 
-from src.models import Product
-from src.db.models import EnrichedProduct, PHWeeklyInsights, GrokEnrichment
+import requests
+
 from src.analysis.prompts import (
+    BATCH_CATEGORIZATION_PROMPT,
     PRODUCT_CATEGORIZATION_PROMPT,
     WEEKLY_INSIGHTS_PROMPT,
-    BATCH_CATEGORIZATION_PROMPT,
 )
+from src.db.models import EnrichedProduct, GrokEnrichment, PHWeeklyInsights
+from src.models import Product
 
 logger = logging.getLogger(__name__)
 
@@ -32,7 +33,7 @@ class PHGrokAnalyzer:
         api_key: str,
         model: str = "grok-4-1-fast-reasoning",
         max_tokens: int = 2000,
-        verbose: bool = False
+        verbose: bool = False,
     ):
         """
         Initialize Grok analyzer.
@@ -54,8 +55,8 @@ class PHGrokAnalyzer:
         prompt: str,
         temperature: float = 0.3,
         json_response: bool = True,
-        timeout: int = 60
-    ) -> Optional[str]:
+        timeout: int = 60,
+    ) -> str | None:
         """
         Make API call to Grok.
 
@@ -77,10 +78,10 @@ class PHGrokAnalyzer:
                 self.base_url,
                 headers={
                     "Authorization": f"Bearer {self.api_key}",
-                    "Content-Type": "application/json"
+                    "Content-Type": "application/json",
                 },
                 json=payload,
-                timeout=timeout
+                timeout=timeout,
             )
 
             if response.status_code == 429:
@@ -88,7 +89,9 @@ class PHGrokAnalyzer:
                 return None
 
             if response.status_code != 200:
-                logger.error(f"Grok API error: {response.status_code} - {response.text}")
+                logger.error(
+                    f"Grok API error: {response.status_code} - {response.text}"
+                )
                 return None
 
             data = response.json()
@@ -129,7 +132,7 @@ class PHGrokAnalyzer:
             name=product.name,
             description=product.description,
             url=product.url,
-            upvotes=product.upvotes
+            upvotes=product.upvotes,
         )
 
         content = self._call_api(prompt)
@@ -153,12 +156,8 @@ class PHGrokAnalyzer:
             return GrokEnrichment()
 
     def enrich_products_batch(
-        self,
-        products: List[Product],
-        week_date: Any,
-        week_number: int,
-        year: int
-    ) -> List[EnrichedProduct]:
+        self, products: list[Product], week_date: Any, week_number: int, year: int
+    ) -> list[EnrichedProduct]:
         """
         Enrich multiple products in a single API call (more efficient).
 
@@ -175,72 +174,128 @@ class PHGrokAnalyzer:
             logger.info(f"Batch categorizing {len(products)} products...")
 
         # Format products for prompt
-        products_list = "\n\n".join([
-            f"[{i+1}] {p.name}\nDescription: {p.description}\nURL: {p.url}\nUpvotes: {p.upvotes}"
-            for i, p in enumerate(products)
-        ])
+        products_list = "\n\n".join(
+            [
+                f"[{i + 1}] {p.name}\n"
+                f"Description: {p.description}\n"
+                f"URL: {p.url}\n"
+                f"Upvotes: {p.upvotes}"
+                for i, p in enumerate(products)
+            ]
+        )
 
         prompt = BATCH_CATEGORIZATION_PROMPT.format(
-            count=len(products),
-            products_list=products_list
+            count=len(products), products_list=products_list
         )
 
         content = self._call_api(prompt, timeout=120)
 
         enriched = []
-        now = datetime.utcnow()
+        now = datetime.now(timezone.utc)
 
         if content:
+            logger.debug(f"Grok batch response (first 500 chars): {content[:500]}")
             try:
-                results = json.loads(content)
-                if isinstance(results, list) and len(results) == len(products):
-                    for product, enrichment in zip(products, results):
-                        enriched.append(EnrichedProduct(
-                            week_date=week_date,
-                            week_number=week_number,
-                            year=year,
-                            rank=product.rank,
-                            name=product.name,
-                            description=product.description,
-                            upvotes=product.upvotes,
-                            url=str(product.url),
-                            category=enrichment.get("category"),
-                            subcategory=enrichment.get("subcategory"),
-                            target_audience=enrichment.get("target_audience"),
-                            tech_stack=enrichment.get("tech_stack"),
-                            pricing_model=enrichment.get("pricing_model"),
-                            innovation_score=enrichment.get("innovation_score"),
-                            market_fit_score=enrichment.get("market_fit_score"),
-                            analyzed_at=now,
-                        ))
-                    if self.verbose:
-                        logger.info(f"Successfully enriched {len(enriched)} products")
-                    return enriched
+                parsed = json.loads(content)
+
+                # Handle both array and object-wrapped array responses
+                # Grok with json_object mode may return {"products": [...]} instead of [...]
+                if isinstance(parsed, dict):
+                    # Look for array in common wrapper keys
+                    results = (
+                        parsed.get("products")
+                        or parsed.get("items")
+                        or parsed.get("results")
+                        or parsed.get("data")
+                    )
+                    if not results:
+                        # Maybe the dict values contain the array
+                        for value in parsed.values():
+                            if isinstance(value, list) and len(value) == len(products):
+                                results = value
+                                break
+                    if not results:
+                        logger.error(
+                            f"Grok returned object without products array. Keys: {list(parsed.keys())}"
+                        )
+                elif isinstance(parsed, list):
+                    results = parsed
+                else:
+                    logger.error(f"Unexpected response type: {type(parsed)}")
+                    results = None
+
+                if results and isinstance(results, list):
+                    if len(results) != len(products):
+                        logger.error(
+                            f"Result count mismatch: got {len(results)}, expected {len(products)}"
+                        )
+                    else:
+                        for product, enrichment in zip(products, results, strict=True):
+                            # Extract deep insights into maker_info
+                            maker_info = {}
+                            for key in [
+                                "one_liner",
+                                "key_differentiator",
+                                "comparable_products",
+                                "stage",
+                                "moat",
+                                "red_flags",
+                                "bullish_signals",
+                            ]:
+                                if enrichment.get(key):
+                                    maker_info[key] = enrichment[key]
+
+                            enriched.append(
+                                EnrichedProduct(
+                                    week_date=week_date,
+                                    week_number=week_number,
+                                    year=year,
+                                    rank=product.rank,
+                                    name=product.name,
+                                    description=product.description,
+                                    upvotes=product.upvotes,
+                                    url=str(product.url),
+                                    category=enrichment.get("category"),
+                                    subcategory=enrichment.get("subcategory"),
+                                    target_audience=enrichment.get("target_audience"),
+                                    tech_stack=enrichment.get("tech_stack"),
+                                    pricing_model=enrichment.get("pricing_model"),
+                                    innovation_score=enrichment.get("innovation_score"),
+                                    market_fit_score=enrichment.get("market_fit_score"),
+                                    maker_info=maker_info if maker_info else None,
+                                    analyzed_at=now,
+                                )
+                            )
+                        if self.verbose:
+                            logger.info(f"Successfully enriched {len(enriched)} products")
+                        return enriched
             except json.JSONDecodeError as e:
-                logger.error(f"Failed to parse batch response: {e}")
+                logger.error(f"Failed to parse batch response: {e}\nContent: {content[:200]}")
 
         # Fallback: create enriched products without AI data
         logger.warning("Batch enrichment failed, saving raw products")
         for product in products:
-            enriched.append(EnrichedProduct(
-                week_date=week_date,
-                week_number=week_number,
-                year=year,
-                rank=product.rank,
-                name=product.name,
-                description=product.description,
-                upvotes=product.upvotes,
-                url=str(product.url),
-            ))
+            enriched.append(
+                EnrichedProduct(
+                    week_date=week_date,
+                    week_number=week_number,
+                    year=year,
+                    rank=product.rank,
+                    name=product.name,
+                    description=product.description,
+                    upvotes=product.upvotes,
+                    url=str(product.url),
+                )
+            )
 
         return enriched
 
     def generate_weekly_insights(
         self,
-        products: List[EnrichedProduct],
+        products: list[EnrichedProduct],
         week_date: Any,
         week_number: int,
-        year: int
+        year: int,
     ) -> PHWeeklyInsights:
         """
         Generate AI insights for the week's products.
@@ -273,19 +328,23 @@ class PHGrokAnalyzer:
         prompt = WEEKLY_INSIGHTS_PROMPT.format(
             week_number=week_number,
             year=year,
-            products_json=json.dumps(products_data, indent=2)
+            products_json=json.dumps(products_data, indent=2),
         )
 
         content = self._call_api(prompt, timeout=90)
 
         # Calculate avg upvotes
-        avg_upvotes = sum(p.upvotes for p in products) / len(products) if products else 0
+        avg_upvotes = (
+            sum(p.upvotes for p in products) / len(products) if products else 0
+        )
 
         # Build category breakdown from enriched data
-        category_breakdown: Dict[str, int] = {}
+        category_breakdown: dict[str, int] = {}
         for p in products:
             if p.category:
-                category_breakdown[p.category] = category_breakdown.get(p.category, 0) + 1
+                category_breakdown[p.category] = (
+                    category_breakdown.get(p.category, 0) + 1
+                )
 
         if content:
             try:
@@ -296,7 +355,9 @@ class PHGrokAnalyzer:
                     week_number=week_number,
                     top_trends=data.get("top_trends", []),
                     notable_launches=data.get("notable_launches", ""),
-                    category_breakdown=data.get("category_breakdown", category_breakdown),
+                    category_breakdown=data.get(
+                        "category_breakdown", category_breakdown
+                    ),
                     avg_upvotes=avg_upvotes,
                     sentiment=data.get("sentiment", "Neutral"),
                     full_analysis=json.dumps(data),

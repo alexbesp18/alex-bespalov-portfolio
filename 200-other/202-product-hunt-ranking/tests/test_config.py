@@ -1,6 +1,6 @@
 """Tests for configuration settings."""
 
-from src.config import settings, Settings
+from src.config import Settings, settings
 
 
 def test_settings_defaults():

@@ -1,85 +1,106 @@
 # Product Hunt Ranking Scraper
 
-A robust Python tool for tracking and archiving Product Hunt's weekly top products to Google Sheets.
+[![Weekly Scraper](https://github.com/alexbesp18/alex-bespalov-portfolio/actions/workflows/202_ph_ranking_weekly.yml/badge.svg)](https://github.com/alexbesp18/alex-bespalov-portfolio/actions/workflows/202_ph_ranking_weekly.yml)
+[![CI](https://github.com/alexbesp18/alex-bespalov-portfolio/actions/workflows/202_ph_ranking_ci.yml/badge.svg)](https://github.com/alexbesp18/alex-bespalov-portfolio/actions/workflows/202_ph_ranking_ci.yml)
+
+Automated pipeline that scrapes Product Hunt's weekly top 10 products, enriches them with Grok AI categorization, and stores results in Supabase.
 
 ## Key Features
-- **Automated Weekly Scraping**: Scrapes Product Hunt's weekly leaderboard for top 10 products
-- **Rich Data Extraction**: Captures product name, description, upvotes, and URL
-- **Google Sheets Integration**: Automatically appends results to a configured sheet
-- **Historical Backfill**: One-time script to fetch past weeks of data
-- **GitHub Actions**: Scheduled Sunday runs + manual triggers
-- **Configurable**: Fully controlled via environment variables
 
-## Output Format
-| Date | Rank | Name | Description | Upvotes | URL |
-|------|------|------|-------------|---------|-----|
-| 2025-12-13 | 1 | Incredible | Deep Work AI Agents - powered by Agent MAX | 626 | https://... |
-| 2025-12-13 | 2 | ClickUp 4.0 | All your work: tasks, docs, chat, and AI with 100% context | 608 | https://... |
+- **Automated Weekly Scraping**: Scrapes Product Hunt's weekly leaderboard (Sundays 12 PM UTC)
+- **AI Enrichment**: Grok AI categorizes products (category, scores, insights)
+- **Supabase Storage**: Structured data with SQL queries and upsert strategy
+- **Weekly Digest Email**: Sends formatted digest with insights via Resend
+- **Historical Backfill**: One-time script to fetch past weeks
 
-## Project Structure
+## Architecture
+
 ```
-202-product-hunt-ranking/
-├── src/
-│   ├── main.py           # Entry point & Google Sheets integration
-│   ├── config.py         # Settings (env vars)
-│   ├── models.py         # Pydantic data models
-│   └── utils/
-│       └── parsing.py    # HTML scraping logic
-├── backfill/
-│   ├── main.py           # Historical data fetcher
-│   └── config/
-│       └── settings.py   # WEEKS_BACK = 10
-├── tests/
-├── .github/workflows/
-│   ├── weekly_ph_rankings.yml  # Scheduled Sunday runs
-│   ├── backfill.yml            # One-time historical fetch
-│   └── ci.yml                  # Linting & tests
-└── requirements.txt
+Product Hunt HTML
+        ↓
+   fetch_html() [tenacity retry]
+        ↓
+   parse_products() [BeautifulSoup]
+        ↓
+   PHGrokAnalyzer.enrich_products_batch() [optional]
+        ↓
+   PHSupabaseClient.save_products()
+        ↓
+   send_weekly_digest() [optional]
 ```
 
 ## Quick Start
 
 ### Prerequisites
 - Python 3.10+
-- Google Service Account JSON key
+- Supabase project
+- Grok API key (optional, for AI enrichment)
+- Resend API key (optional, for email digest)
 
 ### Installation
 ```bash
 git clone https://github.com/alexbesp18/alex-bespalov-portfolio.git
 cd alex-bespalov-portfolio/200-other/202-product-hunt-ranking
 pip install -r requirements.txt
-cp .env.example .env
-# Edit .env with your Google Sheet ID and credentials path
+```
+
+### Environment Variables
+```bash
+# Required
+export SUPABASE_URL='https://your-project.supabase.co'
+export SUPABASE_SERVICE_KEY='your-service-role-key'
+
+# Optional - AI enrichment
+export GROK_API_KEY='your-xai-key'
+
+# Optional - Email digest
+export RESEND_API_KEY='your-resend-key'
+export EMAIL_FROM='digest@yourdomain.com'
+export EMAIL_TO='you@example.com'
 ```
 
 ### Usage
 ```bash
-# Run weekly scraper
+# Run weekly scraper (current week)
 python -m src.main
 
-# Run historical backfill (fetches last 10 weeks)
+# Run historical backfill (last 10 weeks)
 python -m backfill.main
 ```
 
-### GitHub Actions
-- **Weekly Product Hunt Rankings**: Runs every Sunday at 12 PM UTC
-- **One-Time Historical Backfill**: Manual trigger for historical data
+## Project Structure
+```
+202-product-hunt-ranking/
+├── src/
+│   ├── main.py              # Pipeline orchestration
+│   ├── config.py            # Settings (pydantic-settings)
+│   ├── models.py            # Product model
+│   ├── utils/parsing.py     # HTML scraping
+│   ├── analysis/            # Grok AI enrichment
+│   ├── db/                  # Supabase integration
+│   └── notifications/       # Email digest
+├── backfill/                # Historical data fetcher
+├── tests/                   # Test suite
+└── docs/                    # Architecture & plans
+```
 
-## Configuration
+## Supabase Schema
 
-| Variable | Description | Default |
-|----------|-------------|---------|
-| `PH_GDRIVE_API_KEY_JSON` | Service Account JSON content or file path | (Required) |
-| `PH_GSHEET_ID` | Google Spreadsheet ID (from URL) | (Required) |
-| `GSHEET_NAME` | Spreadsheet name (fallback) | "Product Hunt Rankings" |
-| `GSHEET_TAB` | Tab name to write to | "Weekly Top 10" |
-| `LOG_LEVEL` | Logging verbosity | "INFO" |
+Schema: `product_hunt`
+
+| Table | Primary Key | Purpose |
+|-------|-------------|---------|
+| `products` | `(week_date, rank)` | Weekly rankings with AI enrichment |
+| `weekly_insights` | `week_date` | AI-generated trends and analysis |
 
 ## Technical Notes
-- **Resiliency**: Uses `tenacity` for exponential backoff on network failures
-- **Type Safety**: Fully typed with Pydantic models
-- **Rate Limiting**: 2-second delay between requests during backfill
-- **Upvote Extraction**: Takes the maximum number found (distinguishes from comment counts)
+
+- **Retry Logic**: `tenacity` with 3 attempts, exponential backoff
+- **Upsert Strategy**: Safe re-runs via `on_conflict="week_date,rank"`
+- **Graceful Fallback**: Saves raw products if Grok unavailable
+- **Rate Limiting**: 3-second delay between requests during backfill
+- **Upvote Extraction**: Takes `max()` of numbers (distinguishes from comments)
 
 ## License
+
 MIT

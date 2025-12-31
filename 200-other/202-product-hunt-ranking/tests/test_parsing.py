@@ -1,5 +1,4 @@
-import pytest
-from src.utils.parsing import parse_products, Product
+from src.utils.parsing import Product, parse_products
 
 HTML_SAMPLE = """
 <html>
@@ -14,19 +13,21 @@ HTML_SAMPLE = """
 </html>
 """
 
+
 def test_parse_valid_products():
     """Test parsing logic extracts products correctly as Product models."""
     products = parse_products(HTML_SAMPLE)
-    
+
     assert len(products) == 2
     assert isinstance(products[0], Product)
     assert products[0].rank == 1
     assert products[0].name == "Awesome Tool"
-    # Pydantic HttpUrl might need string conversion depending on version, 
+    # Pydantic HttpUrl might need string conversion depending on version,
     # but here we defined it as str in the simplified model or HttpUrl
     assert str(products[0].url) == "https://www.producthunt.com/products/awesome-tool"
     assert products[1].rank == 2
     assert products[1].name == "Another Tool"
+
 
 def test_parse_limit():
     """Test that the limit parameter is respected."""
@@ -34,10 +35,12 @@ def test_parse_limit():
     assert len(products) == 1
     assert products[0].name == "Awesome Tool"
 
+
 def test_parse_empty():
     """Test parsing empty or irrelevant HTML."""
     assert parse_products("") == []
     assert parse_products("<html></html>") == []
+
 
 def test_malformed_url_handled():
     """Test that malformed URLs don't crash the scraper."""

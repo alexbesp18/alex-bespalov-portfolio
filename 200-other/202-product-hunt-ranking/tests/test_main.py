@@ -2,10 +2,13 @@
 Tests for main.py functionality including Supabase and Grok integration.
 Uses mocking to avoid actual API calls.
 """
+
 import datetime
+from unittest.mock import Mock, patch
+
 import pytest
-from unittest.mock import Mock, patch, MagicMock
-from src.main import fetch_html, run_pipeline, get_current_week_info, get_week_url
+
+from src.main import fetch_html, get_current_week_info, get_week_url, run_pipeline
 from src.models import Product
 
 
@@ -34,7 +37,7 @@ class TestGetWeekInfo:
 class TestFetchHtml:
     """Test suite for HTML fetching functionality."""
 
-    @patch('src.main.urllib.request.urlopen')
+    @patch("src.main.urllib.request.urlopen")
     def test_fetch_html_success(self, mock_urlopen):
         """Test successful HTML fetch."""
         mock_response = Mock()
@@ -48,7 +51,7 @@ class TestFetchHtml:
         assert result == "<html><body>Test</body></html>"
         mock_urlopen.assert_called_once()
 
-    @patch('src.main.urllib.request.urlopen')
+    @patch("src.main.urllib.request.urlopen")
     def test_fetch_html_with_retry(self, mock_urlopen):
         """Test that fetch retries on failure."""
         mock_response = Mock()
@@ -65,7 +68,7 @@ class TestFetchHtml:
 class TestRunPipeline:
     """Test suite for the main pipeline function."""
 
-    @patch('src.main.settings')
+    @patch("src.main.settings")
     def test_pipeline_fails_without_supabase_credentials(self, mock_settings):
         """Test pipeline fails gracefully without Supabase credentials."""
         mock_settings.supabase_url = ""
@@ -75,10 +78,10 @@ class TestRunPipeline:
 
         assert result is False
 
-    @patch('src.main.PHSupabaseClient')
-    @patch('src.main.fetch_html')
-    @patch('src.main.parse_products')
-    @patch('src.main.settings')
+    @patch("src.main.PHSupabaseClient")
+    @patch("src.main.fetch_html")
+    @patch("src.main.parse_products")
+    @patch("src.main.settings")
     def test_pipeline_skips_existing_week(
         self, mock_settings, mock_parse, mock_fetch, mock_db_class
     ):
@@ -97,10 +100,10 @@ class TestRunPipeline:
         assert result is True
         mock_fetch.assert_not_called()
 
-    @patch('src.main.PHSupabaseClient')
-    @patch('src.main.fetch_html')
-    @patch('src.main.parse_products')
-    @patch('src.main.settings')
+    @patch("src.main.PHSupabaseClient")
+    @patch("src.main.fetch_html")
+    @patch("src.main.parse_products")
+    @patch("src.main.settings")
     def test_pipeline_saves_products_without_grok(
         self, mock_settings, mock_parse, mock_fetch, mock_db_class
     ):
@@ -128,11 +131,11 @@ class TestRunPipeline:
         # Should not save insights without Grok
         mock_db.save_insights.assert_not_called()
 
-    @patch('src.main.PHGrokAnalyzer')
-    @patch('src.main.PHSupabaseClient')
-    @patch('src.main.fetch_html')
-    @patch('src.main.parse_products')
-    @patch('src.main.settings')
+    @patch("src.main.PHGrokAnalyzer")
+    @patch("src.main.PHSupabaseClient")
+    @patch("src.main.fetch_html")
+    @patch("src.main.parse_products")
+    @patch("src.main.settings")
     def test_pipeline_with_grok_enrichment(
         self, mock_settings, mock_parse, mock_fetch, mock_db_class, mock_analyzer_class
     ):
@@ -173,7 +176,7 @@ class TestProductModel:
             name="Test",
             url="https://example.com",
             description="Description",
-            upvotes=100
+            upvotes=100,
         )
         assert product.rank == 1
         assert product.upvotes == 100
@@ -186,5 +189,7 @@ class TestProductModel:
 
     def test_product_validation(self):
         """Test that validation works."""
-        with pytest.raises(Exception):
+        from pydantic import ValidationError
+
+        with pytest.raises(ValidationError):
             Product(rank=0, name="", url="")  # Invalid

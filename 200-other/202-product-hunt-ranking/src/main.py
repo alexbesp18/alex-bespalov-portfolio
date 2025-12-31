@@ -1,25 +1,27 @@
 """Product Hunt Weekly Ranking Pipeline.
 
-Scrapes top products, enriches with Grok AI, saves to Supabase.
+Scrapes top products, enriches with Grok AI, saves to Supabase,
+and optionally sends weekly digest email.
 """
 
 import datetime
-import urllib.request
 import logging
-from typing import List, Optional
+import urllib.request
 
 from tenacity import retry, stop_after_attempt, wait_exponential
 
-from src.config import settings
-from src.utils.parsing import parse_products
-from src.models import Product
-from src.db import PHSupabaseClient
 from src.analysis import PHGrokAnalyzer
+from src.config import settings
+from src.db import PHSupabaseClient
+from src.db.models import EnrichedProduct, PHWeeklyInsights
+from src.models import Product
+from src.notifications import send_weekly_digest
+from src.utils.parsing import parse_products
 
 # Setup Logging
 logging.basicConfig(
     level=getattr(logging, settings.log_level.upper(), logging.INFO),
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
 )
 logger = logging.getLogger(__name__)
 
@@ -63,37 +65,36 @@ def get_week_url(year: int, week: int) -> tuple[str, datetime.date]:
     return url, week_date
 
 
-@retry(
-    stop=stop_after_attempt(3),
-    wait=wait_exponential(multiplier=1, min=4, max=60)
-)
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=60))
 def fetch_html(url: str) -> str:
     """
     Fetches HTML content from the given URL with robust headers and retry logic.
     Raises exception on failure to trigger retry.
     """
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     }
 
     req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=20) as response:
-        result: str = response.read().decode('utf-8')
+        result: str = response.read().decode("utf-8")
         return result
 
 
 def run_pipeline(
-    year: Optional[int] = None,
-    week: Optional[int] = None,
-    skip_if_exists: bool = True
+    year: int | None = None,
+    week: int | None = None,
+    skip_if_exists: bool = True,
+    send_email: bool = True,
 ) -> bool:
     """
-    Run the full pipeline: scrape, enrich, save.
+    Run the full pipeline: scrape, enrich, save, and optionally email.
 
     Args:
         year: Override year (default: current)
         week: Override week (default: current)
         skip_if_exists: Skip if week already in DB
+        send_email: Send weekly digest email after success
 
     Returns:
         True if successful
@@ -130,7 +131,7 @@ def run_pipeline(
         return False
 
     # Parse products
-    products: List[Product] = parse_products(html, limit=10)
+    products: list[Product] = parse_products(html, limit=10)
     if not products:
         logger.warning("No products found in HTML.")
         return False
@@ -138,27 +139,24 @@ def run_pipeline(
     logger.info(f"Scraped {len(products)} products")
 
     # Initialize Grok analyzer if API key available
-    analyzer: Optional[PHGrokAnalyzer] = None
+    analyzer: PHGrokAnalyzer | None = None
     if settings.xai_api_key:
         analyzer = PHGrokAnalyzer(
-            api_key=settings.xai_api_key,
-            model=settings.grok_model,
-            verbose=True
+            api_key=settings.xai_api_key, model=settings.grok_model, verbose=True
         )
 
     # Enrich products with Grok
+    insights: PHWeeklyInsights | None = None
+    enriched: list[EnrichedProduct]
+
     if analyzer:
         logger.info("Enriching products with Grok AI...")
         enriched = analyzer.enrich_products_batch(
-            products=products,
-            week_date=week_date,
-            week_number=week,
-            year=year
+            products=products, week_date=week_date, week_number=week, year=year
         )
     else:
         # Fallback: create enriched products without AI
         logger.warning("No XAI_API_KEY, saving raw products without enrichment")
-        from src.db.models import EnrichedProduct
         enriched = [
             EnrichedProduct(
                 week_date=week_date,
@@ -181,13 +179,23 @@ def run_pipeline(
     if analyzer and enriched:
         logger.info("Generating weekly insights...")
         insights = analyzer.generate_weekly_insights(
-            products=enriched,
-            week_date=week_date,
-            week_number=week,
-            year=year
+            products=enriched, week_date=week_date, week_number=week, year=year
         )
         db.save_insights(insights)
         logger.info(f"Saved insights for week {week_date}")
+
+    # Send weekly digest email
+    if send_email and enriched:
+        logger.info("Sending weekly digest email...")
+        email_sent = send_weekly_digest(
+            products=enriched,
+            insights=insights,
+            week_date=week_date,
+        )
+        if email_sent:
+            logger.info("Weekly digest email sent successfully")
+        else:
+            logger.warning("Weekly digest email not sent (check RESEND_API_KEY)")
 
     return True
 
