@@ -1,0 +1,2542 @@
+Title: 276. Jack Mallers
+Video ID: VisLMH1Dgas
+URL: https://www.youtube.com/watch?v=VisLMH1Dgas
+Date Saved: 2025-06-15 12:37:58
+Channel: Saifedean
+--------------------------------------------------
+
+[00:05] Hello, welcome to the Bitcoin Standard
+[00:06] podcast. Our guest today is for the
+[00:09] third time Jack Mers, the CEO of Strike
+[00:12] and now the CEO of another company 21.
+[00:16] While most of you are sitting in your
+[00:17] mom's basements doing nothing. Jack is
+[00:19] now CEO of two companies. And the second
+[00:22] company is out there to buy as much
+[00:24] Bitcoin as it possibly can, aiming to
+[00:27] buy more Bitcoin than Michael Sailor.
+[00:29] Talk about a tall order. Always fun to
+[00:32] have you here, Jack. How you doing? You
+[00:34] are the best, my friend. I am fantastic.
+[00:36] Good to see you. How are you? I'm very
+[00:38] good. Very good. Happy to see you and
+[00:40] happy to hear about all your great news
+[00:41] as always. It's fun, man. You know, I
+[00:44] listen to your podcast. I've been
+[00:45] listening it for years. And so hearing
+[00:47] the intro directed at me as opposed to
+[00:49] when I'm walking in the grocery store
+[00:50] having it in my ears, it's an honor. So
+[00:52] yeah, what a fun time. I think we just
+[00:54] hit all-time highs, at least in US
+[00:56] dollar terms, for Bitcoin as well. So
+[00:57] happy alltime high. What a time to be
+[00:59] alive and stacking sats. Indeed. Happy
+[01:02] alltime high. It's although I don't
+[01:04] think we did hit alltime high. I think
+[01:05] we came close but not quite. No, really.
+[01:08] We're we're 109 something. Who knows?
+[01:11] Well, a happy dollar debasement. Yeah.
+[01:14] This this trade only goes one way. Yeah.
+[01:17] So, how you been? Uh I'm good.
+[01:19] Obviously, a little busy, but uh but I'm
+[01:22] good. I think we're living through one
+[01:24] of the most fascinating times in this
+[01:26] fiat money story. To me, it feels like
+[01:28] the unwind from this fiat regime and
+[01:31] what was set up and uh continued through
+[01:34] this world war era. Um I think it's
+[01:37] unwinding fascinatingly and uh it's a
+[01:40] great time to be working on Bitcoin.
+[01:42] both there's money to be made, there's
+[01:44] opportunity in starting businesses, but
+[01:46] uh I also feel like I'm contributing to
+[01:48] the world and playing my small small
+[01:50] role in restoring, you know, prosperity
+[01:52] to our species and hopefully
+[01:54] contributing to a new era of human
+[01:56] flourishing. So, I feel great. Sun's
+[01:58] coming out in Chicago. I mean, a lot of
+[02:00] ribe eyes. That's great. Chicago ribe
+[02:02] eyes, man. I've got such fun memories of
+[02:04] them. Some of the best in the world. Mid
+[02:06] Midwest. Yep. Absolutely. It's the
+[02:08] capital of ribe eyes. 100%. Yeah. It's
+[02:12] one of the one of the rare things we're
+[02:13] good at is uh agriculture commodities
+[02:15] and and meat. Yeah. Although I guess I
+[02:18] may have just annoyed a lot of my Texan
+[02:20] fan base. No offense Texans, but your
+[02:22] steaks are great, too. All of American
+[02:24] stakes are great. I mean, honestly, it
+[02:25] might be the, you know, when people talk
+[02:27] about divine providence for Americans. I
+[02:30] think practically speaking, that's just
+[02:32] the stake. Really, that's the divine
+[02:34] providence. Americans have the best
+[02:36] stake. That's how God blessed you. Well,
+[02:39] you know what's interesting is, you
+[02:40] know, not that this is a political
+[02:42] podcast. Whether you think Trump is
+[02:43] great or not, I don't really give a
+[02:44]  The reality is what he's trying to
+[02:47] do is what America has to do, which is
+[02:49] getting back to proof of work and
+[02:51] producing its own materials and being
+[02:53] part of trade without printed pieces of
+[02:55] paper and with real goods and services.
+[02:57] And America is actually rich with
+[03:01] resources. We actually have plenty of
+[03:03] food. We actually have plenty of energy,
+[03:05] plenty of oil. We just have never
+[03:07] thought to have to put in the proof of
+[03:09] work to produce it ourselves over the
+[03:11] last hundred years. So, I'm excited. I
+[03:13] agree with you. I think America has
+[03:14] great food, great access to energy,
+[03:16] great minds, a great population that is
+[03:18] willing to work hard given it has to.
+[03:21] And so, I think folks like Chicago, you
+[03:24] know, hopefully we can export some st
+[03:26] some of our stakes to to the rest of the
+[03:28] world one day um and be part of real
+[03:30] global trade as opposed to printing
+[03:32] pieces of paper and exporting those.
+[03:34] Well, I mean, America exports a lot of
+[03:36] steak. I think uh that's one of the main
+[03:38] exports that China gets from the US.
+[03:39] American steak. I think so, too. Yeah.
+[03:41] Yeah. It's one of the some of the best
+[03:42] in the world. I've had a lot of great
+[03:43] steaks all over the world, but I think
+[03:46] America is just the best because the the
+[03:50] consistency and they just I I think they
+[03:52] bred them for a very long time for a
+[03:54] great taste that they come out really
+[03:56] really well. It's um it's it's huge. But
+[03:59] anyways, let's get back to Bitcoin. So,
+[04:01] what is new in Strike? You guys are
+[04:03] doing Bitcoin backed loans, huh? Yes.
+[04:06] Yes. We've launched a Bitcoin
+[04:07] collateralized lending service, which,
+[04:10] you know, I wanted to be clear. For
+[04:13] some, this is redundant, but you know,
+[04:15] on Twitter, I need to make sure everyone
+[04:17] at the margins understands there's no
+[04:19] yield with this product. I mean, it has
+[04:21] such a awful history full of scammers.
+[04:25] There's no yield for depositors.
+[04:26] depositors just get a very beautiful
+[04:28] Bitcoin wallet that's fully reserved and
+[04:32] it's a 50% LTV collateralized loan. So,
+[04:34] it's overcolateralized. So, you get to
+[04:36] draw half of your Bitcoin wealth out in
+[04:38] cash and we offer a 12-month term and
+[04:42] there's two style of loans. You can make
+[04:44] monthly interest payments for the
+[04:46] cheapest version of the product or we
+[04:48] offer a version of the product called
+[04:49] payment at maturity. Now, this is what I
+[04:51] think is the best version of the product
+[04:54] and the genius way to use your Bitcoin
+[04:56] wealth is that you don't owe us any
+[04:58] money until the end of the loan. You pay
+[05:01] the APR plus the principal back after
+[05:04] the 12 months. So, you don't actually
+[05:05] need to pay us on a monthly basis.
+[05:07] That's our most popular version of the
+[05:09] product and it allows Bitcoiners to
+[05:11] access their Bitcoin wealth without
+[05:12] having to sell it and incur a capital
+[05:14] gains event. And I think it's a huge
+[05:15] deal. I mean, we are already offering
+[05:18] Strike in over a 100red countries. So,
+[05:21] no financial service that I know of can
+[05:23] offer a loan credibly to billions of
+[05:26] people in the world without credit
+[05:28] checks on a mobile device. Um, I mean,
+[05:30] if someone in Ghana needed to get a loan
+[05:32] from me without Bitcoin, I'd have to
+[05:34] assess a picture of their Ganaan
+[05:35] property or something like that. It
+[05:36] would be impossible. So, I think it's a
+[05:39] huge deal. The fact that you can draw
+[05:40] capital against an asset that's
+[05:42] compounding annual growth rate is around
+[05:44] 50%. Is a way to make the money printers
+[05:48] work for you be on the positive side of
+[05:50] this debt based monetary system. But I
+[05:52] I'll pause there. Um and obviously at
+[05:55] Strike we want to do it the right way.
+[05:57] Um it is no rehypothecation. We'll
+[06:00] launch a proof of reserves iteration of
+[06:01] this product coming shortly and
+[06:04] everything that whatever BlockFi and
+[06:05] Celsius and Sam Bangman Freed were,
+[06:08] we're the opposite and we want to
+[06:10] provide Bitcoiners a trustworthy way to
+[06:12] access this wealth without pardon with
+[06:13] the STS. Nice. And also uh your
+[06:17] financials are out last a few weeks ago,
+[06:21] right? Yeah, we published some of them
+[06:24] uh for a few reasons. one. I mean, we've
+[06:26] just gotten big and we've achieved some
+[06:29] pretty big milestones that I don't think
+[06:30] the world has totally appreciated who we
+[06:33] serve
+[06:34] and why we serve who we serve. Also,
+[06:38] becoming the CEO of 21, an entirely
+[06:40] separate company that I co-founded, I
+[06:42] wanted the world to know and especially
+[06:44] our customers that Strike is doing
+[06:46] phenomenally well and that starting
+[06:48] another company had nothing to do with
+[06:50] Strike and me shifting my focus. that I
+[06:53] run two big successful companies. That's
+[06:56] possible. I don't know who made the rule
+[06:58] that you can only start one company. Um
+[07:00] I'm defying that law. People are so
+[07:02] shocked for some weird reason. You know,
+[07:04] you can just do things. And so I wanted
+[07:05] to let the world know, let our customers
+[07:07] know we're doing great. Um extremely
+[07:09] profitable, high margin business. We're
+[07:11] actually going to announce uh our
+[07:13] Bitcoin treasury uh within the next
+[07:15] week. We're a top 20 holder. Um, as far
+[07:17] as corporations, Bitcoin Treasury, we
+[07:19] own thousands of Bitcoin at Strike and
+[07:21] it's a great business and I wanted to
+[07:23] make sure people have confidence in us.
+[07:24] Um, and we give that level of
+[07:26] transparency as well. Yeah. Let me just
+[07:28] run through some of the numbers because
+[07:29] it's pretty mind-boggling because uh,
+[07:32] people just I don't think they quite
+[07:34] realize how big Strike is because it's
+[07:37] at this point you generated $6 billion
+[07:39] in volume which is more than 600%
+[07:42] year-over-year growth. Your gross profit
+[07:45] margins are 85% with 0 spent on customer
+[07:49] acquisitions. You're expecting 8 to nine
+[07:51] figures in net profit in 2025 with a
+[07:54] team of just five uh se sorry 75
+[07:57] full-time employees
+[08:00] approximately and you hold the majority
+[08:02] of your balance sheet in Bitcoin. Pretty
+[08:05] impressive stuff.
+[08:07] Yeah. So, we'll make an official
+[08:09] announcement, but Strike owns I actually
+[08:12] don't know at this very second because
+[08:13] we buy every day, but call it around
+[08:14] 1,500 Bitcoin. So, our balance sheet has
+[08:18] approaching, you know, hundreds of
+[08:19] millions of dollars on it. That far
+[08:21] exceeds the venture capital money we've
+[08:23] raised and for 75 people, that's not too
+[08:26] bad. Um, extremely profitable business.
+[08:29] So, as we announced, we'll make anywhere
+[08:32] between tens of millions to over hundred
+[08:34] million dollars of cash flow this year
+[08:36] from our operating company. It's a
+[08:38] really interesting business in that the
+[08:40] products we sell and the vision and the
+[08:42] brand that we have built is very viral.
+[08:44] So, we don't spend money on marketing at
+[08:46] all. All of our customers are acquired
+[08:48] organically, which is rare. We've been
+[08:50] able to build products in 100 plus
+[08:53] countries and acquire customers there
+[08:55] without needing to pay a bunch of
+[08:57] influencers to tell people to download
+[08:59] our stuff, which I think is rare and
+[09:01] cool and speaks to the quality of, you
+[09:03] know, the vision we're selling. I mean,
+[09:04] to be to be totally can. It just speaks
+[09:06] to how powerful Bitcoin is. It's not
+[09:07] that hard to sell something that's
+[09:09] growing 50% a year against debasing
+[09:12] pieces of paper. And so uh yeah and
+[09:15] we're really emerging as you know one of
+[09:18] the leaders of Bitcoin financial
+[09:19] services globally and uh lean profitable
+[09:22] stacking sats and uh we just I thought
+[09:25] customers deserve to know our financial
+[09:27] position how strong we are um and that
+[09:30] the future of their financial services
+[09:32] in the business is in really good hands
+[09:34] and that I'm more than capable of
+[09:35] running two businesses. That was a lot
+[09:37] of the reason why we did that. Yeah. You
+[09:39] know, I I there's a saying that I
+[09:42] believe in very strongly, which is if
+[09:43] you want something done, give it to a
+[09:45] busy man. Um, somebody's got too much
+[09:48] time on their hand, they're probably not
+[09:49] going to finish something. But if
+[09:50] they're very busy and they have a lot to
+[09:52] do, they're going to figure out the
+[09:53] easiest, smartest way to do it. 100%.
+[09:57] Yeah. And I think one of the things I'm
+[09:59] most proud of Strike, listen, we're
+[10:01] disruptive because we're into Bitcoin.
+[10:02] We're disruptive because we focus on
+[10:04] Bitcoin and not shitcoins. We've done a
+[10:06] lot of things. Well, one of the things
+[10:08] that I'm most proud of is the culture.
+[10:11] We've had a culture of we must be
+[10:14] profitable. At one point as a founder, I
+[10:17] realized venture capital um like kick
+[10:21] the can down the road type of
+[10:22] fundraising for unprofitable companies
+[10:25] is a scam. It's It's a it's
+[10:27] unjust to have these things exist in
+[10:29] society. An unprofitable business to me
+[10:32] means the company is consuming more from
+[10:34] the world than they're producing value
+[10:35] to the world. That's I did not
+[10:38] want to be one of those people. And so
+[10:41] we almost took it as a cultural
+[10:42] cornerstone for us is we need to be
+[10:44] profitable because that's the right
+[10:45] thing to do for the world. We want to
+[10:47] produce more value for the world than we
+[10:49] take from the world. And so just like
+[10:51] our hurdle rate internally is Bitcoin.
+[10:53] If someone internally comes to me with a
+[10:55] really, hey Jack, I got a really good
+[10:57] idea. I want to start a new product. I
+[10:58] want to hire a bunch of people. I say,
+[11:00] well, is this thing you're going to
+[11:02] start growing going to grow faster than
+[11:04] 50% year-over-year? because you're
+[11:06] competing against Bitcoin. And usually
+[11:08] the answer is no. And so I say get out
+[11:10] of my office because if you can't out
+[11:12] compete Bitcoin, it's not going to get
+[11:15] my time energy in our balance sheet.
+[11:17] Sorry. And so we've built a really
+[11:19] strict culture that actually measures
+[11:21] future success not based on a debasing
+[11:24] dollar with infinite sloshes of venture
+[11:26] capital money in Silicon Valley, but
+[11:28] it's measured against Bitcoin. And so
+[11:30] we've been very lean, profitable, more
+[11:32] from a principled standpoint. like we
+[11:34] find it a moral imperative to be
+[11:37] profitable because it means we're doing
+[11:38] good for the world on net and that's
+[11:41] turned into an amazing business and so I
+[11:42] think it's the restoration of ethics
+[11:44] morals principles to building a startup
+[11:47] that's one of the things I'm most proud
+[11:49] of amongst some of the other stuff but I
+[11:51] mean we're less than 100 people we got
+[11:53] hundreds of millions of dollars on
+[11:54] balance sheet producing profits and in
+[11:57] extremely focused on our customers
+[11:59] because we're measuring ourselves
+[12:01] against Bitcoin and we have you know
+[12:03] this really new age startup type of
+[12:06] mentality and attitude as opposed to
+[12:07] like infinite money printing Silicon
+[12:10] Valley, you might as well lose hundreds
+[12:12] of millions of dollars a year because
+[12:13] you can go raise it again and buy
+[12:14] billboards on the highway that no one
+[12:16] actually cares about. Yeah. You know,
+[12:18] one way uh one way I like to think about
+[12:20] the Austrian business cycle theory, and
+[12:21] I'm not sure there are other economists
+[12:23] who discussed it in those terms, but
+[12:26] ultimately what it comes down to is that
+[12:28] when the money is devaluing, holding
+[12:30] cash has a return of let's say 5%. So
+[12:33] now you just created an enormous um
+[12:36] business opportunity for businesses that
+[12:38] are making a real return of betweeng 5
+[12:41] and 0% to appear nominally profitable.
+[12:44] That's all that the Keynesians are
+[12:45] doing. They're taking businesses that
+[12:47] are actually destroying capital negative
+[12:48] 3% and negative 4%. But by destroying
+[12:51] your capital more through inflation, it
+[12:53] makes it profitable for you to engage in
+[12:55] it. So they're taking away 5% from you.
+[12:57] But if you put it in a bad business that
+[12:59] is destroying only 4%. Then that's good.
+[13:02] So suddenly now instead of just holding
+[13:04] cash and waiting until you get to find a
+[13:06] business that's going to pay you 5%
+[13:08] positive or 10% or an opportunity that
+[13:10] maybe gives you 20 20%. you are much
+[13:14] more likely to go and find whatever
+[13:16] opportunity even if you expect it to
+[13:17] give you negative3 and negative4. So
+[13:19] that's how the capital's destroyed and
+[13:20] it's amazing uh so many bitcoiners tell
+[13:23] me the same thing that you just said
+[13:24] that once you start shifting into a
+[13:26] world in which the money is appreciating
+[13:29] then that's gone and now suddenly you
+[13:31] have much higher standards -3 is not
+[13:33] going to cut it negative4 is not going
+[13:34] to cut it but also three is not going to
+[13:36] cut it. Four is not going to cut it. 10
+[13:37] is not going to cut it. you need to
+[13:39] really push yourself and you need to
+[13:40] really do something that's worthwhile or
+[13:42] at least try and be very lean to try and
+[13:45] use as little capital as possible
+[13:47] because you don't want to spend more
+[13:51] capital than is necessary because the
+[13:53] opportunity cost is you're going to miss
+[13:54] out on Bitcoin's appreciation. So for me
+[13:57] for instance on a personal level I mean
+[13:59] obviously my website is nowhere near as
+[14:01] big as strike but from day one it had to
+[14:05] operate on a monthly cash flow positive
+[14:08] basis. I just I you know I I started
+[14:11] small and I started making revenue and I
+[14:14] just made sure that pretty much every
+[14:15] month I earned more than I spent and I
+[14:17] had to just continue to do that so that
+[14:19] I don't lose satoshi's and I think it's
+[14:21] uh worked out um so far but yeah the
+[14:24] it's it's an entire mentality shift
+[14:26] compared to living in fiat world where
+[14:28] it's uh it's a race to who can destroy
+[14:30] capital less than everybody else. The
+[14:33] Bitcoin Standard podcast is brought to
+[14:34] you by The Safehouse.com, my independent
+[14:37] publisher and bookshop, selling the best
+[14:38] Bitcoin books in high-quality cloth hard
+[14:40] covers built to last for generations.
+[14:42] Most books these days are pretty fiat.
+[14:44] They're flimsy and they fall apart
+[14:45] quickly, and I did not want that for my
+[14:47] books. So, I set up the Safe House
+[14:49] especially to provide you with
+[14:50] beautiful, long-lasting classic cloth
+[14:52] hard covers you can proudly pass down
+[14:54] for generations. You can get copies of
+[14:56] my three books, The Bitcoin Standard,
+[14:57] The Fiat Standard, and Principles of
+[14:59] Economics. And you can also get copies
+[15:00] of Lyn Alden's Broken Money, Parker
+[15:02] Lewis's Gradly Then Suddenly, and
+[15:04] Matthew Lishiaak's Fiat Food, to which I
+[15:06] contributed a few chapters. We now offer
+[15:09] bulk discounts, so you can buy books for
+[15:10] yourself and for the friends and family
+[15:12] you'd like to learn about Bitcoin. Buy
+[15:14] any two books for $50, any five books or
+[15:16] more for $20 per book. And for more than
+[15:19] 50 books, it's only $15 per book. Go to
+[15:21] the safehouse.com the saf house.com
+[15:25] where you can get all of these books in
+[15:27] highquality cloth hard covers delivered
+[15:29] worldwide and get 10% off for paying
+[15:32] with
+[15:33] Bitcoin. The Bitcoin Standard podcast is
+[15:36] brought to you by the Daylight Computer.
+[15:38] I love to work early in the morning and
+[15:39] late at night or in the sun outdoors,
+[15:41] but regular computer screens are
+[15:43] terrible at these times and they strain
+[15:45] your eyes. For years, I've wanted a
+[15:47] paper-like electronic screen on a simple
+[15:49] computer I could use to write. I tried
+[15:52] several models, but none were very good.
+[15:54] Now, finally, Daylight have delivered a
+[15:57] fantastic full function tablet with a
+[15:59] paper-like screen that's easy on your
+[16:02] eyes and great for outdoor use. I've
+[16:04] been using the Daylight computer to
+[16:06] write my next book, and it is absolutely
+[16:08] fantastic, and it has led me to invest
+[16:10] in this company myself. Check out my
+[16:13] interview with Anjan Kata in episode
+[16:15] 249.
+[16:17] Exactly. Yeah. I mean, for all the
+[16:19] entrepreneurs out there, you know, take
+[16:21] it from me. I This was my lived
+[16:23] experience where to Safe's point, what
+[16:26] you end up realizing at the end of the
+[16:27] road is being profitable is actually a
+[16:31] moral good for the world. Because what
+[16:32] it actually means if if money is your
+[16:34] time and energy in an abstracted form,
+[16:36] it is the value and the labor and the
+[16:38] effort that we all contribute to those
+[16:39] around us abstracted in a market good.
+[16:41] That's what money is. If that is and
+[16:44] it's it's it measures who owes what to
+[16:45] whom at the end of the
+[16:47] day. Being profitable means you're
+[16:49] delivering more value to those around
+[16:52] you than you're consuming from the
+[16:53] world. It is quite literally the
+[16:54] financial way of saying you're making
+[16:56] the world a better place. And so that
+[16:58] should be the baseline goal for anyone
+[17:01] starting anything. And anything that
+[17:03] financially and mathematically isn't
+[17:05] making the world a better place
+[17:07] shouldn't exist. the free market should
+[17:09] punish and crush and make these
+[17:10] businesses, these ideas extinct because
+[17:12] it's a net negative to the world. Now,
+[17:14] when I was an entrepreneur and I first
+[17:16] started out, I didn't understand all
+[17:17] this. For those listening, I'm 31 years
+[17:19] old. I got into Bitcoin when I was 18.
+[17:21] And so, a kid when I started my
+[17:23] entrepreneurial journey trying to wrap
+[17:25] my head around what Satoshi had created.
+[17:27] And I would say in the last market
+[17:29] cycle, I had so much when you know the
+[17:31] what went down with El Salvador and we
+[17:34] integrated Lightning with Twitter, I had
+[17:36] so much venture capital money thrown at
+[17:37] me safe. There were a lot of people that
+[17:39] liked the attention and liked the
+[17:41] headlines that were around me. I didn't
+[17:43] have the best people around me. And when
+[17:45] the market corrected and the bare market
+[17:47] happened, I I had to go through this
+[17:49] experience very painfully on my own,
+[17:51] which was am what I've built good for
+[17:54] the world? Because we were losing money.
+[17:56] We weren't we we had achieved a lot of
+[17:58] headlines, a lot of Twitter followers, a
+[18:00] lot of stuff, but we weren't cash flow
+[18:02] positive. It was hard for me to really
+[18:04] wrap my head around measuring what was
+[18:07] good for the world if it was up to a
+[18:09] venture capitalist to determine the
+[18:10] value that I was building and the vision
+[18:12] that I had embarked on. And what you you
+[18:15] come to realize is, you know, measuring
+[18:19] and future fundraises from venture
+[18:21] capitalists in a depreciating currency.
+[18:23] to Safedine's point, you know, it's it's
+[18:26] it's a game of, you know, who can lose
+[18:29] money in the most attractive way um
+[18:32] under the negative 5%. So, I mean, even
+[18:35] before we made these announcements, say,
+[18:37] there was a blue chip Silicon Valley
+[18:40] startup that published an article on
+[18:42] TechCrunch, my chief of staff was like,
+[18:44] "Hey, you got to read this article."
+[18:45] It's funny because they're talking about
+[18:47] their topline revenues and how much
+[18:49] growth they've had and how much
+[18:51] customers they've had, but at the very
+[18:53] end of the article, they mention they're
+[18:54] still not profitable and they need to
+[18:56] raise money. And so, it's this whole
+[18:58] article of like, we were making hundreds
+[19:00] of millions of dollars in revenue. We're
+[19:02] growing all this. We opened an office in
+[19:04] London. We're amazing. Look at this uh
+[19:06] like very um Christmas cardesque picture
+[19:10] of our founding team. But at the very
+[19:11] bottom, it's like, but we lose $50
+[19:13] million a quarter and we need to raise
+[19:15] money to survive. And that actually
+[19:17] motivated me to publish our own numbers
+[19:19] and talk about my experience as a
+[19:21] founder in Bitcoin and realizing the
+[19:23] fiat game is a muck and the topline
+[19:26] revenues don't matter. The bottom line
+[19:27] profits actually matter and that if you
+[19:31] give people hundreds of millions of
+[19:33] dollars of fiat, they're just going to
+[19:34] puke it on marketing, on new products,
+[19:37] on hiring a bunch of people. And uh
+[19:40] yeah, it was it was through that
+[19:41] experience that I I kind of pivoted. I
+[19:43] changed the culture and the energy
+[19:45] around Strike, what we were trying to
+[19:47] do. And since then, it's been a rocket
+[19:48] ship. Um so I'm thankful for those
+[19:51] experiences. But for those entrepreneurs
+[19:52] out there, hopefully you take it from me
+[19:53] and you don't have to live it yourself.
+[19:54] Um be profitable, which is a a moral
+[19:57] good for the world. Um measure yourself
+[19:59] in Bitcoin, not in dollars. Don't be
+[20:01] part of the scam. Yeah, absolutely. No,
+[20:04] I agree entirely on the the you know
+[20:07] there's a lot of negative uh
+[20:08] connotations to wealth and to capital
+[20:10] accumulation that people have, but
+[20:12] there's nothing better than turning a
+[20:14] profit. Turning a profit means you're
+[20:15] taking things that society values at X
+[20:18] and then you're turning them into X plus
+[20:20] something through the magic of economic
+[20:22] production if you do it correctly. And
+[20:25] that's just a good thing. You're getting
+[20:26] rewarded for doing something valuable.
+[20:29] You know, if if if you're buying
+[20:31] everything voluntarily from people and
+[20:32] if you're selling everything
+[20:33] voluntarily, then you're by the
+[20:36] admission of all the people paying you
+[20:38] and buying from you and selling you,
+[20:41] your subjective valuation of the goods
+[20:43] that you produce is higher than the
+[20:44] subjective valuation of the goods that
+[20:46] you consume. So, you're doing something
+[20:47] good. And if you're not turning a
+[20:49] profit, then you're destroying capital.
+[20:51] And this is, you know, it's it's morally
+[20:53] good. It's good for your psychology.
+[20:55] good for you as a person, but also it's
+[20:59] I think what many people miss is that
+[21:01] economic calculation, this is the point
+[21:02] the Austrians keep uh harping on about.
+[21:05] Economic calculation is what allows the
+[21:07] coordination of economic production. So
+[21:09] you shouldn't just think of profit as
+[21:10] being good because it makes money. You
+[21:11] should think of it as a as the compass
+[21:14] that drives you to know what to do, what
+[21:16] decisions to take. And it's just it's a
+[21:18] blessing to have a market in that regard
+[21:20] because it tells you, you know, you do
+[21:23] this, then you don't make a lot of
+[21:24] profit. It's telling you that's not
+[21:26] good. Don't keep going that way. You're
+[21:27] doing this other thing that's making
+[21:28] profit. Keep going there. Double down on
+[21:30] it. Invest on it more. Find out how you
+[21:32] can make it better. Increase the
+[21:34] quantity of uh products, decrease the
+[21:38] Yeah. A story from Strike. So to
+[21:41] continue the story I was telling, you
+[21:43] know, we were focused, my initial theory
+[21:45] was around lightning, and I think I'm
+[21:47] right on the general trend of lightning.
+[21:48] I was wrong on the timing. I thought it
+[21:49] was going to happen a lot sooner than it
+[21:51] has. And whatever, you're wrong
+[21:53] sometimes. It's not a big deal. But
+[21:55] really for me is, you know, I ended up
+[21:57] taking the ego out of, you know, when I
+[21:59] was a kid, I thought my job as a CEO of
+[22:01] a company was to predict the future and
+[22:03] know what's best for other people. And
+[22:05] you realize that's just you being an
+[22:07]  That's not your job. Your job
+[22:08] is actually to listen to customers and
+[22:12] build for what they want. And when we
+[22:15] changed from we're going to try and make
+[22:17] this lightning thing happen as fast as
+[22:18] possible to Bitcoiners just want us to
+[22:20] build Bitcoin financial services and who
+[22:22] knows better what they want than them.
+[22:25] That trick question, nobody. And as soon
+[22:27] as we've I I went through this, you
+[22:28] know, period with myself and we just
+[22:30] started listening to our customers safe
+[22:33] profits. We're just overflowing with
+[22:34] profits and growth and positive
+[22:36] feedback. And to your point, the market
+[22:39] and customers have been our greatest
+[22:41] guide. Uh, and it's been incredible for
+[22:45] us. So anyway, um that is a real life
+[22:49] story I lived through is just by
+[22:51] listening to the market and being guided
+[22:53] by profits, we've become an immensely
+[22:56] customer focused business that's found
+[22:57] our way into stacking sats and and
+[22:59] growth and prosperity as a business as
+[23:02] opposed to, you know, not being guided
+[23:04] by capital allocation and formation. to
+[23:06] your point. Yeah. I think that that
+[23:09] whole notion of I know better than the
+[23:10] market, this kind of u struggling artist
+[23:13] who wants to produce the art that people
+[23:15] don't value because people are stupid
+[23:16] and they don't they don't know what art
+[23:18] is is a perfect recipe for being
+[23:20] miserable and depressed with the rest of
+[23:21] your life. Uh embrace the people. Give
+[23:24] the people what they want. Learn to like
+[23:27] what they like. Your, you know, as I
+[23:29] like to say, everything you want is on
+[23:31] the other side of giving people what
+[23:32] they want. Everything you want, you can
+[23:34] get by giving people what they want. So,
+[23:36] uh, take that ship off your shoulder and
+[23:38] stop thinking that you know what's
+[23:39] better for people than they do. It's
+[23:41] taken the ego out of it. That's the
+[23:42] culture we have at Strike. And actually,
+[23:44] how we got to the lending product in the
+[23:45] first place is because Bitcoiners were
+[23:47] asking for it. And so, you could you
+[23:50] could think, you know, lending in this
+[23:52] industry as it's a dirty word. It's
+[23:54] scary. There's past history of, you
+[23:57] know, people getting burned with really
+[23:59] shady criminals like Sam Bankman Freed.
+[24:01] But for us, you know, Bitcoin started
+[24:03] out with a market cap of zero. Now it
+[24:05] has a market cap over$ two trillion
+[24:06] dollars. So there's been trillions of
+[24:08] dollars worth of wealth created for
+[24:09] Bitcoiners. And they're all coming to us
+[24:11] and saying, "We want a transparent,
+[24:13] trustworthy way to borrow against the
+[24:15] best performing asset in human history.
+[24:17] And uh we think you can do it for us."
+[24:19] And so again, it's taking the ego out of
+[24:21] whatever I think the future will be
+[24:23] doesn't matter. It's I'm in a position
+[24:25] where I have the technology, the balance
+[24:27] sheet, the team, the licenses, the
+[24:29] distribution to provide financial
+[24:31] services for Bitcoiners. and I shut up
+[24:33] and I listen and I take my ego out of it
+[24:36] and I flush it down the toilet. And so
+[24:37] when they said there's no credible
+[24:39] lending solution that's been done at
+[24:41] scale with transparency,
+[24:43] trustworthiness, with effective pricing
+[24:45] and large pools of capital and uh that's
+[24:47] what we built. So Strike's just been an
+[24:50] iteration of Bitcoiners evolving as this
+[24:52] industry grows to be honest. Yeah. No,
+[24:55] absolutely. And so what is the u main u
+[24:59] main source of revenue for Strike now?
+[25:01] or is it just fees on transfers or
+[25:04] buying Bitcoin? Yeah, our biggest
+[25:06] business is the buy sell the brokerage
+[25:09] product, but we're predominantly buy
+[25:11] side. So, our customers don't sell a
+[25:13] ton, they buy. Um, we have seen growth
+[25:16] in selling as we've been able to grow
+[25:18] and meet some demands, but we're
+[25:20] actually already seeing a reduction in
+[25:21] Bitcoin sales because these customers
+[25:24] are borrowing against the asset instead,
+[25:26] which is awesome. Uh, and we have other
+[25:28] business lines. We have B2B products. We
+[25:30] have an API. We do have our lightning
+[25:32] business, but I would say our Bitcoin uh
+[25:35] brokerage service is the biggest
+[25:37] business line. Um the lending one is
+[25:39] already growing a lot. It's been live
+[25:41] for not even a month and it's a very
+[25:44] popular product I think for obvious
+[25:46] reasons. But it's predominantly this buy
+[25:49] sell. And the last thing I think is
+[25:51] interesting is you can kind of track
+[25:53] what I think people misunderstand is
+[25:55] yes, Bitcoin is for everyone. Yes, I
+[25:57] think what's happening in Africa and
+[25:58] Latin America is fascinating, but at the
+[26:00] end of the day, Bitcoin is competing to
+[26:02] store the world's cash balances. And
+[26:04] where we've seen the most growth and the
+[26:08] highest volume of business is in parts
+[26:10] of the world with the largest cash
+[26:11] balances, Bitcoin is a wealth transfer.
+[26:13] And so, in order to track where it's
+[26:15] most popular, you should just go where
+[26:17] the wealth exists. So, our big biggest
+[26:18] business line is the United States.
+[26:20] After that is Europe and the UK. And
+[26:22] then after that are a lot of the
+[26:24] emerging markets. Um, and so I think
+[26:26] it's very validating to see our numbers
+[26:28] and see under the hood into our
+[26:30] dashboards and realize that this is just
+[26:32] a grand wealth transfer going on and
+[26:34] people are recapitalizing their cash
+[26:36] balances into this asset class from
+[26:38] wherever uh US real estate, the UK stock
+[26:41] market, etc., etc. Yeah, I think a lot
+[26:44] of us uh initially thought that u
+[26:47] Bitcoin is going to be a lot more
+[26:49] popular in poor countries and countries
+[26:50] that have high inflation. I think it's
+[26:54] uh you know it would have been nice if
+[26:57] Venezuelans and Lebanese and Zimbabwean
+[26:59] people had stacked sats really hard over
+[27:02] the last 5 10 years but I think you know
+[27:05] from personal experience I just and I
+[27:07] saw this in Lebanon firsthand and I see
+[27:09] when I travel around and I talk to
+[27:10] people in places like the US and Canada
+[27:12] I think it turns out that ultimately at
+[27:14] this point the real use case the real
+[27:18] demand the real thing that is going to
+[27:19] drive significant amount of interest in
+[27:21] Bitcoin
+[27:22] is demand for storing value in Bitcoin
+[27:25] is for demand for cash balances. And
+[27:27] that's just going to come from people
+[27:28] who are used to saving, people who have
+[27:30] savings, people have stock portfolios,
+[27:32] who hold bonds, and who are financially
+[27:35] savvy and who are just always have the
+[27:38] ability to save for the future. And
+[27:40] sadly, if you're in a place like
+[27:41] Venezuela, Zimbabwe, Lebanon, if you've
+[27:43] gone through hyperinflation, your um you
+[27:46] know, your wealth has been destroyed and
+[27:47] you don't have the lux well I I don't I
+[27:51] wouldn't say you don't have the luxury.
+[27:53] I think everybody should be thinking of
+[27:54] the future, but uh it's much more
+[27:57] difficult to think of the future in a
+[27:58] place where you've had that and you
+[27:59] don't have a lot of cash balances and
+[28:00] you're trying to make ends meet for the
+[28:02] end of the month. It's a lot harder to
+[28:04] see serious demand for Bitcoin in these
+[28:06] kind of situations and it's just the way
+[28:08] it is ultimately. This is money and the
+[28:11] money is going to end up in the hands of
+[28:12] the people who have money. Exactly. And
+[28:14] and one of the stats we released at
+[28:17] Strike, our fastest growing customer
+[28:19] cohort is actually the customer base
+[28:21] that's doing 50 to $500,000 of volume
+[28:23] with us a month. So these customers are
+[28:26] doing millions of dollars of volume with
+[28:28] us a year and that's our fastest growing
+[28:30] customer base. So again, we do have
+[28:32] customers all over the world. We are
+[28:34] seeing growth in these Latin American
+[28:36] African regions that are significantly
+[28:37] poorer than Americans, but the fastest
+[28:40] growing, the most volume. To safe's
+[28:42] point, it's obvious. It's coming from
+[28:43] the people that actually have the cash
+[28:44] balances. Something that, you know, my
+[28:46] mental model personally and extends to
+[28:49] both my businesses is that, you know,
+[28:51] humans own a little over $900 trillion
+[28:54] worth of stuff. That's
+[28:56] currencies, nation state debt, real
+[28:58] estate, stocks, precious metals,
+[29:01] collectibles, art, just all the stuff
+[29:03] that we own in the world. And about half
+[29:05] of that we've monetized as savings. So
+[29:09] people own houses not necessarily to
+[29:11] consume them and live in them, but to
+[29:13] store and save their wealth. They own
+[29:14] art, not necessarily to put in on their
+[29:16] wall in their living room for their kids
+[29:18] to throw spaghetti at, but they're using
+[29:21] it as a savings account to store and
+[29:22] persist wealth. And I think Bitcoin's
+[29:24] competing over that 400 to500 trillion
+[29:27] dollar opportunity. And so if you want
+[29:28] to see where the wealth transfer is
+[29:30] going to happen, you know, look under
+[29:32] the hood to where the 400500 trillion
+[29:34] worth of savings is looking for a
+[29:36] potential new home. And that's not as
+[29:39] much in Latin American Africa as it is
+[29:42] in Manhattan, as it is in California, as
+[29:46] it is in London. And that that's what we
+[29:48] see in our numbers. And we see growth
+[29:50] all over the place. Um, I think there's
+[29:51] a different set of products that are
+[29:52] appealing to the emerging markets, but
+[29:54] yeah, it's very validating to understand
+[29:57] where Bitcoin is appealing, why it's
+[29:58] growing, and what's happening. The
+[30:00] Bitcoin Standard podcast is brought to
+[30:01] you by Coin Kite. Coin Kite are my
+[30:04] favorite makers of Bitcoin hardware.
+[30:06] They produce the legendary Open Dime,
+[30:08] the first Bitcoin bearer asset, as well
+[30:10] as the reliable cold card hardware
+[30:12] wallet, the excellent stainless steel
+[30:13] seed plates for storing your seed
+[30:15] phrases, and the block clock. Now, Coin
+[30:18] Kite have produced the SATS card, a card
+[30:21] the size of a credit card which can
+[30:22] store Bitcoin and works great as a gift.
+[30:25] Coin Kite have just produced a limited
+[30:27] edition gorgeous Bitcoin Standard
+[30:29] Satsard which carries the Bitcoin
+[30:31] Standard logo and you can get it from
+[30:33] Coin
+[30:35] Kite.shop/bitcoinstandard. Use the code
+[30:37] Bitcoin Standard to get 5% off your
+[30:39] purchase. This podcast is also brought
+[30:41] to you by the Bitcoin Way, your
+[30:43] professional Bitcoin IT team offering
+[30:45] you personalized, secure and
+[30:47] comprehensive solutions for every step
+[30:49] along your Bitcoin journey. The Bitcoin
+[30:51] way offer live concierge service to
+[30:54] guide you with your Bitcoin cold
+[30:55] storage, running your node, privacy best
+[30:58] practices, inheritance planning,
+[31:00] corporate strategy, and multisig
+[31:02] solutions. They don't touch your coins.
+[31:04] They guide you through the process of
+[31:06] acquiring your coins and securing them.
+[31:08] If you'd like to make your setup safer
+[31:10] and more reliable, book a consult with
+[31:12] them and see what they have to suggest.
+[31:15] If you want to give someone the gift of
+[31:16] Bitcoin, get them this professional
+[31:18] service that will ensure they start off
+[31:20] knowing exactly how to manage their
+[31:22] coins and not lose them. Go to the
+[31:25] bitcoinway.com and start bitcoining more
+[31:28] confidently.
+[31:30] Yeah. What kind of products are you
+[31:31] finding u most uh appealing in um um
+[31:36] poorer countries? So what's fascinating
+[31:39] is we integrated tether in this wallet
+[31:44] that we we think of our product almost
+[31:45] in two ways. We have the developed
+[31:49] market product where US Europe UK we
+[31:51] support the local currency and our suite
+[31:53] of Bitcoin products. So we support the
+[31:55] dollar, the euro, the pound and that's
+[31:56] because these customers get their
+[31:58] paychecks in in this product. It's these
+[32:01] dollars and euros and pounds aren't
+[32:03] going through necessarily
+[32:04] hyperinflation. They go to the grocery
+[32:05] store with it. It's fine. And they also,
+[32:09] by the way, no one in America has ever I
+[32:11] find this fascinating. No customer ever
+[32:13] ever ever has asked us, I don't want you
+[32:16] to integrate with my Chase Bank. I want
+[32:18] you to integrate Tether for me in
+[32:20] California. No one's ever told me that.
+[32:22] So, I actually don't know who uses USDC
+[32:25] or why. Cuz as an American, I have a
+[32:27] Chase account. I have Cash App. I have
+[32:29] Venmo. I have PayPal. Why would I need a
+[32:32] stable coin? It's beyond me. And as
+[32:34] someone who runs a big business in
+[32:36] America, I've never heard a customer ask
+[32:39] me for that. Now, outside of the
+[32:41] developed world, Latin America, Africa,
+[32:44] some parts of Eastern Asia, all we get
+[32:47] is don't integrate with our banks. Our
+[32:49] banks barely work. The technology here
+[32:51] sucks. Give me Tether. Instead of the
+[32:54] Ganaian SETI or the Nigerian Naira or
+[32:56] the Turkish LRA and Bitcoin, I want a
+[32:58] wallet with Tether and Bitcoin. And no
+[33:01] one ever asked for USDC in these
+[33:02] markets. It's only been Deather and I
+[33:05] know they're the co-founder is now on a
+[33:06] separate business with me so it's going
+[33:08] to come off now as bias but this is a
+[33:10] true story where we were like oh crap
+[33:12] give the people what they want which is
+[33:14] Tether and Bitcoin and that's the
+[33:16] product that's gone viral in these other
+[33:18] markets and we see a lot of the payments
+[33:20] activity split between Tether and
+[33:22] Bitcoin and a lot of the financial
+[33:23] activity is interesting. I'm really
+[33:25] excited to get our lending product to
+[33:27] these markets because I'm stoked to give
+[33:30] some of these poorer countries an
+[33:31] ability to save an asset that's
+[33:33] compounding at 50% on average and borrow
+[33:35] tethers and that should I mean by
+[33:37] accessing collateralized debt it
+[33:39] actually should help people build
+[33:41] wealth. But, you know, we'll see. But
+[33:43] we're we're seeing pretty interesting
+[33:44] behavior with the stable coins there.
+[33:46] Um, and in Europe, no one's ever asked
+[33:49] me for a tether or whatever. Yeah. Yeah.
+[33:52] I mean, basically, if you've got a
+[33:53] functioning USD bank account and USD
+[33:55] credit card, you don't really need
+[33:57] Tether. But the vast majority of the
+[33:59] world doesn't. The vast majority of the
+[34:01] world doesn't have that. So, I think
+[34:02] there's an enormous market opportunity
+[34:04] for Tether. It's been astonishing
+[34:05] watching their growth. It really is. I
+[34:07] was very skeptical that they could pull
+[34:08] it off and they just keep delivering.
+[34:11] Yeah. I mean, you know, I I think what
+[34:14] people should know, I I've co-founded 21
+[34:16] with Tether, so I've been friends with
+[34:18] them for a really long time. I've been
+[34:19] in Bitcoin for almost 13 years and
+[34:21] they've been around just as long. And I
+[34:24] say that to say everyone that was around
+[34:26] back in the day, we're all friends
+[34:27] because there just weren't that many
+[34:28] people in Bitcoin. With that being said,
+[34:30] I'm not a Tether employee. I don't speak
+[34:33] on behalf of Tether. And by the way, I
+[34:35] don't have an interest in their
+[34:38] business, like their stable coin
+[34:39] business at all. I'm speaking as the
+[34:41] Strike Founder. People love their
+[34:43] product and their product competes
+[34:45] directly against these shitty currencies
+[34:48] in these poor markets. It doesn't
+[34:50] compete against Bitcoin in my opinion
+[34:53] and from what I've seen at Strike. And
+[34:55] so it's been remarkable to see the
+[34:58] breadth of demand. I mean they have over
+[35:01] 400 million active wallets which is
+[35:04] insane. They have more active wallets
+[35:06] than there are people in America which
+[35:08] is outrageous. And so there's a clear
+[35:10] demand for access to the dollar
+[35:12] digitally in a convenient way. And screw
+[35:15] Tether. I would say the private sector
+[35:17] has figured that out where big
+[35:19] government and stupid banks like Chase,
+[35:22] you know, are slow, clunky. They've
+[35:24] built their businesses on regulatory
+[35:26] mode and access to the money printer as
+[35:28] opposed to being technologist and
+[35:30] customer focused and forward thinking.
+[35:31] And so the private sector has figured
+[35:33] out how to meet the demand of these poor
+[35:36] countries that go through hyperinflation
+[35:37] and have terrible central banks and and
+[35:40] currencies and it's turned into who knew
+[35:43] an amazing business that you know
+[35:45] they're basically onboarding Argentine
+[35:47] cab drivers onto US debt. And so now you
+[35:51] know America loves it, the Argentine cab
+[35:53] driver loves it and Tether takes the
+[35:55] profits and plows it into Bitcoin and
+[35:57] starts businesses with me like 21. So, I
+[36:00] think it's fascinating, but you know,
+[36:02] it's actually very logical when you
+[36:04] think about it. They're just a full
+[36:05] reserve bank that is actually
+[36:06] technologically savvy and and ethical in
+[36:09] my opinion. Yeah. And, you know, a lot
+[36:12] of people in Bitcoin land like to uh
+[36:15]  on Tether and say that, you know,
+[36:16] it's a shitcoin. It it's a dollar. It's
+[36:19] furthering dollar hedgeimony. And I can
+[36:21] sort of sympathize with that. I'm no fan
+[36:22] of the dollar and I'm no fan of Treasury
+[36:24] bonds. But as I like to say it, you
+[36:26] know, let he who is without a US dollar
+[36:29] checking account and credit card cast
+[36:32] the first stone. Um, everybody in
+[36:34] today's world needs a US dollar bank
+[36:37] account. Um, and you know, it's funny. A
+[36:40] lot of the critics of Tether, they u
+[36:43] they're not even uh they're not even
+[36:45] into Bitcoin significantly. They buy
+[36:47] maybe a little bit of Bitcoin, but
+[36:49] ultimately no matter how much Bitcoin
+[36:50] you have in today's world, you need to
+[36:53] use fiat payments. You need to pay rent.
+[36:55] You can't orange pill everybody. The
+[36:58] size of Bitcoin cash balance is about
+[36:59] 0.5% of all the world's cash balances.
+[37:02] So every time you're trading with
+[37:04] somebody, the expected value of Bitcoin
+[37:06] on their balance sheet is about 0.5%. So
+[37:10] almost certainly they're not going to
+[37:11] want to buy and sell in Bitcoin. You
+[37:13] know, somebody like me is a bit of an
+[37:14] exception. My website mainly sells to
+[37:16] Bitcoiners. So it's makes and and I hold
+[37:20] a lot of Bitcoin and they hold a lot of
+[37:21] cash balances in Bitcoin. So about a
+[37:23] third to a half of my revenue comes from
+[37:25] Bitcoin. Does that make sense? But if
+[37:28] you're buying an Coiner good where you
+[37:31] know you all the rest of the customers
+[37:33] are also are not Bitcoiners and the
+[37:36] business is not Bitcoiner, you can't
+[37:38] orange pill them all so that you can
+[37:40] spend your Bitcoin. Just get a checking
+[37:41] account and use it and it's fine. It's
+[37:44] uh it's it you can still call yourself a
+[37:47] Bitcoiner and you're not going to kill
+[37:49] Bitcoin by doing it because ultimately
+[37:51] what matters is the size of the cash
+[37:52] balances. That's how Bitcoin wins.
+[37:54] That's really what matters. We need to
+[37:55] stack SATs as hard as you can and
+[37:57] inconveniencing yourself by um making it
+[38:00] more expensive for you to engage in
+[38:02] transactions by having to say pay
+[38:04] physical cash so that you don't use the
+[38:05] banks or whatever. you're just making it
+[38:07] more expensive for you and therefore
+[38:09] ending up stacking fewer sats and
+[38:12] um making it take longer for Bitcoin to
+[38:16] eat the dollar. Yeah. You know, I had a
+[38:19] conversation with a customer in
+[38:21] Argentina actually. This was years ago,
+[38:23] but to get us at strike to the position
+[38:26] we are, the customer is on Bitcoin
+[38:29] Twitter and is seeing the rhetoric of
+[38:30] Bitcoiners calling Tether Shitcoin and
+[38:32] prolonging the dollar's hedgemony. And I
+[38:35] also can sympathize with that as well. I
+[38:37] was one of those people that held that
+[38:38] opinion. What I would say though is the
+[38:40] the customer came to me and was like,
+[38:41] "Listen, man. You already support
+[38:43] shitcoins. You support the dollar. You
+[38:45] support the euro. You support the pound.
+[38:48] Those are also shitcoins. And you
+[38:50] support shitcoin rails, which is fed
+[38:52] wire, which which is a which is SEPA,
+[38:54] which is UK faster payment. So you
+[38:56] support shitcoin rails and shitcoins
+[38:58] already. Who are you to tell me, someone
+[39:01] living in Argentina, that you can't
+[39:04] support my preferred shitcoin rail,
+[39:06] which is Tether? Like, who cares? Um,
+[39:09] and go back to the Americans and say,
+[39:11] "We're not going to support Fedwire.
+[39:13] We're not going to support a not going
+[39:14] to support your Chase bank account
+[39:16] because they're shitcoins. Good luck
+[39:18] then using Strike and having a smooth
+[39:20] experience on boarding Bitcoin and god
+[39:22] forbid you have an emergency medical
+[39:23] surgery or you want to buy a house. Go
+[39:25] screw yourself." and he was like,
+[39:27] "Obviously that's not the right
+[39:29] approach." So yes, Tether is a token um
+[39:32] and it could be conflated with
+[39:34] shitcoins, but the reality is why would
+[39:36] you as a founder make me sit in the
+[39:39] Argentine peso or make me use Binance? I
+[39:41] want to use Strike and can you just
+[39:44] support our preferred fiat shitcoin? And
+[39:48] that conversation, I was like, "Oh,
+[39:50] again, I need to take my ego out of
+[39:52] this. It's not my job to decide how
+[39:56] people in Argentina manage their
+[39:58] finances and then marginally increase
+[40:01] increase their Bitcoin cash balance
+[40:02] based on their financial position.
+[40:04] That's not my job. And by the way, no
+[40:06] decision I make is going to encourage
+[40:09] them to store more of their cash balance
+[40:10] in Bitcoin. Like these decisions are
+[40:12] made at the margin. And people are going
+[40:15] to every single day we all wake up, we
+[40:17] all do stuff for the world of value. And
+[40:19] then we have a decision to make in real
+[40:21] time. How do we want that value to be
+[40:22] persisted and exchanged later? And
+[40:25] people are going to have access to all
+[40:26] sorts of tools to persist and store that
+[40:28] value. And increasingly, people choose
+[40:30] Bitcoin, but that's to safe's point,
+[40:32] it's a process that's going to take time
+[40:34] naturally. It's not going to go from two
+[40:36] trillion to $200 trillion in 24 hours.
+[40:39] And so that conversation, conversations
+[40:42] like it really flipped my brain around
+[40:44] and was like, "Oh man, my ego is in the
+[40:46] way. I need to listen to these people."
+[40:48] And they have a preferred shitcoin. Like
+[40:50] I like using the wire system and the
+[40:53] dollars in America. They like tether and
+[40:55] whatever rails. Who gives a And it
+[40:57] it's just helping them become
+[40:59] Bitcoiners. Yeah, exactly. And yeah,
+[41:01] that that's the key point. You said
+[41:02] there's nothing you can do to make them
+[41:03] get into Bitcoin. I don't I don't think
+[41:05] so. Actually, I think remember what we
+[41:07] were saying earlier. It's people that
+[41:08] suffering from hyperinflation that are
+[41:09] not able to get into Bitcoin because
+[41:11] they don't have cash balances. Whereas
+[41:13] people who do have access to the dollar
+[41:15] and the euro and the relatively uh
+[41:17] better uh fiat currencies, they're the
+[41:19] ones that are able to maintain their
+[41:21] cash balances relatively and so they can
+[41:23] get into it. So when the Argentinians
+[41:24] Yeah. when the Argentinians and the
+[41:26] Turks and the Brazilians stop using
+[41:27] their local shitcoin and they have a
+[41:29] cash balance with uh the US dollars,
+[41:31] they're going to become much more likely
+[41:33] to start getting into Bitcoin because
+[41:34] they have cash. And also because on a
+[41:36] practical level, you know, they've got
+[41:37] an app that allows them to move uh uh
+[41:39] Tether around. they get the intuitive
+[41:42] idea behind, you know, private keys,
+[41:43] public keys, how you use that, and then
+[41:46] it's going to be very easy for them. The
+[41:47] same way that they made the upgrade from
+[41:49] the Argentine peso to the dollar, then
+[41:52] it's the next step from the dollar to
+[41:54] Bitcoin. That's Yeah. And I I generally
+[41:57] I'm not too u I'm not too negative about
+[42:00] Tether because of that because
+[42:02] ultimately, you know, I saw people use
+[42:03] it. I I I remember in Lebanon, it was a
+[42:05] lifeline for a lot of people. So it's
+[42:07] it's completely callous to just say no,
+[42:09] they shouldn't use it. It works. It
+[42:13] Yeah. And also, I mean, this is now
+[42:15] getting the technicals of the fiat
+[42:16] system, but Tether doesn't own 10-year
+[42:19] Treasury bonds. They buy these coupons
+[42:22] that need to be refinanced every, you
+[42:24] know, 3, six months. And so they're not,
+[42:27] you know, the US government can't
+[42:29] finance itself. Uh they're not the
+[42:32] preferred lenders to the US government
+[42:34] either, by the way. they're buying these
+[42:36] short-term effective like bank deposits
+[42:38] that are underwritten by the US
+[42:40] government. And so I would say, you
+[42:42] know, listen, if if the United States
+[42:44] comes out and says, "Hey, new rule. If
+[42:46] you're a stable coin, you need to buy
+[42:48] 100year garbage bonds with all the
+[42:51] customer deposits, then all of a sudden
+[42:53] you're talking about, you know, stable
+[42:55] coins being strongarmed into financing a
+[42:58] government that's just perpetuating this
+[43:00] garbage system." But the reality is
+[43:02] they're servicing demand and helping
+[43:04] people. They're buying these coupons.
+[43:06] They're taking the profits and changing
+[43:08] the world and buying Bitcoin. My
+[43:10] customers are happy. The US is happy.
+[43:13] Everyone's happy. I just see it as the
+[43:15] private sector doing, you know, the work
+[43:18] that governments and the uh co-opted
+[43:22] banking system what they couldn't do
+[43:23] with their fractional reserve nonsense
+[43:25] and the fact that they've persisted
+[43:26] their businesses through regulatory
+[43:28] modes and through strong armed lobbying
+[43:29] as opposed to competing in the free
+[43:31] market. Like if Chase was actually good
+[43:34] leadership, good technologist, they
+[43:35] would have built this product 20 years
+[43:36] ago. But they're not. They they spend
+[43:38] their time lobbying in Washington DC.
+[43:40] And so I see this as the free market and
+[43:42] technologists and innovators doing good
+[43:44] work for people around the world.
+[43:46] They've helped hundreds of millions of
+[43:47] people. I don't see a problem. Yeah. And
+[43:49] also I think you know yes they're adding
+[43:52] they're buying up a lot of treasuries
+[43:55] but ultimately the I think the key thing
+[43:58] that a lot of people are missing is that
+[44:00] a lot of that is not new demand for
+[44:02] treasuries. It's displacing existing
+[44:04] central bank for treasury demand for
+[44:06] treasuries. So people who are moving
+[44:07] from the peso, the peso at the end of
+[44:09] the day is just in its ideal form, it's
+[44:12] a dollar stable coin. You know, the best
+[44:13] thing that you could do with the peso is
+[44:15] have a fixed exchange rate against the
+[44:17] dollar or at least maintain uh some
+[44:19] fixed rate, some close to fixed rate
+[44:21] against the dollar so that the peso is
+[44:22] not devaluing against the dollar. You
+[44:24] can't beat the dollar, but you can at
+[44:26] least hopefully, you know, many
+[44:28] countries have managed to do this. I
+[44:30] live in Jordan. They've been um for more
+[44:32] than 35 years now, the exchange rate has
+[44:34] been fixed against the dollar. That's
+[44:36] basically your best case scenario. So,
+[44:38] how do you do that? How can you keep
+[44:39] your currency fixed against the dollar?
+[44:41] You need to be buying dollars and
+[44:43] treasuries and you need to be making a
+[44:44] market in them. And you need to be able
+[44:45] to redeem uh people's uh you know, when
+[44:48] people want to dump your currency, you
+[44:49] need to be able to buy it up with the
+[44:51] dollars so that the currency doesn't go
+[44:53] and then when there's a lot of more
+[44:54] demand for your currency, you need to be
+[44:56] able to sell some of it and accumulate
+[44:58] dollars. So central banks hold enormous
+[45:01] quantities of dollars and tether is just
+[45:04] doing the same thing. Now granted they
+[45:06] do it in a much more efficient way.
+[45:08] That's the their secret. So Tether
+[45:11] they've got a 100 employees. You know
+[45:12] Paulo and his friends and cousins
+[45:14] basically uh running a company that's
+[45:17] making 13 billion dollars of profit a
+[45:19] year. It's the most profitable company
+[45:21] in human history. Um well, you know, uh
+[45:25] 140 million $140 billion is this medium
+[45:28] country's money supply. And now compare
+[45:31] a country that runs a $140 billion
+[45:34] national currency and think about how
+[45:37] much more inefficient it is than Tether
+[45:41] because you know it's not just they
+[45:43] don't just have 100 people running that
+[45:45] central bank. They are running the
+[45:47] central bank. They're running the entire
+[45:48] government from that currency. So when
+[45:50] you hold their stable coin, their dollar
+[45:53] stable coin, which is the peso or the
+[45:54] lero or whatever it is, you're financing
+[45:58] and the overhead of the entire
+[46:00] government, the army, the
+[46:02] police, the presidential palace, um all
+[46:06] of the theft, all of that is being
+[46:08] financed from the money printing and
+[46:10] from the business. So it's an extremely
+[46:12] inefficient way of converting demand for
+[46:14] dollars into um a medium exchange that
+[46:18] people can use day dayto day and it's a
+[46:21] way that demands a lot of dollars but
+[46:23] now tether is doing it in a more
+[46:24] efficient way. So yeah likely it will
+[46:27] increase demand for treasuries but it's
+[46:28] not entirely new demand. It's not like
+[46:30] those $150 billion in treasuries that
+[46:32] they currently hold are um you know dis
+[46:36] out of nowhere. They likely displaced a
+[46:38] lot of the demand that central banks
+[46:40] would have been holding.
+[46:42] 100% I couldn't agree more. I love the
+[46:44] point on free markets in the private
+[46:46] sector. Like let entrepreneurs in the
+[46:48] free market solve problems for people
+[46:50] and they will come up with the most
+[46:51] efficient cost-effective way. Like
+[46:54] public sector governments and to me like
+[46:57] JP Morgan, Bank of America, all these
+[46:59] big too big to fail banks, they're
+[47:01] effectively arms of the government and
+[47:04] they aren't innovators. They have not
+[47:06] been building progressive technology.
+[47:08] They've just been lobbying. And so,
+[47:09] yeah, you're seeing a massively
+[47:12] innovative profit per employee business,
+[47:14] highly efficient, solve a problem for
+[47:16] hundreds of millions of people with like
+[47:17] a 100 folks. And that's exactly how the
+[47:20] world should be. That's the incentive of
+[47:22] the free market and, you know, capital
+[47:24] structure. So, I couldn't agree more. I
+[47:27] mean, to be honest, I like one of the
+[47:29] dumbest things the Democrats ever did in
+[47:31] America was poo poo Mark Zuckerberg with
+[47:34] his Libra token or whatever. Like, what
+[47:37] idiots. I mean, that that shows you just
+[47:41] how, you know, monstrous government has
+[47:43] gotten over control that they couldn't
+[47:45] see the forest for the trees and realize
+[47:47] that letting the private sector solve
+[47:49] these problems, letting the free market
+[47:51] go out and build technology. Who would
+[47:52] have been better at building technology
+[47:54] and distributing the dollar to billions
+[47:56] of people all over the world than the
+[47:57] guy that has 4 billion daily active
+[47:59] users? News flash, nobody. But
+[48:02] government is too big and too power-
+[48:03] hungry and too stupid to realize that
+[48:06] they got in that guy's way and shut it
+[48:08] down. But inevitably, the private sector
+[48:10] and like entrepreneurs in the free
+[48:12] market are going to be the be best and
+[48:13] most efficient at solving these
+[48:14] problems. So to me, the fact that the US
+[48:16] government has come all the way around
+[48:18] to realizing Tether is a good thing,
+[48:20] innovation is a good thing, uh progress
+[48:23] is a good thing, demand for their debt
+[48:25] is a good thing for them. Um it just
+[48:27] flies in the face of everything they
+[48:28] claim to be. It's like you idiots. Four
+[48:30] years ago, you were trying to kill this
+[48:32] industry. Now you're supporting it. You
+[48:33] look like clowns. And now looking back,
+[48:36] the best thing you could have done is
+[48:37] support Mark Zuckerberg in innovation.
+[48:40] But um you guys are just too power-
+[48:42] hungry and stupid. Uh couldn't get out
+[48:44] of your own way. Yeah, but I mean, let's
+[48:47] face it, I'd much rather have Paulo
+[48:48] handling this thing than Oh, I mean, I'm
+[48:52] I'm, you know, these are my co-founders
+[48:54] uh on 21 and I think I mean, these guys
+[48:59] are awesome innovators. They're
+[49:00] Bitcoiners at the end of the day, as I
+[49:02] mentioned. So, I think the universe
+[49:04] doesn't make any mistakes. Let's be
+[49:06] clear. uh I think they've earned through
+[49:08] proof of work the position they're in
+[49:10] and they've done a tremendous job
+[49:12] building the business and then using
+[49:13] their resources to further influence the
+[49:15] world in what they think is the right
+[49:16] direction. I mean Paulo's out investing
+[49:18] and innovating in neuroscience. He's out
+[49:21] and building self-s sovereign locally
+[49:23] hosted AI to compete against Sam Alman's
+[49:26] monopoly over understanding everything
+[49:28] about your life. He's building P2P
+[49:30] communication chat. So, I mean, I think
+[49:32] these guys deserve to be in the place
+[49:34] they're in, and I feel very confident
+[49:36] that they're going to have ethical
+[49:37] interests into what they do with the
+[49:39] resources, but yeah, my point was more
+[49:42] just the US making a mockery of itself,
+[49:45] being so power control hungry that
+[49:46] they're flip-flopping on, you know,
+[49:48] whether stable coins are good or not.
+[49:50] Just it's the public sector's a mess.
+[49:52] the most inefficient misuse of capital
+[49:56] like in human history is people with the
+[49:59] money printer that elect themselves uh
+[50:01] to just um pour money into stupid you
+[50:04] know power controlled ways. Uh and you
+[50:07] can see if you let the free market do
+[50:09] its thing how efficient humans are. They
+[50:11] can take a hundred people, work in a
+[50:13] room with Paulo, and change the lives of
+[50:16] half a billion people without while
+[50:18] fighting the most powerful governments
+[50:21] along their journey. That's just how
+[50:23] awesome human beings are if you just get
+[50:25] out of their way. Yeah, absolutely. And
+[50:27] the thing is, you know, they're buying
+[50:28] Bitcoin. And for me recently, I got this
+[50:31] I I'm beginning to think about this that
+[50:33] Tether might actually uh play an
+[50:36] important role in the transition to a
+[50:38] Bitcoin standard because as they keep um
+[50:42] you know, if they keep growing and they
+[50:45] keep selling more USDT, buying more
+[50:48] treasuries, they're going to make more
+[50:50] profit and they're going to put that
+[50:51] into Bitcoin. Now, their Bitcoin is
+[50:53] going to go up over time. Their dollar
+[50:55] is going to go down over time. And then
+[50:57] over time their liabilities, you know,
+[51:00] are going to become a lot lower in real
+[51:03] terms value compared to their balance
+[51:04] sheet because their Bitcoin is going up.
+[51:06] So there will come a point that think in
+[51:08] which they're going to have to break the
+[51:10] peg, but they're not going to break the
+[51:11] peg downward. I think they're going to
+[51:13] break the peg upward. I think there will
+[51:15] come a point in which Apollo is going to
+[51:17] say one USDT is equal to $1.02
+[51:20] 02 and then maybe every year they're
+[51:22] going to add another two cents to it and
+[51:24] then it's just going to keep going up
+[51:26] because the dollar is going to keep
+[51:27] going down and then maybe if they add 2%
+[51:29] per year to the USDT they make it
+[51:32] redeemable for a larger quantity then
+[51:35] maybe USDT becomes a better currency
+[51:37] than the dollar because the USDT has a
+[51:39] lot of Bitcoin backing it so they're
+[51:42] able to increase the value of their
+[51:44] currencies compared to the dollar and so
+[51:46] then as the dollar continues to circle
+[51:48] the drain the USDT can um have some kind
+[51:52] of orderly alternative which increases
+[51:55] over time in value and therefore as you
+[51:58] know Bitcoin increases more the dollar
+[52:00] drops less and less and less eventually
+[52:04] you can you keep bringing up the value
+[52:06] of the USDT and then you just peg the
+[52:08] USDT to Bitcoin and no longer need to
+[52:11] peg it to the dollar. I couldn't agree
+[52:14] more. All right. I mean, listen, I think
+[52:16] they're running a dollar product.
+[52:20] They're running a bank the right way.
+[52:21] They're they're holding the coupon, the
+[52:24] short-term US debt. They're now there's
+[52:26] more reserves for USDT than there is
+[52:30] USDT because they've been purchasing and
+[52:32] holding both gold and Bitcoin safe. So,
+[52:35] these are two assets that have scarcity
+[52:38] elements to it that are performing
+[52:40] tremendously well. I think what's
+[52:42] happening with the Trump administration
+[52:43] is fascinating. I mean, he's pivoting
+[52:45] away from tariffs and now he's onto this
+[52:47] capital controls idea. But the point is
+[52:49] basically, hey, foreigners, get your
+[52:50] money out of the country. The deal was
+[52:52] you have to buy treasuries, not our
+[52:54] stock market, not our land, not real
+[52:56] estate and bid up and cause tremendous
+[52:59] amounts of asset inflation in the
+[53:00] country and create a wealth gap here.
+[53:02] Get your money out and effectively
+[53:04] telling them buy gold, buy Bitcoin. And
+[53:07] here you have a bank for 400 million
+[53:10] people effectively that is over reserved
+[53:13] with gold bitcoin holding short-term
+[53:16] coupons. I I mean I think what te te
+[53:18] tether has a tether gold product by the
+[53:20] way I think is very forwardlooking like
+[53:22] how long before the world wants digital
+[53:25] open network version of gold that's easy
+[53:28] to remit that's easy to transport that's
+[53:30] e easy to settle trade like is the world
+[53:32] going to use tether gold as well. And
+[53:34] then to your point at at one point if
+[53:37] the dollar is debased enough you know
+[53:40] can they incorporate Bitcoin? Um and I
+[53:45] think so. So yeah I think it's what if
+[53:48] what if the world had a full reserve or
+[53:50] overreserved bank that was
+[53:52] technologically forward built by
+[53:54] pioneers innovators. It was the private
+[53:57] sector. They were incented by profits.
+[53:59] They were incented to keep itself lean.
+[54:00] They had a hurdle rate that was
+[54:02] reasonable. like what if that existed
+[54:04] and that's what we're looking at and
+[54:05] contrast that against Bank of America by
+[54:08] the way if you know the US tenure gets
+[54:10] above 5% Bank of America is functionally
+[54:12] insolvent so take compare Bank of
+[54:15] America to Tether and you'll so yes I
+[54:19] couldn't agree more yeah I mean this is
+[54:21] when I uh changed my mind on tether and
+[54:24] this is when I was comfortable publicly
+[54:26] saying that u this thing actually has a
+[54:28] use case uh when I saw what happened in
+[54:30] 2022 when uh Everything was falling
+[54:33] apart and Tether had to redeem something
+[54:36] like $20 billion over a weekend or I I
+[54:39] don't remember the exact numbers. I
+[54:40] discussed it with Paulo. I hosted him in
+[54:42] the podcast. So, check it out if you're
+[54:44] interested. We talk about the details of
+[54:46] the numbers. But basically, this was
+[54:48] bigger than any redemption that any bank
+[54:51] in the fiat system has ever had to do.
+[54:53] JP Morgan has never had its customers
+[54:56] come up and say, "Hey, we want to
+[54:57] liquidate everything we have to you with
+[54:59] you and we want to get cash out." and
+[55:01] that adds up to $7 billion or anything.
+[55:04] I mean, can you imagine what would
+[55:05] happen if somebody went to JP Morgan or
+[55:07] City Bank and said, "Hey, I want my $20
+[55:09] billion." I mean, we saw what happened
+[55:11] with Silicon Valley Bank, right? They're
+[55:12] no longer. So, yeah. And that was a lot
+[55:15] smaller, you know? Yeah. I think a 20
+[55:17] bill I think what what Tether withtood
+[55:19] on that day, I think would have broken
+[55:22] any bank in the world. And not not just
+[55:24] the bank, but I think the the entire
+[55:26] banking system. I think that it it it it
+[55:30] would be a mad max world if somebody
+[55:32] were to go to JP Morgan or City Bank and
+[55:34] tell them, "Hey, I want to get my $20
+[55:35] billion out over the weekend." And yet,
+[55:39] you know, 100 guys in Switzerland on
+[55:42] their laptops managed to do this. It's
+[55:44] absolutely astonishing and it's just
+[55:46] there's no way around it. This is truly
+[55:48] a very powerful innovation.
+[55:51] Yeah, I couldn't agree more.
+[55:53] I mean my friendship with these guys was
+[55:56] before Tether even existed. So you know
+[55:59] similar group created Bitfinex which is
+[56:01] one of the largest exchanges in the
+[56:02] world. Bitfinex is the first to
+[56:04] integrate lightning. Bitfinex and tether
+[56:07] now have doiciled in El Salvador where
+[56:10] you know I was a material part of that
+[56:12] government's journey into Bitcoin. And
+[56:14] so we've overlapped over the years. Um,
+[56:16] I've only gotten to know the business
+[56:18] just like everyone else over Twitter and
+[56:20] seeing their attestations and stuff, but
+[56:22] I've known these guys for over a decade
+[56:23] just because they're Bitcoiners. And so,
+[56:26] you know, we also like our founding
+[56:28] story for 21 and these guys are
+[56:30] Bitcoiners. We were watching what Sailor
+[56:31] was doing. Um, we thought we could bring
+[56:33] something new and exciting to the
+[56:35] marketplace um into the capital markets
+[56:37] with a slightly different vehicle. But,
+[56:39] um, it's remarkable what they've built
+[56:42] um what they've also just I'm an
+[56:43] entrepreneur as well. what they've been
+[56:45] able to overcome as far as adversity. Uh
+[56:49] I mean, you got to be a special type of
+[56:52] person and group of people to persevere
+[56:54] through what they've been up against.
+[56:56] And uh turns out it's a great business.
+[56:58] And um they're changing the world now in
+[57:01] a plethora of ways. I do really
+[57:03] encourage people to look at all the like
+[57:05] money and investments. They're they're
+[57:07] trying to change neuroscience. They're
+[57:09] trying to change AI in a distributed
+[57:11] self-s sovereign way. They're trying to
+[57:14] uh change P2P communications now.
+[57:17] They're bringing a vehicle to capital
+[57:19] markets with me in the US. I don't know.
+[57:22] It's a cool story. Uh and they're good.
+[57:24] They're good Bitcoiners. Yeah, they're
+[57:26] stack and sats ultimately. Although I
+[57:28] mean it's not it's it's not all great.
+[57:30] They are investing in Juventus football
+[57:32] club which I think is inexcusable but
+[57:34] Oh, I don't know much about that. Okay.
+[57:37] Okay. All right. So now tell us about
+[57:40] 21. What's going on there?
+[57:42] Uh so 21 we want to give the capital US
+[57:46] capital markets a unique type of vehicle
+[57:48] what we consider unique um carrying the
+[57:51] the story forward. So, I've known the
+[57:53] Tether guys forever and it's been, you
+[57:56] know, the analogous campfire, the
+[57:58] conversation all Bitcoiners have like,
+[57:59] "Wow, you see what Sailor's doing. You
+[58:01] see what this gu is doing." And four or
+[58:03] five years ago, we couldn't believe what
+[58:04] Michael was pulling off listening to
+[58:05] probably your podcast with him. And I
+[58:08] think Bitcoin has always inspired the
+[58:09] most creative thinking I've ever seen.
+[58:12] It's just such a free market. There's no
+[58:14] interference or intermediaries that get
+[58:15] in the way of people coming up with
+[58:17] clever ideas and testing the
+[58:19] marketplace. So we were just cheering
+[58:21] Sailor on as Bitcoiners. I would
+[58:24] say you know that was four or five years
+[58:26] ago maybe one to two years ago we'd seen
+[58:28] the industry evolve and some smaller cap
+[58:31] companies had copied sailor there had
+[58:33] been a lot more institutional demand for
+[58:35] Bitcoin a lot more you know bigger
+[58:37] appetite in the capital markets and we
+[58:40] thought you know a lot of the smaller
+[58:43] businesses that had pivoted to Bitcoin
+[58:45] um these are businesses sailor always
+[58:47] talks about businesses that needed
+[58:49] Bitcoin Bitcoin's on a need to know
+[58:51] basis like maybe their old business was
+[58:52] failing, maybe they need a new life,
+[58:54] maybe they need a new growth, and
+[58:56] they're pivoting to Bitcoin and and a
+[58:58] smaller cap capacity. And uh on the
+[59:01] Michael Sailor Micro Strategy side, you
+[59:03] know, we think there's an opportunity to
+[59:05] build technology with a balance sheet
+[59:07] that big and with access to capital
+[59:09] markets like Paulo and I, we've built
+[59:11] really high margin, high-profit, high
+[59:14] growth technology in this sector at
+[59:16] Strike at Tether. And so it was this
+[59:18] combination of we wanted to bring both
+[59:22] bluechip credibility and startup upside.
+[59:24] We wanted to bring a vehicle that was
+[59:26] big enough to win, small enough to grow.
+[59:28] So we're not coming to the market with
+[59:29] hundreds of millions of dollars. We're
+[59:30] coming with billions of dollars
+[59:32] initially. We're already the third
+[59:33] largest treasury in the world. So we can
+[59:36] fill that institutional demand so to
+[59:39] speak like we we can like an investor
+[59:41] like SoftBank gave us a billion dollar
+[59:43] check you know we we can take on that
+[59:45] level of demand no problem. But we
+[59:48] wanted to bring the startup upside. We
+[59:49] think that there's room to build
+[59:50] technology that we don't need to be a
+[59:53] hotel or or you know some pivoting
+[59:54] business. Not that there's anything
+[59:56] wrong with that by the way clearly. I
+[59:57] mean MetaPlanet is killing it. But we
+[60:00] didn't want to be a business that was
+[60:01] pivoting from something in the past.
+[60:02] We're purposebuilt and founded to be a
+[60:04] Bitcoin company. We're going to build
+[60:06] Bitcoin technology and we're going to
+[60:07] use the capital markets in our balance
+[60:09] sheet to acquire as much Bitcoin as
+[60:10] possible. And we thought that that was
+[60:12] something that the capital markets
+[60:13] hadn't had yet. and watching the story
+[60:16] evolve. We were waiting for someone to
+[60:18] do it and at one point sitting around
+[60:19] the campfire, we looked at each other
+[60:21] and we're like, who better to do it than
+[60:22] us? Both Strike and Tether are, you
+[60:24] know, as successful for gross and net
+[60:26] profit per employee as there is in
+[60:28] Bitcoin. We know how to do these things.
+[60:30] We have lots of capital. Tether has lots
+[60:32] of money as we just talked about and um
+[60:34] we might as well be the change we wanted
+[60:35] to see. So, that's the founding story
+[60:37] and yeah, there's lots of fun stuff to
+[60:40] talk about,
+[60:42] but yeah. Um so I mean uh do you see any
+[60:47] kind of differentiation between what you
+[60:48] guys are doing and what Sailor is doing?
+[60:51] Uh yeah I think I think the main
+[60:54] differentiation is that we want to build
+[60:56] Bitcoin financial services. So we think
+[60:58] there's opportunities the lending market
+[61:00] and the credit market. We've filed this
+[61:03] all with the SEC already. We think we
+[61:05] can generate cash flow and a lot of our
+[61:08] actual operating company will be focused
+[61:10] on Bitcoin. There's ways to le leverage
+[61:13] Tether and their network. There's ways
+[61:14] to leverage stuff I've done with Strike.
+[61:17] Uh we think to actually build cash flow
+[61:20] and a business that's going to be
+[61:22] growing and uh stacking SATs with uh
+[61:25] cash profit. I think that's probably the
+[61:27] biggest differentiator. I think um
+[61:30] Sailor uh hasn't embarked on building
+[61:32] Bitcoin software yet. I don't know if he
+[61:34] plans to. I'm sure he will at some
+[61:36] point, but for us that's probably the
+[61:38] biggest one. Um, we have similar KPIs
+[61:41] like we measure Bitcoin per share, coin
+[61:43] return rate. So, we don't want to be
+[61:45] measured in fiat similar to Sailor. He's
+[61:47] got BTC yield, but I would say yeah, for
+[61:50] Sailor, he's plenty big for
+[61:52] institutions, right? I mean, it's a
+[61:53] hundred billion dollar company at this
+[61:55] point. Um, but we hadn't seen him extend
+[61:58] that opportunity to build software and
+[62:01] build products. Um, we think there's
+[62:03] going to be I mean, if Bitcoin is going
+[62:04] to be a $2 trillion asset going on 20
+[62:06] trillion, going on 200 trillion, people
+[62:08] are going to need financial services at
+[62:10] a severe scale. Um, I don't think
+[62:12] Coinbase is going to be able to do that.
+[62:14] And I don't know if Micro Strategy is
+[62:16] interested in doing that. We are at 21.
+[62:18] Paulo and I absolutely are. And then for
+[62:22] the other Bitcoin Treasury companies,
+[62:24] not that there's anything wrong with
+[62:25] them, but they're just a little bit
+[62:26] smaller. So, you're talking about market
+[62:27] caps of, you know, a couple hundred
+[62:29] million bucks. and someone like a soft
+[62:31] bank can't call them and say, "I want a
+[62:32] billion dollars worth of exposure. I got
+[62:34] real size capital." Um, you know, the
+[62:36] fixed income market's in trouble. The
+[62:38] 60/40 portfolio is dead. Bonds are a
+[62:41] shitcoin. And there's a lot of money on
+[62:43] Wall Street that I've been meeting with
+[62:45] that need a new home. And we needed a a
+[62:48] company that could actually soak up that
+[62:50] size of demand. And so that's why I say
+[62:53] big enough to win, small enough to grow,
+[62:55] blue chip credibility, startup upside.
+[62:57] that's kind of how we see ourselves um
+[62:59] relative to everyone else. But at the
+[63:00] end of the day, we're all on the same
+[63:01] team. You know, I think sometimes people
+[63:04] clip my my podcast and and try and put
+[63:07] me up against Sailor or up against other
+[63:09] Bitcoiners, and I don't view it that way
+[63:12] at all. Um we're all on the same team,
+[63:14] but I do think we're unique uh in those
+[63:16] ways. Yeah. And I think this is really
+[63:19] the beauty of it because in a sense
+[63:21] there's no real competition here because
+[63:24] uh the more you buy Bitcoin, the more
+[63:26] you pump sailor's bags and the more he
+[63:28] buys Bitcoin, the more you pump your
+[63:30] bags. So the more people find new
+[63:32] opportunities of doing these uh Bitcoin
+[63:35] buying companies across capital markets
+[63:38] with ability to access different capital
+[63:40] markets, it's good for everybody
+[63:42] involved. It's good for Bitcoiners and
+[63:43] it's good for Bitcoin companies. So, you
+[63:45] know, there's just um ju just the other
+[63:48] day, you know, I was at a I was speaking
+[63:49] at an insurance industry conference in
+[63:51] Thailand. I was invited there and I, you
+[63:53] know, the audience almost entirely no
+[63:55] coiners. Nobody knows anything about
+[63:56] Bitcoin. But there was this one money
+[63:58] manager guy who was sitting there and he
+[64:00] just um he was another speaker and he
+[64:02] told me, "Yeah, that's very interesting.
+[64:04] Thanks for letting me for talking about
+[64:06] Bitcoin. I'm going to look into it." He
+[64:08] told me, you know, I'm curious. I've
+[64:09] been curious about Bitcoin for a while,
+[64:10] but I didn't didn't have the time to get
+[64:12] into it and study it and figure out
+[64:13] what's actually going on. But then I
+[64:15] heard about this stock that allows you
+[64:17] to do a Bitcoin play. So, I put some
+[64:20] money into this company called Micro
+[64:22] Strategy and I made $1.2 million just by
+[64:24] buying Micro Strategy. And the guy still
+[64:26] has no idea what Bitcoin is. But this is
+[64:29] really how it works in fiat market. I
+[64:31] mean, the way to be in fiat market is to
+[64:33] just constantly everybody's always
+[64:35] moving money around and it doesn't take
+[64:37] them much. they, you know, your friend
+[64:40] tells you about this great steel melting
+[64:44] steel factory in Spain or whatever. And
+[64:46] so, yeah, you just pick up your phone
+[64:48] and you buy a bunch of stocks. Somebody
+[64:51] tells you about a new Australian mining
+[64:53] company, you go and you just buy some
+[64:54] stock. You read an article in the
+[64:56] newspaper that talks about some new
+[64:58] industry coming along, so you just buy a
+[64:59] stock. And so it doesn't take much to
+[65:01] get people to become curious about
+[65:03] Bitcoin, but um there the the bulk of
+[65:07] the world's money is on these stock
+[65:08] trading platforms. And so everywhere
+[65:11] where you can show up in somebody's app
+[65:13] with a with a Bitcoin product is going
+[65:16] to just get a lot of money. And then
+[65:18] it's just the mimemetic power. Like this
+[65:20] guy obviously is a lot more likely to
+[65:22] read about Bitcoin now that he's made
+[65:24] 1.2 two million thanks to Bitcoin. Then
+[65:26] if he had not had that option and he
+[65:28] he'd spent all this time still trying to
+[65:30] figure out where to go and how to read
+[65:32] and um which shitcoin exchange to use
+[65:35] and so on. So, it's just it's I think
+[65:38] it's an enormous opportunity and I think
+[65:40] you need you're probably going to see u
+[65:43] Metanet and Micro Strategy and one of
+[65:46] these is going to show up in basically
+[65:48] most of the large capital markets and um
+[65:51] you know there's there are eyeballs on
+[65:53] each capital market on all of the
+[65:55] tickers on each capital market and there
+[65:56] are people who have to invest in them.
+[65:58] There are companies and retirement
+[65:59] accounts that have to invest in
+[66:00] particular capital markets. And so
+[66:03] wherever the money is, you pop up one of
+[66:05] these companies, it's going to do great.
+[66:07] It's going to show up and you know, it's
+[66:09] going to print green candles and that's
+[66:11] what people want. The people want green
+[66:12] candles and y that that's what these
+[66:15] companies can offer. Yeah. I think there
+[66:17] a few things. One, you know, I've always
+[66:19] thought of Bitcoin as universal acid.
+[66:21] Anything it touches, it conquers. Um you
+[66:23] can't stop it. And so for the people
+[66:25] that always say, why are you so focused
+[66:27] on the price? Why aren't you focused on
+[66:29] the technology? It's like, well, the
+[66:30] price is the most important KPI we have
+[66:33] and it's our biggest marketing tool. And
+[66:35] the fact that the price of both Bitcoin
+[66:38] meme stocks and the price of the spot
+[66:40] physical asset just continues to go up
+[66:43] and conquer everything it touches. That
+[66:46] is the best way to spread the message.
+[66:48] To be clear, there is no like silver
+[66:50] bullet podcaster. At the end of the day,
+[66:52] people are going to be attracted to
+[66:54] giant green candles um because that's
+[66:56] what we all want in life is, you know,
+[66:58] financial stability and in a way to
+[66:59] afford uh the life that we think is
+[67:01] reasonable. So that's for one. For two,
+[67:04] yeah, I think I agree with you. I think
+[67:05] in the US there's a very unique story
+[67:08] unfolding that uh I'm fascinated by and
+[67:12] one of the reasons we felt uh we should
+[67:14] really go out and be the change we
+[67:16] wanted to see in and found 21 is just
+[67:19] what's happening in the United States
+[67:21] you know for the listeners you know my
+[67:23] the way I think about it is we're
+[67:25] unwinding from the world wars call it
+[67:27] after World War II a lot of the monetary
+[67:30] regime setup and arrangements was very
+[67:33] simple is that the US was strong say,
+[67:35] you know, if you could claim a winner of
+[67:37] the World Wars, it was, in my opinion,
+[67:39] everyone lost. But if you could say that
+[67:42] someone won, it was the United States.
+[67:43] They had the most gold at the time, the
+[67:45] strongest economy at the time, the
+[67:46] strongest manufacturing base at the
+[67:47] time. And their claim was they were
+[67:50] going to export their strength to help
+[67:52] everyone else out get back on their feet
+[67:54] through the dollar by taking on the role
+[67:55] of the World Reserve currency. And so
+[67:57] the arrangement was very simple through
+[67:59] all of these Brett and Woods agreements
+[68:00] and such is we're going to export the
+[68:03] dollar and import goods and services
+[68:05] from you guys. So you guys get to use
+[68:08] our strength of our economy and the fact
+[68:09] that our consumers are consuming so much
+[68:11] by giving us food uh raw materials. You
+[68:15] know, Russia's the greatest natural
+[68:17] resource producer in the world. China's
+[68:18] now the world's factory and
+[68:20] manufacturing base. Uh Germany makes
+[68:22] really cool cars. Japan saw some of the
+[68:24] biggest domestic growth of all time. and
+[68:26] you're going to export to American
+[68:28] consumers, we're going to export the
+[68:29] dollar. So, at the time, the dollar was
+[68:31] backed by gold. Then all of a sudden,
+[68:33] you sever the relationship with gold.
+[68:35] And the dollar was backed by kind of
+[68:38] oil. At the time, we had an arrangement
+[68:39] with the Middle East and a relationship
+[68:42] there. Then that relationship fell
+[68:44] apart. And then the dollar became backed
+[68:45] by US treasuries. But then after 2008,
+[68:49] China stopped buying those because
+[68:51] politicians and the central bank
+[68:52] prioritized Wall Street over their
+[68:54] foreign trading partners. And then the
+[68:56] dollar became backed by de facto the US
+[68:58] stock market. And that's kind of where
+[69:00] we've been today. And what's unraveling
+[69:01] now is that China operates in a trillion
+[69:05] dollar trade surplus right now against
+[69:07] the US deficits. And they need something
+[69:11] to do with the dollars that they're
+[69:12] getting. They can't reinvest them
+[69:14] locally in their economy because that
+[69:15] would strengthen their currency and
+[69:17] weaken their export business. So they
+[69:19] have to put the dollars somewhere. They
+[69:20] don't want to put them in treasuries
+[69:22] because those are real rates negative.
+[69:24] those are losing purchasing power and so
+[69:26] they've been dumping them into Facebook
+[69:28] stock, into Amazon stock, into Nvidia
+[69:30] stock and that's where you get these
+[69:31] companies that are trading at 50 times
+[69:33] earnings. This irrational economic
+[69:35] behavior because all of the global trade
+[69:37] surplus is being dumped into the US
+[69:38] stock market. And now the United States
+[69:41] and Donald Trump are saying get your
+[69:43] money out of our stock market. It's
+[69:44] creating the most massive wealth gap in
+[69:46] America for those that don't have a
+[69:48] college education. and they don't
+[69:49] benefit from this perpetual like market
+[69:52] stocks go up phenomena that exists now
+[69:54] in the US. And so you have an
+[69:56] increasingly poor population in the
+[69:58] middle of America. Those that live on
+[69:59] the coast and have access to stocks are
+[70:02] now getting ungodly rich without doing
+[70:04] anything. And it's eroding the very like
+[70:06] culture and of America. We have no
+[70:09] manufacturing base. We have no middle
+[70:10] class. And these American first trade
+[70:12] policies that he's coming out with are
+[70:14] saying get your money out. And this is
+[70:16] where I think this is a fascinating time
+[70:19] to give the capital markets access to
+[70:21] Bitcoin um through the ways that we are
+[70:23] at 21, which is the stock market is
+[70:25] highly inflated because it's taking all
+[70:28] of the trade surplus with foreign
+[70:30] partners. And this is the dollar
+[70:32] instrument that's been deacto backing
+[70:34] the dollar for decades now is just plow
+[70:36] it into the NASDAQ. Who cares about the
+[70:38] price? Sure, Google's worth 50 times
+[70:40] earnings. That's such irrational
+[70:42] behavior. That's ridiculous. And so now
+[70:44] I think that's all unfolding and capital
+[70:46] has to find a new home. I think it's
+[70:47] going to find it into Bitcoin
+[70:48] eventually. Gold for now for certain if
+[70:51] you just pull up a chart. Uh but just
+[70:53] giving these capital markets access to
+[70:55] rotate out of highly inflated tech
+[70:58] stocks and highly inflated basket of
+[71:00] indexes and into a business that's
+[71:02] acquiring a hard money that has a
+[71:05] tremendously powerful balance sheet
+[71:06] that's able to give you fixed income
+[71:08] instruments like a Bitcoinbacked bond.
+[71:11] Um we think there's huge opportunity
+[71:13] there and there's a massive massive
+[71:15] amount of capital that needs to rotate
+[71:17] out of you know a carry trade that's
+[71:20] over and that's unwinding and you know
+[71:21] this is a process that's been building
+[71:23] up for 100 years since the world wars is
+[71:26] you know what's de facto backing this
+[71:28] printed piece of paper that the US is
+[71:30] exporting and these deficits that have
+[71:32] compounded on each other for so long um
+[71:35] and giving people an escape hatch.
+[71:38] Yeah, I think I I I I probably slightly
+[71:41] disagree in that. I don't think it's the
+[71:42] fact that people are bringing in the
+[71:44] money that's causing the bubble. I think
+[71:46] it's just the fact that the central bank
+[71:48] is printing the money, but you know,
+[71:51] that's kind of uh splitting hairs here.
+[71:53] Um it's it's it's still ultimately both
+[71:56] are true. Yeah. And it's still a massive
+[71:58] massive imbalance which is caused by the
+[72:00] fact that everybody else in the world
+[72:02] has to work for the dollar, but the US
+[72:03] government can print it. But the but the
+[72:06] um you know I think the um the crazy
+[72:09] thing about what Trump is doing is that
+[72:10] essentially he's trying to remove the uh
+[72:14] symptoms of the problem of the money
+[72:16] printer while keeping the money printer.
+[72:17] And that's I think what's uh what's what
+[72:20] what's making
+[72:21] it so far seems to be on um uh
+[72:25] backfiring. In fact, as we speak,
+[72:27] there's been a big spike in the 10-year
+[72:29] yield. It's up to almost 4.6 now, which
+[72:32] is a huge uh deal. Uh I think I don't
+[72:35] this might be the highest it's been in a
+[72:37] very long time. Um you know the this is
+[72:40] this is I think the important one. The
+[72:42] bonds are getting destroyed. So as the
+[72:44] bond yield rises the value of existing
+[72:46] bond drops and that's dangerous because
+[72:49] it's it's um it's that's the cost of the
+[72:52] US government borrowing and US
+[72:54] government has a lot of debt to roll
+[72:56] over now.
+[72:57] Yeah. I mean I couldn't agree more. I
+[73:00] think Trump came out with this
+[73:01] maximalist tariffs position and it
+[73:03] backfired on him. Um, and now he's
+[73:07] pivoting to capital controls which is
+[73:10] effectively trying to achieve the same
+[73:11] thing. I mean, what we have to
+[73:12] understand is the US has been running
+[73:15] this massive trade deficit meaning the
+[73:17] the rest of the world is getting a ton
+[73:19] of dollars and they have to do something
+[73:21] with the dollars. They don't want to buy
+[73:22] their own currency with the dollars. So,
+[73:25] traditionally it was buy gold because we
+[73:27] were living on a gold standard. Then it
+[73:28] was buy US treasuries because those were
+[73:30] de facto backing. And now it's buy
+[73:32] stocks, buy land, buy farmland in the
+[73:34] US, buy real estate in the US. And
+[73:36] you're seeing these foreign trading
+[73:38] partners just scoop up all of the
+[73:40] desirable goods in America. And that's
+[73:42] caused civil unrest in America because
+[73:45] now there's like 80 90% of America that
+[73:47] can't afford the yacht, can't afford the
+[73:48] penthouse, can't afford all the things
+[73:50] that these foreigners are bidding up in
+[73:52] price because they have such a surplus
+[73:53] of dollars that the central bank has
+[73:55] printed. And it's really divided the
+[73:58] country. Like when you talk about
+[73:59] America, you're talking about two
+[74:00] Americas. Now, which America are you
+[74:02] talking about? Are you talking about the
+[74:03] rust belt America, middle America? Over
+[74:05] half the country doesn't have a college
+[74:07] education. Or are you talking about
+[74:09] Silicon Valley America? Are you talking
+[74:10] about Manhattan America? They're two
+[74:11] separate Americas at this point. And so
+[74:14] Trump has been saying, I'm working for
+[74:16] Main Street, not Wall Street. I'm
+[74:18] talking about bringing back the
+[74:19] manufacturing jobs. I'm talking about
+[74:20] bringing back the middle class. And so
+[74:22] what he's trying to do is get the
+[74:24] foreign capital out of America, which is
+[74:28]  That's a bad deal. You cannot
+[74:30] give China a trillion dollars of US
+[74:32] dollars and offer them nothing to buy
+[74:33] with it. It's a raw deal. And so I mean,
+[74:37] what I think is happening is, you know,
+[74:39] Trump came out with his tariffs and the
+[74:40] one thing he didn't tariff is gold. You
+[74:43] know, it's to me it's an effective wink
+[74:45] wink nod nod. We're going to start a
+[74:46] Bitcoin strategic reserve and we're not
+[74:48] going to tariff gold. Everything else
+[74:50] you're not allowed to buy. I'm going to
+[74:52] impose a 30% withholding tax on stocks
+[74:55] and land and real estate you buy in
+[74:57] America and the 10-year Treasury is
+[74:59] going to run real rates negative. So,
+[75:00] you buy the Treasury, you lose
+[75:02] purchasing power. You buy any of the
+[75:03] stuff in this country, I'm going to tax
+[75:05] the living hell out of you, but you can
+[75:06] buy gold and I encourage you to buy
+[75:08] Bitcoin. And then to see like the Abu
+[75:10] Dhabi sovereign wealth fund come out and
+[75:11] say, "Yeah, we we just added half a
+[75:14] billion dollars to our Bitcoin
+[75:15] position." I think we're moving back to
+[75:17] neutral reserve currency. I think
+[75:19] eventually the Trump administration is
+[75:21] going to revalue the gold on the balance
+[75:24] sheet of the government and they're
+[75:26] going to put more of a focus on Bitcoin
+[75:29] and the dollar. You know, the dollar
+[75:31] will be the world reserve currency,
+[75:33] whatever that means. Yes, your pizza
+[75:34] will be priced in dollars, but the world
+[75:37] reserve asset where sovereigns and
+[75:39] central banks and businesses actually
+[75:41] store their cash balances, I think will
+[75:43] be increasingly gold and Bitcoin and
+[75:45] eventually Bitcoin in my opinion.
+[75:47] I I I just find it hard to believe that
+[75:50] um they've got a hard money uh instinct.
+[75:53] I just I mean you listen to Lutnik, you
+[75:56] listen to Bent. I mean they're very big
+[75:58] fan and Trump as well. You know they're
+[75:59] very big fans of the US dollar being the
+[76:01] global reserve currency. They want to
+[76:03] strengthen it. They want to u make sure
+[76:05] the whole world uses it. Trump was
+[76:07] saying something about sanctions against
+[76:08] countries that try and move away from
+[76:10] the dollar. And you know, you look at
+[76:12] the budget that is uh being uh bandied
+[76:16] about now. It's basically Biden
+[76:19] economics uh but with added defense
+[76:22] spending. It's uh it's keeping all of
+[76:24] the Green New Deal stuff. It's keeping
+[76:26] all of the um I mean uh it's it's really
+[76:30] business as usual. Nothing has changed.
+[76:31] All of the talk about reducing
+[76:33] government spending. So if you do move
+[76:36] to you tie the dollar to gold or
+[76:40] bitcoin, if you do increase the value of
+[76:42] gold or bitcoin,
+[76:44] uh I mean you have two scenarios there.
+[76:46] You're either going to undermine the
+[76:47] dollar massively because you're going to
+[76:49] increase the demand for go for gold and
+[76:52] bitcoin or you're going to have to peg
+[76:54] the dollar to gold or bitcoin at which
+[76:57] point no more senior at which point you
+[76:59] need to run a balanced budget in the
+[77:00] long run.
+[77:02] And that's just doesn't seem very likely
+[77:05] to me. Yeah, I don't think that's
+[77:07] happening anytime soon. And to be clear,
+[77:09] as an American, this is a bipartisan
+[77:11] effort. Like the notion that this is a
+[77:13] Republican thing or a Trump thing is
+[77:14] garbage. That's just different rhetoric
+[77:16] and different gobblygook that's trying
+[77:17] to achieve the same thing, which is I
+[77:19] mean, even the reliance on China is a
+[77:21] national security threat at this point.
+[77:23] At least you can make the claim over 78%
+[77:26] I think is the number of the materials
+[77:28] needed to produce weapons. We need China
+[77:31] to play ball with us. So we've
+[77:34] outsourced the ability to produce
+[77:36] anything to such a degree that there has
+[77:39] to be a chai chai America divorce,
+[77:42] whatever that means to you. And that's
+[77:43] bipartisan in the United States. And I
+[77:46] think the way that you know hearing
+[77:48] these politicians, the the funniest
+[77:50] thing about politicians is they have to
+[77:51] get reelected. And so, for
+[77:54] example, Treasury Secretary Scott
+[77:56] Bessant is having a tough time finding
+[77:58] buyers for his garbage 10-year bonds,
+[78:01] right? No one wants that heaping pile of
+[78:03] crap. And so, they need better
+[78:05] influencers really. Yeah, exactly. Well,
+[78:08] who's who's been the marginal buyer? Cuz
+[78:11] it's not China, right? They don't want
+[78:13] that crap either. It's been if you look
+[78:16] at it's been Paulo. But if Paul So what
+[78:19] I found fascinating, Paulo tweeted out a
+[78:21] graphic where he's now top five, you
+[78:23] know, purchasers of US debt. And I was
+[78:26] like, really top five? Who's number one?
+[78:27] Number one's the Cayman Islands. The
+[78:28] Cayman Islands has 75,000 people. How
+[78:31] are the Cayman Islands? Oh, that's where
+[78:33] all the hedge funds are. And so what you
+[78:35] realize is an extremely levered US
+[78:38] banking system, an extremely levered
+[78:40] Wall Street of of hedge funds are
+[78:43] replacing the buying power of China. the
+[78:45] only way they can replace that level of
+[78:46] buying power is with leverage. And so
+[78:49] when Scott Besson comes out and says,
+[78:51] "We're focused on deregulation,"
+[78:53] deregulation is a fancy way of saying,
+[78:55] "We're going to remove the supplemental
+[78:57] leverage ratio and allow banks and hedge
+[78:59] funds to use unlimited leverage to buy
+[79:02] the 10-year." Now, if I were to say it
+[79:04] like that, it doesn't sound very
+[79:05] politically palatable, right? Like
+[79:07] unlimited leverage for Wall Street is a
+[79:10] bad word. That's how you don't get
+[79:11] reelected. But if I say this is about
+[79:13] deregulation and getting out of the way
+[79:15] of innovation, that's why I'm going to
+[79:16] remove the rules that force banks to
+[79:18] post collateral to buy my garbage bonds,
+[79:21] then all of a sudden it sounds
+[79:23] appealing. Another goal for Bessant, he
+[79:25] needs to devalue the dollar against the
+[79:27] wan. He needs the Chinese currency to
+[79:30] get stronger. He needs the dollar to get
+[79:31] weaker. But instead of saying we need a
+[79:34] weaker dollar, he says we've been
+[79:36] talking to China about finding a more
+[79:38] fair equilibrium. Well, an equilibrium
+[79:41] would if these things are going to be
+[79:42] more equal, it means the dollar's got to
+[79:44] come down and the wand's got to come up.
+[79:45] But that's a more politically palatable
+[79:47] way of saying I have to devalue the
+[79:49] dollar. I don't have a choice. So these
+[79:51] politicians, you know, warping their
+[79:54] words to make them sound better than
+[79:55] they are to get reelected. I do think
+[79:58] inevitably it's a bipartisan effort to
+[80:02] uh reduce like we have to exit this
+[80:04] deficit world. It's it's becoming a
+[80:06] national security threat now. whether
+[80:08] they forfeit the money printer now or in
+[80:10] the future. We all know it's inevitably
+[80:11] coming, but I see a lot more gradual
+[80:15] process towards gold and Bitcoin than
+[80:18] I've ever seen of any administration.
+[80:20] And uh they're trying to mask it. Like,
+[80:22] you know, even you know, QE is a bad
+[80:24] word now. Every even even the normal
+[80:26] American at the grocery store knows QE
+[80:28] means inflation. Inflation is bad. And
+[80:31] so, you know, Bessant is finding ways to
+[80:33] stimulate dollar liquidity through
+[80:35] Treasury buybacks instead of using words
+[80:37] like QE. So, at the end of the day, it's
+[80:40] all garbage. They're saying the same
+[80:41] thing. They're going to have to do the
+[80:42] same thing. They're going to have to
+[80:43] increase the money supply. They're going
+[80:44] to have to print capital. They're going
+[80:45] to have to value the dollar. And they're
+[80:46] just doing it in clever ways that the
+[80:48] person at the grocery store doesn't
+[80:50] recognize. But I did find it
+[80:52] fascinating. The one thing Trump didn't
+[80:53] tariff was gold. And amidst all this
+[80:56] reordering of global capital flows, he
+[80:58] made a particular point to say we have a
+[81:00] Bitcoin strategic reserve. Now whether
+[81:02] that was purposeful or not, but
+[81:04] foreigners and sovereign wealth funds
+[81:06] like in Abu Dhabi, they're clearly
+[81:07] taking note. They're buying gold.
+[81:08] They're buying Bitcoin. They're not
+[81:10] buying, you know, I think the NASDAQ and
+[81:12] Bitcoin will decouple because sovereign
+[81:14] wealth funds are going to stop buying
+[81:16] Google at 50 times earnings. Why would
+[81:18] they anymore? They're going to get a 30%
+[81:19] withholding tax. Trump's told them
+[81:21] they'll leave.
+[81:23] Yeah. I I I don't think that's uh that's
+[81:26] going to be very wise. I mean, I just
+[81:28] think listen, the uh the the smart way
+[81:31] to go about this is free trade, free
+[81:33] capital flows, and get rid of the money
+[81:35] printer. Now, trying to balance the
+[81:38] trade while keeping the money printer is
+[81:40] the equivalent of imagine you have a
+[81:42] money printer in your basement and
+[81:45] you're you can just print money and buy
+[81:47] things for free, but you're trying to
+[81:49] also make sure that you never spend more
+[81:51] than you earn. They're contradicted. The
+[81:53] money printer. Yeah. Why would you want
+[81:55] It's not a real goal. Just get your
+[81:57] money printer. Um but if you do have the
+[82:00] money printer and you want to take
+[82:02] advantage of it, then why are you trying
+[82:04] to stop trading with people? It's like
+[82:05] saying, "Yeah, buying stuff with my
+[82:07] money printer." And and and Bessant has
+[82:10] said this like, you know, the funniest
+[82:12] thing about these people is financial
+[82:14] authorities tell you what to expect
+[82:16] because they cannot surprise the
+[82:18] financial market. The financial market
+[82:20] has way too much leverage. leverage and
+[82:21] volatility don't go well. So the way
+[82:23] they one of the ways they reduce
+[82:24] volatility is by telling you what's
+[82:26] going to happen. That's when Jerome
+[82:27] Powell comes out at his little meetings
+[82:29] and says, "I'm going to stop QT and
+[82:32] start QE. Do you hear me?" And the
+[82:34] financial markets start pricing in what
+[82:36] he's saying because they can't afford
+[82:38] volatility. There's too much leverage in
+[82:40] the system. And so what Bessant has said
+[82:42] is my goal is to reduce the deficit.
+[82:45] It's not to erase it. And so you just
+[82:47] listen to the guy. They're still going
+[82:49] to print money. they're still going to
+[82:51] have to finance this government through
+[82:53] borrowing from whatever highly levered
+[82:56] US bank deposits and hedge funds in the
+[82:58] Cayman Islands. So, I I agree with you
+[83:02] saying that we're going to balance the
+[83:04] the budget but also print money. Um,
+[83:06] these are contradictory statements. It
+[83:08] don't make any sense. Um, we we'll see
+[83:10] what happens. But just the notion that
+[83:12] they're telling foreign capital to get
+[83:15] out of the country, we're okay with you
+[83:17] buying gold and Bitcoin, but not
+[83:18] anything else. You know, I I I think
+[83:21] there's a re hopefully I mean, and I'm
+[83:23] I'm biased, right? I'm a Bitcoiner, so
+[83:25] I'm optimistic here, but I I'm hopeful
+[83:27] that there's a, you know, a restoration
+[83:29] back to let's just store our capital in
+[83:32] something that is scarce and see where
+[83:35] things unfold from here. I think that
+[83:37] that'll be the winners of this decade is
+[83:39] I'm going to sit this one out. not going
+[83:40] to own bonds. I'm not going to pay 50
+[83:42] times earnings for a tech company where
+[83:44] I don't even understand their products.
+[83:46] I'm just going to stack sats and and
+[83:48] watch this unfold. And and those are
+[83:49] going to be the biggest winners both at
+[83:51] the sovereign level and the individual
+[83:52] level in my opinion. Yeah, absolutely.
+[83:55] This is what I u this is what I really
+[83:57] think. I mean, it's just the the most
+[83:59] difficult thing about this is just
+[84:00] believing that it can actually be this
+[84:02] simple. It's just very difficult. It's
+[84:05] very difficult particularly in fiat
+[84:06] world because everybody has spent the
+[84:08] last 30 40 years of their lives playing
+[84:12] increasingly more complicated and
+[84:13] sophisticated games trying to ek out one
+[84:16] or two% over inflation and now you're
+[84:19] just telling them nope don't do
+[84:20] anything. You know it's a very very very
+[84:23] zen thing where you just sit there and
+[84:25] do nothing and watch your orange coins
+[84:27] go up. Yeah. It's and it's a difficult
+[84:30] thing. Um it flies in the face of
+[84:32] everything you've learned. So, you know,
+[84:34] Bitcoiners talk almost like it's a
+[84:36] spiritual experience almost for some
+[84:38] people to really educate themselves on
+[84:40] the proper way to exist and live and
+[84:43] provide. Um, yeah, that's the stay
+[84:45] humble and stack sats is a is, you know,
+[84:47] goes very deep and, uh, earn more than
+[84:50] you spend. Uh, think about the future,
+[84:53] lower your time preference, save. And I
+[84:56] think like, you know, you got me into
+[84:58] carnivore and steak and health. um I owe
+[85:01] that to you. But just I don't think it's
+[85:04] a mistake that Bitcoiners also then tend
+[85:06] to take care of themselves. That's
+[85:08] another thing with the US government I
+[85:10] thought is fascinating is they're trying
+[85:11] to reduce their expenses everywhere. One
+[85:14] of which is Trump's now directly
+[85:16] attacking the pharmaceutical industry.
+[85:18] This is the first administration in
+[85:20] America that's saying you're charging
+[85:22] Americans 10 times as much and I don't
+[85:24] care how much you're going to lobby me.
+[85:25] I have to fix this because everyone in
+[85:27] this country is fat and sick and it's
+[85:29] too expensive for me to take care of
+[85:31] everybody here. And so like I've never
+[85:34] seen our government do that. And it's
+[85:36] just, you know, like a restoration back
+[85:39] to first principles. Instead of printing
+[85:41] money to take care of fat and sick
+[85:42] people, how about everyone just not be
+[85:44] fat and sick? and and Bitcoiners have
+[85:47] somehow figured that out first through
+[85:50] the journey of low time preference,
+[85:52] prioritizing their future, hard money,
+[85:54] ethical living. Um, so yeah, it's
+[85:58] interesting time for sure. It is. It
+[86:00] absolutely is. I mean, I can I'm I'm a
+[86:03] lot more cynical of the u chances of
+[86:06] success for these uh ideas, but it is
+[86:08] still very interesting that at least
+[86:10] they're making that effort to get out
+[86:11] there. Um, you know, they're going after
+[86:13] the pharmaceutical companies. They may
+[86:15] not have the best kind of execution on
+[86:17] these ideas, but it's definitely moving
+[86:20] moving the Overton window of what can
+[86:23] and should be done on these things.
+[86:25] Yeah, I just find it validating. I don't
+[86:27] like everyone should know I've never
+[86:29] voted in my life because I just don't
+[86:31] believe in this system. I don't think
+[86:32] change is affected by putting the right
+[86:35] old white man in a blue suit in a house
+[86:37] in Washington DC. That's not my belief
+[86:40] system. So, I vote with my time and
+[86:42] energy and that's working on Bitcoin.
+[86:44] And that's where I think I can affect
+[86:45] the most change. So I don't believe in
+[86:47] any politician. I don't think any of
+[86:49] them are going to affect more change
+[86:51] than open source software and free
+[86:52] markets to be clear. But I find it
+[86:54] validating that all of a sudden the US
+[86:56] is like wait these trade deficits don't
+[86:58] make any sense. Wait, you know,
+[87:01] subsidizing pharmaceutical companies
+[87:03] with profits by overcharging Americans
+[87:06] is actually a bad thing because we're
+[87:08] enabling everyone to be fat and sick and
+[87:10] that's far more costly than it is that
+[87:12] you like. I just find it validating to
+[87:14] hear these people say what Bitcoiners
+[87:17] have believed for a very long time. So,
+[87:19] we'll see where things shake out. At the
+[87:21] end of the day, their jobs are to get
+[87:22] reelected and, you know, pe people are
+[87:25] going to vote in what they want. That's
+[87:27] cheap money. Um, you know, and and so
+[87:30] we'll see what happens. But it's been
+[87:33] validating to to watch uh you know gold
+[87:37] and Bitcoin harder assets outperform and
+[87:40] uh watch Trump's tariffs fall flat on
+[87:42] their face. Like I think it's just been
+[87:44] funny. Yeah. I mean it's uh it's it's
+[87:48] just such a uh such an improvement of
+[87:50] your life experience when you just have
+[87:52] Bitcoin and then you can watch all of
+[87:53] this stuff knowing that Yes. You know,
+[87:56] let them fight among themselves. It's
+[87:58] all entertainment. It's all bread and
+[87:59] circus as long as you have Bitcoin. Yes.
+[88:01] It really is the cheat code.
+[88:03] Yeah, I mean and the time preference is
+[88:06] infinite, right? Like I have very high
+[88:08] confidence in an ability to build for my
+[88:11] future because of the stats I have in
+[88:12] cold storage and those that have
+[88:15] government bonds right now can't say the
+[88:16] same.
+[88:18] Yeah, but you know that's uh it's it's
+[88:22] got to happen. This whole um funding war
+[88:24] and endless government spending business
+[88:27] has to come to an end. It's been a
+[88:28] massive drag on our civilization for the
+[88:30] last couple centuries and it's time for
+[88:33] it to
+[88:34] end. All right. What uh what else do you
+[88:36] have in mind? Can you share with us what
+[88:38] some more uh plans coming up?
+[88:41] Um I mean I got some fun announcements
+[88:43] at the Bitcoin conference uh you know at
+[88:46] uh Yeah. Yeah. So we'll have some
+[88:49] lending stuff. Uh we think we can
+[88:52] achieve singledigit APR rates which
+[88:55] would be an industryleading rate for
+[88:57] those that want to borrow against their
+[88:58] Bitcoin uh for some of our customers. A
+[89:01] lot of lending announcements on the
+[89:02] strike side. On the 21 side uh we intend
+[89:06] to provide proof of reserves. Um we
+[89:09] think it's important um to try and
+[89:11] achieve that for a company of our size.
+[89:14] So, uh, I'm hopeful that I I I can get
+[89:17] that done, um, over the near-term
+[89:20] future. So, yeah, the focus for 21 is
+[89:23] what everyone should know is we
+[89:24] announced an intent to go public, but
+[89:26] that transaction hasn't closed. So, my
+[89:28] job is working with regulators to get us
+[89:31] listed on a stock exchange officially
+[89:34] uh, under the ticker XXI and then
+[89:36] educating the world, hopefully providing
+[89:39] products like proof of reserves for our
+[89:40] existing holdings. And then on the
+[89:42] strike side, I've got some lending
+[89:43] announcements. So, pretty exciting. And
+[89:45] stacking stats on both sides of the of
+[89:47] the balance sheets. Excellent. Keep at
+[89:50] it, man. Keep at it. We're cheering for
+[89:52] you. We're cheering for you here at the
+[89:54] Bitcoin Standard Podcast. Jack, thank
+[89:56] you so much again for joining us for
+[89:58] your time and best of luck on
+[89:59] everything. Thanks, Safe. I appreciate
+[90:01] it. All right. Take care, my man. See
+[90:05] [Music]
+[90:06] you. Heat. Heat.
+[90:10] [Music]
+[90:21] [Music]

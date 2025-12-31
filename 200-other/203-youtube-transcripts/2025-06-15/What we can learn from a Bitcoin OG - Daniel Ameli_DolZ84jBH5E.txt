@@ -1,0 +1,1457 @@
+Title: What we can learn from a Bitcoin OG - Daniel Ameli
+Video ID: DolZ84jBH5E
+URL: https://www.youtube.com/watch?v=DolZ84jBH5E
+Date Saved: 2025-06-15 12:03:13
+--------------------------------------------------
+
+[00:00] yeah it is a bubble right now the
+[00:01] interesting thing about Bitcoin is that
+[00:02] if you have $2,000 of Bitcoin and you
+[00:04] owe $1,000 at the end of the month what
+[00:06] happens if Bitcoin drops more than
+[00:09] 50% hello
+[00:11] Danielle hi uh Robin nice to nice to be
+[00:15] here thanks for inviting me on the
+[00:16] podcast of course I saw I saw you on a
+[00:19] and I was researching a little bit about
+[00:21] you and I also stamped upon uh a podcast
+[00:24] about you on buas tool bu tool podcast
+[00:28] or something like that
+[00:30] and there I heard that you are in
+[00:32] Bitcoin since 2010 and I was like
+[00:36] wow I want to talk with
+[00:39] you um yeah yeah I know I I'd first
+[00:41] heard about Bitcoin on a on a website
+[00:44] that uh it talks about tech Innovation
+[00:47] and that kind of thing it's usually
+[00:48] pretty negative about it and they're
+[00:50] like oh some Japanese guy made up fake
+[00:52] money or something you know I thought
+[00:54] okay that that's pretty interesting and
+[00:57] um I because I I'd heard about you know
+[00:59] I paid attention to different attempts
+[01:01] to try to make uh digital money before
+[01:04] and generally they failed and whatever
+[01:07] and uh but still like you think well
+[01:10] maybe someone will figure this out at
+[01:12] some point so I thought that that's
+[01:14] pretty interesting and again I I really
+[01:17] didn't take it seriously for for quite
+[01:19] some time after that and then you know
+[01:21] years later I started meeting other
+[01:24] actual bitcoiners in person and I was
+[01:26] kind of amazed and I met people who were
+[01:29] you know far more bullish than I was I
+[01:33] just thought this is an interesting
+[01:34] project and I met people that thought oh
+[01:37] my God this is uh this is world changing
+[01:40] so that that forced me to learn a lot
+[01:42] more about the basics and you know how
+[01:45] it worked and why it was working and how
+[01:47] it was different and then that inspired
+[01:49] me to try to teach other
+[01:51] people what what time around was that
+[01:53] where you got Bitcoin fundamentally like
+[01:56] 2010 you discovered it I think you also
+[01:58] started mining there
+[02:01] I mean yeah I mind I mind you know I
+[02:03] tried mining some some Bitcoin in in
+[02:05] different forms um but you know also uh
+[02:08] you know lost a lot of Bitcoin and gave
+[02:10] Bitcoin away and there there were a lot
+[02:13] of different mistakes that you know were
+[02:15] easy to make in the early days um but it
+[02:18] was uh it was yeah I'd say you know it
+[02:21] was maybe like you know in the in the
+[02:25] you know bare market after the mount Cox
+[02:27] collapse that I started looking into
+[02:30] what Bitcoin actually was and how it was
+[02:33] important how it fit in with everything
+[02:35] else with economics with technology and
+[02:39] so on right because Bitcoin is there's a
+[02:41] lot of different things so Bitcoin is
+[02:44] also the thing that requires people to
+[02:47] actually take their computer security
+[02:50] seriously because you know the
+[02:52] information is money itself and and
+[02:55] that's kind of that's kind of the
+[02:57] problem right when I've um I you know
+[03:00] I've met people that uh was saying oh
+[03:03] well you know it's fine if you're you
+[03:05] know if you only store $50 worth of
+[03:07] bitcoin in a way that's not that secure
+[03:10] and because again right you can keep $50
+[03:13] of say cash in your pocket you don't
+[03:15] need a bank vault for that right you
+[03:17] might want to carry that around the
+[03:19] issue is that if the hackers can simply
+[03:21] take everybody's $50 from their C cash
+[03:25] in their pocket at the same time that is
+[03:27] a lot of money right and then the system
+[03:29] does work if it's trivial for them to do
+[03:31] so so even for a small amount it forces
+[03:35] everyone to start thinking yeah how can
+[03:37] I actually make the computers and cell
+[03:40] phones work for me how can I make them
+[03:43] something that uh you know is is
+[03:45] completely loyal and the way a dog is
+[03:47] loyal to its
+[03:49] owner and why uh did you adopt it
+[03:53] Bitcoin in the first place and maybe in
+[03:56] a comparison while you still holding on
+[03:59] to bitcoin why you now into Bitcoin did
+[04:02] the reason change or what did your um
+[04:06] thought process over the years Chang
+[04:08] it's quite a long time over like over 10
+[04:12] years um well the thing is that Bitcoin
+[04:17] itself has changed right it went from
+[04:19] this you know experiment to see if it
+[04:22] might work to a a project that was
+[04:25] attracting a large number of really
+[04:27] smart and interesting people who might
+[04:29] not even be able to hire to work on your
+[04:31] project at any price there are certain
+[04:34] people that they're intrigued because
+[04:36] it's an interesting puzzle or simply
+[04:38] because they feel like they're actually
+[04:40] making a difference if it'ss for their
+[04:41] ideology um
+[04:44] so uh and then it gets to the present
+[04:46] point where you have all these large
+[04:48] Financial financial institutions um you
+[04:51] know Sovereign wealth funds countries
+[04:53] that want to be involved it actually is
+[04:56] getting closer to this kind of global
+[04:59] standard
+[05:00] right so in some ways the the risk
+[05:02] return is better now in that um you know
+[05:06] the probability of Bitcoin not existing
+[05:08] in a few years is is much much lower
+[05:11] than it was in the
+[05:13] past yeah the risk drops with every year
+[05:16] with like you can make an argument with
+[05:18] every day Bitcoin went on and the
+[05:20] protocol is still running the all the
+[05:23] blocks mind I think we actually at the
+[05:25] point where it's so so unlikely that
+[05:28] that it crashes that we can basically
+[05:32] have a really really good risk reward
+[05:34] profile right now like it's it's such an
+[05:37] no brainer to invest even a little bit
+[05:40] like I'm all in like I'm still till 2020
+[05:44] full on a Bitcoin standard I adopted it
+[05:47] personally but uh even if you say like
+[05:51] you you have to invest a little bit like
+[05:54] like a small portion you you have to do
+[05:56] at this point if you educated a little
+[05:58] bit um what I was wondering how did
+[06:02] Bitcoin the environment you said you on
+[06:05] to you went on to inperson meetings on
+[06:08] conferences how did the vibe of the the
+[06:12] conferences changed I only know Bitcoin
+[06:14] from 2020 on I went to conferences 2021
+[06:18] on I imagine it was completely different
+[06:21] 10 years before
+[06:23] that yeah I I think it really has
+[06:26] changed right and I feel like there are
+[06:27] some people who were involved early on
+[06:30] who still wish it was more like a
+[06:32] private club of you know the the The
+[06:35] Treehouse of just their friends as
+[06:37] opposed to something that you you see on
+[06:39] uh television and newspapers um and so
+[06:42] on that that Wall Street wants its uh
+[06:45] wants its piece um but yeah you
+[06:49] definitely had more uh more
+[06:51] eccentrics um more more people who are
+[06:55] you know the that it fit into their
+[06:57] ideological worldview right like the uh
+[07:00] you know Austrian economists and
+[07:02] Libertarians and so on and some of those
+[07:05] people you know I don't know they simply
+[07:07] left the space or they went crazy I
+[07:09] don't know um but there's other people
+[07:11] that are they're still there but then
+[07:13] you know it gets diluted over time as
+[07:15] more people come in for for different
+[07:17] reasons people coming in as uh seeing it
+[07:19] as an investment or um or just uh you
+[07:23] know just something interesting that's
+[07:25] cool to be a part of right it becomes
+[07:27] part of the Zeitgeist right just like uh
+[07:30] you know everyone's been talking about
+[07:31] AI for the past year for example right
+[07:34] so at a certain point in time Bitcoin
+[07:37] becomes more mainstream cool and then
+[07:40] people just want to want to be a part of
+[07:42] it and see what's
+[07:45] happening and how is it like I
+[07:48] researched before the podcast uh Bitcoin
+[07:51] was under one cent in
+[07:53] 2010 and now it went up to almost 70k
+[07:57] now we are like at 40K and how is that
+[08:01] Journey for you personally when you see
+[08:03] the price from early on I think like the
+[08:06] first years you probably don't watch the
+[08:08] price as closely um did you even watch
+[08:11] the price closely at any time or is it
+[08:14] just like one Bitcoin or one Bitcoin
+[08:16] yeah I didn't even know there there was
+[08:18] a price for a long time right and then
+[08:20] it was looking at it later I'm like oh
+[08:22] my God you know like if I had had known
+[08:24] you know that I could have got so many
+[08:26] Bitcoin or whatever and you know it's
+[08:28] it's it's frustrating right but at the
+[08:30] same time you know if you if you know
+[08:32] anything that's going to happen in the
+[08:34] future um you know there there's a lot
+[08:36] of there's profit to be made there and
+[08:38] that kind of thing um so so even though
+[08:41] you know I missed out on some of some of
+[08:44] that kind of thing um it's still it's
+[08:47] still amazing to just see kind of how
+[08:50] something unfolds right because with
+[08:52] Bitcoin you have this this
+[08:53] pre-programmed sequence that's happening
+[08:55] till
+[08:56] 2140 right this this having that's it's
+[08:59] going to go on for over hundred years
+[09:02] and um it's it's kind of amazing to see
+[09:05] how that see how that plays out right
+[09:08] how the space changes how Bitcoin
+[09:10] evolves how people come in and go um
+[09:13] what's being built and and what's that's
+[09:15] going to look like because it's not at
+[09:17] all we don't know what that's going to
+[09:19] look like when the block reward goes to
+[09:21] zero or almost zero right then the
+[09:23] minors are only surviving on the
+[09:25] transaction fees and what are the
+[09:27] transaction fees going to look like
+[09:29] we're going to find out right I can
+[09:31] speculate and say oh well there's
+[09:33] there's going to be a lot of transaction
+[09:34] fees because maybe you know you have
+[09:37] institutions transferring large amounts
+[09:39] of Bitcoin they're happy to pay a high
+[09:41] fee or because there's broad usage or
+[09:44] because each fee is actually
+[09:46] representing you know lightning Channel
+[09:48] opening and closings that or rebalancing
+[09:51] that are basically supporting tens of
+[09:54] thousands of other smaller payments um
+[09:56] but but we don't know maybe it doesn't
+[09:58] look like that maybe blocks um at some
+[10:00] point in the future aren't coming every
+[10:02] 10 minutes on average they're a lot more
+[10:04] irregular than that and uh we'll see
+[10:06] what that looks like I mean like if you
+[10:08] look at um block times in like 2009
+[10:12] those were definitely not every 10
+[10:13] minutes right because now um Bitcoin
+[10:17] mining is pretty much a pretty much a
+[10:19] business and uh and you can see okay
+[10:22] this Miner is making this amount of
+[10:24] money per day and if I overclock it or
+[10:26] underclock it it's going to do this you
+[10:29] know what's the what does the effect on
+[10:31] the efficiency and the Heat and the
+[10:32] longevity of the machines what's the
+[10:34] depreciation of the machines but
+[10:36] generally speaking in early days people
+[10:38] were just mining because you know they
+[10:41] wanted to participate they wanted to see
+[10:42] what was going on um and they weren't
+[10:44] thinking what does this do to my
+[10:46] electric bill or uh that kind of thing
+[10:48] or is this even profitable does it make
+[10:50] sense um so you you had these you know
+[10:54] crazy
+[10:55] fluctuations uh and you can see that
+[10:58] from the from the Gen genis block to the
+[10:59] first block it was actually a um like
+[11:02] six days
+[11:04] Gap so not not 10 minutes right and uh
+[11:08] you know you didn't have basically
+[11:09] 10minute blocks on average for for
+[11:13] months no crazy I I wasn't even there I
+[11:16] wasn't even there for that though you
+[11:18] know so that was just looking back and
+[11:19] being like Oh my gosh that's uh that's
+[11:21] really interesting um how that how that
+[11:24] played out right and if people were you
+[11:25] know relying on bitcoin for day-to-day
+[11:28] payments at the time they would had
+[11:31] trouble did you see as a risk that the
+[11:34] block reward runs out at a certain uh
+[11:37] time that uh they are relying on the
+[11:39] transaction
+[11:41] fees yeah I think you can make the case
+[11:44] and uh you know some some serious
+[11:46] bitcoiners have that if you knew
+[11:48] everything you know now and you were
+[11:50] doing it again from the beginning that
+[11:52] maybe you would want the block reward to
+[11:54] decrease more slowly so instead of you
+[11:57] know it cuts in half every four years
+[11:59] years it it cuts in half every you know
+[12:01] whatever 10 years or something right um
+[12:05] or you could or you can make the case
+[12:07] maybe it just decreases but never goes
+[12:09] to zero so maybe it gets cut in third by
+[12:12] a third then cut by another third then
+[12:13] cut by another third instead of being
+[12:15] cut in half or or it goes down to a
+[12:18] fixed a fixed amount right either in
+[12:21] percentage terms or absolute terms or
+[12:26] um or or perhaps uh you know just
+[12:29] smoother right so even if it gets cut in
+[12:31] half it doesn't suddenly drop so much
+[12:33] right it the block uh reward gets a
+[12:36] little bit smaller with every block or
+[12:38] every difficulty adjustment for example
+[12:41] um so but but
+[12:44] wouldn't yeah because each of these each
+[12:46] of these
+[12:52] havingsex so so when you have that drop
+[12:55] off in reward then there's a lot of
+[12:58] minors who are now basically priced out
+[13:01] all at once and um that's where an
+[13:03] attacker could buy up those
+[13:07] machines or just attack because the hash
+[13:10] rate is down so you know if you had more
+[13:13] um more smoothly decreasing block
+[13:15] rewards that would make the network a
+[13:16] little bit
+[13:18] safer but yeah so there there is a
+[13:20] concern right if if there's not enough
+[13:23] um demand for Bitcoin then uh the
+[13:26] Bitcoin blocks are going to be uneven or
+[13:28] more vulnerable to attack but again I
+[13:30] think in that scenario maybe then people
+[13:31] aren't valuing Bitcoin that much so if
+[13:34] something isn't that important is it and
+[13:36] people don't value it is it that bad if
+[13:38] it goes away at that point I don't think
+[13:40] it's that bad but the issue is that
+[13:42] there's a variability of the block
+[13:43] reward right so if it goes from one
+[13:46] block has a huge amount of fees in it
+[13:48] and the other one has very little um
+[13:50] that can create instability right that
+[13:53] the block times could be less
+[13:54] predictable uh miners might wait until
+[13:57] there's valuable fees in the meol cool
+[13:58] to actually turn their machines on
+[14:02] um or or you just might see more miners
+[14:05] trying to reorg other miners they're
+[14:07] they're not going to build on each
+[14:08] other's blocks you know they see a
+[14:10] lucrative block and they want to try to
+[14:12] grab it for themselves instead of
+[14:14] building on top of
+[14:15] it are you surprised that the hash rate
+[14:18] still keeps on Rising even though we're
+[14:21] not at an alltime high like when you
+[14:23] watch the price correlation with the
+[14:26] Bitcoin mining correlation you would
+[14:29] think there's some correlation but at
+[14:31] some point this broke uh and are you
+[14:34] surprised about that or was a thought on
+[14:37] that well it still continues to surprise
+[14:40] me even though it's not new so um if a
+[14:43] lot of people again all the data is
+[14:45] there go back and look at the price of
+[14:48] Bitcoin during
+[14:50] 2014 um at the start of 2014 Bitcoin was
+[14:53] around $1,000 right and by the end it
+[14:56] was
+[14:57] $300 so you think hm the uh the price
+[15:01] went down 70% what happened to the hash
+[15:03] rate during that
+[15:05] period right I don't know if you know or
+[15:07] if if you had to guess what do you think
+[15:09] happened to Hash Ray during the year of
+[15:12] 2014 I guess it went down a lot right
+[15:16] that would that would make sense but
+[15:17] actually what happened was it went up
+[15:20] and not just a little bit it went up 30
+[15:22] 30X so the hash rate was 30 Times Higher
+[15:25] by the end of 2014 than at the beginning
+[15:29] which means that right if you were if
+[15:31] you were trying to mine Bitcoin during
+[15:33] 2014 pretty much all the Bitcoin you
+[15:35] were going to get from it was in the
+[15:36] first couple
+[15:39] weeks you know so and then at that point
+[15:42] what are you what are you even doing
+[15:43] right
+[15:45] um so it's not like that now where
+[15:48] people are still running um as6 from
+[15:51] five years
+[15:53] ago um even though the hash rate is up
+[15:56] uh people find cheaper sources of
+[15:58] electricity they find ways to utilize
+[16:00] the waste heat um they people mining I
+[16:04] don't know I don't know what they're I
+[16:05] don't know what they're doing um but it
+[16:07] does seem like there's a number of
+[16:09] different miners around the world that
+[16:11] have very low operating costs and um
+[16:14] they're they're scaling up right or they
+[16:16] or some people are more comfortable with
+[16:18] that idea maybe it's easier for the
+[16:21] capital to put their money into what
+[16:23] they see as a business right as opposed
+[16:25] to a commodity so for say traditional
+[16:28] investor they might think oh yeah of
+[16:30] course I'll put my money into a company
+[16:32] that mines gold but I would never just
+[16:34] buy a bunch of gold bricks and then hope
+[16:36] that they're more valuable in the
+[16:38] future even though the mining businesses
+[16:41] are very much correlated with the price
+[16:43] of Bitcoin and what would make sense is
+[16:46] if more of the mining businesses would
+[16:47] actually hedge their exposure to bitcoin
+[16:50] so that that you know you could look at
+[16:53] how well the businesses run as opposed
+[16:56] to saying hm well this this Bitcoin
+[16:59] minor will become more valuable simply
+[17:00] because Bitcoin will become more
+[17:05] valuable uh it's great um when we take a
+[17:10] step back uh and maybe focus on the
+[17:12] first moment when you were frustrated
+[17:15] about the price and you did not uh buy
+[17:18] more earlier on when was that I imagine
+[17:21] it was quite early for you and maybe uh
+[17:25] what learnings can you give people now
+[17:28] that when maybe into the alltime high in
+[17:30] 2021 or they went in now and they feel
+[17:33] like they understand Bitcoin and it's
+[17:36] it's good but they missed a little bit
+[17:38] of the bus well yeah that's a yeah
+[17:41] that's a great question um
+[17:43] so so yeah there's there times when I I
+[17:47] told people about Bitcoin and they said
+[17:50] oh well it's a bubble and I said well
+[17:53] yeah yeah it is a bubble right now right
+[17:56] but the fact that it's a bubble doesn't
+[17:58] mean that it's worth zero the fact that
+[18:00] it's bubble maybe means you shouldn't go
+[18:02] all in with all your money at that exact
+[18:04] moment right um but the the interesting
+[18:07] thing about Bitcoin is that if you
+[18:09] actually started dollar cost averaging
+[18:11] at the at the peak of any of these
+[18:12] bubbles you you actually got in at a
+[18:15] pretty reasonable point right whereas if
+[18:17] you went all in at the peak of the
+[18:19] bubble then you would uh either be
+[18:21] forced out at a loss or you would be
+[18:24] very unhappy for several years and be
+[18:27] frustrated um
+[18:29] so we've had these series of bubbles
+[18:31] right there was a bubble uh in 2011
+[18:34] where Bitcoin went from a dollar to $30
+[18:36] down to $2 there was a bubble in
+[18:40] 2013 where Bitcoin went from um you know
+[18:45] basically $10 to 250 down to 50 up to
+[18:49] 1,200 and then down to
+[18:52] 150 um and then almost a double bubble
+[18:56] right depending on how you want to look
+[18:57] at it then in 2017 right Bitcoin went
+[18:59] from around a little under $1,000 to
+[19:02] $20,000 and then later went down to$
+[19:05] 3150 um and then 2021 we had maybe a
+[19:08] double or single bubble however you want
+[19:10] to see it where Bitcoin ran from that
+[19:12] you know that low of 3150 eventually up
+[19:15] to you know 69,000 and then down to a
+[19:18] low of about
+[19:20] 15,500
+[19:21] so right um now there there's been these
+[19:25] fads right whether it's like beanie
+[19:27] babies or whatever Dutch tulips and this
+[19:30] kind of thing where there's one just
+[19:32] bubble prices run up and then crash and
+[19:35] then that's the end of it but then you
+[19:37] have enduring asset classes like real
+[19:39] estate or the stock market in general um
+[19:43] or or Commodities where you do see a
+[19:46] bubble a crash and then later you you
+[19:48] can get another bubble right sometimes a
+[19:51] sometimes a larger one um and it's it's
+[19:54] because that the price is not a direct
+[19:57] relation you know directly reflecting
+[19:59] the level of adoption it can be ahead of
+[20:01] it it can be behind it so that's that's
+[20:05] the number I really want to look at
+[20:06] right how many Hardware wallets have
+[20:08] been sold how many bitcoiners are there
+[20:11] how many people how many actual people
+[20:13] out there have $10 of Bitcoin right or
+[20:16] $1,000 of Bitcoin um those are the
+[20:19] interesting numbers right how many
+[20:20] people are using Bitcoin every day you
+[20:21] said you're on a Bitcoin standard right
+[20:23] how many people is that um those numbers
+[20:25] are harder to find so people sometimes
+[20:27] look at the numbers that are easier to
+[20:29] find such as okay what's the current
+[20:31] price well the current price reflects
+[20:33] some of that adoption but it also
+[20:34] reflects very heavily the the
+[20:37] speculators right people who just borrow
+[20:39] money or you know leveraging into it or
+[20:42] have no idea what it is they're buying
+[20:43] it and they hope they can sell it for
+[20:45] more dollars so they put this many
+[20:47] dollars in and they're hoping to get
+[20:48] more dollars out and again that's fine
+[20:51] if they want to do that but they are
+[20:52] kind of missing the point right um a lot
+[20:56] of things can make you more dollars
+[20:58] right betting on any other any other
+[21:00] stock or tradeable entity um the issue
+[21:04] is that when the price is going up then
+[21:05] that attracts more
+[21:07] speculators so then they buy in then the
+[21:09] price goes up faster up until the point
+[21:11] where it just gets a bit ridiculous and
+[21:13] then people sell and then it starts the
+[21:15] cascading liquidations on the way down
+[21:18] so those kind of people that fomo in and
+[21:21] then fomo out right they they they rush
+[21:24] in too quickly and then they get forced
+[21:25] out um they're really just adding the
+[21:28] volatility and the chaos um whether
+[21:31] they're helping adoption or not I'm I'm
+[21:32] not really sure maybe maybe the
+[21:35] volatility keeps away some people like
+[21:37] it would be nice if Bitcoin kind of went
+[21:39] up steadily um with adoption but it it's
+[21:42] not possible right because if anything
+[21:45] is um accumulating value noticeably
+[21:48] faster than other things then people are
+[21:50] going to all want to pile into it right
+[21:52] now you know Bitcoin can't just go up
+[21:55] 20% a year for for years or on after
+[21:59] years so um the speculation is
+[22:03] unavoidable unavoidable part of it
+[22:06] basically um so we might be you know now
+[22:09] you say okay well what's the current
+[22:10] price and how is that relative to the
+[22:12] number of people using it um we could
+[22:15] potentially be ahead of the number of
+[22:16] people using it now but behind the
+[22:20] number of people that will be using it
+[22:21] in five
+[22:24] years I love the metrics that you
+[22:27] brought up how how many cold wallets
+[22:29] have been sold that's I never heard that
+[22:33] but I would love to have a daily metric
+[22:36] on that yeah and again you know who
+[22:38] knows this the hardware wallet
+[22:40] manufacturers and you know who's not
+[22:41] giving those numbers out Harware wallet
+[22:43] manufacturers I don't know why because
+[22:45] that would be you know very inspiring
+[22:47] for I think the community to have a
+[22:49] serious uh look at what's going on here
+[22:51] the only time we actually got any
+[22:53] information about that was when the
+[22:55] Ledger customer database was leaked
+[23:00] yeah and this would also be an metric
+[23:04] that would not fluctuate so much as the
+[23:06] price would I guess of course when
+[23:09] there's a price run up from 10,000 to
+[23:13] 70,000 of course there are more Hardware
+[23:15] wallet Sals but it would not fluctuate
+[23:18] that much as the price would do you see
+[23:20] the number go up technology the the
+[23:23] brazy volatility you see in the Bitcoin
+[23:25] Market as a as a positive can it drive
+[23:29] adoption you touched on a little bit
+[23:31] Yeah because there are certainly people
+[23:33] who who come in for the the trading
+[23:35] right there's people who are interested
+[23:37] in that that that makes the headlines
+[23:38] and then maybe not everybody but some
+[23:41] percentage of them maybe it's only 10%
+[23:43] maybe it's 30% right but they they might
+[23:45] stay and say hey there might be more to
+[23:47] this than just a number that's that's
+[23:49] bouncing around um so that can help
+[23:52] drive that adoption right and also the
+[23:54] same thing in terms of um companies that
+[23:56] are building the space they have to
+[23:58] actually get funding they have to get
+[24:00] attention so there needs to be a certain
+[24:02] level of excitement for for that to
+[24:04] happen people need to think that there
+[24:06] is a potential of higher returns there
+[24:08] than something else so the so I can see
+[24:11] that case
+[24:14] too yeah I see it now a lot uh with the
+[24:18] upcoming spot ETF uh people are saying
+[24:21] no when the spotf comes in few weeks
+[24:24] we're hitting millions and stuff like
+[24:26] that like this
+[24:28] I think it's U maybe stupid um but it
+[24:33] also drives a lot of attention and
+[24:36] attention is where adoption is because
+[24:39] when more people see it more people are
+[24:40] getting educated on it and um but also
+[24:45] maybe are people are getting frustrated
+[24:46] about it and staying away from it like
+[24:48] it's it's hard to measure it but in it's
+[24:51] it's definitely fun to
+[24:53] watch right right it's entertaining but
+[24:56] yeah it is I I don't like it when people
+[24:57] people make ridiculous price predictions
+[24:59] right we've seen whatever John McAfee or
+[25:02] or bellagi or or other people uh most
+[25:05] recently Samson Samson Mo I believe um
+[25:07] you know say oh million dollars this
+[25:09] kind of thing um that I don't think
+[25:11] that's helpful I mean yeah it gets it
+[25:13] gets attention it maybe gets people
+[25:14] excited but it also makes people think
+[25:16] this is some kind of get-rich quick
+[25:17] scheme or something and then you know
+[25:19] someone else comes along and they they
+[25:21] start promoting one coin or something
+[25:23] else and they say oh yeah yeah just give
+[25:25] me your money and you're G to be really
+[25:27] rich and that unfortunately we see this
+[25:29] again and again they run off of people's
+[25:31] money or mismanage it or don't deliver
+[25:34] and for someone who doesn't know that
+[25:36] much about Bitcoin it's hard for them to
+[25:38] distinguish between those two
+[25:40] things did you state in Bitcoin only did
+[25:44] you experience with
+[25:47] altcoins um yeah I mean I've you know
+[25:49] I've spent plenty of time reading
+[25:51] different white papers and learning
+[25:54] about different things and um
+[25:58] but generally speaking uh you know any
+[26:00] any all coin that I thought let me buy a
+[26:04] little bit of this or something that
+[26:05] that was a mistake you know the uh even
+[26:09] if something actually does have an
+[26:10] interesting idea then sometimes it's an
+[26:12] interesting idea but it's a bad idea or
+[26:14] it's an interesting idea but then 20
+[26:16] other people can copy it and then the
+[26:19] the value is just continually diluted
+[26:21] you know it doesn't actually capture
+[26:23] that value um so uh and then you know
+[26:27] there's there's weirdly value in uh
+[26:31] someone testing something just to show
+[26:32] you what doesn't work right so there
+[26:35] were some there was a coin a long time
+[26:38] ago called fry coin and they thought oh
+[26:41] well you know the the problem with
+[26:43] Bitcoin is if it increases in value you
+[26:45] know then people won't spend it so you
+[26:47] know we should we should make a coin
+[26:49] that incentivizes people to spend it
+[26:51] because it's just decaying in their
+[26:52] hands you know and then if everyone
+[26:54] spends it it's just going to take over
+[26:56] and it turns out okay yeah yeah you've
+[26:57] created something that everyone wants to
+[26:59] spend but nobody actually wants to
+[27:01] receive
+[27:02] it so if if you created something that
+[27:04] everyone wants to get rid of then it's
+[27:06] it's about as valuable as uh well
+[27:08] garbage right and then the value quickly
+[27:10] goes to zero and people forget about
+[27:12] that but I think there was there was a
+[27:14] valuable lesson there right
+[27:17] um the same the same thing where people
+[27:19] tried other experiments like using uh
+[27:22] you know changing the proof of work to
+[27:24] something else right so for example with
+[27:26] Litecoin um they created that in 2011
+[27:29] Charlie Lee specifically um with with
+[27:33] the idea of oh well you know the if you
+[27:35] know you know Bitcoin mining is starting
+[27:37] to become too difficult for regular
+[27:40] people you know let's make it let's make
+[27:42] it something that uh they can't they
+[27:43] can't build an Asic for let's you know
+[27:46] make it uh you know faster and whatever
+[27:50] right these are the selling points and
+[27:52] uh the problem was they realized no you
+[27:54] you can build as6 for it right because
+[27:57] an AS
+[27:58] is literally a chip designed to do one
+[28:00] thing specifically very
+[28:02] well and uh something that does think
+[28:05] specifically will always outperform
+[28:07] something that does everything in
+[28:08] general it's just a matter of whether
+[28:10] it's actually worth it for someone to to
+[28:13] bother to do that um so those those
+[28:16] selling points you know started started
+[28:18] going away um the same thing with uh
+[28:22] with Litecoin saying oh we're faster
+[28:25] well they're not faster right they just
+[28:27] made a shorter block time and it's
+[28:29] pretty easy to take someone else's code
+[28:31] and change a single number change a
+[28:33] parameter so Bitcoin has a block block
+[28:36] time Target of 10 minutes Litecoin has a
+[28:38] block time Target of 2.5 minutes but the
+[28:42] issue though is that those Litecoin
+[28:44] blocks don't have the same security as
+[28:47] Bitcoin blocks so there there's actually
+[28:49] a website um which which shows that
+[28:52] where shows you know hey may you maybe
+[28:54] for every one Bitcoin confirmation you
+[28:57] you would need like 60 Litecoin
+[28:59] confirmations or something right because
+[29:01] the chain simply isn't as secure there's
+[29:03] not as much work accumulated um but then
+[29:06] there's something else which is that two
+[29:09] and a half minutes is still way too slow
+[29:11] if you're waiting for confirmation if
+[29:13] you're actually trying to buy uh you
+[29:15] know a cup of coffee for example right
+[29:17] and that's two and a half minutes on
+[29:19] average and um sometimes it can be a lot
+[29:21] more than that right because block time
+[29:24] bitcoin's block time Target is 10
+[29:25] minutes but recently we saw gap of an
+[29:28] hour 42 between two blocks and this is
+[29:31] under conditions where the hash rate is
+[29:33] doing very well and actually Rising
+[29:36] so so you see that you know for those
+[29:39] kind of payments you do want something
+[29:40] like the lightning Network where you you
+[29:43] know have a confirmation within seconds
+[29:45] essentially that the payment is uh
+[29:48] complete so you know there were a lot of
+[29:50] interesting experiments But ultimately
+[29:52] the you know most of them are um dead
+[29:55] ends or some you know maybe something
+[29:57] you might want to think about
+[29:58] integrating into Bitcoin at some point
+[30:00] or or something else
+[30:04] entirely so in your opinion the altcoins
+[30:07] have no value and they will go all to
+[30:10] zero no no I'm I'm not saying that
+[30:12] because I can't I can't say things that
+[30:14] are you know I I don't want to say
+[30:16] anything that I haven't studied
+[30:17] carefully is worthless and of course you
+[30:20] know there's always going to be new
+[30:21] things that I don't understand right so
+[30:23] like for example I don't
+[30:26] necessarily understand you know virtual
+[30:29] reality worlds or you know nft artwork
+[30:33] right so so those might have value to
+[30:36] somebody else right there are video
+[30:38] games like uh where people what was it
+[30:41] counterparty where people are paying for
+[30:42] party hats um and they're not real right
+[30:45] they're paying for virtual hats but
+[30:48] apparently that has value to them right
+[30:50] and that's not something that just went
+[30:51] away you might think that's a crazy fat
+[30:53] but then people still want it the same
+[30:56] thing with uh fancy watch
+[30:57] you know look look look at my watch
+[30:59] right um there's just people I know that
+[31:02] are um you know they'll they'll pay tens
+[31:05] of thousands of dollars for a watch and
+[31:07] it keeps time less accurately than their
+[31:10] phone and it's also very heavy and it
+[31:12] requires being wound and it's not really
+[31:15] really clear why why that uh is valuable
+[31:18] to me so I don't want to I'm not going
+[31:20] to run around and say oh yeah those are
+[31:21] all going to be worthless uh soon
+[31:25] because it's a market that I I don't
+[31:27] understand understand right so it could
+[31:28] be older than me it could be you know
+[31:30] developed later than me and it's too new
+[31:33] um that's the way it is right so but I
+[31:34] have looked through certain altcoins in
+[31:36] a lot of detail and it can tell you
+[31:38] what's wrong with those specifically
+[31:40] right um there are alt coins like uh
+[31:42] Ripple where the consensus mechanism
+[31:45] really just doesn't
+[31:47] work um it doesn't make sense right
+[31:50] there's uh there are stable coin white
+[31:52] papers that I read that like yeah this
+[31:54] is not going to work right and one of
+[31:55] them that I read I knew it wasn't going
+[31:56] to work they didn't even launch it and
+[31:59] then there are other ones where you know
+[32:00] the the whole thing just blew up under
+[32:02] the conditions that I saw oh yeah that's
+[32:04] not going to work right this works in
+[32:06] these conditions but in those conditions
+[32:08] it fails and that's all
+[32:11] um but the Ripple consensus isn't even
+[32:13] the worst thing about it right the worst
+[32:14] thing about it is they actually don't
+[32:16] have nobody has complete history of the
+[32:20] uh the block the Ripple blockchain they
+[32:22] claim to have lost lost
+[32:25] it I don't know how you could possibly
+[32:27] lose a
+[32:28] blockchain um it's very strange so
+[32:31] they're like oh yeah the first like
+[32:32] 32,000 blocks we don't know we don't
+[32:34] know where they are so we just count
+[32:38] like block 32,000 as the the Genesis
+[32:40] block but it's
+[32:43] not and when you look at um other
+[32:48] allcoin uh I will call it US dollar or
+[32:51] the Fiat system in
+[32:52] general um where we have a lot of
+[32:56] history like years of the US dollar or
+[32:58] even longer if you go past
+[33:00] 19971 where are you seeing this going
+[33:03] there are a lot of bitcoiners that's
+[33:04] saying it will go away we have now a new
+[33:07] money monetary system there are some
+[33:09] saying no it will stick around for a
+[33:11] long long while do you have any
+[33:13] predictions or any um thoughts on the
+[33:16] field
+[33:18] system well yeah so so I I happen to
+[33:21] like the US dollar um especially because
+[33:23] I have traveled to places where their
+[33:25] local currency is is not that good right
+[33:29] it hardly holds any value um it's kind
+[33:32] of absurd the largest denomination you
+[33:35] you can't even buy a cup of coffee
+[33:37] with um so the the dollar historically
+[33:40] has been one of the more responsible
+[33:43] responsibly managed V currencies um
+[33:46] maybe like the closest competitor to it
+[33:47] is the Swiss frank um
+[33:52] and uh when I when I you know talked to
+[33:55] people years ago who were saying oh the
+[33:57] dollar is going to collapse it's going
+[33:58] to disappear I thought no no you're
+[34:01] crazy right not not any time in the next
+[34:02] 50 years certainly um but then uh then
+[34:06] in 2020 right something changed um
+[34:10] the the people that are in charge of the
+[34:12] US dollar became a lot less responsible
+[34:14] with US Dollars and they also shut down
+[34:17] the US economy I thought well that's
+[34:20] actually the one possible condition that
+[34:22] could that could really damage the
+[34:24] dollar standing right um massively
+[34:27] increasing the supply and uh decreasing
+[34:30] the you know amount of goods and
+[34:32] services you can actually buy with that
+[34:34] dollar so so I am a lot more concerned
+[34:37] now um especially when you consider the
+[34:40] just the total amount of debt the
+[34:42] interest on the debt the fact that there
+[34:44] isn't any uh there isn't anyone that's
+[34:47] really serious about trying to get the
+[34:50] fiscal house in order um to put the
+[34:52] dollar back on the right track however
+[34:55] right the dollar has been so dominant
+[34:56] for so long um that even under
+[35:00] mismanagement it's it's going to be here
+[35:02] for quite some time right and look I
+[35:06] mean you've seen in other countries
+[35:07] right people people function even if the
+[35:09] currency is losing 10% of its value per
+[35:11] year it's not it's not ideal I certainly
+[35:14] don't think it's optimal it distorts
+[35:15] things but people can get by on that and
+[35:17] if they feel like they don't immediately
+[35:19] have a better alternative they go you're
+[35:21] actually seeing a lot more countries now
+[35:23] look at potentially switching to the
+[35:25] dollar simply because it's it's an
+[35:28] improvement right and also you have that
+[35:31] stability
+[35:32] because um that's why actually I'm an
+[35:35] advocate for um I mentioned this in the
+[35:38] simply Bitcoin podcast I'm an advocate
+[35:39] for tools that let people SE separate
+[35:42] the price of Bitcoin from the properties
+[35:44] of Bitcoin because there's some people
+[35:47] that want exposure to the price but not
+[35:49] the properties right these are just the
+[35:51] investors so for them right if they
+[35:54] wanted to invest in gold they don't want
+[35:56] a gold bar sitting around their house
+[35:58] they just want a piece of you know they
+[36:00] want a digital certificate that fits in
+[36:03] their existing stock portfolios and then
+[36:05] someone else you know deals with the
+[36:07] physical bar and the security and
+[36:08] insurance and making sure it's real um
+[36:11] so there's people who want that they
+[36:13] want the Bitcoin spot ETF so they don't
+[36:15] have to think about the properties of
+[36:17] Bitcoin they could just get the price
+[36:18] and then there's people who want the
+[36:20] properties of Bitcoin that they can hold
+[36:21] it themselves that it doesn't require an
+[36:23] account um but they don't want the price
+[36:26] to be going up and down because they
+[36:28] have expenses you know at the end of the
+[36:30] month that are denominated in dollars or
+[36:33] something roughly equivalent to dollars
+[36:34] or dollar is the the stablest thing they
+[36:37] can find right if you know you have an
+[36:39] expense of $1,000 a month there's no
+[36:42] amount of Bitcoin you could have that
+[36:44] guarantees you can make that thousand
+[36:47] payment see what I
+[36:49] mean if you have $2,000 of Bitcoin and
+[36:52] you owe $1,000 at the end of the month
+[36:55] what happens if Bitcoin drops more than
+[36:57] 50% by the end of the month then you
+[36:59] can't make that payment so that's where
+[37:03] certain tools I mean DLCs is the one I'm
+[37:05] most excited about discrete log
+[37:07] contracts um that that will let you
+[37:10] essentially offset that volatility so
+[37:12] you can get the properties to bitcoin
+[37:14] without the price fluctuation for the
+[37:15] people who can't handle it or don't wish
+[37:17] to or just don't want the accounting
+[37:22] headache interesting um because you
+[37:25] mentioned it quickly what are your
+[37:28] thoughts about this Bitcoin spot ETF
+[37:31] coming up uh in Gold histories it was a
+[37:34] big deal it was like a huge Catalyst for
+[37:37] priz and adoption uh do you imagine
+[37:39] something similar for
+[37:41] Bitcoin yeah I do think so the first
+[37:44] spot gold ETF was 2005 and the next
+[37:47] eight years were just gold going going
+[37:50] up from there
+[37:52] um and uh the thing about Bitcoin is
+[37:55] Bitcoin is actually a smaller Market
+[37:57] than gold is so it's possible that
+[37:59] will'll have an even more dramatic
+[38:01] impact on that um the other things that
+[38:04] people have mentioned is that with
+[38:06] multiple spot ETFs at the same time that
+[38:08] means there's a marketing budget right
+[38:10] these different entities want to compete
+[38:12] with each other and they have to try to
+[38:14] distinguish themselves and say no no no
+[38:15] you should buy mine you should buy mine
+[38:17] because they get to just collect fees
+[38:18] every year
+[38:20] for not not doing very much right that's
+[38:23] a good business basically they they hold
+[38:25] on to your money and they just take some
+[38:27] of it every year um they don't have to
+[38:31] make a lot of they're not trying to make
+[38:32] investing decisions or something right
+[38:34] it's a matter of marketing and
+[38:36] operations um and then the other thing
+[38:38] is just adds a lot more legitimacy it
+[38:41] really helps when uh other entities are
+[38:44] thinking about Bitcoin they say oh yeah
+[38:46] there's there's a spot ETF black rocks
+[38:49] um you know involved Fidelity involved
+[38:51] this kind of thing that that changes the
+[38:53] way it's perceived and potentially even
+[38:56] helps in terms of the regulatory
+[38:57] environment right because there's
+[38:59] there's still a risk that Bitcoin could
+[39:01] be outlawed and um a lot of people don't
+[39:05] realize that that's that's a concern but
+[39:07] you have to understand in the US they
+[39:09] the US outlawed alcohol when something
+[39:12] like 95% of Americans drink
+[39:17] alcohol so we're we're certainly not at
+[39:19] 95% of Americans using
+[39:21] Bitcoin um and even then we're we're not
+[39:24] out of the woods on that right so there
+[39:26] that's very disruptive that would drive
+[39:28] a lot of businesses
+[39:32] elsewhere but there's a difference
+[39:34] between outlawed and killing it uh do
+[39:38] you still think uh Bitcoin can be killed
+[39:40] by just outlawing
+[39:43] it
+[39:45] no so so yeah the the the cost to kill
+[39:49] Bitcoin has been rising right um
+[39:52] somebody in you know a board person in
+[39:55] 2009 maybe could have done if they
+[39:57] wanted to right and then in by you know
+[39:59] 2012 it would it would require an
+[40:02] eccentric millionaire and uh you know by
+[40:06] by 20 uh you know 2017 it requires you
+[40:10] know a small nation state
+[40:13] um we're not fully out of the woods here
+[40:16] um but it it just seems like the the
+[40:18] remaining entities that have the
+[40:20] billions of dollars necessary to disable
+[40:23] Bitcoin and the Machinery to disable
+[40:25] Bitcoin are no longer interested in
+[40:26] doing so right and at that point it
+[40:29] would involve you know cutting undersea
+[40:31] power cables um confiscating the assets
+[40:34] from ETFs and
+[40:36] exchanges um you know using uh weapons
+[40:41] um I don't like people to say anything
+[40:43] is Invincible because complacency is bad
+[40:46] and uh it is important to recognize that
+[40:49] there are entities around the world that
+[40:50] have nuclear
+[40:52] weapons we're fortunate that they're not
+[40:55] using them of course but they
+[41:00] can but they are way more like it would
+[41:04] be a way smarter move for them to join
+[41:07] it than to kill it like that's the whole
+[41:10] thing of the game here right exactly the
+[41:12] game theory of Bitcoin is pretty
+[41:14] beautiful that it actually makes much
+[41:15] more sense you see when a country is
+[41:18] saying we're we're pro Bitcoin all of a
+[41:20] sudden there's a lot more money a lot
+[41:21] more tourists flowing in there um if
+[41:24] they say they're anti- Bitcoin that that
+[41:26] doesn't help them at all and certainly
+[41:28] for a country uh recently Samson said he
+[41:32] was in suram and talked to the president
+[41:34] there and jam was apparently considering
+[41:38] putting 1% of their reserves into
+[41:40] Bitcoin and the nice thing about that is
+[41:42] from their perspective they might not
+[41:44] believe in Bitcoin right so maybe they
+[41:45] think oh Bitcoin doesn't go anywhere or
+[41:47] goes down well they're only risking 1%
+[41:49] right but if Bitcoin does do really
+[41:52] really really well as many people think
+[41:54] it you know it could from here um that
+[41:57] 1% could become 20% 50%
+[42:01] 90% uh so it it's still that asymmetric
+[42:04] B it still makes more sense for entities
+[42:08] to think I should have a little and just
+[42:10] in case and then that that changes it
+[42:13] that point they they're not against it
+[42:15] right they're more open to it um we we
+[42:19] still kind of have this problem where
+[42:20] there entities like there's some um
+[42:23] newspapers right they think oh we can't
+[42:25] allow any of our Journal to own any
+[42:27] Bitcoin because they'll be biased the
+[42:29] problem is the journalists own dollars
+[42:32] right so if the Bitcoin and the dollar
+[42:33] are competing to some degree then they
+[42:36] are very much biased right like if
+[42:39] somebody has all their stock in oil
+[42:40] companies and they're not alow allowed
+[42:42] to own any stock in Tesla and then you
+[42:44] expect them to be unbiased writing
+[42:45] articles about Tesla no they're they're
+[42:47] very much they're very much biased there
+[42:49] so that hopefully that you know that
+[42:52] will change over time right that people
+[42:54] will realize that um you know nobody's
+[42:56] unbiased here so you should at least
+[42:58] have a little exposure to this and then
+[43:00] people can consider okay what do I think
+[43:03] of this and it doesn't have to be based
+[43:05] on trying to talk up their
+[43:08] book and wouldn't you not even prefer
+[43:12] information from someone that has
+[43:14] exposure because this person most likely
+[43:17] has done more research than a person
+[43:20] that has no exposure at all like just
+[43:22] from my point of view of course it's
+[43:24] it's also uh
+[43:27] interesting to see the opposite view
+[43:29] then just just to to get the whole to
+[43:32] get the whole point but like I wanted to
+[43:35] have like when I see someone speaking
+[43:38] about it about something and they don't
+[43:41] have exposure at all to the thing they
+[43:44] are speaking about I'm like you you you
+[43:46] don't even like you're not involved like
+[43:49] why are you talking about
+[43:51] that yeah yeah I mean
+[43:53] that that is it right at least at least
+[43:56] people should send one Bitcoin
+[43:58] transaction right or you know set up 12
+[44:01] words on a Harware wallet at least to
+[44:03] just know what they're talking about um
+[44:05] that's been one of the the frustrating
+[44:07] things I've run into because sometimes I
+[44:08] have spent time talking with uh you know
+[44:12] people who just hate Bitcoin right I I
+[44:14] call them no coiners and I tell them
+[44:16] like you know you're telling me that uh
+[44:18] you know 90% of transactions on
+[44:20] Lightning fail and I'm like okay well
+[44:22] it's not 90% of my transactions that
+[44:24] fail is it 90% of your transactions that
+[44:26] fail and they're like well I've never
+[44:27] sent one I'm like well can I can I send
+[44:29] you one now no no no no you know so they
+[44:32] um some people just seem really
+[44:34] committed to uh to staying in their
+[44:37] bubble they they don't want any facts to
+[44:39] break through uh because it can be
+[44:42] disturbing when you realize you are
+[44:44] wrong about something and that's
+[44:45] happened to me in my life where I
+[44:47] realized you know some thought I I I
+[44:50] believe for a long time it turns out
+[44:51] it's not true I was wrong um and that
+[44:54] that doesn't feel good right right
+[44:56] initially right but then you realize
+[44:57] okay but I'm less wrong than I was
+[44:59] before so that's
+[45:01] progress um the good thing is we don't
+[45:04] need to convince those people right the
+[45:05] people who are completely opposed to
+[45:08] bitcoin no matter what they don't need
+[45:10] to be brought along for the ride they're
+[45:11] not 99% of the population they were just
+[45:14] a different 1% than the 1% of people who
+[45:17] love Bitcoin for some
+[45:20] reason my story was that I was actually
+[45:24] like I was a stock investor I was uh
+[45:27] someone that was really highly Val
+[45:30] valuing the stock flow like the the the
+[45:34] the revenue the profits and if it did
+[45:37] not had a cash flow I did not invest in
+[45:41] it and so in 2020 more and more people
+[45:44] came up to me and what are you thinking
+[45:46] about this Bitcoin thing and I said no
+[45:50] it's a scam I don't like it and then I
+[45:53] was going to from more and more
+[45:55] arguments and I was discovering I don't
+[45:57] have any arguments actually so I was on
+[45:59] the journey like finding arguments
+[46:01] against Bitcoin and I was discovering
+[46:03] that I was just wrong that was a hard
+[46:05] thing to to do when you are telling
+[46:08] people and friends that Bitcoin is a
+[46:10] scam and then you research about it and
+[46:12] you're like oh [ __ ] I should have
+[46:15] researched before I open my mouth and
+[46:17] also my guest I think three weeks ago or
+[46:20] three episodes ago said you should not
+[46:22] have a valid opinion on bitcoin if you
+[46:24] did not study it at at least for 250
+[46:28] hours so right but then but then becomes
+[46:31] the challenge right because if someone
+[46:33] says to you oh you can't have an opinion
+[46:35] on uh on China unless you've lived there
+[46:37] for five years well you know that you
+[46:40] know or someone says oh you know you
+[46:42] can't you know someone is you know
+[46:44] taking hallucinogenic drugs and they
+[46:46] insist you can't have an opinion on that
+[46:47] unless you do it also right that that
+[46:49] becomes that becomes a problem right
+[46:51] because some some things you can do
+[46:53] without it you know potentially having a
+[46:56] massive negative impact on yourself
+[46:59] so that's all right so I you know I
+[47:02] would I don't think it's fair to say to
+[47:03] someone oh you need to have a lot of
+[47:05] Bitcoin or something you need to be
+[47:06] deeply invested in it to have an opinion
+[47:08] but just to just to learn a little bit
+[47:11] um and with an open mind just to
+[47:13] interact with it in some way a little
+[47:15] bit I think that is really
+[47:17] helpful
+[47:19] um yeah so so for me um my uh a long
+[47:23] time ago I was on a Commodities trading
+[47:25] floor
+[47:26] and uh it was it's pretty amazing to see
+[47:29] people trading trading gold over there
+[47:32] trading oil over there trading sugar
+[47:34] over there trading cotton over there and
+[47:37] each area of the floor it's just people
+[47:39] running around waving their
+[47:40] arms you know and uh asked somebody I
+[47:44] said what's the price of sugar and
+[47:45] they're like 13 I said 13 what and
+[47:47] they're like I don't
+[47:50] know because the unit doesn't matter you
+[47:53] know they bought 13 they sold 14 they
+[47:55] made money
+[47:57] money um bought the amount of sugar like
+[48:01] was a kilo what what was
+[48:04] 13 yeah I mean the usually the contract
+[48:06] sizes were were like pretty large maybe
+[48:09] around
+[48:10] $100,000 right so um like the the
+[48:14] standard uh contract for gold was 100
+[48:17] ounces of
+[48:19] gold right the standard contract for for
+[48:22] oil is uh I think th th barrels of
+[48:27] oil so you know those are those are
+[48:30] pretty large
+[48:31] quantities
+[48:33] um but uh so what I found was the uh the
+[48:37] Commodities people a whole bunch of the
+[48:39] people I knew from back then they they
+[48:41] ended up making their way over to
+[48:42] bitcoin and I think it was easier for
+[48:44] them to understand it right because they
+[48:46] were they were thinking they weren't
+[48:47] thinking in terms of cash flow and they
+[48:49] were a little more open to hey this is
+[48:52] just a different thing I can buy and
+[48:54] sell um
+[48:56] whereas people from the the stock stock
+[48:58] environment I yeah they're looking at
+[49:00] they like where's the yield here right
+[49:02] this that doesn't that doesn't make
+[49:03] sense if I just buy some gold bars why
+[49:05] should I expect those to be worth a lot
+[49:07] more in the future and really you
+[49:09] shouldn't right
+[49:12] uh so so you know sometimes you do have
+[49:15] Commodities rallies but the thing is
+[49:17] commodity rallies and then they they can
+[49:19] dig up more of it they can produce more
+[49:22] of it they can melt it down from
+[49:24] different places they can figure F out
+[49:25] how to use less of it right when copper
+[49:27] rallied dramatically they figured out
+[49:29] how to redesign air conditioners to use
+[49:31] less copper um when the price of oil
+[49:34] went above $100 a barrel they realized
+[49:37] oh well this Canadian shell is now
+[49:40] viable that wasn't before so we just
+[49:42] have way way way way more oil than
+[49:45] anybody really really thought they did
+[49:48] um you know at a certain price of gold
+[49:50] you can just extract it from ocean water
+[49:53] basically it's just not economically
+[49:56] viable to do so and anywhere near the
+[49:58] current
+[49:59] prices right there are asteroids out
+[50:01] there that potentially have incredible
+[50:03] amounts of different precious metals um
+[50:05] just the cost of retrieving them is uh
+[50:07] is very high
+[50:10] so uh Bitcoin really is kind of unique
+[50:12] in that the Bitcoin price runs up yeah
+[50:15] more people go into Mining and maybe
+[50:17] maybe they're being stupid right maybe
+[50:19] too many people are mining but it
+[50:21] doesn't matter if hundred times more
+[50:23] people are mining they don't produce any
+[50:24] more Bitcoin
+[50:27] whereas if you look at some of the
+[50:28] classic gold rushes right they
+[50:30] discovered gold and you know late 1840s
+[50:33] in California people come from all over
+[50:35] the world to start digging up that gold
+[50:38] and uh yeah they get a lot more gold a
+[50:41] lot more hits the supply of the market
+[50:44] um regardless of whether you know most
+[50:46] of those people ended up making a lot of
+[50:48] money or not some people did but a lot
+[50:49] of people
+[50:51] didn't um so so yeah I I I think the
+[50:55] reason that Bitcoin has had outsize
+[50:57] returns and may have some outsize
+[50:58] returns left is simply because it's it's
+[51:00] just undervalued right it's it's kind of
+[51:03] like going to uh you know South America
+[51:05] in the 1500s or something and there's
+[51:08] just plentiful gold and it's not as
+[51:10] valued as highly as it was in Europe at
+[51:12] the time so they can trade other
+[51:14] commodities for gold at uh at very
+[51:16] favorable prices right and come back to
+[51:18] Europe and be rich
+[51:21] um so I think there's this basically
+[51:23] onetime thing that Bitcoin is very
+[51:26] undervalued relative to what what it's
+[51:28] worth once people recognize what it is
+[51:30] once there's a large circular economy in
+[51:32] it um so you can buy Bitcoin at that
+[51:36] discount right so you can think of let's
+[51:38] say you know whatever put pick some
+[51:40] number right let these people have been
+[51:41] running around saying a million dollars
+[51:43] so let's say you know you're you're
+[51:45] buying Bitcoin at 10,000 you're buying
+[51:46] no you're buying at a 99% discount right
+[51:51] and if you're buying it at 50,000 you're
+[51:52] buying at 95% discount right and if you
+[51:56] buying Bitcoin at you know 500,000
+[51:58] you're buying a 50% discount cool but if
+[52:00] you buy Bitcoin at a million dollars
+[52:02] there's in this scenario right there's
+[52:04] no reason to think you're going to make
+[52:05] money from that or at least not in
+[52:07] excess of any other particular
+[52:09] investment once it gets closer to a fair
+[52:12] value then you can have those outsize
+[52:15] returns right and people want to say
+[52:16] well it could keep going up in dollar
+[52:18] value forever yeah well that's true
+[52:20] right but by this the same thing you
+[52:23] know you can say oh well in Zimbabwe
+[52:24] dollars you know you're a trillionaire
+[52:26] but that doesn't mean anything the
+[52:27] question is how much food can you buy
+[52:29] how much land can you buy right can you
+[52:31] buy a house with a Bitcoin and I could
+[52:33] certainly see a scenario where a Bitcoin
+[52:35] buys a nice house but I don't see a
+[52:37] scenario in which Bitcoin buys 10,000
+[52:39] nice
+[52:40] houses that just doesn't make
+[52:43] sense are we reaching fair value when
+[52:48] everybody adopted Bitcoin like what's
+[52:51] where is the stop for Bitcoin where's
+[52:53] the fair value reached
+[52:57] um yeah that that's a that's a tricky
+[52:59] question right and people have
+[53:00] approached it different ways um
+[53:04] one question before that is you know
+[53:07] what percentage of people are going to
+[53:10] be part of this Bitcoin economy right
+[53:12] and there's the tendency for bitcoiners
+[53:15] to say oh well you know bitcoin's either
+[53:17] going to be wildly successful or total
+[53:19] failure and uh even Satoshi said
+[53:21] something like that he said oh yeah you
+[53:23] know in the future there'll either be a
+[53:24] very large transaction volume or none at
+[53:26] all but it doesn't have to be that
+[53:29] that's uh it doesn't have to be one
+[53:31] extreme or the other right maybe Bitcoin
+[53:33] is successful but it doesn't become the
+[53:35] world currency maybe it just is used by
+[53:38] you know millions of people and that's
+[53:40] it or it's used by a billion people I
+[53:42] mean even if Bitcoin is used by a
+[53:44] billion people that's still the majority
+[53:46] of the world never uses
+[53:47] it so is that a success is that failure
+[53:50] I think it's I think it's a pretty good
+[53:52] success maybe it's not the full
+[53:54] potential um um but I think it still
+[53:56] could be fine um so it really
+[53:59] depends on bitcoin's ability to scale
+[54:02] and to build some other
+[54:05] improvements that will make it more
+[54:07] practical for regular people as well as
+[54:09] you know have regular people getting
+[54:10] more security um on their uh on their
+[54:14] computers and phones as I said
+[54:16] because right now it's it's not good
+[54:18] enough right people still have the
+[54:20] mentality of oh I'll just I forgot my
+[54:22] password I'll ask them to reset it or
+[54:25] you know some random person calls them
+[54:26] and they start giving them all sorts of
+[54:29] sensitive information um as long as
+[54:31] we're in that scenario it's it's still
+[54:34] it's still more difficult uh for people
+[54:36] to be able to handle digital bear or
+[54:38] cash in this in this
+[54:41] way um so so yeah I don't I don't know
+[54:44] what the I don't know what the fair
+[54:45] value is I I mean my kind of internal
+[54:47] estimate is you know one Bitcoin equals
+[54:49] one nice house and land but you know it
+[54:53] could it could be higher than that
+[54:54] because
+[54:55] you could look at things like okay maybe
+[54:57] the total addressable Market is actually
+[54:59] more than a billion people right because
+[55:01] now we see with artificial intelligence
+[55:04] with robots um it makes much more sense
+[55:07] for them to use something like Bitcoin
+[55:09] than it does any other currency right um
+[55:12] I I I can't imagine chat GPT is going to
+[55:15] run around paying for API access or for
+[55:17] data sets using gold coins or credit
+[55:21] cards or bank accounts or paper currency
+[55:25] see you know writing checks the doesn't
+[55:29] make sense you know even if the
+[55:31] traditional Fiat system could
+[55:32] accommodate it they wouldn't or they
+[55:35] won't in a reasonable amount of time um
+[55:37] whereas just Bitcoin simply natively
+[55:40] Works uh it's kind of funny with things
+[55:43] like Amazon Turk where they're kind of
+[55:46] farming out microtasks to people um
+[55:50] there's things like that right if you're
+[55:52] paying in Bitcoin then it kind of works
+[55:54] you don't know what whether you're
+[55:55] paying a robot or a person or what
+[55:57] country they're in exactly um it kind of
+[56:00] abstracts that away it works much nicer
+[56:02] than any traditional system right
+[56:04] already we see with companies that are
+[56:06] spread out with their employees all over
+[56:08] the world Bitcoin is actually the
+[56:10] easiest way to do
+[56:11] it so so it's possible we have a
+[56:14] addressable Market that's much much
+[56:16] bigger than anybody thinks which would
+[56:18] be neat we'll see what see what that
+[56:20] looks
+[56:22] like I think that's a a great way to end
+[56:25] it we have a end routine on the podcast
+[56:28] where the previous guests previous guest
+[56:31] asks the next guest without knowing who
+[56:34] the next guest is uh question and the
+[56:37] question for you is what is proof of
+[56:40] work for you and you can interpret it uh
+[56:43] and uh take it wherever you want you
+[56:47] want to take
+[56:48] it um yeah I mean I I I I like the
+[56:54] bitcoin's proof of of work it's actually
+[56:56] pretty elegant and and that you have
+[56:58] something that's uh you know you can
+[57:00] adjust the difficulty to whatever you
+[57:01] want and people can verify it very
+[57:04] easily without having to actually
+[57:05] recreate all that work um I actually
+[57:09] know someone who's uh you know Fitness
+[57:11] fitness instructor personal uh you know
+[57:14] just you know coaching and so on and he
+[57:16] created a proof of work telegram group
+[57:18] recently and
+[57:20] um you know it's uh it's pretty cool
+[57:23] that people are showing like their their
+[57:25] Fitness gains as a result of putting in
+[57:27] the work right and those um you know the
+[57:29] muscles are that proof of work so uh I
+[57:32] think it's a you know neat metaphor to
+[57:34] to take over into life like what do you
+[57:36] have to show that you you actually have
+[57:38] been showing up every day and doing
+[57:42] something it's a it's a great way to end
+[57:44] it uh where can people find you if they
+[57:47] want to hear more about you or see more
+[57:49] about you yeah the the best place right
+[57:52] now Still Remains Twitter so that's dka
+[57:56] 218 um I assume you can you can post
+[57:59] that my DMs are open and uh you know
+[58:01] always happy to talk about Bitcoin or
+[58:04] related
+[58:06] topics yeah I L it thank you
+[58:09] Daniel S this is fun

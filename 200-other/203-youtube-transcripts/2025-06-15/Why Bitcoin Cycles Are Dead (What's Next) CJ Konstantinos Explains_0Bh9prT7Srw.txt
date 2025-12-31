@@ -1,0 +1,2631 @@
+Title: Why Bitcoin Cycles Are Dead (What's Next?) CJ Konstantinos Explains
+Video ID: 0Bh9prT7Srw
+URL: https://www.youtube.com/watch?v=0Bh9prT7Srw
+Date Saved: 2025-06-15 11:36:52
+--------------------------------------------------
+
+[00:00] It's undeniable that the cycle is
+[00:02] maturing. You know, by this time in
+[00:04] previous cycles, price would really
+[00:06] start be popping off to extreme premiums
+[00:09] to cost of production. So, the where we
+[00:11] are in the cycle to me based on price
+[00:13] performance is signaling that something
+[00:16] in the cycle is changing. The people's
+[00:18] reserve Bitcoin bond is designed to
+[00:20] unlock that equity. The maturation value
+[00:22] plus the interest paid over that 5-year
+[00:23] note time will equal your principal
+[00:25] investment, which was the 500,000.
+[00:27] raising Bitcoin up, officially evolving
+[00:29] it from that digital gold to pristine
+[00:32] collateral. Not that just you can borrow
+[00:34] against your Bitcoin, but that you can
+[00:36] borrow against your Bitcoin at the most
+[00:38] competitive interest rate in the world.
+[00:40] If you're in Bitcoin, you should run a
+[00:41] node. The amount of nodes there are
+[00:43] relative to Bitcoin users is not good
+[00:45] enough. So my position would be if you
+[00:47] want to take away OP return data limits,
+[00:50] do it when Bitcoin's at the top of the
+[00:51] S-curve. Because at the top of the
+[00:53] S-curve, you have taken away all bad
+[00:55] actor incentive. They hate that the
+[00:57] wealth gap between the 1% and the normal
+[00:59] person is growing. They hate that so
+[01:02] much that it drives them to love Bitcoin
+[01:04] because it solves that problem.
+[01:08] [Music]
+[01:10] Hi SK back on the show. Hello. Hello.
+[01:14] Thanks for having me back. It's great to
+[01:16] be back man. You've been killing it. I
+[01:18] love what you're doing for the community
+[01:19] and you deserve all the success that you
+[01:21] have and that you continue to grow with.
+[01:23] Oh, thank you so much. Yeah, it's it's
+[01:25] the third time. I think you're the first
+[01:27] guest that has been on a second time and
+[01:29] you're also the first guest that has
+[01:31] been now on a third time. Uh you only
+[01:34] you beat Gary Gdon for like like two
+[01:37] weeks. So I will have in two weeks Gary
+[01:39] Gdon of the third time on. So yeah, it's
+[01:41] it's it's really great to to have you
+[01:43] and I always enjoy talking with you. Oh,
+[01:45] perfect. You know, it's funny. I I
+[01:47] actually met Gary at a Naples Bitcoin
+[01:50] conference and we sat at the same table
+[01:53] and they had this uh acronym competition
+[01:55] and Gary, myself and Trey Sellers from
+[01:58] Unchained. We ended up winning the
+[02:00] competition and the acronym we came up
+[02:01] with was uh for Bitcoin is buy it today
+[02:05] cuz opportunity is now. And I think that
+[02:08] conference was taking place with Bitcoin
+[02:10] like under
+[02:11] $30,000. So not only did we come up with
+[02:13] a great acronym, but we were right. And
+[02:15] Bitcoin is chugging along, baby.
+[02:18] Amazing. Uh, on that topic, on that
+[02:21] note, what are you currently uh most
+[02:23] bullish on? I think it has been like
+[02:24] half a year, like maybe eight months,
+[02:26] something like that since you last been
+[02:28] on. Yeah. Oh, so much has happened. I
+[02:31] mean, it's it's funny like you look at
+[02:34] human years and dog years, right? And
+[02:35] dog years is like you get one year of
+[02:37] dog years, seven human years, they say,
+[02:39] right? Well, it's like the same thing
+[02:41] with like traditional finance and
+[02:43] Bitcoin. what we see going on in
+[02:44] Bitcoin. It's like seven years of things
+[02:47] happen in one year in Bitcoin and Trafi
+[02:50] is just they they've had it good for so
+[02:52] long that they're oblivious to what's
+[02:53] happening. It's amazing that Bitcoin is
+[02:55] well over
+[02:56] $100,000 after dipping from 100 down to
+[02:59] 70 with many many people calling for
+[03:02] lower lows and elongated bare market. It
+[03:05] just turns out that we just happen to be
+[03:06] right back where we were. So all of that
+[03:09] happening over that course of the time
+[03:10] frame, you know, the thing that I find
+[03:12] interesting is that to me it's
+[03:15] undeniable that the cycle is maturing.
+[03:18] You know, by this time in previous
+[03:20] cycles, price would really start be
+[03:22] popping off to extreme premiums to cost
+[03:25] of production. I mean extreme premiums.
+[03:27] And in some cases depending on your in
+[03:30] your setup and even if you don't use
+[03:32] cost of production but you use Bitcoin
+[03:33] fair value price is still at a discount
+[03:36] to Bitcoin fair value. So some miners
+[03:38] are kind of barely profitable looking in
+[03:41] that 80 to 95,000 range depending on
+[03:43] your setup and and your opex and capex
+[03:46] costs. Uh so so at small premiums and
+[03:48] then based on Bitcoin fair value still
+[03:51] at extreme discounts. So that where we
+[03:53] are in the cycle to me based on price
+[03:56] performance is is signaling that
+[03:59] something in the cycle is changing. And
+[04:02] to me it goes back to what I said before
+[04:04] which is yeah we're moving out of the
+[04:05] commodity phase and we're moving into
+[04:07] the money phase. So we're no longer
+[04:09] going to go in this real short commodity
+[04:12] cycle but through the monetization and
+[04:15] financialization of Bitcoin we're now
+[04:17] moving into a credit cycle. And that's
+[04:19] what you're seeing right now. A bunch of
+[04:22] uh Bitcoin lending companies are now
+[04:24] starting to get into the game. We've
+[04:26] seen Jack Mullers hop out and talk about
+[04:28] Strikes Lending product. We have other
+[04:30] lending companies uh getting into the
+[04:32] game. We have Bitcoin treasury companies
+[04:34] doing reverse mergers uh and
+[04:36] accelerating that. So on all fronts, the
+[04:38] monetization and financialization of
+[04:41] Bitcoin is accelerating. I believe those
+[04:43] are the main drivers that are actually
+[04:45] leading to the change or or I would say
+[04:49] the maturation of the cycle itself where
+[04:52] we get these boring periods. You know,
+[04:54] Bitcoin went up to 108 109 came back
+[04:57] down to the to the mid
+[04:59] low70s. Uh and in previous cycles, this
+[05:03] correction would not have lasted this
+[05:05] long. We would have we would have
+[05:06] corrected that big. Players would have
+[05:08] been washed out and we would have ripped
+[05:10] back up a lot faster. But the the
+[05:12] distribution phase in these cycles is
+[05:15] showing you that it's no longer OGs and
+[05:18] whales and exchanges and and uh free
+[05:21] market makers playing in this market.
+[05:24] There are big institutional players,
+[05:26] institutional accumulators and therefore
+[05:29] the supply demand dynamics are changing
+[05:31] and the cycle dynamics are changing with
+[05:34] that supply demand dynamic. though it's
+[05:36] exciting to be a Bitcoiner at this time
+[05:37] because I don't think we're going to get
+[05:39] those big pullbacks that everybody has
+[05:42] anticipated in the past. Sure, we're
+[05:44] going to get the pullbacks. That's the
+[05:45] regular part of price discovery, but
+[05:48] truly we are watching the maturation of
+[05:51] the marketplace of the asset class
+[05:54] through the monetization and
+[05:55] financialization of Bitcoin. And I
+[05:57] think, you know, with people's reserve
+[05:58] advent later this summer, uh, raising
+[06:01] Bitcoin up, officially evolving it from
+[06:04] that digital gold to pristine
+[06:06] collateral, not that just you can borrow
+[06:08] against your Bitcoin, but that you can
+[06:09] borrow against your Bitcoin at the most
+[06:12] competitive interest rate in the world.
+[06:15] Really interesting. I I love that you
+[06:17] say like commodity to money cycle, which
+[06:20] is super interesting and I don't hear a
+[06:22] lot of people talk about that. what are
+[06:24] the implications that we're now in in
+[06:26] this this money cycle. You already
+[06:28] talked about the lower pullbacks but
+[06:30] it's this like bigger institutional
+[06:32] players. I also saw the same thing where
+[06:35] like okay we are seeing a bull run but
+[06:38] the excitement is not there uh from a
+[06:40] retail crowd. I feel like if you look at
+[06:42] Google trends I it's like very low and
+[06:45] it's also I don't know if you have
+[06:47] experienced the same thing but when I
+[06:49] looked outside of the Bitcoin bubble
+[06:51] when we first reach I think like 5th of
+[06:54] December the 100k mark nobody cared
+[06:57] outside of Bitcoin like nobody was like
+[06:59] yeah of course 100k like people were
+[07:02] like that's the normal thing ever I
+[07:03] thought 100k is like a a huge point for
+[07:06] the mainstream media. Yeah, absolutely.
+[07:09] That nobody I mean in Bitcoin in Bitcoin
+[07:12] X, you know, we're all excited. We know
+[07:14] what's happening. We're watching it
+[07:16] happen with our own eyes and it feels
+[07:18] like a fairy tale. You know, you go out
+[07:19] to a family event or a church event or
+[07:23] with your friends and nobody's talking
+[07:25] about Bitcoin. Nobody is talking about
+[07:28] what's happening in the financial
+[07:29] system. Most people, if they're talking
+[07:31] about anything, happens to be, at least
+[07:33] here in the United States, happens to be
+[07:35] with like Trump tariffs and some people
+[07:38] are actually getting into interest
+[07:39] rates, which is it's pretty funny to
+[07:41] hear normal people talk about interest
+[07:43] interest rates and and and bond
+[07:46] vigilantes and and lack of treasury
+[07:48] debt. So, it's amazing how the
+[07:51] conversation in the mainstream has
+[07:52] matured itself, but at the same time,
+[07:55] it's like they really don't understand
+[07:57] what they're talking about, right? It's
+[07:58] like every once in a while you get that
+[08:00] trending topic and then everybody
+[08:02] becomes a professional doctor or a
+[08:04] professional lawyer because the topic is
+[08:06] trending and everybody's got to put in
+[08:07] their opinion and we're not we're not
+[08:09] anywhere near that right now. Like you
+[08:11] get lucky if you hear a Bitcoin
+[08:13] conversation. You get lucky if you hear
+[08:15] a economic or interest rate conversation
+[08:19] but you are starting to hear them and
+[08:21] that rate of luck is starting to
+[08:23] increase which I think is a signal that
+[08:25] uh things are really going to start
+[08:26] heating up here and Fortunately, you
+[08:28] know,
+[08:30] $100,000, a lot of people think that uh
+[08:33] that's a lot of money for a Bitcoin. So,
+[08:35] they're waiting, right? A Bitcoin's 103,
+[08:37] it's 104. That's so expensive. I'll just
+[08:40] wait for it to come back down. But I in
+[08:42] my opinion, the way I see this playing
+[08:44] out is the next stop for Bitcoin is the
+[08:48] price of a single family home. And
+[08:50] that's that's when I think regular
+[08:51] people are going to wake up. At least
+[08:52] here in the United States. I think the
+[08:54] median price of a single family home
+[08:55] here in the United States is like 400 to
+[08:58] 450,000. So I I anticipate that when
+[09:00] Bitcoin gets to 400 to
+[09:02] 450,000, a lot more people are going to
+[09:04] be paying attention because once we go
+[09:06] beyond that
+[09:07] level, it's going to be it's going to be
+[09:09] almost impossible for the everyday
+[09:11] person to accumulate a whole Bitcoin. I
+[09:14] mean, Janet Yellen, who was not my
+[09:16] favorite Secretary of the Treasury, she
+[09:18] did have at least one good quote, and
+[09:20] that quote was that Americans most
+[09:22] important source of wealth is in their
+[09:24] home equity. So, in order for a person
+[09:27] to buy a home, most people are using a
+[09:29] mortgage, and then that home becomes
+[09:31] almost like their savings account. And
+[09:34] it takes a lifetime. It takes 30 year
+[09:37] mortgages, 30-year pledge of working and
+[09:39] paying to accumulate your home. Well,
+[09:42] Bitcoin is about to cost more than a
+[09:44] home. And I think that realization of
+[09:46] wow, I thought I thought the most
+[09:48] expensive thing I would have to pay for
+[09:50] in my life is my home. But instead, it's
+[09:53] actually going to be access to savings
+[09:55] technology because we live in a world
+[09:57] where the ability to save has been
+[09:59] stripped away by the system itself. And
+[10:01] in order for the system to maintain a a
+[10:04] semblance, I don't want to say
+[10:06] stability. Let's let's say in order for
+[10:07] the system to maintain status quo,
+[10:09] they're going to need need to keep
+[10:11] printing money. Therefore, there is no
+[10:13] savings vehicle in the world that let
+[10:16] you outpace inflation, the true rate of
+[10:18] inflation, which is the expansion of
+[10:20] currency units. So, Bitcoin being this
+[10:22] savings technology, I think that's in
+[10:24] our minds, like in in Bitcoiners minds,
+[10:27] yeah, we're going from digital gold to
+[10:28] pristine collateral. But if I go up to
+[10:30] normal person and say the words pristine
+[10:32] collateral, they'll look back at me like
+[10:33] I'm speaking another language. They have
+[10:35] no idea what that means. But when they
+[10:37] realize that, hey, it's harder to
+[10:39] accumulate one bitcoin than it is a
+[10:41] single family home, that's going to set
+[10:44] off some of the light bulbs uh and help
+[10:46] people understand what's really
+[10:48] happening here. So, it's really
+[10:49] interesting that it took 16 years to go
+[10:52] from 0 to
+[10:54] $100,000. What about the next
+[10:56] $100,000? I think we can get the next
+[10:58] $100,000 in less than 16 months. So 16
+[11:02] years to get the first 100,000. Most
+[11:06] likely less than 16 months to get the
+[11:08] second 100,000. And then from that point
+[11:11] forward, uh the only the only way is up.
+[11:15] Especially with the way the US
+[11:16] administration is talking about Bitcoin,
+[11:19] global adoption of Bitcoin is going up.
+[11:21] The supply is just not there. And at
+[11:24] some point in time, we will have a
+[11:26] repricing of the entire asset class. And
+[11:28] that's the move you don't want to miss
+[11:30] because it's going to be much higher
+[11:31] than a single family home. I think I
+[11:33] think we go to the seven-digit level and
+[11:35] that will be your next psychological
+[11:36] level, that million-doll level where we
+[11:39] have to have another thing since they we
+[11:40] hit 100, right? We first hit 100 and we
+[11:42] we mellow out. We go through
+[11:44] distribution, we bounce up and down. I
+[11:46] think single family home million
+[11:48] distribution mellow out. Uh and that
+[11:51] mellowing out could take a while. Uh or
+[11:53] or it could accelerate through. I don't
+[11:55] know. These Bitcoin treasury companies,
+[11:56] I think, are the are the variable that
+[11:58] we need to keep our eyes on because
+[12:00] remember, it's not just retail anymore.
+[12:02] It's not just the mom and pops who are
+[12:03] going to wake up. It's going to be the
+[12:05] rest of the world. It's going to be all
+[12:07] the small and medium-sized businesses.
+[12:09] Every single publicly traded company
+[12:10] that you know or has a ticker is going
+[12:14] to play a role in accumulating Bitcoin
+[12:16] because if they don't, they're going to
+[12:18] get left behind. I love the importance
+[12:20] of this like one bitcoin and I know it's
+[12:22] an arbitrary number like you could pick
+[12:24] any number but like round numbers are
+[12:27] really important for human psychology
+[12:29] and I think a lot of people still have
+[12:31] the goal of like getting to one bitcoin
+[12:33] and let's be honest like 100k is for the
+[12:37] average person almost unreachable
+[12:40] already. I mean, maybe for the average
+[12:42] person in the US it's possible, but like
+[12:44] average person worldwide, it's it's very
+[12:47] hard for them already to get like the
+[12:48] one Bitcoin. And it it's super
+[12:51] interesting that you cap that with like
+[12:53] a a single family home because I think
+[12:55] that's like a really good comparison. A
+[12:58] lot of I don't know how it is in
+[13:00] America, but probably the this the same
+[13:02] thing as you already said in Austria, in
+[13:04] Europe, it's like the home is kind of
+[13:07] your savings account and your pension
+[13:09] plan. And uh this this couldn't I I I I
+[13:13] really think we should now shift to
+[13:15] Bitcoin. That might have been a good
+[13:16] strategy like 50 years ago. Uh but now
+[13:19] Bitcoin is is is kind of the better
+[13:21] strategy. And getting one Bitcoin above
+[13:24] the value of a single family home will
+[13:26] also put it close and closer to gold.
+[13:30] Closer and closer to be the single most
+[13:32] valuable asset. I think that's also
+[13:34] another flipping point. When Bitcoin
+[13:36] flips gold, that that will be massive
+[13:38] also. Yeah, I mean you're I mean that's
+[13:40] a 10x from here. So if we want to flip
+[13:43] gold, we got to get over 20 trillion
+[13:45] market cap. And I think gold's well
+[13:48] above 20 trillion right now where it's
+[13:49] trading, which is a clear signal to the
+[13:51] marketplace. You know, um Fed chairs
+[13:54] have always, if you go back and you read
+[13:56] some of their work or listen to what
+[13:57] they've said, the best ones always
+[13:59] looked at gold to measure monetary
+[14:01] policy and and if you can make the
+[14:03] dollar stable against gold, you have you
+[14:05] have proper monetary policy. But if the
+[14:07] price of gold is going up against the
+[14:09] dollar, then the policy is too loose.
+[14:13] You need to tighten and you need to
+[14:14] strengthen the dollar and and bring the
+[14:16] gold price back down. But as you well
+[14:18] know, we cannot do that here in the
+[14:20] United States. We cannot raise interest
+[14:22] rates. Number one, because the entire
+[14:24] real estate market here in the United
+[14:27] States is frozen. Most people during the
+[14:30] zero interest rate policy years were
+[14:32] able to attain a very low interest rate.
+[14:35] I mean, some of them as low as 2%, but
+[14:37] most in the 2 to 4% area. Today, if you
+[14:40] want to get a mortgage in the United
+[14:42] States and you have a pretty decent
+[14:44] credit score, you're going to be in like
+[14:45] the 6 to 7 or 8% range, depending on
+[14:48] your credit score and relationship with
+[14:50] the bank. So, that the the the most
+[14:52] qualified buyers are getting in that 6%
+[14:55] range. And that is 50% more than the 4%
+[14:59] of the higherend range of before. So
+[15:01] those those higher qualified borrowers,
+[15:03] they're in the 2 to 3% range and maybe
+[15:06] they've been doing well and they want to
+[15:07] upgrade from, you know, they they they
+[15:09] started out in a 2,000 square foot
+[15:11] single family home, they upgraded to a
+[15:13] 4,000 foot home and now their family's
+[15:16] grown a little bit and they're looking
+[15:17] to get into a bigger home with some more
+[15:19] space, maybe um a space with an extra
+[15:22] property for some people that work on
+[15:24] the property to take care of it and and
+[15:26] help the family out and they're looking
+[15:28] to make that move, but they can't. And
+[15:29] then so the people who are just trying
+[15:31] to get in the game forget about it. They
+[15:32] they can't even get access to to credit
+[15:35] to buy the real estate. So that's why
+[15:37] the that's the real reason the market is
+[15:38] frozen. So it's kind of like this magic
+[15:40] point in time where we have a frozen
+[15:42] real estate market and Bitcoin has the
+[15:44] potential to soar past the price of that
+[15:47] home. Because for any saver, anybody who
+[15:50] is saving to buy a home, regardless of
+[15:52] what country you're in, there's one
+[15:54] thing that you understand. It's going to
+[15:56] take more than a couple years to save up
+[15:57] to actually buy the home. And then over
+[16:00] those course of years, the the the value
+[16:02] of the home, the size of the home
+[16:05] continues to go down, right? So the
+[16:06] price of the home continues to go up.
+[16:08] Therefore, the square footage that you
+[16:10] can attain with your purchasing power
+[16:12] goes down because the prices of the home
+[16:14] are going faster going up faster than
+[16:16] wages. And there's no way to to to
+[16:19] outpace that. And that's the real magic
+[16:21] I think that Bitcoin has here through
+[16:24] people's reserve. There's there's coming
+[16:26] a new narrative that we haven't seen
+[16:28] before which bridges Bitcoin powered
+[16:31] finance to the real world assets. And
+[16:35] you know there's a big narrative in in
+[16:36] crypto about real world assets but there
+[16:39] hasn't really been that killer app yet
+[16:41] because there's been no way to really
+[16:43] connect the two. Tokenization of assets
+[16:45] and all this other stuff doesn't really
+[16:47] empower the individual. It might empower
+[16:49] the corporation or a group of investors,
+[16:51] but it doesn't. It's not financial
+[16:53] engineering for retail, right? It's
+[16:55] financial engineering for corporations
+[16:56] and institutions. And at People's
+[16:58] Reserve, we focus on financial
+[17:00] engineering for retail. We want to make
+[17:02] sure that you are empowered by Bitcoin.
+[17:04] So now what we want to see come become
+[17:07] synonymous is that when you want to buy
+[17:08] a home the first thing that comes to
+[17:11] your mind is well I better start saving
+[17:12] in Bitcoin because Bitcoin is what's
+[17:14] going to get me access to credit and
+[17:17] Bitcoin is what's going to give me the
+[17:18] ability to save in a timely manner to
+[17:22] purchase my home and to afford my home
+[17:24] because these homes are unaffordable.
+[17:26] The market is frozen because of the
+[17:28] interest rates. And even if the Fed
+[17:30] lowers interest rates, prices are still
+[17:32] so high right now that if they start
+[17:34] lowering interest rates, demand will go
+[17:36] up. That will push prices up. And and
+[17:38] the new base, you're very quickly the
+[17:41] the medium price of a family home will
+[17:42] go from 400 to 450 up to 500 to 550. And
+[17:47] that's, you know, that's 100 to 150k
+[17:49] value increase. Most people are not
+[17:50] making 100 to 150k a year in their
+[17:53] salary. The average salary here in the
+[17:55] United States, I think, is around $55
+[17:57] $60,000. And then when you take into
+[17:59] account expenses, you're lucky to save
+[18:01] up $5,000 or $10,000 making that kind of
+[18:05] money, especially if you have a family.
+[18:06] If you have a family, you probably have
+[18:07] credit debt. And credit debt is going to
+[18:09] new all-time highs. So the purchasing
+[18:11] power of the American consumer and
+[18:13] consumers worldwide is as we know being
+[18:16] drained from them through the design of
+[18:18] the fiat system through the ability of
+[18:20] the governments to steal their
+[18:22] purchasing power and spend it through
+[18:24] printing. And Bitcoin finally comes in
+[18:26] and says, you know what, we're not going
+[18:28] to let this happen anymore. We when you
+[18:30] adopt Bitcoin as a savings technology
+[18:33] and you use it, it's it's what Bitcoin
+[18:36] does. Warren Buffett has a great quote.
+[18:38] If you if you have to work to make money
+[18:40] your whole life, you'll work until
+[18:41] you'll die. You have to find a way to
+[18:42] make your money work for you. Fantastic.
+[18:45] I don't have to take my money and invest
+[18:46] it to make it work for me. Bitcoin was
+[18:49] engineered to work for me. It was
+[18:51] strategically designed to leverage the
+[18:53] those natural laws of economics to work
+[18:56] for me in its design. It doesn't need to
+[18:58] be deployed to work. It works through
+[19:01] its design and it's working better than
+[19:03] anything else we ever seen. I think the
+[19:05] 10-year Kagger right now is
+[19:07] 82%. I mean, even at People's Reserve, I
+[19:10] have like model we run models and we and
+[19:12] we we try to figure out how to teach
+[19:14] people and how especially politicians
+[19:17] with municipal Bitcoin bonds how this
+[19:19] can work. And we've been using like the
+[19:20] 50 60% KAGER and then we usually cut
+[19:23] that in half to get to the 25 30% Kagger
+[19:26] that Michael sees in the long term. But
+[19:28] the 10-year Bitcoin Kagger right now is
+[19:29] 82%. So when you run the numbers on
+[19:32] that, that's insane. That's that kind of
+[19:35] growth is impossible in any other asset
+[19:38] class in the world. So for those of you
+[19:41] who are watching this show and you have
+[19:42] that dream of owning your own home,
+[19:45] you're not going to do it by saving in
+[19:47] in fiat currency units. It's fiat
+[19:50] currency units lose value over time by
+[19:52] design. Bitcoin gains value over time by
+[19:57] design. That needs to be your savings
+[19:59] vehicle. And when you make it your
+[20:00] savings vehicle, you'll be able to
+[20:02] accomplish your goals much faster. And
+[20:04] when you have services like People's
+[20:06] Reserve, when you finally get to that
+[20:08] point, you actually won't need to sell
+[20:09] the Bitcoin. You will just borrow
+[20:11] against it. And now you're borrowing
+[20:12] these inflating fiat currency units that
+[20:15] lose purchasing power over time against
+[20:17] your pristine collateral that gains
+[20:20] value over time. And what happens is the
+[20:22] burden of the debt shrinks. It shrinks
+[20:25] over time to the extent at some point in
+[20:27] time you can eliminate that debt with
+[20:29] the value increase in your Bitcoin. Now
+[20:31] you own your home and your Bitcoin. You
+[20:34] didn't have to give up your Bitcoin to
+[20:35] buy the home. And these types of
+[20:37] financial products are what's driving
+[20:40] the monetization and financialization of
+[20:42] Bitcoin because the big players in the
+[20:43] in the industry, they absolutely know
+[20:46] what's coming, which is why we're in
+[20:47] Spax season right now. and they're
+[20:49] getting prepared because when these
+[20:50] products go live, not only from us, but
+[20:52] from all types of uh companies that are
+[20:55] going to be offering these products and
+[20:57] services, not exactly like ours, but
+[20:59] similar. And and be careful. Choose your
+[21:01] counterparty wisely, right? Make sure
+[21:03] you understand liquidation risk. Make
+[21:05] sure you understand what your options
+[21:06] are in that contract. Make sure you
+[21:08] understand your counterparty. Choose
+[21:10] your counterparty wisely. And if you
+[21:12] want to be with Bitcoin maxis who built
+[21:14] for Bitcoin maxis, you'll want to be at
+[21:16] People's Reserve. Now, if you don't care
+[21:17] about that, then you then you can go
+[21:18] with somebody else. If you want to make
+[21:20] sure that your Bitcoin can't be
+[21:21] liquidated based on Bitcoin's price
+[21:24] volatility, well, then you'll want to be
+[21:25] with People's Reserve. If you don't care
+[21:27] about price volatility and you have a
+[21:28] big stack and you're only borrowing a
+[21:30] very small amount against it, well then
+[21:31] go to wherever you can get the best
+[21:32] interest rate. But most likely, if you
+[21:34] want the best interest rate, you're also
+[21:36] going to become the people's reserve.
+[21:37] But if you pay attention to those three
+[21:38] points, I think it's going to be really
+[21:40] clear that the future of finance of all
+[21:44] finance, not just Bitcoin powered
+[21:46] finance, all finance will incorporate
+[21:48] Bitcoin into it. And if it doesn't, it
+[21:50] will just be eliminated because the
+[21:51] incentive will break. I love that. And I
+[21:55] completely missed a question, but like
+[21:57] uh you already explained it a little
+[21:59] bit. At Bit Reserve, you are doing
+[22:01] basically borrowing against your Bitcoin
+[22:04] for retail people. Yes. Yes. So the so
+[22:07] the biggest difference for us at
+[22:08] People's Reserve because I've been in
+[22:10] the industry for a while and I've had
+[22:11] sleepless nights. I mean I I've had
+[22:13] loans out against Bitcoin and the price
+[22:15] of Bitcoin is going down down down big
+[22:18] down and you're like where's the bounce?
+[22:20] Where's the where? You don't know.
+[22:22] You're going to go to bed and you don't
+[22:23] know if you're going to wake up and that
+[22:25] Bitcoin is going to be there or not.
+[22:26] Your Bitcoin could be liquidated and
+[22:28] then if you add more Bitcoin to margin
+[22:31] and something weird happens, you could
+[22:33] lose that Bitcoin too. So now it becomes
+[22:35] like, well, do I just lose what I
+[22:36] originally posted or do I put more
+[22:39] Bitcoin and take the risk of losing even
+[22:40] more Bitcoin than I originally posted? I
+[22:42] mean, and you literally will lose sleep
+[22:44] at night. I know I did. So when we
+[22:46] created our products, we we knew we have
+[22:49] to eliminate this liquidation risk. And
+[22:51] I I think the real innovation in our
+[22:53] products, which nobody else in the
+[22:55] industry is doing, is that we just
+[22:57] adjust your interest rate. So when the
+[22:59] price of Bitcoin goes down, uh, your
+[23:02] interest rate could go up, but within
+[23:04] limits, right? So some people have
+[23:05] reached out to us and been like, "Hey,
+[23:06] are you going to be charging 20%
+[23:08] interest rates like a credit card?" And
+[23:10] I'm like, first of all, that's that's
+[23:11] there there's usury laws against that.
+[23:13] So we can't do that anyway because of
+[23:14] regulations. And second of all, that's
+[23:16] value extraction. So you know, we we
+[23:19] anchor our rate to what what today is
+[23:22] the prime rate. So the prime rate today
+[23:24] is 7 and a half. and and depending on
+[23:26] how much Bitcoin collateral you post,
+[23:28] you could actually get prime minus
+[23:29] interest rates. So, if the value of
+[23:31] Bitcoin goes down, you'll start moving
+[23:33] above prime, but you're not going to be
+[23:35] moving to double prime, which is which
+[23:37] is where some of the Bitcoin lenders are
+[23:39] today in the in the 12 to 16% range to
+[23:43] borrow against your Bitcoin with
+[23:44] liquidation risk uh for an
+[23:46] overcolateralized loan. It just doesn't
+[23:48] make sense. You as Bitcoiners hold the
+[23:50] most pristine form of collateral in the
+[23:52] world. And there are not many lenders
+[23:54] out there that look at Bitcoin as
+[23:57] pristine collateral. And most
+[23:59] importantly, I think this is important
+[24:01] too. We have a relationship maxi mindset
+[24:04] at People's Reserve. We believe that if
+[24:06] we build relationships with people in
+[24:08] the long term will have a stronger, more
+[24:11] sustainable business, than a business
+[24:13] that is just coming in and taking
+[24:15] advantage of temporary arbitrage
+[24:17] opportunities and interest rates, right?
+[24:19] Because a big player will come in,
+[24:21] they'll have a credit line or a
+[24:22] warehouse, they'll be borrowing at 6 or
+[24:24] 7% and then they'll turn around, they'll
+[24:26] flip that credit line to the borrower,
+[24:28] and then that's where the 12 and 14 and
+[24:30] 15% come because they want to make
+[24:32] money, too. So they have to arbitrage
+[24:33] the difference between their borrow rate
+[24:35] and the borrow rate at which they're
+[24:37] lending to the borrower. So in order to
+[24:39] make money, they have to charge those
+[24:41] higher rates. But at People's Reserve,
+[24:42] we've done our best to source LPs who
+[24:45] understand that lending to the
+[24:47] government is not risk-free and that the
+[24:51] risk-free borrower is actually the
+[24:54] Bitcoiner. It's the overcolateralized
+[24:56] Bitcoiner who presents the risk-free
+[24:58] opportunity. And then additionally, and
+[25:01] this is to me this is just another thing
+[25:02] that institutions and liquidity
+[25:05] providers are waking up to this. When
+[25:07] you lend your money to the government,
+[25:09] the principle of that stays in the cash
+[25:11] equivalent, right? It stays in the debt
+[25:12] note and then that debt note is deflated
+[25:15] over time. So there's an ongoing soft
+[25:19] default for those people who hold
+[25:21] treasury debt because they have to print
+[25:23] the money to make good on the debt which
+[25:25] means there's going to be dilution which
+[25:26] means the real rate of interest is
+[25:28] negative which means the cash equivalent
+[25:30] principle is being diluted over time.
+[25:33] What we've been able to do at People's
+[25:34] Reserve is source LPs who understand
+[25:37] that just because the government has a
+[25:39] printer, that doesn't make them the
+[25:41] risk-free lender. Because if everything
+[25:43] folds, like we've gone through soft
+[25:44] default now. What if we go through a
+[25:46] hard default? No one ever really talks
+[25:48] about this. I've only ever heard Peter
+[25:50] Schiff, funny enough, talk about this,
+[25:51] but Donald Trump was a great
+[25:54] businessman. He declared bankruptcy a
+[25:55] few times and restructured the assets uh
+[25:58] in his portfolio a few times in order to
+[26:01] make it out of that bankruptcy. and end
+[26:03] up where he is now. So, it's it's it's
+[26:06] it's a higher percentage chance that he
+[26:08] does some type of restructuring with
+[26:10] Bent and Lutnik on existing debt uh than
+[26:13] it is with any other president who
+[26:15] really was never a businessman and just
+[26:17] probably let other people deal with it.
+[26:19] So, he you know he might play that card.
+[26:21] Now, I don't think he will uh because
+[26:23] the soft default strategy is working
+[26:25] good. You don't there's no need to hard
+[26:27] default. The United States has a lot of
+[26:28] natural, you know, the asset side of our
+[26:30] balance sheet, even though our debt side
+[26:33] is 36 trillion plus another 220
+[26:35] something trillion of liabilities. In
+[26:37] the long term, I think most people still
+[26:39] believe the United States can cover that
+[26:41] debt. I think that the the asset to debt
+[26:43] ratio, liquid assets are are not enough
+[26:47] to cover, but the intangible assets, the
+[26:50] the growth of the economy, the level of
+[26:52] innovation, uh, and thus potential for
+[26:55] increased tax revenues, like it's
+[26:57] greater here than it is anywhere else in
+[27:00] the world. It can grow more here than it
+[27:02] could anywhere else in the world. And
+[27:04] that gives them a little bit of trust.
+[27:05] The that last little string of trust.
+[27:07] You know, in my previous shows, we
+[27:09] talked about the only difference between
+[27:10] inflation and hyperinflation is trust.
+[27:12] Well, there's this little string of
+[27:13] trust left, and it's based in the hope
+[27:16] of patriots who believe in America and
+[27:18] believe in the will of America and and
+[27:21] freedom and liberty to pursue free
+[27:23] markets and to create value and deliver
+[27:25] it to the economy. That is kind of like
+[27:26] the last string that is saving the
+[27:30] financial position of the United States.
+[27:31] So if we can strengthen that position
+[27:33] and string by including Bitcoin
+[27:35] innovation like the strategic Bitcoin
+[27:37] reserve in the future a bitcoin
+[27:39] recapitalization fund where we can do
+[27:41] more more things with the Bitcoin with
+[27:43] less handcuffs. Um those are the types
+[27:45] of things that are going to I think
+[27:48] change everything because uh I think
+[27:51] Nixon said at one time or somebody said
+[27:53] at one time as the US goes so goes the
+[27:55] world. So, if we can if we can embrace
+[27:57] Bitcoin and we can adopt Bitcoin, we're
+[28:00] going to see it across the spectrum and
+[28:02] that is going to really accelerate
+[28:04] things where we go up the S-curve. And I
+[28:07] think that's what everybody's waiting
+[28:08] for. We are waiting to move up the
+[28:10] S-curve. We're very clearly at the
+[28:12] bottom of the S-curve, but through
+[28:13] monetization and financialization, we
+[28:15] are about to explode up the S-curve. And
+[28:18] that's the move you don't want to miss.
+[28:20] Now, if you do miss that move, you don't
+[28:23] lose anything from Bitcoin, right? If
+[28:24] you get in, if you're the last person to
+[28:26] get into Bitcoin, you're still going to
+[28:28] benefit from Bitcoin because Bitcoin is
+[28:30] a truth money. It's an honest money that
+[28:32] can't be diluted. And at the top of the
+[28:35] Scurve, we'll finally get that
+[28:37] stability. At the top of the Scurve,
+[28:40] Bitcoin will be a derivative of the
+[28:42] global economy, not just of one
+[28:45] country's stock market. So, when we get
+[28:47] there, um things will be a lot easier to
+[28:51] understand how the economy will function
+[28:52] and work. But the opportunity to get
+[28:55] extremely wealthy in Bitcoin in my
+[28:57] opinion is is is coming up and it comes
+[29:01] with that repricing in this S-curve
+[29:03] adoption. Once we make this move,
+[29:05] Bitcoin will be repriced and it will
+[29:07] become more volatile than it ever has
+[29:09] before, not less volatile. The the lower
+[29:12] volatility comes up at the top of the
+[29:14] S-curve. But while you're in the middle
+[29:16] of making that move from the bottom to
+[29:17] the top, volatility is going to
+[29:19] increase. And so people need to be
+[29:21] prepared in their mind to just say, you
+[29:23] know, if if your wealth goes up and down
+[29:26] by the the value of your salary per day,
+[29:29] like just be prepared for that. Get your
+[29:31] get in the mindset. Understand this is
+[29:32] going to be volatile. Look at how look
+[29:34] at that the price of gold through the
+[29:36] Weimar inflation. When the when the mark
+[29:39] inflated, the price of gold got more
+[29:41] volatile, not less volatile. So I'm not
+[29:43] saying that the dollar is going to
+[29:44] hyperinflate, especially if we get a
+[29:46] strategic Bitcoin reserve. I think it
+[29:48] could actually strengthen the dollar.
+[29:50] Because it's if we put the Bitcoin on
+[29:51] the asset side of our balance sheet, the
+[29:54] asset side of our balance sheet will be
+[29:55] able to outgrow the pace of growth of
+[29:58] the asset side of our balance sheet will
+[30:00] be greater than the pace of growth in
+[30:02] the liability side even with all the
+[30:03] printing that we're doing. That's the
+[30:05] type of value uh acrual that you can get
+[30:08] by putting Bitcoin on your balance
+[30:09] sheet. So, corporations are figuring
+[30:11] out, institutions are figuring it out,
+[30:13] small and medium-sized businesses are
+[30:14] figuring out, governments are figuring
+[30:16] it out, individuals are figuring it out.
+[30:19] And if the majority of them figure it
+[30:21] out before you, you're going to lose
+[30:23] your opportunity to generate
+[30:25] generational wealth through the S-curve
+[30:27] adoption move. And I don't want to see
+[30:28] anybody listening to this show or any of
+[30:30] your family and friends miss out on that
+[30:32] because it only comes one time. You
+[30:35] don't get you don't get this uh this is
+[30:37] kind of like a once in a civilization
+[30:39] thing. week, we finally discovered
+[30:40] money. Like up until Bitcoin, we used
+[30:43] seashells, we used gold, we used paper
+[30:47] notes, we used derivative promises, we
+[30:49] used all these different types of things
+[30:50] to try to facilitate transactions
+[30:53] between each other. Uh, and we never
+[30:55] found anything that worked. But now with
+[30:57] Bitcoin, we actually have the solution.
+[30:59] We found money. We've invented money.
+[31:02] And this truth money is only going to
+[31:04] come around one time. And now's the time
+[31:06] to embrace it and be empowered through
+[31:09] its adoption on a global scale. And if
+[31:11] you do that, I think, and this is what
+[31:13] makes me most excited, people like you
+[31:15] and me and the other Bitcoiners that we
+[31:17] know, some of the best people in the
+[31:19] world are Bitcoiners. They're the
+[31:20] opposite of the central bankers, right?
+[31:22] The central bankers are the ones who who
+[31:24] create the problem. The love of money is
+[31:26] the root of all evil. A lot of
+[31:28] Bitcoiners don't love money, but they
+[31:30] just love being prudent. They love
+[31:31] understanding that they have a savings
+[31:33] technology and that it's empowering them
+[31:35] and they're not being stolen from
+[31:37] through the current system. They've
+[31:38] detached from the matrix, but then that
+[31:40] that that leads to them respecting life
+[31:42] and respecting others. And I think we we
+[31:44] move to a bright orange future where
+[31:46] Bitcoiners have the most purchasing
+[31:47] power because the things that go on in
+[31:49] the world when Bitcoiners are funding
+[31:50] them are going to be much better things
+[31:53] than what's going on in the world right
+[31:54] now. I love that so much. Uh that's
+[31:57] that's really really a great explanation
+[31:59] of that. And I I I want to I want to
+[32:02] touch on one thing. Um you with the
+[32:06] people reserves, but uh I think strategy
+[32:09] probably started that whole thing with
+[32:11] like playing the fiat game to get more
+[32:14] Bitcoin and making the black hole up.
+[32:18] I I think that this actually accelerates
+[32:22] the move towards a Bitcoin standard and
+[32:25] actually probably makes it move and the
+[32:27] adoption of Bitcoin even faster because
+[32:30] when all the Bitcoiners are opening up
+[32:33] uh that feared games that can suck in
+[32:36] more financial energy to get more
+[32:39] Bitcoin and suck more and more in there
+[32:41] and there's like bonds and there is all
+[32:44] different kinds of uh fiat deriv
+[32:46] derivatives from that that kind of opens
+[32:49] up a black hole of Bitcoin that can make
+[32:53] that scurve adoption moment that
+[32:56] suddenly moment even
+[32:59] more abrupt even more even faster than
+[33:02] than we than we would have otherwise had
+[33:05] because uh if number go up people come
+[33:09] in in the in in Bitcoin and they realize
+[33:12] oh I have I have to listen to to those
+[33:14] Bitcoin guys all of the sudden and Then
+[33:17] they also start doing that. I think we
+[33:19] are kind of opening up a black hole for
+[33:21] for for Bitcoin adoption. Oh yeah. I
+[33:24] mean, I'm a big fan of Michael Sailor.
+[33:27] My split adjusted price is $27. I've
+[33:30] been with him on this ride for quite
+[33:31] some time. There's no doubt in my mind
+[33:34] he opened the Pandora's box of financial
+[33:37] engineering. And even what we do here at
+[33:39] People's Reserve is building on top of
+[33:42] his shoulders. So he is the original
+[33:45] innovator. He is the original person to
+[33:47] to bring this forward. He's at the tip
+[33:50] of the spear for financial institutions
+[33:53] and corporations. And at People's
+[33:55] Reserve, you know, we're building on top
+[33:57] of his shoulders and learning from his
+[34:00] innovation and continuing that
+[34:02] innovation and bringing financial
+[34:04] engineering to retail. And that's what's
+[34:07] so exciting about People's Reserve. I
+[34:08] mean, in the long run, and I think this
+[34:10] is probably a great time to share this,
+[34:12] but for those of you who don't know,
+[34:14] it's spa season here in the United
+[34:16] States of America. So, Spa is a special
+[34:18] purpose acquisition company. This is a
+[34:21] company that is publicly traded who sole
+[34:24] purpose is to acquire or be acquired.
+[34:27] And we recently saw David Bailey with
+[34:29] Nakamoto do a reverse merger into a spa
+[34:32] and now have a publicly traded Bitcoin
+[34:34] treasury company. People's Reserve is
+[34:36] pursuing this same goal. People's
+[34:38] Reserve is looking to perform a reverse
+[34:41] merger so that it can get access to US
+[34:43] capital markets and we have some really
+[34:46] cool ideas that build on top of uh
+[34:49] Michael Sailor's flywheel to where we
+[34:52] can access these capital markets not
+[34:55] only to acquire Bitcoin and put Bitcoin
+[34:57] on the balance sheet but just as
+[34:59] important to empower Bitcoiners because
+[35:03] I think that's that's probably where
+[35:04] there's one one little gap of
+[35:06] understanding is that when you're in
+[35:07] micro strategy. And remember, I'm a
+[35:09] long-term shareholder, split adjusted
+[35:10] price of $27. It's it's a Bitcoin
+[35:12] accumulation game right now. And the
+[35:15] long-term theory in my mind is
+[35:17] eventually Micro Strategy will be
+[35:20] somewhat of a central bank of the
+[35:22] internet economy, right? And the
+[35:24] internet economy, for those of you who
+[35:25] haven't listened to our previous
+[35:26] episodes, the internet economy is an
+[35:28] amazing domain. It is the only economy
+[35:30] in the world with no debt. It is the
+[35:32] only economy in the world that no one
+[35:34] country can control or out compete. And
+[35:37] I think most importantly, it's the only
+[35:38] economy in the world with free market
+[35:40] interest rates. So, um, you definitely
+[35:43] want to be in a position where you are
+[35:45] one of those, for lack of a better term,
+[35:48] central banks of the internet economy.
+[35:50] And these Bitcoin treasury companies,
+[35:52] they are the future central banks of the
+[35:55] internet economy. and people's reserve
+[35:56] wants to play a role in that marketplace
+[35:59] because we believe uh if people are
+[36:01] familiar with the yield curve the very
+[36:03] very front end of the yield curve is the
+[36:05] federal funds rate and the federal funds
+[36:08] rate is an overnight interbank lending
+[36:10] rate. Well, in the in the internet
+[36:14] economy, there is no technical bank. But
+[36:16] in my opinion, these Bitcoin treasury
+[36:18] companies. They will be the future
+[36:20] banks. And those inter Bitcoin treasury
+[36:23] company lending rates will actually be
+[36:26] the overnight rate. So the rate between
+[36:28] a people's reserve and strategy or a
+[36:31] strategy and a Meta Planet and a Metanet
+[36:33] and a 21. These inner bank lending rates
+[36:37] are actually going to formulate and
+[36:40] create what would be equivalent to the
+[36:44] trades federal funds rate and we'll have
+[36:47] an overnight rate between BTC's. It's
+[36:49] it's funny that it's BT Bitcoin Treasury
+[36:51] Company BTC's BTC to BTC's inner bank
+[36:55] rate that will create the very front end
+[36:58] of the yield curve. And what I'm so
+[37:00] excited about is that I believe people's
+[37:02] reserve products are going to form the
+[37:05] other parts of the yield curve because
+[37:06] right now there's nowhere to look
+[37:08] besides these inner bank lending rates
+[37:10] that don't ex don't exist yet. We have
+[37:12] funding rates. So but funding rates are
+[37:14] based on leverage and derivative
+[37:16] products and also the balance of bulls
+[37:19] and bears within the marketplace. So
+[37:20] funding rates are kind of their own
+[37:22] little thing and they're every eight
+[37:24] hours. So, I I I I think it's hard to
+[37:26] plug that into the yield curve, but when
+[37:28] you start getting five-year bonds and
+[37:31] seven-year mortgages and 15-year
+[37:33] mortgages and 30-year mortgages, people
+[37:35] are going to wake up in the morning,
+[37:36] they're going to check the price of
+[37:37] Bitcoin. They're going to check the
+[37:38] price of gold. They're going to look at
+[37:40] the US 10-year Treasury interest rate,
+[37:42] and then they're going to move on to the
+[37:44] free market internet economy, and
+[37:46] they're going to check the inner bank,
+[37:47] Bitcoin Treasury Company to Bitcoin
+[37:49] Treasury Company rate. They're going to
+[37:51] check the five, seven, 15, and 30-year
+[37:54] Bitcoin powered mortgage rate because
+[37:56] now we are what this the the financial
+[37:58] revolution is not just about free market
+[38:00] money. It's about free market interest
+[38:02] rates, which means free market yield
+[38:04] curve. And the internet economy will be
+[38:07] the only domain in the world for an
+[38:09] unanchored free market yield curve. So
+[38:12] sure in the traditional market you have
+[38:13] bond vigilantes. You can sell it off but
+[38:15] there's anchor rates and those anchor
+[38:17] rates help defend the yield curve and
+[38:19] yield curve control operations help
+[38:21] defend the yield curve. There's nobody
+[38:23] to play defense. There's no anchor rate
+[38:25] to slow the process down in the internet
+[38:27] economy. It is a true free market yield
+[38:29] curve. And this revolution, this
+[38:32] financial revolution that empowers
+[38:34] people is based off of finance. It's not
+[38:36] just money. It's finance, too, because
+[38:39] businesses need to be able to borrow
+[38:40] against their cash flows. People need to
+[38:43] be able to borrow against their Bitcoin.
+[38:45] And and if they can't, then we're we're
+[38:47] not going to get the velocity that we
+[38:49] need within the economy. But we will get
+[38:51] that velocity when we have these
+[38:53] financial products. And these financial
+[38:55] products will empower you rather than
+[38:57] extract value from you. And when we flip
+[38:59] that paradigm, I think we're going to
+[39:01] see economic growth that we never
+[39:03] thought conceivable. Because in the fiat
+[39:05] system, the fiat system is literally
+[39:07] designed to yield farm or or harvest
+[39:11] that energy. Like the matrix, the system
+[39:13] is literally taking all of the value
+[39:15] that you give and through taxes and
+[39:18] through deficit spending, sucking that
+[39:20] value out of you. But in a Bitcoin
+[39:23] standard, in a true free market economy
+[39:25] with a hard money layer zero, all of the
+[39:28] value that you deliver will be yours. So
+[39:30] when you have that value, you'll be able
+[39:32] to spend it back into the economy.
+[39:34] You're not giving up your right to spend
+[39:36] into the economy and assigning it to the
+[39:38] government. You yourself will spend it
+[39:41] into the economy. And I think everybody
+[39:43] would agree that the best capital
+[39:45] allocators are the ones who deliver
+[39:47] value to the economy, not the ones who
+[39:49] suck and extract value from the economy.
+[39:51] Which is why we see so much waste in the
+[39:53] government. They don't deliver value,
+[39:54] they extract it. But Bitcoiners who
+[39:56] deliver value, when they start spending
+[39:58] their purchasing power into the economy,
+[40:00] the whole world will change and it will
+[40:02] change for the better. quality will go
+[40:04] up, not just of life and standard of
+[40:06] living, but quality of of goods and
+[40:08] services. Customer service will go up. I
+[40:10] know here in the United States, I went
+[40:11] out to dinner with my family the other
+[40:13] night and it was like seven of us and it
+[40:16] was like $700 and something dollars for
+[40:18] dinner before the tip. And I'm like, how
+[40:21] do people do this? Like, how how is this
+[40:24] affordable? And and in a Bitcoin
+[40:26] standard, those prices just keep going
+[40:27] down and down and down. Family dinners
+[40:29] become more and more affordable. being
+[40:31] being be able to be a blessing to
+[40:33] somebody in need becomes more and more
+[40:35] affordable. So all these things people
+[40:37] don't really think money and finance fit
+[40:39] into philanthropy, but they really do.
+[40:42] Money and finance fit into philanthropy.
+[40:44] And the future that Michael Sailor and
+[40:46] Micro Strategy and People's Reserve and
+[40:49] Metaplanet and these Bitcoin Treasury
+[40:51] companies are seeking to build is a
+[40:54] better, stronger, more secure future.
+[40:56] Not just immediately for ourselves, but
+[40:58] most importantly for our children. Let's
+[41:00] take a break for a moment and appreciate
+[41:03] the beauty that Coin Vigilante has made
+[41:06] with the Bitcoin watches. Those watches
+[41:09] are the most amazing, the most elegant
+[41:12] way of showing that you are a true
+[41:14] Bitcoiner. And Coin Vigilante just
+[41:17] dropped a completely new and amazing
+[41:20] Genesis edition of their watch
+[41:22] collections. You have the date of the
+[41:25] first ever mined Bitcoin block in there
+[41:28] and of course also the block height and
+[41:31] which epoch we are currently in. I love
+[41:34] the level of detail they put in in this
+[41:37] masterpiece. Make sure to check out
+[41:39] those amazing coin vigilante time pieces
+[41:42] down in the descriptions. I love those
+[41:44] watches so so much. And now if you have
+[41:48] Bitcoin, I really do hope that you don't
+[41:50] have it on exchange. But if you do have
+[41:52] it on exchange, I have two ways for you
+[41:54] to deal with that. The first way is you
+[41:57] put it on a hardware wallet. That's the
+[41:59] entry for you to get into the
+[42:01] self-custody game. I recommend Bitbox
+[42:05] Bitcoin only edition for that. It's a
+[42:07] super simple and secure way. And if you
+[42:10] check out the link in the description,
+[42:12] you even get 5% off if you use the code
+[42:15] Robin. And the second way is the Bitcoin
+[42:18] way. The Bitcoin way is your all-in
+[42:21] partner in terms of how to get the most
+[42:24] out of your sovereignty. They will
+[42:27] personalize for you a self-custody setup
+[42:30] that is perfect for your individual
+[42:33] situation. They will show you how you
+[42:35] can secure your own devices. Securing
+[42:38] your Bitcoin is not enough. You also
+[42:40] have to keep all your devices secure.
+[42:42] One topic that is overlooked often is
+[42:45] the inheritance plan. What happens with
+[42:47] your Bitcoin once you are no longer
+[42:50] here? Do you have a plan for that in
+[42:53] place already? And last but not least,
+[42:55] if you're in a jurisdictions where you
+[42:57] don't feel safe, it's better to get a
+[42:59] plan B. For all that, head over to the
+[43:04] bitcoinway.com/roin to get a 30inut free
+[43:07] call. And just a quick side note, I will
+[43:10] be for the first time ever speaking at
+[43:12] the Bitcoin Prague event in June. It
+[43:15] will be absolutely legendary and I'm
+[43:18] really looking forward to seeing all of
+[43:20] you there. You can get your ticket in
+[43:22] the link down in the description of
+[43:24] Bitcoin Prague. And very important, use
+[43:27] code Robin to get 10% off your ticket.
+[43:30] I'm really looking forward seeing you
+[43:32] there. That's such a such a true
+[43:34] message. Like Bitcoin really changes
+[43:37] something. And I I always describe it as
+[43:39] a uh Bitcoin as a fork in the road of
+[43:42] human civilization because there are
+[43:44] certain innovations like the printing
+[43:47] press, like electricity, like the
+[43:50] electronical telegraph that just change
+[43:53] the outlook for human
+[43:56] civilization so so so fundamentally that
+[44:00] it's a fork in the road. So like it's
+[44:02] like the other way is no longer going.
+[44:05] It's a whole whole new uh era of of of
+[44:08] how how we do things and it's there's
+[44:12] like like 50 topics that I want to go go
+[44:15] to. Uh I want I just want to note this
+[44:18] for the people because uh you you have
+[44:21] been on two times before and we I think
+[44:22] we laid the
+[44:24] groundwork do a lot of it uh in the
+[44:26] previous episodes. So like this the the
+[44:28] first one up here is the first one and
+[44:30] then this is the second one. Uh I I've I
+[44:34] see that we went from 1 hour
+[44:36] conversation to one and a half hours.
+[44:37] Maybe we go live today with two hours.
+[44:40] Let's see how how long we do. Um but
+[44:44] yeah, so like for people that are
+[44:45] wondering uh how the those episodes are
+[44:48] called because sometimes they are like
+[44:49] harder to find uh with like almost 500
+[44:52] episodes now. Um but it's super super
+[44:55] super important that we not only uh talk
+[44:59] about the money aspect in Bitcoin but
+[45:02] there is a real shift in society
+[45:03] happening because of bet because of
+[45:06] Bitcoin and this actually brings good
+[45:09] things to
+[45:11] society other than yeah we have now a
+[45:14] money that works that if that makes
+[45:17] sense. Yeah. And it makes perfect sense.
+[45:19] And it and what's exciting is that it
+[45:21] starts with money and finance. So it's
+[45:24] weird that you know the Bible says that
+[45:26] the love of money is the root of all
+[45:29] evil. Isn't that interesting? Like just
+[45:31] the concept of somebody being addicted
+[45:34] to money and the ability to manipulate
+[45:38] reality with their money actually is the
+[45:40] root of evil. So when you detach that
+[45:43] and that doesn't mean people aren't
+[45:45] going to love money. Like Bitcoin is not
+[45:46] going to fix people, right? Like sin is
+[45:49] a spiritual human problem, not a money
+[45:52] problem. So you're still going to have
+[45:53] people that love Bitcoin and try to use
+[45:55] Bitcoin and its purchasing power to
+[45:58] manipulate reality around them and and
+[46:01] forcing their own will into their life
+[46:04] rather than yielding that will to the
+[46:06] Lord. So there's you're not going to get
+[46:08] rid of that. But it is amazing that I
+[46:12] think the vast majority of Bitcoiners, I
+[46:13] mean, of all the Bitcoiners I've met,
+[46:16] very few of them come off loving money.
+[46:18] Very, they love Bitcoin so much because
+[46:21] they actually hate money. It's they hate
+[46:24] fiat currency. They hate central
+[46:26] banking. They hate manipulation of
+[46:28] interest rates. They hate extracting
+[46:30] value from the poorest people of
+[46:31] society. They hate that the wealth gap
+[46:34] between the 1% and the normal person is
+[46:36] growing. They hate that so much that it
+[46:39] drives them to love Bitcoin because it
+[46:40] solves that problem. So I think you know
+[46:43] the the the vast majority of problems we
+[46:45] see today are sourced in the actual fiat
+[46:48] system itself and that translates to a
+[46:51] better world. But what makes me so
+[46:52] excited is that Bitcoin can be
+[46:54] integrated. We don't need to start over
+[46:57] and I think a lot of people
+[46:58] misunderstand that. Like when I talk to
+[46:59] people a lot of people think it's like a
+[47:01] zero or a one, right? It's like it's
+[47:04] fiat currency or it's Bitcoin. And if we
+[47:06] switch to Bitcoin, well, it's going to
+[47:08] be the apocalypse. All the systems are
+[47:10] going to break down. The banks are going
+[47:11] to break down. Everything's going to
+[47:13] break. Businesses will break down. The
+[47:14] stock market's going to crash. And we
+[47:16] have to start over from zero with
+[47:18] Bitcoin. I don't think that's what's
+[47:20] happening. And I don't think there's a
+[47:21] way to draw that logical conclusion. I
+[47:24] think that that definitely could have
+[47:26] happened if people's if um if the people
+[47:29] stood up and said, you know, we don't
+[47:30] trust this system and we're done with
+[47:32] it. then that absolutely could happen
+[47:34] and it could still happen if things
+[47:35] change. But right now, in my opinion, it
+[47:38] seems that we're on track to integrate
+[47:40] Bitcoin into the fiat system and then
+[47:43] slowly over time just get rid of those
+[47:46] wicked practices that have led to the
+[47:50] gap in wealth and the continued value
+[47:51] extraction that we see, which means that
+[47:53] we can have a peaceful transition. And
+[47:55] that's really important. I mean, I don't
+[47:57] I don't want anything but peace. Bitcoin
+[48:00] is orange peace. it. That's why I do
+[48:02] that my little emojis, my orange peace,
+[48:04] love. I do that all the time because
+[48:06] Bitcoin is the peaceful revolution. It
+[48:08] is the passive peaceful way to protest
+[48:12] against the system that has been
+[48:14] designed and leveraged against you. And
+[48:16] now people are waking up to that and
+[48:19] businesses are waking up to that. We can
+[48:21] actually transition into that. And you
+[48:23] know, people's reserve, a lot of people
+[48:24] get uh excited about our mortgage
+[48:26] product because they want to buy a home
+[48:28] and they've been responsible savers of
+[48:30] Bitcoin and they want to buy their home
+[48:31] without selling their Bitcoin. So, it's
+[48:32] a no-brainer. Um, you know, that was my
+[48:35] big problem. I bought I'd be a lot
+[48:36] wealthier today if I didn't spend 100
+[48:38] Bitcoin on my home. So, you know, you
+[48:40] never want to sell your Bitcoin for real
+[48:42] estate, but you want to access that
+[48:45] trapped equity and be able to spend it
+[48:47] into reality. And you do that by
+[48:49] borrowing dollars against it. So, that's
+[48:52] a really important concept, but what
+[48:53] people are missing here is how fast
+[48:56] adoption is going to go with products
+[48:58] like Bitcoin's uh like People's
+[49:00] Reserves, Bitcoin Bond. We've we've
+[49:02] developed a principal protected note
+[49:05] that allows a business small and
+[49:08] medium-sized business. So, for business
+[49:09] owners listening to this show,
+[49:11] especially if you're a Bitcoiner, the
+[49:13] number one thing in your mind is how do
+[49:14] I accumulate more Bitcoin? I want
+[49:16] Bitcoin on my balance sheet. But at the
+[49:19] same time, your business is growing. You
+[49:22] need to hire more employees. You need to
+[49:24] buy more equipment. You need to increase
+[49:26] supply so that you can feed demand. So,
+[49:29] there's not much room on that balance
+[49:31] sheet for taking that profit and turning
+[49:34] it into Bitcoin and then holding that
+[49:36] Bitcoin on your balance sheet as tracked
+[49:38] equity because that's equity that you
+[49:40] could have rolled into the expansion of
+[49:42] your business. So for small and
+[49:44] medium-sized business owners, I think
+[49:46] the People's Reserve Bitcoin bond is
+[49:48] going to accelerate adoption at a rate
+[49:51] and pace that uh has has not been
+[49:54] considered thus far. And the reason is
+[49:55] is because if you're a business owner
+[49:57] and you have and you and let's say for
+[49:59] the quarter you have a million dollars
+[50:01] of of of
+[50:03] profit, most business owners are going
+[50:05] to take a large chunk of that and
+[50:07] reinvest it in the business. So let's
+[50:09] say you take half of that, you take
+[50:11] 500,000, you reinvest it in your
+[50:12] business. Maybe you onboard a new
+[50:14] employee or you buy rights to service a
+[50:16] new zip code or whatever it is and you
+[50:19] expand your business. The other 500,000
+[50:21] you want to put into your savings. Well,
+[50:23] companies are smart enough to know, you
+[50:25] know, I can't really save in the
+[50:27] treasuries. But the the kicker here is
+[50:28] that if you take that 500,000, you buy a
+[50:30] treasury, you can use that cash flow
+[50:32] without giving up principle, right? You
+[50:34] can use that cash flow to help finance
+[50:35] your business costs. So, your savings is
+[50:38] producing something for you. If you put
+[50:40] it in Bitcoin, yeah, the value can go
+[50:42] up, but you really don't want to spend
+[50:43] it, right? You can't spend it. It's
+[50:45] trapped equity on your balance sheet.
+[50:47] The P the People's Reserve Bitcoin bond
+[50:49] is designed to unlock that equity. So if
+[50:51] you take that $500,000 and you buy the
+[50:53] principal protected note, one thing is
+[50:56] you know for sure after five years even
+[50:58] if Bitcoin goes to zero after five years
+[51:01] the the allocation of in that note
+[51:03] that's in treasuries the the maturation
+[51:06] value plus the interest paid over that
+[51:08] 5year note time will equal your
+[51:10] principal investment which was the
+[51:11] 500,000. So, if you're a business and
+[51:14] you're a little bit nervous because
+[51:15] you're a business owner and you're not a
+[51:17] Bitcoiner, but you but you want to get
+[51:19] exposure to Bitcoin on your balance
+[51:20] sheet, this is a solution for you. If
+[51:22] you're a business that's growing and
+[51:24] needs to reallocate uh in a way that you
+[51:27] don't trap equity on your balance sheet,
+[51:28] this is a solution for you. And I think
+[51:30] this is going to accelerate adoption on
+[51:33] the small and medium side. We already
+[51:34] see adoption accelerating on the on the
+[51:37] corporate side, right? I mean, we have
+[51:38] publicly traded companies that are
+[51:40] coming into existence simply to acquire
+[51:42] Bitcoin. That's the only thing they do
+[51:44] is buy Bitcoin. So, the institutional
+[51:46] side of this is is already going full
+[51:49] steam. But the small and medium-sized
+[51:51] businesses are struggling because of
+[51:53] those problems and those are the
+[51:55] problems that we focus on. So when I say
+[51:56] financial engineering for retail, when
+[51:58] it comes to the business side of this,
+[52:00] yes, we have institutional and corporate
+[52:01] products, but we also have small and
+[52:03] medium-sized business products to help
+[52:05] them accelerate adoption, to help them
+[52:08] create demand on Bitcoin, but more
+[52:10] importantly to be empowered by their
+[52:12] responsible saving in Bitcoin. Because
+[52:14] when you have a principal protected
+[52:16] note, you can post that note at people's
+[52:18] reserve as collateral and we will treat
+[52:21] it as pristine collateral. So now, if
+[52:23] you need to tap into that $500,000 for
+[52:25] whatever reason, you don't have to sell
+[52:27] the Bitcoin so that you can hire this
+[52:28] employee that you never you you gave
+[52:30] this guy the offer. You never thought
+[52:32] you were going to get him. He agreed.
+[52:33] Now he's coming to work with you, but
+[52:35] you need to pay him. So, you need to
+[52:36] liquidate your Bitcoin. No, you take the
+[52:38] principal protected note. You take the
+[52:39] Bitcoin bond, you post it as collateral,
+[52:41] you borrow against it to pay that guy,
+[52:43] and then over time, you use the cash
+[52:45] flows from the business to pay off that
+[52:47] debt. At the end, you have all of your
+[52:49] Bitcoin, the guy working for you, and
+[52:52] you get the best of both worlds. So,
+[52:54] these types of solutions at the small
+[52:56] and medium-siz business level, I think,
+[52:58] are just as important as the solutions
+[53:01] that we see coming from the Bitcoin
+[53:03] treasury companies for the institution
+[53:04] and corporate level. And the and the
+[53:06] small guy adds up. You know, I like it I
+[53:08] like to compare it like this. the the
+[53:10] tax brackets in the United States. If
+[53:13] you took all of the wealth of the of the
+[53:15] top 0.1% of the people of those tax
+[53:18] brackets, it wouldn't even make a dent
+[53:20] in the in the in the debt. Like it would
+[53:23] just it would you know like the Elon
+[53:24] Musk is worth like half a trillion,
+[53:26] right? So you take Elon Musk and the top
+[53:28] 50 below him, you're barely going to
+[53:30] make a debt in $36 trillion. So the
+[53:32] amount of taxes they're paying is is is
+[53:34] small relative to the aggregate amount
+[53:38] of the middle class people. So the the
+[53:40] the the majority of people who are pay
+[53:42] paying in the tax bracket in the middle
+[53:44] class, they're the ones who are creating
+[53:47] the majority here in the United States
+[53:49] of the five to6 trillion dollars of tax
+[53:52] revenue. The top 1% are not contributing
+[53:54] that much because they have tax shelters
+[53:57] because of many different reasons. But
+[53:59] even if you just took all of their
+[54:00] wealth and you taxed them at 100%, it
+[54:03] still wouldn't make a dent. It's it's
+[54:05] the vast majority of the middle class
+[54:07] people that produce those tax
+[54:09] revenues. Likely it is the vast majority
+[54:13] of small and medium-sized businesses
+[54:15] that represent much more purchasing
+[54:17] power than a Bitcoin treasury company.
+[54:20] So Sailor has done a great job raising
+[54:23] billions of dollars from the marketplace
+[54:25] to buy Bitcoin, but when you add
+[54:27] together all the small and medium-sized
+[54:30] businesses, they're going to produce
+[54:32] trillions of dollars of purchasing power
+[54:34] demand, not billions of dollars. So it's
+[54:38] it it it should not be a class of
+[54:41] business that is ignored or looked over.
+[54:44] Yes, we want to do it at the corporate
+[54:45] and institutional level, but also at the
+[54:48] small and mediumsiz business level. When
+[54:49] you add up the purchasing power of all
+[54:51] those small and medium-sized businesses,
+[54:54] it's significant. So, giving them the
+[54:56] proper tools that they need to get
+[54:57] Bitcoin on their balance sheet and get
+[54:59] exposure to Bitcoin in a way that
+[55:01] doesn't trap equity, but that empowers
+[55:03] them, that is going to lead to massive
+[55:06] acceleration of small and medium-sized
+[55:08] businesses getting involved in Bitcoin
+[55:10] accumulation.
+[55:12] That's a it's a really good point. And
+[55:15] and on top of that, I guess strategy
+[55:17] gets I'm actually curious how what you
+[55:20] think about that because they're getting
+[55:21] more and more competition in a sense. I
+[55:23] mean, Sailor himself wants competition.
+[55:25] He wants to more companies buying
+[55:27] Bitcoin and doing all the same things.
+[55:30] Uh but how do you look at 21 Capital
+[55:32] from Czech Mullers and and other
+[55:33] companies are kind of doing it? And I
+[55:35] think he even went ahead and said he
+[55:38] wants to or he thinks that he can
+[55:40] accumulate more Bitcoin than uh strategy
+[55:43] hasn't surpassed that which is kind of
+[55:45] crazy going above the half a million a
+[55:48] bitcoin that strategy already has. Yeah,
+[55:51] and that's a great question uh because I
+[55:53] I I love Sailor and I like Mullers and I
+[55:57] think they're they're two top people in
+[55:59] the industry. Uh and I hope to be I hope
+[56:01] to be swimming in that circle pretty
+[56:03] soon with people's reserve because uh
+[56:05] you know we have the same vision. We
+[56:07] want to perform a reverse merger. We
+[56:09] want to be we want to get access to US
+[56:11] capital markets and we want to start
+[56:13] accumulating Bitcoin. I think the
+[56:15] difference of people's reserve and
+[56:17] strategy and 21 besides them already
+[56:20] completing that process and having
+[56:22] access to US capital markets which is a
+[56:24] big difference by the way. So, we're
+[56:25] very excited to accelerate that and get
+[56:28] where we need to be so we can start
+[56:29] playing the game. It's one thing to to
+[56:31] be playing the game and wanting to play
+[56:32] the game. So, we got to get to the point
+[56:34] where we're actually playing the game.
+[56:35] But when we get there, what
+[56:37] differentiates us is that we actually
+[56:40] will have an ecosystem through our
+[56:43] products and services that produces
+[56:45] revenues and then those revenues are
+[56:47] going to pass through and eventually be
+[56:50] paid as dividends. So, not all Bitcoin
+[56:54] treasury companies are in a position
+[56:56] where they can actually pay investors
+[56:58] dividends. And I think that's really
+[56:59] important because although the Bitcoin
+[57:03] per share is going up, like I'm very
+[57:05] happy with the performance of my Micro
+[57:08] Strategy stock and I'm a static that the
+[57:10] Bitcoin per share and that Bitcoin yield
+[57:13] metric is just performing at a rate that
+[57:16] is unbelievable. However, I can't turn
+[57:19] my Micro Strategy stock in for that
+[57:21] Bitcoin. So, you know, until there comes
+[57:24] a day where I can turn my shares into my
+[57:26] broker and get Bitcoin sent into my cold
+[57:29] wallet, I I think the the thesis is that
+[57:32] this is a long-term investment into the
+[57:35] into one of the future central banks of
+[57:36] the internet economy, which is why I'll
+[57:38] never sell my shares because I believe
+[57:40] he's going to succeed at that. I mean,
+[57:42] he's doing a heck of a job and I and
+[57:44] it's going to be hard to c be very hard
+[57:46] for anybody to catch him. However, I do
+[57:48] think the next evolution of Bitcoin
+[57:51] treasury companies is fast approaching
+[57:53] and those Bitcoin treasury companies
+[57:55] aren't going to be only accumulation
+[57:58] engines. They will be accumulation
+[58:00] engines as well as profit engines. And
+[58:03] from the investor's side, uh, it's very
+[58:06] exciting to think about the long-term
+[58:08] potential of any Bitcoin treasury
+[58:10] company, but also it's
+[58:13] very effective to be able to receive a
+[58:16] dividend from that company, to be able
+[58:18] to receive some sort of cash flow from
+[58:20] your investment. So, while you're
+[58:22] waiting for that company to turn into
+[58:24] the central bank of the internet
+[58:25] economy, you're also getting some type
+[58:28] of benefit that isn't just based on
+[58:30] share price and long-term vision. It's
+[58:33] actually based on dividend distribution
+[58:36] and having a way to increase your
+[58:38] quality of life and standard of living
+[58:40] today. And I think there's a place for
+[58:42] both of those. There's there's going to
+[58:43] be obviously continued interest in the
+[58:46] original innovator and the in the in the
+[58:48] on top of the shoulders of of which
+[58:50] everybody in this industry is building
+[58:51] on top of which is Michael Sailor and
+[58:53] I'm not going to ever sell my shares.
+[58:55] And then there's going to be other
+[58:56] companies that come and and mimic that
+[58:57] strategy which is what we're seeing now.
+[58:59] But I do believe the next evolution of
+[59:01] Bitcoin treasury companies is going to
+[59:04] have I mean people's reserve may be the
+[59:06] first we may not be but if if we can
+[59:09] accelerate this timeline we will be the
+[59:10] first where we actually have cash flow
+[59:15] through our financial engineering
+[59:17] operations for retail. So we we can
+[59:19] raise capital through our financial
+[59:21] engineering for cooper for uh for uh
+[59:24] corporations and for institutions. But
+[59:28] then the way we deploy that capital
+[59:31] doesn't just create Bitcoin yield. It
+[59:33] also empowers the ecosystem which allows
+[59:36] us to onboard more customers which
+[59:38] creates more revenues which then pass
+[59:40] through as dividends. And that is going
+[59:43] to be like the the perfect sweet spot
+[59:45] where you have the long-term Bitcoin
+[59:48] treasury company, central bank of the
+[59:50] internet economy vision, but then you
+[59:52] also have the cash flow to produce a
+[59:55] dividend to make your shareholders feel
+[59:59] some type of benefit in the now instead
+[60:02] of having to put all the benefit in the
+[60:04] later because we already have that with
+[60:05] our Bitcoin, right? that we buy Bitcoin
+[60:08] not so that we can spend it today or
+[60:10] tomorrow, but that so that we can have
+[60:11] it in the long-term future. So, people
+[60:13] who have been saving Bitcoin responsibly
+[60:15] for a very long time. We don't we don't
+[60:18] ever want to sell our we want to hand
+[60:20] off our Bitcoin. We want to put our
+[60:21] Bitcoin into a trust and then make sure
+[60:23] that trust takes care of our family for
+[60:24] generations and generations to come.
+[60:26] That's that's a Bitcoiner's mindset. But
+[60:29] at at the same time, do I need to have a
+[60:32] dual strategy on this? Do I need to have
+[60:33] a a leveraged strategy on the long term
+[60:37] with shares and Bitcoin? Can't Bitcoin
+[60:39] just do that and then with my shares, I
+[60:41] can leverage those to create a little
+[60:44] bit of cash flow with the long term
+[60:47] because it's it's interesting like the
+[60:49] dynamics. I'm sure we're going to see a
+[60:51] bunch of financial engineering from all
+[60:53] the Bitcoin treasury companies and
+[60:55] they're going to do exactly what Michael
+[60:56] did. They're just going to they're going
+[60:57] to copy what he did because what he's
+[60:58] done is genius. And you're going to see
+[61:00] convertibles, you're going to see
+[61:01] preferreds, you're going to see a whole
+[61:02] bunch of different options to facilitate
+[61:05] solutions that are that that are solving
+[61:08] problems faced by different pools of
+[61:10] liquidity in the marketplace. And that's
+[61:12] what Michael is doing. And other
+[61:14] treasury companies will do that. But at
+[61:16] some point in time, there needs to be a
+[61:18] way to get exposure to a Bitcoin
+[61:20] treasury company that wants to be a
+[61:22] central bank of the internet economy,
+[61:24] but also has the means to pay a dividend
+[61:27] so that you can increase your quality of
+[61:28] life and standard of living today with
+[61:30] the distribution of that dividend and
+[61:33] then bank on the future of tomorrow with
+[61:34] your Bitcoin savings. And that's what I
+[61:37] that's what I'm so excited about
+[61:38] People's Reserve because that's that's
+[61:40] what differentiates us. our our mindset
+[61:43] is not fullon Bitcoin accumulation.
+[61:46] Absolutely. It's aggressive Bitcoin
+[61:48] accumulation, but at the same time, it's
+[61:50] also aggressive dividend distribution so
+[61:53] that our shareholders can feel the
+[61:55] benefit today and win in the long term
+[61:58] with our vision and their Bitcoin
+[62:00] savings. kind of marrying both visions
+[62:04] of the traditional market and a
+[62:05] traditional Bitcoin hodddler together in
+[62:08] a way that delivers long-term value and
+[62:11] value today.
+[62:13] That's that's that's really really I I I
+[62:17] love that future. I I love where where
+[62:19] this is going and I'm really looking
+[62:20] forward I'm I'm also really looking
+[62:22] forward to um looking back at people
+[62:26] reserves and what you're doing now and
+[62:28] seeing in 10 years looking back at this
+[62:31] podcast and see how how this develops.
+[62:33] I'm already looking at forward at this
+[62:35] episode and and and seeing how how it
+[62:37] developed.
+[62:38] Yeah, that'll probably be our uh our
+[62:41] 10th episode, right?
+[62:44] Well, 20th. Let's see. 20th episode.
+[62:47] Yeah, I see. Um I I I want to touch on
+[62:50] one more thing before we come to the end
+[62:51] routine. um you mentioned a peaceful
+[62:54] transition and I was always on the fence
+[62:57] of like oh do we have a peaceful or non
+[62:59] non- peaceful uh transition and since
+[63:03] kind of 2094 and 205 I changed my my
+[63:06] mind completely and I'm pretty pretty
+[63:09] sure we have a peaceful transition out
+[63:11] of two reasons because the biggest world
+[63:14] power with the USA is now fullon
+[63:18] acceptable with Bitcoin before 2094 I
+[63:22] was never really sure like, oh, they
+[63:24] haven't even an ETF. Maybe they declare
+[63:26] war on Bitcoin like it it was not it was
+[63:29] not impossible that had that happens.
+[63:31] But now with the ETF and especially now
+[63:34] with Trump saying strategic Bitcoin
+[63:36] reserve with so many friendly Bitcoin
+[63:39] friendly uh policies, it's for me
+[63:42] completely out of the question that we
+[63:45] do not have a peaceful transition. We
+[63:47] will have a peaceful transition if
+[63:50] nothing changes. If if the USA all of
+[63:52] the sudden says, "Oh, like we hate
+[63:53] Bitcoin and and we that if that happens,
+[63:57] even though I don't put any thing on
+[64:00] that, yeah, maybe maybe we have a non
+[64:03] not as peaceful transition. Um, but I'm
+[64:06] really curious what you think on the
+[64:08] strategic Bitcoin reserve and what what
+[64:11] the implications of that is and what
+[64:15] what you're kind of seeing from uh
+[64:18] nation states stacking Bitcoin on
+[64:20] individuals. We talking individuals
+[64:22] buying homes. We talk about uh big
+[64:24] companies. Uh but the the real end boss
+[64:27] that I have a lot of money endless money
+[64:30] basically is basically printing money to
+[64:32] to buy Bitcoin the the USA with the Fed.
+[64:36] Yeah. Yeah. Absolutely. So when we talk
+[64:38] about sovereign Bitcoin
+[64:40] accumulation, this
+[64:43] is this is the biggest warning bell that
+[64:46] there is. And we see countries are they
+[64:49] see there's multiple ways to accumulate
+[64:51] Bitcoin. You can accumulate Bitcoin
+[64:53] through taxes. You can accumulate
+[64:54] Bitcoin through mining. You can
+[64:56] accumulate Bitcoin through buying it in
+[64:58] the spot market. So those are the three
+[65:01] main ways that governments can acquire
+[65:04] Bitcoin. So here in the United States, I
+[65:06] think it's it's really important that we
+[65:09] get Trump's executive order actually
+[65:12] codified into legislation so that it
+[65:14] becomes law and and by law we have a
+[65:17] strategic Bitcoin reserve. And you know,
+[65:20] some of the handcuffs that come with the
+[65:21] strategic Bitcoin reserve include once
+[65:23] you buy it, you can't touch it for I
+[65:25] think 10 or 20 years and then when you
+[65:28] do sell it, the proceeds from that sale
+[65:30] have to pay down the national debt. So,
+[65:32] you know, these are these are good
+[65:33] handcuffs that we need because we're not
+[65:35] China. And every four years, we're going
+[65:38] to see uh an administration change and
+[65:40] then every two years we're going to see
+[65:42] the the the lower levels of of of
+[65:45] Congress and and stuff change. So, we
+[65:48] have a lot of change within our system.
+[65:50] So, it makes perfect sense to put these
+[65:51] handcuffs in there because you don't
+[65:53] want there to be a change that disagrees
+[65:55] with you and then ruins all of that hard
+[65:57] work. Um, so the strategic Bitcoin
+[66:00] reserve is of the utmost importance. But
+[66:03] I've been saying this for a while and I
+[66:05] I thought a while back I was I was
+[66:08] nominated to to sit on
+[66:10] um RFK's Council of Economic Advisors
+[66:14] and I I finished eight out of like
+[66:16] hundreds of people and I never heard
+[66:17] from them which was really disappointing
+[66:19] because I don't know they contacted me
+[66:21] and said you've been nominated and then
+[66:23] I I told some people to vote and we
+[66:25] voted we did really well. I never even
+[66:26] got I never heard back from them at all.
+[66:29] But if I did, one thing that I would be
+[66:31] pushing for today is the Bitcoin
+[66:34] recapitalization fund because we don't
+[66:36] just need a strategic Bitcoin reserve.
+[66:39] The strategic Bitcoin reserve is really
+[66:41] important because that is your long-term
+[66:43] huddle. That is that is the coins that
+[66:45] we are accumulating for future
+[66:47] generations. Those are the coins that we
+[66:49] are accumulating so that the asset side
+[66:51] of our balance sheet, the growth of that
+[66:54] side of our balance sheet can outpace
+[66:56] the growth of liabilities. So you could
+[66:58] imagine if you if you work a regular job
+[67:01] and you go from making 60,000 to
+[67:03] $600,000 a year, then you're going to
+[67:06] have a much stronger credit score,
+[67:07] right? Because now you have a lot more
+[67:09] income. So your credit score is going to
+[67:10] go up. Your debt to income ratios are
+[67:12] going to go down. You're going to be in
+[67:12] a stronger financial position. And we've
+[67:15] seen this with El Salvador. El Salvador
+[67:17] added Bitcoin to their balance sheet.
+[67:18] They had some of the best trad
+[67:20] performing bonds in the world and and
+[67:22] and banks that don't like them had to
+[67:25] increase their credit ratings because
+[67:26] they were getting into a stronger credit
+[67:28] position thanks to their accumulation of
+[67:30] Bitcoin. So the strategic Bitcoin
+[67:32] reserve is super important and I like
+[67:34] the way the law is written. However,
+[67:37] this is about innovation. This is about
+[67:38] the United States maintaining its
+[67:41] financial leadership throughout the
+[67:43] world. There is the internet economy
+[67:45] domain. No, no one country can control
+[67:47] it or out compete it. Therefore, someone
+[67:50] must step up in an attempt to lead it.
+[67:53] And if you're going to lead the internet
+[67:54] economy, you must lead in innovation.
+[67:57] You cannot pull a China and ban mining.
+[68:00] You cannot pull u uh another I don't
+[68:04] even know a good example. You cannot
+[68:05] pull a country that is going to turn off
+[68:08] innovation and not be open to
+[68:09] integrating Bitcoin. And I and that's
+[68:12] why I love your point uh the United
+[68:14] States opening up its doors and and
+[68:17] choosing which path it was going to go
+[68:19] at this fork in the road. Thank God they
+[68:21] chose the fork where we chose
+[68:23] innovation, we chose acceptance, we
+[68:25] chose adoption, we chose a we're trying
+[68:28] to figure this out, right? But as we're
+[68:30] trying to figure this out and we're
+[68:31] trying to get the strategic Bitcoin
+[68:33] reserve codified into law, there needs
+[68:36] to be a secondary push and that
+[68:37] secondary push is for the Bitcoin
+[68:39] recapitalization fund. And what we can
+[68:41] do, like one of the ideas that I had
+[68:43] before was the United States of America
+[68:45] is is charging tariffs right now, right?
+[68:47] Donald Trump is charging tariffs. Well,
+[68:51] Trump should just say, "Okay, if you're
+[68:52] going to pay your tariffs in dollars,
+[68:54] here's the here's the tariff rate."
+[68:56] However, if you're going to pay tariffs
+[68:58] in Bitcoin, we'll give you a discount to
+[69:00] that tariff rate, and you'll pay this
+[69:02] lower tariff rate because you're making
+[69:04] payment in Bitcoin. And then we can
+[69:06] accumulate all the tariff payments that
+[69:08] are made in Bitcoin into the Bitcoin
+[69:10] recapitalization fund. And the goal of
+[69:12] the Bitcoin recapitalization fund is to
+[69:15] recapitalize the republic. A lot if you
+[69:18] look in the United States and you look
+[69:19] at our infrastructure and then you
+[69:21] travel to other first world countries
+[69:22] and you look at their infrastructure. I
+[69:24] just saw in China they have a a magnetic
+[69:27] train that goes 620 m hour. That's
+[69:31] faster than a commercial airliner. So in
+[69:34] China, they're using magnetic trains and
+[69:36] traveling faster than we are we here are
+[69:38] in the United States using jetliners.
+[69:41] Where is our infrastructure? Where is
+[69:43] our train infrastructure? Where is our
+[69:46] city infrastructure? Why are we lagging
+[69:49] behind as a global leader? Why are why
+[69:51] is our infrastructure lagging behind
+[69:54] other competitive countries, other
+[69:56] countries that are competing to be at
+[69:58] the top of the world? Why? How? How is
+[70:01] that? We spent $36 trillion. We promised
+[70:04] to pay another $220 trillion. Where the
+[70:07] hell did the money go? And I think what
+[70:09] Elon Musk is doing with Doge is starting
+[70:11] to get the answer to some of those
+[70:12] questions. And unfortunately, the
+[70:15] lawyers came to the conclusion that,
+[70:16] well, hey, if the government sends
+[70:18] people money and they spend that money,
+[70:19] that's not fraud. It's just waste. It's
+[70:21] the government's money for sending it
+[70:22] out in the first place. So, we're not
+[70:24] going to see those arrests. We're not
+[70:25] going to see people get in trouble like
+[70:27] we wanted to. we're going to see the
+[70:29] waste come to an end, which I think is
+[70:31] of the utmost importance, but we have to
+[70:34] figure out ways to innovate. So if we
+[70:36] can cut waste and limit the growth of
+[70:38] liabilities, accelerate growth of assets
+[70:41] through the strategic Bitcoin reserve,
+[70:43] but then innovate through the through
+[70:45] the Bitcoin recapitalization fund,
+[70:47] issuing Bitcoin bonds, issuing municipal
+[70:50] Bitcoin bonds so that we can make sure
+[70:52] that the liquidity that comes into these
+[70:54] products is redistributed directly into
+[70:57] the smaller towns that are that are more
+[70:59] easily held accountable. You know, a lot
+[71:01] of people who support Trump see him
+[71:03] fighting against the system. And and I
+[71:05] personally believe that's accurate, but
+[71:07] some people don't believe that. Well,
+[71:08] it's much easier to not fight the system
+[71:11] if you're doing it at the municipal
+[71:13] level because the municipal level
+[71:15] politicians are going to be held
+[71:16] accountable. It's easier to fight your
+[71:18] local politicians. I shouldn't say the
+[71:20] word fight. You don't need to. It's
+[71:21] easier to negotiate and and work with
+[71:24] your local politicians than it is to
+[71:27] fight the system. than it is to work
+[71:29] with the system, right? Because as soon
+[71:31] as you start to work with the system,
+[71:32] you need lobbying dollars and you need
+[71:34] millions of dollars. But when you're
+[71:36] working with your local municipality,
+[71:38] it's it's a negotiation. You're talking
+[71:40] to your neighbor. You're not talking to
+[71:42] a a stateide rep or a federal rep.
+[71:45] You're talking to your neighbor. And I
+[71:47] think that is how we recapitalize the
+[71:49] republic. We take some of the liquidity
+[71:51] flowing into the federal system and
+[71:53] redirect it into the states and kind of
+[71:56] let Thomas Jefferson's original vision
+[71:59] of states solving these local problems
+[72:02] where they're more local to the problem
+[72:04] and can come up with better solutions to
+[72:06] come up a and go ahead and do those
+[72:08] solutions. But how do we finance it?
+[72:10] through municipal Bitcoin bonds, through
+[72:12] the strategic Bitcoin recapitalization
+[72:14] fund that is specifically used just like
+[72:17] the SBR comes with the handcuffs, the
+[72:20] strategic recapitalization fund. This it
+[72:22] comes with a a a rule to innovate. Like
+[72:26] you're not just going to accumulate
+[72:27] Bitcoin. You're going to find ways to
+[72:29] use Bitcoin to empower we the people.
+[72:32] You're going to find ways to deploy this
+[72:33] Bitcoin capital to attract liquidity to
+[72:36] the United States, attract investment to
+[72:38] the United States, to build out
+[72:40] infrastructure, to create manufacturing
+[72:42] jobs, to do all the things that we
+[72:44] wouldn't be able to do with a fiat
+[72:46] system, leverage the internet economy,
+[72:49] leverage engineered money to empower
+[72:52] your constituents, to empower we the
+[72:54] people to increase quality of life and
+[72:57] standard of living through municipal
+[72:59] Bitcoin bonds and through other other
+[73:01] options we would have through that
+[73:03] recapitalization fund. So I think yeah,
+[73:05] you're right. The the United States
+[73:07] embracing Bitcoin is a huge first step,
+[73:10] but we also must embrace the internet
+[73:13] economy and then be motivated enough to
+[73:16] step up and take a leadership role,
+[73:19] which is going to require innovation.
+[73:20] And I can tell you right now, if we
+[73:22] don't do it, other countries will. And
+[73:25] we definitely want to be the first
+[73:27] country to step up and take the lead and
+[73:29] set the precedent. And the clock is
+[73:31] ticking because as we accelerate up this
+[73:34] scurve of adoption we talked about
+[73:35] earlier, other countries are going to
+[73:37] step up because of the rate and pace of
+[73:39] their own adoption. We see the kingdom
+[73:41] of Bhutan is mining Bitcoin. They they
+[73:44] took their mining profits and now they
+[73:46] built a big international airport. So
+[73:48] this is a big use case study of how you
+[73:50] could acquire Bitcoin and then promote
+[73:54] infrastructure building and then that
+[73:56] infrastructure that airport people are
+[73:57] going to come in and out of that
+[73:58] airport. It's going to generate revenues
+[74:00] and tax revenues. It's going to bring in
+[74:01] visitors. It's going to bring more
+[74:03] people into the country into the local
+[74:04] economy. That's what this is all about.
+[74:06] Because even Bitcoin at the top of the
+[74:08] Scurve, at the top of the S-curve,
+[74:11] Bitcoin's value is tethered to economic
+[74:14] value. So if the economy is shrinking,
+[74:16] the value of Bitcoin will shrink. If the
+[74:18] economy is expanding, the the value of
+[74:20] Bitcoin will expand. So the long-term
+[74:23] function of Bitcoin is to be a
+[74:25] measurement or metric on the true
+[74:28] performance of the economy. And in order
+[74:31] to get the best possible performance out
+[74:32] of the economy, we must be willing to
+[74:35] innovate and reinvest into the economy.
+[74:38] So just like a small and medium-sized
+[74:40] business must properly manage revenues
+[74:42] and reinvest in the business to grow it,
+[74:44] a country must reinvest its revenues to
+[74:47] grow infrastructure to increase quality
+[74:49] of life and standard of living living to
+[74:52] incentivize Bitcoiners who create value
+[74:54] to come live in your state or in your
+[74:57] country. That's where this is all going.
+[74:59] And it starts with the strategic Bitcoin
+[75:01] reserve. It accelerates with the
+[75:03] recapitalization fund and it ends up
+[75:06] with us being a innovative leader in the
+[75:09] internet economy guaranteeing that we
+[75:12] play a role in the future of finance and
+[75:14] leverage those financial products to
+[75:16] empower our own people.
+[75:19] I'm I'm calling it now. Uh we have now
+[75:22] the the last Trump term and then we have
+[75:25] probably two terms of JD Vance and then
+[75:27] 2036 JDK for president, I would say.
+[75:32] Yeah. I I mean, yeah, I I hope you're
+[75:34] right. And I think I think we're going
+[75:36] to get it here. I Trump really did a
+[75:38] good job of allowing that short-term
+[75:41] pain to take place in the very beginning
+[75:43] of his uh term. So, now that we've seen
+[75:46] this big uh bounce and I think we're
+[75:49] going to see a big acceleration in the
+[75:51] coming weeks, uh and that's and that's
+[75:53] not to say there's going to be real
+[75:54] value growth, right? We're going to see
+[75:55] nominal value growth. So, if you're
+[75:57] sitting in the S&P nominally, you're
+[76:00] going to get richer, but in real terms,
+[76:01] you're still going to get poor. So, you
+[76:03] still need to find the solution to
+[76:05] outpace the the the growth of the
+[76:07] currency supply with Bitcoin. But yeah,
+[76:10] the way that he set this up, we've been
+[76:12] through I mean the traditional markets
+[76:14] went down almost down to the 200 day uh
+[76:16] 200 day moving average. So that you know
+[76:19] the last time we were there was when
+[76:21] they started raising interest rates and
+[76:23] the last time we were there was COVID.
+[76:25] So it takes big shifts in market
+[76:28] dynamics and market narratives to get
+[76:31] prices down to that 200 day moving
+[76:33] average. We already have been down to
+[76:36] that level and we are now back up almost
+[76:38] making new all-time highs. So, I think
+[76:40] we've had that big sell-off event in the
+[76:42] early part of Trump's term. He's going
+[76:44] to accelerate and push as hard as he can
+[76:46] to create nominal growth through the
+[76:48] remainder of his term. That's going to
+[76:50] usher in, as you said, the JD Vance
+[76:52] error. And and and who knows when we get
+[76:54] there, but he could probably get a
+[76:56] double term and do eight years. And if
+[76:58] we have these remaining years plus those
+[77:01] eight years and the war on crypto
+[77:03] doesn't come back from the people who
+[77:05] are in control of the other side
+[77:07] unfortunately it's becoming more and
+[77:09] more bipartisan thankfully. You know
+[77:11] I've talked to people like Dennis Porter
+[77:12] at Satoshi Action Fund. Bitcoin unites
+[77:14] us more than it separates us. So
+[77:16] thankfully we're we're becoming more
+[77:18] united around Bitcoin and what it stands
+[77:20] for and how it benefits all constituents
+[77:23] regardless of their their stance being
+[77:26] uh conservative or liberal. doesn't
+[77:28] really matter. It unites everybody. So,
+[77:30] we need to embrace that uniting function
+[77:33] and take advantage of the next 11 years
+[77:36] to make sure that we innovate and that
+[77:38] we as aggressively as we possibly can
+[77:42] step up and and to our the best of our
+[77:44] ability take the lead in the internet
+[77:47] economy and and I also think that that
+[77:49] comes with Bitcoin education. So, you
+[77:51] know, the government the government
+[77:52] wants to tell you everything. Why why
+[77:53] can't they teach you a little bit about
+[77:55] Bitcoin, too?
+[77:57] Absolutely. And after Jade events, as I
+[77:59] said, CJ J
+[78:01] Constantinos. I would love to see that.
+[78:04] Um, really cool. Then, um, we, by the
+[78:07] way, is it something you you you even
+[78:09] would like to do? Oh, no. Absolutely
+[78:12] not. Absolutely not. Building People's
+[78:14] Reserve has been, um, one of the
+[78:17] toughest toughest things I've ever done
+[78:20] in my life.
+[78:21] And I feel called to it. And if I wasn't
+[78:25] called to it, I would have left a long
+[78:27] time ago. The amount of time and energy
+[78:29] that goes into everything that we've
+[78:31] done over the last four years um is is
+[78:35] is very taxing and very draining. But if
+[78:39] you feel called to it, that taxing and
+[78:41] draining is actually rewarding. So, I I
+[78:43] feel very well rewarded for the time and
+[78:46] energy I've put into people's reserve
+[78:48] because I know the value that we're
+[78:50] going to deliver to people and I know
+[78:52] that our ethos that Bitcoin maxi mindset
+[78:55] where it's about orange peace love where
+[78:58] we deliver value to you instead of
+[78:59] extract value from you. We are going to
+[79:02] set the bar. We are going to set the
+[79:04] standard of what a business relationship
+[79:07] should look like in a Bitcoin standard
+[79:09] world where you're not a profit
+[79:11] maximalist. you're a relationship
+[79:13] maximalist. And as we transition into
+[79:17] the the Bitcoin standard, the the
+[79:20] companies who have that mindset are
+[79:22] going to be around for a really long
+[79:24] time. And the companies who are still
+[79:26] holding on to that value extraction
+[79:28] model that came with the fiat system. I
+[79:31] mean, they're still going to be there
+[79:32] because some of them have acquired large
+[79:34] sums of of money and even are going to
+[79:36] be able to acquire large sums of
+[79:37] Bitcoin, but they're not going to
+[79:38] perform as well because consumers
+[79:40] themselves are going to start waking up
+[79:42] to how they should be treated by a
+[79:45] company and to the fact that they're
+[79:46] getting value extracted from them
+[79:48] instead of delivered to them. So, the
+[79:50] the fact that we get to flip the script
+[79:52] and kind of lead the way uh in the
+[79:55] orange piece love narrative, that has
+[79:58] been super rewarding for me. but to move
+[80:00] on and do what Trump does right now.
+[80:02] There is no amount of money, there is no
+[80:06] essay or or grouping of words that could
+[80:09] convince me to give up more time and
+[80:12] energy uh from my family. So, I look
+[80:14] forward to launching People's Reserve
+[80:16] and continuing to put in large amounts
+[80:18] of time and energy into the growth of
+[80:20] the company uh and into the global
+[80:22] adoption of Bitcoin and into the pushing
+[80:26] Bitcoin education to all corners of the
+[80:28] earth. Uh and I feel called to do that.
+[80:31] But anything besides that, I really feel
+[80:33] like I wouldn't be my heart wouldn't be
+[80:35] in it. Uh and therefore, I wouldn't be
+[80:36] able to deliver as much value as I could
+[80:39] deliver here uh at People's Reserve.
+[80:42] Great answer. I love that. Um, we have
+[80:46] uh two end routines. One end routine is
+[80:48] always the same question. Uh, and the
+[80:50] question is for you. What have you
+[80:52] learned since your last appearance on
+[80:54] this podcast outside of Bitcoin?
+[80:59] Oh, that's a good one.
+[81:04] Uh, that's a that's a really good one
+[81:06] because Bitcoin is pretty much all I do.
+[81:09] There is no outside of Bitcoin for me.
+[81:11] Uh, I I learned that um teenage
+[81:14] daughters like to talk back uh and that
+[81:17] and they're always right. Uh I've
+[81:19] learned that uh four and five and
+[81:21] six-year-old brothers like to wrestle
+[81:23] with each other. Um uh outside of
+[81:27] Bitcoin, I don't know. But I I guess if
+[81:28] I had to answer the question, I would
+[81:30] say it this way. Um I think what's going
+[81:33] on right now with the OP return argument
+[81:36] is what I've learned is that Bitcoin
+[81:39] isn't just code. It's community, right?
+[81:42] And that's why it's so important to make
+[81:43] sure that you're running a node and that
+[81:45] you can signal to the miners and to the
+[81:48] marketplace where you stand because
+[81:50] people ask like, are they going to vote
+[81:52] on it? That like it's an ongoing
+[81:54] consensus mechanism. So, you have to
+[81:56] signal into that consensus how you feel
+[81:59] in order for the market to understand
+[82:01] your place and your opinion. So this
+[82:03] this argument right now we have with
+[82:05] removing the data limits on op returns.
+[82:08] I mean a lot of people have been DMing
+[82:10] me and say why haven't you spoken about
+[82:12] this? But I think this question kind of
+[82:14] tease me up perfectly because what I've
+[82:16] learned is it's not just about money and
+[82:18] it's not just about finance. It's about
+[82:20] community and it's about people and it
+[82:22] is about consensus and working together.
+[82:25] So Bitcoin is not just a savings
+[82:27] technology. It's also a voting system.
+[82:30] It's also a consensus mechanism that
+[82:33] allows humans to come together and
+[82:35] signal their beliefs without having as
+[82:38] much argument and fighting, right? So,
+[82:41] we have to run if you're in Bitcoin, you
+[82:43] should run a node. The amount of nodes
+[82:44] there are relative to Bitcoin users is
+[82:47] not good enough. So, we need to push
+[82:49] nodes and we need and people need to
+[82:51] understand how to run a node and most
+[82:53] importantly, the cost of spinning up a
+[82:56] node and the and the technical
+[82:58] requirements of that node. itself need
+[83:00] to be remained limited. So any type of
+[83:03] change to Bitcoin that could add to UTXO
+[83:06] bloat by allowing additional data to be
+[83:09] kept on chain must be scrutinized. We
+[83:13] need to understand that Bitcoin is a
+[83:15] monetary technology. Now Satoshi himself
+[83:19] put a text message in the first block,
+[83:21] right? The the chancellor on the brink
+[83:23] of bailouts. So, we know it can be used
+[83:27] for that reason, for data storage, but
+[83:30] it's a monetary network. And they and
+[83:32] and I want to say this because they try
+[83:34] to pull economics into this. Yeah, but
+[83:36] if they're going to pay to store their
+[83:38] data, they should be allowed to do it.
+[83:40] That's only true when Bitcoin is at the
+[83:42] top of the S-curve. So, my position
+[83:44] would be if you want to take away OP
+[83:46] return data limits, do it when Bitcoin's
+[83:48] at the top of the S-curve. Because at
+[83:50] the top of the S-curve, you have taken
+[83:52] away all bad actor incentive. You cannot
+[83:54] just say that, oh, if it costs money to
+[83:58] store data here, then bad people aren't
+[84:00] going to store data here, and it's not
+[84:02] our job to fill out to to to police
+[84:04] those bad people. It's a tough argument
+[84:07] because that's partly true. When when
+[84:10] those bad actors put in that data and
+[84:12] bloat
+[84:13] UTXO, they have to pay for it. So,
+[84:16] that's not economically sustainable,
+[84:18] right? Because if it's not like a if
+[84:19] it's not like a timestamp like you use
+[84:21] like a timestamp business model where
+[84:23] you're using Bitcoin to track and time
+[84:25] stamp things and you have to pay to
+[84:26] store that data and then someone's
+[84:28] willing to pay you more than the cost to
+[84:30] store the data, right? So it's like, oh,
+[84:32] I want to time stamp this. Oh well, you
+[84:33] know, it cost $100 to store that data.
+[84:35] No problem. I'll pay you $200. I want
+[84:37] this data on the blockchain. It becomes
+[84:39] economical. It becomes sustainable. And
+[84:41] the argument is is that that data
+[84:43] storage is not going to be economical.
+[84:45] It's not going to be sustainable. But I
+[84:48] think that argument is only correct when
+[84:50] you're at the top of the S-curve because
+[84:53] right now we still have cantillionaires
+[84:56] and the cantillionaires have the power
+[84:57] of the printer. So they can bloat the
+[85:01] UTXO and require nodes to have larger
+[85:06] technical specifications to store this
+[85:08] data, thus harming decentralization and
+[85:13] and making it more centralized by
+[85:15] blocking more people out of running a
+[85:17] node in a cheap and easy way. And they
+[85:20] have the incentive to do it. So when
+[85:23] they spend that money to store the data,
+[85:26] like if you have a bad actor who can
+[85:28] print money and they spend money to
+[85:30] store the data, they don't need a return
+[85:32] on investment. The return on investment
+[85:34] is that you're slowing down Bitcoin
+[85:36] because the faster Bitcoin takes over,
+[85:38] the faster you lose your ability to
+[85:40] print money. So their incentive is to
+[85:42] slow down Bitcoin, to make Bitcoin
+[85:44] stumble, to make Bitcoin less
+[85:46] decentralized, to bloat the UTXO set, to
+[85:49] do anything they can to attack Bitcoin.
+[85:51] So in my opinion, removing op return
+[85:54] data limits is an attack vector on
+[85:56] Bitcoin at this time. I think in the
+[85:58] long term at the top of the S-curve, it
+[86:00] is no longer an attack vector and the
+[86:03] natural laws of economic incentives will
+[86:06] protect that storage and protect that
+[86:08] through the cost of the storage versus
+[86:10] the economic return on that cost. But
+[86:12] right now, as we're moving through the
+[86:15] evolution of Bitcoin from digital gold
+[86:17] to pristine collateral, the money
+[86:19] changers, those who have a monopoly on
+[86:22] the financial system are absolutely
+[86:25] incentivized to attack Bitcoin at in any
+[86:28] way they can at any cost because it cost
+[86:31] them nothing to print money. And even if
+[86:33] they print a lot of money and they lose,
+[86:35] they just go crying to the government
+[86:36] and say, "If you don't give us the
+[86:38] money, everybody's going to lose their
+[86:39] money." So they print the money and give
+[86:40] it so that everybody doesn't lose. So
+[86:41] they have they have access to unlimited
+[86:43] funds to attack Bitcoin. There doesn't
+[86:45] need to be economic incentive for the
+[86:48] cost that they're paying to blow UTXO.
+[86:50] So we should make no changes to Bitcoin.
+[86:52] It should stay as it is. If they want to
+[86:54] take advantage, take away take advantage
+[86:56] through uh SegWit and Tap Routt, right?
+[86:58] Don't don't make additional changes.
+[87:01] Wait to make these changes until we're
+[87:02] at the top of the Scurve where it starts
+[87:05] to make sense. any change that be made
+[87:07] right now, especially for for reasons
+[87:09] based on economic incentive to me don't
+[87:12] make sense because those economic
+[87:13] incentives do not protect the the space
+[87:16] because the the people who are trying to
+[87:18] attack Bitcoin, they can print money and
+[87:20] they don't need a return on investment.
+[87:22] They don't need to get their cost
+[87:24] subsidized by selling a service. They
+[87:26] want to attack Bitcoin. They want to
+[87:28] slow it down so that they can maintain
+[87:30] power. And if and if you ignore that, if
+[87:32] you don't believe that, then I think you
+[87:33] need to study a little bit more. But
+[87:35] once we get through this and we and we
+[87:38] integrate and we move to the top of the
+[87:40] S-curve, then go ahead and remove it and
+[87:42] let the natural laws of economics and
+[87:44] incentives guard that space. But until
+[87:48] then, don't touch
+[87:49] anything. I I agree with that uh to
+[87:52] 100%. And I want to add uh any change to
+[87:57] Bitcoin must be really has must have a
+[88:01] really good reason
+[88:04] uh for that change to be there. I know
+[88:07] I'm coming actually from software
+[88:08] development. A small change in the
+[88:10] software can bring a problem that you
+[88:13] haven't even thought about before and
+[88:16] can break a system. So I don't think uh
+[88:19] the system will break because we we
+[88:21] removed that limit. But why take the
+[88:24] chance when there is for me personally
+[88:28] not a good enough reason to even remove
+[88:30] that limit in the first place? Uh so I
+[88:33] 100% agree with you and I just wanted to
+[88:35] add like change on Bitcoin has to have a
+[88:39] really freaking good reason uh to to do
+[88:42] that. Yeah, absolutely. So that that
+[88:45] would be the one. It's not really
+[88:46] technically outside of Bitcoin, but it
+[88:48] is because bit I look at Bitcoin as
+[88:50] money and finance, but there is that
+[88:52] third wheel which is community and and
+[88:55] we need to work together as a community
+[88:57] and run a node and signal to the network
+[89:00] how we feel about these things and be
+[89:02] active in the discussions and be sure
+[89:04] that you're open to both sides, right?
+[89:06] Nobody should be being blocked from
+[89:07] being able to say something. That's
+[89:09] ridiculous and there needs to be open
+[89:11] discussion on these things. And then if
+[89:13] you're going to site economic
+[89:15] incentives, those economic incentives
+[89:17] should be well thought out and
+[89:19] understood where we are now in the
+[89:21] emergence of this digital asset class
+[89:23] that we know as Bitcoin versus where
+[89:26] it's going to be in the long run where
+[89:28] some of the economic arguments they're
+[89:29] making. You know, if you're going to put
+[89:31] a picture of a or if you're just going
+[89:33] to store arbitrary data on Bitcoin, if
+[89:35] you're not getting a price for that
+[89:37] above your cost, then it's going to just
+[89:39] disappear, right? I mean when when um
+[89:42] when the BRC20 tokens went went crazy,
+[89:45] miners were making bank. There was like
+[89:47] a day or two where minor where the fees
+[89:50] were more than the block reward. But if
+[89:52] you look at the blockchain right now,
+[89:53] it's all gone. Why? Because there was no
+[89:55] economic incentive. But if you remove
+[89:58] the data limit on OP return and you can
+[90:01] do unlimited data, they're going to
+[90:03] bloat UTXO and it's going to be an
+[90:04] attack vector on Bitcoin. the economic
+[90:06] incentives are invalid when you're
+[90:09] fighting the money changers. Only after
+[90:11] full adoption can we can we do can we
+[90:14] even think about doing something like
+[90:15] that. But that human element, it's funny
+[90:17] because we always say Bitcoin removes
+[90:19] the human element. It it doesn't fully
+[90:22] remove the human element, right? Because
+[90:24] one thing I've learned is that community
+[90:26] and running a node and and participation
+[90:29] in discussions are a key part of Bitcoin
+[90:33] and we should all be participating. Even
+[90:35] if you're just now learning, there's
+[90:37] nothing wrong with asking a question and
+[90:40] diving into these conversations to make
+[90:42] sure that you understand the discussions
+[90:44] that are happening around Bitcoin at the
+[90:46] protocol level because it's not just the
+[90:49] long-term thesis of Bitcoin that is
+[90:51] important. it and the and the existing
+[90:53] narratives around Bitcoin that it's
+[90:55] important, but also the protocol
+[90:57] discussions and the maintainers of
+[90:59] Bitcoin who push these changes to core
+[91:02] code and and that affects the rest of
+[91:04] us. So, we should be paying attention to
+[91:05] those things and understand that Bitcoin
+[91:07] is not as much of a set it and forget it
+[91:10] as we might want it to be. Humans love
+[91:13] just buy it and forget about it. Yeah,
+[91:14] but you should buy it, then you should
+[91:16] spin up a node and then you should
+[91:18] project your opinion into the internet
+[91:19] economy with your node. uh and and
+[91:22] that's going to lead to a stronger
+[91:24] ecosystem.
+[91:26] I 100% agree. I love that a lot. Um we
+[91:29] have an end in the podcast as you know
+[91:31] where the previous guest is asking a
+[91:33] question for the next guest without
+[91:34] knowing who the next guest actually is
+[91:36] and the previous guest asks you an an
+[91:38] interesting um uh question. What is the
+[91:40] biggest goal uh you see yourself
+[91:44] accomplishing in the next 10 years?
+[91:46] Well, as somebody who's been
+[91:48] accumulating Bitcoin for a long time, I
+[91:52] think that my biggest goal will actually
+[91:54] be life. Life itself. So, thankfully,
+[91:58] right now, my wife is pregnant. We're
+[92:01] expecting our fourth child. Uh, it's a
+[92:03] boy. We're going to name Luke Paul. Uh,
+[92:05] so we're very excited to to welcome him
+[92:08] into the world later this summer. And I
+[92:10] think the best thing that anybody can do
+[92:12] right now um
+[92:15] is if you're if you're a man, find a
+[92:17] wife. If you're a woman, find a husband
+[92:19] and then start start making your family.
+[92:21] I mean, this is this is what life is all
+[92:24] about. There's no amount of Bitcoin that
+[92:26] can buy life. There is nothing you can
+[92:29] do that can create life. You must find
+[92:34] your soulmate. You must find your
+[92:36] husband or your wife. And then when you
+[92:38] come together and you create life with
+[92:40] that person and then you watch that life
+[92:42] grow in front of your
+[92:44] eyes, it's an indescribable feeling. And
+[92:47] no amount of anything can create life.
+[92:50] We cannot, we don't have the power of
+[92:52] the breath of life. So be appreciative
+[92:54] of the breath of life. And the best
+[92:57] thing I could do is bring as much life
+[92:59] into the world as possible. We do. You
+[93:01] know, Elon Musk is one of the very few
+[93:04] people in the world who who talks about
+[93:05] the fact that we have a depopulation
+[93:07] problem. The the mainstream narrative
+[93:10] that what the elite have brainwashed
+[93:12] people to think about and understand is
+[93:15] we have too many people on this planet.
+[93:16] There's too many people and we're
+[93:17] running out of room. No. Actually, if
+[93:19] you go look at the Georgia Guidestones,
+[93:21] the goals of the elite is to reduce
+[93:23] population down to 500 million people.
+[93:25] That's genocide. That's wickedness.
+[93:28] These people hate life. They want to
+[93:29] destroy it. We should we should create a
+[93:32] an environment in our life and in our
+[93:35] circles that respects life and values
+[93:38] life above everything. And the best goal
+[93:41] that not only myself but that anybody
+[93:43] can do is to produce a life and to raise
+[93:46] that life up to make the world a better
+[93:48] place. Congrats man. Four is an amazing
+[93:52] number. I love that. Do do you have like
+[93:54] I are you aiming for for for a specific
+[93:57] number? No, no specific number. Just
+[94:00] kind of uh going with the flow.
+[94:04] More, more, more. You know, people Yeah.
+[94:07] I need more Bitcoin. I never have enough
+[94:08] Bitcoin. I need more kids. I don't have
+[94:10] enough kids. You I mean, this person,
+[94:12] they they're own person. The way they
+[94:14] smile, the way they laugh, the way they
+[94:17] argue, the way they yell, the way they
+[94:18] think.
+[94:20] There's nothing more interesting to
+[94:22] watch than than a life that you have
+[94:24] played a role in producing grow up and
+[94:27] change and mature and and and I think
+[94:30] once people actually, you know, I think
+[94:32] the biggest blocker I talk a lot a lot
+[94:33] to a lot of my peers don't have any
+[94:35] kids. They're not married and they don't
+[94:36] have any kids. And you know, I'm in my
+[94:38] I'm in my mid-30s. I'm 34 now. and and
+[94:41] and a lot of my friends, they didn't get
+[94:43] married and they don't have kids and
+[94:44] they're still going out to Vegas to
+[94:46] party and uh going over to Indonesia to
+[94:49] to go surfing. And it's like it's all
+[94:51] about you. You you you and you think
+[94:54] you're going to be happy when you do
+[94:55] what you want to do. But when you have
+[94:57] another life, when you have a child, it
+[95:01] produces a happiness in you that surfing
+[95:04] the gnarliest wave and getting the
+[95:06] longest barrel of your life is nothing
+[95:09] compared to having your kid run up and
+[95:11] give you your you give you a hug. U
+[95:13] being able to go home and just talk with
+[95:16] your wife who or your husband who's your
+[95:19] significant other and know that that
+[95:20] person cares about you and wants to hear
+[95:22] what you have to say. There's nothing
+[95:24] that can there's no experience that can
+[95:26] deliver the euphoria that comes with
+[95:30] having a family. So my my my thing would
+[95:33] be create as much life as you can. We
+[95:36] need it. We're going the wrong
+[95:37] direction. We've been brainwashed to
+[95:40] depopulate and we need to get rid of
+[95:42] that mindset and rebrainwash to populate
+[95:46] so that we can get as much Bitcoin
+[95:48] babies as we can. It's it's a beautiful
+[95:52] I cannot think of a better way and a
+[95:54] more beautiful way to to end this
+[95:56] podcast. We
+[95:58] almost exact the same time that we also
+[96:01] did the last time actually. It's kind of
+[96:03] amazing. Um thank you so much uh CJK for
+[96:07] for being on the podcast. Um before I
+[96:09] let you go, where can people find you,
+[96:10] ask you questions, and reach out to the
+[96:12] people reserve? Yeah, absolutely. Well,
+[96:14] thank you so much for having me, Robin.
+[96:16] It was a a pleasure as usual and I'm
+[96:18] already looking forward to the next one.
+[96:20] Uh for everybody out there listening,
+[96:22] the best thing to do is uh you can
+[96:24] follow me on X CJ Constantinos, but you
+[96:28] definitely want to go to
+[96:29] people'sreserve.com. Sign up for the
+[96:31] newsletter because uh we're going live
+[96:33] this summer. So, if you want to stay
+[96:35] uptodate on when we're going live and
+[96:37] you want to learn about our products and
+[96:39] services, sign up for the newsletter so
+[96:41] that we have a direct line of
+[96:42] communication with you and you're always
+[96:44] going to get the news there first uh
+[96:47] rather than through other sources. And
+[96:49] then there's also a get in touch form.
+[96:51] So, if you know that you want to use one
+[96:52] of our products or services, if you're a
+[96:54] person who's looking to buy a home and
+[96:55] wants a mortgage, uh, or if you're a
+[96:57] small or medium-sized business who knows
+[96:59] that they want to get Bitcoin on their
+[97:00] balance sheet, or maybe you're a
+[97:02] politician, you're a local
+[97:03] representative and you're interested in
+[97:05] in working with us to issue municipal
+[97:07] Bitcoin bonds. Use our get in touch
+[97:09] form. Reach out to us. We have
+[97:11] resources. We have people. We will bring
+[97:12] you in. We'll communicate with you.
+[97:14] We'll teach you. and we'll do our best
+[97:16] to help your vision become a reality uh
+[97:19] supported by our products and services.
+[97:22] Thank you so much uh CJ Constantinos for
+[97:24] for being on the show and also thank you
+[97:26] so much for everyone that is watching
+[97:28] and listening for joining us today. As
+[97:30] always, I'll be back tomorrow with
+[97:32] another episode. Bye-bye.
+[97:35] [Music]

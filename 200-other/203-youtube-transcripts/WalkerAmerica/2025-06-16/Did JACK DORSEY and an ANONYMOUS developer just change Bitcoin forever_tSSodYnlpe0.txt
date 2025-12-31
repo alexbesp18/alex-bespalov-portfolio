@@ -1,0 +1,306 @@
+Title: Did JACK DORSEY and an ANONYMOUS developer just change Bitcoin forever?
+Video ID: tSSodYnlpe0
+URL: https://www.youtube.com/watch?v=tSSodYnlpe0
+Date Saved: 2025-06-16 16:58:24
+Channel: WalkerAmerica
+--------------------------------------------------
+
+[00:05] Crazy, man. You see that? Uh we we just
+[00:08] actually just looked that Dorsy tweeted
+[00:11] out that now on Square Terminals you can
+[00:14] accept Bitcoin and this is what I've
+[00:17] been working on, man. Now this card of
+[00:19] mine that has Yeah. Show show the camera
+[00:22] maybe so they can see how how awesome
+[00:24] this is. So that has laser eyes, right?
+[00:27] Incredible. I can actually go to the
+[00:30] terminal and pay with this. Isn't that
+[00:32] crazy? Like with with this Bitcoin, I
+[00:35] just go and like tap to pay. Here's what
+[00:37] I love about this because I feel like
+[00:39] there's this ongoing narrative or I
+[00:41] shouldn't say nar maybe argument about,
+[00:43] oh, you know, never sell your Bitcoin
+[00:45] or, you know, you don't actually need to
+[00:46] use Bitcoin as money because using it as
+[00:48] a store of value is is good enough. you
+[00:51] obviously have a different opinion on
+[00:53] the matter and are actively working on
+[00:55] things that uh make it very easy to use
+[00:57] as money as easy as using your card. So
+[00:59] can we like can we talk about this first
+[01:00] of all? What what what is this card for
+[01:01] people who don't know? I also want to
+[01:03] talk it from a perspective I understand.
+[01:05] Yeah. Not everyone is an altruistic
+[01:08] idiot like myself. All right. So you
+[01:11] spend years developing false software
+[01:14] while you could have just uh you know
+[01:17] amassed Bitcoin didn't do anything
+[01:19] you're up in profits that's it but the
+[01:22] thing is PE when people say don't spend
+[01:24] your Bitcoin spend fiat actually I see
+[01:28] the technical way of how to do that
+[01:31] because you can keep your Bitcoin now
+[01:34] you're we're getting to the point where
+[01:36] you can literally
+[01:38] borrow against it infinitely. And as
+[01:42] you're doing that, you have dollar
+[01:44] balances backed by Bitcoin. And then you
+[01:47] can use cards like this that are
+[01:50] essentially just authentication key that
+[01:53] sends a signal to server transmit this
+[01:55] much like uh pay this lightning invoice
+[01:59] authorized and and that's all that this
+[02:02] is. I uh what I love about uh situation
+[02:06] now is now that Square rolls this out.
+[02:09] Mhm. Man, you have a lightning node
+[02:11] running. Yep. You tie it to bolt cards,
+[02:14] you're paying from your lightning node
+[02:15] to square. Isn't it insane? And I It's
+[02:18] incredible. I don't even want to get in
+[02:20] the whole KYC, no KYC. I I think I spoke
+[02:25] with Sailor about his bold card that's
+[02:28] coming at the conference. So, uh it will
+[02:31] be at official conference store
+[02:33] releasing tomorrow morning. like I'll
+[02:35] I'll uh see if Michael can get his card
+[02:40] and use it to pay with Bitcoin and we
+[02:44] can set it up so he's spending dollars
+[02:45] actually. So So all good, Michael. We
+[02:48] you know I mean and either way if he's
+[02:50] not spending his Bitcoin maybe
+[02:51] presumably he's good with it, right?
+[02:52] Well, I mean he's spending Coinbase's
+[02:54] Bitcoin, right? There we go. Yeah. But
+[02:58] to me, man, that's okay. If you want to
+[03:00] have a custodian
+[03:01] and you want someone to be responsible,
+[03:05] someone you can pressure, okay, that's a
+[03:09] bank, but you come tap to pay. Done. I
+[03:12] love these cards because I think one of
+[03:14] the things that was always uh always
+[03:17] hard for people when it comes to
+[03:18] understanding Bitcoin, like I was just
+[03:19] talking to uh somebody on the flight
+[03:21] here to Vegas, nice gal was coming in
+[03:24] for a Kenny Chzn concert. Oh my god. and
+[03:26] she works as like a financial adviser
+[03:28] actually and started chatting up Carl
+[03:30] and I and she said you know some of my
+[03:32] clients have you know asked me about
+[03:33] Bitcoin I don't I don't know like I
+[03:35] don't understand it I you know whatever
+[03:37] and she's like you know because you
+[03:39] can't touch it it's not like physical
+[03:41] and and which I always think is such a a
+[03:43] weird thing for people to say because
+[03:45] first of all it's I was like okay you
+[03:47] got cash on you or you you're using a
+[03:49] credit card or a debit card debit card
+[03:51] okay so so like where where is that you
+[03:54] can't touch that either it's just like
+[03:55] you just have this physical card, but
+[03:57] that makes them think it's it's physical
+[03:59] even though there's there's nothing
+[04:00] physical about it. This is kind of like
+[04:02] I feel like bridges that gap where
+[04:04] people then feel, oh, now look, I can
+[04:07] touch the Bitcoin, you know, like the
+[04:08] bitcoins are in the card and it makes a
+[04:11] difference for people. It really does
+[04:13] and it's way cooler with laser eyes and
+[04:15] experience. I It's so sick. I spoke with
+[04:18] Odell about this and I think now that we
+[04:22] will be moving from you like get your
+[04:24] wallet out uh scan to pay pull the we
+[04:28] move to this tap to pay. I think the
+[04:31] ultimate frontier is you get this into
+[04:33] the phone and then you tap and pay like
+[04:36] with Apple Pay and behind all of that is
+[04:39] Bitcoin settlement layer. so excited
+[04:43] because it took us time man when when
+[04:45] you look at mainstream media they were
+[04:48] calling us out that uh look at that that
+[04:51] there it's a Bitcoin conference but you
+[04:53] can't pay with Bitcoin it's onchain it's
+[04:55] 10 minutes it's this and that sure but
+[04:59] we worked on the technology for last
+[05:01] five six seven you know eight years
+[05:05] bringing up lightning network and now
+[05:07] it's ready now it's literally you have
+[05:10] Square like a company that's tens of
+[05:12] billions of dollars worth rolling out
+[05:14] like hey you remember you you see this
+[05:17] that we have at BTC pay open source tab
+[05:20] to pay now we have it as well and it's
+[05:23] beautiful man to see it that Square
+[05:25] announcement is honestly huge because
+[05:27] that's something that is used by like so
+[05:29] many small businesses especially small
+[05:32] merchants you know individuals who
+[05:33] aren't running some big enterprise and
+[05:35] maybe you know couldn't pay for whatever
+[05:37] expensive POS software and hardware
+[05:39] terminals were were out there and Square
+[05:42] filled like a definite need for them.
+[05:44] Now they're coming in and across all of
+[05:46] the I don't know how many how many
+[05:48] merchant users they have, but it's a
+[05:49] mass it's an insane number. Now anyone
+[05:53] can pay with Bitcoin at those. And I
+[05:54] feel like that that just breaks down so
+[05:56] many walls that were up there before
+[05:59] where it's really easy to say, well,
+[06:00] okay, if you know the classic argument,
+[06:02] if Bitcoin's money, then why can't we
+[06:04] spend it anywhere? And you know,
+[06:06] speaking of people who say that, I see
+[06:07] Peter Schiff walking by right now.
+[06:09] Maybe, maybe he'll stop in. We'll see.
+[06:12] Gold is old, Peter. Gold is old. No, no,
+[06:16] he's ignoring he's a man on a mission. A
+[06:19] very cool shirt, though. Very cool
+[06:20] shirt. I'll give him that. But, you
+[06:22] know, it takes away those arguments
+[06:23] where you say, "Well, why can't I spend
+[06:25] it anywhere?" And it's like, now now you
+[06:26] can spend it anywhere. And one thing,
+[06:28] all of these merchants are now stacking
+[06:31] sets. Mhm. Right. as you're like a mom
+[06:34] and pop shop that's that's moving to
+[06:37] Bitcoin standard and suddenly your
+[06:39] purchasing power is increasing over the
+[06:42] the the time. It's no longer because we
+[06:44] we say like Bitcoin is not a get quick
+[06:47] rich scheme. It's don't get poor slowly
+[06:50] scheme because and Sailor has that. The
+[06:53] people that use fiat currencies as
+[06:55] money, we call them poor. It's just
+[06:58] you're diluted every day, man. It is it
+[07:00] is a it is a great quote. Yeah. and uh
+[07:02] made it into a really banger uh banger
+[07:05] house track too as well. It's it's a
+[07:07] great it's a great sample remix. We need
+[07:09] to add this to the video. Yeah,
+[07:11] absolutely. So, now you've got the
+[07:13] ability to use these cards. Can for
+[07:14] anybody maybe can you give the the
+[07:16] highlevel uh technical of like how that
+[07:19] actually work without like like this is
+[07:21] this is a b a bolt card. Who cares? Like
+[07:23] you mean like two developers out of
+[07:25] every screw. Okay. So, okay. I'll tell
+[07:28] the point it works. Yeah. But anyone
+[07:31] that wants to replicate this setup,
+[07:34] install BTC pay server. Uh Nicholas
+[07:37] Dorier, Emperor Nicholas, uh who founded
+[07:40] BTC pay server, he created this bold
+[07:42] card bank plugin. So if you want to on
+[07:46] board your family on uh Bitcoin
+[07:49] standard, you get these bolt cards, you
+[07:51] give everyone allowance like this card
+[07:53] is 20,000 sats or 20,000 bitcoins. We
+[07:58] won't know soon. Walker like renamed
+[08:00] Satoshi. We might have to get into that
+[08:02] a little bit. Yeah. But the thing is you
+[08:04] get like five of these cards, you have
+[08:06] five members of your family. Go like
+[08:09] spend go buy uh stake and shake tap to
+[08:13] pay Bitcoin standard and we get
+[08:16] corporations to stack SATs as well. And
+[08:19] I'm telling you, man, this as Pomp says
+[08:21] rocket ship is is leaving man. It's this
+[08:25] time. Yeah. For real. It's actually I
+[08:28] want to sidebar quick way to the Steak
+[08:29] and Shake thing because I think this is
+[08:30] honestly like inc like first of all it's
+[08:33] cool. Um I I enjoy Steak and Shake. I
+[08:36] enjoyed them even more when they put
+[08:38] tallow uh on instead of every like
+[08:40] incredible incredible. Uh and then now
+[08:44] they have integrated Bitcoin where you
+[08:46] can like I literally went and I I bought
+[08:47] a burger and fries and actually I got a
+[08:49] Frisco melt a Frisco melt kind of guy
+[08:52] and fries and and a shake, you know, and
+[08:53] everything and I paid in Bitcoin and it
+[08:55] was easy. And it's kind of incredible
+[08:57] like it's an incredible marketing tactic
+[08:59] for them as well because they get so
+[09:02] much free advertising now from all the
+[09:04] toxic psychopaths on the internet who
+[09:07] are like this is really cool. I just
+[09:08] went and bought Steak and Shake with
+[09:10] Bitcoin. This is a huge franchise
+[09:12] nationwide. I mean, do you think we
+[09:14] start to see more of this like as these
+[09:16] like the tools have gotten better now?
+[09:18] The tools have gotten way better even
+[09:19] than a couple years ago. I haven't been
+[09:21] in as as long as you, but like I've seen
+[09:23] this progression and it's amazing. Do
+[09:25] you think we start to see more of
+[09:26] businesses do this? I think we're at
+[09:28] the, you know, that critical point,
+[09:31] critical juncture. It's literally like
+[09:33] this conference, man. Now that Square
+[09:34] has announced, I think that's it
+[09:37] because you know, you know how it is.
+[09:40] You've been in Bitcoin, as you say, like
+[09:41] maybe not as long as we, but you're
+[09:43] getting few years now. Yeah. You had the
+[09:45] whole, "Oh, you're crypto couple. You're
+[09:47] not Bitcoin couple. Everyone hating."
+[09:50] And when we met at Beef Steak, Josh at
+[09:52] Beef Steak, I I think I told you the
+[09:54] same thing actually. But but I like then
+[09:57] get telling everyone like, "Hey, it
+[09:59] takes time." Yeah. Because everyone just
+[10:02] like people look at this video, they say
+[10:03] like, "What is this masked guy doing?"
+[10:06] But then they research, they're like,
+[10:08] "Oh, oh, like these guys, they're like
+[10:11] somehow improving their lives and
+[10:14] getting wealthier as they do it." Like I
+[10:16] want that. I want that for me. I want
+[10:18] that for my family. And I'm telling you,
+[10:21] when we were memeing this, like I
+[10:23] remember Bitstein uh doing the whole fix
+[10:26] the money, fix the world. They're like,
+[10:28] "Yeah, right." Like, "How will you fix
+[10:30] it?" And we're like, "We will fix it. We
+[10:32] will fix the money with Bitcoin. We'll
+[10:34] fix the world." They're like, "Yeah,
+[10:35] right." Like bunch of freaks online like
+[10:38] geeks. But now people are like, "Oh,
+[10:41] they're actually doing it. They're
+[10:42] fixing money. It's fixing food supply
+[10:45] because seed oils poison. It's just you
+[10:50] you get all the the bloating
+[10:52] mitochondria, you know, probably better
+[10:54] than me. I just stuffing yourself full
+[10:56] of an industrial lubricant basically
+[10:58] that was packaged as some somehow a
+[11:00] food. I watched Yeah. your videos. I I
+[11:03] like followed your post and I'm like,
+[11:04] "Okay, let me try not to eat like seed
+[11:08] oils."
+[11:09] Oh, actually I feel you know less like
+[11:13] bloated and and all of that. Like it's
+[11:15] almost like you're you're you're having
+[11:17] infection, man. Like I don't know how
+[11:19] how to explain it. It's a it's a fiat
+[11:21] infection really. It's like something
+[11:22] that's that's totally avoidable and
+[11:24] should never have happened but somehow
+[11:26] because of this fiat system that we live
+[11:28] in where everything needs to, you know,
+[11:30] you got to hide the inflation by making
+[11:32] stuff. Metabolism slows down. Yeah. Like
+[11:36] it's
+[11:37] like it's amazing to see it is a company
+[11:40] do that though to say no no no no seed
+[11:42] oils anymore like we're not going to
+[11:43] poison our customers. That's great. More
+[11:45] of that please.

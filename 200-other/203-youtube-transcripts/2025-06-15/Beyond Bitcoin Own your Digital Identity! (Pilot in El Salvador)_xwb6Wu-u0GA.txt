@@ -1,0 +1,1238 @@
+Title: Beyond Bitcoin: Own your Digital Identity! (Pilot in El Salvador)
+Video ID: xwb6Wu-u0GA
+URL: https://www.youtube.com/watch?v=xwb6Wu-u0GA
+Date Saved: 2025-06-15 11:49:36
+--------------------------------------------------
+
+[00:00] I believe that El Salvador is the
+[00:03] epicenter of the new financial and
+[00:06] technological Global Paradigm if there's
+[00:09] that single point of failure then we are
+[00:11] basically kept hostage we're building it
+[00:13] on top of the nosta protocol and the
+[00:14] beauty part the Noster protocol is there
+[00:16] is no single point of failure we have
+[00:18] the ability to take our identity out of
+[00:20] an existing system and say I don't want
+[00:22] to deal with that anymore they went to
+[00:23] the hospital to actually get their MRI
+[00:26] information in the hospital oh no you
+[00:27] can have it and they are going like how
+[00:29] can be that it's it's my body we are the
+[00:32] inside of my body and I can't have the
+[00:35] information about my body we live in a
+[00:37] world where we sincerely don't control
+[00:39] our health data and it's because we
+[00:41] don't have our own health identities the
+[00:43] doctors and the hospitals and stuff like
+[00:45] that they now have to listen to me
+[00:47] because otherwise I'm going to go
+[00:48] somewhere else that's someone that does
+[00:50] respect my control of my own identity
+[00:52] and my own health information Etc you
+[00:54] have your medical data in El Salvador
+[00:56] you fly to a hospital to Austria you
+[00:58] give them your access to the data and
+[01:00] they already have all the data which was
+[01:03] previously just in salor and now as a
+[01:05] patience have control over the people
+[01:07] that want my information and are
+[01:09] interested in my information and I have
+[01:12] also so much control that they have to
+[01:14] ask me for it is it also them possible
+[01:16] to get paid for sharing your medical
+[01:19] data directly if we can build the tools
+[01:22] that allow us to do the same like in the
+[01:24] digital world as we were in the physical
+[01:26] world where we control our physical
+[01:28] bodies in the physical world and our
+[01:30] digital bodies the digital world then
+[01:32] all of a sudden things can
+[01:34] [Music]
+[01:37] change why is
+[01:40] centralization uh bad and where is
+[01:42] centralization uh bad for society I I
+[01:46] don't think I don't think it's
+[01:47] necessarily centralization that is bad I
+[01:51] think the problem is probably more
+[01:54] around single points of failure actually
+[01:57] if I think about it um that that's is
+[02:00] where it's bad where we do not have a
+[02:03] choice anymore because that there's a
+[02:06] one single point of be it's the
+[02:07] government be it an organization be it a
+[02:09] technology be it whatever it is um if
+[02:12] there's that single point of failure
+[02:14] then we are basically kept hostage
+[02:16] hostage you know I mean too big to fail
+[02:20] you've heard of that right um I think
+[02:23] that in itself actually says absolutely
+[02:26] everything that we're talking about here
+[02:28] so it's not necessarily Central ization
+[02:30] or you know managing something from a
+[02:32] central point but if it's too big to
+[02:34] fail then that's is the problem so I
+[02:39] would say yeah I mean some things would
+[02:41] be good if they're run by you know um
+[02:44] like a central body of some swords Etc
+[02:46] but if it's too big to fail then we have
+[02:49] a problem so interesting that would be
+[02:51] my my answer yeah um single points of
+[02:53] failure they are they are the bigger
+[02:57] challenge interesting and that's the
+[03:00] thing that you also saw that's wrong
+[03:02] with the health care System
+[03:05] right well I think I think right now I
+[03:08] mean um I always sort of highlight the
+[03:11] fact that we had 2008 the global
+[03:14] financial crisis and that then spawned
+[03:17] the idea of Bitcoin and the world was
+[03:21] aware okay something is not good we have
+[03:24] a situation where money
+[03:27] is centrally controlled um it's again a
+[03:30] single point of failure and as a result
+[03:33] of that you know things like Bitcoin
+[03:35] came along so that obviously was the the
+[03:40] world was ready the world was basically
+[03:42] you know told okay clearly we need to
+[03:44] fix this up and then Bitcoin comes along
+[03:46] and it gets traction and adoption and
+[03:48] stuff like that I also think that with
+[03:52] what we've experienced in the last five
+[03:54] years um in relation to health and
+[03:58] identities and all kind of stuff um yeah
+[04:02] has done the same thing so in other
+[04:04] words I mean I've seen what happened in
+[04:07] Austria and you know how people were
+[04:09] again controlled by these single points
+[04:11] of control single points of failure um
+[04:15] and that obviously has created I guess
+[04:18] enough awareness with people that hey
+[04:21] saying yeah I think it is time that we
+[04:24] need to do something about this and
+[04:28] therefore um you know know things like
+[04:31] health and managing my own health
+[04:34] identity because we clearly don't
+[04:36] anymore right um they they
+[04:40] become relevant because people start to
+[04:42] think about it people start to say hey
+[04:44] okay there's something that needs to be
+[04:46] fixed here so just like Bitcoin money
+[04:49] now we've got identities and my data and
+[04:52] all that kind of stuff same story I
+[04:54] think what we're doing right now with
+[04:56] the salute protocol that we're
+[04:58] developing is
+[05:01] would not have worked five years ago
+[05:03] before all this stuff happened so I
+[05:06] think that answers your question right
+[05:08] absolutely and the protocol protocol
+[05:11] that you are developing that's based on
+[05:13] Nostra As I understood it like is that a
+[05:16] Noster protocol based on that yeah so
+[05:19] Noster is obviously a uh a protocol that
+[05:22] allows that that uses that the public
+[05:25] private key uh model like Bitcoin right
+[05:29] um and with that public private key
+[05:31] scenario I can control my I guess
+[05:34] identity but also control what's my
+[05:37] identity shares or transmits or whatever
+[05:40] it is so in other words the Noster um
+[05:43] bit of transmission of of
+[05:45] information um is controlled by the guy
+[05:47] that actually owns the keys and or the
+[05:50] person that owns the keys or the entity
+[05:52] that owns the keys so what we're doing
+[05:54] is we're building on top of that
+[05:56] technology a I guess a framework what
+[05:58] we're doing is building a framework that
+[06:01] is all about health about controlling
+[06:03] your health identity your health
+[06:05] information how that is structure that
+[06:08] information inside the protocol um and
+[06:12] how that is obviously flowing through
+[06:15] relays and how data can be accessed by
+[06:18] by obviously hospitals and how data can
+[06:20] be data can be acessed by by bigger
+[06:22] entities Etc so yeah we're building on
+[06:25] top of the nosta protocol and the beauty
+[06:27] about the nosta protocol is there is no
+[06:28] single point failure so yeah so it's uh
+[06:31] that's that's I guess the big motivation
+[06:33] and it's not on a blockchain it's not to
+[06:36] essentially organized by some entity or
+[06:39] some blockchain company or something
+[06:41] like that it's just out there it is um
+[06:44] open source and no one can control that
+[06:49] a bit like the whole the whole Bitcoin
+[06:50] thing no one can control um the relays
+[06:53] out there no one can Central they can
+[06:56] centralize the relays but I have the
+[06:57] ability to say take my identity away
+[07:00] and put it somewhere else so and I think
+[07:02] that's the key to this whole thing I
+[07:04] think the key to decentralize money or
+[07:07] say Bitcoin is the fact that we have the
+[07:10] ability to actually take us out of an
+[07:12] existing system I think that um what
+[07:15] we're doing here is the same thing you
+[07:16] know we have the ability to take our
+[07:18] identity out of an existing system and
+[07:20] say I don't want to deal with that
+[07:22] anymore so does that answer your
+[07:24] question absolutely absolutely really
+[07:26] cool uh and is the and you just launched
+[07:29] it as a saw it uh and you try trying
+[07:32] that now in Salvador if that works uh
+[07:35] because the all all the doctors and
+[07:38] stuff like that they have to probably
+[07:39] adopt it and put the data it's crazy for
+[07:41] me uh when I think about it now um my uh
+[07:46] data my medical data the the doctors
+[07:49] have like I have no clue how to to
+[07:51] access that there's no platform where I
+[07:54] can learn let's let's look at my all my
+[07:56] history but the doctors have those those
+[07:58] datas in Austria at least um like that
+[08:01] that would be that's the idea of like
+[08:03] switching that that data from the
+[08:05] doctors to myself and if the doctors
+[08:07] needed I can give them access
+[08:09] temporarily to the data that that would
+[08:12] be the the uh the perfect goal to like
+[08:15] have full access not only with Bitcoin
+[08:16] with your money but also about your data
+[08:18] and Health Data is probably one of the
+[08:22] most um important one probably the most
+[08:25] important uh data that you you can have
+[08:27] about yourself uh uh because yeah Health
+[08:30] goes over everything uh that's that's
+[08:33] amazing first of all like what you're
+[08:35] doing um but now um how are you doing
+[08:39] that in in in El Salvador as a as a
+[08:41] testing ground yeah so um yeah I
+[08:47] mean I I know stories I mean uh crazy
+[08:51] stories I mean I remember talking to
+[08:52] someone last week and they told me a
+[08:55] story where they had an MRI um done they
+[08:59] went to the hospital to actually get
+[09:01] their MRI information the hospital or
+[09:03] the doctor whoever said is oh no you
+[09:05] can't have it and I'm going and they are
+[09:07] going like how can that be that it's
+[09:10] it's my body you're the inside of my
+[09:12] body and I can't have the information
+[09:15] about my body and it's a bit strange if
+[09:17] you think about it right so um and
+[09:20] that's the world that we live in right
+[09:22] now I mean it never it didn't used to be
+[09:24] like that but it's definitely moved like
+[09:26] that in the last probably 20 30 years so
+[09:30] um so the idea that you literally have
+[09:33] zero control over your own Health Data
+[09:36] your own property I guess because that
+[09:39] information that comes out of your body
+[09:41] is your property isn't it I I would say
+[09:43] it would be um is is strange I always
+[09:47] sort of take this um this opportunity I
+[09:49] guess as a as a let's go do a scenario
+[09:52] right so um you're in Austria what is a
+[09:56] common first name in Austria
+[10:00] uh hair her okay what is a common last
+[10:04] name in Austria uh the German one is
+[10:06] Miller
+[10:07] like common last name let's go with
+[10:10] Müller yes let's go with Müller then we
+[10:12] also have the CH there let's go with
+[10:14] Herbert Miller so think about this
+[10:17] Herbert Miller goes into the doctor's
+[10:19] office right and says to the doctor hi
+[10:22] I'm Herbert Miller uh you know I have
+[10:25] situations the doctor actually goes into
+[10:27] his computer and goes okay Herbert
+[10:29] Miller wres cool all right Herbert I can
+[10:32] see this and this about you and um your
+[10:34] situation and um look from what I can
+[10:37] tell and what you're telling me maybe we
+[10:39] should do this drug plan and we should
+[10:41] do this test and this and this Okay cool
+[10:43] so herit goes away he says thank
+[10:44] goodness you know someone's looking
+[10:46] after me and two months later come her
+[10:50] comes back and he's got more diseases
+[10:52] more issues with himself etc etc and it
+[10:56] turns out right and this is sort of the
+[10:58] anecdote that I try to always explain
+[11:00] with people is it was the wrong Herbert
+[11:03] Miller because there was 10 in the
+[11:04] system and the doctor chose the wrong
+[11:06] one right
+[11:07] so what does that mean and what does
+[11:10] that tell us is that again we don't
+[11:13] control our information or information
+[11:16] is with someone else probably not even
+[11:18] with the doctor it's some centralized
+[11:19] entity some computer system whatever it
+[11:21] is that owns all that information right
+[11:24] but because we don't control it all
+[11:27] these things can happen with it
+[11:29] um one is things like errors two is is
+[11:32] the information verified is it true is
+[11:35] it honest is it all that kind of stuff
+[11:37] so that's the world that we live in we
+[11:38] live in a world where we sincerely don't
+[11:41] control our health data and it's because
+[11:42] we don't have our own health identities
+[11:45] as well and what we're doing is to say
+[11:48] okay well instead of Herbert going to
+[11:50] the doctor and let letting them look how
+[11:52] about Herbert actually says yeah it's me
+[11:54] Herbert and the doctor says have you got
+[11:56] any information and you can say yes here
+[11:58] you go I can release it to you you can
+[11:59] see if you can see exactly what the
+[12:02] information is Herbert this Herbert
+[12:05] truly controls that information and says
+[12:08] okay here it is and that information is
+[12:11] also not again manipulatable because I
+[12:14] control the keys of that information so
+[12:16] in other words all of a sudden the
+[12:18] health information that is being
+[12:19] transmitted and and moved back and forth
+[12:23] is verified by the actual owner and the
+[12:25] individual so I know that an information
+[12:28] is most l i don't believe in 100% but
+[12:32] 99.9% accurate no one can play around in
+[12:36] the database behind the scenes no one
+[12:38] can play around in the technology behind
+[12:40] the scenes and change the fields and the
+[12:43] information on the fields so all of a
+[12:45] sudden I have this ability to control my
+[12:48] health information I have the ability to
+[12:51] verifiably say okay this is true and as
+[12:54] a result um what comes out there is is
+[12:58] uh guess more valuable information I
+[13:01] have control and all of a sudden the
+[13:04] doctors and the hospitals and stuff like
+[13:06] that they now have to listen to me
+[13:09] because otherwise I'm going to go
+[13:10] somewhere else that's someone that does
+[13:12] respect my control of my own identity
+[13:14] and my own health information Etc so
+[13:17] that's the story I guess the first
+[13:20] story El Salvador so
+[13:24] um we obviously were all there I think
+[13:26] was 20 2021 right when the the became
+[13:30] reality um i' I've been in the Bitcoin
+[13:33] game for quite a long time um and
+[13:37] obviously love the idea of self-
+[13:40] sovereignty and you know separating
+[13:43] money and States all that kind of stuff
+[13:46] so when the law became a reality I said
+[13:49] to my other half I think we should go
+[13:52] there we did our thing we packed our
+[13:54] bags we went to El Salvador because what
+[13:57] I believe is that if you as a government
+[14:00] are truly willing to give away the power
+[14:02] of money to you to to the people right
+[14:07] that sort of gives you an understanding
+[14:09] of the mindset of the country or of that
+[14:12] situation over there and that in itself
+[14:17] I believe is okay you are literally
+[14:20] giving that power away which probably
+[14:23] means that you're also open to new ideas
+[14:25] and new technologies and stuff like that
+[14:28] like the stuff that we talking about
+[14:29] here so I actually am in the healthc
+[14:33] care space in Australia I have a a
+[14:37] software business there um that is in
+[14:39] the healthcare and I know what it's like
+[14:42] in the traditional centralized software
+[14:44] sort of World um so yeah it wasn't
+[14:48] really my my thing so when that all
+[14:50] happened uh we decided to move over here
+[14:54] and said okay let's build something here
+[14:57] and that's where that came from so I
+[14:59] came to this country country that is
+[15:01] open to all this stuff um and then met
+[15:04] um people that are Salvador and people
+[15:07] that are actually in in this whole you
+[15:09] know Noster space and stuff like that
+[15:12] and we the ideas that I've been working
+[15:15] on um we started to implement and
+[15:18] started to build and um all that is
+[15:22] wonderful I mean technology is great um
+[15:24] it is awesome you build architectures
+[15:27] you build you know how technology needs
+[15:29] to work all that stuff is is is perfect
+[15:32] the only thing is that how does it work
+[15:35] in the real world so therefore we said
+[15:39] okay the best approach to finalizing and
+[15:42] to building this thing properly we need
+[15:45] to make sure that whatever we've built
+[15:47] whatever we've created that needs to
+[15:49] be developed in conjunction with the
+[15:53] real world as well so we built it all
+[15:55] we've got it all behind behind the
+[15:56] scenes now it is for the real world
+[15:59] to actually interact with it and then
+[16:03] once that's done then we can have say we
+[16:04] have a full package we have the full
+[16:06] protocol ready and then we can release
+[16:08] that to the world so we were fortunate
+[16:11] enough to me find a hospital and um um
+[16:14] that is innovative enough and crazy
+[16:16] enough to actually work with us um and
+[16:20] that's what we're doing so we're
+[16:21] deploying the the phases of this project
+[16:25] um uh with the local Sal with the local
+[16:28] Salvador in hospital um and yeah it's
+[16:32] it's as I said it's awesome we've just
+[16:33] rolled out um phase one it's all working
+[16:36] and um we're now onto uh phase two and
+[16:40] um yeah it's it's it's it's happening
+[16:43] it's working it's it's becoming reality
+[16:46] which is quite exciting I mean gives me
+[16:47] goosebumps I can tell you really
+[16:49] interesting it's also um the the
+[16:51] beginnings are really uh really really
+[16:54] interesting how you start that whole
+[16:56] project because if that thing is
+[16:59] developed ones okay you have all your
+[17:02] data with yourself and you can share it
+[17:03] then with the hospital but if you start
+[17:05] before a hospital then you start from a
+[17:08] ground where all the data is now at the
+[17:10] hospital and you need like the clients
+[17:12] to kind of test it and they have the
+[17:15] data uh and then H have testing that one
+[17:19] system it's an interesting uh
+[17:21] interesting thing so you also need
+[17:23] probably patients that come to the
+[17:26] hospital and actually willing to to try
+[17:29] it with Nostra and and they're like okay
+[17:31] let's let's let's see if if that works
+[17:33] like that so you don't only need the
+[17:34] hospital but also the the patients if
+[17:37] I'm right yeah so obviously a hospital
+[17:41] or um any any organization has a set of
+[17:44] processes that they go to right so if I
+[17:47] have if I'm a hospital and I have a new
+[17:49] patient then obviously I need to
+[17:51] interact with him I need them to I need
+[17:53] to capture their information I need them
+[17:55] to interact with me as a hospital so
+[17:57] that we can communicate
+[18:00] so if you say as a hospital as just
+[18:03] standard procedure when you come to us
+[18:06] what you need to do is you download an
+[18:08] application on your phone that
+[18:10] application will be the way that we
+[18:11] interact with you that will give you we
+[18:14] will basically send you the all the
+[18:16] information and the data that we could
+[18:17] create and on your on your device when
+[18:20] we interact we request information you
+[18:23] press the buttons on the application
+[18:25] blah blah blah blah they don't need to
+[18:27] necessarily know that it's based on
+[18:28] Noster and they control everything
+[18:30] straight away it's just part of the
+[18:32] process okay so any if I go to any
+[18:36] Hospital there's always a process so
+[18:38] what we're doing is we're building this
+[18:40] in a way that it becomes part of that
+[18:42] process and we're
+[18:43] learning how to best interact with the
+[18:46] patients how to best interact create the
+[18:49] right tools to interface with this
+[18:51] protocol that we're building at the same
+[18:53] time so that's I guess the philosophy so
+[18:57] with um social media like we have right
+[19:00] now Noster social media you don't need
+[19:02] that it's it's a different story here's
+[19:04] an application download it if you want
+[19:07] um and and then you know you can use the
+[19:09] different features that are being rolled
+[19:11] out this is a real world scenario this
+[19:14] is real world real patience real
+[19:16] interaction and not just oh let's do
+[19:19] social media online only this is real
+[19:21] world stuff so there's you would almost
+[19:24] be I guess ignorant to say I'm I'm just
+[19:28] going to develop something without the
+[19:29] real world and then expect it to work so
+[19:32] what we've done is we've said okay we
+[19:34] know all the things that we know we know
+[19:37] the infrastructures we know the
+[19:38] architecture we know everything like
+[19:39] that that we are deploying now let's
+[19:42] connect it to the real world once we've
+[19:44] done that then we can bring that message
+[19:46] to the world and then become open source
+[19:48] and everyone can develop on us oh yeah
+[19:51] yeah the open source topic is also
+[19:53] interesting so you're right now you're
+[19:55] uh too small to make it open source or
+[19:58] are you already open source there's
+[20:01] things that are open source um that
+[20:02] things that are available uh that you
+[20:04] can see definitely um as well as the
+[20:08] same time we're actually as I said
+[20:09] defining the finer details of things as
+[20:11] well and once we know those then we can
+[20:14] actually bring it out to the world I
+[20:17] think open source is the key here
+[20:20] because
+[20:22] um the idea behind the protocol is that
+[20:25] once it's out there and it's and it's
+[20:27] available that people can start building
+[20:28] on it which basically also means that
+[20:31] people can start developing on it and
+[20:33] develop their own tools and their own
+[20:34] things as
+[20:35] well so as a result um you're going to
+[20:39] get a situation where we were hoping
+[20:41] that an existing say software um um
+[20:45] tool um that already exists can say oh
+[20:49] well maybe what we want to do is we want
+[20:51] to interface with this salute protocol
+[20:54] because we know that that will give you
+[20:56] information we know that will be genuine
+[20:58] information we also know that that will
+[21:00] be um information that is structured in
+[21:03] a specific uh format I don't know if you
+[21:06] know about the hl7 stuff um the so in
+[21:10] other words these applications then by
+[21:13] Design can actually connect with our
+[21:15] salute protocol or the salute protocol
+[21:17] not necessarily the salute protocol and
+[21:20] integrate the salute protocol in their
+[21:22] Technologies I hope that other
+[21:24] organizations are going to develop build
+[21:26] other applications that I don't even
+[21:27] know about today right so that's the
+[21:30] idea we really want to once we've
+[21:32] defined it properly um then we really
+[21:35] wanted to push it out into the world and
+[21:37] then have everyone just use it develop
+[21:40] integrate Etc about you're talking about
+[21:43] open source that that's really cool I I
+[21:45] love the idea and I think it's it
+[21:48] probably takes time till you see this
+[21:51] amazing real world examples of how it
+[21:53] works I I had this moments um for
+[21:57] example Bitcoin always saw as a store of
+[21:59] value and uh slowly in the last year one
+[22:02] and a half years I developed this
+[22:04] Bitcoin oh Bitcoin is also like a
+[22:05] payment system it's actually could be a
+[22:07] solid currency and the one really
+[22:10] amazing moment that I had just a few
+[22:12] weeks ago where an American sponsor of
+[22:15] me actually paid me in Bitcoin and first
+[22:18] I looked at it like oh what it takes to
+[22:21] make that transaction from him America
+[22:23] to Austria and it's a hurdle rate it's
+[22:26] it's expensive it's all the things uh
+[22:28] and then we and then I was like with him
+[22:30] hey let's let's just do it in Bitcoin uh
+[22:33] and then we settled on bitcoin I store
+[22:35] it in Bitcoin or everything like that
+[22:36] and we did it on a Sunday evening in
+[22:39] like I don't know five 10 minutes time
+[22:41] or something like that and it was
+[22:43] magical like this was this would not
+[22:46] even be possible in the Fiat world we
+[22:48] would have to wait a week we would have
+[22:50] to put a lot of banking numbers routing
+[22:53] numbers or anything like that I just
+[22:54] sent him a pay link and he paid with
+[22:57] that and I think that could happen at
+[23:00] some point maybe with the medical data
+[23:02] where you have your medical data in El
+[23:04] Salvador you fly to a hospital to
+[23:06] Austria you give them uh your your
+[23:09] access to the data and they already have
+[23:11] all the data uh which was previously
+[23:14] just in El salador or was not in elav
+[23:16] was always with you now that is really
+[23:19] complicated because I probably like I
+[23:21] have no clue about the world medical
+[23:23] datas but I guess that Salvador does not
+[23:28] know anything about the Austrian Health
+[23:30] Data and V versa so like uh that that is
+[23:35] uh those use cases will be amazing to
+[23:38] see I think yeah so I guess you did an
+[23:42] on onchain transaction obviously when
+[23:44] you did that yeah so um and you're in
+[23:47] Austria so you don't know what's
+[23:49] possible because from my perspective I
+[23:52] do at least one Bitcoin transaction a
+[23:56] day um and it takes two seconds it
+[23:59] doesn't take five to 10 but it's
+[24:02] obviously onling right so it's a
+[24:03] different story so yeah definitely
+[24:05] Bitcoin as a uh a medium of exchange is
+[24:09] is a total no-brainer from my
+[24:12] perspective one of the reasons that we
+[24:14] moved here to experience this new world
+[24:16] right this new paradigm of actually
+[24:18] paying and yes you're right um I see the
+[24:22] future where um the information the
+[24:27] health information and how easy it is to
+[24:29] access but again controlled by the owner
+[24:33] of the information right the My Health
+[24:36] identity um I see a future like that and
+[24:38] what we're actually doing is inside the
+[24:42] uh protocol what we're doing is that the
+[24:44] message format the format that the
+[24:46] information is structured is based on a
+[24:50] global Health standard as well so in the
+[24:54] world um and funny enough is I actually
+[24:57] was exposed to it when I was still in
+[25:00] Australia there is now um like this
+[25:03] standard being created it's a standard
+[25:05] it's not a not a forced standard is a
+[25:07] standard that's is um about how health
+[25:12] information is being transmitted the the
+[25:14] look of health information the structure
+[25:17] of health information if it's about a
+[25:18] blood group and a blood type it'll be
+[25:21] structured in this way if it's about
+[25:22] something else to be structured in that
+[25:24] way so the messaging or communication
+[25:27] formats uh um that is now being globally
+[25:30] adopted and it's been around for I think
+[25:31] probably close to 30 years so that is
+[25:35] called
+[25:36] hl7 and there's a specific part that's
+[25:38] called the fire
+[25:40] fhir um standard so what we're doing is
+[25:43] we're integrating this standard into the
+[25:48] protocol that we're building as well so
+[25:49] that that information is standardized
+[25:52] across the world or across Health what
+[25:55] that then means is if I'm in Austria or
+[25:57] Viet or wherever in the world that I am
+[26:00] right then any interface or standardized
+[26:04] um Software System can then easily
+[26:07] interface as long as it is inside this
+[26:10] global standard which is great right and
+[26:13] so that makes transmitting information
+[26:15] from say my phone or a relay that I'm
+[26:17] accessing somewhere else in the world to
+[26:20] the medical system of the doctor that is
+[26:23] being in in in in in Austria or whatever
+[26:26] it is really really easy because they
+[26:28] can talk to each other right so using
+[26:30] the salute protocol with that Global you
+[26:33] know messaging standard of health
+[26:35] information and then yeah it becomes
+[26:38] very very easy to just say oh you here
+[26:40] you go I can release it to you if you
+[26:42] want on my from my phone um or we can
+[26:45] connect to a relay over there um and
+[26:48] then yeah standards across the board so
+[26:51] the cool thing is I think is El Salvador
+[26:56] is still very uh man ual in a lot of
+[26:59] things so in other words there's a lot
+[27:00] of pieces of paper and stuff like that
+[27:02] you should see some of the hospital
+[27:04] there's all these like manila folders
+[27:05] you know hanging in the big archive room
+[27:08] so what we're doing is hoping to do is
+[27:10] that with what we're building here and
+[27:12] we're defining with the pavita hospital
+[27:16] here in El Salvador and then integrating
+[27:19] this whole Global messaging standard as
+[27:22] well health messaging standard as well
+[27:25] into that salute protocol that we can
+[27:27] just Leap Frog um the existing you know
+[27:32] um technologies that are out there out
+[27:34] in in the world and that El saor becomes
+[27:37] like the health communication
+[27:42] Administration uh I guess um leader um
+[27:46] as to Rolling that out into the world
+[27:48] being an example Etc so yeah it's
+[27:52] pretty pretty cool I guess um yeah if
+[27:55] you watch or listen to my podcast on
+[27:58] regular basis I guess you already bought
+[28:00] some Bitcoin and now the most important
+[28:03] step is to keep the Bitcoin keep them
+[28:06] secure in a hardware wallet my personal
+[28:09] recommendation for Hardware wallet is
+[28:11] the bitbox it's super secure it's simple
+[28:13] to set up it's also perfect gift for a
+[28:15] friend who has still the Bitcoin on an
+[28:18] exchange and you can get a 5% discount
+[28:22] with the code Robin at the checkout
+[28:24] visit bitbox do Swiss robobin to get
+[28:28] your bitbox and the next step is to
+[28:30] really level up your sovereignty as an
+[28:33] individual you have to have the most
+[28:35] secure self- custody setup you have to
+[28:38] secure your own devices you have to
+[28:41] protect your privacy you have to set up
+[28:44] an inheritance plan and depending on
+[28:46] where you live you even want to have a
+[28:48] plan B a citizenship where you can move
+[28:51] in case something goes really really
+[28:53] wrong and through all those steps the
+[28:55] Bitcoin way is guiding you through step
+[28:58] step by step and if you visit the
+[29:00] Bitcoin way.com SLP Partners robobin you
+[29:04] even get a 30 minute free call to find
+[29:07] out how you can level up your
+[29:09] sovereignty and last but not least I
+[29:11] have something completely new for you
+[29:14] guys I partnered up with coin vigilante
+[29:18] this is the most beautiful Bitcoin time
+[29:21] piece that I ever saw created by anyone
+[29:24] look at that beauty I love it so much
+[29:26] coin vigilante made and perfect Bitcoin
+[29:30] watch that's the perfect subtle elegent
+[29:32] way to go out there and show that you
+[29:35] are a bitcoiner and that watch brand is
+[29:38] Bitcoin only and coin vigilante just
+[29:41] dropped a completely new and amazing
+[29:44] Genesis edition of their watch
+[29:47] collections you have the date of the
+[29:49] first ever mined Bitcoin Block in there
+[29:52] and of course also the block height and
+[29:55] which EPO we are currently in I love the
+[29:58] level of detail they put in in this
+[30:01] masterpiece and make sure to check out
+[30:03] those amazing coin vigilante time pieces
+[30:07] down in the descriptions I love those
+[30:09] watches so so much really I I love it a
+[30:13] lot um one thing
+[30:16] um why nostril specifically uh there are
+[30:20] a lot of we touched on it a little bit
+[30:23] in the uh in the beginning uh but there
+[30:25] are a lot of like oh let's build it on
+[30:27] bitcoin oh let's build it on uh some own
+[30:30] blockchain or let's build it on on
+[30:31] something else and I'm always liking
+[30:34] when people don't build for something
+[30:36] their own blockchain because usually
+[30:38] they have some some shitcoin involved
+[30:40] and then they just want to make a money
+[30:42] grab uh but like what was the uh
+[30:45] decision making process to to come to
+[30:47] Nostra and why is Nostra uh so much
+[30:50] better than than all the other uh
+[30:52] technology that which would uh which uh
+[30:56] so I think he sort of answered the
+[30:58] question already um I think what's
+[31:00] happening I mean obviously Bitcoin
+[31:02] introduced the blockchain and great and
+[31:05] you can do so many things with your
+[31:07] identity and data and stuff like that
+[31:09] out there and then a lot of these
+[31:12] projects became projects that were based
+[31:15] on a specific type of
+[31:17] functionality right so I had a coin that
+[31:20] was built to manage files or I had a
+[31:22] coin to build to manage education I a
+[31:24] coin to do this or a coin to do this
+[31:26] coin to do this and and every single one
+[31:29] of those coins they're on the blockchain
+[31:32] and they have an Associated blockchain
+[31:34] and therefore you need to transact value
+[31:37] you know money monetary value at the
+[31:39] same time and yeah so that was like okay
+[31:44] so it's just basically using the same
+[31:46] thing for just different
+[31:48] functionalities then Noster came along
+[31:51] and in essence they did the same thing
+[31:52] you know they had a public and a private
+[31:56] key to manage identity and manage
+[31:58] control of
+[32:00] information um and I'm
+[32:03] going okay the only thing is there's no
+[32:05] Central organization behind it there's
+[32:07] no single point of failure behind it
+[32:09] there's no company behind it it's just a
+[32:12] protocol out there so it's a bit like
+[32:15] Bitcoin no one owns it no one controls
+[32:17] it no one does anything like that whilst
+[32:20] altcoins are companies behind it Etc and
+[32:24] I guess that is basically the the the
+[32:27] answer right
+[32:28] in my opinion um we can probably take
+[32:32] 95% I'm not going to say 100% but a 95%
+[32:36] of those tokens and and and projects out
+[32:39] there and build it on Noster it's just
+[32:43] it's not necessarily the blockchain is
+[32:44] not necessary and then secondly I'm now
+[32:47] going to be connected to a specific
+[32:49] blockchain that I have to work with
+[32:52] that's if that blockchain fails for
+[32:55] whoever or whatever reason right then we
+[32:59] have a problem so now let's do this open
+[33:02] source I like open source I like um the
+[33:05] idea that no one can control it no one
+[33:07] can manipulate it they can manipulate
+[33:09] all they want but if they do I can go
+[33:12] somewhere else so if you think the
+[33:14] relays that I'm actually managing or or
+[33:17] controlling um if I don't like them I
+[33:19] can go to other relays or set them up
+[33:21] some set up some other relays and just
+[33:23] keep on going so that's I guess the
+[33:25] answer to your question I don't need a
+[33:27] blockchain
+[33:28] and the other thing is Noster is very
+[33:29] cheap to deploy I I don't need money for
+[33:32] every single transaction and if this
+[33:34] thing is going to work there's going to
+[33:36] be a lot of information or a lot of
+[33:38] transaction going all over the place so
+[33:41] let's keep it
+[33:42] cheap and that's a it's a it's a good
+[33:44] point do you think that Bitcoin together
+[33:49] with the nostr protocol which are like
+[33:52] getting more and more deeply integrated
+[33:53] with the Bitcoin Community like the
+[33:55] hardcore bitcoiners are also all in in
+[33:57] Nostra they communicate on the Nostra
+[33:59] protocol with social media and they're
+[34:01] building other applications like yours
+[34:04] also on on that protocol do we think
+[34:06] because it's of like oh we fix the money
+[34:08] we fix the world but then a lot of
+[34:10] people say oh no we we we we don't fix
+[34:12] all the the problems of the world but
+[34:14] could like Bitcoin and nost together be
+[34:16] like a a superow of of protocols that
+[34:19] actually um uh to get tackle a lot of
+[34:23] the problems like money Deo on privacy
+[34:26] and all those things I totally do
+[34:29] absolutely um I totally do like I I said
+[34:32] Bitcoin gives people the opportunity to
+[34:36] opt out of an existing
+[34:40] system and choose to interact directly
+[34:43] with each
+[34:44] other that's one um
+[34:48] Noster does exactly the same
+[34:51] thing um on a information perspective so
+[34:56] I can transmit any kind of information
+[34:59] across the Noster protocol and again it
+[35:03] is not controlled by anyone not
+[35:05] centrally controlled by anyone um so
+[35:08] yeah
+[35:09] so yeah it's about one money and the
+[35:12] other one is information I think you
+[35:14] could almost make a case that what we're
+[35:17] trying to do or what we're doing is
+[35:19] we're actually creating like as I said a
+[35:22] health protocol right using the nost
+[35:29] um protocol as as its foundation part of
+[35:32] what we're doing is we're also
+[35:33] integrating the Bitcoin aspect to it
+[35:36] because obviously health information is
+[35:38] valuable so there can be an opportunity
+[35:42] for people to use that health
+[35:44] information and then I guess get some
+[35:46] sort of feed back into um into the
+[35:50] individual for sharing their information
+[35:52] their health information because we
+[35:54] still need to you know understand
+[35:56] statistics do anal is all that kind of
+[35:58] stuff but now I have an ability to say
+[36:00] okay well I am going to the patient
+[36:03] saying I am interested in your
+[36:05] information are you willing to share it
+[36:07] and the patient says no because I hate
+[36:09] you as a company and I will never do it
+[36:11] or you can say the company can say I am
+[36:15] willing I want my information are you
+[36:16] willing and then you say yes because I
+[36:18] trust you as an organization and I like
+[36:20] what you're doing and therefore I am
+[36:22] willing to share it they don't have to
+[36:24] know it's me but my information I can
+[36:26] still share it so all of a sudden the
+[36:29] power of information and remember this
+[36:32] information is controlled by me so I
+[36:35] know it is 100% genuine and no one
+[36:38] manipulated it right so it's now very
+[36:40] valuable as well at the same time but I
+[36:43] now has a patient have control over the
+[36:46] people that wants my information and are
+[36:48] interested in my
+[36:50] information and I have also so much
+[36:52] control that they have to ask me for it
+[36:56] whilst right now they just take it from
+[36:57] you right now that information is just
+[36:59] out there they take it they control it
+[37:02] they sell it whatever and again I keep
+[37:05] on saying to everyone the number from
+[37:06] what I understand right now is health
+[37:09] information is valued at about a$2
+[37:12] trillion dollar globally that's a lot of
+[37:14] money now I don't see that you don't see
+[37:17] that but they're taking it from us so
+[37:20] yeah so definitely
+[37:22] Bitcoin disc or decentralized or or
+[37:25] money and then health information or
+[37:29] information as a whole Noster and then
+[37:31] what we're putting on is a layer which
+[37:34] is basically health information on that
+[37:36] Noster protocol I guess you could say
+[37:38] that what we're building is almost like
+[37:40] a layer two on Noster is it also done
+[37:43] possible to to get paid for for sharing
+[37:46] your uh Medical Data directly and not
+[37:51] some some company uh as you said the two
+[37:53] two trillions that we never see but uh
+[37:56] they still want to do things and they
+[37:58] can maybe say like oh yeah like for
+[38:00] every set of data we take this this
+[38:02] amount of of ss is that is that could
+[38:05] that be reality where we actually get
+[38:08] paid for sharing information with with
+[38:10] doctors and and companies that's part of
+[38:13] what we're
+[38:13] building I love that it's an interesting
+[38:17] idea where like the again we like with
+[38:19] Bitcoin we have the central bank and
+[38:21] then we have uh this this decentralizing
+[38:25] the Central Bank uh and all of this the
+[38:27] individual benefits from it the most and
+[38:30] the same with that what you building
+[38:33] where the individual is benefiting the
+[38:36] most I think I slowly slowly get it what
+[38:38] what you're doing so thank you for
+[38:40] explaining to me very nicely I'm really
+[38:43] cool I love that um one thing that I
+[38:46] also uh want to get into a little bit
+[38:49] with you uh is uh how it has been for
+[38:52] you that you move to El Salvador so you
+[38:56] came from what you said
+[38:58] Australia yeah I'm originally from the
+[39:00] Netherlands and I moved to austr I heard
+[39:04] it yeah uh originally from the
+[39:07] Netherlands actually I went skiing in um
+[39:10] in Austria for the first time in my life
+[39:12] when I was eight or six or something yes
+[39:15] a little place called Maria I think it
+[39:18] was that could be one yeah the the they
+[39:22] they have those kind of names yeah some
+[39:25] on there but yeah cool you have been
+[39:28] Netherlands Australia um and uh you
+[39:31] already covered why you moved there but
+[39:34] how has it been uh since then uh in in
+[39:36] the three years what did you see of of
+[39:39] Salvador what also maybe you see from
+[39:42] people that still live in Netherlands
+[39:44] still live in Australia and they are
+[39:46] seeing from from El salador and how this
+[39:48] is different to what you are actually
+[39:50] seeing in elav um so we've been here a
+[39:53] year and a half um and things are
+[39:57] changing rapidly here um I mean the
+[40:00] amount of development and growth and and
+[40:04] uh in this country is crazy um mean
+[40:07] development everywhere shopping centers
+[40:09] being built it
+[40:10] is amazing to see the change we can see
+[40:13] the change but it's also not just
+[40:15] development I mean it is also the fact
+[40:17] that on the beach we have now places to
+[40:21] put your garbage six seven eight months
+[40:23] ago that didn't exist so not only is it
+[40:26] the development it's also that the place
+[40:28] is cleaning up and and and people are
+[40:31] hopeful and people are excited about the
+[40:33] future and looking to forward to the
+[40:35] future and the other thing is there's a
+[40:37] lot of people that I think come here
+[40:38] that say wow I really like it you mean
+[40:41] this is where we can sort of not worry
+[40:44] about what we're saying to others you
+[40:46] know we're free to talk about things
+[40:48] we're open to talk about things um which
+[40:51] is very different that was at least when
+[40:53] I met left Australia it was very much
+[40:55] like I have to be careful with what I
+[40:57] say because I might defend someone blah
+[40:59] blah blah and over here no it's it's
+[41:01] it's very open very free um and the
+[41:05] country is working really hard to um
+[41:09] improve itself and improve the world I I
+[41:13] believe um and I say this often I
+[41:16] believe that El Salvador is the
+[41:19] epicenter of the new financial and
+[41:23] technological Global Paradigm what is
+[41:26] happening
+[41:27] here financi in the from a financial
+[41:30] World perspective and from a technology
+[41:33] perspective is quite amazing it's a
+[41:36] small little country there's a lot of
+[41:38] freedom a lot of opportunity for
+[41:41] entrepreneurial type thinking and we are
+[41:44] clearly moving from what I can see into
+[41:47] a world that is far more about self-
+[41:50] sovereignty decentralization Etc and
+[41:54] this country is leading it
+[41:56] so it's an awesome place I mean what's
+[41:58] Happening Here is is is great obviously
+[42:01] a lot to do with what Buel is doing and
+[42:04] how he's approaching everything um and
+[42:06] he's pretty blunt I mean I don't know if
+[42:08] you saw his uh um speech at the United
+[42:11] Nations um he's yeah you know it's he he
+[42:16] says that most big part of the world is
+[42:18] going down a very dark path so somewhere
+[42:21] we need to actually start building the
+[42:24] lights and creating the lights and it
+[42:26] definitely feels like that um over here
+[42:28] and Elsa over and I am loving it I can
+[42:31] tell you I am loving the the enthusiasm
+[42:35] the hope the
+[42:36] opportunity um and I made the move or we
+[42:41] made the move a year and a half ago and
+[42:43] I am very very very grateful for having
+[42:46] done that so um yeah I think that
+[42:48] answers your question right it it was
+[42:52] beautiful it this is the reason um why I
+[42:56] have to visit as and I will be visiting
+[42:59] adopting Bitcoin by the way if anyone
+[43:00] wants a ticket there's code Robin I
+[43:02] think you get like 10% off the ticket uh
+[43:05] but yeah I'm really really looking
+[43:07] forward to to adopting Bitcoin and
+[43:09] looking forward to meeting all those uh
+[43:11] people finally in person because I have
+[43:13] been interviewing so many from there and
+[43:15] they all uh talk so highly about it and
+[43:19] I was at this point I'm like I can't
+[43:21] okay I cannot interview more El
+[43:23] salvadorians and not go there like I at
+[43:26] least have to
+[43:27] it Lees to have to check it out for like
+[43:29] a week that's that's what I own my my
+[43:31] guest said have been on my podcast so
+[43:34] many times and I think that's it will be
+[43:37] a great time uh it will be it will be
+[43:40] probably a really really cool time I I'm
+[43:42] feeling um a little bit anxious I have a
+[43:46] big fear that I might not want to leave
+[43:48] El Salvador again so that might happen
+[43:51] let's see um the funny thing
+[43:54] is that two I hear is common that's
+[43:58] people come over here experience the the
+[44:00] whole thing and go wow I didn't know
+[44:03] life was going to be so awesome and and
+[44:07] you know things could be so cool and I
+[44:08] could share so many ideas and hope and
+[44:11] all that kind of stuff and again I mean
+[44:13] it's like bua said you know the lot of
+[44:17] the world is going down a dark path and
+[44:19] if you live there and you feel that and
+[44:22] you come to this place and you go wow
+[44:24] this is so exciting there's lots of
+[44:25] things to do and people excited and
+[44:27] hopeful and building and yeah then that
+[44:30] obviously is going to rub off um I think
+[44:33] people generally sort of feel more
+[44:35] attracted to positive things than
+[44:38] negative things because it makes them
+[44:39] happy right it's like a a drug if you
+[44:42] want to make happy and then you're
+[44:43] surrounded by people that are happy then
+[44:45] you too become happy and but the other
+[44:48] way around as well you know if people
+[44:49] are negative and yeah okay who said it
+[44:52] like that I think the the financial Dark
+[44:55] Ages we in the dark Financial age es and
+[44:58] this uh Dark Age is is strling down to
+[45:01] so many other things and it's it's great
+[45:04] to see that there are places with hope
+[45:06] and places that Embrace Bitcoin and not
+[45:09] just like ah we should regulate it you
+[45:12] should not be able to do self- custody
+[45:14] or like do the nonk exchange like that
+[45:17] that whole BS that's going on in the EU
+[45:20] uh I'm not a big fan of obviously uh and
+[45:25] it's not at this point where
+[45:27] I feel like pushed out of Austria but I
+[45:31] see a lot of countries where the
+[45:33] incentive is Big to to go there but uh
+[45:36] there might be the point in AA where I
+[45:38] get pushed out because I really dislike
+[45:42] politics that's why I also think that
+[45:44] it's important for bitcoiners to at
+[45:47] least be aware of your local politicians
+[45:50] and local politics what's going on
+[45:52] because even though Bitcoin doesn't care
+[45:55] about politics but politics cares about
+[45:57] you uh and that's why it's in important
+[46:00] to at least look like where are you
+[46:03] because your physical body is still here
+[46:05] uh and they can do a lot to you but not
+[46:07] to your piton yeah that's that's I think
+[46:09] uh important for people also know I
+[46:12] think um yeah and you actually
+[46:14] highlighted something that I often
+[46:15] mention as well is for hundreds of years
+[46:18] we lived or thousands of years or
+[46:19] however long we've lived in a world
+[46:21] where um my physical body um is is is
+[46:27] the main reason of doing things and the
+[46:29] main I guess things that we built our
+[46:32] our our our our um societal Frameworks
+[46:35] around right so in other words the
+[46:37] physical body is like I can go somewhere
+[46:40] and if I don't like it then I can remove
+[46:42] myself from from that place right um I
+[46:47] mean I'm thinking about loud with you
+[46:49] now as well you know in the US we have
+[46:51] the right to bear arms to defend against
+[46:53] ourselves against oppression of the
+[46:55] governments and all that kind of stuff
+[46:56] it's all in the physical world it's
+[46:58] physical type world uh stuff that we're
+[47:01] talking about because the world and
+[47:04] Society is now I believe more hybrid you
+[47:07] know we have a digital world and we have
+[47:10] a physical
+[47:11] world if we apply physical world type
+[47:14] thinking to a digital world then that's
+[47:18] not going to fully work I can make all
+[47:20] these wonderful laws about how it should
+[47:23] be and how it shouldn't be but in the
+[47:26] digital world yeah you know it's it's
+[47:28] it's not a good way to be able to
+[47:31] control or manage them so in other words
+[47:33] they can even overtake them so if we can
+[47:37] build the tools that allow us to do the
+[47:39] same like in the digital world as we
+[47:41] were in the physical world where we
+[47:42] control our physical bodies in the
+[47:45] physical world and our digital bodies or
+[47:48] our digital identities in the digital
+[47:50] world then all of a sudden things can
+[47:52] change so we need to have the tools in
+[47:55] the digital world just like we have in
+[47:56] the phys physical world in the physical
+[47:58] world I can walk away I can shoot you I
+[48:00] can do all that kind of stuff right but
+[48:02] in the digital world we can't now what
+[48:04] we're doing and what Noster doing as
+[48:05] Bitcoin is doing is actually creating
+[48:07] that ability to do the same thing where
+[48:09] if I say I don't like what you're doing
+[48:11] or I don't like that company I'm not
+[48:12] going to give them anything or anything
+[48:14] like that and I can remove myself and go
+[48:16] somewhere else just like the physical
+[48:18] world if we can create the tools in the
+[48:21] digital space to do that then all of a
+[48:23] sudden we then have an equal footing
+[48:24] again that's not where the most digital
+[48:27] world is right now so that's what we're
+[48:29] building that's what Bitcoin is about
+[48:30] that's what Noster is about that's I
+[48:32] think what blockchain is trying to
+[48:33] achieve but there's that issue with
+[48:36] centralization so yeah I believe what
+[48:40] we're doing is we're we're creating that
+[48:42] ability that we have in the physical
+[48:43] world in the digital world and say I
+[48:45] don't like you see you later I love it
+[48:47] too much I love it too much really
+[48:48] really cool um I want to end with uh
+[48:52] with the end routine now uh there's two
+[48:54] questions one question is always the
+[48:55] same for each guest
+[48:57] uh and the guest is the question I
+[49:00] always uh modified a little bit what can
+[49:03] we learn from you besides Bitcoin and
+[49:07] Nostra and all those things like what
+[49:08] what else can we learn from you besides
+[49:10] all the things that we already talked
+[49:11] about I think the the first thing that
+[49:14] comes to mind is is there are always
+[49:17] ways to achieve what we want to do for
+[49:23] me um freedom is important um for me
+[49:28] being control of myself is important so
+[49:30] there's always ways to be able to
+[49:32] achieve what what you do and if there's
+[49:34] anything else I would say always look
+[49:37] for the positive sides and what you
+[49:40] learn out of any situation that you come
+[49:43] across with I say to my daughter and she
+[49:46] fell off her skateboard and got blood
+[49:48] everywhere I'm going to
+[49:50] go wonderful that blood and you might
+[49:52] think it's cool but what did you learn
+[49:55] what did you learn so always learn and
+[49:58] look for the
+[49:59] positives by the way as you're also uh
+[50:02] originally from the Netherlands are you
+[50:04] visiting uh Bitcoin Amsterdam in in
+[50:06] October no I'm not we're pretty busy
+[50:09] over here um we've got a lot of stuff to
+[50:11] do with the conference over here um we
+[50:14] are actually doing a uh discussion panel
+[50:17] um at the conference over here about
+[50:19] what we're building and what we're
+[50:21] creating um so organizing that and um
+[50:26] yeah we're we're just too busy doing
+[50:28] stuff and as much as I'd love to go all
+[50:31] over the place you have to sort of be
+[50:33] you know I have a project here with a
+[50:35] local company with a local hospital
+[50:38] let's focus on that um but no but maybe
+[50:41] next year who knows really really cool
+[50:44] yeah uh I will see you in in El Sal
+[50:46] anyway so one one month afterwards uh
+[50:49] really cool perfect then uh let's come
+[50:51] to our endro tetin where the previous
+[50:53] guest is asking a question for the next
+[50:55] guest and it's a very Brad question you
+[50:57] can take it in uh whatever Direction you
+[50:59] want to take the question uh where do
+[51:02] you see Bitcoin in 2050 uh where do I
+[51:05] see Bitcoin in 2050 I think I so 2050 is
+[51:09] 25 years from now I think that half of
+[51:14] the world will be using
+[51:16] Bitcoin as a medium of exchange and also
+[51:21] a unit of
+[51:22] accounts oh really cool I think if half
+[51:25] of the world like every second person is
+[51:28] is kind of using it then we are like
+[51:30] almost at hyperbitcoinization at that
+[51:32] point I think there then there's like uh
+[51:35] really huge huge step already taken yeah
+[51:37] really really cool perfect thank you so
+[51:38] much uh before I let you go where can
+[51:40] people find you ask your questions and
+[51:42] read more about uh you and your project
+[51:45] yeah so the company um is called
+[51:49] illumines um I don't know if you got any
+[51:52] uh logos or anything like that but um
+[51:55] alumino is the company uh you can find
+[51:58] this on Noster of course um so um I can
+[52:03] share a QR code with you that you can
+[52:06] share if you want um and of course you
+[52:09] can find us on X uh as well at alumin
+[52:12] noes as well and of course you can just
+[52:15] go to our website
+[52:17] www. alumin
+[52:20] no.com um yeah and you know by all by
+[52:23] all means reach out um uh um for sure
+[52:27] that's
+[52:28] definitely yeah that's the
+[52:31] website and then there you've obviously
+[52:34] got the links to X and um and and Noster
+[52:39] and stuff like that yeah amazing perfect
+[52:41] yeah thank you so much um for for taking
+[52:44] the time also thank you so much for
+[52:45] everyone that is watching and listening
+[52:47] uh as I'll be back tomorrow with another
+[52:50] episode bye-bye
+[52:52] [Music]

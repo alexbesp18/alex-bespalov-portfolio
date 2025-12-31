@@ -1,0 +1,1704 @@
+Title: Why Bitcoin Core (or knots?) Is the Most Important Code in the World!
+Video ID: he9D-pf_5bM
+URL: https://www.youtube.com/watch?v=he9D-pf_5bM
+Date Saved: 2025-06-28 20:46:03
+Channel: RobinSeyr
+--------------------------------------------------
+
+[00:00] The more time you spend as a contributor
+[00:02] at that level in terms of being a
+[00:03] maintainer, the more you have to lose in
+[00:05] terms of trying to go the other way
+[00:06] around of either being corrupted or
+[00:08] changing cuz you spent all these years
+[00:10] building up to that point of both
+[00:11] competency but also trust with the
+[00:13] ecosystem. So it's kind of a
+[00:14] counterintuitive thing to do. I work on
+[00:16] Bitcoin core mostly PR reviews and other
+[00:18] than that I write for Forbes cataloging
+[00:20] kind of the dynamics here on the ground
+[00:21] in Africa with regards to Bitcoin. And
+[00:23] what keeps me excited with regards to
+[00:24] Bitcoin is honestly just the possibility
+[00:26] of having many more people around the
+[00:28] world giving access to financial freedom
+[00:31] technology essentially which I've
+[00:32] honestly really tremendously benefited
+[00:34] from personally. If you do keep the
+[00:36] whole focus in terms of building and
+[00:38] also providing value then you naturally
+[00:39] will have the second aspect which is
+[00:41] number go up cuz again like I said just
+[00:43] a reflection of validating the former
+[00:45] USDT is essentially a translation of the
+[00:47] dollar dominance. So in a certain way,
+[00:48] the US dollar itself is technically a
+[00:50] CBDC too from that control capture
+[00:52] aspect. So naturally makes sense that we
+[00:54] we'll see that manifest as well in USDT.
+[00:57] So again, it's just one of the many
+[00:59] reasons why Bitcoin is just a far better
+[01:01] long-term solution for a lot of people,
+[01:03] especially when it comes to protecting
+[01:04] against that capture.
+[01:07] [Music]
+[01:09] Maybe give with the viewers and the
+[01:12] listeners some background of who you are
+[01:14] and why you're excited about Bitcoin.
+[01:16] Oh,
+ for sure. So just to keep it brief,
+[01:17] I'm Abubakur Khalil. I run Recursive
+[01:20] Capital, which is a Bitcoin VC. You
+[01:21] invest in exclusively Bitcoin companies
+[01:24] in Africa through equity based funding.
+[01:26] I also run B trust. I'm one of the board
+[01:28] members as well where we essentially
+[01:30] decentralize Bitcoin development in the
+[01:31] global south in Africa. So we provide
+[01:33] grants primarily to developers but also
+[01:35] developer education programs, events,
+[01:37] etc. And separately I work on Bitcoin
+[01:39] core most CPR reviews and other than
+[01:41] that I write for Forbes cataloging kind
+[01:43] of the dynamics here on the ground in
+[01:44] Africa with regards to Bitcoin. And what
+[01:46] keeps me excited with regards to Bitcoin
+[01:48] is honestly just the possibility of
+[01:50] having many more people around the world
+[01:52] giving access to financial freedom
+[01:54] technology essentially which I've
+[01:56] honestly really tremendously benefited
+[01:58] from personally the last few years in
+[02:00] terms of being an NER and trying to keep
+[02:02] up with being a you know an individual
+[02:04] that can communicate value across the
+[02:06] globe instantly cheaply. That's amazing.
+[02:09] You can send value where and I think
+[02:12] people that don't have that use case
+[02:14] don't get that.
+ I only got that use case
+[02:17] when I started paying freelancers uh
+[02:20] outside of Austria and like paying them
+[02:22] in Colombia, El Salvador. And it's like
+[02:25] it's a game changer when you have
+[02:27] Bitcoin. I pay like 70 cents sometimes a
+[02:29] euro for a transaction. If the same
+[02:32] thing happens on fiat, I have to pay€ 10
+[02:33] to 20 on my end. and and on his hand he
+[02:37] also has to pay€ 10 or 20 euros. So
+[02:40] there's a lot of value lost along the
+[02:42] way. Uh if you have Bitcoin you have an
+[02:44] instant and there's always no KVC and
+[02:46] all those things. So that's that's a
+[02:48] that's an
+ that's a thing that I think a
+[02:50] lot of people under uh underestimate
+[02:52] that don't see the use case by
+[02:54] themselves. So it's the the medium of
+[02:56] exchange that that you can communicate
+[02:59] values that's that's for you the core
+[03:01] value of Bitcoin. 100% 100% everything
+[03:04] else is
+ interesting. Yeah, there's a lot
+[03:06] of store value talk. There's a lot of
+[03:10] number a lot of uh strategic bitcoin
+[03:14] reserves, a lot of like borrowing
+[03:15] against your stack and and all those
+[03:17] financial engineering talks when you
+[03:19] listen I don't know if you have listened
+[03:20] to Vegas or you were in Vegas but this
+[03:23] is kind of like where currently a lot of
+[03:26] the focus is. Um, is that natural,
+[03:29] normal in the phase that we are
+[03:31] currently in with with Bitcoin or do you
+[03:33] see it as kind of a distraction?
+ I see
+[03:34] it's part distraction, but it's also
+[03:36] part kind of confirmation that there is
+[03:38] value in the space. I think just to like
+[03:42] I said a few moments ago, I think it's
+[03:43] one of those things where price is just
+[03:45] a reflection of like the current value
+[03:48] that people place on this network itself
+[03:50] as a monetary network. And I think each
+[03:53] obviously each price cycle just comes
+[03:54] with its own share of market exuberance
+[03:56] which is kind of good and bad. It's good
+[03:58] in the sense that investor appetite is
+[03:59] really high. So you get a lot of deals
+[04:01] closed in terms of the entrepreneur
+[04:02] side. But the bad side is there's a lot
+[04:05] of distractions and a lot of people
+[04:06] trying to kind of redefine what the core
+[04:09] value is of Bitcoin which happens every
+[04:11] time where whether is as fully just
+[04:13] store value and everything else is
+[04:14] secondary or whether it's Bitcoin DeFi
+[04:17] now in the case that we're having or
+[04:19] just some other way that they're
+[04:20] re-evaluating what Bitcoin's value prop
+[04:23] is especially through like conventional
+[04:24] stratify means which I think is
+[04:26] completely not useful in terms of
+[04:29] long-term what Bitcoin's true value
+[04:31] should be in terms of humanity as oosed
+[04:33] to like what a lot of people are talking
+[04:34] about which is essentially just doing
+[04:36] all the trade stuff but on Bitcoin with
+[04:38] you know different narratives but there
+[04:40] are definitely benefits to the treasury
+[04:41] side and all the other things we can
+[04:43] definitely get into that separately
+[04:45] interesting I mean you also see a lot
+[04:47] like you are as you said like all the
+[04:49] things that that you are doing uh with
+[04:52] companies with with the developers with
+[04:54] all the things that you're doing um do
+[04:57] you see actually that price is helping
+[05:00] the community like if if the price rises
+[05:02] Is there like a lot more happening on
+[05:04] the company side?
+ Oh, definitely. Each
+[05:06] time there's a lot of price action. We
+[05:09] see a lot of people both enthusiastic
+[05:10] even on the dev side to a certain
+[05:12] extent. But I see over the years it's
+[05:14] been interesting to see it kind of
+[05:15] decouple. I don't think we'll get to the
+[05:17] point where there's like zero
+[05:18] correlation between price and people's
+[05:19] enthusiasm both developers and
+[05:21] entrepreneurs. But over the years
+[05:23] definitely reduced in terms of like 5
+[05:25] years ago it was purely just based on
+[05:26] price. Like people only cared about
+[05:28] Bitcoin whether it's to develop or write
+[05:30] code and the price was up. But now it
+[05:32] seems people have gone through a few
+[05:33] price cycles. So they kind of get the
+[05:35] lay of the land in terms of this being
+[05:37] kind of part for the course as part of
+[05:39] the journey.
+ So because people are
+[05:41] getting used to the price cycles, the
+[05:44] price cycles also have less effect on
+[05:47] the actual business.
+ Oh yeah. I think
+[05:50] right now the majority of the price
+[05:51] action is more to do with institutional
+[05:54] adoption being more excited than average
+[05:56] folks that have been around in the
+[05:57] Bitcoin space. For them really it's a
+[05:59] case of like having their affairs in
+[06:00] order. So whether it's moving a lot more
+[06:02] to USDT or probably even the opposite
+[06:04] moving it away from USDT to Bitcoin for
+[06:06] like long-term savings especially when
+[06:08] the dips are there and kind of the whole
+[06:10] um DCA uh culture which has formed in
+[06:13] the last two years I see in places like
+[06:14] Nigeria and other parts of Africa.
+ I
+[06:17] asked you before we started recording an
+[06:19] interesting question I want to ask you
+[06:20] again because it was interesting how you
+[06:22] how you answered. Um I asked you before
+[06:25] what is kind of keeping you up at night
+[06:27] in the last two two weeks uh was
+[06:30] currently happening in Bitcoin like
+[06:31] what's currently on top of your mind
+[06:33] when you think about Bitcoin?
+ Yeah
+[06:35] definitely it's kind of twofold. So you
+[06:37] know when you asked I definitely gave
+[06:39] the the company side. So I'll start with
+[06:40] that and then the developer side. I
+[06:42] think on the company side it's been
+[06:44] interesting to see dynamics unfold on
+[06:46] the Bitcoin DeFi side. I think again the
+[06:48] exuberance in this current cycle is kind
+[06:50] of manifesting as Bitcoin treasuries as
+[06:53] you know collateralized loans etc which
+[06:56] is not a bad thing. I think honestly
+[06:57] that's kind of the next evolution in
+[06:59] terms of the the next stage of both
+[07:01] adoption but also more financialization
+[07:03] on Bitcoin. So there's definitely a plus
+[07:04] there. But the issue on the kind of the
+[07:07] pipeline side for us in terms of
+[07:09] companies is we're seeing a lot more
+[07:10] noise in terms of I mean sometimes even
+[07:12] outright as a repoation pitches which
+[07:15] absolutely makes no sense and kind of
+[07:17] hurts the entire purpose of doing this
+[07:19] all the way up to attempts to kind of
+[07:21] frame things from again like I said DeFi
+[07:24] but just with Bitcoin tech which not a
+[07:26] lot of those constructs even make sense
+[07:28] or even sometimes just asking simple
+[07:30] questions like what happens when there's
+[07:32] a liquidation event for the loans and
+[07:33] then they're like you We'll see when we
+[07:35] get there. I mean, that's totally
+[07:37] unhelpful in terms of analyzing whether
+[07:39] things will work will work. So, I think
+[07:41] we're at a stage where there's a lot of
+[07:42] excitement. There are a lot of
+[07:43] individuals that are rethinking tools
+[07:45] and services that previously there
+[07:47] wasn't a lot of market appetite for
+[07:48] which there is an abundance of right
+[07:50] now. So, I think we're going to have
+[07:52] maybe the next honestly couple months
+[07:55] even into maybe January 26 where there's
+[07:57] just going to be a huge amount of noise
+[07:58] as long as the price keeps going up.
+[08:00] But, if we have a dip, I think we'll
+[08:01] have some sort of a correction in terms
+[08:02] of the focus. So on the dev side, I kind
+[08:04] of fear that it would sort of bleed in
+[08:06] terms of what developers see as uh I
+[08:09] guess use cases on the ground and kind
+[08:10] of rep prioritizing where development
+[08:12] should go in terms of focus. So
+[08:14] definitely hope and I am kind of very
+[08:16] optimistic seeing things with Bitcoin
+[08:18] core and some of the other projects kind
+[08:20] of not letting the market hype and all
+[08:22] the chaos happening outside and noise
+[08:24] kind of filter into the uh the project
+[08:25] itself and kind development.
+[08:28] You also said something uh other
+[08:30] interesting before that you said you
+[08:32] would like to see a dip in the price to
+[08:35] get the focus back because the price is
+[08:37] kind of like distracting from the actual
+[08:39] thing and building it like this this
+[08:41] builder markets and and bull markets
+[08:44] kind of thesis and I think we either
+[08:46] need a serious correction back to like
+[08:48] maybe a 60k 50 so folks can get a bit
+[08:51] more calm or the price can keep going up
+[08:54] and the hope is that a lot more people
+[08:57] or a growing number of people start to
+[08:58] refocus and understand, you know, and
+[09:00] kind of band together to realize that
+[09:02] yes, this is exciting times, but it's
+[09:04] just a validation of the last couple
+[09:06] years of building.
+ It's so interesting
+[09:07] when you also bring up the those weird
+[09:11] rehypoification
+[09:12] pitches and all the things that you're
+[09:14] getting. I mean, we have seen this so
+[09:16] many times in the past. I mean, FDX says
+[09:19] this is not that long ago. I guess um
+[09:22] there are probably some people uh that
+[09:24] listen to that that came after FDX into
+[09:27] Bitcoin because I think it has been 2022
+[09:29] and and you can come in 2023 or four in
+[09:33] into Bitcoin and maybe never heard even
+[09:35] of FDX and Celsius and like what are you
+[09:38] talking about? But those those things
+[09:40] happened in the past so many times and
+[09:44] FDX Celsius is just like famous examples
+[09:46] of that. in the same uh time there were
+[09:49] like 20 similar companies that are
+[09:51] failing and probably more that I don't
+[09:53] even know about. Um
+[09:56] do you see something like that just
+[09:58] happening all over again because the
+[10:00] price cycles are still so high uh and
+[10:03] and so volatile so that it is just human
+[10:06] nature to try to capitalize on that and
+[10:09] think oh maybe this time the cycle
+[10:11] breaks and it only goes up and if if it
+[10:13] only goes up it it actually will work.
+[10:15] Yeah, I think we'll see a combo of a
+[10:18] variety of things. I think I mean
+[10:20] history repeats itself, but not
+[10:21] necessarily in the exact same way. I
+[10:23] think kind of just rhymes. I think what
+[10:25] we're likely going to see is a different
+[10:27] version of the rehypocation situation or
+[10:29] the IUS we saw. I think it'll probably
+[10:31] be based on positions that people have
+[10:33] taken that are too overlevered in terms
+[10:35] of, you know, the whole treasury side,
+[10:37] etc. So, one or two things could happen.
+[10:39] And I mean it's not me prognosticating
+[10:41] but just how I see things could play out
+[10:44] would be on one front we could have a
+[10:46] correction which would likely expose
+[10:48] those who are overleveraged. Two we
+[10:50] could actually see even more price
+[10:52] action going up and then maybe due to
+[10:54] some of the immediate um hand
+[10:56] arrangements that they have on the
+[10:58] financial side could implode. So, it's
+[11:01] kind of one of those two things and
+[11:03] hopefully hopefully folks aren't
+[11:04] involved with either or I guess
+[11:06] overexposed with those type of two
+[11:08] options whether it's on the you know um
+[11:10] company side or some other investment or
+[11:12] asset they're holding currently. But
+[11:14] like I said, I'm very optimistic. I
+[11:15] think there are definitely two growing
+[11:16] camps of the really really excited folks
+[11:19] which is kind of a blend of those who
+[11:20] have already been in the space and those
+[11:21] who are coming into the space that feel
+[11:23] Bitcoin DeFi is now a thing. So, we're
+[11:25] getting all the DeFi folks pretty much
+[11:27] from outside of Bitcoin coming in now.
+[11:29] And then there's definitely that small
+[11:30] group that's always eternal in the
+[11:32] Bitcoin space of highly focused
+[11:34] builders, entrepreneurs, etc. So that's
+[11:36] kind of where the core focus is on my
+[11:37] end in terms of why I pay more attention
+[11:39] to
+[11:40] about the the builders and not the
+[11:43] borrow against your Bitcoin crowd.
+ I
+[11:45] think there's definitely a lot that
+[11:46] needs to be proved out on the borrowing
+[11:47] side, especially in terms of the the
+[11:49] structures we have. I think a lot of
+[11:51] them are really um they're really at the
+[11:53] infancy stage. So not a lot of the
+[11:55] products have been battle tested in
+[11:56] terms of like I said liquidation or even
+[11:59] some of the some of the positions. So
+[12:00] we'll likely have to see maybe in the
+[12:02] next couple of months the ones that
+[12:03] employed and hopefully people learn from
+[12:04] that.
+ What do you think is most
+[12:06] important that we build on Bitcoin if we
+[12:09] think about developing the ecosystem?
+[12:12] What is like the the one two projects
+[12:14] that you're like okay this is probably
+[12:15] most important to build out for the
+[12:17] future
+ probably across three things I
+[12:19] think or maybe even possibly four. I
+[12:21] think on the loan side, an interesting
+[12:23] concept that will be nice to see people
+[12:25] nail down is on the ethical loan side.
+[12:28] The last 2 years we had a lot of talk
+[12:30] about rethinking about how loans operate
+[12:32] with regards to Bitcoin being a
+[12:34] deflationary asset, no need for the
+[12:36] interest, etc. So, I'm yet to see at
+[12:38] least on the fund side any sort of pitch
+[12:40] that concretely addresses that without
+[12:42] having some of the issues we've seen
+[12:43] with others um existing traditional
+[12:46] financial structures or uh products all
+[12:49] the way up to even just outright just
+[12:51] copying things that don't make sense
+[12:53] really in the Bitcoin space. And then
+[12:55] separate to that, I'd say another aspect
+[12:56] is definitely on the mining side. I
+[12:58] think that's going to drive a lot even
+[13:00] beyond just electrification. and I think
+[13:02] is going to drive policy here especially
+[13:03] in Africa all the way up to even seeing
+[13:06] how that could blend into artificial
+[13:08] intelligence or just providing compute
+[13:10] and kind of using that as a
+[13:11] bootstrapping mechanism. So I think
+[13:13] there's definitely going to be a lot
+[13:14] going on in the Bitcoin mining side as
+[13:16] well even as like a play for treasuries
+[13:18] too. And then separately I think the
+[13:19] treasury aspect does have value. I think
+[13:21] we have a lot of companies in Africa
+[13:23] that have essentially dormant dollars in
+[13:26] US bank accounts which are not
+[13:28] necessarily in their interest given the
+[13:29] fact that we saw what happened with
+[13:31] Mercury last year where they rugpulled
+[13:32] essentially every founder from this side
+[13:34] of the world given the compliance cost.
+[13:36] So I think it's another aspect for them
+[13:38] to kind of explore protecting their
+[13:40] existing liquidity that would have been
+[13:41] idle that would now be productively used
+[13:43] by holding Bitcoin. And I say the last
+[13:45] one really is just a it's not
+[13:47] necessarily a company. I think it's more
+[13:49] to do with a frame of mind in terms of
+[13:51] builders and entrepreneurs, which is
+[13:53] making sure that they're building with
+[13:55] kind of the framing that Bitcoin is
+[13:57] money and not just a store of value and
+[13:59] then providing real world uh products
+[14:02] and services that actually cater to a
+[14:04] real demographic of people on the ground
+[14:05] and not like a theoretically cooked up
+[14:07] uh demographic.
+ How important is this uh
+[14:11] money narrative versus just a store of
+[14:13] value?
+[14:15] Very. I think
+[14:17] you need to have one if you want to have
+[14:20] the other and having the other doesn't
+[14:22] necessarily give you the other. So what
+[14:23] I mean concretely is if you focus too
+[14:26] much on the value side or you know the
+[14:28] money number go up etc. you wouldn't
+[14:30] necessarily have Bitcoin's core value
+[14:33] like I said which is being a money
+[14:35] maintained in a sustainable way. you'll
+[14:37] likely see development focus shift into
+[14:39] maximizing
+[14:40] future returns or all these other things
+[14:42] that maybe are kind of out of the scope
+[14:44] of Bitcoin that a lot of people that
+[14:45] have been involved in the space for this
+[14:47] long hold dear. And I say on the other
+[14:49] side, if you do keep the whole Bitcoin
+[14:51] is a money um narrative or not
+[14:53] necessarily narrative but focus in terms
+[14:55] of building and also providing value
+[14:57] then you actually will have the second
+[14:58] aspect which is number go up cuz again
+[15:01] like I said it's just a reflection of
+[15:02] validating the former. So I think we
+[15:04] definitely need to narrow down on that
+[15:05] initial focus of Bitcoin is still money.
+[15:08] That kind of primary thing why everyone
+[15:09] should be building and everything else
+[15:10] is kind of a consequence of how well
+[15:12] that is built.
+ I want to bring that up
+[15:14] because I'm I'm actually curious on on
+[15:17] how how it's running. May maybe I'll
+[15:19] I'll find it uh quickly for you. Uh and
+[15:24] I'm curious on on on what you say to
+[15:26] that because I think you kind of
+[15:28] included that in the beginning. Um here
+[15:32] it is. I think it's uh it's not a
+[15:35] popular poll
+[15:37] as a as a as a thought. Um I will I will
+[15:41] just uh share that quickly with you with
+[15:44] screen window.
+[15:47] Here it is. Uh share I so it's not a
+[15:52] popular poll. Usually I get like 1,300
+[15:55] uh votes and I mean it's just like 3
+[15:57] hours out but like the 65 is is very
+[16:00] low. I asked the question are the medium
+[16:02] of exchange attributes of bitcoin what
+[16:04] makes the store of value so valuable
+[16:07] um because it's kind of for me the frame
+[16:09] of mind
+[16:12] it all started with Jeff poof and may
+[16:13] people that listen daily will be so
+[16:16] already tired of me saying that but Jeff
+[16:19] poof kind of opened that question in the
+[16:21] podcast where what if bitcoin fails as a
+[16:25] mean of exchange it most likely will
+[16:27] also fail as a store of value and you
+[16:30] said in the beginning for you it's all
+[16:33] about the being able to communicate
+[16:36] value through space and time. Um but
+[16:39] mostly about the the space aspects and
+[16:41] not the the the store of value aspect.
+[16:44] And I ask that because this is for me
+[16:48] the most solid argument why you should
+[16:51] care about media of exchange because the
+[16:53] med of exchange attributes is the thing
+[16:56] that makes the store of value so
+[16:59] valuable. if you couldn't trans if you
+[17:02] couldn't get Bitcoin across borders, if
+[17:05] you couldn't uh have have it like all
+[17:08] all those things, I don't know if it
+[17:11] would be that valuable just having a
+[17:16] thing that is scarce like like like
+[17:20] there are a lot of digital things that
+[17:22] like it's okay. It's not it's it's so
+[17:24] big and the mining aspect and the proof
+[17:26] of work aspect it's still it's still
+[17:28] amazing but what if you could not
+[17:31] transact it what if what if it's just uh
+[17:34] like basically number go up without the
+[17:35] freedom aspect of it I don't know if
+[17:38] people would be so
+[17:40] um religious almost about it and so uh
+[17:44] the community would probably also not be
+[17:47] so powerful
+[17:49] so that's kind of the question where I'm
+[17:51] like okay what if the media exchange
+[17:53] attributes were not there, is the store
+[17:54] valued and even like would this even
+[17:57] occur?
+ I mean, not necessarily, but I
+[18:00] guess we'll never see that play out cuz
+[18:01] we're always going to be in a reality
+[18:03] where the former came before the latter.
+[18:05] So, the actual value, which is
+[18:06] communicating across space and time,
+[18:08] like you mentioned versus the other way
+[18:10] around. But if we do end up in a
+[18:12] situation where Bitcoin loses its core
+[18:14] ethos, like I said, of actually
+[18:15] communicating this value over time,
+[18:17] etc., and overspace and I think we'll
+[18:19] likely be in a state where a lot of the
+[18:22] Bitcoin naysayers and some of the more
+[18:23] traditional talking heads and uh some of
+[18:26] the magazines without naming names
+[18:28] wouldn't necessarily be validated given
+[18:30] the biggest criticism that they've had
+[18:32] of Bitcoin is that it has no core value
+[18:34] which if we do miss this core value
+[18:36] which we're talking about then truly
+[18:37] they will be they'll be validated and
+[18:39] correct in the sense that Bitcoin
+[18:40] essentially be the the pet rock the
+[18:42] whole emoji will really be true at that
+[18:44] point where there's no difference
+[18:46] between you know a bitcoin coin versus a
+[18:48] Lebu doll or you know some other thing
+[18:50] that is like a collectible etc. So I
+[18:53] think really is very very important and
+[18:54] you put it really right and again this
+[18:56] is uh framing you know Jeff and some of
+[18:58] the others have really brought to the
+[18:59] for that I'm really glad to see is very
+[19:01] refreshing is even if you're a diehard
+[19:04] number go up guy or girl the idea should
+[19:08] still be that the only reason why you
+[19:09] have that is because of the core value
+[19:10] of bitcoin which we're talking about as
+[19:12] money even on the mining side is not
+[19:14] necessarily because it's fixed etc it's
+[19:17] really a case of providing you know uh
+[19:20] value on the ground because of the whole
+[19:21] process of security network itself but
+[19:24] also even on the electrification side
+[19:25] and subsidying you know uh some of these
+[19:27] electrical projects. So I see those are
+[19:29] core values that have to do with being a
+[19:31] proper money and because of the how well
+[19:33] built the protocols in terms of being a
+[19:34] proper money for the 21st century that's
+[19:36] really built. So I think honestly the
+[19:38] financial freedom angle if it's taken
+[19:39] out of Bitcoin then it becomes devoid of
+[19:42] any sort of core value and honestly
+[19:44] we're just going to keep getting random
+[19:45] cycles of price action that's driven by
+[19:48] things that have no fundamentals which
+[19:50] historically speaking we know where that
+[19:51] leads.
+ You're also um a Bitcoin core
+[19:54] contributor if I got that right.
+ Yeah.
+[19:58] How is when you have the focus on on
+[20:01] money, does this change how you think
+[20:04] about developing Bitcoin into the
+[20:07] future?
+ 100%. And I think the way I see
+[20:10] it played out is kind of a variety of
+[20:11] ways, but there's like a common set of
+[20:14] uh I guess aspects that it kind of
+[20:15] manifests into. So primarily you would
+[20:18] see if you're shifting your focus away
+[20:20] from money towards just number go up
+[20:22] you'll be more open and more keen to
+[20:25] kind of open up some of the protocol or
+[20:27] even some of the the aspects of the
+[20:29] network itself towards maximizing use
+[20:32] cases introducing unnecessary fragility
+[20:34] just so you can again like I said
+[20:36] maximize that whole number go up cuz if
+[20:38] Bitcoin is able to do 10x more things
+[20:41] than it can right now then most of the
+[20:43] folks that are on the number go up side
+[20:45] will be in favor of that given they
+[20:47] assume you know whether rightly or
+[20:49] wrongly that that's really where the
+[20:51] core value of Bitcoin is as opposed to
+[20:52] being a money. So it's kind of a chicken
+[20:54] and egg like if you have money being the
+[20:57] primary thing driving everything you're
+[20:58] doing you'll be a lot more focused a lot
+[21:00] more hesitant to introduce fragility
+[21:02] needlessly into the protocol or even
+[21:03] just the core tech versus if you don't
+[21:06] care about the money side then truly
+[21:07] there is no like ontological basis for
+[21:10] the value that Bitcoin is driving. So it
+[21:12] becomes an easier argument for you to
+[21:13] go, hey, let's just allow Bitcoin to do
+[21:15] 10x more things, including things that
+[21:17] are done in the crypto space that
+[21:19] provide value. And that would be the
+[21:21] core value proposition versus visibly,
+[21:23] you know, money.
+ Are you currently
+[21:24] missing something in the in the Bitcoin
+[21:26] infrastructure? Anything that you're
+[21:28] like, okay, like we we should we should
+[21:29] focus on that
+ necessarily. I think we're
+[21:31] in a all right state. I know, you know,
+[21:34] it's been a lot of noise in the last
+[21:35] couple of weeks on a variety of
+[21:37] proposals, primarily the the whole oper
+[21:40] situation and Bitcoin core's handling of
+[21:41] it. And I definitely take a more nuanced
+[21:43] view. Like I think a lot of people keep
+[21:45] forgetting that core developers also
+[21:47] hold and use Bitcoin. Like there's this
+[21:49] assumption that they're essentially
+[21:51] clocking in day and night to work on
+[21:53] something that they're divorced from.
+[21:54] But I can definitely tell you like
+[21:56] interacting with core devs like they
+[21:57] really care and probably even care the
+[22:00] most compared to a lot of average folks
+[22:02] about the trajectory of Bitcoin and
+[22:04] still maintaining the eos of money. So
+[22:06] I'm definitely optimistic with that side
+[22:08] in terms of ensuring that you know the
+[22:10] developers that are currently working
+[22:11] the project are dieh hard fans of its
+[22:13] core value proposition viv you know the
+[22:16] whole number go up. So we're definitely
+[22:18] in a stage where again there's a lot of
+[22:19] noise because of the price action. A lot
+[22:21] of people feeling like you know they
+[22:23] want to be involved at every aspect or
+[22:25] misrepresenting each side of the
+[22:26] argument etc. But I think a lot of that
+[22:28] would gradually you know wean off which
+[22:30] we've seen with every price cycle. We
+[22:32] see a lot of hype talk about a ton of
+[22:34] proposals some get through some don't
+[22:36] get through community feels like there's
+[22:38] a divide between the concore and
+[22:39] everything else etc. And then things get
+[22:41] back to normal in terms of the long-term
+[22:43] focus being maintained. Yeah,
+[22:46] it's it's sad sometimes to to see it. I
+[22:49] mean, the this up return it's it's it's
+[22:52] less and less now as I saw it weeks ago
+[22:56] like every day. um to the point where
+[22:59] I'm like, "Oh, it gets a little bit to
+[23:00] be annoying." But it is I I think it's
+[23:03] great that
+[23:06] Bitcoin is obsessing of those details
+[23:08] and like Bitcoin is really obsessing
+[23:11] about the smaller things that maybe look
+[23:15] small but might have some big like the
+[23:18] block size thing. uh like uh for for
+[23:21] someone that doesn't know the full
+[23:24] picture saying like oh like let's
+[23:26] increase the block size a little bit
+[23:28] they're like ah okay yeah it's what can
+[23:30] go wrong uh
+ exactly
+ but if you really
+[23:34] look at the whole picture of what that
+[23:36] means of increasing the block size and
+[23:38] opening that box of increasing the block
+[23:40] size you're like oh maybe we should be
+[23:43] very cautious with that. Uh so it's it's
+[23:47] it's super interesting to have a
+[23:49] community that is so passionate about
+[23:52] all those small details because those
+[23:54] small details make the whole thing run
+[23:58] and make the whole thing perfect. Like
+[24:00] it's fascinating that we still have
+[24:02] Bitcoin like that we have the perfect
+[24:03] money that just works and it's outside
+[24:06] of the the fiat system. And for me the
+[24:09] whole thing is a miracle. And this
+[24:11] miracle is only possible because of the
+[24:13] community obsessing about freedom. And I
+[24:16] think that's the whole point of us
+[24:19] getting back to money and this freedom
+[24:21] technology and not being derailed and
+[24:24] distracted.
+[24:26] But I'm a go- technology. I think that's
+[24:28] very key point. I like that a lot.
+ No,
+[24:31] for sure. I totally agree. And you you
+[24:32] brought up a very very good point. It's
+[24:34] very easy for things to unravel small
+[24:36] piece after small piece and kind of get
+[24:38] chipped away over time and then 5 10
+[24:40] years from now we'll have a project that
+[24:42] none of us recognize and none of us can
+[24:44] use to the extent that we can today.
+[24:47] Absolutely. Really interesting. Um I'm
+[24:49] also interested uh on on how it is to be
+[24:54] in this Bitcoin core developer group or
+[24:57] like one of the contributors. Um did did
+[25:00] you ever feel like pressure from outside
+[25:03] or like uh h how is it being uh someone
+[25:07] that is in this core contributor group?
+[25:09] I mean just to give context like
+[25:11] Bitcoin's development how would I say
+[25:14] like the development crew in terms of
+[25:18] Bitcoin is kind of like an onion like
+[25:20] there different layers to it. like the
+[25:21] outermost shell is essentially I think
+[25:24] close to a thousand folks that have
+[25:25] contributed just at least a single
+[25:27] change that ranks from you know a quick
+[25:30] fix all the way up to something really
+[25:31] critical and then further away from that
+[25:34] or into the onion itself or into the
+[25:35] core is kind of a group of like a couple
+[25:38] hundred that have done some follow-up
+[25:41] changes as well and then even smaller
+[25:43] group of like less than 100 that
+[25:45] actively contribute like this is folks
+[25:47] that are on a monthly basis pushing in
+[25:49] code but also reviewing And then
+[25:51] separate to that there are the core
+[25:52] maintainers which is essentially five
+[25:55] folks right now I think last time I
+[25:56] checked which they essentially lead
+[25:59] certain aspects of development. So
+[26:00] whether it's the memp pool security the
+[26:03] build system etc. So again we have this
+[26:05] core five and then separate to that we
+[26:07] have like a couple tens of developers
+[26:09] that are actively involved every single
+[26:11] month month out. Then we have a couple
+[26:13] hundred that are even less involved and
+[26:15] then all the way up to the thousand. So
+[26:17] I definitely fall within the group of
+[26:18] like the from the couple hundreds out.
+[26:22] So mostly doing PR reviews etc. So I say
+[26:24] the majority of the pressure honestly is
+[26:26] within the the folks that are within
+[26:28] like the couple tens all the way up to
+[26:30] the maintainers cuz they're the ones
+[26:31] most actively involved with actually
+[26:33] pushing code and also reviewing changes.
+[26:35] So in terms of even the last couple of
+[26:37] weeks, you've seen I'm sure a handful of
+[26:39] developers that have been kind of at the
+[26:41] forefront or I guess at the the stick
+[26:43] where people are shing you know pushing
+[26:45] all the pressure on them to either make
+[26:47] changes one way or the other or calling
+[26:48] them out as like you know corrupt etc.
+[26:51] So I think the pressure on my end is
+[26:52] definitely not there compared to people
+[26:54] that are actually closer to that that
+[26:57] core group of people actually
+[26:58] contributing
+ for the few people and and
+[27:00] it might be actually more than than we
+[27:02] think that it's still a little bit newer
+[27:05] to Bitcoin. How much power do those core
+[27:09] developers actually have over Bitcoin? I
+[27:11] mean it seems from the outside that
+[27:14] there's a lot of power but the way
+[27:16] Bitcoin development works again you know
+[27:19] getting too much into the technicals or
+[27:20] the weeds is a lot of the process is a
+[27:23] lot more dynamic than like a flat top
+[27:25] down structure. So even on a PR basis,
+[27:29] the folks that do take lead on that,
+[27:31] whether it's pushing the the request,
+[27:33] you know, forward or keeping up with the
+[27:35] author, etc., isn't always necessarily
+[27:38] the maintainers. It's a lot of the times
+[27:40] it's really the frequent contributors
+[27:41] and folks that have expertise on that
+[27:43] particular change that's been, you know,
+[27:45] proposed. And then I'd say in terms of
+[27:47] the power, it doesn't manifest as
+[27:50] like a small cabal of people, especially
+[27:52] the maintainers, meeting in secret shady
+[27:54] rooms and kind of deciding the future of
+[27:56] the project. It's really a case where
+[27:58] it's more of a janitorial role where the
+[28:00] reason why they're there is because one,
+[28:02] they're have gained the trust of the
+[28:03] ecosystem given the transparency and
+[28:05] openness that they've had and the track
+[28:06] record through the years, but also
+[28:08] because of their competency with regards
+[28:10] to that aspect of Bitcoin. So whether
+[28:11] it's on the mining side, on the network
+[28:13] side, the cryptography, etc. So all of
+[28:16] that plays a role in terms of how the
+[28:18] community views and kind of values their
+[28:19] thoughts and the error correction system
+[28:22] or mechanism within you know the
+[28:23] development process is
+[28:26] essentially kind of three-fold. So one
+[28:28] would be if there's ever a stage where
+[28:30] these folks feel like you know the wider
+[28:32] group of contributors feel like these
+[28:34] guys are corrupted or even one or two
+[28:36] have been corrupted there are mechanisms
+[28:38] in place to kind of boot them out
+[28:40] whether it's you know revoking keys etc.
+[28:43] And it's kind of a thing where the game
+[28:46] theory plays out this way. The more time
+[28:48] you spend as a contributor at that level
+[28:50] in terms of being a maintainer, the more
+[28:52] you have to lose in terms of trying to
+[28:54] go the other way around of either being
+[28:56] corrupted or changing cuz you spent all
+[28:58] these years building up to that point of
+[29:00] both competency but also trust with the
+[29:02] ecosystem. So it's kind of a
+[29:03] counterintuitive thing to do. And if you
+[29:05] do do that, historically you've seen
+[29:07] what happens whether it's you know with
+[29:08] Gavin or some of the others that were
+[29:09] booted out of the development process.
+[29:11] So rest assured for folks that are
+[29:13] listening, Bitcon has a really robust
+[29:16] mechanism for sorting that out and
+[29:18] obviously things could get better and
+[29:19] over time I think they will. But yeah,
+[29:21] it's definitely not a case where these
+[29:22] guys are going to get corrupted or
+[29:23] funded by one or and then things just
+[29:25] get derailed. The first time I ever made
+[29:28] any money, I got myself from that money
+[29:30] a watch. And ever since then, I collect
+[29:32] time pieces to remember times where I
+[29:35] achieved some milestone. That's why I
+[29:38] got the Bitcoin 2025 edition when I went
+[29:41] to my first ever American Bitcoin
+[29:44] conference. So for me, the Bitcoin
+[29:46] watches from Coin Vilan represents the
+[29:49] time that we are living in. For every
+[29:50] person that wears a Bitcoin watch, I
+[29:53] know they are representing sound money
+[29:57] to the outside world. Make sure to check
+[29:59] out those amazing coin vigilante time
+[30:02] pieces down in the descriptions. I love
+[30:05] those watches so so much. The most
+[30:08] important thing for your Bitcoin journey
+[30:10] is not buying Bitcoin, but it's how to
+[30:13] keep them. And yes, you have maybe the
+[30:15] right tools, but how do you actually go
+[30:17] ahead and stick it all together so it's
+[30:20] the most secure for you personally?
+[30:23] Self- custody is a deeply personalized
+[30:25] journey and the Bitcoin way is helping
+[30:27] you exactly finding that correct setup
+[30:31] for you personally. They're also helping
+[30:33] you with securing your own cyber
+[30:36] security. And if you want to go one step
+[30:38] above all that, you can even get a
+[30:41] consultation for a plan B residency. Go
+[30:45] to the bitcoinway.com/roin
+[30:49] and you will get a 30inut free
+[30:52] consultation. I know how big of a hurdle
+[30:54] it can be to have self-custody, but it's
+[30:58] so freaking important to make that first
+[31:00] step. But we have to make sure it's as
+[31:03] easy and simple as possible. And that's
+[31:06] exactly what Bitbox did. Bitbox created
+[31:09] the simplest and the easiest hard wallet
+[31:12] to use to get into self custody. So get
+[31:16] yourself a Bitbox down from the link in
+[31:18] the description. And when you use code
+[31:20] Robin, you even get a 5% discount. And
+[31:24] then there is the whole point of like
+[31:28] full nodes deciding what what software
+[31:30] they actually are using and and um uh
+[31:35] the the network of full node operators
+[31:39] compare and all the other aspects of the
+[31:41] decentralization of of of Bitcoin kind
+[31:44] of playing together and making it so
+[31:47] indestructible but still
+[31:50] still still moldable. So we we have a
+[31:54] way of ensuring that if there's
+[31:57] something coming up, we can change that
+[31:59] and we can mold Bitcoin. So it's a it's
+[32:02] kind of this balance. It's it's
+[32:04] decentralized enough to be secure
+ but
+[32:07] not so decentralized that we cannot do
+[32:09] anything because we have everything uh
+[32:12] and maintain Bitcoin somehow. It's an
+[32:14] interesting balance to to go because you
+[32:16] don't want Bitcoin to change every week
+[32:19] and and kind of like be like an a
+[32:22] software project that that that yeah
+[32:24] like it's down like a day it's okay. Um,
+[32:27] but you also don't want it to completely
+[32:29] stop every aspect of it because you
+[32:34] there might be there are bugs to fix
+[32:36] always, but there might also be a future
+[32:39] thing that we have to to build in there
+[32:41] otherwise Bitcoin might not work
+[32:44] properly in the future. So even look
+[32:46] like 50 100 years in the future. So it's
+[32:48] an interesting balance actually.
+ No,
+[32:50] exactly. Exactly. Definitely hit it hard
+[32:52] on on the head. I think another aspect
+[32:55] that's interesting is
+[32:57] like it's it's not a case where people
+[32:59] as soon as a change is proposed and like
+[33:01] it's merged into the repo and like let's
+[33:03] say a new version is out like that time
+[33:05] between people being aware of the new
+[33:07] version and updating takes quite a while
+[33:10] cuz again miners have to update full
+[33:12] node operators have to update etc. Folks
+[33:14] that are running merchant software
+[33:16] typically takes around 6 months to even
+[33:17] get that in. And so even if you do have
+[33:19] a malicious um code change, you already
+[33:21] have a mechanism of that wait time
+[33:23] before people actually update. And
+[33:24] already the community given how
+[33:26] incessant everyone is about all the
+[33:27] changes that go through will likely flag
+[33:29] it. I think the quickest updates you
+[33:31] likely see within the space over the
+[33:33] last couple years have been or I should
+[33:34] say historically have been changes that
+[33:37] have to do with uh bug fixes or security
+[33:39] holes that were fixed in subsequent
+[33:41] changes. Those are typically when people
+[33:43] update a lot faster than the six-month
+[33:44] window. But again, like you said, you
+[33:46] don't want it to be a situation where
+[33:48] there are way too many people involved
+[33:49] with the process and there's really no
+[33:51] mechanism for a path forward. At the
+[33:53] same time, you don't want it to
+[33:54] concentrate into a regular, you know,
+[33:56] essentially a company, Bitcoin Core,
+[33:57] Inc. dictating to everyone. So, there's
+[34:00] definitely a mechanism that we have on a
+[34:02] variety of aspects through the
+[34:04] development cycle that I think provide
+[34:05] that kind of robustness to the space.
+[34:07] Awesome. Um, one aspect that I'm always
+[34:10] curious is, um, uh, you're from Africa,
+[34:12] right?
+[34:14] Oh yeah. Nigeria.
+ You you also Nigeria.
+[34:16] You also live there currently.
+ Oh yeah.
+[34:19] That's where I'm based.
+ Okay. How
+[34:23] how is it in Africa? Because I feel like
+[34:26] people out of Africa really get the
+[34:28] actual value of Bitcoin like the
+[34:30] grassroots. When I talk with normal
+[34:33] people that are not in the Bitcoin
+[34:35] community
+ um on a in Austria, they
+[34:39] usually see it as another investment.
+[34:42] They usually see it as oh I diversify in
+[34:45] Bitcoin because I have already stocks. I
+[34:48] maybe have some real estate. I have this
+[34:49] and that and I also want to have some
+[34:51] crypto.
+[34:53] that word
+[34:56] and uh that but that's how the the usual
+[35:00] people in my environment in Austria kind
+[35:03] of see Bitcoin
+[35:06] and nobody sees it as a medium exchange
+[35:10] or like a cash thing or anything like
+[35:12] that and I feel like that's different in
+[35:14] Africa a lot different.
+ Oh 100%. And I
+[35:18] think so there are definitely two
+[35:19] aspects to this cuz it's been a couple
+[35:21] of years since these dynamics have
+[35:22] played out in terms of folks outside of
+[35:24] Africa not necessarily seeing the medium
+[35:26] of exchange or like we've established
+[35:28] like the core value of Bitcoin and it's
+[35:30] more the consequence of that value.
+[35:32] That's kind of what the perception is. I
+[35:34] think here on the ground is very
+[35:35] straightforward like I think it doesn't
+[35:37] take too much convincing for people to
+[35:39] know that things aren't working well
+[35:40] whether it's on the money side, bank
+[35:42] account, inflation, food crisis, etc.
+[35:44] even wars in certain countries. So I
+[35:46] think really for them it's a case where
+[35:48] they're constantly in search of tools
+[35:50] that work and cater to their immediate
+[35:51] needs whether it's computing value
+[35:53] through space time etc. And one of the
+[35:56] things that's very important about kind
+[35:57] of the Bitcoin value prop for a lot of
+[35:59] them is there's actually no way for you
+[36:01] to meaningfully engage in the world
+[36:02] without necessarily spending money. So
+[36:04] fundamentally a lot of them have the
+[36:07] money problem as like a very fundamental
+[36:09] problem that's tied to both their
+[36:10] financial freedom freedom in general or
+[36:12] even just being able to actually survive
+[36:13] on a day-to-day and still be alive. So
+[36:15] for a lot of them the the argument is
+[36:17] very very straightforward that this is a
+[36:18] tool that works for you basically all
+[36:20] the options that you have right now. So
+[36:21] they get it now from the outside like I
+[36:23] said it's more a case of the consequence
+[36:25] of that value that's being provided
+[36:26] outside of you know uh the shores of
+[36:28] Europe etc in places like Africa Latin
+[36:30] America etc. And I think gradually we'll
+[36:33] get a collapsing of the two worlds and I
+[36:35] think that's going to play out in
+[36:37] probably two to three ways. One primary
+[36:39] way I think is based on some of the
+[36:42] maybe some of the dynamics coming in in
+[36:44] terms of regulation on the European side
+[36:46] or even North America and some of the
+[36:49] some of the things that would likely
+[36:50] breach into freedoms that people
+[36:52] naturally enjoy in those countries will
+[36:54] likely start making them realize that
+[36:56] Bitcoin is a useful tech that has this
+[36:58] core tech that could protect them
+[36:59] against that. And for others in terms of
+[37:02] protecting themselves before it gets to
+[37:03] that stage, Bitcoin is a very very
+[37:05] useful tool for that as well. so they
+[37:06] can get used to that and get into the
+[37:08] frame of actually having their lives
+[37:09] banked on Bitcoin before things get
+[37:11] really wild. And I think the last one
+[37:13] will likely just be a case where
+[37:15] yes, things work, but they only work
+[37:17] because you have no alternatives that
+[37:19] are a lot better like wires and all of
+[37:21] that. It's not like a lifestyle that
+[37:22] allows you to communicate value
+[37:24] instantly, cheaply, etc. So, they are
+[37:26] facing the same issues. they're just
+[37:27] facing it in a more stable long-term way
+[37:29] if as opposed to Africa where there's so
+[37:31] many dynamics that kind of points to all
+[37:34] the things that are not working right
+[37:35] now that you could seek an alternative
+[37:37] really quickly. So I think we'll get to
+[37:39] that point where Bitcoin will flatten
+[37:41] out around the world in terms of being
+[37:42] that core tech as the primary lens that
+[37:44] people view it from as opposed to kind
+[37:46] of the consequence of that um core tech
+[37:48] providing value in pockets of the world.
+[37:51] Do is is there also a lot of stable
+[37:54] coins in in in Africa? This is like also
+[37:56] like Bitcoin and and and stable coins
+[37:59] kind of facilitating the financial
+[38:01] things that uh they they need. Oh, 100%.
+[38:05] And I'd say those two are kind of the
+[38:07] the primary angle that people get into
+[38:10] the digital realm in terms of like
+[38:12] modern finance etc on the continent. And
+[38:15] just for numbers uh in the last maybe 12
+[38:18] months maybe 18. So roughly within the
+[38:21] last Q4 2024 the numbers were around I
+[38:24] think over 66% or so based on chain
+[38:27] analysis numbers were both crypto both
+[38:29] uh stable coins as well as bitcoin in
+[38:31] terms of the the largest share of volume
+[38:32] on the continent. So definitely a lot of
+[38:34] people seeing use case for both. I think
+[38:36] on the stable coin side just to let your
+[38:38] listeners know like the primary use case
+[38:39] for folks on the ground has been because
+[38:42] there's so many tighten controls on US
+[38:44] dollar access across multiple countries.
+[38:46] One primary case being you know Nigeria
+[38:48] where I'm from. A lot of people see USDT
+[38:51] as very cheap access to US dollars that
+[38:53] allows them to do all the things that
+[38:54] they currently can do and that would
+[38:56] require heavy KYC or even some aspects
+[38:58] of having like a very curtailed version
+[39:00] of a banking experience where they have
+[39:02] limited access to US dollars and limited
+[39:04] areas that they could actually bank with
+[39:06] visd
+[39:08] so much liquidity and you can
+[39:09] essentially do anything you want in
+[39:11] terms of just communicating that through
+[39:12] a dollar um a dollarized version
+[39:15] essentially. Stable coin is basically
+[39:18] for me a CBDC.
+[39:21] [Music]
+[39:22] It definitely has those certain aspects
+[39:24] in the sense there's a there's a central
+[39:26] entity etc controls there. It's not like
+[39:28] Bitcoin where it's decentralized etc. So
+[39:30] I definitely see where you get that
+[39:31] freebie.
+ Yeah, it's I never saw it like
+[39:35] that and and someone left it as a
+[39:37] comment and I was like yeah like that's
+[39:40] it's kind it's kind of what what a CBDC
+[39:42] is. I mean maybe uh maybe even worse
+[39:45] because some CBDC's are not connected to
+[39:48] to states. So it's like you're not
+[39:52] controlled by uh people that you voted
+[39:55] for. You're controlled by people that
+[39:57] haven't even be indirectly voted for.
+[40:01] That's fair. That's fair. And I think
+[40:03] it's it probably plays out because
+[40:07] USDT is actually a translation of the
+[40:08] dollar dominance. So in a certain way,
+[40:11] the US dollar itself is technically a
+[40:13] CBDC2 from that control capture aspect.
+[40:15] So naturally makes sense that we we'll
+[40:18] see that manifest as well in USDT. So
+[40:20] again, it's just one of the many reasons
+[40:22] why Bitcoin is just a far better
+[40:24] long-term solution for a lot of people,
+[40:26] especially when it comes to protecting
+[40:27] against that capture.
+[40:29] How is the enir going? Is it is that
+[40:32] project still going on?
+ I'll put it this
+[40:34] way. If we were to launch uh an attempt
+[40:38] where it'll be similar of like a diner
+[40:40] myself and you I I think we'll probably
+[40:42] get more traction in terms of adoption
+[40:44] over the next few months than how the
+[40:45] internet has been doing. Like that's how
+[40:47] poorly it's been. I think it's for two
+[40:50] aspects. I think one is very difficult
+[40:51] to give a convincing argument on a
+[40:53] currency that's really not necessarily
+[40:56] holding up to scrutiny or even holding
+[40:58] its value. I think the last two years
+[41:00] we've had 70% of the currency devalued.
+[41:03] you've had crises with regards to
+[41:05] different iterations of the NERA. So
+[41:07] both the physical ones, the digital ones
+[41:08] as well as the inera. So really the nera
+[41:11] is not necessarily the best performing
+[41:12] fiat currency. So for average people,
+[41:14] they don't see an additional value of
+[41:16] having this current era that already
+[41:18] doesn't work too well for them and then
+[41:20] having to port to a different NAR that
+[41:22] also has the same challenges but just in
+[41:24] digital version. So I think really there
+[41:26] are a lot of approaches that they could
+[41:27] have taken of like converting existing
+[41:30] all existing digital narrow to ener that
+[41:32] would have been an approach to kind of
+[41:33] on board everyone instantly where people
+[41:35] would essentially have no way to escape
+[41:36] that. But they kind of fragmented the
+[41:38] two which is kind of why you see such
+[41:41] low adoption numbers. But again it still
+[41:43] goes back to the core fundamental issue
+[41:45] even if they got the roll out right like
+[41:46] NAR is still not a good convincing
+[41:48] argument for a variety of individuals.
+[41:49] So I think right now the kind of the
+[41:52] government side the next steps and kind
+[41:54] of how they're approaching this I feel
+[41:55] is a lot more productive like they
+[41:57] definitely have the frame of mind that
+[42:00] they'd like to fix the economic
+[42:01] situation here in the country but the
+[42:03] challenge that they face is multiple
+[42:05] dynam dynamics on multiple fronts so
+[42:07] whether it's FX whether it's you know
+[42:08] the relationship between Bitcoin etc
+[42:11] probably having reserves in Bitcoin as
+[42:12] well and kind of how that plays even on
+[42:14] the mining side. So right now ner the
+[42:17] nation is very complex but suffice to
+[42:19] say bitcoin is legal tender now well
+[42:21] it's not legal tender but is officially
+[42:23] accepted as a security in Nigeria for
+[42:25] example and the next phase of kind of
+[42:27] how they're planning to roll this out
+[42:28] and kind of fix all these issues is
+[42:31] bridging or should I say balancing out
+[42:33] having an enabling environment for all
+[42:35] this bleeding edge technology to thrive
+[42:37] but also ensuring that FX and everything
+[42:39] is kind of curbed and also maintained at
+[42:41] a level where the nera is sustainable
+[42:43] long term and can get back to levels
+[42:45] that makes it a lot more economically
+[42:47] viable as an actual currency for average
+[42:49] people.
+[42:51] Interesting.
+[42:53] I'm I'm really curious how because I see
+[42:57] um I see
+[43:00] it's a maybe it's a wild comparison, but
+[43:01] I see Fiat and all the effects of Fiat
+[43:06] as the Blu-ray
+[43:09] from going from analog to digital. So
+[43:13] going from gold to Bitcoin, we just had
+[43:15] that weird moment in time where we had
+[43:18] fiat currencies. It's the same way of
+[43:20] like proposing, you know, like I have
+[43:23] this amazing technology. It's Blu-ray.
+[43:26] Um but then there's digital music and
+[43:28] digital films and there's Netflix coming
+[43:30] and now you're like now you're mad
+[43:32] because you have to pay $10 per month to
+[43:36] get all the movies and all the series at
+[43:40] any time you want.
+[43:42] uh just a few years ago or like a decade
+[43:45] ago, you paid for one movie $10 and you
+[43:50] couldn't or you have rented for like $2
+[43:53] and you could only use it for like a
+[43:55] day. Um or you had to go to a physical
+[43:58] store and get it. I I'm too young for I
+[44:01] never really I never really did that.
+[44:03] I'm too young for that. But um for me,
+[44:08] Blu-ray is the same as a Fiat, just that
+[44:12] the the the years are way longer because
+[44:16] it's money and money just needs way
+[44:18] longer to develop. That's why I'm so
+[44:20] fascinated how quick the development
+[44:22] with Bitcoin is. Like all around the
+[44:25] world, people use it. I I earn 75% of my
+[44:29] income already in Bitcoin and already
+[44:31] give some of my expenses in Bitcoin. So
+[44:34] I already am uh partially on a full
+[44:37] Bitcoin standard also for medium
+[44:39] exchange side of things not unit of
+[44:41] account because it's hard but medium
+[44:43] exchange at least. Um so I don't know
+[44:46] like do do you do you see it also that
+[44:49] like that that we we're kind of on this
+[44:51] weird phase where we have to deal with
+[44:53] fear even though we know it's just a
+[44:55] temporary solution to uh go gold going
+[44:59] global.
+[45:01] No, 100%. And I think again you put it
+[45:04] perfectly. I think it's the difference
+[45:06] between the two is kind of captured in
+[45:07] not just the paradigm shift, but the
+[45:09] mechanism that's introducing the
+[45:10] paradigm shift, which is software money
+[45:13] essentially, which is what Bitcoin is.
+[45:15] And that's why you've seen the
+[45:16] difference between the development cycle
+[45:18] of Bitcoin just being way, way faster
+[45:21] than traditional fiat cuz there's just
+[45:22] so many analog systems that have to be
+[45:25] updated, but also revamped for it to
+[45:27] actually have any changes. I think what
+[45:29] we'll likely see in the mid to short
+[45:31] term would be I think a lot of countries
+[45:35] that still want to make sure they
+[45:37] preserve their dominance of their fiat
+[45:39] currency whether locally or even
+[45:40] globally with the US etc. we'll have to
+[45:43] contend with approaching Bitcoin a lot
+[45:46] more concretely and a lot more
+[45:47] holistically in terms of whether it's
+[45:48] the reserve side, whether it's the
+[45:50] mining side, whether is as a some sort
+[45:53] of a quasi medium of exchange to a
+[45:54] certain extent. And that's the only way
+[45:57] I feel they can be competitive cuz the
+[45:58] thing is with Bitcoin because of
+[46:00] software, it's already global from day
+[46:01] one. So there's no putting your head in
+[46:03] the sand and kind of waiting and see if
+[46:05] it's, you know, something that you would
+[46:07] have to get involved with over time
+[46:09] because the moment you're taking all
+[46:11] this time to think about it, people are
+[46:12] already adopting it around the world and
+[46:14] being way more competitive than you. So
+[46:16] I think there's the cat is out of the
+[46:17] bag, I think a lot of countries, as
+[46:19] we've seen over the last few years, have
+[46:20] continued to take it a lot more
+[46:22] seriously. I think we're getting to that
+[46:23] next epoch of even more countries taking
+[46:25] it more seriously and further pushing us
+[46:27] to that next phase of adoption, which I
+[46:29] think will also introduce nation states,
+[46:31] not just average individuals on the
+[46:32] ground. And I think in terms of fiat, I
+[46:35] don't really think the next 50 years,
+[46:37] we'll see no fiat anymore and just be
+[46:39] full-on Bitcoin. I think it'll likely
+[46:41] just be a translation of a lot of
+[46:44] dynamics on the ground that involve
+[46:45] Bitcoin heavily, more heavily than we
+[46:47] have it currently. So you likely have
+[46:49] Bitcoin being a mainstay as like the
+[46:51] conventional currency that people use
+[46:53] around the world to ensure that they're
+[46:54] stay connected. So the same way people
+[46:56] use the internet and still live in
+[46:57] different parts of the world is how I
+[46:58] feel Bitcoin will still be you know the
+[47:00] currency that people use around the
+[47:01] world but also likely use local
+[47:03] currencies as well.
+ That's the thing
+[47:05] that I think also a lot of people don't
+[47:06] get the the adoption rate and the speed
+[47:09] is different in different parts of the
+[47:11] world. there are and probably in Africa
+[47:15] um a lot uh villages where there's no
+[47:18] electricity and if you talk if you talk
+[47:21] with someone from Austria like oh like
+[47:23] there's no electricity like oh like if
+[47:25] if there's
+[47:27] so funny if electricity is gone for like
+[47:31] two three hours in Austria it's all over
+[47:35] the news people freak out people
+[47:38] completely lose their mind they're like
+[47:40] we're going down like the the the world
+[47:42] is ending, like all of those things. Um,
+[47:46] not all of them. There are some people
+[47:48] that are, of course, it goes down here
+[47:50] and there. Um, but I I've met some crazy
+[47:54] people. Uh, and and then we have to
+[47:57] remember there there are parts in the
+[47:58] world where there just is no electricity
+[48:00] and then there never was. And the same
+[48:04] is probably true for for Bitcoin and for
+[48:06] the internet. uh where I'm like okay at
+[48:09] some point we there there will be
+[48:11] countries and cities where there's
+[48:13] Bitcoin so vibrant and so dominant that
+[48:16] you cannot live without it there but
+[48:18] then there are parts of the world where
+[48:20] it's barely barely getting adopted and
+[48:22] barely there. Uh so that that's that's a
+[48:26] fun um a fun observation there uh to
+[48:29] make that technology really drives
+[48:33] different depending on on where you you
+[48:37] live and where you have born.
+ Oh
+[48:39] definitely like I think technology just
+[48:40] meets you at the the current demands or
+[48:42] needs that you have presently which is
+[48:44] why it just resonates so much more with
+[48:46] parts of the world where there's so much
+[48:47] fragmentation on availability
+[48:49] electricity access etc. And I think
+[48:51] honestly it's probably going to be why
+[48:54] MCO will still be around for the next
+[48:56] couple hundred years. The folks that
+[48:58] really need it right now will continue
+[49:00] to ensure that it stays that way of
+[49:03] actually providing that core value that
+[49:04] we keep talking about. And I think
+[49:06] having development driven by those who
+[49:08] care about it the longest, which will
+[49:10] likely be folks from this part of the
+[49:11] world, will help protect everyone else
+[49:12] around the world in the sense that that
+[49:14] whole noise factoring in as part of
+[49:16] derailing the development process won't
+[49:18] be a thing. will really be driven by
+[49:20] both the innovation and the need on the
+[49:21] ground and again like you said with
+[49:23] Bitcoin is very interesting like people
+[49:25] there are the electricity issues on the
+[49:26] ground etc but the very fact that this
+[49:29] tool also is a mechanism to address that
+[49:31] while providing a money that works is
+[49:34] probably one of the most novel things
+[49:35] about it that is going to continue to
+[49:37] resonate on the ground
+ it's also
+[49:40] um
+[49:41] Bitcoin mining kind of helps
+[49:43] electrifying uh parts of the world it's
+[49:46] it's funny how how this goes full circle
+[49:48] of Bitcoin helping actually getting
+[49:53] you're aware of that right that bitcoin
+[49:55] is helping electrifying bitcoin mining
+[49:57] is electrifying the the world kind of
+ no
+[50:00] 100% and I think is also democratizing
+[50:02] the energy markets globally and I think
+[50:04] it's going to play a very critical role
+[50:06] on how other parts of the world that
+[50:08] have tremendous amount of energy
+[50:10] reserves could monetize and also
+[50:11] participate more concretely with the
+[50:13] global energy market in terms of both
+[50:14] either selling compute as a mechanism to
+[50:16] transfer that energy making it
+[50:18] productive or even just electrification
+[50:20] like you mentioned is going to be a very
+[50:21] very important component.
+[50:24] Interesting. Yeah. Fascinating topic. I
+[50:26] I I love always the the view of uh uh I
+[50:30] I don't know. I I I weirdly enjoy
+[50:34] Africans views on on Bitcoin. They have
+[50:36] such an just a grounded grassroots uh
+[50:40] few on Bitcoin. And it's always great to
+[50:43] to have that because sometimes um people
+[50:45] are getting too grazed with the store of
+[50:47] value.
+ Yeah. Yeah. that too too just too
+[50:50] focused on that and number technology
+[50:52] because that's all they care about and
+[50:55] it's good like I think we need those
+[50:57] people also as we need all of the voices
+[50:59] in in Bitcoin and that's the whole game
+[51:02] theory like everyone is talking about
+[51:04] Bitcoin different people different parts
+[51:06] of the world is talking about Bitcoin
+[51:07] and as long everyone is talking about it
+[51:09] like it gets adopted and the freedom of
+[51:12] aspect is going up the uh the number is
+[51:15] is going up and and all all the things
+[51:17] of Bitcoin is going up And as long as
+[51:19] there's enough narratives fighting each
+[51:21] other,
+[51:23] Bitcoin Bitcoin is is is there to to to
+[51:26] to give us the that gift of money.
+ 100%.
+[51:30] 100%. And in the framing of, you know,
+[51:32] like like Jeff Booth mentions is around
+[51:35] abundance, etc. is Bitcoin providing
+[51:38] both money solutions but also energy
+[51:40] solutions. I think it's it places it us
+[51:42] squarely as civilizational like a as a
+[51:45] civilizational tool in my opinion which
+[51:47] is very very useful for us to continue
+[51:49] to keep getting engaged with it from all
+[51:51] these various voices and angles like you
+[51:53] mentioned and again if it is
+[51:55] civilizational tool then we're likely
+[51:57] going to have this game theory play out
+[51:58] in a way that's most beneficial and most
+[52:01] in the way that would point it towards
+[52:02] being antifragile over time.
+ Yeah, 100%.
+[52:06] Um,
+[52:08] we have one question in the the podcast
+[52:10] that I ask every one of my guests and
+[52:12] the question is, "What can we learn from
+[52:14] you besides Bitcoin?"
+ I mean,
+[52:18] I say maybe
+[52:20] some of the some of the things outside
+[52:22] Bitcoin will probably be around like
+[52:24] just dealing with life, adversity, and
+[52:26] kind of just continue to weather the
+[52:28] storm, but also being principled. Uh,
+[52:31] I'd say having
+[52:34] being very very disciplined around kind
+[52:36] of what you pay attention to, what you
+[52:38] devote your time to, having your
+[52:40] priorities in order, etc. I think is
+[52:42] probably one of one of the other things
+[52:44] I'm always definitely happy to share
+[52:45] about and things that I've kind of
+[52:46] learned over time just operating as a
+[52:48] human being.
+ How do you decide where you
+[52:52] put your focus? Like how do you have a
+[52:54] framework of like, okay, like where to
+[52:57] put the focus?
+ Oh, yeah. And it's down
+[52:58] to without getting too much into
+[53:01] philosophy and things like that, but
+[53:02] essentially the base set of principles I
+[53:04] have are around you know ensuring you
+[53:06] provide uh as much value as possible,
+[53:08] ensuring you kind of project the good
+[53:10] you'd like to see in the world primarily
+[53:11] from yourself outwardly into the world
+[53:14] etc. And in terms of how I decide to
+[53:17] kind of push my focus is definitely to
+[53:19] make sure that it aligns with that
+[53:20] overall goal. I'm trying to provide as
+[53:22] much value as possible in the direction
+[53:24] really that has points us into more you
+[53:27] know principle kind of stoic like
+[53:29] principles on how how to lead a life u
+[53:32] devoiding ourselves of the ego etc. So
+[53:35] really those are kind of the things that
+[53:36] point me towards that which is why the
+[53:38] aspects of Bitcoin that I really focus
+[53:40] on have to do with that maintaining it
+[53:42] as a generational tool I'll still be
+[53:43] around but also ensuring that it helps
+[53:45] you kind of remove yourself from all the
+[53:48] noise and issues with regards to the
+[53:50] world whether it's fiat you know
+[53:52] interest or you know inflation etc. Once
+[53:55] you have this type of tool that
+[53:56] addresses a lot of that noise, you know,
+[53:58] have an abundance of time or even more
+[54:00] time to kind of think about yourself,
+[54:02] you know, introspect, kind of develop as
+[54:04] a better human being, kind of grow, etc.
+[54:07] So, naturally, those are the things that
+[54:08] kind of keep me up at night and kind of
+[54:10] drive my focus in terms of where I land
+[54:11] in the space.
+ I love that. I love that.
+[54:14] And our end routine is uh so soothing
+[54:17] today. Um, we have a end where the
+[54:19] previous guest is asking a question for
+[54:20] the next guest without knowing who the
+[54:22] next guest actually is. I just ask you
+[54:24] the question, what is the best life? And
+[54:27] it never gets so so generic question,
+[54:30] but like that that is a is a very
+[54:32] generic one. What is the best life
+[54:34] advice you have ever gotten?
+[54:37] It's very interesting. It's I think is
+[54:39] probably
+[54:40] it probably probably boils down to a
+[54:43] quote I got from or I read I should say
+[54:45] from Seka's shortness on life where the
+[54:49] quote essentially is that it's not that
+[54:51] life is too short is that we waste much
+[54:53] of it and I think that really nails down
+[54:55] to kind of guiding light for me in terms
+[54:57] of how I navigate that it's very easy to
+[55:00] say things happen so quickly and you
+[55:02] didn't have time etc but it's very very
+[55:04] difficult to narrow down and see the
+[55:06] things that you're spending your time
+[55:08] that you shouldn't be spending your time
+[55:09] on that could be better spent on whether
+[55:11] it's introspection or other things that
+[55:12] have to do with development and growth.
+[55:15] Yeah. The whole notion of life is too
+[55:17] short is like
+[55:19] of course you want more time
+ but you
+[55:23] have to work with what you got like
+[55:26] exactly it's but it's it's everyone and
+[55:30] so life is not too short. Life is just
+[55:32] life and uh maybe you're just wasting
+[55:35] too much of your time.
+[55:37] Exactly. Exactly. So, I say that's
+[55:39] definitely the guiding principle on my
+[55:40] end or the the best advice.
+ I love that.
+[55:43] Really cool. Thank you so much. Uh Abu
+[55:46] Baka, did I say that correct?
+ Amazing.
+[55:50] Uh sometimes it's it's it's hard. I have
+[55:52] I have over 500 guests and and sometimes
+[55:54] I struggle with names. I'm so sorry
+[55:56] about that. I think for for being on the
+[56:00] podcast before I let you go, where can
+[56:02] people find you, ask you questions and
+[56:03] reach out to you?
+[56:05] Yeah, definitely on Noster. My username
+[56:07] as well there is I hate 1999, same as on
+[56:09] X. Other than that, besides, you know,
+[56:12] socials, I think will be very useful or
+[56:15] uh helpful for folks in terms of just
+[56:17] looking at what's happening on the
+[56:18] ground is keeping track with my Forbes
+[56:20] column that I write.
+ Wait, I hate 1999.
+[56:23] Why? Why do you hate that?
+ I was born
+[56:25] then. I joined X when I was really
+[56:27] really young. So, I assumed maybe some
+[56:29] emo phase I was in. thought that was
+[56:31] cool, but now I'm kind of stuck with it.
+[56:33] So you're So you're born in 1999.
+ Yeah.
+[56:37] And ironically hate it when I was a kid.
+[56:39] So it is what it is. Consequences of
+[56:42] joining social media when you're young.
+[56:44] Kind of deal with the consequences down
+[56:45] the line.
+ Yeah. I I'm I'm so happy that
+[56:50] as a small boy, I was for some reason
+[56:54] not creative enough to think about any
+[56:57] username. So I always just used my real
+[56:59] name. And people are going mad. I use my
+[57:02] real name everywhere. Uh all all social
+[57:06] media like of course all social media
+[57:08] platforms like you can literally on
+[57:10] every platform just go in and search the
+[57:12] username Robin. It's the same same
+[57:14] written like here and you find me. It's
+[57:16] it's usually my profile. Um
+ I definitely
+[57:20] wish I did that.
+ But but I even did it
+[57:23] for video games.
+[57:26] Really? So like your gamertags and all
+[57:28] that is your actual name? everything.
+[57:30] So, if I'm not playing a lot of video
+[57:32] games, but for example, I I play chess a
+[57:35] lot and and on chess.com, my username is
+[57:37] also Robin Sia, the same as on Twitter.
+[57:40] Uh and and everywhere I I go, I I
+[57:43] usually always have my username just my
+[57:45] full name. Like, I don't care. It's like
+[57:48] that that that's who I am.
+[57:50] I mean it helps maximize the
+[57:52] searchability or the success of actually
+[57:54] getting you online on these platforms.
+[57:56] But obviously there is the contention of
+[57:58] there's no way back from that. You can't
+[58:00] make a name out of that. So definitely
+[58:03] fully doxed.
+ But yeah, but as soon as
+[58:06] you put I think as soon as you put your
+[58:08] name out there in the internet connected
+[58:11] with a video and and pictures, you're
+[58:14] doxed. And yet there are degrees to
+[58:18] doxing. Like I I I dox myself every
+[58:21] freaking day on the podcast.
+[58:24] Uh so I do the best I can to dox myself.
+[58:29] Uh but but there's degrees to to to
+[58:33] that. Uh it it's it helps with
+[58:35] searchability. Yeah. I even got Google
+[58:38] page recently like that. That was really
+[58:41] Yeah. I I don't know why honestly. I
+[58:44] have uh maybe I can uh it's not it's not
+[58:48] a good one. It's not looking good
+[58:49] unfortunately. I think I have to suggest
+[58:52] some changes. Uh
+ but it's a good start.
+[58:55] It's definitely a good start.
+ It's a
+[58:57] it's it's a start. Wait, here you can
+[59:00] see it. It's
+ It's Yeah. Yeah.
+ But two
+[59:05] times the same picture and I'm like and
+[59:07] and this also is so funny. It's like Oh.
+[59:10] Oh, it's already happened. Well,
+[59:11] definitely captures it, I guess.
+ True.
+[59:13] True. But yeah, thank you so much uh
+[59:16] with that small tea tour of uh
+[59:18] searchability and and and and being on
+[59:21] Google. Thank you so much uh Abu Baka uh
+[59:26] to to be on the podcast. Um yeah uh and
+[59:30] also thank you so much for everyone that
+[59:31] is watching and listening for joining us
+[59:33] today. As always, I'll be back tomorrow
+[59:35] with another episode. Bye-bye.
+[59:38] [Music]

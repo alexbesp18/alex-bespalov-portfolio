@@ -1,0 +1,905 @@
+Title: Everything online can be hacked! | Chris Seedor
+Video ID: kxD0KEK-LAY
+URL: https://www.youtube.com/watch?v=kxD0KEK-LAY
+Date Saved: 2025-06-15 12:00:50
+--------------------------------------------------
+
+[00:00] privacy is not a right it is a
+[00:03] obligation you have to enforce it
+[00:05] yourself everything that is online can
+[00:07] be hacked can be accessed from remotely
+[00:09] from some guy in North Korea and uh
+[00:11] money gone even if they have good
+[00:13] arguments why they need that data they
+[00:15] store it piss poor and eventually they
+[00:17] get hacked this happens countless times
+[00:19] time and time again if we start a war
+[00:21] there will be three people missing like
+[00:23] me and Two Soldiers looking for
+[00:26] me how do we keep our Bitcoin safe and
+[00:29] why is it such a terrible idea to keep
+[00:31] it on just paper or just somewhere
+[00:34] online so online is definitely not the
+[00:37] way to go because everything that is
+[00:39] online can be hacked can be accessed
+[00:41] from remotely from some guy in North
+[00:44] Korea and uh money gone um paper is
+[00:48] fantastic it's a quick offline backup so
+[00:51] I even like if you have like a phone
+[00:52] wallet um I've seen many phone wallets
+[00:55] that even allow you to uh copy paste the
+[00:58] seat phrase out of there and even that
+[01:00] to me is already uh stretching it uh
+[01:03] because uh yeah the buffer the you don't
+[01:06] want to save the seed words uh in the
+[01:09] copy paste and the clipboard um write it
+[01:11] down on paper you're good that's what I
+[01:13] do for phone wallets if you have like a
+[01:16] coal stack like a coal storage that's
+[01:18] your life savings are stored on you can
+[01:21] go the extra step then and go to a metal
+[01:24] backup where you then also can rest
+[01:26] assure if it's like left outside or if
+[01:29] it's like in your house and there's a
+[01:31] house fire that will survive because
+[01:33] basically like the seed it's the only
+[01:35] information that you have to have to
+[01:37] recover everything it's also the only
+[01:38] information that nobody uh but you
+[01:42] unless you want to share it with your
+[01:44] loved ones uh should know about and
+[01:47] there's like a couple yeah Best
+[01:49] Practices that should be
+[01:52] observed yeah like because you said
+[01:55] share with the LOF ones I think you also
+[01:57] have like a company called ssk keeper
+[01:59] where you have the inheres of Bitcoin
+[02:03] saved uh this is some topic that I
+[02:05] actually personally did not touch a lot
+[02:08] because I'm I mean we're both really
+[02:10] still young so obviously you you you you
+[02:12] further ahead down that that rabbit hole
+[02:15] but I did not uh do a lot of research on
+[02:18] on that how
+[02:20] [Laughter]
+[02:24] just both very young people we don't we
+[02:27] don't think about dying any minute now
+[02:31] yes I mean that's it yeah but but you uh
+[02:34] thought about that obviously uh like why
+[02:37] did you do
+[02:38] that and and what's the the solution for
+[02:41] that so yeah the next logical step is if
+[02:44] you have uh yeah generational wealth uh
+[02:47] which we all expect to eventually have
+[02:50] if you've stacked hard enough because
+[02:51] it's the only scars asset and therefore
+[02:54] wealth will accumulate if you have
+[02:55] Bitcoin you think about passing it along
+[02:58] and you have like kids you have
+[03:00] uh your wife or or parents or whatever
+[03:04] you want to take care of you don't want
+[03:05] to take those Bitcoin into your into the
+[03:07] grave uh as the German saying goes um
+[03:10] that the last shirt doesn't have any
+[03:12] Pockets or neither does it have wallets
+[03:15] and then you have to have a way to
+[03:17] communicate to your loved ones from the
+[03:20] afterlife how to access it unless you
+[03:23] have given them the secret beforehand
+[03:25] and yeah with sets keeper it's a a uh
+[03:29] company I have with with Joe from from
+[03:32] bitbox and um there we give you a guided
+[03:37] um backup solution where you just we
+[03:40] never touch any of your keys you're not
+[03:41] giving us any of the keys but you write
+[03:44] down a will a testment that is then
+[03:47] encrypted locally you can only create it
+[03:50] entirely offline and then we offer that
+[03:52] so that is free and then we offer um
+[03:54] Proof of Life checks and we also um
+[03:58] offer the option uh to to help your
+[04:01] relatives recover um the the Bitcoin uh
+[04:04] in in the event of your death uh again
+[04:06] without ever touching Keys we just offer
+[04:09] uh to walk them through those steps and
+[04:11] we have the expertise to do that because
+[04:14] the giving them the information is maybe
+[04:16] the easy part having them recovered
+[04:18] properly is not that trivial so yeah the
+[04:22] best thing to do is uh in life uh talk
+[04:25] to as many people as possible about
+[04:27] Bitcoin and then uh teach them how to do
+[04:30] and maybe give them I don't know what we
+[04:32] have here like I have a seat signer here
+[04:34] give them like a a stateless um signing
+[04:37] device and have them practice this
+[04:40] because we know how to do it and uh
+[04:44] maybe you remember the first time you
+[04:46] you like did it maybe with electrum or
+[04:48] like a phone wallet uh this was entirely
+[04:50] new and you didn't know how to do it
+[04:52] properly and there there are some points
+[04:54] where you can get stuck and yeah so how
+[04:58] does this work how does this work with
+[05:00] proof of life so proof of life there's
+[05:03] different TI we can um send you an email
+[05:06] every six months and if you don't
+[05:08] respond next step we figure out whether
+[05:10] there's like a death certificate in your
+[05:12] name in your community um we can call
+[05:16] you we can uh walk through these
+[05:19] different steps that you can decide how
+[05:21] um how much information you even want to
+[05:22] give us because uh you can do this
+[05:25] entirely anonymously and then just set
+[05:28] up a payment in bit coin and then have
+[05:30] us send you emails um but if you want
+[05:33] then the option that we check a death
+[05:35] certificate before we give out the
+[05:37] encrypted file to uh you your
+[05:39] predetermined air uh yeah then we will
+[05:43] have to have your name but uh other than
+[05:45] that um we try to have as little
+[05:48] information as possible but as much as
+[05:51] is necessary to recover the funds
+[05:53] because if the Bitcoin are lost uh it's
+[05:55] it's better for for all of us because
+[05:57] then our Bitcoin uh in in value will
+[06:00] will rise because uh I mean I don't know
+[06:03] how many are lost already but uh yeah
+[06:06] but basically as I understand it right
+[06:08] you have an a crypted file and this file
+[06:11] can be sent then to the relatives that
+[06:14] uh is um right exactly so we have a tool
+[06:18] you can you can download it and then you
+[06:20] can only um is a guided process where we
+[06:23] ask you the questions that you might
+[06:25] miss if you make a backup and then where
+[06:27] do you have Bitcoin stored where do you
+[06:29] have
+[06:30] uh your seat plates where do you have um
+[06:33] which ex exchange are you registered
+[06:34] where's the secret for the 2fa key stuff
+[06:37] we we run you through the steps and then
+[06:39] you encrypt it locally you give the
+[06:40] password to encrypt it and that password
+[06:43] you give to a relative or to an an air a
+[06:46] safety person and then we can uh upload
+[06:49] and store the uh encrypted file and uh
+[06:53] only in the event of your death those
+[06:55] two things will again uh yeah come back
+[06:58] into context
+[07:00] and then have the information where
+[07:01] we'll find the backup so it's kind of a
+[07:03] multi where uh the person with the
+[07:06] relatives uh with the password plus your
+[07:09] encrypted file come together and then
+[07:11] you can walk them through how to uh
+[07:13] recover the
+[07:14] coins yeah yeah essentially so like
+[07:18] there's this concept of I think it's
+[07:19] called toxin uh where uh you have like a
+[07:22] shared agreement and the last person to
+[07:24] survive will get the shared value and in
+[07:28] that case uh you
+[07:29] uh
+[07:30] only leave your Bitcoin to the person um
+[07:34] yeah who is then nominated that doesn't
+[07:37] not have to be the person uh who is in
+[07:39] your written will but might be a person
+[07:41] that uh is capable of recovering the
+[07:43] funds themselves and who you trust but
+[07:46] you don't trust with the keys during a
+[07:48] lifetime but in the end then he will
+[07:50] help your relatives or can be directly
+[07:53] the relatives and then they have the
+[07:55] option to also uh yeah use our services
+[07:58] to back up or recover okay now we have a
+[08:02] bitcoiner who is in self- custody who
+[08:05] has the inheritance setup who has uh
+[08:08] cedor where the backup is solid and
+[08:11] there are I think additional steps you
+[08:13] can even do beyond that and your Twitter
+[08:16] handle is coin joint Chris be beyond
+[08:19] that and the whole KC um topic what what
+[08:23] do you do
+[08:25] uh more than that uh is coin something
+[08:30] uh you recommend everybody doing it or
+[08:32] is it just like something for if you're
+[08:34] really really in the Privacy fear so um
+[08:39] I I remember I think you were there as
+[08:41] well at uh was it in Ria Baltic honey
+[08:45] bger I'm not sure there was a a
+[08:46] fantastic talk by Rahim um and he
+[08:50] essentially uh said privacy is not a
+[08:54] right it is a um obligation you have to
+[08:57] enforce it yourself uh it's not
+[08:59] something that is freely given and um
+[09:02] coin joining so the act of a pay join
+[09:05] where you have multiple transactions
+[09:06] going in multiple transactions going out
+[09:08] of equal or same size like depending
+[09:11] what what kind of use babis saabi or if
+[09:13] use um rpool or there's many different
+[09:17] uh yeah ways to do a coiner I'm not
+[09:19] going to go into that it's a very uh
+[09:22] yeah discussed topic but um in that way
+[09:27] you can assure that there are no common
+[09:30] ownership horis STS of a transaction so
+[09:33] that if somebody because we have like
+[09:34] Bitcoin it's not like ethereum where you
+[09:36] have an account in Bitcoin we have utxos
+[09:39] so individual uh Bitcoin um uh and those
+[09:44] can be easily traced and there's a bunch
+[09:46] of companies um that Trace payments and
+[09:49] because everything is pseudonymous as
+[09:51] soon as you have like a an on-ramp where
+[09:54] you paid fiat currency at Kraken to get
+[09:57] Bitcoin and then you did like five
+[09:59] transactions those companies uh when
+[10:02] they find out oh somebody along this
+[10:04] line did something illegal um funded
+[10:06] terrorism or whatever um they tried to
+[10:09] figure out uh who this Bitcoin belonged
+[10:11] to and maybe uh you will get caught in
+[10:14] the crossfire because their methodology
+[10:17] is not sound and not peer-reviewed and
+[10:20] not tested however it's so far has held
+[10:22] up uh uh people in in real court and in
+[10:26] real prisons and with a coin join you
+[10:29] can make this transaction much more
+[10:32] private and I suggest uh everybody to
+[10:35] have at least two sorts of stacks a kyc
+[10:40] stack where you stacked your Bitcoin on
+[10:43] pocket or relay or 21 Bitcoin where your
+[10:46] name is associated with that because
+[10:47] it's easy and usually get a better price
+[10:50] and then there's another stack where you
+[10:52] have no kyc Bitcoin and then in between
+[10:56] if you want to have it more anonymous or
+[11:00] to have more privacy you can have
+[11:02] transactions uh yeah in a Whirlpool
+[11:04] transaction where then in the end it is
+[11:08] not possible to um yeah blame you for
+[11:13] various transactions that may have
+[11:14] happened along the line and yeah so I I
+[11:18] suggest everybody to to look into that
+[11:21] and see uh if that is something they're
+[11:23] interested in and they can always write
+[11:25] me and I will get give you good guidance
+[11:27] uh it's become really easy it was not
+[11:29] always that easy there's some really
+[11:32] welldeveloped app like like Wasabi for
+[11:35] desktop or Samurai wallet for for
+[11:37] Android phones and uh if you have your
+[11:40] own note you can use um join markets and
+[11:44] um yeah it's it's a good way to enhance
+[11:47] your privacy again because I think it's
+[11:49] an obligation and if everybody does it
+[11:52] um it's better and uh
+[11:55] yeah it's it's an really cool solution
+[11:58] to have like both because it's so easy
+[12:01] to stack with the KC exchanges Bitcoin
+[12:04] only exchanges like I completely went
+[12:06] Bitcoin only exchanges I think two years
+[12:09] ago I was on beon I don't know if you uh
+[12:13] uh heard about that exchange
+[12:15] before yeah it's German and then
+[12:20] they then they started with two things
+[12:23] they started with coining more and
+[12:25] more before they had like four or five
+[12:27] coins and I was like oh okay and then
+[12:29] the Shino and everything came on there
+[12:31] and that's was like ah okay that's not
+[12:33] good because then all of a sudden of my
+[12:35] my phone was like by now sheo and I'm
+[12:37] like why is that notification popping up
+[12:41] and then the second thing they did they
+[12:42] asked me a really a lot of questions for
+[12:45] like where's the money coming from what
+[12:47] is that what is that like and I was like
+[12:50] I don't want to tell you like
+[12:53] it's it's already a lot to to give
+[12:55] someone the information that I am this
+[12:58] person and I'm buying Bitcoin but then I
+[13:01] have to tell them oh I get got that
+[13:03] money from there this is my salary stuff
+[13:05] like that and I'm like this this is none
+[13:07] of your business
+[13:08] honestly yeah I mean I get the whole um
+[13:12] procedure like when we do like we found
+[13:15] a company and you go to the notary and
+[13:16] all the stuff and I'm happy to show them
+[13:18] my my ID because you you have to build
+[13:20] trust with other people if you are like
+[13:22] training in an economy and uh we can't
+[13:26] go without uh like identifying ourselves
+[13:29] but my problem is like with all these
+[13:31] exchanges and all these uh data Krakens
+[13:35] that collect unnecessary data or even if
+[13:38] they have good arguments why they need
+[13:39] that data they
+[13:42] like they they store it piss poor and
+[13:45] eventually they get hacked like this
+[13:46] happens countless times time and time
+[13:48] again and if you give them as little
+[13:51] data as possible um you won't have to
+[13:54] bear the consequences uh because they
+[13:56] always always get hacked like just now
+[13:58] treesa like 66,000 customer uh like
+[14:01] information of people that own a treas
+[14:04] hardware wallet is now out in the open
+[14:06] and I myself like I'm in The Ledger
+[14:09] leaks from like 2017 and there's my old
+[14:12] address and like a parcel station that I
+[14:14] used and like a phone number and you get
+[14:16] calls and yeah try to limit the amount
+[14:20] of information that you give people and
+[14:23] um yeah best practice use single use
+[14:26] emails stuff like that but I see a lot
+[14:29] of bitcoiners getting uh into that
+[14:32] sphere privacy and all the different
+[14:34] topics you discover with Bitcoin when
+[14:37] they discover actually Bitcoin was this
+[14:39] also the case with you or had you this
+[14:41] privacy in mind and this uh self-
+[14:44] sovereignty mindset already before
+[14:46] Bitcoin or was this something that
+[14:47] actually developed with with Bitcoin I
+[14:50] think it went hand in hand so like there
+[14:52] was always a a decent amount of
+[14:55] distrust in everything I was this
+[14:59] annoying kid that usually like
+[15:01] questioned everything to the Shag of
+[15:03] most of the teachers that I had but um
+[15:07] yeah when when then Bitcoin came along
+[15:10] like I got into it I have to admit
+[15:12] because of ngu number go up I got very
+[15:15] early somebody gifted me some and I saw
+[15:17] it rise and I sold it immediately and I
+[15:19] thought wow look at me Warren Buffett
+[15:21] over here and then along the line like
+[15:24] uh oh wow it's now at a th000 now it's
+[15:26] at 3,000 you have to get back in and you
+[15:28] have to like fomo into different coins
+[15:30] and like it for the longest time it was
+[15:32] just about um becoming financially
+[15:35] independent and now the more we push and
+[15:38] move towards like a cbdc and all these
+[15:41] things where a totally inept people that
+[15:45] do not have the best of intentions like
+[15:47] governments try to um again collect more
+[15:51] information about you like with a
+[15:53] central bank currency or like a a card
+[15:56] everything digital they want to get rid
+[15:57] of cash like they will trace or try to
+[16:01] trace or get really close into your into
+[16:04] your business and that drives me in even
+[16:07] further into Bitcoin because to me that
+[16:09] is like the way to opt out of this
+[16:12]  and um yeah I had yesterday in
+[16:16] podcast and the guest said about
+[16:19] cbdcs like uh and it's an interesting
+[16:22] thought he's like this will fail so
+[16:25] dramatically because who will get that
+[16:28] like who will adopt the bit uh cbdcs
+[16:31] there's only disadvantages in there they
+[16:33] have to pay me so much money to get this
+[16:36] Bitcoin to get the cbdcs in hand and I'm
+[16:39] like people are doing a lot for uh not a
+[16:43] lot like they they are crazy incentive
+[16:46] programs where like oh get this tax
+[16:47] benefit oh get this small thing like get
+[16:49] a cbdc and then you get a free
+[16:51] McDonald's uh burger or something like
+[16:54] that yeah I mean have you seen the lines
+[16:58] outside of like the world coin the orb
+[17:00] remember that that was
+[17:02] crazy I don't know who you interviewed
+[17:04] but the guy said oh no nobody's going to
+[17:06] use that yeah I
+[17:08] mean yeah imagine the the average smart
+[17:12] person or like the average person like
+[17:14] 50% is dumber than that person so uh
+[17:17] there will be a lot of people I mean if
+[17:19] it's just convenience like I myself I'm
+[17:21] guilty of that like I pay with PayPal I
+[17:24] pay with an MX because uh oh my MX gives
+[17:27] me like 1% and cash back because it's
+[17:29] this Fiat game like the vendor pays like
+[17:32] 3% and then I get 1% back why not use
+[17:35] that of course they do shady with
+[17:37] my information but uh and it's not
+[17:40] sustainable like this entire thing in my
+[17:42] opinion but I I use it because it's easy
+[17:44] like I like the idea of cash I like that
+[17:47] nobody is in my business and knows what
+[17:49] I pay for oh but but I hate like coins
+[17:52] and change and like having this to carry
+[17:54] this around I love just leaving the
+[17:55] house with a phone like d d pay I'm
+[17:58] super excited to announce that this
+[18:01] podcast got the first ever sponsor 21
+[18:05] Bitcoin is Bitcoin only from day one and
+[18:08] they teach and preach self custody this
+[18:11] is my goto exchange when someone asks me
+[18:14] oh where can I buy my Bitcoin from this
+[18:17] is the easiest entry for bitcoiners and
+[18:20] if you want lower fees Plus at the same
+[18:23] time support this podcast use code Robin
+[18:26] and click the link in the description
+[18:29] actually like and in Austria I don't
+[18:31] know how it's actually in Germany but in
+[18:32] Austria you can even have your um um IDs
+[18:37] on the phone like you you don't have to
+[18:39] carry anything you have your IDs on the
+[18:41] phone in the ID Austria app and one on
+[18:45] the one hand it's really uh convenient
+[18:47] again because you don't have to have the
+[18:49] wallet you don't have to have the
+[18:50] physical car but then it's all stored in
+[18:52] the phone it's all stored online but
+[18:54] kind of stored anyways online somewhere
+[18:57] uh and uh also cash uh it's it's like I
+[19:01] see it on bitcoin meetups and Bitcoin
+[19:03] conferences more like usually where I go
+[19:05] is like most of them are just Apple pay
+[19:07] and in Bitcoin circles there's the cash
+[19:10] a little bit more still there but it's
+[19:13] like cash will erode anyways I I don't
+[19:16] think we can C save cash anyways it will
+[19:20] go will go down and down and down you
+[19:23] see the trends Co accelerated the whole
+[19:25] thing like yeah I mean have you been to
+[19:27] Sweden
+[19:29] recently try paying with cash
+[19:32] anywhere did they completely ban it or
+[19:34] what what is I mean it's like all Visa
+[19:36] like they they uh there's no no nobody
+[19:39] uses cash anymore it's very easy to yeah
+[19:42] Envision that I I think like Germany and
+[19:45] I have to hold it to my German people um
+[19:48] we sleep on many Trends um both because
+[19:51] we're like distrustful but also because
+[19:54] we like like new technology scares us
+[19:56] apparently like country of thinkers and
+[19:59] Engineers like at school we still have
+[20:01] like overhead projectors and we don't
+[20:03] have like Wi-Fi anywhere and like our
+[20:05] intent is pure garbage and we still use
+[20:08] fax machines like embarrassingly a lot
+[20:10] of fax machines like the entire printing
+[20:12] industry like just
+[20:14] Germany and so that's what you know
+[20:17] keeps me asleep at night that we are not
+[20:20] moving that fast because our bureaucracy
+[20:23] is so incompetent and too yeah they're
+[20:27] not capable of like improving technology
+[20:31] that quickly yeah I think the only
+[20:33] cashless experience I had was in the red
+[20:36] bu salsburg Arena uh like the Red Bull
+[20:39] salsburg football club in in yeah in
+[20:41] salsburg uh there there's no cash at all
+[20:44] like you get a drink when you get back
+[20:47] the the cup you get back your money on
+[20:50] the card and not with with coins this
+[20:53] was an interesting experience it's
+[20:54] completely
+[20:55] convenient the whole process is so much
+[20:58] faster uh but yeah it's it's cash is
+[21:01] dying anyways and that's why we kind of
+[21:02] need Bitcoin
+[21:04] right yeah I mean uh not only for that
+[21:07] but just like if you ever done an
+[21:09] international wire transfer like you
+[21:10] want to stick a fork in your
+[21:13] eye I buy and pay stuff or like pay
+[21:16] people in Canada and Australia and uh if
+[21:19] I like go to my credit union and say can
+[21:22] you please wire my money to this person
+[21:26] uh like don't expect it to happen in
+[21:28] less than three days and with fewer than
+[21:30] 50 bucks in fees like and you would
+[21:34] think like like the Advent of the
+[21:36] internet would have made this like
+[21:37] instant but oh no no no there's so many
+[21:40] banks in between that have to take a cut
+[21:42] and it's it's ludicrous like I have
+[21:45] people like in China where I
+[21:46] manufacturer like uh this um it's a
+[21:50] brass trolley token you put in your
+[21:52] shopping cart and then you can release a
+[21:54] shopping cart like the American people
+[21:55] watching this won't know what that is
+[21:57] but in in gery we don't trust people
+[21:59] with shopping carts they could like run
+[22:01] off with it you have to put like one
+[22:02] Euro in and then you get like a shopping
+[22:04] cart because that's enough people not to
+[22:06] steal it apparently and this thing is
+[22:08] like a a brass coin like with a Bitcoin
+[22:11] and cedor logo and I had this
+[22:14] manufactured in
+[22:15] China um and yeah I I asked the guy
+[22:19] because he had various commemorative
+[22:21] coins like Bitcoin ethereum Monero coins
+[22:23] there and I thought oh yeah he can do
+[22:24] like a custom thing like this gave him
+[22:26] the design and then when he made me the
+[22:28] offer in US Dollars I asked him like how
+[22:31] about you know taking Bitcoin uh despite
+[22:34] during that time like Bitcoin was
+[22:36] definitely again banned for the 1500th
+[22:38] time in China he said yeah sure and he
+[22:40] gave me like a bit for next address and
+[22:42] I I wired him on chain and in 22 minutes
+[22:45] like he said money received and in three
+[22:48] days like he showed me like the CNC M
+[22:50] tool to to emboss the coin like in that
+[22:54] time no wire transfer would have arrived
+[22:56] in in guano like no no chance in hell
+[22:58] like just to save the time I pay the
+[23:01] transaction fee like even today's
+[23:03] transaction fees would be cheaper than
+[23:05] like using a or Swift or like whatever
+[23:08] kind of telegraphic transfer there is
+[23:11] and that to me is just like we have a
+[23:14] global economy we have like the internet
+[23:18] like why don't we have like a global
+[23:20] like money that is accepted everywhere
+[23:22] oh yeah we have this it's
+[23:24] Bitcoin yeah it's still it's still mind
+[23:27] balling if you're find think about it
+[23:29] it's just database entries and they need
+[23:31] so long for for those to clear it's not
+[23:35] not even final settlement because there
+[23:37] there is no final settlement in Fiat
+[23:39] kind of yeah I mean it's just like you
+[23:42] kick the can down the road and
+[23:43] everything is credit and if you think
+[23:46] too long about it you like it's scary
+[23:48] but like with Bitcoin it's so simple
+[23:49] it's so beautiful like you can send it
+[23:52] to somebody and they can immediately
+[23:53] verify oh that that is legit Bitcoin
+[23:55] that he sent me and that Bitcoin is now
+[23:57] my and he can only like charge back or
+[24:00] like force me to like I have to
+[24:02] voluntarily give it back to him like
+[24:04] it's like instantly settled you send it
+[24:05] like from one place to another and like
+[24:08] with with lightning or like all these
+[24:09] developments now with like ecash it just
+[24:12] gets keeps getting better and uh yeah
+[24:16] happy for it um another thing you are
+[24:19] actually doing and it is getting more
+[24:22] more recognition recognition also I
+[24:24] think in the global sphere I think there
+[24:26] was an article already in the Bitcoin
+[24:28] magazine I think a week ago uh about
+[24:31] Terra has uh I mean uh what what is
+[24:36] Terror has for like most people are from
+[24:38] actually I know 70% actually from people
+[24:41] listening to that are actually coming
+[24:43] from America and I guess from America a
+[24:46] lot of people did not hear about
+[24:49] terahash uh I think uh maybe I'm I'm I'm
+[24:53] wrong um what is terrahash and like what
+[24:56] are you doing there in Germany
+[24:58] so terahash is the the company to which
+[25:01] I'm an advisor uh like my friend also
+[25:04] Chris uh founded it uh in Germany and
+[25:08] it's like in my opinion the first German
+[25:10] Bitcoin company they do Pioneer work
+[25:13] where they educate people on mining they
+[25:16] invest in mining infrastructure they
+[25:19] talk to energy providers and
+[25:23] um building interesting TurnKey Concepts
+[25:26] where we can integrate mining into all
+[25:30] these different processes because like
+[25:32] in Germany like the hash rate price um
+[25:35] does not really allow for like just
+[25:37] mining without making use of waste heat
+[25:39] making use of stranded energy like it's
+[25:42] really really tough like that's why most
+[25:44] of the mining is being done in the
+[25:45] United States we have like demand
+[25:46] response programs and you have like
+[25:48] Hydro energy and Paraguay and stuff like
+[25:51] that and with
+[25:53] terahash
+[25:54] um yeah we try to uh bring in
+[26:00] knowhow bring in decision makers like
+[26:04] companies even politicians to make
+[26:07] Bitcoin first more palatable to like
+[26:10] people because it still has a very bad
+[26:12] reputation yeah there's a lot of really
+[26:15] really big things happening right now to
+[26:17] which I cannot just yesterday we had
+[26:19] like a big meeting I can't really
+[26:22] disclose those and I leave it to to I
+[26:24] think in Madera there's goingon to be a
+[26:26] big announcement at the end of the month
+[26:29] and um yeah
+[26:31] so with terahash my plan uh would be
+[26:36] to
+[26:38] have verifiable proof that Bitcoin is a
+[26:42] net benefit for everybody and to avoid
+[26:45] that the German government as they did
+[26:48] with like AI as they did with all this
+[26:49] new technology where they try to
+[26:51] regulate it and ban it and shoot
+[26:53] themselves inevitably in the foot where
+[26:55] you just point to all the benefits that
+[26:59] there are because there's a lot of uh
+[27:01] fud out there and um with a an entity
+[27:05] like that you can uh yeah topel a lot of
+[27:08] these myths and um there's a laboratory
+[27:11] where we like do research uh on mining
+[27:14] and we have tons of visitors uh from
+[27:17] from like both local as well as from
+[27:19] Berlin politicians and U yeah a lot of
+[27:22] uh yeah things are moving there do you
+[27:26] see um I mean we see a lot of things in
+[27:29] in Europe and Germany uh happening
+[27:32] around regulations and uh having like
+[27:35] there's this saying uh you cannot ban
+[27:38] Bitcoin but you can only ban yourself
+[27:40] from Bitcoin and it I think it resonates
+[27:43] with a lot of people and I think we in
+[27:47] Europe in Germany also I think in
+[27:48] Austria we have this kind of thinking
+[27:50] where we want to regulate everything
+[27:53] every small step should be so regulated
+[27:55] till it's almost dead
+[27:58] uh and and this why like if you look at
+[28:01] the 20 most successful companies they're
+[28:02] all kind of in America they're all the
+[28:05] internet all happened in America kind of
+[28:08] um do you see a chance where like Europe
+[28:10] can be a Bitcoin uh uh
+[28:15] region absolutely and like that's what
+[28:18] we try to do to avoid doing what we
+[28:21] missed out on the internet like we had
+[28:23] all the plans in the 80s oh let's have
+[28:25] fiber gigabit internet everywhere in
+[28:27] every household and then our Chancellor
+[28:30] back then was best buddies with a guy
+[28:32] who owned like the um biggest uh
+[28:34] television news conglomerate and he F
+[28:36] felt threatened by the internet and then
+[28:39] as soon as that guy got into office like
+[28:41] all those plans were scratched and
+[28:43] that's why there's like all these like
+[28:45] there's Silicon Valley like we would
+[28:46] have those like uh people here and we
+[28:49] could have built companies of similar
+[28:51] size like the biggest I think German
+[28:53] born Enterprise is Shopify and the guy
+[28:56] like straight off to Canada
+[28:58] and built his business
+[29:03] there come again I I didn't I did not
+[29:05] even know that it was a German that
+[29:07] founded it interesting yeah to to be as
+[29:10] L like he's from like 50 kilometers this
+[29:12] direction but yeah he's a a very
+[29:15] successful founder and there is no there
+[29:17] was not really like a startup scene in
+[29:19] Germany or for like internet companies
+[29:22] like we have like the sap and like
+[29:24] software software companies but like we
+[29:26] slept on a lot of these really big
+[29:29] potentials and that's I'm afraid that
+[29:32] that might happen in Germany as well or
+[29:35] in Europe uh if like uh
+[29:56] underinformative data does not support
+[29:58] these things and just you have the
+[30:01] unique position now that you can become
+[30:03] a hub you can like a a a Pioneer and
+[30:08] yeah yeah improve or
+[30:11] like Germany could become a a a Bitcoin
+[30:15] State I mean it's it's uh definitely
+[30:17] possible if you you don't even have to
+[30:20] support it just don't throw any stones
+[30:23] in in our way and then yeah in 10 20
+[30:26] years will look different yeah I think
+[30:29] this is mean the general sense with
+[30:31] Innovation like just let it happen just
+[30:34] don't throw stones in the way of
+[30:36] innovation and let it
+[30:39] happen you can just slow it down in your
+[30:42] region uh and this will benefit other
+[30:45] regions like we see in El Salvador we
+[30:47] see other nations that adopting it even
+[30:49] like really close to us in Switzerland
+[30:51] in Lugano I think there's a lot of uh
+[30:55] things happening there Switzerland is
+[30:57] also interesting uh use uh interesting
+[31:01] case study because a lot of the best
+[31:04] adoptions are happening in countries
+[31:06] that need Bitcoin the most like Nigeria
+[31:08] El Salvador and in countries like that
+[31:11] Switzerland turkey like I don't think
+[31:15] turkey like they're always on the
+[31:16] all-time high in bitcoin price if you
+[31:19] like use the Turkish L yeah like yeah so
+[31:23] if if you not playing along in Germany
+[31:25] like if you try to regulate it to hell
+[31:27] uh then the talent will bleed away they
+[31:29] will just move like people will build
+[31:31] their companies in the United States and
+[31:33] then you're not competitive like that's
+[31:35] very simple and
+[31:37] uh I don't want to see that because
+[31:41] I a lot of people say oh we just gonna
+[31:43] just gonna move to El Salvador or
+[31:45] whatever like I really like it here I'm
+[31:48] not gonna not gonna give give like
+[31:51] Europe up easily to like the incompetent
+[31:54] like yeah I think it's it's it's also
+[31:56] something good to do like not just like
+[31:58] flee from the problem and trying trying
+[32:00] to fix the
+[32:02] problem what interesting what has to
+[32:05] happen for you to actually move to El
+[32:07] Salvador some State like that like what
+[32:10] what do German politicians or european
+[32:12] politicians have to do for you to say
+[32:15] okay enough is enough I cannot help
+[32:17] those those guys I will leave now I mean
+[32:20] that's really very easy answer to like
+[32:23] I've I've thought about
+[32:24] this in recent times a lot
+[32:27] um yeah if if we start a war like there
+[32:30] will be three people missing like me and
+[32:32] the two uh soldiers looking for me
+[32:36] because I'm not going to go into a meat
+[32:39] grinder they're gonna draft me yeah you
+[32:42] have to look for me in Vanuatu or
+[32:43] somewhere like some place there
+[32:46] like this entire concept of like you
+[32:49] going killing somebody is like very
+[32:53] like
+[32:55] it's it's completely anti Bitcoin and I
+[32:58] like the message also that Bitcoin
+[33:00] defunds Wars uh and yeah really really
+[33:03] cool I'm not so I don't entirely agree
+[33:05] with that statement
+[33:07] like like I think Rusty Russell wrote
+[33:10] about this too like propaganda will
+[33:13] always be there and propaganda is what
+[33:15] like causes wars in the first place and
+[33:18] like a gold standard or a Bitcoin
+[33:19] standard has not prevented or hasn't
+[33:21] demonstrated that it can prevent the war
+[33:23] it will be much more difficult maybe
+[33:25] like to get the funding you can't just
+[33:26] make de to build like equipment or
+[33:29] weapons but uh
+[33:32] yeah violence will be solved like
+[33:35] Bitcoin does not fix everything yeah
+[33:37] definitely I think there's a lot of uh
+[33:40] people that like for me Bitcoin in the
+[33:42] end of the day is just money and it's uh
+[33:46] maybe a too simple of a statement
+[33:48] because money is so fundamental to our
+[33:50] life and if you have as a government not
+[33:53] the possibility to just create endless
+[33:55] money you have to actually actually get
+[33:57] it from the people that live in your
+[33:59] jurisdictions so uh but you can still
+[34:03] make it but the F you to convince them
+[34:05] really hard and then like the uh yeah
+[34:09] edged propaganda like that will be next
+[34:12] level like they will 1984 levels where
+[34:15] they just like Point everything else as
+[34:18] the enemy and then you might have like
+[34:19] another War where people like say oh
+[34:21] let's let's go here's my Bitcoin build
+[34:24] some bombs but uh yeah it will be much
+[34:26] more difficult I agree yeah um maybe as
+[34:30] a last question before we come to our
+[34:31] Andro te you're doing so much in the
+[34:34] Bitcoin sphere with different companies
+[34:36] with uh trying to uh make Germany a
+[34:39] better Bitcoin place um why at the end
+[34:43] of the day are you so passionate about
+[34:45] Bitcoin is there something that like
+[34:48] drives you extremely that you like uh
+[34:52] have this drive so I've uh had a lot of
+[34:56] uh really
+[34:57] like passionate projects Hobbies where I
+[35:00] like dove in and had focused all my like
+[35:03] attention on and then those faded away
+[35:06] and I mean there's some other hobbies
+[35:08] that to this day have like a really
+[35:10] focused passion but um Bitcoin stands
+[35:13] out at that regard that like for like
+[35:15] better part of a decade I I really like
+[35:19] like it and I like it more the more
+[35:21] learn about it and I try to be skeptical
+[35:25] of most things and always
+[35:27] look from like different angles and try
+[35:29] to disprove the thesis that Bitcoin is
+[35:32] actually this beautiful thing this money
+[35:34] and it's not that we are just the the
+[35:36] the ghost drivers on the wrong side of
+[35:38] the highway and it has not happened and
+[35:41] it didn't succeed and finding like a
+[35:44]  in the armor like something that
+[35:46] disproves this thesis and that's so
+[35:48] fascinating about it something like this
+[35:50] Obsession that is good and uh like it's
+[35:55] yeah sort of uh like the icky Guy where
+[35:58] like I have a company that's now is very
+[36:02] like successful and I have this this
+[36:04] drive to make like Bitcoin better and to
+[36:08] make more people aware of Bitcoin and
+[36:10] all these things like they fulfill me I
+[36:13] get paid for it and uh it's it's a
+[36:16] benefit for society and that's what like
+[36:19] yeah Bitcoin is essentially for me
+[36:22] that's a beautiful uh point to end the
+[36:24] podcast um we having an end routine
+[36:26] where previous guest uh asked a question
+[36:29] for the next guest and he asked like
+[36:32] would it be possible to have cedor as
+[36:35] gold like have uh your seeds stamped on
+[36:38] gold I mean technically technically yes
+[36:42] I would not recommend it like gold also
+[36:45] like melts and uh it's yeah very meable
+[36:49] and
+[36:50] soft um and it will be like expensive
+[36:54] you could use that money uh to stack
+[36:55] some sets like like stainless steel is
+[36:58] very good at the job um yeah gold is a
+[37:02] Shiny Rock and like just yesterday I
+[37:04] checked like bitcoin price was one
+[37:07] Bitcoin 21.4 ounces of gold like yeah no
+[37:11] gold is there to explain boom as Bitcoin
+[37:14] that is that is a great statement never
+[37:16] heard that
+[37:19] one I read it on my five hours of
+[37:22] Twitter a day somewhere like it's not I
+[37:25] did not come up with it but yeah it it
+[37:27] always works like why do I have need
+[37:29] Bitcoin you know like gold it's a good
+[37:30] store ah they get it immediately yeah I
+[37:33] think uh my father also got gold but he
+[37:36] got uh um Bitcoin not and and when
+[37:39] somebody gets Bitcoin uh then it's
+[37:42] easier to explain to them like if they
+[37:45] actually get gold like some just buy it
+[37:48] because they think oh it has a great
+[37:49] history and stuff like that but if
+[37:51] someone actually gets the properties of
+[37:53] gold and why gold succeeded in the
+[37:55] history then it's an easier switch for
+[37:57] them to bitcoin but then there are
+[37:59] examples like Peter shift but yeah
+[38:01] that's another topic so he was your
+[38:03] previous
+[38:07] guest pet would be an interesting guess
+[38:10] yeah uh but yeah I I don't know if I
+[38:13] even want him uh yeah um where can
+[38:17] people uh contact you the best where can
+[38:20] people find you the best if they want to
+[38:21] get in touch with
+[38:23] you yeah I mean uh find us on Twitter
+[38:26] like my business partner and I we manage
+[38:28] the soror iio Twitter account myself I'm
+[38:32] at coin joint you can write me on
+[38:34] telegram you can write an email like I
+[38:36] am very
+[38:38] online you can you can reach me and yes
+[38:42] so the people nearest and dearest to me
+[38:44] they are sick and tired of me talking
+[38:45] about Bitcoin so I'm always looking out
+[38:47] for people who want to talk about
+[38:49] Bitcoin with me so I'm happy to
+[38:51] CHF that's kind of my origin story from
+[38:53] the
+[38:55] podcast yeah thank you for being on
+[38:57] Chris thank you for having
+[39:00] [Music]
+[39:03] me

@@ -1,0 +1,3901 @@
+Title: 273. Bitcoin Bushido with Aleks Svetski
+Video ID: ZvUnhXeF6wg
+URL: https://www.youtube.com/watch?v=ZvUnhXeF6wg
+Date Saved: 2025-06-15 12:38:07
+Channel: Saifedean
+--------------------------------------------------
+
+[00:05] Hello, welcome to the Bitcoin Standard
+[00:06] podcast. Our guest today is Alex
+[00:09] Zvetszki. Alex is the author of the new
+[00:12] book, The Bushidto of Bitcoin, and
+[00:14] previously he'd written The Uncommunist
+[00:16] Manifesto. He's also produced the
+[00:19] Bitcoin Times series of magazines or
+[00:22] collections of essays, I should say.
+[00:24] He's also an entrepreneur who's
+[00:25] currently building a unique Noster
+[00:27] client called Settlantis. and he's
+[00:29] previously worked on the world's first
+[00:31] Bitcoin only savings app, Amber. And
+[00:35] also he produced he worked on producing
+[00:37] the a spirit of Satoshi Bitcoin Centric
+[00:40] LLM and the last time we hosted him, we
+[00:42] discussed that. But today we're going to
+[00:44] be talking about the Bushidto of
+[00:46] Bitcoin. Alex, welcome. Safe. It's been
+[00:50] too long, man. How you doing? I am very
+[00:52] good. It has been indeed. It's uh it's
+[00:55] been way too long. You're uh you're too
+[00:57] far in the world for us to be meeting
+[00:59] too close. Am I too far or are you too
+[01:01] far?
+[01:03] No, I think I'm kind of in the center of
+[01:05] the world. You're in the
+[01:06] uh the new world. That's true. That's
+[01:10] true. I do you know what? I will I will
+[01:12] most likely next year be moving closer
+[01:15] to you. I'll be in the center of the
+[01:16] world as well. So there we go. We'll be
+[01:17] nice and close. Ah, nice. So you're
+[01:19] moving to Dubai? Most likely. I'm I'm
+[01:21] I'm looking at it now. So Ah, nice.
+[01:23] Yeah, it will be close then. Could be
+[01:25] good to see you. Excellent. Excellent.
+[01:27] All right. So, tell us about your new
+[01:28] book, The Bashidito of Bitcoin. What is
+[01:30] the Bashidito of Bitcoin? Yeah. Well,
+[01:32] let's let's start with the the namesake.
+[01:35] So, the word Bushida, I guess a lot of
+[01:37] people always ask me what the hell does
+[01:38] that mean? Um what you know, what is
+[01:41] this word? It sounds Japanese and what
+[01:42] the hell does it have to do with
+[01:43] Bitcoin? So, if I had to sum it up, I
+[01:46] would start with the the premise of that
+[01:49] word. The word means way of the warrior.
+[01:51] Um, and in Japan, it was the code of
+[01:55] virtue that emerged from the warrior
+[01:58] class who were the samurai, right? They
+[02:00] they were essentially the class within
+[02:04] the Japanese feudal hierarchy that
+[02:08] established they protected the land, but
+[02:11] they also much like the knights of
+[02:13] Christendom, right? The knights of the
+[02:14] west um were the ones who basically
+[02:17] enforced norms, laws, etc. And um and
+[02:22] what they did very similar also to the
+[02:24] Christian west was they established this
+[02:26] code. So in the west we kind of had
+[02:28] chivalry right and it was to you know a
+[02:31] way of being or a way of behaving. So
+[02:33] act with courage justice loyalty love
+[02:36] compassion etc. And the Japanese samurai
+[02:39] came up with something similar and it
+[02:41] wasn't like a prescriptive oh you know
+[02:42] ten commandments this is how you must
+[02:44] behave but it was a it was kind of an
+[02:46] unwritten code that they they lived by.
+[02:48] So the premise therefore of the bashidto
+[02:51] of Bitcoin is basically a a question
+[02:55] of when Bitcoin
+[02:58] wins, who must we become and how must we
+[03:02] behave? Because it's not so clear to me
+[03:04] that everyone all of a sudden becomes
+[03:06] virtuous uh once they become really
+[03:08] wealthy out of Bitcoin. you know, we we
+[03:10] do have these sort of talking points
+[03:12] around, you know, Bitcoin fixes this and
+[03:14] it lowers time preference and
+[03:15] everything, but there's just as much or
+[03:18] if not more evidence that people who get
+[03:21] into Bitcoin, make a bunch of money, end
+[03:23] up becoming degenerates and become more
+[03:25] fiat uh than previously, right? And many
+[03:28] many of the early Bitcoiners are
+[03:30] actually probably more like that.
+[03:31] there's very very few uh early
+[03:33] bitcoiners that made a bunch of money
+[03:35] and maintained Bitcoin only or built um
+[03:38] characters of virtue. Right? So the
+[03:41] whole book is basically a a discussion
+[03:43] on okay when Bitcoin wins who do we
+[03:45] become? Do we become a new parasitic
+[03:46] elite? Do we become a bunch of Lambo
+[03:48] crypto bros or do we become men and
+[03:50] women of virtue? And if we want to
+[03:53] become the latter, what virtues must we
+[03:57] aspire towards? And that's a big part of
+[03:59] the discussion is like what is that
+[04:01] code? What does it look like? And and I
+[04:03] make very clear, I've said this in a
+[04:04] couple podcasts now, this isn't Ten
+[04:06] Commandments. This is a look at the
+[04:08] great cultures that preceded the great
+[04:11] civilizations of Earth and what were the
+[04:14] behaviors that were embedded or
+[04:16] instilled into those cultures. And funny
+[04:20] enough, the same virtues pop up in
+[04:22] feudal Japan, in the Christian West, in
+[04:26] Rome, in Greece, in ancient Persia. Uh
+[04:29] like the the the great civilizations all
+[04:32] had the same kind of thread. So that was
+[04:34] that was sort of like what led me
+[04:37] through the book. And there's there's
+[04:39] six big qu uh sections of the book which
+[04:41] we can sort of run through uh here and
+[04:44] there, but that's basically the big
+[04:46] question that it asks. And you know if I
+[04:48] had to kind of sum up the sentence I
+[04:49] would say it's like a a playbook for the
+[04:52] leaders of tomorrow because
+[04:54] fundamentally those who have the wealth
+[04:57] those who have the economic means end up
+[05:00] uh creating social means as well right
+[05:02] they become tomorrow's leaders so how
+[05:04] must we behave who must we become uh
+[05:08] when we have the duty of leading the
+[05:10] world. So so that's the big question
+[05:11] that's what I grapple with in the book.
+[05:13] Yeah. Well before we get into that I
+[05:15] wanted to pick your brain on this. I
+[05:16] think you you raised an interesting
+[05:18] question which is um you know a lot of
+[05:20] Bitcoiners make a lot of money and then
+[05:22] just become degenerate shiters and spend
+[05:24] the money on all kinds of high time
+[05:26] preference things and um many of them
+[05:29] even lose their Bitcoin. A lot of early
+[05:31] Bitcoiners made a lot of money and then
+[05:33] they lost it because they blew it on
+[05:35] shitcoins. They gambled with it on
+[05:38] trading trying to make even more
+[05:39] Bitcoin. Um a lot of them invested in
+[05:42] all kinds of uh stupid things and lost a
+[05:44] lot of money. There's a huge number of
+[05:46] Bitcoiners who I would say early on got
+[05:49] lucky. They got into Bitcoin um put in,
+[05:52] you know, I mean, if you got in in 2012,
+[05:54] 2013, you put in a few thousand dollars,
+[05:57] which for many people was um you know,
+[06:01] gambling money, playing money, money
+[06:03] they could have spent on a weekend in
+[06:05] Vegas, but instead they said, "I'm going
+[06:06] to put some money into Bitcoin." And it
+[06:10] goes up very quickly in a year or two,
+[06:12] and then you got yourself a fortune. So
+[06:15] I'm wondering, you've probably thought
+[06:17] about this question a lot because it
+[06:19] motivates your book. So I'm wondering
+[06:21] how do you see the breakdown in terms of
+[06:23] people going down that path versus
+[06:25] people realizing the kind of uh
+[06:28] transformative potential that Bitcoin
+[06:30] has to you in the sense that if you just
+[06:33] use Bitcoin for good and you fix
+[06:36] yourself so that you're not desiring
+[06:38] high time preference degenerate behavior
+[06:40] then you're able to save well and then
+[06:42] you're able to accumulate more and more
+[06:43] Bitcoin and then you can start thinking
+[06:45] about long-term goals and start thinking
+[06:46] about doing meaningful things with your
+[06:48] life. So, I guess the provocative
+[06:50] question I have here, and I think this
+[06:53] might piss off a lot of Bitcoiners, but
+[06:54] you know, that's what I'm here for, uh,
+[06:57] is, is this really, um, you know, we
+[07:00] like to talk a lot about Bitcoin fixes
+[07:02] this, Bitcoin fixes this, but is this
+[07:04] really the culture of Bitcoiners who've
+[07:06] made it, or is it just the culture of
+[07:07] the Bitcoiners who are uh,
+[07:12] living optimizing to make it by reducing
+[07:16] their expenditure enormously, increasing
+[07:18] their income, working hard, you know,
+[07:20] stay humble stacks ass. Is that really
+[07:22] going to be the culture of the are these
+[07:25] Bitcoiners going to be the same when
+[07:26] their Bitcoin portfolio does another
+[07:29] 100x or is that just the thing that they
+[07:32] do now while they're, you know, having
+[07:33] to eat crow at work from their boss and
+[07:36] having to keep putting up with all that
+[07:38] stuff? So, they put on this uh this
+[07:41] stoic face, accept it, and you know,
+[07:45] yeah. Is it is it all I'm not in it for
+[07:47] the Lambos. I'm in it for the uh
+[07:49] revolution and I'm in it for the
+[07:51] transformation. And so, you know, you
+[07:53] suck it up for 5 10 years and you keep
+[07:55] stacking your SATs. But then once your
+[07:56] SATs uh really pile up, um then you get
+[08:00] your Lambo. Then you get your Lambos and
+[08:02] then
+[08:03] uh then maybe maybe you start
+[08:05] shitcoining, you know, maybe you you go
+[08:08] and you introduce the new uh I don't
+[08:10] know, Ethereum or whatever and you start
+[08:13] telling people how it changes the world.
+[08:15] We've seen some of these maxis switch
+[08:18] later on. I think in some cases, which
+[08:20] I'm not going to name it. Sometimes it
+[08:22] seems that it's so obvious that it seems
+[08:25] like it's just OBSC. People are trying
+[08:27] to disappear from the Bitcoin world. I
+[08:29] think you and I know a couple or at
+[08:31] least one for sure that comes to mind,
+[08:33] but we're not going to name him now.
+[08:35] Yep. But uh maybe maybe it's real. Maybe
+[08:38] you just have a lot of money and then
+[08:40] you start thinking that uh you are
+[08:42] better than everybody and then you can't
+[08:44] do no wrong and since you picked this
+[08:47] genius idea that made you very rich then
+[08:49] clearly all your other genius ideas are
+[08:51] going to be very rich. So what do you
+[08:53] think having thought about this question
+[08:54] more? It's a it's a tough question. Do
+[08:56] you know what it reminds me of the
+[08:58] question about nature versus nurture?
+[09:00] Right. Uhhuh. Um and which one is it?
+[09:03] Right. like when you know you're you're
+[09:05] a father obviously and you are raising
+[09:08] your kids what is more important in your
+[09:10] in your opinion is it nature or is it
+[09:12] nurture in fact let's let's do this as a
+[09:14] discussion what what do you think it is
+[09:15] like when you're raising kids what what
+[09:17] matters more well I mean matters more is
+[09:20] a difficult question to answer because
+[09:22] you can't really um you can't really
+[09:24] specify what do we mean by more I think
+[09:27] both are enormously important I think
+[09:30] you can find examples where nature
+[09:32] overcomes nurture So people who are, you
+[09:36] could say, good genetic stock, who have
+[09:38] good intelligence, good um values
+[09:42] embedded in them, even though they grow
+[09:43] up in some of the most uh horrific
+[09:45] environments that would destroy 99.9% of
+[09:48] the people that grow up there. But
+[09:50] sometimes you get these diamonds in a
+[09:52] rough just for whom nurture doesn't
+[09:54] matter at all. And uh you know, they're
+[09:58] just shine through. Yeah. Yeah. they
+[10:00] their intelligence, their ability to
+[10:03] delay gratification shines through and
+[10:05] they find a way out of their
+[10:07] predicament. Um but on the other hand,
+[10:10] there are some times when you see that
+[10:12] nature, sorry, nurture matters a lot. I
+[10:15] mean, I think the way that I would see
+[10:17] it perhaps I think the um the example of
+[10:20] sports is a good u is is a good way of
+[10:22] looking at it. Yes. So a lot of a lot of
+[10:25] people Yeah. A lot of people have this
+[10:27] idea that
+[10:28] u you know if you just work hard you too
+[10:31] can be Michael Jordan and it's not true.
+[10:35] There's no set of exercises that I could
+[10:39] have done from the day that I was born
+[10:41] that would have made me Michael Jordan.
+[10:42] There's no way I would have become a
+[10:44] professional basketball player. And
+[10:46] that's not just the height. It's um
+[10:48] athletic ability. And you know, athletic
+[10:51] coaches can go see go watch a bunch of
+[10:55] seven-year-olds play a soccer game or a
+[10:57] basketball game and they can tell
+[11:00] definitely for sure who is never going
+[11:02] to make it as an athlete. You look at
+[11:04] them, you know, this guy definitely not
+[11:06] going to be a pro, definitely not going
+[11:07] to be lifting trophies for a living. And
+[11:10] then there are some kids that have the
+[11:12] potential to do it, but there's no such
+[11:14] a thing as a kid who's destined to do
+[11:16] it, to make it, right? So even no matter
+[11:19] how talented you are, no matter how
+[11:21] skilled you are, you're not going to be
+[11:23] Michael Jordan unless you really,
+[11:24] really, really work hard at it.
+[11:26] Especially this at this point, if you
+[11:28] look at uh professional athletes, there
+[11:30] was a time, you know, in the 1970s and '
+[11:32] 80s, there were professional athletes
+[11:35] who would drink a lot, who would party a
+[11:37] lot, who wouldn't train, and there's
+[11:39] many stories about people like that, and
+[11:41] they'd make it to the top. You know,
+[11:42] George Best is a famous one in
+[11:44] Manchester United and he was one of the
+[11:46] best players in the world and he was an
+[11:49] alcoholic and up until, you know, at 26
+[11:52] he retired because he just completely
+[11:54] ruined himself. But before he retired,
+[11:57] he or at least up until a couple of
+[11:59] years before that, he he was still doing
+[12:02] really well even though he didn't take
+[12:03] his training seriously and he was
+[12:04] drinking heavily. Well, that's gone now.
+[12:08] At that point, you know, football was a
+[12:10] much smaller sport. there wasn't that
+[12:12] much u there wasn't that much
+[12:15] professionalism in it and so if you were
+[12:17] really talented like best you could make
+[12:20] it even if you're drinking and you could
+[12:22] outplay really hardworking players who
+[12:25] didn't have the same kind of ability
+[12:27] today this doesn't work anymore there
+[12:29] are no players in the professional game
+[12:32] that you and I have ever heard of that
+[12:34] are not extremely dedicated all the ones
+[12:36] that are are drinking and partying all
+[12:39] the ones that are not taking their job
+[12:40] easily
+[12:41] they never made it past 20 in the
+[12:44] professional game. And there's all these
+[12:46] stories of really talented players. So,
+[12:48] for instance, there's a another
+[12:49] Manchester United player called Rall
+[12:51] Morrison. Alex Ferguson, who managed
+[12:54] Manchester United for 26 years, worked
+[12:56] with some of the best players in the
+[12:57] world. He said Rall Morrison is the best
+[12:59] player he's ever coached. Rell Morrison
+[13:01] didn't make it as a professional. Uh he
+[13:04] messed up and he went had a bunch of
+[13:06] stints at a bunch of big clubs, failed
+[13:09] everywhere. and I think he's probably
+[13:11] retired at this point. So, so what I
+[13:14] would say the answer to that question
+[13:15] would be nature
+[13:19] is hugely important and it determines
+[13:22] the u the the range of outcomes. So,
+[13:26] it's very clear that I was never going
+[13:28] to make it in professional sports. I may
+[13:32] have uh you know I could make it as a
+[13:35] doctor maybe I could make it as an
+[13:36] engineer but it doesn't mean I will make
+[13:38] it into those things. It means that if I
+[13:41] work really hard if I have the right
+[13:42] nurture the right values if I'm able to
+[13:45] develop uh properly and if I'm able to
+[13:47] focus on those things then I can make it
+[13:49] in that field. So I don't think you can
+[13:52] discount one or the other and it's
+[13:53] difficult to prioritize them in terms of
+[13:56] more but both are uh extremely important
+[14:00] although I guess you know there there I
+[14:04] I would say there are examples where you
+[14:05] can overcome nurture but it's very
+[14:08] difficult to overcome nature there's
+[14:10] never you can't train enough to become
+[14:12] Michael Jordan no matter what happens.
+[14:14] Yep. Yep. Yep. So precisely what you
+[14:17] just described then is the answer to my
+[14:19] other question is does Bitcoin fix
+[14:21] people or does it attract people who
+[14:24] have the right ingredients? It's the
+[14:26] it's the same kind of thing. I don't
+[14:28] know which one it is and I don't think
+[14:29] there is a conclusive answer. I think
+[14:31] that it is fundamentally a mixture of
+[14:34] both. I think you need to have the
+[14:37] predisposition inside you. Your nature
+[14:40] has to be that kind which is I want to
+[14:43] do better. I want to excel. I want to do
+[14:46] good things. I want to be a virtuous
+[14:47] person. I, you know, I want to uh move
+[14:51] forward in life. I have a vision. I have
+[14:53] some something like that. Right? So that
+[14:55] has to exist. And then if you find
+[14:58] Bitcoin, it gives you a framework within
+[15:01] which that kind of behavior, that kind
+[15:04] of nature, that kind of desire will
+[15:07] succeed, right? Because if you are
+[15:09] someone, so so let's say you have that
+[15:10] kind of predisposition, that kind of
+[15:12] nature, and you're like, "Okay, look, I
+[15:13] want to save." So you start saving and
+[15:14] putting your money in the bank, you're
+[15:16] going to get robbed, right? Because
+[15:18] you're going to lose it on inflation,
+[15:20] blah blah blah blah blah blah, right?
+[15:21] So, so I think the answer to your
+[15:25] previous question is very much similar
+[15:28] to the answer for nature versus nurture.
+[15:31] It's neither one. It's a it's a it
+[15:35] requires both. And also the the analogy
+[15:38] that you used for the um for the sports
+[15:40] people was interesting as well because
+[15:41] it made me think you said the the bar
+[15:43] used to be lower for sports people um in
+[15:46] a in a nurture capacity and now it's
+[15:48] much higher and maybe now it's like we
+[15:52] lived in a world previously if you think
+[15:55] you know back 70 80 100 years where
+[15:59] society had these virtues still embedded
+[16:02] within it. Now society has kind of
+[16:04] skewed itself into this degenerate like
+[16:07] everything around us is degenerate.
+[16:08] Everything around us is gambling. So now
+[16:10] the bar is much higher in order for you
+[16:13] maybe the bar is not higher because that
+[16:15] that analogy doesn't make sense. It's
+[16:17] it's much you know to be a virtuous
+[16:19] person is not very uh like to
+[16:21] differentiate from the madness is not
+[16:23] very hard but maybe the the ability to
+[16:26] separate yourself out of the really
+[16:29] costic environment of poor nurture is a
+[16:31] lot harder now than it used to be right
+[16:34] so there's there's some sort of
+[16:35] similarity there but anyway that's
+[16:36] that's my answer to your question is I
+[16:40] think it's a mixture of both I don't
+[16:42] think Bitcoin can fix someone who is
+[16:45] fundamentally a crook crooked person
+[16:47] inside. And I think there are many of
+[16:49] those fundamentally crooked people in
+[16:50] the world. Um, you know, there's I don't
+[16:53] think any amount of Austrian economics
+[16:55] or Bitcoin or anything is going to fix
+[16:57] them. They're fundamentally when they
+[16:59] get wealthy, they're going to be they're
+[17:00] going to do they the wealth is going to
+[17:03] amplify the worst parts of them um in
+[17:06] the same way as technology might amplify
+[17:08] the worst parts of them, etc. So, so
+[17:10] that's my that's my working theory at
+[17:13] this point. The Bitcoin Standard podcast
+[17:15] is brought to you by the safehouse.com,
+[17:17] my independent publisher and bookshop,
+[17:18] selling the best Bitcoin books in
+[17:20] high-quality cloth hard covers built to
+[17:22] last for generations. Most books these
+[17:24] days are pretty fiat. They're flimsy and
+[17:25] they fall apart quickly. And I did not
+[17:27] want that for my books. So, I set up the
+[17:29] safe house especially to provide you
+[17:31] with beautiful, long-lasting classic
+[17:32] cloth hard covers you can proudly pass
+[17:34] down for generations. You can get copies
+[17:36] of my three books, The Bitcoin Standard,
+[17:38] The Fiat Standard, and Principles of
+[17:39] Economics. And you can also get copies
+[17:41] of Lyn Alden's Broken Money, Parker
+[17:43] Lewis's Gradly Then Suddenly, and
+[17:45] Matthew Lisiaak's Fiat Food, to which I
+[17:47] contributed a few chapters. We now offer
+[17:50] bulk discounts, so you can buy books for
+[17:51] yourself and for the friends and family
+[17:52] you'd like to learn about Bitcoin. Buy
+[17:55] any two books for $50, any five books or
+[17:57] more for $20 per book, and for more than
+[17:59] 50 books, it's only $15 per book. Go to
+[18:02] the safehouse.com the
+[18:05] sifhouse.com where you can get all of
+[18:07] these books in highquality cloth hard
+[18:09] covers delivered worldwide and get 10%
+[18:12] off for paying with
+[18:14] Bitcoin. The Bitcoin standard podcast is
+[18:16] brought to you by the daylight computer.
+[18:18] I love to work early in the morning and
+[18:20] late at night or in the sun outdoors,
+[18:22] but regular computer screens are
+[18:23] terrible at these times and they strain
+[18:25] your eyes. For years, I've wanted a
+[18:28] paper-like electronic screen on a simple
+[18:30] computer I could use to write. I tried
+[18:32] several models, but none were very good.
+[18:35] Now, finally, Daylight have delivered a
+[18:38] fantastic full function tablet with a
+[18:40] paper-like screen that's easy on your
+[18:42] eyes and great for outdoor use. I've
+[18:45] been using the Daylight computer to
+[18:46] write my next book, and it is absolutely
+[18:49] fantastic, and it has led me to invest
+[18:51] in this company myself. Check out my
+[18:53] interview with Anjan Kata in episode
+[18:56] 249. Yeah, I will say though, I think
+[18:59] the quality of the average Bitcoiner is
+[19:02] going to improve over time. Um, so the
+[19:05] there's a sense that as we um expand, as
+[19:09] the Bitcoin network grows and more and
+[19:11] more normies join, we're going to be
+[19:13] getting more of the um, you know, lower
+[19:18] intelligence integrity. Maybe we we'd
+[19:21] like to think that it's the smartest
+[19:23] people who get Bitcoin early. And
+[19:25] probably there is some of that. I mean,
+[19:26] it takes an enormous amount of um brain
+[19:29] power to be able to get Bitcoin early
+[19:31] when there are very little resources
+[19:33] explaining it. There is some of that,
+[19:36] but I think early on if you it was
+[19:40] highly likely if you got into Bitcoin,
+[19:44] it was highly likely that you'd make a
+[19:46] quick buck from it because Bitcoin
+[19:48] initially used to spike very fast and it
+[19:52] would go up really quickly. So, for
+[19:53] instance, if you bought in 2012,
+[19:56] um it was at the end of 2012 was
+[19:58] something like $10, $12 at the having in
+[20:00] 2012. 50% move is very different at 100
+[20:03] bucks than it is at 100,000. Yeah. Yeah.
+[20:05] So it went from 10 bucks to a,000 bucks
+[20:07] by November 2013. So it did 100x in a
+[20:10] year between 2012 and
+[20:13] 2013. And it had done the previous 100x
+[20:16] in in a similar sort of time frame. So
+[20:18] it was quite possible for somebody who's
+[20:20] just a DGEN gambler to get in, wait for
+[20:23] 6 months, 1 year, make life-changing
+[20:25] money, and get out. But now I think it's
+[20:28] a lot harder. you you need to huddle for
+[20:31] uh significantly longer periods of time.
+[20:35] So, think about uh you know the 100x
+[20:38] when was the last time we were at a
+[20:39] thousand to go from a,000 to 100,000.
+[20:42] So, from 10 to 1,000 took a year. From
+[20:46] 1,000 to
+[20:47] 100,000 took about 11 years. Yeah. Yeah.
+[20:51] From 2013 to 2014. So, uh sorry, from
+[20:56] 2013 to 2024. So, 11 years. Yeah. So at
+[21:00] the so to to make that sort of money,
+[21:03] you need to have a low time preference.
+[21:05] To make big money in Bitcoin now, you
+[21:07] need to suck it up and stay humble and
+[21:09] stack ads
+[21:11] and cut down on the lambos, cut down on
+[21:14] the conspicuous consumption and stack as
+[21:16] hard as you can so that you can make the
+[21:17] money. And you can't really do it
+[21:20] overnight. It's uh it's harder. So I
+[21:23] think the selection mechanism is
+[21:25] probably becoming a little bit more
+[21:27] favorable to having a lower time
+[21:29] preference probably. Yeah. I mean the
+[21:33] where I think
+[21:35] the the avenue to get the Bitcoin just
+[21:38] changes, right? So previously would have
+[21:39] been getting it from a faucet or just
+[21:41] buying it online or whatever the case
+[21:42] is. Now it's like okay maybe I can ape
+[21:45] into this shitcoin and then as a result
+[21:48] sell out into Bitcoin so that I can go
+[21:49] from zero to 100 Bitcoin, right? So, so
+[21:51] maybe the mechanism changes, but I think
+[21:55] fundamentally what you're describing
+[21:57] there is the fact that most people in
+[22:00] the world I think have the right
+[22:03] ingredients. You know, I'm people know
+[22:05] me for being very critical. You know, I
+[22:06] wrote the remnant essay, talked about
+[22:08] how the masses don't matter and you
+[22:09] know, most people are lemings and stupid
+[22:10] and all this sort of stuff. But even
+[22:12] though I say all that sort of stuff, I
+[22:15] recognize, you know, very very clearly
+[22:17] that most people, you give them a good
+[22:20] enough framework, like you provide a
+[22:22] framework for excellence, most people
+[22:24] will find their way to creating
+[22:28] something, building something, producing
+[22:29] something, having a family, you know,
+[22:31] and and like doing that, right? If you
+[22:33] give them a framework for degeneracy,
+[22:35] it's very easy for them to get swayed in
+[22:37] there. And and this is, you know, the
+[22:38] the the essence of my prior sort of talk
+[22:41] about like the the masses don't matter.
+[22:44] It's not that I'm hating on the masses
+[22:46] or I think they're evil or anything like
+[22:47] that. They're just easily swayed. You
+[22:49] give them whatever framework and they
+[22:50] will adapt to the framework. Right?
+[22:52] There is a small uh virtuous elite for
+[22:56] example who can despite the framework,
+[22:59] despite the nurture you give them, they
+[23:00] have the nature to break through that.
+[23:02] So if you put a a a poor framework
+[23:06] around them which is the fiat framework
+[23:07] we're living in a couple of us will
+[23:10] reject that framework and we'll live in
+[23:12] accordance to what we find as our you
+[23:14] know as our own virtue virtuous compass
+[23:16] moral compass that the standard normie
+[23:18] will not but if we can usher in a new
+[23:22] framework and this is why in the book I
+[23:23] kind of call bitcoin a framework for
+[23:26] excellence that's that's in in my mind
+[23:28] like you want to build a strong culture
+[23:30] a strong family a strong civilization
+[23:32] whatever It needs to be the north star
+[23:34] needs to be excellence. The north star
+[23:35] cannot be equality. Cannot be the
+[23:38] average man. Cannot be um uh like uh
+[23:43] every man for himself or you know uh
+[23:46] redistribution of wealth or any of that
+[23:47] sort of stuff. It must be excellence.
+[23:49] That's the north star. That doesn't mean
+[23:51] everybody can be excellent but it
+[23:53] provides a framework in which those who
+[23:56] can excel will excel and even those who
+[23:58] cannot can find their way up the
+[24:01] mountain. You know the the etmology of
+[24:03] the word excellence means to climb a
+[24:05] mountain. So coming back to your earlier
+[24:08] point yes as Bitcoin matures um the you
+[24:11] know the capacity to degen uh will
+[24:14] change at least directly for Bitcoin. I
+[24:16] think people will find other ways to be
+[24:18] degenerates. But um ultimately I think
+[24:20] most people have the good ingredients.
+[24:22] Most people with the right nurture have
+[24:26] enough of a nature to be you know
+[24:30] virtuous people and that's what we want
+[24:31] to create. We want to create more of
+[24:33] that and beyond just Bitcoin. We need uh
+[24:37] in in my opinion, this is the thesis of
+[24:38] the book is we need a playbook or we
+[24:41] need a code that people can uh align
+[24:45] around and I mean more than
+[24:49] just I'm I'm going to go off on a little
+[24:51] bit of a tangent which is related to the
+[24:52] book here but there's towards the end of
+[24:55] the book I talk about why I chose the
+[24:57] word code of virtue because when I first
+[24:58] started writing the book I called it a
+[25:00] moral code and I got rid of the word
+[25:01] morality from the whole book. went and
+[25:03] control F and deleted all that because I
+[25:05] think if you want morality, you should
+[25:07] go, you know, read the Bible or
+[25:08] something like that or read the Quran or
+[25:10] whatever your belief uh system is.
+[25:13] Virtue is different to morality. And in
+[25:15] fact, I believe virtue is upstream of
+[25:17] morality. Jimmy Jimmy Song and I had a a
+[25:19] debate about this. And for me, a virtue
+[25:21] is an act. It's almost like a a
+[25:24] combination of principle and behavior.
+[25:27] If you could kind of like unite those
+[25:28] two concepts of a principle in behavior,
+[25:30] like conceptually think about a virtue
+[25:31] as those two things, a virtue is
+[25:34] something you can't lie about. Like I
+[25:35] can sit here and moralize to you and
+[25:37] say, you know, if you don't believe in
+[25:38] Jesus or this or that or Muhammad, um
+[25:40] you're evil, right? But I I can't tell
+[25:44] you, for example, you should be a vegan
+[25:47] if I'm a big fat slob, right? Or if I'm
+[25:49] weak or something like that. Like a
+[25:50] virtue is almost like an action. So you
+[25:52] can tell people who have the uh the
+[25:55] virtue for example of uh discipline or
+[25:58] the virtue of uh responsibility
+[26:00] excellence around their physical body.
+[26:02] You can't lie about that. And for me a
+[26:05] virtue like things like courage,
+[26:07] right? Doesn't matter if you're Chinese,
+[26:11] Hindu, Muslim, Christian, atheist,
+[26:14] whatever, doesn't matter. We all
+[26:17] recognize courage. So a virtue is
+[26:18] something that transcends beliefs. So
+[26:20] for me when I wrote the book I was
+[26:22] thinking in this kind of thing. It's
+[26:23] like how do we establish a code that
+[26:27] isn't about religion belief all this
+[26:29] sort of stuff. You can do what you want
+[26:30] but you and I can be of different creeds
+[26:32] different beliefs but we can align
+[26:34] around okay this virtue is good. To be
+[26:36] responsible leads us in the right
+[26:38] direction. To be courageous leads us in
+[26:40] the right direction. to be uh uh
+[26:43] dutiful, to be loyal, to be uh like
+[26:47] self-controlled, self-restraint. That's
+[26:49] the 10th virtue. To be compassionate.
+[26:51] This constellation of virtues will lead
+[26:54] us in the right direction. That's kind
+[26:56] of the
+[26:57] um the premise there. I know I went on a
+[26:59] tangent. Yeah. Yeah. Yeah. No, that's
+[27:01] good. But um I just wanted to say you
+[27:03] were mentioning earlier that
+[27:05] um the example of well if the masses
+[27:09] would just go along with whatever
+[27:10] framework and I think this is this is
+[27:12] very true and very astute because and
+[27:14] and it doesn't necessarily have to carry
+[27:15] this kind of elitist condescending
+[27:18] connotation to it because I think
+[27:21] compare it to the example to the
+[27:23] question of obesity. So among the
+[27:26] dumbest ideas in modern nutrition
+[27:28] science and modern medical science,
+[27:30] there are a lot of very dumb ideas. One
+[27:32] of the very dumb ones is that people are
+[27:34] fat because of genetics. And it's so
+[27:37] dumb because you look at pictures of the
+[27:41] same city 100 years ago, these same
+[27:43] people's grandparents 100 years ago,
+[27:46] there wasn't a single fat person in a
+[27:48] picture. So you look at pictures of New
+[27:49] York in
+[27:50] 1925. There would have been maybe one
+[27:53] out of a thousand who's fat. I mean that
+[27:55] there was a photo somebody showed of
+[27:58] somebody who would who was a circus act
+[28:00] the a fat guy who go to the circus and
+[28:03] people would look at him because he was
+[28:04] so fat. And he's you know if you saw him
+[28:08] in America today he wouldn't think of
+[28:09] himself as fat. he'd call himself big
+[28:11] boned and tell you that it's not about
+[28:13] his food, that it's about uh something
+[28:16] glandular or hormonal or genetic or
+[28:18] something like that. He's kind, you
+[28:20] know, above average, not average in
+[28:23] America, but fairly common. There's
+[28:25] probably 20 30% of the American
+[28:28] population that is
+[28:29] more obese than he is. So, this used to
+[28:34] be the extreme outlier. This used to be
+[28:36] the circus act. This used to be um from
+[28:40] the genetic profile. This was the fat
+[28:43] genes at their extreme allowed for one
+[28:46] out of maybe a thousand people to be
+[28:48] this uh obese. Well, today it allows for
+[28:51] 30% of the population to be or 20%
+[28:54] maybe. So clearly, you know, we haven't
+[28:57] had a world in which we've uh
+[28:59] eugenically or disgenically if you
+[29:01] want bred the fat people excessively
+[29:04] over the last 100 years and uh neutered
+[29:07] all the fit people in order to arrive at
+[29:08] a world in which the genes have switched
+[29:10] so much. We we haven't had fat breeding
+[29:13] programs to make sure that the genetics
+[29:15] have changed so much. That's the only
+[29:17] way you could explain that and we
+[29:18] haven't had that. So on the contrary,
+[29:20] you would expect that it would be the
+[29:21] other way around. um obese people are
+[29:23] less likely to live long and less likely
+[29:25] to um uh have a lot of children, less
+[29:28] likely to attract uh mates perhaps. So
+[29:32] if anything, the fat genes should be
+[29:34] getting weeded out or getting less
+[29:36] common in society. And yet we've seen
+[29:39] obesity go from maybe 1% to 30, 40, 50,
+[29:43] 60%, depends on how you define it, but
+[29:45] it's gone up so much. And the answer of
+[29:47] course is not genetic. The answer is the
+[29:48] food environment. The answer is because
+[29:51] 100 years ago, people ate a lot more
+[29:54] normal natural food, a lot less heavily
+[29:57] processed food. They ate a lot less of
+[29:59] the um particularly I think the most
+[30:02] important ones is the grains and the
+[30:05] processed grains, flour, things like
+[30:07] that. So, we've switched the food
+[30:09] environment from being predominantly
+[30:11] meat-based, which was the case at the
+[30:13] early 20th century. either you ate meat
+[30:15] if you had money and if you were really
+[30:17] poor you ate basically uh plants that
+[30:20] were relatively
+[30:22] fresh not a lot of heavily processed
+[30:24] food so with that you see the the
+[30:27] population shifts to becoming a lot more
+[30:29] obese today because of this food and u
+[30:33] the idea that it is genetic I don't
+[30:35] think it makes any sense um and I think
+[30:38] the same thing applies when you look at
+[30:40] issues of virtue
+[30:42] um if you I think and I would tend to
+[30:45] agree that today there's a lot less
+[30:46] virtue in the world than probably in the
+[30:48] past. I don't think this is just
+[30:50] sentimentalism and I don't think it's
+[30:52] just because I'm getting older. I think
+[30:54] um by many objective measures you look
+[30:58] around you see a lot of places where um
+[31:00] you know you hear stories where 100
+[31:02] years ago it was common for people to
+[31:04] leave their doors open and now things
+[31:06] are becoming very different. There's a
+[31:08] lot more crime, a lot less social
+[31:09] cohesion. So these things are happening
+[31:13] but I don't think it's um you know it's
+[31:16] it's uh it can be explained with
+[31:19] genetics or anything like that. I think
+[31:20] it's the same population. So put them
+[31:23] under a gold standard 150 years ago you
+[31:26] were less likely to witness these kind
+[31:28] of things. You had more social cohesion.
+[31:30] You had people who
+[31:32] [Music]
+[31:33] um for whom virtue mattered. And with
+[31:37] time as you switch to a world in
+[31:39] which as I like to explain it you know
+[31:42] in my um in in the Bitcoin stand and the
+[31:44] fiat stand I focus on the aspect of
+[31:45] money and time preference as the money
+[31:47] declines people's ability to provide for
+[31:49] the future declines and so the future
+[31:51] becomes less certain. So people start
+[31:53] discounting the future more and caring
+[31:55] less about the future and all that leads
+[31:57] to them becoming more uh present
+[32:00] oriented which means behaving in a way
+[32:03] that satisfies present immediate needs
+[32:06] and provides gratification in the
+[32:08] present at the expense of the future.
+[32:10] The Bitcoin Standard podcast is brought
+[32:11] to you by Coite. Coin Kite are my
+[32:14] favorite makers of Bitcoin hardware.
+[32:16] They produced the legendary open dime,
+[32:18] the first Bitcoin bearer asset, as well
+[32:20] as the reliable cold card hardware
+[32:22] wallet, the excellent stainless steel
+[32:24] seed plates for storing your seed
+[32:25] phrases, and the block clock. Now, Coin
+[32:28] Kite have produced the SATS card, a card
+[32:31] the size of a credit card, which can
+[32:33] store Bitcoin and works great as a gift.
+[32:35] Coin Kite have just produced a limited
+[32:37] edition gorgeous Bitcoin standard SATS
+[32:40] card, which carries the Bitcoin Standard
+[32:42] logo, and you can get it from
+[32:43] cokite.shop/bitcoin
+[32:45] shop/bitcoinstandard. Use the code
+[32:47] Bitcoin Standard to get 5% off your
+[32:49] purchase. This podcast is also brought
+[32:51] to you by the Bitcoin Way, your
+[32:53] professional Bitcoin IT team, offering
+[32:55] you personalized, secure, and
+[32:57] comprehensive solutions for every step
+[32:59] along your Bitcoin journey. The Bitcoin
+[33:02] way offer live concierge service to
+[33:04] guide you with your Bitcoin cold
+[33:05] storage, running your node, privacy,
+[33:08] best practices, inheritance planning,
+[33:10] corporate strategy, and multisig
+[33:12] solutions. They don't touch your coins.
+[33:15] They guide you through the process of
+[33:16] acquiring your coins and securing them.
+[33:18] If you'd like to make your setup safer
+[33:20] and more reliable. Book a consult with
+[33:23] them and see what they have to suggest.
+[33:25] If you want to give someone the gift of
+[33:26] Bitcoin, get them this professional
+[33:28] service that will ensure they start off
+[33:30] knowing exactly how to manage their
+[33:32] coins and not lose them. Go to the
+[33:35] bitcoinway.com and start bitcoining more
+[33:38] confidently. Correct. I mean, this is
+[33:41] this is undeniable. And I think this is
+[33:42] the big aha moment that a lot of
+[33:44] Bitcoiners have, which is what I mean,
+[33:45] that's the genesis of the uh argument
+[33:48] Bitcoin fixes this, right? Like, if you
+[33:49] had to boil down the entire argument of
+[33:51] why Bitcoin fixes anything, it's to do
+[33:53] with time preference. And you you wrote
+[33:55] about that specifically in um in the
+[33:57] Bitcoin times edition 5 that we that we
+[33:59] did. And you know, you've wrote about it
+[34:01] 10 times in your books. I I take that as
+[34:04] a given in the book. I say, "Okay, look,
+[34:05] that is definitely important." What I
+[34:08] then talk about is how do we uh choose
+[34:11] to behave? So like a couple of the
+[34:12] things in there I talk about you know
+[34:14] the difference uh between you know what
+[34:16] what is the opposite of excellence for
+[34:18] example well it's not bad it's
+[34:20] mediocrity and average right so in a
+[34:23] society that uh holds up mediocrity as
+[34:26] as the thing that you should aspire
+[34:27] towards you know don't be surprised that
+[34:29] you move away from excellence and you no
+[34:32] longer climb the mountain right I talk
+[34:33] about how uh you don't want equality
+[34:37] what you actually want is fairness and
+[34:40] they're actually very different
+[34:41] concepts, right? Like uh equality is
+[34:44] unfair often. Like if you if we use the
+[34:46] football analogy that you were talking
+[34:47] about before, like if we just wanted
+[34:49] every game to have a nice equal outcome,
+[34:51] you know, like you have to take away the
+[34:54] goals from the better team and you have
+[34:55] to give the goals to the worst team,
+[34:56] right? Like it doesn't make any sense.
+[34:58] But people sitting out there, you know,
+[34:59] talking about equality, equality,
+[35:00] equality. You know, I've got another
+[35:02] point here about, you know, we all know
+[35:05] and I think it's doesn't take a lot of
+[35:07] IQ to realize that equality of outcome,
+[35:09] for example, is extremely evil. But in
+[35:12] the book, I also talk about how equality
+[35:14] of opportunity is also quite ridiculous.
+[35:17] Like you you can't have equality of
+[35:20] opportunity unless you could somehow,
+[35:23] you know, predistribute all of the
+[35:25] resources in the world equally
+[35:27] everywhere somehow. If you gave
+[35:29] everybody the same genetics, if you gave
+[35:31] everybody the same parents, the same
+[35:32] upbringing, like basically you'd have to
+[35:34] nuke the world. The big one looks
+[35:36] exactly all of it. Like so so equality
+[35:38] of opportunity is also a stupidity. Like
+[35:40] so, you know, I I try and touch on all
+[35:42] of these things that are necessary
+[35:44] around like and I and I frame Bitcoin as
+[35:47] the keystone. Like if you want to build
+[35:49] a bridge, you need the keystone. And
+[35:52] without the keystone, the bridge
+[35:53] collapses. But the keystone itself is
+[35:56] not enough without the rest of the
+[35:58] stones uh around it. And to me the rest
+[36:01] of the stones uh are what are these
+[36:04] virtues, right? You you need to
+[36:06] cultivate responsibility in young men
+[36:10] particularly. Um, you need to cultivate
+[36:12] excellence. You need to cultivate duty.
+[36:14] You need to cultivate self-restraint.
+[36:15] You need to cultivate compassion as
+[36:16] well. You need to c like there's a
+[36:18] there's a section in there which
+[36:19] discusses how justice is fundamentally a
+[36:24] virtue and it's extremely important. But
+[36:26] justice untempered by compassion can
+[36:30] become extremely rigid. Right? So, so
+[36:33] you need this sort of constellation of
+[36:35] uh virtues which have a tension among
+[36:37] them.
+[36:39] Um, there's a there's another point in
+[36:42] here. Okay, an interesting one. This
+[36:44] will piss off a bunch of Bitcoiners. I
+[36:45] talk about how freedom is not a virtue.
+[36:49] Freedom is a value. It's it's something
+[36:51] that you want to experience, but it
+[36:54] comes specifically from the virtue of
+[36:57] responsibility. So, if I want to take
+[37:00] away your freedoms, I don't do it
+[37:02] overtly. This is what the communists and
+[37:04] all the idiots they they did wrong and
+[37:06] they figured it out later how to do it
+[37:07] better. Is if I overtly take away your
+[37:10] freedom, you're going to push back
+[37:12] because it you you impact the feeling
+[37:14] directly. But if I slowly slowly by
+[37:16] slowly erode your
+[37:19] responsibility, you give away your
+[37:22] freedom, right? You become more of a
+[37:24] dependent instead of more of an
+[37:26] autonomous agent. So I don't know if you
+[37:28] want to pull on any of those threads,
+[37:30] but this is essentially like your point
+[37:33] about lowering the time preference that
+[37:35] establishes an environment. You know, if
+[37:37] we look at the gold standard as proof
+[37:38] and if we think forward, if we project
+[37:40] forward a 100 years, you know, the the
+[37:43] environment on a Bitcoin standard should
+[37:46] nurture the masses and even the elites
+[37:49] uh into a um into a way of being that is
+[37:54] more virtuous, granted, but what should
+[37:58] those virtues be and how do we start
+[37:59] cultivating them today? Um which is like
+[38:02] this is where the two ideas come
+[38:03] together. Yeah. Yeah, I want to I want
+[38:06] to I want to get into the virtues in a
+[38:08] minute, but I wanted to comment on the
+[38:10] whole freedom thing. I think I uh I I
+[38:12] agree with you and I think I've um I've
+[38:16] as I've matured more, I've become even
+[38:19] though I still consider myself a
+[38:20] libertarian, but I don't think
+[38:22] libertarianism means freedom. And I
+[38:24] think this is a very immature way of uh
+[38:27] thinking of it. I think that what you're
+[38:29] talking about is liberality,
+[38:31] libertinism. If your if your idea is
+[38:34] freedom, it's the idea that I get to do
+[38:36] what I want. And that's not what
+[38:38] libertarianism is. And the more that you
+[38:41] think about libertarianism critically,
+[38:42] the more you try and uh iron out the
+[38:45] inconsistencies in your worldview, the
+[38:48] more I believe you arrive at a
+[38:49] Rothbardian and Hoppian understanding of
+[38:52] what libertarianism is. And for that, I
+[38:54] think there's a great book called
+[38:55] Getting Libertarianism Right uh by
+[38:57] Hopper. And uh generally all of Papa's
+[39:02] work is pretty great on this. But I
+[39:03] think a key point here is that this
+[39:06] notion that you want to be free is kind
+[39:08] of meaningless. Things actually have
+[39:10] consequences. And you can't just declare
+[39:14] that you want to be free from
+[39:16] consequences. Um so if you want to uh
+[39:21] you want you for instance, you want the
+[39:23] freedom to smoke weed, great. So this
+[39:26] this one was, you know, 10 years ago, 15
+[39:28] years ago, this was one of the main
+[39:30] selling points for libertarians. A lot
+[39:32] of people became libertarians because
+[39:33] they wanted to smoke weed because this
+[39:35] truly is a travesty that people were
+[39:37] having their lives ruined because they
+[39:39] smoked a joint. The joint is relatively
+[39:40] harmless. And but getting caught with a
+[39:43] joint is not harmless. It can destroy
+[39:44] your life. And it truly is a travesty.
+[39:47] And I still think that, you know, the
+[39:48] war on drugs in the way that it is
+[39:49] fought was
+[39:51] extremely criminal, unjustified. But
+[39:55] this notion that um your worldview
+[39:58] revolves around people need to be free
+[40:01] to smoke weed is very immature because
+[40:04] that on its own doesn't really mean
+[40:07] anything. Um it's not about the freedom
+[40:10] of doing particular acts. The correct
+[40:13] framework for understanding this is the
+[40:15] freedom to own property and it's about
+[40:18] property rights. And if the issue is
+[40:22] about property rights, then you can
+[40:24] clearly see why just like you want to
+[40:27] smoke weed, somebody might want to not
+[40:30] live in an area where there are people
+[40:32] who smoke weed and there will be other
+[40:34] people who want to live in that area.
+[40:36] So, and you know, if you go to an
+[40:38] American city where they've legalized it
+[40:40] now, they're all liberal, lefty,
+[40:43] psychotic. Yeah. Yeah. And I think, you
+[40:46] know, it's it's a huge u it's a huge
+[40:48] wakeup call for a lot of us who thought,
+[40:50] "Wow, you know, this should be
+[40:51] legalized." And um it's it's a harmless
+[40:54] plant, but you go to a park and you want
+[40:57] your kids to play on the swings and
+[40:58] slides and there's a smell of weed
+[41:01] everywhere and there's people doing
+[41:02] fentinil and the drugs and needles
+[41:05] everywhere and you have to look around
+[41:06] on the floor because you don't want your
+[41:08] kids to step on some heroin needle or
+[41:10] something like that. M so um this kind
+[41:14] of um degeneration of uh the the public
+[41:18] space that has happened because of weed
+[41:21] has made me far more sympathetic to the
+[41:23] idea that people want to stay away from
+[41:25] weed or people may want to stay away
+[41:26] from alcohol or they want to live in
+[41:28] places where there these things don't
+[41:29] exist. And so this notion that you as a
+[41:32] libertarian support the right of people
+[41:33] to smoke weed is for me meaningless.
+[41:36] Because if you want the right to smoke
+[41:37] weed, what about my right to live in a
+[41:40] place where there are no weed smokers?
+[41:41] And I'm not saying we need to have a war
+[41:43] on drugs like the US did. I'm not saying
+[41:46] people should be thrown in jail for 20
+[41:47] years for smoking a joint. I'm saying
+[41:49] that the correct libertarian framework
+[41:52] is not pro-w weed or anti-weed. It's pro
+[41:56] property rights. It's pro people having
+[41:58] the right to enter into living
+[42:00] arrangements which allow them to live in
+[42:04] the kind of society that they want. So
+[42:06] if you want to smoke weed then go live
+[42:08] in a place where people smoke weed and
+[42:09] if I don't want to smoke weed then I can
+[42:11] live with people who don't want it. And
+[42:14] so you find communities emerge where
+[42:17] people have rules and you can see this
+[42:20] developing where you know this city uh
+[42:23] if you want to live in this city there's
+[42:25] a contract you need to sign and the
+[42:26] contract stipulates that you can't smoke
+[42:29] weed and you don't need and and you know
+[42:30] once it's contractual once it's
+[42:32] voluntarily agreed to then you don't
+[42:34] need a police state. You can just tell
+[42:36] people if you want to live in the city
+[42:38] you need to do a drug test once a month.
+[42:40] That's it. And so then or you know
+[42:44] random drug tests or whatever you
+[42:45] arrange a sort of framework where you
+[42:47] don't need to be going around and having
+[42:49] police shooting at uh uh 17 year olds in
+[42:53] order to stop them from selling weed to
+[42:55] each other. You just test people and
+[42:57] then there are clear contractual rules
+[43:00] that say what happens if you fail the
+[43:01] drug test. Well, if you fail the drug
+[43:03] test then you don't belong in this
+[43:05] neighborhood. then you have to sell your
+[43:07] house or you have to pay a fine or uh
+[43:10] some sort of arrangement is done. Now
+[43:11] you might think well why would anybody
+[43:13] want to get into something like this?
+[43:15] Why would you want to put yourself in
+[43:17] that uh position? And I think the answer
+[43:20] is go to San Francisco, go to Toronto
+[43:23] and see why you might want to do that.
+[43:25] The answer is uh people who willingly
+[43:28] would willingly accept these kind of
+[43:30] things because
+[43:32] they don't want to be around those
+[43:35] things. And then you think well okay but
+[43:38] maybe not enough people want to do that.
+[43:40] Maybe not enough people care. Well maybe
+[43:43] and I think the I I don't I I don't
+[43:46] advocate any particular solution for
+[43:48] this problem. I'm not talking about it
+[43:50] from the perspective of yeah, we need to
+[43:52] have societies that are um weed-free. I
+[43:56] think we'll have places where weed is
+[43:57] allowed, places where people don't want
+[43:59] weed. And then I think the reason why
+[44:02] people are going to want to go to the
+[44:03] places that don't have weed is because
+[44:05] these places are likely to be more
+[44:07] peaceful, um better for raising
+[44:09] children, more uh accommodating for
+[44:13] capital accumulation and civilization in
+[44:14] general. And so it's I think you know
+[44:18] and Hopper is is is pretty brutal in
+[44:21] this criticism what he calls the la
+[44:23] libertarians which is that he says look
+[44:26] if you want the you know you should have
+[44:28] the right to do whatever you want with
+[44:31] your own property.
+[44:34] However history has a lot of lessons for
+[44:37] us and it shows us how societies
+[44:39] function. So we have not developed
+[44:42] civilizations in societies that have
+[44:45] been completely permissive to all kinds
+[44:47] of um behavior. There's a reason that
+[44:50] societies that have developed
+[44:52] civilization, that have been able to
+[44:53] develop a concept of property rights,
+[44:55] that have been able to develop peaceful
+[44:57] coexistence, have some forms of common
+[45:00] norms that they've adopted that have
+[45:03] allowed for this. And so one of these
+[45:07] is some form of social ostracism or
+[45:11] restrictions against drugs, which you
+[45:13] know doesn't necessarily mean that
+[45:14] everybody's been sober at all times, but
+[45:17] I think the it it does mean that there
+[45:20] is a social stigma around it. So that
+[45:25] even the people who do it do it
+[45:26] underground and don't do it openly. And
+[45:29] I think this is a pretty common thing. I
+[45:32] don't think you'll find many societies
+[45:34] where people engaged in a lot of um drug
+[45:37] use that ended up developing high
+[45:40] civilization. I think another major one
+[45:42] is family and so you can expect to see
+[45:46] that whereas you know in the last couple
+[45:49] of decades because of I believe you know
+[45:52] the the in invention of the pill and
+[45:54] contraception as well as the development
+[45:57] of much lower time preference behavior.
+[46:00] All of these things have led to a lot
+[46:02] more sexual liberation. And I think
+[46:04] people think of this as being
+[46:06] advancement. I think most people,
+[46:07] particularly young people, when they're,
+[46:09] you know, overcome with hormones. Uh
+[46:11] before you, uh before you start having
+[46:14] kids, you know, you you think of this as
+[46:16] being the a lot of people think of this
+[46:17] as being the, you know, the the pinnacle
+[46:19] of human liberty and human uh
+[46:22] achievement is to be able to be
+[46:24] liberated sexually.
+[46:27] But the point is if you want
+[46:30] civilization you have to give up on
+[46:32] that. That this is a very very very
+[46:34] powerful lesson of history. There's a
+[46:36] great book written in the 1930s by um by
+[46:40] British sociologist called JD Unwin and
+[46:42] it's called Sex and Culture and he
+[46:44] examines how civilizations
+[46:47] only emerge in places that have very
+[46:50] strict restrictions on uh sexuality. In
+[46:53] particular, he finds that high
+[46:55] civilization is only developed in purely
+[46:58] monogous societies. And there's a reason
+[47:01] for that. And so when people think that
+[47:03] they can have the fruits of civilization
+[47:06] without needing to planting the seeds,
+[47:09] without needing to plant the seeds for
+[47:11] it, then you're in end times territory.
+[47:16] You're in the generation that is
+[47:18] basically cutting down the trees that
+[47:20] their uh ancestors built and leaving no
+[47:24] trees behind for their children.
+[47:26] Essentially, the boomer generation is is
+[47:30] the advertisement for this because, you
+[47:33] know, in the 60s and 70s this stuff
+[47:35] seemed harmless. Well, now we've got the
+[47:38] pill and we have female liberation and
+[47:41] we can just do whatever we want. We have
+[47:43] modern technology. We are advanced. we
+[47:45] don't need to live in the old tribal
+[47:48] traditional forms of society. We don't
+[47:50] need religion. We don't need God. And so
+[47:52] we can just continue to do whatever we
+[47:54] want. And it sounded like a good idea
+[47:56] for most people in the 1960s and '7s
+[47:58] because it didn't sound what like what
+[48:00] could go wrong. You know, everybody just
+[48:02] uh is sexually liberated and everything.
+[48:04] Combine that idea and then oneshot them
+[48:06] all with LSD and then you get basically
+[48:09] what happened. This is it was it was
+[48:11] very well executed. Um well I mean I
+[48:15] mean sorry but I'm I'm not even sure
+[48:16] that you could say that there was some
+[48:18] kind of nefarious agenda here because
+[48:20] this is what happened with civilizations
+[48:23] with civilizations all over time in that
+[48:25] yeah it starts off fun in the 60s and
+[48:27] 70s this was fun but totally the the
+[48:30] children that came from this then had
+[48:32] the children that came from this that
+[48:34] then today lead us to the mess that you
+[48:38] see and I think you know a lot of the uh
+[48:40] you know a lot of people like to uh talk
+[48:43] about the insanities of modern gender uh
+[48:47] and sexuality and all of this craziness
+[48:49] that is uh you know um as as we speak
+[48:53] Trump is likely going to reverse a lot
+[48:55] of that at least nominally from a
+[48:58] government position. But I think this
+[49:01] stuff is not just some kind of
+[49:04] um
+[49:06] outlier where a few people have been
+[49:09] pushing this agenda on society. I think
+[49:11] this has been a long time coming. This
+[49:13] is the inevitable consequence of that.
+[49:15] So when you you know these these are the
+[49:17] grandkids of the generations of the 60s
+[49:20] and 70s who thought what's the worst
+[49:22] that can happen? What's the worst that
+[49:23] can happen is that your kid is going to
+[49:25] have drag queen story. He's going to
+[49:27] chop off his dick basically. Yeah. He's
+[49:29] going to have his dick chopped off at
+[49:30] seven years old because he once played
+[49:32] with a Barbie and that that's you know
+[49:35] and and and that's just what we know
+[49:37] now. You know who knows what's going to
+[49:38] be the case for 10 20 years from now. So
+[49:41] this kind of thing will lead to people
+[49:43] recognizing this. You'll realize that
+[49:44] places where they don't do this um
+[49:47] insane nonsense end up having
+[49:49] functioning societies end up having
+[49:51] functioning sewage, electricity and
+[49:53] buildings. And you'll realize that if
+[49:55] you want those things, you need to abide
+[49:57] by the rules of civilization. I think if
+[49:59] we have freedom, if we have more freedom
+[50:01] and less government intervention, we'll
+[50:02] be able to arrive at the forms of social
+[50:05] organizations that are best optimized
+[50:08] for society to
+[50:10] thrive. But it I don't believe it means
+[50:13] the what terms the Laala libertarian
+[50:16] viewpoint of just everybody indulge all
+[50:19] of your desires at all times and never
+[50:22] restrict yourself or delay
+[50:23] gratification. That's not how
+[50:25] civilization works. Healthcare is one of
+[50:27] the biggest problems in fiat world and
+[50:28] health insurance in particular. In my
+[50:30] work and on this podcast, we've
+[50:32] discussed at length the many ways in
+[50:34] which modern medicine and insurance
+[50:36] fail. And I'm very proud to be
+[50:38] presenting my listeners with an
+[50:39] excellent Bitcoin-based alternative.
+[50:42] Crowd Health is a crowdfunding model for
+[50:44] health problems and one that can save
+[50:46] you enormously compared to the broken
+[50:49] insurance model. I've hosted the founder
+[50:51] Andy Skoon over twice to discuss crowd
+[50:53] health and everyone I've recommended to
+[50:55] join them has been very satisfied. For
+[50:58] $175 for an individual or
+[51:01] $575 for a family of four or more,
+[51:04] you'll get access to a community of
+[51:05] people who are willing to help out in
+[51:07] the event of an emergency. Let Crowd
+[51:09] Health help you with your health care
+[51:11] needs. Get started today for just $99
+[51:14] per month for your first three months by
+[51:16] using code safe sif at
+[51:20] joincrowthealth.com. Crowdalth is not
+[51:23] insurance. Learn more at
+[51:26] joincrowalth.com and use the code safe s
+[51:29] a f. I couldn't agree more. I mean the
+[51:33] 10th virtue in the book is restraint and
+[51:35] selfrestraint is the capacity to limit
+[51:38] your own freedoms. But I I want to pull
+[51:39] on a couple threads. So, a bunch of what
+[51:41] you talked about reminds me of the
+[51:43] saying just because you can doesn't mean
+[51:45] you should. And I think that should be
+[51:48] like stamped or branded on a bunch of
+[51:51] libertarians minds. It's like just
+[51:52] because you can, you know, go and take
+[51:54] drugs and do whatever you want doesn't
+[51:55] mean you actually should. There there
+[51:57] are standards which to me this is a
+[52:00] standards are an interesting word
+[52:02] because in in many ways they're somewhat
+[52:04] antithetical to liberty or maybe
+[52:06] antithetical is not the right word but
+[52:07] it's it's it's a tricky situation when
+[52:09] you want a
+[52:10] standard but you also want the freedom
+[52:13] to you know often uh ignore that
+[52:16] standard right a standard is in many
+[52:18] ways either a limitation or a bar or a
+[52:21] restriction of some sort right it's a
+[52:22] bounding box so it's like what you're
+[52:25] describing about societies uh that may
+[52:28] not for example tolerate all right we're
+[52:30] not going to tolerate weed or junkies or
+[52:32] this or that or whatever that is a
+[52:34] standard and the
+[52:37] tradeoff for a standard is a limitation
+[52:40] or an imposition on a freedom right like
+[52:42] you you can't just have it all and this
+[52:44] is for for me as well the the older I
+[52:46] get the more mature I get is like you
+[52:48] realize you can't have it all there are
+[52:50] trade-offs and I want to I want to read
+[52:52] a um a passage here from the book which
+[52:55] kind talks to a lot of what we've been
+[52:57] talking about. So the quote is it's not
+[53:01] freedom that you actually want. What you
+[53:03] actually want is agency and autonomy.
+[53:06] Freedom is a nebulous term like
+[53:09] spirituality which devoid of a clearly
+[53:11] divide uh clearly defined frame doesn't
+[53:14] mean anything. At that point we are
+[53:17] talking specifically about autonomy. The
+[53:19] capacity to choose from a set of
+[53:20] available options. Absolute freedom is
+[53:22] absolute chaos which doesn't really
+[53:24] exist or if it does is unstable or
+[53:27] unsuitable for life. Freedom maximalism
+[53:29] quickly falls apart with one question.
+[53:31] Where does your freedom end considering
+[53:34] it may be in conflict with my freedom?
+[53:36] This conundrum proves that freedom is
+[53:38] only meaningful if it exists within a
+[53:40] framework of duties, responsibilities
+[53:42] and boundaries which is really the
+[53:44] definition of autonomy. And if you
+[53:46] really want to enhance your freedom, you
+[53:48] need to increase your responsibility and
+[53:50] the boundary of your domain which
+[53:53] requires power. You are not entitled to
+[53:55] freedom. You can only earn it. When
+[53:57] someone tries to unjustly take what you
+[53:59] have earned, you must fight to protect
+[54:01] it. And you cannot do that without
+[54:02] taking responsibility or having property
+[54:05] which requires power. So consider the
+[54:07] military dictim. That rank hath its
+[54:09] privileges. privileges can be understood
+[54:11] as liberties or freedoms and that they
+[54:14] come along with rank is not accidental
+[54:16] because the privilege of rank implies
+[54:18] the burden of responsibility. So this is
+[54:20] kind of comes from the the freedom and
+[54:22] responsibility chapter which is it it
+[54:24] ties into many ways what you just
+[54:26] mentioned before. It's these things come
+[54:29] down to property and in fact I would
+[54:31] argue that property is that which you
+[54:34] have the capacity to protect or that
+[54:37] which you are responsible for right it
+[54:39] is your
+[54:40] domain you know like so so there's um I
+[54:43] know there's a bunch there if uh if
+[54:45] you'd like to pull on those threads but
+[54:46] this leads me to a discussion that I
+[54:48] wanted to have with you which is why
+[54:50] inevitably with all of these sorts of
+[54:52] things going on I think the more you
+[54:54] mature the more you come to the
+[54:55] realization and that the ultimate
+[54:58] uh means or mechanism for territorial
+[55:01] organization boils down to monarchies. I
+[55:04] I think they are where things end up
+[55:07] because you like as soon as you go into
+[55:10] you know one man one vote de democracy
+[55:12] and all this sort of stuff you start to
+[55:13] muddle the waters like all of these
+[55:15] problems around standards get way
+[55:18] trickier to um to contend with in that
+[55:22] kind of a framework whereas in a you
+[55:24] know a monarchic framework or in the
+[55:26] book I call it kind of executive states.
+[55:28] I kind of paint a picture of the future
+[55:30] where we have almost like CEO kings um
+[55:33] operating territories and you know these
+[55:35] territories are run more like some blend
+[55:37] of a company and a monarchy right and
+[55:39] you have a contractual relationship with
+[55:41] the territorial operator but yeah these
+[55:45] the the the freedom liberty
+[55:47] responsibility like that cluster of
+[55:50] things there um you know with standards
+[55:52] and everything else in there is um is
+[55:54] tricky and as you said like the the
+[55:57] young naive uh immature
+[56:00] conceptualization of freedom or lobert
+[56:04] libertarians, right, which I call them
+[56:06] LA libertarians, like they haven't
+[56:07] thought these things through. And as you
+[56:09] said, often they're people who either
+[56:12] don't have kids or they're young or
+[56:14] they're, you know, full of, you know,
+[56:16] testosterone or whatever and they just
+[56:18] want to do whatever they want, right?
+[56:19] they they haven't thought a little bit
+[56:20] deeper about what are the consequences
+[56:23] for these decisions that I make as an
+[56:25] individual for the community, tribe or
+[56:29] territory that I live within. Um, and
+[56:31] those things are much harder to contend
+[56:33] with. Yeah, I think you know what you
+[56:36] said is what you're looking for is
+[56:38] autonomy and agency. And I think this is
+[56:41] very much in the Hoppian um mold, but
+[56:45] the the kind of economist way of
+[56:47] describing this in a more economically
+[56:50] precise language is property. It's how
+[56:54] you know you said the question is how do
+[56:56] you conf what happens when your freedom
+[56:58] conflicts with mine? And the answer is
+[57:01] property rights. You can do whatever you
+[57:02] want on your land. I can do whatever I
+[57:04] want on my land and or whatever we
+[57:08] agreed to be doing. So if you have
+[57:10] clearly defined property rights, then
+[57:12] freedom becomes the the consequence of
+[57:15] that. And it's the freedom to be able to
+[57:18] reap the rewards of what you
+[57:20] um what you plant. Basically, it's not
+[57:24] so much about being able to do
+[57:25] everything. It's about being able
+[57:27] to experience the consequences, good or
+[57:30] bad. That's really what freedom is. So,
+[57:32] a lot of people think, you know,
+[57:34] libertarianism means people will get
+[57:36] away with murder because there's no
+[57:38] government. No. I think in a world in
+[57:40] which we have real libertarianism in
+[57:42] terms of property rights, then you it'll
+[57:46] it'll be a lot harder for people to get
+[57:47] away with murder than they can with
+[57:49] government. Cuz ultimately what
+[57:50] government does is that it uh you know,
+[57:52] it pretends to be out there to protect
+[57:54] people, but it really establishes a
+[57:56] monopoly on violence. And so therefore,
+[57:57] it creates a category of violence that
+[57:59] is legitimate. And so it creates a class
+[58:01] of society that is allowed to engage in
+[58:04] violence and therefore this class of
+[58:07] society has a uh different set of rules
+[58:11] by which they play and I think this is
+[58:13] truly corrupting of society in a sense
+[58:15] because once you see that there's this
+[58:18] growing always growing of obviously
+[58:20] because people want to be part of this
+[58:21] group uh this growing group of people
+[58:25] who have the ability to commit crimes
+[58:26] that you are unable to commit then the
+[58:29] entire notion of wanting to take part in
+[58:32] society and take part in civilized
+[58:34] society, I think uh begins to fall
+[58:37] apart. Um it's
+[58:40] it's
+[58:42] it's I think really one of the nefarious
+[58:47] things that government does is that it
+[58:49] introduces this idea that it's
+[58:51] legitimate to have violence and
+[58:53] therefore people start thinking of it in
+[58:55] terms of how do I make it so that I'm
+[58:57] the one who can have legitimate
+[58:59] violence rather than just accepting that
+[59:02] nobody should have legitimate violence
+[59:03] and so therefore I should go and do
+[59:05] something productive with my time. But
+[59:06] if we have property rights then um you
+[59:08] know if property rights override
+[59:10] government then you have peace and
+[59:12] prosperity and civilization. But if you
+[59:13] have government overriding property
+[59:15] rights it's going to override them all
+[59:17] the time and it's going to abuse that
+[59:18] privilege all the time. So here's a
+[59:21] question for you. How do we and and this
+[59:23] is something I contend with in in the
+[59:24] book a little bit but I I intend to in
+[59:26] the next couple of years write something
+[59:28] uh more dedicated to it. But how does
+[59:31] one create a framework in which property
+[59:35] rights uh can be protected and enforced
+[59:40] because it you know the the things get
+[59:43] tricky for example like let's say the
+[59:45] you know there's this whole mass
+[59:46] immigration discussion now right is like
+[59:48] you bring people from external cultures
+[59:50] into your culture and your culture might
+[59:53] respect private property rights and have
+[59:54] this sort of implicit ability to agree
+[59:56] on things but then you start to import a
+[59:58] bunch of people who that notion of
+[60:00] property rights is completely foreign to
+[60:02] them. They they've never grown up with
+[60:03] it. It's never been in their culture,
+[60:04] never been in their DNA. It's outside to
+[60:06] them. So then they don't uh live by
+[60:09] those property rights and then obviously
+[60:10] they get a vote and all this sort of
+[60:12] happens and all of a sudden you know the
+[60:13] the concept of property rights start to
+[60:15] fall apart. So how does one uh in your
+[60:18] in your mind operate a territory in such
+[60:21] a way that property rights are uh
+[60:24] respected? you know, does the territory
+[60:26] operator have a monopoly on the
+[60:30] violence? Like, you know, is this is
+[60:32] sort of what where I end up coming back
+[60:33] to the monarch, right? Or or uh, you
+[60:36] know, a CEO king. So, talk talk me
+[60:38] through your thinking there. Yeah. Yeah.
+[60:40] No, that's a that's another one of these
+[60:41] great ideas that um I think grown-up
+[60:44] libertarianism, as I like to call it,
+[60:46] the hapa branch of libertarianism, has a
+[60:49] coherent answer for that. The LA
+[60:51] libertarians don't because the I think
+[60:54] the uh LA libertarian position of you
+[60:57] know governments are illegitimate,
+[60:58] states are illegitimate and therefore
+[61:00] borders don't matter and therefore
+[61:02] people get to move around. I don't think
+[61:04] that is coherent. And I think uh hapa
+[61:07] makes a good case for saying look even
+[61:10] if you don't support the government say
+[61:12] you don't support the idea of public
+[61:14] libraries so you don't like the idea of
+[61:16] government taxing people in order to
+[61:18] build public libraries which I believe
+[61:20] is a fair position. I think in a free
+[61:22] society people would build libraries
+[61:23] voluntarily without having to be um
+[61:26] extorted to build the library. Yes they
+[61:28] did. Yeah. And they did. But so if you
+[61:31] have a public library today in a city
+[61:33] and you don't believe in public
+[61:35] libraries, that doesn't necessarily mean
+[61:37] that you support the right of random
+[61:39] hobos to get into the library and squat
+[61:43] it and call it theirs. So it's not
+[61:45] unowned property that somebody can come
+[61:47] in and squat in and you know random
+[61:50] homeless people get into the library and
+[61:52] start burning all the old books to stay
+[61:54] warm and throw a party in it. Well,
+[61:56] aren't you an anarchist? Aren't you a
+[61:58] libertarian? Don't you oppose the
+[62:00] government? Those people are sticking it
+[62:02] to the man, sticking it to the
+[62:03] government. They've ruined a
+[62:04] 300-year-old library and turned it into
+[62:06] a giant bonfire. Um, you should be
+[62:09] happy, right? No, I'm not happy with
+[62:11] that. I don't want that to happen.
+[62:13] Ideally, I'd want the public library to
+[62:15] be privatized. I want to have an owner
+[62:17] of the library because I believe that
+[62:18] would be a better way of protecting the
+[62:20] library. But meanwhile, if I see a
+[62:22] homeless person
+[62:24] uh defecating inside the library, I'm
+[62:27] not just going to say, "Oh, well, you
+[62:28] know, it's government property, so that
+[62:31] means he can do whatever he wants." No,
+[62:33] the fact that it is government property
+[62:34] means that it should be managed to the
+[62:37] benefit of the taxpayer. The taxpayers
+[62:40] are the on paying for this. And so, I
+[62:42] don't believe this is a perfect way of
+[62:43] arranging things. I would rather just
+[62:45] have a person open a library and take
+[62:48] donations or charge a fee or
+[62:51] whatever. But it is what it is right now
+[62:53] when we have the library and we're not
+[62:54] going to get rid of nice things just
+[62:56] because we don't um support the
+[63:00] government. Another great example would
+[63:02] be um let's just say think of think
+[63:05] think of a situation where there is a um
+[63:07] somebody who's kidnapping someone and
+[63:09] you see somebody snatch a child and he's
+[63:10] running away with a child and you see a
+[63:13] policeman and he's got a gun and he can
+[63:15] shoot the guy and stop him and he's a
+[63:17] very good shot. He can shoot him in the
+[63:18] legs, make sure he hits him and um
+[63:21] doesn't hurt the child. Now the
+[63:24] policeman is funded with
+[63:25] taxation. Taxation is theft. So, as a
+[63:28] libertarian, does that mean that you
+[63:30] would oppose the policeman shooting the
+[63:32] kidnapper so that the kidnapper can just
+[63:36] get away with kidnapping someone's
+[63:38] child? No. There is the evil of the
+[63:40] kidnapping right now. And the fact that
+[63:42] the policeman is being paid through
+[63:44] taxation and the bullet is being paid
+[63:46] for through taxation, which is
+[63:48] illegitimate, does not invalidate the
+[63:52] need to deal with the kidnapper. I'd
+[63:55] rather be in a place where kidnappers
+[63:56] get shot and killed rather than rather
+[63:59] than be in a place where we get to
+[64:01] quibble all day about the morality of
+[64:03] the police and what should we do with
+[64:05] the police. The reality is the public
+[64:06] library exists, the policemen exist, and
+[64:09] the roads exist. The roads are funded by
+[64:11] the government. And I'm not going to not
+[64:13] ever go on a road because it is funded
+[64:14] by the government. This is the reality
+[64:16] of what it is. And so with this frame of
+[64:20] mind, when you think about it from the
+[64:21] concept of um immigration, I think you
+[64:26] ideally you would want to have
+[64:27] everything be private property. And then
+[64:29] if things are in private property, I
+[64:31] think you would see that people would
+[64:34] get into um voluntary arrangements that
+[64:38] will exclude people from being part of
+[64:41] it. And I think that's going to be a lot
+[64:42] more common than people think. I think
+[64:44] uh governments have in a sense
+[64:48] undermined property rights which has
+[64:51] made it so that a lot of the surface
+[64:53] area of a particular city or country is
+[64:56] essentially unowned and therefore people
+[64:59] can squat onto it and people can enter
+[65:01] into it and people can go into
+[65:03] geographic regions by just simply
+[65:04] getting a paper from u an embassy or by
+[65:08] just um you know
+[65:12] um crossing borders between countries.
+[65:15] But I think in a free world, in a truly
+[65:18] free world, that doesn't mean that, you
+[65:21] know, the freedom of an immigrant to go
+[65:23] in a to a place that he doesn't have
+[65:26] anything to do in and to have the
+[65:30] ability to go around and benefit from a
+[65:32] civilization that he and his parents did
+[65:34] not contribute to would be subject to
+[65:37] the acceptance of the people who built
+[65:39] that civilization, the people who own
+[65:41] the property there. So you would get
+[65:43] think about the example of gated
+[65:44] community. I think you'd have gated
+[65:46] communities and they'd have clear strict
+[65:48] criteria about what it means to enter
+[65:50] here. So in this community we're all
+[65:52] Christians. We all want to live in a
+[65:53] society that's all Catholic Christians.
+[65:56] And so only people who are Catholic
+[65:58] Christians are allowed to buy property
+[66:00] in this area. We're only going to be
+[66:01] selling to Catholic Christians. And if
+[66:04] you decide to become an atheist, um you
+[66:07] know there are certain criteria. You got
+[66:09] to attend church maybe once a month at
+[66:11] least or some kind of criteria to
+[66:13] guarantee it. And I and and if you truly
+[66:16] believe in freedom, I mean, freedom
+[66:17] isn't just drugs and sex. What about if
+[66:20] I want to live in a society where I want
+[66:23] my children to share the faith that of
+[66:26] the kids in their school? I want them to
+[66:28] play with people with the same values. I
+[66:30] think that's a freedom and I think that
+[66:32] is a freedom that will happen in a more
+[66:35] free society that people will impose
+[66:37] these kind of rules that say okay well
+[66:40] we are going to mandate that in this
+[66:43] area only people from this particular
+[66:45] faith are allowed to come here or you
+[66:48] know you can imagine something happening
+[66:50] where for instance in the cities where
+[66:52] you're likely going to need more of a
+[66:55] diverse kind of labor force where you're
+[66:57] going to benefit from having people then
+[66:59] you would have areas and cities or maybe
+[67:00] the centers of cities that would have u
+[67:03] that would that would have pretty open
+[67:04] immigration policies. But then think
+[67:06] about the suburbs outside that it would
+[67:08] be pretty exclusionary and there'd be
+[67:10] gated communities and it might be the
+[67:13] case that uh very large geographic areas
+[67:16] voluntarily choose to uh accept these
+[67:20] kind of restrictions. So I don't believe
+[67:23] in this. I I I think Hopp has um
+[67:26] convinced me on the idea that open
+[67:28] borders is not the libertarian
+[67:30] positions. Yeah. Open borders too. Yeah.
+[67:32] Yeah. The idea borders are just uh a
+[67:34] libertarian world is a world in which
+[67:36] every single inch is owned and so there
+[67:38] is nothing to be open. Anywhere you go
+[67:41] you're crossing onto somebody's property
+[67:43] and so you need to abide by their rules.
+[67:44] There are no roads for you to go and be
+[67:46] a hobo on. Every single road is owned by
+[67:50] somebody and that person can impose
+[67:51] whatever restrictions they want. they
+[67:54] could impose the death penalty for um
+[67:56] sleeping on the street if they choose to
+[67:59] and you only enter into that street when
+[68:00] you agree to abide by this. So in that
+[68:03] kind of world, you'd get more and more
+[68:05] of this kind of
+[68:07] um these kind of restrictions and I
+[68:09] think it would mean I mean looking
+[68:13] around at what's going on in Europe in
+[68:16] particular. I mean this kind of mass
+[68:17] immigration phenomena I don't think this
+[68:19] would happen in a free society and it
+[68:21] didn't happen in the 19th century which
+[68:23] I believe was in many ways a more free
+[68:26] society because they had the gold
+[68:27] standard. They had limited governments
+[68:29] and they had monarchies and I think this
+[68:31] is a key point here. So I don't
+[68:35] necessarily think that monarchy is
+[68:37] always the solution everywhere. Uh for
+[68:40] me you know kings can be bad and
+[68:42] parliaments can be bad. I think
+[68:44] parliaments are more likely to be bad
+[68:46] but there are good examples of republics
+[68:49] that haven't been a complete failure.
+[68:52] Switzerland is one. So I think but but I
+[68:56] still think monarchy is more likely to
+[68:59] be conducive to this kind of solution
+[69:01] because monarchy essentially formalizes
+[69:05] the uh property all all of the property
+[69:09] that is not owned and makes it
+[69:11] effectively the property of the king.
+[69:13] And so then you have that formalism of
+[69:15] the idea that since the king owns all of
+[69:17] those things, you can't just trespass.
+[69:20] And the king has a long-term interest.
+[69:22] He wants to have his kids and grandkids
+[69:24] and great great great great grandkids in
+[69:28] charge. So he's got a very low time
+[69:30] preference. He's interested in keeping
+[69:32] you as a citizen as a subject. He's
+[69:36] interested in making you prosperous
+[69:38] enough so that your great great great
+[69:41] grandchildren will be prosperous enough
+[69:42] for his great great great grandchildren
+[69:45] to be able to tax. So he's interested in
+[69:48] peace. He's interested in development.
+[69:50] He's interested in growth. He's
+[69:51] interested in capital accumulation. He's
+[69:53] interested in civilization. And I
+[69:55] believe in that kind of world, you're
+[69:56] likely going to see a lot more
+[69:58] restrictions on
+[70:00] immigration. Or I think alternatively,
+[70:03] what you would see is you look at the
+[70:04] model of places like Dubai or the
+[70:06] Emirates where you have an enormous
+[70:08] amount of immigration, but there's a
+[70:10] very clear idea of res. Exactly. So
+[70:14] you're a resident and they're very clear
+[70:16] rules about what you're allowed to do
+[70:17] and what you're not allowed to do. And
+[70:20] if you don't want it, you don't come.
+[70:22] And I think it's, you know, it's it's
+[70:23] really telling. People in the West like
+[70:25] to hate on Dubai and Saudi Arabia, and a
+[70:28] lot of people talk about it being
+[70:29] slavery, that it's built on slave labor,
+[70:32] which is idiotic, because there are
+[70:35] hundreds of millions of people who are
+[70:37] eager to move to the Arab Gulf today. I
+[70:40] mean I am sure there are hundreds of
+[70:42] millions of people all over the world in
+[70:44] Asia, Africa, Latin America, North
+[70:46] America, Europe, Australia who would
+[70:50] move there if they could have the
+[70:51] chance. And um they move there even
+[70:54] though they don't get a vote, they don't
+[70:56] get to take part in politics, there's no
+[70:58] demonstration, there's no political
+[70:59] activism, none of that stuff. And yet
+[71:02] they move there and and you know I used
+[71:03] to live in Lebanon and Lebanese people
+[71:06] you know Lebanon is a massively
+[71:07] dysfunctional country politically. It's
+[71:10] a republic and a parliament that's
+[71:11] designed by the French and they have 18
+[71:13] sects and everything is based on sect
+[71:16] and so it's just massively massively
+[71:18] dysfunctional and of course everybody
+[71:20] has very strong opinions about how the
+[71:22] country needs to be run and everybody
+[71:24] believes that you know if only me and
+[71:26] the right people like me were made u
+[71:29] president then everything would be fixed
+[71:31] and yet probably a majority of Lebanese
+[71:34] people would move to Dubai if they could
+[71:37] and the Gulf I think probably I don't
+[71:39] really know the numbers, but there might
+[71:41] be more Lebanese people in the Gulf
+[71:44] countries than there are in Lebanon at
+[71:46] this point. Maybe not quite as much, but
+[71:48] a very significant number of Lebanese
+[71:50] people have been in Saudi Arabia and the
+[71:52] Emirates and Kuwait and Qatar for
+[71:54] decades. And they go there and suddenly
+[71:57] all of their strong ideas about politics
+[71:59] are just completely out of the window.
+[72:02] They no longer want activism. They no
+[72:04] longer want to vote. They no longer want
+[72:05] to have very strong opinions about how
+[72:07] the country is run. They sign their
+[72:09] contract, they go there, they behave and
+[72:11] they get paid and they live a decent
+[72:13] life much better life than the life that
+[72:15] they would have had in Lebanon or you
+[72:17] know for many other people from all over
+[72:19] from India and Nepal and uh um
+[72:22] everywhere and you know Australia as
+[72:24] well lots of refugees from Australia and
+[72:27] uh in Dubai now they get a better life
+[72:30] because there's a king and a king runs
+[72:32] the country with the perspective of
+[72:33] making sure that it is functioning 100
+[72:36] years from now. And of course, it's not
+[72:37] perfect. Of course, they have all kinds
+[72:38] of problems there. But the streets are
+[72:41] clean, the electricity works 24/7, the
+[72:44] infrastructure is impeccable, and
+[72:46] everything is very, very, very safe.
+[72:48] There's very little climbing from these
+[72:50] places. There's trade-offs. And this is
+[72:51] the thing you realize as you get older,
+[72:53] right? Is like each one of these things
+[72:54] has a trade-off. Like if you just want
+[72:56] to make everything free, liberal, and
+[72:59] you know, anyone can do whatever they
+[73:00] want, well, don't be surprised to turn
+[73:03] your whole civilization into San
+[73:04] Francisco, right? And then if you want
+[73:06] to take the alternate trade-offs um you
+[73:10] know I use Dubai as a massive um example
+[73:13] in the book actually and I talk
+[73:14] specifically about that. So 93% of the
+[73:17] Arab Emirates population is non-
+[73:20] Emiratis. You cannot sustain your
+[73:24] country your ethnicity without having a
+[73:27] multi-ter system where your people by
+[73:30] blood are the only ones who get to
+[73:32] assemble and get to vote. Simple as
+[73:34] that. And and the funny thing is the
+[73:37] this isn't funny. The tragic thing is
+[73:39] the
+[73:40] west the European blood was like that.
+[73:43] You look at Rhodesia, South Africa,
+[73:45] America, they were all like that
+[73:47] originally and when they changed, you
+[73:50] know, to make it equal for everybody,
+[73:52] their countries got overrun. I mean, do
+[73:55] do you are you familiar with the story
+[73:56] of Rhodesia?
+[73:58] Um, not so much vaguely, but yeah, go
+[74:00] ahead. So, you know, a lot of Bitcoiners
+[74:03] talk about, oh, yeah, Zimbabwe, you
+[74:04] know, went into hyperinflation because
+[74:06] they printed trillions of dollars.
+[74:08] That's actually not
+[74:10] true. Zimbabwe, the the the
+[74:13] hyperinflation occurred as a result of
+[74:16] Rhdesia becoming Zimbabwe. It happened
+[74:20] before the money printing started. The
+[74:22] money printing was a symptom of the
+[74:24] collapse of the prior society. So
+[74:26] previously, Rhdesia was like close to
+[74:29] like a like a a landed republic, right?
+[74:32] So you only got a vote. You only got a
+[74:35] say in politics if you had a threshold
+[74:39] of property ownership, right? And it it
+[74:43] stood in stark contrast with the rest of
+[74:47] the world because after World War II, as
+[74:49] we know, the whole democracy, liberal
+[74:51] democracy was being rammed down
+[74:53] everybody's throats as the panacea to
+[74:56] all social problems,
+[74:57] right? Rhdesia was the bread basket of
+[75:02] the entire continent of Africa with less
+[75:05] than 5 million people and it was a
+[75:06] landlocked nation. They fed the entire
+[75:08] continent of Africa and it was a landed
+[75:14] republic. The West destroyed its own
+[75:18] ally by embargoing its own ally when it
+[75:22] needed arms when the Chinese communists
+[75:24] and the Russian communists went in and
+[75:26] attacked it. And they held off two of
+[75:28] the biggest powers. They held off both
+[75:30] China and Russia by themselves as a tiny
+[75:33] population to maintain their way of life
+[75:36] because they had this thing working for
+[75:38] almost a century and of course after the
+[75:41] embargo after the UK and the US turned
+[75:43] their backs on them you know when they
+[75:45] were infected with this idea of
+[75:46] democracy and all this kind of there's a
+[75:48] whole story there um they their own ally
+[75:52] Rodesia collapsed
+[75:54] failed Mugabi got in they installed
+[75:56] Mugabi as the new leader of the
+[75:58] democratic Republic of
+[76:00] Zimbabwe. They killed off all the
+[76:02] farmers. They took all the property and
+[76:04] then the the country collapsed. Then
+[76:07] they started printing money. And the
+[76:09] reason the money didn't work because
+[76:11] people had no faith in the new
+[76:14] governance. Right? So the way I look at
+[76:16] you know money is like money is a
+[76:18] function of people's faith in it.
+[76:20] Bitcoin is building a track record of a
+[76:23] kind of money that you can have the
+[76:26] utmost faith in. Right? And therefore it
+[76:29] provides the basis of a civilization
+[76:32] where people can start to be low time
+[76:33] preference. If you live in a society
+[76:36] where you know you just got toppled and
+[76:38] all of your best people got either
+[76:40] killed or their property taken and all
+[76:42] this sort of stuff and then you say well
+[76:44] don't worry you know I'm going to print
+[76:45] a bunch of money and give it to you.
+[76:46] Like you have zero faith in that it's
+[76:48] going to collapse. So, I've gone off on
+[76:50] a tangent here, but it it reminds me of
+[76:52] like the West used to know this and
+[76:55] we've buried it all and we've buried it
+[76:58] in this sort of guilt of, oh, you know,
+[77:00] we colonized some people and now we
+[77:02] should pay for all the the price and the
+[77:05] consequences and everything like that.
+[77:06] We should, you know, adopt this
+[77:09] libertine policy of uh, you know,
+[77:13] opening everything and bending over and
+[77:15] letting anybody do whatever the they
+[77:16] want. Um, and that has led us to the
+[77:20] point as we said earlier is like your
+[77:22] kids chopping off their dicks. Like it's
+[77:24] it's not a good outcome. Like that
+[77:26] should be the measure of society, right?
+[77:28] Like if your kids are chopping off your
+[77:30] dicks, your society has failed. Like not
+[77:32] the GDP or how much growth you had or
+[77:34] how much the stock market went up. Like
+[77:36] children chopping off their genitals.
+[77:38] That's the that's the measure of
+[77:40] society. And if it if they're not doing
+[77:41] that, then guess what? you have the
+[77:44] makings of a better society than um than
+[77:47] you do the alternate way irrespective of
+[77:49] all the the you know the micro details.
+[77:52] Yeah. No, I think that's a great point.
+[77:54] I think you know recently remember the
+[77:56] migration uh the H1B visa debate that
+[78:00] became quite a
+[78:04] stomach storm on Twitter in
+[78:07] particular and in particular you know it
+[78:09] was Elon Musk and uh VC Ramaswami who
+[78:14] um you could say shot themselves in the
+[78:16] foot or their foot in their mouth by
+[78:20] this and I think one of one of the very
+[78:21] ridiculous ideas which I would have been
+[78:24] more sympathetic to uh in an earlier
+[78:27] time before reading a lot of Hopper is
+[78:29] this kind of well you know we need to
+[78:30] get the best engineers in the world so
+[78:32] that we can compete with China so that
+[78:35] we can beat China and it fundamentally
+[78:38] misunderstands what society is. It it it
+[78:41] it takes the analogy of a sports team
+[78:45] and applies it to a society. And I think
+[78:47] the extension of this analogy and I've
+[78:49] seen several people make this tweet
+[78:50] which is you know you don't replace your
+[78:52] child if somebody finds you a child
+[78:54] who's better at math. You know you don't
+[78:55] walk around looking for somebody who's
+[78:58] better at math or somebody who's going
+[78:59] to make a better income when he grows up
+[79:02] and then you just go and get rid of your
+[79:03] child and replace him or you know you
+[79:05] adopt people based on the fact that
+[79:06] they're going to uh provide you with a a
+[79:10] better income. Um, I mean, of course
+[79:13] there are good reasons to adopt people
+[79:15] and maybe this is the case, but your
+[79:17] child is your child and you try and give
+[79:19] your child the best life possible
+[79:21] because he's your child. And of course,
+[79:23] you'd like him to succeed. You'd like
+[79:25] him to do good things, but
+[79:29] it's his life, his existence is not a
+[79:32] competition with other people. And it's
+[79:35] it's a very uh
+[79:37] statist, you know, we're out there
+[79:39] competing. No, we don't have to compete.
+[79:40] We don't have to have the best engineers
+[79:43] in the world in our country to be making
+[79:44] everything. We can just import stuff
+[79:46] from abroad. It's fine. They can stay in
+[79:48] their country. They can make all the
+[79:49] amazing things that they want to do and
+[79:51] then we can just import them. And this
+[79:53] is um this is becoming more and more
+[79:56] obvious at this point because it's
+[79:57] completely absurd to imagine the
+[79:59] opposite. You know, this notion that in
+[80:01] in in today's modern world, today's
+[80:03] modern economy that the US could become
+[80:06] self-sufficient is completely
+[80:07] ridiculous. Not the US, not China. No
+[80:09] country is truly self-sufficient. Even
+[80:11] China with one and a half billion
+[80:13] people and having essentially more than
+[80:18] half of the world's steel capacity and a
+[80:21] very large amount of um of the capacity
+[80:25] of production for most of the world's
+[80:26] most important uh economic goods. You
+[80:29] know, most of the world's electronics
+[80:30] and computers and everything is being
+[80:32] made in China these days. And yet if you
+[80:34] try to isolate China from the rest of
+[80:36] the world, you would massively destroy
+[80:38] the living standards of Chinese people.
+[80:40] If they can't trade with the rest of the
+[80:41] world, if they can buy and sell abroad,
+[80:43] they are going to be a lot worse off. So
+[80:45] this notion that you have to make
+[80:47] everything in your country doesn't make
+[80:49] sense. And this notion that your country
+[80:50] is out there trying to win some Olympic
+[80:53] gold medal in making productivity. Yeah.
+[80:57] In productivity or in making widgets or
+[80:59] making cell phones or making something.
+[81:01] It's not true. That's not why a country
+[81:02] exists. Just like your family is not out
+[81:04] there to win anything. You love your
+[81:07] family whether they're good at what they
+[81:10] do or not. And you care for your child.
+[81:12] And this notion that I mean you can sort
+[81:14] of see this perhaps in the context of
+[81:17] the US cuz the US has predominantly been
+[81:21] a um an immigrant society. So you could
+[81:24] say that US is always going to be a
+[81:26] country that is well I mean some people
+[81:30] would disagree with this but you could
+[81:31] make it more of a case that the US is
+[81:33] more of a country built around values
+[81:35] than European countries which are really
+[81:37] countries for a people that it's built
+[81:39] around a people. this, you know, there's
+[81:41] a place called Finland and there are
+[81:43] people who are the Finnish people who
+[81:44] have been living in Finland in that
+[81:46] place. They have they own the property.
+[81:47] They own the land and they've been there
+[81:49] and Finland is not something that's made
+[81:53] so that it can win a contest against
+[81:54] other countries that there's no and also
+[81:57] we can't all win all these context. It's
+[82:00] it's not the Olympics where there's one
+[82:01] golden medal and then we can compete.
+[82:03] It's good to have all this competitive
+[82:06] stuff. Get the outlet for it. h have a
+[82:09] have an outlet for it which is sports.
+[82:12] Um so you know be competitive about
+[82:14] who's going to win the World Cup and
+[82:15] who's going to get more Olympic medals
+[82:18] but
+[82:20] don't I I don't think it's very
+[82:21] productive to think of your society as
+[82:23] being something that needs to be
+[82:26] out
+[82:27] there. Over the last couple years, I've
+[82:29] become I I must say uh kind of like a a
+[82:34] a quasi statist or like a hoppian
+[82:36] statist like I've got this framework I
+[82:38] call it Christo Hoponichian and we'll
+[82:40] get into that in a second. But you know
+[82:42] your point here like the word nation and
+[82:44] and I think this is um where things get
+[82:47] conflated particularly among
+[82:48] libertarians is like there's this real
+[82:50] hatred for a state. It's like okay
+[82:52] anything statism is bad but you know the
+[82:54] nation state like the word natio means
+[82:58] your kin it means your your people right
+[83:00] and and a nation state the the original
+[83:03] incarnation of it you know sure it's
+[83:04] devolved and it's changed and all this
+[83:06] sort of stuff but it it demarcated a
+[83:09] territory that was more than just an
+[83:11] economic zone which is what you're
+[83:12] talking about here is like it was a
+[83:14] cultural zone. And it's it's a it's a
+[83:15] zone of your people who have particular
+[83:17] norms, have particular uh uh way of
+[83:21] thinking, have a particular you know,
+[83:22] genetic uh um and ethnos like a shared
+[83:26] ethnos and all this sort of stuff. And
+[83:27] you know, the nation states duty is
+[83:30] first and foremost to its people like
+[83:33] and and you can't just look at your
+[83:35] people like uh spreadsheet entries,
+[83:37] right? It's like okay well you know we
+[83:39] look at this spreadsheet entry on the
+[83:40] dimension of computer science and we you
+[83:42] know bring them in. that doesn't work
+[83:44] like that. And even I mean the funny
+[83:46] thing is all of the nerds and all of the
+[83:49] um the you know the the people
+[83:52] advocating for you know importation of
+[83:54] people and all this kind of thing they
+[83:56] know this in business because in
+[83:58] business it's it's a very
+[84:01] uh well-known uh axiom that you hire for
+[84:05] culture first and skill second because
+[84:07] you can always train skill but you
+[84:09] cannot embed culture in someone. Now
+[84:12] they say that about the cultural work
+[84:14] environment but then they go and ignore
+[84:16] it about the person's cultural life,
+[84:19] genetics, blood, upbringing and
+[84:21] everything like that. And and it it like
+[84:23] these things are inconsistent. They're
+[84:25] incoherent. And and it makes me think
+[84:27] about, you know, earlier you said about
+[84:29] uh Switzerland, right? Switzerland has
+[84:31] managed to be this unique territory,
+[84:34] this unique region that has been able to
+[84:38] establish and run a successful republic
+[84:41] for many many many centuries. You can't
+[84:44] just do that everywhere. Like there
+[84:46] there needs to be a uh you know there
+[84:49] needs to be a culture or a cultural
+[84:50] framework that can sustain a particular
+[84:53] kind of uh governance, a particular kind
+[84:56] of uh territorial operation. And I think
+[84:58] it's very naive to think, for example,
+[85:00] that the whole world can just be
+[85:02] libertarian, that the whole world can
+[85:03] just uh you know have the same type of
+[85:06] uh cultural framework to support a type
+[85:09] of um uh governance form. And and this
+[85:14] is I I think in writing this book I've
+[85:16] matured a lot in my views in that I I I
+[85:19] come to recognize that hey what you
+[85:22] really what the world really needs is
+[85:23] something more of a patchwork of uh
+[85:27] territorial different kind of
+[85:29] territorial operations right it's like
+[85:31] in some places monarchies are going to
+[85:34] work better in some places republics are
+[85:36] going to work better in some places I
+[85:37] mean I don't know maybe communism works
+[85:39] just fine in China and they can do it
+[85:41] over there and that's their thing right
+[85:42] like it's it's not our business to get
+[85:44] involved in how they want to operate
+[85:46] their ethnic boundary um and what they
+[85:49] choose as their property and their
+[85:50] territory, right? So, um you know, we
+[85:53] can argue that, you know, communism and
+[85:56] all of that sort of stuff is stupidity
+[85:58] and everything, but they will themselves
+[86:00] around and find out. Um I just actually
+[86:02] it reminds me of um I just finished
+[86:04] reading uh the book on Joe Kennedy, who
+[86:07] was like the father of, you know, the
+[86:09] founding father. I shouldn't say the
+[86:10] founding father because obviously he had
+[86:12] a um his great-grandfather came to
+[86:14] America from Ireland but he the book is
+[86:16] called the patriarch and man he had nine
+[86:19] kids and it shows how he went from
+[86:20] nothing he was like a you know Boston
+[86:22] Irish kid bit of an outsider and he
+[86:25] established a a massive fortune he was
+[86:28] one of the you know top 100 richest
+[86:30] people in America in his day and he was
+[86:32] totally against all of the intervention
+[86:35] in World War II um the the intervention
+[86:38] of America he was against like the the
+[86:40] spread of liberal democracy in America
+[86:42] turning itself into an empire and all
+[86:43] this sort of stuff. He was the original
+[86:44] like uh make America great, you know,
+[86:47] and keep America great kind of uh and
+[86:50] you you just sort of see this um he he
+[86:52] was ridiculed. He was uh laughed at um
+[86:56] you know Roosevelt like kind of uh lied
+[87:00] to him and you know kind
+[87:02] of him over like behind his back when he
+[87:05] was the ambassador of England and trying
+[87:06] to keep America out of the war and all
+[87:07] this sort of stuff. and you kind of
+[87:08] start to realize
+[87:13] um like these things are a hell of a lot
+[87:16] trickier than what we think. Like
+[87:19] practice is way harder than theory
+[87:21] basically. And you can you can talk
+[87:24] about theory all you want, but when it
+[87:25] comes down to it in practice, it seems
+[87:29] that the best kind of territories uh are
+[87:33] operated within a framework that can
+[87:35] sustain them. number one. And number
+[87:37] two, they look very much over and over
+[87:41] again like something that has internal
+[87:43] cultural coherence and is often operated
+[87:47] in something that looks like a monarchy.
+[87:49] I mean, also a republic has more in
+[87:52] common with a monarchy than it does with
+[87:53] a democracy. Like that's another that
+[87:55] people, you know, don't realize. Yeah.
+[87:56] And I think the key thing is whatever
+[87:58] you whatever form of uh whatever the
+[88:02] form of politics that your republic is
+[88:05] going to have, it's the way that I see
+[88:08] it. It's more difficult to get the
+[88:13] ruling power in a republic to have a low
+[88:17] time preference perspective on things
+[88:20] because you need to convince more
+[88:21] people. In the case of a democracy, you
+[88:22] need to convince 51% of people to have
+[88:24] good ideas, which is almost impossible.
+[88:27] In the case of a monarchy, you just need
+[88:29] one guy. You just need the one guy to
+[88:32] figure it out. And they're quite likely
+[88:36] to figure it out because if they've in
+[88:38] that family business, if the family's
+[88:40] been in the business of government for a
+[88:43] couple of generations, they've learned a
+[88:45] thing or two. If you've had a few
+[88:47] generations and you've managed to keep
+[88:49] power for a few generations, then you
+[88:51] have some foresight. You have some
+[88:52] long-term perspective. You're able to
+[88:55] take the low time preference decision.
+[88:57] And then what really matters in the case
+[88:59] of monarchy is that that family
+[89:01] maintains that line of thinking
+[89:03] generation after generation. And it's
+[89:05] really a lot easier. So you're born and
+[89:07] the day you're born, you know that one
+[89:09] day you're going to be king. And not
+[89:11] only you, but all of your brothers and
+[89:12] all of your cousins, all of the people
+[89:14] that are, you know, 50 50th in line for
+[89:18] the throne in case there's some giant
+[89:20] war where the top 49 people um in line
+[89:23] for the throne get killed. Even the 50th
+[89:26] guy is being essentially groomed to
+[89:28] become king. And that's that's
+[89:30] essentially what a royal family is. It's
+[89:31] a very deep bench of people from a
+[89:35] family that has a long culture of
+[89:37] understanding how to rule. And all of
+[89:40] these people are born from day one to
+[89:42] handle this. So you look around at what
+[89:44] uh monarchs do. I mean from day one
+[89:48] they're out there doing things that are
+[89:50] in the kind of public interest. They're
+[89:52] um you know one guy handles is
+[89:55] interested in football. So he works with
+[89:57] the football federation and he helps use
+[89:59] his connections with governments around
+[90:00] the world to try and get um you know I'm
+[90:03] speaking from the experience here in
+[90:04] Jordan. you see what the royal family
+[90:06] are doing and they're out there doing
+[90:08] all kinds of uh public service thing,
+[90:10] you know, interested in um helping the
+[90:13] disabled, interested in promoting
+[90:14] sports, interested in helping uh um
+[90:17] develop businesses and all kinds of
+[90:19] things. And all of that is really just
+[90:22] like a deep bench for monarchy. But it's
+[90:25] a lot easier to instill those values
+[90:28] within one family and make sure that
+[90:29] they continue within the family than it
+[90:31] is to instill it in a giant society of
+[90:34] tens or hundreds of millions of people
+[90:37] because people are going within the
+[90:40] context of democracy. You know, not only
+[90:42] it's harder is it harder to teach those
+[90:43] people, but also within the context of
+[90:45] democracy where you can get to vote for
+[90:48] taking other people's stuff, there's a
+[90:50] very strong incentive to have a low to
+[90:52] have a high time preference in the way
+[90:53] that you behave. And you know the the
+[90:55] proof is in the pudding. If you look at
+[90:58] the what are the great civilizations
+[91:00] that we see, we find that monarchy has
+[91:04] generally always almost always almost
+[91:06] been almost always been there. So the
+[91:10] longest serving monarchy in the world,
+[91:12] do you know which one it is? It's in
+[91:14] Japan, right? It's in Japan. Exactly.
+[91:16] It's been about 2,600 years. So there's
+[91:20] been a royal family there for I think 50
+[91:22] 60 gener No, sorry. about a hundred
+[91:24] generations or something like that. Uh
+[91:27] the the royal family has been there and
+[91:29] you know Japan isn't exactly a terrible
+[91:32] place to be. The second longest dynasty
+[91:34] trivia quiz for the day. Do you know
+[91:36] which one?
+[91:38] I mean I'm going to just say Jordan
+[91:40] because you're there. Am I That's the
+[91:42] correct answer. Okay. The current king
+[91:44] of Jordan is the 42nd uh generation
+[91:48] descendant of uh the prophet Muhammad.
+[91:51] So again, Islamic civilization, you can
+[91:54] also think of it as being a monarchical
+[91:56] patriarchal civilization. It's always
+[91:58] been around the family of Muhammad who
+[92:01] were in Mecca, but now they're in
+[92:03] Jordan. But part of the reason that
+[92:05] makes this country so stable and
+[92:07] peaceful, you know, not a lot of people
+[92:09] hear about Jordan
+[92:10] because nothing bad usually happens in
+[92:13] Jordan. So really is the Switzerland in
+[92:16] the Middle East in a sense that uh over
+[92:18] the last 100 years. All of the neighbors
+[92:20] of Jordan have had all kinds of horrific
+[92:22] wars and conflicts all the time and
+[92:24] Jordan has practically stayed out of the
+[92:26] vast majority of them and people in
+[92:28] Jordan have been quite peaceful and I
+[92:31] think a big part of that is because of
+[92:32] the monarchy. So you see this all over
+[92:35] the world. You see, you know, the great
+[92:37] European civilizations came under
+[92:39] monarchies. the British civil, the
+[92:41] British, the Germans, the Spanish, there
+[92:44] was all monarchies. And it was only in
+[92:46] the 20th century that these monarchies
+[92:48] um
+[92:49] it's been like a deviation. It's been
+[92:51] like a strange deviation where and and
+[92:53] this is why I think, you know, World War
+[92:54] I was the the death nail of the of the
+[92:57] West was the whole point of World War I
+[92:59] was to abolish all of them. Um I I want
+[93:02] to I want to quickly say something. You
+[93:04] were talking about monarchs and it just
+[93:05] hit me now. It's
+[93:06] like monarchs are basically a
+[93:09] combination of nature and nurture for
+[93:12] governance, right? Because they they
+[93:14] they're almost like genetically born
+[93:16] into it, but they were also nurtured
+[93:17] their whole life for the purpose of
+[93:20] governance. Yeah. Um which that that
+[93:22] didn't occur to me before, but it's it's
+[93:24] based on our conversation like it's a
+[93:25] it's a mixture of both, which is what
+[93:27] you want. You don't want to just get uh
+[93:29] anybody in there. Yeah. It's very it's
+[93:31] very unpopular thing to say in our
+[93:33] egalitarian time, but I urge people to
+[93:35] look at the uh Republican leaders. You
+[93:38] know, I I've got a front seat to this
+[93:41] looking at the Arab world. So, when you
+[93:42] think about the leaders that uh came
+[93:44] into power who weren't monarchs and you
+[93:48] think of the of the sort of things that
+[93:49] they did, so you compare for instance uh
+[93:52] Saddam in Iraq versus the Hashemites who
+[93:54] used to rule Iraq. The Hashemites ruled
+[93:56] Iraq before uh Saddam and then they were
+[93:59] removed. or you compare them to the
+[94:01] Hashemites today in Jordan. So Saddam
+[94:04] invaded most of his neighbors which was
+[94:06] an extremely extremely stupid thing to
+[94:09] do. Whatever um geopolitical context you
+[94:11] have, it was just massively stupid and
+[94:13] massively destructive. Invaded Iraq,
+[94:15] invaded uh Iran. He came very close to
+[94:18] fighting war against Syria. They were
+[94:21] brutal enemies who hated each other and
+[94:23] spied on each other and it was terrible.
+[94:25] He had terrible relationships with
+[94:26] pretty much everybody because he's not a
+[94:30] king. He's he's he he he never really
+[94:32] thought about power from the perspective
+[94:33] of I want to secure this for my great
+[94:36] great great grandchild. It was always I
+[94:38] want to avenge this and I want to avenge
+[94:40] that and I want to do this and that's
+[94:42] just very high time preference behavior
+[94:44] that is um inculcated into people
+[94:49] who I mean well I shouldn't say
+[94:51] inculcated I'd say this is the default.
+[94:53] this is how people really are. And it
+[94:56] takes a lot of restraint and a lot of
+[94:58] nature and nurture combining to produce
+[95:01] somebody who has the foresight to think,
+[95:03] no, you know
+[95:04] what, I can take Kuwait if I want to. I
+[95:08] probably shouldn't, but I shouldn't.
+[95:09] Exactly. Exactly. And this I mean this
+[95:13] right there what you just described is
+[95:15] why I wanted to write this book which is
+[95:17] Bitcoiners are are going to in many ways
+[95:20] be the leaders of the future world. Like
+[95:23] you know when you are you know
+[95:26] economically and therefore socially uh
+[95:28] you know you have gravity um you you
+[95:31] need to develop the virtues that make
+[95:34] you worthy of that power of that
+[95:36] capacity right you need to start to do
+[95:38] that lest you become uh a degenerate
+[95:42] right because like the future leaders of
+[95:43] the world
+[95:44] like many of the great Bitcoiners who go
+[95:47] and cultivate these virtues inside
+[95:50] themselves will be micro monarchs or
+[95:53] potentially the future monarchs of the
+[95:55] world, right? You know, we we are going
+[95:56] to establish and build a new world from
+[95:58] scratch because we killed off all the
+[95:59] other royal families. You know, there's
+[96:01] like three left now on the planet. So,
+[96:03] we're going to have to rebuild
+[96:04] civilization somehow. And when you
+[96:06] combine the fact that the optimum
+[96:09] territorial operation or the territorial
+[96:13] organizational structure is something
+[96:15] that looks more like a monarchy with the
+[96:18] fact that there will be people who have
+[96:22] extreme wealth because they got into
+[96:23] Bitcoin early and were able to pass it
+[96:24] on to their children and their
+[96:25] children's children. you have the
+[96:28] forming of a future in which you have a
+[96:31] patchwork of territories that look more
+[96:34] like um microates and uh what what I'm
+[96:37] calling in the book executive states.
+[96:39] That's kind of how I'm thinking about
+[96:40] this and I think that's a that's a very
+[96:44] interesting future at least in my
+[96:46] opinion. you know, people get very
+[96:48] offended when I talk about this, but
+[96:50] it's um maybe I'm talking to the right
+[96:52] audience here, so no one will be
+[96:53] offended, but I mean, I I'm guessing
+[96:57] people who listen to my podcast have
+[96:58] seen a lot worse, so they've stuck
+[97:00] around so far. They probably got a very
+[97:03] high tolerance, so um yeah, I I I think
+[97:07] this I mean, who knows? Maybe they'll
+[97:09] they'll get angry about it. But, you
+[97:11] know, I think it's very true. It's it's
+[97:13] no coincidence that the move towards
+[97:16] fiat money was the same time that the
+[97:18] move away from from monarchies happened.
+[97:21] And I think both are an aberration. It's
+[97:23] a historical aberration that we live in
+[97:25] a world government money. And it's a
+[97:27] historical aberration that we live in a
+[97:28] world in which the majority of
+[97:29] territories are just, you know, run by
+[97:32] this. Yeah. These bureaucrats,
+[97:34] basically, these um midgets who come
+[97:37] into power for four years and leave. Um
+[97:41] Yeah. Yeah, I I call it the twin evils,
+[97:43] fiat money and liberal democracy. Like
+[97:45] those two things, you combine those and
+[97:47] that's how you basically destroy the
+[97:49] world. And you know, with Bitcoin, we
+[97:52] must fix the money. And then through
+[97:55] cultivating codes of virtue, through
+[97:58] through cultivating a cultivating a way
+[98:00] of life, uh we can develop into the kind
+[98:05] of leaders that will move the world more
+[98:07] towards uh you know, ascendant values.
+[98:10] Like if if if I had to sum it up, I'
+[98:11] i've got this in my first line here as a
+[98:13] takeaway. To build a better world, you
+[98:15] need both capital and character. You
+[98:18] need both. Like if if you had to pick
+[98:20] one, pick character obviously. Um but
+[98:24] capital amplifies everything. And that's
+[98:27] the whole point of it. Like so you need
+[98:29] both. And Bitcoin solves the capital
+[98:31] problem. It allows those with character
+[98:34] to build and save for the future. They
+[98:37] can compound. And that is fundamentally
+[98:40] important because if all the people with
+[98:42] great character are poor and have no
+[98:44] capital, they will easily be overrun by
+[98:46] those with with capital and no
+[98:48] character. And we have no shortage of
+[98:50] those in the modern world.
+[98:53] Indeed. Absolutely. Okay. So, um can you
+[98:58] uh walk us through a list of your uh
+[99:01] virtues? Yes. Mention them, but I guess
+[99:04] a list would be helpful.
+[99:06] Let me let me go to the section in the
+[99:08] book so I can say them in order. Um
+[99:10] that'll help people conceptualize a
+[99:12] little bit better. Um where is my list?
+[99:15] There it is.
+[99:17] So virtue number one, justice. Virtue
+[99:20] number two, courage. Virtue number three
+[99:23] is compassion. I'm reading on the wrong
+[99:26] list. Hold on. I'm reading the ch the
+[99:28] the ancient Japanese list. God damn it.
+[99:32] I
+[99:33] um I just want to make sure I got these
+[99:35] in order so people know. Okay, so
+[99:37] justice, courage, compassion, number
+[99:40] four is honor. Number five is honesty
+[99:42] and integrity. Um number six is
+[99:46] responsibility. Number seven is
+[99:48] excellence. Number eight is respect.
+[99:51] Number nine is duty and loyalty. And
+[99:53] number 10 is restraint and self-control.
+[99:56] So they're they're designed to be a
+[99:58] constellation uh of virtues each which
+[100:02] have some tension uh with respect to
+[100:04] another one. And the idea here which is
+[100:07] very much like the idea of what the
+[100:10] Japanese samurai look to establish was
+[100:12] to to have something
+[100:15] well-rounded. I think a lot of the
+[100:17] mistakes people make is like okay we
+[100:19] must be justice and just above all else.
+[100:22] Um, it's like, well, yeah, that's good.
+[100:23] If you want to create, you know, like a
+[100:25]  rigid society where, you know,
+[100:27] if someone farts, you kill them, you
+[100:29] know, like that's probably not very
+[100:30] healthy, right? Like you you need to
+[100:32] have that balance with a little bit of
+[100:34] compassion. Um, you know, you need uh
+[100:37] honor, but if you overdo honor, um
+[100:40] people might, you know, go and uh kill
+[100:42] themselves or kill their neighbor over
+[100:44] the smallest slight. You know, this was
+[100:46] a a big thing in ancient Japan or feudal
+[100:48] Japan where um honor was such a strong
+[100:52] uh virtue that uh the smallest uh
+[100:56] transgression from somebody else would
+[100:58] end up in a blood feud, right? So like
+[101:00] you you have to balance that stuff. So
+[101:03] yeah, they're the 10 virtues. And in the
+[101:05] book what I do is that there's there's
+[101:08] giant chapters on each virtue where the
+[101:10] first section of it is I go into the
+[101:11] etmology of the word uh into the Latin
+[101:14] roots down into the protoindouropean
+[101:17] roots and then I also go into the the
+[101:19] Japanese kangji the the version of the
+[101:21] word in Japanese. So like uh let's say
+[101:24] honesty for example is seitsu in
+[101:27] Japanese. And I'll go into the the
+[101:29] Japanese and Chinese etmology of that.
+[101:31] And when you break down the words, like
+[101:32] one of the things I found, and I didn't
+[101:34] expect this when I was writing the book,
+[101:35] was the actual fundamental building
+[101:38] blocks of the words mean the same things
+[101:41] across cultures that had nothing to do
+[101:43] with each other. So the the example that
+[101:45] I used before about excellence. Um, in
+[101:48] fact, let me I want to pull up the the
+[101:50] etmological uh definition of excellence
+[101:53] here.
+[101:55] Um so in excellence so character
+[101:58] excellence mountains these are the
+[101:59] symbols of nobility and that which is
+[102:01] most good. Why it will make sense in the
+[102:03] thing that follows. So the Japanese word
+[102:05] which most closely translate to
+[102:07] excellence uh or greatness is yushu
+[102:09] which is made up of two kji. Um one of
+[102:12] them uh conveys the idea of superiority
+[102:14] and for what might seem for for what
+[102:17] some might seem counterintuitive
+[102:18] gentleness. So to be superior does not
+[102:20] imply that one is brutish but in fact
+[102:23] comes with the inclination and duty to
+[102:25] be kind and gentle. Um so that's kind of
+[102:28] one part of the kji. Uh then it's
+[102:30] composed I'm just kind of like reading
+[102:31] through here.
+[102:33] Um it is also uh the other component of
+[102:37] the kangji suggests a person of
+[102:39] outstanding qualities with an undertone
+[102:41] of care and consideration. Um and then
+[102:44] in the second part of the kanji uh it
+[102:47] combines elements meaning um cereal or
+[102:50] grain which is an archaic possessive
+[102:53] particle meaning soft and clingy. The
+[102:54] imagery of the character can be thought
+[102:55] of as a grain stalk that stands out for
+[102:58] being particularly tall or
+[103:00] well-developed symbolizing the idea of
+[103:02] being outstanding or exceptional. Um so
+[103:05] and it can also be interpreted as the
+[103:07] one who possesses the grain which would
+[103:09] denote status or nobility. So then when
+[103:11] you look at the English one um in
+[103:13] English the word excellence comes from
+[103:15] the Latin excellentia which means
+[103:16] superiority or eminence. It refers to
+[103:19] the quality of being outstanding or
+[103:20] exceptional at something and the word
+[103:23] itself comes from X meaning out from and
+[103:28] to rise high or to raise a tower. Um, so
+[103:32] looking at all of the etmology when I
+[103:34] did the the deep dive on all of these
+[103:36] things, there was a relationship between
+[103:38] these different languages about what
+[103:39] these virtues mean, which you know goes
+[103:41] into the idea that, you know, words are
+[103:44] deeper than what we think of today. They
+[103:47] actually have a a root or a meaning. So
+[103:51] long way of answering your question, but
+[103:52] that's the 10 virtues. And I go like
+[103:55] after the etmology I go into basically
+[103:57] examples from history whether it's
+[103:59] Alexander the Great or Hopper or Brand
+[104:03] or Napoleon or whatever and I use
+[104:05] examples of these 10 virtues and how
+[104:07] they were embodied and exhibited by the
+[104:11] greatest of the great who the way I
+[104:13] describe it in the book is who bent the
+[104:15] ark of eternity or bent the ark of
+[104:17] history uh towards them. That's the
+[104:19] that's the conception.
+[104:21] Yeah. And I think if you um if if you
+[104:24] understand these things as uh I mean if
+[104:27] you understand these things deeply as
+[104:29] being necessary for the thriving of
+[104:32] society, you realize it's no coincidence
+[104:35] that they emerge everywhere because the
+[104:39] only reason that these people who had
+[104:41] these things were able to develop a
+[104:44] society that was complex enough for them
+[104:45] to sit down and write books and transmit
+[104:47] those ideas across generations for us to
+[104:49] download them in PDFs today. and uh look
+[104:52] at them and find the incredible
+[104:55] coincidence of having all of these
+[104:58] things reflected across cultures is
+[105:01] because these things work for the
+[105:04] purpose of making society possible. So
+[105:07] whether it's in Japan or in Europe or
+[105:09] wherever, people who follow these things
+[105:12] and venerate these ideals end up
+[105:15] building societies that allow people to
+[105:16] sit down and write about those things
+[105:18] and transmit that knowledge across time.
+[105:20] And so it's I mean it's it's no
+[105:23] coincidence. It's why these things work.
+[105:25] It's that they allow us to have these
+[105:28] functioning societies. And it's the
+[105:30] ideal that people have always aspired
+[105:32] to. And when they arrive clo or when
+[105:35] they, you know, get close to that ideal,
+[105:37] then things look good. And when they
+[105:40] move away from that ideal, then bad
+[105:42] things happen. People start chopping off
+[105:45] the dicks.
+[105:47] All right. So, I wanted to talk about
+[105:49] the Austrian school. So, you mentioned
+[105:52] uh Alfred Adler, and that's an Austrian
+[105:55] school, but psychology, not in
+[105:57] economics. So what is the Austrian
+[105:58] school in psychology and as based as the
+[106:02] Austrian school in economics? Very much
+[106:04] so. So I I mean all three of those uh
+[106:08] Jung Freud and Adler were contemporaries
+[106:11] and they were all uh differing Austrian
+[106:13] schools and it was incredible. It was
+[106:15] like this was the golden age of uh
+[106:16] civilization right where these great
+[106:18] thinkers came to be. But Alfred Adler
+[106:22] specifically is the forgotten uh father
+[106:24] of psychology. And I I I've been
+[106:28] following Adler's work for quite a
+[106:30] while. I've always been, you know, for
+[106:32] the last 15 years I've been pissing off
+[106:33] all of my friends and family and
+[106:35] everything by telling them that
+[106:36] depression is a is a scam basically. And
+[106:40] depression is not something you have,
+[106:42] but it's something you do. um you know
+[106:44] in order to do depression you need to be
+[106:47] selfish you need to be weak you need to
+[106:49] be um you need to eat garbage exactly
+[106:52] all this sort of stuff right so it's
+[106:53] like depression is a thing you do it's
+[106:55] not a thing you have and Adler's work
+[106:58] kind of spoke about a lot of this so so
+[107:00] Adler did away with the concept of
+[107:02] trauma for example you know his idea was
+[107:04] that look it's not that you've had a
+[107:06] trauma that
+[107:08] uh uh predisposes you to act in a
+[107:12] particular way you act in a particular
+[107:13] way and then you justify it with your
+[107:15] trauma, right? Like so he he flipped
+[107:17] things uh on its head. And his whole uh
+[107:22] philosophy around psychology is that you
+[107:25] are the actor. You are the agent and
+[107:29] what happens to you, you take in, you
+[107:32] apply a meaning to it and then you
+[107:34] choose what to do with it in accordance
+[107:37] with that which you believe. And if you
+[107:39] believe you are a traumatized person,
+[107:40] then you will act in accordance with
+[107:42] that and you will behave in that way.
+[107:44] And it, you know, it funny enough, it
+[107:46] does away with therapy. It does away
+[107:48] with drugs and SSRIs and all this sort
+[107:50] of stuff because it is completely
+[107:51] incompatible with that model of
+[107:53] psychology that is taught in the world
+[107:55] today where you're a victim and, you
+[107:57] know, we're going to give you 6,000
+[107:58] labels. You know, now you're depressed,
+[108:00] now you're anxious, now you're this, now
+[108:01] you're that. I like his school of
+[108:05] psychology does away with all of that
+[108:07] sort of stuff. And it's it's really
+[108:08] rough. I I do a whole uh section in the
+[108:10] book specifically. I call it the uh the
+[108:13] psychology of
+[108:15] responsibility. And
+[108:17] um and it's going to I know when people
+[108:21] read this, it's going to uh make make
+[108:23] them angry. Um I've I've got a section
+[108:25] here. So it says Adler infamously didn't
+[108:28] believe in trauma which triggered his
+[108:30] contemporaries and especially modern
+[108:31] psychologists. He didn't deny the
+[108:33] existence of traumatic events of course
+[108:35] nor the mental and emotional scars they
+[108:36] leave. But he emphasized that people
+[108:38] have the capacity to choose and direct
+[108:40] their behavior and therefore their
+[108:41] reaction to such events. Yes, you may be
+[108:44] traumatized, but that's not the end of
+[108:45] the story. Instead of placing yourself
+[108:47] at the effect of trauma powerless
+[108:48] against it, you have the agency to deal
+[108:51] with it. Um, and you know, funny enough,
+[108:54] the world we live in um is completely uh
+[108:57] like ignores his whole form of thinking.
+[109:00] The next paragraph says, "His work is
+[109:02] largely glossed over in modern
+[109:04] psychology, most likely because it
+[109:05] negates the need for ongoing therapy,
+[109:07] medication, and the neverending labeling
+[109:10] of every emotion as a syndrome or
+[109:11] disorder. Not unlike how the Austrian
+[109:14] school of economy economics, which does
+[109:15] away with the bureaucratic central
+[109:16] banking apparatus, is conveniently
+[109:19] ignored. Coincidentally, Adler 2 was
+[109:21] Austrian. There was clearly something
+[109:23] about that region and error."
+[109:25] Yeah, I I I agree. I think I I would say
+[109:29] maybe preworld war I Vienna may have
+[109:32] been the pinnacle of human civilization.
+[109:34] I think you look at the kind of
+[109:36] scholarship and the culture that was
+[109:37] emerging at that point. There's a case
+[109:40] to be made that it may have been there.
+[109:41] And yeah, I um I very much agree with
+[109:44] this analysis and I've um I I' I've
+[109:46] tweeted a few times about how much I
+[109:48] think psychiatry is a scam and just a
+[109:51] scam. I think it's a criminal enterprise
+[109:53] and this is probably going to piss off
+[109:54] some of my listeners. Um but I truly
+[109:57] think it is and I think also um you know
+[110:00] psychology as well um getting people to
+[110:02] sit on couches and talk on things um I
+[110:05] think it's it's hugely destructive. I've
+[110:07] seen so many people whose lives are
+[110:09] destroyed by therapy because the
+[110:13] business model here is that you need the
+[110:14] guy to come back to your couch. If your
+[110:17] business model is you make money from
+[110:19] people sitting on your couch and opening
+[110:20] up, you need them to come back. So the
+[110:22] priority is how to make them come back.
+[110:25] And then of course with SRSRIS is just
+[110:27] downright criminal. You give people
+[110:29] drugs that are completely completely um
+[110:32] truly criminal. I mean they they people
+[110:35] don't really understand what these drugs
+[110:36] do. They put them through the corrupt
+[110:38] FDA process and they just get people to
+[110:41] become dependent on them. And of course
+[110:43] the best argument for those drugs that
+[110:45] people will give is oh
+[110:47] no if people quit them then very bad
+[110:50] things happen. Exactly. Which is why
+[110:52] they shouldn't be on them in the first
+[110:53] place. But I think the u you're
+[110:55] absolutely correct in that the business
+[110:58] of psychology and psychiatry is a
+[111:01] business and in fiat world business you
+[111:03] know people don't have savings. So
+[111:05] business needs recurring revenue. So all
+[111:07] the business models switch toward how do
+[111:09] we get recurring revenue because you
+[111:11] can't just you know cure some people and
+[111:13] make money and then keep the money and
+[111:14] save it and stay financially independent
+[111:17] because you have enough money. The money
+[111:18] is constantly losing value. So, you have
+[111:20] to constantly be finding new clients or
+[111:23] getting returned clients. And so, this,
+[111:27] you know, the it's kind of like dating
+[111:29] apps. I I saw this metaphor sometime on
+[111:31] Twitter. You know, dating apps, they
+[111:33] want it to be good enough for you to
+[111:34] meet people, but they don't want it to
+[111:35] be good enough for you to meet the
+[111:37] person that you actually spend the rest
+[111:39] of your life with because then you're no
+[111:40] longer in the dating app. And it's the
+[111:42] same thing with psychiatry and
+[111:43] psychology. And I think the really
+[111:44] pernicious thing about it is especially
+[111:46] with this idea of trauma is
+[111:49] um people who go to psychology and
+[111:51] psychiatry don't go there. Well, not
+[111:53] always obviously and I'm not
+[111:54] generalizing. I'm sure you know I'm sure
+[111:58] everybody listening um you know your
+[112:00] psychiatrist and your psychologist I'm
+[112:01] sure is the exception and obviously
+[112:03] don't listen to me. I'm crazy and I
+[112:05] don't have any medical degrees. But you
+[112:08] know I'm going to keep ranting anyway.
+[112:10] Um you know the the the the
+[112:14] um the the people who go to
+[112:16] psychiatrists and psychologists they
+[112:18] don't go there to go to get over their
+[112:21] trauma. They go there so that their
+[112:23] trauma defines them. The trauma becomes
+[112:25] legitimiz their life. Exactly. It
+[112:28] becomes I am doing terrible things to
+[112:30] myself because I was traumatized. And
+[112:33] the answer is not for me to stop doing
+[112:35] terrible things. The answer is for me to
+[112:37] sit down on a couch and talk to somebody
+[112:38] about how much I'm traumatized so that
+[112:42] justify to myself this horrific patterns
+[112:44] of behavior. I've seen this with several
+[112:46] people and it's it's quite remarkable
+[112:48] that the it's it's it's liberating you
+[112:51] from the agency of taking charge of your
+[112:54] life. And you see it in in in very clear
+[112:56] destructive behavior. And some of these
+[112:58] people, you know, they do drugs or they
+[113:00] are alcoholics and you tell them, you
+[113:03] know, okay, you're drinking too much.
+[113:05] Maybe you had too much to drink. Maybe
+[113:06] you should lay off the drinks for now.
+[113:08] And they immediately, it's like
+[113:10] conditioning. It's like, you know, the
+[113:11] Pavlovian dog immediately once you
+[113:14] mention their the thing that they're
+[113:16] doing that is destroying their life,
+[113:17] which is alcohol or drugs. And tell
+[113:19] them, "Hey, maybe you should lay off
+[113:20] this stuff. Maybe you've had enough
+[113:21] drinks for today, this immediately they
+[113:25] bring up the trauma like you don't
+[113:27] understand. You don't know what I'm
+[113:28] going through. You don't know what I've
+[113:29] been through. My dad, my mom." Exactly.
+[113:32] And and and it's always it's it's it's
+[113:35] it's always I've seen it as just very
+[113:39] evil because they go to those
+[113:40] psychologists and psychiatrists and
+[113:43] they're told, "Yes, have a here you go.
+[113:45] You've got another 50 minutes. Sit down
+[113:48] and dwell on it. Stew it. Rethink it.
+[113:52] Relive it. Let it define you. Let it
+[113:55] define who you are. Keep living it over
+[113:57] and over and over and over again. And
+[113:59] never break away from it. and keep
+[114:01] letting the impact of it linger on. The
+[114:05] trauma, the bad things that happened to
+[114:07] you, let them continue to define you.
+[114:09] You are what happened to you. And that's
+[114:12] why you need to keep doing whatever it
+[114:14] is that you're doing. And nobody should
+[114:16] get the right to tell you. And and you
+[114:18] know a big part of this of course is
+[114:19] with psychology and psychiatry is if
+[114:21] there's any positive influence anybody's
+[114:23] trying to actually have a good influence
+[114:24] on you and tell you you know what maybe
+[114:26] you should just stop drinking instead of
+[114:28] keep continuing to wallow in this and
+[114:31] drinking here is just a simple example
+[114:32] usually the patterns of behavior that
+[114:34] develop from this are more complex and
+[114:36] destructive well you know I mean
+[114:38] drinking is pretty destructive it can be
+[114:40] but in any case if somebody's trying to
+[114:42] break you out of this you de the the
+[114:45] psych the psychiatrist and the
+[114:47] Psychologists are likely to make you
+[114:49] develop walls to defend yourself from
+[114:51] this. No, no, this person's being toxic.
+[114:53] You don't want to be you you you don't
+[114:56] need more pressure on you. You've
+[114:58] already gone through the trauma and that
+[115:00] was horrible enough. You don't need
+[115:02] people to push you to stop doing the
+[115:04] destructive thing that you're doing. You
+[115:06] need people to indulge you. Come and sit
+[115:07] on my couch and be validated about all
+[115:11] of your feelings and about all of the
+[115:12] things that you're doing. and come and
+[115:14] sit on my couch and take the pill. You
+[115:16] know, lifetime subscription to farmer
+[115:18] poison. It's I I I I want to say that
+[115:22] like
+[115:25] you know when you when you say the the
+[115:27] best thing here for people to do is to
+[115:30] stop and not uh you know legitimize
+[115:32] their issues and all this sort of stuff.
+[115:33] And like this ties back into the virtues
+[115:35] again is cuz what does it take to
+[115:37] actually stop? Like if you've got ex
+[115:39] problem and you're blaming it on your
+[115:40] trauma, like what it really takes to
+[115:42] stop is one word or one virtue which is
+[115:45] courage. Like it takes courage to rise
+[115:48] above whatever it is your trauma,
+[115:50] whatever it is, the environment,
+[115:52] whatever it is that happened to you in
+[115:53] order to fix your life. And that's
+[115:56] Adler's focus like you know when people
+[115:58] asked him and it's in his books he talks
+[116:00] he goes the fundamental thing that
+[116:02] people need to overcome their
+[116:03] psychological problems he boils it down
+[116:05] to courage. That's it. you need, you
+[116:07] have to have the courage to to go beyond
+[116:11] what your perceived limitation is. And
+[116:13] this is, I think, why, you know, it
+[116:15] wasn't so much a conspiracy that Alfred
+[116:18] Adler's um work was ignored. I think
+[116:20] maybe it's become a conspiracy, but his
+[116:23] work fundamentally was uncomfortable.
+[116:24] It's uncomfortable to be courageous.
+[116:27] It's very comfortable to sit down and
+[116:29] somebody tell you, look, it's not your
+[116:30] fault. You know, it's this label and
+[116:33] it's this, you know, the thing that
+[116:34] happened to you. It's your mom's fault,
+[116:36] it's your dad's fault, it's your
+[116:37] grandfather's fault, it's the
+[116:38] workplace's fault, it's somebody else's
+[116:39] fault. And in the process of doing that,
+[116:41] like I think much to what you said
+[116:43] earlier about um when we when we started
+[116:46] the conversation about how the world has
+[116:47] devolved, it's like these things don't
+[116:49] necessarily have to be some grand
+[116:50] conspiracy where it's like, okay, we
+[116:52] must not do this. They kind of happen to
+[116:54] themselves when you have an environment
+[116:56] or, you know, there's certain like uh uh
+[116:59] incentives, right? You you want to
+[117:00] follow the incentives where they go and
+[117:02] this is uh what happens. And um I I want
+[117:06] to read something here from from the
+[117:07] book which it says you know the whole
+[117:09] point of uh Adler's school of psychology
+[117:11] is that it's
+[117:13] teological meaning that it is concerned
+[117:15] with the present and the future which
+[117:17] are the things surprisingly that you can
+[117:20] have control or influence over. Contrast
+[117:22] this with essentially all other modern
+[117:24] schools of psychology which are
+[117:26] eeteological. In other words, they focus
+[117:28] on past events and biological factors
+[117:31] that impact psychology. that is the
+[117:33] things you have very little influence
+[117:35] over. One is goal oriented, the other is
+[117:37] causation oriented. And that right there
+[117:39] kind of comes back to being an agent um
+[117:42] or being a victim, right? Like modern
+[117:44] psychology just literally to to make you
+[117:47] feel better and to validate all of your
+[117:49] issues gives you a whole set of labels
+[117:52] and you know you then have I have OCD,
+[117:55] oh, I have anxiety. Oh, I have
+[117:57] depression. Oh, I have this. I have
+[117:59] that. you you have a a label and a
+[118:01] reason for every single one of the
+[118:02] problems in your life when the solution
+[118:04] to all of
+[118:06] it is eat some steak, go to the gym and
+[118:09] get some sun, right? Like is some
+[118:11] courage. And we used to like men and
+[118:13] women used to deal with this through
+[118:14] like men went to work or went to war,
+[118:16] right? Women used to raise families and
+[118:19] now we've got all this other in the way
+[118:21] with all of these layers of labeling and
+[118:24] SSRIs and drugs and therapy and all this
+[118:27] kind of crap which obfuscates all of it.
+[118:30] Yeah, absolutely. And I think one very
+[118:32] dangerous aspect of this which I've um
+[118:34] it's it's a very powerful point that
+[118:36] I've come across, you know, in in modern
+[118:38] society everybody's got to have um well
+[118:42] I mean the highest status that you can
+[118:44] aspire to is victimhood. Yes. Yes. uh
+[118:47] you have the oppression Olympics. Yeah,
+[118:50] the oppression Olympics. And so
+[118:51] basically your status in society is
+[118:53] determined by how many um tags of
+[118:56] oppression you've got. So uh being
+[118:59] black, being brown, all that these are
+[119:01] all great points. Being um a woman,
+[119:04] being gay, and you know, not everybody
+[119:07] can be black or brown or a woman. So
+[119:10] then you've got to be creative. And this
+[119:15] has I think particularly in universities
+[119:18] and it's ob obviously it's big pharma
+[119:20] marketing for their poison. But the uh
+[119:25] this this is this is how you can get in
+[119:27] on the Olympics particularly if you
+[119:28] don't fit into the other categories. If
+[119:31] you're if you're a white male
+[119:34] I mean or even a white woman because you
+[119:36] know woman is not such a big deal
+[119:38] anymore. You're not really very high on
+[119:39] the oppression Olympics if you're a
+[119:42] woman anymore. But if you have a
+[119:46] depression, if you have a condition and
+[119:48] then you define yourself by that
+[119:50] condition, people wear it like a an
+[119:53] identity instead of taking pride in
+[119:55] their work and their achievement. You
+[119:57] know, this it's hey, I have this thing
+[119:59] and so therefore when you talk to me,
+[120:00] you have to talk to me in a certain way
+[120:01] and you have to deal with me in a
+[120:03] certain way. And again, this is this is
+[120:06] just again I keep drawing everything
+[120:09] back to fiat. You know, I don't think so
+[120:12] much it's a conspiracy against Adler.
+[120:15] It's just that Adler doesn't pay bills
+[120:17] in a fiat world. In a fiat world, you
+[120:19] need recurring revenue because nobody
+[120:20] has savings. And so all the ideas that
+[120:23] lead to recurring revenue work. If you
+[120:26] actually did find a magic pill that
+[120:28] cures cancer, you would not be able to
+[120:30] market it. you'd need to pay so many
+[120:32] billions of dollars to get it into um
+[120:36] the market to be approved to get FDA
+[120:38] approval and to get licensing and
+[120:40] patents and all of those things. That
+[120:41] costs several billions of dollars and it
+[120:43] takes a lot of time. And then if people
+[120:45] will just take one pill and be cured,
+[120:47] that's likely not going to be paying for
+[120:50] you. So you need to make addictions. So
+[120:53] the pills need to be for addiction. And
+[120:55] so telling people, you know, as Adler
+[120:57] says, look, your trauma happened, but
+[121:00] you're alive now and you're able to
+[121:03] function as a normal human being
+[121:05] physically. So you can just go out there
+[121:07] and live your life. You can just live
+[121:08] your life and not let the trauma define
+[121:10] you. Just go to the gym, eat some meat,
+[121:13] and get some sunshine for 3 months and
+[121:15] see how it goes. If you do that, that's
+[121:18] going to really destroy the business
+[121:20] model of psychology and psychiatry. And
+[121:23] so you gota you got to stew in your
+[121:26] trauma, man. You have to sit there and
+[121:28] and and just stew in it and let it
+[121:30] define you and continue to let it define
+[121:32] you. And you know, I mean, I I remember
+[121:34] one of the one of the reasons I respect
+[121:36] Andrew Tate is because he was really
+[121:39] brave about doing this. I've thought
+[121:42] this and I generally not wanted to speak
+[121:44] too much about it because I think it can
+[121:46] be um quite uncomfortable for people,
+[121:49] but I'm just putting this out there
+[121:50] right now. If you disagree with me, you
+[121:53] know what? I don't care. Don't come
+[121:55] ranting at me. Yes, I know a lot of
+[121:57] people disagree. I don't care. Um, I've
+[122:00] heard a lot of people, you've spent all
+[122:02] of your life being told that Freud and
+[122:04] um, psychiatry and psychology are
+[122:07] important. I think it's stupid
+[122:09] pseudocience. And don't shout at me if
+[122:12] you don't agree. That's fine. There are
+[122:14] other people out there who say the
+[122:16] things that you like. Just go listen to
+[122:17] them. Um, this is my opinion. I think
+[122:20] you're better off just eating meat,
+[122:23] lifting, and getting
+[122:25] sunshine. But I'm sure you know your
+[122:27] doctor and your psychologist and
+[122:29] psychiatrist disagree for very good
+[122:30] reasons. So, whatever. Yeah. Look, the
+[122:33] last thing I'll say on this is, you
+[122:35] know, depression
+[122:38] is real in so far as it's a temporary
+[122:42] state that acts as a signal. your your
+[122:45] body's nervous system is telling you
+[122:47] that you are not living in accordance
+[122:50] with uh your ideals, your values or you
+[122:53] you're living without meaning. That's
+[122:56] it. And if you go and numb your body's
+[122:58] signaling mechanism, you are going to
+[123:02] everything up. And that's the biggest
+[123:04] criminal sort of component about
+[123:06] depression. This is why I've always
+[123:07] hated this idea is that you like, sorry,
+[123:11] I'm going to have to read another part
+[123:12] of the book here. It says, "For over 15
+[123:15] years, I've triggered my psychologist
+[123:16] friends by calling depression an act or
+[123:18] behavior, not a syndrome or disease. You
+[123:20] don't get depression, you do depression
+[123:21] by choosing to remain in that state.
+[123:23] It's not just something that happens to
+[123:25] you or that you catch like the flu. It's
+[123:27] a choice or at most it's a temporary
+[123:29] feeling. Of course, life can knock you
+[123:32] down and instead of feeling ev elevated,
+[123:34] you occasionally feel depressed. That's
+[123:37] normal. It happens to all of us and it's
+[123:39] your body's way of telling you to take
+[123:41] stock and introspect for a minute. This
+[123:43] feeling is a healthy signal from the
+[123:45] nervous system to adjust your behavior
+[123:47] or a warning that you are lacking focus
+[123:49] or meaning in your life. Instead of
+[123:51] using it as the catalyst for change or
+[123:54] writing it like the wave of emotion that
+[123:56] it is, modern psychology shortcircuits
+[123:58] the natural process by teaching you to
+[124:00] numb yourself into oblivion with drugs
+[124:02] or to marry the feeling and label
+[124:05] yourself clinically depressed. Right? So
+[124:07] that's like this is a big point for me
+[124:09] and it I I I want to I want to just say
+[124:12] something earlier. you said like
+[124:13] recurring revenue and you know is is you
+[124:16] know something that fiat incentivizes
+[124:17] and and I I guess I only agree 50%
+[124:19] there. I think recurring revenue is
+[124:21] always a a a something that a business
+[124:24] will optimize for. You want to increase
+[124:25] your customer lifetime value and it's
+[124:27] always easier to get another purchase
+[124:29] from an existing customer than it is to
+[124:31] go and chase a new customer. I think in
+[124:33] cases like this when it comes to the
+[124:36] criminality around uh you know turning
+[124:39] people into victims and telling them to
+[124:42] wear 10,000 labels about their
+[124:44] depression or everything like that. I
+[124:45] think this is where
+[124:48] ultimately teaching the virtue of
+[124:50] responsibility comes into play. like we
+[124:54] can't. So this is an area where we we
+[124:57] have to it's not just about fixing the
+[124:59] money but it's about fixing the virtues
+[125:01] or fixing the culture. Right? If you if
+[125:04] you have a culture that values
+[125:06] responsibility or that holds
+[125:08] responsibility up is a virtue that you
+[125:09] like do you think for for example
+[125:12] responsibility was huge amongst the
+[125:14] Spartans. Do you think the Spartans had
+[125:16] a psychologist there sitting there
+[125:18] telling them about oh their depression
+[125:20] all this? No, that didn't happen, right?
+[125:22] Like or the samurai like could you
+[125:24] imagine the samurai as a warrior class
+[125:27] worrying about like oh you know I'm
+[125:29] feeling a bit depressed today and you
+[125:31] know taking some pills. It it did not
+[125:33] work like that. So when you establish a
+[125:35] culture which basically has a standard
+[125:38] that hey we don't accept victimhood
+[125:41] amongst our young men or or whatever
+[125:43] that case is like you have those
+[125:44] standards then you you can basically
+[125:49] ostracize in many ways
+[125:51] or not allow for the creation of these
+[125:55] kind of corrupt businesses like big
+[125:57] farmer that want to create a society in
+[126:01] which everybody's a victim because the
+[126:03] more victims you have the more customers
+[126:04] you have. So, so this is where it sort
+[126:05] of comes back to my whole theory and the
+[126:08] the whole reason I wrote this book. We
+[126:10] need Bitcoin, but we need this code as
+[126:13] well that they both have to come hand in
+[126:15] hand to build civilization. They're so
+[126:18] important uh together.
+[126:20] Yeah. No, I I definitely agree with
+[126:22] that. And I think um yeah, as you said,
+[126:26] you know, the samurai weren't getting
+[126:27] depressed. Anybody who's got meaning, a
+[126:29] reason to get out of bed is not being
+[126:31] depressed. If you get out of bed excited
+[126:33] because you want to do things today,
+[126:36] then you are going to not have a problem
+[126:39] with depression. I think this is just um
+[126:42] just the nature of things. And and as
+[126:43] you said, it's your body is giving you a
+[126:47] very valuable signal that what you're
+[126:48] doing now is not working. It could be
+[126:50] the relationships that you're in. It
+[126:52] could be the work that you're doing. It
+[126:54] could be something about whatever it is.
+[126:56] There's something about your life that
+[126:57] is eating you inside and your body is
+[126:59] signaling this. And if you go to the
+[127:02] scammer psychiatrist and he just gives
+[127:04] you a pill, but you continue to do your
+[127:06] life the way that you're doing it, it's
+[127:09] actually far worse than just being a
+[127:11] poisonous addiction that's going to uh
+[127:13] cost you a lot of money. It's a lot
+[127:16] worse because it's allowing you to
+[127:18] perpetuate and continue the behavior
+[127:20] that is causing this. And it does that
+[127:23] by numbing you. And it numbs you and
+[127:24] that makes you a very, very different
+[127:26] person. Which is why, you
+[127:28] know, I think uh I think you know if if
+[127:33] you lift if you eat meat and if you get
+[127:36] enough sunshine I am pretty sure you can
+[127:38] begin to fix the depression. Now
+[127:41] obviously that's not enough because if
+[127:42] you're say miserable about the
+[127:44] relationship that you're doing,
+[127:46] miserable about your work or miserable
+[127:47] about the day you're spending your life
+[127:49] that you need to fix that. But the way
+[127:52] to fix that is to get out there and
+[127:54] become healthier so that your brain
+[127:56] starts working better. So get sunshine,
+[127:58] eat meat and and exercise. Work your
+[128:03] body, healthy body, healthy mind. You're
+[128:06] going to look better, you're going to
+[128:06] feel better, you're going to function
+[128:09] better, think better. And all of that
+[128:11] combined is going to allow you a lot
+[128:13] more room for solving your problems. And
+[128:16] you'll figure out a solution a lot
+[128:18] better when you're high on stake. and
+[128:21] sun and steel rather than if you're high
+[128:24] on SSRIs and all of this pharma poison.
+[128:28] And I'll just say this, you are a lot I
+[128:32] mean just try the try one month of beef
+[128:36] of steak and steel the 3 S's before you
+[128:39] switch to the SSRI because you know what
+[128:42] it's very easy to quit steak and steel.
+[128:44] So if it doesn't work you try a month.
+[128:46] Okay, you maybe maybe I don't believe
+[128:50] this is going to happen, but maybe it
+[128:51] makes you feel a lot worse. Maybe the
+[128:54] sun is not for you. Maybe beef is not
+[128:55] for you. Maybe you really are so special
+[128:57] that you are um not like all the rest of
+[129:00] us humans who can thrive on physical
+[129:03] exercise and meat and sunshine. But
+[129:06] guess what? If that happens, you can
+[129:08] quit meat and sunshine and gym any day
+[129:13] and there are no bad withdrawal effects.
+[129:16] but you sign up for your psychiatrist's
+[129:18] pills, it's it's a lot more difficult to
+[129:21] quit. So, I very very strongly urge you
+[129:24] to maybe consider trying the first one
+[129:26] first. But hey, this is not medical
+[129:28] advice. I'm just uh you know, crazy
+[129:30] conspiracy theorist uh economist who's
+[129:34] just ranting with my friend and uh you
+[129:37] chose to listen to this. So, don't hold
+[129:40] me responsible if you um you know, if if
+[129:42] you eat steak and it causes your
+[129:44] depression to not go away, then um don't
+[129:46] sue me. Our condolences. You only act
+[129:49] out of your own will. I'm just ranting
+[129:51] here. You don't have to listen to me.
+[129:52] None of this is medical advice. I want
+[129:55] to I want to tie this into one other
+[129:58] section of the book called
+[129:59] physiocsychology, which is a very
+[130:01] nichian uh idea. And while I was writing
+[130:04] the book, I really went down the niche
+[130:05] rabbit hole. And and I think this is why
+[130:07] I love this idea of like merging uh sort
+[130:10] of Christianity, hobbyism and nichianism
+[130:13] kind of together like this ven diagram
+[130:14] as a framework for individuals and
+[130:16] society. But before I go down there, I
+[130:18] just wanted to say I I just came up with
+[130:20] something as you were talking. So
+[130:21] obviously we know the sun's steel and
+[130:22] stake and I think that is the foundation
+[130:25] that you need and then if you want to
+[130:27] keep going you need purpose progress and
+[130:30] power like that's the sort of the three
+[130:32] next thing is you need to have something
+[130:34] you're working towards you need to be
+[130:36] making progress like you know I I I
+[130:39] wrote about this the other day talking
+[130:41] about how freedom and happiness are
+[130:43] effects of responsibility and progress
+[130:46] right and we have optimized for the like
+[130:48] society has optimized for the effects
+[130:50] not for the things that make them
+[130:51] happen. Right? So progress is the only
+[130:53] way to get happiness. You cannot be
+[130:55] happy if you're not making progress in
+[130:56] some way, shape or form. So you need
+[130:57] purpose, you need progress. And the
+[131:00] Nietian idea of you need to be expanding
+[131:02] in some way, shape or form your power.
+[131:04] And you know, power is a dirty word.
+[131:06] Like people think, oh, you know, power
+[131:08] is what corrupts and all this sort of
+[131:09]  Total like power is just simply
+[131:12] your capacity to channel energy. Power
+[131:15] like in the physics sense is energy over
+[131:18] time, right? There's nothing evil about
+[131:19] that. And your goal as a human being is
+[131:23] to enhance or to increase the amount of
+[131:26] energy you can channel at least till you
+[131:28] get to your peak, you know, and then in
+[131:29] life as you sort of get older or
+[131:31] whatever the case is. If you can't
+[131:33] channel physical power as much, you want
+[131:34] to figure out how to channel the power
+[131:36] through maybe your children or through
+[131:38] the other things that you're doing. But
+[131:39] fundamentally like life is about
+[131:41] channeling energy. So sun, steel, stake
+[131:43] is your foundation. purpose, progress,
+[131:46] power is sort of like the the the
+[131:48] direction you want to go. But um but but
+[131:51] I'll just say that um yeah, definitely
+[131:53] you need to go to you need to seek those
+[131:56] things. But I think sunset steel and
+[131:57] stake is how you're going to have the
+[131:59] mental and physical clarity. Exactly.
+[132:01] It's the foundation. Yeah. You you can't
+[132:02] do it without those. So So you need the
+[132:04] foundation and then you need to then
+[132:06] that's your the direction. But you you
+[132:08] can't do that without fuel in the tank.
+[132:10] But um something I wanted to say about
+[132:13] physiocys. So I I I talk a lot in the
+[132:17] book about moving back to the body and
+[132:19] and this is related here is like sun
+[132:21] steel stake is the solution to
+[132:24] psychology. Sorry it's the it's the
+[132:26] solution to depression because it
+[132:28] strengthens your body if you ignore if
+[132:31] you pretend like your body doesn't
+[132:33] exist. Like you know this is what all
+[132:34] the AI nerds and all this sort of stuff
+[132:36] like all the morons think is like
+[132:38] somehow the mind is in the brain. Well
+[132:41] it's not. the the mind exists within the
+[132:44] body and the brain simultaneously. You
+[132:46] can't have a brain and a vat. Like Yuval
+[132:48] Harrari is if he thinks that
+[132:50] we're going to live forever with a brain
+[132:52] and a vat, right? It doesn't work like
+[132:53] that. You need the body and the mind.
+[132:55] They need to come together. And as you
+[132:57] cultivate one, you cultivate the other.
+[132:59] As you ignore one, you ignore the other,
+[133:01] basically.
+[133:02] And it it reminds me of this idea that
+[133:06] philosophy
+[133:08] precratic ancient Greek philosophy there
+[133:11] was no concept of philosophy that was
+[133:13] cerebral. It wasn't about talking about
+[133:15] ideas. philosophy was I went and I
+[133:18] sailed the Mediterranean during these
+[133:21] storms and I went and conquered an
+[133:23] island and I I I exerted my philosophy,
+[133:27] my way of life, my my understanding and
+[133:29] I came back with some lessons and I told
+[133:31] a story that was the original
+[133:32] incarnation of what philosophy was.
+[133:35] We've sort of like turned it into a
+[133:37] cerebralization these days, you know,
+[133:39] pontificating about ideas and, you know,
+[133:40] arguing about like the the definition.
+[133:43] You know, I had a debate with Breedlove
+[133:45] the other day about like the semantics
+[133:46] of the word freedom. And I was like, for
+[133:48]  sake, like this is just like
+[133:52] painful. I get that freedom is important
+[133:54] to you, but for sake, like I don't need
+[133:56] a philosophical treatise on like the the
+[133:59] ineffable, you know, existence of
+[134:01] freedom. Like I get it. So I think it's
+[134:05] you know one one of the the takeaways of
+[134:07] the book here that I want to mention to
+[134:08] people is
+[134:10] that you cannot ignore the body like the
+[134:13] idea of um you know brain detached from
+[134:17] body is a a a yval harari wet dream it's
+[134:21] a nerd's fallacy like you need both you
+[134:24] need to cultivate both and true wisdom
+[134:26] or true mastery there's a section in the
+[134:28] book or a whole chapter on mastery
+[134:30] mastery is when the knowledge moves from
+[134:33] the brain into the body, right? When
+[134:36] when you truly know that you know
+[134:38] something like this is the the best
+[134:40] football players, the best racing car
+[134:42] drivers, the best athletes, the best
+[134:45] thinkers, the best anything have body
+[134:48] intelligence where the knowledge or the
+[134:50] capacity of it has moved into their
+[134:53] reflexes. That's true mastery. That's
+[134:55] through knowledge. And that's what you
+[134:57] know, that's what requires the 10,000
+[134:59] hours of practice, right? you you
+[135:02] practice something to know it in your
+[135:04] blood, in your DNA, not in your brain.
+[135:07] Um, which goes back to what we just
+[135:10] discussed, Sun, steel, stake, purpose,
+[135:12] like all of this stuff is it's all
+[135:13] interrelated. The these principles apply
+[135:16] across the whole spectrum.
+[135:18] Yeah. Um, well, you mentioned NE. I
+[135:21] don't know if we've seen this. I've
+[135:22] tweeted this out before. I really love
+[135:24] this passage from Mises, which is
+[135:26] basically him telling Nze, "Do you even
+[135:29] lift, bro?" And it's it's really
+[135:32] hilarious. I think it was one of the
+[135:34] best dunks on Nichze. Uh so I'm going to
+[135:37] mention it. I mean it's um it uh I mean
+[135:40] look I agree with you on the importance
+[135:42] of this but I think a lot of these
+[135:45] people can uh can sort of take niche in
+[135:48] a way that uh mises critiques very well.
+[135:51] So yes, it's true. You know, you want um
+[135:54] there is a nobility to doing things with
+[135:56] your body and you know the the idea that
+[135:59] might is right and that you want to be
+[136:02] living dangerously. I mean, it sounds
+[136:05] tempting and it's very tempting for him
+[136:08] to be saying it. But in
+[136:10] reality, this notion of living as a
+[136:12] violent person is not powerful at all.
+[136:16] Because the strongest man in the world,
+[136:19] you know, think about the most violent
+[136:21] person, think about Jon Jones or Francis
+[136:23] Nanu, the toughest UFC fighter, he'd
+[136:27] probably kill
+[136:29] 99.999% of men with his bare hands.
+[136:32] Maybe even more. He could kill them with
+[136:34] his bare hands if you put him in a cage.
+[136:36] Well, that guy, a 10-year-old girl can
+[136:39] kill him if she is able to be part of
+[136:42] human civilization, part of the division
+[136:44] of labor, and he's not. So, if you're
+[136:47] Jon Jones, a 10-year-old and and you're
+[136:49] just relying on the fact that you're
+[136:51] powerful, so you don't need people. So,
+[136:52] you don't trade with people. You don't
+[136:53] respect people's property. You just you
+[136:56] think, "Well, I'm stronger than all of
+[136:57] those people." Think of Jon Jones
+[136:59] decides, I'm stronger than everybody.
+[137:00] I'm just going to stop paying for
+[137:02] anything. I'm just going to take all of
+[137:04] my stuff that I want because then if
+[137:06] anybody talks to me, I'm just going to
+[137:07] punch them. Well, no matter how strong
+[137:09] you are physically, you are
+[137:12] inconsequential and an inconsequential
+[137:14] fly, a mosquito next to anybody who has
+[137:18] access to the division of labor because
+[137:20] the division of labor allows us to build
+[137:21] guns that can shoot you down. Whereas
+[137:23] Jon Jones on his own, no matter how
+[137:25] smart, no matter how strong, will never
+[137:26] be able to build a gun on his own.
+[137:28] Nobody can build a gun on his own. Gun
+[137:30] requires an enormous division of labor.
+[137:32] So yes, you want to get out there, you
+[137:35] want to work out, you do want to lift,
+[137:37] but you don't want to glorify violence
+[137:40] and barbarism because by your own
+[137:43] measure, which is strength and
+[137:46] uh and and power, this is not the way to
+[137:50] be powerful. The way to be powerful is
+[137:51] to join the division of labor, respect
+[137:53] property rights, not violate people's
+[137:54] rights, and understand that property
+[137:58] rights are more important than might.
+[138:01] And so right is Trump's might. If this
+[138:04] is your land, it doesn't matter if I can
+[138:06] punch you and take your land because if
+[138:08] I take your land and punch you, then you
+[138:10] know your son or daughter can just get a
+[138:13] gun and shoot me. And so that's why, you
+[138:16] know, the the the strongest societies,
+[138:19] the strongest people in the world are
+[138:20] all part of the division of labor. So
+[138:23] Mises says to Nze, "It is noteworthy
+[138:26] that the men who were foremost in
+[138:28] extolling the eminence of the savage
+[138:30] impulses of our barbarian forefathers
+[138:33] were so frail that their bodies would
+[138:35] not have come up to the requirements of
+[138:37] dangerous living. Nie, even before his
+[138:40] mental breakdown, was so sickly that the
+[138:42] only climate he could stand was that of
+[138:44] the Enadin Valley and of some Italian
+[138:47] districts. He would not have been in a
+[138:49] position to accomplish his work if
+[138:50] civilized society had not protected his
+[138:53] delicate nerves against the roughness of
+[138:55] life. The apostles of violence wrote
+[138:58] their books under the sheltering roof of
+[139:00] bourgeoa security which they derided and
+[139:03] disparaged. They were free to publish
+[139:05] their incendiary ceremonies because the
+[139:07] liberalism which they scorned
+[139:10] safeguarded freedom of the press. They
+[139:12] would have been desperate if they had
+[139:13] had to forego the blessing. those sorry
+[139:18] they would have been desperate if they
+[139:19] had had to forgo the blessings of the
+[139:20] civilization and scorned by of the
+[139:23] civilization scorned by their philosophy
+[139:26] and what a spectacle was that what a
+[139:28] spectacle was that timid writer George
+[139:30] Sorell who went so far in his praise of
+[139:32] brutality as to blame the modern system
+[139:34] of education for weakening men's inborn
+[139:36] tendencies towards violence. I I just
+[139:39] couldn't help every time I'd see Yeah. I
+[139:41] mean Yeah. I mean I mean to you know
+[139:45] nature would hike six hours uh each day.
+[139:48] Um he he would wake up at 5:00 in the
+[139:50] morning. He would have some fruit and
+[139:52] then he would hike for 6 hours in the
+[139:53] mountains and then he would go and
+[139:54] write. There was nothing weak about
+[139:56] that. I think a lot of people sort of
+[139:58] had he should have been having steak and
+[139:59] lifting but okay. I mean you know
+[140:01] whatever. Yeah. I'm pretty sure he was
+[140:03] eating steak as well. Like you know this
+[140:05] this guy was in the army initially. He
+[140:08] uh he was uh like literally shot at and
+[140:13] um you know went to war with people. So
+[140:15] like this sort of conception that nature
+[140:17] was like a and all this sort of
+[140:18] stuff is incorrect. He may have you know
+[140:20] become an incel but you know people say
+[140:21] then he got syphilis and you know the
+[140:23] only way to get syphilis is by someone.
+[140:25] So that kind of you know contradiction
+[140:26] breaks down as well. So like you know
+[140:28] there's a lot of you know nature well
+[140:30] there is another way
+[140:34] maybe but um you know nature nature is
+[140:36] an interesting character because
+[140:37] everyone you know like on the left on
+[140:40] the right in economics everyone hates
+[140:41] him and he just like he he triggers
+[140:43] everybody um which is why I personally
+[140:45] love him but I I I just wanted to pull
+[140:48] on the the thing of um of barbarism
+[140:52] savagery and then also what was
+[140:54] mentioned at the end of um that quote
+[140:57] right there which
+[140:58] is
+[141:00] people have been softened in modern
+[141:03] civilization. We've been softened to the
+[141:05] point where uh we ignore our impulses
+[141:10] for you know you can call it barbarism
+[141:12] savagery or whatever but like the
+[141:14] impulse to actually get up and do
+[141:17] something that exerts one is traded for
+[141:21] comfort and safety and there is a there
+[141:23] is a in my opinion someone like nature
+[141:26] wasn't uh arguing against for example uh
+[141:30] the the capacity to increase your power
+[141:33] through economic means and private
+[141:34] property. In fact, I I think nature many
+[141:36] times has warned against uh democracy
+[141:40] and all of the stupidity that would
+[141:41] occur if we start to um you know go down
+[141:45] the the non-economic path. Right? So he
+[141:47] he you know he's never really been a a
+[141:50] critic of that. What he was a critic of
+[141:52] was the li the excessive liberalization
+[141:54] and softening of civilization which
+[141:56] would lead to the weak men state. And
+[141:59] when you get to weak men, you end up
+[142:02] with bad times because weak men are the
+[142:04] ones that decide to print money. Weak
+[142:06] men are the ones that decide to create a
+[142:08] society in which cheating is um uh
+[142:11] glorified, right? So like if you think
+[142:12] about strength, and I have this
+[142:14] definition in the book, strength is not
+[142:16] getting into a ring and beating up a
+[142:18] little child, right? Like I'm not
+[142:20] stronger because I kicked, you know, a
+[142:21] 5-year-old in the face. I'm stronger if
+[142:24] I get into the ring and exert myself or
+[142:26] push myself, right? and channel my my
+[142:29] energy in some in some capacity. So
+[142:31] strength is more about punching up than
+[142:33] punching down. And that was I think you
+[142:36] know the the crux of nature's philosophy
+[142:37] is that
+[142:40] you he wasn't interested as much in the
+[142:43] means but more in the ends of you if
+[142:46] you're going to construct the
+[142:47] civilization you must you must you must
+[142:50] you must have a relationship to to power
+[142:54] strength um you know the the the savage
+[142:59] impulse in the sense not to just go and
+[143:02] take somebody else's but to be able to
+[143:05] expand and to conquer, right? That was
+[143:07] the sort of idea. It's like when Cortez
+[143:10] sailed from Spain to um you know the
+[143:14] Americas like they went they had this
+[143:17] will to power fundamentally speaking to
+[143:20] go and change the universe or change the
+[143:22] world through the prism that they saw um
+[143:26] as more correct and their version of
+[143:29] civilization brought us what we have
+[143:31] today you know Columbus the same etc
+[143:33] etc. So I think there's um in my opinion
+[143:37] like the the Hoppian ideal or the Mesian
+[143:40] ideal actually matches more with um
+[143:42] nature than it doesn't. Um for for me if
+[143:46] I if I had to pinpoint what NZ's
+[143:48] criticism was was around excessive
+[143:51] liberal liberalization which is ties
+[143:53] into what we discussed earlier. You know
+[143:54] he his critique was about don't make men
+[143:58] weak um and don't institute democracy
+[144:01] where every lemming gets a vote because
+[144:05] then you will optimize society for
+[144:08] average and it will devolve. If you want
+[144:11] a strong society you need to optimize
+[144:12] for excellence. That was that was sort
+[144:14] of nech's conceptualization of things
+[144:16] and then you need the economic framework
+[144:19] for that. So in this case sun steel and
+[144:22] stake would be the equivalent of misuses
+[144:25] would be the foundation. You need that
+[144:27] because if you do not do that I don't
+[144:29] give a how much purpose progress
+[144:31] all sort of stuff you're talking about.
+[144:32] If you are eating seed oils and you're
+[144:35] in the dark and you never lift anything
+[144:38] you're not going to achieve any of that.
+[144:39] So you need the economic basis. So like
+[144:41] meian Austrian thinking is that but to
+[144:44] transcend that you need this sort of
+[144:46] nitin ideal of progress, power and
+[144:48] purpose like you need to push beyond
+[144:50] what is just um what makes sense on the
+[144:53] spreadsheet, right? So so you need to
+[144:56] have that vitality like you need to have
+[144:58] the the courage, the heart, the spirit
+[145:01] of a of Alexander or Napoleon, someone
+[145:03] who wants to bend the universe. This is,
+[145:06] you know, the the the people who exhibit
+[145:09] that today in my opinion are people like
+[145:11] Steve Jobs or Jeff Bezos, right? Like
+[145:13] they are able to take that energy and
+[145:16] create something that nobody thought was
+[145:19] possible. Imagine being laughed at like
+[145:21] Bezos being laughed at for a decade
+[145:24] about this idea that you could build
+[145:25] this business that can produce that.
+[145:27] Yes, I know there's arguments about oh,
+[145:29] you know, this was only possible in a
+[145:30] fiat world, yada yada yada, but
+[145:32] ultimately like he used that and he bent
+[145:36] uh civilization in such a way that he
+[145:38] created something that was before
+[145:40] thought impossible and he impacted
+[145:43] everything. Um so so anyway, that's
+[145:45] that's sort of like what I would go in
+[145:48] and um and just say is like a a defense
+[145:51] of nature to Mises.
+[145:54] Yes. All right. Well, man, this has been
+[145:57] uh this has been really fascinating and
+[145:59] very interesting discussion. I enjoyed
+[146:00] this a lot. So, um tell us more about
+[146:03] what you're up to these days, um Alex,
+[146:05] and where people can find you and find
+[146:07] your work other than the safe. That's
+[146:09] that's that's where we can wrap it up. I
+[146:11] mean, I've um if people want to like I
+[146:13] highly recommend everybody watch the
+[146:14] two-minute trailer. I made a trailer for
+[146:16] the book and they can see that on
+[146:19] bashidtoofbitcoin.com and it it'll blow
+[146:22] your mind. I promise you. Like, it's the
+[146:23] best trailer you'll ever see uh on a
+[146:25] book.
+[146:27] Um I have uh since we last spoke
+[146:30] obviously we spoke about a year and a
+[146:31] half ago I was building Spirit of
+[146:32] Satoshi at that time. So just as an
+[146:34] update to everyone we ended up open
+[146:35] sourcing it. We couldn't figure out how
+[146:37] to commercialize it and you know such as
+[146:40] the uh the realities of building stuff
+[146:44] in the real world sometimes just doesn't
+[146:46] work. You know we we built it we ended
+[146:48] up I remember when I demoed it with you
+[146:50] it was still pretty crap. We ended up
+[146:52] getting it very very very good. Like we
+[146:54] would ask it even random questions like
+[146:56] um you know tell me about Joe Biden and
+[146:58] it would say he's a you know war
+[146:59] criminal and blah blah blah. We're like
+[147:00] whoa okay it was it was funny but we
+[147:04] just we couldn't figure out how to
+[147:05] commercialize it. Unfortunately there
+[147:06] wasn't a market for a Bitcoin only LLM.
+[147:08] So we open sourced it. We put it on um
+[147:10] on Hugging Face so anybody can download
+[147:11] it and use it there. And since then I
+[147:13] moved on to building a platform which is
+[147:15] kind of like a a Noster app but a
+[147:17] different kind. So I've been passionate
+[147:19] about like travel and you know this idea
+[147:23] of the sovereign individual lifestyle um
+[147:25] and you know health and geo arbitrage
+[147:29] and building network states and you know
+[147:32] being outside of the system for a long
+[147:34] time and we're trying to build something
+[147:36] where it kind of combines the social
+[147:38] element um events uh merchants so you
+[147:43] can find anything where like you can
+[147:44] find merchants that are seed oil free or
+[147:46] you know bitcoin only and steak,
+[147:49] carnival, like all this sort of stuff
+[147:50] that kind of combines all of these
+[147:51] things in this kind of like new
+[147:54] directory/social app. So, it's it's very
+[147:57] interesting. It's like I I can't
+[147:59] describe it in a single sentence
+[148:01] because I guess similar to how Facebook
+[148:03] before Facebook, you couldn't really
+[148:04] describe what Facebook was. This is kind
+[148:06] of like that. It's a it's a new category
+[148:08] defining product. But that's where all
+[148:10] my focus is. Bashidito of Bitcoin and
+[148:12] that I'm writing a part two to the
+[148:13] Bashidto of Bitcoin called the
+[148:15] metaphysics of war and beauty and this
+[148:18] is a it's sort of like a it extends on
+[148:20] some of the ideas from the Bashidto of
+[148:22] Bitcoin. It kind of uh it's kind of like
+[148:24] the metaphysics behind the the the
+[148:26] Bashida. So I'm working on that and also
+[148:29] the the Bitcoin times I've actually
+[148:31] handed off to Canute and Luke from the
+[148:33] Freedom Footprint show. So they're going
+[148:35] to be leading that from now on because
+[148:36] I'm trying to like simplify my life and
+[148:38] just focus on two things. My
+[148:40] professional life is Atlantis and my
+[148:44] private sort of writing life is
+[148:45] Bashidito. So there'll be a whole series
+[148:47] of Bashidto books which I'm sure we'll
+[148:49] end up publishing the whole series with
+[148:51] you at some point. Nice. Well, that's
+[148:53] wonderful to hear, man. Thank you so
+[148:55] much again and uh yeah, keep uh keep
+[148:58] turnurning out great books. Thank you,
+[149:00] my friend. Thank you for having me on
+[149:01] and thank you for the great
+[149:02] conversation. A thanks. My pleasure.
+[149:04] Take care. You
+[149:06] too.
+[149:11] [Music]
+[149:16] Yeah. Heat.
+[149:21] [Music]

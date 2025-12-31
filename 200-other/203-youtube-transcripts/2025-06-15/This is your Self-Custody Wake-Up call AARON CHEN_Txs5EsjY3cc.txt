@@ -1,0 +1,1250 @@
+Title: This is your Self-Custody Wake-Up call |  AARON CHEN
+Video ID: Txs5EsjY3cc
+URL: https://www.youtube.com/watch?v=Txs5EsjY3cc
+Date Saved: 2025-06-15 11:57:35
+--------------------------------------------------
+
+[00:00] I call myself a self custody Max notist
+[00:02] when you only have it on Exchange you
+[00:04] understand the number grop technology
+[00:06] but not the freedom grop technology you
+[00:08] might get rock pulled might get
+[00:09] something like an FTX it's so easy to
+[00:12] get hacked we all know that from
+[00:14] previous experience like the FTX they
+[00:16] can easily store your coins into other
+[00:19] base so the only way to solve this
+[00:21] problems is you keep it on your own hand
+[00:25] most users on the Bitcoin blockchain
+[00:28] have their Bitcoin in exchange with a
+[00:30] custodian but the most Bitcoin like is
+[00:33] actually in self custody get the coins
+[00:35] out of the exchange and to your own
+[00:37] wallet I'm a bitcoiner I only have
+[00:39] Bitcoin I do not have any altcoins on my
+[00:42] hand how does a hard wallet actually
+[00:46] work first thing that I want to cover is
+[00:48] like always like especially you also on
+[00:50] the founder team and the founders are
+[00:52] always unique because they have like a
+[00:54] reason why they do something like they
+[00:56] they have a reason why they start
+[00:57] something why did you and uh your
+[00:59] colleagues uh start Keystone wallet like
+[01:02] how did you get motivated to like okay
+[01:04] we have to do something did you see
+[01:06] something that was missing on the market
+[01:08] or like why did you get started with
+[01:11] Keystone uh okay so I think it's a long
+[01:15] story and we can I I can try to uh
+[01:19] explain more details about how we start
+[01:22] Keystone and how the whole thing started
+[01:25] I think um the story what can be started
+[01:29] is uh when I first uh when I first
+[01:33] learned about Bitcoin so I
+[01:38] um I think that time is uh
+[01:42] 2017 I just read the um white paper of
+[01:47] of the Bitcoin of what Satoshi WR and
+[01:51] really I see that really shock that that
+[01:54] shock me so uh previously I uh I have
+[01:59] never I actually I have never thought
+[02:03] about uh there are the the
+[02:05] cryptocurrencies or there is the um uh
+[02:10] cryptocurrencies can actually work
+[02:12] because you can it can be easy uh if if
+[02:15] the it's a digital stuff it can be
+[02:17] easily CED so how to um make that happen
+[02:23] so uh what Satoshi did and of when I
+[02:26] first read the uh white paper I I just
+[02:31] um spend I I think one week or two weeks
+[02:34] to um to go through every details about
+[02:39] about each part of the Bitcoin and and
+[02:43] the uh like the utso stuff like the um p
+[02:49] and these kind of things combine them
+[02:51] all it can just work and that is really
+[02:56] uh shocked me so uh from from that time
+[02:59] I would like to uh to jump into the
+[03:02] repid hle and so uh just seeking the
+[03:05] opportunities and seeking uh the how I
+[03:09] can enter this place because previously
+[03:12] I was a software engineer which is work
+[03:15] like the big companies like the IBM and
+[03:18] like the uh solar Works which is our uh
+[03:23] so software agency uh a software
+[03:26] Consulting agency so I build a a bunch
+[03:30] of these uh software systems I know how
+[03:33] to uh code and at that time I just want
+[03:37] to uh build something cool in the uh
+[03:41] Bitcoin stuff so um after like two or
+[03:46] three mons I found uh which is um my
+[03:50] last of company called Cobo and and um
+[03:54] he um it well Welling to build a um
+[03:59] software
+[04:00] uh Waring company so uh which is can um
+[04:06] bring much better user uh user
+[04:09] experience to the users so I think that
+[04:14] is the my enter into this space so when
+[04:18] I joined the company I made my
+[04:21] um my uh my my teammate and made uh my
+[04:26] uh partner which is re is CEO of
+[04:28] Keystone wallet so we start uh working
+[04:31] together to build something uh to build
+[04:34] uh something together at that time we
+[04:37] thinking that um because previously we
+[04:41] have some experiences on the both on the
+[04:44] software party and hardware part and
+[04:47] when I uh when we just enter this space
+[04:50] and uh want to see how we can comply our
+[04:55] um our strengths our
+[04:58] uh capacities to uh this work so we
+[05:03] think the hardware wallet is a really
+[05:06] good uh really good point to uh enter
+[05:11] the uh enter the uh enter the uh Bitcoin
+[05:15] space so uh that is why we um so for the
+[05:21] kstone this first three years we named
+[05:24] as cob wat uh so we will really focus on
+[05:28] the Bitcoin community and to contribute
+[05:31] our uh efforts to build like uh really
+[05:35] easy to use and easy to um e to manage
+[05:42] uh Hardware wallet to the a users so
+[05:46] back to uh that period of time I think
+[05:49] in the market there there is uh the
+[05:53] hardware wet is really hard to use so no
+[05:57] matter you use uh use uh treasure or
+[05:59] Ledger device or use uh
+[06:02] use uh other devices it will have it
+[06:06] always have the we lat screen which is
+[06:10] you can cannot get quite uh the idea
+[06:13] about uh how the transaction goes and
+[06:17] compare and we think that if the
+[06:20] hardware wet is act like this it is
+[06:23] really hard for the average users to
+[06:26] enter the Bitcoin Community to manage
+[06:29] coins by themselves so uh in that time
+[06:33] we we think we would like to provide uh
+[06:36] Hardware wet which is quite like the um
+[06:41] like your phones so user do not every
+[06:45] user do not uh have to learn a lot to uh
+[06:50] to to figure out how to use that they
+[06:53] can just um use their previously uh
+[06:58] previously um experience how they can
+[07:01] use their phones to uh to to use the
+[07:05] hardware wallet so uh in that time that
+[07:09] we call our last generation product
+[07:12] which is called the uh K uh Kone 2 we
+[07:16] call them that internally it is a uh has
+[07:20] a very big touch screens so user can um
+[07:25] see more information on the screen and
+[07:28] we introduce the uh
+[07:31] fingerprint um into the device so user
+[07:35] can uh sign the transactions and
+[07:37] authorize the transactions by their
+[07:40] fingerprints this kind of the experience
+[07:43] is really uh normal in the uh in the in
+[07:47] the mobile phones but actually they are
+[07:51] uh back to that time that is a really R
+[07:55] in the Bitcoin community so that is the
+[07:58] reason we think that we can offer uh a
+[08:01] better uh device which is can be easy to
+[08:05] use and meanwhile can keep uh the
+[08:08] security
+[08:10] to uh to to help the uh Bitcoin
+[08:13] community and help the aage users can to
+[08:17] to to to do the self- custody to keep
+[08:21] their keys so I think that will uh and
+[08:25] we think that that is the only way or we
+[08:29] can help more and more users to do the
+[08:32] selfcast to yeah that is basically how
+[08:36] everything started and how uh and why we
+[08:40] would like to enter the space and
+[08:42] provide uh like a uh a new hardware
+[08:47] wallet into the market or into the
+[08:49] Bitcoin
+[08:50] Community yeah and it's a it's a great
+[08:52] thing because we have to make uh self
+[08:54] cust more accessible there the more uh
+[08:59] devices is the more solutions we have
+[09:01] the more options the consumer has and
+[09:03] the more likely he is to actually enter
+[09:07] and actually have a self custody
+[09:09] solution because I see a lot of people
+[09:12] don't even get to self custody they
+[09:13] leave it on Exchange they buy it
+[09:15] somewhere on whatever coinbase uh Gren
+[09:19] whatever the bit uh uh coin The Exchange
+[09:22] is and they leave it there um let's talk
+[09:25] about that like why is the jump from The
+[09:28] Exchange to sell custody is so important
+[09:30] like what is for you the the main reason
+[09:33] why people should take their own keys
+[09:36] and not leave it on
+[09:37] Exchange yeah actually personally I'm a
+[09:41] I call myself is a self- custy Max
+[09:43] modist so no matter uh what coins you
+[09:47] manage you should keep uh you should
+[09:49] manage by yourselves I truly believe uh
+[09:52] what is called not your ke not your
+[09:54] coins so we know that the Bitcoin is our
+[09:59] like solution for our current Financial
+[10:02] systems so uh that is my belief it is
+[10:06] the solution I think that is the only
+[10:08] solution to our breaking current
+[10:11] breaking system a finan financial system
+[10:15] so if you leave your coins or your
+[10:18] Bitcoins into the exchange you actually
+[10:20] do not know how they manage them so they
+[10:23] say that I only you like one Bitcoin but
+[10:27] does it actually EX exist I'm quite
+[10:31] question about that so actually there
+[10:34] are bunch of ways that can try to
+[10:36] explain okay we hold the funds we hold
+[10:40] the uh coins and um and the regulate uh
+[10:44] Regulators can regulate that and to keep
+[10:47] them safe but we all know that from
+[10:50] previous experience like the FTX this
+[10:53] kind of stuff they can easily store your
+[10:56] coins your funds into other play
+[11:00] so the only way to to solve these
+[11:02] problems is you keep it on your own hand
+[11:07] so that is the
+[11:09] reason I think that self custody on and
+[11:14] it is really crucial when we talk about
+[11:17] Bitcoin
+[11:18] communities um personally I'm as so I
+[11:23] talk to every uh friend um and to every
+[11:28] friend so
+[11:29] if you want truly own like a Bitcoin you
+[11:34] you you can buy it on the exchange that
+[11:37] after that just get the coins out of the
+[11:40] exchange into to your uh to your own
+[11:43] wallet no matter it is a software wallet
+[11:47] or it's a hardware wallet and that's I
+[11:51] think that that that is the step one you
+[11:54] truly understand what is Bitcoins and
+[11:58] why and and so if you just keep the
+[12:01] coins into the
+[12:04] exchange I say that you are not truly
+[12:07] understand what is bitcoin yeah yeah
+[12:10] 100% because when you only have it on
+[12:12] Exchange you understand the number gr
+[12:15] technology but not the freedom gr
+[12:17] technology and you might get rck pulled
+[12:19] uh you might get something like an FDX
+[12:22] or something like that there are so many
+[12:23] examples in the past like three four
+[12:25] five years uh how people lost their
+[12:28] coins and then like not even if if the
+[12:32] exchange does not uh go broke or it does
+[12:35] not do something funny it's so easy to
+[12:38] get hacked just username password it's
+[12:41] way easier to get hacked even with two
+[12:43] two Factor authentification uh with a
+[12:45] cold wallet that you have on yourself
+[12:48] you don't connect it with the internet
+[12:50] uh it's it's way way harder to be uh a
+[12:53] hacked um yeah for for for the people uh
+[12:57] that are listening now for me it's all
+[12:59] was like uh when we have self custody we
+[13:02] have to look at different layers like
+[13:04] some user that has a thousand Euros or
+[13:07] dollars in in in Bitcoin in a self
+[13:09] custody wallet it's way different than
+[13:12] someone has like 100,000 or maybe like
+[13:15] 10 million uh Euros to secure like let's
+[13:19] talk a little bit like what do you
+[13:21] recommend when like what this the feat
+[13:24] amount where like in on that amount you
+[13:27] have to take a a code wallet a hardware
+[13:30] wallet because it's also an an
+[13:31] investment so like if you just have 10
+[13:33] euros in Bitcoin it probably does not
+[13:35] make sense to buy like a 100 EUR a
+[13:38] hardware wallet uh like what is the
+[13:40] amount where it makes sense to buy one
+[13:42] and then is the amount where you have to
+[13:45] level up with multi signature is there
+[13:47] anything above uh like uh when you have
+[13:50] like $100,000 or like a million in in in
+[13:53] Bitcoin where do you see like those
+[13:55] those layers and those different
+[13:57] solutions yeah so uh that is what I
+[14:01] called a wish everyone everyone in the
+[14:04] Bitcoin Community should set up their
+[14:06] own like the want system to manage their
+[14:10] Bitcoins so uh just like you said that
+[14:15] uh different people owns different
+[14:17] amount of Bitcoin so if you just um own
+[14:21] a a little bit of us Bitcoins which is
+[14:24] worth like uh$ 100 or
+[14:27] $200 I think that is enough you can just
+[14:30] use the software wallet and you can
+[14:33] choose the uh light uh the well-known
+[14:37] software wallet which is can be uh which
+[14:40] is should be must be open source I think
+[14:43] that we can put the open source AR uh
+[14:46] into later and we can dive into that
+[14:48] part uh and like the blue wallet if you
+[14:52] want to uh keep that on your cell phones
+[14:56] and if you um own like
+[15:00] uh I think 10ks uh worth of the uh USD
+[15:06] uh uh that amount of Bitcoins I think
+[15:09] that is a uh that is the entral point
+[15:13] which is you would like to choose the
+[15:15] hardware wallet because um the hardware
+[15:19] wallets is really different with uh
+[15:22] between uh with really different with
+[15:24] the software wallet so the hardware
+[15:26] wallet usually that that is
+[15:29] are like the offline device which is you
+[15:32] can keep your keys safely s that into
+[15:36] the um uh no matter it is have the sare
+[15:41] elements or not you can just put that
+[15:44] put put the secret key your private Keys
+[15:47] into uh that device and basically if you
+[15:51] are not using that uh that device you
+[15:54] can keep the uh that at your home or
+[15:57] your safe box or other places so this
+[16:01] will dramatically reduce the attack
+[16:04] surface of uh which is really uh
+[16:09] increase the security of your uh of your
+[16:14] Bitcoins so um I I I I I think that the
+[16:19] next steps so generally speak uh
+[16:21] generally speaking and if you on to the
+[16:25] another step so let's say that you have
+[16:29] uh 1 million uh US dollar worth of
+[16:32] bitcoin and I think that part you should
+[16:36] uh set up a more like um like uh robotic
+[16:40] systems which is you can apply to the MC
+[16:45] and you you you probably will think
+[16:47] about how you can um how how you can
+[16:53] safely uh start your seat free probably
+[16:57] you should consider the Sham backup
+[17:00] system which is usually C uh sleep 39
+[17:05] which is uh generally speaking it is
+[17:09] just the uh split your C into uh
+[17:13] different uh different pieces and you
+[17:16] can put that into uh into uh different
+[17:19] locations and on probably on the uh next
+[17:24] part you should uh build like uh
+[17:29] more complic uh complicated system to
+[17:33] keep your fonts and on Next Level
+[17:37] probably you are institutions which is
+[17:41] uh you use the uh Bitcoin Bitcoin to to
+[17:44] to this do do your business so uh at
+[17:48] that part probably the mod is a must and
+[17:51] share backup is a must and choose the uh
+[17:55] different walls and choose the different
+[17:58] software wallets or the hardware wallet
+[18:01] to build build up the whole wallet
+[18:04] system for your
+[18:07] institutions uh is really a a must uh
+[18:11] really a must
+[18:13] so different peoples will have different
+[18:17] um solutions for their Bitcoin Comm uh
+[18:22] Bitcoin uh security um and I think uh
+[18:26] first you should not leverage on that uh
+[18:29] on the exchange that the F uh
+[18:32] fundamental points and second um based
+[18:36] on your current uh volume of your
+[18:39] Bitcoin you can choose different options
+[18:43] so and
+[18:44] meanwhile um I think for the individuals
+[18:48] that uh when they first enter the
+[18:51] Bitcoin space they probably will found
+[18:55] there are bunch of new things should to
+[18:57] learn so for example say uh what is what
+[19:02] is a key what is a private key what does
+[19:04] the private key a different uh is
+[19:07] different from uh from the password why
+[19:10] I should keep the uh private key so if I
+[19:14] lose a priority key why my my Bitcoin is
+[19:16] gone so they should understand that and
+[19:19] from that point you can start like uh
+[19:22] from this uh from software wallet which
+[19:25] is can give you really um good
+[19:30] understandings or your experience to do
+[19:33] the self cust and with the time goes and
+[19:38] mean and also with the uh with the uh
+[19:43] with the coins you have more so probably
+[19:45] you can choose uh better um solutions
+[19:49] for keep your Bitcoin safe so I think
+[19:53] that for our average users um 10K
+[19:57] probably is our ENT point to enter the
+[20:00] hardware wallet uh
+[20:03] space yeah definitely it's a good amount
+[20:06] if uh if you have a thousand a 10,000 uh
+[20:09] in in Bitcoin you definitely should have
+[20:11] like look at uh uh a self- custody
+[20:15] Hardware wallet device um let's dive a
+[20:19] little bit into the technical because
+[20:20] you're the CTO of of of the Keystone
+[20:22] wallet uh and we never covered on the
+[20:25] podcast like how does uh hard wallet
+[20:27] like actually
+[20:29] like work and how does it keep the keep
+[20:33] the the Bitcoin secure and how does this
+[20:35] all like uh come into place there's like
+[20:38] secure elements involved there's a lot
+[20:40] of uh moving parts and let's like let's
+[20:43] let's let's approach it from a simple
+[20:45] perspective like how does hard wallet in
+[20:47] general work and then how is like maybe
+[20:49] the Keystone wallet uh um special with
+[20:52] the secure elements and stuff like that
+[20:55] yeah so uh okay so uh
+[20:59] I think I will first jump into the
+[21:01] hardware the general parts of Hardware
+[21:04] wallet to explain how it works and uh
+[21:08] from my perspective how I can um tell
+[21:12] whether a hardware wallet is a good or
+[21:15] not good and then we can jump into the
+[21:18] kyone part so uh I will talk about how
+[21:22] we think uh how we design a good
+[21:25] Hardware wallet and uh what is the
+[21:29] differ uh difference between the kyone
+[21:32] hardware wallet and and others so for
+[21:36] the first part uh what is the hardware
+[21:38] wallet I I think that uh I previously uh
+[21:43] talk with my friends to try to introduce
+[21:47] the hardware W to them so the there are
+[21:50] two main functions I think for the uh
+[21:53] Hardware wallet one is to securely store
+[21:58] your
+[21:59] priorities that is uh that is one part
+[22:04] and the second part is that
+[22:07] security sign the
+[22:09] transactions so that basically the two
+[22:12] fundamentals in the hardware wet so we
+[22:16] all know that uh Bitcoin is safe and
+[22:19] Bitcoins is can bring the true freedom
+[22:23] to the individual users so how um how to
+[22:26] achieve that is um every Bitcoins every
+[22:31] um satosi they are all stores on the uh
+[22:37] likes on the private keys so uh so um
+[22:43] how you say that uh so if you uh if you
+[22:49] uh have your properties you can sign the
+[22:51] transactions and take control of your
+[22:54] Bitcoins so uh for the hardware war is
+[22:57] the the first part of that is uh quick
+[23:02] is
+[23:02] simply store the private keys so that is
+[23:06] why the hardware wallets all need like
+[23:09] secure elements so the secure elements
+[23:12] is you can think that is our uh our
+[23:17] securely designed chip which is usually
+[23:21] um you can store the uh the secret
+[23:24] information secret data into that and
+[23:28] the square elements uh if it's well
+[23:31] designed and well implemented it can uh
+[23:35] prevent like the physical attack uh like
+[23:38] the side Channel attack and these kind
+[23:40] of attacks to uh to uh from the hackers
+[23:45] so even the
+[23:47] hackers um get your Hardware wallet they
+[23:51] uh they get the secure element and try
+[23:55] to uh uh try to extract the data from
+[23:59] the square element basically it is
+[24:02] really hard to achieve that if you are
+[24:04] using H sare
+[24:05] elements that is the um points of the
+[24:10] why a a welld designed Hardware warries
+[24:14] uh should have the secare uh secure
+[24:16] elements so if you are using a general
+[24:19] purpose like the microcontroller unit uh
+[24:23] you you store the uh sensitive data or
+[24:26] your private Keys into the flash so when
+[24:29] the hacker uh gets your Hardware wallet
+[24:33] it can like to retrieve this kind of
+[24:37] information from The Flash and try to
+[24:40] break your ping keys so we believe and
+[24:45] uh we think that uh Square elements is
+[24:48] the black the must from the hardware
+[24:51] side to uh 40 Hardware
+[24:54] wallet so the part the meaning of this
+[24:57] that it is securely store your private
+[25:01] Keys uh that is the first part and
+[25:04] second part is that um if you can if you
+[25:07] would like to authorize transactions
+[25:10] into the uh if you would like to
+[25:13] authorize the transactions so you
+[25:16] basically uh we doing the um signing
+[25:20] stuff on the hardware wallet which is uh
+[25:24] really
+[25:25] important so uh
+[25:29] that is the F uh that is the second uh
+[25:32] fundamental part of the hardware wet is
+[25:35] how uh the hardware War it is using your
+[25:39] private
+[25:40] keys so
+[25:44] um uh so uh for example if I would like
+[25:47] to authorize the uh Bitcoin transactions
+[25:51] the onsign transaction data will some
+[25:53] somehow to transmit that into the
+[25:57] hardware wallet and the hardware wet
+[25:59] will decode that uh data and display to
+[26:03] the uh to the user so they can verify um
+[26:08] the information so the from uh if the
+[26:11] form information uh if the form address
+[26:13] is right if the uh destination address
+[26:16] is right if the change address is your
+[26:19] change address so if the amount is right
+[26:22] it if uh if uh the C is what you set so
+[26:27] every
+[26:29] um piece of uh this kind of uh
+[26:32] transaction information should be
+[26:35] honestly display it in the hardware
+[26:37] wallet and to Mi the user to confirm
+[26:41] that and after uh after user confirm the
+[26:45] hardware wallet while using the PIV Keys
+[26:48] which is store in the device and do the
+[26:51] signing stuff and give the signature
+[26:54] back back to the uh light no matter is a
+[26:58] panning app or is the uh uh is a
+[27:02] application run on your computer or uh
+[27:06] or other things that is a uh we believe
+[27:09] the second parts of the hardware
+[27:12] wallet so it's can truly understand and
+[27:16] analyze what you would like to uh what
+[27:19] you would like to do and show that
+[27:22] information honestly and clearly to the
+[27:25] user to make them understand what they
+[27:28] are signing so that uh that is the
+[27:31] second part and uh you can see that uh
+[27:34] ding the whole uh process that your
+[27:38] private keys will never um out of the
+[27:42] hardware wallet so uh so will just uh
+[27:47] exist in your Hardware wallet and do all
+[27:50] the stuff that's the uh meaning of why
+[27:53] you should uh using a hardware wallet
+[27:56] and it's excuse me and compared to the
+[28:00] software
+[28:01] wallet that's uh that's a big difference
+[28:04] uh so in the software wet no matter is
+[28:08] are application run on your computer or
+[28:11] is a application on your on your
+[28:14] mobile so uh the private ke is always on
+[28:20] your computer or on your phones so uh
+[28:24] technically speaking it uh the private
+[28:28] te is always connect uh always
+[28:30] connecting with the network so that will
+[28:34] be a huge attack attack
+[28:36] sface uh for your proper keys so uh the
+[28:40] HW waret what is really dramatically
+[28:44] reduce that is that uh talking surface
+[28:47] so when you're using the hardware wallet
+[28:50] so uh basically is just to store your
+[28:54] priv keys on the device and the onlyl uh
+[28:58] the the only time it can connect
+[29:00] interact with other parties is when uh
+[29:04] it uh signing in the trans
+[29:07] transactions and which in this way is
+[29:11] really uh reduce the attack
+[29:14] surface uh of your private keys so
+[29:18] generally speaking that is uh how the
+[29:21] hardware wage uh worked so I will make a
+[29:25] quick summary about that first is it
+[29:27] will
+[29:29] uh securely store your private Keys
+[29:32] basically in the sare uh sqare elements
+[29:36] and the second part is that it will do
+[29:39] uh doing the signing stuff on this on
+[29:42] the
+[29:43] device and it will always show um the
+[29:48] information to users to make them
+[29:50] confirm so that is two fundamental Parts
+[29:54] uh of the hardware wet and back to
+[29:56] Keystone and how we we uh think about
+[29:59] that uh in our currently uh in our last
+[30:03] generation uh device which is Keystone 3
+[30:06] Pro we have uh three sare elements two
+[30:11] is for storage and one is for the
+[30:14] fingerprint process so um we combine the
+[30:19] Two sare element together to SEC
+[30:22] securely store your information your
+[30:25] private Keys into the uh sare elements.
+[30:29] part one and meanwhile uh we you know
+[30:33] that tone three have the finger
+[30:35] fingerprint sensor on the device so uh
+[30:39] your fingerprint data all this kind of
+[30:42] uh bio bio sensitive data also secur is
+[30:47] uh sto uh stored on the secur MCU which
+[30:52] is do the uh verification and uh verific
+[30:56] oh which is which is doing the
+[30:59] verification of your
+[31:01] fingerprints that's the whole point why
+[31:03] we choose three uh three uh sare
+[31:07] elements on our device and meanwhile uh
+[31:11] for the sunning part I think we are
+[31:14] probably the um the best the best um
+[31:18] user friendly devices in the market so
+[31:22] we have a large uh dis um displays which
+[31:26] can uh which can display the uh as much
+[31:30] the information as possible to the users
+[31:34] and meanwhile we do the uh transaction
+[31:38] decoding uh on our like the uh on our
+[31:43] device to make the um users
+[31:47] can understand what they actually
+[31:50] signing and mean meanwhile the Kone use
+[31:54] the QR code for the data Transmissions
+[31:57] so which is really uh easy to use and
+[32:02] meanwhile to reduce the um
+[32:04] vulnerabilities of like other
+[32:07] transmission protocol like a Bluetooth
+[32:10] or a USB stuff so that is basically the
+[32:16] uh the design sying be uh behind the
+[32:20] Keystone 3 Hardware wallet and uh What
+[32:23] uh what we are quite different uh
+[32:26] different with other Hardware wallet if
+[32:29] you are listening to this podcast you
+[32:31] might be wondering what is actually the
+[32:33] setup look like of Robin or how can I
+[32:36] improve my Bitcoin setup and there's two
+[32:38] things you have to buy Bitcoin from the
+[32:40] right source and you have to store
+[32:42] Bitcoin the right way let's focus on the
+[32:44] first thing how to buy Bitcoin it's
+[32:46] simple have a Bitcoin only exchange
+[32:49] don't deal with the shitcoin exchanges
+[32:51] don't deal with an exchange that has an
+[32:53] own token or something like that be on a
+[32:55] Bitcoin only exchange I use to 21
+[32:58] Bitcoin 21 Bitcoin is for me the best
+[33:00] partner for that and now where do you
+[33:03] store Bitcoin Bitcoin should be stored
+[33:05] on a hardware wallet on a self custody
+[33:09] solution where you yourself hold your
+[33:11] keys and it should be a cold wallet so
+[33:14] that's my Simple Solutions that's a
+[33:17] bitbox you just put your Bitcoin on
+[33:19] there back up your seat fras and you are
+[33:22] better than 95% of all Bitcoin hodlers
+[33:26] if you have more than a ,000 in Bitcoin
+[33:29] it's a absolutely must have one last
+[33:31] thing before we get back to the video
+[33:33] I'm really passionate about meeting
+[33:35] other bitcoiners and there's an amazing
+[33:37] opportunity in middle of Europe in June
+[33:41] the Bitcoin BR conference it's the best
+[33:44] and biggest Bitcoin only conference in
+[33:47] whole of Europe for all Americans please
+[33:49] visit Europe and visit this place in
+[33:51] June for all europees it's a must go
+[33:54] anyways you so close to the Bitcoin PR
+[33:57] conference you basically have to come I
+[33:59] will do interviews there and I would
+[34:01] love to meet you all there use code
+[34:04] Robin for all my sponsors to get
+[34:06] discounts and use the links down in the
+[34:08] description that's that's fascinating um
+[34:12] usually in technology when you design
+[34:14] stuff like uh even with the Bitcoin base
+[34:17] layer uh it's never perfect like in the
+[34:20] Bitcoin base layer uh we have to scale
+[34:22] through layer technology because we have
+[34:24] the small uh block size so that we can
+[34:27] can have security network or the the
+[34:30] full no are not that that big and stuff
+[34:32] like that like there's always like
+[34:34] tradeoffs to technology is there uh when
+[34:37] you decide a hardware wallet like the
+[34:38] Keystone is there any tradeoffs you have
+[34:42] to think of in the in the technology
+[34:45] design we like if I if we in like I
+[34:48] don't know maybe like convenience versus
+[34:51] security is there anything you thought
+[34:53] of like we got we went to this route
+[34:55] with Keystone instead of this rout
+[34:58] because we think that is better like is
+[35:00] there any like a tradeoff between
+[35:03] anything that you can think of where you
+[35:05] f like in the design process it's better
+[35:08] to do it that way or that way or other
+[35:11] uh Hardware wallets do it more like that
+[35:14] way and we do it like that way I'm just
+[35:16] like trying to figure out if there's
+[35:17] like any fundamental um uh tradeoffs you
+[35:21] have to make when designing a hardware
+[35:24] wallet yeah I think um
+[35:28] so when you do something that is always
+[35:31] you should uh do some trade off like to
+[35:35] deliver the products and I think what we
+[35:38] are doing is that we should we always
+[35:43] want to uh make a good product to the
+[35:46] end users so uh back to the Kyo uh story
+[35:51] and actually
+[35:54] um so uh I think the the the treat up we
+[35:58] mostly made is that uh
+[36:02] we um we we will actually the Keystone 3
+[36:08] is not inherit inherit anything from our
+[36:12] last generation product so the biggest
+[36:14] trat off is that we build everything
+[36:17] from scratch I think no matter is the
+[36:19] hardware side or the software
+[36:23] side so that is a really hard decision
+[36:28] to make when we first uh when we first
+[36:32] uh uh to decide to do that um and the
+[36:36] reason why we do that is
+[36:40] uh
+[36:43] um is that uh there are previously there
+[36:46] are a lot of feedback about our last
+[36:49] generation product so the last Genera
+[36:52] product is um basically is the Android
+[36:55] Solutions so we using the uh Androids as
+[37:00] the operation system um which and we
+[37:03] write up uh applications which is
+[37:06] running the um uh running the uh uh
+[37:11] Hardware uh product logic and meanwhile
+[37:15] we uh using um square square elements to
+[37:19] running the uh signing stuff in our last
+[37:23] Generations so when we launch the
+[37:25] product uh you uh a lot of feedback come
+[37:29] uh into uh our teams and they say that
+[37:33] the uh Android uh Android system is hard
+[37:37] to understand and hard to
+[37:40] audit and um and it is really hard to um
+[37:46] to do to achieve the reproducible and
+[37:50] verifiable um
+[37:52] firmware because the Android system code
+[37:57] has
+[37:58] like I I think that that is the 40 or or
+[38:02] 60 sub repositories you you you can
+[38:06] never always to do the whole um all this
+[38:12] stuff by yourself and meanwhile the
+[38:15] Android uh system probably will have
+[38:18] some um
+[38:20] underneath uh vulnerabilities that
+[38:23] nobody knows so uh and
+[38:28] but uh from the like the development
+[38:32] side and from the um from the US side
+[38:36] the Android system which is can can be
+[38:39] uh really fast to uh deliver and
+[38:42] meanwhile can provide a much uh much
+[38:47] better user experience to the end users
+[38:51] so back to our kyom 3 product and we
+[38:55] decide to completely remove the
+[38:58] Android and so we uh choose our security
+[39:02] element uh sorry we we choose our
+[39:05] general
+[39:06] purpose uh micro uh control unit uh to
+[39:13] uh running the firware and meanwhile we
+[39:16] would like to achieve a better uh user
+[39:19] experience compared to our last
+[39:24] Generations so uh we put a lot of uh uh
+[39:30] put a lot of work in and lot of
+[39:34] um uh we put a lot of uh our development
+[39:38] resource and a lot of work onto that and
+[39:41] try to uh provide a better uh uh better
+[39:46] uh user experience and which is can
+[39:49] compare our last
+[39:50] Generations so yeah uh I I think our
+[39:54] current our current product
+[39:58] um is good in uh is good compared with
+[40:03] other uh MCU based Hardware wet and but
+[40:08] we have a lot of um space can improve
+[40:12] and we
+[40:13] will uh we are also trying to um make
+[40:18] our likees uh uh the user experience is
+[40:23] uh is better and much more better so so
+[40:28] I think that is the uh one big tradeoff
+[40:32] to M which is we choose a completely new
+[40:37] way to achieve the our kiston 3 so we
+[40:42] are um personally I'm really proud we
+[40:45] can uh achieve that and but that really
+[40:51] cost a lot of our energy and our our uh
+[40:55] work to make that Happ
+[40:57] but and but uh our current uh design and
+[41:02] our current
+[41:04] um uh which is the new design uh new new
+[41:07] system design is really is much more
+[41:11] focused on the security and simple uh
+[41:15] and
+[41:17] similarity uh
+[41:19] for uh for the uh Hardware wallet so it
+[41:24] is really easy to audit and easy uh to
+[41:29] review so I think that is uh what the
+[41:34] the biggest the benefits we achieve from
+[41:37] the technique
+[41:39] trof yeah that's uh and I think is an
+[41:42] important step to uh overthink like what
+[41:45] are we doing and can we do it from
+[41:47] scratch better uh because if you just
+[41:50] build on thing that are already here uh
+[41:53] you might run into the problem that you
+[41:54] have something that's down here and it's
+[41:56] not working and then you build on
+[41:58] something that's not good so like I I
+[42:00] really appreciate like that uh the new
+[42:03] approach and thinking something
+[42:04] completely new that's kind of what
+[42:06] Bitcoin is doing to the financial world
+[42:07] like right now because we know that the
+[42:10] fat monetary system is just not working
+[42:12] as it is and we are having like a
+[42:14] completely new system that we're just
+[42:16] now building out and we really early in
+[42:18] this uh game and I I love the comp
+[42:21] comparison that you make um at for the
+[42:24] end for the podcast I would like to uh
+[42:26] maybe we get a little bit on the
+[42:28] regulatory side also um do you have any
+[42:31] fear or any doubt in mind that like self
+[42:34] custody might be uh banned or might be
+[42:38] under investigation because you allow um
+[42:43] citizens to be
+[42:46] Sovereign uh that is really uh good
+[42:50] question so we
+[42:51] see uh currently a lot of crazy things I
+[42:55] I think it happen especially in our
+[42:58] communities we all know that uh the
+[43:01] Wasabi wallet is Ban for the US citizens
+[43:05] and a lot of C stuff uh from my
+[43:07] perspective uh is happening uh into uh
+[43:10] into into the world
+[43:13] currently and uh as an engineer as a
+[43:18] like a developer from my perspective I I
+[43:23] think that
+[43:25] um the two are not guy so you cannot uh
+[43:30] blame uh the people who create create uh
+[43:33] create the tools to help people to do
+[43:36] the um to to to do the self custody and
+[43:40] to do the uh to control their own
+[43:43] destiny
+[43:45] so but actually there are a lot of
+[43:48] regulations are doing and and from from
+[43:53] my thinking that um our community or
+[43:58] um so uh everyone in the community
+[44:01] should have probably should have um um
+[44:05] better Communications with others
+[44:07] especially with The Regulators or other
+[44:11] stuff I think what you are doing is
+[44:13] really uh meaningful and real really
+[44:16] helpful to make everyone uh in the world
+[44:20] can understand what is the Bitcoin what
+[44:23] is uh what is the thinking and what is
+[44:26] the beh
+[44:27] the Bitcoin is so why Bitcoin is matters
+[44:31] why self C matters what problem of our
+[44:35] current system uh and try to spread the
+[44:40] uh insight into them so I think uh with
+[44:44] the efforts of the whole
+[44:47] communities uh properly in uh sometimes
+[44:51] um people will know and um match more
+[44:55] people and more and more people will
+[44:57] join this uh movement and we uh we
+[45:01] understand that uh what Bitcoin is it is
+[45:05] uh what is try to uh what it try to
+[45:08] solve the problem what the problem is
+[45:11] actually is so maybe the regul uh
+[45:14] Regulators can understand uh why the
+[45:18] self cting matters and the what's the
+[45:22] problem of the our current uh system is
+[45:26] so
+[45:27] and I I'm personally I'm really um I uh
+[45:34] I I I think in the Futures more and more
+[45:36] people uh will join into uh this
+[45:40] movement will truly understand what the
+[45:43] self custody is what the Bitcoin is and
+[45:47] more and more people will understand
+[45:49] that yeah I definitely hope so I been
+[45:52] the more self custody uh and I heard
+[45:54] some crazy statistics like the most
+[45:57] users on the Bitcoin blockchain uh have
+[46:00] their Bitcoin in uh an exchange with a
+[46:04] custodian but the most Bitcoin like the
+[46:07] most value the most purchasing power of
+[46:09] Bitcoin is actually in self- custody so
+[46:12] like the the purchasing power and the uh
+[46:15] the people that actually take care of
+[46:17] the Bitcoin and have the bigger power of
+[46:19] s of purchasing power are in self
+[46:22] custody um but uh the The Exchange like
+[46:26] the the just the sheer amount of users
+[46:29] have uh so there's a lot of there's a
+[46:31] big Market uh for for you basically of
+[46:35] of people that uh need a s cast solution
+[46:39] but they don't know it yet uh and that's
+[46:41] why I appreciate everyone that builds
+[46:44] something in the space that has some uh
+[46:47] solution for Bitcoin in the space and
+[46:50] develop something like you you putting
+[46:53] your uh money and your energy into the
+[46:56] Bitcoin ecosystem system uh no matter if
+[46:59] it's developing a hardware wallet if
+[47:01] it's uh being in Bitcoin exchange being
+[47:03] a podcaster being an educator whatever
+[47:06] you're doing you're contributing to the
+[47:09] community and I think this is what is
+[47:11] important the more and more people that
+[47:12] do that uh the better it is and even
+[47:15] like if you don't work in Bitcoin you
+[47:17] can still uh contribute in in some sort
+[47:20] of sense if you're working uh where you
+[47:23] can buy it you can talk to the
+[47:25] colleagues like there all was something
+[47:28] you can do about it and and contribute
+[47:31] and even if it's just watching this
+[47:33] podcast it actually contributes because
+[47:35] this shows YouTube okay people are
+[47:36] interested in it and YouTube then
+[47:39] distributes the podcast to more people
+[47:41] like everything you do in the com a
+[47:43] community is actually helping the
+[47:45] community which is amazing to see yeah
+[47:49] yeah um for the for the end of the
+[47:52] podcast uh we before we end the podcast
+[47:55] I I want to get to know like you outside
+[47:59] of Bitcoin and S Cy and what you're
+[48:00] doing Keystone uh what are you really
+[48:03] passionate about uh what we did not
+[48:05] touch on like is is there anything that
+[48:07] you're currently reading in or currently
+[48:09] really passionate about a topic that is
+[48:12] not Bitcoin related cryptocurrency
+[48:16] related uh I think for the uh crypto uh
+[48:21] for the crypto base which is I uh my
+[48:25] currently real a big interest uh from my
+[48:29] perspect is the lightning n uh lightning
+[48:32] Network and yeah I I'm a Bitcoin nurse I
+[48:37] would like to use my Bitcoin to purchase
+[48:40] things and to to do all kind of stuff
+[48:43] into um yeah but but I I think in the
+[48:47] Bas line it is really achieved that so
+[48:51] the uh so our currently uh Community
+[48:54] system uh solution is in uh Network so
+[48:59] the lightning uh for me is really uh
+[49:03] welld designed and really
+[49:06] smart so uh probably I will not jump
+[49:10] into the technical details of of
+[49:12] lightning and I think what is lightning
+[49:15] doing and what is can be achieved is
+[49:18] really important for the uh not just for
+[49:23] the Bitcoin Community but also for the
+[49:25] whole uh cryp Community or even for the
+[49:29] uh whole human can so uh and I would
+[49:33] really uh bullish about the lightning
+[49:37] network is not just uh uh and meanwhile
+[49:41] I think that currently there are a lot
+[49:43] of um Innovations H uh happening onto
+[49:48] the uh lating lightning Network there
+[49:51] are people are thinking to issue the St
+[49:53] coins on the net so they can use like
+[49:56] the usds on are in the lightning Network
+[49:59] or do the purchase I think that is the
+[50:03] basically the really uh interesting and
+[50:08] really um uh
+[50:11] really um big areas of our uh Bitcoin
+[50:16] communities and our crypto space and
+[50:19] with that I I think that the um with the
+[50:22] lightning Network and with uh the whole
+[50:25] B the whole things into that uh the the
+[50:30] whole crypto space or the we call the
+[50:34] web rward can really enter the uh next
+[50:39] area so probably more and more peoples
+[50:42] will into the space and to uh to to use
+[50:46] the uh our to use the blockchain and use
+[50:49] the uh crypto to into their uh their
+[50:53] daily line and meanwhile uh uh and
+[50:58] really um really my big another big
+[51:02] interest currently is the AI stock I
+[51:05] think the uh the the the the mine
+[51:08] learning and U the thei stuff are really
+[51:12] have uh Dramatics uh dramatically
+[51:15] involved in the recent years um but
+[51:19] currently drawing uh my daily work I use
+[51:23] the t54 as my code assistant to help me
+[51:27] to do a bunch of stuff and I I so
+[51:32] another uh area I'm thinking the how we
+[51:35] can com uh combine the uh AI with the uh
+[51:40] blockchain or web three together and how
+[51:45] we can if there are any possibilities we
+[51:48] can like uh make the agent can uh do
+[51:53] this stuff uh with the cryptocurrencies
+[51:56] and uh um from my P personal perspective
+[52:01] I think these two big areas can be
+[52:04] intersection in some lels so uh another
+[52:08] uh big interest of my another my
+[52:11] personal big interest is I try to
+[52:14] explore um a lot of new things for the
+[52:20] interception between the AI and the
+[52:22] blockchain stuff so that that basically
+[52:25] the two things
+[52:27] uh I was thinking and and meanwhile I
+[52:31] think that uh there are another things I
+[52:35] try I'm try to
+[52:37] exploring uh specifically for the
+[52:39] Bitcoin communities is the potential of
+[52:42] the tap rot I think tap rot uh stuff is
+[52:46] really um is really important for the
+[52:50] Bitcoin Community because uh uh with the
+[52:54] tab rout basically you can do a lot of
+[52:57] new stuff um with the potential of uh
+[53:02] how the tap rout can introduce so that
+[53:05] is our area I'm currently thinking uh
+[53:09] into uh into the the Bitcoin involvement
+[53:13] and the Bitcoin development
+[53:16] yeah uh wonderful and uh I love it and
+[53:20] uh I mean there's there's one question I
+[53:22] think I feel like I have to ask uh
+[53:25] because we I have uh Bitcoin kind of
+[53:29] only podcast I rarely invite people
+[53:32] outside of the Bitcoin world uh with
+[53:34] Hardware wallets uh it's it's more
+[53:36] complicated because hard wallets all
+[53:39] almost always also include other
+[53:41] cryptocurrencies so make a little
+[53:43] Exceptions there um but what do you
+[53:46] think of like altcoins and uh because a
+[53:49] lot of bitcoiners are like okay all the
+[53:50] stuff that is currently in the altcoin
+[53:53] market could maybe also be just built on
+[53:55] top of Bitcoin coin uh and then there's
+[53:58] like this debate is the alcoy market
+[54:01] actually really decentralized is there
+[54:04] not like if the state actually is
+[54:07] attacking some of the altcoins uh it
+[54:09] could be probably shut down where
+[54:11] Bitcoin actually Prov from
+[54:13] decentralization um what do you think of
+[54:15] like this this whole uh altcoin versus
+[54:19] Bitcoin and this this debate or where do
+[54:21] you see also the dominance from from
+[54:23] from Bitcoin going in the future
+[54:27] okay so uh personally I'm a bitcoiner so
+[54:30] I only so I only have Bitcoin I do not
+[54:34] have any uh altcoins on my hand so my
+[54:38] true my only belief and true belief is
+[54:41] is Bitcoin that's actually I'm hard to
+[54:45] call myself like the Bitcoin Ma modist
+[54:48] I'm a bitcoiner and also I'm really uh
+[54:51] open to the uh altcoin or general
+[54:55] purpose cryptocurrency space so uh I
+[55:00] think that there are there are uh there
+[55:02] are lot of uh invol um Innovation H
+[55:07] happens on other uh crypto space like
+[55:10] the like the uh like the etherum like
+[55:14] the Sana they all have their um Pro uh
+[55:18] they all have their um the reason why
+[55:22] they exist so um
+[55:26] I will put some of my time to explore
+[55:30] how these altcoins involved and how they
+[55:35] uh try to um solve the
+[55:39] problem and um bring that thinking into
+[55:43] my mind to to to to see um whether uh it
+[55:49] is benefits for the Bitcoin or it is
+[55:52] bulles so um B BAS
+[55:57] basically um I I think Bitcoin is the uh
+[56:01] is the store value in the crypto space
+[56:05] so I think that uh that one is uh like
+[56:11] no one can questions so everyone
+[56:14] basically everyone no matter you are a
+[56:17] etherum Max modist or salana Max modist
+[56:21] you are not questioning that Bitcoin is
+[56:23] store values and
+[56:27] uh for the other crypto uh uh for the
+[56:32] other cryptocurrency projects I'm will
+[56:35] put some my uh insights onto them and
+[56:38] try to understand uh their underneath
+[56:41] how the te uh how the uh technical
+[56:44] details into that space so probably from
+[56:48] my perspective if I see a a project um
+[56:52] maybe I was think okay this is not truly
+[56:55] decentralized and and uh maybe it has
+[56:58] some um some um uh some questions I I
+[57:04] have some doubts about that but uh I
+[57:08] think uh in the meanwhile they can all
+[57:11] they can also uh bring some insights
+[57:15] into the Bitcoin communities so um
+[57:17] probably we can learn something from uh
+[57:20] from it or probably we can um uh we can
+[57:26] get some insights from uh from from
+[57:29] their perspective
+[57:31] yeah yeah definitely and I feel I feel
+[57:34] like um uh when they have value over the
+[57:38] long run they will have some kind of
+[57:41] price and they have some value if they
+[57:43] proven to not have value over a long
+[57:45] period of time I'm talking like 10 20
+[57:48] years then they will go to zero like the
+[57:50] free market will take care of that uh I
+[57:54] personally just like yourself I only put
+[57:56] my money in in Bitcoin and why that's
+[57:59] why I'm only talking about Bitcoin
+[58:01] because I only have money in Bitcoin
+[58:02] like if if I would have if I don't have
+[58:05] money uh in in ethereum I I don't want
+[58:09] to talk about ethereum because that
+[58:11] would be like weird if someone that
+[58:13] don't even has e eum talks about bit
+[58:16] ethereum so like that's why I'm focusing
+[58:18] also on on bitcoin only uh but of course
+[58:21] like I also don't see any value in like
+[58:24] art for example like if if so some some
+[58:27] painting that uh looks like some some
+[58:31] kid uh painted it uh and they're paying
+[58:35] Millions for it
+[58:38] like just just like I really don't
+[58:42] understand what
+[58:43] the uh means uh actually uh I'm not
+[58:48] invol I'm not I'm really uh not
+[58:52] understand what the M uh this MF project
+[58:55] so but it it uh so the free market can
+[59:01] decide its value of it so all automat
+[59:04] personal uh Al myself can do not
+[59:07] understand that does not does Al uh do
+[59:09] not mean that it is not have the uh
+[59:12] value to exist so
+[59:15] yeah 100% free market will will take
+[59:18] care of that and as as the same with art
+[59:21] um we have an endro te where the
+[59:23] previous guest is asking a question for
+[59:25] the next guest
+[59:26] on today it's an interesting one um what
+[59:30] question do you have for Robin like the
+[59:33] previous guest asked what to you what
+[59:35] questions do you have for me uh if you
+[59:39] understood that um so like uh what do
+[59:42] you have a question for me
+[59:45] Aaron yeah so which is your uh favorite
+[59:49] Hare
+[59:51] wallet you're putting me on the spot why
+[59:54] and why
+[59:57] um so like I try to uh um avoid talking
+[60:02] about what like what personal setup I
+[60:05] have uh and I have like like what like
+[60:09] exact solution I have I really like the
+[60:12] Keystone wallet like it's has a
+[60:13] touchcreen and when I gave it like uh to
+[60:16] my girlfriend also because I have a
+[60:18] keystone wallet at home H she was like
+[60:21] she could do something with it uh so
+[60:24] that's like I think a huge bonus with it
+[60:27] like to have some touch screen on that
+[60:29] or at least like at least have a display
+[60:32] for me it's like uh a harder wallet that
+[60:35] does not have a display it's not good
+[60:37] like it at least has to have some kind
+[60:40] of a display uh and for the the current
+[60:44] sponsor of this podcast is the the um
+[60:48] hard wallet that I usually recommend to
+[60:50] especially new guys and uh new people in
+[60:53] the in the sphere the bitbox uh that got
+[60:56] me started in the whole fear but once
+[60:59] you have a lot of uh more wealth in in
+[61:04] the Bitcoin uh in more wealth in in
+[61:06] Bitcoin you have to think of a lot of
+[61:08] different things anyways and you have to
+[61:11] uh really have to be thoughtful of your
+[61:13] security especially like as myself when
+[61:16] you're outspoken bitcoiner and that's
+[61:19] for like four years straight uh so when
+[61:22] you're outspoken and in the public and
+[61:23] you're like the Bitcoin guy uh then you
+[61:26] have to take self cast to another level
+[61:29] and I always try to get all the insights
+[61:33] I can I can get on all the different
+[61:36] wallets uh and uh try out a lot of them
+[61:40] I think I have like seven
+[61:42] wallets that that that don't do anything
+[61:45] like seven wallets that I don't use just
+[61:48] because I I try to like okay how is this
+[61:51] is that uh good because also people ask
+[61:54] me okay what what wallet do you prefer
+[61:57] and I think like it's important that as
+[62:00] I said in the beginning depending on
+[62:02] what level you are on you need a
+[62:04] different wallet so that is like uh is
+[62:08] it easy to use how how is the how is the
+[62:11] feel to it uh and uh then when you come
+[62:14] to multi signature then you can try to
+[62:18] combine different wallets like you can
+[62:22] that is really
+[62:23] important exactly yeah from the uh motor
+[62:28] perspective I think uh choosing the
+[62:31] different uh Hardware wallet to work
+[62:33] together is really crucial so you cannot
+[62:37] put all your uh if you are using the
+[62:39] motor but you only choose like one kind
+[62:43] of device so that is really uh that is
+[62:46] not a good options to do that so that is
+[62:49] uh what we are thinking that uh modisc
+[62:53] is really um the mod is really important
+[62:58] for the Bitcoin communities and
+[63:00] meanwhile if you would like to adopt the
+[63:03] mod Solutions you should choose a
+[63:06] different kind of Hardware or Wallet
+[63:08] work together to to to to do that that
+[63:11] can dramatically increase the security
+[63:14] level of your
+[63:17] M yeah perfect yeah this is exactly what
+[63:20] what I'm also thinking no matter if you
+[63:22] have like two out of three three out of
+[63:24] five four out of seven and whatever the
+[63:27] the setup is um try to have like
+[63:30] multiple different kind of devices and
+[63:33] try to like have the basic the basic
+[63:36] thing that I'm always thinking is like
+[63:38] try to think of attack vectors that a
+[63:41] hacker could attack you and eliminate
+[63:44] all that you can
+[63:46] eliminate yeah yeah so that's that's I
+[63:49] think the the basic thing that you can
+[63:52] can do and there's a lot of things uh
+[63:55] that you can do but the best thing is um
+[63:58] go out there and educate yourself like
+[64:00] go on the Keystone wallet website see
+[64:03] what they all about go on other how
+[64:06] wallet manufacturers see what they're
+[64:08] all about read your reviews read uh from
+[64:11] other people's opinion try try to really
+[64:13] grasp like what is the the good thing
+[64:15] for me and and that's what I basically
+[64:17] try also do with the podcast I do a
+[64:19] podcast every day and have a different
+[64:23] guest on every day of the year
+[64:26] uh which is fascinating to see when uh
+[64:30] there are so many different opinions on
+[64:32] one topic it's Bitcoin uh there are so
+[64:36] many different opinions uh on that and I
+[64:38] try to have like the widest range uh of
+[64:41] of guests and opinions on on that one uh
+[64:44] subject and I hope I hope I do a good
+[64:46] job for my Watchers and viewers uh time
+[64:49] will tell if I get more subscribers and
+[64:51] more watch time people obviously like it
+[64:53] if I get less people don't like it then
+[64:55] I have to do something different so
+[64:57] thank you for everyone watching and
+[64:59] subscribing and thank you Aon also for
+[65:02] for being on the show I appreciate your
+[65:04] time and your insights to to the keyson
+[65:06] harder wallet but also like generally to
+[65:08] to harder wallets um when people want to
+[65:11] find out more about you when people want
+[65:13] to get in touch with you ask your
+[65:15] questions uh how can people uh reach you
+[65:19] yeah uh uh you can get me on the uh
+[65:22] Twitter which is uh which is AR I think
+[65:28] and probably I will send the link to you
+[65:31] so if you have any questions about the
+[65:34] uh Bitcoin wallet or the hardware wallet
+[65:37] and especially for the keystones you can
+[65:39] directly P me or if you developers you
+[65:42] are really interested uh in uh our
+[65:45] project everything we uh so every line
+[65:49] about uh our code or weite is true is
+[65:53] fully open source so you can um raise
+[65:57] that issue if you found anything um you
+[65:59] would like to understand you can raise
+[66:01] that issue in our GitHub and meanwhile
+[66:05] you can directly uh send the message me
+[66:09] on Twitter yeah DM me
+[66:12] result o open source is always great and
+[66:14] I think it's almost like a basis like if
+[66:16] you're not open source like yeah then
+[66:19] you have to do something um perfect and
+[66:21] thank you for being on Ain was a
+[66:24] pleasure yeah the really happy to uh to
+[66:27] talk about you and talk about the
+[66:29] hardware wallet uh yes it's really uh
+[66:33] thank you for the invitations
+[66:36] [Music]

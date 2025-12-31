@@ -1,0 +1,1503 @@
+Title: Mining Expert: "Nothing can break Bitcoin now!"
+Video ID: bs2-X3UTlu4
+URL: https://www.youtube.com/watch?v=bs2-X3UTlu4
+Date Saved: 2025-06-15 11:52:58
+--------------------------------------------------
+
+[00:00] the coin mining is the secret energy
+[00:02] resource that nobody realizes is the
+[00:04] most important thing it's really hard to
+[00:06] believe for me that there would be
+[00:07] anything that could seriously damage
+[00:09] this network or get in the way of it
+[00:10] achieving its ultimate purpose that's
+[00:12] the world changing mindbending
+[00:14] philosophy questioning asset that you
+[00:16] should be studying Bitcoin is going to
+[00:18] lower the cost of energy for all it's
+[00:20] really an example of of antifragility
+[00:22] and invincibility it's one of our first
+[00:25] kind of invincible assets to ever race
+[00:27] the world Bitcoin mining is its own
+[00:29] version of Al through this repeatable
+[00:31] process of generating entropy you
+[00:34] actually create the most impressive
+[00:36] money in the world you turn raw energy
+[00:38] into Bitcoin it's a profound Evolution
+[00:41] for human freedom and prosperity Bitcoin
+[00:43] mining is going to reshape our energy
+[00:46] [Music]
+[00:48] landscape Bitcoin mining is the secret
+[00:51] energy resource that nobody realizes is
+[00:54] the most important thing that is going
+[00:57] on in our world today I I love that so
+[00:59] much I I really want to just get started
+[01:02] right away with that um first of all
+[01:04] like like why are you so before we get
+[01:07] into that topic why are you so
+[01:08] passionate about Bitcoin mining uh and
+[01:11] why did you pick Bitcoin mining out of
+[01:13] that that topic pool that is so Broad in
+[01:16] Bitcoin sure so I was first exposed to
+[01:20] Bitcoin in 2015 uh one of my first few
+[01:22] years in college I at the time you know
+[01:26] was a coiner as well so I had an
+[01:28] interest in ethereum and anything else
+[01:30] that was coming out at the time I didn't
+[01:32] fully appreciate you know how impactful
+[01:34] Bitcoin itself was um in the the kind of
+[01:37] sea of noise and I tried to get into
+[01:40] mining almost immediately So within you
+[01:43] know a few months of buying my first
+[01:44] coins which sadly i' you know let go of
+[01:47] far too quickly but within a few months
+[01:49] of getting my first
+[01:50] coins tried to get into a mining startup
+[01:53] that was in Sweden and it was this
+[01:56] company that offered you know I think at
+[01:58] the time it was an S3
+[02:00] that you got an S3 that was hosted in
+[02:02] Sweden on hydr Power and I got payouts
+[02:06] for a couple months and then that
+[02:08] company you know went belly up or the
+[02:10] the owners you know decided to abscond
+[02:12] with whatever funds they had and I
+[02:14] stopped getting payouts so that was my
+[02:16] first kind of exposure to Bitcoin mining
+[02:19] and then years later uh
+[02:22] 2021 kind of reinvigorated my my study
+[02:25] of Bitcoin uh at that time I found the
+[02:27] price of Tomorrow by Jeff Booth in the
+[02:29] sovereign individual and between those
+[02:32] two books you know just had my interest
+[02:35] in Bitcoin very much
+[02:37] reinvigorated and uh my major in college
+[02:40] was was very complimentary to building
+[02:42] and operating data centers so I already
+[02:44] had some exposure to what it took to run
+[02:47] something like a Bitcoin mining farm and
+[02:50] I got into Bitcoin mining much more
+[02:52] seriously at that point I put a
+[02:54] significant portion of my net worth into
+[02:57] some machines that I tried to host in
+[02:59] the Southeastern United States and I had
+[03:01] an awful experience like one of the
+[03:04] worst years of my life because I just
+[03:05] picked the wrong host the wrong
+[03:08] equipment um and put you know far too
+[03:10] much that that was not comfortable at
+[03:12] all to to have a loss that year and so I
+[03:17] was getting into it thinking this is a
+[03:19] great source of passive income this is a
+[03:21] great way for me to you know get cash
+[03:24] flow at the time my my wealth building
+[03:26] vehicle was real estate so I was a
+[03:28] full-time real estate investor
+[03:31] and just had this really awful
+[03:32] experience that I thought nobody in the
+[03:34] world should have to go through this if
+[03:36] they're trying to get into Bitcoin
+[03:37] mining and I realized that my story was
+[03:39] not unique that plenty of people have
+[03:41] had awful experiences putting some funds
+[03:44] into Bitcoin mining and this is why so
+[03:46] many people say you know just buy
+[03:47] Bitcoin don't get into mining there's no
+[03:49] there's no real reason to get into it's
+[03:51] not necessarily more profitable and I
+[03:54] didn't want to believe that I didn't
+[03:56] want that to be my story I didn't want
+[03:57] that to be the story for people
+[04:00] and so I took that experience decided to
+[04:03] take what I had left and build a
+[04:04] collocation facility here in Oregon took
+[04:07] about 12 months to get it off the ground
+[04:09] um it was not an easy Journey we had
+[04:12] roadblocks along the way but I'm happy
+[04:14] to say that you know we got that
+[04:16] facility up and running we're currently
+[04:18] hosting about 500 units of other
+[04:20] people's machines and uh you know we're
+[04:23] able to deliver a much more positive and
+[04:26] pleasant experience for the people that
+[04:27] that host with us than the experience
+[04:30] that got me into mining so in a sense it
+[04:32] was a a story of I never wanted anybody
+[04:35] to have my experience again and I knew
+[04:38] that we could offer something better
+[04:39] than what was currently on the market in
+[04:41] mining do you think uh uh Bitcoin mining
+[04:44] is something for the average PL to to
+[04:47] get into or is it only if you have
+[04:49] advantage in building those facilities
+[04:52] or advantaging uh in in the cost of of
+[04:55] energy so my opinion would be it's it's
+[04:58] useful for anybody to learn about it's
+[05:00] useful for anybody to get into even if
+[05:03] it's just at a small size even people
+[05:05] that host their machines with us you
+[05:07] know my my advice is always if you don't
+[05:09] have any Bitcoin already stacked you
+[05:11] should start there you should get a a
+[05:14] reasonably sized portfolio of just the
+[05:16] coin because that's really the asset
+[05:18] right that's the world changing
+[05:20] mindbending you know philosophy
+[05:23] questioning asset that you should be
+[05:25] studying and Mining is just a way to get
+[05:27] a better understanding of it so any time
+[05:29] people get into mining I always caveat
+[05:31] it with you know at minimum this is
+[05:34] really just a learning tool so that you
+[05:37] can have a better understanding of the
+[05:38] asset you own and then when it comes to
+[05:40] being profitable or being more
+[05:41] profitable than owning the coin that's
+[05:43] when I would say you know context
+[05:45] matters what your energy sources matters
+[05:48] what kind of machines you're running
+[05:49] matters then you're introducing a lot
+[05:51] more variables to people that they
+[05:52] should consider in their own individual
+[05:54] circumstance which is something that we
+[05:56] help people do but I I always start with
+[05:59] own Bitcoin understand Bitcoin then get
+[06:02] into mining so that you can study even
+[06:03] deeper for learning about Bitcoin mining
+[06:07] um how far would you say we have to go
+[06:10] like is a solo Miner those small nerd
+[06:13] miners enough to learn about mining or
+[06:16] uh should we actually like buy used S9
+[06:20] and and plug it in home with a solar
+[06:22] panel or something like that I think
+[06:24] it's it's like anything in life right
+[06:26] you get what you put in so if if all
+[06:29] that you can do is buy a bid a and you
+[06:32] know mine with 500 gigahash out of your
+[06:34] USB outlet you're still getting benefit
+[06:37] from that right and not everybody wants
+[06:39] to spend five or6 thousand doar on the
+[06:42] newest unit from bitmain or what Miner
+[06:44] or
+[06:45] oradine and so I think anything that you
+[06:48] can do to further your learning of
+[06:51] what's actually going on at the protocol
+[06:52] level you know what's actually happening
+[06:54] when you mine a block that anything is
+[06:56] going to be beneficial and I'm pretty
+[07:00] convinced that after you get your first
+[07:02] gigahash online that you're GNA want to
+[07:04] upscale that you're going to want to
+[07:06] figure out how you can reuse your waste
+[07:08] heat you're going to want to figure out
+[07:10] oh if I have a spa might be really
+[07:12] interesting to put in a a dual Loop
+[07:15] immersion cooler so that I can you know
+[07:17] heat my spa in the winter for free I
+[07:19] think it's just a it's a rabbit hole
+[07:21] that you fall down as quickly and as
+[07:23] deeply as you are willing to really
+[07:26] interesting um maybe let's get to this
+[07:28] topic now with lowering the cost of
+[07:31] energy you said uh Bitcoin will lower
+[07:34] the cost of energy for for us all it
+[07:37] makes it more efficient how do you mean
+[07:39] that like why is that so in our world
+[07:43] today we have many different demands for
+[07:46] energy so you see the EV Revolution you
+[07:50] see the electrification of things like
+[07:52] home heating and cooling um data centers
+[07:55] coming online AI is a very hot topic
+[07:58] right now of of you know a major power
+[08:01] user and a major demand for new power
+[08:03] resources and that's all going to
+[08:06] continue to happen we're going to demand
+[08:08] more and more energy as time goes on and
+[08:11] the future versions of us will use far
+[08:13] more energy and it be a far cleaner use
+[08:17] of energy than we do today and that's a
+[08:19] good thing but in the context of growing
+[08:22] our need
+[08:23] for uh energy to be supplied that means
+[08:26] that we have to grow the availability of
+[08:29] energy that we can create now in the
+[08:31] Pacific Northwest specifically and many
+[08:33] other regions there are also
+[08:35] decarbonizing initiatives so you're
+[08:37] facing all of these calls to you know
+[08:40] remove thermal generation remove gas
+[08:43] fired peer plants uh and really
+[08:46] encouraging the use of things like wind
+[08:48] and solar and these other kind of
+[08:50] intermittent Renewables that even though
+[08:53] they are very positive they create a lot
+[08:55] of energy they don't necessarily create
+[08:57] reliable energy so in the absence of
+[09:00] something like batteries or an
+[09:02] interruptible load you have to have you
+[09:05] have to have something to counterbalance
+[09:07] having an intermittent generation source
+[09:10] and so the reason that I say Bitcoin is
+[09:12] going to lower the cost of energy for
+[09:14] all is because if you're going to
+[09:17] encourage intermittent load or excuse me
+[09:20] intermittent energy generation that
+[09:22] means you also need intermittent load so
+[09:24] you need an intermittent demand source
+[09:26] and Bitcoin mining is one of the few
+[09:29] things that we can stand up on a grid
+[09:31] that Demands a huge amount of energy but
+[09:34] that you can also turn off when you need
+[09:36] to so if you've uh seen in Texas there's
+[09:39] frequent curtailments during the summer
+[09:41] the network hash rate loves to come uh
+[09:44] come down a bit during these hot summer
+[09:46] months and part of that is economic
+[09:49] curtailment uh that has to do with uh a
+[09:53] lack of availability of energy or you
+[09:55] know an increase in the price of energy
+[09:57] at those times so Bitcoin miners as the
+[09:59] most price sensitive users they turn off
+[10:02] and essentially deliver that energy back
+[10:04] to the grid so if you're thinking about
+[10:07] how to design a grid system you've got
+[10:09] all your generation resources and then
+[10:11] you also have demand resources and if
+[10:15] you have generation that does not quite
+[10:18] come up to what you need for either a
+[10:20] you know Midsummer Peak or mid-winter
+[10:22] Peak here in the Pacific Northwest that
+[10:25] means that you've got to have something
+[10:27] that's that's going to give that energy
+[10:28] back and many people talk about
+[10:31] batteries batteries are a great solution
+[10:34] for for grid management and giving
+[10:35] energy back to the Grid in times of peak
+[10:37] demands but at the current time they're
+[10:40] either very expensive or many of them
+[10:42] are highly inefficient so it pays to be
+[10:45] able to have resources in your service
+[10:48] territory that can turn off and even
+[10:51] though you're not delivering any new
+[10:53] energy to the grid because you're able
+[10:55] to turn off your demand for that energy
+[10:58] it has the same net benefit
+[11:00] so rather than us going out and building
+[11:03] you know crazy amounts of of expensive
+[11:05] peer plants that may get used for a few
+[11:07] hundred hours a year instead you just
+[11:09] have a user who's able to cut off their
+[11:11] use at specific times that avoid uh
+[11:15] major major price spikes and to
+[11:18] illustrate this with numbers in the
+[11:20] Pacific Northwest uh your average your
+[11:24] average cost of procuring energy is
+[11:25] going to be somewhere between $60 and
+[11:27] $90 per megawatt hour
+[11:29] if you want to turn on a thermal
+[11:32] generation peer plant for just a few
+[11:34] hundred hours a year that can go up to
+[11:37] 14 or $5,000 per megawatt hour so if you
+[11:42] going to pay a Bitcoin miner for example
+[11:44] to perform demand response rather than
+[11:47] turn on a peer plant that might cost you
+[11:49] $250 to $500 per megawatt hour in
+[11:52] equivalent Energy savings net net the
+[11:54] cost of or the cost benefit of having a
+[11:57] demand response resource in your grid
+[12:00] versus turning on a peer plant might
+[12:02] save you 96 97% of the energy cost that
+[12:06] you would incur for those couple hundred
+[12:08] hours of emergency circumstances it's
+[12:10] really interesting when when we look at
+[12:11] Bitcoin mining there's so many
+[12:13] interesting angles we can go through uh
+[12:15] but it's the the flexibility of Bitcoin
+[12:17] mining uh as you mentioned uh that's
+[12:20] such an amazing uh advantage and I feel
+[12:23] like a lot of States get it like taxes
+[12:28] uh but a lot of states
+[12:29] still don't get it like they are still
+[12:31] thinking oh no Bitcoin mining is bad
+[12:33] it's like for the environment and all
+[12:35] those those those FS that they have in
+[12:36] their head um
+[12:40] is the the one thing uh that I maybe to
+[12:44] get a better grid of that uh I had I
+[12:47] think a month ago or one and a half
+[12:48] months ago a podcast with someone that
+[12:52] writes fiction novels that are far in
+[12:55] the future also related to bitcoin
+[12:59] and there are parts of it that's just
+[13:02] fiction and parts of it he actually
+[13:04] thinks will come true uh and it's just
+[13:07] really this was a podcast that actually
+[13:09] like expands your thinking of where
+[13:11] Bitcoin could go uh so far that he said
+[13:15] like 99% of Earth's of of the energy of
+[13:19] the
+[13:20] universe uh that uh uh people will live
+[13:24] on like when we live Al in other planets
+[13:27] uh will be used
+[13:29] um to mine Bitcoin uh because we will
+[13:33] have so much energy that we will live in
+[13:35] in such an abundance that we will just
+[13:38] turn on this as the best form of
+[13:41] monetization of that energy and with
+[13:43] that 1% that we have left we have more
+[13:46] than enough energy to uh do everything
+[13:49] that humans uh can do is is that
+[13:52] something that you could foresee very
+[13:55] far in the future he also talked about
+[13:58] uh putting Sol panelist on mercery and
+[14:01] stuff like that I could definitely see
+[14:02] that playing out you know you can you
+[14:05] can phrase it as Bitcoin will lower the
+[14:07] cost of energy for all you could also
+[14:09] say that Bitcoin will usher in an era of
+[14:12] energy abundance so that
+[14:15] that example that you were just talking
+[14:17] about really fits that you know we're
+[14:19] living in a world where there's so much
+[14:22] energy we've we've been so Innovative
+[14:24] and so smart with our resources that
+[14:26] there's there's almost nothing else that
+[14:28] we need need to use it for because we've
+[14:30] created so much of it and that's that's
+[14:33] kind of the the the other side of that
+[14:35] same coin and it's not it's not such a
+[14:39] it's not such a crazy thing I
+[14:41] mean even in in Texas you mentioned I
+[14:44] think they are very forward thinking and
+[14:46] in many ways being in the Pacific
+[14:48] Northwest we're just trying to model
+[14:50] some of the success and some of the
+[14:52] experimentation that they've already
+[14:53] done successfully um they had a story
+[14:56] where several years ago they were going
+[14:59] to put on uh an additional $1 billion of
+[15:02] peer plants so they foresaw a need for
+[15:06] additional emergency generation at
+[15:07] certain points of the year and Berkshire
+[15:10] hathway was going to build these peer
+[15:12] plants so that they had additional
+[15:14] energy on the grid for these peak times
+[15:17] and because of the presence of Bitcoin
+[15:19] mining there was about two gws of of
+[15:22] interruptable load uh that's
+[15:24] characterized as Bitcoin mining on the
+[15:26] grid because they were already particip
+[15:29] ating in demand response programs uh
+[15:31] Texas did not need to build those
+[15:33] additional peer plants so they saved
+[15:35] taxpayers you know collectively about 10
+[15:38] billion dollar in avoided costs and you
+[15:42] know that's a form of abundance that's a
+[15:44] form of energy abundance is not needing
+[15:46] to develop anything additional um and
+[15:49] being able to just stick with your
+[15:50] current base load generation is is
+[15:53] avoiding building that additional so I
+[15:55] see you know that's that's one real life
+[15:57] story where where
+[15:59] uh Bitcoin mining was able to encourage
+[16:01] energy abundance and save people money
+[16:03] on on energy costs but you project that
+[16:07] further out into the future and it's
+[16:09] likely to impact every grid system that
+[16:11] we have um I love the the company
+[16:14] gridless in in Kenya you know they're
+[16:17] extremely Innovative with with how they
+[16:19] bring energy abundance to these
+[16:20] communities that again this it's already
+[16:23] exists all of all of the energy that we
+[16:26] need is already here in the world and
+[16:27] most of it's just wasted or not properly
+[16:29] used um I think I think Bitcoin mining
+[16:33] especially in those contexts just
+[16:35] unlocks this ability to use resources
+[16:38] that have been um you know either
+[16:40] economically stranded or there was no
+[16:43] highest and best use for those energy
+[16:45] resources and now because we can
+[16:47] introduce these interruptible loads this
+[16:50] this kind of Base load consumer that
+[16:52] always wants energy but is also always
+[16:54] willing to give it back uh really
+[16:56] encourages this this beautiful
+[16:58] flourishing of humanity and and gives us
+[17:01] energy abundance in this way that at
+[17:04] least I never thought would be the way
+[17:05] that it would come about but is very
+[17:07] interesting to watch unfold and very
+[17:08] interesting to be a part of why do we
+[17:11] keep hearing in especially in the
+[17:13] mainstream media um that energy is so
+[17:16] scarce that uh we everything will
+[17:20] Skyrocket impr prise and I mean it will
+[17:22] skyro in price if you measure it in in a
+[17:25] highly inflatable currency but uh why is
+[17:28] that
+[17:29] scarcity in energy this this kind of
+[17:32] mindset in in in uh people who are not
+[17:36] in in energy and and why do they don't
+[17:39] see that that we actually could go to
+[17:41] like an energy abundant
+[17:43] future I think you hit it part of it is
+[17:45] that we we denominate it in a highly
+[17:48] inflationary currency so even if the
+[17:51] true cost of energy stays level you're
+[17:53] going to see your bill go up every year
+[17:55] and it's it's hard to convince people of
+[17:58] something that's different than what
+[17:59] they see that's different than what they
+[18:01] see on their power bill every month but
+[18:03] the other part of that is we have plenty
+[18:05] of energy in the world and it's usually
+[18:07] the delivery of energy that that makes
+[18:10] it very expensive or very hard to get so
+[18:12] in in at least the US for example we
+[18:16] have a a transmission capacity issue
+[18:18] where there's more than enough energy to
+[18:21] be created but the actual Network for
+[18:24] Distributing that energy is very old is
+[18:26] very uh you know it was built for
+[18:30] capacity that now we've we've very
+[18:32] quickly grown into and are about to grow
+[18:34] out of and so even if there's the
+[18:38] ability to create new generation and
+[18:40] create new cheap generation uh let's say
+[18:43] you know a a really cheap and and
+[18:46] effective nuclear plant goes up in Texas
+[18:49] that doesn't help me at all in the
+[18:50] Pacific Northwest because that energy
+[18:52] has to travel more than a thousand miles
+[18:54] to get up here and not only is that
+[18:57] unavailable in ter terms of transmission
+[18:59] capacity but most of that energy gets
+[19:01] lost as well so you can a rule of thumb
+[19:04] is for about every 500 miles of
+[19:06] transmission you lose 2% of the energy
+[19:09] so by the time energy travels from one
+[19:11] coast of the us to another you've lost
+[19:14] you know close to 10% of what you
+[19:15] started with which makes it less
+[19:18] economical one of the things that's come
+[19:20] out recently that that people are
+[19:22] working on is is superconductors that
+[19:24] you know minimize this energy loss but
+[19:26] even even implementing that seems kind
+[19:28] of like a a far-off vision it may be
+[19:31] something that that becomes more popular
+[19:33] in the next decade or two decades but
+[19:35] it's not a real impr present solution
+[19:38] and that's that's part of why I think
+[19:40] Bitcoin mining is is so important at
+[19:42] this state in time is that we know that
+[19:45] there are these resources that are going
+[19:48] to make energy much more abundant we
+[19:50] talked about batteries for a minute
+[19:52] batteries are going to be extremely
+[19:53] important but for now they're very cost
+[19:56] intensive they're very inefficient um
+[19:59] they're still in their their proving
+[20:01] stage and we have grids that are having
+[20:04] issues now and they're going to have
+[20:06] issues you know in the very near
+[20:08] foreseeable future with capacity and
+[20:10] transmission and Peak availability and
+[20:13] it's my opinion that all of these other
+[20:16] Innovations are going to be very
+[20:17] important but that they're not quite
+[20:19] ready that they're still very early
+[20:21] stages and something like Bitcoin mining
+[20:23] and interruptable load has already been
+[20:25] working on the grid for years uh I mean
+[20:27] demand response program in Texas have
+[20:29] been around um you know far longer than
+[20:32] Bitcoin mining even has demand response
+[20:34] is not a new idea this is this is not
+[20:36] something that Bitcoin miners invented
+[20:38] we just happen to be really good at
+[20:39] participating in it so it's it's my
+[20:42] opinion that we have a clear and present
+[20:44] danger with our grids becoming
+[20:46] unreliable and extremely expensive and
+[20:49] that Bitcoin mining is the most
+[20:51] near-term most readily available
+[20:53] resource that we can stop the price
+[20:56] increases and stop the unreliability of
+[20:58] our grids with technology that we have
+[21:00] available and scalable today is it
+[21:03] recommended for people who have uh a
+[21:07] house who have a roof that's mostly in
+[21:09] the Sun or what's stopping them to put
+[21:12] like a bunch of solar panels on there
+[21:15] plug a a Bitcoin miner on there use the
+[21:18] energy that they use in the household if
+[21:20] they have access energy just put it in
+[21:22] the in the Bitcoin miner and just
+[21:24] monetize all the excess energy uh turn
+[21:26] it off the Bitcoin miners if if they
+[21:28] have less energy like uh that that would
+[21:31] be even better than a battery I feel
+[21:33] like I think that's part of it uh you
+[21:36] know or even having both in tandem you
+[21:39] know the the grid scale batteries I
+[21:42] think are very expensive but uh if you
+[21:45] have have ever heard of or you know
+[21:46] people with Tesla power walls those are
+[21:49] those are playing demand response games
+[21:51] right now in people's homes and you can
+[21:53] choose to sell your power back to the
+[21:55] Grid or you could sell your own stored
+[21:57] power to your own Bitcoin miner
+[21:59] um I think it's only going to become
+[22:02] more common for us to have these these
+[22:05] more like micro grids where where people
+[22:08] at their source of consumption have some
+[22:10] kind of generating resource that's kind
+[22:12] of another uh pressure release valve for
+[22:15] making sure that our grids remain stable
+[22:17] is having the ability for homes and
+[22:20] businesses to generate some of their own
+[22:22] energy and if they are generating their
+[22:24] own energy you know in in many cases
+[22:28] it's not as attractive to sell that
+[22:30] energy back to the grid you get a far
+[22:33] lower a far lower proportion of what you
+[22:36] would pay for that energy when you give
+[22:38] that energy back you know some something
+[22:40] on the order of 20 to
+[22:41] 50% uh is is what you can expect to sell
+[22:44] your energy back for versus what you pay
+[22:46] for it and so if let's say just for
+[22:49] example residential rates in the Pacific
+[22:51] Northwest are around 15 cents a kilowatt
+[22:53] hour and I can sell that energy back for
+[22:56] five or six cents a kilowatt hour if I
+[22:58] have a Bitcoin minor I would much rather
+[23:01] if it's one of the newer generation
+[23:02] units I would much rather get my you
+[23:05] know 12 to 20 cents a kilowatt hour for
+[23:07] just running my Bitcoin minor versus
+[23:09] selling my energy back to the grid so
+[23:11] definitely at the individual level I
+[23:14] think that it's it's very interesting to
+[23:15] start integrating your own generation
+[23:18] your own storage as well as a way to use
+[23:20] energy economically uh through Bitcoin
+[23:23] mining at your home that's also a way
+[23:25] that you can keep it non kyc self
+[23:28] Sovereign you know all the things that
+[23:29] bitcoiners love is if you're doing it on
+[23:31] your own network in your own home and
+[23:34] it's not tied to a hosting facility like
+[23:36] ours or many of the others in the world
+[23:38] there's there's almost nothing that
+[23:39] anybody can do to stop you from using
+[23:41] that and from from generating your own
+[23:43] sound
+[23:44] money yeah and it's the the best non kyc
+[23:48] because it comes literally from nobody
+[23:51] like even even if you exchange with
+[23:54] someone on the on the street and you
+[23:57] make like this someone knows that the
+[24:00] Bitcoin are now with you uh it's like
+[24:03] even if you have really strictly non kyc
+[24:07] Bitcoin um they're not completely non
+[24:11] kyc uh they have to care someone that
+[24:13] someone maybe knows you it's still
+[24:16] better to have than a full kyc exchange
+[24:18] or something like that completely
+[24:20] Bitcoin mining uh and then get those
+[24:23] Bitcoin as non KC in your uh in your
+[24:27] wallet and have it as a completely
+[24:29] separate stack to the other stack and
+[24:32] never connecting them uh that would be
+[24:35] uh I think a great way to to stack some
+[24:38] non KC uh Bitcoin with a depending on
+[24:42] how you do it probably with a premium uh
+[24:44] depending on on how how you have access
+[24:47] to it uh because if if Bitcoin mining
+[24:50] could be more costly than just stacking
+[24:52] Bitcoin right it can be for sure and
+[24:55] that's that's part of why I always tell
+[24:57] people you know start start with your
+[24:59] stack start with your Bitcoin stack
+[25:01] before you put a meaningful portion of
+[25:03] your net worth into mining um but that
+[25:06] said you know there's there's all kinds
+[25:08] of really cool revolutions going on in
+[25:10] our world Bitcoin being one of them but
+[25:13] I I view the proliferation of Bitcoin
+[25:16] mining as the availability of your own
+[25:20] personal alchemical process so you think
+[25:24] of of alchemy as being transforming base
+[25:26] Metals into gold um or the internal
+[25:30] alchemical process of of transforming
+[25:32] base emotions into this kind of higher
+[25:34] spiritual vibration I think Bitcoin
+[25:37] mining is its own version of alchemy
+[25:39] where you're you're able to take these
+[25:40] raw
+[25:41] resources energy comes in many forms and
+[25:44] and people have all sorts of different
+[25:46] ways of gaining energy but you take this
+[25:49] kind of lower level disordered or not
+[25:53] quite perfectly ordered energy source
+[25:56] and through this repeatable process of
+[25:58] generating entropy you actually create
+[26:02] you know the most impressive money in
+[26:04] the world far more impressive than
+[26:06] turning lead into gold you turn energy
+[26:09] raw energy into Bitcoin the soundest
+[26:11] money in the world I think it's a
+[26:13] profound Evolution for human freedom and
+[26:15] prosperity that everybody can be in
+[26:17] charge of this open alchemical process
+[26:20] that they're able to participate in it
+[26:22] will if you watch or listen to my
+[26:24] podcast on a regular basis I guess you
+[26:27] already bought some Bitcoin and now the
+[26:29] most important step is to keep the
+[26:32] Bitcoin keep them secure in a hardware
+[26:35] wallet my personal recommendation for
+[26:36] hard wallet is the bitbox it's super
+[26:39] secure it's simple to set up it's also
+[26:42] perfect gift for a friend who has still
+[26:44] the Bitcoin on an exchange and you can
+[26:47] get a 5% discount with the code Robin at
+[26:50] the checkout visit bitbox do Swiss
+[26:54] robobin to get your bitbox and if you
+[26:57] really want to B bulletproof your self
+[26:59] custody setup your security setup and
+[27:01] maybe even your citizenship setup you
+[27:05] have to talk to the Bitcoin way if you
+[27:07] go to the Bitcoin way.com
+[27:10] Partners robobin you get a 30 minute
+[27:14] free call where you can dive deep with
+[27:17] them if your self- custody setup is
+[27:20] secure if your citizenship is secure or
+[27:23] maybe might be improvable or your
+[27:25] digital footprint in general is secure
+[27:28] they are the experts in cyber security
+[27:31] in Bitcoin self custody and how to be a
+[27:34] secure sovereign individual in general
+[27:38] that's true that's uh really cool and
+[27:40] also what I thought about right now is
+[27:42] when we have uh as we talked about a
+[27:45] little bit before with the solar panels
+[27:47] on the roof and having your own uh um
+[27:50] Power Plant basically at home when you
+[27:52] have the power wall from from Tesla as
+[27:54] we talked about will will that in the
+[27:57] future when we have and more of this
+[27:58] developments than also like decentralize
+[28:01] the Bitcoin mining
+[28:03] further I would say so I would say very
+[28:07] large corporate Farms like the public
+[28:11] companies that Mega facility model
+[28:14] unless you have a very specialized
+[28:16] strategy is likely to get outcompeted by
+[28:20] uh Guerilla miners people that have
+[28:22] their own energy generation they don't
+[28:24] have huge fixed Administration costs and
+[28:27] corporate costs
+[28:28] the people who have their own resource
+[28:32] are able to mine at any cost do not turn
+[28:35] off their hash rate for any reason and
+[28:38] uh are not subject to the same kinds of
+[28:40] constraints as large grid operated
+[28:42] miners I think those are our future and
+[28:44] I think that that only contributes to
+[28:46] the health of the network and you
+[28:48] already see this in in you know places
+[28:51] like Africa where most of the miners who
+[28:53] are mining in Africa are not mining on
+[28:56] the grid you know they're they're mining
+[28:57] with their own generation sources often
+[29:01] many miles or hundreds of miles from the
+[29:03] nearest population Center I think that
+[29:05] that trend of collocating Bitcoin mining
+[29:09] with these distributed energy resources
+[29:11] that are owned by individuals and
+[29:13] families is only going to lead to more
+[29:16] decentralization more decentralization
+[29:18] more security um and a network that is
+[29:21] that is healthier to be honest with you
+[29:23] we've seen in the last year some some
+[29:26] kind of pool centralization fear from
+[29:28] people that that many of the blocks are
+[29:30] being mined by some version of antpool
+[29:34] um I think that that as the resources
+[29:37] being dedicated to Bitcoin mining spread
+[29:39] out more effectively and become more
+[29:41] distributed those kinds of fears are are
+[29:44] able to fade into the background we're
+[29:45] able to to Really uh believe that we've
+[29:49] got a much more decentralized Network
+[29:51] that that is much more secure from any
+[29:53] kind of centralized attack or uh from
+[29:56] you know large public companies that are
+[29:57] on grid being co-opted by a government
+[29:59] with malicious intent I don't think it's
+[30:02] a strong danger right now but I would
+[30:05] like it to be not even a thought right
+[30:08] and I think most people who are who are
+[30:09] bitcoiners would agree we even though
+[30:12] we're not necessarily concerned for for
+[30:14] today's problems we want tomorrow to be
+[30:17] a very clear and open network that that
+[30:21] doesn't rely on the cooperation of of
+[30:24] some of these larger
+[30:26] entities a lot of people um make that
+[30:30] argument though the the pool
+[30:32] centralization like mining I feel like
+[30:35] is quite decentralized now like America
+[30:38] has what like 30% or something like that
+[30:41] of the mining power and they are the
+[30:43] biggest ones uh in 2021 it was a little
+[30:46] bit of a different story where a lot of
+[30:48] the mining power was still in
+[30:50] China good for us they they wanted to
+[30:53] get rid of it they did not get rid of it
+[30:55] but they decentralized the Bitcoin
+[30:56] mining git um with that action uh thank
+[30:59] you China I would say uh um but but
+[31:04] would the mining pools if let's say
+[31:07] there are only really two uh big mining
+[31:10] pools uh I mean there are more now but
+[31:13] if if there would be like if the mining
+[31:15] pool centralization would go in a bad
+[31:17] direction would that be something you
+[31:19] would worry about so uh once upon a time
+[31:22] I would have worried about it uh but
+[31:24] with protocols like ocean I don't know
+[31:27] if you've you've had any of them on to
+[31:28] talk with you but um what what they've
+[31:31] been working on really brings the power
+[31:33] of of creating block templates back to
+[31:36] the miners themselves and so even if
+[31:40] let's say antpool or ant pool's
+[31:42] derivatives control 60 to 70% of the
+[31:45] hash rate even if that is true and even
+[31:48] if most blocks are mined with their you
+[31:51] know criteria and their templates any
+[31:54] individual minor so long as they are are
+[31:57] still contributing to the network has
+[31:58] the ability to mine a block with their
+[32:00] own template so we could go through a
+[32:04] period where uh it's more challenging
+[32:07] there's maybe more censorship or more uh
+[32:10] putting in of of these kinds of of data
+[32:12] and transactions that that some
+[32:15] fundamental bitcoiners really don't like
+[32:17] but the fact that any blocks because you
+[32:20] know it's a random process right when
+[32:22] when you're when you're mining you
+[32:24] looking for this this nons this single
+[32:27] random number that's available to any of
+[32:30] the the miners on the network and it
+[32:31] just happens that these large pools are
+[32:33] going to find it more often but even if
+[32:35] it's one out of 10 times or one out of
+[32:37] 30 times you're still going to get
+[32:39] transactions through so I could
+[32:42] see I could see a regime of suppression
+[32:45] but I don't think you could get to
+[32:47] allout stopping of the free movement of
+[32:51] data and trade over the network I think
+[32:53] that it would be at worst you know
+[32:56] slowing down the ability for people to
+[32:58] get their transactions through uh but
+[33:00] not able to to all out stop it or all
+[33:02] out
+[33:03] censor for me uh a big part of my
+[33:07] confidence in Bitcoin actually comes
+[33:10] from 2017 From the Block size Wars uh
+[33:13] when you really studied that you're like
+[33:15] oh the the decentralization of the notes
+[33:18] decentralizations of the actual use of
+[33:21] Bitcoin um is really important uh to
+[33:24] that whole story and even if uh
+[33:27] seemingly the whole industry is for
+[33:28] larger blocks and and all a lot of
+[33:31] Bitcoin Mars are even for that um even
+[33:34] then resilience of the network is really
+[33:37] strong and it just grows on like we had
+[33:39] now a point where I put the risk on
+[33:42] bitcoin so extremely low that the risk
+[33:46] reward is just like such a beautiful
+[33:48] thing right now I totally agree with you
+[33:51] I when I first got into you know was
+[33:54] first studying it around 2015 between
+[33:56] 2015 and 2017 let's say I still thought
+[33:59] that there were plenty of ways for it to
+[34:01] be damaged or co-opted or you know in
+[34:05] some way hampered from achieving its
+[34:07] ultimate
+[34:08] purpose I at this point in in time I
+[34:11] find it really hard to believe that
+[34:13] there's almost anything and I you know I
+[34:15] knock on wood as I say this because I I
+[34:17] don't want there to be anything but it
+[34:20] it's really hard to believe for me that
+[34:21] there would be anything that could
+[34:23] seriously damage this network or get in
+[34:25] the way of it achieving its ultimate
+[34:26] purpose in fact I'm I'm curious to ask
+[34:29] you is there anything that you worry
+[34:31] about at this point other than just
+[34:33] human action there's always like we know
+[34:36] all the attack factors of Bitcoin like
+[34:38] we we we talked about so many and I
+[34:41] probably covered all of them already in
+[34:43] the podcast I'm at episode 198 so I'm
+[34:47] I'm soon with 200 episodes out uh so we
+[34:51] covered a lot um the only thing that's
+[34:54] possible and I choose not to live my
+[34:58] life uh worrying about those but there's
+[35:01] always a black swor event like something
+[35:03] that we cannot foresee and a Black Swan
+[35:06] event by definition is something that we
+[35:09] cannot
+[35:10] foresee uh so yes of course if you like
+[35:14] oh I want to diversify my portfolio also
+[35:17] in Gold also in real estate also in
+[35:19] stocks because there could be a black SW
+[35:21] event first of all like it's really hard
+[35:24] to think of one uh and and second of all
+[35:28] why would you um put your whole life
+[35:32] savings uh in in in other assets that
+[35:35] are not as great as the best form of
+[35:39] money ever uh just because there is like
+[35:42] a
+[35:43] 0.01% chance that there might be
+[35:46] something bad happening and I think if
+[35:49] such a black SW event actually happens
+[35:53] um the possibility is that we can
+[35:55] actually rely on anything in finances
+[35:57] and computers and internet are probably
+[35:59] pretty low because this had to be H like
+[36:03] as long as we have the internet and as
+[36:05] long as we have a free flow of of
+[36:09] communication in some regard it's really
+[36:12] hard for me to imagine any uh thing that
+[36:16] could break Bitcoin there are attack
+[36:19] vectors but all of those attack vectors
+[36:21] when you go through them you're like oh
+[36:23] this is not this is almost impossible
+[36:27] and very unrealistic yeah of course like
+[36:30] if you if you control all of the sudden
+[36:33] is there is like uh when all of a sudden
+[36:37] alien creatures come to Earth and they
+[36:40] are so more so sophisticated uh way more
+[36:44] sophisticated than than we are uh they
+[36:47] can force their money onto US yeah that
+[36:50] that would destroy Bitcoin but that
+[36:53] would destroy all forms of money that we
+[36:56] have uh so of course I can think of
+[36:58] things uh that destroy Bitcoin but How
+[37:01] likely are those actually and do you
+[37:04] really want to uh go on because like it
+[37:08] it's like you clean the whole house and
+[37:11] and then there's like one small crumb
+[37:14] laying on the table and then you're like
+[37:15] oh the the whole house is dirty no
+[37:18] it's like the house is clean it's it's
+[37:20] it's a nice house that's just a crumb
+[37:23] like leave it there like you will not
+[37:25] see it if you don't watch it so
+[37:28] uh there there's no perfect there is no
+[37:30] 100% security there's no 100% of
+[37:33] anything uh but Bitcoin is the closest
+[37:35] thing to that I feel like right I see a
+[37:38] lot like I don't I don't think there's
+[37:40] anything on the Chain itself that that
+[37:44] could lead to catastrophic failure let's
+[37:46] call it um any any attack factors that I
+[37:50] see at this point that have any shot
+[37:52] really are they're they're offchain they
+[37:55] have more to do with price suppression
+[37:56] you know things like the ETFs and other
+[37:58] kind of synthetic Bitcoin derivatives
+[38:01] that may or may not be real coin you
+[38:04] know they they can for a time at least
+[38:07] co-opt the N number go up kind of
+[38:11] benefit of Bitcoin but I don't see I
+[38:13] don't see anything really long-term
+[38:16] breaking the network let's say and you
+[38:19] you even mentioned stocks gold real
+[38:22] estate like part of my personal
+[38:24] transition from those assets and having
+[38:27] in my portfolio was realizing that all
+[38:30] of the black swans that could impact
+[38:32] those markets were far more likely they
+[38:35] were built in structurally um you know
+[38:38] it was a a very interesting day when it
+[38:41] was first told to me that hey did you
+[38:43] realize that most of the value of the
+[38:45] market cap of the world's real estate is
+[38:48] the debt that backs that real estate you
+[38:50] know realizing that it it takes one
+[38:54] systemic event for 80% of of the value
+[38:58] of that asset to just evaporate
+[39:00] overnight because it's backed by this
+[39:02] imaginary uh you know imaginary
+[39:05] instrument that doesn't actually have
+[39:06] any kind of value other than what you
+[39:08] can what you can say you owe to someone
+[39:10] else um and same with many of these
+[39:13] others like like gold even the the issue
+[39:15] with the ETFs for Bitcoin like that's
+[39:18] been a known issue for gold for years I
+[39:20] I grew up in a family that had pretty
+[39:23] strong opinions on gold um own gold and
+[39:27] it took me you know many years of of
+[39:29] owning gold to realize that the price
+[39:32] could very easily be manipulated by all
+[39:34] kinds of different Market mechanisms and
+[39:37] in some sense you know getting to to see
+[39:40] the flaws the cracks in the thesis with
+[39:43] all these different assets was even more
+[39:46] of a selling point to to get into this
+[39:48] thing that one you know only a handful
+[39:51] of us in the world have really studied
+[39:53] for more than a few hundred hours um and
+[39:55] two doesn't seem to have any of the
+[39:57] vulnerabilities that these other asset
+[39:59] classes do in the sense that it really
+[40:01] is its own self-contained universe is
+[40:05] the Cockroach of all investment assets
+[40:08] and short of you know allout nuclear war
+[40:11] uh there's there's almost nothing that
+[40:14] can take it down and even in your case
+[40:16] you know the internet going out that's
+[40:18] not even a Threat Vector as long as
+[40:20] you've got short band radio and you can
+[40:22] communicate over radio signals like it's
+[40:25] it's really um it's really an example of
+[40:28] of antifragility and I would say almost
+[40:31] invincibility it's it's one of our first
+[40:34] kind of invincible assets to have erased
+[40:36] the world and for that reason it's it's
+[40:38] very interesting to study because almost
+[40:40] nothing else maybe nothing else has that
+[40:43] kind of quality baked into it you raised
+[40:47] right in the beginning when you started
+[40:49] a really interesting point a lot of
+[40:52] people um confuse volatility and maybe
+[40:57] even price manipulation with actual
+[40:59] risks to bitcoin
+[41:02] because yes uh blackr could uh issue
+[41:06] paper Bitcoin uh more than they actually
+[41:09] have FDX did that they had like two
+[41:13] Bitcoin on their balance sheet and a lot
+[41:15] more in their accounts uh actually so
+[41:19] this is something that absolutely can
+[41:22] happen that probably will happen in the
+[41:25] future like if you have your Bitcoin on
+[41:27] an exchange where it's just a number um
+[41:31] it's very
+[41:32] likely uh that there might be like I
+[41:37] have an amazing example last time heard
+[41:39] on the podcast if you go to a bar uh and
+[41:42] and the bar you usually have to give
+[41:44] your jacket off to get in because you
+[41:47] cannot have to jacket inside of the bar
+[41:50] uh and uh you give them your jacket you
+[41:53] usually give them like one EUR two EUR
+[41:55] and then you get a token you have a
+[41:58] token now but this
+[42:01] token means nothing he can sell this
+[42:04] jacket in the mean time he can rent it
+[42:06] out in the meantime he can lay on it he
+[42:09] can use it as a blanket he can do
+[42:11] whatever he wants with that blanket and
+[42:13] you have just have a token and he says
+[42:16] like oh your token number is not even in
+[42:17] my list did you do your to did you issue
+[42:21] your toing yourself like good luck
+[42:24] proving that you actually took the the
+[42:26] jacket there like you have no proof and
+[42:28] that the same thing is if you have
+[42:30] Bitcoin not yourself if you don't have
+[42:33] your uh the keys yourself then we come
+[42:36] to the point where as you as you
+[42:38] mentioned yes we can have price
+[42:41] manipulations with uh f f with players
+[42:45] like centralized exchanges or even yeah
+[42:48] coinbase like Bitcoin ETFs with
+[42:50] blackrook and stuff like that um but
+[42:53] those will only work in the short to
+[42:56] medium term at some point those scams
+[42:59] come to light uh and uh you still have
+[43:03] your
+[43:03] Bitcoin and and all of the sudden
+[43:06] Bitcoin is worth way more because uh
+[43:08] they actually have to buy some or they
+[43:11] they crash down like no matter what
+[43:12] happens that the truth will come to
+[43:14] light and that's that's not really a
+[43:16] risk that's I think just
+[43:19] shortterm um price manipulation which is
+[43:23] a short-term risk when your purchasing
+[43:25] power is is manipulated but it's still a
+[43:27] Bitcoin like you still have it like
+[43:30] nothing changes in the fundamental value
+[43:32] of it 100% And that you know that goes
+[43:36] back into why I get into mining is if
+[43:38] you if you believe in this future where
+[43:40] this is something that everybody demands
+[43:42] and everybody wants to get their hands
+[43:44] on real Bitcoin and there's all these
+[43:47] vehicles for you to get something that
+[43:48] may or may not be V Bitcoin one of the
+[43:52] few ways that you can guarantee your
+[43:54] access to this type of money is being
+[43:56] able to generate Yourself by having an
+[43:58] energy resource and having an Asic and
+[44:01] actually mining your own blocks it's
+[44:03] it's one of the few ways to guarantee
+[44:05] that you've got Sovereign access right
+[44:08] this is part of part of my reading the
+[44:10] sovereign individual is realizing okay
+[44:12] if I'm truly going to be a sovereign
+[44:14] individual I cannot rely on coinbase or
+[44:17] Kraken or any of these exchanges to have
+[44:20] Bitcoin for me to buy in the future and
+[44:22] even if they do you know they they it
+[44:25] may come with strings attached you never
+[44:26] know what what they're going to to do
+[44:29] they may force you to hold it in a
+[44:30] custody account at some point in the
+[44:32] future there may be regulation that that
+[44:34] keeps you from from holding on to your
+[44:36] own Bitcoin and part of the thesis for
+[44:40] me getting into mining was well you know
+[44:43] since 2020 the balance on exchanges has
+[44:45] decreased if you look at the the trend
+[44:47] line in 2020 we went from exchanges
+[44:51] accumulating Bitcoin and getting up to
+[44:53] about four million Bitcoin across all
+[44:55] exchanges since then downward slope goes
+[44:58] from four million Bitcoin on exchanges
+[45:00] in in about 2020 to now I think it's
+[45:03] somewhere around two maybe two and a
+[45:04] half um and getting lower every day
+[45:07] because the ETFs are demanding so much
+[45:10] so if if we project that further out
+[45:12] into the future nobody wants to sell
+[45:14] their coin how else are you going to get
+[45:16] it unless you can get it directly from
+[45:18] the network and that was that was my
+[45:20] personal Journey was making sure that
+[45:24] that I and anybody who who I care about
+[45:27] has their own Sovereign access to being
+[45:29] able to make their own Bitcoin and not
+[45:31] depend on a a third party or regulated
+[45:34] exchange to be able to get it for them
+[45:36] yeah that's a that's a major thing
+[45:38] actually that's really really cool one
+[45:40] thing that I always try to to keep in my
+[45:43] podcast because it's also Bitcoin only
+[45:45] focus podcast and and you also said you
+[45:47] you tried it a little bit with altcoins
+[45:49] what made you switch to the Bitcoin only
+[45:52] like what's what if if there's one thing
+[45:54] what made you realize oh it it's Bitcoin
+[45:56] not not data things yeah it it plays
+[46:00] into mining as well uh ethereum's switch
+[46:03] to proof of stake was like the nail in
+[46:06] the coffin for me um now it was it was
+[46:10] many other things too I mean one thing
+[46:12] is the the mindset around Bitcoin you
+[46:15] know anybody who's getting into altcoins
+[46:18] or or these kind of newer projects
+[46:20] they're usually looking for a moonshot
+[46:23] to you know get a lot of a lot of Fiat
+[46:26] money very quickly you know do some kind
+[46:29] of crazy multiple on whatever they put
+[46:31] into it and so it's very much a mindset
+[46:33] of risk-taking and
+[46:35] speculation and uh just even all out
+[46:39] gambling you know and at the time that
+[46:43] that ethereum was switching to proof of
+[46:45] stake I was going through my own kind of
+[46:47] mindset shift right where there was a a
+[46:50] younger version of me who who wanted
+[46:52] nothing but to speculate and do a THX
+[46:55] and and make a lot of money very quickly
+[46:57] and go retire to an island and it it's
+[47:01] very multifaceted but the whole attitude
+[47:03] around showing proof of work and showing
+[47:07] up and and doing the important basic
+[47:09] things every day and not getting
+[47:11] distracted staying focused um staying
+[47:15] true to fundamentals and and not getting
+[47:17] distracted by shiny object syndrome it
+[47:20] was it was both a personal shift and
+[47:22] also a protocol shift that kind of
+[47:23] coincided at the same point this this uh
+[47:26] I guess it was fall of
+[47:27] 2021 um when when all this was going on
+[47:31] and so that that shift to proof of stake
+[47:33] was was the nail in the coffin that
+[47:35] showed me okay this network does not
+[47:39] reward the people that put honest work
+[47:41] into it it rewards the people who
+[47:43] already have a large stack and it's
+[47:45] vulnerable to being co-opted by the
+[47:48] largest holders whereas Bitcoin has
+[47:51] shown itself to be through its entire
+[47:54] history honorable truthful to its
+[47:57] original uh you know original protocol
+[48:00] layout truthful to the rules that it
+[48:03] laid out and to the philosophy of what
+[48:05] it was creating and you know it's it's
+[48:09] so deep and it's so multifaceted but I
+[48:11] would say that that that was the the
+[48:13] main point was
+[48:15] realizing what the network was rewarding
+[48:18] and what kind of network would actually
+[48:20] build me into a better person so it it
+[48:22] gets kind of philosophical it gets to
+[48:24] the who do you want to be and who do you
+[48:26] want to show up at
+[48:27] and you know since 2021 or so I've I've
+[48:31] been very dedicated to showing up as the
+[48:33] man who's willing to put in the work and
+[48:35] not shy away from a hard task that's
+[48:37] worthwhile rather than going for the
+[48:39] easy brain sugar dopamine of hitting
+[48:42] something big really quickly that's I
+[48:45] think a general rule in life that people
+[48:49] can adopt H go for the hard route to
+[48:52] have an easier
+[48:54] life in the long run that's a that's
+[48:57] major major learning that I feel like
+[48:59] some learn too late or never
+[49:03] um you you do a lot of uh Bitcoin mining
+[49:06] you do uh other things in Bitcoin can
+[49:08] you give us like a little bit of an
+[49:09] overview what you do in Bitcoin uh you
+[49:11] you work entirely just in Bitcoin right
+[49:14] like you focused like only Bitcoin right
+[49:16] now correct we we don't allow any
+[49:17] shitcoin miners in our facilities so we
+[49:20] are 100% Bitcoin only company um our
+[49:23] main service offerings are equipment
+[49:25] sales and hosting so someone's trying to
+[49:27] get into Bitcoin mining we're happy to
+[49:29] supply you a machine and put it in one
+[49:30] of our facilities and I would say that
+[49:33] that is the Bare Bones like if I were
+[49:37] going to do one thing well that would be
+[49:39] what we do just because that was my own
+[49:41] personal experience of having such an
+[49:42] awful time with getting the wrong
+[49:45] equipment getting the wrong partner
+[49:46] putting it in the wrong place uh that
+[49:48] led to so much pain and so if we can do
+[49:51] that right for people that that's very
+[49:54] important also with that I think that
+[49:56] Bitcoin mining is is a beautiful view
+[49:59] into engineering and learning more about
+[50:01] how our world is engineered and how it
+[50:03] can be better engineered so we provide a
+[50:05] lot of uh education to current clients
+[50:08] as well as you know free education
+[50:09] through our podcasts and monthly
+[50:11] education calls and so uh those are our
+[50:15] two main arms are education and Bitcoin
+[50:18] mining with collocation so collocating
+[50:20] your miners with us we also are uh
+[50:23] promoting initiatives and starting
+[50:25] initiatives in the Pacific Northwest
+[50:27] to get legislation like what Dennis
+[50:29] Porter passed in a couple other states
+[50:31] in the US passed in our region so that
+[50:33] we can protect the rights of Bitcoin
+[50:35] holders and miners in our region um as
+[50:38] well as you know contribute to this this
+[50:41] grid of the future that I believe exists
+[50:43] hand inand with Bitcoin mining so we
+[50:46] talked about Texas for a little while
+[50:48] how urot is kind of leading the way and
+[50:50] being very forward thinking and
+[50:51] experimental with how they integrate
+[50:53] flexible loads like Bitcoin mining our
+[50:56] region uh has not had such a need for
+[50:58] this in the past and it's really just
+[51:00] now coming to the surface that that we
+[51:02] need to have these programs so one of
+[51:04] our main initiatives is integrating with
+[51:07] utilities and making sure that demand
+[51:09] response programs are proliferated
+[51:11] throughout the Pacific Northwest and the
+[51:13] Bitcoin miners are rewarded for those
+[51:15] amazing really really cool um great what
+[51:18] you're doing um we come now close to the
+[51:20] end routine of the podcast I have one
+[51:23] question always before the end routine
+[51:25] uh and the question question is what can
+[51:27] we learn from you besides Bitcoin
+[51:30] besides Bitcoin mining besides the
+[51:31] things uh that we already talked about
+[51:33] in the
+[51:35] podcast you know uh I have a really I
+[51:39] have a really profound desire to create
+[51:43] more time for myself and more time for
+[51:45] other people um if you've ever read G's
+[51:49] post about Bitcoin is time uh Jack MERS
+[51:52] also did a a post on this or or talk on
+[51:55] this at Bitcoin Atlanta
+[51:57] um really passionate about helping
+[51:59] people build a life that is rich in time
+[52:01] in fact I have a book this is a great
+[52:05] purchase if you want to spend $20 it's
+[52:06] called buyback your time it's by Dan
+[52:09] Martell it's uh geared toward business
+[52:12] owners and entrepreneurs but I think it
+[52:13] applies to anybody you know we we get
+[52:17] into Bitcoin partially because we're
+[52:18] looking to create wealth but also
+[52:20] because of what wealth creates which is
+[52:22] more time for us to live a fulfilled
+[52:25] life and if I'm not teaching people
+[52:27] about Bitcoin which is one of my great
+[52:28] passions I am creating time for myself
+[52:31] or creating time for other people so
+[52:32] they they can enjoy their passions one
+[52:34] of which is music for me but uh that
+[52:38] would be my my kind of superpower
+[52:40] outside of this is lifestyle design and
+[52:44] helping people become more in charge of
+[52:46] their their own experience of life and
+[52:49] not just living it by default we all get
+[52:51] to wake up and choose what our day looks
+[52:53] like what our week looks like how we use
+[52:55] our time
+[52:57] um how far impact goes and I think that
+[53:00] aside from stacking more Bitcoin if you
+[53:03] can figure out how to organize
+[53:05] prioritize and better use your time
+[53:07] you're going to have a much more happy
+[53:09] and fulfilled life so if I could leave
+[53:11] anybody with something to spend some
+[53:13] time learning learn how to how to
+[53:16] preserve and grow your time because we
+[53:17] all have the same amount of it I love
+[53:20] that a lot uh and Bitcoin is time is I
+[53:24] feel like time is the only thing that is
+[53:28] actually way more valuable than than
+[53:30] Bitcoin is and it's I I made a recent
+[53:32] post and it got some traction um I don't
+[53:36] have a lot of Bitcoin to have massive
+[53:39] stack I want more time like that it
+[53:42] should not be your goal to have as much
+[53:45] Bitcoin as possible then you're not not
+[53:48] really different to all the Fiat guys
+[53:50] that just want to maximize Fiat profits
+[53:53] then you just want to maximize Bitcoin
+[53:54] profits there's a difference in that but
+[53:56] but it's not that much difference but if
+[53:59] you really want to just increase your
+[54:01] time on Earth your quality time on Earth
+[54:04] also like your time you you cannot too
+[54:07] much increase but you can better the
+[54:09] time that you spend here and and use it
+[54:11] not to work uh like 80% of your life for
+[54:15] something that you don't even want but
+[54:17] maybe only work 10% for something that
+[54:20] you don't want and uh spend most of your
+[54:22] time actually in in good things even
+[54:24] though I always say there are seasons in
+[54:26] life and sometimes you have to go uh
+[54:28] through a little bit of mud to to go to
+[54:30] the
+[54:30] beach uh so it's it's uh it's really
+[54:33] interesting how to look at that and and
+[54:35] and great great and thank you for for
+[54:37] that input and it's also you know I
+[54:41] think most people when I say getting
+[54:42] more time as well think like more time
+[54:45] to go sit on the beach or do nothing you
+[54:48] know that's great don't get me wrong
+[54:50] doing nothing is a a very valuable skill
+[54:53] to train yourself to do I'm also a
+[54:55] fierce meditator so I think that's it's
+[54:57] worthwhile to do nothing but even more
+[54:59] so than creating time is is creating the
+[55:02] best uses of that time for you so many
+[55:04] of us spend a lot of our time doing
+[55:06] things that are are far lower value than
+[55:08] what we're able to contribute to the
+[55:10] world and I think if you get lost doing
+[55:14] let's call it the five or $10 an hour
+[55:16] tasks that don't feed your soul that
+[55:18] don't feed your purpose on this Earth um
+[55:21] in favor or you know in in place of
+[55:24] doing the things that really light you
+[55:26] up up and the things that that can
+[55:27] actually contribute to the world around
+[55:29] you I think that that's a really a
+[55:31] really sad wasted use of life um and so
+[55:35] I would really just encourage people
+[55:37] that if you are able to build a life
+[55:39] that's that's rich in time that you do
+[55:42] what is the highest value of that time
+[55:44] with the energy that you have and make
+[55:46] sure that you're contributing back to
+[55:47] the world um spend as much time on the
+[55:50] beach as you want but if you're anything
+[55:51] like me uh you know retirement is not a
+[55:54] concept that I Jive very well with
+[55:58] I can get to that because uh I always
+[56:02] argue I'm kind of retired because I do
+[56:05] every day this podcast I can do every
+[56:07] day things in Bitcoin and I really like
+[56:10] that there are small portions of me that
+[56:12] also have to work do some bookkeeping
+[56:16] and do some taxes associated with my
+[56:18] business but uh most of my time I can
+[56:21] actually spend on great things and even
+[56:24] though it's not always easy it's like
+[56:26] it's a lot of work also um but uh it's
+[56:29] something that I really like and I'm
+[56:31] really passionate about it and that's my
+[56:33] form of retirement like that's that's
+[56:35] like I can
+[56:36] do 100% of the time that I want things
+[56:39] that I really am passionate about and so
+[56:42] that's that's a better form of of
+[56:45] retirement because I know um we had some
+[56:48] videos about oh how many Bitcoins do you
+[56:50] need for for retirement and those videos
+[56:53] do really great so I know it's something
+[56:57] on the mind of Bitcoin as people that go
+[56:59] into Bitcoin but it's I think less about
+[57:03] the or I just want to sit on the beach
+[57:05] it's more about like oh I want to do
+[57:07] every day what I want to do so that that
+[57:09] that's always like I think a big
+[57:12] distinguish between those I find that
+[57:15] the people that have retirement on their
+[57:16] minds don't get to do something that
+[57:18] they love every day and that instead of
+[57:20] retiring they they should just find
+[57:22] something that they truly enjoy doing
+[57:24] with their time that that contributes
+[57:26] and you know everybody's in a different
+[57:29] situation I can only speak for myself
+[57:31] but it it takes a little bit of effort
+[57:33] and and the reward on the back end of of
+[57:35] doing the things that you were most
+[57:37] suited to do and that you enjoy doing it
+[57:39] benefits everybody it's not just you
+[57:42] it's everybody who loves you everybody
+[57:43] who's in your life uh gets to have a
+[57:46] better experience of you and a better
+[57:47] experience of the life you create if you
+[57:49] are doing what you are here on purpose
+[57:51] to do and retirement you know retirement
+[57:56] is is a funny concept but if you can
+[57:59] just retire to doing what you love um I
+[58:01] think that's much more interesting than
+[58:03] retiring to doing nothing that's uh it's
+[58:05] a very deep inside I love it a lot um we
+[58:09] have an intin where the previous guest
+[58:11] is asking a question for the next guest
+[58:12] without knowing who the next guest
+[58:14] actually is and your question from the
+[58:16] previous guest is what's the best way of
+[58:19] entering a Bitcoin conversation to
+[58:22] explain Bitcoin to a
+[58:24] Nori H I would I would start by asking
+[58:28] the question of what is your greatest
+[58:30] Financial pain and that should tell
+[58:34] you what someone's biggest issue that
+[58:38] they can solve is you know anytime
+[58:39] you're in a in a sales process it's less
+[58:41] about talking about the thing you're
+[58:43] selling and more about figuring out what
+[58:45] that person's pain point is so if I were
+[58:48] trying to open a conversation with
+[58:50] someone you know for me personally I I
+[58:54] just hate working with banks I hate all
+[58:56] red tape I hate having to move money
+[58:58] around and someone call me and ask if
+[59:00] I'm if I'm really doing it if it's fraud
+[59:03] and then after I say yes you know still
+[59:05] not letting me move my money so for me
+[59:06] it was a sovereignty thing for someone
+[59:09] else they they they might really be
+[59:12] their top of- mind conversation would be
+[59:15] well I just I don't have any savings
+[59:16] anymore like my savings seems to
+[59:18] evaporate um so really when you're
+[59:21] opening up the conversation I think you
+[59:22] need to drill into what the individual's
+[59:25] Main pain point with money is and you're
+[59:28] going to have to give them a minute
+[59:30] because most people don't think that
+[59:32] deeply about what their pain point with
+[59:34] money is it's one of those abstract
+[59:37] Concepts that you know it it just
+[59:40] doesn't it doesn't come up enough in
+[59:43] everyday conversation unless you live in
+[59:45] the Bitcoin world and you're very
+[59:46] passionate about talking talking about
+[59:47] money and and describing you know the
+[59:50] different characteristics of different
+[59:51] types of monies it's not something that
+[59:53] most people have thought about and so
+[59:55] before before you launch into a heavily
+[59:58] intellectual TI raade about why one form
+[60:01] of money is better than another you
+[60:02] should be figuring out what that
+[60:04] person's unique pain point is and trying
+[60:06] to drill in on if there is a specific
+[60:09] part that relates to that individual's
+[60:11] life that you think you can address by
+[60:13] teaching them about Bitcoin I love that
+[60:15] way a lot um perfect then thank you for
+[60:18] for joining us today um uh but wait
+[60:22] before I let you go before I forget
+[60:24] where can people find you and where can
+[60:25] people ask your questions so you can uh
+[60:29] you can find me on Twitter uh our
+[60:31] company handle is abundant Minds we also
+[60:34] have a YouTube channel it's going to be
+[60:35] the same handle at abundant Minds where
+[60:37] you can find our podcast uh you can go
+[60:39] to Abundant minds.com book a call with a
+[60:42] member of my team if you're looking at
+[60:43] getting into Bitcoin mining we do offer
+[60:46] uh free initial consults so you can see
+[60:48] if it's even the right fit for you if
+[60:50] it's the best strategy for you but we
+[60:52] love talking about Bitcoin we love
+[60:53] talking about Bitcoin mining and we
+[60:56] really here to impact the lives of of
+[60:58] not just the people who work with our
+[60:59] company but everybody in our region uh I
+[61:02] think that this is a story that's just
+[61:03] beginning to be told about how Bitcoin
+[61:06] mining is going to reshape our energy
+[61:08] landscape and really we we just need to
+[61:11] get the message out to more people um
+[61:14] and to to make sure that people are
+[61:15] hearing us and that we can have the
+[61:17] impact that we so desire to have so
+[61:20] appreciate you uh having me on Robin is
+[61:23] a really fun fun chat with you fun
+[61:26] getting to know you and uh hope we get
+[61:28] to do it again perfect then yeah thank
+[61:30] you for doing it also thank you for
+[61:32] everyone watching and listening for
+[61:33] being here today with us I'll be back as
+[61:36] always tomorrow with another episode
+[61:37] bye-bye
+[61:39] [Music]

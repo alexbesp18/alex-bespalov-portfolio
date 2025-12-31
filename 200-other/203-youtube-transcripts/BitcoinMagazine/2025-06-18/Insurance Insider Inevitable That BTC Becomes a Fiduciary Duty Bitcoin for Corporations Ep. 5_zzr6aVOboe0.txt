@@ -1,0 +1,1481 @@
+Title: Insurance Insider: "Inevitable" That BTC Becomes a Fiduciary Duty | Bitcoin for Corporations Ep. 5
+Video ID: zzr6aVOboe0
+URL: https://www.youtube.com/watch?v=zzr6aVOboe0
+Date Saved: 2025-06-18 22:07:43
+Channel: BitcoinMagazine
+--------------------------------------------------
+
+[00:00] There will be a time in the future where
+[00:02] the fiduciary duty of not owning Bitcoin
+[00:05] on your balance sheet will create
+[00:07] shareholder litigation because once the
+[00:09] investor community understands the math,
+[00:12] right, not your opinion, not my opinion,
+[00:14] just look at the math, you are not
+[00:16] really doing your fiduciary duty if you
+[00:18] don't find some way to incorporate
+[00:20] Bitcoin into your treasury strategy in
+[00:22] some form or fashion. Right? That to me
+[00:23] is inevitably going to happen.
+[00:30] Welcome to the Bitcoin for Corporations
+[00:32] show. I'm joined today by Garrett
+[00:34] Johnston from Marsh, a global insurance
+[00:37] broker. Uh so uh really wanted to have
+[00:40] you on uh to to talk about Bitcoin uh
+[00:43] and how it fits into the corporate
+[00:45] landscape in the year 2025.
+[00:48] um you have a very unique background. Uh
+[00:51] not a lot of Bitcoiners are necessarily
+[00:53] familiar uh with the world of insurance
+[00:56] and then uh all the specializations
+[00:59] within that. Um but first I really want
+[01:01] to start by uh your Bitcoin journey and
+[01:04] how how you eventually uh got to learn
+[01:07] about Bitcoin and and become intrigued
+[01:09] by it.
+[01:11] Perfect. Um yeah, so I've been um in the
+[01:15] commercial insurance space for 25 years.
+[01:17] Uh I started out in 1999 as an insurance
+[01:21] underwriter um for a large carrier. Uh
+[01:24] and I was in their what they called
+[01:25] their financial institutions group and
+[01:27] primarily what I underwrote for the
+[01:29] first decade of my career was typical
+[01:32] Trati companies um insurance companies.
+[01:36] I would write their own ENO, directors
+[01:38] and officers risk uh their crime. I
+[01:41] would write stock exchanges, banks,
+[01:43] investment advisors, etc. Um and then
+[01:48] did that uh worked for some insurance
+[01:50] brokerages. So in the insurance world,
+[01:52] you it's kind of akin to um when you
+[01:55] shop for a mortgage, oftentimes you will
+[01:57] use a broker to shop multiple markets
+[02:00] and bring you the best uh mortgage rate.
+[02:02] In the commercial insurance world, you
+[02:04] typically use a broker who goes to 20 to
+[02:08] 40 carriers, gets the best price,
+[02:10] negotiates the terms, etc. Um, so that's
+[02:12] the world I've lived in. Um, very
+[02:15] corporate, very conservative being
+[02:17] within the insurance space. Um, and then
+[02:20] in 2019 2020 is when I really kind of
+[02:25] first discovered Bitcoin. Um, kind of
+[02:28] did the usual where I played around with
+[02:30] some of the altcoins. the first year,
+[02:33] learned a lot and then kind of got my
+[02:35] Bitcoin not uh not crypto conviction
+[02:38] really in in 2020. Um
+[02:42] and I ultimately I decided to stay
+[02:44] within insurance because there was a
+[02:46] point where I was thinking of getting
+[02:47] out um just because that as that
+[02:49] conviction level built within Bitcoin, I
+[02:52] wanted to build there and and do
+[02:53] something in that space. Um, but I also
+[02:56] just, you know, I just realized how much
+[02:57] of a disconnect
+[03:00] between the use case of Bitcoin and the
+[03:03] insurance industry there is. Uh, and so
+[03:06] that was 2020 and I've pretty much been
+[03:09] focused um pretty heavily in that in
+[03:12] that space as far as like where does
+[03:13] insurance and Bitcoin intersect. Uh, and
+[03:17] things obviously have changed quite a
+[03:18] bit with the new administration. you
+[03:20] know, we basically went from
+[03:22] antagonistic headwinds towards digital
+[03:24] assets to uh tailwinds. Um, and so here
+[03:28] we are, we've got all these treasury
+[03:30] companies populating. Um, but as we sit
+[03:32] here today, there's like there's the the
+[03:33] kind of Wall Street corporate
+[03:35] institutional money that sees all the
+[03:39] growth in Bitcoin and digital assets,
+[03:40] but really is not connecting the dots on
+[03:43] where Bitcoin makes things better. And
+[03:46] then we have a ton of very um fast
+[03:50] growing scaling kind of Bitcoin native
+[03:53] builders um that I'm sitting there kind
+[03:55] of cheering on as as both an investor
+[03:57] and just a Bitcoiner. Um but there's
+[03:59] this massive divide between the
+[04:01] institutional space in the insurance
+[04:03] side and the builders. And I think the
+[04:06] treasury company operations are very
+[04:08] interesting because they are um outside
+[04:11] of Micro Strategy which obviously is
+[04:12] like trailblazed and and created a lot
+[04:14] of space for these companies to operate.
+[04:16] Um they're kind of the first ones really
+[04:20] jumping right into the middle of things
+[04:22] because going public from an insurance
+[04:25] standpoint uh you go from kind of not
+[04:28] having a target on your back to having a
+[04:30] pretty big target on your back. a lot of
+[04:32] corporate governance expectations and
+[04:35] downside risk. Uh so your risk vector
+[04:37] landscape just completely kind of
+[04:39] mushrooms when you go from the private
+[04:41] sector into the public sector. And as
+[04:44] Bitcoin kind of bleeds into traditional
+[04:47] Wall Street, there's there's a ton
+[04:50] that's traditionally been done from an
+[04:52] insurance risk mitigation standpoint um
+[04:55] that is not understood by the Bitcoin
+[04:56] community. And then frankly the use case
+[04:58] for Bitcoin as kind of an arbitrage
+[05:01] against inflation and managing risk over
+[05:04] long duration is completely missed on
+[05:06] the whole by the insurance community. So
+[05:08] that's a lot of where I am really trying
+[05:10] to spend my time is being that um
+[05:13] educator on both sides uh bridgeuer and
+[05:16] dot connector because that that is what
+[05:19] is desperately needed uh kind of between
+[05:21] those two worlds. So, if I'm hearing
+[05:23] that right, the the two sides are the
+[05:25] asset management side of the float, that
+[05:29] is um all of the assets that are backing
+[05:31] the potential future insurance claims um
+[05:35] and that there's an opportunity for
+[05:36] Bitcoin to uh help on that side of
+[05:40] meeting their mandate. And then the
+[05:42] other side is on the insurance side,
+[05:45] developing insurance products that are
+[05:48] fit for purpose for Bitcoin clients. uh
+[05:51] that that do need those services. Is
+[05:54] that fair to say? Yeah. Yeah. There's um
+[05:57] there there is there's a myriad of kind
+[06:00] of places to dig into from an insurance
+[06:03] standpoint, but yeah, those those first
+[06:05] two are some of the big ones. So, um the
+[06:08] insurance community does not really
+[06:12] appreciate yet what a Bitcoin allocation
+[06:15] in any investment portfolio uh performs
+[06:19] over time, right? So, particularly
+[06:21] within insurance, you have um a whole
+[06:23] gamut of products. You have certain
+[06:25] things that are short duration. So,
+[06:27] again, like an auto accident, you know
+[06:29] that you've got to fix your bumper when
+[06:31] you get in a an auto crash. Um but like
+[06:34] a workers's comp claim where maybe
+[06:35] you've been lifting boxes in a warehouse
+[06:37] for 5 years and and there's a lot of
+[06:39] this long duration type risk. There's
+[06:41] things like reinsurance. There's nat,
+[06:43] hurricanes, wildfires that uh have long
+[06:46] duration risk. And most of the insurance
+[06:48] community for the most part they take
+[06:49] those premiums in right then they have
+[06:52] their the float is when you dollar in
+[06:54] before you have to pay the dollar out on
+[06:56] the claim side. Um that float depending
+[06:58] on your duration oftentimes is just
+[07:00] invested in cash and cash equivalents
+[07:02] treasuries etc. Um, and as we all know,
+[07:05] um, and be you do such a good job of
+[07:07] kind of like outlining the the problems
+[07:08] with some of this stuff is
+[07:11] that's that's a pretty dysfunctional
+[07:12] melting ice cube that these big
+[07:14] institutional pools of capital like
+[07:15] insurance companies have and how do they
+[07:19] um harness something like Bitcoin to
+[07:21] improve their loss trajectory over time.
+[07:25] So again, it, you know, just
+[07:27] theoretically you put a 5% allocation
+[07:29] into Bitcoin. You don't have to uh go
+[07:32] super high conviction, but just do a
+[07:33] single digit allocation. And as you
+[07:35] model that out over a multi-year
+[07:37] duration portfolio, like the loss
+[07:39] history just is it's higher profit, uh
+[07:42] higher performance toward the insurance
+[07:43] companies. And that helps them manage
+[07:45] risk. And frankly, that's good for the
+[07:47] consumer, too, because at the end of the
+[07:48] day, whether you're a corporation or an
+[07:50] individual buying your homeowners or
+[07:52] auto, um prices are, you know, Bitcoin's
+[07:55] deflationary on most things, including
+[07:57] insurance, if if you price it out right
+[07:59] and structure it correctly. Yeah. And
+[08:01] and on the opposite end, I've heard a
+[08:04] lot of complaints that insurance rates
+[08:06] have gone up a lot in dollar terms over
+[08:08] the past several years. Um, I was
+[08:10] recently in Florida and my Uber driver
+[08:12] mentioned that uh he's going to have to
+[08:15] move because he just can't afford the
+[08:17] the hikes uh in in insurance rates. Um,
+[08:21] so it's interesting you mentioned that
+[08:23] Bitcoin could potentially help alleviate
+[08:26] that rate pressure by having an asset
+[08:29] that really performs well. Yeah. Uh like
+[08:32] another one I was just I was talking
+[08:34] about with a a guy who's on the policy
+[08:36] side last week um is you take you take
+[08:40] California right California wildfire
+[08:41] risk is difficult right so the the way
+[08:45] this has trended over time and in
+[08:47] Florida coastal Florida same way for
+[08:49] flood right two different uh cats um
+[08:53] same problem but if you use Florida as
+[08:54] just an example um or not Florida for
+[08:57] California wildfire risk a lot of the
+[09:00] carriers have left the state,
+[09:03] not because they're unwilling to write
+[09:05] in the state of California, but there's
+[09:07] a there's a dysfunctional system that
+[09:09] they have to operate in that does not
+[09:10] allow them ultimately to make a profit.
+[09:12] So, you know, oversimplifying it, but
+[09:15] when you can boil it down like you are
+[09:17] not allowed, you have to get approval by
+[09:20] the state of California on rate
+[09:22] increases if you're a if you're writing
+[09:24] homeowners insurance in the state of
+[09:25] California, right? So, if you see your
+[09:28] portfolio deteriorating because of
+[09:30] wildfire risk, you tend to say, "Hey,
+[09:32] I'm going to need," you just do the
+[09:33] math, and the math will say, "I need to
+[09:35] increase rates by 15%." Let's just
+[09:37] assume that's the case. The regulators
+[09:39] might come in and say, "That's price
+[09:41] gouging. We don't like it. We're only
+[09:43] going to allow you to do 5%." Well, you
+[09:45] just do the math and you're like, "I
+[09:47] won't make a profit." And in the, you
+[09:50] know, public, this is where we get kind
+[09:51] of into directors and officers
+[09:52] insurance. At the end of the day, if
+[09:54] you're a publicly traded company, which
+[09:56] most of these carriers are, when you
+[09:58] boil everything down to the baseline,
+[09:59] your duty is shareholder value. It's not
+[10:02] covering clients, right? Same
+[10:04] dysfunction in the health care system.
+[10:06] But if you can't make your rates
+[10:07] profitable, your only option is to exit
+[10:09] the state. And so in California, they
+[10:11] have the state funded, it's called the
+[10:13] fair plan, right? And the irony there is
+[10:16] the fair plan, I I don't have the
+[10:18] numbers off the top of my head, but it's
+[10:20] exceptionally underfunded.
+[10:22] And the vast majority of the float
+[10:25] that's brought in by the fair plan is
+[10:27] cash and cash equivalents, right? So
+[10:29] that's a good example of a dysfunctional
+[10:30] system where Bitcoin could help fix the
+[10:35] California fair plan. It's just one
+[10:37] example, right? It's just like very much
+[10:38] a vacuum and there's millions of these
+[10:40] use cases across the insurance industry.
+[10:43] Um I wanted to touch on you you had
+[10:46] mentioned kind of the carrier product
+[10:48] fix within Bitcoin companies, right? But
+[10:52] before we get to that, I wanted to see
+[10:54] uh uh on what order of magnitude would
+[10:57] you say the the total insurance float
+[10:59] out there is? Uh is it in the billions
+[11:02] or in the trillions? I believe it is in
+[11:06] the tr it's in it's in the trillions. It
+[11:08] kind of depends if you're looking at
+[11:09] like North America versus global, right?
+[11:11] When you get global, it's it's in the
+[11:13] trillions. So it it's massive. And a lot
+[11:15] of the um you know a lot of the
+[11:17] insurance capacity is global capacity
+[11:19] whether they're doiciled in Europe like
+[11:21] an alons or they're doiciled in the US
+[11:23] like an AIG or a CHOP um they all write
+[11:26] global uh risks out there um but it's a
+[11:29] it's a massive amount right and so it's
+[11:32] um there there's just a huge opportunity
+[11:35] over time uh for Bitcoin to kind of
+[11:39] solve some of these um kind of just
+[11:41] pernitious inflation issues because
+[11:43] carriers are getting hit with the same
+[11:44] inflation issues of um you know it costs
+[11:48] a lot more to get back surgery these
+[11:49] days than it did and that's ultimately
+[11:52] underlied in in inflation. There's um
+[11:55] inflation and just getting your car
+[11:56] fixed, right? There's inflation is kind
+[11:58] of all over the place. And then
+[12:00] particularly when you when you look at
+[12:02] you know the broken fiat system, it's
+[12:04] just rife with issues, right? So, one of
+[12:07] the uh dysfunctions out there in the US
+[12:11] is not only do you have topline nominal
+[12:14] inflation, but you have what's kind of
+[12:15] referred to as social inflation in the
+[12:17] industry. And that is where jury
+[12:19] verdicts on claims that go to jury trial
+[12:23] are getting
+[12:25] really dislocated from reality. So, you
+[12:27] and and you also have um litigation
+[12:30] funding. So, hedge funds are are
+[12:31] starting to fund some of these claims
+[12:33] because they're taking a cut of the jury
+[12:35] verdict. So it's just a good example of
+[12:39] a broken system. Perverse incentive
+[12:41] structures create perverse outcomes. Not
+[12:44] for the benefit, you know, betterment of
+[12:45] society. It kind of just works against
+[12:47] everybody. It works against the
+[12:48] carriers, ultimately works against the
+[12:50] clients at the end of the day. And
+[12:51] that's where there there's a lot of
+[12:54] opportunity to do better. Wish you could
+[12:56] access cash without selling your
+[12:57] Bitcoin? Letin is the global leader in
+[12:59] Bitcoinbacked lending. They've issued
+[13:01] over 9 billion in loans since 2018 and
+[13:04] never lost a single satoshi of client
+[13:06] assets. A leaden loan is different. With
+[13:09] custody loans, collateral is not lent
+[13:11] out to generate interest. No credit
+[13:13] checks, funds in under 12 hours with
+[13:15] proof of reserves reports published
+[13:17] every 6 months. Letin gives Bitcoin
+[13:19] holders a secure and transparent way to
+[13:21] unlock liquidity without selling. Learn
+[13:23] more at letin.io.
+[13:25] Yeah. And it's it's really sad because I
+[13:27] think that there's this mentality that's
+[13:29] taken hold of, oh well, if if it's the
+[13:32] insurance company paying for something,
+[13:34] then it doesn't matter what it costs.
+[13:36] And they kind of gloss over the fact
+[13:39] that that gets passed along in rates or
+[13:42] in availability. It's not like a free
+[13:44] lunch. Yeah. We refer to that in the
+[13:47] industry as moral hazard. So, hey, I've
+[13:48] got insurance. I'm not going to drive as
+[13:50] careful. Or I've got insurance, so what
+[13:51] if they sue me? Right. If you're running
+[13:53] a business, right? Uh and to your point,
+[13:54] that's exactly uh how it is. Insurance
+[13:57] companies ultimately they want to make a
+[13:59] fair return on investment. Usually it's,
+[14:01] you know, 10 to 15% and their
+[14:03] shareholders are happy. Um but kind of
+[14:05] to that California example, if you can't
+[14:07] make a profit, like you've got to deploy
+[14:08] your capital elsewhere because you, you
+[14:11] know, you're essentially looking for
+[14:12] yield on the, you know, the premiums and
+[14:14] and the the risk you deploy. Uh so it is
+[14:17] it is um it's a problem when when it
+[14:21] snowballs and it is it does come back to
+[14:23] you right so you do want to be a good
+[14:26] corporate citizen ultimately uh and
+[14:28] that's part of a lot of what I spend my
+[14:29] time in is how do I help companies
+[14:32] navigate their corporate governance so
+[14:34] particular like all these these
+[14:35] companies with reverse mergers the
+[14:37] Bitcoin treasury companies um
+[14:40] they're getting into territory where the
+[14:42] corporate governance and compliance
+[14:44] really matters at this And if and if you
+[14:46] don't pay attention to it, you could
+[14:49] easily face a shareholder claim. And you
+[14:52] know, like you know, Micro Strategy got
+[14:53] sued recently, right? Shareholder claim.
+[14:55] And like if you actually read through
+[14:57] that one, that's just a good example of
+[14:59] like you don't have to be wrong. You can
+[15:01] be sued and it's going to take you
+[15:03] several million dollars just to deal
+[15:05] with that claim in legal fees, right?
+[15:07] Because like as a Bitcoiner, when I look
+[15:09] at some of the the the reasons for the
+[15:12] complaint, um they're kind of silly,
+[15:15] right? Particularly when we're looking
+[15:16] ahead of what likely the Q2 revenue is
+[15:19] going to look like coming out of that
+[15:20] exact same company, right? Um but that's
+[15:23] the reality you live in. Like often
+[15:25] times you get sued on allegations
+[15:29] whether they're there's much truth to
+[15:31] them. You got to deal with them. And
+[15:33] they're you in the public company
+[15:34] setting like it takes you510 million
+[15:37] dollars just to deal and get a get a
+[15:39] motion to dismiss like it is not and
+[15:42] there's inflation pressure on the legal
+[15:44] fees too. So when I started in the
+[15:46] business ridiculously high white glove
+[15:49] legal fees were like 500 bucks an hour.
+[15:53] Then it jumped we there was a point in
+[15:55] time we were like I cannot believe these
+[15:57] firms are charging a,000 an hour. We're
+[15:59] well past 2,000 an hour now. Wow. Yeah.
+[16:02] So it's like you see inflation all over
+[16:04] the place and at the end of the day
+[16:07] the carriers have to fund for that risk
+[16:10] and so that's where it rates you know
+[16:13] rates are just a derivative of you know
+[16:16] insurance is in some ways a derivative
+[16:18] mirror of the litigation environment out
+[16:19] there. you know, property cat loss is
+[16:22] going to be more the um the envir
+[16:24] environmental act aspects, but when you
+[16:26] get into DNO litigation um suits against
+[16:30] the board of directors for
+[16:31] mismanagement, that really is just a
+[16:33] it's a function of the litigation
+[16:34] landscape.
+[16:36] Uh yeah. So, it's really interesting
+[16:39] that that you you bring up the the
+[16:41] governance aspect of it because this is
+[16:44] um I think a a conversation that that
+[16:46] has been going on online is concerns
+[16:49] about the Bitcoin treasury companies and
+[16:51] corporate adoption of Bitcoin as um
+[16:55] being comparable to past manas in the
+[17:00] crypto world. So people will point to
+[17:03] ICOs or they'll point to FTX, the you
+[17:07] know offshore exchange um and and
+[17:11] they'll compare that to a publicly
+[17:13] traded company where um so my background
+[17:16] of accounting and public accounting and
+[17:18] and you know having uh worked at at
+[17:20] Deote and uh kind of seen the insight on
+[17:23] the Trafy system uh and working on
+[17:27] internal controls specifically as well.
+[17:29] Um I I have this gut reaction of what an
+[17:32] absurd comparison because a a lot of the
+[17:35] critique of ICOs and of FTX was the lack
+[17:40] of governance, the lack of risk
+[17:43] management, the lack of audits and all
+[17:46] of these good corporate practices.
+[17:49] um and that what you're describing it's
+[17:52] it's almost the opposite where they're
+[17:54] under too much scrutiny in the sense
+[17:56] that it's unfair uh unwarranted scrutiny
+[17:59] of a frivolous lawsuit, right? And so,
+[18:02] um, it's it's fascinating to to see kind
+[18:05] of the difference between the narrative
+[18:07] that some might have about, uh, that
+[18:10] this is, uh, some kind of, uh,
+[18:13] uncontrolled mania comparable to ICOs
+[18:16] where there was no accountability and
+[18:19] those management teams did squander the
+[18:21] funds that they raised uh, and that the
+[18:23] SEC, you know, had to crack down on
+[18:25] that. Yeah, it really it is a
+[18:27] fascinating dichotomy and it's it's very
+[18:30] illustrative of the knowledge gap that's
+[18:34] out there. So in my day job dealing with
+[18:37] insurance carriers um helping Bitcoin
+[18:40] denominated uh or Bitcoin kind of
+[18:43] adjacent companies um get insurance like
+[18:46] it is very common for me to have for a
+[18:50] given risk in a normal non-bitcoin
+[18:52] denominated pier. I might have 40
+[18:55] markets that I can arbitrage against
+[18:57] each other, get the best terms, say,
+[18:59] "Hey, do this because you're
+[19:00] competitors. You're going to do it.
+[19:01] You're not going to get the deal. If you
+[19:02] don't, get the pricing down." As soon as
+[19:05] you mention, you know, I'll say digital
+[19:07] assets on a whole. Um because Bitcoin,
+[19:09] like from an insurance standpoint, um
+[19:11] I'm very much a Bitcoiner, but in the
+[19:14] corporate insurance world, Bitcoin is
+[19:17] just considered a digital loss. is just
+[19:18] considered the biggest one, but there's
+[19:20] there's very little um distinction
+[19:23] between Bitcoin and all the other
+[19:25] cryptos. So, I still very much deal
+[19:28] with, well, how do I know it's not
+[19:30] Bitcoin is not going to be the next FTX?
+[19:32] Right. Right. And the irony to me is the
+[19:35] I was an underwriter that would ensure
+[19:38] exchanges like
+[19:40] traditional FTXs. So, like whether it
+[19:42] was like an Erade or ESAB or Fidelity,
+[19:44] something like that. those those were
+[19:45] the clients I would ensure in my early
+[19:48] days. Uh and to your point, it was all
+[19:50] about audit controls, controls and
+[19:52] procedures, all that kind of stuff. Uh
+[19:55] and FDX, I I kind of always joke like
+[19:58] FDX was 1980s fraud. It had nothing to
+[20:01] do with the tech. What he arbitrageed
+[20:04] with was the lack of regulatory
+[20:07] framework around it. But he
+[20:09] rehypothecated and he embezzled
+[20:12] that that does not take the technology.
+[20:14] he just exploited the regulatory
+[20:16] framework in my mind um on on that uh
+[20:19] that whole fiasco. So we're we're still
+[20:22] dealing with the residue of that and I
+[20:24] still deal with the ESG FUD on Bitcoin
+[20:27] miners, right? So, like I love the uh
+[20:30] you know, you've got such a great piece
+[20:31] you did a few years ago when you're at
+[20:33] Riot with your CO2 monitor going around
+[20:36] and completely just debunking the whole
+[20:39] uh you know, greenhouse gas FUD that was
+[20:41] really rampant at the time uh out there
+[20:43] in the industry. So, that we're still
+[20:46] dealing with that today. And I think you
+[20:49] know the insurance community
+[20:52] is usually the one left holding the bag
+[20:54] on a lot of these things. So like the
+[20:56] insurance community is still paying out
+[20:58] on some of these, you know, FDX era
+[21:02] fiascos. Um they so they have long
+[21:05] memories and there's just kind of some
+[21:06] residue within there where they don't
+[21:10] they still think Bitcoin is going to be
+[21:13] it's just going to be the next FTX. It's
+[21:15] going to be a different flavor, right?
+[21:17] Um and then it you know we kind of get
+[21:19] into
+[21:21] uh like a micro strategy play. I
+[21:23] completely agree with you that is um
+[21:26] there's all this FUD around they're
+[21:29] taking on debt. It's going to be
+[21:30] callable. There's liquidation risk. It's
+[21:32] and they just there's a complete lack of
+[21:34] understanding of the flexibility
+[21:38] that Sailor's built into his particular
+[21:42] converts and then all these preferred
+[21:44] shares. I look at that and I'm like once
+[21:47] you kind of dig in and see his
+[21:49] optionality and particularly with these
+[21:51] ATM things like
+[21:54] he is he is a completely different risk
+[21:58] than your traditional
+[22:01] raising debt you know tradi debt raising
+[22:05] scenario but that is that is just very
+[22:07] underappreciated and so where I play at
+[22:11] that intersection is if it's not
+[22:13] appreciated it is misunderstood and
+[22:15] misunderstanding often leads in
+[22:17] lawsuits, right? Micro Strategy, you
+[22:19] know, their their lawsuit is to me a big
+[22:22] misunderstanding of what I feel he's
+[22:25] been um pretty abundantly clear on his
+[22:29] strategy. Like in the DNO world, the
+[22:32] directors and officers, that's when you
+[22:33] get sued for alleged mismanagement. when
+[22:35] you're public, it's usually some uh you
+[22:39] know, some derivative of like a Monday
+[22:41] morning quarterbacking of, hey, you did
+[22:43] you should have disclosed this and you
+[22:45] didn't, right? Um you said you were
+[22:47] going to do this yet the results were
+[22:49] this, which is kind of what the essence
+[22:51] of that recent lawsuit is. And it
+[22:54] doesn't take into it just shows a lack
+[22:56] of understanding. But at the end of the
+[22:57] day, there's a plaintiff firm that's
+[23:00] bringing it. they're gonna they're going
+[23:03] to get paid a decent amount of money and
+[23:04] that's part of the perverse system that
+[23:06] they're in. And that's that to me is
+[23:07] what I spend a lot of time guiding the
+[23:11] builders whether it's the Bitcoin
+[23:13] treasury companies or the smaller
+[23:14] companies of like, okay, you're growing
+[23:16] great. We're in this kind of hyper
+[23:18] bitcoinization. We have um a lot of top
+[23:22] down support from the government now.
+[23:24] You're getting into new territory.
+[23:26] there's a whole new risk landscape that
+[23:28] opens up that you need to be prepared
+[23:31] for and use some of those lessons from
+[23:34] the trad space because you know I get to
+[23:38] see all the dirty laundry of these
+[23:39] companies as do the carriers when stuff
+[23:42] hits the fan right and everybody's moved
+[23:43] on from FTX we're still seeing seeing
+[23:46] some of the fallout from some of those
+[23:48] spaces so
+[23:50] so uh mechanically h how what what is
+[23:53] that DNO insurance and how does it work
+[23:55] in a situation like this. Yeah. So,
+[23:57] director chrison and officers insurance
+[23:59] um it's usually structured in kind of a
+[24:01] threepillar format of the coverage. Uh
+[24:04] we refer to the in the industry as side
+[24:06] A, side B, and side C. I'll kind of go
+[24:09] backwards because I think it's easier to
+[24:10] articulate that way. Um you have
+[24:12] individuals, the individual directors,
+[24:15] and you have the company, right? So, you
+[24:16] have balance sheet exposure and you have
+[24:18] individual exposure. So, a directors and
+[24:21] officers policy will cover the balance
+[24:23] sheet of the company. Um, so it's going
+[24:26] to cover uh the company as an entity
+[24:28] because in legal terms the uh you know
+[24:30] entity is a person in in in law and then
+[24:33] it's also going to cover that's the side
+[24:35] C cover. Then you get over into side B
+[24:38] and A. B is covering the individual
+[24:40] directors and officers when they are
+[24:43] indemnified by the company. And most
+[24:46] companies in bylaws uh say they'll fully
+[24:48] indemnify you to the extent allowable by
+[24:52] law. Right? If you if you knowingly do
+[24:54] fraud and are criminal acts and you
+[24:55] can't indemnify for that, then you get
+[24:57] to side A. Side A is what we call
+[24:59] non-enddemnifiable
+[25:02] insurance. So that is when uh either
+[25:04] they can't indemnify you, won't
+[25:07] indemnify you, which again won't is
+[25:09] usually pretty rare unless there's
+[25:11] criminal, you know, knowing fraud. The
+[25:13] won't part is usually a solveny issue.
+[25:16] So even though you could get covered by
+[25:19] the balance sheet, they're bankrupt or
+[25:22] they're insolvent. So the DNO is really
+[25:24] really important to the directors and
+[25:27] officers of the company because in many
+[25:29] ways it acts as the financial backs stop
+[25:33] for the individual directors. I mean it
+[25:34] is the thing that ultimately helps them
+[25:37] pay their legal fees when the company
+[25:38] blows up and goes bankrupt. Um and it
+[25:41] also stands in and it softens some of
+[25:43] those legal fees down the road. So it's
+[25:45] it's a really important cover for public
+[25:48] companies in particular.
+[25:50] Is it purely about civil litigation from
+[25:53] shareholders? Uh it depends on where you
+[25:56] are in your cycle. So in the private
+[25:58] company space oftent times the entity
+[26:01] covers
+[26:03] the entity for a whole host of issues.
+[26:06] Typically it could be private
+[26:08] shareholders. So it could be VC backers.
+[26:10] It could be anti-competitive
+[26:12] uh like antirust issues. uh when you get
+[26:14] into the public space typically the
+[26:16] coverage for the entity gets isolated
+[26:19] solely to shareholder claims which
+[26:21] that's where nine10en of your exposure
+[26:23] is. So that's always something in
+[26:24] insurance that um is is not well
+[26:27] understood. It's partly why I think
+[26:30] often times people are a little too
+[26:32] binary when they think about these
+[26:34] things. So I have insurance, I'm covered
+[26:37] and then they're frustrated when it's
+[26:39] not covered, right? And the reality is
+[26:41] insurance
+[26:43] is a tool. It's not a solution. So it's
+[26:45] a way to cover off some things, but
+[26:47] they're not going to cover others. And
+[26:50] over time and with case law, if carriers
+[26:52] cannot underwrite and kind of
+[26:55] encapsulate the risk and price for it,
+[26:57] they'll exclude it, right? So like, um,
+[27:01] I'll give you a good example of one of
+[27:02] the ways they'll either exclude it or
+[27:04] they'll sublimmit it heavily. So a
+[27:07] supplement is simply if you buy a $10
+[27:08] million policy, they might have a
+[27:10] supplement for a million dollars for a
+[27:13] piece of the risk that is really
+[27:15] difficult for them to wrap their their
+[27:17] arms around. So in the kind of crime
+[27:20] cyber space, this uh this coverage of
+[27:22] social engineering is is an example
+[27:24] that's often. So those are fishing
+[27:26] attacks. Those are any kind of um kind
+[27:28] of clickbait type of scenarios that try
+[27:31] to get you to transfer funds um in a
+[27:33] fraudulent way. very very very difficult
+[27:37] to underwrite around and very difficult
+[27:40] to ensure. So they supplement that
+[27:43] pretty heavily in this space. So that's
+[27:44] an example of can you find the coverage
+[27:47] out there? Yes. Um is it going to be
+[27:48] supplemented? Yes. Could you
+[27:51] theoretically buy a lot more insurance
+[27:52] for it? You could, but it's usually cost
+[27:55] prohibitive. Um punitive damages is
+[27:58] another one depending on the the um the
+[28:01] policy, depending on the jurisdiction.
+[28:03] Some jurisdictions don't allow you to
+[28:05] insure for punitive damages. Um, and
+[28:07] then there's a whole host of ways to do
+[28:10] insurance products around that. You can
+[28:11] do offshore puny wraps outside of the
+[28:13] United States as one example, but
+[28:16] insurance is got a whole plethora of
+[28:18] ways you can deal with risk. But as I
+[28:20] always tell clients, like risk comes for
+[28:22] you whether you insure it or not. It's a
+[28:24] tradeoff you have to make. And just
+[28:27] because insurance is available doesn't
+[28:28] mean it's economically viable. And just
+[28:31] because you can purchase insurance
+[28:32] doesn't mean you necessarily should.
+[28:34] You've got to think through the pros,
+[28:35] cons, trade-offs. Uh, in that scenario,
+[28:39] um, Bitcoin custody insurance is a is a
+[28:41] very, um,
+[28:44] similar space where they're the amount
+[28:47] of, you know, a lot of these custody
+[28:48] firms like to say, "Yeah, we have
+[28:49] insurance, right?"
+[28:52] Yes, they do. Uh, but the insurance is
+[28:54] very specific, very narrow for certain
+[28:56] factors. And I think there's a pretty
+[28:58] big underappreciation of what's not
+[28:59] actually covered um in those insurance
+[29:01] policies for the most part.
+[29:04] And do does the pricing change a lot
+[29:06] based on the riskiness of the industry?
+[29:09] Right? So if they might look at for
+[29:11] example uh covering Boeing where they
+[29:15] might have an airplane accident that
+[29:17] would lead to shareholder litigation
+[29:19] would be different than something more
+[29:21] plain vanilla. Yes. Um, and a lot of
+[29:24] that is is kind of orders of magnitude.
+[29:26] So, at the highest level, insurers want
+[29:31] regulatory stability and they want
+[29:34] structure because at the end of the day,
+[29:35] the you know, as I grew up as an
+[29:37] underwriter early days, so like my job
+[29:38] was to um meet a bank, interview their
+[29:43] CFO and their kind of controllers and
+[29:45] and go through all and my job was to how
+[29:47] broad am I going to make the coverage
+[29:49] and how much am I going to charge them?
+[29:51] And my job was if I charge you $100,000
+[29:55] five years in a row, um, I better have
+[29:59] whatever I charged you minus claims
+[30:02] should be less, right? That'd be our
+[30:03] combined ratio. So combined ratio of 100
+[30:06] means for every dollar you bring in,
+[30:08] you're paying out on the back end in
+[30:10] claims. So you want your combined ratio
+[30:11] to be, you know, 90% 85%. So you're
+[30:16] making margin of what you do. um that
+[30:20] that ultimately is the game of of
+[30:23] underwriting. So that's the challenge
+[30:24] that all these companies have. If you
+[30:27] don't have a structured regulatory
+[30:28] environment, how are you going to price
+[30:30] your risk? Right? It's akin to like in
+[30:34] fiat world, like for us Bitcoiners, um
+[30:37] how are you going to value risk in US
+[30:40] dollars when the Fed like this can just
+[30:42] debase the currency overnight? Right.
+[30:44] Right. The short answer is you can't.
+[30:46] Right. Uh, and that's where Bitcoin
+[30:48] fixes it where and again lost on the
+[30:51] insurance community as a whole right
+[30:53] now. They're they're they're sitting
+[30:56] there in this broken fiat system where
+[30:59] they're trying to wrestle with inflation
+[31:02] yet they're kind of ignoring on the one
+[31:03] end as of most non- Bitcoiners are that
+[31:06] this inflation dynamic of printing of
+[31:09] money at will is creating all the
+[31:12] downside problems. Right? you do
+[31:14] something in a Bitcoin framework,
+[31:16] you know, to Jeff Boo's point, it's like
+[31:18] everything goes deflationary at that
+[31:19] point, right? But it's we've not had the
+[31:24] regulatory framework.
+[31:26] I mean, if anything if anything, we've
+[31:28] had an antagonistic framework all over
+[31:30] the map until the new administration.
+[31:32] So, I think the best thing that the
+[31:34] administration does is just they they've
+[31:36] simply said, "We're going to try to get
+[31:40] this right." And you know, no, no
+[31:42] administration with their best effort is
+[31:43] going to get it perfect. But the fact
+[31:46] that we're even in an environment where
+[31:48] it's not just Trump but all of his
+[31:50] cabinet are basically committed to
+[31:53] putting a digital asset framework that
+[31:55] is like that will set the stage for
+[31:59] insurance capital to come in because for
+[32:02] a lot of the Bitcoin native companies
+[32:04] the custody firms right now 99% of the
+[32:08] insurance capacity doesn't sit in the US
+[32:10] it's Lloyds of London it's Bermuda it's
+[32:13] other offshore juris jurisdictions that
+[32:15] are just a little bit more flexible. Um,
+[32:19] and we really need to get to a point
+[32:21] where the large European and US domin
+[32:24] denominated insurance companies uh jump
+[32:28] in. That will really bring price
+[32:30] pressure down. Um, but you have to have
+[32:32] regulatory framework first before we get
+[32:35] there. So that's where the like the
+[32:37] market structure the bill um stuff that
+[32:40] Senator Lumus is doing um those are part
+[32:44] of the arc that are in the important
+[32:47] groundwork cornerstones that need to be
+[32:50] done before I think you know the the
+[32:52] standard market you know participants
+[32:54] will really come in at scale. Um, so
+[32:57] we're still, you know, it's a long
+[32:58] journey that we're on, but we're kind of
+[33:01] in the best position we've ever been
+[33:03] because we have buyin on Capitol Hill
+[33:06] for the first time. So that that to me
+[33:08] is is
+[33:10] really important and it's and it's why I
+[33:12] think we're seeing such a kind of um
+[33:15] this kind of pent-up demand as soon as
+[33:17] the new administration came in. We've
+[33:19] seen all this growth in digital assets,
+[33:21] right? BTC treasury companies being just
+[33:23] a perfect example of of
+[33:26] Now's the time for for that that kind of
+[33:29] dynamic to take place. And and the the
+[33:33] Black Rockck ETF as well uh getting
+[33:35] approved last year, I think on the
+[33:37] institutional side was hugely
+[33:38] validating. But um do you think that
+[33:41] it's a challenge for companies wanting
+[33:44] to adopt Bitcoin on their balance sheet
+[33:47] having concerns about the risk of
+[33:50] shareholder litigation and the impact on
+[33:52] their DNO insurance? Yeah, it's tough
+[33:54] because it really is about um kind of
+[33:57] the investment relations side of things.
+[34:00] Um and like I I think
+[34:03] uh I think Daniel Batton did a post that
+[34:05] I thought was very um appropriate for
+[34:08] what I see in the space and he was kind
+[34:09] of talking about I um Meta's latest, you
+[34:12] know, shootown of a uh their Bitcoin
+[34:15] Treasury uh proposal within their
+[34:17] shareholder meeting. um and he kind of
+[34:19] made the argument that it's the same
+[34:22] institutional shareholder base that shot
+[34:24] down Microsoft and some of the others
+[34:27] because they're just not quite there
+[34:29] yet. Right? So I think there's a
+[34:32] difference when um you know Sailor in
+[34:35] many ways a micro strategy he had the
+[34:36] luxury of being um he holds such a large
+[34:40] proportion of the company and he did the
+[34:42] work at the board level of like you know
+[34:44] forcing them to read the Bitcoin
+[34:45] standard and do the do the homework
+[34:47] where they got it because you have to
+[34:49] have conviction across the company. Um,
+[34:52] and I think it was really important how
+[34:54] he did the Dutch auction um, opportunity
+[34:57] for when he made the announcement of,
+[34:59] "Hey, if you're not on board with this
+[35:01] shareholder, I'm going to give you a
+[35:02] premium to get out because here's where
+[35:04] we're going, but I'm going to give you a
+[35:06] nice kind of friendly exit ramp." Um, I
+[35:10] think, you know, there's a different
+[35:11] case to be made for like the Strives,
+[35:15] the 21s, the Nakamoto's where out of the
+[35:17] gate they're saying we are Bitcoin,
+[35:18] Bitcoin only. That's a different world
+[35:21] because they're going to attract the
+[35:22] investors that are already on board with
+[35:25] that strategy. Where I think it gets
+[35:27] tougher is um you know like like like a
+[35:32] semilar or a cooler or some of these you
+[35:34] know companies that are traditional
+[35:36] operating kind of war zombie companies
+[35:39] that have taken a Bitcoin treasury
+[35:40] strategy but they're not um even though
+[35:43] there's a good amount of conviction at
+[35:44] maybe the CEO level they're not going
+[35:47] like that full-blown all-in pivot like
+[35:50] Micro Strategy is. So, I think there's
+[35:53] there's risk factors there of there's
+[35:56] still an operating business that's not a
+[35:57] Bitcoin treasury company and there's
+[36:00] still shareholders that are maybe not
+[36:02] quite appreciating the Bitcoin treasury
+[36:05] strategy, right? So, I think that's
+[36:07] going to be an evolving space. But
+[36:09] again, to me, from a from an insurance
+[36:11] standpoint, um shareholder when
+[36:15] shareholders don't understand the
+[36:16] business or they don't like the way the
+[36:18] stock price is going because they don't
+[36:20] understand what the longer term vision
+[36:24] is and maybe they're looking at it
+[36:26] quartertoarter.
+[36:28] That's just a ecosystem for shareholder
+[36:30] litigation. So, um I completely applaud
+[36:34] those companies that are taking a
+[36:35] Bitcoin's treasury strategy. They are
+[36:36] like historical operating business. I
+[36:38] think that's um I think that's a good
+[36:41] thing. So like over the long arc over
+[36:43] the next few years what's you know DNO
+[36:46] insurance ensure in ultimately ensures
+[36:48] companies for a an alleged or actual
+[36:51] breach of fiduciary duty right and if
+[36:54] when you boil everything down the
+[36:56] fiduciary duty of anybody at a public
+[36:58] company is to increase shareholder value
+[37:01] right so what's really we're in this
+[37:03] interesting time where a company that is
+[37:06] non Bitcoin treasury strategy could take
+[37:08] on a Bitcoin treasury strategy And the
+[37:11] FUD out there might be like, "Hey,
+[37:12] you're not doing your fiduciary duty.
+[37:14] Bitcoin is too risky." When those of us
+[37:16] that have done the work and the homework
+[37:18] on it actually realize that's better for
+[37:20] the company. So I am a huge like I it is
+[37:24] only a matter of time. It may be five
+[37:27] years from now, maybe 10 years from now,
+[37:29] but there will be a time in the future
+[37:31] where the fiduciary duty of not owning
+[37:34] Bitcoin on your balance sheet will
+[37:36] create shareholder litigation because
+[37:38] once the investor community understands
+[37:41] the math, right? Not your opinion, not
+[37:44] my opinion. Just look at the math.
+[37:48] You You are not really doing your
+[37:49] fiduciary duty if you don't find some
+[37:51] way to incorporate Bitcoin into your
+[37:54] treasury strategy in some form or
+[37:55] fashion, right? I think we're a long way
+[37:58] off from that. Like, but
+[38:01] that that to me is inevitably going to
+[38:02] happen. It'll just take time. And I
+[38:04] think these Bitcoin treasury strategies
+[38:06] are going to shine a really heavy light
+[38:08] on demonstrating
+[38:12] why, right?
+[38:14] Yeah. So, um, on that, it seems like a a
+[38:18] a big important piece of Sailor's role
+[38:21] at Strategy, uh, even Dylan at
+[38:24] MetaPlanet is being able to explain the
+[38:28] why of what they're doing and why it
+[38:31] creates shareholder value.
+[38:33] um is and
+[38:36] then when I go back to hearing perhaps
+[38:39] more traditional earnings calls with
+[38:42] CEOs where it's very dry and it seems
+[38:46] like it was written by their attorneys
+[38:49] and their communications director and
+[38:53] maybe even their insurance broker uh
+[38:55] that that do do you think that um there
+[38:58] are risks with how much communication
+[39:02] that Bitcoin and treasury companies are
+[39:04] putting out there and and how to
+[39:05] mitigate those uh so that they're they
+[39:07] don't turn into litigation. What I think
+[39:10] there's going to be short-term issues
+[39:13] with long-term gain. So historically,
+[39:16] yes, you're usually very scripted.
+[39:20] If you run the risk, you know, usually
+[39:23] the lawyers um are going to tell you as
+[39:26] a board member like if you don't, you
+[39:29] know, what you say will and can be used
+[39:31] can and will be used against you, right?
+[39:34] So they usually coach
+[39:36] um board members, executives to be very
+[39:39] scripted, keep everything within kind of
+[39:42] the four corners of your SEC filings and
+[39:45] just don't go off script, right?
+[39:48] I don't think you could actually
+[39:50] function well with what you take Sailor,
+[39:54] right, who's kind of the trailblazer
+[39:55] here. There's no way he would have been
+[39:58] able to effectively communicate why he's
+[40:01] doing what he's doing without like the
+[40:04] constant drip of here's my conviction,
+[40:09] here's why. Let me explain why we're
+[40:13] doing what we're doing. Um, so I see a
+[40:16] world where uh yeah, I think Dylan does
+[40:18] a great job as well. um this when you
+[40:22] take kind of the the Bitcoin ecosystem
+[40:27] particularly you know led by really
+[40:28] Micro Strategy early on I think
+[40:31] MetaPlanet does a really good job as
+[40:32] well and then all these treasury
+[40:34] companies it's a totally different
+[40:36] communication game that they're in which
+[40:41] I don't honestly know how this will play
+[40:43] out because I can see a very fair
+[40:45] argument that there is so much
+[40:48] communication that gets thrown out there
+[40:50] on social media, these podcasts, etc.
+[40:53] that you do, there's an argument you are
+[40:56] setting yourself up for, well, you said
+[40:59] this and therefore it didn't play out
+[41:00] this way, so I'm going to sue you.
+[41:04] I think my personal view on that is I I
+[41:06] think that is going to be
+[41:09] something that will happen over time,
+[41:11] but I think that will fade over time
+[41:13] because I think I mean as a shareholder
+[41:16] um I I really really appreciate the
+[41:20] communication um because I person I
+[41:22] bought into strategy in 20 2020 22. Um,
+[41:29] I love the amount of communication I get
+[41:31] and the amount of communication I get
+[41:32] like makes me a more stable shareholder
+[41:35] because I really understand the why
+[41:37] behind what they're doing. That being
+[41:39] said, I'm not sure everybody does,
+[41:41] right? So, um, my view is I do think
+[41:45] that is the better way to go and we've
+[41:47] seen this play out politically. like,
+[41:48] you know, whatever your political
+[41:50] leanings are, the right played the long
+[41:53] form podcast angle way better than the
+[41:56] left did. And I think
+[41:59] there's a level of disclosure and
+[42:02] authenticity that comes with these long
+[42:04] form podcasts. I mean, I see it in
+[42:06] insurance, too. So, like to give an
+[42:07] example, like insurance is 99% on
+[42:11] LinkedIn. Very, very few of them even
+[42:13] touch X, right? And so you go into the
+[42:16] Bitcoin land, it's almost inverse,
+[42:18] right? Zero. People post from X onto
+[42:21] LinkedIn because they feel they have to,
+[42:24] but they don't really have any activity
+[42:25] other than X. So I kind of sit in both
+[42:28] of those worlds. And it's so um it's so
+[42:31] eye opening to me how careful and
+[42:34] calculated
+[42:35] the LinkedIn posts are and how
+[42:40] uh just kind of just speak your mind
+[42:43] attitude there is on X right from a
+[42:46] corporate governance standpoint like
+[42:48] there's an argument to say that's that's
+[42:50] a dangerous game to play but I think
+[42:52] that actually is I'm a fan of that. Um,
+[42:56] I think that is what more companies need
+[42:59] to do over time,
+[43:01] but if I'm being honest, that's that
+[43:02] that's riddled with lawsuits, right?
+[43:04] That that disclosure will come with
+[43:06] lawsuit. So, that's part of where
+[43:09] um my passion as a Bitcoiner in
+[43:12] insurance kind of lies of like I think
+[43:14] the amount of disclosure that they give
+[43:17] um you know, like I can go on my Micro
+[43:19] Strategy app on my phone and I think all
+[43:21] their metrics, all of them are updated
+[43:23] every 15 seconds. I love that. Right.
+[43:26] And you look at their shareholder calls
+[43:27] and I think they have a they had 150,000
+[43:31] people on the live stream for their
+[43:33] shareholder call. Like, show me a
+[43:35] buttoned up traditional,
+[43:38] you know,
+[43:39] quarterly earnings call that has
+[43:41] anywhere close to that kind of
+[43:43] engagement, right? So I think I think
+[43:45] we're just in this transitionary time
+[43:47] where
+[43:48] um whether it's social media like I
+[43:52] think just the governance rules are
+[43:53] slowly shifting and there's a bit of a
+[43:57] generational divide. So I'm in my late
+[43:59] 40s so I kind of I kind of feel like I
+[44:01] always fall in between those two buckets
+[44:03] of I have a lot of clients that are a
+[44:05] lot younger than me and I have a lot of
+[44:07] people in the insurance community that
+[44:08] are signing off on managing these pools
+[44:11] of risk that are older than me. Right?
+[44:12] And there's just this will kind of come
+[44:15] with time and iterations. But that's
+[44:18] again I kind of sit in an interesting um
+[44:21] chair from a a career standpoint, but I
+[44:24] also sit at an interesting age where I
+[44:26] kind of fit I kind of fall between uh
+[44:29] I'm old but not too old quite yet. So
+[44:32] yeah. Um they
+[44:35] I'm reminded of the Financial Times.
+[44:38] They ran a 20inut hit piece on uh micro
+[44:41] strategy recently. Yes. Comparing the
+[44:43] scarcity of Bitcoin to teeth. Um, a
+[44:46] point that the journalist made that I
+[44:48] thought was really interesting was that
+[44:50] um, one of the arbitrageages here on the
+[44:53] information landscape is that, uh,
+[44:56] somebody who is representing a Bitcoin
+[45:00] treasury company can speak pretty freely
+[45:03] about Bitcoin as a commodity. Um, and
+[45:06] they're not necessarily promoting their
+[45:10] stock. they're promoting Bitcoin. Uh but
+[45:13] then you know the inference is left to
+[45:15] the viewer of oh well that company holds
+[45:18] a lot of Bitcoin. So uh you know it's um
+[45:23] that they would not be able to speak so
+[45:26] glowingly of their the shares right of
+[45:28] the the common stock uh without really
+[45:31] tripping some wires over at the SEC.
+[45:34] Yeah. It's just I think it's just an
+[45:36] example of like there there's
+[45:37] institution there there's like
+[45:39] infrastructure that's been created over
+[45:41] you know many many decades with case
+[45:43] law. Uh and then you have these uh
+[45:46] transformative businesses that frankly
+[45:49] kind of like you know like they're all
+[45:50] playing by a different game. They're
+[45:53] totally within the bounds of the law but
+[45:54] like they're thinking about their uh
+[45:57] financial metrics in a totally different
+[45:59] way. So like when somebody who's not
+[46:02] kind of gotten themselves educated on on
+[46:04] on Bitcoin and like and the why behind
+[46:07] it, you you would sit in on any of these
+[46:09] calls of these bitcoins and like Bitcoin
+[46:12] yield and all the MNAV and all this
+[46:14] stuff. Like they're just like that's the
+[46:16] I don't even I don't even know where to
+[46:17] start as far as like if that makes sense
+[46:19] to them or not. Uh and you know like the
+[46:23] as a Bitcoiner I'm like man I love those
+[46:25] metrics because those actually those
+[46:27] make a ton of sense to me. And so, yeah,
+[46:29] it's just um
+[46:32] that's not like on the good side. That's
+[46:34] actually like an arbitrage to the good
+[46:37] where I think Bitcoin treasury companies
+[46:39] do have a little more freedom. Uh to
+[46:42] your point, like you talk about Bitcoin,
+[46:43] you don't talk about your company per
+[46:44] se. Um but it does give you more
+[46:47] communication avenues that
+[46:50] uh yeah I mean we there's a reason
+[46:52] Sailor doesn't talk about his stock
+[46:54] because there is case law and that you
+[46:57] know there are certain like bounds he
+[46:58] just can't cross over uh without getting
+[47:01] into you know more trouble than it's
+[47:03] worth from a from a litigation
+[47:04] standpoint. So I I look at that as like
+[47:07] a kind of put it in the feature not a
+[47:09] bug part of Bitcoin, right? Um it'll be
+[47:12] interesting to see if you know if if
+[47:14] these market structure bills genus act
+[47:16] like if some of these things start to
+[47:18] put a little bit more parameters around
+[47:22] discussions around commodities versus
+[47:24] stocks. Uh, I've not necessarily seen
+[47:27] that, but who know who knows how that'll
+[47:29] that'll play out. But I
+[47:32] it's part of the space I really really
+[47:34] like. It's just how freely they talk.
+[47:37] I it it's fascinating. And even, you
+[47:39] know, when I worked at Wright, you
+[47:40] mentioned the the video we did about the
+[47:42] carbon emissions. Um, it it was not like
+[47:46] uh something that was advised to us by a
+[47:49] communications or a public relations
+[47:51] firm to to do that. uh it was very much
+[47:54] uh improv of oh here's how we'll we'll
+[47:57] hit back at the New York Times um and by
+[48:00] going direct in that manner we ratioed
+[48:03] the New York Times on X and so our
+[48:05] messaging got out there that um if you
+[48:09] think carbon emissions are a problem uh
+[48:11] that problem is coming from the power
+[48:13] plant it's not coming from the endusers
+[48:15] of the electricity uh which is very
+[48:19] important to establish you know where
+[48:20] that liability lies
+[48:22] Um, and that we got lots of great
+[48:26] feedback from shareholders saying, "Hey,
+[48:28] we're really happy that y'all are
+[48:30] tackling this issue head on and not
+[48:32] trying to hide from it or to um pour
+[48:36] money into it that is uneconomical,
+[48:38] right? That that would be wasteful to
+[48:40] try to do some uh really inauthentic PR
+[48:44] campaign against it or something." Yeah,
+[48:46] I think it's it's it's really important.
+[48:49] Um and I think it's where just the um
+[48:51] the media landscape and the PR landscape
+[48:54] is intersecting with kind of investor
+[48:56] relations because yeah, you never would
+[48:58] have done that in the past, right? And
+[48:59] the fact that you can on a whim
+[49:02] basically, grab your CO2 thing, record
+[49:06] like a five minute video, post it on X
+[49:09] and ratio the New York Times. We're in a
+[49:11] different world as far as investor
+[49:13] communication. Um I'll give a shout out
+[49:16] to Jack Mers. I thought he did a
+[49:19] fantastic job recently where they got
+[49:23] into the lending space and somebody
+[49:25] called him out rightly so on the
+[49:28] rehypothecation language within the
+[49:30] lending that went against a statement he
+[49:33] had made. And in a normal world, you
+[49:37] know, the insurance brokers, the
+[49:38] lawyers, we'd all be freaking out like,
+[49:40] "Jack, shut up. Okay, we're going to
+[49:42] lock you down. You can't go on X. We're
+[49:44] going to put this PR firm in place." and
+[49:46] he just literally just gets on X and is
+[49:50] just owns it and fixes it. And when I
+[49:54] think of like a corporate governance
+[49:57] um model of leadership, like that was
+[50:01] phenomenal. Like as a DNO underwriter,
+[50:03] former DNO, I'm like he just nipped a
+[50:06] lot of liability in the in the bud right
+[50:09] in my mind. Right. So I think there's
+[50:13] there are dangers to communicating
+[50:16] constantly,
+[50:18] but when you I think what I really
+[50:21] appreciate and love and gives me
+[50:23] confidence in the Bitcoin space, not the
+[50:25] crypto space to be frank, is the level
+[50:29] of conviction at the Bitcoiner level.
+[50:32] And again like Jack's just a good little
+[50:34] illust so a sailor, right? um they
+[50:37] the command that they have of their
+[50:40] product and the why they don't have to
+[50:44] go scripted. They literally speak from
+[50:46] their heart. They speak off the top of
+[50:49] their head. Like you know like Sailor's
+[50:50] thing with Peterson that he just did was
+[50:52] like same thing like very few CEOs or uh
+[50:56] you know chairmans are going to do that
+[50:58] because they're too afraid of saying
+[51:00] something. But if you've done the proof
+[51:01] of work, right, and you understand
+[51:03] Bitcoin,
+[51:05] you're you're kind of like, you know,
+[51:07] that that you will the truth will kind
+[51:10] of land on your side even if you're
+[51:12] misunderstood. And that's I think I
+[51:14] think that's the chapter we're in in
+[51:16] kind of this corporate governance game.
+[51:17] Like it's going to be messy. It it just
+[51:20] is like as when the institutionals and
+[51:22] retail uh investors don't understand
+[51:25] Bitcoin, there's going to be lawsuits,
+[51:27] right? So that's a lot lot of my day job
+[51:30] is like as a Bitcoiner like I want
+[51:32] nothing more than these BTC treasury
+[51:34] strategies to succeed. But it's also I'm
+[51:37] like I've been doing this for 25 years.
+[51:39] I see all the bad stuff. Like let me
+[51:40] help you just stay out of the woods and
+[51:43] let me also like help you like figure
+[51:46] out where Bitcoin mitigates like maybe
+[51:49] you don't need to buy insurance on this
+[51:50] thing because the Bitcoin um technology
+[51:54] mitigates some of the threat vectors. So
+[51:55] like I have a lot of those discussions
+[51:56] of the intersection particularly in the
+[51:58] custody world right now of uh the
+[52:03] programmability of Bitcoin whether it's
+[52:05] like miniscripts time locks um some of
+[52:08] the stuff that Adam Beck is doing on on
+[52:11] his side there are ways that kind of
+[52:15] going back to your your auditing days
+[52:17] like we would look at like compliance
+[52:19] audit um you know what's your audit
+[52:22] cadence like what does that all look
+[52:24] Like there's a lot of things that
+[52:26] cryptographically
+[52:28] you can just do better that a custody
+[52:31] crime underwriter at like a Lloyds or
+[52:34] one of the big markets, they don't
+[52:36] really they don't fully appreciate yet
+[52:38] that you know because an underwriter is
+[52:40] going to be like let me look at your
+[52:41] audit procedures like um how how can an
+[52:44] employee steal from the fund? How can an
+[52:46] outside attacker come in and steal
+[52:48] funds? there's you didn't have
+[52:51] cryptographic,
+[52:54] you know,
+[52:56] ways to mitigate some of those things
+[52:59] like you do now within the Bitcoin
+[53:01] ecosystem. So that's just another like
+[53:04] example of um I spend a good amount of
+[53:06] time with companies of like I'm an
+[53:08] insurance guy. I'm not a technologist,
+[53:10] right? So I have to brush up on the
+[53:13] technology level and lean on my clients
+[53:16] in many ways of so so teach me how this
+[53:19] works and then I put my underwriting
+[53:22] hat on thinking okay that tech just
+[53:25] solved one of these things I would
+[53:26] normally um put down as like either a
+[53:29] red flag I'm going to charge you more or
+[53:31] a green flag I'm going to give you a
+[53:33] credit because you did good you did bad
+[53:35] right so we're at such early days in
+[53:38] that space that the insurance industry I
+[53:40] just has a um
+[53:43] lot of opportunity to improve the
+[53:46] overlay of the tech and the insurance
+[53:47] product and capacity on top of it.
+[53:50] That makes a lot of sense. Um and so for
+[53:53] for for those uh going on this uh
+[53:56] Bitcoin for corporations path uh what
+[53:59] are some pieces of advice you would have
+[54:01] for them uh you know as they go on their
+[54:04] journey? Yeah, I think it's um you know
+[54:07] just get good people wrapped around you.
+[54:09] Like I think um
+[54:12] you know like I I think the biggest
+[54:14] fault you can have is
+[54:17] my banker's my banker, my lawyer's my
+[54:19] lawyer. They're old school, they're
+[54:20] trfy, they don't get it. Bitcoin's
+[54:21] totally different. There's truth to that
+[54:24] statement, right? But find people within
+[54:28] the legal community that actually
+[54:29] understand Bitcoin and then lean on
+[54:32] their kind of traditional. they have a
+[54:35] lot of learnings to give you
+[54:37] particularly as you're scaling and then
+[54:40] work with them of okay here's the risk
+[54:43] vectors here's where I think Bitcoin is
+[54:45] different and like challenge each other
+[54:47] and like have that vetting process of
+[54:49] sharpening each other up do that with
+[54:51] your auditing firms do that with your
+[54:53] insurance broker um because there's a
+[54:57] lot of
+[54:59] when I'm sitting in the room with like
+[55:01] Bitcoin companies um they'll say
+[55:03] something I'm like, you know, there's an
+[55:05] insurance product that can fix that. It
+[55:07] may not be perfect, but if we tweak it a
+[55:09] few ways, we can offload that risk at a
+[55:11] fraction of the cost of what whatever
+[55:13] they're wrestling with. Um, that they
+[55:15] often don't know of. And sometimes I'll
+[55:16] say, I think your exposure is here. And
+[55:18] they're like, well, let me tell you why
+[55:19] that doesn't exist because of the tech.
+[55:22] Fair point. And so, if that's, you know,
+[55:25] that partnership, um, I think is the
+[55:28] real key thing to walk away with. get
+[55:30] really good firms around you, firms that
+[55:35] have a broad scale of uh because like
+[55:37] you know I will literally I will talk to
+[55:38] Bitcoin treasury companies on how do you
+[55:40] vet your custodians and I'll talk to
+[55:43] custodians how do you make a better
+[55:45] product to attract more Bitcoin treasury
+[55:47] companies or institutional capital right
+[55:50] um so I get to see both sides of the
+[55:53] table and a lot of my jobs is like okay
+[55:57] if if you want to go from here to here
+[55:59] insurance can get you this way. But if
+[56:01] you need a lawyer, if you need an
+[56:02] accountant, um most of us are
+[56:04] fairlyworked. Uh and there are, you
+[56:07] know, there's only a handful of
+[56:09] insurance professionals that kind of get
+[56:11] digital assets. There's a handful of
+[56:12] lawyers. There's a handful of
+[56:13] accountants. There's just not many of us
+[56:15] yet. Um so that's another call like if
+[56:18] you are in any of those spaces, I am big
+[56:20] on the network. Um because I as an
+[56:22] insurance person, I'm often asked, do
+[56:24] you know a good lawyer that understands
+[56:25] digital assets? Do you know a good
+[56:26] accounting firm? like it's not just you
+[56:28] know yeah deote but who at Deote or who
+[56:31] at KPMG right um those types of things
+[56:33] so there's a lot of value that your
+[56:36] service provider in that kind of
+[56:39] professional services space can add to
+[56:42] you beyond just
+[56:44] please get my insurance done please get
+[56:46] my taxes done etc etc so
+[56:50] that makes a lot of sense um and then uh
+[56:53] la last question before we wrap up is um
+[56:56] a lot of these treasury companies seem
+[56:58] to be going international or are
+[57:00] international. Um what what are some of
+[57:03] like the unique challenges there with
+[57:04] with insurance and DNO in particular?
+[57:07] Yeah, if we go back to DNO um you know
+[57:10] it's jurisdiction by jurisdiction. So
+[57:13] some uh most policies if you write get a
+[57:16] DNO policy they're usually um for an
+[57:18] Americanbased company the coverage will
+[57:21] be worldwide. Uh so you don't have an
+[57:23] issue of like it covers every country
+[57:25] outside of like OFAC sanctioned
+[57:27] countries. Um but there's all these when
+[57:31] you get in country by country certain
+[57:34] countries will allow a US-based or a
+[57:37] Lloydsbased policy to be called
+[57:39] admitted. Uh other countries will say we
+[57:42] don't accept that policy. So you have to
+[57:44] have in addition to your global policy,
+[57:46] we're going to have you buy a local
+[57:48] admitted policy from a local insurer in
+[57:52] Venezuela or you you name it. So when
+[57:55] companies go global, you can't just rely
+[57:57] on your global just because you have a
+[58:01] global DNO policy does not mean it's
+[58:02] going to be accepted in XYZ countries.
+[58:06] So it's a complete hodgepodge of uh
+[58:09] regulatory frameworks. That's where like
+[58:11] having a global broker such as Marsh
+[58:13] where I work is is important because we
+[58:15] have offices in 130 countries. Um so we
+[58:18] have people inhouse on the ground that
+[58:22] one they speak the local language they
+[58:24] know the local um authorities the you
+[58:27] know the legal system etc. Um because if
+[58:30] you don't do it what you can run into is
+[58:33] you could have a director an incountry
+[58:35] director that gets sued.
+[58:39] you want to pay them but the country
+[58:41] like you want to indemnify them for
+[58:43] their legal fees but you're not allowed
+[58:46] to by the country because you didn't buy
+[58:47] a local policy or you're allowed to and
+[58:50] then you get hit with a bunch of fines.
+[58:52] So there's it's a compliance and it's a
+[58:54] governance. Uh and as soon as you go
+[58:56] outside the US, it is just a complete um
+[59:01] matrix of
+[59:03] do I not do I need to and so that's
+[59:06] really what where you want to lean on
+[59:07] your insurance broker uh from that
+[59:08] standpoint. It seems to go
+[59:10] international.
+[59:12] Well, this has been a really fascinating
+[59:14] conversation, Garrett. Uh thank you so
+[59:16] much for coming on. I think that uh
+[59:18] hopefully we address a lot of the
+[59:19] questions of of either companies that
+[59:22] are looking to acquire Bitcoin or
+[59:24] already have and are are uh grappling
+[59:26] with all these different uh big
+[59:28] questions in the space.
+[59:30] So, thank thank you for coming on and uh
+[59:33] we we hope to have you back on soon.
+[59:35] Sounds good. Thanks beer.

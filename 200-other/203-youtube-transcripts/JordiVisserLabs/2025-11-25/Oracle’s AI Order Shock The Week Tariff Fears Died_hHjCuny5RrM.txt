@@ -1,0 +1,1100 @@
+Title: Oracle’s AI Order Shock: The Week Tariff Fears Died
+Video ID: hHjCuny5RrM
+URL: https://www.youtube.com/watch?v=hHjCuny5RrM
+Date Saved: 2025-11-25 15:52:53
+Channel: JordiVisserLabs
+--------------------------------------------------
+
+[00:00] First of all, um, thanks to everyone who
+[00:03] came out to, uh, Robin Hood and, uh, and
+[00:07] the Pomp event. It was great meeting all
+[00:09] you guys and, uh, I'm glad you're doing
+[00:11] so well trading, building a life for
+[00:14] yourself, of enthusiasm.
+[00:16] Uh, let's keep it going and try to give
+[00:18] you some, uh, some views on the week,
+[00:20] but also uh, a lot of stuff on Oracle.
+[00:24] Uh, I do think this was the week, the
+[00:26] the end, the official end of the tariff
+[00:30] fears. I think now that we've gotten
+[00:31] through the inflation data, we've got
+[00:34] Atlanta Fed GDP now up at 3%.
+[00:38] I I think uh I think for the rest of the
+[00:42] year, people are just going to have to
+[00:43] focus on the fact that the Fed is
+[00:45] cutting rates into a situation where
+[00:47] manufacturing and the buildout for AI is
+[00:50] going higher. And you can have all your
+[00:52] views on what you think should happen.
+[00:54] You can throw all these magical fake
+[00:56] words out like stagflation and uh AI
+[01:00] bubbles and whatever else you want to
+[01:02] throw out there. You can just keep
+[01:03] throwing it out. Uh the job is to make
+[01:06] money. The job is not to be right on
+[01:08] what you think should happen. Uh
+[01:10] particularly when we've been at this now
+[01:13] for the better part of six years of
+[01:15] people fighting it. So a lot to go
+[01:16] through. Let's just go through. S&P up
+[01:19] one and a half% for the week. Russell up
+[01:22] for the sixth week in a row and again
+[01:25] this is the 14th of the last 18th uh
+[01:28] weeks that it's been higher. The major
+[01:30] news of the week was Oracle
+[01:32] uh up close to 40% in one day. Finished
+[01:35] the week up 25 a.5% just below a
+[01:38] trillion dollars. I'll go through a lot
+[01:40] more details on Oracle as it was the
+[01:42] most important story. uh tenure rates uh
+[01:46] came down intraweek they they got below
+[01:49] 4% for a little bit finished up uh
+[01:51] around 406 uh this chart was floating
+[01:55] around I mean people just don't stop uh
+[01:58] but since it's out there you know the
+[02:00] bond market is saying there's a
+[02:02] recession apparently and the stock
+[02:04] market's ignoring it uh
+[02:08] if that were the case then VA wouldn't
+[02:10] be going lower so Bonvall basically
+[02:12] making close to three-year lows
+[02:15] and credit spreads are at all-time
+[02:19] tights. So, the bond market is just
+[02:21] catching up to the reality of the equity
+[02:24] market and the reality of the Fed
+[02:27] cutting rates. But more importantly, for
+[02:29] everyone who has tried to short bonds
+[02:31] and think and and has thought that that
+[02:33] has been the best trade, I think just
+[02:36] this says it all right here. I mean, you
+[02:38] can go back uh over a year.
+[02:41] uh this uh it's what is it 17 months 18
+[02:46] months uh you've had four months where
+[02:49] rates went higher for a month. So if
+[02:51] you've been trying to play for the bond
+[02:53] market to collapse and for rates to move
+[02:55] higher since May of last year uh it's
+[03:00] just a it's just not the trade. Uh bonds
+[03:03] to me are uninvestable. Uh but I also
+[03:06] think you don't want to sit there and
+[03:08] try to play them as the big play when
+[03:10] the administration wants rates lower. Uh
+[03:13] we did get
+[03:15] 30-year fixed rate mortgages got down to
+[03:17] the lowest level uh since uh early 23
+[03:22] and they are now 150 basis points off of
+[03:26] the peak in 23. And again, this is ahead
+[03:29] of Besson and Trump saying they're going
+[03:31] to declare a national emergency on
+[03:33] housing. I will continue to say you want
+[03:36] to be focused on the housing market uh
+[03:38] from a long side because the
+[03:40] administration has followed through on
+[03:42] everything they've said this year. And
+[03:43] that's why I'm going to use the old
+[03:45] Rounders line. If you can't spot the
+[03:47] sucker in the first hour, half hour,
+[03:50] that means you're the sucker. And I
+[03:51] think that's what has been the story
+[03:53] since the tariffs were announced and how
+[03:55] many people had talked about recession,
+[03:57] stagflation, the deepseek moment, AI
+[04:00] buildout's not going to happen. This has
+[04:01] been a year of institutional um smart
+[04:05] people uh thinking and looking at charts
+[04:08] and believing that everything bad was
+[04:11] going to happen when the reality is and
+[04:13] I'll keep saying it over and over again.
+[04:15] If you just spend your time on
+[04:16] artificial intelligence and you go
+[04:18] through the numbers and you realize how
+[04:19] important this is, the impact that it
+[04:22] will have on labor, the impact that it
+[04:23] will have on profit margins, people have
+[04:25] screwed up because profit margins have
+[04:27] held up incredibly well despite the
+[04:30] tariffs. At the same time that the labor
+[04:32] market is weakening, part of that is
+[04:34] related to AI. Uh, everyone's still
+[04:37] focused on academic stuff that just
+[04:39] doesn't matter. And this is one of them.
+[04:40] The inflation data came out this week.
+[04:42] Uh, CPI came out at point4 382. You can
+[04:46] see all the component pieces in here.
+[04:48] Uh, you can also see, you know, we've
+[04:51] had weaker than expected ones. The
+[04:54] reason the market responded is because
+[04:56] that's all you got. We waited for all
+[04:58] this on the tariffs and all we got this
+[05:01] year is something you can't even tell
+[05:03] what's gone on. So, this is uh
+[05:05] year-over-year core inflation. That's
+[05:06] the red line now at 3.1%.
+[05:09] Still, and then the white line here is
+[05:11] the uh fivemonth
+[05:14] moving average of the threemonth core
+[05:18] sticky Atlanta Fed inflation. I've had
+[05:20] this chart and used it for a long time.
+[05:22] So, yeah, I guess you could say, look,
+[05:24] we're we're trending higher, but the
+[05:26] reality is whether we're at four or two
+[05:28] is completely irrelevant for what stocks
+[05:30] are doing because companies are making
+[05:31] money. I listened to a bunch of podcasts
+[05:33] again this week. Uh, and it's funny,
+[05:35] everyone who says stagflation says the
+[05:37] bulls, the bulls. Why don't people just
+[05:40] accept the fact they're talking about
+[05:41] garbage? Stagflation is garbage in an AI
+[05:44] world. It's garbage. I'll say it over
+[05:46] and over again. If you're sitting there
+[05:47] worried about stagflation,
+[05:50] you're just going to lose money uh
+[05:51] chasing things that don't exist. Uh
+[05:54] 10ear rates are still way above
+[05:57] headline inflation. So again, you go
+[06:00] back over time and you see how far above
+[06:02] we are here. You see that we just don't
+[06:04] have many times in history except for
+[06:07] severe drops in inflation where you've
+[06:10] had rates this far above. So, I can make
+[06:12] the argument still that we shouldn't be
+[06:14] any higher than 4%. At a minimum, it has
+[06:17] to be something where inflation
+[06:18] expectations are moving higher. We had
+[06:20] the job revisions. This was obviously
+[06:22] known. So, this got the stagflation
+[06:24] fears going. Uh, and of course every
+[06:27] single newscast and all the media
+[06:29] stagflation, stagflation again,
+[06:31] completely madeup word doesn't mean
+[06:34] anything when you're talking about it
+[06:36] from the difference between the 1970s
+[06:39] because basically people there's
+[06:41] unemployment rate is sitting at
+[06:43] incredibly low levels and corporate
+[06:45] profit margins are at all-time highs.
+[06:47] So, if you're going to pick a word and
+[06:49] just pick out two pieces, this is the BS
+[06:51] that goes with people who are just
+[06:53] sitting there talking about stuff with
+[06:54] absolutely no data to support it. Here's
+[06:57] what inflation did this week in terms of
+[06:59] the swaps market. All of them came down.
+[07:02] You got the 2-year, you got the 5year,
+[07:03] you got the 10-year. So whatever people
+[07:06] were hoping would show up in the data,
+[07:08] this was definitely a period in terms of
+[07:10] the swaps market from the market that
+[07:12] they said, you know what, I guess the
+[07:14] tariffs are not going to be as big of
+[07:15] inflation deal as we thought. Here is
+[07:17] what is happening if the small business
+[07:19] inflation as the single most important
+[07:22] problem continues to decline. So again,
+[07:25] if you're going against stuff where the
+[07:27] trend is getting better, uh it's not the
+[07:30] story you should go on. And again, what
+[07:31] happens to profit margins during
+[07:33] stagflation? During stagflation, profit
+[07:35] margins usually compress.
+[07:38] Profit margins are rising. There's
+[07:40] nothing going. We just had unbelievable
+[07:42] um corporate earnings. And as I said,
+[07:45] the forecast going forward is arguably
+[07:48] the strongest in terms of the change in
+[07:50] estimates for Q3 relative to the last I
+[07:53] think I went through it last week, 5
+[07:55] years, 10 years, 20 years in terms of
+[07:57] taking it higher at the end of Q2.
+[07:59] Here's the profit margin chart on the
+[08:01] red side. Again, if tariffs were having
+[08:03] an impact, you should see this come
+[08:05] down. You've seen profit margins come
+[08:06] down as we go into recessions since
+[08:09] there are no more recessions, what
+[08:11] you're left with is a situation where
+[08:13] people are just going to have to get
+[08:14] used to this disconnect between the
+[08:16] labor markets, which is a new thing. Um,
+[08:19] here's one way to look at. So, I've
+[08:20] shown this chart many times before. This
+[08:22] is the conf conference market conference
+[08:25] board employment trends work worsening,
+[08:28] but employment is not. And again, you're
+[08:32] in a different world. So no matter how
+[08:34] you go through it, there is a job
+[08:36] situation where people are clearly
+[08:38] worried about what's going to happen
+[08:40] with uh AI in their jobs. There's
+[08:43] anxiety over jobs. Corporates are are
+[08:45] big companies are not making it easy on
+[08:47] people. Businesses are going through
+[08:49] bankruptcies. These are all real.
+[08:51] They're all things that happen. But
+[08:52] that's not the economy. This is the
+[08:54] problem of having a K-shaped economy.
+[08:56] But if you're only going to focus on the
+[08:58] bottom side of the K-shape, then you're
+[09:00] fighting against what Donald Trump and
+[09:01] the administration is trying to do.
+[09:03] Whether or not successful, you got to at
+[09:04] least wait for the data to go. But the
+[09:06] problem is the bearish sentiment still
+[09:08] remains. So when you have a stock market
+[09:10] sitting near all-time highs, you have
+[09:11] credit spreads at all-time tights, you
+[09:13] have the unemployment rate not budging
+[09:14] higher, you have inflation in a normal
+[09:16] range, and yet you still have sentiment
+[09:18] in terms of investors. I mean, look at
+[09:20] this. It's come all the way back down to
+[09:21] almost where it was when we came out of
+[09:23] Liberation Day. And this is not just one
+[09:26] sentiment gauge. I want to highlight
+[09:28] this. So Helen Mistler puts out this
+[09:31] sentiment poll each week. I don't really
+[09:33] care about the fact that two weeks in a
+[09:35] row it was negative. What I care about
+[09:36] is we have this rapid rise in a bull
+[09:39] market. Look how many weeks are negative
+[09:41] versus how many are positive. I already
+[09:43] showed you how many weeks have been
+[09:45] positive on the Russell and yet it's the
+[09:47] complete opposite for sentiment during
+[09:49] bull markets. This is normal. This is
+[09:53] normal. So you end up as you're going
+[09:55] higher every week as they expect it to
+[09:57] go higher. The sentiment is horrific for
+[09:59] institutions right now. There is
+[10:01] absolutely no doubt that sentiment is
+[10:03] much much worse than where it should be
+[10:05] given everything that's happening. Uh
+[10:07] I've highlighted the fact that this
+[10:08] Goldman Sachs one has been my favorite.
+[10:10] Now look where we were coming into the
+[10:12] year. This is when the market went down.
+[10:14] We are still sitting here. We've been
+[10:16] here for almost the entire year. So,
+[10:18] anyone who wants to argue about
+[10:20] sentiment, just think about it. Stocks
+[10:21] alltime high, home prices alltime high,
+[10:23] blah blah blah blah blah, and the Fed's
+[10:25] cutting rates, and yet somehow magically
+[10:28] we have sentiment sitting at lows. If
+[10:30] that's not academic BS, I don't know
+[10:32] what it is. People sitting there
+[10:34] believing this can't be real. This is a
+[10:36] podcast, the only real podcast I'm going
+[10:38] to recommend you listen to this week. I
+[10:40] heard plenty more where the stagflation
+[10:42] stuff was brought up and where they
+[10:43] called out everyone like me who is
+[10:45] mocking stagflation, but it has nothing
+[10:47] to do with making money. If you listen
+[10:50] to this podcast, I I don't know this
+[10:52] person, Aan Menon. I've heard him now
+[10:54] twice. It is, no offense to him. He's
+[10:57] kind of boring, but the reason it's good
+[11:00] is because boring is just factual. He
+[11:02] does everything in data. He's very, very
+[11:05] articulate about the things going on in
+[11:07] the economy. I would go listen to it.
+[11:09] Here are the highlights.
+[11:11] US economy is in a business cycle
+[11:13] expansion. Consumer spending is
+[11:15] resilient. Business investment is
+[11:17] modestly rising. And financial
+[11:19] conditions aren't restrictive enough to
+[11:20] derail growth. That's just logic. That's
+[11:23] just the facts of what is happening. You
+[11:25] can say stagflation. This doesn't
+[11:27] mention stagflation. The center of this
+[11:30] cycle is tech IP. So AI yes on AI capex.
+[11:33] Go through it. 90% of personal
+[11:37] consumption expenditures categories
+[11:39] expanding. That is inconsistent with a
+[11:41] consumer-led slowdown. These are the
+[11:43] diffusion things that you have to pay
+[11:44] attention to. The labor market looks
+[11:47] weak for atypical reasons. Again, he's
+[11:50] acknowledging all of the things that
+[11:52] people are saying. Manufacturing is
+[11:54] showing green shoots after a multi-year
+[11:56] profit squeeze. I'll get more into this.
+[11:57] This is something I've talked about.
+[11:58] PMIs are going higher. I believe they're
+[12:00] going to get close to 60 next year. And
+[12:02] people are going to have to adjust all
+[12:03] based on AI. Bonds are unattractive.
+[12:06] See, he's bearish bonds. He believes
+[12:09] labor is weak.
+[12:11] Commodities turning constructive on
+[12:13] industrial metals. Liquidity backdrop is
+[12:16] benign. Bank reserves flat. So all the
+[12:18] people that follow this liquidity stuff,
+[12:19] I get asked about it all the time. Some
+[12:21] guy Michael How telling you everything
+[12:23] is going to be horrible. Blah blah blah.
+[12:25] This just continues. Guys, focus on
+[12:27] artificial intelligence. Another thing
+[12:30] he posted an X go sign up for it. Orders
+[12:33] are also rising strongly while inventory
+[12:35] is generally low. Between the nominal
+[12:36] sales orders, very early PMI
+[12:38] indications, profit estimates and pro,
+[12:40] it looks like very early manufacturing
+[12:42] recovery. Again, he deals in factual
+[12:45] stuff. Here are the datas that are
+[12:47] supporting what he just talked about.
+[12:48] And again, I want you to look at all of
+[12:51] these things that are trending higher in
+[12:54] terms of the manufacturing side. I've
+[12:56] shown charts like this in terms of the
+[12:57] capital goods orders, the IP diffusion
+[13:00] side, the percentage of uh of companies
+[13:04] that are now turning positive in terms
+[13:05] of this from negative. We've been in a
+[13:08] long-term bare market in IP and PMIs.
+[13:11] That's the main story. We're coming out
+[13:13] of something that's been going on. And
+[13:16] acknowledging again the AI impact on
+[13:20] employment. This is the information
+[13:23] technology output for GDP
+[13:27] and yet no labor increase. Again the
+[13:29] tech side anything related to AI AI
+[13:32] agents are coming the infrastructure
+[13:35] side the inference side it all means
+[13:37] that this is going to have pressure
+[13:39] continuously on labor. There is no back
+[13:43] test on this. There was no AI impact on
+[13:46] labor 20 years ago. This is a completely
+[13:49] new thing. So, it's garbage in, garbage
+[13:50] out for all these data points and all
+[13:52] these recession signals and all of these
+[13:54] things that have gone on in the past.
+[13:57] They don't matter. That's the reason why
+[13:58] we've been able to have PMIs at such a
+[14:00] low level. All during chat GPT, all of
+[14:03] the PMIs below 50 occurred during Chat
+[14:05] GPT. Profits went higher and now we're
+[14:08] starting to see the buildout. So, we get
+[14:09] this deal early in the week. Microsoft
+[14:11] signed 17.4 billion AI deal with Nebus
+[14:15] to grow its AI cloud business more
+[14:17] aggressively. So that started the week
+[14:20] and then we got this. Everyone who's a
+[14:23] macro person who has not gone through
+[14:25] the numbers on Oracle, I'm going to put
+[14:27] them into context.
+[14:31] The orders that they received
+[14:35] are up 359% from last year, but from the
+[14:39] prior quarter, $317
+[14:43] billion. We've signed significant cloud
+[14:45] contracts with a who's who of AI,
+[14:48] including OpenAI, XAI, Meta, Nvidia,
+[14:50] AMD, and many others.
+[14:53] RPO RPO, so orders will likely grow to
+[14:56] exceed half a trillion dollars. They're
+[14:58] already 400 something, so it's not that
+[15:00] big of a deal. Much of the revenue is
+[15:02] already booked in our 455 billion RPO
+[15:06] number, and we're off to a fantastic
+[15:07] start this year. Again, these numbers
+[15:09] are insane.
+[15:11] You've got Larry Ellison's quotes here.
+[15:13] Some of these I went through but the
+[15:15] most important thing for moot a lot of
+[15:17] people are looking for inferencing
+[15:19] capacity. So again inferencing thinking
+[15:22] AI agents the whole next stage what I've
+[15:24] written about time and time again I
+[15:26] wrote the inference moment back in uh
+[15:30] April after we got all the earnings
+[15:32] reports where everyone basically was
+[15:34] saying we're now running out of
+[15:35] inference capacity. So this is not a new
+[15:37] story. This is something that you could
+[15:40] have been invested in. You could have
+[15:42] been involved in because this story has
+[15:44] been growing. But because every time
+[15:45] there's a little story about AI's not
+[15:48] being adopted or some BS about there's
+[15:51] nothing going on, people keep missing
+[15:53] these just like the administration has
+[15:55] been signaling what they're going to do.
+[15:57] These comments are there. We're running
+[15:59] out of inferencing capacity. I talked
+[16:02] about VO3. I talked about all of these
+[16:04] models. I talked about what it means for
+[16:06] Tesla in terms of you turning video into
+[16:09] decisionmaking. This is a neverending
+[16:12] situation of inference that will
+[16:14] continue to grow at a rapid pace. Listen
+[16:16] to moonshots and you'll get the story.
+[16:18] Training AI models is a gigantic multi-
+[16:21] billion dollar market. That's what the
+[16:23] first phase of GPT was. So this is the
+[16:26] first phase, the training models. It's
+[16:28] hard to conceive of a technology market
+[16:29] as large as that one, but if you look
+[16:31] close, you can find one that's even
+[16:33] larger. It's the market for inferencing.
+[16:36] We need the power for this. This is what
+[16:38] I'm going to continue to emphasize. He
+[16:40] he mentions that he's now dealing not
+[16:41] with the the CTOs or some person in the
+[16:45] back office putting in an order. He's
+[16:47] dealing with the CEOs, the heads of
+[16:48] government, the heads of state. Everyone
+[16:50] wants it. I think demand is going to be
+[16:52] insatiable.
+[16:53] It's the speed of acceptance. Everything
+[16:56] is moving rapidly here. So, as an
+[16:58] example of, you know, something I I
+[17:01] wrote about for 22V, but also it was my
+[17:04] stock pick for the year purely based on
+[17:06] inference. Again, what does this mean
+[17:08] for Micron Technology? High band high
+[17:11] bandwidth uh demand.
+[17:14] Here's what the stock did. So, it's up
+[17:16] close to 100% this year now after this
+[17:18] week. This is a big company. These are
+[17:21] the types of things that are happening
+[17:22] in the alpha being created. If you're
+[17:24] focusing on 10ear rates going up to 4
+[17:26] and a.5 instead of 425, it's a waste of
+[17:29] time. If you're not allowed to trade
+[17:30] equities, then go spend time now on the
+[17:32] power trade because that's the next
+[17:34] phase of this. Or go spend time on
+[17:35] countries that are going to supply the
+[17:37] commodities that are necessary for the
+[17:38] build out of this. The next time someone
+[17:41] fades AI strength, just send them this.
+[17:43] Oracle's 317 billion order increase from
+[17:46] Q4 to Q1 represents approximately 81% of
+[17:50] the entire US economy's quarterly
+[17:52] nominal GDP.
+[17:55] Like I just don't know what to say if
+[17:57] you're sitting there fading the size of
+[17:59] AI and that this is a bubble. These are
+[18:01] orders. He said the revenue has been
+[18:03] booked. Uh, someone posted a post on
+[18:07] this and basically said, "Unpack why
+[18:09] Jord's AI aided assessment lends
+[18:11] credibility to his work verse random
+[18:13] opinions on X. He grounds claims in
+[18:16] verifiable data." Thank you. Not me, not
+[18:20] vibes. Unlike random takes that lack
+[18:23] sources or calculations, think
+[18:26] stagflation.
+[18:28] These are facts. This is a number. This
+[18:31] is what they reported in order. If all
+[18:34] they talk about, which is what I heard
+[18:35] on podcast, was CPI coming in at 0.02
+[18:40] higher than what was expected, but PCE,
+[18:44] it's just blah blah blah. There's
+[18:46] nothing valuable in that. Nothing. Zero.
+[18:49] The Fed is letting inflation run at a
+[18:51] higher rate. We have an administration
+[18:52] that's going to replace the Fed chair
+[18:54] with someone who wants to run it hot.
+[18:57] Make money. Don't care about this stuff,
+[18:59] but find the trades that are there.
+[19:00] Eventually the charts will favor rates
+[19:02] going higher maybe, but that is not the
+[19:05] case. You've been stuck in a range for
+[19:06] this entire time. So maybe if the PMIs
+[19:08] do go to 60, maybe if oil goes up to 85,
+[19:11] at that point we'll get CPI above four
+[19:14] instead of 2.9% and at that point maybe
+[19:17] it'll be a trade. All right. So then I
+[19:19] go through and say give me uh the power
+[19:22] needs for these numbers. So this order
+[19:26] I asked ChachiPT to do this. 273 billion
+[19:28] of power. Oracle's future energy needs
+[19:31] equal 90% of Japan's total consumption.
+[19:34] 155% of Germany's electrol electric uh
+[19:37] electricity system. 21% of total US
+[19:40] electricity. Okay. I don't trust
+[19:41] anything I get from AI because they have
+[19:43] hallucinations. They do faulty stuff. So
+[19:46] then I go into Gemini and check the
+[19:47] work. Can you please do the same
+[19:48] analysis of that order? Blah blah blah.
+[19:50] It goes through. It comes up with an
+[19:52] answer. And the only thing I care about
+[19:53] is it is important to note that the
+[19:55] result of this analysis is highly
+[19:57] sensitive to the initial assumptions. A
+[19:59] slightly higher electricity price or
+[20:01] lower percentage of revenue would
+[20:02] drastically change final number.
+[20:04] However, even with the conservative
+[20:06] assumptions, the scale of power needed
+[20:08] for this level of AI infrastructure is
+[20:10] staggering. That's the only thing you
+[20:12] need to do. You invest in staggering. I
+[20:15] want to be long staggering. I don't want
+[20:18] to be long stuff that sits in a range
+[20:20] for three years trying to play when it's
+[20:21] going to break out. I wrote this paper
+[20:23] on hybrid solutions. So here's my
+[20:25] analysis that I did spending a lot of
+[20:28] time from a top- down systems uh
+[20:30] thinking perspective to go backwards and
+[20:33] basically say how is this going to be
+[20:35] dealt with since we don't have enough
+[20:37] power. Nuclear can't solve it. Fusion
+[20:39] can't solve it. Fision can't solve it.
+[20:41] So how are we going to solve it?
+[20:43] Everything comes up as hybrid solutions.
+[20:45] Now, why AI is the new electricity
+[20:48] across silos. The problem with this is
+[20:50] to solve the power problem. This is not
+[20:53] just go out and buy oil. This is not
+[20:55] just go out and buy natural gas. For
+[20:56] everyone who's sitting there saying,
+[20:58] "Well, there obviously isn't any more
+[20:59] power needs because oil is not going
+[21:00] higher and natural gas is going higher."
+[21:02] We don't even have the plants built yet.
+[21:05] So, you don't need the commodities. If
+[21:07] you're building a restaurant, you don't
+[21:09] buy the food before the people come in
+[21:11] into the restaurant. So this should be
+[21:14] pretty much second nature to people on
+[21:15] the way this works. The company should
+[21:17] be seeing the orders come in and you
+[21:19] should be able to make money on the core
+[21:21] on on the companies. So I ran a report
+[21:24] created on the AI data center investment
+[21:26] thesis navigating the supply chain
+[21:28] demand supply mismatch. So I did a
+[21:31] 40page paper to go through all of the
+[21:34] places of where we're going to need to
+[21:37] do the hybrid solutions meaning
+[21:39] everything that goes on. This includes
+[21:41] the cloud infrastructure, the energy and
+[21:42] grid infrastructure. And within these
+[21:44] components are tons of stuff,
+[21:46] transformers, switch gear, power
+[21:47] distribution, everything that will be
+[21:49] necessary that you should be seeing the
+[21:52] demand show up for companies. Then I
+[21:54] included the compute needs because that
+[21:56] was just the power. So what's going to
+[21:57] be needed on the compute? There's
+[21:59] micron, not surprisingly. But as you go
+[22:01] through this, you get all of these name,
+[22:03] a bunch of these names. These are not
+[22:04] all the names obviously but the reason
+[22:06] this is important and for you guys to
+[22:08] understand to map out the power and
+[22:10] compute names into the level three gigs
+[22:13] we're talking about a lot of industries
+[22:14] we're talking about a lot of electrical
+[22:16] component this involves caterpillar this
+[22:18] involves um Cummings this invol in
+[22:20] involves eventually packar this involves
+[22:23] every single commodity company as you go
+[22:25] through them eventually we're at the
+[22:28] very early stages of this so these are
+[22:30] all of the the places that show up in
+[22:32] here it's not just like it is for a boom
+[22:35] in oil where okay kerosene u uh diesel
+[22:40] gasoline that's not the story here this
+[22:43] is a much bigger thing in terms of all
+[22:45] of the components so it spans these
+[22:48] sectors these are all the sectors that
+[22:50] are impacted so the problem is if you go
+[22:53] to a technology person and say what are
+[22:55] the power needs they got to go to the
+[22:58] utility person or the energy person the
+[22:59] reason I'm doing this is because this is
+[23:02] a macro macro theme. AI is not a
+[23:04] technology theme. It is a macro theme.
+[23:06] The power needs are associated. You will
+[23:08] make lots of money on these. But then
+[23:10] this also as you go through it, there's
+[23:13] commodities that are involved that are
+[23:14] necessary for the buildout. Once it gets
+[23:16] going, so it's massive. Copper is the
+[23:19] new oil for the grid buildout.
+[23:20] Everyone's heard this. There is no way
+[23:22] to get enough electricity. So what I did
+[23:25] again through 22V, I said, "All right, I
+[23:28] know everyone's going to ask and look
+[23:29] for companies. So give me a 100 public
+[23:32] companies that are likely to benefit
+[23:35] from this between 2025 and 2030 again
+[23:38] while we're not going to have the
+[23:39] nuclear buildup. So show me everything
+[23:41] in the supply chain. I organized it
+[23:43] where the bottlenecks and dollars are
+[23:45] most likely to flow. And I want to make
+[23:48] sure that the companies that you're
+[23:50] showing me have already in their
+[23:52] commentary showed me recent earnings and
+[23:54] IR evidence that demand is already
+[23:56] showing up. So I connect to earnings
+[23:59] commentary through an API. I run all
+[24:01] this. I create basically a program for
+[24:03] it. I run it and it breaks it down and
+[24:06] goes through all of these different
+[24:07] components. Lists me the hundred names
+[24:10] and then I give those to John Ro and
+[24:12] John Ro goes through and attaches a
+[24:14] scoring system next to all of them. So
+[24:15] if you guys want to talk about this,
+[24:17] call 22V. We can go through it. I
+[24:19] highlighted one company here, Mastic.
+[24:21] Okay? It's an engineering and
+[24:22] construction company. Just as like a
+[24:25] general sense as to what is there. I
+[24:29] know we didn't use the word data center
+[24:30] but the reality is the data center is
+[24:32] driving so many pieces of our business
+[24:33] right now.
+[24:35] Expect data center driven to be a couple
+[24:37] hundred million dollars. This was back
+[24:38] in 24 alone. We've now accelerated. They
+[24:41] just spoke at uh the Morgan Stanley
+[24:43] conference. Data center build.AI. It
+[24:45] impacts a lot of different things that
+[24:46] we do. Not just from the pure
+[24:48] construction of those facilities, but
+[24:50] for the needs of power and
+[24:51] interconductivity of communications that
+[24:54] these facilities are going to require.
+[24:56] It is a big driver across our end
+[24:58] markets. You have to realize that this
+[25:01] is a much bigger story than just hey
+[25:05] Google blah blah blah. We're past that
+[25:06] point. Those guys are spending the
+[25:08] money. So here's a lower ranked one. I
+[25:10] gave you a one that was a number four
+[25:11] for John. Here's a number two. Antio
+[25:14] Resources. Let's go look at theirs.
+[25:16] Okay, natural gas demand. They're
+[25:18] focusing on that. We're also going to
+[25:19] have exposure to local demand from data
+[25:21] center growth. This position for data
+[25:23] center natural gas demand surge. So
+[25:27] again, they're talking about what's
+[25:29] going to happen in their power plants.
+[25:31] The reason I wanted to bring these guys
+[25:33] up, here's their chart, their stock
+[25:35] chart. The white line here, this is them
+[25:38] overlaid. The green one here is Chevron,
+[25:40] which has been acting better. I've
+[25:41] written about this. They have to benefit
+[25:43] from this. and the XLE which is
+[25:45] unchanged. You'll notice this time
+[25:47] period here early 22. I wonder what that
+[25:50] chart looks like that you guys will
+[25:52] remember at some point during this
+[25:54] thing. All the energy stocks are sitting
+[25:56] there. Beautiful basing formation.
+[25:58] Eventually those are going to get fours
+[26:00] on John score if the power needs are
+[26:02] what I think they're going to be and
+[26:03] eventually we'll have energy join in. So
+[26:06] what I want you to realize is these
+[26:08] charts were very similar. So this is BW
+[26:11] and BE Bloom Energy and Babcock and
+[26:13] Willox.
+[26:15] These charts were left for dead in in
+[26:18] terms of uh I mean these stocks are were
+[26:22] were left for dead. They've been
+[26:23] declining all the way into the end of
+[26:25] last year when they finally do get a
+[26:28] bid. Here's Bloom Energy. I must have
+[26:30] talked about this name with a bunch of
+[26:32] people because it kept showing on my
+[26:33] list of companies that were already
+[26:35] having conversations and then all of a
+[26:37] sudden a deal happens with guess who?
+[26:39] Oracle. And the stock goes up to where
+[26:43] it is now almost 70. When I was having
+[26:45] these conversations, it was around 30. I
+[26:47] think the initial ones were in the 20s.
+[26:49] And again, this was just showing up on
+[26:51] screens that I was doing similar to
+[26:52] that. Now, Babcock and Willox actually
+[26:55] came from one of you guys who just said,
+[26:58] "Hey, I your story is resonating. I'm
+[27:00] finding companies like this more and
+[27:02] more. Here's a company that was trading
+[27:04] at 50 cents back in in at the lows of
+[27:09] Liberation Day. It is now up to $2.78.
+[27:13] They primarily make boilers.
+[27:15] Uh so in Bloom Energy's case again the
+[27:19] story Oracle Oracle is Bloom Energy's
+[27:22] first direct hyperscaler client. They
+[27:24] are looking at every energy company
+[27:27] looking for solutions. Babcock and
+[27:29] Wilcox surge in AI demand from power
+[27:32] centers. This is where you need to look
+[27:34] for things. This is where you need to go
+[27:36] find things. Um Chris Wright spoke on
+[27:39] the All-In podcast. You should listen to
+[27:41] it. Um, I think there's even like an a
+[27:45] good discussion in there as to why
+[27:47] people should continue to focus on
+[27:48] solar. That's my own thing. It's been
+[27:50] thrown out. Um, batteries and solar and
+[27:53] all the green stuff, the renewables
+[27:56] because of the one big beautiful bill.
+[27:58] People said, "Okay, I can't be involved
+[28:00] in there." That's not the case. We need
+[28:01] all power. And Chris Wright talks about
+[28:04] the fact we need all power, but we need
+[28:06] to focus on the proper allocation of
+[28:08] resources to make sure that we're
+[28:10] getting the power there. and there's no
+[28:11] subsidies involved. So, it's just worth
+[28:14] listening to to go through the thing and
+[28:16] actually hear what's happening. Now, I
+[28:17] want to go back to what I said, which is
+[28:19] remember the chart. So, this is a chart
+[28:22] of the PMI, which is the the pinkish
+[28:25] line here. Uh
+[28:28] uh yeah, and then you've got the IP
+[28:30] here. So, IP year-over-year is the white
+[28:32] line, which is already up at the highest
+[28:34] level since basically around here. The
+[28:37] green line here is the six-month
+[28:38] diffusion. So this is similar to what I
+[28:40] showed from the Prometheus Ahan uh
+[28:43] menon. You've already got this stuff
+[28:45] going higher. This line here is really
+[28:48] critical because this is basically when
+[28:50] chat GPD started and when the PMIs went
+[28:54] back under there. Oh, it's the exact
+[28:57] same thing as when the energy stuff
+[28:59] started to consolidate. So if PMIs go
+[29:01] higher, I showed last week, every time
+[29:03] PMIs have gone up to 60,
+[29:07] at some point during that movement, you
+[29:09] get oil prices that are up
+[29:11] year-over-year 60%. I don't think oil
+[29:13] prices are going to go up that high, but
+[29:15] I do think there is a floor on oil as
+[29:17] PMIs go higher and that eventually we
+[29:20] will get the surprise of all energy
+[29:21] prices including natural gas going
+[29:23] higher next year as this build out and
+[29:25] as the PMIs get rolling especially if
+[29:28] housing's a part of it and everything is
+[29:30] you will get a transition. it will be
+[29:32] negative for the mag the mag 7 in terms
+[29:35] of what I believe will be happening
+[29:37] which is running it hot getting
+[29:38] inflation higher eventually moving rates
+[29:41] somewhat higher not as high and
+[29:42] collapsing as people want but I do think
+[29:44] the pressure is going to be there and I
+[29:46] think the spending companies are going
+[29:48] to have an issue now we are doing all of
+[29:51] this with the PMIs about to move higher
+[29:54] we are got three rate cuts in now for
+[29:56] the next three months uh into the market
+[29:59] so that's just a fact. That's what's
+[30:02] going to go on. This is not a fact. This
+[30:05] is just BS. How bad. This is an article
+[30:08] meant to get you people to send it to
+[30:10] me. This is an article meant to get
+[30:12] people to click on it. This is an
+[30:14] article meant to get people to click on
+[30:16] it. How long are you going to fall for
+[30:18] this crap? Um, I go back to this thing.
+[30:21] Verifiable data unlike random takes that
+[30:24] lack sources or calculations. That's
+[30:26] what those are. Uh this is the reason
+[30:29] why the uh cover on YouTube for my video
+[30:33] is the tariff fears finally end. People
+[30:35] throw in the white towel. All right, so
+[30:37] let's finish this up. Tesla
+[30:40] again, not surprisingly, uh kind of fits
+[30:44] the PMI model starting to go higher.
+[30:47] Tesla had a huge week. Uh there was
+[30:49] really no reason for it. I hear
+[30:51] speculation that people think the
+[30:53] vehicle sales are going to surprise on
+[30:54] the upside. This is not a car company,
+[30:56] guys. I don't give a whether they
+[30:58] have uh car price or car sales going on
+[31:01] or not. This is about robo taxis and
+[31:03] energy. End of story. Mega Vegas was
+[31:06] there. So, when I was in Vegas for Robin
+[31:08] Hood at the same time, Tesla was having
+[31:09] a mega Vegas to show their new Mega
+[31:12] Bloks systems that can power 400,000
+[31:15] homes in under a month. This is a major
+[31:18] major major part of Tesla's long-term
+[31:21] plan is the battery storage. Tesla Mega
+[31:23] Block is a gamecher. The stock is
+[31:25] rising. Again, I spend time on this.
+[31:27] There are no battery companies big
+[31:29] enough to deal with the needs that we
+[31:31] have for both the data centers, but also
+[31:33] the roll out of the robo robo taxis and
+[31:35] humanoids. We don't have enough
+[31:36] batteries. So, over the next 5 years, do
+[31:38] your work on what's necessary. Um,
+[31:42] Tesla's Mega Block, the perfect solution
+[31:44] for Oracle's 455 billion AI
+[31:46] infrastructure boom,
+[31:49] represents a 19.2 billion revenue
+[31:51] opportunity from Oracle alone. And
+[31:53] basically all I'm doing is going through
+[31:54] what is necessary in terms of having
+[31:57] batteries for these data centers and
+[32:00] what Tesla can do because they can
+[32:02] supply them. The two biggest battery
+[32:04] places in the world
+[32:06] are Chinese. Those are not going to be
+[32:08] the ones doing our data center. So Tesla
+[32:11] I believe is the largest in terms of
+[32:13] making this these kind of blocks and the
+[32:16] only provider with proven AI data center
+[32:19] deployment. He used this in his
+[32:22] Colossus. Everyone's going to go to Alon
+[32:25] Musk to ask how to do it. And he's now
+[32:27] got something to sell to them. So Alon
+[32:30] Mus has already validated the Tesla
+[32:31] approach at their Colossus Super Center
+[32:33] in Memphis. I'm telling you, I am
+[32:36] shocked at how many people just sit here
+[32:39] and fade Tesla and really hate it. I
+[32:43] cannot believe how many smart people do
+[32:45] this on Wall Street. I had to do a minor
+[32:48] debate with someone who I understand why
+[32:50] he doesn't like it purely from a
+[32:52] valuation basis which I get because it
+[32:54] is like Bitcoin. It's all on the future.
+[32:57] But the future is he paid 17 billion to
+[33:01] buy Echoar. If you want to go hear Alon
+[33:04] Mus speak, he spoke this week again on
+[33:06] the All-In podcast. Go listen to it. See
+[33:10] if you're biased. Check it at the door
+[33:11] and just realize what he is building.
+[33:14] The Echoar thing for Starlink is going
+[33:16] to be competition for phones. Go listen
+[33:18] to the satellite thing. Go think about
+[33:20] what's happening on the battery side. Go
+[33:22] through the robo taxi. All of those are
+[33:24] accelerating. And I will say this to
+[33:26] everyone who wants to listen on all
+[33:27] forms. If you are underweight Tesla as a
+[33:30] benchmark for next year that to me will
+[33:33] be the biggest contributor to global
+[33:36] returns from an alpha basis next year.
+[33:38] That's what I believe is going to happen
+[33:40] because I do believe the robo taxi stuff
+[33:42] has made a level based on everything
+[33:44] that is public knowledge that at some
+[33:47] point next year people will start going
+[33:49] through the numbers on optimists in the
+[33:51] future and realizing what I said over
+[33:53] the last three weeks. The vision bet
+[33:55] that he has make if it pays off it will
+[33:58] get people to focus more and more on the
+[34:01] humanoid side now because of how big the
+[34:04] opportunity is. So go watch that video I
+[34:07] said from Adam Jonas and at least know
+[34:09] the numbers. If you are benchmarked to
+[34:12] something that has Tesla, which is
+[34:13] everything, and if you're underweighted,
+[34:16] which I'm sure no one was really
+[34:17] underweight, the Mag 7 in general, that
+[34:19] would be the one they'd be underweight.
+[34:21] I'd be very, very wary. I think there's
+[34:23] an opportunity for it to double or
+[34:24] triple next year on the frontloading of
+[34:27] the humanoids if he gets this right. If
+[34:29] he doesn't get it right, I still think
+[34:31] it's going to be the best performing
+[34:32] NAG7 stock purely on the energy side and
+[34:34] some of the expectations on the robo
+[34:36] taxi side. Google Cloud forecast 58
+[34:38] billion revenue boost by 2027. Again, 58
+[34:42] billion. That number only looks small
+[34:43] now because of the $455
+[34:46] billion number I showed you from Oracle.
+[34:48] These are massive numbers. Um, you can
+[34:51] go uh to this site and go read the
+[34:54] backlog and stuff and everything in
+[34:56] there. Open eye says spending to rise to
+[34:58] 115 billion through 20 may rise to 150
+[35:01] million about 80 billion more than
+[35:03] previously expected. Again, I'm going to
+[35:04] say this over and over. I do not believe
+[35:06] these companies are going to spend money
+[35:10] good. Meaning, I'm not sure that where
+[35:12] the revenues are going to come in to
+[35:13] completely justify the valuations of the
+[35:16] companies.
+[35:18] I just don't see it from my own work in
+[35:20] it. I just don't know how they're going
+[35:21] to translate this into big dollars. I do
+[35:24] believe there's going to be a
+[35:24] misallocation of resources. I do believe
+[35:26] the spending will lead to stuff that
+[35:29] three years from now, four years from
+[35:30] now will be stuff that isn't used.
+[35:32] There'll be new technologies. We won't
+[35:34] need the buildouts of all of these
+[35:35] energy plants because we'll make
+[35:36] advancements. AI will deal with this,
+[35:39] but not now. So, these companies, I do
+[35:42] think their free cash flow yields are
+[35:43] going to be an issue. But the one thing
+[35:45] you can't say, capex, boom, bust, the
+[35:48] spending is going to keep happening.
+[35:50] Oracle just showed you that there's a
+[35:52] back order. Gas turbines back order.
+[35:54] Focus on the things where supply and
+[35:56] demand are in a mismatch. The e the EIA
+[36:00] increased uh electricity consumption
+[36:03] this week.
+[36:04] China
+[36:06] the best performing market. So I've
+[36:08] highlighted China a bunch of times. I
+[36:09] it's still amazing how many people fade
+[36:11] this as well. And I understand it.
+[36:13] People don't own Tesla. They don't own
+[36:15] China. Some people own China that are
+[36:17] trading the thing. But from an investor
+[36:19] standpoint, people don't want to be long
+[36:21] these things. China's the best
+[36:22] performing market. This is the CQQ up
+[36:25] 38% year-to date. Then you've got the
+[36:27] MSCI China. We hear everyone talk all
+[36:31] year long about Europe. I just want to
+[36:33] highlight to all of those people about
+[36:35] the American exceptionalism, all this
+[36:36] blah blah blah. I see this stuff out
+[36:38] there every day. Europe is unchanged
+[36:41] since February 14th. Unchanged. The Euro
+[36:44] stocks. So, for everyone who's been
+[36:47] sitting there, I it's unchanged. You've
+[36:49] got all these markets breaking out at
+[36:51] this point. Uh you've got new highs
+[36:53] coming on everything and people are
+[36:55] still focused on on places that just
+[36:57] don't matter. Here's the chart on CQQ
+[37:00] when we were on the Robin Hood event.
+[37:01] John Ro was on stage with me as well as
+[37:04] um Vinnie Daniels
+[37:07] and uh we all agreed on this from three
+[37:09] different perspectives. So I like it
+[37:11] from the AI perspective in terms of
+[37:13] competition and from what they're doing
+[37:15] uh on terms of the hardware side. So
+[37:17] everything being related to technology.
+[37:18] John likes the chart because of his
+[37:20] famous bases and it breaking out. And
+[37:22] Vinnie liked it because of the
+[37:23] valuation. So from a China perspective,
+[37:25] it's still hated. You got a lot of
+[37:27] positives going on. I think the Chinese
+[37:28] market will continue to be a dominant
+[37:30] force as we break out here. Open AAI
+[37:33] GPT5 Pro. I just want to emphasize this.
+[37:36] I said this last week. This was put out
+[37:38] um by Andre Carpathy. It's just
+[37:42] it is an unbelievable thing to use this
+[37:45] model. What you can do with it, what it
+[37:47] does after 15, 20 minutes and comes back
+[37:50] with software, whatever you want. It is
+[37:53] an amazing thing. So for people that are
+[37:55] fading GPT5 and I highlighted that the
+[37:58] peak in a lot of these AI trades was on
+[38:00] August 7, August 8th, which was a day
+[38:02] after GPT5 when it got all panned by
+[38:04] this. People are missing the boat on how
+[38:06] much the advancements are. And I just
+[38:08] thought this was good. I ran a case by
+[38:10] GPT5 Pro is a doctor from our 89,000
+[38:13] strong physician Facebook group
+[38:14] yesterday. You have to read the stories
+[38:17] and just realize what's happening. It's
+[38:19] solving problems and this is what's
+[38:21] going you have 150 IQ friend now that
+[38:24] you can have a conversation with whether
+[38:25] you're a doctor or you're a hedge fund
+[38:27] person or anyone in the markets and you
+[38:29] can do work. That's what I used to do
+[38:31] all of the reports that I did on this uh
+[38:33] and as a systems thinking approach which
+[38:36] I like to do which is start from a top
+[38:38] down macro basis and then break it into
+[38:39] each of the verticals. It is phenomenal
+[38:42] at that. Uh just highlighting again
+[38:45] they don't believe that the money supply
+[38:47] matters. It's just like the pope not
+[38:48] believing in Jesus. Um Trump is not
+[38:50] going to stop with the PAL thing. Wants
+[38:52] 50. Uh Besson brought this back to
+[38:55] inequality. Again this is important. I
+[38:58] think this fits in with the
+[38:59] manufacturing side, with the housing
+[39:01] side. They are focused on the
+[39:02] rebalancing. It has not ended. Finally,
+[39:05] Bitcoin, we've been consolidating up
+[39:07] here. Here's the monthly charts. I
+[39:08] highlighted that we were down for a
+[39:10] month. Uh, normally the next month is
+[39:13] up. You're starting to get the signs.
+[39:16] All of these charts are breaking out.
+[39:18] Now, I'm not going to go through all of
+[39:19] these. These are all a bunch of the
+[39:21] ecosystem that says to me that we're
+[39:23] starting to get the community in there
+[39:26] ahead of the rate cuts. I would watch
+[39:28] how these things trade in the weeks
+[39:29] after the rate cuts. This stuff could
+[39:31] get explosive. And here is the
+[39:33] consolidation. Caleb put this out this
+[39:35] week. I think looking at the total
+[39:37] crypto market cap is important. We are
+[39:40] still near the levels we were there.
+[39:42] We've been consolidating in my opinion
+[39:44] during tons of good news. We are
+[39:46] unchanged. We are about to go lunar. So
+[39:50] for everyone on the crypto side, this
+[39:52] has been a long year of kind of
+[39:53] consolidating. This is a bullish
+[39:55] formation. Once we get above the
+[39:57] tailwinds of all of the stable coin, the
+[40:00] genius act, the network effects that are
+[40:02] happening, circle IPO, getting everyone
+[40:04] invested in it, but also for next year,
+[40:06] if I am right about PMIs going higher,
+[40:08] if I'm right about energy prices going
+[40:10] higher, if I'm right about inflation
+[40:12] staying in a sticky perspective, but
+[40:14] also inching higher, possibly taking
+[40:15] rates higher at the same time that the
+[40:17] people that are spending the money are
+[40:19] the MAG Seven, which are a massive part
+[40:21] of global things, you need to find an
+[40:23] innovation place that is moving higher.
+[40:26] And I think the innovation place that is
+[40:27] moving higher on the technology side
+[40:29] which will become more and more
+[40:30] inevitable people is crypto. So next
+[40:32] year is the big year. The third wave uh
+[40:34] of an Elliot wave move in my opinion. Uh
+[40:37] it's going to be explosive. This was
+[40:39] basically one wave up. I think we're now
+[40:41] about to do the third wave up on this
+[40:42] and this is after a long consolidation.
+[40:45] That's it for me this week guys. Uh
+[40:47] again, thanks to everyone who watches.
+[40:49] Hit subscribe. Uh it was great seeing
+[40:51] all you guys at the events. Uh, and I
+[40:53] look forward to seeing you guys more and
