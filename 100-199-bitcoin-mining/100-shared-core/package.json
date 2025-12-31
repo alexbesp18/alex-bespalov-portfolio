@@ -1,0 +1,28 @@
+{
+  "name": "@btc-mining/shared-core",
+  "version": "1.0.0",
+  "description": "Shared core utilities for Bitcoin mining calculators",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist --copy-files",
+    "test": "jest",
+    "verify": "node verify.js",
+    "verify:react": "node verify-react.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["bitcoin", "mining", "calculator"],
+  "author": "Alex Bespalov",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=17.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.23.0",
+    "@babel/preset-react": "^7.23.0",
+    "jest": "^29.7.0",
+    "babel-jest": "^29.7.0"
+  }
+}
