@@ -68,7 +68,8 @@ def aggregate_category_trends(
     if rows_to_upsert:
         try:
             client.schema("product_hunt").table("category_trends").upsert(
-                rows_to_upsert, on_conflict="week_date,category"  # type: ignore[arg-type]
+                rows_to_upsert,  # type: ignore[arg-type]
+                on_conflict="week_date,category",
             ).execute()
             logger.info(f"Saved {len(rows_to_upsert)} category trends for {week_date}")
         except Exception as e:

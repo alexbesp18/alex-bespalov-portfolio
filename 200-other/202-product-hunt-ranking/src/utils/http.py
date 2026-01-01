@@ -41,7 +41,8 @@ def fetch_html(
 
     req = urllib.request.Request(url, headers=request_headers)
     with urllib.request.urlopen(req, timeout=timeout) as response:
-        return response.read().decode("utf-8")
+        content: bytes = response.read()
+        return content.decode("utf-8")
 
 
 def build_headers(**kwargs: Any) -> dict[str, str]:
