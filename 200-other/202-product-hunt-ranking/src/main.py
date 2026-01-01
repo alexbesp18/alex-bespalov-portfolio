@@ -11,6 +11,7 @@ import urllib.request
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 from src.analysis import PHGrokAnalyzer
+from src.analytics.aggregations import aggregate_category_trends, get_solo_builder_pick
 from src.config import settings
 from src.db import PHSupabaseClient
 from src.db.models import EnrichedProduct, PHWeeklyInsights
@@ -184,6 +185,17 @@ def run_pipeline(
         db.save_insights(insights)
         logger.info(f"Saved insights for week {week_date}")
 
+    # Aggregate category trends for analytics
+    if enriched:
+        logger.info("Aggregating category trends...")
+        trends = aggregate_category_trends(enriched, week_date, db.client)
+        logger.info(f"Aggregated {len(trends)} category trends")
+
+    # Find solo builder pick
+    solo_pick = get_solo_builder_pick(enriched) if enriched else None
+    if solo_pick:
+        logger.info(f"Solo Builder Pick: {solo_pick.name}")
+
     # Send weekly digest email
     if send_email and enriched:
         logger.info("Sending weekly digest email...")
@@ -191,6 +203,7 @@ def run_pipeline(
             products=enriched,
             insights=insights,
             week_date=week_date,
+            solo_pick=solo_pick,
         )
         if email_sent:
             logger.info("Weekly digest email sent successfully")

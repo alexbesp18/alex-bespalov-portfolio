@@ -97,7 +97,11 @@ Return a JSON object with a "products" array containing one object per product, 
       "stage": "<MVP|Growth|Established|Pivot>",
       "moat": "<network effects|tech|brand|data|switching costs|none>",
       "red_flags": ["<potential issues if any>"],
-      "bullish_signals": ["<positive indicators>"]
+      "bullish_signals": ["<positive indicators>"],
+      "solo_friendly": <true if one person could build and run this, false if requires team>,
+      "build_complexity": "<weekend|month|quarter|year - how long to build MVP>",
+      "problem_solved": "<the specific pain point this addresses in 10 words>",
+      "monetization": "<how this makes money: ads|subscriptions|usage|enterprise|one-time|freemium|open-source>"
     }},
     ...
   ]
@@ -111,6 +115,12 @@ DEEP ANALYSIS GUIDELINES:
 - moat: Sustainable competitive advantage (be skeptical - most have none)
 - red_flags: Overpromising, crowded market, unclear value, bad timing, etc.
 - bullish_signals: Strong traction, novel tech, clear pain point, good timing
+
+ENTREPRENEUR LENS:
+- solo_friendly: Can one dev build, launch, and maintain this? (true/false)
+- build_complexity: Realistic MVP timeline - weekend (simple), month (moderate), quarter (complex), year (massive)
+- problem_solved: The core pain point in 10 words max
+- monetization: Primary revenue model (be realistic about open source = hard to monetize)
 
 SCORING:
 - innovation_score 9-10: Genuinely novel, first-mover advantage

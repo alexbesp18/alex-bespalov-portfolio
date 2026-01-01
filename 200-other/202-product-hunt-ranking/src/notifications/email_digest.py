@@ -89,10 +89,43 @@ def _format_insights_html(insights: PHWeeklyInsights) -> str:
     """
 
 
+def _format_solo_pick_html(product: EnrichedProduct) -> str:
+    """Format the Solo Builder Pick section."""
+    if not product or not product.maker_info:
+        return ""
+
+    build_time = product.maker_info.get("build_complexity", "unknown")
+    problem = product.maker_info.get("problem_solved", "")
+    monetization = product.maker_info.get("monetization", "")
+    what_it_does = product.maker_info.get("what_it_does", product.description)
+
+    return f"""
+    <div style="background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);padding:20px;border-radius:12px;margin-bottom:24px;color:white;">
+        <h3 style="margin:0 0 12px 0;color:white;">🛠️ Solo Builder Pick</h3>
+        <p style="margin:0 0 8px 0;font-size:13px;opacity:0.9;">If you're a vibe-coding entrepreneur, check this one out:</p>
+        <div style="background:rgba(255,255,255,0.15);padding:16px;border-radius:8px;margin-top:12px;">
+            <a href="{product.url}" style="color:white;text-decoration:none;font-weight:bold;font-size:18px;">
+                {product.name}
+            </a>
+            <span style="background:rgba(255,255,255,0.25);padding:2px 8px;border-radius:4px;font-size:12px;margin-left:8px;">
+                ▲ {product.upvotes}
+            </span>
+            <p style="margin:12px 0 8px 0;font-size:14px;line-height:1.5;opacity:0.95;">{what_it_does}</p>
+            <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:12px;font-size:12px;">
+                <span style="background:rgba(255,255,255,0.2);padding:4px 10px;border-radius:4px;">⏱️ Build: {build_time}</span>
+                {f'<span style="background:rgba(255,255,255,0.2);padding:4px 10px;border-radius:4px;">💰 {monetization}</span>' if monetization else ''}
+            </div>
+            {f'<p style="margin:12px 0 0 0;font-size:13px;font-style:italic;opacity:0.9;">Problem: {problem}</p>' if problem else ''}
+        </div>
+    </div>
+    """
+
+
 def build_digest_html(
     products: list[EnrichedProduct],
     insights: PHWeeklyInsights | None = None,
     week_date: date | None = None,
+    solo_pick: EnrichedProduct | None = None,
 ) -> str:
     """Build the complete digest email HTML."""
     week_str = week_date.strftime("%B %d, %Y") if week_date else "This Week"
@@ -102,6 +135,7 @@ def build_digest_html(
         products_html += _format_product_html(product, i)
 
     insights_html = _format_insights_html(insights) if insights else ""
+    solo_pick_html = _format_solo_pick_html(solo_pick) if solo_pick else ""
 
     return f"""
     <!DOCTYPE html>
@@ -117,6 +151,8 @@ def build_digest_html(
         </div>
 
         {insights_html}
+
+        {solo_pick_html}
 
         <h2 style="color:#333;border-bottom:2px solid #da552f;padding-bottom:8px;">Top 10 Products</h2>
 
@@ -142,6 +178,7 @@ def send_weekly_digest(
     insights: PHWeeklyInsights | None = None,
     week_date: date | None = None,
     to_emails: list[str] | None = None,
+    solo_pick: EnrichedProduct | None = None,
     dry_run: bool = False,
 ) -> bool:
     """
@@ -152,6 +189,7 @@ def send_weekly_digest(
         insights: Optional weekly insights
         week_date: Week date for the digest
         to_emails: Override recipient list
+        solo_pick: Optional solo builder pick product
         dry_run: If True, log but don't send
 
     Returns:
@@ -172,7 +210,7 @@ def send_weekly_digest(
 
     week_str = week_date.strftime("%Y-%m-%d") if week_date else "This Week"
     subject = f"🚀 Product Hunt Weekly Digest - {week_str}"
-    html = build_digest_html(products, insights, week_date)
+    html = build_digest_html(products, insights, week_date, solo_pick)
 
     if dry_run:
         logger.info(f"[DRY RUN] Would send digest to: {recipients}")

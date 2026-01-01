@@ -241,6 +241,11 @@ class PHGrokAnalyzer:
                                 "moat",
                                 "red_flags",
                                 "bullish_signals",
+                                # Entrepreneur-focused fields
+                                "solo_friendly",
+                                "build_complexity",
+                                "problem_solved",
+                                "monetization",
                             ]:
                                 if enrichment.get(key):
                                     maker_info[key] = enrichment[key]
