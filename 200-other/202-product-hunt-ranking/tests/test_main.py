@@ -8,8 +8,9 @@ from unittest.mock import Mock, patch
 
 import pytest
 
-from src.main import fetch_html, get_current_week_info, get_week_url, run_pipeline
+from src.main import get_current_week_info, get_week_url, run_pipeline
 from src.models import Product
+from src.utils.http import fetch_html
 
 
 class TestGetWeekInfo:
@@ -37,7 +38,7 @@ class TestGetWeekInfo:
 class TestFetchHtml:
     """Test suite for HTML fetching functionality."""
 
-    @patch("src.main.urllib.request.urlopen")
+    @patch("src.utils.http.urllib.request.urlopen")
     def test_fetch_html_success(self, mock_urlopen):
         """Test successful HTML fetch."""
         mock_response = Mock()
@@ -51,7 +52,7 @@ class TestFetchHtml:
         assert result == "<html><body>Test</body></html>"
         mock_urlopen.assert_called_once()
 
-    @patch("src.main.urllib.request.urlopen")
+    @patch("src.utils.http.urllib.request.urlopen")
     def test_fetch_html_with_retry(self, mock_urlopen):
         """Test that fetch retries on failure."""
         mock_response = Mock()

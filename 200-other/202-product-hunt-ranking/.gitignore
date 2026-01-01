@@ -33,11 +33,19 @@ env/
 *.swo
 .DS_Store
 
-# Environment
+# Environment & Secrets
 .env
 .env.local
+.env.development
+.env.test
+.env.production
+.env*.local
 *.env
+*.pem
+*.key
 service_account.json
+credentials.*
+secrets.*
 
 # Jupyter
 .ipynb_checkpoints/
@@ -58,3 +66,17 @@ logs/
 data/*.csv
 data/*.json
 !data/samples/
+
+# Internal workflow files (do not commit)
+project_status.md
+autopilot_log.md
+*_checkpoint.md
+*_report.md
+deployment_plan.md
+docs/plan.md
+docs/checkpoint.md
+docs/future_roadmap.md
+docs/init_considerations.md
+
+# mypy cache
+.mypy_cache/

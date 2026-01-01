@@ -17,6 +17,21 @@ from src.models import Product
 
 logger = logging.getLogger(__name__)
 
+# Fields extracted into maker_info JSONB column
+MAKER_INFO_KEYS = [
+    "what_it_does",
+    "key_differentiator",
+    "comparable_products",
+    "stage",
+    "moat",
+    "red_flags",
+    "bullish_signals",
+    "solo_friendly",
+    "build_complexity",
+    "problem_solved",
+    "monetization",
+]
+
 
 class PHGrokAnalyzer:
     """
@@ -232,23 +247,11 @@ class PHGrokAnalyzer:
                     else:
                         for product, enrichment in zip(products, results, strict=True):
                             # Extract deep insights into maker_info
-                            maker_info = {}
-                            for key in [
-                                "what_it_does",
-                                "key_differentiator",
-                                "comparable_products",
-                                "stage",
-                                "moat",
-                                "red_flags",
-                                "bullish_signals",
-                                # Entrepreneur-focused fields
-                                "solo_friendly",
-                                "build_complexity",
-                                "problem_solved",
-                                "monetization",
-                            ]:
-                                if enrichment.get(key):
-                                    maker_info[key] = enrichment[key]
+                            maker_info = {
+                                k: enrichment[k]
+                                for k in MAKER_INFO_KEYS
+                                if enrichment.get(k)
+                            }
 
                             enriched.append(
                                 EnrichedProduct(

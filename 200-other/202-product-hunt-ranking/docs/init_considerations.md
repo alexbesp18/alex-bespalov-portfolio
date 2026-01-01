@@ -12,22 +12,27 @@
 1. `src/main.py` - Entry point, `run_pipeline()` orchestrates everything
 2. `src/utils/parsing.py` - Core HTML scraping logic
 3. `src/analysis/grok_analyzer.py` - AI enrichment layer
-4. `src/db/supabase_client.py` - Database persistence
-5. `src/config.py` - Environment configuration
+4. `src/analytics/aggregations.py` - Category trends + Solo Builder Pick
+5. `src/notifications/email_digest.py` - Weekly digest email
+6. `src/db/supabase_client.py` - Database persistence
+7. `src/config.py` - Environment configuration
 
 ## Mental Model
 
 ```
-Product Hunt HTML → BeautifulSoup → Pydantic Models → Grok AI → Supabase
+Product Hunt HTML → BeautifulSoup → Pydantic Models → Grok AI → Supabase → Email
 ```
 
 This is a **data pipeline**, not a web app. It runs once per week via GitHub Actions:
 1. Fetches HTML from Product Hunt leaderboard
 2. Parses top 10 products with BeautifulSoup
-3. Enriches with Grok AI (category, scores, insights)
-4. Saves to Supabase with upsert strategy
+3. Enriches with Grok AI (category, scores, insights, entrepreneur data)
+4. Saves to Supabase with upsert strategy (3 tables)
+5. Aggregates category trends
+6. Identifies Solo Builder Pick
+7. Sends weekly digest email via Resend
 
-**Graceful degradation**: If Grok is unavailable, raw products are saved without enrichment.
+**Graceful degradation**: If Grok is unavailable, raw products are saved without enrichment. If Resend fails, pipeline still succeeds.
 
 ## Common Gotchas
 
@@ -37,6 +42,9 @@ Variables no longer use `PH_` prefix:
 SUPABASE_URL            # Not PH_SUPABASE_URL
 SUPABASE_SERVICE_KEY    # Not PH_SUPABASE_SERVICE_KEY
 GROK_API_KEY            # Optional - enables AI enrichment
+RESEND_API_KEY          # Optional - enables email digest
+EMAIL_FROM              # Sender email address
+EMAIL_TO                # Comma-separated recipients
 ```
 
 ### 2. ISO Week Numbers
@@ -78,6 +86,20 @@ Batch mode (default) is more efficient:
 - `enrich_products_batch()` - 1 API call for 10 products
 - `categorize_product()` - 1 API call per product (10x slower)
 
+### 7. Solo Builder Pick Logic
+Located in `src/analytics/aggregations.py:80-117`:
+- Filters for `solo_friendly=true` AND `build_complexity in [weekend, month]`
+- Scores by `upvotes + innovation_score * 20`
+- Falls back to highest upvoted buildable product
+
+### 8. Email Digest Uses what_it_does
+The email shows `maker_info.what_it_does` instead of the marketing description:
+```python
+# src/notifications/email_digest.py:30-33
+if product.maker_info and product.maker_info.get("what_it_does"):
+    description = product.maker_info["what_it_does"]
+```
+
 ## Key Decisions Already Made
 
 **Do NOT re-litigate these:**
@@ -91,6 +113,8 @@ Batch mode (default) is more efficient:
 | pydantic-settings | Type-safe config with .env support | 2025-12 |
 | tenacity for retries | Standard, configurable | 2025-12 |
 | Batch enrichment | 1 API call vs 10, more efficient | 2025-12 |
+| Resend for email | Simple API, used in other portfolio projects | 2025-12 |
+| Solo Builder Pick | Target audience includes entrepreneurs | 2025-12 |
 
 ## Questions to Ask Before Making Changes
 
@@ -109,6 +133,10 @@ Batch mode (default) is more efficient:
 4. **Does this change the AI enrichment?**
    - Update prompts in `src/analysis/prompts.py`
    - Test with real Grok API
+
+5. **Does this change the email format?**
+   - Test HTML rendering in email clients
+   - Consider mobile responsiveness
 
 ## Related Commands to Run
 
@@ -133,9 +161,12 @@ mypy src/                 # Type check
 | What | Where |
 |------|-------|
 | Main entry point | `src/main.py` |
+| HTTP fetching | `src/utils/http.py` |
 | HTML parsing | `src/utils/parsing.py` |
 | AI enrichment | `src/analysis/grok_analyzer.py` |
 | AI prompts | `src/analysis/prompts.py` |
+| Category analytics | `src/analytics/aggregations.py` |
+| Email digest | `src/notifications/email_digest.py` |
 | Database client | `src/db/supabase_client.py` |
 | Database models | `src/db/models.py` |
 | Configuration | `src/config.py` |
@@ -158,9 +189,33 @@ SELECT * FROM product_hunt.weekly_insights
 ORDER BY week_date DESC
 LIMIT 5;
 
+-- Query category trends
+SELECT * FROM product_hunt.category_trends
+WHERE week_date >= '2025-01-01'
+ORDER BY week_date DESC, avg_upvotes DESC;
+
 -- Check if week exists
 SELECT EXISTS(
   SELECT 1 FROM product_hunt.products
   WHERE week_date = '2025-12-30'
 );
+
+-- Find solo-friendly products
+SELECT name, upvotes, maker_info->>'build_complexity' as complexity
+FROM product_hunt.products
+WHERE (maker_info->>'solo_friendly')::boolean = true
+ORDER BY week_date DESC, upvotes DESC;
+```
+
+## maker_info JSONB Structure
+
+The `maker_info` field in the products table contains:
+```json
+{
+  "solo_friendly": true,
+  "build_complexity": "weekend",
+  "what_it_does": "Plain English description",
+  "problem_solved": "Core problem addressed",
+  "monetization": "freemium with pro tier"
+}
 ```

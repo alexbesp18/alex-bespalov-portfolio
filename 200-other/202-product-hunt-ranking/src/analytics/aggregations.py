@@ -3,7 +3,6 @@
 import logging
 from collections import defaultdict
 from datetime import date
-
 from typing import Any
 
 from supabase import Client

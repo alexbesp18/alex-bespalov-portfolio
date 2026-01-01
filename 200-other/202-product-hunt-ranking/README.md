@@ -2,6 +2,7 @@
 
 [![Weekly Scraper](https://github.com/alexbesp18/alex-bespalov-portfolio/actions/workflows/202_ph_ranking_weekly.yml/badge.svg)](https://github.com/alexbesp18/alex-bespalov-portfolio/actions/workflows/202_ph_ranking_weekly.yml)
 [![CI](https://github.com/alexbesp18/alex-bespalov-portfolio/actions/workflows/202_ph_ranking_ci.yml/badge.svg)](https://github.com/alexbesp18/alex-bespalov-portfolio/actions/workflows/202_ph_ranking_ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Automated pipeline that scrapes Product Hunt's weekly top 10 products, enriches them with Grok AI categorization, and stores results in Supabase.
 
@@ -92,6 +93,7 @@ Schema: `product_hunt`
 |-------|-------------|---------|
 | `products` | `(week_date, rank)` | Weekly rankings with AI enrichment |
 | `weekly_insights` | `week_date` | AI-generated trends and analysis |
+| `category_trends` | `(week_date, category)` | Aggregated stats by category |
 
 ## Technical Notes
 

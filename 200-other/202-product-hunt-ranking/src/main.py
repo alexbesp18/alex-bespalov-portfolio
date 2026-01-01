@@ -6,9 +6,6 @@ and optionally sends weekly digest email.
 
 import datetime
 import logging
-import urllib.request
-
-from tenacity import retry, stop_after_attempt, wait_exponential
 
 from src.analysis import PHGrokAnalyzer
 from src.analytics.aggregations import aggregate_category_trends, get_solo_builder_pick
@@ -17,6 +14,7 @@ from src.db import PHSupabaseClient
 from src.db.models import EnrichedProduct, PHWeeklyInsights
 from src.models import Product
 from src.notifications import send_weekly_digest
+from src.utils.http import fetch_html
 from src.utils.parsing import parse_products
 
 # Setup Logging
@@ -64,22 +62,6 @@ def get_week_url(year: int, week: int) -> tuple[str, datetime.date]:
 
     url = f"https://www.producthunt.com/leaderboard/weekly/{year}/{week}"
     return url, week_date
-
-
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=60))
-def fetch_html(url: str) -> str:
-    """
-    Fetches HTML content from the given URL with robust headers and retry logic.
-    Raises exception on failure to trigger retry.
-    """
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    }
-
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req, timeout=20) as response:
-        result: str = response.read().decode("utf-8")
-        return result
 
 
 def run_pipeline(
