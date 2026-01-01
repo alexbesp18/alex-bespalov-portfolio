@@ -15,31 +15,37 @@ def _format_product_html(product: EnrichedProduct, rank: int) -> str:
     """Format a single product as HTML."""
     category_badge = ""
     if product.category:
-        category_badge = f'<span style="background:#e0e0e0;padding:2px 6px;border-radius:3px;font-size:12px;">{product.category}</span>'
+        category_badge = f'<span style="background:#e0e0e0;padding:2px 6px;border-radius:3px;font-size:12px;margin-left:8px;">{product.category}</span>'
 
     scores = ""
     if product.innovation_score is not None or product.market_fit_score is not None:
-        scores = "<br><small>"
+        scores = '<div style="margin-top:8px;font-size:12px;color:#888;">'
         if product.innovation_score is not None:
             scores += f"Innovation: {product.innovation_score:.1f}/10 "
         if product.market_fit_score is not None:
-            scores += f"Market Fit: {product.market_fit_score:.1f}/10"
-        scores += "</small>"
+            scores += f"| Market Fit: {product.market_fit_score:.1f}/10"
+        scores += "</div>"
+
+    # Use Grok's what_it_does if available, otherwise fall back to description
+    description = product.description
+    if product.maker_info and product.maker_info.get("what_it_does"):
+        description = product.maker_info["what_it_does"]
 
     return f"""
     <tr style="border-bottom:1px solid #eee;">
-        <td style="padding:12px;text-align:center;font-weight:bold;color:#666;">#{rank}</td>
-        <td style="padding:12px;">
-            <a href="{product.url}" style="color:#da552f;text-decoration:none;font-weight:bold;">
-                {product.name}
-            </a>
-            {category_badge}
-            <br>
-            <span style="color:#666;font-size:14px;">{product.description[:120]}...</span>
+        <td style="padding:16px 12px;text-align:center;font-weight:bold;color:#666;vertical-align:top;font-size:18px;">#{rank}</td>
+        <td style="padding:16px 12px;">
+            <div style="margin-bottom:8px;">
+                <a href="{product.url}" style="color:#da552f;text-decoration:none;font-weight:bold;font-size:16px;">
+                    {product.name}
+                </a>
+                {category_badge}
+            </div>
+            <p style="color:#444;font-size:14px;line-height:1.5;margin:0;">{description}</p>
             {scores}
         </td>
-        <td style="padding:12px;text-align:center;">
-            <span style="background:#da552f;color:white;padding:4px 8px;border-radius:4px;font-weight:bold;">
+        <td style="padding:16px 12px;text-align:center;vertical-align:top;">
+            <span style="background:#da552f;color:white;padding:6px 10px;border-radius:4px;font-weight:bold;font-size:14px;">
                 ▲ {product.upvotes}
             </span>
         </td>
