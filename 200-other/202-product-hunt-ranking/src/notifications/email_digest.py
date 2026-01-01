@@ -45,7 +45,7 @@ def _format_product_html(product: EnrichedProduct, rank: int) -> str:
             {scores}
         </td>
         <td style="padding:16px 12px;text-align:center;vertical-align:top;">
-            <span style="background:#da552f;color:white;padding:6px 10px;border-radius:4px;font-weight:bold;font-size:14px;">
+            <span style="color:#da552f;font-weight:bold;font-size:14px;">
                 ▲ {product.upvotes}
             </span>
         </td>
