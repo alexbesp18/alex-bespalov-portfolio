@@ -76,6 +76,27 @@ class IndicatorSnapshot:
     bullish_score: Optional[float] = None
     reversal_score: Optional[float] = None
     oversold_score: Optional[float] = None
+    # Score component breakdowns (JSONB)
+    bullish_components: Optional[Dict[str, Any]] = None
+    reversal_components: Optional[Dict[str, Any]] = None
+    oversold_components: Optional[Dict[str, Any]] = None
+    # Reversal details (upside)
+    reversal_conviction: Optional[str] = None  # HIGH/MEDIUM/LOW/NONE
+    reversal_raw_score: Optional[float] = None
+    reversal_volume_multiplier: Optional[float] = None
+    reversal_adx_multiplier: Optional[float] = None
+    # Reversal details (downside)
+    reversal_score_downside: Optional[float] = None
+    reversal_conviction_downside: Optional[str] = None  # HIGH/MEDIUM/LOW/NONE
+    # Divergence
+    divergence_type: Optional[str] = None  # none/bullish/bearish
+    divergence_strength: Optional[float] = None
+    # 52-week context
+    price_52w_high: Optional[float] = None
+    pct_from_52w_high: Optional[float] = None
+    # AI Commentary (from GrokAnalyzer)
+    ai_bullish_reason: Optional[str] = None
+    ai_tech_summary: Optional[str] = None
 
     def to_dict(self) -> Dict[str, Any]:
         """Convert to dictionary for Supabase insert.
@@ -114,6 +135,27 @@ class IndicatorSnapshot:
             ("bullish_score", _sanitize_float(self.bullish_score)),
             ("reversal_score", _sanitize_float(self.reversal_score)),
             ("oversold_score", _sanitize_float(self.oversold_score)),
+            # Score components (JSONB)
+            ("bullish_components", self.bullish_components),
+            ("reversal_components", self.reversal_components),
+            ("oversold_components", self.oversold_components),
+            # Reversal details (upside)
+            ("reversal_conviction", self.reversal_conviction),
+            ("reversal_raw_score", _sanitize_float(self.reversal_raw_score)),
+            ("reversal_volume_multiplier", _sanitize_float(self.reversal_volume_multiplier)),
+            ("reversal_adx_multiplier", _sanitize_float(self.reversal_adx_multiplier)),
+            # Reversal details (downside)
+            ("reversal_score_downside", _sanitize_float(self.reversal_score_downside)),
+            ("reversal_conviction_downside", self.reversal_conviction_downside),
+            # Divergence
+            ("divergence_type", self.divergence_type),
+            ("divergence_strength", _sanitize_float(self.divergence_strength)),
+            # 52-week context
+            ("price_52w_high", _sanitize_float(self.price_52w_high)),
+            ("pct_from_52w_high", _sanitize_float(self.pct_from_52w_high)),
+            # AI Commentary
+            ("ai_bullish_reason", self.ai_bullish_reason),
+            ("ai_tech_summary", self.ai_tech_summary),
         ]
 
         for key, value in fields:
@@ -443,6 +485,16 @@ def archive_daily_indicators(
         elif score_type == "oversold":
             oversold_score = r.get('oversold_score') or r.get('score')
 
+        # Extract new component/detail fields (support multiple key names)
+        reversal_components = r.get('reversal_components') or r.get('upside_breakdown')
+        divergence = r.get('divergence', {})
+        divergence_type = r.get('divergence_type')
+        divergence_strength = r.get('divergence_strength')
+        # Handle divergence as dict from ReversalScore
+        if isinstance(divergence, dict) and not divergence_type:
+            divergence_type = divergence.get('type', 'none')
+            divergence_strength = divergence.get('strength', 0)
+
         snapshot = IndicatorSnapshot(
             date=date_str,
             symbol=symbol,
@@ -475,6 +527,27 @@ def archive_daily_indicators(
             bullish_score=bullish_score,
             reversal_score=reversal_score,
             oversold_score=oversold_score,
+            # Score components (JSONB)
+            bullish_components=r.get('bullish_components'),
+            reversal_components=reversal_components,
+            oversold_components=r.get('oversold_components'),
+            # Reversal details (upside)
+            reversal_conviction=r.get('reversal_conviction') or r.get('upside_conviction'),
+            reversal_raw_score=r.get('reversal_raw_score') or r.get('raw_score'),
+            reversal_volume_multiplier=r.get('reversal_volume_multiplier') or r.get('volume_multiplier'),
+            reversal_adx_multiplier=r.get('reversal_adx_multiplier') or r.get('adx_multiplier'),
+            # Reversal details (downside)
+            reversal_score_downside=r.get('downside_rev_score') or r.get('reversal_score_downside'),
+            reversal_conviction_downside=r.get('downside_conviction') or r.get('reversal_conviction_downside'),
+            # Divergence
+            divergence_type=divergence_type,
+            divergence_strength=divergence_strength,
+            # 52-week context
+            price_52w_high=r.get('price_52w_high') or r.get('high_52w'),
+            pct_from_52w_high=r.get('pct_from_52w_high') or r.get('pct_from_high'),
+            # AI Commentary (from GrokAnalyzer via 007)
+            ai_bullish_reason=r.get('bullish_reason'),
+            ai_tech_summary=r.get('tech_summary'),
         )
         snapshots.append(snapshot)
 
