@@ -186,6 +186,14 @@ jobs:
           cd 000-099-investing/008-alerts
           python main.py
 
+      - name: Upload alerts state
+        uses: actions/upload-artifact@v4
+        with:
+          name: alerts-state
+          path: 000-099-investing/008-alerts/state/last_run.json
+          retention-days: 1
+          if-no-files-found: ignore
+
   run-reversals:
     needs: refresh-cache
     runs-on: ubuntu-latest
@@ -233,6 +241,14 @@ jobs:
         run: |
           cd 000-099-investing/009-reversals
           python reversals.py
+
+      - name: Upload reversals state
+        uses: actions/upload-artifact@v4
+        with:
+          name: reversals-state
+          path: 000-099-investing/009-reversals/data/state.json
+          retention-days: 1
+          if-no-files-found: ignore
 
   run-oversold:
     needs: refresh-cache
@@ -290,6 +306,71 @@ jobs:
         run: |
           cd 000-099-investing/010-oversold
           python oversold.py --all --top 20 --email
+
+      - name: Upload oversold state
+        uses: actions/upload-artifact@v4
+        with:
+          name: oversold-state
+          path: 000-099-investing/010-oversold/data/last_run.json
+          retention-days: 1
+          if-no-files-found: ignore
+
+  # Consolidated daily digest
+  send-digest:
+    needs: [run-alerts, run-reversals, run-oversold]
+    runs-on: ubuntu-latest
+    if: success()
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Download alerts state
+        uses: actions/download-artifact@v4
+        with:
+          name: alerts-state
+          path: 000-099-investing/008-alerts/state/
+        continue-on-error: true
+
+      - name: Download reversals state
+        uses: actions/download-artifact@v4
+        with:
+          name: reversals-state
+          path: 000-099-investing/009-reversals/data/
+        continue-on-error: true
+
+      - name: Download oversold state
+        uses: actions/download-artifact@v4
+        with:
+          name: oversold-state
+          path: 000-099-investing/010-oversold/data/
+        continue-on-error: true
+
+      - name: Debug - List state files
+        run: |
+          echo "=== State files ==="
+          ls -la 000-099-investing/008-alerts/state/ 2>/dev/null || echo "No alerts state"
+          ls -la 000-099-investing/009-reversals/data/ 2>/dev/null || echo "No reversals state"
+          ls -la 000-099-investing/010-oversold/data/ 2>/dev/null || echo "No oversold state"
+
+      - name: Send consolidated digest
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+        run: |
+          cd 000-099-investing/011-digest
+          python main.py
 
   # Notify on failure
   notify-failure:

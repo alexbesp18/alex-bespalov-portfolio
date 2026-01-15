@@ -285,3 +285,11 @@ Add tests for `build_digest_html()` and `send_weekly_digest()` with mocked resen
 - Fixed blind exception assertion in test_main.py
 - Removed stale Slack references from docs/checkpoint.md
 - Updated autopilot_log.md
+
+### Analytics Enhancement (2025-12-31)
+New features added for entrepreneur analytics:
+- `src/analytics/aggregations.py` - Category trend tracking
+- `product_hunt.category_trends` table in Supabase
+- Solo Builder Pick in email digest
+- New Grok fields: solo_friendly, build_complexity, problem_solved, monetization
+- what_it_does field for plain English descriptions

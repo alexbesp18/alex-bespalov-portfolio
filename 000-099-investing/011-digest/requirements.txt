@@ -1,0 +1,5 @@
+# Dependencies for 011-digest
+# Uses shared_core which must be installed first:
+# cd ../000-shared-core && pip install -e .
+
+# No additional dependencies beyond shared_core
