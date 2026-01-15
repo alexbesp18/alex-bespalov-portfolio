@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 from shared_core import (
     setup_logging,
     get_cached_tickers,
+    get_latest_cached_tickers,
     check_time_guard,
     safe_read_json,
     StateManager,
@@ -76,7 +77,8 @@ def main():
         logger.info(f"Using JSON config: {len(tickers)} tickers")
     else:
         # Default: use cached tickers from 007-ticker-analysis
-        cached_symbols = get_cached_tickers(cache_dir)
+        # Use lookback to handle UTC/EST timezone mismatch in cache file dates
+        cached_symbols = get_latest_cached_tickers(cache_dir, lookback_days=3)
         # Convert to format expected by the rest of the code
         tickers = [{'symbol': s, 'theme': 'Cached'} for s in cached_symbols]
         logger.info(f"Using cached tickers from 007-ticker-analysis: {len(tickers)} tickers")
@@ -241,6 +243,28 @@ def main():
         matrix['upside_conviction'] = upside_conviction
         matrix['downside_conviction'] = downside_conviction
         matrix['reversal_signal'] = reversal_analysis['signal']
+
+        # Add detailed reversal breakdown for Supabase archiving
+        upside_breakdown = reversal_analysis.get('upside_breakdown', {})
+        matrix['reversal_components'] = {
+            k: v for k, v in upside_breakdown.items()
+            if k not in ('volume_multiplier', 'volume_ratio', 'adx_multiplier',
+                         'adx_value', 'divergence_type', 'raw_score', 'conviction')
+        }
+        matrix['reversal_conviction'] = upside_conviction
+        matrix['raw_score'] = upside_breakdown.get('raw_score')
+        matrix['volume_multiplier'] = upside_breakdown.get('volume_multiplier')
+        matrix['adx_multiplier'] = upside_breakdown.get('adx_multiplier')
+        # Parse divergence info (case-insensitive)
+        div_type_desc = str(upside_breakdown.get('divergence_type', 'None')).lower()
+        if 'bullish' in div_type_desc:
+            matrix['divergence_type'] = 'bullish'
+        elif 'bearish' in div_type_desc:
+            matrix['divergence_type'] = 'bearish'
+        else:
+            matrix['divergence_type'] = 'none'
+        # Divergence strength from components if available
+        matrix['divergence_strength'] = upside_breakdown.get('divergence', 0)
 
         # Evaluate config-based Triggers
         triggers = trigger_engine.evaluate(symbol, df, score, ticker_triggers, matrix=matrix)

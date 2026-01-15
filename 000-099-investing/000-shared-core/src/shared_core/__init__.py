@@ -40,6 +40,7 @@ __all__ = [
     'parse_iso_datetime',
     # General Utils
     'get_cached_tickers',
+    'get_latest_cached_tickers',
     'check_time_guard',
     'setup_logging',
     # Scoring
@@ -145,6 +146,9 @@ def __getattr__(name):
     elif name == 'get_cached_tickers':
         from .utils.cache_tickers import get_cached_tickers
         return get_cached_tickers
+    elif name == 'get_latest_cached_tickers':
+        from .utils.cache_tickers import get_latest_cached_tickers
+        return get_latest_cached_tickers
     elif name == 'check_time_guard':
         from .utils.time_guard import check_time_guard
         return check_time_guard

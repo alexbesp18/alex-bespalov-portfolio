@@ -514,17 +514,32 @@ WEIGHTS_V2 = WEIGHTS_V3
 def classify_conviction(
     final_score: float,
     volume_ratio: float,
-    adx_value: float
+    adx_value: float,
+    divergence_type: DivergenceType = DivergenceType.NONE,
+    sma200_score: float = 1.0,
+    direction: str = "up"
 ) -> ConvictionLevel:
     """
     Classify conviction level for actionability.
 
-    HIGH: Score >= 8.0 AND volume >= 1.2x AND ADX < 35 → BUY NOW
+    HIGH conviction for mid-term traders requires ALL of:
+    1. Score >= 8.0
+    2. Volume >= 1.2x average
+    3. ADX < 35 (not fighting a strong trend)
+    4. Divergence present (bullish for up, bearish for down)
+    5. Price above or crossing SMA200 (score >= 7)
+
     MEDIUM: Score >= 7.0 AND volume >= 1.0x → Developing, watch closely
     LOW: Score >= 6.0 → Not actionable
     NONE: Below thresholds
     """
-    if final_score >= 8.0 and volume_ratio >= 1.2 and adx_value < 35:
+    # Check divergence direction matches signal direction
+    expected_div = DivergenceType.BULLISH if direction == "up" else DivergenceType.BEARISH
+    has_divergence = divergence_type == expected_div
+    has_sma200_support = sma200_score >= 7.0
+
+    if (final_score >= 8.0 and volume_ratio >= 1.2 and adx_value < 35
+            and has_divergence and has_sma200_support):
         return ConvictionLevel.HIGH
     elif final_score >= 7.0 and volume_ratio >= 1.0:
         return ConvictionLevel.MEDIUM
@@ -590,8 +605,11 @@ def calculate_upside_reversal_score_v2(df: pd.DataFrame) -> ReversalScore:
     # Apply multipliers
     final_score = min(10.0, raw_score * volume_mult * adx_mult)
 
-    # Classify conviction
-    conviction = classify_conviction(final_score, volume_ratio, adx_value)
+    # Classify conviction (with divergence and SMA200 requirements for HIGH)
+    conviction = classify_conviction(
+        final_score, volume_ratio, adx_value,
+        divergence.type, components['price_sma200'], "up"
+    )
 
     return ReversalScore(
         raw_score=round(raw_score, 2),
@@ -649,7 +667,11 @@ def calculate_downside_reversal_score_v2(df: pd.DataFrame) -> ReversalScore:
 
     raw_score = sum(components[k] * WEIGHTS_V3[k] for k in components)
     final_score = min(10.0, raw_score * volume_mult * adx_mult)
-    conviction = classify_conviction(final_score, volume_ratio, adx_value)
+    # Classify conviction (with divergence and SMA200 requirements for HIGH)
+    conviction = classify_conviction(
+        final_score, volume_ratio, adx_value,
+        divergence.type, components['price_sma200'], "down"
+    )
 
     return ReversalScore(
         raw_score=round(raw_score, 2),
