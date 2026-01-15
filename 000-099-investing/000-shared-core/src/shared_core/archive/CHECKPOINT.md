@@ -165,13 +165,15 @@ Uses Supabase upsert with `on_conflict="date,symbol"` to:
 
 ---
 
-## Removed Fields (2024-12-27)
+## Removed Fields
 
-| Field | Reason |
-|-------|--------|
-| `bullish_reason` | Grok AI analysis not in use |
-| `tech_summary` | Grok AI analysis not in use |
-| `action` | Never populated by any scanner |
+| Field | Date | Reason |
+|-------|------|--------|
+| `reversal_score_downside` | 2026-01-14 | User only cares about upside (BUY) signals |
+| `reversal_conviction_downside` | 2026-01-14 | User only cares about upside (BUY) signals |
+| `bullish_reason` | 2024-12-27 | Grok AI analysis not in use |
+| `tech_summary` | 2024-12-27 | Grok AI analysis not in use |
+| `action` | 2024-12-27 | Never populated by any scanner |
 
 ---
 

@@ -80,14 +80,11 @@ class IndicatorSnapshot:
     bullish_components: Optional[Dict[str, Any]] = None
     reversal_components: Optional[Dict[str, Any]] = None
     oversold_components: Optional[Dict[str, Any]] = None
-    # Reversal details (upside)
+    # Reversal details (upside only - user only cares about BUY signals)
     reversal_conviction: Optional[str] = None  # HIGH/MEDIUM/LOW/NONE
     reversal_raw_score: Optional[float] = None
     reversal_volume_multiplier: Optional[float] = None
     reversal_adx_multiplier: Optional[float] = None
-    # Reversal details (downside)
-    reversal_score_downside: Optional[float] = None
-    reversal_conviction_downside: Optional[str] = None  # HIGH/MEDIUM/LOW/NONE
     # Divergence
     divergence_type: Optional[str] = None  # none/bullish/bearish
     divergence_strength: Optional[float] = None
@@ -139,14 +136,11 @@ class IndicatorSnapshot:
             ("bullish_components", self.bullish_components),
             ("reversal_components", self.reversal_components),
             ("oversold_components", self.oversold_components),
-            # Reversal details (upside)
+            # Reversal details (upside only)
             ("reversal_conviction", self.reversal_conviction),
             ("reversal_raw_score", _sanitize_float(self.reversal_raw_score)),
             ("reversal_volume_multiplier", _sanitize_float(self.reversal_volume_multiplier)),
             ("reversal_adx_multiplier", _sanitize_float(self.reversal_adx_multiplier)),
-            # Reversal details (downside)
-            ("reversal_score_downside", _sanitize_float(self.reversal_score_downside)),
-            ("reversal_conviction_downside", self.reversal_conviction_downside),
             # Divergence
             ("divergence_type", self.divergence_type),
             ("divergence_strength", _sanitize_float(self.divergence_strength)),
@@ -531,14 +525,11 @@ def archive_daily_indicators(
             bullish_components=r.get('bullish_components'),
             reversal_components=reversal_components,
             oversold_components=r.get('oversold_components'),
-            # Reversal details (upside)
+            # Reversal details (upside only - focus on BUY signals)
             reversal_conviction=r.get('reversal_conviction') or r.get('upside_conviction'),
             reversal_raw_score=r.get('reversal_raw_score') or r.get('raw_score'),
             reversal_volume_multiplier=r.get('reversal_volume_multiplier') or r.get('volume_multiplier'),
             reversal_adx_multiplier=r.get('reversal_adx_multiplier') or r.get('adx_multiplier'),
-            # Reversal details (downside)
-            reversal_score_downside=r.get('downside_rev_score') or r.get('reversal_score_downside'),
-            reversal_conviction_downside=r.get('downside_conviction') or r.get('reversal_conviction_downside'),
             # Divergence
             divergence_type=divergence_type,
             divergence_strength=divergence_strength,

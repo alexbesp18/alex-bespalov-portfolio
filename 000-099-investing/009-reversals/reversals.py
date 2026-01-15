@@ -237,11 +237,9 @@ def main():
         downside_conviction = reversal_analysis.get('downside_conviction', 'NONE')
         reversal_triggers_raw = reversal_analysis['upside_triggers'] + reversal_analysis['downside_triggers']
 
-        # Add reversal data to matrix
+        # Add reversal data to matrix (upside only - focus on BUY signals)
         matrix['upside_rev_score'] = upside_rev_score
-        matrix['downside_rev_score'] = downside_rev_score
         matrix['upside_conviction'] = upside_conviction
-        matrix['downside_conviction'] = downside_conviction
         matrix['reversal_signal'] = reversal_analysis['signal']
 
         # Add detailed reversal breakdown for Supabase archiving
