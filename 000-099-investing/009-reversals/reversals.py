@@ -367,11 +367,31 @@ def main():
     except Exception as e:
         logger.warning(f"Failed to archive to Supabase: {e}")
 
-    # Notify (only on NEW triggers to prevent alert fatigue)
-    if results:
-        body, buy_count, sell_count = notifier.format_email_body(results, all_matrix_data)
-        subject = f"[REVERSALS] {buy_count} BUY, {sell_count} SELL — {datetime.now().strftime('%b %d')}"
-        
+    # Build top 20 by upside reversal score (daily leaderboard)
+    top_20_by_score = sorted(
+        [m for m in all_matrix_data if (m.get('upside_rev_score') or 0) > 0],
+        key=lambda x: x.get('upside_rev_score', 0) or 0,
+        reverse=True
+    )[:20]
+
+    top_5_preview = [f"{m.get('symbol')}:{m.get('upside_rev_score', 0):.1f}" for m in top_20_by_score[:5]]
+    logger.info(f"Top 20 by reversal score: {top_5_preview}...")
+
+    # Notify: always send if we have top 20 data, even without HIGH conviction triggers
+    has_high_conviction = bool(results)
+    has_top_20 = bool(top_20_by_score)
+
+    if has_high_conviction or has_top_20:
+        body, buy_count, sell_count = notifier.format_email_body(
+            results, all_matrix_data, top_20=top_20_by_score
+        )
+
+        # Build subject line
+        if has_high_conviction:
+            subject = f"[REVERSALS] {buy_count} BUY, {sell_count} SELL — {datetime.now().strftime('%b %d')}"
+        else:
+            subject = f"[REVERSALS] Top 20 Scores — {datetime.now().strftime('%b %d')}"
+
         if args.dry_run:
             logger.info("Dry Run - Email Content:")
             logger.info(body)
@@ -389,9 +409,9 @@ def main():
         state_manager.set_last_digest(state, digest)
     else:
         if args.dry_run:
-            logger.info("Dry Run - No NEW triggers found today. (No email would be sent.)")
+            logger.info("Dry Run - No data to email (no triggers and no scored tickers).")
         else:
-            logger.info("No NEW triggers found today. Skipping email.")
+            logger.info("No data to email. Skipping.")
 
     state_manager.save(state)
 
