@@ -1,3 +1,4 @@
+import html
 import os
 import logging
 import resend
@@ -221,9 +222,9 @@ class Notifier:
         if not top_20:
             return ""
 
-        html = "<h2 style='margin-top: 30px; color: #2E8B57;'>TOP 20 BY REVERSAL SCORE</h2>"
-        html += "<p style='font-size: 12px; color: #666;'>Daily leaderboard sorted by upside reversal score</p>"
-        html += """
+        table_html = "<h2 style='margin-top: 30px; color: #2E8B57;'>TOP 20 BY REVERSAL SCORE</h2>"
+        table_html += "<p style='font-size: 12px; color: #666;'>Daily leaderboard sorted by upside reversal score</p>"
+        table_html += """
         <table style='border-collapse: collapse; font-size: 12px; width: 100%;'>
         <thead>
             <tr style='background: #2E8B57; color: white;'>
@@ -240,11 +241,13 @@ class Notifier:
         """
 
         for i, row in enumerate(top_20, 1):
-            score = row.get('upside_rev_score', 0) or 0
-            conviction = row.get('upside_conviction', 'NONE')
-            divergence = row.get('divergence_type', 'none')
-            price = row.get('close', 0) or row.get('_price', 0)
-            rsi = row.get('rsi') or row.get('_rsi', 0)
+            # Type-safe extraction with defensive float conversion
+            score = float(row.get('upside_rev_score') or 0)
+            conviction = str(row.get('upside_conviction') or 'NONE')
+            divergence = str(row.get('divergence_type') or 'none')
+            price = float(row.get('close') or row.get('_price') or 0)
+            rsi = float(row.get('rsi') or row.get('_rsi') or 50)  # 50 = neutral RSI fallback
+            symbol = html.escape(str(row.get('symbol') or ''))
 
             # Row color based on score
             if score >= 7:
@@ -267,10 +270,10 @@ class Notifier:
             div_display = divergence if divergence != 'none' else '-'
             div_color = '#2E8B57' if divergence == 'bullish' else ('#CD5C5C' if divergence == 'bearish' else '#999')
 
-            html += f"""
+            table_html += f"""
             <tr style='background: {bg_color};'>
                 <td style='padding: 6px; border: 1px solid #ddd; text-align: center; font-weight: bold;'>{i}</td>
-                <td style='padding: 6px; border: 1px solid #ddd; font-weight: bold;'>{row.get('symbol', '')}</td>
+                <td style='padding: 6px; border: 1px solid #ddd; font-weight: bold;'>{symbol}</td>
                 <td style='padding: 6px; border: 1px solid #ddd; text-align: center; font-weight: bold; color: #2E8B57;'>{score:.1f}</td>
                 <td style='padding: 6px; border: 1px solid #ddd; text-align: center; color: {conv_color}; font-weight: bold;'>{conviction}</td>
                 <td style='padding: 6px; border: 1px solid #ddd; text-align: center; color: {div_color};'>{div_display}</td>
@@ -279,8 +282,8 @@ class Notifier:
             </tr>
             """
 
-        html += "</tbody></table>"
-        return html
+        table_html += "</tbody></table>"
+        return table_html
 
     def send_email(self, subject: str, html_content: str):
         """Send email via Resend API."""
