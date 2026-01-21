@@ -1,4 +1,3 @@
-import html
 import os
 import logging
 import resend
@@ -20,22 +19,14 @@ class Notifier:
         if api_key:
             resend.api_key = api_key
 
-    def format_email_body(
-        self,
-        results: List[Dict],
-        matrix_data: Optional[List[Dict]] = None,
-        mode: str = "main",
-        top_20: Optional[List[Dict]] = None,
-    ):
+    def format_email_body(self, results: List[Dict], matrix_data: Optional[List[Dict]] = None, mode: str = "main"):
         """
         Formats the results into an HTML email body.
-
+        
         Args:
             results: List of dicts with triggered alerts
             matrix_data: List of dicts with binary matrix flags for each ticker
-            mode: "main" or "reminder"
-            top_20: List of top 20 tickers by reversal score (for daily leaderboard)
-
+        
         Returns:
             (html_body, buy_count, sell_count)
         """
@@ -100,32 +91,22 @@ class Notifier:
                 "</p>"
             )
         
-        # Add trigger-based alerts (HIGH conviction only)
-        has_high_conviction = upside_reversals or downside_reversals or buys or sells or watches
-        if has_high_conviction:
-            body += "<h2 style='color: #B8860B; margin-top: 20px;'>HIGH CONVICTION SIGNALS</h2>"
+        # Add trigger-based alerts
+        if upside_reversals or downside_reversals or buys or sells or watches:
             body += format_section("UPSIDE REVERSAL", upside_reversals, "#2E8B57")
             body += format_section("DOWNSIDE REVERSAL", downside_reversals, "#CD5C5C")
             body += format_section("BUY", buys, "#228B22")
             body += format_section("SELL", sells, "#B22222")
             body += format_section("WATCH", watches, "#DAA520")
-        else:
-            body += (
-                "<p style='color: #666; font-style: italic;'>"
-                "No HIGH conviction signals today (requires score 8+ with divergence and SMA200 support)."
-                "</p>"
-            )
-
-        # Add Top 20 Leaderboard (always show if available)
-        if mode != "reminder" and top_20:
-            body += self._format_top_20_table(top_20)
-
-        # Add detailed matrix table for HIGH conviction triggers
-        if mode != "reminder" and matrix_data and has_high_conviction:
+        
+        # Add matrix table
+        if mode != "reminder" and matrix_data and (upside_reversals or downside_reversals or buys or sells or watches):
             # Keep the matrix useful + compact: only include rows for tickers that actually triggered.
             triggered_symbols = {r.get("symbol") for r in results if r.get("symbol")}
             filtered = [row for row in matrix_data if row.get("symbol") in triggered_symbols]
             body += self._format_matrix_table(filtered if filtered else matrix_data)
+        elif not results:
+            body += "<p>No triggers found today.</p>"
 
         body += (
             "<hr style='margin-top: 24px; border: none; border-top: 1px solid #eee;'/>"
@@ -214,76 +195,6 @@ class Notifier:
         
         html += "</tbody></table>"
         return html
-
-    def _format_top_20_table(self, top_20: List[Dict]) -> str:
-        """
-        Formats the top 20 tickers by reversal score as a leaderboard table.
-        """
-        if not top_20:
-            return ""
-
-        table_html = "<h2 style='margin-top: 30px; color: #2E8B57;'>TOP 20 BY REVERSAL SCORE</h2>"
-        table_html += "<p style='font-size: 12px; color: #666;'>Daily leaderboard sorted by upside reversal score</p>"
-        table_html += """
-        <table style='border-collapse: collapse; font-size: 12px; width: 100%;'>
-        <thead>
-            <tr style='background: #2E8B57; color: white;'>
-                <th style='padding: 8px; border: 1px solid #228B22;'>#</th>
-                <th style='padding: 8px; border: 1px solid #228B22;'>Symbol</th>
-                <th style='padding: 8px; border: 1px solid #228B22;'>Score</th>
-                <th style='padding: 8px; border: 1px solid #228B22;'>Conviction</th>
-                <th style='padding: 8px; border: 1px solid #228B22;'>Divergence</th>
-                <th style='padding: 8px; border: 1px solid #228B22;'>Price</th>
-                <th style='padding: 8px; border: 1px solid #228B22;'>RSI</th>
-            </tr>
-        </thead>
-        <tbody>
-        """
-
-        for i, row in enumerate(top_20, 1):
-            # Type-safe extraction with defensive float conversion
-            score = float(row.get('upside_rev_score') or 0)
-            conviction = str(row.get('upside_conviction') or 'NONE')
-            divergence = str(row.get('divergence_type') or 'none')
-            price = float(row.get('close') or row.get('_price') or 0)
-            rsi = float(row.get('rsi') or row.get('_rsi') or 50)  # 50 = neutral RSI fallback
-            symbol = html.escape(str(row.get('symbol') or ''))
-
-            # Row color based on score
-            if score >= 7:
-                bg_color = "#e6ffe6"  # Light green
-            elif score >= 5:
-                bg_color = "#fffde6"  # Light yellow
-            else:
-                bg_color = "#fff"
-
-            # Conviction color
-            conviction_colors = {
-                'HIGH': '#2E8B57',
-                'MEDIUM': '#DAA520',
-                'LOW': '#999',
-                'NONE': '#ccc',
-            }
-            conv_color = conviction_colors.get(conviction, '#ccc')
-
-            # Divergence indicator
-            div_display = divergence if divergence != 'none' else '-'
-            div_color = '#2E8B57' if divergence == 'bullish' else ('#CD5C5C' if divergence == 'bearish' else '#999')
-
-            table_html += f"""
-            <tr style='background: {bg_color};'>
-                <td style='padding: 6px; border: 1px solid #ddd; text-align: center; font-weight: bold;'>{i}</td>
-                <td style='padding: 6px; border: 1px solid #ddd; font-weight: bold;'>{symbol}</td>
-                <td style='padding: 6px; border: 1px solid #ddd; text-align: center; font-weight: bold; color: #2E8B57;'>{score:.1f}</td>
-                <td style='padding: 6px; border: 1px solid #ddd; text-align: center; color: {conv_color}; font-weight: bold;'>{conviction}</td>
-                <td style='padding: 6px; border: 1px solid #ddd; text-align: center; color: {div_color};'>{div_display}</td>
-                <td style='padding: 6px; border: 1px solid #ddd; text-align: right;'>${price:.2f}</td>
-                <td style='padding: 6px; border: 1px solid #ddd; text-align: center;'>{rsi:.0f}</td>
-            </tr>
-            """
-
-        table_html += "</tbody></table>"
-        return table_html
 
     def send_email(self, subject: str, html_content: str):
         """Send email via Resend API."""

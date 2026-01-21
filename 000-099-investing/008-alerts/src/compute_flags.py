@@ -33,70 +33,58 @@ def compute_rsi(close: pd.Series, period: int = 14) -> pd.Series:
     return 100 - (100 / (1 + rs))
 
 
-def compute_score(df: pd.DataFrame) -> tuple:
+def compute_score(df: pd.DataFrame) -> float:
     """
     Compute bullish score (0-10) based on technical indicators.
     Simplified scoring logic based on trend, RSI, MACD, volume, and momentum.
-
-    Returns:
-        tuple: (score, components_dict) where components breaks down each factor
     """
     if len(df) < 50:
-        return 0.0, {}
-
+        return 0.0
+    
     curr = df.iloc[-1]
     prev = df.iloc[-2]
-
-    components = {}
-
+    
+    score = 0.0
+    
     # Trend: Price vs SMAs (30%)
     if curr['close'] > curr.get('sma50', 0) and curr.get('sma50', 0) > curr.get('sma200', 0):
-        components['trend'] = 3.0
+        score += 3.0
     elif curr['close'] > curr.get('sma200', 0):
-        components['trend'] = 2.0
+        score += 2.0
     elif curr['close'] > curr.get('sma50', 0):
-        components['trend'] = 1.0
-    else:
-        components['trend'] = 0.0
-
+        score += 1.0
+    
     # RSI (25%)
     rsi = curr.get('rsi', 50)
     if 50 <= rsi <= 70:
-        components['rsi'] = 2.5
+        score += 2.5
     elif 40 <= rsi < 50:
-        components['rsi'] = 1.5
+        score += 1.5
     elif rsi > 70:
-        components['rsi'] = 1.0
-    else:
-        components['rsi'] = 0.0
-
+        score += 1.0
+    
     # MACD direction (20%)
-    components['macd'] = 0.0
     if 'macd_hist' in curr and 'macd_hist' in prev:
         if curr['macd_hist'] > 0:
-            components['macd'] = 2.0 if curr['macd_hist'] > prev['macd_hist'] else 1.5
+            score += 2.0 if curr['macd_hist'] > prev['macd_hist'] else 1.5
         elif curr['macd_hist'] > prev['macd_hist']:
-            components['macd'] = 1.0
-
+            score += 1.0
+    
     # Volume trend (15%)
     if curr.get('volume_ratio', 1) > 1.2:
-        components['volume'] = 1.5
+        score += 1.5
     elif curr.get('volume_ratio', 1) > 0.8:
-        components['volume'] = 0.75
-    else:
-        components['volume'] = 0.0
-
+        score += 0.75
+    
     # Price momentum (10%)
-    components['momentum'] = 0.0
     if len(df) >= 5:
         pct_5d = (curr['close'] - df.iloc[-5]['close']) / df.iloc[-5]['close'] * 100
         if pct_5d > 3:
-            components['momentum'] = 1.0
+            score += 1.0
         elif pct_5d > 0:
-            components['momentum'] = 0.5
-
-    score = sum(components.values())
-    return round(min(10, score), 1), components
+            score += 0.5
+    
+    return round(min(10, score), 1)
 
 
 def process_ticker_data(raw_data: Dict[str, Any]) -> Optional[pd.DataFrame]:
@@ -165,9 +153,9 @@ def compute_flags(df: pd.DataFrame, previous_state: Optional[Dict[str, Any]] = N
     volume = curr.get('volume') or 0
     avg_volume = curr.get('avg_volume_20d') or volume
     
-    # Compute score and components
-    score, components = compute_score(df)
-
+    # Compute score
+    score = compute_score(df)
+    
     # State flags - convert numpy types to native Python types for JSON
     flags = {
         'above_SMA200': bool(close > sma200) if sma200 else False,
@@ -175,16 +163,13 @@ def compute_flags(df: pd.DataFrame, previous_state: Optional[Dict[str, Any]] = N
         'above_SMA50': bool(close > sma50) if sma50 else False,
         'new_20day_high': bool(close >= high_20d),
         'volume_above_1.5x_avg': bool(volume > 1.5 * avg_volume) if avg_volume else False,
-
+        
         # Continuous values
         'rsi': float(round(rsi, 1)) if pd.notna(rsi) else 50.0,
         'score': float(score),
         'close': float(round(close, 2)),
         'sma50': float(round(sma50, 2)) if sma50 else None,
         'sma200': float(round(sma200, 2)) if sma200 else None,
-
-        # Score component breakdown for historical analysis
-        'score_components': components,
     }
     
     # Event flags (require previous state)

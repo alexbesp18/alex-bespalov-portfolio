@@ -7,7 +7,6 @@ from dotenv import load_dotenv
 from shared_core import (
     setup_logging,
     get_cached_tickers,
-    get_latest_cached_tickers,
     check_time_guard,
     safe_read_json,
     StateManager,
@@ -77,8 +76,7 @@ def main():
         logger.info(f"Using JSON config: {len(tickers)} tickers")
     else:
         # Default: use cached tickers from 007-ticker-analysis
-        # Use lookback to handle UTC/EST timezone mismatch in cache file dates
-        cached_symbols = get_latest_cached_tickers(cache_dir, lookback_days=3)
+        cached_symbols = get_cached_tickers(cache_dir)
         # Convert to format expected by the rest of the code
         tickers = [{'symbol': s, 'theme': 'Cached'} for s in cached_symbols]
         logger.info(f"Using cached tickers from 007-ticker-analysis: {len(tickers)} tickers")
@@ -237,32 +235,12 @@ def main():
         downside_conviction = reversal_analysis.get('downside_conviction', 'NONE')
         reversal_triggers_raw = reversal_analysis['upside_triggers'] + reversal_analysis['downside_triggers']
 
-        # Add reversal data to matrix (upside only - focus on BUY signals)
+        # Add reversal data to matrix
         matrix['upside_rev_score'] = upside_rev_score
+        matrix['downside_rev_score'] = downside_rev_score
         matrix['upside_conviction'] = upside_conviction
+        matrix['downside_conviction'] = downside_conviction
         matrix['reversal_signal'] = reversal_analysis['signal']
-
-        # Add detailed reversal breakdown for Supabase archiving
-        upside_breakdown = reversal_analysis.get('upside_breakdown', {})
-        matrix['reversal_components'] = {
-            k: v for k, v in upside_breakdown.items()
-            if k not in ('volume_multiplier', 'volume_ratio', 'adx_multiplier',
-                         'adx_value', 'divergence_type', 'raw_score', 'conviction')
-        }
-        matrix['reversal_conviction'] = upside_conviction
-        matrix['raw_score'] = upside_breakdown.get('raw_score')
-        matrix['volume_multiplier'] = upside_breakdown.get('volume_multiplier')
-        matrix['adx_multiplier'] = upside_breakdown.get('adx_multiplier')
-        # Parse divergence info (case-insensitive)
-        div_type_desc = str(upside_breakdown.get('divergence_type', 'None')).lower()
-        if 'bullish' in div_type_desc:
-            matrix['divergence_type'] = 'bullish'
-        elif 'bearish' in div_type_desc:
-            matrix['divergence_type'] = 'bearish'
-        else:
-            matrix['divergence_type'] = 'none'
-        # Divergence strength from components if available
-        matrix['divergence_strength'] = upside_breakdown.get('divergence', 0)
 
         # Evaluate config-based Triggers
         triggers = trigger_engine.evaluate(symbol, df, score, ticker_triggers, matrix=matrix)
@@ -367,31 +345,11 @@ def main():
     except Exception as e:
         logger.warning(f"Failed to archive to Supabase: {e}")
 
-    # Build top 20 by upside reversal score (daily leaderboard)
-    top_20_by_score = sorted(
-        [m for m in all_matrix_data if (m.get('upside_rev_score') or 0) > 0],
-        key=lambda x: x.get('upside_rev_score', 0) or 0,
-        reverse=True
-    )[:20]
-
-    top_5_preview = [f"{m.get('symbol')}:{m.get('upside_rev_score', 0):.1f}" for m in top_20_by_score[:5]]
-    logger.info(f"Top 20 by reversal score: {top_5_preview}...")
-
-    # Notify: always send if we have top 20 data, even without HIGH conviction triggers
-    has_high_conviction = bool(results)
-    has_top_20 = bool(top_20_by_score)
-
-    if has_high_conviction or has_top_20:
-        body, buy_count, sell_count = notifier.format_email_body(
-            results, all_matrix_data, top_20=top_20_by_score
-        )
-
-        # Build subject line
-        if has_high_conviction:
-            subject = f"[REVERSALS] {buy_count} BUY, {sell_count} SELL — {datetime.now().strftime('%b %d')}"
-        else:
-            subject = f"[REVERSALS] Top 20 Scores — {datetime.now().strftime('%b %d')}"
-
+    # Notify (only on NEW triggers to prevent alert fatigue)
+    if results:
+        body, buy_count, sell_count = notifier.format_email_body(results, all_matrix_data)
+        subject = f"[REVERSALS] {buy_count} BUY, {sell_count} SELL — {datetime.now().strftime('%b %d')}"
+        
         if args.dry_run:
             logger.info("Dry Run - Email Content:")
             logger.info(body)
@@ -409,9 +367,9 @@ def main():
         state_manager.set_last_digest(state, digest)
     else:
         if args.dry_run:
-            logger.info("Dry Run - No data to email (no triggers and no scored tickers).")
+            logger.info("Dry Run - No NEW triggers found today. (No email would be sent.)")
         else:
-            logger.info("No data to email. Skipping.")
+            logger.info("No NEW triggers found today. Skipping email.")
 
     state_manager.save(state)
 

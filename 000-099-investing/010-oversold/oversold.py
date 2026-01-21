@@ -343,10 +343,6 @@ class OversoldScanner:
                 'volume': int(curr.get('volume')) if curr.get('volume') is not None else None,
                 'obv': int(curr.get('OBV')) if curr.get('OBV') is not None else None,
                 'oversold_score': score_result.final_score,
-                # NEW: Component breakdown and 52-week context
-                'oversold_components': score_result.components,
-                'price_52w_high': score_result.raw_values.get('high_52w'),
-                'pct_from_52w_high': score_result.raw_values.get('pct_from_high'),
             })
         
         # Sort by score (descending — higher = more oversold)
@@ -493,36 +489,10 @@ def main() -> int:
     # Run scan
     scanner = OversoldScanner(api_key, logger)
     results = scanner.scan(tickers)
-
+    
     # Limit to top N
     top_results = results[:args.top]
-
-    # Save state for digest consumption
-    state_dir = base_dir / "data"
-    state_dir.mkdir(parents=True, exist_ok=True)
-    state_file = state_dir / "last_run.json"
-    try:
-        import json
-        from datetime import datetime
-        state_data = {
-            "date": datetime.now().strftime("%Y-%m-%d"),
-            "results": [
-                {
-                    "ticker": r.ticker,
-                    "score": r.score,
-                    "rsi": r.rsi,
-                    "price": r.price,
-                    "williams_r": r.williams_r,
-                }
-                for r in top_results
-            ],
-        }
-        with open(state_file, "w") as f:
-            json.dump(state_data, f, indent=2)
-        logger.info(f"Saved state to {state_file}")
-    except Exception as e:
-        logger.warning(f"Failed to save state: {e}")
-
+    
     # Output
     output_format = OutputFormat(args.output)
     

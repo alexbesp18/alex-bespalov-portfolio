@@ -175,8 +175,6 @@ def main():
             'volume': int(curr.get('volume')) if curr.get('volume') is not None else None,
             'volume_ratio': float(curr.get('volume_ratio')) if curr.get('volume_ratio') is not None else None,
             'bullish_score': flags.get('score'),
-            # NEW: Component breakdown for historical analysis
-            'bullish_components': flags.get('score_components'),
         })
 
         # Determine signal mode:
