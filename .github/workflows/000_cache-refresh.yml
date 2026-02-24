@@ -291,6 +291,16 @@ jobs:
           cd 000-099-investing/010-oversold
           python oversold.py --all --top 20 --email
 
+      - name: Run true value report
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+        run: |
+          cd 000-099-investing/010-oversold
+          python true_value.py --email
+
   # Notify on failure
   notify-failure:
     runs-on: ubuntu-latest
