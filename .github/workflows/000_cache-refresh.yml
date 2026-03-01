@@ -179,6 +179,8 @@ jobs:
       - name: Run alerts scanner
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
+          TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
@@ -227,6 +229,8 @@ jobs:
       - name: Run reversals scanner
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
+          TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
@@ -284,6 +288,8 @@ jobs:
       - name: Run oversold scanner
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
+          TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
@@ -296,6 +302,8 @@ jobs:
       - name: Run true value report
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
+          TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}

@@ -154,7 +154,13 @@ def main():
         logger.error("TWELVE_DATA_API_KEY not set")
         return
 
-    fetcher = TwelveDataFetcher(td_api_key)
+    # Build API key pool for rotation on credit exhaustion
+    td_api_keys = [td_api_key]
+    for env_var in ["TWELVE_DATA_API_KEY_2", "TWELVE_DATA_API_KEY_3"]:
+        extra = os.environ.get(env_var, "").strip()
+        if extra:
+            td_api_keys.append(extra)
+    fetcher = TwelveDataFetcher(td_api_key, api_keys=td_api_keys)
     calculator = TechnicalCalculator()
     reversal_calc = ReversalCalculator()
     trigger_engine = TriggerEngine(default_triggers)

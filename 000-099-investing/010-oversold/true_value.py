@@ -109,7 +109,13 @@ def main() -> int:
         logger.error("TWELVE_DATA_API_KEY not set. Check your .env file.")
         return 1
 
-    fetcher = TwelveDataFetcher(api_key)
+    # Build API key pool for rotation on credit exhaustion
+    api_keys = [api_key]
+    for env_var in ["TWELVE_DATA_API_KEY_2", "TWELVE_DATA_API_KEY_3"]:
+        extra = os.environ.get(env_var, "").strip()
+        if extra:
+            api_keys.append(extra)
+    fetcher = TwelveDataFetcher(api_key, api_keys=api_keys)
     logger.info("Fetching time series data...")
     raw_data = fetcher.fetch_batch_time_series(tickers)
 

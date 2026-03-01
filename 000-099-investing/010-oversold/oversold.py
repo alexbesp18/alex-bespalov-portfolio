@@ -257,14 +257,16 @@ class OversoldScanner:
         self,
         api_key: str,
         logger: Optional[logging.Logger] = None,
+        api_keys=None,
     ) -> None:
         """Initialize the scanner with API credentials.
-        
+
         Args:
             api_key: TwelveData API key.
             logger: Optional logger instance.
+            api_keys: Optional list of API keys for rotation.
         """
-        self.fetcher = TwelveDataFetcher(api_key)
+        self.fetcher = TwelveDataFetcher(api_key, api_keys=api_keys)
         self.calculator = TechnicalCalculator()
         self.scorer = OversoldScorer()
         self.logger = logger or logging.getLogger(__name__)
@@ -486,8 +488,15 @@ def main() -> int:
         logger.error("TWELVE_DATA_API_KEY not set. Check your .env file.")
         return 1
     
+    # Build API key pool for rotation on credit exhaustion
+    api_keys = [api_key]
+    for env_var in ["TWELVE_DATA_API_KEY_2", "TWELVE_DATA_API_KEY_3"]:
+        extra = os.environ.get(env_var, "").strip()
+        if extra:
+            api_keys.append(extra)
+
     # Run scan
-    scanner = OversoldScanner(api_key, logger)
+    scanner = OversoldScanner(api_key, logger, api_keys=api_keys)
     results = scanner.scan(tickers)
     
     # Limit to top N

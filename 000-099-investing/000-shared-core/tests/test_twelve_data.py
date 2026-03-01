@@ -86,7 +86,7 @@ class TestClientInitialization:
     def test_client_creates_with_defaults(self):
         client = TwelveDataClient(api_key="test_key")
         assert client.api_key == "test_key"
-        assert client.output_size == 365
+        assert client.output_size == 1000
         assert client.cache is None
     
     def test_client_creates_with_cache(self, cache):

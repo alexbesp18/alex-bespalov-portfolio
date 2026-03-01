@@ -25,13 +25,14 @@ class TwelveDataFetcher:
     Wrapper around shared_core.CacheAwareFetcher for backward compatibility.
     """
     
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, api_keys=None):
         self.api_key = api_key
         self._fetcher = CacheAwareFetcher(
             api_key=api_key,
             cache_dir=SHARED_CACHE_DIR,
             rate_limit_delay=12.0,  # ~5 requests/minute (conservative)
             output_size=300,
+            api_keys=api_keys,
         )
 
     def fetch_time_series(self, symbol: str, interval: str = "1day", outputsize: int = 300) -> Optional[Dict[str, Any]]:
