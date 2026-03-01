@@ -105,12 +105,14 @@ jobs:
           python run_all.py --technicals-only --verbose
 
       - name: List cached files
+        if: always()
         run: |
           echo "=== Cached files ==="
           ls -la ${{ env.CACHE_PATH }}/twelve_data/ | head -20
           echo "Total files: $(ls ${{ env.CACHE_PATH }}/twelve_data/ | wc -l)"
 
       - name: Save ticker cache
+        if: always()
         uses: actions/cache/save@v4
         with:
           path: ${{ env.CACHE_PATH }}
