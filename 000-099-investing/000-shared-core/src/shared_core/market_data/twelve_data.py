@@ -15,6 +15,14 @@ from ..cache.data_cache import DataCache
 from .technical import TechnicalCalculator
 
 
+class ApiCreditExhausted(Exception):
+    """Raised when a Twelve Data API key has exhausted its daily credits."""
+
+    def __init__(self, key_index: int = 0):
+        super().__init__(f"Twelve Data API credits exhausted (key {key_index + 1})")
+        self.key_index = key_index
+
+
 class TwelveDataClient:
     """
     Twelve Data API client with:
@@ -24,24 +32,47 @@ class TwelveDataClient:
 
     def __init__(self, api_key: str, cache: Optional[DataCache] = None,
                  output_size: int = 1000, rate_limit_sleep: float = 0.5,
-                 verbose: bool = False):
+                 verbose: bool = False,
+                 api_keys: Optional[List[str]] = None):
         """
         Initialize Twelve Data client.
 
         Args:
-            api_key: Twelve Data API key
+            api_key: Twelve Data API key (primary)
             cache: Optional DataCache instance for storing/retrieving data
             output_size: Number of daily bars to fetch (default 1000, ~4 years)
             rate_limit_sleep: Seconds to wait between API calls
             verbose: Print detailed progress
+            api_keys: Optional list of API keys for rotation on credit exhaustion
         """
-        self.api_key = api_key
+        # Build deduplicated key pool
+        if api_keys:
+            seen = set()
+            self._key_pool: List[str] = []
+            for k in api_keys:
+                if k and k not in seen:
+                    seen.add(k)
+                    self._key_pool.append(k)
+        else:
+            self._key_pool = [api_key]
+        self._key_index = 0
+        self.api_key = self._key_pool[0]
         self.cache = cache
         self.base_url = "https://api.twelvedata.com"
         self.output_size = output_size
         self.rate_limit_sleep = rate_limit_sleep
         self.verbose = verbose
         self.calc = TechnicalCalculator()
+
+    def _rotate_key(self) -> bool:
+        """Advance to the next API key. Returns False if all keys exhausted."""
+        self._key_index += 1
+        if self._key_index >= len(self._key_pool):
+            return False
+        self.api_key = self._key_pool[self._key_index]
+        if self.verbose:
+            print(f"   🔄 Rotating to API key {self._key_index + 1}/{len(self._key_pool)}")
+        return True
 
     def get_tickers_needing_refresh(self, tickers: List[str]) -> List[str]:
         """
@@ -106,8 +137,14 @@ class TwelveDataClient:
             # Check for errors
             if 'code' in data and data['code'] != 200:
                 error_msg = data.get('message', 'Unknown API error')
+                error_code = data.get('code', 0)
+                # Credit exhaustion: raise immediately so caller can rotate keys
+                if error_code == 429 or 'credit' in error_msg.lower():
+                    if self.verbose:
+                        print(f"    ❌ API credits exhausted (key {self._key_index + 1})")
+                    raise ApiCreditExhausted(self._key_index)
                 if self.verbose:
-                    print(f"    ❌ API error: {error_msg}")
+                    print(f"    ❌ API error [{error_code}]: {error_msg}")
                 return None
 
             if 'values' not in data or not data['values']:
@@ -245,8 +282,15 @@ class TwelveDataClient:
                     print(f"    ✅ Using cached data for {ticker}")
                 return self._calculate_indicators(ticker, cached_df)
 
-        # Fetch from API
-        df = self.fetch_raw(ticker)
+        # Fetch from API, rotating keys on credit exhaustion
+        df = None
+        while True:
+            try:
+                df = self.fetch_raw(ticker)
+                break
+            except ApiCreditExhausted:
+                if not self._rotate_key():
+                    raise  # all keys exhausted, let caller decide
 
         if df is None:
             return {'Ticker': ticker, 'Status': 'ERROR: Failed to fetch data'}
@@ -284,8 +328,14 @@ class TwelveDataClient:
                     print(f"    ✅ Using cached data for {ticker}")
                 return cached_df
 
-        # Fetch from API
-        df = self.fetch_raw(ticker)
+        # Fetch from API, rotating keys on credit exhaustion
+        while True:
+            try:
+                df = self.fetch_raw(ticker)
+                break
+            except ApiCreditExhausted:
+                if not self._rotate_key():
+                    raise
 
         if df is not None and self.cache is not None:
             self.cache.save_twelve_data(ticker, df)

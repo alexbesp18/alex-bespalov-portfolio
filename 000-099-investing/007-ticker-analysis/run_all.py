@@ -19,6 +19,7 @@ Usage:
 """
 
 import argparse
+import os
 import sys
 import time
 import datetime as dt
@@ -118,6 +119,15 @@ def main():
     print(f"DATA LOADER (vFinal) - {mode}")
     print("=" * 60)
     
+    # Build API key pool (primary + backup keys from env vars)
+    api_key_pool = [config.twelve_data.api_key]
+    for env_var in ["TWELVE_DATA_API_KEY_2", "TWELVE_DATA_API_KEY_3"]:
+        extra = os.environ.get(env_var, "").strip()
+        if extra:
+            api_key_pool.append(extra)
+    if len(api_key_pool) > 1:
+        print(f"   🔑 {len(api_key_pool)} API keys available for rotation")
+
     # Initialize components
     data_dir = script_dir / 'data'
     cache = DataCache(data_dir, verbose=config.verbose)
@@ -139,6 +149,7 @@ def main():
         output_size=config.twelve_data.output_size,
         rate_limit_sleep=config.twelve_data.rate_limit_sleep,
         verbose=config.verbose,
+        api_keys=api_key_pool,
     ) if run_technicals else None
     
     transcript_client = TranscriptClient(
@@ -255,15 +266,24 @@ def main():
     multi_horizon_results = []
 
     if run_technicals and tickers_for_tech:
+        from shared_core.market_data.twelve_data import ApiCreditExhausted
+
         print(f"\n📊 FETCHING TECHNICAL DATA")
         print("-" * 40)
-        
+
         for i, ticker in enumerate(tickers_for_tech):
             is_cached = cache.get_twelve_data(ticker) is not None
             label = "📁" if is_cached and not config.force_refresh else "🌐"
             print(f"[{i+1}/{len(tickers_for_tech)}] {label} {ticker}")
-            
-            result = twelve_data.fetch_and_calculate(ticker, force_refresh=config.force_refresh)
+
+            try:
+                result = twelve_data.fetch_and_calculate(ticker, force_refresh=config.force_refresh)
+            except ApiCreditExhausted:
+                ok_count = sum(1 for r in tech_results if r.get('Status') == 'OK')
+                remaining = len(tickers_for_tech) - i
+                print(f"\n❌ ALL API KEYS EXHAUSTED after {ok_count} successful fetches.")
+                print(f"   {remaining} tickers skipped. Add more API keys or reduce watchlist.")
+                sys.exit(2)
             
             if result and result.get('Status') == 'OK':
                 if grok:

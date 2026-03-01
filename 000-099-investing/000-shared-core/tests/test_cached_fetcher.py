@@ -20,6 +20,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
 from shared_core.market_data.cached_fetcher import CacheAwareFetcher
+from shared_core.market_data.twelve_data import ApiCreditExhausted
 
 
 @pytest.fixture
@@ -336,12 +337,12 @@ class TestBatchFetching:
     def test_batch_handles_mixed_failures(self, fetcher, temp_cache_dir, sample_cache_data):
         """Batch fetch should handle mix of successes and failures."""
         today = datetime.date.today().isoformat()
-        
+
         # Cache AAPL
         cache_file = temp_cache_dir / f"AAPL_{today}.json"
         with open(cache_file, 'w') as f:
             json.dump(sample_cache_data, f)
-        
+
         with patch('shared_core.market_data.cached_fetcher.requests.get') as mock_get:
             mock_response = MagicMock()
             mock_response.json.return_value = {
@@ -350,9 +351,113 @@ class TestBatchFetching:
             }
             mock_response.raise_for_status = MagicMock()
             mock_get.return_value = mock_response
-            
+
             results = fetcher.fetch_batch(["AAPL", "INVALID"])
-            
+
             assert results["AAPL"] is not None  # From cache
             assert results["INVALID"] is None  # API error
+
+
+class TestKeyRotation:
+    """Tests for multi-key API rotation in CacheAwareFetcher."""
+
+    def test_single_key_init_unchanged(self, temp_cache_dir):
+        f = CacheAwareFetcher(api_key="key1", cache_dir=temp_cache_dir)
+        assert f.api_key == "key1"
+        assert f._key_pool == ["key1"]
+
+    def test_multi_key_init(self, temp_cache_dir):
+        f = CacheAwareFetcher(api_key="key1", api_keys=["key1", "key2"], cache_dir=temp_cache_dir)
+        assert f._key_pool == ["key1", "key2"]
+
+    def test_rotate_key(self, temp_cache_dir):
+        f = CacheAwareFetcher(api_key="key1", api_keys=["key1", "key2"], cache_dir=temp_cache_dir)
+        assert f._rotate_key() is True
+        assert f.api_key == "key2"
+        assert f._rotate_key() is False
+
+    def test_fetch_rotates_on_credit_exhaustion(self, temp_cache_dir):
+        """Should rotate to key2 when key1 credits are exhausted."""
+        f = CacheAwareFetcher(
+            api_key="key1", api_keys=["key1", "key2"], cache_dir=temp_cache_dir
+        )
+
+        exhausted_resp = MagicMock()
+        exhausted_resp.raise_for_status = MagicMock()
+        exhausted_resp.json.return_value = {
+            "status": "error", "message": "You have used all your credits"
+        }
+
+        good_resp = MagicMock()
+        good_resp.raise_for_status = MagicMock()
+        good_resp.json.return_value = {
+            "values": [{"datetime": "2025-12-01", "close": "100.0"}],
+            "status": "ok"
+        }
+
+        with patch('shared_core.market_data.cached_fetcher.requests.get') as mock_get:
+            mock_get.side_effect = [exhausted_resp, good_resp]
+            result = f.fetch("AAPL")
+
+        assert result is not None
+        assert f._key_index == 1
+
+    def test_fetch_returns_none_when_all_keys_exhausted(self, temp_cache_dir):
+        """Should return None when all keys are exhausted."""
+        f = CacheAwareFetcher(
+            api_key="key1", api_keys=["key1"], cache_dir=temp_cache_dir
+        )
+
+        exhausted_resp = MagicMock()
+        exhausted_resp.raise_for_status = MagicMock()
+        exhausted_resp.json.return_value = {
+            "status": "error", "message": "You have used all your credits"
+        }
+
+        with patch('shared_core.market_data.cached_fetcher.requests.get') as mock_get:
+            mock_get.return_value = exhausted_resp
+            result = f.fetch("AAPL")
+
+        assert result is None
+
+    def test_credit_exhaustion_does_not_trigger_tenacity_retry(self, temp_cache_dir):
+        """Credit exhaustion should NOT burn 3 tenacity retry attempts."""
+        f = CacheAwareFetcher(
+            api_key="key1", api_keys=["key1"], cache_dir=temp_cache_dir
+        )
+
+        exhausted_resp = MagicMock()
+        exhausted_resp.raise_for_status = MagicMock()
+        exhausted_resp.json.return_value = {
+            "status": "error", "message": "credits exhausted"
+        }
+
+        with patch('shared_core.market_data.cached_fetcher.requests.get') as mock_get:
+            mock_get.return_value = exhausted_resp
+            f.fetch("AAPL")
+            # Must only call API once, not 3 times from tenacity
+            assert mock_get.call_count == 1
+
+    def test_batch_stops_when_all_keys_exhausted(self, temp_cache_dir):
+        """Batch fetch should stop and set remaining tickers to None."""
+        f = CacheAwareFetcher(
+            api_key="key1", api_keys=["key1"], cache_dir=temp_cache_dir
+        )
+
+        exhausted_resp = MagicMock()
+        exhausted_resp.raise_for_status = MagicMock()
+        exhausted_resp.json.return_value = {
+            "status": "error", "message": "credits exhausted"
+        }
+
+        with patch('shared_core.market_data.cached_fetcher.requests.get') as mock_get:
+            mock_get.return_value = exhausted_resp
+            results = f.fetch_batch(["AAPL", "NVDA", "TSLA"])
+
+        # All should be None since the only key was exhausted
+        assert results["AAPL"] is None
+        assert results["NVDA"] is None
+        assert results["TSLA"] is None
+        # Should only call API once (not 3 * 3 = 9 times)
+        assert mock_get.call_count == 1
 

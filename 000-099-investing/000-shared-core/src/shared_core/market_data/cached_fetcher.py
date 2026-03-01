@@ -21,7 +21,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 import requests
-from tenacity import retry, stop_after_attempt, wait_exponential
+from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_exponential
 
 from shared_core.config.constants import CACHE_CONFIG, RATE_LIMITS
 
@@ -42,17 +42,30 @@ class CacheAwareFetcher:
         cache_dir: Optional[Path] = None,
         rate_limit_delay: float = RATE_LIMITS.TWELVE_DATA_DEFAULT_DELAY,
         output_size: int = CACHE_CONFIG.DEFAULT_OUTPUT_SIZE,
+        api_keys: Optional[List[str]] = None,
     ):
         """
         Initialize the cache-aware fetcher.
 
         Args:
-            api_key: Twelve Data API key
+            api_key: Twelve Data API key (primary)
             cache_dir: Path to cache directory (default: auto-detect from project structure)
             rate_limit_delay: Delay between API calls in seconds
             output_size: Number of data points to fetch from API
+            api_keys: Optional list of API keys for rotation on credit exhaustion
         """
-        self.api_key = api_key
+        # Build deduplicated key pool
+        if api_keys:
+            seen = set()
+            self._key_pool: List[str] = []
+            for k in api_keys:
+                if k and k not in seen:
+                    seen.add(k)
+                    self._key_pool.append(k)
+        else:
+            self._key_pool = [api_key]
+        self._key_index = 0
+        self.api_key = self._key_pool[0]
         self.base_url = "https://api.twelvedata.com"
         self.rate_limit_delay = rate_limit_delay
         self.output_size = output_size
@@ -159,49 +172,60 @@ class CacheAwareFetcher:
 
         return None
 
-    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
-    def _fetch_from_api(self, symbol: str) -> Optional[Dict[str, Any]]:
-        """
-        Fetch data from Twelve Data API.
+    def _rotate_key(self) -> bool:
+        """Advance to the next API key. Returns False if all keys exhausted."""
+        self._key_index += 1
+        if self._key_index >= len(self._key_pool):
+            return False
+        self.api_key = self._key_pool[self._key_index]
+        logger.info(f"🔄 Rotating to API key {self._key_index + 1}/{len(self._key_pool)}")
+        return True
 
-        Args:
-            symbol: Ticker symbol
-
-        Returns:
-            API response dict with 'values' key, or None on error
+    def _fetch_from_api_once(self, symbol: str) -> Optional[Dict[str, Any]]:
         """
+        Single API fetch attempt. Raises ApiCreditExhausted on credit errors.
+        Raises RequestException on network errors (for tenacity to retry).
+        """
+        from shared_core.market_data.twelve_data import ApiCreditExhausted
+
         url = f"{self.base_url}/time_series"
         params = {
             "symbol": symbol,
             "interval": "1day",
             "outputsize": self.output_size,
-            "apikey": self.api_key
+            "apikey": self.api_key,
         }
 
-        try:
-            response = requests.get(url, params=params, timeout=30)
-            response.raise_for_status()
-            data = response.json()
+        response = requests.get(url, params=params, timeout=30)
+        response.raise_for_status()
+        data = response.json()
 
-            if "status" in data and data["status"] == "error":
-                logger.error(f"API error for {symbol}: {data.get('message', 'Unknown')}")
-                return None
+        if "status" in data and data["status"] == "error":
+            msg = data.get("message", "Unknown")
+            if "credit" in msg.lower():
+                raise ApiCreditExhausted(self._key_index)
+            logger.error(f"API error for {symbol}: {msg}")
+            return None
 
-            if "values" not in data:
-                logger.warning(f"No values in API response for {symbol}")
-                return None
+        if "values" not in data:
+            logger.warning(f"No values in API response for {symbol}")
+            return None
 
-            # Add source metadata
-            if "meta" not in data:
-                data["meta"] = {}
-            data["meta"]["source"] = "api"
+        if "meta" not in data:
+            data["meta"] = {}
+        data["meta"]["source"] = "api"
 
-            logger.info(f"🌐 Fetched from API: {symbol} ({len(data['values'])} rows)")
-            return data
+        logger.info(f"🌐 Fetched from API: {symbol} ({len(data['values'])} rows)")
+        return data
 
-        except requests.exceptions.RequestException as e:
-            logger.error(f"Network error fetching {symbol}: {e}")
-            raise
+    @retry(
+        stop=stop_after_attempt(3),
+        wait=wait_exponential(multiplier=1, min=4, max=10),
+        retry=retry_if_exception_type(requests.exceptions.RequestException),
+    )
+    def _fetch_with_retry(self, symbol: str) -> Optional[Dict[str, Any]]:
+        """Retries on network errors only. ApiCreditExhausted passes through."""
+        return self._fetch_from_api_once(symbol)
 
     def fetch(self, symbol: str) -> Optional[Dict[str, Any]]:
         """
@@ -213,13 +237,21 @@ class CacheAwareFetcher:
         Returns:
             Dict with 'values' key containing OHLCV data, or None on error
         """
+        from shared_core.market_data.twelve_data import ApiCreditExhausted
+
         # Check cache first
         cached = self.get_cached_data(symbol)
         if cached:
             return cached
 
-        # Fall back to API
-        return self._fetch_from_api(symbol)
+        # Fall back to API with key rotation
+        while True:
+            try:
+                return self._fetch_with_retry(symbol)
+            except ApiCreditExhausted:
+                if not self._rotate_key():
+                    logger.error(f"All API keys exhausted fetching {symbol}")
+                    return None
 
     def fetch_batch(self, symbols: List[str]) -> Dict[str, Optional[Dict[str, Any]]]:
         """
@@ -233,6 +265,8 @@ class CacheAwareFetcher:
         Returns:
             Dict mapping symbol -> data dict (or None if failed)
         """
+        from shared_core.market_data.twelve_data import ApiCreditExhausted
+
         results = {}
         total = len(symbols)
         api_calls = 0
@@ -248,15 +282,36 @@ class CacheAwareFetcher:
                 cache_hits += 1
                 continue
 
-            # API call needed
+            # API call needed with key rotation
             try:
-                results[symbol] = self._fetch_from_api(symbol)
+                results[symbol] = self._fetch_with_retry(symbol)
                 api_calls += 1
 
                 # Rate limit for API calls (skip for last ticker)
                 if i < total - 1:
                     time.sleep(self.rate_limit_delay)
 
+            except ApiCreditExhausted:
+                if self._rotate_key():
+                    # Retry this symbol with the new key
+                    try:
+                        results[symbol] = self._fetch_with_retry(symbol)
+                        api_calls += 1
+                        if i < total - 1:
+                            time.sleep(self.rate_limit_delay)
+                    except ApiCreditExhausted:
+                        if not self._rotate_key():
+                            logger.error("All API keys exhausted in batch fetch")
+                            results[symbol] = None
+                            for remaining in symbols[i + 1:]:
+                                results[remaining] = None
+                            break
+                else:
+                    logger.error("All API keys exhausted in batch fetch")
+                    results[symbol] = None
+                    for remaining in symbols[i + 1:]:
+                        results[remaining] = None
+                    break
             except requests.exceptions.RequestException as e:
                 logger.error(f"Network error fetching {symbol}: {e}")
                 results[symbol] = None

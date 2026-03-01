@@ -96,11 +96,13 @@ jobs:
       - name: Run cache refresh (technicals only)
         env:
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
+          TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: |
           cd 000-099-investing/007-ticker-analysis
-          python run_all.py --technicals-only --verbose 2>&1 || echo "Cache refresh completed with warnings"
+          python run_all.py --technicals-only --verbose
 
       - name: List cached files
         run: |

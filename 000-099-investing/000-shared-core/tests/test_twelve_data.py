@@ -14,7 +14,7 @@ import shutil
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
-from shared_core.market_data.twelve_data import TwelveDataClient
+from shared_core.market_data.twelve_data import TwelveDataClient, ApiCreditExhausted
 from shared_core.cache.data_cache import DataCache
 
 
@@ -267,8 +267,102 @@ class TestIndicatorCalculation:
     @patch('shared_core.market_data.twelve_data.requests.get')
     def test_obv_trend_is_valid(self, mock_get, client, mock_api_response):
         mock_get.return_value.json.return_value = mock_api_response
-        
+
         result = client.fetch_and_calculate("AAPL")
-        
+
         assert result['OBV_Trend'] in ['UP', 'DOWN', 'SIDEWAYS']
+
+
+class TestKeyRotation:
+    """Tests for multi-key API rotation."""
+
+    def test_single_key_backward_compatible(self):
+        client = TwelveDataClient(api_key="key1")
+        assert client.api_key == "key1"
+        assert client._key_pool == ["key1"]
+        assert client._key_index == 0
+
+    def test_api_keys_pool_built_correctly(self):
+        client = TwelveDataClient(api_key="key1", api_keys=["key1", "key2", "key3"])
+        assert client._key_pool == ["key1", "key2", "key3"]
+
+    def test_api_keys_deduplicates(self):
+        client = TwelveDataClient(api_key="key1", api_keys=["key1", "key1", "key2"])
+        assert client._key_pool == ["key1", "key2"]
+
+    def test_empty_keys_filtered_out(self):
+        client = TwelveDataClient(api_key="key1", api_keys=["key1", "", "key2", ""])
+        assert client._key_pool == ["key1", "key2"]
+
+    def test_rotate_key_advances_index(self):
+        client = TwelveDataClient(api_key="key1", api_keys=["key1", "key2"])
+        assert client._rotate_key() is True
+        assert client._key_index == 1
+        assert client.api_key == "key2"
+
+    def test_rotate_key_returns_false_when_exhausted(self):
+        client = TwelveDataClient(api_key="key1", api_keys=["key1"])
+        assert client._rotate_key() is False
+
+    @patch('shared_core.market_data.twelve_data.requests.get')
+    def test_fetch_raw_raises_on_credit_exhaustion(self, mock_get):
+        mock_get.return_value.json.return_value = {
+            'code': 429,
+            'message': 'You have run out of API credits for the day.'
+        }
+        client = TwelveDataClient(api_key="key1")
+        with pytest.raises(ApiCreditExhausted):
+            client.fetch_raw("AAPL")
+
+    @patch('shared_core.market_data.twelve_data.requests.get')
+    def test_fetch_raw_raises_on_credit_message(self, mock_get):
+        """Credit errors detected by message text even if code is different."""
+        mock_get.return_value.json.return_value = {
+            'code': 400,
+            'message': 'You have used all your credits'
+        }
+        client = TwelveDataClient(api_key="key1")
+        with pytest.raises(ApiCreditExhausted):
+            client.fetch_raw("AAPL")
+
+    @patch('shared_core.market_data.twelve_data.requests.get')
+    def test_non_credit_api_error_returns_none(self, mock_get):
+        """Non-credit API errors (e.g. bad symbol) still return None."""
+        mock_get.return_value.json.return_value = {
+            'code': 404,
+            'message': 'Symbol not found'
+        }
+        client = TwelveDataClient(api_key="key1")
+        result = client.fetch_raw("BADTICKER")
+        assert result is None
+
+    @patch('shared_core.market_data.twelve_data.requests.get')
+    def test_fetch_and_calculate_rotates_on_exhaustion(self, mock_get, cache, mock_api_response):
+        """Should rotate to key2 when key1 is exhausted and succeed."""
+        exhausted = {'code': 429, 'message': 'credits exhausted'}
+        mock_get.return_value.json.side_effect = [exhausted, mock_api_response]
+
+        client = TwelveDataClient(
+            api_key="key1", api_keys=["key1", "key2"],
+            cache=cache, verbose=False,
+        )
+        result = client.fetch_and_calculate("AAPL")
+
+        assert result is not None
+        assert result.get('Status') == 'OK'
+        assert client._key_index == 1
+        assert mock_get.call_count == 2
+
+    @patch('shared_core.market_data.twelve_data.requests.get')
+    def test_fetch_and_calculate_raises_when_all_keys_exhausted(self, mock_get, cache):
+        """Should raise ApiCreditExhausted when all keys are spent."""
+        mock_get.return_value.json.return_value = {
+            'code': 429, 'message': 'credits exhausted'
+        }
+        client = TwelveDataClient(
+            api_key="key1", api_keys=["key1", "key2"],
+            cache=cache,
+        )
+        with pytest.raises(ApiCreditExhausted):
+            client.fetch_and_calculate("AAPL")
 

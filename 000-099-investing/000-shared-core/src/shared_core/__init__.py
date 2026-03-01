@@ -24,6 +24,7 @@ __all__ = [
     'TwelveDataClient',
     'TranscriptClient',
     'CacheAwareFetcher',
+    'ApiCreditExhausted',
     # Cache
     'DataCache',
     # Integrations
@@ -107,6 +108,9 @@ def __getattr__(name):
     elif name == 'CacheAwareFetcher':
         from .market_data.cached_fetcher import CacheAwareFetcher
         return CacheAwareFetcher
+    elif name == 'ApiCreditExhausted':
+        from .market_data.twelve_data import ApiCreditExhausted
+        return ApiCreditExhausted
     # Cache
     elif name == 'DataCache':
         from .cache.data_cache import DataCache
