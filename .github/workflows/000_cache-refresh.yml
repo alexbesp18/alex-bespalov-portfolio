@@ -100,6 +100,7 @@ jobs:
           TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          SHEETS_FALLBACK_DIR: /tmp/sheets-fallback
         run: |
           cd 000-099-investing/007-ticker-analysis
           python run_all.py --technicals-only --verbose
@@ -111,6 +112,15 @@ jobs:
           ls -la ${{ env.CACHE_PATH }}/twelve_data/ | head -20
           echo "Total files: $(ls ${{ env.CACHE_PATH }}/twelve_data/ | wc -l)"
 
+      - name: Upload Sheets fallback CSVs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sheets-fallback-${{ steps.date.outputs.date }}
+          path: /tmp/sheets-fallback/
+          if-no-files-found: ignore
+          retention-days: 7
+
       - name: Save ticker cache
         if: always()
         uses: actions/cache/save@v4
@@ -121,6 +131,7 @@ jobs:
   # Run alerts after cache refresh
   run-alerts:
     needs: refresh-cache
+    if: always()
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -194,6 +205,7 @@ jobs:
 
   run-reversals:
     needs: refresh-cache
+    if: always()
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -244,6 +256,7 @@ jobs:
 
   run-oversold:
     needs: refresh-cache
+    if: always()
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository

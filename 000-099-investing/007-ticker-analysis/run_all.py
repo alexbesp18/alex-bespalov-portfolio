@@ -264,6 +264,7 @@ def main():
 
     tech_results = []
     multi_horizon_results = []
+    api_exhausted = False
 
     if run_technicals and tickers_for_tech:
         from shared_core.market_data.twelve_data import ApiCreditExhausted
@@ -281,9 +282,10 @@ def main():
             except ApiCreditExhausted:
                 ok_count = sum(1 for r in tech_results if r.get('Status') == 'OK')
                 remaining = len(tickers_for_tech) - i
-                print(f"\n❌ ALL API KEYS EXHAUSTED after {ok_count} successful fetches.")
-                print(f"   {remaining} tickers skipped. Add more API keys or reduce watchlist.")
-                sys.exit(2)
+                print(f"\n⚠️  ALL API KEYS EXHAUSTED after {ok_count} successful fetches.")
+                print(f"   {remaining} tickers skipped. Partial results will be written.")
+                api_exhausted = True
+                break
             
             if result and result.get('Status') == 'OK':
                 if grok:
@@ -415,6 +417,9 @@ def main():
             print(f"\n✅ Data written to: {', '.join(tabs)}")
         elif tech_results or multi_horizon_results or transcript_results:
             print("\n⚠️  Sheet writes failed — check fallback CSVs")
+
+    if api_exhausted:
+        sys.exit(2)
 
 
 if __name__ == "__main__":
