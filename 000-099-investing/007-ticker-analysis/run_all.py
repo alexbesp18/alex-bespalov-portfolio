@@ -356,13 +356,17 @@ def main():
         print(f"\n💾 WRITING TO GOOGLE SHEETS")
         print("-" * 40)
         
+        tech_ok = True
+        mh_ok = True
+        trans_ok = True
+
         if tech_results:
             if config.clean or not existing_tech_data:
-                sheet_manager.write_tech_data(
+                tech_ok = sheet_manager.write_tech_data(
                     config.google_sheets.tech_data_tab, tech_results, append=False
                 )
             else:
-                sheet_manager.write_tech_data_with_replacements(
+                tech_ok = sheet_manager.write_tech_data_with_replacements(
                     config.google_sheets.tech_data_tab, tech_results, existing_tech_data
                 )
 
@@ -370,15 +374,14 @@ def main():
         if multi_horizon_results:
             print(f"\n📊 WRITING MULTI-HORIZON DATA")
             print("-" * 40)
-            sheet_manager.write_multi_horizon_data(
+            mh_ok = sheet_manager.write_multi_horizon_data(
                 'tech_analysis_clean',
                 multi_horizon_results
             )
-            print(f"   ✅ Wrote {len(multi_horizon_results)} rows to 'tech_analysis_clean'")
 
         if transcript_results:
             should_append = len(existing_transcript_tickers) > 0 and not config.clean
-            sheet_manager.write_transcripts(
+            trans_ok = sheet_manager.write_transcripts(
                 config.google_sheets.transcripts_tab, transcript_results, append=should_append
             )
 
@@ -388,28 +391,30 @@ def main():
     print("=" * 60)
     
     if tech_results:
-        tech_ok = sum(1 for r in tech_results if r.get('Status') == 'OK')
-        print(f"Technical data: {tech_ok}/{len(tickers_for_tech)} successful")
+        tech_ok_count = sum(1 for r in tech_results if r.get('Status') == 'OK')
+        print(f"Technical data: {tech_ok_count}/{len(tickers_for_tech)} successful")
 
     if multi_horizon_results:
         print(f"Multi-horizon:  {len(multi_horizon_results)} tickers analyzed")
 
     if transcript_results:
-        trans_ok = sum(1 for r in transcript_results if r.get('Status') == 'OK')
-        print(f"Transcripts:    {trans_ok}/{len(tickers_for_trans)} successful")
+        trans_ok_count = sum(1 for r in transcript_results if r.get('Status') == 'OK')
+        print(f"Transcripts:    {trans_ok_count}/{len(tickers_for_trans)} successful")
 
     if config.dry_run:
         print("\n⚠️  DRY RUN - No data was written to sheets")
     else:
         tabs = []
-        if tech_results:
+        if tech_results and tech_ok:
             tabs.append(f"'{config.google_sheets.tech_data_tab}'")
-        if multi_horizon_results:
+        if multi_horizon_results and mh_ok:
             tabs.append("'tech_analysis_clean'")
-        if transcript_results:
+        if transcript_results and trans_ok:
             tabs.append(f"'{config.google_sheets.transcripts_tab}'")
         if tabs:
             print(f"\n✅ Data written to: {', '.join(tabs)}")
+        elif tech_results or multi_horizon_results or transcript_results:
+            print("\n⚠️  Sheet writes failed — check fallback CSVs")
 
 
 if __name__ == "__main__":

@@ -3,13 +3,32 @@ Google Sheets manager with row replacement support.
 Handles reading tickers and writing data back to sheets.
 """
 
+import csv
 import logging
+import os
+import tempfile
+from pathlib import Path
 from typing import Any, Dict, List
 
 import gspread
 from google.oauth2.service_account import Credentials
+from tenacity import (
+    before_sleep_log,
+    retry,
+    retry_if_exception_type,
+    stop_after_attempt,
+    wait_exponential,
+)
 
 logger = logging.getLogger(__name__)
+
+_sheets_retry = retry(
+    stop=stop_after_attempt(3),
+    wait=wait_exponential(multiplier=1, min=4, max=30),
+    retry=retry_if_exception_type(gspread.exceptions.APIError),
+    before_sleep=before_sleep_log(logger, logging.WARNING),
+    reraise=True,
+)
 
 
 class SheetManager:
@@ -93,6 +112,37 @@ class SheetManager:
             col_num, remainder = divmod(col_num - 1, 26)
             result = chr(65 + remainder) + result
         return result
+
+    # =========================================================================
+    # RETRY + FALLBACK HELPERS
+    # =========================================================================
+
+    @staticmethod
+    @_sheets_retry
+    def _call_api(fn, *args, **kwargs):
+        """Wrap a gspread call with retry on transient API errors."""
+        return fn(*args, **kwargs)
+
+    def _save_csv_fallback(self, tab_name: str, columns: list, data: list[dict]):
+        """Save data as CSV when Sheets write fails after retries."""
+        try:
+            fallback_dir = Path(
+                os.environ.get(
+                    "SHEETS_FALLBACK_DIR",
+                    str(Path(tempfile.gettempdir()) / "sheets-fallback"),
+                )
+            )
+            fallback_dir.mkdir(parents=True, exist_ok=True)
+            path = fallback_dir / f"{tab_name}.csv"
+            with open(path, "w", newline="") as f:
+                writer = csv.DictWriter(f, fieldnames=columns, extrasaction="ignore")
+                writer.writeheader()
+                writer.writerows(data)
+            logger.warning(f"Sheets write failed — saved fallback CSV: {path}")
+            if self.verbose:
+                print(f"   ⚠️  Saved fallback CSV: {path}")
+        except Exception:
+            logger.error(f"Failed to save CSV fallback for {tab_name}", exc_info=True)
 
     # =========================================================================
     # TICKER READING
@@ -192,7 +242,7 @@ class SheetManager:
     # TECH DATA WRITING
     # =========================================================================
 
-    def write_tech_data(self, tab_name: str, data: List[Dict], append: bool = False):
+    def write_tech_data(self, tab_name: str, data: List[Dict], append: bool = False) -> bool:
         """
         Write technical data to specified tab (simple overwrite or append).
 
@@ -200,9 +250,12 @@ class SheetManager:
             tab_name: Name of the sheet tab
             data: List of dicts with tech indicator values
             append: If True, append to existing data
+
+        Returns:
+            True on success, False if fell back to CSV.
         """
         if not data:
-            return
+            return True
 
         try:
             sheet = self.spreadsheet.worksheet(tab_name)
@@ -218,18 +271,23 @@ class SheetManager:
             row = [d.get(col, '') for col in self.TECH_COLUMNS]
             rows.append(row)
 
-        if append:
-            sheet.append_rows(rows)
-            if self.verbose:
-                print(f"   ✅ Appended {len(data)} rows to {tab_name}")
-        else:
-            sheet.clear()
-            sheet.update(rows, 'A1')
-            if self.verbose:
-                print(f"   ✅ Wrote {len(data)} rows to {tab_name}")
+        try:
+            if append:
+                self._call_api(sheet.append_rows, rows)
+                if self.verbose:
+                    print(f"   ✅ Appended {len(data)} rows to {tab_name}")
+            else:
+                self._call_api(sheet.clear)
+                self._call_api(sheet.update, rows, 'A1')
+                if self.verbose:
+                    print(f"   ✅ Wrote {len(data)} rows to {tab_name}")
+            return True
+        except gspread.exceptions.APIError:
+            self._save_csv_fallback(tab_name, self.TECH_COLUMNS, data)
+            return False
 
     def write_tech_data_with_replacements(self, tab_name: str, data: List[Dict],
-                                           existing_data: Dict[str, Dict]):
+                                           existing_data: Dict[str, Dict]) -> bool:
         """
         Write technical data with row replacement support.
 
@@ -240,9 +298,12 @@ class SheetManager:
             tab_name: Name of the sheet tab
             data: List of dicts with tech indicator values
             existing_data: Dict from get_existing_tech_data()
+
+        Returns:
+            True on success, False if fell back to CSV.
         """
         if not data:
-            return
+            return True
 
         try:
             sheet = self.spreadsheet.worksheet(tab_name)
@@ -264,33 +325,38 @@ class SheetManager:
             else:
                 rows_to_append.append(row_data)
 
-        # Perform updates for existing rows
-        if rows_to_update:
-            updates = []
-            last_col = self.col_num_to_letter(len(self.TECH_COLUMNS))
+        try:
+            # Perform updates for existing rows
+            if rows_to_update:
+                updates = []
+                last_col = self.col_num_to_letter(len(self.TECH_COLUMNS))
 
-            for row_num, row_data in rows_to_update:
-                range_str = f'A{row_num}:{last_col}{row_num}'
-                updates.append({
-                    'range': range_str,
-                    'values': [row_data]
-                })
+                for row_num, row_data in rows_to_update:
+                    range_str = f'A{row_num}:{last_col}{row_num}'
+                    updates.append({
+                        'range': range_str,
+                        'values': [row_data]
+                    })
 
-            sheet.batch_update(updates)
-            if self.verbose:
-                print(f"   ✅ Updated {len(rows_to_update)} existing rows in {tab_name}")
+                self._call_api(sheet.batch_update, updates)
+                if self.verbose:
+                    print(f"   ✅ Updated {len(rows_to_update)} existing rows in {tab_name}")
 
-        # Append new rows
-        if rows_to_append:
-            sheet.append_rows(rows_to_append)
-            if self.verbose:
-                print(f"   ✅ Appended {len(rows_to_append)} new rows to {tab_name}")
+            # Append new rows
+            if rows_to_append:
+                self._call_api(sheet.append_rows, rows_to_append)
+                if self.verbose:
+                    print(f"   ✅ Appended {len(rows_to_append)} new rows to {tab_name}")
+            return True
+        except gspread.exceptions.APIError:
+            self._save_csv_fallback(tab_name, self.TECH_COLUMNS, data)
+            return False
 
     # =========================================================================
     # MULTI-HORIZON TECH DATA WRITING (tech_analysis_clean)
     # =========================================================================
 
-    def write_multi_horizon_data(self, tab_name: str, data: List[Dict]):
+    def write_multi_horizon_data(self, tab_name: str, data: List[Dict]) -> bool:
         """
         Write multi-horizon technical analysis to specified tab.
 
@@ -299,9 +365,12 @@ class SheetManager:
         Args:
             tab_name: Name of the sheet tab (e.g., 'tech_analysis_clean')
             data: List of dicts with multi-horizon indicator values
+
+        Returns:
+            True on success, False if fell back to CSV.
         """
         if not data:
-            return
+            return True
 
         try:
             sheet = self.spreadsheet.worksheet(tab_name)
@@ -319,11 +388,15 @@ class SheetManager:
             row = [d.get(col, '') for col in self.MULTI_HORIZON_COLUMNS]
             rows.append(row)
 
-        sheet.clear()
-        sheet.update(rows, 'A1')
-
-        if self.verbose:
-            print(f"   ✅ Wrote {len(data)} rows to {tab_name} (multi-horizon)")
+        try:
+            self._call_api(sheet.clear)
+            self._call_api(sheet.update, rows, 'A1')
+            if self.verbose:
+                print(f"   ✅ Wrote {len(data)} rows to {tab_name} (multi-horizon)")
+            return True
+        except gspread.exceptions.APIError:
+            self._save_csv_fallback(tab_name, self.MULTI_HORIZON_COLUMNS, data)
+            return False
 
     def get_existing_multi_horizon_data(self, tab_name: str) -> Dict[str, Dict]:
         """
@@ -360,7 +433,7 @@ class SheetManager:
     # TRANSCRIPT WRITING
     # =========================================================================
 
-    def write_transcripts(self, tab_name: str, data: List[Dict], append: bool = False):
+    def write_transcripts(self, tab_name: str, data: List[Dict], append: bool = False) -> bool:
         """
         Write transcript data to specified tab.
 
@@ -368,9 +441,12 @@ class SheetManager:
             tab_name: Name of the sheet tab
             data: List of dicts with transcript data
             append: If True, append to existing data
+
+        Returns:
+            True on success, False if fell back to CSV.
         """
         if not data:
-            return
+            return True
 
         try:
             sheet = self.spreadsheet.worksheet(tab_name)
@@ -386,18 +462,23 @@ class SheetManager:
             row = [d.get(col, '') for col in self.TRANSCRIPT_COLUMNS]
             rows.append(row)
 
-        if append:
-            sheet.append_rows(rows)
-            if self.verbose:
-                print(f"   ✅ Appended {len(data)} rows to {tab_name}")
-        else:
-            sheet.clear()
-            sheet.update(rows, 'A1')
-            if self.verbose:
-                print(f"   ✅ Wrote {len(data)} rows to {tab_name}")
+        try:
+            if append:
+                self._call_api(sheet.append_rows, rows)
+                if self.verbose:
+                    print(f"   ✅ Appended {len(data)} rows to {tab_name}")
+            else:
+                self._call_api(sheet.clear)
+                self._call_api(sheet.update, rows, 'A1')
+                if self.verbose:
+                    print(f"   ✅ Wrote {len(data)} rows to {tab_name}")
+        except gspread.exceptions.APIError:
+            self._save_csv_fallback(tab_name, self.TRANSCRIPT_COLUMNS, data)
+            return False
 
         # Apply conditional formatting
         self.apply_transcript_formatting(tab_name)
+        return True
 
     def apply_transcript_formatting(self, tab_name: str):
         """
