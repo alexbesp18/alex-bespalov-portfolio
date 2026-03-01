@@ -23,6 +23,19 @@ class ApiCreditExhausted(Exception):
         self.key_index = key_index
 
 
+def _build_key_pool(api_key: str, api_keys: Optional[List[str]]) -> List[str]:
+    """Build a deduplicated, non-empty list of API keys."""
+    if api_keys:
+        seen: set = set()
+        pool: List[str] = []
+        for k in api_keys:
+            if k and k not in seen:
+                seen.add(k)
+                pool.append(k)
+        return pool
+    return [api_key]
+
+
 class TwelveDataClient:
     """
     Twelve Data API client with:
@@ -45,16 +58,7 @@ class TwelveDataClient:
             verbose: Print detailed progress
             api_keys: Optional list of API keys for rotation on credit exhaustion
         """
-        # Build deduplicated key pool
-        if api_keys:
-            seen = set()
-            self._key_pool: List[str] = []
-            for k in api_keys:
-                if k and k not in seen:
-                    seen.add(k)
-                    self._key_pool.append(k)
-        else:
-            self._key_pool = [api_key]
+        self._key_pool = _build_key_pool(api_key, api_keys)
         self._key_index = 0
         self.api_key = self._key_pool[0]
         self.cache = cache
@@ -283,7 +287,6 @@ class TwelveDataClient:
                 return self._calculate_indicators(ticker, cached_df)
 
         # Fetch from API, rotating keys on credit exhaustion
-        df = None
         while True:
             try:
                 df = self.fetch_raw(ticker)

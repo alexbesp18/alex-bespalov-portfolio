@@ -24,6 +24,7 @@ import requests
 from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_exponential
 
 from shared_core.config.constants import CACHE_CONFIG, RATE_LIMITS
+from shared_core.market_data.twelve_data import ApiCreditExhausted, _build_key_pool
 
 logger = logging.getLogger(__name__)
 
@@ -54,16 +55,7 @@ class CacheAwareFetcher:
             output_size: Number of data points to fetch from API
             api_keys: Optional list of API keys for rotation on credit exhaustion
         """
-        # Build deduplicated key pool
-        if api_keys:
-            seen = set()
-            self._key_pool: List[str] = []
-            for k in api_keys:
-                if k and k not in seen:
-                    seen.add(k)
-                    self._key_pool.append(k)
-        else:
-            self._key_pool = [api_key]
+        self._key_pool = _build_key_pool(api_key, api_keys)
         self._key_index = 0
         self.api_key = self._key_pool[0]
         self.base_url = "https://api.twelvedata.com"
@@ -186,8 +178,6 @@ class CacheAwareFetcher:
         Single API fetch attempt. Raises ApiCreditExhausted on credit errors.
         Raises RequestException on network errors (for tenacity to retry).
         """
-        from shared_core.market_data.twelve_data import ApiCreditExhausted
-
         url = f"{self.base_url}/time_series"
         params = {
             "symbol": symbol,
@@ -237,8 +227,6 @@ class CacheAwareFetcher:
         Returns:
             Dict with 'values' key containing OHLCV data, or None on error
         """
-        from shared_core.market_data.twelve_data import ApiCreditExhausted
-
         # Check cache first
         cached = self.get_cached_data(symbol)
         if cached:
@@ -265,14 +253,17 @@ class CacheAwareFetcher:
         Returns:
             Dict mapping symbol -> data dict (or None if failed)
         """
-        from shared_core.market_data.twelve_data import ApiCreditExhausted
-
         results = {}
         total = len(symbols)
         api_calls = 0
         cache_hits = 0
+        all_keys_exhausted = False
 
         for i, symbol in enumerate(symbols):
+            if all_keys_exhausted:
+                results[symbol] = None
+                continue
+
             logger.info(f"Fetching {symbol} ({i+1}/{total})...")
 
             # Check cache first (no rate limit needed)
@@ -282,42 +273,27 @@ class CacheAwareFetcher:
                 cache_hits += 1
                 continue
 
-            # API call needed with key rotation
-            try:
-                results[symbol] = self._fetch_with_retry(symbol)
-                api_calls += 1
-
-                # Rate limit for API calls (skip for last ticker)
-                if i < total - 1:
-                    time.sleep(self.rate_limit_delay)
-
-            except ApiCreditExhausted:
-                if self._rotate_key():
-                    # Retry this symbol with the new key
-                    try:
-                        results[symbol] = self._fetch_with_retry(symbol)
-                        api_calls += 1
-                        if i < total - 1:
-                            time.sleep(self.rate_limit_delay)
-                    except ApiCreditExhausted:
-                        if not self._rotate_key():
-                            logger.error("All API keys exhausted in batch fetch")
-                            results[symbol] = None
-                            for remaining in symbols[i + 1:]:
-                                results[remaining] = None
-                            break
-                else:
-                    logger.error("All API keys exhausted in batch fetch")
-                    results[symbol] = None
-                    for remaining in symbols[i + 1:]:
-                        results[remaining] = None
+            # API call with rotation loop (handles any number of keys)
+            fetched = False
+            while True:
+                try:
+                    results[symbol] = self._fetch_with_retry(symbol)
+                    api_calls += 1
+                    fetched = True
                     break
-            except requests.exceptions.RequestException as e:
-                logger.error(f"Network error fetching {symbol}: {e}")
-                results[symbol] = None
-            except (ValueError, KeyError, TypeError) as e:
-                logger.error(f"Data error fetching {symbol}: {e}")
-                results[symbol] = None
+                except ApiCreditExhausted:
+                    if not self._rotate_key():
+                        logger.error("All API keys exhausted in batch fetch")
+                        results[symbol] = None
+                        all_keys_exhausted = True
+                        break
+
+            if not fetched:
+                continue
+
+            # Rate limit for API calls (skip for last ticker)
+            if i < total - 1:
+                time.sleep(self.rate_limit_delay)
 
         logger.info(f"Completed: {cache_hits} from cache, {api_calls} from API")
         return results
