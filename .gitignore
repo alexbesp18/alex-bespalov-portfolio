@@ -155,8 +155,14 @@ pip-delete-this-directory.txt
 .secrets.baseline
 
 # ============================================================================
+# 📊 TRANSCRIPT DATA - OUTPUT FILES (keep source code tracked)
+# ============================================================================
+200-other/203-youtube-transcripts/**/*.txt
+
+# ============================================================================
 # 📦 ARCHIVE & BACKUPS - LOCAL ONLY
 # ============================================================================
 _archive/
 _backup/
+_dormant/
 walker-advertising-ai/
