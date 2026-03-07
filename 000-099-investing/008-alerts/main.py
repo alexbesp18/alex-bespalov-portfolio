@@ -126,8 +126,15 @@ def main():
 
     logger.info(f"Starting scan for {len(all_tickers)} tickers (all signals on all by default)...")
 
+    # Build API key pool for rotation on credit exhaustion
+    td_api_keys = [td_api_key]
+    for env_var in ["TWELVE_DATA_API_KEY_2", "TWELVE_DATA_API_KEY_3"]:
+        extra = os.environ.get(env_var, "").strip()
+        if extra:
+            td_api_keys.append(extra)
+
     # Fetch price data
-    fetcher = PriceFetcher(td_api_key)
+    fetcher = PriceFetcher(td_api_key, api_keys=td_api_keys)
     raw_data = fetcher.fetch_all_tickers(all_tickers)
 
     # Process each ticker

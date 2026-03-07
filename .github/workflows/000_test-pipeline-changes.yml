@@ -146,6 +146,39 @@ jobs:
           fi
           echo "PASS: $COUNT cache files created"
 
+      - name: Validate Sheets writes
+        run: |
+          echo "=== Checking Sheets writes ==="
+          # Tech data written
+          grep -q "rows to.*Tech_Data" /tmp/refresh.log
+          echo "PASS: Tech data written to Sheets"
+
+          # Multi-horizon written
+          grep -q "rows to.*tech_analysis_clean" /tmp/refresh.log
+          echo "PASS: Multi-horizon data written to Sheets"
+
+          # Sheets write phase reached
+          grep -q "WRITING TO GOOGLE SHEETS" /tmp/refresh.log
+          echo "PASS: Sheets write phase reached"
+
+      - name: Validate no Sheets fallback CSVs
+        run: |
+          if ls /tmp/sheets-fallback/*.csv 2>/dev/null; then
+            echo "FAIL: Fallback CSVs exist — Sheets write failed"
+            cat /tmp/sheets-fallback/*.csv | head -20
+            exit 1
+          fi
+          echo "PASS: No fallback CSVs (Sheets writes succeeded)"
+
+      - name: Validate Supabase archive
+        run: |
+          echo "=== Checking Supabase archive ==="
+          if grep -qi "Failed to archive to Supabase" /tmp/refresh.log; then
+            echo "WARN: Supabase archive had failures (non-blocking)"
+          else
+            echo "PASS: No Supabase errors in refresh log"
+          fi
+
       - name: Show full log on failure
         if: failure()
         run: cat /tmp/refresh.log
@@ -262,7 +295,229 @@ jobs:
           print('PASS: CACHE_DATE correctly produces cache hit')
           PYEOF
 
-  test-downstream-cache-hits:
+  test-sheets-readback:
+    needs: test-refresh
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Set up Google credentials
+        run: |
+          cd 000-099-investing/007-ticker-analysis
+          echo '${{ secrets.GDRIVE_API_KEY_JSON }}' > google_service_account.json
+
+      - name: Validate Sheets data
+        env:
+          GSHEET_NAME: ${{ secrets.GSHEET_NAME }}
+          CACHE_DATE: ${{ needs.test-refresh.outputs.cache-date }}
+        run: |
+          cd 000-099-investing/007-ticker-analysis
+          python3 << 'PYEOF'
+          import os, sys
+          from shared_core.integrations.sheets import SheetManager
+
+          gsheet = os.environ['GSHEET_NAME']
+          cache_date = os.environ['CACHE_DATE']
+          creds = "google_service_account.json"
+          errors = []
+
+          sm = SheetManager(creds, gsheet)
+
+          # Test 1: Tech_Data tab has rows
+          tech_data = sm.get_existing_tech_data("Tech_Data")
+          if len(tech_data) < 5:
+              errors.append(f'Test 1 FAIL: Tech_Data has {len(tech_data)} tickers, expected >= 5')
+          else:
+              print(f'Test 1 PASS: Tech_Data has {len(tech_data)} tickers')
+              # Show a sample
+              sample = list(tech_data.keys())[:3]
+              for t in sample:
+                  rec = tech_data[t]
+                  print(f'  {t}: Price={rec.get("Price")}, row={rec.get("row_number")}')
+
+          # Test 2: tech_analysis_clean tab has multi-horizon data
+          mh_data = sm.get_existing_multi_horizon_data("tech_analysis_clean")
+          if len(mh_data) < 5:
+              errors.append(f'Test 2 FAIL: tech_analysis_clean has {len(mh_data)} tickers, expected >= 5')
+          else:
+              print(f'Test 2 PASS: tech_analysis_clean has {len(mh_data)} tickers')
+              sample = list(mh_data.keys())[:3]
+              for t in sample:
+                  rec = mh_data[t]
+                  data = rec.get("data", {})
+                  print(f'  {t}: ST_RSI_7={data.get("ST_RSI_7")}, MT_RSI_14={data.get("MT_RSI_14")}, LT_RSI_21={data.get("LT_RSI_21")}')
+
+          # Test 3: Data freshness — Updated column matches today
+          fresh_count = 0
+          for t, rec in tech_data.items():
+              record = rec.get("record", {})
+              updated = str(record.get("Updated", ""))
+              if cache_date in updated:
+                  fresh_count += 1
+          if fresh_count < 5:
+              errors.append(f'Test 3 FAIL: Only {fresh_count} tickers have Updated matching {cache_date}')
+          else:
+              print(f'Test 3 PASS: {fresh_count} tickers have Updated = {cache_date}')
+
+          if errors:
+              for e in errors:
+                  print(f'ERROR: {e}', file=sys.stderr)
+              sys.exit(1)
+
+          print('\nAll Sheets readback tests passed.')
+          PYEOF
+
+  test-alerts:
+    needs: test-refresh
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Install 008-alerts dependencies
+        run: |
+          cd 000-099-investing/008-alerts
+          pip install -r requirements.txt
+
+      - name: Restore ticker cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: test-cache-${{ needs.test-refresh.outputs.cache-date }}-${{ github.run_id }}
+          fail-on-cache-miss: true
+
+      - name: Run alerts scanner (dry-run)
+        env:
+          CACHE_DATE: ${{ needs.test-refresh.outputs.cache-date }}
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
+          TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          cd 000-099-investing/008-alerts
+          python main.py --dry-run 2>&1 | tee /tmp/alerts.log
+
+      - name: Validate alerts completed
+        run: |
+          echo "=== Alerts output ==="
+          # Must have found tickers
+          if grep -qi "No tickers found" /tmp/alerts.log; then
+            echo "FAIL: alerts found no cached tickers"
+            exit 1
+          fi
+          echo "PASS: alerts found cached tickers"
+
+          # Must have started scan
+          grep -q "Starting scan for" /tmp/alerts.log
+          echo "PASS: scan started"
+
+          # Check for Supabase archive
+          if grep -q "Archived.*indicators to Supabase" /tmp/alerts.log; then
+            echo "PASS: Supabase archive succeeded"
+          else
+            echo "INFO: No Supabase archive message (may have failed or 0 results)"
+          fi
+
+      - name: Show full log on failure
+        if: failure()
+        run: cat /tmp/alerts.log
+
+  test-reversals:
+    needs: test-refresh
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Install 009-reversals dependencies
+        run: |
+          cd 000-099-investing/009-reversals
+          pip install -r requirements.txt
+
+      - name: Restore ticker cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: test-cache-${{ needs.test-refresh.outputs.cache-date }}-${{ github.run_id }}
+          fail-on-cache-miss: true
+
+      - name: Run reversals scanner (dry-run)
+        env:
+          CACHE_DATE: ${{ needs.test-refresh.outputs.cache-date }}
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
+          TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: |
+          cd 000-099-investing/009-reversals
+          python reversals.py --dry-run 2>&1 | tee /tmp/reversals.log
+
+      - name: Validate reversals completed
+        run: |
+          echo "=== Reversals output ==="
+          # Must have started scan
+          grep -q "Starting scan for" /tmp/reversals.log
+          echo "PASS: scan started"
+
+          # Check for Supabase archive
+          if grep -q "Archived.*indicators to Supabase" /tmp/reversals.log; then
+            echo "PASS: Supabase archive succeeded"
+          else
+            echo "INFO: No Supabase archive message"
+          fi
+
+          # Check for sufficient output (not a crash)
+          LINES=$(wc -l < /tmp/reversals.log)
+          if [ "$LINES" -lt 5 ]; then
+            echo "FAIL: suspiciously short output ($LINES lines)"
+            exit 1
+          fi
+          echo "PASS: reversals produced $LINES lines of output"
+
+      - name: Show full log on failure
+        if: failure()
+        run: cat /tmp/reversals.log
+
+  test-oversold-deep:
     needs: test-refresh
     runs-on: ubuntu-latest
 
@@ -329,6 +584,36 @@ jobs:
           fi
           echo "PASS: oversold found cached tickers"
 
+      - name: Run true value report (dry-run)
+        env:
+          CACHE_DATE: ${{ needs.test-refresh.outputs.cache-date }}
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
+          TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
+        run: |
+          cd 000-099-investing/010-oversold
+          python true_value.py --dry-run --verbose 2>&1 | tee /tmp/true_value.log
+
+      - name: Validate true value output
+        run: |
+          echo "=== True value output ==="
+          # Should print the table
+          grep -q "TRUE VALUE OVERSOLD" /tmp/true_value.log
+          echo "PASS: true value table header found"
+
+          # Should have scanned tickers
+          grep -q "Scanned:" /tmp/true_value.log
+          echo "PASS: scanned tickers"
+
+          # Dry-run should produce email HTML
+          grep -q "Subject:" /tmp/true_value.log
+          echo "PASS: email subject generated (dry-run HTML output)"
+
       - name: Show full log on failure
         if: failure()
-        run: cat /tmp/oversold.log 2>/dev/null || echo "No log file"
+        run: |
+          echo "=== Oversold log ==="
+          cat /tmp/oversold.log 2>/dev/null || echo "No oversold log"
+          echo ""
+          echo "=== True value log ==="
+          cat /tmp/true_value.log 2>/dev/null || echo "No true value log"

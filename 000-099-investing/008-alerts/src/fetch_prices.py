@@ -25,13 +25,14 @@ class PriceFetcher:
     Wrapper around shared_core.CacheAwareFetcher for backward compatibility.
     """
     
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, api_keys=None):
         self.api_key = api_key
         self._fetcher = CacheAwareFetcher(
             api_key=api_key,
             cache_dir=SHARED_CACHE_DIR,
             rate_limit_delay=7.5,  # 8 requests/minute
             output_size=250,
+            api_keys=api_keys,
         )
     
     def fetch_ticker(self, symbol: str, outputsize: int = 250) -> Optional[Dict[str, Any]]:
