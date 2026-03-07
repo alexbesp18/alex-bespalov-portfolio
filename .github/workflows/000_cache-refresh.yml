@@ -16,6 +16,7 @@ jobs:
       contents: write
     outputs:
       cache-hit: ${{ steps.cache-restore.outputs.cache-hit }}
+      cache-date: ${{ steps.date.outputs.date }}
 
     steps:
       - name: Checkout repository
@@ -191,6 +192,7 @@ jobs:
 
       - name: Run alerts scanner
         env:
+          CACHE_DATE: ${{ needs.refresh-cache.outputs.cache-date }}
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
           TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
           TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
@@ -242,6 +244,7 @@ jobs:
 
       - name: Run reversals scanner
         env:
+          CACHE_DATE: ${{ needs.refresh-cache.outputs.cache-date }}
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
           TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
           TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
@@ -302,6 +305,7 @@ jobs:
 
       - name: Run oversold scanner
         env:
+          CACHE_DATE: ${{ needs.refresh-cache.outputs.cache-date }}
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
           TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
           TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
@@ -316,6 +320,7 @@ jobs:
 
       - name: Run true value report
         env:
+          CACHE_DATE: ${{ needs.refresh-cache.outputs.cache-date }}
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
           TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
           TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}

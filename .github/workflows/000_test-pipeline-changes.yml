@@ -1,0 +1,333 @@
+name: Test Pipeline Changes
+
+on:
+  workflow_dispatch:  # Manual trigger only
+
+env:
+  CACHE_PATH: 000-099-investing/007-ticker-analysis/data
+
+jobs:
+  test-refresh:
+    runs-on: ubuntu-latest
+    outputs:
+      cache-date: ${{ steps.date.outputs.date }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get today's date for cache key
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Install 007-ticker-analysis dependencies
+        run: |
+          cd 000-099-investing/007-ticker-analysis
+          pip install -r requirements.txt
+
+      - name: Create data directory
+        run: |
+          mkdir -p 000-099-investing/007-ticker-analysis/data/twelve_data
+          mkdir -p 000-099-investing/007-ticker-analysis/data/transcripts
+
+      - name: Create config.json from secrets
+        run: |
+          cd 000-099-investing/007-ticker-analysis
+          cat > config.json << EOF
+          {
+            "google_sheets": {
+              "credentials_file": "google_service_account.json",
+              "spreadsheet_name": "${{ secrets.GSHEET_NAME }}",
+              "main_tab": "Sheet1",
+              "ticker_column": "A",
+              "start_row": 2,
+              "tech_data_tab": "Tech_Data",
+              "transcripts_tab": "Transcripts"
+            },
+            "twelve_data": {
+              "api_key": "${{ secrets.TWELVE_DATA_API_KEY }}",
+              "output_size": 1000,
+              "rate_limit_sleep": 8.0
+            },
+            "grok": {
+              "api_key": "${{ secrets.GROK_API_KEY }}",
+              "model": "grok-4-1-fast-reasoning",
+              "summarization_enabled": true,
+              "max_summary_tokens": 400
+            },
+            "defeatbeta": {
+              "quarters_to_fetch": 1,
+              "min_chars": 600,
+              "earliest_year_offset": 1
+            }
+          }
+          EOF
+
+      - name: Set up Google credentials
+        run: |
+          cd 000-099-investing/007-ticker-analysis
+          echo '${{ secrets.GDRIVE_API_KEY_JSON }}' > google_service_account.json
+
+      - name: Run cache refresh (limit 5 tickers)
+        env:
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
+          TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          SHEETS_FALLBACK_DIR: /tmp/sheets-fallback
+        run: |
+          cd 000-099-investing/007-ticker-analysis
+          python run_all.py --technicals-only --verbose --limit 5 2>&1 | tee /tmp/refresh.log
+
+      - name: Validate Phase 1 ran
+        run: |
+          echo "=== Checking Phase 1 ==="
+          grep -q "PHASE 1: FETCHING TECHNICAL DATA" /tmp/refresh.log
+          echo "PASS: Phase 1 header found"
+
+      - name: Validate Phase 2 parallel Grok ran
+        run: |
+          echo "=== Checking Phase 2 ==="
+          grep -q "PHASE 2: GROK ANALYSIS" /tmp/refresh.log
+          echo "PASS: Phase 2 header found"
+
+          grep -q "Grok:.*complete" /tmp/refresh.log
+          echo "PASS: Grok completion message found"
+
+      - name: Validate Grok returned tech scores
+        run: |
+          echo "=== Checking Grok tech analysis ==="
+          COUNT=$(grep -c "Tech analysis complete: Score=" /tmp/refresh.log || true)
+          echo "Found $COUNT tech analysis completions"
+          if [ "$COUNT" -lt 1 ]; then
+            echo "FAIL: Expected at least 1 tech analysis completion"
+            exit 1
+          fi
+          echo "PASS: $COUNT tech scores returned"
+
+      - name: Validate Grok returned multi-horizon scores
+        run: |
+          echo "=== Checking Grok multi-horizon analysis ==="
+          COUNT=$(grep -c "Multi-horizon analysis complete: MT_Score=" /tmp/refresh.log || true)
+          echo "Found $COUNT multi-horizon completions"
+          if [ "$COUNT" -lt 1 ]; then
+            echo "FAIL: Expected at least 1 multi-horizon completion"
+            exit 1
+          fi
+          echo "PASS: $COUNT multi-horizon scores returned"
+
+      - name: Validate multi-horizon calculator loaded
+        run: |
+          grep -q "Multi-horizon analysis enabled" /tmp/refresh.log
+          echo "PASS: Multi-horizon calculator loaded"
+
+      - name: Count cached files
+        env:
+          DATE: ${{ steps.date.outputs.date }}
+        run: |
+          COUNT=$(ls ${{ env.CACHE_PATH }}/twelve_data/*_${DATE}.json 2>/dev/null | wc -l)
+          echo "Cached files for $DATE: $COUNT"
+          if [ "$COUNT" -lt 5 ]; then
+            echo "FAIL: Expected at least 5 cached files, got $COUNT"
+            exit 1
+          fi
+          echo "PASS: $COUNT cache files created"
+
+      - name: Show full log on failure
+        if: failure()
+        run: cat /tmp/refresh.log
+
+      - name: Save ticker cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: test-cache-${{ steps.date.outputs.date }}-${{ github.run_id }}
+
+  test-cache-date-propagation:
+    needs: test-refresh
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Restore ticker cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: test-cache-${{ needs.test-refresh.outputs.cache-date }}-${{ github.run_id }}
+          fail-on-cache-miss: true
+
+      - name: Validate CACHE_DATE propagation
+        env:
+          CACHE_DATE: ${{ needs.test-refresh.outputs.cache-date }}
+        run: |
+          python3 << 'PYEOF'
+          import os, sys
+          from pathlib import Path
+          from shared_core.market_data.cached_fetcher import CacheAwareFetcher
+          from shared_core.utils.cache_tickers import get_cached_tickers
+
+          cache_date = os.environ['CACHE_DATE']
+          cache_dir = Path("000-099-investing/007-ticker-analysis/data/twelve_data")
+          errors = []
+
+          # Test 1: CacheAwareFetcher.today uses CACHE_DATE
+          fetcher = CacheAwareFetcher(api_key='dummy', cache_dir=cache_dir)
+          if fetcher.today != cache_date:
+              errors.append(f'Test 1 FAIL: CacheAwareFetcher.today={fetcher.today}, expected={cache_date}')
+          else:
+              print(f'Test 1 PASS: CacheAwareFetcher.today = {cache_date}')
+
+          # Test 2: get_cached_tickers uses CACHE_DATE
+          tickers = get_cached_tickers(cache_dir)
+          if len(tickers) < 5:
+              errors.append(f'Test 2 FAIL: get_cached_tickers found {len(tickers)} tickers, expected >= 5')
+          else:
+              print(f'Test 2 PASS: get_cached_tickers found {len(tickers)} tickers: {tickers}')
+
+          # Test 3: Each cached ticker gets a cache hit
+          hits = 0
+          for t in tickers:
+              data = fetcher.get_cached_data(t)
+              if data and data.get('values'):
+                  hits += 1
+              else:
+                  print(f'  MISS: {t}')
+          if hits != len(tickers):
+              errors.append(f'Test 3 FAIL: {hits}/{len(tickers)} cache hits')
+          else:
+              print(f'Test 3 PASS: {hits}/{len(tickers)} cache hits, 0 API calls')
+
+          if errors:
+              for e in errors:
+                  print(f'ERROR: {e}', file=sys.stderr)
+              sys.exit(1)
+          PYEOF
+
+      - name: Validate wrong date produces cache miss (proves fix is needed)
+        env:
+          CACHE_DATE: ${{ needs.test-refresh.outputs.cache-date }}
+        run: |
+          python3 << 'PYEOF'
+          import os
+          from pathlib import Path
+          from shared_core.market_data.cached_fetcher import CacheAwareFetcher
+          from shared_core.utils.cache_tickers import get_cached_tickers
+
+          cache_dir = Path("000-099-investing/007-ticker-analysis/data/twelve_data")
+          cache_date = os.environ['CACHE_DATE']
+
+          # First get tickers using correct date
+          tickers = get_cached_tickers(cache_dir, date=cache_date)
+          assert len(tickers) > 0, 'No tickers found for validation'
+
+          # Simulate the midnight bug: fetcher with wrong date
+          fetcher_bad = CacheAwareFetcher(api_key='dummy', cache_dir=cache_dir)
+          fetcher_bad.today = '2099-01-01'
+          miss = fetcher_bad.get_cached_data(tickers[0])
+          assert miss is None, f'Expected cache miss with wrong date, got data for {tickers[0]}'
+          print('PASS: Wrong date correctly produces cache miss (confirms fix is needed)')
+
+          # Simulate the fix: fetcher with correct (env var) date
+          fetcher_good = CacheAwareFetcher(api_key='dummy', cache_dir=cache_dir)
+          assert fetcher_good.today == cache_date
+          hit = fetcher_good.get_cached_data(tickers[0])
+          assert hit is not None, f'Expected cache hit with CACHE_DATE, got None for {tickers[0]}'
+          print('PASS: CACHE_DATE correctly produces cache hit')
+          PYEOF
+
+  test-downstream-cache-hits:
+    needs: test-refresh
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install shared-core
+        run: |
+          cd 000-099-investing/000-shared-core
+          pip install -e .
+
+      - name: Install 010-oversold dependencies
+        run: |
+          cd 000-099-investing/010-oversold
+          pip install -r requirements.txt
+
+      - name: Restore ticker cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.CACHE_PATH }}
+          key: test-cache-${{ needs.test-refresh.outputs.cache-date }}-${{ github.run_id }}
+          fail-on-cache-miss: true
+
+      - name: List cache files (debug)
+        env:
+          DATE: ${{ needs.test-refresh.outputs.cache-date }}
+        run: |
+          echo "=== Cache files for $DATE ==="
+          ls -la ${{ env.CACHE_PATH }}/twelve_data/*_${DATE}.json 2>/dev/null | head -10
+          echo "Total: $(ls ${{ env.CACHE_PATH }}/twelve_data/*_${DATE}.json 2>/dev/null | wc -l) files"
+
+      - name: Run oversold scanner with CACHE_DATE
+        env:
+          CACHE_DATE: ${{ needs.test-refresh.outputs.cache-date }}
+          TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
+          TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
+          TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
+        run: |
+          cd 000-099-investing/010-oversold
+          python oversold.py --all --top 3 --verbose 2>&1 | tee /tmp/oversold.log
+          echo "Exit code: $?"
+
+      - name: Validate oversold completed
+        run: |
+          echo "=== Oversold output ==="
+          # Check it ran and produced output (didn't crash)
+          if [ ! -s /tmp/oversold.log ]; then
+            echo "FAIL: oversold.log is empty"
+            exit 1
+          fi
+          echo "PASS: oversold produced output ($(wc -l < /tmp/oversold.log) lines)"
+
+          # Check for errors
+          if grep -qi "No cached tickers found" /tmp/oversold.log; then
+            echo "FAIL: oversold found no cached tickers (CACHE_DATE not working)"
+            exit 1
+          fi
+          echo "PASS: oversold found cached tickers"
+
+      - name: Show full log on failure
+        if: failure()
+        run: cat /tmp/oversold.log 2>/dev/null || echo "No log file"

@@ -6,6 +6,7 @@ Used by 008-alerts, 009-reversals, and 010-oversold to discover
 which tickers have cached data from 007-ticker-analysis.
 """
 
+import os
 from datetime import datetime
 from pathlib import Path
 from typing import List, Optional, Union
@@ -33,7 +34,7 @@ def get_cached_tickers(
         ['AAPL', 'GOOGL', 'MSFT', 'NVDA']
     """
     if date is None:
-        date = datetime.now().strftime('%Y-%m-%d')
+        date = os.environ.get('CACHE_DATE') or datetime.now().strftime('%Y-%m-%d')
 
     cache_path = Path(cache_dir) if isinstance(cache_dir, str) else cache_dir
     tickers: List[str] = []

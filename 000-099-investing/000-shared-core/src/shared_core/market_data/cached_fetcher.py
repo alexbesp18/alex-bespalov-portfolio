@@ -16,6 +16,7 @@ Usage:
 import datetime
 import json
 import logging
+import os
 import time
 from pathlib import Path
 from typing import Any, Dict, List, Optional
@@ -61,7 +62,7 @@ class CacheAwareFetcher:
         self.base_url = "https://api.twelvedata.com"
         self.rate_limit_delay = rate_limit_delay
         self.output_size = output_size
-        self.today = datetime.date.today().isoformat()
+        self.today = os.environ.get('CACHE_DATE') or datetime.date.today().isoformat()
 
         # Auto-detect cache directory if not provided
         if cache_dir is None:

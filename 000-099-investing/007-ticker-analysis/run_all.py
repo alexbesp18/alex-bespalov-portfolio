@@ -265,11 +265,12 @@ def main():
     tech_results = []
     multi_horizon_results = []
     api_exhausted = False
+    pending_grok = []  # (ticker, result_index, mh_data_or_None)
 
     if run_technicals and tickers_for_tech:
         from shared_core.market_data.twelve_data import ApiCreditExhausted
 
-        print(f"\n📊 FETCHING TECHNICAL DATA")
+        print(f"\n--- PHASE 1: FETCHING TECHNICAL DATA ---")
         print("-" * 40)
 
         for i, ticker in enumerate(tickers_for_tech):
@@ -286,35 +287,62 @@ def main():
                 print(f"   {remaining} tickers skipped. Partial results will be written.")
                 api_exhausted = True
                 break
-            
+
             if result and result.get('Status') == 'OK':
-                if grok:
-                    ai_analysis = grok.analyze_technicals(ticker, result)
-                    result.update(ai_analysis)
-                    time.sleep(0.3)
+                result_idx = len(tech_results)
                 tech_results.append(result)
 
-                # Calculate multi-horizon indicators (short/med/long term)
+                # Calculate multi-horizon locally (fast, CPU-only)
+                mh_data = None
                 if multi_horizon_calc:
                     df = cache.get_twelve_data(ticker)
                     if df is not None and len(df) >= 50:
-                        mh_result = multi_horizon_calc.calculate_all(df)
-                        mh_result['Ticker'] = ticker
-                        mh_result['Updated'] = dt.datetime.now().strftime('%Y-%m-%d %H:%M')
+                        mh_data = multi_horizon_calc.calculate_all(df)
+                        mh_data['Ticker'] = ticker
+                        mh_data['Updated'] = dt.datetime.now().strftime('%Y-%m-%d %H:%M')
 
-                        # Add Grok multi-horizon analysis if available
-                        if grok:
-                            ai_mh = grok.analyze_multi_horizon(ticker, mh_result)
-                            mh_result.update(ai_mh)
-                            time.sleep(0.3)
-
-                        multi_horizon_results.append(mh_result)
+                if grok:
+                    pending_grok.append((ticker, result_idx, mh_data))
+                elif mh_data:
+                    multi_horizon_results.append(mh_data)
 
             elif result:
                 tech_results.append(result)
 
             if not is_cached or config.force_refresh:
                 time.sleep(config.twelve_data.rate_limit_sleep)
+
+        # PHASE 2: Parallel Grok analysis
+        if grok and pending_grok:
+            from concurrent.futures import ThreadPoolExecutor, as_completed
+
+            print(f"\n--- PHASE 2: GROK ANALYSIS ({len(pending_grok)} tickers, 5 parallel) ---")
+            print("-" * 40)
+
+            def _grok_analyze(item):
+                ticker, _, mh_data = item
+                result = next(r for r in tech_results if r.get('Ticker') == ticker)
+                ai = grok.analyze_technicals(ticker, result)
+                ai_mh = {}
+                if mh_data:
+                    ai_mh = grok.analyze_multi_horizon(ticker, mh_data)
+                return ticker, ai, mh_data, ai_mh
+
+            completed = 0
+            with ThreadPoolExecutor(max_workers=5) as pool:
+                futures = {pool.submit(_grok_analyze, item): item for item in pending_grok}
+                for future in as_completed(futures):
+                    completed += 1
+                    ticker, ai, mh_data, ai_mh = future.result()
+                    # Update result in-place
+                    tech_results[futures[future][1]].update(ai)
+                    if mh_data:
+                        mh_data.update(ai_mh)
+                        multi_horizon_results.append(mh_data)
+                    if completed % 50 == 0:
+                        print(f"   Grok: {completed}/{len(pending_grok)} complete")
+
+            print(f"   Grok: {completed}/{len(pending_grok)} complete")
     
     # =========================================================================
     # TRANSCRIPTS

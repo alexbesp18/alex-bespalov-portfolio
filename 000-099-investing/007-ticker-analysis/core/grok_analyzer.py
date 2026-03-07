@@ -4,6 +4,7 @@ Combines functionality from multiple v2 scripts into a single module.
 """
 
 import json
+import time
 import requests
 from typing import Dict, Any, Optional
 
@@ -35,66 +36,75 @@ class GrokAnalyzer:
     def _call_api(self, prompt: str, temperature: float = 0.3,
                   json_response: bool = False, timeout: int = 120) -> Optional[str]:
         """
-        Make API call to Grok.
-        
+        Make API call to Grok with retry on 429 rate limits.
+
         Returns:
             Response content string, or None on error
         """
-        try:
-            payload = {
-                'model': self.model,
-                'messages': [{'role': 'user', 'content': prompt}],
-                'temperature': temperature,
-                'max_tokens': self.max_tokens,
-            }
-            
-            if json_response:
-                payload['response_format'] = {'type': 'json_object'}
-            else:
-                payload['search'] = False  # No web search for summarization
-            
-            response = requests.post(
-                self.base_url,
-                headers={
-                    'Authorization': f'Bearer {self.api_key}',
-                    'Content-Type': 'application/json'
-                },
-                json=payload,
-                timeout=timeout
-            )
-            
-            if response.status_code == 429:
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                payload = {
+                    'model': self.model,
+                    'messages': [{'role': 'user', 'content': prompt}],
+                    'temperature': temperature,
+                    'max_tokens': self.max_tokens,
+                }
+
+                if json_response:
+                    payload['response_format'] = {'type': 'json_object'}
+                else:
+                    payload['search'] = False  # No web search for summarization
+
+                response = requests.post(
+                    self.base_url,
+                    headers={
+                        'Authorization': f'Bearer {self.api_key}',
+                        'Content-Type': 'application/json'
+                    },
+                    json=payload,
+                    timeout=timeout
+                )
+
+                if response.status_code == 429:
+                    if attempt < max_retries - 1:
+                        wait = 2 ** (attempt + 1)  # 2s, 4s
+                        if self.verbose:
+                            print(f"    ⚠️  Rate limited, retrying in {wait}s...")
+                        time.sleep(wait)
+                        continue
+                    if self.verbose:
+                        print("    ⚠️  Rate limited (max retries)")
+                    return None
+
+                if response.status_code != 200:
+                    if self.verbose:
+                        print(f"    ❌ API error: {response.status_code}")
+                    return None
+
+                data = response.json()
+                content = data.get('choices', [{}])[0].get('message', {}).get('content', '')
+
+                # Strip markdown code blocks if present
+                if content.startswith('```'):
+                    lines = content.split('\n')
+                    if lines[0].startswith('```'):
+                        lines = lines[1:]
+                    if lines and lines[-1].strip() == '```':
+                        lines = lines[:-1]
+                    content = '\n'.join(lines)
+
+                return content
+
+            except requests.exceptions.Timeout:
                 if self.verbose:
-                    print("    ⚠️  Rate limited")
+                    print("    ❌ Request timeout")
                 return None
-            
-            if response.status_code != 200:
+            except Exception as e:
                 if self.verbose:
-                    print(f"    ❌ API error: {response.status_code}")
+                    print(f"    ❌ Error: {e}")
                 return None
-            
-            data = response.json()
-            content = data.get('choices', [{}])[0].get('message', {}).get('content', '')
-            
-            # Strip markdown code blocks if present
-            if content.startswith('```'):
-                lines = content.split('\n')
-                if lines[0].startswith('```'):
-                    lines = lines[1:]
-                if lines and lines[-1].strip() == '```':
-                    lines = lines[:-1]
-                content = '\n'.join(lines)
-            
-            return content
-            
-        except requests.exceptions.Timeout:
-            if self.verbose:
-                print("    ❌ Request timeout")
-            return None
-        except Exception as e:
-            if self.verbose:
-                print(f"    ❌ Error: {e}")
-            return None
+        return None
     
     # =========================================================================
     # TECHNICAL ANALYSIS
