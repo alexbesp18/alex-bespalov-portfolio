@@ -7,6 +7,7 @@ Each file is stamped with the fetch date to enable daily refresh logic.
 import datetime
 import json
 import logging
+import os
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -37,7 +38,7 @@ class DataCache:
         """
         self.cache_dir = Path(cache_dir)
         self.verbose = verbose
-        self.today = datetime.date.today().isoformat()
+        self.today = os.environ.get('CACHE_DATE') or datetime.date.today().isoformat()
 
         # Ensure directories exist
         self.twelve_data_dir = self.cache_dir / "twelve_data"

@@ -142,7 +142,7 @@ def get_cached_tickers(cache_dir: Path) -> List[str]:
         return []
 
     # Try today's files first
-    today = datetime.now().strftime('%Y-%m-%d')
+    today = os.environ.get('CACHE_DATE') or datetime.now().strftime('%Y-%m-%d')
     tickers = []
     for f in cache_dir.glob(f"*_{today}.json"):
         ticker = f.stem.replace(f"_{today}", "")

@@ -24,7 +24,7 @@ jobs:
 
       - name: Get today's date for cache key
         id: date
-        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+        run: echo "date=$(TZ=America/Chicago date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       - name: Restore ticker cache
         id: cache-restore
@@ -96,6 +96,7 @@ jobs:
 
       - name: Run cache refresh (technicals only)
         env:
+          CACHE_DATE: ${{ steps.date.outputs.date }}
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
           TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
           TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
@@ -140,7 +141,7 @@ jobs:
 
       - name: Get today's date for cache key
         id: date
-        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+        run: echo "date=$(TZ=America/Chicago date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       - name: Restore ticker cache
         uses: actions/cache/restore@v4
@@ -215,7 +216,7 @@ jobs:
 
       - name: Get today's date for cache key
         id: date
-        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+        run: echo "date=$(TZ=America/Chicago date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       - name: Restore ticker cache
         uses: actions/cache/restore@v4
@@ -267,7 +268,7 @@ jobs:
 
       - name: Get today's date for cache key
         id: date
-        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+        run: echo "date=$(TZ=America/Chicago date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       - name: Restore ticker cache
         uses: actions/cache/restore@v4

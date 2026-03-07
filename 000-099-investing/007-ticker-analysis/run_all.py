@@ -320,8 +320,8 @@ def main():
             print("-" * 40)
 
             def _grok_analyze(item):
-                ticker, _, mh_data = item
-                result = next(r for r in tech_results if r.get('Ticker') == ticker)
+                ticker, result_idx, mh_data = item
+                result = tech_results[result_idx]
                 ai = grok.analyze_technicals(ticker, result)
                 ai_mh = {}
                 if mh_data:
@@ -333,9 +333,15 @@ def main():
                 futures = {pool.submit(_grok_analyze, item): item for item in pending_grok}
                 for future in as_completed(futures):
                     completed += 1
-                    ticker, ai, mh_data, ai_mh = future.result()
-                    # Update result in-place
-                    tech_results[futures[future][1]].update(ai)
+                    item = futures[future]
+                    try:
+                        ticker, ai, mh_data, ai_mh = future.result()
+                    except Exception as e:
+                        print(f"   ⚠️  Grok failed for {item[0]}: {e}")
+                        if item[2]:  # still add mh_data without AI fields
+                            multi_horizon_results.append(item[2])
+                        continue
+                    tech_results[item[1]].update(ai)
                     if mh_data:
                         mh_data.update(ai_mh)
                         multi_horizon_results.append(mh_data)

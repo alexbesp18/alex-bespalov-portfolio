@@ -18,7 +18,7 @@ jobs:
 
       - name: Get today's date for cache key
         id: date
-        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+        run: echo "date=$(TZ=America/Chicago date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -81,6 +81,7 @@ jobs:
 
       - name: Run cache refresh (limit 5 tickers)
         env:
+          CACHE_DATE: ${{ steps.date.outputs.date }}
           TWELVE_DATA_API_KEY: ${{ secrets.TWELVE_DATA_API_KEY }}
           TWELVE_DATA_API_KEY_2: ${{ secrets.TWELVE_DATA_API_KEY_2 }}
           TWELVE_DATA_API_KEY_3: ${{ secrets.TWELVE_DATA_API_KEY_3 }}
