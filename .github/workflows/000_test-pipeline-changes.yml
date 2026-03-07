@@ -149,13 +149,12 @@ jobs:
       - name: Validate Sheets writes
         run: |
           echo "=== Checking Sheets writes ==="
-          # Tech data written
-          grep -q "rows to.*Tech_Data" /tmp/refresh.log
-          echo "PASS: Tech data written to Sheets"
+          # Summary line confirms both tabs written
+          grep -q "Data written to:.*Tech_Data" /tmp/refresh.log
+          echo "PASS: Tech_Data confirmed in write summary"
 
-          # Multi-horizon written
-          grep -q "rows to.*tech_analysis_clean" /tmp/refresh.log
-          echo "PASS: Multi-horizon data written to Sheets"
+          grep -q "Data written to:.*tech_analysis_clean" /tmp/refresh.log
+          echo "PASS: tech_analysis_clean confirmed in write summary"
 
           # Sheets write phase reached
           grep -q "WRITING TO GOOGLE SHEETS" /tmp/refresh.log
