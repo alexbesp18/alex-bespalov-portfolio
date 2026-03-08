@@ -4,7 +4,13 @@ on:
   schedule:
     # 4:30 PM ET = 21:30 UTC (EST) or 20:30 UTC (EDT)
     - cron: '30 21 * * 1-5'  # Weekdays only
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:
+    inputs:
+      skip_cache:
+        description: 'Skip cache restore (full refresh from scratch)'
+        required: false
+        type: boolean
+        default: false
 
 env:
   CACHE_PATH: 000-099-investing/007-ticker-analysis/data
@@ -28,6 +34,7 @@ jobs:
 
       - name: Restore ticker cache
         id: cache-restore
+        if: ${{ github.event_name != 'schedule' && github.event.inputs.skip_cache != 'true' }}
         uses: actions/cache/restore@v4
         with:
           path: ${{ env.CACHE_PATH }}
