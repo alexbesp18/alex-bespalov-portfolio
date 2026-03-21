@@ -1,0 +1,156 @@
+{% extends "base.html" %}
+
+{% block title %}Top Hotel Deals - US Hotel Scraper{% endblock %}
+
+{% block content %}
+<div class="mb-6">
+    <div class="flex justify-between items-center mb-2">
+        <h1 class="text-2xl font-bold text-gray-800">Top Hotel Deals</h1>
+        {% if latest_run and latest_run.completed_at %}
+        <div class="text-sm text-gray-500">
+            Last updated: {{ latest_run.completed_at[:16].replace('T', ' ') }} UTC
+        </div>
+        {% endif %}
+    </div>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
+        <div class="bg-white rounded-lg p-3 shadow">
+            <div class="text-gray-500">Active Cities</div>
+            <div class="text-xl font-bold text-blue-600">{{ stats.cities_with_agoda_id }}</div>
+        </div>
+        <div class="bg-white rounded-lg p-3 shadow">
+            <div class="text-gray-500">Total Hotels</div>
+            <div class="text-xl font-bold text-blue-600">{{ stats.total_hotels|number }}</div>
+        </div>
+        <div class="bg-white rounded-lg p-3 shadow">
+            <div class="text-gray-500">Active Deals</div>
+            <div class="text-xl font-bold text-blue-600">{{ stats.active_deals|number }}</div>
+        </div>
+        <div class="bg-white rounded-lg p-3 shadow">
+            <div class="text-gray-500">Best Yield</div>
+            <div class="text-xl font-bold text-green-600">{{ "%.1f"|format(stats.max_yield) }} LP/$</div>
+        </div>
+    </div>
+</div>
+
+<!-- Filters -->
+<div class="bg-white rounded-lg shadow p-4 mb-6">
+    <form method="get" class="grid grid-cols-2 md:grid-cols-6 gap-4">
+        <div>
+            <label class="block text-sm text-gray-600 mb-1">Min Yield (LP/$)</label>
+            <input type="number" name="min_yield" value="{{ filters.min_yield }}"
+                   step="0.5" min="0" max="100"
+                   class="w-full border rounded px-3 py-2">
+        </div>
+        <div>
+            <label class="block text-sm text-gray-600 mb-1">Min Stars</label>
+            <select name="min_stars" class="w-full border rounded px-3 py-2">
+                {% for i in range(1, 6) %}
+                <option value="{{ i }}" {% if filters.min_stars == i %}selected{% endif %}>{{ i }}+</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div>
+            <label class="block text-sm text-gray-600 mb-1">Max Stars</label>
+            <select name="max_stars" class="w-full border rounded px-3 py-2">
+                {% for i in range(1, 6) %}
+                <option value="{{ i }}" {% if filters.max_stars == i %}selected{% endif %}>{{ i }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div>
+            <label class="block text-sm text-gray-600 mb-1">City</label>
+            <select name="city_id" class="w-full border rounded px-3 py-2">
+                <option value="">All Cities</option>
+                {% for city in cities[:50] %}
+                <option value="{{ city.id }}" {% if filters.city_id == city.id %}selected{% endif %}>
+                    {{ city.city_name }}, {{ city.state }}
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+        <div>
+            <label class="block text-sm text-gray-600 mb-1">Sort By</label>
+            <select name="sort" class="w-full border rounded px-3 py-2">
+                <option value="yield_ratio" {% if filters.sort == 'yield_ratio' %}selected{% endif %}>Yield</option>
+                <option value="deal_score" {% if filters.sort == 'deal_score' %}selected{% endif %}>Deal Score</option>
+                <option value="total_cost" {% if filters.sort == 'total_cost' %}selected{% endif %}>Price</option>
+                <option value="stars" {% if filters.sort == 'stars' %}selected{% endif %}>Stars</option>
+            </select>
+        </div>
+        <div class="flex items-end">
+            <button type="submit" class="w-full bg-blue-600 text-white rounded px-4 py-2 hover:bg-blue-700">
+                Filter
+            </button>
+        </div>
+    </form>
+</div>
+
+<!-- Deals Table -->
+<div class="bg-white rounded-lg shadow overflow-hidden">
+    <table class="w-full">
+        <thead class="bg-gray-50">
+            <tr>
+                <th class="px-4 py-3 text-left text-sm font-medium text-gray-600">Hotel</th>
+                <th class="px-4 py-3 text-left text-sm font-medium text-gray-600">City</th>
+                <th class="px-4 py-3 text-center text-sm font-medium text-gray-600">Stars</th>
+                <th class="px-4 py-3 text-right text-sm font-medium text-gray-600">Yield</th>
+                <th class="px-4 py-3 text-right text-sm font-medium text-gray-600">Cost</th>
+                <th class="px-4 py-3 text-right text-sm font-medium text-gray-600">Miles</th>
+                <th class="px-4 py-3 text-left text-sm font-medium text-gray-600">Check-in</th>
+            </tr>
+        </thead>
+        <tbody class="divide-y divide-gray-200">
+            {% for deal in deals %}
+            <tr class="hover:bg-gray-50">
+                <td class="px-4 py-3">
+                    <div class="font-medium text-gray-900">
+                        {% if deal.url %}
+                        <a href="{{ deal.url }}" target="_blank" class="text-blue-600 hover:underline">
+                            {{ deal.hotel_name[:40] }}{% if deal.hotel_name|length > 40 %}...{% endif %}
+                        </a>
+                        {% else %}
+                        {{ deal.hotel_name[:40] }}{% if deal.hotel_name|length > 40 %}...{% endif %}
+                        {% endif %}
+                    </div>
+                    {% if deal.neighborhood %}
+                    <div class="text-xs text-gray-500">{{ deal.neighborhood }}</div>
+                    {% endif %}
+                </td>
+                <td class="px-4 py-3 text-sm text-gray-600">
+                    {{ deal.city_name }}, {{ deal.state }}
+                </td>
+                <td class="px-4 py-3 text-center star">
+                    {{ deal.stars|stars }}
+                </td>
+                <td class="px-4 py-3 text-right font-bold
+                    {% if deal.yield_ratio >= 25 %}yield-excellent
+                    {% elif deal.yield_ratio >= 15 %}yield-good
+                    {% else %}yield-okay{% endif %}">
+                    {{ "%.1f"|format(deal.yield_ratio) }}
+                </td>
+                <td class="px-4 py-3 text-right text-sm text-gray-600">
+                    {{ deal.total_cost|money }}
+                </td>
+                <td class="px-4 py-3 text-right text-sm font-medium text-purple-600">
+                    {{ deal.total_miles|number }}
+                </td>
+                <td class="px-4 py-3 text-sm text-gray-600">
+                    {{ deal.check_in[:10] }}
+                    <span class="text-xs text-gray-400">({{ deal.nights }}n)</span>
+                </td>
+            </tr>
+            {% else %}
+            <tr>
+                <td colspan="7" class="px-4 py-8 text-center text-gray-500">
+                    No deals found matching your criteria.
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="mt-4 text-sm text-gray-500 text-center">
+    Showing {{ deals|length }} deals
+</div>
+{% endblock %}

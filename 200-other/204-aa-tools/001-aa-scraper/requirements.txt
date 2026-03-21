@@ -1,0 +1,29 @@
+# AA Points Monitor - Dependencies
+# Python 3.11+
+
+# Browser automation
+playwright>=1.40.0
+
+# HTTP client
+httpx>=0.25.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Email
+resend>=0.7.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Fuzzy string matching
+rapidfuzz>=3.5.0
+
+# Cloud database
+supabase>=2.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+

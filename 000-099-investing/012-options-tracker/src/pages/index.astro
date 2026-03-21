@@ -1,0 +1,239 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import '../styles/global.css';
+---
+
+<BaseLayout>
+  <!-- Metric Cards -->
+  <div class="mb-8 grid grid-cols-1 gap-4 sm:grid-cols-3">
+    <div class="rounded-lg border border-border bg-bg-secondary p-5">
+      <p class="text-xs uppercase tracking-wider text-text-secondary">Worst Drawdown</p>
+      <p id="worst-dd" class="mt-1 font-mono text-2xl font-bold text-red">--</p>
+      <p id="worst-label" class="mt-1 text-xs text-text-secondary">--</p>
+    </div>
+    <div class="rounded-lg border border-border bg-bg-secondary p-5">
+      <p class="text-xs uppercase tracking-wider text-text-secondary">Contracts</p>
+      <p id="contract-count" class="mt-1 font-mono text-2xl font-bold text-text-primary">--</p>
+    </div>
+    <div class="rounded-lg border border-border bg-bg-secondary p-5">
+      <p class="text-xs uppercase tracking-wider text-text-secondary">Alerts Active</p>
+      <p id="alert-count" class="mt-1 font-mono text-2xl font-bold text-green">0</p>
+    </div>
+  </div>
+
+  <!-- Filters + Add Ticker -->
+  <div class="mb-6 flex flex-wrap items-center gap-4">
+    <select id="filter-ticker" class="rounded border border-border bg-surface px-3 py-2 text-sm text-text-primary">
+      <option value="all">All Tickers</option>
+    </select>
+    <select id="filter-exp" class="rounded border border-border bg-surface px-3 py-2 text-sm text-text-primary">
+      <option value="all">All Expirations</option>
+    </select>
+    <button id="add-btn" class="ml-auto rounded border border-accent bg-transparent px-4 py-2 text-sm font-medium text-accent hover:bg-accent hover:text-bg-primary transition-colors">+ Add Contract</button>
+  </div>
+
+  <!-- Add Ticker Form (hidden by default) -->
+  <div id="add-form" class="mb-6 hidden rounded-lg border border-accent/30 bg-bg-secondary p-5">
+    <h3 class="mb-4 text-sm font-semibold uppercase tracking-wider text-accent">Add Ticker</h3>
+    <p class="mb-3 text-xs text-text-secondary">Enter a ticker symbol. Auto-finds the furthest LEAPS expiration and selects ATM (~50 delta) + OTM (~30 delta) strikes.</p>
+    <div class="flex items-center gap-3">
+      <input id="add-ticker" type="text" placeholder="AMZN" class="w-40 rounded border border-border bg-surface px-3 py-2 text-sm text-text-primary uppercase" />
+      <button id="add-submit" class="rounded bg-accent px-5 py-2 text-sm font-semibold text-bg-primary hover:bg-accent/80 transition-colors">Add</button>
+    </div>
+    <p id="add-status" class="mt-3 text-xs hidden"></p>
+  </div>
+
+  <!-- ATM Table -->
+  <h2 class="mb-3 text-sm font-semibold uppercase tracking-wider text-accent">ATM Positions</h2>
+  <div class="mb-8 overflow-x-auto rounded-lg border border-border">
+    <table class="w-full min-w-[750px] border-collapse text-sm">
+      <thead>
+        <tr class="bg-bg-secondary text-left text-xs uppercase tracking-wider text-accent">
+          <th class="px-4 py-3">Label</th><th class="px-4 py-3">DTE</th>
+          <th class="px-4 py-3">Strike</th><th class="px-4 py-3">Spot</th>
+          <th class="px-4 py-3">Mid</th><th class="px-4 py-3">1d Chg</th>
+          <th class="px-4 py-3">ATH DD</th><th class="px-4 py-3">30d DD</th>
+        </tr>
+      </thead>
+      <tbody id="atm-body" class="divide-y divide-border"></tbody>
+    </table>
+  </div>
+
+  <!-- OTM Table -->
+  <h2 class="mb-3 text-sm font-semibold uppercase tracking-wider text-accent">OTM Positions</h2>
+  <div class="mb-8 overflow-x-auto rounded-lg border border-border">
+    <table class="w-full min-w-[750px] border-collapse text-sm">
+      <thead>
+        <tr class="bg-bg-secondary text-left text-xs uppercase tracking-wider text-accent">
+          <th class="px-4 py-3">Label</th><th class="px-4 py-3">DTE</th>
+          <th class="px-4 py-3">Strike</th><th class="px-4 py-3">Spot</th>
+          <th class="px-4 py-3">Mid</th><th class="px-4 py-3">1d Chg</th>
+          <th class="px-4 py-3">ATH DD</th><th class="px-4 py-3">30d DD</th>
+        </tr>
+      </thead>
+      <tbody id="otm-body" class="divide-y divide-border"></tbody>
+    </table>
+  </div>
+
+  <p id="loading" class="text-center text-sm text-text-secondary">Loading data...</p>
+</BaseLayout>
+
+<script>
+  // Data is from our own Supabase DB (trusted source, not user input)
+  import { createClient } from '@supabase/supabase-js';
+
+  const SUPABASE_URL = import.meta.env.PUBLIC_SUPABASE_URL || 'https://rxsmmrmahnvaarwsngtb.supabase.co';
+  const SUPABASE_ANON = import.meta.env.PUBLIC_SUPABASE_ANON_KEY || 'REPLACE_WITH_ENV_VAR';
+
+  const supabase = createClient(SUPABASE_URL, SUPABASE_ANON);
+
+  function ddClass(val: number | null): string {
+    if (val === null || val === undefined) return 'text-text-secondary';
+    if (val > -10) return 'text-green';
+    if (val > -20) return 'text-yellow';
+    if (val > -40) return 'text-orange';
+    return 'text-red font-bold';
+  }
+
+  function dteClass(val: number): string {
+    if (val > 365) return 'text-green';
+    if (val > 180) return 'text-yellow';
+    return 'text-red';
+  }
+
+  function $(v: number | null, pre = '', suf = '', d = 2): string {
+    if (v === null || v === undefined) return '--';
+    return pre + Number(v).toFixed(d) + suf;
+  }
+
+  function createCell(text: string, cls = ''): HTMLTableCellElement {
+    const td = document.createElement('td');
+    td.className = 'px-4 py-3 font-mono ' + cls;
+    td.textContent = text;
+    return td;
+  }
+
+  function buildRow(r: any): HTMLTableRowElement {
+    const tr = document.createElement('tr');
+    tr.className = 'hover:bg-surface/50 transition-colors';
+    const athDd = Number(r.dd_ath) || 0;
+    const dd30 = Number(r.dd_30d) || 0;
+    const dte = Number(r.dte) || 0;
+    const chg = r.chg_1d !== null ? Number(r.chg_1d) : null;
+    const chgStr = chg !== null ? (chg >= 0 ? '+' : '') + '$' + chg.toFixed(2) : '--';
+    const chgCls = chg !== null ? (chg < 0 ? 'text-red' : chg > 0 ? 'text-green' : '') : '';
+
+    tr.appendChild(createCell(r.label || '', 'font-medium font-sans'));
+    tr.appendChild(createCell(String(dte), dteClass(dte)));
+    tr.appendChild(createCell($(r.strike, '$', '', 0)));
+    tr.appendChild(createCell($(r.spot_price, '$')));
+    tr.appendChild(createCell($(r.mid_price, '$'), 'font-medium'));
+    tr.appendChild(createCell(chgStr, chgCls));
+    tr.appendChild(createCell($(athDd, '', '%', 1), ddClass(athDd)));
+    tr.appendChild(createCell($(dd30, '', '%', 1), ddClass(dd30)));
+    return tr;
+  }
+
+  function emptyRow(msg: string): HTMLTableRowElement {
+    const tr = document.createElement('tr');
+    const td = document.createElement('td');
+    td.colSpan = 8;
+    td.className = 'px-4 py-6 text-center text-text-secondary';
+    td.textContent = msg;
+    tr.appendChild(td);
+    return tr;
+  }
+
+  function render(data: any[], tf: string, ef: string) {
+    let f = data;
+    if (tf !== 'all') f = f.filter(r => r.ticker === tf);
+    if (ef !== 'all') f = f.filter(r => r.expiration === ef);
+    f.sort((a, b) => Math.min(Number(a.dd_ath)||0, Number(a.dd_30d)||0) - Math.min(Number(b.dd_ath)||0, Number(b.dd_30d)||0));
+
+    const atm = f.filter(r => r.label?.includes('ATM'));
+    const otm = f.filter(r => r.label?.includes('OTM'));
+    const atmEl = document.getElementById('atm-body')!;
+    const otmEl = document.getElementById('otm-body')!;
+    atmEl.replaceChildren(...(atm.length ? atm.map(buildRow) : [emptyRow('No ATM positions')]));
+    otmEl.replaceChildren(...(otm.length ? otm.map(buildRow) : [emptyRow('No OTM positions')]));
+
+    // Metrics
+    const all = [...atm, ...otm];
+    if (all.length) {
+      const worst = all.reduce((w, r) => Math.min(Number(r.dd_ath)||0, Number(r.dd_30d)||0) < Math.min(Number(w.dd_ath)||0, Number(w.dd_30d)||0) ? r : w);
+      const wv = Math.min(Number(worst.dd_ath)||0, Number(worst.dd_30d)||0);
+      const wEl = document.getElementById('worst-dd')!;
+      wEl.textContent = wv.toFixed(1) + '%';
+      wEl.className = 'mt-1 font-mono text-2xl font-bold ' + ddClass(wv);
+      document.getElementById('worst-label')!.textContent = worst.label || '--';
+      document.getElementById('contract-count')!.textContent = String(all.length);
+      const alerts = all.filter(r => Number(r.last_alert_level) > 0).length;
+      const aEl = document.getElementById('alert-count')!;
+      aEl.textContent = String(alerts);
+      aEl.className = 'mt-1 font-mono text-2xl font-bold ' + (alerts > 0 ? 'text-orange' : 'text-green');
+    }
+  }
+
+  async function init() {
+    const { data, error } = await supabase.schema('options_tracker').from('latest_dashboard').select('*');
+    const le = document.getElementById('loading')!;
+    if (error || !data?.length) { le.textContent = error?.message || 'No data yet.'; return; }
+    le.style.display = 'none';
+
+    document.getElementById('last-updated')!.textContent = 'Updated: ' + (data[0]?.snapshot_date || '');
+
+    const ts = document.getElementById('filter-ticker') as HTMLSelectElement;
+    const es = document.getElementById('filter-exp') as HTMLSelectElement;
+    [...new Set(data.map((r: any) => r.ticker))].sort().forEach(t => { const o = document.createElement('option'); o.value = t; o.textContent = t; ts.appendChild(o); });
+    [...new Set(data.map((r: any) => r.expiration))].sort().forEach(e => { const o = document.createElement('option'); o.value = e; o.textContent = e; es.appendChild(o); });
+
+    render(data, 'all', 'all');
+    ts.addEventListener('change', () => render(data, ts.value, es.value));
+    es.addEventListener('change', () => render(data, ts.value, es.value));
+
+    // Add ticker form toggle
+    document.getElementById('add-btn')!.addEventListener('click', () => {
+      document.getElementById('add-form')!.classList.toggle('hidden');
+    });
+
+    // Add ticker — calls /api/dispatch which triggers GitHub Actions
+    document.getElementById('add-submit')!.addEventListener('click', async () => {
+      const ticker = (document.getElementById('add-ticker') as HTMLInputElement).value.trim().toUpperCase();
+      const status = document.getElementById('add-status')!;
+
+      if (!ticker || !/^[A-Z]{1,5}$/.test(ticker)) {
+        status.textContent = 'Enter a valid ticker (1-5 letters).';
+        status.className = 'mt-3 text-xs text-red';
+        status.classList.remove('hidden');
+        return;
+      }
+
+      status.textContent = `Adding ${ticker}... finding best LEAPS strikes (~45s)`;
+      status.className = 'mt-3 text-xs text-text-secondary';
+      status.classList.remove('hidden');
+
+      try {
+        const res = await fetch('/api/dispatch', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ ticker }),
+        });
+        const result = await res.json();
+
+        if (res.ok) {
+          status.textContent = `Triggered for ${ticker}! Auto-finding best ATM+OTM strikes. Refresh in ~1 min.`;
+          status.className = 'mt-3 text-xs text-green';
+          (document.getElementById('add-ticker') as HTMLInputElement).value = '';
+        } else {
+          status.textContent = 'Error: ' + (result.error || 'Unknown');
+          status.className = 'mt-3 text-xs text-red';
+        }
+      } catch (e: any) {
+        status.textContent = 'Error: ' + (e.message || 'Network error');
+        status.className = 'mt-3 text-xs text-red';
+      }
+    });
+  }
+
+  init();
+</script>

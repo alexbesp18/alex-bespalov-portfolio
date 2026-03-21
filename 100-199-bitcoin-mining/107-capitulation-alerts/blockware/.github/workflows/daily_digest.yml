@@ -1,0 +1,26 @@
+name: Blockware Daily Digest
+
+on:
+  schedule:
+    - cron: '5 14 * * *'  # 9:05 AM CT (daily, 5 min after SimpleMining)
+  workflow_dispatch:        # manual trigger for testing
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily digest
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m src.digest

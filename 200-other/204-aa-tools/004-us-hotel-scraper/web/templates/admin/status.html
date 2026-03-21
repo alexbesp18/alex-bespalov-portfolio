@@ -1,0 +1,106 @@
+{% extends "base.html" %}
+
+{% block title %}Status - US Hotel Scraper{% endblock %}
+
+{% block content %}
+<h1 class="text-2xl font-bold text-gray-800 mb-6">Scraper Status</h1>
+
+<div class="grid md:grid-cols-2 gap-6">
+    <!-- Database Stats -->
+    <div class="bg-white rounded-lg shadow p-6">
+        <h2 class="text-lg font-semibold text-gray-700 mb-4">Database Statistics</h2>
+        <div class="space-y-3">
+            <div class="flex justify-between">
+                <span class="text-gray-600">Total Cities</span>
+                <span class="font-medium">{{ stats.total_cities }}</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-gray-600">Cities with Agoda ID</span>
+                <span class="font-medium text-green-600">{{ stats.cities_with_agoda_id }}</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-gray-600">Total Hotels</span>
+                <span class="font-medium">{{ stats.total_hotels|number }}</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-gray-600">Active Deals</span>
+                <span class="font-medium">{{ stats.active_deals|number }}</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-gray-600">Average Yield</span>
+                <span class="font-medium">{{ "%.2f"|format(stats.avg_yield) }} LP/$</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-gray-600">Best Yield</span>
+                <span class="font-medium text-green-600">{{ "%.2f"|format(stats.max_yield) }} LP/$</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Latest Scrape Run -->
+    <div class="bg-white rounded-lg shadow p-6">
+        <h2 class="text-lg font-semibold text-gray-700 mb-4">Latest Scrape Run</h2>
+        {% if latest_run %}
+        <div class="space-y-3">
+            <div class="flex justify-between">
+                <span class="text-gray-600">Session ID</span>
+                <span class="font-mono text-sm">{{ latest_run.session_id }}</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-gray-600">Status</span>
+                <span class="font-medium
+                    {% if latest_run.status == 'completed' %}text-green-600
+                    {% elif latest_run.status == 'running' %}text-blue-600
+                    {% else %}text-red-600{% endif %}">
+                    {{ latest_run.status|upper }}
+                </span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-gray-600">Cities</span>
+                <span class="font-medium">
+                    {{ latest_run.cities_completed }}/{{ latest_run.cities_total }}
+                    {% if latest_run.cities_failed > 0 %}
+                    <span class="text-red-600">({{ latest_run.cities_failed }} failed)</span>
+                    {% endif %}
+                </span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-gray-600">Hotels Found</span>
+                <span class="font-medium">{{ latest_run.hotels_found|number }}</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-gray-600">Deals Stored</span>
+                <span class="font-medium">{{ latest_run.deals_found|number }}</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-gray-600">Started</span>
+                <span class="font-medium">{{ latest_run.started_at[:19] }}</span>
+            </div>
+            {% if latest_run.completed_at %}
+            <div class="flex justify-between">
+                <span class="text-gray-600">Completed</span>
+                <span class="font-medium">{{ latest_run.completed_at[:19] }}</span>
+            </div>
+            {% endif %}
+        </div>
+        {% else %}
+        <p class="text-gray-500">No scrape runs found. Run the scraper first.</p>
+        {% endif %}
+    </div>
+</div>
+
+<!-- Quick Actions -->
+<div class="bg-white rounded-lg shadow p-6 mt-6">
+    <h2 class="text-lg font-semibold text-gray-700 mb-4">Quick Actions</h2>
+    <div class="space-y-2 text-sm text-gray-600">
+        <p>To run the scraper:</p>
+        <code class="block bg-gray-100 p-2 rounded">python scripts/run_scraper.py</code>
+
+        <p class="mt-4">To discover cities:</p>
+        <code class="block bg-gray-100 p-2 rounded">python scripts/discover_cities.py</code>
+
+        <p class="mt-4">To export deals:</p>
+        <code class="block bg-gray-100 p-2 rounded">python scripts/export_csv.py</code>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AA Hotel Deals - Top 20 National</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .loading { animation: pulse 2s infinite; }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8 max-w-6xl">
+        <!-- Header -->
+        <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <div class="flex justify-between items-center">
+                <div>
+                    <h1 class="text-2xl font-bold text-gray-800">AA Hotel Deals</h1>
+                    <p class="text-gray-600">Top 20 high-yield opportunities nationwide</p>
+                </div>
+                <div class="text-right">
+                    <button onclick="fetchDeals()" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md transition">
+                        Refresh
+                    </button>
+                    <p id="lastUpdated" class="text-sm text-gray-500 mt-2"></p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Stats Bar -->
+        <div id="statsBar" class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+            <div class="bg-white rounded-lg shadow p-4">
+                <p class="text-sm text-gray-500">Active Deals</p>
+                <p id="statDeals" class="text-2xl font-bold text-blue-600">--</p>
+            </div>
+            <div class="bg-white rounded-lg shadow p-4">
+                <p class="text-sm text-gray-500">Avg Yield</p>
+                <p id="statAvgYield" class="text-2xl font-bold text-green-600">--</p>
+            </div>
+            <div class="bg-white rounded-lg shadow p-4">
+                <p class="text-sm text-gray-500">Max Yield</p>
+                <p id="statMaxYield" class="text-2xl font-bold text-purple-600">--</p>
+            </div>
+            <div class="bg-white rounded-lg shadow p-4">
+                <p class="text-sm text-gray-500">Cities</p>
+                <p id="statCities" class="text-2xl font-bold text-orange-600">--</p>
+            </div>
+        </div>
+
+        <!-- City Filter -->
+        <div class="bg-white rounded-lg shadow-md p-4 mb-6">
+            <div class="flex flex-wrap items-center gap-4">
+                <div class="flex items-center gap-2">
+                    <label class="text-sm font-medium text-gray-700">Cities:</label>
+                    <button id="modeToggle" onclick="toggleMode()" class="text-xs px-2 py-1 rounded bg-red-100 text-red-700">
+                        Excluding
+                    </button>
+                </div>
+                <div class="relative flex-1 min-w-64">
+                    <button id="cityDropdown" onclick="toggleCityDropdown()"
+                            class="w-full text-left border rounded px-3 py-2 bg-white hover:bg-gray-50 flex justify-between items-center">
+                        <span id="citySelectionText">All cities</span>
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                        </svg>
+                    </button>
+                    <div id="cityDropdownMenu" class="hidden absolute z-10 mt-1 w-full bg-white border rounded shadow-lg max-h-64 overflow-y-auto">
+                        <div class="sticky top-0 bg-gray-50 p-2 border-b flex gap-2">
+                            <button onclick="selectAllCities()" class="text-xs px-2 py-1 bg-gray-200 rounded hover:bg-gray-300">All</button>
+                            <button onclick="selectNoCities()" class="text-xs px-2 py-1 bg-gray-200 rounded hover:bg-gray-300">None</button>
+                            <button onclick="invertCitySelection()" class="text-xs px-2 py-1 bg-gray-200 rounded hover:bg-gray-300">Invert</button>
+                        </div>
+                        <div id="cityList" class="p-2">
+                            <!-- Cities loaded dynamically -->
+                        </div>
+                    </div>
+                </div>
+                <button onclick="applyFilters()" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md transition">
+                    Apply
+                </button>
+            </div>
+        </div>
+
+        <!-- Deals Table -->
+        <div class="bg-white rounded-lg shadow-md overflow-hidden">
+            <div class="overflow-x-auto">
+                <table class="w-full">
+                    <thead class="bg-gray-50">
+                        <tr>
+                            <th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Hotel</th>
+                            <th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">City</th>
+                            <th class="px-4 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider">Stars</th>
+                            <th class="px-4 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider">Yield</th>
+                            <th class="px-4 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Cost</th>
+                            <th class="px-4 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">Miles</th>
+                            <th class="px-4 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider">Check-in</th>
+                            <th class="px-4 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider">Nights</th>
+                        </tr>
+                    </thead>
+                    <tbody id="dealsBody" class="divide-y divide-gray-200">
+                        <tr id="loadingRow">
+                            <td colspan="8" class="px-4 py-8 text-center text-gray-500 loading">
+                                Loading deals...
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="text-center mt-6 text-sm text-gray-500">
+            <p>Data from aadvantagehotels.com | Data updates daily at 2am CT</p>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = '/api';
+
+        // City filter state
+        let allCities = [];
+        let selectedCityIds = new Set();
+        let excludeMode = true; // Default: checked cities are EXCLUDED
+
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        }
+
+        function formatStars(count) {
+            const filled = Math.min(Math.max(0, count), 5);
+            return '\u2605'.repeat(filled) + '\u2606'.repeat(5 - filled);
+        }
+
+        function getYieldClasses(yield_ratio) {
+            if (yield_ratio >= 25) return ['text-green-700', 'bg-green-100'];
+            if (yield_ratio >= 20) return ['text-green-600', 'bg-green-50'];
+            if (yield_ratio >= 15) return ['text-yellow-700', 'bg-yellow-100'];
+            return ['text-gray-700'];
+        }
+
+        function escapeText(str) {
+            if (str == null) return '';
+            return String(str);
+        }
+
+        function createTextCell(text, classes = []) {
+            const td = document.createElement('td');
+            td.textContent = escapeText(text);
+            classes.forEach(c => td.classList.add(c));
+            return td;
+        }
+
+        async function fetchStats() {
+            try {
+                const response = await fetch(API_BASE + '/stats');
+                const data = await response.json();
+
+                if (data.stats) {
+                    document.getElementById('statDeals').textContent =
+                        data.stats.active_deals ? data.stats.active_deals.toLocaleString() : '--';
+                    document.getElementById('statAvgYield').textContent =
+                        data.stats.avg_yield ? data.stats.avg_yield + ' LP/$' : '--';
+                    document.getElementById('statMaxYield').textContent =
+                        data.stats.max_yield ? data.stats.max_yield + ' LP/$' : '--';
+                    document.getElementById('statCities').textContent =
+                        data.stats.cities_with_agoda_id || '--';
+                }
+
+                // Show actual scrape completion time
+                if (data.latest_run && data.latest_run.completed_at) {
+                    const scrapeTime = new Date(data.latest_run.completed_at);
+                    document.getElementById('lastUpdated').textContent =
+                        'Data from: ' + scrapeTime.toLocaleDateString() + ' ' + scrapeTime.toLocaleTimeString();
+                }
+            } catch (error) {
+                console.error('Error fetching stats:', error);
+            }
+        }
+
+        function clearTable() {
+            const tbody = document.getElementById('dealsBody');
+            while (tbody.firstChild) {
+                tbody.removeChild(tbody.firstChild);
+            }
+            return tbody;
+        }
+
+        function showLoading(tbody) {
+            const tr = document.createElement('tr');
+            const td = document.createElement('td');
+            td.setAttribute('colspan', '8');
+            td.className = 'px-4 py-8 text-center text-gray-500 loading';
+            td.textContent = 'Loading deals...';
+            tr.appendChild(td);
+            tbody.appendChild(tr);
+        }
+
+        function showError(tbody, message) {
+            const tr = document.createElement('tr');
+            const td = document.createElement('td');
+            td.setAttribute('colspan', '8');
+            td.className = 'px-4 py-8 text-center text-red-500';
+            td.textContent = message;
+            tr.appendChild(td);
+            tbody.appendChild(tr);
+        }
+
+        function showEmpty(tbody) {
+            const tr = document.createElement('tr');
+            const td = document.createElement('td');
+            td.setAttribute('colspan', '8');
+            td.className = 'px-4 py-8 text-center text-gray-500';
+            td.textContent = 'No deals found matching criteria';
+            tr.appendChild(td);
+            tbody.appendChild(tr);
+        }
+
+        function createDealRow(deal, idx) {
+            const tr = document.createElement('tr');
+            tr.className = (idx % 2 === 0 ? 'bg-white' : 'bg-gray-50') + ' hover:bg-blue-50 transition';
+
+            // Hotel name cell
+            const tdHotel = document.createElement('td');
+            tdHotel.className = 'px-4 py-3';
+            const hotelName = document.createElement('div');
+            hotelName.className = 'font-medium text-gray-900 truncate max-w-xs';
+            hotelName.textContent = escapeText(deal.hotel_name);
+            hotelName.title = escapeText(deal.hotel_name);
+            tdHotel.appendChild(hotelName);
+            if (deal.neighborhood) {
+                const neighborhood = document.createElement('div');
+                neighborhood.className = 'text-xs text-gray-500';
+                neighborhood.textContent = escapeText(deal.neighborhood);
+                tdHotel.appendChild(neighborhood);
+            }
+            tr.appendChild(tdHotel);
+
+            // City cell
+            const tdCity = document.createElement('td');
+            tdCity.className = 'px-4 py-3 text-gray-600';
+            tdCity.textContent = escapeText(deal.city_name) + ', ' + escapeText(deal.state);
+            tr.appendChild(tdCity);
+
+            // Stars cell
+            const tdStars = document.createElement('td');
+            tdStars.className = 'px-4 py-3 text-center text-yellow-500 text-sm';
+            tdStars.textContent = formatStars(deal.stars || 0);
+            tr.appendChild(tdStars);
+
+            // Yield cell
+            const tdYield = document.createElement('td');
+            tdYield.className = 'px-4 py-3 text-center';
+            const yieldSpan = document.createElement('span');
+            yieldSpan.className = 'px-2 py-1 rounded font-bold';
+            getYieldClasses(deal.yield_ratio).forEach(c => yieldSpan.classList.add(c));
+            yieldSpan.textContent = (deal.yield_ratio ? deal.yield_ratio.toFixed(1) : '0') + ' LP/$';
+            tdYield.appendChild(yieldSpan);
+            tr.appendChild(tdYield);
+
+            // Cost cell
+            const tdCost = document.createElement('td');
+            tdCost.className = 'px-4 py-3 text-right text-gray-700';
+            tdCost.textContent = '$' + (deal.total_cost ? deal.total_cost.toFixed(0) : '0');
+            tr.appendChild(tdCost);
+
+            // Miles cell
+            const tdMiles = document.createElement('td');
+            tdMiles.className = 'px-4 py-3 text-right text-blue-600 font-medium';
+            tdMiles.textContent = deal.total_miles ? deal.total_miles.toLocaleString() : '0';
+            tr.appendChild(tdMiles);
+
+            // Check-in cell
+            const tdCheckin = document.createElement('td');
+            tdCheckin.className = 'px-4 py-3 text-center text-gray-600';
+            tdCheckin.textContent = formatDate(deal.check_in);
+            tr.appendChild(tdCheckin);
+
+            // Nights cell
+            const tdNights = document.createElement('td');
+            tdNights.className = 'px-4 py-3 text-center text-gray-600';
+            tdNights.textContent = deal.nights + 'N';
+            tr.appendChild(tdNights);
+
+            return tr;
+        }
+
+        // City filter functions
+        async function fetchCities() {
+            try {
+                const response = await fetch(API_BASE + '/cities');
+                const data = await response.json();
+                allCities = data.cities || [];
+                renderCityList();
+            } catch (error) {
+                console.error('Error fetching cities:', error);
+            }
+        }
+
+        function renderCityList() {
+            const container = document.getElementById('cityList');
+            container.innerHTML = '';
+            allCities.forEach(function(city) {
+                const label = document.createElement('label');
+                label.className = 'flex items-center px-2 py-1 hover:bg-gray-100 rounded cursor-pointer';
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.value = city.id;
+                checkbox.checked = selectedCityIds.has(city.id);
+                checkbox.className = 'mr-2';
+                checkbox.onchange = function() {
+                    if (this.checked) {
+                        selectedCityIds.add(city.id);
+                    } else {
+                        selectedCityIds.delete(city.id);
+                    }
+                    updateSelectionText();
+                };
+                label.appendChild(checkbox);
+                label.appendChild(document.createTextNode(city.city_name + ', ' + city.state));
+                container.appendChild(label);
+            });
+        }
+
+        function toggleCityDropdown() {
+            const menu = document.getElementById('cityDropdownMenu');
+            menu.classList.toggle('hidden');
+        }
+
+        function toggleMode() {
+            excludeMode = !excludeMode;
+            const btn = document.getElementById('modeToggle');
+            if (excludeMode) {
+                btn.textContent = 'Excluding';
+                btn.className = 'text-xs px-2 py-1 rounded bg-red-100 text-red-700';
+            } else {
+                btn.textContent = 'Including';
+                btn.className = 'text-xs px-2 py-1 rounded bg-green-100 text-green-700';
+            }
+            updateSelectionText();
+        }
+
+        function selectAllCities() {
+            allCities.forEach(function(city) {
+                selectedCityIds.add(city.id);
+            });
+            renderCityList();
+            updateSelectionText();
+        }
+
+        function selectNoCities() {
+            selectedCityIds.clear();
+            renderCityList();
+            updateSelectionText();
+        }
+
+        function invertCitySelection() {
+            allCities.forEach(function(city) {
+                if (selectedCityIds.has(city.id)) {
+                    selectedCityIds.delete(city.id);
+                } else {
+                    selectedCityIds.add(city.id);
+                }
+            });
+            renderCityList();
+            updateSelectionText();
+        }
+
+        function updateSelectionText() {
+            const textEl = document.getElementById('citySelectionText');
+            const count = selectedCityIds.size;
+            if (count === 0) {
+                textEl.textContent = excludeMode ? 'All cities' : 'No cities selected';
+            } else if (excludeMode) {
+                textEl.textContent = 'All except ' + count + ' cit' + (count === 1 ? 'y' : 'ies');
+            } else {
+                textEl.textContent = count + ' cit' + (count === 1 ? 'y' : 'ies') + ' selected';
+            }
+        }
+
+        function applyFilters() {
+            document.getElementById('cityDropdownMenu').classList.add('hidden');
+            fetchDeals();
+        }
+
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+            const dropdown = document.getElementById('cityDropdownMenu');
+            const button = document.getElementById('cityDropdown');
+            if (!dropdown.contains(e.target) && !button.contains(e.target)) {
+                dropdown.classList.add('hidden');
+            }
+        });
+
+        async function fetchDeals() {
+            const tbody = clearTable();
+            showLoading(tbody);
+
+            try {
+                let url = API_BASE + '/deals?limit=20&min_yield=10&sort=yield_ratio';
+
+                // Add city filter if any cities are selected
+                if (selectedCityIds.size > 0) {
+                    const cityIdsStr = Array.from(selectedCityIds).join(',');
+                    url += '&city_ids=' + cityIdsStr;
+                    url += '&exclude_cities=' + excludeMode;
+                }
+
+                const response = await fetch(url);
+                const data = await response.json();
+
+                clearTable();
+
+                if (data.error) {
+                    showError(tbody, 'Error: ' + data.error);
+                    return;
+                }
+
+                if (!data.deals || data.deals.length === 0) {
+                    showEmpty(tbody);
+                    return;
+                }
+
+                data.deals.forEach(function(deal, idx) {
+                    tbody.appendChild(createDealRow(deal, idx));
+                });
+
+            } catch (error) {
+                console.error('Error fetching deals:', error);
+                clearTable();
+                showError(tbody, 'Failed to load deals. Check console for details.');
+            }
+        }
+
+        // Initial load
+        fetchDeals();
+        fetchStats();
+        fetchCities();
+    </script>
+</body>
+</html>

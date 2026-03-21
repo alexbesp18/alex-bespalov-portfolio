@@ -1,0 +1,12 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "python railway/auto_pattern_scrape.py"
+
+# Cron schedule: Run 3x daily at 2am, 10am, 6pm Central Time
+# Railway uses UTC, so CT offset: UTC-6 (CST) or UTC-5 (CDT)
+# 2am CT = 8am UTC (winter) / 7am UTC (summer)
+# 10am CT = 4pm UTC (winter) / 3pm UTC (summer)
+# 6pm CT = 12am UTC (winter) / 11pm UTC (summer)
+# Using approximate UTC times that work year-round
