@@ -130,4 +130,4 @@ American Airlines points optimization suite — automated SimplyMiles + portal s
 
 ---
 
-Austin, TX · [GitHub](https://github.com/alexbesp18) · [LinkedIn](https://linkedin.com/in/alexbespalov95) · Open to opportunities
+Austin, TX · [GitHub](https://github.com/alexbesp18) · Open to opportunities
