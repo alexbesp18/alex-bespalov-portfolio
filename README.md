@@ -73,6 +73,18 @@ Weekly AI-enriched digest of top Product Hunt launches — automated scraping, G
 
 Full pipeline: scrape → AI enrich → upsert → email. Runs automatically via GitHub Actions.
 
+### AI Model Price Scanner
+
+Daily bot cataloging 320+ AI models across 20 providers — automated tier classification (fast/flagship/deep), 20 pre-computed recommendations, and Grok web search for new releases. Queryable from any project via Supabase.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![xAI Grok](https://img.shields.io/badge/xAI_Grok-1DA1F2?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+Runs daily at 7 AM UTC for $0.90/mo. Word-boundary tier heuristics, power-law value scoring, 90-day retention. Portable via `claude_md_snippet.md` — any Claude project can query live model pricing.
+
 ### Bitcoin Mining Calculators
 
 Suite of production React financial calculators — profitability matrices across electricity rates, BTC-backed loan risk, hardware price tracking, and multi-asset portfolio modeling with Black-Scholes options valuation.
@@ -123,7 +135,8 @@ American Airlines points optimization suite — automated SimplyMiles + portal s
 
 200-other/
 ├── 202-product-hunt-ranking/  # Weekly AI-enriched digest
-└── 204-aa-tools/              # AA points optimization suite
+├── 204-aa-tools/              # AA points optimization suite
+└── 205-ai-model-scanner/      # Daily AI model pricing + recommendations
 ```
 
 </details>
