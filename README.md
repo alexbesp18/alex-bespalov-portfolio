@@ -8,7 +8,7 @@ Open to Data Engineering, AI Engineering, and Quantitative Developer roles.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 Everything here runs in production — daily cron jobs, live deployments, real alerts. All projects include automated testing and CI via GitHub Actions.
@@ -32,7 +32,7 @@ graph LR
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Twelve Data](https://img.shields.io/badge/Twelve_Data-1E88E5?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-6366F1?style=flat-square)
 
 Powered by a shared Python library with RSI, MACD, Bollinger Bands, Williams %R, ADX, and more. GitHub Actions cache shares ticker data across parallel consumer jobs.
 
@@ -69,7 +69,7 @@ Weekly AI-enriched digest of top Product Hunt launches — automated scraping, G
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square)
 ![xAI Grok](https://img.shields.io/badge/xAI_Grok-1DA1F2?style=flat-square)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-6366F1?style=flat-square)
 
 Full pipeline: scrape → AI enrich → upsert → email. Runs automatically via GitHub Actions.
 
@@ -87,7 +87,7 @@ Suite of production React financial calculators — profitability matrices acros
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=white)
 
 All apps deployed on Vercel. Shared zero-dependency JS library for mining calculations, constants, and formatters.
 
@@ -96,7 +96,7 @@ All apps deployed on Vercel. Shared zero-dependency JS library for mining calcul
 American Airlines points optimization suite — automated SimplyMiles + portal stacking alerts, hotel streak optimizer, and hotel search across US markets.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square)
 
 <details>
