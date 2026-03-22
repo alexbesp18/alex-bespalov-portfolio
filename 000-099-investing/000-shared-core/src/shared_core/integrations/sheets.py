@@ -186,6 +186,24 @@ class SheetManager:
         except (ValueError, gspread.WorksheetNotFound):
             return []
 
+    def read_tab_values(self, tab_name: str) -> List[List[str]]:
+        """Read all values from a worksheet tab (header + data rows).
+
+        Args:
+            tab_name: Name of the sheet tab.
+
+        Returns:
+            List of rows, each row a list of cell values as strings.
+
+        Raises:
+            ValueError: If tab does not exist.
+        """
+        try:
+            sheet = self.spreadsheet.worksheet(tab_name)
+        except gspread.WorksheetNotFound:
+            raise ValueError(f"Tab '{tab_name}' not found in spreadsheet")
+        return self._call_api(sheet.get_all_values)
+
     def get_existing_tech_data(self, tab_name: str) -> Dict[str, Dict[str, Any]]:
         """
         Read all existing tech data from the specified tab.
