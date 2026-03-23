@@ -52,14 +52,13 @@ Python cron fetches daily options data → computes mid-price and drawdowns → 
 
 ### Mining Capitulation Alerts
 
-Monitors 2 ASIC miner marketplaces (SimpleMining, Blockware) for capitulation deals — Telegram alerts when new-gen hardware drops 60–75% off ATH. Filters by efficiency (≤17.5 J/TH), computes revenue and ROI from live hashprice.
+Monitors 3 ASIC miner marketplaces (Blockware, SimpleMining, Compass Mining) for capitulation deals — Telegram alerts when new-gen hardware drops 40–60%+ off benchmarks. Unified repo with shared utilities, single GH Actions workflow runs all 3 checks sequentially.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-Runs every 10 minutes + daily digest. Multi-benchmark discount logic (last trade, ATH, 90-day average).
+Runs every 10 minutes + daily digest. Multi-benchmark discount logic (last trade, ATH, 90-day average, reference prices).
 
 ### Product Hunt Weekly Digest
 
@@ -73,17 +72,31 @@ Weekly AI-enriched digest of top Product Hunt launches — automated scraping, G
 
 Full pipeline: scrape → AI enrich → upsert → email. Runs automatically via GitHub Actions.
 
-### AI Model Price Scanner
+### AI Model Scanner — Decision API
 
-Daily bot cataloging 320+ AI models across 20 providers — automated tier classification (fast/flagship/deep), 20 pre-computed recommendations, and Grok web search for new releases. Queryable from any project via Supabase.
+Daily bot cataloging 320+ AI models across 20 providers — automated tier classification (fast/flagship/deep), 20 pre-computed recommendations, and a free public API. The only AI model comparison tool that returns answers, not raw data.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-model-scanner-web.vercel.app)
+[![API](https://img.shields.io/badge/Free_API-1E88E5?style=for-the-badge&logo=json&logoColor=white)](https://ai-model-scanner-web.vercel.app/api/models?help=true)
+
+```mermaid
+graph LR
+    A["205 Scanner<br/><i>OpenRouter + Grok</i>"] --> B["Supabase<br/><i>ai_scanner schema</i>"]
+    B --> C["206 Web + API<br/><i>Next.js on Vercel</i>"]
+    C --> D["/api/models"]
+    C --> E["/api/picks"]
+    C --> F["Public UI"]
+```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![xAI Grok](https://img.shields.io/badge/xAI_Grok-1DA1F2?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-333333?style=flat-square&logo=vercel&logoColor=white)
 
-Runs daily at 7 AM UTC for $0.90/mo. Word-boundary tier heuristics, power-law value scoring, 90-day retention. Portable via `claude_md_snippet.md` — any Claude project can query live model pricing.
+**Backend** scans daily at 7 AM UTC for $0.90/mo — OpenRouter API + Grok web search, tier classification, value scoring, 90-day retention. **Frontend** serves a single-page comparison tool with 3 free API endpoints (no auth, CORS enabled, rate-limited at 100 req/min). Pre-computed picks like "cheapest with tools" and "best for agents" — no competitor offers this via API.
 
 ### Bitcoin Mining Calculators
 
@@ -131,12 +144,13 @@ American Airlines points optimization suite — automated SimplyMiles + portal s
 ├── 104-portfolio-analyzer/
 ├── 105-landing-page/
 ├── 106-miner-price-scraper/
-└── 107-capitulation-alerts/ # SimpleMining + Blockware marketplace bots
+└── 107-capitulation-alerts/ # Blockware + SimpleMining + Compass Mining alert bots
 
 200-other/
 ├── 202-product-hunt-ranking/  # Weekly AI-enriched digest
 ├── 204-aa-tools/              # AA points optimization suite
-└── 205-ai-model-scanner/      # Daily AI model pricing + recommendations
+├── 205-ai-model-scanner/      # Daily AI model pricing + recommendations
+└── 206-ai-model-scanner-web/  # Public comparison tool + free API (Next.js)
 ```
 
 </details>
