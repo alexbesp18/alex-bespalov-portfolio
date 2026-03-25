@@ -23,10 +23,10 @@ from pathlib import Path
 from core import (
     load_config,
     DataCache,
-    TranscriptClient,
     GrokAnalyzer,
     SheetManager,
 )
+from shared_core import TranscriptClient
 
 
 def parse_args():

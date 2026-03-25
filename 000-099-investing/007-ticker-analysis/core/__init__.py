@@ -15,11 +15,14 @@ Project-specific modules:
 """
 
 # Re-export from shared_core
+# NOTE: TranscriptClient is NOT imported eagerly because it pulls in
+# defeatbeta_api, which makes a network call at import time (huggingface.co).
+# This crashes scripts like run_export.py when the Mac has no network.
+# Use: from shared_core import TranscriptClient  (where actually needed)
 from shared_core import (
     DataCache,
     TechnicalCalculator,
     TwelveDataClient,
-    TranscriptClient,
     SheetManager,
 )
 
@@ -32,7 +35,6 @@ __all__ = [
     'DataCache',
     'TechnicalCalculator',
     'TwelveDataClient',
-    'TranscriptClient',
     'SheetManager',
     # Project-specific
     'AppConfig',

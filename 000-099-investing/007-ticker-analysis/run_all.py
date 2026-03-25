@@ -29,10 +29,10 @@ from core import (
     load_config,
     DataCache,
     TwelveDataClient,
-    TranscriptClient,
     GrokAnalyzer,
     SheetManager,
 )
+from shared_core import TranscriptClient
 
 # Multi-horizon analysis (short/medium/long term)
 try:
