@@ -15,12 +15,17 @@ Usage:
 import argparse
 import csv
 import datetime as dt
+import fcntl
+import os
 import re
 import sys
+import tempfile
 import time
 from pathlib import Path
 
 from core import load_config, SheetManager
+
+LOCK_FILE = Path(tempfile.gettempdir()) / "sheet-export.lock"
 
 EXPORT_TABS = ["tech_analysis_clean", "Price movement"]
 FRESHNESS_TAB = "tech_analysis_clean"
@@ -125,8 +130,17 @@ def main():
 
         filename = f"{sanitize_name(tab)}.csv"
         path = out_dir / filename
-        with open(path, 'w', newline='') as f:
-            csv.writer(f).writerows(rows)
+        # Atomic write: write to temp file, then rename
+        tmp_fd, tmp_path = tempfile.mkstemp(
+            dir=str(out_dir), suffix='.csv.tmp', prefix=filename
+        )
+        try:
+            with os.fdopen(tmp_fd, 'w', newline='') as f:
+                csv.writer(f).writerows(rows)
+            os.replace(tmp_path, path)
+        except Exception:
+            os.unlink(tmp_path)
+            raise
         if args.verbose:
             print(f"   ✅ Saved: {path}")
 
@@ -138,6 +152,12 @@ def main():
 
 if __name__ == "__main__":
     try:
+        lock_fd = open(LOCK_FILE, 'w')
+        try:
+            fcntl.flock(lock_fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        except OSError:
+            print("⚠️  Another export is already running. Exiting.")
+            sys.exit(0)
         main()
     except KeyboardInterrupt:
         print("\n⚠️  Interrupted")
