@@ -25,6 +25,9 @@ from pathlib import Path
 
 from core import load_config, SheetManager
 
+# Force line-buffered stdout under launchd (no TTY = block-buffered by default)
+sys.stdout.reconfigure(line_buffering=True)
+
 LOCK_FILE = Path(tempfile.gettempdir()) / "sheet-export.lock"
 
 EXPORT_TABS = ["tech_analysis_clean", "Price movement"]
@@ -51,12 +54,30 @@ def parse_args():
     return parser.parse_args()
 
 
+def read_with_retry(sm: SheetManager, tab: str, verbose: bool,
+                    max_retries: int = 2) -> list:
+    """Read a sheet tab, retrying on timeout."""
+    for attempt in range(max_retries):
+        try:
+            return sm.read_tab_values(tab)
+        except Exception as e:
+            is_timeout = "timeout" in str(e).lower() or "Timeout" in type(e).__name__
+            if is_timeout and attempt < max_retries - 1:
+                if verbose:
+                    print(f"   ⚠️  Timeout reading '{tab}' "
+                          f"(attempt {attempt + 1}/{max_retries}), retrying...")
+                time.sleep(5)
+            else:
+                raise
+    return []  # unreachable, but satisfies type checkers
+
+
 def sanitize_name(tab_name: str) -> str:
     return re.sub(r'[^a-z0-9_]', '_', tab_name.lower()).strip('_')
 
 
 def is_data_fresh(sm: SheetManager, today: str, verbose: bool) -> bool:
-    rows = sm.read_tab_values(FRESHNESS_TAB)
+    rows = read_with_retry(sm, FRESHNESS_TAB, verbose)
     if len(rows) < 2:
         if verbose:
             print(f"   ⚠️  {FRESHNESS_TAB}: no data rows")
@@ -121,7 +142,7 @@ def main():
     for tab in EXPORT_TABS:
         if args.verbose:
             print(f"\n📊 Reading '{tab}'...")
-        rows = sm.read_tab_values(tab)
+        rows = read_with_retry(sm, tab, args.verbose)
         if args.verbose:
             print(f"   {len(rows) - 1} data rows")
 

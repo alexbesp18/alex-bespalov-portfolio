@@ -12,6 +12,7 @@ from typing import Any, Dict, List
 
 import gspread
 from google.oauth2.service_account import Credentials
+from requests.exceptions import ReadTimeout
 from tenacity import (
     before_sleep_log,
     retry,
@@ -25,7 +26,7 @@ logger = logging.getLogger(__name__)
 _sheets_retry = retry(
     stop=stop_after_attempt(3),
     wait=wait_exponential(multiplier=1, min=4, max=30),
-    retry=retry_if_exception_type(gspread.exceptions.APIError),
+    retry=retry_if_exception_type((gspread.exceptions.APIError, ReadTimeout)),
     before_sleep=before_sleep_log(logger, logging.WARNING),
     reraise=True,
 )
@@ -92,6 +93,7 @@ class SheetManager:
 
         creds = Credentials.from_service_account_file(credentials_file, scopes=scopes)
         self.gc = gspread.authorize(creds)
+        self.gc.set_timeout(30)  # 30s socket timeout — prevents indefinite hangs
 
         try:
             self.spreadsheet = self.gc.open(spreadsheet_name)
