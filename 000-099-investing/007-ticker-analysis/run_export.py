@@ -54,19 +54,34 @@ def parse_args():
     return parser.parse_args()
 
 
+RETRYABLE_ERRORS = (
+    ConnectionError, ConnectionResetError, TimeoutError, OSError,
+)
+RETRYABLE_MESSAGES = ("timeout", "connection reset", "connection aborted", "transport")
+
+
+def _is_retryable(e: Exception) -> bool:
+    """Check if an exception is a transient network error worth retrying."""
+    if isinstance(e, RETRYABLE_ERRORS):
+        return True
+    msg = str(e).lower()
+    return any(term in msg for term in RETRYABLE_MESSAGES)
+
+
 def read_with_retry(sm: SheetManager, tab: str, verbose: bool,
-                    max_retries: int = 2) -> list:
-    """Read a sheet tab, retrying on timeout."""
+                    max_retries: int = 3) -> list:
+    """Read a sheet tab, retrying on transient network errors."""
     for attempt in range(max_retries):
         try:
             return sm.read_tab_values(tab)
         except Exception as e:
-            is_timeout = "timeout" in str(e).lower() or "Timeout" in type(e).__name__
-            if is_timeout and attempt < max_retries - 1:
+            if _is_retryable(e) and attempt < max_retries - 1:
+                wait = 5 * (attempt + 1)
                 if verbose:
-                    print(f"   ⚠️  Timeout reading '{tab}' "
-                          f"(attempt {attempt + 1}/{max_retries}), retrying...")
-                time.sleep(5)
+                    print(f"   ⚠️  {type(e).__name__} reading '{tab}' "
+                          f"(attempt {attempt + 1}/{max_retries}), "
+                          f"retrying in {wait}s...")
+                time.sleep(wait)
             else:
                 raise
     return []  # unreachable, but satisfies type checkers
@@ -127,7 +142,21 @@ def main():
         print("CSV EXPORT")
         print("=" * 50)
 
-    sm = SheetManager(gs.credentials_file, gs.spreadsheet_name, verbose=args.verbose)
+    # Connect with retries — Google auth/API can drop connections transiently
+    sm = None
+    for attempt in range(3):
+        try:
+            sm = SheetManager(gs.credentials_file, gs.spreadsheet_name, verbose=args.verbose)
+            break
+        except Exception as e:
+            if _is_retryable(e) and attempt < 2:
+                wait = 10 * (attempt + 1)
+                if args.verbose:
+                    print(f"   ⚠️  {type(e).__name__} connecting to Sheets "
+                          f"(attempt {attempt + 1}/3), retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                raise
     today = dt.date.today().isoformat()
 
     if not args.no_wait:
