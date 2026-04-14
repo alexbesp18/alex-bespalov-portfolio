@@ -20,7 +20,6 @@ google-credentials.json
 *.json
 !config.json.example
 !package.json
-!package-lock.json
 !tsconfig.json
 # Alert config files are optional overrides (use cache by default)
 # !**/config/portfolio.json
@@ -72,6 +71,7 @@ reports/
 # 📦 NODE.JS
 # ============================================================================
 node_modules/
+package-lock.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
