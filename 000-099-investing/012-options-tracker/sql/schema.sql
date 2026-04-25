@@ -60,7 +60,10 @@ ALTER TABLE options_tracker.alert_log ENABLE ROW LEVEL SECURITY;
 
 CREATE POLICY "read_all_wl" ON options_tracker.watchlist FOR SELECT USING (true);
 CREATE POLICY "write_svc_wl" ON options_tracker.watchlist FOR ALL USING (current_setting('role') = 'service_role') WITH CHECK (current_setting('role') = 'service_role');
-CREATE POLICY "insert_anon_wl" ON options_tracker.watchlist FOR INSERT WITH CHECK (true);
+-- INSERT is service-role only. Previously contained an open INSERT policy
+-- (insert_anon_wl WITH CHECK (true)) which let any anon-key holder write rows.
+-- Removed 2026-04-25 — write_svc_wl FOR ALL already covers service_role inserts.
+CREATE POLICY "service_role_insert_wl" ON options_tracker.watchlist FOR INSERT TO service_role WITH CHECK (true);
 CREATE POLICY "read_all_dp" ON options_tracker.daily_prices FOR SELECT USING (true);
 CREATE POLICY "write_svc_dp" ON options_tracker.daily_prices FOR ALL USING (current_setting('role') = 'service_role') WITH CHECK (current_setting('role') = 'service_role');
 CREATE POLICY "read_all_al" ON options_tracker.alert_log FOR SELECT USING (true);
@@ -118,6 +121,8 @@ WHERE w.is_active = true;
 
 GRANT SELECT ON options_tracker.latest_dashboard TO anon, authenticated, service_role;
 
--- PostgREST schema exposure
-ALTER ROLE authenticator SET pgrst.db_schemas = 'public, ai_scanner, options_tracker';
-NOTIFY pgrst, 'reload schema';
+-- Expose schema to PostgREST (additive — register_exposed_schema only does GRANTs).
+-- DO NOT use ALTER ROLE authenticator SET pgrst.db_schemas — banned per CLAUDE.md
+-- after the 2026-03-20 / 2026-04-06 outages. Schema must also be added in
+-- Supabase Dashboard > Project Settings > API > Exposed Schemas.
+SELECT public.register_exposed_schema('options_tracker');
