@@ -5,6 +5,7 @@ Handles reading tickers and writing data back to sheets.
 
 import csv
 import logging
+import math
 import os
 import tempfile
 from pathlib import Path
@@ -30,6 +31,13 @@ _sheets_retry = retry(
     before_sleep=before_sleep_log(logger, logging.WARNING),
     reraise=True,
 )
+
+
+def _safe_cell(v: Any) -> Any:
+    # Sheets API ships values as JSON; NaN/Inf raise InvalidJSONError.
+    if isinstance(v, float) and not math.isfinite(v):
+        return ''
+    return v
 
 
 class SheetManager:
@@ -288,7 +296,7 @@ class SheetManager:
             rows.append(self.TECH_COLUMNS)
 
         for d in data:
-            row = [d.get(col, '') for col in self.TECH_COLUMNS]
+            row = [_safe_cell(d.get(col, '')) for col in self.TECH_COLUMNS]
             rows.append(row)
 
         try:
@@ -337,7 +345,7 @@ class SheetManager:
 
         for d in data:
             ticker = d.get('Ticker', '').upper()
-            row_data = [d.get(col, '') for col in self.TECH_COLUMNS]
+            row_data = [_safe_cell(d.get(col, '')) for col in self.TECH_COLUMNS]
 
             if ticker in existing_data:
                 row_num = existing_data[ticker]['row_number']
@@ -405,7 +413,7 @@ class SheetManager:
         rows = [self.MULTI_HORIZON_COLUMNS]
 
         for d in data:
-            row = [d.get(col, '') for col in self.MULTI_HORIZON_COLUMNS]
+            row = [_safe_cell(d.get(col, '')) for col in self.MULTI_HORIZON_COLUMNS]
             rows.append(row)
 
         try:
@@ -479,7 +487,7 @@ class SheetManager:
             rows.append(self.TRANSCRIPT_COLUMNS)
 
         for d in data:
-            row = [d.get(col, '') for col in self.TRANSCRIPT_COLUMNS]
+            row = [_safe_cell(d.get(col, '')) for col in self.TRANSCRIPT_COLUMNS]
             rows.append(row)
 
         try:
