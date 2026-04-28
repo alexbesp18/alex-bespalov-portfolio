@@ -390,7 +390,7 @@ jobs:
                 --arg html "$HTML" \
                 --argjson to "$(printf '%s' "$NOTIFICATION_EMAILS" | jq -R 'split(",") | map(select(length > 0))')" \
                 '{from:$from, to:$to, subject:$subj, html:$html}' \
-              | curl -sS --max-time 30 -X POST https://api.resend.com/emails \
+              | curl -sS --fail --max-time 30 -X POST https://api.resend.com/emails \
                   -H "Authorization: Bearer $RESEND_API_KEY" \
                   -H "Content-Type: application/json" \
                   --data-binary @- && email_ok=1 && break
@@ -401,7 +401,7 @@ jobs:
           tg_ok=0
           if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
             for i in 1 2 3; do
-              curl -sS --max-time 15 -X POST \
+              curl -sS --fail --max-time 15 -X POST \
                 "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
                 --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
                 --data-urlencode "text=${TEXT}" \
