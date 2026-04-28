@@ -34,6 +34,7 @@ EXPORT_TABS = ["tech_analysis_clean", "Price movement"]
 FRESHNESS_TAB = "tech_analysis_clean"
 POLL_INTERVAL = 900  # 15 minutes
 MAX_RETRIES = 8      # 2 hours total
+FRESHNESS_THRESHOLD = 0.8  # require ≥80% of rows stamped today (catches partial writes)
 
 
 def parse_args():
@@ -100,19 +101,19 @@ def is_data_fresh(sm: SheetManager, today: str, verbose: bool) -> bool:
 
     header = rows[0]
     updated_idx = header.index('Updated') if 'Updated' in header else 3
-    last_row = rows[-1]
+    data = rows[1:]
 
-    if updated_idx < len(last_row):
-        last_updated = last_row[updated_idx]
-        is_fresh = last_updated.startswith(today)
-        if verbose:
-            print(f"   Last row Updated: {last_updated} "
-                  f"({'✅ fresh' if is_fresh else '⏳ stale'})")
-        return is_fresh
-
+    fresh = sum(
+        1 for r in data
+        if updated_idx < len(r) and r[updated_idx].startswith(today)
+    )
+    ratio = fresh / len(data) if data else 0
+    is_fresh = ratio >= FRESHNESS_THRESHOLD
     if verbose:
-        print(f"   ⚠️  Updated column missing in last row")
-    return False
+        print(f"   Freshness: {fresh}/{len(data)} rows stamped {today} "
+              f"({ratio:.0%}, threshold {FRESHNESS_THRESHOLD:.0%}) "
+              f"{'✅ fresh' if is_fresh else '⏳ partial/stale'}")
+    return is_fresh
 
 
 def wait_for_fresh_data(

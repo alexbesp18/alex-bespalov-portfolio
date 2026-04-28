@@ -15,9 +15,16 @@ on:
 env:
   CACHE_PATH: 000-099-investing/007-ticker-analysis/data
 
+# Serialize runs so a manual workflow_dispatch can't race the scheduled run
+# on the same ticker-cache-<date> key. Don't cancel in-flight — let it finish.
+concurrency:
+  group: cache-refresh
+  cancel-in-progress: false
+
 jobs:
   refresh-cache:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     permissions:
       contents: write
     outputs:
@@ -142,6 +149,7 @@ jobs:
     needs: refresh-cache
     if: always()
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -217,6 +225,7 @@ jobs:
     needs: refresh-cache
     if: always()
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -269,6 +278,7 @@ jobs:
     needs: refresh-cache
     if: always()
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -284,6 +294,7 @@ jobs:
           key: ticker-cache-${{ steps.date.outputs.date }}
           restore-keys: |
             ticker-cache-
+          fail-on-cache-miss: true
 
       - name: Verify cache restored
         run: |
@@ -339,9 +350,10 @@ jobs:
           cd 000-099-investing/010-oversold
           python true_value.py --email
 
-  # Notify on failure
+  # Notify on failure — multi-channel with retry; never silently swallow.
   notify-failure:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     needs: [refresh-cache, run-alerts, run-reversals, run-oversold]
     if: failure()
     steps:
@@ -350,26 +362,59 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           REFRESH_RESULT: ${{ needs.refresh-cache.result }}
           ALERTS_RESULT: ${{ needs.run-alerts.result }}
           REVERSALS_RESULT: ${{ needs.run-reversals.result }}
           OVERSOLD_RESULT: ${{ needs.run-oversold.result }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
+          set +e
           FAILED=""
-          [ "$REFRESH_RESULT"   = "failure" ] && FAILED="${FAILED}<li>refresh-cache</li>"
-          [ "$ALERTS_RESULT"    = "failure" ] && FAILED="${FAILED}<li>run-alerts</li>"
-          [ "$REVERSALS_RESULT" = "failure" ] && FAILED="${FAILED}<li>run-reversals</li>"
-          [ "$OVERSOLD_RESULT"  = "failure" ] && FAILED="${FAILED}<li>run-oversold</li>"
-          [ -z "$FAILED" ] && FAILED="<li>(unknown — check run page)</li>"
-          BODY="<h2>Daily Cache Refresh — failed jobs</h2><ul>${FAILED}</ul><p><a href=\"${RUN_URL}\">View run on GitHub</a></p>"
-          jq -nc \
-            --arg from "$SENDER_EMAIL" \
-            --arg subj "Workflow Failed - $(date +%b\ %d)" \
-            --arg html "$BODY" \
-            --argjson to "$(printf '%s' "$NOTIFICATION_EMAILS" | jq -R 'split(",") | map(select(length > 0))')" \
-            '{from:$from, to:$to, subject:$subj, html:$html}' \
-          | curl -sS -X POST https://api.resend.com/emails \
-              -H "Authorization: Bearer $RESEND_API_KEY" \
-              -H "Content-Type: application/json" \
-              --data-binary @-
+          [ "$REFRESH_RESULT"   = "failure" ] && FAILED="${FAILED}refresh-cache "
+          [ "$ALERTS_RESULT"    = "failure" ] && FAILED="${FAILED}run-alerts "
+          [ "$REVERSALS_RESULT" = "failure" ] && FAILED="${FAILED}run-reversals "
+          [ "$OVERSOLD_RESULT"  = "failure" ] && FAILED="${FAILED}run-oversold "
+          [ -z "$FAILED" ] && FAILED="(unknown)"
+
+          HTML="<h2>Daily Cache Refresh — failed jobs</h2><p>$FAILED</p><p><a href=\"$RUN_URL\">View run on GitHub</a></p>"
+          TEXT="Daily Cache Refresh failed: ${FAILED}— $RUN_URL"
+
+          email_ok=0
+          if [ -n "$RESEND_API_KEY" ] && [ -n "$NOTIFICATION_EMAILS" ]; then
+            for i in 1 2 3; do
+              jq -nc \
+                --arg from "$SENDER_EMAIL" \
+                --arg subj "Workflow Failed - $(date +%b\ %d)" \
+                --arg html "$HTML" \
+                --argjson to "$(printf '%s' "$NOTIFICATION_EMAILS" | jq -R 'split(",") | map(select(length > 0))')" \
+                '{from:$from, to:$to, subject:$subj, html:$html}' \
+              | curl -sS --max-time 30 -X POST https://api.resend.com/emails \
+                  -H "Authorization: Bearer $RESEND_API_KEY" \
+                  -H "Content-Type: application/json" \
+                  --data-binary @- && email_ok=1 && break
+              sleep $((i * 5))
+            done
+          fi
+
+          tg_ok=0
+          if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
+            for i in 1 2 3; do
+              curl -sS --max-time 15 -X POST \
+                "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+                --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+                --data-urlencode "text=${TEXT}" \
+                && tg_ok=1 && break
+              sleep $((i * 3))
+            done
+          fi
+
+          echo ""
+          echo "notify-failure summary: email_ok=$email_ok telegram_ok=$tg_ok"
+          # Fail the step if BOTH channels failed (so the GH run goes red on a real outage).
+          # If at least one channel delivered, exit 0 — user has the alert.
+          if [ "$email_ok" = "0" ] && [ "$tg_ok" = "0" ]; then
+            echo "::error::All notification channels failed."
+            exit 1
+          fi
