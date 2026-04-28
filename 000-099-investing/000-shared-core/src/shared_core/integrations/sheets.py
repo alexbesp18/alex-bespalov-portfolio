@@ -12,6 +12,8 @@ from pathlib import Path
 from typing import Any, Dict, List
 
 import gspread
+import numpy as np
+import pandas as pd
 from google.oauth2.service_account import Credentials
 from requests.exceptions import ReadTimeout
 from tenacity import (
@@ -35,8 +37,16 @@ _sheets_retry = retry(
 
 def _safe_cell(v: Any) -> Any:
     # Sheets API ships values as JSON; NaN/Inf raise InvalidJSONError.
-    if isinstance(v, float) and not math.isfinite(v):
+    # isinstance(v, float) misses np.float32/16 and pd.NA/NaT — handle all three.
+    if v is None:
+        return v
+    if isinstance(v, (float, np.floating)) and not math.isfinite(float(v)):
         return ''
+    try:
+        if pd.isna(v):
+            return ''
+    except (TypeError, ValueError):
+        pass
     return v
 
 

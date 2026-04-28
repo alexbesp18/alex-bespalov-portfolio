@@ -350,13 +350,26 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           NOTIFICATION_EMAILS: ${{ secrets.NOTIFICATION_EMAILS }}
+          REFRESH_RESULT: ${{ needs.refresh-cache.result }}
+          ALERTS_RESULT: ${{ needs.run-alerts.result }}
+          REVERSALS_RESULT: ${{ needs.run-reversals.result }}
+          OVERSOLD_RESULT: ${{ needs.run-oversold.result }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          curl -X POST https://api.resend.com/emails \
-            -H "Authorization: Bearer $RESEND_API_KEY" \
-            -H "Content-Type: application/json" \
-            -d '{
-              "from": "'"$SENDER_EMAIL"'",
-              "to": '"$(echo $NOTIFICATION_EMAILS | jq -R 'split(",") | map(select(length > 0))')"',
-              "subject": "Workflow Failed - '"$(date +%b\ %d)"'",
-              "html": "<h2>Daily Workflow Failed</h2><p>Check GitHub Actions for details.</p>"
-            }'
+          FAILED=""
+          [ "$REFRESH_RESULT"   = "failure" ] && FAILED="${FAILED}<li>refresh-cache</li>"
+          [ "$ALERTS_RESULT"    = "failure" ] && FAILED="${FAILED}<li>run-alerts</li>"
+          [ "$REVERSALS_RESULT" = "failure" ] && FAILED="${FAILED}<li>run-reversals</li>"
+          [ "$OVERSOLD_RESULT"  = "failure" ] && FAILED="${FAILED}<li>run-oversold</li>"
+          [ -z "$FAILED" ] && FAILED="<li>(unknown — check run page)</li>"
+          BODY="<h2>Daily Cache Refresh — failed jobs</h2><ul>${FAILED}</ul><p><a href=\"${RUN_URL}\">View run on GitHub</a></p>"
+          jq -nc \
+            --arg from "$SENDER_EMAIL" \
+            --arg subj "Workflow Failed - $(date +%b\ %d)" \
+            --arg html "$BODY" \
+            --argjson to "$(printf '%s' "$NOTIFICATION_EMAILS" | jq -R 'split(",") | map(select(length > 0))')" \
+            '{from:$from, to:$to, subject:$subj, html:$html}' \
+          | curl -sS -X POST https://api.resend.com/emails \
+              -H "Authorization: Bearer $RESEND_API_KEY" \
+              -H "Content-Type: application/json" \
+              --data-binary @-
