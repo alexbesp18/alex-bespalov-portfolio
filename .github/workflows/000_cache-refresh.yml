@@ -24,7 +24,7 @@ concurrency:
 jobs:
   refresh-cache:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120  # historical max is 92m; 120 gives ~30% margin
     permissions:
       contents: write
     outputs:
